@@ -1,34 +1,45 @@
 /* assets/style.css */
+
+/* Base */
 :root{
-  --bg:#fff;
-  --text:#111;
-  --muted:#555;
-  --line:#dcdcdc;
-  --link:#0b57d0;
+  --bg: #0b0f14;
+  --grid: rgba(0, 255, 160, 0.06);
+  --text: #cfe7dd;
+  --muted: rgba(207, 231, 221, 0.65);
+  --neon: #33ffb1;
+  --neon2:#00d7ff;
+  --panel: rgba(12, 18, 24, 0.78);
+  --border: rgba(51, 255, 177, 0.22);
+  --shadow: rgba(51, 255, 177, 0.18);
 }
 
-/* Reset mínimo */
 *{ box-sizing:border-box; }
-html, body{
-  margin:0;
-  padding:0;
-  background:#ffffff !important; /* <-- revisión clave */
-}
+html, body{ margin:0; padding:0; }
 
 body{
-  background:var(--bg);
-  color:var(--text);
-  font:16px/1.55 Georgia, "Times New Roman", Times, serif;
+  font-family: "Share Tech Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  color: var(--text);
+  background: var(--bg);
+  line-height: 1.65;
+
+  /* Rejilla tipo “futurista” */
+  background-image:
+    linear-gradient(to right, var(--grid) 1px, transparent 1px),
+    linear-gradient(to bottom, var(--grid) 1px, transparent 1px),
+    radial-gradient(800px 500px at 30% 10%, rgba(0,215,255,0.12), transparent 55%),
+    radial-gradient(700px 450px at 80% 35%, rgba(51,255,177,0.10), transparent 60%);
+  background-size: 44px 44px, 44px 44px, auto, auto;
+  background-attachment: fixed;
 }
 
-/* Layout 2 columnas, como el ejemplo */
+/* Layout */
 .wrap{
-  max-width: 1080px;
+  max-width: 1200px;
   margin: 28px auto;
   padding: 0 18px;
 
   display:grid;
-  grid-template-columns: 260px 1fr;
+  grid-template-columns: 280px 1fr;
   gap: 28px;
 }
 
@@ -37,134 +48,160 @@ body{
   padding-top: 6px;
 }
 
-.avatar{
+.avatar-frame{
   width: 220px;
   height: 220px;
-  border-radius: 2px;
+  padding: 6px;
+  border: 1px solid var(--border);
+  background: rgba(0,0,0,0.25);
+  box-shadow: 0 0 0 1px rgba(0,215,255,0.12), 0 0 22px var(--shadow);
+}
+
+.avatar{
+  width: 100%;
+  height: 100%;
   display:block;
   object-fit: cover;
-  margin-bottom: 12px;
+  filter: saturate(1.05) contrast(1.02);
 }
 
-.sb-title{
+.sb-name{
+  margin-top: 14px;
   font-size: 22px;
-  font-weight: 700;
-  margin-bottom: 8px;
+  letter-spacing: 0.12em;
+  color: var(--neon);
+  text-shadow: 0 0 12px rgba(51,255,177,0.35);
 }
 
-.sb-lines{
-  color: var(--text);
-}
-
-.sb-lines div{
-  margin: 0;
-}
-
-.sb-affiliation{
+.sb-role{
   margin-top: 10px;
   color: var(--text);
 }
 
-.rule{
-  border:0;
-  border-top:1px solid var(--line);
-  margin: 14px 0;
-}
+.muted{ color: var(--muted); }
 
-/* Simula los separadores “* * *” del ejemplo */
-.rule-stars{
-  border-top: 0;
+.divider{
   height: 1px;
-  position: relative;
   margin: 16px 0;
-}
-.rule-stars::before{
-  content:"* * *";
-  display:block;
-  color: var(--muted);
-  letter-spacing: 6px;
-  font-family: Georgia, "Times New Roman", Times, serif;
-  font-size: 14px;
+  background: linear-gradient(90deg, transparent, rgba(51,255,177,0.35), transparent);
 }
 
 /* Menú */
 .menu{
   display:flex;
   flex-direction:column;
-  gap: 6px;
+  gap: 10px;
 }
 
-.menu a{
+.menu-item{
+  display:block;
+  padding: 10px 12px;
   color: var(--text);
-  text-decoration: none;
+  text-decoration:none;
+  border: 1px solid transparent;
+  background: rgba(0,0,0,0.20);
 }
 
-.menu a:hover{
-  color: var(--link);
-  text-decoration: underline;
+.menu-item:hover{
+  border-color: var(--border);
+  box-shadow: 0 0 0 1px rgba(51,255,177,0.12), 0 0 18px rgba(51,255,177,0.12);
+  color: var(--neon);
 }
 
-/* Links (fila) */
-.links{
+/* Botones / chips */
+.chips{
   display:flex;
   flex-wrap: wrap;
   gap: 10px;
-  font-size: 14px;
 }
 
-.links a{
+.chip{
+  padding: 8px 10px;
+  font-size: 12px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  text-decoration: none;
   color: var(--text);
-  text-decoration:none;
+  border: 1px solid rgba(207,231,221,0.18);
+  background: rgba(0,0,0,0.25);
 }
 
-.links a:hover{
-  color: var(--link);
-  text-decoration: underline;
+.chip:hover{
+  border-color: var(--border);
+  color: var(--neon2);
+  box-shadow: 0 0 18px rgba(0,215,255,0.12);
 }
 
-/* Contenido */
-.content h1{
-  margin: 0 0 10px 0;
+/* Main */
+.content{
+  padding-top: 4px;
+}
+
+.topline{
+  display:flex;
+  align-items: baseline;
+  gap: 10px;
+  margin-bottom: 8px;
+}
+
+.prompt{
+  color: #ff4fd8;
+  font-weight: 700;
+}
+
+.title{
   font-size: 34px;
-  line-height: 1.15;
+  letter-spacing: 0.12em;
+  color: var(--neon);
+  text-shadow: 0 0 14px rgba(51,255,177,0.35);
 }
 
-.content h2{
-  margin: 26px 0 8px 0;
-  font-size: 20px;
-}
-
-.content h3{
-  margin: 8px 0 6px 0;
-  font-size: 17px;
-}
-
-.content p{
-  margin: 8px 0;
-}
-
-.meta{
+.subhead{
   color: var(--muted);
-  margin-top: 18px;
-  margin-bottom: 0;
+  margin-bottom: 18px;
 }
 
-.tags{
-  color: var(--text);
-  margin-top: 8px;
+/* Panel central con borde neón */
+.panel{
+  background: var(--panel);
+  border: 1px solid var(--border);
+  box-shadow:
+    inset 0 0 0 1px rgba(0,215,255,0.10),
+    0 0 0 1px rgba(51,255,177,0.08),
+    0 0 30px rgba(51,255,177,0.10);
+  padding: 22px 22px;
 }
 
-.content a{
-  color: var(--link);
+/* Markdown defaults */
+.panel h1{
+  margin: 0 0 14px 0;
+  font-size: 18px;
+  letter-spacing: 0.08em;
+  color: var(--neon2);
+  text-transform: uppercase;
+}
+
+.panel h2{
+  margin: 18px 0 10px 0;
+  font-size: 15px;
+  letter-spacing: 0.06em;
+  color: var(--neon);
+  text-transform: uppercase;
+}
+
+.panel p{ margin: 10px 0; }
+
+.panel a{
+  color: var(--neon2);
+  text-decoration: none;
+  border-bottom: 1px dashed rgba(0,215,255,0.35);
+}
+.panel a:hover{
+  border-bottom-color: rgba(0,215,255,0.8);
 }
 
 /* Responsive */
-@media (max-width: 860px){
-  .wrap{
-    grid-template-columns: 1fr;
-  }
-  .avatar{
-    width: 160px;
-    height: 160px;
-  }
+@media (max-width: 920px){
+  .wrap{ grid-template-columns: 1fr; }
+  .avatar-frame{ width: 180px; height: 180px; }
 }
