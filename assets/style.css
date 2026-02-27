@@ -288,3 +288,24 @@ body{
   .cv-title{ text-align: left; }
   .cv-item-head{ text-align: left; }
 }
+
+  /* ===== Premios resaltados ===== */
+
+.cv-list{
+  margin: 0;
+  padding-left: 18px;
+}
+
+.cv-list--neon li{
+  color: var(--text);
+  margin-bottom: 10px;
+}
+
+.cv-list--neon li strong{
+  color: var(--neon);
+  text-shadow: 0 0 10px rgba(51,255,177,0.25);
+}
+
+.cv-list--neon li::marker{
+  color: var(--neon2);
+}
