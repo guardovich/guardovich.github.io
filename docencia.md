@@ -3,8 +3,8 @@ layout: default
 title: Docencia
 ---
 
-<section class="cv-block">
-
+<section class="cv-block cv-docencia">
+  
 <h2 class="cv-title">Docencia</h2>
 
 <div class="cv-card">
