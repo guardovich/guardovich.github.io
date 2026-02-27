@@ -46,7 +46,7 @@ países como <strong>Colombia, Inglaterra, Bélgica y España</strong>.
 
 <h2 class="cv-title">Premios y Reconocimientos</h2>
 
-<ul class="cv-list">
+<ul class="cv-list cv-list--neon">
   <li><strong>1º Premio UCem</strong> al mejor proyecto empresarial de Cantabria. Universidad de Cantabria, 2009.</li>
   <li>Finalista de <strong>“Sinning Star of Europe”</strong>. Parlamento Europeo, 2014.</li>
 </ul>
@@ -72,4 +72,3 @@ capacidades de manera constante.
 </p>
 
 </section>
-
