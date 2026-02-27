@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>{{ page.title }} · {{ site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+</head>
+<body>
+  <div class="wrap">
+
+    <aside class="sidebar">
+      <img class="avatar" src="https://github.com/guardovich.png" alt="David Guardo" />
+
+      <div class="sb-title">David Guardo</div>
+
+      <div class="sb-lines">
+        <div>Tu cargo 1</div>
+        <div>Tu cargo 2</div>
+        <div>Tema / enfoque</div>
+        <div>Santander/España</div>
+      </div>
+
+      <hr class="rule rule-stars" />
+
+      <nav class="menu">
+        <a href="{{ '/' | relative_url }}">⌂ Inicio</a>
+        <a href="{{ '/investigacion' | relative_url }}">◈ Investigación</a>
+        <a href="{{ '/docencia' | relative_url }}">◇ Docencia</a>
+      </nav>
+
+      <hr class="rule rule-stars" />
+
+      <div class="links">
+        <a href="https://github.com/guardovich" target="_blank" rel="noopener">GitHub</a>
+        <a href="mailto:TUEMAIL@DOMINIO.COM">Email</a>
+      </div>
+    </aside>
+
+    <main class="content">
+      {{ content }}
+    </main>
+
+  </div>
+</body>
+</html>
