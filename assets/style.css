@@ -210,9 +210,8 @@ body{
 
 .cv-block{
   /* el contenedor puede alinearse a la derecha sin fastidiar el texto */
-  display: flex;
-  flex-direction: column;
-  align-items: flex-end; /* empuja las tarjetas a la derecha */
+ .cv-block{
+  display: block;
 }
 
 .cv-title{
