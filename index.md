@@ -4,9 +4,7 @@ title: Inicio
 ---
 
 # David Guardo
-
-Soy un profesional de la comunicación con un
-sólido perfil académico, corporativo y profesional.
+Soy un profesional de la comunicación con un sólido perfil académico, corporativo y profesional.
 Cuento con 20 años de experiencia y una vocación
 marcada por la tecnología y la comunicación,
 habiendo trabajado en diversos países como
@@ -18,20 +16,17 @@ Doctor en Comunicación e Información
 Contemporánea
 Universidad de Santiago de
 Compostela
-
 2018 - 2022
-Master of Science in Communication: New
-Media and Society
+
+Master of Science in Communication: New Media and Society
 Vrije Universiteit Brussel
 2013 - 2014
 
-Master en Cooperación Internacional y
-Estudios de Desarrollo Económico
+Master en Cooperación Internacional y Estudios de Desarrollo Económico 
 Universidad de Cantabria
 2009-2010
 
-BA(Hons) Media and Communicaiton
-Studies
+BA(Hons) Media and Communicaiton Studies
 University of Wolverhampton
 2003-2007
 
