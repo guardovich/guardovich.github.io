@@ -1,35 +1,106 @@
-body {
-  font-family: Arial, Helvetica, sans-serif;
-  max-width: 900px;
-  margin: 40px auto;
-  line-height: 1.6;
-  color: #222;
+/* assets/style.css */
+
+/* --- Reset suave --- */
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+
+:root{
+  --text: #111;
+  --muted: #555;
+  --link: #0b57d0;
+  --border: #e7e7e7;
+  --bg: #fff;
 }
 
-header h1 {
-  margin-bottom: 5px;
+body{
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.7;
+
+  /* estilo “académico” */
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 18px;
 }
 
-nav {
-  margin: 20px 0;
+.container{
+  max-width: 860px;
+  margin: 48px auto;
+  padding: 0 20px;
 }
 
-nav a {
-  margin-right: 15px;
+/* --- Header --- */
+header{
+  margin-bottom: 18px;
+}
+
+header h1{
+  font-size: 40px;
+  line-height: 1.1;
+  margin: 0 0 8px 0;
+  font-weight: 700;
+}
+
+header .subtitle{
+  margin: 0;
+  color: var(--muted);
+}
+
+/* --- Nav --- */
+nav{
+  border-top: 1px solid var(--border);
+  border-bottom: 1px solid var(--border);
+  padding: 12px 0;
+  margin: 18px 0 28px 0;
+
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px;
+}
+
+nav a{
   text-decoration: none;
-  color: #0366d6;
+  color: var(--text);
+  padding: 2px 0;
 }
 
-nav a:hover {
+nav a:hover{
+  color: var(--link);
   text-decoration: underline;
 }
 
-h2 {
-  margin-top: 40px;
+/* --- Contenido --- */
+main h2{
+  font-size: 22px;
+  margin: 34px 0 10px 0;
 }
 
-footer {
-  margin-top: 60px;
-  font-size: 0.9em;
-  color: #666;
+p{
+  margin: 10px 0;
+}
+
+ul{
+  margin: 10px 0 0 20px;
+  padding: 0;
+}
+
+li{ margin: 6px 0; }
+
+a{
+  color: var(--link);
+}
+
+hr{
+  border: 0;
+  border-top: 1px solid var(--border);
+  margin: 34px 0;
+}
+
+/* --- Footer --- */
+footer{
+  border-top: 1px solid var(--border);
+  margin-top: 44px;
+  padding-top: 14px;
+  color: var(--muted);
+  font-size: 15px;
 }
