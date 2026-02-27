@@ -205,3 +205,53 @@ body{
   .wrap{ grid-template-columns: 1fr; }
   .avatar-frame{ width: 180px; height: 180px; }
 }
+
+/* ===== CV BLOCK ===== */
+
+.cv-block{
+  text-align: right;
+}
+
+.cv-title{
+  color: var(--neon2);
+  margin-top: 30px;
+  margin-bottom: 10px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.cv-text{
+  color: var(--text);
+  margin-bottom: 20px;
+}
+
+.cv-item{
+  margin-bottom: 20px;
+}
+
+.cv-item-title{
+  font-weight: bold;
+  color: var(--neon);
+}
+
+.cv-item-sub{
+  color: var(--muted);
+}
+
+.cv-item-date{
+  font-size: 14px;
+  color: var(--neon2);
+}
+
+.cv-list{
+  list-style: none;
+  padding: 0;
+}
+
+.cv-list li{
+  margin-bottom: 10px;
+}
+
+.cv-tags{
+  letter-spacing: 0.05em;
+}
