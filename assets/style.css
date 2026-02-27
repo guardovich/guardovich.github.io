@@ -1,1 +1,35 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  max-width: 900px;
+  margin: 40px auto;
+  line-height: 1.6;
+  color: #222;
+}
 
+header h1 {
+  margin-bottom: 5px;
+}
+
+nav {
+  margin: 20px 0;
+}
+
+nav a {
+  margin-right: 15px;
+  text-decoration: none;
+  color: #0366d6;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+h2 {
+  margin-top: 40px;
+}
+
+footer {
+  margin-top: 60px;
+  font-size: 0.9em;
+  color: #666;
+}
