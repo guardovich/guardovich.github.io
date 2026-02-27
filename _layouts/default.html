@@ -2,10 +2,18 @@
 <html lang="es">
 <head>
   <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>{{ page.title }} · {{ site.title }}</title>
+
+  <!-- CSS principal -->
   <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+
+  <!-- Prueba temporal: borde rojo para verificar que el layout se aplica -->
+  <style>
+    body { outline: 6px solid red !important; }
+  </style>
 </head>
+
 <body>
   <div class="wrap">
 
@@ -25,8 +33,8 @@
 
       <nav class="menu">
         <a href="{{ '/' | relative_url }}">⌂ Inicio</a>
-        <a href="{{ '/investigacion' | relative_url }}">◈ Investigación</a>
-        <a href="{{ '/docencia' | relative_url }}">◇ Docencia</a>
+        <a href="{{ '/investigacion/' | relative_url }}">◈ Investigación</a>
+        <a href="{{ '/docencia/' | relative_url }}">◇ Docencia</a>
       </nav>
 
       <hr class="rule rule-stars" />
