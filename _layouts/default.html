@@ -5,18 +5,19 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>{{ page.title }} · {{ site.title }}</title>
 
-  <!-- Fuente “terminal” -->
+  <!-- Fuente terminal -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap" rel="stylesheet">
 
-  <!-- Tu CSS -->
-<link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}?v={{ site.github.build_revision }}">
-
+  <!-- CSS con cache busting -->
+  <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}?v={{ site.github.build_revision }}">
 </head>
 
 <body>
   <div class="wrap">
+
+    <!-- ===== SIDEBAR ===== -->
     <aside class="sidebar">
 
       <div class="avatar-frame">
@@ -34,10 +35,16 @@
 
       <div class="divider"></div>
 
+      <!-- Navegación dinámica -->
       <nav class="menu">
-        <a class="menu-item" href="{{ '/' | relative_url }}">⌂ Inicio</a>
-        <a class="menu-item" href="{{ '/investigacion.html' | relative_url }}">◈ Investigación</a>
-        <a class="menu-item" href="{{ '/docencia.html' | relative_url }}">◇ Docencia</a>
+        <a class="menu-item {% if page.url == '/' %}active{% endif %}"
+           href="{{ '/' | relative_url }}">⌂ Inicio</a>
+
+        <a class="menu-item {% if page.url contains 'investigacion' %}active{% endif %}"
+           href="{{ '/investigacion.html' | relative_url }}">◈ Investigación</a>
+
+        <a class="menu-item {% if page.url contains 'docencia' %}active{% endif %}"
+           href="{{ '/docencia.html' | relative_url }}">◇ Docencia</a>
       </nav>
 
       <div class="divider"></div>
@@ -51,7 +58,9 @@
 
     </aside>
 
+    <!-- ===== CONTENIDO PRINCIPAL ===== -->
     <main class="content">
+
       <div class="topline">
         <span class="prompt">&gt;</span>
         <span class="title">{{ site.title | upcase }}</span>
@@ -65,7 +74,9 @@
       <section class="panel">
         {{ content }}
       </section>
+
     </main>
+
   </div>
 </body>
 </html>
