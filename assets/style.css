@@ -336,3 +336,10 @@ body{
   .cv-docencia .cv-title{ text-align: left; }
   .cv-item-head{ text-align: left; }
 }
+
+/* Menú activo */
+.menu-item.active{
+  border-color: var(--border);
+  box-shadow: 0 0 0 1px rgba(51,255,177,0.12), 0 0 18px rgba(51,255,177,0.18);
+  color: var(--neon);
+}
