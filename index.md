@@ -3,7 +3,7 @@ layout: default
 title: Inicio
 ---
 
-<section class="cv-block">
+<section class="cv-block cv-inicio">
 
 <h2 class="cv-title">Perfil</h2>
 
