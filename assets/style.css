@@ -206,32 +206,44 @@ body{
   .avatar-frame{ width: 180px; height: 180px; }
 }
 
-/* ===== CV BLOCK ===== */
+/* ===== CV BLOCK (cuadrado y legible) ===== */
 
 .cv-block{
-  text-align: right;
+  /* el contenedor puede alinearse a la derecha sin fastidiar el texto */
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end; /* empuja las tarjetas a la derecha */
 }
 
 .cv-title{
+  width: min(720px, 100%);
+  text-align: right;
   color: var(--neon2);
-  margin-top: 30px;
-  margin-bottom: 10px;
-  letter-spacing: 0.08em;
+  margin-top: 0;
+  margin-bottom: 14px;
+  letter-spacing: 0.10em;
   text-transform: uppercase;
 }
 
-.cv-text{
-  color: var(--text);
-  margin-bottom: 20px;
+.cv-card{
+  width: min(720px, 100%);       /* <- “columna” que cuadra */
+  padding: 14px 16px;
+  margin: 0 0 18px 0;
+
+  border: 1px solid rgba(51,255,177,0.18);
+  background: rgba(0,0,0,0.18);
+  box-shadow: 0 0 18px rgba(51,255,177,0.08);
 }
 
-.cv-item{
-  margin-bottom: 20px;
+.cv-item-head{
+  text-align: right; /* encabezado a la derecha, queda muy “pro” */
+  margin-bottom: 10px;
 }
 
 .cv-item-title{
-  font-weight: bold;
+  font-weight: 700;
   color: var(--neon);
+  letter-spacing: 0.04em;
 }
 
 .cv-item-sub{
@@ -243,15 +255,15 @@ body{
   color: var(--neon2);
 }
 
-.cv-list{
-  list-style: none;
-  padding: 0;
+.cv-item-body{
+  /* aquí está la clave del “cuadrado”: texto NORMAL */
+  text-align: left;
+  color: var(--text);
 }
 
-.cv-list li{
-  margin-bottom: 10px;
-}
-
-.cv-tags{
-  letter-spacing: 0.05em;
+/* Responsive */
+@media (max-width: 920px){
+  .cv-block{ align-items: stretch; }
+  .cv-title{ text-align: left; }
+  .cv-item-head{ text-align: left; }
 }
