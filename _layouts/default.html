@@ -4,60 +4,67 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>{{ page.title }} · {{ site.title }}</title>
-  <style>
-  html, body { background: #00ff00 !important; }  /* verde fosforito */
-</style>
 
-  <!-- CSS principal -->
+  <!-- Fuente “terminal” -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap" rel="stylesheet">
+
+  <!-- Tu CSS -->
   <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
-
-  <!-- Prueba temporal: borde rojo para verificar que el layout se aplica -->
-  <style>
-    body { outline: 6px solid red !important; }
-  </style>
 </head>
 
 <body>
   <div class="wrap">
-
     <aside class="sidebar">
-      <img class="avatar" src="https://github.com/guardovich.png" alt="David Guardo" />
 
-      <div class="sb-title">David Guardo</div>
+      <div class="avatar-frame">
+        <img class="avatar" src="https://github.com/guardovich.png" alt="David Guardo" />
+      </div>
 
-      <div class="sb-lines">
+      <div class="sb-name">DAVID GUARDO</div>
+
+      <div class="sb-role">
         <div>Tu cargo 1</div>
         <div>Tu cargo 2</div>
         <div>Tema / enfoque</div>
-        <div>Santander/España</div>
+        <div class="muted">Santander / España</div>
       </div>
-      <div style="position:fixed;top:10px;right:10px;z-index:99999;
-            background:#000;color:#fff;padding:8px 10px;border-radius:6px;
-            font:12px/1.2 monospace;">
-  LAYOUT DEFAULT ACTIVO ✅
-</div>
-      
 
-      <hr class="rule rule-stars" />
+      <div class="divider"></div>
 
       <nav class="menu">
-        <a href="{{ '/' | relative_url }}">⌂ Inicio</a>
-        <a href="{{ '/investigacion/' | relative_url }}">◈ Investigación</a>
-        <a href="{{ '/docencia/' | relative_url }}">◇ Docencia</a>
+        <a class="menu-item" href="{{ '/' | relative_url }}">⌂ Inicio</a>
+        <a class="menu-item" href="{{ '/investigacion.html' | relative_url }}">◈ Investigación</a>
+        <a class="menu-item" href="{{ '/docencia.html' | relative_url }}">◇ Docencia</a>
       </nav>
 
-      <hr class="rule rule-stars" />
+      <div class="divider"></div>
 
-      <div class="links">
-        <a href="https://github.com/guardovich" target="_blank" rel="noopener">GitHub</a>
-        <a href="mailto:TUEMAIL@DOMINIO.COM">Email</a>
+      <div class="chips">
+        <a class="chip" href="#" target="_blank" rel="noopener">Scholar</a>
+        <a class="chip" href="#" target="_blank" rel="noopener">ORCID</a>
+        <a class="chip" href="https://github.com/guardovich" target="_blank" rel="noopener">GitHub</a>
+        <a class="chip" href="mailto:TUEMAIL@DOMINIO.COM">Email</a>
       </div>
+
     </aside>
 
     <main class="content">
-      {{ content }}
-    </main>
+      <div class="topline">
+        <span class="prompt">&gt;</span>
+        <span class="title">{{ site.title | upcase }}</span>
+      </div>
 
+      <div class="subhead">
+        <div>Una línea de subtítulo</div>
+        <div class="muted">Otra línea (grupo, departamento, etc.)</div>
+      </div>
+
+      <section class="panel">
+        {{ content }}
+      </section>
+    </main>
   </div>
 </body>
 </html>
