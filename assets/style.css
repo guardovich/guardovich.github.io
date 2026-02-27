@@ -309,3 +309,11 @@ body{
 .cv-list--neon li::marker{
   color: var(--neon2);
 }
+
+  /* Separadores en Inicio */
+
+.cv-inicio hr{
+  border: 0;
+  border-top: 1px solid rgba(207,231,221,0.18);
+  margin: 18px 0;
+}
