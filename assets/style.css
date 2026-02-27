@@ -7,10 +7,15 @@
   --link:#0b57d0;
 }
 
+/* Reset mínimo */
 *{ box-sizing:border-box; }
+html, body{
+  margin:0;
+  padding:0;
+  background:#ffffff !important; /* <-- revisión clave */
+}
 
 body{
-  margin:0;
   background:var(--bg);
   color:var(--text);
   font:16px/1.55 Georgia, "Times New Roman", Times, serif;
