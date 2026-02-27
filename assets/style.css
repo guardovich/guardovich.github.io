@@ -260,7 +260,29 @@ body{
   color: var(--text);
 }
 
-/* Responsive */
+  /* Solo para Docencia */
+
+.cv-docencia{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.cv-docencia .cv-title{
+  text-align: right;
+}
+
+.cv-docencia .cv-card{
+  width: min(720px, 100%);
+}
+
+.cv-docencia .cv-item-head{
+  text-align: right;
+}
+
+.cv-docencia .cv-item-body{
+  text-align: left;
+}
 @media (max-width: 920px){
   .cv-block{ align-items: stretch; }
   .cv-title{ text-align: left; }
