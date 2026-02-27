@@ -206,22 +206,23 @@ body{
 }
 
 /* ===== INICIO (CV) ===== */
+
 .cv-inicio{
   width: min(820px, 100%);
-  margin-left: auto;   /* bloque a la derecha */
-  margin-right: 0;
+  margin: 0 auto;   /* centrado */
 }
 
-/* Títulos a la derecha, texto legible */
-.cv-inicio .cv-title{
-  text-align: right;
+/* Títulos de secciones */
+.cv-title{
   width: 100%;
+  text-align: left;   /* ahora a la izquierda */
   color: var(--neon2);
   margin: 26px 0 10px 0;
   letter-spacing: 0.10em;
   text-transform: uppercase;
 }
 
+/* Texto general */
 .cv-text{
   color: var(--text);
   margin: 0 0 16px 0;
@@ -248,8 +249,8 @@ body{
   margin-top: 4px;
 }
 
-/* Separadores en Inicio */
-.cv-inicio hr{
+/* Separadores */
+.cv-block hr{
   border: 0;
   border-top: 1px solid rgba(207,231,221,0.18);
   margin: 18px 0;
@@ -282,37 +283,38 @@ body{
   text-align: left;
 }
 
-/* ===== DOCENCIA (tarjetas alineadas a la derecha) ===== */
+/* ===== DOCENCIA ===== */
+
 .cv-docencia{
   display: flex;
   flex-direction: column;
-  align-items: flex-end;
+  align-items: stretch;   /* ya no pegado a la derecha */
 }
 
-.cv-docencia .cv-title{
-  width: min(720px, 100%);
-  text-align: right;
-  color: var(--neon2);
-  margin: 0 0 14px 0;
-  letter-spacing: 0.10em;
-  text-transform: uppercase;
-}
-
+/* Tarjetas */
 .cv-card{
-  width: min(720px, 100%);
+  width: 100%;
   padding: 14px 16px;
   margin: 0 0 18px 0;
-
   border: 1px solid rgba(51,255,177,0.18);
   background: rgba(0,0,0,0.18);
   box-shadow: 0 0 18px rgba(51,255,177,0.08);
 }
 
+/* Cabecera de cada tarjeta */
 .cv-item-head{
-  text-align: right;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;   /* cargo e institución a la izquierda */
   margin-bottom: 10px;
 }
 
+/* Fecha alineada a la derecha */
+.cv-item-date{
+  align-self: flex-end;
+}
+
+/* Cuerpo */
 .cv-item-body{
   text-align: left;
   color: var(--text);
@@ -320,31 +322,16 @@ body{
 
 /* Responsive */
 @media (max-width: 920px){
-  .wrap{ grid-template-columns: 1fr; }
-  .avatar-frame{ width: 180px; height: 180px; }
 
-  /* En móvil, que no “empuje” a la derecha */
-  .cv-inicio{
-    margin-left: 0;
-    margin-right: 0;
+  .cv-title{
+    text-align: left;
   }
-  .cv-inicio .cv-title{ text-align: left; }
 
-  .cv-docencia{
-    align-items: stretch;
+  .cv-item-head{
+    align-items: flex-start;
   }
-  .cv-docencia .cv-title{ text-align: left; }
-  .cv-item-head{ text-align: left; }
-}
 
-/* Menú activo */
-.menu-item.active{
-  border-color: var(--border);
-  box-shadow: 0 0 0 1px rgba(51,255,177,0.12), 0 0 18px rgba(51,255,177,0.18);
-  color: var(--neon);
-}
-
-/* Títulos CV (izquierda) */
-.cv-title{
-  text-align: left !important;
+  .cv-item-date{
+    align-self: flex-start;   /* en móvil mejor alineado normal */
+  }
 }
