@@ -5,14 +5,16 @@ title: Inicio
 
 # David Guardo
 
-Soy un profesional de la comunicación con un
+##Soy un profesional de la comunicación con un
 sólido perfil académico, corporativo y profesional.
 Cuento con 20 años de experiencia y una vocación
 marcada por la tecnología y la comunicación,
 habiendo trabajado en diversos países como
 Colombia, Inglaterra, Bélgica y España.
-E D U C A C I Ó N
-Doctor en Comunicación e Información
+
+##E D U C A C I Ó N
+
+#Doctor en Comunicación e Información
 Contemporánea
 Universidad de Santiago de
 Compostela
