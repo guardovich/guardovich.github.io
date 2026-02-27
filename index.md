@@ -3,58 +3,122 @@ layout: default
 title: Inicio
 ---
 
-<div style="text-align: right;">
+<section class="cv-block">
 
-## Perfil
+<h2 class="cv-title">Perfil</h2>
 
-Soy un profesional de la comunicación con un sólido perfil académico, corporativo y profesional.  
-Cuento con 20 años de experiencia y una vocación marcada por la tecnología y la comunicación,  
-habiendo trabajado en diversos países como **Colombia, Inglaterra, Bélgica y España**.
+<p class="cv-text">
+Soy un profesional de la comunicación con un sólido perfil académico,
+corporativo y profesional. Cuento con 20 años de experiencia y una vocación
+marcada por la tecnología y la comunicación, habiendo trabajado en diversos
+países como <strong>Colombia, Inglaterra, Bélgica y España</strong>.
+</p>
 
----
+<hr>
 
-## Educación
+<h2 class="cv-title">Educación</h2>
 
-### Doctor en Comunicación e Información Contemporánea  
-**Universidad de Santiago de Compostela**  
-2018 – 2022  
-
-### Master of Science in Communication: New Media and Society  
-**Vrije Universiteit Brussel**  
-2013 – 2014  
-
-### Master en Cooperación Internacional y Estudios de Desarrollo Económico  
-**Universidad de Cantabria**  
-2009 – 2010  
-
-### BA (Hons) Media and Communication Studies  
-**University of Wolverhampton**  
-2003 – 2007  
-
----
-
-## Premios y Reconocimientos
-
-- **1º Premio UCem** al mejor proyecto empresarial de Cantabria.  
-  Universidad de Cantabria, 2009.  
-
-- Finalista de **“Sinning Star of Europe”**.  
-  Parlamento Europeo, 2014.
-
----
-
-## Idiomas y Lenguajes de Programación
-
-**Español · Inglés · HTML · Python · JavaScript · IA Generativa**
-
----
-
-## Motivaciones
-
-Me encuentro profundamente inmerso en el aprendizaje de programación apoyado en inteligencia artificial generativa.  
-
-Aplico técnicas de análisis de contenido, web scraping y automatización para la investigación en Comunicación y Marketing.  
-
-He diseñado y ejecutado código para distintos fines y continúo ampliando mis capacidades de manera constante.
-
+<div class="cv-item">
+  <div class="cv-item-title">Doctor en Comunicación e Información Contemporánea</div>
+  <div class="cv-item-sub">Universidad de Santiago de Compostela</div>
+  <div class="cv-item-date">2018 – 2022</div>
 </div>
+
+<div class="cv-item">
+  <div class="cv-item-title">Master of Science in Communication: New Media and Society</div>
+  <div class="cv-item-sub">Vrije Universiteit Brussel</div>
+  <div class="cv-item-date">2013 – 2014</div>
+</div>
+
+<div class="cv-item">
+  <div class="cv-item-title">Master en Cooperación Internacional y Estudios de Desarrollo Económico</div>
+  <div class="cv-item-sub">Universidad de Cantabria</div>
+  <div class="cv-item-date">2009 – 2010</div>
+</div>
+
+<div class="cv-item">
+  <div class="cv-item-title">BA (Hons) Media and Communication Studies</div>
+  <div class="cv-item-sub">University of Wolverhampton</div>
+  <div class="cv-item-date">2003 – 2007</div>
+</div>
+
+<hr>
+
+<h2 class="cv-title">Premios y Reconocimientos</h2>
+
+<ul class="cv-list">
+  <li><strong>1º Premio UCem</strong> al mejor proyecto empresarial de Cantabria. Universidad de Cantabria, 2009.</li>
+  <li>Finalista de <strong>“Sinning Star of Europe”</strong>. Parlamento Europeo, 2014.</li>
+</ul>
+
+<hr>
+
+<h2 class="cv-title">Idiomas y Lenguajes</h2>
+
+<p class="cv-tags">
+Español · Inglés · HTML · Python · JavaScript · IA Generativa
+</p>
+
+<hr>
+
+<h2 class="cv-title">Motivaciones</h2>
+
+<p class="cv-text">
+Me encuentro profundamente inmerso en el aprendizaje de programación apoyado
+en inteligencia artificial generativa. Aplico técnicas de análisis de contenido,
+web scraping y automatización para la investigación en Comunicación y Marketing.
+He diseñado y ejecutado código para distintos fines y continúo ampliando mis
+capacidades de manera constante.
+</p>
+
+</section>
+
+/* ===== CV BLOCK ===== */
+
+.cv-block{
+  text-align: right;
+}
+
+.cv-title{
+  color: var(--neon2);
+  margin-top: 30px;
+  margin-bottom: 10px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.cv-text{
+  color: var(--text);
+  margin-bottom: 20px;
+}
+
+.cv-item{
+  margin-bottom: 20px;
+}
+
+.cv-item-title{
+  font-weight: bold;
+  color: var(--neon);
+}
+
+.cv-item-sub{
+  color: var(--muted);
+}
+
+.cv-item-date{
+  font-size: 14px;
+  color: var(--neon2);
+}
+
+.cv-list{
+  list-style: none;
+  padding: 0;
+}
+
+.cv-list li{
+  margin-bottom: 10px;
+}
+
+.cv-tags{
+  letter-spacing: 0.05em;
+}
