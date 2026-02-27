@@ -1,59 +1,100 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>David Guardo</title>
-  <link rel="stylesheet" href="assets/style.css">
+  <link rel="stylesheet" href="assets/style.css" />
 </head>
+
 <body>
-  <div class="container">
+  <div class="wrap">
+    <!-- Columna izquierda (como la “tarjeta” del ejemplo) -->
+    <aside class="sidebar">
+      <img class="avatar" src="https://github.com/guardovich.png" alt="David Guardo" />
 
-    <header>
+      <div class="sb-title">David Guardo</div>
+
+      <!-- Estas líneas replican el bloque “Doctor en..., Profesor..., ...” -->
+      <div class="sb-lines">
+        <div>Tu cargo 1</div>
+        <div>Tu cargo 2</div>
+        <div>Tema / enfoque</div>
+        <div>Otra línea breve</div>
+      </div>
+
+      <div class="sb-affiliation">
+        <div>Tu institución</div>
+        <div>Santander/España</div>
+      </div>
+
+      <hr class="rule rule-stars" />
+
+      <!-- Menú con iconos como en el ejemplo -->
+      <nav class="menu">
+        <a href="index.html">⌂ Inicio</a>
+        <a href="investigacion.html">◈ Investigación</a>
+        <a href="publicaciones.html">◎ Publicaciones</a>
+        <a href="docencia.html">◇ Docencia</a>
+        <a href="divulgacion.html">◉ Divulgación</a>
+      </nav>
+
+      <hr class="rule rule-stars" />
+
+      <!-- Links compactos (fila) como en el ejemplo -->
+      <div class="links">
+        <a href="#" target="_blank" rel="noopener">Scholar</a>
+        <a href="#" target="_blank" rel="noopener">ORCID</a>
+        <a href="#" target="_blank" rel="noopener">RG</a>
+        <a href="#" target="_blank" rel="noopener">LinkedIn</a>
+        <a href="#" target="_blank" rel="noopener">Mastodon</a>
+        <a href="#" target="_blank" rel="noopener">Pixelfed</a>
+        <a href="mailto:director@davidguardo.com">Email</a>
+      </div>
+    </aside>
+
+    <!-- Columna derecha (contenido) -->
+    <main class="content">
       <h1>David Guardo</h1>
-      <p class="subtitle">Investigación · Docencia · Proyectos</p>
-    </header>
 
-    <nav>
-      <a href="index.html">Inicio</a>
-      <a href="investigacion.html">Investigación</a>
-      <a href="publicaciones.html">Publicaciones</a>
-      <a href="docencia.html">Docencia</a>
-      <a href="divulgacion.html">Divulgación</a>
-    </nav>
-
-    <main>
-      <h2>Sobre mí</h2>
       <p>
-        (Pon aquí 4–6 líneas: quién eres, en qué trabajas, foco principal y una frase de motivación.)
+        Soy un profesional de la comunicación con un sólido perfil académico, corporativo y profesional.Cuento con 20 años de experiencia y una vocación marcada por la tecnología y la comunicación, habiendo trabajado en diversos países como Colombia, Inglaterra, Bélgica y España.
       </p>
 
+      <h2>Trayectoria</h2>
+
+      <p class="meta">Área · 2023 – presente</p>
+      <h3>Rol — Institución</h3>
+      <p>
+        Una o dos frases describiendo el rol, el grupo/lab, y foco.
+      </p>
+
+      <p class="meta">Área · 20XX – 20YY</p>
+      <h3>Rol — Institución</h3>
+      <p>
+        Otra entrada.
+      </p>
+
+      <h2>Formación académica</h2>
+      <p class="meta">Universidad · Año</p>
+      <h3>Título</h3>
+      <p>Detalles breves.</p>
+
       <h2>Áreas</h2>
-      <ul>
-        <li>IA aplicada</li>
-        <li>Datos y visualización</li>
-        <li>Modelos / optimización</li>
-      </ul>
+      <p class="tags">
+        IA · Datos · Visualización · Modelado · (pon tus tags aquí)
+      </p>
 
       <h2>Proyectos</h2>
       <ul>
-        <li>
-          <a href="https://github.com/guardovich/renfe-realtime-map">Renfe Realtime Map</a>
-        </li>
+        <li><a href="https://github.com/guardovich/renfe-realtime-map" target="_blank" rel="noopener">Renfe Realtime Map</a></li>
       </ul>
 
-      <hr>
-
+      <h2>Contacto</h2>
       <p>
-        Contacto: <a href="mailto:TUEMAIL@DOMINIO.COM">TUEMAIL@DOMINIO.COM</a> ·
-        GitHub: <a href="https://github.com/guardovich">@guardovich</a>
+        Email: <a href="mailto:TUEMAIL@DOMINIO.COM">TUEMAIL@DOMINIO.COM</a>
       </p>
     </main>
-
-    <footer>
-      <p>© 2026 David Guardo</p>
-    </footer>
-
   </div>
 </body>
 </html>
