@@ -103,3 +103,15 @@ Y mañana, a las 8:00, volverá a evaluarme.
 No para castigarme.
 
 Sino para optimizarme.
+
+A continuación, algunos expertos reales que han advertido sobre los riesgos de un futuro algorítmico deshumanizado:
+	*1.	Nick Bostrom – Superintelligence: Paths, Dangers, Strategies*
+**https://www.nickbostrom.com/superintelligence.html**
+	*2.	Shoshana Zuboff – The Age of Surveillance Capitalism*
+**https://shoshanazuboff.com/book/**
+	*3.	Yuval Noah Harari – Reflexiones sobre dataísmo y control algorítmico*
+**https://www.ynharari.com/**
+	*4.	Kate Crawford – Atlas of AI*
+**https://katecrawford.net/atlas**
+*5.	Geoffrey Hinton – Declaraciones sobre riesgos no controlados de la IA*
+**https://www.cs.toronto.edu/~hinton/**
