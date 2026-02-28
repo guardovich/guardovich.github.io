@@ -5,7 +5,7 @@ date: 2026-02-02
 category: AI
 tags: [AI, Distopía]
 cover: /assets/img/posts/mrhouse.jpg
-summary: "Ensayo distópico sobre la gestión algorítmica del trabajo y la progresiva sustitución de la autoridad humana por sistemas de optimización total."
+summary: "Relato distópico sobre la gestión algorítmica del trabajo y la progresiva sustitución de la autoridad humana por sistemas de optimización total."
 ---
 
 ## La autoridad sin cuerpo
