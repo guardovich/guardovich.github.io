@@ -1,0 +1,151 @@
+---
+layout: default
+title: Teletexto
+permalink: /teletexto.html
+---
+
+<style>
+  :root{--bg:#000;--fg:#e8e8e8;--c:#0ff;--y:#ff0;--m:#f0f;--g:#0f0;--r:#f33;--b:#39f;}
+  .ttx{max-width:900px;margin:0 auto;padding:18px 14px 28px;
+       font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono",monospace;letter-spacing:.02em;}
+  .bar{display:flex;justify-content:space-between;align-items:center;padding:6px 8px;border:2px solid var(--b);
+       color:var(--c);text-transform:uppercase;font-weight:700;}
+  .bar b{color:var(--y);}
+  .screen{margin-top:14px;border:2px solid #444;padding:10px 10px 14px;min-height:60vh;
+          box-shadow:0 0 0 2px #111 inset;background:var(--bg);color:var(--fg);}
+  .line{white-space:pre-wrap;line-height:1.25;}
+  .c{color:var(--c);} .y{color:var(--y);} .m{color:var(--m);} .g{color:var(--g);} .r{color:var(--r);} .b{color:var(--b);}
+  .foot{margin-top:10px;display:flex;gap:10px;flex-wrap:wrap;color:#bbb;font-size:14px;}
+  .pill{border:1px solid #444;padding:4px 8px;}
+  a{color:var(--c);text-decoration:none;} a:hover{text-decoration:underline;}
+  .muted{color:#aaa}
+</style>
+
+<div class="ttx">
+  <div class="bar">
+    <div>TELETEXTO <b>AI</b> // PÁG <span class="y" id="pnum">101</span></div>
+    <div><span class="g">DOM</span> <span class="muted" id="date">--/--/----</span>  <span class="c" id="clock">--:--</span></div>
+  </div>
+
+  <div class="screen" id="screen">
+    <div class="line c">Cargando feeds…</div>
+  </div>
+
+  <div class="foot">
+    <div class="pill"><span class="y">Teclea</span> 101 / 120 / 140</div>
+    <div class="pill"><span class="y">Enter</span> ir · <span class="y">Esc</span> arriba</div>
+    <div class="pill"><a href="/">Volver</a></div>
+  </div>
+</div>
+
+<script>
+  const screen = document.getElementById('screen');
+  const pnum = document.getElementById('pnum');
+  const dateEl = document.getElementById('date');
+  const clockEl = document.getElementById('clock');
+
+  function tickClock(){
+    const d = new Date();
+    clockEl.textContent = String(d.getHours()).padStart(2,'0') + ':' + String(d.getMinutes()).padStart(2,'0');
+    dateEl.textContent = String(d.getDate()).padStart(2,'0') + '/' + String(d.getMonth()+1).padStart(2,'0') + '/' + d.getFullYear();
+  }
+  tickClock(); setInterval(tickClock, 15000);
+
+  function stripHtml(s){
+    return String(s || "")
+      .replace(/<style[\s\S]*?<\/style>/gi, "")
+      .replace(/<script[\s\S]*?<\/script>/gi, "")
+      .replace(/<[^>]+>/g, " ")
+      .replace(/\s+/g, " ")
+      .trim();
+  }
+
+  function wrap(text, width){
+    const words = (text || "").split(/\s+/).filter(Boolean);
+    const lines = [];
+    let line = "";
+    for(const w of words){
+      if(!line.length){
+        line = w;
+      } else if((line + " " + w).length <= width){
+        line += " " + w;
+      } else {
+        lines.push(line);
+        line = w;
+      }
+    }
+    if(line) lines.push(line);
+    return lines;
+  }
+
+  function renderPage(page, data){
+    pnum.textContent = page;
+
+    const pageKey = String(page);
+    const block = data.pages?.[pageKey];
+    if(!block){
+      screen.innerHTML = `<div class="line r">Página ${page} no disponible</div>
+                          <div class="line">Teclea 101 / 120 / 140</div>`;
+      return;
+    }
+
+    const header = block.header || `PÁG ${page}`;
+    const items = block.items || [];
+    const max = block.maxItems || 8;
+
+    const out = [];
+    out.push(`<div class="line c">${header}</div>`);
+    out.push(`<div class="line">----------------------------------------</div>`);
+
+    items.slice(0, max).forEach((it, idx) => {
+      const n = idx + 1;
+      const title = stripHtml(it.title);
+      const desc = stripHtml(it.summary || it.description || "");
+      const link = it.link || "#";
+
+      // Línea de título (con enlace)
+      out.push(`<div class="line"><span class="y">${n}</span> <span class="b">${escapeHtml(title)}</span></div>`);
+      // Resumen (2–3 líneas aprox)
+      const descLines = wrap(desc, 60).slice(0, 3);
+      descLines.forEach(l => out.push(`<div class="line muted">   ${escapeHtml(l)}</div>`));
+      out.push(`<div class="line">   <a href="${escapeAttr(link)}" target="_blank" rel="noopener">[abrir]</a></div>`);
+      out.push(`<div class="line"> </div>`);
+    });
+
+    out.push(`<div class="line r">Ir a: <a href="#" onclick="goto(101);return false;">101</a> · <a href="#" onclick="goto(120);return false;">120</a> · <a href="#" onclick="goto(140);return false;">140</a></div>`);
+
+    screen.innerHTML = out.join("");
+    scrollTo({top:0, behavior:"smooth"});
+  }
+
+  function escapeHtml(s){
+    return String(s).replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;');
+  }
+  function escapeAttr(s){
+    return String(s).replaceAll('"','&quot;');
+  }
+
+  let DATA = null;
+  let buf = "";
+
+  function goto(p){ if(DATA) renderPage(p, DATA); }
+
+  addEventListener('keydown', (e) => {
+    if(e.key === 'Escape') return scrollTo({top:0, behavior:'smooth'});
+    if(/^\d$/.test(e.key)){ buf = (buf + e.key).slice(-3); return; }
+    if(e.key === 'Enter'){
+      const page = Number(buf || 101);
+      buf = "";
+      if(DATA) renderPage(page, DATA);
+    }
+  });
+
+  // Carga el JSON generado por Actions (cache-bust con timestamp)
+  fetch(`/assets/teletexto.json?ts=${Date.now()}`)
+    .then(r => r.json())
+    .then(j => { DATA = j; renderPage(101, DATA); })
+    .catch(() => {
+      screen.innerHTML = `<div class="line r">No se pudo cargar /assets/teletexto.json</div>
+                          <div class="line">Comprueba que GitHub Actions lo haya generado.</div>`;
+    });
+</script>
