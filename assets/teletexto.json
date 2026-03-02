@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-02T12:01:46.230Z",
+  "generatedAt": "2026-03-02T12:58:27.436Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
@@ -84,6 +84,12 @@
           "isoDate": "2026-03-02T00:00:00.000Z"
         },
         {
+          "title": "AI agents are ‘aeroplanes for the mind’: five ways to ensure that scientists are responsible pilots",
+          "link": "https://www.nature.com/articles/d41586-026-00665-y",
+          "summary": "Nature, Published online: 02 March 2026; doi:10.1038/d41586-026-00665-y\nAs artificial-intelligence systems take on more of the scientific workflow, the central goal should not be complete automation, but designing platforms that preserve creativity, responsibility and surprise.",
+          "isoDate": "2026-03-02T00:00:00.000Z"
+        },
+        {
           "title": "Harnessing the Sun to Extract Oxygen on the Moon",
           "link": "https://www.nasa.gov/image-article/harnessing-the-sun-to-extract-oxygen-on-the-moon/",
           "summary": "Light shines onto a solar concentrator being tested in this Aug. 7, 2025, photo. The concentrator is part of the Carbothermal Reduction Demonstration (CaRD) project, which aims to produce oxygen from simulated lunar regolith for use at the Moon’s south pole. For this test, the team integrated the solar concentrator, mirrors, and software and confirmed […]",
@@ -124,12 +130,6 @@
           "link": "https://www.nature.com/articles/d41586-026-00621-w",
           "summary": "Nature, Published online: 27 February 2026; doi:10.1038/d41586-026-00621-w\nAndrew Robinson reviews five of the best science picks.",
           "isoDate": "2026-02-27T00:00:00.000Z"
-        },
-        {
-          "title": "White House stalls release of approved US science budgets",
-          "link": "https://www.nature.com/articles/d41586-026-00601-0",
-          "summary": "Nature, Published online: 27 February 2026; doi:10.1038/d41586-026-00601-0\nThe US Congress rejected sweeping cuts to science agencies. But the NIH, the NSF and NASA have had their spending slowed.",
-          "isoDate": "2026-02-27T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Inappropriately located doctype declaration\nLine: 4\nColumn: 9\nChar: e",
-          "isoDate": "2026-03-02T12:01:42.200Z"
+          "isoDate": "2026-03-02T12:58:24.144Z"
         },
         {
           "title": "UK launches consultation asking for views on under-16s social media ban",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-03-02T12:01:44.661Z"
+          "isoDate": "2026-03-02T12:58:26.186Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 58\nChar: =",
-          "isoDate": "2026-03-02T12:01:43.226Z"
+          "isoDate": "2026-03-02T12:58:25.151Z"
         },
         {
           "title": "What Military Drones Can Teach Self-Driving Cars",
