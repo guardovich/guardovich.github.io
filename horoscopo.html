@@ -1,0 +1,340 @@
+---
+layout: default
+title: Horóscopo Algorítmico Experimental
+permalink: /horoscopo.html
+---
+
+<style>
+  :root{--bg:#000;--fg:#e8e8e8;--c:#0ff;--y:#ff0;--m:#f0f;--g:#0f0;--r:#f33;--b:#39f;}
+  .hz{max-width:900px;margin:0 auto;padding:18px 14px 28px;
+      font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono",monospace;letter-spacing:.02em;}
+  .bar{display:flex;justify-content:space-between;align-items:center;padding:6px 8px;border:2px solid var(--b);
+       color:var(--c);text-transform:uppercase;font-weight:700;}
+  .bar b{color:var(--y);}
+  .panel{margin-top:14px;border:2px solid #444;padding:14px;box-shadow:0 0 0 2px #111 inset;background:var(--bg);color:var(--fg);}
+  label{display:block;margin:10px 0 6px;}
+  input[type="date"]{padding:8px;width:260px;background:#050505;color:var(--fg);border:1px solid #333;border-radius:8px;}
+  .q{margin:14px 0;padding:12px;border:1px solid #333;border-radius:10px;}
+  .row{display:flex;gap:12px;flex-wrap:wrap;align-items:center;}
+  button{padding:10px 14px;border:1px solid #333;border-radius:10px;cursor:pointer;background:transparent;color:inherit;}
+  button:hover{opacity:.9;}
+  .muted{color:#aaa}
+  .out{margin-top:16px;padding:14px;border:1px solid #333;border-radius:12px;white-space:pre-wrap;line-height:1.35;}
+  a{color:var(--c);text-decoration:none;} a:hover{text-decoration:underline;}
+  .pill{display:inline-block;border:1px solid #444;padding:4px 8px;margin-right:8px;margin-top:8px;}
+  .y{color:var(--y);} .c{color:var(--c);} .g{color:var(--g);} .m{color:var(--m);} .r{color:var(--r);} .b{color:var(--b);}
+</style>
+
+<div class="hz">
+  <div class="bar">
+    <div>HORÓSCOPO <b>ALGORÍTMICO</b> // TECNOAPOCALIPSIS</div>
+    <div class="muted" id="info">cargando clima informativo…</div>
+  </div>
+
+  <div class="panel">
+    <div class="muted">
+      Fecha + binario Sí/No + titulares reales → predicción con estética de informe y olor a final de ciclo.
+    </div>
+
+    <label>Fecha de nacimiento</label>
+    <input id="dob" type="date" />
+
+    <div id="questions"></div>
+
+    <div class="row" style="margin-top:14px;">
+      <button id="btnGenerate">Generar informe</button>
+      <button id="btnReroll" type="button">Nuevas preguntas</button>
+      <a class="pill" href="/teletexto.html">↳ ver teletexto</a>
+    </div>
+
+    <div id="output" class="out" style="display:none;"></div>
+  </div>
+</div>
+
+<script>
+  // -------- util RNG seedable --------
+  function mulberry32(a){return function(){let t=a+=0x6D2B79F5;t=Math.imul(t^(t>>>15),t|1);t^=t+Math.imul(t^(t>>>7),t|61);return((t^(t>>>14))>>>0)/4294967296}}
+  function hashString(s){
+    let h = 2166136261;
+    for(let i=0;i<s.length;i++){ h ^= s.charCodeAt(i); h = Math.imul(h, 16777619); }
+    return h >>> 0;
+  }
+  function pick(rng, arr){ return arr[Math.floor(rng()*arr.length)]; }
+  function clamp(n,a,b){ return Math.max(a, Math.min(b,n)); }
+
+  // -------- data sources (teletexto.json) --------
+  const FEED_PAGES = ["101","120","140","160","180"];
+  let TELE = null;
+  let CLIMATE = null;
+
+  // -------- preguntas --------
+  const QUESTION_BANK = [
+    "¿Has aceptado una condición que no leíste completa?",
+    "¿Sientes que hoy te van a medir aunque nadie lo diga?",
+    "¿Preferirías tener razón antes que tener paz?",
+    "¿Has borrado un mensaje por autoprotección?",
+    "¿Te cuesta decir que no cuando ya han presupuestado tu sí?",
+    "¿Tu cansancio se parece a una notificación persistente?",
+    "¿Crees que alguien decide por ti cuando tardas en responder?",
+    "¿Te tranquiliza más una cifra que una conversación?"
+  ];
+  let currentQuestions = [];
+
+  const dobEl = document.getElementById("dob");
+  const qWrap = document.getElementById("questions");
+  const outEl = document.getElementById("output");
+  const infoEl = document.getElementById("info");
+
+  function rerollQuestions(){
+    const rng = mulberry32((Date.now() ^ (Math.random()*1e9)) >>> 0);
+    const pool = [...QUESTION_BANK];
+    currentQuestions = [];
+    while(currentQuestions.length < 2 && pool.length){
+      const i = Math.floor(rng()*pool.length);
+      currentQuestions.push(pool.splice(i,1)[0]);
+    }
+    renderQuestions();
+    outEl.style.display = "none";
+  }
+
+  function renderQuestions(){
+    qWrap.innerHTML = "";
+    currentQuestions.forEach((q, idx) => {
+      const div = document.createElement("div");
+      div.className = "q";
+      div.innerHTML = `
+        <div><span class="y">Q${idx+1}</span> ${q}</div>
+        <div class="row" style="margin-top:10px;">
+          <label style="display:flex;gap:8px;align-items:center;margin:0;">
+            <input type="radio" name="q${idx}" value="si"> Sí
+          </label>
+          <label style="display:flex;gap:8px;align-items:center;margin:0;">
+            <input type="radio" name="q${idx}" value="no"> No
+          </label>
+        </div>
+      `;
+      qWrap.appendChild(div);
+    });
+  }
+
+  // -------- signo --------
+  function getZodiac(date){
+    const d = date.getDate(), m = date.getMonth()+1;
+    if((m==3 && d>=21) || (m==4 && d<=19)) return "ARIES";
+    if((m==4 && d>=20) || (m==5 && d<=20)) return "TAURO";
+    if((m==5 && d>=21) || (m==6 && d<=20)) return "GÉMINIS";
+    if((m==6 && d>=21) || (m==7 && d<=22)) return "CÁNCER";
+    if((m==7 && d>=23) || (m==8 && d<=22)) return "LEO";
+    if((m==8 && d>=23) || (m==9 && d<=22)) return "VIRGO";
+    if((m==9 && d>=23) || (m==10 && d<=22)) return "LIBRA";
+    if((m==10 && d>=23) || (m==11 && d<=21)) return "ESCORPIO";
+    if((m==11 && d>=22) || (m==12 && d<=21)) return "SAGITARIO";
+    if((m==12 && d>=22) || (m==1 && d<=19)) return "CAPRICORNIO";
+    if((m==1 && d>=20) || (m==2 && d<=18)) return "ACUARIO";
+    return "PISCIS";
+  }
+
+  function stripHtml(s){
+    return String(s||"").replace(/<[^>]+>/g," ").replace(/\s+/g," ").trim();
+  }
+
+  function buildClimate(tele){
+    const titles = [];
+    const sources = [];
+    for(const p of FEED_PAGES){
+      const block = tele?.pages?.[p];
+      if(!block?.items) continue;
+      for(const it of block.items.slice(0, 7)){
+        const t = stripHtml(it.title || "");
+        if(t) titles.push(t);
+        const link = it.link || "";
+        if(link){
+          try{ sources.push(new URL(link).hostname.replace(/^www\./,"")); }catch(e){}
+        }
+      }
+    }
+
+    // Señales apocalípticas (pesos)
+    const RULES = [
+      {k:["ai","artificial","intelligence","model","modelo","algorit","machine"], tag:"IA", w:2},
+      {k:["surveillance","tracking","privacy","data leak","breach","vulnerab","hack","ransom","malware"], tag:"VIGILANCIA/FUGA", w:3},
+      {k:["war","conflict","attack","sanction","crisis"], tag:"CRISIS", w:2},
+      {k:["climate","wildfire","flood","heat","emissions","carbon","energy"], tag:"CLIMA/ENERGÍA", w:2},
+      {k:["regulation","ban","lawsuit","antitrust","court"], tag:"REGULACIÓN", w:1},
+      {k:["outage","down","incident","failure","blackout"], tag:"FALLO SISTEMA", w:2},
+      {k:["robot","automation","autonomous"], tag:"AUTOMATIZACIÓN", w:1}
+    ];
+
+    const text = titles.join(" | ").toLowerCase();
+    let score = 0;
+    const tags = [];
+    for(const rule of RULES){
+      const hit = rule.k.some(x => text.includes(x));
+      if(hit){ score += rule.w; tags.push(rule.tag); }
+    }
+
+    const diversity = new Set(sources).size;
+    const intensity = clamp(Math.round(score + diversity/2), 0, 10);
+
+    // "contaminación IA": proporción de titulares IA (pág 160)
+    const aiBlock = tele?.pages?.["160"]?.items || [];
+    const aiTitles = aiBlock.slice(0, 8).map(x => stripHtml(x.title||"")).filter(Boolean);
+    const aiBias = clamp(Math.round((aiTitles.length/8)*10), 0, 10);
+
+    return {
+      intensity,
+      tags: [...new Set(tags)].slice(0,5),
+      samples: titles.slice(0,6),
+      sources: [...new Set(sources)].slice(0,8),
+      aiSamples: aiTitles.slice(0,3),
+      aiBias,
+      generatedAt: tele?.generatedAt || ""
+    };
+  }
+
+  function generateText(dobStr, answers){
+    const zodiac = getZodiac(new Date(dobStr + "T00:00:00"));
+
+    const seed = hashString([
+      dobStr,
+      answers.join("|"),
+      currentQuestions.join("|"),
+      CLIMATE?.generatedAt || "",
+      (CLIMATE?.samples || []).join("|")
+    ].join("||"));
+
+    const rng = mulberry32(seed);
+
+    const intensity = (CLIMATE?.intensity ?? 5);
+    const aiBias = (CLIMATE?.aiBias ?? 5);
+
+    const riskWord = intensity >= 8 ? "ELEVADO" : intensity >= 5 ? "MEDIO" : "BAJO";
+    const alert = intensity >= 8 ? "ALERTA ROJA" : intensity >= 6 ? "ALERTA ÁMBAR" : "ALERTA VERDE";
+    const windowH = String(Math.floor(rng()*24)).padStart(2,"0") + ":" + String(Math.floor(rng()*60)).padStart(2,"0");
+
+    // tono más oscuro si hay más “contaminación IA”
+    const tone = aiBias >= 7 ? "POST-HUMANO" : aiBias >= 4 ? "SISTÉMICO" : "RUIDO CONTROLADO";
+
+    const open = [
+      "El sistema ha leído el mundo y te lo devuelve como sentencia.",
+      "Hoy el aire es una interfaz: respiras métricas, exhalas decisiones.",
+      "La realidad se ha actualizado sin pedirte confirmación.",
+      "Un fallo menor en el feed puede convertirse en profecía."
+    ];
+
+    const binary = [
+      `Vector Sí/No: ${answers.join(" / ").toUpperCase()} · Exposición: ${(40 + Math.floor(rng()*60))}%`,
+      `Secuencia binaria: ${answers.join(" / ").toUpperCase()} · Riesgo de derivación: ${(10 + Math.floor(rng()*85))}%`,
+      `Tu respuesta (${answers.join(" / ").toUpperCase()}) activa un patrón de vigilancia pasiva.`
+    ];
+
+    const climateLine = `CLIMA: INTENSIDAD ${intensity}/10 · ${alert} · Etiquetas: ${(CLIMATE?.tags?.length ? CLIMATE.tags.join(", ") : "SIN ETIQUETAS")}`;
+    const aiLine = `CONTAMINACIÓN IA: ${aiBias}/10 · Ecos: ${(CLIMATE?.aiSamples?.length ? CLIMATE.aiSamples.join(" | ") : "n/d")}`;
+
+    const propheciesLow = [
+      "Una decisión pequeña te ahorra un desastre grande. No lo llames suerte.",
+      "Tu calma es un exploit. Úsala.",
+      "Hoy conviene decir menos. Las palabras quedan registradas."
+    ];
+    const propheciesMid = [
+      "Notarás una presión invisible: no es ansiedad, es el sistema ajustando umbrales.",
+      "Algo te pedirá velocidad. Responde con lentitud deliberada.",
+      "Evita discutir con quien habla como si ya tuviera el resultado."
+    ];
+    const propheciesHigh = [
+      "Día de interferencia: el mundo te empuja a aceptar términos que no existen.",
+      "El feed trae señales de colapso blando. No seas el primer voluntario.",
+      "Hoy tu intuición puede ser un falso positivo. Verifica con realidad física."
+    ];
+
+    const adviceHard = [
+      "No firmes, no prometas, no cedas contraseñas emocionales.",
+      "Desactiva notificaciones. Recupera el silencio: es tu firewall.",
+      "Si algo suena inevitable, pregunta: ¿quién gana con esa inevitabilidad?"
+    ];
+    const adviceSoft = [
+      "Haz una cosa humana: escribe a alguien sin objetivo.",
+      "Pon límites a lo urgente. Lo urgente suele ser propaganda del sistema.",
+      "Recuerda: eficiencia no es destino."
+    ];
+
+    const prophecy =
+      intensity >= 8 ? pick(rng, propheciesHigh) :
+      intensity >= 5 ? pick(rng, propheciesMid) :
+      pick(rng, propheciesLow);
+
+    const recommendation = (intensity >= 7) ? pick(rng, adviceHard) : pick(rng, adviceSoft);
+
+    const luck = {
+      color: pick(rng, ["Cian", "Amarillo", "Verde", "Magenta"]),
+      number: Math.floor(rng()*90)+10,
+      keyword: pick(rng, ["Umbral", "Latencia", "Bucle", "Ruido", "Sombra", "Rollback", "Checksum"])
+    };
+
+    const samples = (CLIMATE?.samples || []).slice(0,4).map(s => `- ${s}`).join("\n");
+    const srcs = (CLIMATE?.sources || []).slice(0,8).join(", ");
+
+    const endings = [
+      "FIN DEL INFORME. Si te sientes observado, es porque estás en el sistema.",
+      "INFORME CERRADO. El futuro no llega: se despliega.",
+      "SALIDA SEGURA NO GARANTIZADA. Haz copia de tu criterio."
+    ];
+
+    return [
+      `HORÓSCOPO ALGORÍTMICO EXPERIMENTAL // ${zodiac}`,
+      `MODO: ${tone} · RIESGO: ${riskWord} · VENTANA ÓPTIMA: ${windowH}`,
+      climateLine,
+      aiLine,
+      pick(rng, binary),
+      "",
+      pick(rng, open),
+      prophecy,
+      "",
+      `Ecos del día:`,
+      samples || "- (sin titulares disponibles)",
+      "",
+      `RECOMENDACIÓN: ${recommendation}`,
+      `SUERTE: Color ${luck.color} · Nº ${luck.number} · Palabra clave: ${luck.keyword}`,
+      "",
+      `Fuentes (muestra): ${srcs || "n/d"}`,
+      pick(rng, endings),
+      `SEED: ${seed}`
+    ].join("\n");
+  }
+
+  async function init(){
+    rerollQuestions();
+    try{
+      TELE = await fetch(`/assets/teletexto.json?ts=${Date.now()}`).then(r => r.json());
+      CLIMATE = buildClimate(TELE);
+      infoEl.textContent = `clima OK · intensidad ${CLIMATE.intensity}/10 · IA ${CLIMATE.aiBias}/10 · ${(CLIMATE.tags.join(" · ") || "sin etiquetas")}`;
+    }catch(e){
+      infoEl.textContent = "sin clima (no se pudo cargar teletexto.json)";
+      CLIMATE = { intensity: 5, tags: [], samples: [], sources: [], aiSamples: [], aiBias: 5, generatedAt: "" };
+    }
+  }
+
+  document.getElementById("btnReroll").addEventListener("click", rerollQuestions);
+
+  document.getElementById("btnGenerate").addEventListener("click", () => {
+    const dob = dobEl.value;
+    if(!dob){
+      outEl.style.display = "block";
+      outEl.textContent = "ERROR: introduce tu fecha de nacimiento.";
+      return;
+    }
+    const answers = currentQuestions.map((_, idx) => {
+      const chosen = document.querySelector(`input[name="q${idx}"]:checked`);
+      return chosen ? chosen.value : null;
+    });
+    if(answers.some(a => a === null)){
+      outEl.style.display = "block";
+      outEl.textContent = "ERROR: responde Sí/No a las 2 preguntas.";
+      return;
+    }
+    outEl.style.display = "block";
+    outEl.textContent = generateText(dob, answers);
+  });
+
+  init();
+</script>
