@@ -4,30 +4,29 @@ import Parser from "rss-parser";
 
 const parser = new Parser({
   timeout: 20000,
-  headers: {
-    "User-Agent": "guardovich-teletexto/1.0 (+GitHub Actions)"
-  }
+  headers: { "User-Agent": "guardovich-teletexto/1.0 (+GitHub Actions)" }
 });
 
-// Football Data API key via GitHub Actions secret env
 const FOOTBALL_API_KEY = process.env.FOOTBALL_API_KEY;
 
-// Timeout helper (evita cuelgues)
-async function fetchJsonWithTimeout(url, options = {}, ms = 15000) {
+// ---------- Helpers: timeouts ----------
+async function fetchTextWithTimeout(url, options = {}, ms = 15000) {
   const ctrl = new AbortController();
   const t = setTimeout(() => ctrl.abort(), ms);
   try {
     const res = await fetch(url, { ...options, signal: ctrl.signal });
-    // Si la API devuelve error HTTP, intentamos leer body igualmente
-    return await res.json();
+    return await res.text();
   } finally {
     clearTimeout(t);
   }
 }
 
-// =========================
-// CONFIG: PÁGINAS RSS
-// =========================
+async function fetchJsonWithTimeout(url, options = {}, ms = 15000) {
+  const text = await fetchTextWithTimeout(url, options, ms);
+  return JSON.parse(text);
+}
+
+// ---------- Config RSS ----------
 const FEEDS = {
   "101": {
     header: "101  TECNOLOGÍA",
@@ -75,9 +74,7 @@ const FEEDS = {
   }
 };
 
-// =========================
-// RSS HELPERS
-// =========================
+// ---------- RSS helpers ----------
 function pickSummary(item) {
   return (
     item.contentSnippet ||
@@ -90,8 +87,10 @@ function pickSummary(item) {
   );
 }
 
+// RSS robusto: descargamos XML con timeout y lo parseamos (evita cuelgues de parseURL)
 async function loadFeed(url) {
-  const feed = await parser.parseURL(url);
+  const xml = await fetchTextWithTimeout(url, {}, 15000);
+  const feed = await parser.parseString(xml);
   return (feed.items || []).map((it) => ({
     title: it.title || "",
     link: it.link || "",
@@ -121,18 +120,14 @@ function sortByDateDesc(items) {
   return items;
 }
 
-// =========================
-// FOOTBALL (LaLiga) HELPERS
-// =========================
+// ---------- Football helpers ----------
 function abbr(name = "") {
-  // Abreviador sencillo estilo teletexto (3 letras)
   const n = String(name).toUpperCase();
   const clean = n.replace(/[^A-ZÁÉÍÓÚÜÑ ]/g, "").trim();
   const parts = clean.split(/\s+/);
   const base = (parts[0] || clean).slice(0, 3);
   return base.padEnd(3, " ");
 }
-
 function safeNum(x) {
   return x === null || x === undefined ? "-" : String(x);
 }
@@ -143,7 +138,7 @@ async function loadLaLigaPage200() {
   if (!FOOTBALL_API_KEY) {
     return {
       header: "200  PRIMERA DIVISIÓN (SIN API KEY)",
-      maxItems: 30,
+      maxItems: 20,
       items: [
         {
           title: "Configura el secret FOOTBALL_API_KEY",
@@ -157,7 +152,6 @@ async function loadLaLigaPage200() {
   const headers = { "X-Auth-Token": FOOTBALL_API_KEY };
 
   try {
-    // ✅ AQUÍ está el cambio: usamos fetchJsonWithTimeout
     const liveData = await fetchJsonWithTimeout(
       "https://api.football-data.org/v4/competitions/PD/matches?status=LIVE",
       { headers },
@@ -177,16 +171,12 @@ async function loadLaLigaPage200() {
     );
 
     const items = [];
-
     const live = Array.isArray(liveData?.matches) ? liveData.matches : [];
     const finished = Array.isArray(finData?.matches) ? finData.matches : [];
 
-    finished.sort(
-      (a, b) => (Date.parse(b.utcDate || "") || 0) - (Date.parse(a.utcDate || "") || 0)
-    );
+    finished.sort((a, b) => (Date.parse(b.utcDate || "") || 0) - (Date.parse(a.utcDate || "") || 0));
     const recentFinished = finished.slice(0, 12);
 
-    // ===== RESULTADOS =====
     items.push({
       title: live.length ? "RESULTADOS (EN DIRECTO)" : "RESULTADOS (ÚLTIMOS)",
       link: "https://www.laliga.com/",
@@ -210,21 +200,14 @@ async function loadLaLigaPage200() {
         m?.score?.halfTime?.away ??
         "-";
 
-      const line = `${h} ${safeNum(hs).padStart(2, " ")}-${safeNum(as).padEnd(2, " ")} ${a}`;
-
       items.push({
-        title: line,
+        title: `${h} ${safeNum(hs).padStart(2, " ")}-${safeNum(as).padEnd(2, " ")} ${a}`,
         link: "https://www.laliga.com/",
         summary: m?.status || ""
       });
     }
 
-    // ===== CLASIFICACIÓN =====
-    items.push({
-      title: "CLASIFICACIÓN (TOP 10)",
-      link: "https://www.laliga.com/",
-      summary: ""
-    });
+    items.push({ title: "CLASIFICACIÓN (TOP 10)", link: "https://www.laliga.com/", summary: "" });
 
     const table =
       tableData?.standings?.find((s) => s.type === "TOTAL")?.table ||
@@ -244,33 +227,21 @@ async function loadLaLigaPage200() {
 
     return { header, maxItems: 40, items };
   } catch (e) {
-    // Si la API falla o hay timeout, devolvemos una página 200 "degradada"
     return {
       header: "200  PRIMERA DIVISIÓN (TEMP NO DISP.)",
       maxItems: 10,
       items: [
-        {
-          title: "No se pudo cargar fútbol ahora",
-          link: "https://www.football-data.org/",
-          summary: String(e?.message || e)
-        },
-        {
-          title: "Intenta de nuevo en la próxima actualización",
-          link: "https://www.laliga.com/",
-          summary: ""
-        }
+        { title: "No se pudo cargar fútbol ahora", link: "https://www.football-data.org/", summary: String(e?.message || e) },
+        { title: "Se intentará en la próxima actualización", link: "https://www.laliga.com/", summary: "" }
       ]
     };
   }
 }
 
-// =========================
-// MAIN
-// =========================
+// ---------- Main ----------
 async function main() {
   const pages = {};
 
-  // RSS pages
   for (const [page, cfg] of Object.entries(FEEDS)) {
     const all = [];
     for (const url of cfg.feeds) {
@@ -290,20 +261,12 @@ async function main() {
     sortByDateDesc(all);
     const clean = dedupeByLink(all).slice(0, cfg.maxItems);
 
-    pages[page] = {
-      header: cfg.header,
-      maxItems: cfg.maxItems,
-      items: clean
-    };
+    pages[page] = { header: cfg.header, maxItems: cfg.maxItems, items: clean };
   }
 
-  // Football page 200 (no rompe si falla)
   pages["200"] = await loadLaLigaPage200();
 
-  const out = {
-    generatedAt: new Date().toISOString(),
-    pages
-  };
+  const out = { generatedAt: new Date().toISOString(), pages };
 
   fs.mkdirSync("assets", { recursive: true });
   fs.writeFileSync("assets/teletexto.json", JSON.stringify(out, null, 2), "utf8");
