@@ -24,7 +24,7 @@ permalink: /teletexto.html
 <div class="ttx">
   <div class="bar">
     <div>TELETEXTO <b>AI</b> // PÁG <span class="y" id="pnum">101</span></div>
-    <div><span class="g">DOM</span> <span class="muted" id="date">--/--/----</span>  <span class="c" id="clock">--:--</span></div>
+    <div><span class="g" id="dow">---</span> <span class="muted" id="date">--/--/----</span>  <span class="c" id="clock">--:--</span></div>
   </div>
 
   <div class="screen" id="screen">
@@ -32,7 +32,7 @@ permalink: /teletexto.html
   </div>
 
   <div class="foot">
-    <div class="pill"><span class="y">Teclea</span> 101 / 120 / 140</div>
+    <div class="pill"><span class="y">Teclea</span> 101 / 120 / 140 / 160 / 180 / 200</div>
     <div class="pill"><span class="y">Enter</span> ir · <span class="y">Esc</span> arriba</div>
     <div class="pill"><a href="/">Volver</a></div>
   </div>
@@ -41,11 +41,14 @@ permalink: /teletexto.html
 <script>
   const screen = document.getElementById('screen');
   const pnum = document.getElementById('pnum');
+  const dowEl = document.getElementById('dow');
   const dateEl = document.getElementById('date');
   const clockEl = document.getElementById('clock');
 
   function tickClock(){
     const d = new Date();
+    const dows = ["DOM","LUN","MAR","MIÉ","JUE","VIE","SÁB"];
+    dowEl.textContent = dows[d.getDay()];
     clockEl.textContent = String(d.getHours()).padStart(2,'0') + ':' + String(d.getMinutes()).padStart(2,'0');
     dateEl.textContent = String(d.getDate()).padStart(2,'0') + '/' + String(d.getMonth()+1).padStart(2,'0') + '/' + d.getFullYear();
   }
@@ -85,7 +88,7 @@ permalink: /teletexto.html
     const block = data.pages?.[pageKey];
     if(!block){
       screen.innerHTML = `<div class="line r">Página ${page} no disponible</div>
-                          <div class="line">Teclea 101 / 120 / 140</div>`;
+                          <div class="line">Teclea 101 / 120 / 140 / 160 / 180 / 200</div>`;
       return;
     }
 
@@ -103,16 +106,14 @@ permalink: /teletexto.html
       const desc = stripHtml(it.summary || it.description || "");
       const link = it.link || "#";
 
-      // Línea de título (con enlace)
       out.push(`<div class="line"><span class="y">${n}</span> <span class="b">${escapeHtml(title)}</span></div>`);
-      // Resumen (2–3 líneas aprox)
       const descLines = wrap(desc, 60).slice(0, 3);
       descLines.forEach(l => out.push(`<div class="line muted">   ${escapeHtml(l)}</div>`));
       out.push(`<div class="line">   <a href="${escapeAttr(link)}" target="_blank" rel="noopener">[abrir]</a></div>`);
       out.push(`<div class="line"> </div>`);
     });
 
-    out.push(`<div class="line r">Ir a: <a href="#" onclick="goto(101);return false;">101</a> · <a href="#" onclick="goto(120);return false;">120</a> · <a href="#" onclick="goto(140);return false;">140</a></div>`);
+    out.push(`<div class="line r">Ir a: <a href="#" onclick="goto(101);return false;">101</a> · <a href="#" onclick="goto(120);return false;">120</a> · <a href="#" onclick="goto(140);return false;">140</a> · <a href="#" onclick="goto(160);return false;">160</a> · <a href="#" onclick="goto(180);return false;">180</a> · <a href="#" onclick="goto(200);return false;">200</a></div>`);
 
     screen.innerHTML = out.join("");
     scrollTo({top:0, behavior:"smooth"});
@@ -140,7 +141,6 @@ permalink: /teletexto.html
     }
   });
 
-  // Carga el JSON generado por Actions (cache-bust con timestamp)
   fetch(`/assets/teletexto.json?ts=${Date.now()}`)
     .then(r => r.json())
     .then(j => { DATA = j; renderPage(101, DATA); })
