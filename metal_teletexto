@@ -6,12 +6,12 @@ permalink: /metal-teletexto.html
 
 <style>
   :root{--bg:#000;--fg:#e8e8e8;--c:#0ff;--y:#ff0;--m:#f0f;--g:#0f0;--r:#f33;--b:#39f;}
-  .ttx{max-width:900px;margin:0 auto;padding:18px 14px 28px;
+  .ttx{max-width:980px;margin:0 auto;padding:18px 14px 28px;
        font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono",monospace;letter-spacing:.02em;}
   .bar{display:flex;justify-content:space-between;align-items:center;padding:6px 8px;border:2px solid var(--b);
        color:var(--c);text-transform:uppercase;font-weight:700;}
   .bar b{color:var(--y);}
-  .screen{margin-top:14px;border:2px solid #444;padding:10px 10px 14px;min-height:60vh;
+  .screen{margin-top:14px;border:2px solid #444;padding:10px 10px 14px;min-height:62vh;
           box-shadow:0 0 0 2px #111 inset;background:var(--bg);color:var(--fg);}
   .line{white-space:pre-wrap;line-height:1.25;}
   .c{color:var(--c);} .y{color:var(--y);} .m{color:var(--m);} .g{color:var(--g);} .r{color:var(--r);} .b{color:var(--b);}
@@ -19,28 +19,56 @@ permalink: /metal-teletexto.html
   .pill{border:1px solid #444;padding:4px 8px;}
   a{color:var(--c);text-decoration:none;} a:hover{text-decoration:underline;}
   .muted{color:#aaa}
-  .btn{padding:6px 10px;border:1px solid #333;border-radius:8px;background:transparent;color:inherit;cursor:pointer;}
+  .btn{padding:8px 12px;border:1px solid #333;border-radius:10px;background:transparent;color:inherit;cursor:pointer;}
   .btn:hover{opacity:.9;}
-  .qwrap{margin-top:10px;border:1px solid #333;border-radius:10px;padding:10px;}
+  .qwrap{margin-top:10px;border:1px solid #333;border-radius:12px;padding:12px;}
   .row{display:flex;gap:10px;flex-wrap:wrap;align-items:center;}
-  select{padding:6px 8px;background:#050505;color:var(--fg);border:1px solid #333;border-radius:8px;font:inherit;}
+  select{padding:8px 10px;background:#050505;color:var(--fg);border:1px solid #333;border-radius:10px;font:inherit;}
+
+  /* Arcade 1992 */
+  .blink { animation: blink 0.75s steps(1,end) infinite; }
+  @keyframes blink { 50% { opacity: 0; } }
+
+  .big-album{
+    margin-top:6px;
+    font-size:34px;
+    line-height:1.05;
+    letter-spacing:1px;
+    text-transform:uppercase;
+  }
+  .big-artist{
+    font-size:22px;
+    letter-spacing:2px;
+    text-transform:uppercase;
+  }
+  .frame{
+    border:1px solid #333;
+    border-radius:12px;
+    padding:12px;
+    margin-top:10px;
+    box-shadow:0 0 0 2px #111 inset;
+  }
 
   .pixel-box{
     margin-top:14px;
     border:1px solid #333;
     padding:10px;
     text-align:center;
+    border-radius:12px;
   }
   .pixel-box svg{
     image-rendering: pixelated;
-    width:220px;
+    width:240px;
     height:auto;
+    display:block;
+    margin:0 auto;
   }
   .pixel-text{
     margin-top:8px;
-    font-size:14px;
-    letter-spacing:2px;
+    font-size:16px;
+    letter-spacing:3px;
     color:var(--y);
+    text-transform:uppercase;
   }
 </style>
 
@@ -83,93 +111,414 @@ permalink: /metal-teletexto.html
   function hashString(s){let h=2166136261;for(let i=0;i<s.length;i++){h^=s.charCodeAt(i);h=Math.imul(h,16777619);}return h>>>0}
   function pick(rng,arr){return arr[Math.floor(rng()*arr.length)]}
 
-  // ---------- catálogo ----------
-  const ALBUMS = [
-    {album:"Rust in Peace",artist:"Megadeth",year:1990,style:["thrash","technical"],mood:{rage:6,mel:4,chaos:5},link:"https://en.wikipedia.org/wiki/Rust_in_Peace"},
-    {album:"Master of Puppets",artist:"Metallica",year:1986,style:["thrash"],mood:{rage:6,mel:4,chaos:4},link:"https://en.wikipedia.org/wiki/Master_of_Puppets"},
-    {album:"Reign in Blood",artist:"Slayer",year:1986,style:["thrash","extreme"],mood:{rage:8,mel:2,chaos:7},link:"https://en.wikipedia.org/wiki/Reign_in_Blood"},
-    {album:"Painkiller",artist:"Judas Priest",year:1990,style:["speed"],mood:{rage:7,mel:4,chaos:5},link:"https://en.wikipedia.org/wiki/Painkiller_(album)"},
-    {album:"Blackwater Park",artist:"Opeth",year:2001,style:["prog","death"],mood:{rage:5,mel:7,chaos:4},link:"https://en.wikipedia.org/wiki/Blackwater_Park"},
-    {album:"Symbolic",artist:"Death",year:1995,style:["death","technical"],mood:{rage:7,mel:4,chaos:6},link:"https://en.wikipedia.org/wiki/Symbolic_(album)"}
-  ];
+  // ---------- helpers ----------
+  function clamp(n,a,b){ return Math.max(a, Math.min(b,n)); }
+
+  function guitarColorByRage(rage0to4){
+    // Arcade palette
+    const colors = ["#39f","#0ff","#0f0","#ff0","#f33"]; // calm -> critical
+    return colors[clamp(rage0to4,0,4)];
+  }
+
+  function bandWikiLink(name){
+    // simple safe-ish: spaces -> _
+    return "https://en.wikipedia.org/wiki/" + encodeURIComponent(name.replaceAll(" ","_"));
+  }
+
+  // ---------- catalog (40 bands, discography broad) ----------
+  // Nota honesta: esta lista está orientada a "álbumes de estudio clave + muchos completos".
+  // Algunas bandas tienen ediciones/EP/compilaciones enormes; aquí priorizamos discografía de estudio (y algún live icónico).
+  const BANDS = [
+    {name:"Black Sabbath", style:["classic","doom"], mood:{rage:5,mel:4,chaos:2}, albums:[
+      {t:"Black Sabbath", y:1970},{t:"Paranoid", y:1970},{t:"Master of Reality", y:1971},{t:"Vol. 4", y:1972},
+      {t:"Sabbath Bloody Sabbath", y:1973},{t:"Sabotage", y:1975},{t:"Technical Ecstasy", y:1976},{t:"Never Say Die!", y:1978}
+    ]},
+    {name:"Judas Priest", style:["classic","speed"], mood:{rage:6,mel:4,chaos:3}, albums:[
+      {t:"Sad Wings of Destiny", y:1976},{t:"Sin After Sin", y:1977},{t:"Stained Class", y:1978},{t:"Killing Machine", y:1978},
+      {t:"British Steel", y:1980},{t:"Screaming for Vengeance", y:1982},{t:"Defenders of the Faith", y:1984},
+      {t:"Painkiller", y:1990}
+    ]},
+    {name:"Iron Maiden", style:["nwobhm","classic"], mood:{rage:5,mel:6,chaos:3}, albums:[
+      {t:"Iron Maiden", y:1980},{t:"Killers", y:1981},{t:"The Number of the Beast", y:1982},{t:"Piece of Mind", y:1983},
+      {t:"Powerslave", y:1984},{t:"Somewhere in Time", y:1986},{t:"Seventh Son of a Seventh Son", y:1988}
+    ]},
+    {name:"Motörhead", style:["speed","rock"], mood:{rage:6,mel:3,chaos:4}, albums:[
+      {t:"Overkill", y:1979},{t:"Bomber", y:1979},{t:"Ace of Spades", y:1980},{t:"Iron Fist", y:1982},
+      {t:"Another Perfect Day", y:1983}
+    ]},
+    {name:"Metallica", style:["thrash"], mood:{rage:6,mel:4,chaos:4}, albums:[
+      {t:"Kill 'Em All", y:1983},{t:"Ride the Lightning", y:1984},{t:"Master of Puppets", y:1986},{t:"...And Justice for All", y:1988},
+      {t:"Metallica (The Black Album)", y:1991}
+    ]},
+    {name:"Megadeth", style:["thrash","technical"], mood:{rage:6,mel:4,chaos:5}, albums:[
+      {t:"Killing Is My Business... and Business Is Good!", y:1985},{t:"Peace Sells... but Who's Buying?", y:1986},
+      {t:"So Far, So Good... So What!", y:1988},{t:"Rust in Peace", y:1990},{t:"Countdown to Extinction", y:1992},
+      {t:"Youthanasia", y:1994}
+    ]},
+    {name:"Slayer", style:["thrash","extreme"], mood:{rage:8,mel:2,chaos:7}, albums:[
+      {t:"Show No Mercy", y:1983},{t:"Hell Awaits", y:1985},{t:"Reign in Blood", y:1986},{t:"South of Heaven", y:1988},
+      {t:"Seasons in the Abyss", y:1990}
+    ]},
+    {name:"Anthrax", style:["thrash"], mood:{rage:6,mel:3,chaos:4}, albums:[
+      {t:"Spreading the Disease", y:1985},{t:"Among the Living", y:1987},{t:"State of Euphoria", y:1988},{t:"Persistence of Time", y:1990}
+    ]},
+    {name:"Pantera", style:["groove"], mood:{rage:7,mel:3,chaos:5}, albums:[
+      {t:"Cowboys from Hell", y:1990},{t:"Vulgar Display of Power", y:1992},{t:"Far Beyond Driven", y:1994},{t:"The Great Southern Trendkill", y:1996}
+    ]},
+    {name:"Sepultura", style:["thrash","groove"], mood:{rage:7,mel:3,chaos:6}, albums:[
+      {t:"Beneath the Remains", y:1989},{t:"Arise", y:1991},{t:"Chaos A.D.", y:1993},{t:"Roots", y:1996}
+    ]},
+    {name:"Tool", style:["prog"], mood:{rage:4,mel:6,chaos:3}, albums:[
+      {t:"Undertow", y:1993},{t:"Ænima", y:1996},{t:"Lateralus", y:2001},{t:"10,000 Days", y:2006}
+    ]},
+    {name:"Dream Theater", style:["prog","technical"], mood:{rage:4,mel:6,chaos:4}, albums:[
+      {t:"Images and Words", y:1992},{t:"Awake", y:1994},{t:"Metropolis Pt. 2: Scenes from a Memory", y:1999},
+      {t:"Six Degrees of Inner Turbulence", y:2002}
+    ]},
+    {name:"Opeth", style:["prog","death"], mood:{rage:5,mel:7,chaos:4}, albums:[
+      {t:"My Arms, Your Hearse", y:1998},{t:"Still Life", y:1999},{t:"Blackwater Park", y:2001},{t:"Deliverance", y:2002},
+      {t:"Ghost Reveries", y:2005}
+    ]},
+    {name:"Gojira", style:["groove","prog"], mood:{rage:6,mel:4,chaos:5}, albums:[
+      {t:"Terra Incognita", y:2001},{t:"The Link", y:2003},{t:"From Mars to Sirius", y:2005},{t:"The Way of All Flesh", y:2008},
+      {t:"L'Enfant Sauvage", y:2012}
+    ]},
+    {name:"Mastodon", style:["sludge","prog"], mood:{rage:6,mel:4,chaos:6}, albums:[
+      {t:"Remission", y:2002},{t:"Leviathan", y:2004},{t:"Blood Mountain", y:2006},{t:"Crack the Skye", y:2009}
+    ]},
+    {name:"Lamb of God", style:["groove","modern"], mood:{rage:7,mel:2,chaos:5}, albums:[
+      {t:"As the Palaces Burn", y:2003},{t:"Ashes of the Wake", y:2004},{t:"Sacrament", y:2006},{t:"Wrath", y:2009}
+    ]},
+    {name:"Machine Head", style:["groove","thrash"], mood:{rage:7,mel:3,chaos:5}, albums:[
+      {t:"Burn My Eyes", y:1994},{t:"The More Things Change...", y:1997},{t:"The Blackening", y:2007}
+    ]},
+    {name:"Korn", style:["nu"], mood:{rage:6,mel:3,chaos:5}, albums:[
+      {t:"Korn", y:1994},{t:"Life Is Peachy", y:1996},{t:"Follow the Leader", y:1998},{t:"Issues", y:1999}
+    ]},
+    {name:"Slipknot", style:["nu","extreme"], mood:{rage:8,mel:2,chaos:7}, albums:[
+      {t:"Slipknot", y:1999},{t:"Iowa", y:2001},{t:"Vol. 3: (The Subliminal Verses)", y:2004},{t:"All Hope Is Gone", y:2008}
+    ]},
+    {name:"System of a Down", style:["alt","weird"], mood:{rage:6,mel:4,chaos:6}, albums:[
+      {t:"System of a Down", y:1998},{t:"Toxicity", y:2001},{t:"Steal This Album!", y:2002},{t:"Mezmerize", y:2005},{t:"Hypnotize", y:2005}
+    ]},
+    {name:"Rammstein", style:["industrial"], mood:{rage:6,mel:3,chaos:4}, albums:[
+      {t:"Herzeleid", y:1995},{t:"Sehnsucht", y:1997},{t:"Mutter", y:2001},{t:"Reise, Reise", y:2004},{t:"Rosenrot", y:2005}
+    ]},
+    {name:"Nine Inch Nails", style:["industrial"], mood:{rage:5,mel:4,chaos:5}, albums:[
+      {t:"Pretty Hate Machine", y:1989},{t:"The Downward Spiral", y:1994},{t:"The Fragile", y:1999}
+    ]},
+    {name:"Ministry", style:["industrial"], mood:{rage:6,mel:2,chaos:6}, albums:[
+      {t:"The Land of Rape and Honey", y:1988},{t:"The Mind Is a Terrible Thing to Taste", y:1989},{t:"Psalm 69", y:1992}
+    ]},
+    {name:"Kreator", style:["thrash","extreme"], mood:{rage:7,mel:3,chaos:6}, albums:[
+      {t:"Pleasure to Kill", y:1986},{t:"Terrible Certainty", y:1987},{t:"Coma of Souls", y:1990},{t:"Violent Revolution", y:2001}
+    ]},
+    {name:"Sodom", style:["thrash"], mood:{rage:7,mel:2,chaos:6}, albums:[
+      {t:"Persecution Mania", y:1987},{t:"Agent Orange", y:1989},{t:"Better Off Dead", y:1990}
+    ]},
+    {name:"Testament", style:["thrash"], mood:{rage:6,mel:3,chaos:5}, albums:[
+      {t:"The Legacy", y:1987},{t:"The New Order", y:1988},{t:"Practice What You Preach", y:1989},{t:"Souls of Black", y:1990}
+    ]},
+    {name:"Exodus", style:["thrash"], mood:{rage:7,mel:2,chaos:6}, albums:[
+      {t:"Bonded by Blood", y:1985},{t:"Fabulous Disaster", y:1989},{t:"Tempo of the Damned", y:2004}
+    ]},
+    {name:"Dio", style:["classic"], mood:{rage:5,mel:6,chaos:3}, albums:[
+      {t:"Holy Diver", y:1983},{t:"The Last in Line", y:1984},{t:"Sacred Heart", y:1985},{t:"Dream Evil", y:1987}
+    ]},
+    {name:"Rainbow", style:["classic"], mood:{rage:4,mel:6,chaos:2}, albums:[
+      {t:"Ritchie Blackmore's Rainbow", y:1975},{t:"Rising", y:1976},{t:"Long Live Rock 'n' Roll", y:1978}
+    ]},
+    {name:"Deep Purple", style:["classic"], mood:{rage:4,mel:5,chaos:2}, albums:[
+      {t:"In Rock", y:1970},{t:"Fireball", y:1971},{t:"Machine Head", y:1972},{t:"Burn", y:1974}
+    ]},
+    {name:"Thin Lizzy", style:["classic"], mood:{rage:4,mel:6,chaos:2}, albums:[
+      {t:"Jailbreak", y:1976},{t:"Johnny the Fox", y:1976},{t:"Black Rose", y:1979}
+    ]},
+    {name:"Queensrÿche", style:["prog","classic"], mood:{rage:4,mel:7,chaos:3}, albums:[
+      {t:"The Warning", y:1984},{t:"Rage for Order", y:1986},{t:"Operation: Mindcrime", y:1988},{t:"Empire", y:1990}
+    ]},
+    {name:"Helloween", style:["power"], mood:{rage:4,mel:8,chaos:3}, albums:[
+      {t:"Keeper of the Seven Keys: Part I", y:1987},{t:"Keeper of the Seven Keys: Part II", y:1988},{t:"The Time of the Oath", y:1996}
+    ]},
+    {name:"Blind Guardian", style:["power"], mood:{rage:3,mel:8,chaos:3}, albums:[
+      {t:"Somewhere Far Beyond", y:1992},{t:"Imaginations from the Other Side", y:1995},{t:"Nightfall in Middle-Earth", y:1998}
+    ]},
+    {name:"Manowar", style:["power","epic"], mood:{rage:5,mel:6,chaos:3}, albums:[
+      {t:"Battle Hymns", y:1982},{t:"Hail to England", y:1984},{t:"Kings of Metal", y:1988}
+    ]},
+    {name:"Candlemass", style:["doom"], mood:{rage:4,mel:6,chaos:2}, albums:[
+      {t:"Epicus Doomicus Metallicus", y:1986},{t:"Nightfall", y:1987},{t:"Ancient Dreams", y:1988}
+    ]},
+    {name:"Type O Negative", style:["doom","gothic"], mood:{rage:4,mel:6,chaos:3}, albums:[
+      {t:"Bloody Kisses", y:1993},{t:"October Rust", y:1996},{t:"World Coming Down", y:1999}
+    ]},
+    {name:"Paradise Lost", style:["doom","gothic"], mood:{rage:4,mel:6,chaos:3}, albums:[
+      {t:"Gothic", y:1991},{t:"Icon", y:1993},{t:"Draconian Times", y:1995}
+    ]},
+    {name:"Emperor", style:["black"], mood:{rage:7,mel:4,chaos:7}, albums:[
+      {t:"In the Nightside Eclipse", y:1994},{t:"Anthems to the Welkin at Dusk", y:1997}
+    ]},
+    {name:"Mayhem", style:["black"], mood:{rage:7,mel:2,chaos:8}, albums:[
+      {t:"De Mysteriis Dom Sathanas", y:1994}
+    ]},
+    {name:"Burzum", style:["black"], mood:{rage:6,mel:3,chaos:7}, albums:[
+      {t:"Hvis lyset tar oss", y:1994},{t:"Filosofem", y:1996}
+    ]},
+    {name:"Darkthrone", style:["black"], mood:{rage:7,mel:2,chaos:7}, albums:[
+      {t:"A Blaze in the Northern Sky", y:1992},{t:"Under a Funeral Moon", y:1993},{t:"Transilvanian Hunger", y:1994}
+    ]},
+    {name:"Death", style:["death","technical"], mood:{rage:7,mel:4,chaos:6}, albums:[
+      {t:"Scream Bloody Gore", y:1987},{t:"Leprosy", y:1988},{t:"Spiritual Healing", y:1990},{t:"Human", y:1991},
+      {t:"Individual Thought Patterns", y:1993},{t:"Symbolic", y:1995},{t:"The Sound of Perseverance", y:1998}
+    ]},
+    {name:"Morbid Angel", style:["death"], mood:{rage:7,mel:2,chaos:7}, albums:[
+      {t:"Altars of Madness", y:1989},{t:"Blessed Are the Sick", y:1991},{t:"Covenant", y:1993},{t:"Domination", y:1995}
+    ]},
+    {name:"Cannibal Corpse", style:["death","extreme"], mood:{rage:8,mel:1,chaos:7}, albums:[
+      {t:"Eaten Back to Life", y:1990},{t:"Butchered at Birth", y:1991},{t:"Tomb of the Mutilated", y:1992},{t:"The Bleeding", y:1994}
+    ]},
+    {name:"Napalm Death", style:["grind"], mood:{rage:8,mel:1,chaos:8}, albums:[
+      {t:"Scum", y:1987},{t:"From Enslavement to Obliteration", y:1988},{t:"Harmony Corruption", y:1990}
+    ]},
+    {name:"Carcass", style:["death","grind"], mood:{rage:7,mel:2,chaos:7}, albums:[
+      {t:"Reek of Putrefaction", y:1988},{t:"Symphonies of Sickness", y:1989},{t:"Necroticism – Descanting the Insalubrious", y:1991},
+      {t:"Heartwork", y:1993}
+    ]},
+    {name:"Meshuggah", style:["math","extreme"], mood:{rage:7,mel:2,chaos:7}, albums:[
+      {t:"Destroy Erase Improve", y:1995},{t:"Chaosphere", y:1998},{t:"Nothing", y:2002},{t:"obZen", y:2008}
+    ]}
+  ].slice(0,40);
 
   const QUESTIONS = [
-    {id:"rage",text:"Nivel de rabia actual (0-4)"},
-    {id:"mel",text:"Necesidad de melodía (0-4)"},
-    {id:"chaos",text:"Tolerancia al caos (0-4)"},
-    {id:"dark",text:"Oscuridad del día (0-4)"}
+    {id:"rage",  text:"Nivel de rabia actual", options:[
+      ["0","0 · Diplomacia rota, pero en silencio"],
+      ["1","1 · Molesto (modo ceja levantada)"],
+      ["2","2 · Medio (serrucho emocional)"],
+      ["3","3 · Alto (amenaza de riff)"],
+      ["4","4 · Crítico (romper logs)"]
+    ]},
+    {id:"mel",   text:"Necesitas melodía o martillo", options:[
+      ["0","0 · Solo martillo"],
+      ["1","1 · Más martillo"],
+      ["2","2 · Equilibrio"],
+      ["3","3 · Más melodía"],
+      ["4","4 · Melodía como anestesia"]
+    ]},
+    {id:"chaos", text:"Tolerancia al caos", options:[
+      ["0","0 · Cero (quiero estructura)"],
+      ["1","1 · Poca"],
+      ["2","2 · Media"],
+      ["3","3 · Alta"],
+      ["4","4 · Máxima (invocar entidades)"]
+    ]},
+    {id:"dark",  text:"Oscuridad del día", options:[
+      ["0","0 · Brillo sospechoso"],
+      ["1","1 · Normal"],
+      ["2","2 · Nublado"],
+      ["3","3 · Oscuro"],
+      ["4","4 · Apocalipsis blando"]
+    ]},
+    {id:"weird", text:"Nivel de rareza deseado", options:[
+      ["0","0 · Clásico seguro"],
+      ["1","1 · Un poco raro"],
+      ["2","2 · Raro aceptable"],
+      ["3","3 · Raro intenso"],
+      ["4","4 · Cinta maldita de videoclub"]
+    ]}
   ];
 
   function renderForm(){
-    let html = [];
-    html.push(`<div class="line c">270  RECOMENDADOR DE DISCO HEAVY METAL</div>`);
+    const html = [];
+    html.push(`<div class="line c">270  RECOMENDADOR HEAVY METAL (ARCADE 1992)</div>`);
     html.push(`<div class="line">----------------------------------------</div>`);
-    html.push(`<div class="line">Introduce valores 0-4.</div><div class="line"> </div>`);
+    html.push(`<div class="line">Responde al cuestionario. La máquina elige <span class="y">UN</span> disco.</div>`);
+    html.push(`<div class="line muted">No es terapia. Es clasificación.</div>`);
+    html.push(`<div class="line"> </div>`);
     html.push(`<div class="qwrap">`);
-    QUESTIONS.forEach(q=>{
-      html.push(`<div class="line">${q.text}</div>`);
+
+    QUESTIONS.forEach((q, i) => {
+      html.push(`<div class="line"><span class="y">Q${i+1}</span> ${q.text}</div>`);
+      html.push(`<div class="row" style="margin:6px 0 12px;">`);
       html.push(`<select id="${q.id}">`);
-      for(let i=0;i<=4;i++) html.push(`<option value="${i}">${i}</option>`);
-      html.push(`</select><div class="line"> </div>`);
+      q.options.forEach(([v,label]) => html.push(`<option value="${v}">${label}</option>`));
+      html.push(`</select>`);
+      html.push(`</div>`);
     });
+
+    html.push(`<div class="row">`);
     html.push(`<button class="btn" id="gen">GENERAR</button>`);
+    html.push(`<button class="btn" id="reset">REINICIAR</button>`);
+    html.push(`<span class="muted">Catálogo: ${BANDS.length} bandas</span>`);
     html.push(`</div>`);
+    html.push(`</div>`);
+    html.push(`<div class="line"> </div>`);
+    html.push(`<div class="line r">Tip: cambia valores y prueba. Enter = reiniciar.</div>`);
+
     screen.innerHTML = html.join("");
     document.getElementById("gen").addEventListener("click", generate);
+    document.getElementById("reset").addEventListener("click", renderForm);
   }
 
-  function scoreAlbum(pref,a){
-    return Math.abs(a.mood.rage - pref.rage*2)
-         + Math.abs(a.mood.mel - pref.mel*2)
-         + Math.abs(a.mood.chaos - pref.chaos*2);
+  function readInputs(){
+    const v = {};
+    QUESTIONS.forEach(q => v[q.id] = Number(document.getElementById(q.id).value));
+    return v;
+  }
+
+  function scoreBand(pref, band){
+    // Pref 0..4 -> scale to 0..8
+    const rage  = pref.rage  * 2;
+    const mel   = pref.mel   * 2;
+    const chaos = pref.chaos * 2;
+
+    const dr = Math.abs((band.mood.rage||0) - rage);
+    const dm = Math.abs((band.mood.mel||0)  - mel);
+    const dc = Math.abs((band.mood.chaos||0)- chaos);
+
+    // "weird" biases
+    const weird = pref.weird;
+    const isWeirdBand =
+      band.style.includes("math") || band.style.includes("industrial") || band.style.includes("prog") || band.style.includes("black") || band.style.includes("grind");
+
+    let weirdBonus = 0;
+    if(weird >= 3 && isWeirdBand) weirdBonus -= 2;
+    if(weird <= 1 && isWeirdBand) weirdBonus += 2;
+
+    // dark biases: doom/black/death/extreme when dark high
+    const dark = pref.dark;
+    const isDark = band.style.includes("doom") || band.style.includes("black") || band.style.includes("death") || band.style.includes("extreme") || band.style.includes("grind");
+    let darkBonus = 0;
+    if(dark >= 3 && isDark) darkBonus -= 1;
+    if(dark <= 1 && isDark) darkBonus += 1;
+
+    return (dr + dm + dc) + weirdBonus + darkBonus; // lower = better
+  }
+
+  function pickAlbumFromBand(rng, band, pref){
+    // pick album weighted by "era vibe": if rage high, tend to earlier heavier classics in band list
+    // simple: choose index with skew
+    const n = band.albums.length;
+    if(n === 1) return band.albums[0];
+
+    const rage = pref.rage; // 0..4
+    // Skew: higher rage -> earlier half
+    let bias = 0.5 - (rage * 0.08); // 0.5..0.18
+    bias = clamp(bias, 0.18, 0.55);
+
+    const r = rng();
+    const idx = Math.floor(Math.pow(r, bias) * n);
+    return band.albums[clamp(idx,0,n-1)];
   }
 
   function generate(){
-    const pref={};
-    QUESTIONS.forEach(q=>pref[q.id]=Number(document.getElementById(q.id).value));
-    const seed=hashString(JSON.stringify(pref)+new Date().toISOString().slice(0,10));
-    const rng=mulberry32(seed);
+    const pref = readInputs();
+    const seed = hashString(JSON.stringify(pref) + "|" + new Date().toISOString().slice(0,10));
+    const rng  = mulberry32(seed);
 
-    let bestScore=Infinity;
-    let best=[];
-    ALBUMS.forEach(a=>{
-      const s=scoreAlbum(pref,a);
-      if(s<bestScore){bestScore=s;best=[a];}
-      else if(s===bestScore)best.push(a);
-    });
-    const chosen=best.length===1?best[0]:pick(rng,best);
+    // Pick best band(s)
+    let bestScore = Infinity;
+    let bestBands = [];
+    for(const b of BANDS){
+      const s = scoreBand(pref, b);
+      if(s < bestScore){
+        bestScore = s;
+        bestBands = [b];
+      } else if(s === bestScore){
+        bestBands.push(b);
+      }
+    }
+    const band = (bestBands.length === 1) ? bestBands[0] : pick(rng, bestBands);
+    const album = pickAlbumFromBand(rng, band, pref);
 
-    let lines=[];
-    lines.push(`<div class="line c">270  DISCO RECOMENDADO</div>`);
+    const gcol = guitarColorByRage(pref.rage);
+
+    const diagnoses = [
+      "Diagnóstico: hambre de distorsión detectada.",
+      "Diagnóstico: ánimo fuera de especificación.",
+      "Diagnóstico: estás a un riff de la estabilidad.",
+      "Diagnóstico: hoy no se negocia con el silencio."
+    ];
+    const warnings = [
+      "Advertencia: escuchar en bucle altera tu percepción del tiempo.",
+      "Advertencia: volumen alto = pensamiento más claro (según la máquina).",
+      "Advertencia: no apto para reuniones, sí para reinicios personales.",
+      "Advertencia: si sonríes, niega todo."
+    ];
+    const why = [
+      "Se recomienda por compatibilidad con tu vector emocional.",
+      "Encaja con tu tolerancia al caos y la rabia contenida.",
+      "Optimiza tu estado: menos ruido mental, más ruido real.",
+      "Porque hoy el feed necesita un contraataque sonoro."
+    ];
+
+    const styleLine = band.style.join(", ").toUpperCase();
+    const wiki = bandWikiLink(band.name);
+    const albumText = `${album.t} (${album.y})`;
+
+    const lines = [];
+    lines.push(`<div class="line c">270  RESULTADO: DISCO RECOMENDADO</div>`);
     lines.push(`<div class="line">----------------------------------------</div>`);
-    lines.push(`<div class="line y">${chosen.artist.toUpperCase()} — ${chosen.album.toUpperCase()} (${chosen.year})</div>`);
-    lines.push(`<div class="line">Estilo: ${chosen.style.join(", ").toUpperCase()}</div>`);
-    lines.push(`<div class="line"> </div>`);
 
+    // Big visual header
+    lines.push(`<div class="frame">`);
+    lines.push(`<div class="big-artist y">${band.name}</div>`);
+    lines.push(`<div class="big-album b">${album.t}</div>`);
+    lines.push(`<div class="line">Año: <span class="y">${album.y}</span> · Estilo: <span class="y">${styleLine}</span></div>`);
+    lines.push(`</div>`);
+
+    // Pixel guitar + blink
     lines.push(`
-    <div class="pixel-box">
-      <svg viewBox="0 0 64 128">
-        <rect x="20" y="40" width="24" height="40" fill="#f33"/>
-        <rect x="30" y="0" width="4" height="60" fill="#ccc"/>
-        <rect x="26" y="0" width="12" height="8" fill="#999"/>
-        <rect x="24" y="50" width="16" height="4" fill="#000"/>
-        <rect x="24" y="60" width="16" height="4" fill="#000"/>
-        <rect x="26" y="75" width="12" height="4" fill="#000"/>
-      </svg>
-      <div class="pixel-text">DAVE MUSTAINE WAS HERE</div>
-    </div>
+      <div class="pixel-box">
+        <svg viewBox="0 0 64 128" xmlns="http://www.w3.org/2000/svg" aria-label="pixel guitar">
+          <!-- cuerpo -->
+          <rect x="20" y="40" width="24" height="40" fill="${gcol}"/>
+          <!-- contorno -->
+          <rect x="19" y="39" width="26" height="42" fill="none" stroke="#111" stroke-width="2"/>
+          <!-- mástil -->
+          <rect x="30" y="0" width="4" height="62" fill="#ccc"/>
+          <rect x="29" y="0" width="6" height="62" fill="none" stroke="#111" stroke-width="2"/>
+          <!-- clavijero -->
+          <rect x="26" y="0" width="12" height="8" fill="#999"/>
+          <rect x="25" y="0" width="14" height="10" fill="none" stroke="#111" stroke-width="2"/>
+          <!-- pastillas -->
+          <rect x="24" y="50" width="16" height="4" fill="#000"/>
+          <rect x="24" y="60" width="16" height="4" fill="#000"/>
+          <!-- puente -->
+          <rect x="26" y="75" width="12" height="4" fill="#000"/>
+          <!-- cuerdas (arcade vibes) -->
+          <rect x="31" y="8" width="1" height="70" fill="#222"/>
+          <rect x="33" y="8" width="1" height="70" fill="#222"/>
+        </svg>
+        <div class="pixel-text blink">DAVE MUSTAINE WAS HERE</div>
+      </div>
     `);
 
     lines.push(`<div class="line"> </div>`);
-    lines.push(`<div class="line r">Advertencia: volumen alto recomendado.</div>`);
-    lines.push(`<div class="line">Ficha: <a href="${chosen.link}" target="_blank">Wikipedia</a></div>`);
+    lines.push(`<div class="line">${pick(rng, diagnoses)}</div>`);
+    lines.push(`<div class="line">${pick(rng, why)}</div>`);
+    lines.push(`<div class="line r">${pick(rng, warnings)}</div>`);
+
+    // Readout
+    lines.push(`<div class="line"> </div>`);
+    lines.push(`<div class="line b">LECTURA (INPUT):</div>`);
+    lines.push(`<div class="line">RABIA=${pref.rage}/4 · MELODÍA=${pref.mel}/4 · CAOS=${pref.chaos}/4 · OSCURIDAD=${pref.dark}/4 · RAREZA=${pref.weird}/4</div>`);
+    lines.push(`<div class="line muted">Score: ${bestScore} (menor = mejor)</div>`);
+
+    // Links
+    lines.push(`<div class="line"> </div>`);
+    lines.push(`<div class="line">Banda: <a href="${wiki}" target="_blank" rel="noopener">${wiki}</a></div>`);
     lines.push(`<div class="line muted">SEED: ${seed}</div>`);
     lines.push(`<div class="line">----------------------------------------</div>`);
-    lines.push(`<div class="line"><a href="#" onclick="renderForm();return false;">Volver</a></div>`);
+    lines.push(`<div class="line r"><a href="#" onclick="renderForm();return false;">Volver a cuestionario</a></div>`);
 
-    screen.innerHTML=lines.join("");
+    screen.innerHTML = lines.join("");
+    scrollTo({top:0, behavior:"smooth"});
   }
 
-  addEventListener('keydown',e=>{if(e.key==='Enter')renderForm();});
+  addEventListener('keydown', (e) => {
+    if(e.key === 'Escape') return scrollTo({top:0, behavior:'smooth'});
+    if(e.key === 'Enter') return renderForm();
+  });
+
   renderForm();
 </script>
