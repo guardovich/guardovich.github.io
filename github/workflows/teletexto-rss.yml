@@ -23,8 +23,10 @@ jobs:
       - name: Install deps
         run: npm init -y && npm i rss-parser
 
-      - name: Generate teletexto JSON
-        run: node scripts/teletexto-rss-to-json.mjs
+      - - name: Generate teletexto JSON
+  env:
+    FOOTBALL_API_KEY: ${{ secrets.FOOTBALL_API_KEY }}
+  run: node scripts/teletexto-rss-to-json.mjs
 
       - name: Commit changes
         run: |
