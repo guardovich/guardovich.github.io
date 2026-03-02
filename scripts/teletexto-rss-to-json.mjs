@@ -87,7 +87,7 @@ function pickSummary(item) {
   );
 }
 
-// RSS robusto: descargamos XML con timeout y lo parseamos (evita cuelgues de parseURL)
+// RSS robusto: descargamos XML con timeout y lo parseamos
 async function loadFeed(url) {
   const xml = await fetchTextWithTimeout(url, {}, 15000);
   const feed = await parser.parseString(xml);
@@ -138,7 +138,7 @@ async function loadLaLigaPage200() {
   if (!FOOTBALL_API_KEY) {
     return {
       header: "200  PRIMERA DIVISIÓN (SIN API KEY)",
-      maxItems: 20,
+      maxItems: 30,
       items: [
         {
           title: "Configura el secret FOOTBALL_API_KEY",
@@ -174,12 +174,15 @@ async function loadLaLigaPage200() {
     const live = Array.isArray(liveData?.matches) ? liveData.matches : [];
     const finished = Array.isArray(finData?.matches) ? finData.matches : [];
 
-    finished.sort((a, b) => (Date.parse(b.utcDate || "") || 0) - (Date.parse(a.utcDate || "") || 0));
+    finished.sort(
+      (a, b) => (Date.parse(b.utcDate || "") || 0) - (Date.parse(a.utcDate || "") || 0)
+    );
     const recentFinished = finished.slice(0, 12);
 
+    // ===== RESULTADOS =====
     items.push({
       title: live.length ? "RESULTADOS (EN DIRECTO)" : "RESULTADOS (ÚLTIMOS)",
-      link: "https://www.laliga.com/",
+      link: "",
       summary: ""
     });
 
@@ -202,30 +205,41 @@ async function loadLaLigaPage200() {
 
       items.push({
         title: `${h} ${safeNum(hs).padStart(2, " ")}-${safeNum(as).padEnd(2, " ")} ${a}`,
-        link: "https://www.laliga.com/",
-        summary: m?.status || ""
+        link: "",
+        summary: ""
       });
     }
 
-    items.push({ title: "CLASIFICACIÓN (TOP 10)", link: "https://www.laliga.com/", summary: "" });
+    // ===== CLASIFICACIÓN COMPLETA =====
+    items.push({ title: "CLASIFICACIÓN", link: "", summary: "" });
+    items.push({ title: "POS EQ  PJ  G  E  P  GF  GC  DG  PTS", link: "", summary: "" });
 
     const table =
       tableData?.standings?.find((s) => s.type === "TOTAL")?.table ||
       tableData?.standings?.[0]?.table ||
       [];
 
-    for (const row of table.slice(0, 10)) {
+    for (const row of table) {
       const pos = String(row.position).padStart(2, " ");
-      const t = abbr(row?.team?.shortName || row?.team?.name || "TEAM");
+      const eq  = abbr(row?.team?.shortName || row?.team?.name || "TEAM");
+      const pj  = String(row.playedGames).padStart(2, " ");
+      const g   = String(row.won).padStart(2, " ");
+      const e   = String(row.draw).padStart(2, " ");
+      const p   = String(row.lost).padStart(2, " ");
+      const gf  = String(row.goalsFor).padStart(2, " ");
+      const gc  = String(row.goalsAgainst).padStart(2, " ");
+      const dg  = String(row.goalDifference).padStart(3, " ");
       const pts = String(row.points).padStart(3, " ");
+
       items.push({
-        title: `${pos}. ${t}  ${pts} pts`,
-        link: row?.team?.website || "https://www.laliga.com/",
+        title: `${pos}  ${eq}  ${pj}  ${g} ${e} ${p}  ${gf}  ${gc} ${dg} ${pts}`,
+        link: "",
         summary: ""
       });
     }
 
-    return { header, maxItems: 40, items };
+    // max alto para que quepa tabla completa
+    return { header, maxItems: 120, items };
   } catch (e) {
     return {
       header: "200  PRIMERA DIVISIÓN (TEMP NO DISP.)",
