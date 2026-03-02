@@ -35,8 +35,9 @@
 
       <div class="divider"></div>
 
-      <!-- Navegación dinámica -->
+      <!-- ===== MENÚ ===== -->
       <nav class="menu">
+
         <a class="menu-item {% if page.url == '/' %}active{% endif %}"
            href="{{ '/' | relative_url }}">⌂ Inicio</a>
 
@@ -45,8 +46,14 @@
 
         <a class="menu-item {% if page.url contains 'docencia' %}active{% endif %}"
            href="{{ '/docencia.html' | relative_url }}">◇ Docencia</a>
-        <a class="menu-item {% if page.title == 'Publicaciones' %}active{% endif %}"
-   href="{{ '/publicaciones.html' | relative_url }}">✦ Publicaciones</a>
+
+        <a class="menu-item {% if page.url contains 'publicaciones' %}active{% endif %}"
+           href="{{ '/publicaciones.html' | relative_url }}">✦ Publicaciones</a>
+
+        <!-- NUEVO ENLACE TELETTEXTO -->
+        <a class="menu-item {% if page.url contains 'teletexto' %}active{% endif %}"
+           href="{{ '/teletexto.html' | relative_url }}">▦ Teletexto</a>
+
       </nav>
 
       <div class="divider"></div>
