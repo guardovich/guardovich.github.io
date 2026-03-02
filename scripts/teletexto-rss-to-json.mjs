@@ -12,6 +12,19 @@ const parser = new Parser({
 // Football Data API key via GitHub Actions secret env
 const FOOTBALL_API_KEY = process.env.FOOTBALL_API_KEY;
 
+// Timeout helper (evita cuelgues)
+async function fetchJsonWithTimeout(url, options = {}, ms = 15000) {
+  const ctrl = new AbortController();
+  const t = setTimeout(() => ctrl.abort(), ms);
+  try {
+    const res = await fetch(url, { ...options, signal: ctrl.signal });
+    // Si la API devuelve error HTTP, intentamos leer body igualmente
+    return await res.json();
+  } finally {
+    clearTimeout(t);
+  }
+}
+
 // =========================
 // CONFIG: PÁGINAS RSS
 // =========================
@@ -143,98 +156,112 @@ async function loadLaLigaPage200() {
 
   const headers = { "X-Auth-Token": FOOTBALL_API_KEY };
 
-  // LIVE (si hay)
-  const liveRes = await fetch(
-    "https://api.football-data.org/v4/competitions/PD/matches?status=LIVE",
-    { headers }
-  );
-  const liveData = await liveRes.json();
+  try {
+    // ✅ AQUÍ está el cambio: usamos fetchJsonWithTimeout
+    const liveData = await fetchJsonWithTimeout(
+      "https://api.football-data.org/v4/competitions/PD/matches?status=LIVE",
+      { headers },
+      15000
+    );
 
-  // Últimos finalizados (fallback)
-  const finRes = await fetch(
-    "https://api.football-data.org/v4/competitions/PD/matches?status=FINISHED",
-    { headers }
-  );
-  const finData = await finRes.json();
+    const finData = await fetchJsonWithTimeout(
+      "https://api.football-data.org/v4/competitions/PD/matches?status=FINISHED",
+      { headers },
+      15000
+    );
 
-  // Clasificación
-  const tableRes = await fetch(
-    "https://api.football-data.org/v4/competitions/PD/standings",
-    { headers }
-  );
-  const tableData = await tableRes.json();
+    const tableData = await fetchJsonWithTimeout(
+      "https://api.football-data.org/v4/competitions/PD/standings",
+      { headers },
+      15000
+    );
 
-  const items = [];
+    const items = [];
 
-  const live = Array.isArray(liveData?.matches) ? liveData.matches : [];
-  const finished = Array.isArray(finData?.matches) ? finData.matches : [];
+    const live = Array.isArray(liveData?.matches) ? liveData.matches : [];
+    const finished = Array.isArray(finData?.matches) ? finData.matches : [];
 
-  finished.sort(
-    (a, b) => (Date.parse(b.utcDate || "") || 0) - (Date.parse(a.utcDate || "") || 0)
-  );
-  const recentFinished = finished.slice(0, 12);
+    finished.sort(
+      (a, b) => (Date.parse(b.utcDate || "") || 0) - (Date.parse(a.utcDate || "") || 0)
+    );
+    const recentFinished = finished.slice(0, 12);
 
-  // ===== RESULTADOS =====
-  items.push({
-    title: live.length ? "RESULTADOS (EN DIRECTO)" : "RESULTADOS (ÚLTIMOS)",
-    link: "https://www.laliga.com/",
-    summary: ""
-  });
-
-  const pickMatches = live.length ? live.slice(0, 10) : recentFinished.slice(0, 10);
-
-  for (const m of pickMatches) {
-    const h = abbr(m?.homeTeam?.shortName || m?.homeTeam?.name || "HOME");
-    const a = abbr(m?.awayTeam?.shortName || m?.awayTeam?.name || "AWAY");
-
-    // En LIVE, fullTime a veces viene null. Probamos regularTime/halfTime como fallback.
-    const hs =
-      m?.score?.fullTime?.home ??
-      m?.score?.regularTime?.home ??
-      m?.score?.halfTime?.home ??
-      "-";
-    const as =
-      m?.score?.fullTime?.away ??
-      m?.score?.regularTime?.away ??
-      m?.score?.halfTime?.away ??
-      "-";
-
-    const line = `${h} ${safeNum(hs).padStart(2, " ")}-${safeNum(as).padEnd(
-      2,
-      " "
-    )} ${a}`;
-
+    // ===== RESULTADOS =====
     items.push({
-      title: line,
-      link: m?.id ? `https://www.laliga.com/` : "https://www.laliga.com/",
-      summary: m?.status || ""
-    });
-  }
-
-  // ===== CLASIFICACIÓN =====
-  items.push({
-    title: "CLASIFICACIÓN (TOP 10)",
-    link: "https://www.laliga.com/",
-    summary: ""
-  });
-
-  const table =
-    tableData?.standings?.find((s) => s.type === "TOTAL")?.table ||
-    tableData?.standings?.[0]?.table ||
-    [];
-
-  for (const row of table.slice(0, 10)) {
-    const pos = String(row.position).padStart(2, " ");
-    const t = abbr(row?.team?.shortName || row?.team?.name || "TEAM");
-    const pts = String(row.points).padStart(3, " ");
-    items.push({
-      title: `${pos}. ${t}  ${pts} pts`,
-      link: row?.team?.website || "https://www.laliga.com/",
+      title: live.length ? "RESULTADOS (EN DIRECTO)" : "RESULTADOS (ÚLTIMOS)",
+      link: "https://www.laliga.com/",
       summary: ""
     });
-  }
 
-  return { header, maxItems: 40, items };
+    const pickMatches = live.length ? live.slice(0, 10) : recentFinished.slice(0, 10);
+
+    for (const m of pickMatches) {
+      const h = abbr(m?.homeTeam?.shortName || m?.homeTeam?.name || "HOME");
+      const a = abbr(m?.awayTeam?.shortName || m?.awayTeam?.name || "AWAY");
+
+      const hs =
+        m?.score?.fullTime?.home ??
+        m?.score?.regularTime?.home ??
+        m?.score?.halfTime?.home ??
+        "-";
+      const as =
+        m?.score?.fullTime?.away ??
+        m?.score?.regularTime?.away ??
+        m?.score?.halfTime?.away ??
+        "-";
+
+      const line = `${h} ${safeNum(hs).padStart(2, " ")}-${safeNum(as).padEnd(2, " ")} ${a}`;
+
+      items.push({
+        title: line,
+        link: "https://www.laliga.com/",
+        summary: m?.status || ""
+      });
+    }
+
+    // ===== CLASIFICACIÓN =====
+    items.push({
+      title: "CLASIFICACIÓN (TOP 10)",
+      link: "https://www.laliga.com/",
+      summary: ""
+    });
+
+    const table =
+      tableData?.standings?.find((s) => s.type === "TOTAL")?.table ||
+      tableData?.standings?.[0]?.table ||
+      [];
+
+    for (const row of table.slice(0, 10)) {
+      const pos = String(row.position).padStart(2, " ");
+      const t = abbr(row?.team?.shortName || row?.team?.name || "TEAM");
+      const pts = String(row.points).padStart(3, " ");
+      items.push({
+        title: `${pos}. ${t}  ${pts} pts`,
+        link: row?.team?.website || "https://www.laliga.com/",
+        summary: ""
+      });
+    }
+
+    return { header, maxItems: 40, items };
+  } catch (e) {
+    // Si la API falla o hay timeout, devolvemos una página 200 "degradada"
+    return {
+      header: "200  PRIMERA DIVISIÓN (TEMP NO DISP.)",
+      maxItems: 10,
+      items: [
+        {
+          title: "No se pudo cargar fútbol ahora",
+          link: "https://www.football-data.org/",
+          summary: String(e?.message || e)
+        },
+        {
+          title: "Intenta de nuevo en la próxima actualización",
+          link: "https://www.laliga.com/",
+          summary: ""
+        }
+      ]
+    };
+  }
 }
 
 // =========================
@@ -270,22 +297,8 @@ async function main() {
     };
   }
 
-  // Football page 200
-  try {
-    pages["200"] = await loadLaLigaPage200();
-  } catch (e) {
-    pages["200"] = {
-      header: "200  PRIMERA DIVISIÓN (ERROR)",
-      maxItems: 30,
-      items: [
-        {
-          title: "ERROR cargando fútbol",
-          link: "https://www.football-data.org/",
-          summary: String(e?.message || e)
-        }
-      ]
-    };
-  }
+  // Football page 200 (no rompe si falla)
+  pages["200"] = await loadLaLigaPage200();
 
   const out = {
     generatedAt: new Date().toISOString(),
