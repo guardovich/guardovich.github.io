@@ -81,6 +81,13 @@ permalink: /teletexto.html
     return lines;
   }
 
+  function escapeHtml(s){
+    return String(s).replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;');
+  }
+  function escapeAttr(s){
+    return String(s).replaceAll('"','&quot;');
+  }
+
   function renderPage(page, data){
     pnum.textContent = page;
 
@@ -96,6 +103,43 @@ permalink: /teletexto.html
     const items = block.items || [];
     const max = block.maxItems || 8;
 
+    // ============================
+    // Render especial: PÁG 200 (Fútbol)
+    // - sin numeración
+    // - sin [abrir]
+    // - sin resúmenes (FINISHED/LIVE)
+    // ============================
+    if(pageKey === "200"){
+      const out = [];
+      out.push(`<div class="line c">${escapeHtml(header)}</div>`);
+      out.push(`<div class="line">----------------------------------------</div>`);
+
+      items.slice(0, max).forEach((it) => {
+        const t = stripHtml(it.title || "");
+        if(!t) return;
+
+        // Secciones destacadas
+        if(t.startsWith("RESULTADOS") || t.startsWith("CLASIFICACIÓN")){
+          out.push(`<div class="line y">${escapeHtml(t)}</div>`);
+          return;
+        }
+        // Cabecera de tabla (si la añadimos desde el JSON)
+        if(t.startsWith("POS ")){
+          out.push(`<div class="line b">${escapeHtml(t)}</div>`);
+          return;
+        }
+
+        out.push(`<div class="line">${escapeHtml(t)}</div>`);
+      });
+
+      out.push(`<div class="line r">Ir a: <a href="#" onclick="goto(101);return false;">101</a> · <a href="#" onclick="goto(120);return false;">120</a> · <a href="#" onclick="goto(140);return false;">140</a> · <a href="#" onclick="goto(160);return false;">160</a> · <a href="#" onclick="goto(180);return false;">180</a> · <a href="#" onclick="goto(200);return false;">200</a></div>`);
+
+      screen.innerHTML = out.join("");
+      scrollTo({top:0, behavior:"smooth"});
+      return;
+    }
+
+    // Render normal (resto de páginas)
     const out = [];
     out.push(`<div class="line c">${header}</div>`);
     out.push(`<div class="line">----------------------------------------</div>`);
@@ -117,13 +161,6 @@ permalink: /teletexto.html
 
     screen.innerHTML = out.join("");
     scrollTo({top:0, behavior:"smooth"});
-  }
-
-  function escapeHtml(s){
-    return String(s).replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;');
-  }
-  function escapeAttr(s){
-    return String(s).replaceAll('"','&quot;');
   }
 
   let DATA = null;
