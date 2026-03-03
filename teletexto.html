@@ -19,6 +19,27 @@ permalink: /teletexto.html
   .pill{border:1px solid #444;padding:4px 8px;}
   a{color:var(--c);text-decoration:none;} a:hover{text-decoration:underline;}
   .muted{color:#aaa}
+
+  /* Zebra rows (teletexto vibe) */
+  .item{padding:6px 6px;border-left:3px solid transparent;}
+  .item.odd{background:#050505;border-left-color:#111;}
+  .item.even{background:#020202;border-left-color:#222;}
+  .item .t{font-weight:700;color:var(--y);}
+  .item .s{color:#b9b9b9;}
+  .item .open{margin-top:2px}
+  .sep{height:10px}
+
+  /* Nav links horizontal + pill-ish */
+  .navrow{margin-top:10px;display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+  .navrow .label{color:var(--r);font-weight:700}
+  .navrow a{
+    display:inline-block;
+    border:1px solid #333;
+    padding:4px 8px;
+    border-radius:999px;
+    color:var(--c);
+  }
+  .navrow a:hover{border-color:var(--c)}
 </style>
 
 <div class="ttx">
@@ -80,14 +101,80 @@ permalink: /teletexto.html
   function escapeHtml(s){
     return String(s).replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;');
   }
+  function escapeAttr(s){
+    return String(s).replaceAll('"','&quot;');
+  }
+
+  // ===== Page 200: abreviaturas -> nombres completos (front-only) =====
+  // Ajusta/añade aquí lo que necesites.
+  const TEAM_MAP = {
+    // España / LaLiga (ejemplos típicos que te salen)
+    "REA":"Real Madrid",
+    "BAR":"FC Barcelona",
+    "ATL":"Atlético de Madrid",
+    "SEV":"Sevilla FC",
+    "VAL":"Valencia CF",
+    "ATH":"Athletic Club",
+    "VIL":"Villarreal CF",
+    "OSA":"CA Osasuna",
+    "ESP":"RCD Espanyol",
+    "CEL":"RC Celta",
+    "GIR":"Girona FC",
+    "RAY":"Rayo Vallecano",
+    "ALA":"Deportivo Alavés",
+    "LEV":"Levante UD",
+    "ELC":"Elche CF",
+    "MAL":"Málaga CF"
+  };
+
+  function expandTeamsInLine(title){
+    // Detecta líneas tipo: "GIR  1-2  CEL" o "REA  2-2  SEV"
+    const s = String(title || "").trim();
+    const m = s.match(/^([A-ZÁÉÍÓÚÜÑ]{3})\s+(\d+|-)\s*-\s*(\d+|-)\s+([A-ZÁÉÍÓÚÜÑ]{3})$/);
+    if(!m) return s;
+
+    const h = m[1], hs = m[2], as = m[3], a = m[4];
+    const home = TEAM_MAP[h] || h;
+    const away = TEAM_MAP[a] || a;
+    return `${home} ${hs}-${as} ${away}`;
+  }
+
+  function navHtml(){
+    // botones horizontales + clicables
+    return `
+      <div class="navrow">
+        <span class="label">Ir a:</span>
+        <a href="#" data-page="101">101</a>
+        <a href="#" data-page="120">120</a>
+        <a href="#" data-page="140">140</a>
+        <a href="#" data-page="160">160</a>
+        <a href="#" data-page="180">180</a>
+        <a href="#" data-page="200">200</a>
+      </div>
+    `;
+  }
+
+  function wireNav(data){
+    screen.querySelectorAll('[data-page]').forEach(a => {
+      a.addEventListener('click', (e) => {
+        e.preventDefault();
+        const page = Number(a.getAttribute('data-page'));
+        renderPage(page, data);
+      });
+    });
+  }
 
   function renderPage(page, data){
     pnum.textContent = page;
 
     const block = data.pages?.[String(page)];
     if(!block){
-      screen.innerHTML = `<div class="line r">Página ${page} no disponible</div>
-                          <div class="line">Teclea 101 / 120 / 140 / 160 / 180 / 200</div>`;
+      screen.innerHTML = `
+        <div class="line r">Página ${page} no disponible</div>
+        <div class="line muted">Teclea 101 / 120 / 140 / 160 / 180 / 200</div>
+        ${navHtml()}
+      `;
+      wireNav(data);
       return;
     }
 
@@ -99,39 +186,40 @@ permalink: /teletexto.html
     out.push(`<div class="line c">${escapeHtml(header)}</div>`);
     out.push(`<div class="line">----------------------------------------</div>`);
 
-    items.slice(0, max).forEach((it) => {
-      const title = stripHtml(it.title);
-      const desc  = stripHtml(it.summary || it.description || "");
+    items.slice(0, max).forEach((it, idx) => {
+      const oddEven = (idx % 2 === 0) ? "odd" : "even";
 
-      out.push(`<div class="line b">${escapeHtml(title)}</div>`);
-      wrap(desc, 66).slice(0, 3).forEach(l => out.push(`<div class="line muted">${escapeHtml(l)}</div>`));
-      out.push(`<div class="line"> </div>`);
+      let title = stripHtml(it.title);
+      // Solo para la 200: expande equipos si encaja
+      if (String(page) === "200") title = expandTeamsInLine(title);
+
+      const desc  = stripHtml(it.summary || it.description || "");
+      const link = it.link || "";
+
+      out.push(`<div class="item ${oddEven}">`);
+      out.push(`<div class="t">${escapeHtml(title)}</div>`);
+
+      // En resultados de fútbol suele ser FINISHED/LIVE, lo ponemos compacto
+      const isTiny = String(page) === "200" && (desc === "FINISHED" || desc === "LIVE" || desc === "IN_PLAY");
+      if(desc){
+        const lines = wrap(desc, 66).slice(0, isTiny ? 1 : 3);
+        lines.forEach(l => out.push(`<div class="s">${escapeHtml(l)}</div>`));
+      }
+
+      // ✅ Enlace al final de cada “noticia”
+      if(link){
+        out.push(`<div class="open"><a href="${escapeAttr(link)}" target="_blank" rel="noopener">[abrir]</a></div>`);
+      }
+
+      out.push(`</div>`);
+      out.push(`<div class="sep"></div>`);
     });
 
-    // ✅ LINKS CLICKABLES
-    out.push(`
-      <div class="line r">
-        Ir a:
-        <a href="#" data-goto="101">101</a> ·
-        <a href="#" data-goto="120">120</a> ·
-        <a href="#" data-goto="140">140</a> ·
-        <a href="#" data-goto="160">160</a> ·
-        <a href="#" data-goto="180">180</a> ·
-        <a href="#" data-goto="200">200</a>
-      </div>
-    `);
+    out.push(navHtml());
 
     screen.innerHTML = out.join("");
+    wireNav(data);
     scrollTo({top:0, behavior:"smooth"});
-
-    // ✅ ACTIVAR CLICK-TO-GO
-    screen.querySelectorAll('a[data-goto]').forEach(a => {
-      a.addEventListener('click', (ev) => {
-        ev.preventDefault();
-        const p = Number(a.dataset.goto);
-        renderPage(p, data);
-      });
-    });
   }
 
   let DATA = null;
