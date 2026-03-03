@@ -108,9 +108,30 @@ permalink: /teletexto.html
       out.push(`<div class="line"> </div>`);
     });
 
-    out.push(`<div class="line r">Ir a: 101 · 120 · 140 · 160 · 180 · 200</div>`);
+    // ✅ LINKS CLICKABLES
+    out.push(`
+      <div class="line r">
+        Ir a:
+        <a href="#" data-goto="101">101</a> ·
+        <a href="#" data-goto="120">120</a> ·
+        <a href="#" data-goto="140">140</a> ·
+        <a href="#" data-goto="160">160</a> ·
+        <a href="#" data-goto="180">180</a> ·
+        <a href="#" data-goto="200">200</a>
+      </div>
+    `);
+
     screen.innerHTML = out.join("");
     scrollTo({top:0, behavior:"smooth"});
+
+    // ✅ ACTIVAR CLICK-TO-GO
+    screen.querySelectorAll('a[data-goto]').forEach(a => {
+      a.addEventListener('click', (ev) => {
+        ev.preventDefault();
+        const p = Number(a.dataset.goto);
+        renderPage(p, data);
+      });
+    });
   }
 
   let DATA = null;
