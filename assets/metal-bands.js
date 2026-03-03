@@ -442,6 +442,10 @@ window.METAL_BANDS = [
 {t:"Clearing the Path to Ascend",y:2014}
 ]},
 
+{ name:"Bifrost", style:["heavy","melodic","thrash","prog"], mood:{rage:6,mel:6,chaos:4}, albums:[
+  {t:"Seeking Evolution (EP)",y:2003}, {t:"Moving On",y:2007}, {t:"Freedom",y:2011}, {t:"Her Den",y:2022}
+]},
+
 { name:"Alcest", style:["post","black"], mood:{rage:3,mel:8,chaos:3}, albums:[
 {t:"Écailles de lune",y:2010}
 ]}
