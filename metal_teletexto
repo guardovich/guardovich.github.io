@@ -29,6 +29,9 @@ permalink: /metal-teletexto.html
   .blink { animation: blink 0.75s steps(1,end) infinite; }
   @keyframes blink { 50% { opacity: 0; } }
 
+  .bob{ animation: bob 0.9s steps(2,end) infinite; }
+  @keyframes bob { 50% { transform: translateY(-6px); } }
+
   .big-album{
     margin-top:6px;
     font-size:34px;
@@ -56,6 +59,15 @@ permalink: /metal-teletexto.html
     text-align:center;
     border-radius:12px;
   }
+
+  .pixel-row{
+    display:flex;
+    gap:14px;
+    justify-content:center;
+    align-items:center;
+    flex-wrap:wrap;
+  }
+
   .pixel-box svg{
     image-rendering: pixelated;
     width:240px;
@@ -63,11 +75,41 @@ permalink: /metal-teletexto.html
     display:block;
     margin:0 auto;
   }
+
+  /* Bigger + more arcade */
   .pixel-text{
-    margin-top:8px;
-    font-size:16px;
-    letter-spacing:3px;
+    margin-top:10px;
+    font-size:22px;
+    letter-spacing:4px;
     color:var(--y);
+    text-transform:uppercase;
+    text-shadow: 0 0 8px rgba(255,255,0,.35);
+  }
+
+  .redhead svg{ width:140px; }
+
+  /* “Iron Maiden-ish” quote (sin usar tipografía oficial) */
+  .maiden-quote{
+    margin-top:12px;
+    font-size:28px;
+    text-transform:uppercase;
+    letter-spacing:2px;
+    font-weight:900;
+    line-height:1.1;
+    background: linear-gradient(180deg, #ff3b3b 0%, #b30000 60%, #5a0000 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow:
+      3px 3px 0 #000,
+      -2px -2px 0 #000,
+      0 0 8px rgba(255,0,0,0.6);
+    font-family: Impact, Haettenschweiler, "Arial Black", sans-serif;
+  }
+  .maiden-source{
+    font-size:14px;
+    color:var(--y);
+    margin-top:4px;
+    letter-spacing:2px;
     text-transform:uppercase;
   }
 </style>
@@ -115,19 +157,15 @@ permalink: /metal-teletexto.html
   function clamp(n,a,b){ return Math.max(a, Math.min(b,n)); }
 
   function guitarColorByRage(rage0to4){
-    // Arcade palette
     const colors = ["#39f","#0ff","#0f0","#ff0","#f33"]; // calm -> critical
     return colors[clamp(rage0to4,0,4)];
   }
 
   function bandWikiLink(name){
-    // simple safe-ish: spaces -> _
     return "https://en.wikipedia.org/wiki/" + encodeURIComponent(name.replaceAll(" ","_"));
   }
 
   // ---------- catalog (40 bands, discography broad) ----------
-  // Nota honesta: esta lista está orientada a "álbumes de estudio clave + muchos completos".
-  // Algunas bandas tienen ediciones/EP/compilaciones enormes; aquí priorizamos discografía de estudio (y algún live icónico).
   const BANDS = [
     {name:"Black Sabbath", style:["classic","doom"], mood:{rage:5,mel:4,chaos:2}, albums:[
       {t:"Black Sabbath", y:1970},{t:"Paranoid", y:1970},{t:"Master of Reality", y:1971},{t:"Vol. 4", y:1972},
@@ -366,7 +404,6 @@ permalink: /metal-teletexto.html
   }
 
   function scoreBand(pref, band){
-    // Pref 0..4 -> scale to 0..8
     const rage  = pref.rage  * 2;
     const mel   = pref.mel   * 2;
     const chaos = pref.chaos * 2;
@@ -375,7 +412,6 @@ permalink: /metal-teletexto.html
     const dm = Math.abs((band.mood.mel||0)  - mel);
     const dc = Math.abs((band.mood.chaos||0)- chaos);
 
-    // "weird" biases
     const weird = pref.weird;
     const isWeirdBand =
       band.style.includes("math") || band.style.includes("industrial") || band.style.includes("prog") || band.style.includes("black") || band.style.includes("grind");
@@ -384,25 +420,21 @@ permalink: /metal-teletexto.html
     if(weird >= 3 && isWeirdBand) weirdBonus -= 2;
     if(weird <= 1 && isWeirdBand) weirdBonus += 2;
 
-    // dark biases: doom/black/death/extreme when dark high
     const dark = pref.dark;
     const isDark = band.style.includes("doom") || band.style.includes("black") || band.style.includes("death") || band.style.includes("extreme") || band.style.includes("grind");
     let darkBonus = 0;
     if(dark >= 3 && isDark) darkBonus -= 1;
     if(dark <= 1 && isDark) darkBonus += 1;
 
-    return (dr + dm + dc) + weirdBonus + darkBonus; // lower = better
+    return (dr + dm + dc) + weirdBonus + darkBonus;
   }
 
   function pickAlbumFromBand(rng, band, pref){
-    // pick album weighted by "era vibe": if rage high, tend to earlier heavier classics in band list
-    // simple: choose index with skew
     const n = band.albums.length;
     if(n === 1) return band.albums[0];
 
-    const rage = pref.rage; // 0..4
-    // Skew: higher rage -> earlier half
-    let bias = 0.5 - (rage * 0.08); // 0.5..0.18
+    const rage = pref.rage;
+    let bias = 0.5 - (rage * 0.08);
     bias = clamp(bias, 0.18, 0.55);
 
     const r = rng();
@@ -415,7 +447,6 @@ permalink: /metal-teletexto.html
     const seed = hashString(JSON.stringify(pref) + "|" + new Date().toISOString().slice(0,10));
     const rng  = mulberry32(seed);
 
-    // Pick best band(s)
     let bestScore = Infinity;
     let bestBands = [];
     for(const b of BANDS){
@@ -451,44 +482,76 @@ permalink: /metal-teletexto.html
       "Porque hoy el feed necesita un contraataque sonoro."
     ];
 
+    const GOSSIP = [
+      "“Todos los solos de ese primer disco eran míos.” — David Mustaine (otra vez).",
+      "“Lo llamaron ‘ruido’. Yo lo llamé ‘salida de emergencia’.” — Lemmy (probablemente).",
+      "“El productor dijo ‘menos distorsión’. Respondimos ‘menos productor’.” — Anónimo, 1986.",
+      "“Si suena perfecto, no es metal. Es contabilidad.” — Archivo interno del sistema.",
+      "“Me dijeron que bajara el volumen. Subí la banda.” — Declaración no verificada."
+    ];
+
     const styleLine = band.style.join(", ").toUpperCase();
     const wiki = bandWikiLink(band.name);
-    const albumText = `${album.t} (${album.y})`;
 
     const lines = [];
     lines.push(`<div class="line c">270  RESULTADO: DISCO RECOMENDADO</div>`);
     lines.push(`<div class="line">----------------------------------------</div>`);
 
-    // Big visual header
     lines.push(`<div class="frame">`);
     lines.push(`<div class="big-artist y">${band.name}</div>`);
     lines.push(`<div class="big-album b">${album.t}</div>`);
     lines.push(`<div class="line">Año: <span class="y">${album.y}</span> · Estilo: <span class="y">${styleLine}</span></div>`);
     lines.push(`</div>`);
 
-    // Pixel guitar + blink
+    // Heavy pelirrojo + Flying V
     lines.push(`
       <div class="pixel-box">
-        <svg viewBox="0 0 64 128" xmlns="http://www.w3.org/2000/svg" aria-label="pixel guitar">
-          <!-- cuerpo -->
-          <rect x="20" y="40" width="24" height="40" fill="${gcol}"/>
-          <!-- contorno -->
-          <rect x="19" y="39" width="26" height="42" fill="none" stroke="#111" stroke-width="2"/>
-          <!-- mástil -->
-          <rect x="30" y="0" width="4" height="62" fill="#ccc"/>
-          <rect x="29" y="0" width="6" height="62" fill="none" stroke="#111" stroke-width="2"/>
-          <!-- clavijero -->
-          <rect x="26" y="0" width="12" height="8" fill="#999"/>
-          <rect x="25" y="0" width="14" height="10" fill="none" stroke="#111" stroke-width="2"/>
-          <!-- pastillas -->
-          <rect x="24" y="50" width="16" height="4" fill="#000"/>
-          <rect x="24" y="60" width="16" height="4" fill="#000"/>
-          <!-- puente -->
-          <rect x="26" y="75" width="12" height="4" fill="#000"/>
-          <!-- cuerdas (arcade vibes) -->
-          <rect x="31" y="8" width="1" height="70" fill="#222"/>
-          <rect x="33" y="8" width="1" height="70" fill="#222"/>
-        </svg>
+        <div class="pixel-row">
+          <div class="redhead bob" aria-label="pixel metalhead">
+            <svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+              <!-- pelo rojo -->
+              <rect x="10" y="6" width="44" height="20" fill="#f33"/>
+              <rect x="6" y="10" width="8" height="18" fill="#f33"/>
+              <rect x="50" y="10" width="8" height="18" fill="#f33"/>
+              <!-- cara -->
+              <rect x="16" y="18" width="32" height="24" fill="#d6b48c"/>
+              <!-- ojos -->
+              <rect x="22" y="28" width="6" height="4" fill="#000"/>
+              <rect x="36" y="28" width="6" height="4" fill="#000"/>
+              <!-- boca -->
+              <rect x="28" y="38" width="8" height="3" fill="#000"/>
+              <!-- camiseta -->
+              <rect x="14" y="42" width="36" height="18" fill="#111"/>
+              <!-- logo -->
+              <rect x="24" y="48" width="16" height="4" fill="#0ff"/>
+            </svg>
+          </div>
+
+          <div>
+            <svg viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" aria-label="pixel V guitar">
+              <!-- mástil -->
+              <rect x="60" y="6" width="8" height="64" fill="#cfcfcf"/>
+              <rect x="59" y="6" width="10" height="64" fill="none" stroke="#111" stroke-width="3"/>
+              <!-- clavijero -->
+              <rect x="52" y="2" width="24" height="10" fill="#999"/>
+              <rect x="51" y="1" width="26" height="12" fill="none" stroke="#111" stroke-width="3"/>
+              <!-- cuerpo V -->
+              <polygon points="64,58 20,118 46,118 64,92" fill="${gcol}"/>
+              <polygon points="64,58 108,118 82,118 64,92" fill="${gcol}"/>
+              <polygon points="64,58 20,118 46,118 64,92 82,118 108,118" fill="none" stroke="#111" stroke-width="4"/>
+              <!-- pastillas -->
+              <rect x="52" y="66" width="24" height="6" fill="#000"/>
+              <rect x="52" y="78" width="24" height="6" fill="#000"/>
+              <!-- puente -->
+              <rect x="54" y="90" width="20" height="6" fill="#000"/>
+              <!-- cuerdas -->
+              <rect x="62" y="10" width="1" height="90" fill="#222"/>
+              <rect x="65" y="10" width="1" height="90" fill="#222"/>
+              <rect x="68" y="10" width="1" height="90" fill="#222"/>
+            </svg>
+          </div>
+        </div>
+
         <div class="pixel-text blink">DAVE MUSTAINE WAS HERE</div>
       </div>
     `);
@@ -497,6 +560,16 @@ permalink: /metal-teletexto.html
     lines.push(`<div class="line">${pick(rng, diagnoses)}</div>`);
     lines.push(`<div class="line">${pick(rng, why)}</div>`);
     lines.push(`<div class="line r">${pick(rng, warnings)}</div>`);
+
+    // Cotilleo “Maiden-ish”
+    const gossip = pick(rng, GOSSIP);
+    const parts = gossip.split("—");
+
+    lines.push(`<div class="line"> </div>`);
+    lines.push(`<div class="maiden-quote">"${(parts[0]||"").trim()}"</div>`);
+    if(parts[1]){
+      lines.push(`<div class="maiden-source">— ${(parts[1]||"").trim()}</div>`);
+    }
 
     // Readout
     lines.push(`<div class="line"> </div>`);
