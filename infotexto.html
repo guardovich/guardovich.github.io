@@ -25,8 +25,8 @@ permalink: /infotexto.html
     </div>
 
     <div class="bar-right">
-      <div class="nutri" id="nutriBox" title="Indicador global (media de variables)">
-        <div class="nutri-grade" id="nutriGrade">B</div>
+      <div class="nutri" id="nutriBox">
+        <div class="nutri-grade" id="nutriGrade">—</div>
         <div class="nutri-meta">
           <div class="nutri-title">Indicador global</div>
           <div class="nutri-sub" id="nutriAvg">—/100</div>
@@ -40,7 +40,6 @@ permalink: /infotexto.html
       <div class="panel">
         <div class="panel-title">
           <span class="c">LISTA DE MEDIOS</span>
-          <span class="dim"> (haz clic para cargar)</span>
         </div>
         <div id="list" class="list"></div>
       </div>
@@ -48,7 +47,6 @@ permalink: /infotexto.html
       <div class="panel">
         <div class="panel-title">
           <span class="y">DETALLE</span>
-          <span class="dim"> (editable, 0–100)</span>
         </div>
 
         <div id="detail" class="detail">
@@ -66,14 +64,10 @@ permalink: /infotexto.html
           </div>
           <div class="row">
             <div class="k">URL</div>
-            <div class="v"><a id="d_url" href="#" target="_blank" rel="noopener">—</a></div>
+            <div class="v"><a id="d_url" href="#" target="_blank">—</a></div>
           </div>
 
           <div class="vars" id="sliders"></div>
-
-          <div class="note">
-            Nota: “Equilibrio político” se interpreta como <span class="y">pluralidad/balance</span> (más alto = más balanceado).
-          </div>
         </div>
       </div>
     </div>
@@ -82,14 +76,16 @@ permalink: /infotexto.html
       <div class="panel">
         <div class="panel-title">
           <span class="m">RADAR 5 PUNTAS</span>
-          <span class="dim"> (estilo stats FIFA)</span>
         </div>
 
         <div class="radar-wrap">
-          <svg id="radar" width="360" height="360" viewBox="0 0 360 360" aria-label="Radar 5 variables">
-            <rect x="0" y="0" width="360" height="360" fill="transparent"></rect>
+          <svg id="radar" width="360" height="360" viewBox="0 0 360 360">
+            <rect width="360" height="360" fill="transparent"></rect>
             <g id="grid"></g>
-            <polygon id="valuePoly" fill="rgba(0,255,255,0.18)" stroke="rgba(0,255,255,0.9)" stroke-width="2"></polygon>
+            <polygon id="valuePoly"
+              fill="rgba(0,255,255,0.18)"
+              stroke="rgba(0,255,255,0.9)"
+              stroke-width="2"></polygon>
             <g id="dots"></g>
             <g id="labels"></g>
           </svg>
@@ -97,521 +93,146 @@ permalink: /infotexto.html
 
         <div class="metrics" id="metricsText">—</div>
       </div>
-
-      <div class="panel">
-        <div class="panel-title">
-          <span class="g">METODOLOGÍA</span>
-          <span class="dim"> (placeholder)</span>
-        </div>
-        <div class="method">
-          <div>· Independencia</div>
-          <div>· Reputación</div>
-          <div>· Transparencia</div>
-          <div>· Rigor</div>
-          <div>· Equilibrio político</div>
-          <div class="dim" style="margin-top:10px">
-            Esta versión usa valores “semilla” para montar la UI. Luego conectamos tu sistema real (manual o automático) y
-            sacamos la base de datos a ficheros por país.
-          </div>
-        </div>
-      </div>
     </div>
   </div>
 </section>
 
 <style>
-  :root{
-    --bg:#000; --fg:#e8e8e8;
-    --c:#0ff; --y:#ff0; --m:#f0f; --g:#0f0; --r:#f33; --b:#39f;
-    --dim:#9aa;
-  }
+:root{
+  --bg:#000; --fg:#e8e8e8;
+  --c:#0ff; --y:#ff0; --m:#f0f;
+  --dim:#9aa;
+}
+.infotexto{
+  max-width:1100px;
+  margin:14px auto;
+  padding:14px;
+  background:var(--bg);
+  color:var(--fg);
+  border:2px solid #222;
+  font-family:monospace;
+}
+.hdr{display:flex;justify-content:space-between;border-bottom:1px solid #222;padding-bottom:10px;margin-bottom:12px;}
+.logo{color:var(--c);font-weight:900;font-size:22px;}
+.tag{color:var(--dim);font-size:12px;}
 
-  .infotexto{
-    max-width: 1100px;
-    margin: 14px auto;
-    padding: 14px;
-    background: var(--bg);
-    color: var(--fg);
-    border: 2px solid #222;
-    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-  }
+.bar{display:flex;justify-content:space-between;flex-wrap:wrap;border-bottom:1px solid #222;padding-bottom:12px;margin-bottom:12px;}
+.bar-left{display:flex;gap:10px;flex-wrap:wrap;align-items:center;}
+.lbl{color:var(--y);font-size:12px;}
+.sel,.inp{background:#050505;color:var(--fg);border:1px solid #333;padding:10px;}
+.btn{background:#0b0b0b;color:var(--fg);border:1px solid #333;padding:10px;cursor:pointer;text-transform:uppercase;}
+.btn:hover{border-color:var(--c);color:var(--c);}
+.btn-lg{font-weight:900;}
 
-  .hdr{
-    display:flex;
-    gap:12px;
-    align-items:baseline;
-    justify-content:space-between;
-    padding-bottom:10px;
-    border-bottom:1px solid #222;
-    margin-bottom:12px;
-  }
-  .logo{
-    font-weight: 900;
-    letter-spacing: 1px;
-    color: var(--c);
-    font-size: 22px;
-  }
-  .tag{ color: var(--dim); font-size: 12px; }
+.nutri{border:1px solid #333;padding:10px;display:flex;gap:10px;align-items:center;}
+.nutri-grade{width:44px;height:44px;display:grid;place-items:center;font-weight:900;font-size:22px;border:1px solid #333;}
+.nutri-sub{color:var(--dim);font-size:12px;}
 
-  .bar{
-    display:flex;
-    gap:12px;
-    align-items:center;
-    justify-content:space-between;
-    flex-wrap:wrap;
-    padding: 10px 0 12px;
-    border-bottom:1px solid #222;
-    margin-bottom:12px;
-  }
-  .bar-left{
-    display:flex;
-    gap:10px;
-    align-items:center;
-    flex-wrap:wrap;
-  }
-  .lbl{ color: var(--y); font-size: 12px; }
-  .sel, .inp{
-    background:#050505;
-    color:var(--fg);
-    border:1px solid #333;
-    padding: 10px 12px;
-    outline:none;
-    min-width: 210px;
-  }
-  .sel{ min-width: 140px; }
+.main{display:grid;grid-template-columns:1fr 1fr;gap:14px;}
+@media(max-width:900px){.main{grid-template-columns:1fr;}}
 
-  .btn{
-    background:#0b0b0b;
-    color:var(--fg);
-    border:1px solid #333;
-    padding: 10px 12px;
-    cursor:pointer;
-    text-transform:uppercase;
-    letter-spacing:.6px;
-  }
-  .btn:hover{ border-color: var(--c); color: var(--c); }
-  .btn-lg{ padding: 12px 16px; font-weight: 900; border-color:#3a3a3a; }
-
-  .nutri{
-    border:1px solid #333;
-    padding:10px 12px;
-    display:flex;
-    gap:10px;
-    align-items:center;
-    min-width: 210px;
-  }
-  .nutri-grade{
-    width:44px; height:44px;
-    display:grid; place-items:center;
-    font-weight:900;
-    font-size:22px;
-    border:1px solid #333;
-  }
-  .nutri-title{ font-weight: 800; }
-  .nutri-sub{ color: var(--dim); font-size: 12px; margin-top:2px; }
-
-  .main{
-    display:grid;
-    grid-template-columns: 1.2fr 0.8fr;
-    gap: 14px;
-  }
-  @media (max-width: 980px){
-    .main{ grid-template-columns: 1fr; }
-  }
-
-  .panel{
-    border:1px solid #222;
-    padding: 12px;
-    background: #020202;
-  }
-  .panel-title{
-    font-weight: 900;
-    letter-spacing:.6px;
-    margin-bottom:10px;
-    display:flex;
-    gap:10px;
-    align-items:baseline;
-  }
-
-  .c{ color: var(--c); }
-  .y{ color: var(--y); }
-  .m{ color: var(--m); }
-  .g{ color: var(--g); }
-  .dim{ color: var(--dim); }
-
-  .list{
-    max-height: 300px;
-    overflow:auto;
-    border:1px solid #222;
-  }
-  .item{
-    display:flex;
-    justify-content:space-between;
-    gap:10px;
-    padding: 10px 10px;
-    border-bottom:1px dotted #222;
-    cursor:pointer;
-  }
-  .item:hover{ background:#060606; }
-  .item:last-child{ border-bottom:none; }
-  .item .name{ color: var(--fg); font-weight: 800; }
-  .item .meta{ color: var(--dim); font-size: 12px; }
-
-  .detail .row{
-    display:grid;
-    grid-template-columns: 120px 1fr;
-    gap:10px;
-    padding: 6px 0;
-    border-bottom:1px dotted #222;
-  }
-  .detail .row:last-child{ border-bottom:none; }
-  .detail .k{ color: var(--y); }
-  .detail .v a{ color: var(--c); text-decoration:none; border-bottom:1px dotted #333; }
-  .detail .v a:hover{ border-bottom-color: var(--c); }
-
-  .vars{
-    margin-top: 12px;
-    border:1px solid #222;
-    padding:10px;
-  }
-  .sl-row{
-    display:grid;
-    grid-template-columns: 180px 1fr 52px;
-    gap:10px;
-    align-items:center;
-    padding:6px 0;
-    border-bottom:1px dotted #222;
-  }
-  .sl-row:last-child{ border-bottom:none; }
-  .sl-name{ color: var(--c); font-weight: 800; }
-  .sl-val{ color: var(--y); text-align:right; }
-
-  input[type="range"]{ width:100%; accent-color: var(--c); }
-
-  .radar-wrap{
-    display:flex;
-    justify-content:center;
-    border:1px solid #333;
-    padding:10px;
-    background:#010101;
-  }
-  .metrics{
-    margin-top:10px;
-    border:1px solid #222;
-    padding:10px 12px;
-    line-height:1.35;
-    color: var(--fg);
-  }
-
-  .method{
-    border:1px solid #222;
-    padding:10px 12px;
-    color: var(--fg);
-    line-height:1.55;
-  }
-
-  .note{
-    margin-top:10px;
-    color: var(--dim);
-    font-size: 12px;
-  }
+.panel{border:1px solid #222;padding:12px;background:#020202;}
+.panel-title{font-weight:900;margin-bottom:10px;}
+.list{max-height:280px;overflow:auto;border:1px solid #222;}
+.item{padding:10px;border-bottom:1px dotted #222;cursor:pointer;}
+.item:hover{background:#060606;}
+.row{display:grid;grid-template-columns:120px 1fr;gap:10px;padding:6px 0;border-bottom:1px dotted #222;}
+.k{color:var(--y);}
+.vars{margin-top:10px;border:1px solid #222;padding:10px;}
+.sl-row{display:grid;grid-template-columns:180px 1fr 50px;gap:10px;padding:6px 0;}
+.sl-name{color:var(--c);font-weight:800;}
+.sl-val{color:var(--y);text-align:right;}
+.radar-wrap{display:flex;justify-content:center;border:1px solid #333;padding:10px;background:#010101;}
+.metrics{margin-top:10px;border:1px solid #222;padding:10px;}
 </style>
+
+<!-- 🔥 IMPORTANTE: cargar base de datos antes del script principal -->
+<script src="./data/medios.index.js"></script>
+<script src="./data/medios.es.js"></script>
 
 <script>
 (() => {
-  // 5 variables
-  const VARS = [
-    { key:"independencia", name:"Independencia" },
-    { key:"reputacion",    name:"Reputación" },
-    { key:"transparencia", name:"Transparencia" },
-    { key:"rigor",         name:"Rigor" },
-    { key:"sesgo",         name:"Equilibrio político" }
-  ];
 
-  // Mini-DB incrustada (luego la moveremos a /data/medios.es.js)
-  const DB = {
-    ES: [
-      {
-        id: "elpais",
-        nombre: "El País",
-        pais: "ES",
-        tipo: "Prensa",
-        propietario: "PRISA",
-        url: "https://elpais.com",
-        variables: { independencia:62, reputacion:78, transparencia:55, rigor:74, sesgo:60 }
-      },
-      {
-        id: "elmundo",
-        nombre: "El Mundo",
-        pais: "ES",
-        tipo: "Prensa",
-        propietario: "Unidad Editorial",
-        url: "https://www.elmundo.es",
-        variables: { independencia:58, reputacion:72, transparencia:50, rigor:70, sesgo:55 }
-      },
-      {
-        id: "lavanguardia",
-        nombre: "La Vanguardia",
-        pais: "ES",
-        tipo: "Prensa",
-        propietario: "Grupo Godó",
-        url: "https://www.lavanguardia.com",
-        variables: { independencia:60, reputacion:70, transparencia:52, rigor:68, sesgo:58 }
-      },
-      {
-        id: "rtve",
-        nombre: "RTVE",
-        pais: "ES",
-        tipo: "TV/Radio",
-        propietario: "Corporación RTVE (público)",
-        url: "https://www.rtve.es",
-        variables: { independencia:55, reputacion:66, transparencia:58, rigor:62, sesgo:52 }
-      },
-      {
-        id: "eldiario",
-        nombre: "elDiario.es",
-        pais: "ES",
-        tipo: "Digital",
-        propietario: "Socios / Editorial",
-        url: "https://www.eldiario.es",
-        variables: { independencia:64, reputacion:69, transparencia:62, rigor:67, sesgo:56 }
-      }
-    ]
-  };
+const VARS = [
+  { key:"independencia", name:"Independencia" },
+  { key:"reputacion", name:"Reputación" },
+  { key:"transparencia", name:"Transparencia" },
+  { key:"rigor", name:"Rigor" },
+  { key:"sesgo", name:"Equilibrio político" }
+];
 
-  const $ = (id) => document.getElementById(id);
+const $ = id => document.getElementById(id);
+const listEl = $("list");
+const qEl = $("q");
+const countryEl = $("country");
 
-  const listEl = $("list");
-  const qEl = $("q");
-  const countryEl = $("country");
-  const btnBuscar = $("btnBuscar");
-  const btnRandom = $("btnRandom");
+function getDB(){
+  const c = countryEl.value || "ES";
+  return (window.MEDIA_DB && window.MEDIA_DB[c]) ? window.MEDIA_DB[c] : [];
+}
 
-  const d_nombre = $("d_nombre");
-  const d_tipo = $("d_tipo");
-  const d_propietario = $("d_propietario");
-  const d_url = $("d_url");
-  const slidersEl = $("sliders");
-
-  const grid = $("grid");
-  const labels = $("labels");
-  const poly = $("valuePoly");
-  const dots = $("dots");
-  const metricsText = $("metricsText");
-
-  const nutriGrade = $("nutriGrade");
-  const nutriAvg = $("nutriAvg");
-
-  // Radar geometry
-  const W = 360, H = 360;
-  const cx = W/2, cy = H/2;
-  const R = 130;
-  const steps = 4;
-  const angle0 = -Math.PI/2;
-
-  let current = null; // medio seleccionado
-
-  function clamp(n,a,b){ return Math.max(a, Math.min(b,n)); }
-
-  function polarPoint(r, i){
-    const a = angle0 + i * (2*Math.PI / VARS.length);
-    return [cx + r*Math.cos(a), cy + r*Math.sin(a)];
-  }
-
-  function drawGrid(){
-    grid.innerHTML = "";
-    labels.innerHTML = "";
-
-    // anillos
-    for(let s=1; s<=steps; s++){
-      const rr = (R * s/steps);
-      const pts = VARS.map((_,i) => polarPoint(rr, i).join(",")).join(" ");
-      const p = document.createElementNS("http://www.w3.org/2000/svg","polygon");
-      p.setAttribute("points", pts);
-      p.setAttribute("fill", "transparent");
-      p.setAttribute("stroke", s === steps ? "rgba(255,255,255,0.18)" : "rgba(255,255,255,0.10)");
-      p.setAttribute("stroke-width", "1");
-      grid.appendChild(p);
-    }
-
-    // ejes + labels
-    VARS.forEach((v,i) => {
-      const [x,y] = polarPoint(R, i);
-
-      const axis = document.createElementNS("http://www.w3.org/2000/svg","line");
-      axis.setAttribute("x1", cx); axis.setAttribute("y1", cy);
-      axis.setAttribute("x2", x);  axis.setAttribute("y2", y);
-      axis.setAttribute("stroke", "rgba(255,255,255,0.18)");
-      axis.setAttribute("stroke-width", "1");
-      grid.appendChild(axis);
-
-      const t = document.createElementNS("http://www.w3.org/2000/svg","text");
-      const pad = 14;
-      const lx = x + (x>cx ? pad : (x<cx ? -pad : 0));
-      const ly = y + (y>cy ? pad : (y<cy ? -pad : 0));
-      t.setAttribute("x", lx);
-      t.setAttribute("y", ly);
-      t.setAttribute("fill", "rgba(255,255,0,0.92)");
-      t.setAttribute("font-size", "11");
-      t.setAttribute("text-anchor", x>cx ? "start" : (x<cx ? "end" : "middle"));
-      t.textContent = v.name.toUpperCase();
-      labels.appendChild(t);
-    });
-  }
-
-  function scoreToNutri(avg){
-    if(avg >= 80) return {grade:"A", bg:"rgba(0,255,0,0.35)"};
-    if(avg >= 65) return {grade:"B", bg:"rgba(0,255,255,0.25)"};
-    if(avg >= 50) return {grade:"C", bg:"rgba(255,255,0,0.22)"};
-    if(avg >= 35) return {grade:"D", bg:"rgba(255,153,51,0.22)"};
-    return {grade:"E", bg:"rgba(255,51,51,0.22)"};
-  }
-
-  function renderRadar(vars){
-    const pts = VARS.map((v,i) => {
-      const val = clamp(vars[v.key] ?? 0, 0, 100);
-      const rr = R * (val/100);
-      return polarPoint(rr, i).join(",");
-    }).join(" ");
-    poly.setAttribute("points", pts);
-
-    dots.innerHTML = "";
-    VARS.forEach((v,i) => {
-      const val = clamp(vars[v.key] ?? 0, 0, 100);
-      const rr = R * (val/100);
-      const [x,y] = polarPoint(rr, i);
-
-      const c = document.createElementNS("http://www.w3.org/2000/svg","circle");
-      c.setAttribute("cx", x);
-      c.setAttribute("cy", y);
-      c.setAttribute("r", 4);
-      c.setAttribute("fill", "rgba(0,255,255,0.95)");
-      dots.appendChild(c);
-    });
-
-    const avg = Math.round(VARS.reduce((a,v)=>a+clamp(vars[v.key] ?? 0,0,100),0)/VARS.length);
-    metricsText.innerHTML =
-      VARS.map(v => `· ${v.name}: <span style="color:var(--y)">${clamp(vars[v.key] ?? 0,0,100)}</span>`).join("<br>") +
-      `<br><br><span style="color:var(--c)">MEDIA:</span> <span style="color:var(--y)">${avg}</span>/100`;
-
-    const n = scoreToNutri(avg);
-    nutriGrade.textContent = n.grade;
-    nutriGrade.style.background = n.bg;
-    nutriAvg.textContent = `${avg}/100`;
-  }
-
-  function buildSliders(medio){
-    slidersEl.innerHTML = "";
-    VARS.forEach(v => {
-      const row = document.createElement("div");
-      row.className = "sl-row";
-      row.innerHTML = `
-        <div class="sl-name">${v.name}</div>
-        <input id="in_${v.key}" type="range" min="0" max="100" value="${medio.variables[v.key] ?? 0}">
-        <div class="sl-val"><span id="out_${v.key}">${medio.variables[v.key] ?? 0}</span></div>
-      `;
-      slidersEl.appendChild(row);
-
-      const inp = row.querySelector("input");
-      inp.addEventListener("input", (e) => {
-        medio.variables[v.key] = Number(e.target.value);
-        row.querySelector(`#out_${v.key}`).textContent = medio.variables[v.key];
-        renderRadar(medio.variables);
-      });
-    });
-  }
-
-  function renderDetail(medio){
-    current = medio;
-    d_nombre.textContent = medio.nombre || "—";
-    d_tipo.textContent = medio.tipo || "—";
-    d_propietario.textContent = medio.propietario || "—";
-
-    if(medio.url){
-      d_url.textContent = medio.url;
-      d_url.href = medio.url;
-    } else {
-      d_url.textContent = "—";
-      d_url.href = "#";
-    }
-
-    buildSliders(medio);
-    renderRadar(medio.variables || {});
-  }
-
-  function getDB(){
-    const c = countryEl.value || "ES";
-    return DB[c] || [];
-  }
-
-  function renderList(items){
-    listEl.innerHTML = "";
-    if(!items.length){
-      listEl.innerHTML = `<div class="item"><div class="name">Sin resultados</div><div class="meta">—</div></div>`;
-      return;
-    }
-
-    items.forEach(m => {
-      const it = document.createElement("div");
-      it.className = "item";
-      it.innerHTML = `
-        <div>
-          <div class="name">${m.nombre}</div>
-          <div class="meta">${m.tipo || "—"} · ${m.propietario || "—"}</div>
-        </div>
-        <div class="meta">${m.id}</div>
-      `;
-      it.addEventListener("click", () => renderDetail(m));
-      listEl.appendChild(it);
-    });
-  }
-
-  function search(q){
-    const db = getDB();
-    const needle = (q || "").trim().toLowerCase();
-    if(!needle) return db;
-
-    return db.filter(m =>
-      (m.id && m.id.toLowerCase().includes(needle)) ||
-      (m.nombre && m.nombre.toLowerCase().includes(needle)) ||
-      (m.url && m.url.toLowerCase().includes(needle)) ||
-      (m.propietario && m.propietario.toLowerCase().includes(needle))
-    );
-  }
-
-  function pickRandom(){
-    const db = getDB();
-    if(!db.length) return null;
-    return db[Math.floor(Math.random() * db.length)];
-  }
-
-  // Events
-  btnBuscar.addEventListener("click", () => {
-    const items = search(qEl.value);
-    renderList(items);
-    if(items.length) renderDetail(items[0]);
+function renderList(items){
+  listEl.innerHTML="";
+  items.forEach(m=>{
+    const div=document.createElement("div");
+    div.className="item";
+    div.textContent=m.nombre;
+    div.onclick=()=>renderDetail(m);
+    listEl.appendChild(div);
   });
+}
 
-  qEl.addEventListener("keydown", (e) => {
-    if(e.key === "Enter") btnBuscar.click();
+function renderDetail(m){
+  $("d_nombre").textContent=m.nombre;
+  $("d_tipo").textContent=m.tipo;
+  $("d_propietario").textContent=m.propietario;
+  $("d_url").textContent=m.url;
+  $("d_url").href=m.url;
+  buildSliders(m);
+  renderRadar(m.variables);
+}
+
+function buildSliders(m){
+  const el=$("sliders");
+  el.innerHTML="";
+  VARS.forEach(v=>{
+    const row=document.createElement("div");
+    row.className="sl-row";
+    row.innerHTML=`
+      <div class="sl-name">${v.name}</div>
+      <input type="range" min="0" max="100" value="${m.variables[v.key]}">
+      <div class="sl-val">${m.variables[v.key]}</div>
+    `;
+    const input=row.querySelector("input");
+    const out=row.querySelector(".sl-val");
+    input.oninput=e=>{
+      m.variables[v.key]=Number(e.target.value);
+      out.textContent=e.target.value;
+      renderRadar(m.variables);
+    };
+    el.appendChild(row);
   });
+}
 
-  btnRandom.addEventListener("click", () => {
-    const m = pickRandom();
-    if(m) renderDetail(m);
-  });
+function renderRadar(vars){
+  const avg=Math.round(Object.values(vars).reduce((a,b)=>a+b,0)/5);
+  $("nutriAvg").textContent=avg+"/100";
+  $("nutriGrade").textContent=
+    avg>=80?"A":avg>=65?"B":avg>=50?"C":avg>=35?"D":"E";
+}
 
-  countryEl.addEventListener("change", () => {
-    qEl.value = "";
-    const items = getDB();
-    renderList(items);
-    if(items[0]) renderDetail(items[0]);
-  });
+$("btnBuscar").onclick=()=>{
+  const q=qEl.value.toLowerCase();
+  const items=getDB().filter(m=>m.nombre.toLowerCase().includes(q));
+  renderList(items);
+};
 
-  // Init
-  drawGrid();
-  renderList(getDB());
-  const first = getDB()[0];
-  if(first) renderDetail(first);
+$("btnRandom").onclick=()=>{
+  const db=getDB();
+  const m=db[Math.floor(Math.random()*db.length)];
+  renderDetail(m);
+};
+
+renderList(getDB());
 })();
 </script>
