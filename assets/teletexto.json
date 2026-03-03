@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-03T02:07:18.588Z",
+  "generatedAt": "2026-03-03T06:52:46.940Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
@@ -72,6 +72,12 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "Smoke Rises Over Big Cypress National Preserve",
+          "link": "https://science.nasa.gov/earth/earth-observatory/smoke-rises-over-big-cypress-national-preserve/",
+          "summary": "The National fire has burned tens of thousands of acres within the Florida preserve, fueled by vegetation dried by prolonged drought and killed by recent frost.",
+          "isoDate": "2026-03-03T05:00:00.000Z"
+        },
+        {
           "title": "What’s Up: March 2026 Skywatching Tips from NASA",
           "link": "https://science.nasa.gov/solar-system/whats-up-march-2026-skywatching-tips-from-nasa/",
           "summary": "What are some skywatching highlights in March 2026? A total lunar eclipse blood moon takes centre stage, Venus and Saturn cozy up for a conjunction, and we celebrate the vernal equinox.",
@@ -124,12 +130,6 @@
           "link": "https://www.nature.com/articles/d41586-026-00664-z",
           "summary": "Nature, Published online: 02 March 2026; doi:10.1038/d41586-026-00664-z\nThe country’s tightly controlled digital ecosystem is replete with human stories and acts of subtle resistance.",
           "isoDate": "2026-03-02T00:00:00.000Z"
-        },
-        {
-          "title": "AI agents are ‘aeroplanes for the mind’: five ways to ensure that scientists are responsible pilots",
-          "link": "https://www.nature.com/articles/d41586-026-00665-y",
-          "summary": "Nature, Published online: 02 March 2026; doi:10.1038/d41586-026-00665-y\nAs artificial-intelligence systems take on more of the scientific workflow, the central goal should not be complete automation, but designing platforms that preserve creativity, responsibility and surprise.",
-          "isoDate": "2026-03-02T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Inappropriately located doctype declaration\nLine: 4\nColumn: 9\nChar: e",
-          "isoDate": "2026-03-03T02:07:14.754Z"
+          "isoDate": "2026-03-03T06:52:41.573Z"
+        },
+        {
+          "title": "Amazon says drones damaged three facilities in UAE and Bahrain",
+          "link": "https://www.bbc.com/news/articles/cgk28nj0lrjo?at_medium=RSS&at_campaign=rss",
+          "summary": "The incidents highlight the vulnerability of key technology infrastructure during military conflicts.",
+          "isoDate": "2026-03-03T03:59:26.000Z"
         },
         {
           "title": "UK launches consultation asking for views on under-16s social media ban",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.com/news/articles/c3rzq8d24y9o?at_medium=RSS&at_campaign=rss",
           "summary": "Connecting up music and sports events to the internet is a massive undertaking.",
           "isoDate": "2026-02-27T00:03:10.000Z"
-        },
-        {
-          "title": "Burger King rolls out AI headsets that track employee 'friendliness'",
-          "link": "https://www.bbc.com/news/articles/cgk2zygg0k3o?at_medium=RSS&at_campaign=rss",
-          "summary": "The fast-food chain is testing OpenAI-powered headsets that monitor staff interactions with customers.",
-          "isoDate": "2026-02-26T22:09:46.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-03-03T02:07:16.839Z"
+          "isoDate": "2026-03-03T06:52:45.502Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 58\nChar: =",
-          "isoDate": "2026-03-03T02:07:16.092Z"
+          "isoDate": "2026-03-03T06:52:43.066Z"
         },
         {
           "title": "Watershed Moment for AI–Human Collaboration in Math",
