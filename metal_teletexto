@@ -317,7 +317,7 @@ permalink: /metal-teletexto.html
     // ✅ Botón “Recomendación del día” arriba
     html.push(`
       <div class="row" style="margin-bottom:12px;">
-        <button class="btn btn-primary" id="daily">RECOMENDACIÓN DEL DÍA · DAVID GUARDO</button>
+        <button class="btn btn-primary" id="daily">RECOMENDACIÓN DEL DÍA por DAVID GUARDO</button>
         <span class="muted">Aleatoria, instantánea, sin preguntas.</span>
       </div>
     `);
@@ -397,8 +397,8 @@ permalink: /metal-teletexto.html
     if(isDaily){
       lines.push(`
         <div class="frame">
-          <div class="line y blink">RECOMENDACIÓN DEL DÍA · DAVID GUARDO</div>
-          <div class="line">Esta selección es la mejor medicina por el alma el día de hoy.</div>
+          <div class="line y blink">RECOMENDACIÓN DEL DÍA por DAVID GUARDO</div>
+          <div class="line">Esta selección es la mejor medicina para el alma hoy.</div>
         </div>
       `);
     }
