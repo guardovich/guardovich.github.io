@@ -64,7 +64,7 @@ permalink: /infotexto.html
           </div>
           <div class="row">
             <div class="k">URL</div>
-            <div class="v"><a id="d_url" href="#" target="_blank">—</a></div>
+            <div class="v"><a id="d_url" href="#" target="_blank" rel="noopener">—</a></div>
           </div>
 
           <div class="vars" id="sliders"></div>
@@ -79,7 +79,7 @@ permalink: /infotexto.html
         </div>
 
         <div class="radar-wrap">
-          <svg id="radar" width="360" height="360" viewBox="0 0 360 360">
+          <svg id="radar" width="360" height="360" viewBox="0 0 360 360" aria-label="Radar 5 variables">
             <rect width="360" height="360" fill="transparent"></rect>
             <g id="grid"></g>
             <polygon id="valuePoly"
@@ -143,7 +143,7 @@ permalink: /infotexto.html
 .sl-name{color:var(--c);font-weight:800;}
 .sl-val{color:var(--y);text-align:right;}
 .radar-wrap{display:flex;justify-content:center;border:1px solid #333;padding:10px;background:#010101;}
-.metrics{margin-top:10px;border:1px solid #222;padding:10px;}
+.metrics{margin-top:10px;border:1px solid #222;padding:10px;line-height:1.35;}
 </style>
 
 <!-- 🔥 IMPORTANTE: cargar base de datos antes del script principal -->
@@ -152,87 +152,237 @@ permalink: /infotexto.html
 
 <script>
 (() => {
+  const VARS = [
+    { key:"independencia", name:"Independencia" },
+    { key:"reputacion", name:"Reputación" },
+    { key:"transparencia", name:"Transparencia" },
+    { key:"rigor", name:"Rigor" },
+    { key:"sesgo", name:"Equilibrio político" }
+  ];
 
-const VARS = [
-  { key:"independencia", name:"Independencia" },
-  { key:"reputacion", name:"Reputación" },
-  { key:"transparencia", name:"Transparencia" },
-  { key:"rigor", name:"Rigor" },
-  { key:"sesgo", name:"Equilibrio político" }
-];
+  const $ = id => document.getElementById(id);
 
-const $ = id => document.getElementById(id);
-const listEl = $("list");
-const qEl = $("q");
-const countryEl = $("country");
+  // DOM
+  const listEl = $("list");
+  const qEl = $("q");
+  const countryEl = $("country");
 
-function getDB(){
-  const c = countryEl.value || "ES";
-  return (window.MEDIA_DB && window.MEDIA_DB[c]) ? window.MEDIA_DB[c] : [];
-}
+  const d_nombre = $("d_nombre");
+  const d_tipo = $("d_tipo");
+  const d_propietario = $("d_propietario");
+  const d_url = $("d_url");
+  const slidersEl = $("sliders");
 
-function renderList(items){
-  listEl.innerHTML="";
-  items.forEach(m=>{
-    const div=document.createElement("div");
-    div.className="item";
-    div.textContent=m.nombre;
-    div.onclick=()=>renderDetail(m);
-    listEl.appendChild(div);
+  const grid = $("grid");
+  const labels = $("labels");
+  const poly = $("valuePoly");
+  const dots = $("dots");
+  const metricsText = $("metricsText");
+
+  const nutriGrade = $("nutriGrade");
+  const nutriAvg = $("nutriAvg");
+
+  // Radar geometry (SVG 360x360 viewBox)
+  const W = 360, H = 360;
+  const cx = W/2, cy = H/2;
+  const R = 130;
+  const steps = 4;
+  const angle0 = -Math.PI/2;
+
+  const clamp = (n,a,b) => Math.max(a, Math.min(b,n));
+
+  function polarPoint(r, i){
+    const a = angle0 + i * (2*Math.PI / VARS.length);
+    return [cx + r*Math.cos(a), cy + r*Math.sin(a)];
+  }
+
+  function getDB(){
+    const c = countryEl.value || "ES";
+    return (window.MEDIA_DB && window.MEDIA_DB[c]) ? window.MEDIA_DB[c] : [];
+  }
+
+  function scoreToNutri(avg){
+    if(avg >= 80) return {grade:"A", bg:"rgba(0,255,0,0.35)"};
+    if(avg >= 65) return {grade:"B", bg:"rgba(0,255,255,0.25)"};
+    if(avg >= 50) return {grade:"C", bg:"rgba(255,255,0,0.22)"};
+    if(avg >= 35) return {grade:"D", bg:"rgba(255,153,51,0.22)"};
+    return {grade:"E", bg:"rgba(255,51,51,0.22)"};
+  }
+
+  function drawGrid(){
+    grid.innerHTML = "";
+    labels.innerHTML = "";
+
+    // rings
+    for(let s=1; s<=steps; s++){
+      const rr = (R * s/steps);
+      const pts = VARS.map((_,i) => polarPoint(rr, i).join(",")).join(" ");
+      const p = document.createElementNS("http://www.w3.org/2000/svg","polygon");
+      p.setAttribute("points", pts);
+      p.setAttribute("fill", "transparent");
+      p.setAttribute("stroke", s === steps ? "rgba(255,255,255,0.18)" : "rgba(255,255,255,0.10)");
+      p.setAttribute("stroke-width", "1");
+      grid.appendChild(p);
+    }
+
+    // axes + labels
+    VARS.forEach((v,i) => {
+      const [x,y] = polarPoint(R, i);
+
+      const axis = document.createElementNS("http://www.w3.org/2000/svg","line");
+      axis.setAttribute("x1", cx); axis.setAttribute("y1", cy);
+      axis.setAttribute("x2", x);  axis.setAttribute("y2", y);
+      axis.setAttribute("stroke", "rgba(255,255,255,0.18)");
+      axis.setAttribute("stroke-width", "1");
+      grid.appendChild(axis);
+
+      const t = document.createElementNS("http://www.w3.org/2000/svg","text");
+      const pad = 14;
+      const lx = x + (x>cx ? pad : (x<cx ? -pad : 0));
+      const ly = y + (y>cy ? pad : (y<cy ? -pad : 0));
+      t.setAttribute("x", lx);
+      t.setAttribute("y", ly);
+      t.setAttribute("fill", "rgba(255,255,0,0.92)");
+      t.setAttribute("font-size", "11");
+      t.setAttribute("text-anchor", x>cx ? "start" : (x<cx ? "end" : "middle"));
+      t.textContent = v.name.toUpperCase();
+      labels.appendChild(t);
+    });
+  }
+
+  function renderRadar(vars){
+    // polygon
+    const pts = VARS.map((v,i) => {
+      const val = clamp(vars?.[v.key] ?? 0, 0, 100);
+      const rr = R * (val/100);
+      return polarPoint(rr, i).join(",");
+    }).join(" ");
+    poly.setAttribute("points", pts);
+
+    // dots
+    dots.innerHTML = "";
+    VARS.forEach((v,i) => {
+      const val = clamp(vars?.[v.key] ?? 0, 0, 100);
+      const rr = R * (val/100);
+      const [x,y] = polarPoint(rr, i);
+
+      const c = document.createElementNS("http://www.w3.org/2000/svg","circle");
+      c.setAttribute("cx", x);
+      c.setAttribute("cy", y);
+      c.setAttribute("r", 4);
+      c.setAttribute("fill", "rgba(0,255,255,0.95)");
+      dots.appendChild(c);
+    });
+
+    // metrics + nutri
+    const avg = Math.round(VARS.reduce((a,v)=>a+clamp(vars?.[v.key] ?? 0,0,100),0)/VARS.length);
+    metricsText.innerHTML =
+      VARS.map(v => `· ${v.name}: <span style="color:var(--y)">${clamp(vars?.[v.key] ?? 0,0,100)}</span>`).join("<br>") +
+      `<br><br><span style="color:var(--c)">MEDIA:</span> <span style="color:var(--y)">${avg}</span>/100`;
+
+    const n = scoreToNutri(avg);
+    nutriGrade.textContent = n.grade;
+    nutriGrade.style.background = n.bg;
+    nutriAvg.textContent = `${avg}/100`;
+  }
+
+  function buildSliders(m){
+    slidersEl.innerHTML = "";
+    VARS.forEach(v => {
+      const cur = clamp(m.variables?.[v.key] ?? 0, 0, 100);
+      const row = document.createElement("div");
+      row.className = "sl-row";
+      row.innerHTML = `
+        <div class="sl-name">${v.name}</div>
+        <input type="range" min="0" max="100" value="${cur}">
+        <div class="sl-val">${cur}</div>
+      `;
+      const input = row.querySelector("input");
+      const out = row.querySelector(".sl-val");
+      input.addEventListener("input", (e) => {
+        m.variables[v.key] = Number(e.target.value);
+        out.textContent = e.target.value;
+        renderRadar(m.variables);
+      });
+      slidersEl.appendChild(row);
+    });
+  }
+
+  function renderDetail(m){
+    d_nombre.textContent = m.nombre || "—";
+    d_tipo.textContent = m.tipo || "—";
+    d_propietario.textContent = m.propietario || "—";
+
+    if(m.url){
+      d_url.textContent = m.url;
+      d_url.href = m.url;
+    } else {
+      d_url.textContent = "—";
+      d_url.href = "#";
+    }
+
+    // ensure shape
+    m.variables = m.variables || {};
+    VARS.forEach(v => { if(typeof m.variables[v.key] !== "number") m.variables[v.key] = 0; });
+
+    buildSliders(m);
+    renderRadar(m.variables);
+  }
+
+  function renderList(items){
+    listEl.innerHTML = "";
+    if(!items.length){
+      listEl.innerHTML = `<div class="item">Sin resultados</div>`;
+      return;
+    }
+    items.forEach(m => {
+      const div = document.createElement("div");
+      div.className = "item";
+      div.textContent = m.nombre;
+      div.addEventListener("click", () => renderDetail(m));
+      listEl.appendChild(div);
+    });
+  }
+
+  function search(q){
+    const db = getDB();
+    const needle = (q || "").trim().toLowerCase();
+    if(!needle) return db;
+    return db.filter(m =>
+      (m.id && m.id.toLowerCase().includes(needle)) ||
+      (m.nombre && m.nombre.toLowerCase().includes(needle)) ||
+      (m.url && m.url.toLowerCase().includes(needle)) ||
+      (m.propietario && m.propietario.toLowerCase().includes(needle))
+    );
+  }
+
+  $("btnBuscar").addEventListener("click", () => {
+    const items = search(qEl.value);
+    renderList(items);
+    if(items[0]) renderDetail(items[0]);
   });
-}
 
-function renderDetail(m){
-  $("d_nombre").textContent=m.nombre;
-  $("d_tipo").textContent=m.tipo;
-  $("d_propietario").textContent=m.propietario;
-  $("d_url").textContent=m.url;
-  $("d_url").href=m.url;
-  buildSliders(m);
-  renderRadar(m.variables);
-}
-
-function buildSliders(m){
-  const el=$("sliders");
-  el.innerHTML="";
-  VARS.forEach(v=>{
-    const row=document.createElement("div");
-    row.className="sl-row";
-    row.innerHTML=`
-      <div class="sl-name">${v.name}</div>
-      <input type="range" min="0" max="100" value="${m.variables[v.key]}">
-      <div class="sl-val">${m.variables[v.key]}</div>
-    `;
-    const input=row.querySelector("input");
-    const out=row.querySelector(".sl-val");
-    input.oninput=e=>{
-      m.variables[v.key]=Number(e.target.value);
-      out.textContent=e.target.value;
-      renderRadar(m.variables);
-    };
-    el.appendChild(row);
+  qEl.addEventListener("keydown", (e) => {
+    if(e.key === "Enter") $("btnBuscar").click();
   });
-}
 
-function renderRadar(vars){
-  const avg=Math.round(Object.values(vars).reduce((a,b)=>a+b,0)/5);
-  $("nutriAvg").textContent=avg+"/100";
-  $("nutriGrade").textContent=
-    avg>=80?"A":avg>=65?"B":avg>=50?"C":avg>=35?"D":"E";
-}
+  $("btnRandom").addEventListener("click", () => {
+    const db = getDB();
+    if(!db.length) return;
+    renderDetail(db[Math.floor(Math.random()*db.length)]);
+  });
 
-$("btnBuscar").onclick=()=>{
-  const q=qEl.value.toLowerCase();
-  const items=getDB().filter(m=>m.nombre.toLowerCase().includes(q));
-  renderList(items);
-};
+  countryEl.addEventListener("change", () => {
+    qEl.value = "";
+    const db = getDB();
+    renderList(db);
+    if(db[0]) renderDetail(db[0]);
+  });
 
-$("btnRandom").onclick=()=>{
-  const db=getDB();
-  const m=db[Math.floor(Math.random()*db.length)];
-  renderDetail(m);
-};
-
-renderList(getDB());
+  // INIT
+  drawGrid();
+  const db = getDB();
+  renderList(db);
+  if(db[0]) renderDetail(db[0]);
 })();
 </script>
