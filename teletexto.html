@@ -1,17 +1,17 @@
 ---
 layout: default
-title: Metal Recommender Teletexto
-permalink: /metal-teletexto.html
+title: Teletexto
+permalink: /teletexto.html
 ---
 
 <style>
   :root{--bg:#000;--fg:#e8e8e8;--c:#0ff;--y:#ff0;--m:#f0f;--g:#0f0;--r:#f33;--b:#39f;}
-  .ttx{max-width:980px;margin:0 auto;padding:18px 14px 28px;
+  .ttx{max-width:900px;margin:0 auto;padding:18px 14px 28px;
        font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono",monospace;letter-spacing:.02em;}
   .bar{display:flex;justify-content:space-between;align-items:center;padding:6px 8px;border:2px solid var(--b);
        color:var(--c);text-transform:uppercase;font-weight:700;}
   .bar b{color:var(--y);}
-  .screen{margin-top:14px;border:2px solid #444;padding:10px 10px 14px;min-height:62vh;
+  .screen{margin-top:14px;border:2px solid #444;padding:10px 10px 14px;min-height:60vh;
           box-shadow:0 0 0 2px #111 inset;background:var(--bg);color:var(--fg);}
   .line{white-space:pre-wrap;line-height:1.25;}
   .c{color:var(--c);} .y{color:var(--y);} .m{color:var(--m);} .g{color:var(--g);} .r{color:var(--r);} .b{color:var(--b);}
@@ -19,119 +19,29 @@ permalink: /metal-teletexto.html
   .pill{border:1px solid #444;padding:4px 8px;}
   a{color:var(--c);text-decoration:none;} a:hover{text-decoration:underline;}
   .muted{color:#aaa}
-  .btn{padding:8px 12px;border:1px solid #333;border-radius:10px;background:transparent;color:inherit;cursor:pointer;}
-  .btn:hover{opacity:.9;}
-  .qwrap{margin-top:10px;border:1px solid #333;border-radius:12px;padding:12px;}
-  .row{display:flex;gap:10px;flex-wrap:wrap;align-items:center;}
-  select{padding:8px 10px;background:#050505;color:var(--fg);border:1px solid #333;border-radius:10px;font:inherit;}
-
-  /* Arcade 1992 */
-  .blink{animation:blink .75s steps(1,end) infinite;}
-  @keyframes blink{50%{opacity:0}}
-  .bob{animation:bob .9s steps(2,end) infinite;}
-  @keyframes bob{50%{transform:translateY(-6px)}}
-
-  .big-album{margin-top:6px;font-size:34px;line-height:1.05;letter-spacing:1px;text-transform:uppercase;}
-  .big-artist{font-size:22px;letter-spacing:2px;text-transform:uppercase;}
-  .frame{border:1px solid #333;border-radius:12px;padding:12px;margin-top:10px;box-shadow:0 0 0 2px #111 inset;}
-
-  .pixel-box{margin-top:14px;border:1px solid #333;padding:10px;text-align:center;border-radius:12px;}
-  .pixel-row{display:flex;gap:14px;justify-content:center;align-items:center;flex-wrap:wrap;}
-  .pixel-box svg{image-rendering:pixelated;width:240px;height:auto;display:block;margin:0 auto;}
-  .pixel-text{margin-top:10px;font-size:22px;letter-spacing:4px;color:var(--y);text-transform:uppercase;
-              text-shadow:0 0 8px rgba(255,255,0,.35);}
-  .redhead svg{width:140px;}
-
-  /* Cotilleo (LEGIBLE) */
-  .quote-wrap{margin-top:12px;padding:10px 12px;border:1px solid #333;border-radius:12px;background:#050505;
-              box-shadow:0 0 0 2px #111 inset;}
-  .quote-title{color:var(--y);letter-spacing:2px;text-transform:uppercase;margin-bottom:6px;}
-  .quote-text{font-size:18px;line-height:1.2;color:#ff6b6b;text-shadow:2px 2px 0 #000;}
-  .quote-source{margin-top:6px;font-size:13px;letter-spacing:2px;color:var(--c);text-transform:uppercase;}
-
-  /* Debug pequeño cuando no carga el catálogo */
-  .dbg{margin-top:10px;border:1px dashed #444;padding:10px;border-radius:12px;color:#bbb;font-size:13px;}
 </style>
 
 <div class="ttx">
   <div class="bar">
-    <div>TELETEXTO <b>METAL</b> // PÁG <span class="y" id="pnum">270</span></div>
+    <div>TELETEXTO <b>RSS</b> // PÁG <span class="y" id="pnum">101</span></div>
     <div><span class="g" id="dow">---</span> <span class="muted" id="date">--/--/----</span>  <span class="c" id="clock">--:--</span></div>
   </div>
 
   <div class="screen" id="screen">
-    <div class="line c">Inicializando recomendador…</div>
+    <div class="line c">Cargando feeds…</div>
   </div>
 
   <div class="foot">
-    <div class="pill">270 Recomendador Metal</div>
-    <div class="pill">Enter reiniciar · Esc arriba</div>
-    <div class="pill"><a href="teletexto.html">Teletexto</a></div>
-    <div class="pill"><a href="./">Volver</a></div>
+    <div class="pill"><span class="y">Teclea</span> 101 / 120 / 140 / 160 / 180 / 200</div>
+    <div class="pill"><span class="y">Enter</span> ir · <span class="y">Esc</span> arriba</div>
+    <div class="pill"><a href="{{ '/metal-teletexto.html' | relative_url }}">Metal</a></div>
+    <div class="pill"><a href="{{ '/' | relative_url }}">Volver</a></div>
   </div>
 </div>
 
 <script>
-  // =========================
-  // ULTRA ROBUST LOADER
-  // =========================
-  // - Intenta varias rutas
-  // - Cache-busting cada 6h
-  // - Diagnóstico en pantalla si falla
-  function sixHourBucket(){
-    const d = new Date();
-    const day = d.toISOString().slice(0,10); // YYYY-MM-DD
-    const bucket = Math.floor(d.getUTCHours() / 6); // 0..3
-    return `${day}-b${bucket}`;
-  }
-
-  function loadScript(src){
-    return new Promise((resolve, reject) => {
-      const s = document.createElement("script");
-      s.src = src;
-      s.async = true;
-      s.onload = () => resolve(src);
-      s.onerror = () => reject(new Error("FAIL " + src));
-      document.head.appendChild(s);
-    });
-  }
-
-  async function ensureMetalBandsLoaded(){
-    if (Array.isArray(window.METAL_BANDS) && window.METAL_BANDS.length) return { ok:true, src:"(preloaded)" };
-
-    const v = sixHourBucket();
-    // Probamos rutas típicas (GitHub Pages root / subpath / Jekyll relative_url)
-    const candidates = [
-      // Jekyll-safe
-      "{{ '/assets/metal-bands.js' | relative_url }}?v=" + v,
-      // Relative
-      "assets/metal-bands.js?v=" + v,
-      "./assets/metal-bands.js?v=" + v,
-      // Absolute root (para user.github.io)
-      "/assets/metal-bands.js?v=" + v
-    ]
-    // Evita duplicados si Jekyll devuelve igual que otra
-    .filter((x, i, a) => a.indexOf(x) === i);
-
-    const errors = [];
-    for (const src of candidates){
-      try{
-        await loadScript(src);
-        if (Array.isArray(window.METAL_BANDS) && window.METAL_BANDS.length){
-          return { ok:true, src, tried:candidates, errors };
-        }
-        errors.push("Cargó pero METAL_BANDS vacío: " + src);
-      } catch (e){
-        errors.push(String(e.message || e));
-      }
-    }
-    return { ok:false, tried:candidates, errors };
-  }
-
-  // =========================
-  // APP START
-  // =========================
   const screen = document.getElementById('screen');
+  const pnum = document.getElementById('pnum');
   const dowEl = document.getElementById('dow');
   const dateEl = document.getElementById('date');
   const clockEl = document.getElementById('clock');
@@ -145,319 +55,83 @@ permalink: /metal-teletexto.html
   }
   tickClock(); setInterval(tickClock, 15000);
 
-  // ---------- seed ----------
-  function mulberry32(a){return function(){let t=a+=0x6D2B79F5;t=Math.imul(t^(t>>>15),t|1);t^=t+Math.imul(t^(t>>>7),t|61);return((t^(t>>>14))>>>0)/4294967296}}
-  function hashString(s){let h=2166136261;for(let i=0;i<s.length;i++){h^=s.charCodeAt(i);h=Math.imul(h,16777619);}return h>>>0}
-  function pick(rng,arr){return arr[Math.floor(rng()*arr.length)]}
-
-  function clamp(n,a,b){ return Math.max(a, Math.min(b,n)); }
-  function guitarColorByRage(rage0to4){
-    const colors = ["#39f","#0ff","#0f0","#ff0","#f33"];
-    return colors[clamp(rage0to4,0,4)];
-  }
-  function bandWikiLink(name){
-    return "https://en.wikipedia.org/wiki/" + encodeURIComponent(String(name||"").split(" ").join("_"));
+  function stripHtml(s){
+    return String(s || "")
+      .replace(/<style[\s\S]*?<\/style>/gi, "")
+      .replace(/<script[\s\S]*?<\/script>/gi, "")
+      .replace(/<[^>]+>/g, " ")
+      .replace(/\s+/g, " ")
+      .trim();
   }
 
-  const QUESTIONS = [
-    {id:"rage",  text:"Nivel de rabia actual", options:[
-      ["0","0 · Diplomacia rota, pero en silencio"],
-      ["1","1 · Molesto (modo ceja levantada)"],
-      ["2","2 · Medio (serrucho emocional)"],
-      ["3","3 · Alto (amenaza de riff)"],
-      ["4","4 · Crítico (romper logs)"]
-    ]},
-    {id:"mel",   text:"Necesitas melodía o martillo", options:[
-      ["0","0 · Solo martillo"],
-      ["1","1 · Más martillo"],
-      ["2","2 · Equilibrio"],
-      ["3","3 · Más melodía"],
-      ["4","4 · Melodía como anestesia"]
-    ]},
-    {id:"chaos", text:"Tolerancia al caos", options:[
-      ["0","0 · Cero (quiero estructura)"],
-      ["1","1 · Poca"],
-      ["2","2 · Media"],
-      ["3","3 · Alta"],
-      ["4","4 · Máxima (invocar entidades)"]
-    ]},
-    {id:"dark",  text:"Oscuridad del día", options:[
-      ["0","0 · Brillo sospechoso"],
-      ["1","1 · Normal"],
-      ["2","2 · Nublado"],
-      ["3","3 · Oscuro"],
-      ["4","4 · Apocalipsis blando"]
-    ]},
-    {id:"weird", text:"Nivel de rareza deseado", options:[
-      ["0","0 · Clásico seguro"],
-      ["1","1 · Un poco raro"],
-      ["2","2 · Raro aceptable"],
-      ["3","3 · Raro intenso"],
-      ["4","4 · Cinta maldita de videoclub"]
-    ]}
-  ];
-
-  function scoreBand(pref, band){
-    const rage  = pref.rage  * 2;
-    const mel   = pref.mel   * 2;
-    const chaos = pref.chaos * 2;
-
-    const mood = band.mood || {};
-    const dr = Math.abs((mood.rage||0) - rage);
-    const dm = Math.abs((mood.mel||0)  - mel);
-    const dc = Math.abs((mood.chaos||0)- chaos);
-
-    const style = Array.isArray(band.style) ? band.style : [];
-    const weird = pref.weird;
-    const isWeird =
-      style.includes("math") || style.includes("industrial") || style.includes("prog") ||
-      style.includes("black") || style.includes("grind") || style.includes("chaos") ||
-      style.includes("post") || style.includes("djent") || style.includes("weird");
-
-    let weirdBonus = 0;
-    if(weird >= 3 && isWeird) weirdBonus -= 2;
-    if(weird <= 1 && isWeird) weirdBonus += 2;
-
-    const dark = pref.dark;
-    const isDark = style.includes("doom") || style.includes("black") || style.includes("death") || style.includes("extreme") || style.includes("grind") || style.includes("sludge");
-    let darkBonus = 0;
-    if(dark >= 3 && isDark) darkBonus -= 1;
-    if(dark <= 1 && isDark) darkBonus += 1;
-
-    return (dr + dm + dc) + weirdBonus + darkBonus;
-  }
-
-  function pickAlbumFromBand(rng, band, pref){
-    const albums = Array.isArray(band.albums) ? band.albums : [];
-    const n = albums.length;
-    if(!n) return { t: "Álbum no definido", y: "----" };
-    if(n === 1) return albums[0];
-
-    const rage = pref.rage; // 0..4
-    let bias = 0.5 - (rage * 0.08);
-    bias = clamp(bias, 0.18, 0.55);
-
-    const idx = Math.floor(Math.pow(rng(), bias) * n);
-    return albums[clamp(idx,0,n-1)];
-  }
-
-  function readInputs(){
-    const v = {};
-    QUESTIONS.forEach(q => v[q.id] = Number(document.getElementById(q.id).value));
-    return v;
-  }
-
-  function pickTop3(pref, rng, BANDS){
-    const scored = BANDS.map(b => ({ b, s: scoreBand(pref, b) }))
-      .sort((x,y) => x.s - y.s);
-
-    const pool = scored.slice(0, Math.min(16, scored.length));
-    const bestScore = pool[0]?.s ?? 9999;
-
-    const bestPool = pool.filter(x => x.s === bestScore);
-    const mainBand = (bestPool.length === 1) ? bestPool[0].b : pick(rng, bestPool).b;
-
-    const others = pool.map(x => x.b).filter(b => b.name !== mainBand.name);
-    const sec1Band = others.splice(Math.floor(rng()*others.length), 1)[0] || mainBand;
-    const sec2Band = others.splice(Math.floor(rng()*others.length), 1)[0] || sec1Band;
-
-    return {
-      bestScore,
-      main: { band: mainBand, album: pickAlbumFromBand(rng, mainBand, pref) },
-      sec1: { band: sec1Band, album: pickAlbumFromBand(rng, sec1Band, pref) },
-      sec2: { band: sec2Band, album: pickAlbumFromBand(rng, sec2Band, pref) }
-    };
-  }
-
-  const GOSSIP = [
-    "“Todos los solos de ese primer disco eran míos.” — David Mustaine (otra vez).",
-    "“Lo llamaron ‘ruido’. Yo lo llamé ‘salida de emergencia’.” — Lemmy (probablemente).",
-    "“El productor dijo ‘menos distorsión’. Respondimos ‘menos productor’.” — Anónimo, 1986.",
-    "“Si suena perfecto, no es metal. Es contabilidad.” — Archivo interno del sistema.",
-    "“Me dijeron que bajara el volumen. Subí la banda.” — Declaración no verificada.",
-    "“¿Sabías la de Mustaine cuando meó el equipo de Dimebag en un gira y luego se las tuvo que ver con Phill Anselmo?.” - Rumores por David Guardo.",
-    "“Metal is for everyone regardless of sexual identity.” — Rob Halford", 
-  ];
-
-  function renderForm(BANDS){
-    const html = [];
-    html.push(`<div class="line c">270  RECOMENDADOR HEAVY METAL (ARCADE 1992)</div>`);
-    html.push(`<div class="line">----------------------------------------</div>`);
-    html.push(`<div class="line">Responde al cuestionario. La máquina elige <span class="y">1</span> principal y <span class="y">2</span> secundarios.</div>`);
-    html.push(`<div class="line muted">Catálogo: ${BANDS.length} bandas</div>`);
-    html.push(`<div class="line"> </div>`);
-    html.push(`<div class="qwrap">`);
-
-    QUESTIONS.forEach((q, i) => {
-      html.push(`<div class="line"><span class="y">Q${i+1}</span> ${q.text}</div>`);
-      html.push(`<div class="row" style="margin:6px 0 12px;">`);
-      html.push(`<select id="${q.id}">`);
-      q.options.forEach(([v,label]) => html.push(`<option value="${v}">${label}</option>`));
-      html.push(`</select>`);
-      html.push(`</div>`);
-    });
-
-    html.push(`<div class="row">`);
-    html.push(`<button class="btn" id="gen">GENERAR</button>`);
-    html.push(`<button class="btn" id="reset">REINICIAR</button>`);
-    html.push(`</div>`);
-    html.push(`</div>`);
-    html.push(`<div class="line"> </div>`);
-    html.push(`<div class="line r">Tip: Enter = reiniciar. Esc = arriba.</div>`);
-
-    screen.innerHTML = html.join("");
-    document.getElementById("gen").addEventListener("click", () => generate(BANDS));
-    document.getElementById("reset").addEventListener("click", () => renderForm(BANDS));
-  }
-
-  function generate(BANDS){
-    const pref = readInputs();
-    const seed = hashString(JSON.stringify(pref) + "|" + new Date().toISOString().slice(0,10));
-    const rng  = mulberry32(seed);
-
-    const rec = pickTop3(pref, rng, BANDS);
-    const main = rec.main, alt1 = rec.sec1, alt2 = rec.sec2;
-    const gcol = guitarColorByRage(pref.rage);
-
-    const styleLine = (Array.isArray(main.band.style) ? main.band.style : []).join(", ").toUpperCase();
-    const wiki = bandWikiLink(main.band.name);
-
-    const diagnoses = [
-      "Diagnóstico: hambre de distorsión detectada.",
-      "Diagnóstico: ánimo fuera de especificación.",
-      "Diagnóstico: estás a un riff de la estabilidad.",
-      "Diagnóstico: hoy no se negocia con el silencio."
-    ];
-    const warnings = [
-      "Advertencia: escuchar en bucle altera tu percepción del tiempo.",
-      "Advertencia: volumen alto = pensamiento más claro (según la máquina).",
-      "Advertencia: no apto para reuniones, sí para reinicios personales.",
-      "Advertencia: si sonríes, niega todo."
-    ];
-    const why = [
-      "Se recomienda por compatibilidad con tu vector emocional.",
-      "Encaja con tu tolerancia al caos y la rabia contenida.",
-      "Optimiza tu estado: menos ruido mental, más ruido real.",
-      "Porque hoy el feed necesita un contraataque sonoro."
-    ];
-
-    const gossip = pick(rng, GOSSIP);
-    const parts = gossip.split("—");
-
+  function wrap(text, width){
+    const words = (text || "").split(/\s+/).filter(Boolean);
     const lines = [];
-    lines.push(`<div class="line c">270  RESULTADO: 3 DISCOS RECOMENDADOS</div>`);
-    lines.push(`<div class="line">----------------------------------------</div>`);
-
-    lines.push(`<div class="frame">`);
-    lines.push(`<div class="line y">PRINCIPAL</div>`);
-    lines.push(`<div class="big-artist y">${main.band.name}</div>`);
-    lines.push(`<div class="big-album b">${main.album.t}</div>`);
-    lines.push(`<div class="line">Año: <span class="y">${main.album.y}</span> · Estilo: <span class="y">${styleLine}</span></div>`);
-    lines.push(`</div>`);
-
-    lines.push(`<div class="frame">`);
-    lines.push(`<div class="line y">SECUNDARIOS</div>`);
-    lines.push(`<div class="line">1) <span class="b">${alt1.band.name}</span> — <span class="y">${alt1.album.t}</span> (${alt1.album.y})</div>`);
-    lines.push(`<div class="line">2) <span class="b">${alt2.band.name}</span> — <span class="y">${alt2.album.t}</span> (${alt2.album.y})</div>`);
-    lines.push(`</div>`);
-
-    lines.push(`
-      <div class="pixel-box">
-        <div class="pixel-row">
-          <div class="redhead bob">
-            <svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" aria-label="pixel redhead">
-              <rect x="10" y="6" width="44" height="20" fill="#f33"/>
-              <rect x="6" y="10" width="8" height="18" fill="#f33"/>
-              <rect x="50" y="10" width="8" height="18" fill="#f33"/>
-              <rect x="16" y="18" width="32" height="24" fill="#d6b48c"/>
-              <rect x="22" y="28" width="6" height="4" fill="#000"/>
-              <rect x="36" y="28" width="6" height="4" fill="#000"/>
-              <rect x="28" y="38" width="8" height="3" fill="#000"/>
-              <rect x="14" y="42" width="36" height="18" fill="#111"/>
-              <rect x="24" y="48" width="16" height="4" fill="#0ff"/>
-            </svg>
-          </div>
-
-          <div>
-            <svg viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" aria-label="pixel flying V guitar">
-              <rect x="60" y="6" width="8" height="64" fill="#cfcfcf"/>
-              <rect x="59" y="6" width="10" height="64" fill="none" stroke="#111" stroke-width="3"/>
-              <rect x="52" y="2" width="24" height="10" fill="#999"/>
-              <rect x="51" y="1" width="26" height="12" fill="none" stroke="#111" stroke-width="3"/>
-              <polygon points="64,58 20,118 46,118 64,92" fill="${gcol}"/>
-              <polygon points="64,58 108,118 82,118 64,92" fill="${gcol}"/>
-              <polygon points="64,58 20,118 46,118 64,92 82,118 108,118" fill="none" stroke="#111" stroke-width="4"/>
-              <rect x="52" y="66" width="24" height="6" fill="#000"/>
-              <rect x="52" y="78" width="24" height="6" fill="#000"/>
-              <rect x="54" y="90" width="20" height="6" fill="#000"/>
-              <rect x="62" y="10" width="1" height="90" fill="#222"/>
-              <rect x="65" y="10" width="1" height="90" fill="#222"/>
-              <rect x="68" y="10" width="1" height="90" fill="#222"/>
-            </svg>
-          </div>
-        </div>
-
-        <div class="pixel-text blink">DAVE MUSTAINE WAS HERE</div>
-      </div>
-    `);
-
-    lines.push(`<div class="line"> </div>`);
-    lines.push(`<div class="line">${pick(rng, diagnoses)}</div>`);
-    lines.push(`<div class="line">${pick(rng, why)}</div>`);
-    lines.push(`<div class="line r">${pick(rng, warnings)}</div>`);
-
-    lines.push(`
-      <div class="quote-wrap">
-        <div class="quote-title">COTILLEO DEL DÍA</div>
-        <div class="quote-text">"${(parts[0]||"").trim()}"</div>
-        ${parts[1] ? `<div class="quote-source">— ${(parts[1]||"").trim()}</div>` : ``}
-      </div>
-    `);
-
-    lines.push(`<div class="line"> </div>`);
-    lines.push(`<div class="line b">LECTURA (INPUT):</div>`);
-    lines.push(`<div class="line">RABIA=${pref.rage}/4 · MELODÍA=${pref.mel}/4 · CAOS=${pref.chaos}/4 · OSCURIDAD=${pref.dark}/4 · RAREZA=${pref.weird}/4</div>`);
-    lines.push(`<div class="line muted">Score: ${rec.bestScore} (menor = mejor)</div>`);
-
-    lines.push(`<div class="line"> </div>`);
-    lines.push(`<div class="line">Banda principal: <a href="${wiki}" target="_blank" rel="noopener">${wiki}</a></div>`);
-    lines.push(`<div class="line muted">SEED: ${seed}</div>`);
-    lines.push(`<div class="line">----------------------------------------</div>`);
-    lines.push(`<div class="line r"><a href="#" onclick="return false;" id="back">Volver a cuestionario</a></div>`);
-
-    screen.innerHTML = lines.join("");
-    document.getElementById("back").addEventListener("click", () => renderForm(BANDS));
-    scrollTo({top:0, behavior:"smooth"});
+    let line = "";
+    for(const w of words){
+      if(!line.length) line = w;
+      else if((line + " " + w).length <= width) line += " " + w;
+      else { lines.push(line); line = w; }
+    }
+    if(line) lines.push(line);
+    return lines;
   }
 
-  addEventListener('keydown', (e) => {
-    if(e.key === 'Escape') return scrollTo({top:0, behavior:'smooth'});
-    // Enter reinicia (si estamos en resultado, vuelve al form)
-    if(e.key === 'Enter' && window.__METAL_BANDS__) return renderForm(window.__METAL_BANDS__);
-  });
+  function escapeHtml(s){
+    return String(s).replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;');
+  }
 
-  // Boot robusto
-  (async function boot(){
-    screen.innerHTML = `<div class="line c">Cargando catálogo metal…</div>
-                        <div class="line muted">Si esto tarda, el sistema está negociando con la caché.</div>`;
-    const res = await ensureMetalBandsLoaded();
-    const BANDS = Array.isArray(window.METAL_BANDS) ? window.METAL_BANDS : [];
-    window.__METAL_BANDS__ = BANDS;
+  function renderPage(page, data){
+    pnum.textContent = page;
 
-    if(!res.ok || !BANDS.length){
-      const tried = (res.tried || []).map(x => " - " + x).join("\n");
-      const errs  = (res.errors || []).map(x => " - " + x).join("\n");
-      screen.innerHTML =
-        `<div class="line r">ERROR: no se pudo cargar el catálogo.</div>
-         <div class="line muted">Rutas probadas:</div>
-         <div class="dbg">${tried.replaceAll("<","&lt;")}</div>
-         <div class="line muted">Errores:</div>
-         <div class="dbg">${errs.replaceAll("<","&lt;")}</div>
-         <div class="line">Solución: crea <span class="y">assets/metal-bands.js</span> con <span class="y">window.METAL_BANDS = [...]</span></div>`;
+    const block = data.pages?.[String(page)];
+    if(!block){
+      screen.innerHTML = `<div class="line r">Página ${page} no disponible</div>
+                          <div class="line">Teclea 101 / 120 / 140 / 160 / 180 / 200</div>`;
       return;
     }
 
-    // OK
-    renderForm(BANDS);
-  })();
+    const header = block.header || `PÁG ${page}`;
+    const items = block.items || [];
+    const max = block.maxItems || 10;
+
+    const out = [];
+    out.push(`<div class="line c">${escapeHtml(header)}</div>`);
+    out.push(`<div class="line">----------------------------------------</div>`);
+
+    items.slice(0, max).forEach((it) => {
+      const title = stripHtml(it.title);
+      const desc  = stripHtml(it.summary || it.description || "");
+
+      out.push(`<div class="line b">${escapeHtml(title)}</div>`);
+      wrap(desc, 66).slice(0, 3).forEach(l => out.push(`<div class="line muted">${escapeHtml(l)}</div>`));
+      out.push(`<div class="line"> </div>`);
+    });
+
+    out.push(`<div class="line r">Ir a: 101 · 120 · 140 · 160 · 180 · 200</div>`);
+    screen.innerHTML = out.join("");
+    scrollTo({top:0, behavior:"smooth"});
+  }
+
+  let DATA = null;
+  let buf = "";
+
+  addEventListener('keydown', (e) => {
+    if(e.key === 'Escape') return scrollTo({top:0, behavior:'smooth'});
+    if(/^\d$/.test(e.key)){ buf = (buf + e.key).slice(-3); return; }
+    if(e.key === 'Enter'){
+      const page = Number(buf || 101);
+      buf = "";
+      if(DATA) renderPage(page, DATA);
+    }
+  });
+
+  const TELE_JSON = "{{ '/assets/teletexto.json' | relative_url }}";
+  fetch(`${TELE_JSON}?ts=${Date.now()}`)
+    .then(r => r.json())
+    .then(j => { DATA = j; renderPage(101, DATA); })
+    .catch(() => {
+      screen.innerHTML = `<div class="line r">No se pudo cargar ${TELE_JSON}</div>
+                          <div class="line muted">¿Existe assets/teletexto.json?</div>`;
+    });
 </script>
