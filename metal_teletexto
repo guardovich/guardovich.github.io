@@ -25,6 +25,16 @@ permalink: /metal-teletexto.html
   .row{display:flex;gap:10px;flex-wrap:wrap;align-items:center;}
   select{padding:8px 10px;background:#050505;color:var(--fg);border:1px solid #333;border-radius:10px;font:inherit;}
 
+  /* BIG primary button */
+  .btn-primary{
+    padding:12px 16px;
+    border:2px solid var(--b);
+    border-radius:12px;
+    font-weight:800;
+    letter-spacing:1px;
+    text-transform:uppercase;
+  }
+
   /* Arcade 1992 */
   .blink{animation:blink .75s steps(1,end) infinite;}
   @keyframes blink{50%{opacity:0}}
@@ -66,8 +76,8 @@ permalink: /metal-teletexto.html
   <div class="foot">
     <div class="pill">270 Recomendador Metal</div>
     <div class="pill">Enter reiniciar · Esc arriba</div>
-    <div class="pill"><a href="teletexto.html">Teletexto</a></div>
-    <div class="pill"><a href="./">Volver</a></div>
+    <div class="pill"><a href="/teletexto.html">Teletexto</a></div>
+    <div class="pill"><a href="/">Volver</a></div>
   </div>
 </div>
 
@@ -75,13 +85,10 @@ permalink: /metal-teletexto.html
   // =========================
   // ULTRA ROBUST LOADER
   // =========================
-  // - Intenta varias rutas
-  // - Cache-busting cada 6h
-  // - Diagnóstico en pantalla si falla
   function sixHourBucket(){
     const d = new Date();
-    const day = d.toISOString().slice(0,10); // YYYY-MM-DD
-    const bucket = Math.floor(d.getUTCHours() / 6); // 0..3
+    const day = d.toISOString().slice(0,10);
+    const bucket = Math.floor(d.getUTCHours() / 6);
     return `${day}-b${bucket}`;
   }
 
@@ -100,18 +107,12 @@ permalink: /metal-teletexto.html
     if (Array.isArray(window.METAL_BANDS) && window.METAL_BANDS.length) return { ok:true, src:"(preloaded)" };
 
     const v = sixHourBucket();
-    // Probamos rutas típicas (GitHub Pages root / subpath / Jekyll relative_url)
     const candidates = [
-      // Jekyll-safe
       "{{ '/assets/metal-bands.js' | relative_url }}?v=" + v,
-      // Relative
       "assets/metal-bands.js?v=" + v,
       "./assets/metal-bands.js?v=" + v,
-      // Absolute root (para user.github.io)
       "/assets/metal-bands.js?v=" + v
-    ]
-    // Evita duplicados si Jekyll devuelve igual que otra
-    .filter((x, i, a) => a.indexOf(x) === i);
+    ].filter((x, i, a) => a.indexOf(x) === i);
 
     const errors = [];
     for (const src of candidates){
@@ -233,7 +234,7 @@ permalink: /metal-teletexto.html
     if(!n) return { t: "Álbum no definido", y: "----" };
     if(n === 1) return albums[0];
 
-    const rage = pref.rage; // 0..4
+    const rage = pref.rage;
     let bias = 0.5 - (rage * 0.08);
     bias = clamp(bias, 0.18, 0.55);
 
@@ -275,9 +276,34 @@ permalink: /metal-teletexto.html
     "“El productor dijo ‘menos distorsión’. Respondimos ‘menos productor’.” — Anónimo, 1986.",
     "“Si suena perfecto, no es metal. Es contabilidad.” — Archivo interno del sistema.",
     "“Me dijeron que bajara el volumen. Subí la banda.” — Declaración no verificada.",
-    "“¿Sabías la de Mustaine cuando meó el equipo de Dimebag en un gira y luego se las tuvo que ver con Phill Anselmo?.” - Rumores por David Guardo.",
-    "“Metal is for everyone regardless of sexual identity.” — Rob Halford", 
+    "“¿Sabías la de Mustaine cuando meó el equipo de Dimebag en un gira y luego se las tuvo que ver con Phill Anselmo?” — Rumor de pasillo.",
+    "“Metal is for everyone regardless of sexual identity.” — Rob Halford"
   ];
+
+  // ✅ Recomendación del día (botón)
+  function randomPref(rng){
+    return {
+      rage:  Math.floor(rng()*5),
+      mel:   Math.floor(rng()*5),
+      chaos: Math.floor(rng()*5),
+      dark:  Math.floor(rng()*5),
+      weird: Math.floor(rng()*5)
+    };
+  }
+
+  function setSelect(id, value){
+    const el = document.getElementById(id);
+    if(!el) return;
+    el.value = String(value);
+  }
+
+  function applyPrefToForm(pref){
+    setSelect("rage", pref.rage);
+    setSelect("mel", pref.mel);
+    setSelect("chaos", pref.chaos);
+    setSelect("dark", pref.dark);
+    setSelect("weird", pref.weird);
+  }
 
   function renderForm(BANDS){
     const html = [];
@@ -287,6 +313,14 @@ permalink: /metal-teletexto.html
     html.push(`<div class="line muted">Catálogo: ${BANDS.length} bandas</div>`);
     html.push(`<div class="line"> </div>`);
     html.push(`<div class="qwrap">`);
+
+    // ✅ Botón “Recomendación del día” arriba
+    html.push(`
+      <div class="row" style="margin-bottom:12px;">
+        <button class="btn btn-primary" id="daily">RECOMENDACIÓN DEL DÍA · DAVID GUARDO</button>
+        <span class="muted">Aleatoria, instantánea, sin preguntas.</span>
+      </div>
+    `);
 
     QUESTIONS.forEach((q, i) => {
       html.push(`<div class="line"><span class="y">Q${i+1}</span> ${q.text}</div>`);
@@ -298,7 +332,8 @@ permalink: /metal-teletexto.html
     });
 
     html.push(`<div class="row">`);
-    html.push(`<button class="btn" id="gen">GENERAR</button>`);
+    // ✅ Generar -> Generar recomendación (más grande)
+    html.push(`<button class="btn btn-primary" id="gen">GENERAR RECOMENDACIÓN</button>`);
     html.push(`<button class="btn" id="reset">REINICIAR</button>`);
     html.push(`</div>`);
     html.push(`</div>`);
@@ -306,11 +341,21 @@ permalink: /metal-teletexto.html
     html.push(`<div class="line r">Tip: Enter = reiniciar. Esc = arriba.</div>`);
 
     screen.innerHTML = html.join("");
-    document.getElementById("gen").addEventListener("click", () => generate(BANDS));
+
+    document.getElementById("gen").addEventListener("click", () => generate(BANDS, false));
+
     document.getElementById("reset").addEventListener("click", () => renderForm(BANDS));
+
+    // ✅ Daily: genera sin preguntas (rellena valores aleatorios y genera)
+    document.getElementById("daily").addEventListener("click", () => {
+      const rng = mulberry32(hashString("DAVID-GUARDO-DAILY|" + new Date().toISOString().slice(0,10)));
+      const pref = randomPref(rng);
+      applyPrefToForm(pref);
+      generate(BANDS, true);
+    });
   }
 
-  function generate(BANDS){
+  function generate(BANDS, isDaily){
     const pref = readInputs();
     const seed = hashString(JSON.stringify(pref) + "|" + new Date().toISOString().slice(0,10));
     const rng  = mulberry32(seed);
@@ -347,6 +392,16 @@ permalink: /metal-teletexto.html
     const lines = [];
     lines.push(`<div class="line c">270  RESULTADO: 3 DISCOS RECOMENDADOS</div>`);
     lines.push(`<div class="line">----------------------------------------</div>`);
+
+    // ✅ Banner “Recomendación del día…”
+    if(isDaily){
+      lines.push(`
+        <div class="frame">
+          <div class="line y blink">RECOMENDACIÓN DEL DÍA · DAVID GUARDO</div>
+          <div class="line">Esta selección es la mejor medicina por el alma el día de hoy.</div>
+        </div>
+      `);
+    }
 
     lines.push(`<div class="frame">`);
     lines.push(`<div class="line y">PRINCIPAL</div>`);
@@ -432,7 +487,6 @@ permalink: /metal-teletexto.html
 
   addEventListener('keydown', (e) => {
     if(e.key === 'Escape') return scrollTo({top:0, behavior:'smooth'});
-    // Enter reinicia (si estamos en resultado, vuelve al form)
     if(e.key === 'Enter' && window.__METAL_BANDS__) return renderForm(window.__METAL_BANDS__);
   });
 
@@ -457,7 +511,6 @@ permalink: /metal-teletexto.html
       return;
     }
 
-    // OK
     renderForm(BANDS);
   })();
 </script>
