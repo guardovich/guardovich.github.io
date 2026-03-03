@@ -1,10 +1,34 @@
 {
-  "generatedAt": "2026-03-03T06:52:46.940Z",
+  "generatedAt": "2026-03-03T12:57:48.949Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "LLMs can unmask pseudonymous users at scale with surprising accuracy",
+          "link": "https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/",
+          "summary": "Pseudonymity has never been perfect for preserving privacy. Soon it may be pointless.",
+          "isoDate": "2026-03-03T12:30:24.000Z"
+        },
+        {
+          "title": "With developer verification, Google's Apple envy threatens to dismantle Android's open legacy",
+          "link": "https://arstechnica.com/gadgets/2026/03/with-developer-verification-googles-apple-envy-threatens-to-dismantle-androids-open-legacy/",
+          "summary": "Questions remain as Google prepares to lock down Android app distribution in the name of security.",
+          "isoDate": "2026-03-03T12:00:30.000Z"
+        },
+        {
+          "title": "This startup claims it can stop lightning and prevent catastrophic wildfires",
+          "link": "https://www.technologyreview.com/2026/03/03/1133848/this-startup-claims-it-can-stop-lightning-and-prevent-catastrophic-wildfires/",
+          "summary": "On June 1, 2023, as a sweltering heat wave baked Quebec, thousands of lightning strikes flashed across the province, setting off more than 120 wildfires. The blazes ripped through parched forests and withered grasslands, burned for weeks, and compounded what was rapidly turning into Canada’s worst fire year on record. In the end, nearly 7,000…",
+          "isoDate": "2026-03-03T10:00:00.000Z"
+        },
+        {
+          "title": "Big Google Home update lets Gemini describe live camera feeds",
+          "link": "https://www.theverge.com/tech/888008/big-google-home-update-lets-gemini-describe-live-camera-feeds",
+          "summary": "‘Live Search’ can describe what your cameras see, not just what they’ve seen. | Image: Google\t\n\nGoogle Home chief Anish Kattukaran announced several updates to the smart home platform that fix a long list of annoyances and idiosyncrasies. There's also one noteworthy new addition: the introduction of \"Live Search\" for your cameras.\nSo, instead of Gemini only knowing about things that have already happened, it now understands what it sees in your live camera feeds. That means you can ask things like, \"Hey Google, is there a car in the driveway?\" Live Search requires a subscription to the Advanced plan of Google Home Premium, which costs $20/month or $200/year.\nGemini for Home is now also using updated models, a change that should impro …\nRead the full story at The Verge.",
+          "isoDate": "2026-03-03T09:55:29.000Z"
+        },
         {
           "title": "Anthropic upgrades Claude’s memory to attract AI switchers",
           "link": "https://www.theverge.com/ai-artificial-intelligence/887885/anthropic-claude-memory-upgrades-importing",
@@ -40,30 +64,6 @@
           "link": "https://www.theverge.com/tech/887791/mastodon-official-share-button-widget",
           "summary": "Sharing content to Mastodon is getting easier with the addition of a universal \"Share to Mastodon\" button for the decentralized social media platform. Announced on Monday, the widget allows users to share content on any Mastodon server by connecting your Mastodon account and redirecting you to the server that account is on. The blog post announcing the feature also explains that the tool \"works entirely in your browser: there is no tracking data, and it does not store any information on the server.\" \nPreviously, a \"share\" widget wasn't available on Mastodon mainly due to the technical challenges that come with the platform's decentralized d …\nRead the full story at The Verge.",
           "isoDate": "2026-03-02T20:18:58.000Z"
-        },
-        {
-          "title": "You could be an influencer without even realizing it",
-          "link": "https://www.theverge.com/tech/887692/instagram-shop-the-look-ai-shopping-tiktok-influencers",
-          "summary": "A similar AI shopping feature on TikTok. | The Verge\t\n\nIn late February, Puck reported on a strange case: An influencer with more than a million followers was inadvertently promoting products on Instagram. On some of Julia Berolzheimer's posts, a \"Shop the look\" button hovered in the corner. When followers clicked it, they were fed similar items to what Berolzheimer was wearing. \nHer job is to promote clothing, accessories, and other products to her followers, so having links to specific items isn't strange. What was odd was that she hadn't placed the links there herself - Instagram added them without her consent. The product links led followers not to the actual items Berolzheimer was promotin …\nRead the full story at The Verge.",
-          "isoDate": "2026-03-02T18:42:32.000Z"
-        },
-        {
-          "title": "Charter gets FCC permission to buy Cox and become largest ISP in the US",
-          "link": "https://arstechnica.com/tech-policy/2026/03/fcc-lets-charter-buy-cox-says-no-reason-to-worry-about-higher-internet-prices/",
-          "summary": "FCC rejects protests because Charter and Cox don't compete directly in most places.",
-          "isoDate": "2026-03-02T18:19:03.000Z"
-        },
-        {
-          "title": "Donut Lab’s solid-state battery can handle the (extreme) heat, test says",
-          "link": "https://www.theverge.com/transportation/887552/donut-lab-solid-state-battery-extreme-heat-test",
-          "summary": "Finnish startup Donut Lab is out to prove that its solid-state battery is all that it claims to be. Last week, the test was about fast charging. This week is where things get hot. \nLike the first test, this one was also conducted by state-owned VTT Technical Research Centre of Finland. The team set out to determine how well Donut Lab's cells held up under extreme heat, which has been known to adversely affect traditional lithium-ion batteries. The results show that not only can the Finnish startup's solid-state battery still discharge energy under conditions of up to 100 degrees Celsius (212 degrees Fahrenheit), it actually gains capacity. \n …\nRead the full story at The Verge.",
-          "isoDate": "2026-03-02T18:00:18.000Z"
-        },
-        {
-          "title": "AI-generated art can&#8217;t be copyrighted after Supreme Court declines to review the rule",
-          "link": "https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright",
-          "summary": "The US Supreme Court has declined to hear a case over whether AI-generated art can obtain a copyright, as reported earlier by Reuters. The Monday decision comes after Stephen Thaler, a computer scientist from Missouri, appealed a court's decision to uphold a ruling that found AI-generated art can't be copyrighted.\nIn 2019, the US Copyright Office rejected Thaler's request to copyright an image, called A Recent Entrance to Paradise, on behalf of an algorithm he created. The Copyright Office reviewed the decision in 2022 and determined that the image doesn't include \"human authorship,\" disqualifying it from copyright protection. \nAfter Thale …\nRead the full story at The Verge.",
-          "isoDate": "2026-03-02T17:58:05.000Z"
         }
       ]
     },
@@ -76,6 +76,42 @@
           "link": "https://science.nasa.gov/earth/earth-observatory/smoke-rises-over-big-cypress-national-preserve/",
           "summary": "The National fire has burned tens of thousands of acres within the Florida preserve, fueled by vegetation dried by prolonged drought and killed by recent frost.",
           "isoDate": "2026-03-03T05:00:00.000Z"
+        },
+        {
+          "title": "Releasing open-weight AI in steps would alleviate risks",
+          "link": "https://www.nature.com/articles/d41586-026-00679-6",
+          "summary": "Nature, Published online: 03 March 2026; doi:10.1038/d41586-026-00679-6\nReleasing open-weight AI in steps would alleviate risks",
+          "isoDate": "2026-03-03T00:00:00.000Z"
+        },
+        {
+          "title": "South Korea’s AI framework act focuses on rights and safety",
+          "link": "https://www.nature.com/articles/d41586-026-00678-7",
+          "summary": "Nature, Published online: 03 March 2026; doi:10.1038/d41586-026-00678-7\nSouth Korea’s AI framework act focuses on rights and safety",
+          "isoDate": "2026-03-03T00:00:00.000Z"
+        },
+        {
+          "title": "Climate research is global — risks and responsibilities should also be distributed",
+          "link": "https://www.nature.com/articles/d41586-026-00680-z",
+          "summary": "Nature, Published online: 03 March 2026; doi:10.1038/d41586-026-00680-z\nClimate research is global — risks and responsibilities should also be distributed",
+          "isoDate": "2026-03-03T00:00:00.000Z"
+        },
+        {
+          "title": "Why ‘quantum proteins’ could be the next big thing in biology",
+          "link": "https://www.nature.com/articles/d41586-026-00662-1",
+          "summary": "Nature, Published online: 03 March 2026; doi:10.1038/d41586-026-00662-1\nFluorescent proteins with a quantum upgrade could offer unprecedented views inside cells.",
+          "isoDate": "2026-03-03T00:00:00.000Z"
+        },
+        {
+          "title": "US climate actions must continue, despite setbacks",
+          "link": "https://www.nature.com/articles/d41586-026-00660-3",
+          "summary": "Nature, Published online: 03 March 2026; doi:10.1038/d41586-026-00660-3\nThe United States has slammed the brakes on legal routes to limit greenhouse gases. But cities, states and businesses can keep pushing for a cleaner environment.",
+          "isoDate": "2026-03-03T00:00:00.000Z"
+        },
+        {
+          "title": "How infighting led the Maya civilization to catastrophic collapse",
+          "link": "https://www.nature.com/articles/d41586-026-00663-0",
+          "summary": "Nature, Published online: 03 March 2026; doi:10.1038/d41586-026-00663-0\nFresh archaeological evidence hints at what caused the disappearance of this thriving ancient Mesoamerican culture.",
+          "isoDate": "2026-03-03T00:00:00.000Z"
         },
         {
           "title": "What’s Up: March 2026 Skywatching Tips from NASA",
@@ -94,42 +130,6 @@
           "link": "https://www.nasa.gov/news-release/nasa-jaxa-to-cover-htv-x1-spacecraft-departure-from-space-station/",
           "summary": "After delivering about 12,000 pounds of supplies, scientific investigations, hardware, and other cargo to the International Space Station for NASA and its international partners, JAXA’s (Japan Aerospace Exploration Agency’s) uncrewed HTV‑X1 cargo spacecraft is scheduled to depart Friday, March 6. Watch NASA’s live coverage beginning at 11:45 a.m. EST on NASA+, Amazon Prime, and the […]",
           "isoDate": "2026-03-02T16:50:30.000Z"
-        },
-        {
-          "title": "Scoria Cones on Earth and Mars",
-          "link": "https://science.nasa.gov/earth/earth-observatory/scoria-cones-on-earth-and-mars/",
-          "summary": "The hill-shaped features are a sign of explosive volcanic activity—a rarity on the Red Planet.",
-          "isoDate": "2026-03-02T05:01:00.000Z"
-        },
-        {
-          "title": "Author Correction: Root microbiota drive direct integration of phosphate stress and immunity",
-          "link": "https://www.nature.com/articles/s41586-026-10320-1",
-          "summary": "Nature, Published online: 02 March 2026; doi:10.1038/s41586-026-10320-1\nAuthor Correction: Root microbiota drive direct integration of phosphate stress and immunity",
-          "isoDate": "2026-03-02T00:00:00.000Z"
-        },
-        {
-          "title": "BCDX2–CX3 and DX2–CX3 complexes assemble and stabilize RAD51 filaments",
-          "link": "https://www.nature.com/articles/s41586-026-10314-z",
-          "summary": "Nature, Published online: 02 March 2026; doi:10.1038/s41586-026-10314-z\nBCDX2–CX3 and DX2–CX3 complexes assemble and stabilize RAD51 filaments",
-          "isoDate": "2026-03-02T00:00:00.000Z"
-        },
-        {
-          "title": "The squeal of peeling tape, explained",
-          "link": "https://www.nature.com/articles/d41586-026-00516-w",
-          "summary": "Nature, Published online: 02 March 2026; doi:10.1038/d41586-026-00516-w\nWeak shock waves triggered by micro-cracks in the adhesive layer of tape cause it to screech when being unspooled from its roll.",
-          "isoDate": "2026-03-02T00:00:00.000Z"
-        },
-        {
-          "title": "Audio long read: Many people have no mental imagery. What’s going on in their brains?",
-          "link": "https://www.nature.com/articles/d41586-026-00626-5",
-          "summary": "Nature, Published online: 02 March 2026; doi:10.1038/d41586-026-00626-5\nPeople with aphantasia are offering brain scientists a window into consciousness.",
-          "isoDate": "2026-03-02T00:00:00.000Z"
-        },
-        {
-          "title": "The hidden lives behind China’s great Internet firewall",
-          "link": "https://www.nature.com/articles/d41586-026-00664-z",
-          "summary": "Nature, Published online: 02 March 2026; doi:10.1038/d41586-026-00664-z\nThe country’s tightly controlled digital ecosystem is replete with human stories and acts of subtle resistance.",
-          "isoDate": "2026-03-02T00:00:00.000Z"
         }
       ]
     },
@@ -141,13 +141,25 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Inappropriately located doctype declaration\nLine: 4\nColumn: 9\nChar: e",
-          "isoDate": "2026-03-03T06:52:41.573Z"
+          "isoDate": "2026-03-03T12:57:45.950Z"
+        },
+        {
+          "title": "OpenAI changes deal with US military after backlash",
+          "link": "https://www.bbc.com/news/articles/c3rz1nd0egro?at_medium=RSS&at_campaign=rss",
+          "summary": "Chief Executive Sam Altman said the group would prohibit the use of its systems to spy on Americans.",
+          "isoDate": "2026-03-03T11:51:31.000Z"
         },
         {
           "title": "Amazon says drones damaged three facilities in UAE and Bahrain",
           "link": "https://www.bbc.com/news/articles/cgk28nj0lrjo?at_medium=RSS&at_campaign=rss",
           "summary": "The incidents highlight the vulnerability of key technology infrastructure during military conflicts.",
           "isoDate": "2026-03-03T03:59:26.000Z"
+        },
+        {
+          "title": "Deepfake attack: 'Many people could have been cheated'",
+          "link": "https://www.bbc.com/news/articles/c0j59vydxj9o?at_medium=RSS&at_campaign=rss",
+          "summary": "The boss of the Bombay Stock Exchange was recently targeted in what is a growing global problem.",
+          "isoDate": "2026-03-02T06:47:00.000Z"
         },
         {
           "title": "UK launches consultation asking for views on under-16s social media ban",
@@ -174,28 +186,16 @@
           "isoDate": "2026-02-28T00:01:19.000Z"
         },
         {
+          "title": "Pokémon at 30: Fans explain what the series means to them",
+          "link": "https://www.bbc.com/news/articles/cpw0xw5nqglo?at_medium=RSS&at_campaign=rss",
+          "summary": "The massively popular series shows no signs of slowing down as it gears up to celebrate its launch.",
+          "isoDate": "2026-02-27T15:37:03.000Z"
+        },
+        {
           "title": "Anthropic boss rejects Pentagon demand to drop AI safeguards",
           "link": "https://www.bbc.com/news/articles/cvg3vlzzkqeo?at_medium=RSS&at_campaign=rss",
           "summary": "Defense Secretary Pete Hegseth previously threatened to remove the firm from the department's supply chain.",
           "isoDate": "2026-02-27T10:57:28.000Z"
-        },
-        {
-          "title": "'I was on Instagram all day' - woman tells landmark trial",
-          "link": "https://www.bbc.com/news/articles/c89kdpjn7eqo?at_medium=RSS&at_campaign=rss",
-          "summary": "The young woman, who accuses Meta and Google of making addictive social media platforms, has been speaking in court.",
-          "isoDate": "2026-02-27T09:57:43.000Z"
-        },
-        {
-          "title": "Jack Dorsey's Block cuts thousands of jobs as it embraces AI",
-          "link": "https://www.bbc.com/news/articles/cq570d12y9do?at_medium=RSS&at_campaign=rss",
-          "summary": "The Twitter co-founder says he believes the majority of firms will make similar changes \"within the next year.\"",
-          "isoDate": "2026-02-27T00:06:40.000Z"
-        },
-        {
-          "title": "Why you can't get a signal at festivals and sports matches",
-          "link": "https://www.bbc.com/news/articles/c3rzq8d24y9o?at_medium=RSS&at_campaign=rss",
-          "summary": "Connecting up music and sports events to the internet is a massive undertaking.",
-          "isoDate": "2026-02-27T00:03:10.000Z"
         }
       ]
     },
@@ -273,13 +273,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-03-03T06:52:45.502Z"
+          "isoDate": "2026-03-03T12:57:47.540Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 58\nChar: =",
-          "isoDate": "2026-03-03T06:52:43.066Z"
+          "isoDate": "2026-03-03T12:57:46.802Z"
+        },
+        {
+          "title": "Optimizing a Battery Electric Vehicle Thermal Management System",
+          "link": "https://content.knowledgehub.wiley.com/optimizing-a-battery-electric-vehicle-thermal-management-system/",
+          "summary": "This webinar looks at a Battery Electric Virtual Vehicle Model of a mid-size BEV, and uses Simulink and Simscape to facilitate design exploration, component refinement, and system-level optimization. The virtual vehicle comprises five subsystems: Electric powertrain, driveline, refrigerant cycle, coolant cycle, and passenger cabin. The model will be tested using different drive cycles, cooling, and heating scenarios. The results will be analyzed to determine the impact of the different design parameters on vehicle consumption.\nThe resulting virtual vehicle will be used to:\n\nTest different drive cycles and environmental conditions\nPerform sensitivity analysis\nOptimize model to improve thermal performance and consumption\n\nRegister now for this free webinar!",
+          "isoDate": "2026-03-03T11:00:02.000Z"
         },
         {
           "title": "Watershed Moment for AI–Human Collaboration in Math",
@@ -310,12 +316,6 @@
           "link": "https://spectrum.ieee.org/ieee-presidents-note-engineering-renaissance",
           "summary": "Consider a powerful parallel between the advancements made during the Renaissance and the developments made by today’s engineers.\nThe Renaissance was a uniquely fertile era. Its ethos of curiosity and creativity fostered unprecedented collaboration across disciplines. Artists, scientists, philosophers, and patrons engaged in a shared pursuit of human potential, beauty, and advancements in art, science, and literature.\nBut the Renaissance wasn’t just a cultural awakening. It was a systems-level transformation: a convergence of disciplines, minds, and methods that redefined what humanity could achieve. And in many ways, it mirrors the collaborative spirit we strive for within our IEEE communities.\nCollaboration Is a Catalyst\nDuring the Renaissance, breakthroughs didn’t happen in isolation. They emerged from intersections of different disciplines. Collaboration was the norm: Artists worked with mathematicians to perfect their creations’ accuracy, and architects consulted astronomers to design buildings that reflected celestial order. It was interdisciplinary design thinking centuries before the concept was given a name.\nWho’s up for a Challenge?\n\nIEEE Impact Challenge, which launched in January, aims not only to address real-world problems through purpose-driven engineering but also to attract new members, foster cross‑disciplinary collaboration, and design a better world for all.\nThe IEEE Future Tech Explorers program invites IEEE members to partner with others to inspire tomorrow’s engineers and technologists by creating interactive educational experiences that spark curiosity and open doors for young minds.\nThe IEEE Response Quest seeks to find solutions that enable near-real-time situational awareness for those providing emergency response and relief assistance.\nWe welcome educators, designers, engineers, and innovators from every technical discipline to come together, collaborate across communities, and demonstrate the power of IEEE when we unite around a shared purpose.\nLearn more at the IEEE Impact Challenge website.\nIt is at the intersections where disciplines and communities meet that the sparks of transformation ignite. The intersection of engineering and medicine gives us lifesaving devices. The intersection of computing and art produces immersive experiences from virtual, augmented, and mixed reality technology that expands human imagination. The intersection of policy and technology ensures ethical innovation. The outcomes of these crossroads remind us that progress is rarely linear. It is woven from the threads of various expertise, perspectives, and values.\nWhen we collaborate across specialties, from electrical and biomedical to aerospace and software, we unlock new possibilities. And when we engage with industry, educators, policymakers, standard developers, and the public, we elevate those possibilities into solutions. We do it together, because no single engineer or technologist, and no one discipline can solve all the challenges we face.\nThe Renaissance teaches us that collaboration is a catalyst for advancing society. And so, I ask: What if we are living in a new, modern renaissance?\nWhat if our members are today’s da Vincis, designing systems that serve humanity? What if our volunteers are modern-day patrons, investing time, talent, and heart into building a better world? What if our students and young professionals are the architects of tomorrow’s breakthroughs, fluent in computer code, ethics, and global impact, ready to collaborate across borders, sectors, and disciplines?\nWhat if our conferences, technical standards, and humanitarian technologies are the printing presses of our time, disseminating knowledge, sparking dialogue, and scaling solutions? What if our collective imagination is the canvas upon which the next century of innovation will be painted?\nAnd what if, like the Renaissance, our era is defined not only by invention but also by intersection, where many voices and perspectives converge to shape technologies that reflect humanity’s full spectrum?\nImagine engineers working together with ethicists to ensure responsible AI; with environmental scientists to safeguard our planet; and with local communities to design solutions that solve their challenges. Also imagine engineers partnering with disaster relief agencies to design real-time systems, restore communication networks, and deliver lifesaving technologies when survivors need them most.\nSo let us think like Renaissance creators. Let us design with empathy and collaborate across boundaries. Let us honor that legacy by not just preserving the past but also by building systems that empower the future for everyone.\nWhen we unite technical excellence with human purpose, we don’t just innovate; we elevate. And in doing so, we carry forward the timeless truth of the Renaissance: Humanity’s greatest achievements are born not from isolation but from intersection and connection.\n—Mary Ellen Randall\nIEEE president and CEO\nPlease share your thoughts with me: president@ieee.org.",
           "isoDate": "2026-03-01T19:00:02.000Z"
-        },
-        {
-          "title": "Letting Machines Decide What Matters",
-          "link": "https://spectrum.ieee.org/ai-new-physics",
-          "summary": "In the time it takes you to read this sentence, the Large Hadron Collider (LHC) will have smashed billions of particles together. In all likelihood, it will have found exactly what it found yesterday: more evidence to support the Standard Model of particle physics.\nFor the engineers who built this 27-kilometer-long ring, this consistency is a triumph. But for theoretical physicists, it has been rather frustrating. As Matthew Hutson reports in “AI Hunts for the Next Big Thing in Physics,” the field is currently gripped by a quiet crisis. In an email discussing his reporting, Hutson explains that the Standard Model, which describes the known elementary particles and forces, is not a complete picture. “So theorists have proposed new ideas, and experimentalists have built giant facilities to test them, but despite the gobs of data, there have been no big breakthroughs,” Hutson says. “There are key components of reality we’re completely missing.”\nThat’s why researchers are turning artificial intelligence loose on particle physics. They aren’t simply asking AI to comb through accelerator data to confirm existing theories, Hutson explains. They’re asking AI to point the way toward theories that they’ve never imagined. “Instead of looking to support theories that humans have generated,” he says, “unsupervised AI can highlight anything out of the ordinary, expanding our reach into unknown unknowns.” By asking AI to flag anomalies in the data, researchers hope to find their way to “new physics” that extends the Standard Model. \nOn the surface, this article might sound like another “AI for X” story. As IEEE Spectrum’s AI editor, I get a steady stream of pitches for such stories: AI for drug discovery, AI for farming, AI for wildlife tracking. Often what that really means is faster data processing or automation around the edges. Useful, sure, but incremental.\nWhat struck me in Hutson’s reporting is that this effort feels different. Instead of analyzing experimental data after the fact, the AI essentially becomes part of the instrument, scanning for subtle patterns and deciding in real time what’s interesting. At the LHC, detectors record 40 million collisions per second. There’s simply no way to preserve all that data, so engineers have always had to build filters to decide which events get saved for analysis and which are discarded; nearly everything is thrown away. \nNow those split-second decisions are increasingly handed to machine learning systems running on field-programmable gate arrays (FPGAs) connected to the detectors. The code must run on the chip’s limited logic and memory, and compressing a neural network into that hardware isn’t easy. Hutson describes one theorist pleading with an engineer, “Which of my algorithms fits on your bloody FPGA?”\nThis moment is part of a much older pattern. As Hutson writes in the article, new instruments have opened doors to the unexpected throughout the history of science. Galileo’s telescope revealed moons circling Jupiter. Early microscopes exposed entire worlds of “animalcules” swimming around. These better tools didn’t just answer existing questions; they made it possible to ask new ones.\nIf there’s a crisis in particle physics, in other words, it may not just be about missing particles. It’s about how to look beyond the limits of the human imagination. Hutson’s story suggests that AI might not solve the mysteries of the universe outright, but it could change how we search for answers.",
-          "isoDate": "2026-03-01T11:00:03.000Z"
         }
       ]
     },
