@@ -1,1 +1,45 @@
-
+{
+  "updated": "2026-03-04",
+  "items": [
+    {
+      "name": "El Pibe (Casa Angel)",
+      "price": 2.0,
+      "volume_ml": 200,
+      "zone": "Potes",
+      "tapa": "Sí",
+      "ambiente": "Barrio"
+    },
+    {
+      "name": "Camacho",
+      "price": 2.0,
+      "volume_ml": 200,
+      "zone": "Potes",
+      "tapa": "Aceitunas",
+      "ambiente": "Barrio"
+    },
+    {
+      "name": "Casa Aguilar (Byron's)",
+      "price": 2.2,
+      "volume_ml": 200,
+      "zone": "Potes",
+      "tapa": "Sí",
+      "ambiente": "Mixto"
+    },
+    {
+      "name": "Casa Favila",
+      "price": 2.3,
+      "volume_ml": 200,
+      "zone": "Potes",
+      "tapa": "Aceitunas",
+      "ambiente": "Mixto"
+    },
+    {
+      "name": "Bar El Trenti",
+      "price": 2.4,
+      "volume_ml": 200,
+      "zone": "Potes",
+      "tapa": "No",
+      "ambiente": "Mixto"
+    }
+  ]
+}
