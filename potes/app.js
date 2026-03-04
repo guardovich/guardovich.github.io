@@ -10,6 +10,31 @@ const STORAGE_FLAG = "potes_socio_ok_v1";
 const INTRO_SEEN = "potes_intro_seen_v1";
 
 /* ======================
+DEBUG (visible + consola)
+====================== */
+
+function dbg(msg){
+  try{
+    const lines = document.getElementById("introLines");
+    if(lines){
+      const d = document.createElement("div");
+      d.className = "introLine";
+      d.textContent = "DBG: " + msg;
+      lines.appendChild(d);
+    }
+  } catch(_){}
+  console.log("DBG:", msg);
+}
+
+window.addEventListener("error", (e) => {
+  dbg("JS ERROR: " + (e?.message || e));
+});
+
+window.addEventListener("unhandledrejection", (e) => {
+  dbg("PROMISE ERROR: " + (e?.reason?.message || e?.reason || "unknown"));
+});
+
+/* ======================
 HELPERS
 ====================== */
 
@@ -80,7 +105,6 @@ async function typeLineHTML(container, html, {speed=14, beeps=true} = {}){
   cursor.className = "cursor";
   cursor.textContent = "▌";
 
-  // “type” plain text, then swap to full HTML at the end (to preserve spans)
   for(let i=0;i<text.length;i++){
     line.textContent = text.slice(0, i+1) + " ";
     line.appendChild(cursor);
@@ -91,15 +115,23 @@ async function typeLineHTML(container, html, {speed=14, beeps=true} = {}){
 }
 
 async function runIntro(){
+  dbg("runIntro() called");
+
   const intro = document.getElementById("intro");
   const lines = document.getElementById("introLines");
   const bar = document.getElementById("barInner");
   const pct = document.getElementById("pct");
   const hint = document.getElementById("introHint");
 
-  if(!intro || !lines || !bar || !pct) return;
+  if(!intro || !lines || !bar || !pct){
+    dbg("Missing intro DOM nodes (introLines/barInner/pct). Check index.html ids.");
+    // si faltan nodos, saltamos a gate para que puedas entrar igual
+    showGate();
+    if(intro) intro.classList.add("hidden");
+    return;
+  }
 
-  hint && (hint.style.display = "none");
+  if(hint) hint.style.display = "none";
   lines.innerHTML = "";
   bar.style.width = "0%";
   pct.textContent = "00%";
@@ -117,7 +149,6 @@ async function runIntro(){
     await sleep(120);
   }
 
-  // loading
   for(let i=0;i<=100;i+=2){
     bar.style.width = `${i}%`;
     pct.textContent = `${String(i).padStart(2,"0")}%`;
@@ -135,17 +166,17 @@ async function runIntro(){
 function showGate(){
   const gate = document.getElementById("gate");
   const app = document.getElementById("app");
-  gate && gate.classList.remove("hidden");
-  app && app.classList.add("hidden");
+  if(gate) gate.classList.remove("hidden");
+  if(app) app.classList.add("hidden");
   const key = document.getElementById("key");
-  key && key.focus();
+  if(key) key.focus();
 }
 
 function showApp(){
   const gate = document.getElementById("gate");
   const app = document.getElementById("app");
-  gate && gate.classList.add("hidden");
-  app && app.classList.remove("hidden");
+  if(gate) gate.classList.add("hidden");
+  if(app) app.classList.remove("hidden");
 }
 
 function armIntro(){
@@ -153,18 +184,38 @@ function armIntro(){
   const btn = document.getElementById("btnStartIntro");
 
   const start = async () => {
-    // AudioContext solo puede crearse tras interacción del usuario
+    dbg("START intro (triggered)");
     if(!audioCtx){
-      try{ audioCtx = new (window.AudioContext || window.webkitAudioContext)(); } catch(e){}
+      try{
+        audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+        dbg("AudioContext OK");
+      } catch(e){
+        dbg("AudioContext FAIL (no pasa nada)");
+      }
     }
     beep(880, 60, 0.02);
     await runIntro();
   };
 
-  // OBLIGATORIO: botón visible + click en pantalla + Enter
-  btn && btn.addEventListener("click", start, { once:true });
-  intro && intro.addEventListener("click", start, { once:true });
-  window.addEventListener("keydown", (e) => { if(e.key === "Enter") start(); }, { once:true });
+  if(btn){
+    btn.addEventListener("click", start);
+    dbg("Start button wired");
+  } else {
+    dbg("No btnStartIntro found (still ok, click/enter should work)");
+  }
+
+  if(intro){
+    intro.addEventListener("click", start);
+    dbg("Intro click wired");
+  } else {
+    dbg("No #intro found");
+  }
+
+  // ENTER SIEMPRE (sin once)
+  window.addEventListener("keydown", (e) => {
+    if(e.key === "Enter") start();
+  });
+  dbg("Keydown Enter wired");
 }
 
 /* ======================
@@ -173,7 +224,7 @@ DATA
 
 async function loadData(){
   const res = await fetch("data.json", { cache: "no-store" });
-  if(!res.ok) throw new Error("No se pudo cargar data.json");
+  if(!res.ok) throw new Error("No se pudo cargar data.json (¿está en /potes/?)");
   DATA = await res.json();
   view = [...(DATA.items || [])];
 }
@@ -208,7 +259,10 @@ function applyFilterAndView(){
 function render(){
   const table = document.getElementById("table");
   const meta = document.getElementById("meta");
-  if(!table || !meta) return;
+  if(!table || !meta){
+    dbg("Missing #table or #meta in DOM");
+    return;
+  }
 
   const filtered = applyFilterAndView();
 
@@ -282,6 +336,7 @@ function sortByPrice(){
   view.sort((a,b) => (a.price ?? 9e9) - (b.price ?? 9e9));
   currentView === "stats" ? renderStats() : render();
 }
+
 function sortByName(){
   view.sort((a,b) => (a.name||"").localeCompare(b.name||"", "es"));
   currentView === "stats" ? renderStats() : render();
@@ -293,17 +348,17 @@ LOGIN
 
 async function enter(){
   const msg = document.getElementById("gateMsg");
-  msg && (msg.textContent = "");
+  if(msg) msg.textContent = "";
 
   const key = (document.getElementById("key")?.value || "").trim();
   if(!key){
-    msg && (msg.textContent = "Introduce la clave.");
+    if(msg) msg.textContent = "Introduce la clave.";
     return;
   }
 
   const h = await sha256Hex(key);
   if(h !== SOCIO_KEY_SHA256_HEX){
-    msg && (msg.textContent = "Clave incorrecta.");
+    if(msg) msg.textContent = "Clave incorrecta.";
     return;
   }
 
@@ -311,7 +366,7 @@ async function enter(){
   showApp();
 
   await loadData();
-  sortByPrice(); // default: ranking por precio
+  sortByPrice();
 }
 
 function logout(){
@@ -324,7 +379,9 @@ INIT
 ====================== */
 
 window.addEventListener("DOMContentLoaded", async () => {
-  // Wire buttons safely (si falta alguno, no revienta)
+  dbg("DOMContentLoaded");
+
+  // Wire controls (safe)
   document.getElementById("btnEnter")?.addEventListener("click", enter);
   document.getElementById("key")?.addEventListener("keydown", (e) => {
     if(e.key === "Enter") enter();
@@ -333,6 +390,7 @@ window.addEventListener("DOMContentLoaded", async () => {
   document.getElementById("btnLogout")?.addEventListener("click", logout);
   document.getElementById("btnSortPrice")?.addEventListener("click", sortByPrice);
   document.getElementById("btnSortName")?.addEventListener("click", sortByName);
+
   document.getElementById("q")?.addEventListener("input", () => {
     currentView === "stats" ? renderStats() : render();
   });
@@ -345,20 +403,23 @@ window.addEventListener("DOMContentLoaded", async () => {
     });
   });
 
-  // flow
+  // Flow
   const seen = localStorage.getItem(INTRO_SEEN) === "1";
   const logged = localStorage.getItem(STORAGE_FLAG) === "1";
 
+  dbg(`seenIntro=${seen} logged=${logged}`);
+
   if(!seen){
-    // show intro and require user interaction to start
     document.getElementById("intro")?.classList.remove("hidden");
-    showGate(); // ensure gate/app hidden state known
+    // Asegura que gate/app estén ocultos durante intro
     document.getElementById("gate")?.classList.add("hidden");
+    document.getElementById("app")?.classList.add("hidden");
     armIntro();
+    dbg("Intro armed (press ENTER/click/EMPEZAR)");
     return;
   }
 
-  // skip intro
+  // Skip intro
   document.getElementById("intro")?.classList.add("hidden");
 
   if(logged){
@@ -366,10 +427,12 @@ window.addEventListener("DOMContentLoaded", async () => {
     try{
       await loadData();
       sortByPrice();
-    }catch(e){
-      console.error(e);
+      dbg("Auto-login OK");
+    } catch(e){
+      dbg("Auto-login loadData failed: " + (e?.message || e));
     }
   }else{
     showGate();
+    dbg("Showing gate (enter password)");
   }
 });
