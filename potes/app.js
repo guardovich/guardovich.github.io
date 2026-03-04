@@ -29,7 +29,6 @@ function dbg(msg){
 window.addEventListener("error", (e) => {
   dbg("JS ERROR: " + (e?.message || e));
 });
-
 window.addEventListener("unhandledrejection", (e) => {
   dbg("PROMISE ERROR: " + (e?.reason?.message || e?.reason || "unknown"));
 });
@@ -125,7 +124,6 @@ async function runIntro(){
 
   if(!intro || !lines || !bar || !pct){
     dbg("Missing intro DOM nodes (introLines/barInner/pct). Check index.html ids.");
-    // si faltan nodos, saltamos a gate para que puedas entrar igual
     showGate();
     if(intro) intro.classList.add("hidden");
     return;
@@ -211,7 +209,7 @@ function armIntro(){
     dbg("No #intro found");
   }
 
-  // ENTER SIEMPRE (sin once)
+  // ENTER SIEMPRE
   window.addEventListener("keydown", (e) => {
     if(e.key === "Enter") start();
   });
@@ -381,7 +379,6 @@ INIT
 window.addEventListener("DOMContentLoaded", async () => {
   dbg("DOMContentLoaded");
 
-  // Wire controls (safe)
   document.getElementById("btnEnter")?.addEventListener("click", enter);
   document.getElementById("key")?.addEventListener("keydown", (e) => {
     if(e.key === "Enter") enter();
@@ -403,15 +400,12 @@ window.addEventListener("DOMContentLoaded", async () => {
     });
   });
 
-  // Flow
   const seen = localStorage.getItem(INTRO_SEEN) === "1";
   const logged = localStorage.getItem(STORAGE_FLAG) === "1";
-
   dbg(`seenIntro=${seen} logged=${logged}`);
 
   if(!seen){
     document.getElementById("intro")?.classList.remove("hidden");
-    // Asegura que gate/app estén ocultos durante intro
     document.getElementById("gate")?.classList.add("hidden");
     document.getElementById("app")?.classList.add("hidden");
     armIntro();
@@ -419,7 +413,6 @@ window.addEventListener("DOMContentLoaded", async () => {
     return;
   }
 
-  // Skip intro
   document.getElementById("intro")?.classList.add("hidden");
 
   if(logged){
@@ -428,7 +421,7 @@ window.addEventListener("DOMContentLoaded", async () => {
       await loadData();
       sortByPrice();
       dbg("Auto-login OK");
-    } catch(e){
+    }catch(e){
       dbg("Auto-login loadData failed: " + (e?.message || e));
     }
   }else{
