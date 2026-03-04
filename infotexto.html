@@ -25,7 +25,7 @@ permalink: /infotexto.html
     </div>
 
     <div class="bar-right">
-      <div class="nutri" id="nutriBox">
+      <div class="nutri" id="nutriBox" title="Indicador global (media de variables)">
         <div class="nutri-grade" id="nutriGrade">—</div>
         <div class="nutri-meta">
           <div class="nutri-title">Indicador global</div>
@@ -93,6 +93,86 @@ permalink: /infotexto.html
 
         <div class="metrics" id="metricsText">—</div>
       </div>
+
+      <div class="panel warning">
+        <div class="warning-title">⚠ ADVERTENCIA EDITORIAL</div>
+        <div id="warningText" class="warning-text">—</div>
+      </div>
+
+      <div class="panel">
+        <div class="panel-title">
+          <span class="y">PROYECTO PILOTO</span>
+        </div>
+        <div class="method">
+          <p>
+            <strong>InfoTexto</strong> es un proyecto piloto desarrollado por
+            <strong>David Guardo</strong> para explorar sistemas de evaluación pública de la
+            calidad informativa de los medios de comunicación.
+          </p>
+          <p>
+            Este proyecto carece actualmente de infraestructura institucional o académica
+            para validar empíricamente todos los resultados. Las valoraciones mostradas
+            deben entenderse como una aproximación experimental destinada a abrir
+            debate sobre la transparencia, la independencia y el rigor de los medios.
+          </p>
+          <p>
+            El objetivo es ofrecer al ciudadano una herramienta sencilla que permita
+            interpretar de forma rápida los posibles sesgos estructurales de un medio
+            de comunicación.
+          </p>
+        </div>
+      </div>
+
+      <div class="panel">
+        <div class="panel-title">
+          <span class="c">METODOLOGÍA</span>
+        </div>
+        <div class="method">
+          <p><strong>Independencia</strong></p>
+          <p>
+            Evalúa en qué medida el medio mantiene autonomía editorial frente a
+            presiones económicas o institucionales. Se considera el grado de
+            dependencia de financiación pública, publicidad institucional,
+            pertenencia a grandes conglomerados mediáticos o integración dentro
+            de estructuras multimedia que puedan condicionar la línea editorial.
+          </p>
+
+          <p><strong>Reputación</strong></p>
+          <p>
+            Mide el reconocimiento histórico del medio dentro del ecosistema
+            informativo: trayectoria profesional, percepción pública,
+            referencias en otros medios y prestigio acumulado entre periodistas,
+            académicos y audiencias.
+          </p>
+
+          <p><strong>Transparencia</strong></p>
+          <p>
+            Valora el nivel de claridad con el que el medio informa sobre su
+            propiedad, estructura empresarial, financiación y políticas
+            editoriales. Incluye prácticas como la corrección pública de errores,
+            la identificación de fuentes o la explicación de procesos editoriales.
+          </p>
+
+          <p><strong>Rigor</strong></p>
+          <p>
+            Relacionado con el desempeño profesional del medio en relación con
+            las virtudes clásicas del periodismo: verificación de hechos,
+            contextualización de la información, separación entre opinión y
+            noticia, contraste de fuentes y calidad de las investigaciones
+            publicadas.
+          </p>
+
+          <p><strong>Equilibrio político</strong></p>
+          <p>
+            Analiza el grado de pluralidad ideológica presente en el medio.
+            Evalúa hasta qué punto existe una línea editorial claramente
+            alineada con determinadas posiciones políticas o si el medio
+            mantiene una cobertura relativamente equilibrada de actores
+            políticos, instituciones y debates públicos.
+          </p>
+        </div>
+      </div>
+
     </div>
   </div>
 </section>
@@ -144,6 +224,29 @@ permalink: /infotexto.html
 .sl-val{color:var(--y);text-align:right;}
 .radar-wrap{display:flex;justify-content:center;border:1px solid #333;padding:10px;background:#010101;}
 .metrics{margin-top:10px;border:1px solid #222;padding:10px;line-height:1.35;}
+
+.method{
+  border:1px solid #222;
+  padding:12px;
+  line-height:1.55;
+  color:#ddd;
+}
+.method p{ margin:0 0 10px; }
+
+.warning{
+  border:2px solid #444;
+  background:#050505;
+}
+.warning-title{
+  font-size:18px;
+  font-weight:900;
+  color:#ff0;
+  margin-bottom:10px;
+}
+.warning-text{
+  line-height:1.6;
+  color:#ddd;
+}
 </style>
 
 <!-- 🔥 IMPORTANTE: cargar base de datos antes del script principal -->
@@ -181,8 +284,9 @@ permalink: /infotexto.html
 
   const nutriGrade = $("nutriGrade");
   const nutriAvg = $("nutriAvg");
+  const warningText = $("warningText");
 
-  // Radar geometry (SVG 360x360 viewBox)
+  // Radar geometry
   const W = 360, H = 360;
   const cx = W/2, cy = H/2;
   const R = 130;
@@ -213,7 +317,6 @@ permalink: /infotexto.html
     grid.innerHTML = "";
     labels.innerHTML = "";
 
-    // rings
     for(let s=1; s<=steps; s++){
       const rr = (R * s/steps);
       const pts = VARS.map((_,i) => polarPoint(rr, i).join(",")).join(" ");
@@ -225,7 +328,6 @@ permalink: /infotexto.html
       grid.appendChild(p);
     }
 
-    // axes + labels
     VARS.forEach((v,i) => {
       const [x,y] = polarPoint(R, i);
 
@@ -251,7 +353,6 @@ permalink: /infotexto.html
   }
 
   function renderRadar(vars){
-    // polygon
     const pts = VARS.map((v,i) => {
       const val = clamp(vars?.[v.key] ?? 0, 0, 100);
       const rr = R * (val/100);
@@ -259,7 +360,6 @@ permalink: /infotexto.html
     }).join(" ");
     poly.setAttribute("points", pts);
 
-    // dots
     dots.innerHTML = "";
     VARS.forEach((v,i) => {
       const val = clamp(vars?.[v.key] ?? 0, 0, 100);
@@ -274,7 +374,6 @@ permalink: /infotexto.html
       dots.appendChild(c);
     });
 
-    // metrics + nutri
     const avg = Math.round(VARS.reduce((a,v)=>a+clamp(vars?.[v.key] ?? 0,0,100),0)/VARS.length);
     metricsText.innerHTML =
       VARS.map(v => `· ${v.name}: <span style="color:var(--y)">${clamp(vars?.[v.key] ?? 0,0,100)}</span>`).join("<br>") +
@@ -286,8 +385,33 @@ permalink: /infotexto.html
     nutriAvg.textContent = `${avg}/100`;
   }
 
+  function generarAdvertencia(m){
+    const v = m.variables || {};
+    const nombre = m.nombre || "Este medio";
+
+    let p1 = `${nombre} presenta un perfil informativo marcado por `;
+    p1 += (v.independencia < 50)
+      ? "una independencia limitada frente a presiones económicas o institucionales, lo que puede condicionar su agenda y su énfasis editorial."
+      : "un grado relativamente alto de autonomía editorial, reduciendo el riesgo de presiones externas sobre su agenda informativa.";
+
+    let p2 = "";
+    p2 += (v.rigor < 50)
+      ? "En términos de rigor, conviene leerlo con cautela: puede primar el enfoque interpretativo o editorial por encima del contraste exhaustivo y la verificación."
+      : "En términos de rigor, suele mantener estándares profesionales razonables: contraste de fuentes, contextualización y separación entre información y opinión.";
+
+    p2 += " ";
+    p2 += (v.sesgo < 50)
+      ? "Su equilibrio político es bajo: la cobertura puede mostrar sesgos ideológicos que influyen en la selección de noticias, el framing y el peso dado a investigaciones."
+      : "Su equilibrio político es relativamente alto: tiende a ofrecer una cobertura más plural, con menor riesgo de encuadres excesivamente alineados.";
+
+    const p3 = "Estos indicadores son orientativos y buscan ayudar al lector a entender desde qué posición editorial se producen las informaciones.";
+
+    warningText.innerText = p1 + "\n\n" + p2 + "\n\n" + p3;
+  }
+
   function buildSliders(m){
     slidersEl.innerHTML = "";
+    m.variables = m.variables || {};
     VARS.forEach(v => {
       const cur = clamp(m.variables?.[v.key] ?? 0, 0, 100);
       const row = document.createElement("div");
@@ -303,6 +427,7 @@ permalink: /infotexto.html
         m.variables[v.key] = Number(e.target.value);
         out.textContent = e.target.value;
         renderRadar(m.variables);
+        generarAdvertencia(m);
       });
       slidersEl.appendChild(row);
     });
@@ -321,12 +446,12 @@ permalink: /infotexto.html
       d_url.href = "#";
     }
 
-    // ensure shape
     m.variables = m.variables || {};
     VARS.forEach(v => { if(typeof m.variables[v.key] !== "number") m.variables[v.key] = 0; });
 
     buildSliders(m);
     renderRadar(m.variables);
+    generarAdvertencia(m);
   }
 
   function renderList(items){
