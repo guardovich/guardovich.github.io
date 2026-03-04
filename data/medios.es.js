@@ -10,7 +10,7 @@ window.MEDIA_DB.ES = [
     tipo: "Prensa",
     propietario: "PRISA",
     url: "https://elpais.com",
-    variables: { independencia:62, reputacion:78, transparencia:55, rigor:74, sesgo:60 }
+    variables: { independencia:62, reputacion:56, transparencia:50, rigor:70, sesgo:30 }
   },
   {
     id: "elmundo",
@@ -19,7 +19,7 @@ window.MEDIA_DB.ES = [
     tipo: "Prensa",
     propietario: "Unidad Editorial",
     url: "https://www.elmundo.es",
-    variables: { independencia:58, reputacion:72, transparencia:50, rigor:70, sesgo:55 }
+    variables: { independencia:60, reputacion:60, transparencia:50, rigor:70, sesgo:55 }
   },
   {
     id: "lavanguardia",
@@ -37,7 +37,7 @@ window.MEDIA_DB.ES = [
     tipo: "TV/Radio",
     propietario: "Corporación RTVE (público)",
     url: "https://www.rtve.es",
-    variables: { independencia:55, reputacion:66, transparencia:58, rigor:62, sesgo:52 }
+    variables: { independencia:10, reputacion:30, transparencia:60, rigor:68, sesgo:25 }
   },
   {
     id: "eldiario",
@@ -46,6 +46,6 @@ window.MEDIA_DB.ES = [
     tipo: "Digital",
     propietario: "Socios / Editorial",
     url: "https://www.eldiario.es",
-    variables: { independencia:64, reputacion:69, transparencia:62, rigor:67, sesgo:56 }
+    variables: { independencia:70, reputacion:55, transparencia:60, rigor:50, sesgo:30 }
   }
 ];
