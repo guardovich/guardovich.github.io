@@ -2,165 +2,169 @@
 CONFIG
 ====================== */
 
-// clave "henry"
+// "henry" SHA-256 hex
 const SOCIO_KEY_SHA256_HEX =
-"927a3aed189d610b2e151c4208913b3ed0cb38f6be613756819b1513c8924d7f";
+  "927a3aed189d610b2e151c4208913b3ed0cb38f6be613756819b1513c8924d7f";
 
 const STORAGE_FLAG = "potes_socio_ok_v1";
 const INTRO_SEEN = "potes_intro_seen_v1";
 
 /* ======================
-UTILIDADES
+HELPERS
 ====================== */
 
 async function sha256Hex(str){
   const enc = new TextEncoder().encode(str);
   const buf = await crypto.subtle.digest("SHA-256", enc);
-  return [...new Uint8Array(buf)]
-    .map(b=>b.toString(16).padStart(2,"0"))
-    .join("");
+  return [...new Uint8Array(buf)].map(b => b.toString(16).padStart(2,"0")).join("");
 }
 
 function euro(n){
-  return new Intl.NumberFormat("es-ES",
-  {style:"currency",currency:"EUR"}).format(n);
+  return new Intl.NumberFormat("es-ES", { style:"currency", currency:"EUR" }).format(n);
+}
+
+function fmtDateISO(iso){
+  return iso || "—";
 }
 
 function priceClass(price){
-
-  if(price<=2.0) return "p-green";
-  if(price<=2.3) return "p-yellow";
+  if(price <= 2.0) return "p-green";
+  if(price <= 2.3) return "p-yellow";
   return "p-red";
-
 }
 
-function valueEurPer100ml(item){
-
+function eurPer100ml(item){
   const ml = item.volume_ml || 200;
-  return (item.price/ml)*100;
-
+  return (item.price / ml) * 100;
 }
+
+function sleep(ms){ return new Promise(r => setTimeout(r, ms)); }
 
 /* ======================
 STATE
 ====================== */
 
-let DATA=null;
-let view=[];
-let currentView="ranking";
+let DATA = null;
+let view = [];
+let currentView = "ranking";
 
 /* ======================
-INTRO
+INTRO (retro)
 ====================== */
 
-let audioCtx=null;
+let audioCtx = null;
 
-function beep(freq=880,ms=40,vol=0.03){
-
+function beep(freq=880, ms=35, vol=0.02){
   if(!audioCtx) return;
-
-  const o=audioCtx.createOscillator();
-  const g=audioCtx.createGain();
-
-  o.type="square";
-  o.frequency.value=freq;
-  g.gain.value=vol;
-
+  const o = audioCtx.createOscillator();
+  const g = audioCtx.createGain();
+  o.type = "square";
+  o.frequency.value = freq;
+  g.gain.value = vol;
   o.connect(g);
   g.connect(audioCtx.destination);
-
   o.start();
-
-  setTimeout(()=>{o.stop()},ms);
-
+  setTimeout(() => o.stop(), ms);
 }
 
-function sleep(ms){
-  return new Promise(r=>setTimeout(r,ms));
-}
+async function typeLineHTML(container, html, {speed=14, beeps=true} = {}){
+  const line = document.createElement("div");
+  line.className = "introLine";
+  container.appendChild(line);
 
-async function typeLine(el,text){
+  const tmp = document.createElement("div");
+  tmp.innerHTML = html;
+  const text = tmp.textContent || "";
 
-  const p=document.createElement("div");
-  p.className="introLine";
+  const cursor = document.createElement("span");
+  cursor.className = "cursor";
+  cursor.textContent = "▌";
 
-  el.appendChild(p);
-
+  // “type” plain text, then swap to full HTML at the end (to preserve spans)
   for(let i=0;i<text.length;i++){
-
-    p.textContent=text.slice(0,i+1);
-
-    beep(880,10,0.02);
-
-    await sleep(20);
-
+    line.textContent = text.slice(0, i+1) + " ";
+    line.appendChild(cursor);
+    if(beeps && text[i] !== " " && text[i] !== "·") beep(880, 10, 0.015);
+    await sleep(speed);
   }
-
+  line.innerHTML = html;
 }
 
 async function runIntro(){
+  const intro = document.getElementById("intro");
+  const lines = document.getElementById("introLines");
+  const bar = document.getElementById("barInner");
+  const pct = document.getElementById("pct");
+  const hint = document.getElementById("introHint");
 
-  const intro=document.getElementById("intro");
-  const lines=document.getElementById("introLines");
-  const bar=document.getElementById("barInner");
-  const pct=document.getElementById("pct");
+  if(!intro || !lines || !bar || !pct) return;
 
-  lines.innerHTML="";
+  hint && (hint.style.display = "none");
+  lines.innerHTML = "";
+  bar.style.width = "0%";
+  pct.textContent = "00%";
 
-  const script=[
-    "BOOTING POTES.EXE",
-    "LOADING DATABASE...",
-    "CHECKING BEER QUALITY...",
-    "LOADING POTENTIAL HANGOVER...",
-    "READY."
+  const script = [
+    `<span class="tag">[BOOT]</span> Iniciando sistema…`,
+    `<span class="tag">[SYS]</span> Acceso: <span class="ok">SOCIOS</span> · Amenaza: <span class="warn">COLEGAS CON SED</span>`,
+    `<span class="tag">[DB]</span> Cargando bares · precios · tapas…`,
+    `<span class="tag">[UI]</span> Activando teletexto retro…`,
+    `<span class="tag">[OK]</span> Preparado. Abriendo puerta de acceso…`
   ];
 
   for(const t of script){
-
-    await typeLine(lines,t);
-
-    await sleep(200);
-
+    await typeLineHTML(lines, t, {speed: 12, beeps: true});
+    await sleep(120);
   }
 
+  // loading
   for(let i=0;i<=100;i+=2){
-
-    bar.style.width=i+"%";
-    pct.textContent=i+"%";
-
-    await sleep(25);
-
+    bar.style.width = `${i}%`;
+    pct.textContent = `${String(i).padStart(2,"0")}%`;
+    if(i % 10 === 0) beep(660, 18, 0.018);
+    await sleep(22);
   }
 
-  localStorage.setItem(INTRO_SEEN,"1");
+  await sleep(120);
 
+  localStorage.setItem(INTRO_SEEN, "1");
   intro.classList.add("hidden");
-  document.getElementById("gate").classList.remove("hidden");
+  showGate();
+}
 
+function showGate(){
+  const gate = document.getElementById("gate");
+  const app = document.getElementById("app");
+  gate && gate.classList.remove("hidden");
+  app && app.classList.add("hidden");
+  const key = document.getElementById("key");
+  key && key.focus();
+}
+
+function showApp(){
+  const gate = document.getElementById("gate");
+  const app = document.getElementById("app");
+  gate && gate.classList.add("hidden");
+  app && app.classList.remove("hidden");
 }
 
 function armIntro(){
+  const intro = document.getElementById("intro");
+  const btn = document.getElementById("btnStartIntro");
 
-  const start=async()=>{
-
+  const start = async () => {
+    // AudioContext solo puede crearse tras interacción del usuario
     if(!audioCtx){
-
-      try{
-        audioCtx=new (window.AudioContext||
-        window.webkitAudioContext)();
-      }catch(e){}
-
+      try{ audioCtx = new (window.AudioContext || window.webkitAudioContext)(); } catch(e){}
     }
-
+    beep(880, 60, 0.02);
     await runIntro();
-
   };
 
-  window.addEventListener("click",start,{once:true});
-  window.addEventListener("keydown",e=>{
-    if(e.key==="Enter") start();
-  },{once:true});
-
+  // OBLIGATORIO: botón visible + click en pantalla + Enter
+  btn && btn.addEventListener("click", start, { once:true });
+  intro && intro.addEventListener("click", start, { once:true });
+  window.addEventListener("keydown", (e) => { if(e.key === "Enter") start(); }, { once:true });
 }
 
 /* ======================
@@ -168,123 +172,106 @@ DATA
 ====================== */
 
 async function loadData(){
-
-  const res=await fetch("data.json",{cache:"no-store"});
-
-  DATA=await res.json();
-
-  view=[...DATA.items];
-
+  const res = await fetch("data.json", { cache: "no-store" });
+  if(!res.ok) throw new Error("No se pudo cargar data.json");
+  DATA = await res.json();
+  view = [...(DATA.items || [])];
 }
 
 /* ======================
 RENDER
 ====================== */
 
-function render(){
+function applyFilterAndView(){
+  const q = (document.getElementById("q")?.value || "").trim().toLowerCase();
 
-  const table=document.getElementById("table");
-  const meta=document.getElementById("meta");
-  const q=(document.getElementById("q").value||"").toLowerCase();
+  let list = [...view];
 
-  let filtered=view;
+  if(currentView === "baratos"){
+    list = list.filter(it => (it.price ?? 999) <= 2.0);
+  }
 
-  if(currentView==="baratos")
-    filtered=view.filter(v=>v.price<=2);
+  if(q){
+    list = list.filter(it => {
+      const hay = [
+        it.name, it.zone, it.tapa, it.ambiente, it.tirador,
+        ...(it.tags || []),
+        String(it.price ?? ""), String(it.volume_ml ?? "")
+      ].filter(Boolean).join(" ").toLowerCase();
+      return hay.includes(q);
+    });
+  }
 
-  filtered=filtered.filter(it=>{
-
-    if(!q) return true;
-
-    const hay=[
-      it.name,
-      it.zone,
-      it.tapa,
-      it.ambiente
-    ].join(" ").toLowerCase();
-
-    return hay.includes(q);
-
-  });
-
-  meta.textContent=
-  `Actualizado: ${DATA.updated} · ${filtered.length} bares`;
-
-  table.innerHTML=filtered.map((it,idx)=>{
-
-    const pcls=priceClass(it.price);
-    const eur100=valueEurPer100ml(it);
-
-    return `
-
-<div class="trow ${(it.price<=2)?"isGreen":""}">
-
-<div class="rank">${idx+1}</div>
-
-<div class="name">
-${it.name}
-<div class="small">
-${it.volume_ml}ml · ${eur100.toFixed(2)}€/100ml
-</div>
-</div>
-
-<div class="${pcls}">
-${euro(it.price)}
-</div>
-
-<div class="colHide">
-<span class="chip">TAPA: ${it.tapa}</span>
-</div>
-
-<div class="colHide">
-<span class="chip">AMBIENTE: ${it.ambiente}</span>
-</div>
-
-<div class="tags">
-<span class="chip">ZONA: ${it.zone}</span>
-</div>
-
-</div>
-
-`;
-
-  }).join("");
-
+  return list;
 }
 
-/* ======================
-ESTADISTICAS
-====================== */
+function render(){
+  const table = document.getElementById("table");
+  const meta = document.getElementById("meta");
+  if(!table || !meta) return;
+
+  const filtered = applyFilterAndView();
+
+  meta.textContent = `Actualizado (lista): ${DATA?.updated || "—"} · Bares: ${filtered.length}`;
+
+  table.innerHTML = filtered.map((it, idx) => {
+    const p = it.price ?? 999;
+    const pcls = priceClass(p);
+    const isGreenRow = p <= 2.0;
+
+    const eur100 = eurPer100ml(it);
+    const eur100Txt = isFinite(eur100) ? `${eur100.toFixed(2)}€/100ml` : "—";
+
+    const tags = [
+      it.zone ? `ZONA: ${String(it.zone).toUpperCase()}` : null,
+      it.tapa ? `TAPA: ${String(it.tapa).toUpperCase()}` : null,
+      it.ambiente ? `AMBIENTE: ${String(it.ambiente).toUpperCase()}` : null
+    ].filter(Boolean).map(x => `<span class="chip">${x}</span>`).join(" ");
+
+    return `
+      <div class="trow ${isGreenRow ? "isGreen" : ""}">
+        <div class="rank">${String(idx+1).padStart(2,"0")}</div>
+
+        <div class="name">
+          ${it.name || "—"}
+          <div class="small">Precio verificado: ${fmtDateISO(it.updated_price)} · ${(it.volume_ml ?? "—")}ml · ${eur100Txt}</div>
+        </div>
+
+        <div class="${pcls}">${euro(p)}</div>
+
+        <div class="tags">${tags}</div>
+      </div>
+    `;
+  }).join("");
+}
 
 function renderStats(){
+  const table = document.getElementById("table");
+  const meta = document.getElementById("meta");
+  if(!table || !meta) return;
 
-  const table=document.getElementById("table");
+  const prices = view.map(v => v.price).filter(x => typeof x === "number" && isFinite(x));
+  const avg = prices.length ? prices.reduce((a,b)=>a+b,0)/prices.length : 0;
+  const min = prices.length ? Math.min(...prices) : 0;
+  const max = prices.length ? Math.max(...prices) : 0;
 
-  const prices=view.map(v=>v.price);
+  const cheap = view.find(v => v.price === min);
+  const expensive = view.find(v => v.price === max);
 
-  const avg=prices.reduce((a,b)=>a+b)/prices.length;
+  meta.textContent = `Actualizado (lista): ${DATA?.updated || "—"} · Bares: ${view.length}`;
 
-  const min=Math.min(...prices);
-  const max=Math.max(...prices);
-
-  const cheap=view.find(v=>v.price===min);
-  const expensive=view.find(v=>v.price===max);
-
-  table.innerHTML=`
-
-<div class="panel">
-
-<h2>ESTADÍSTICAS</h2>
-
-<p>Precio medio: ${avg.toFixed(2)}€</p>
-<p>Más barato: ${cheap.name}</p>
-<p>Más caro: ${expensive.name}</p>
-<p>Total bares: ${view.length}</p>
-
-</div>
-
-`;
-
+  table.innerHTML = `
+    <div class="panel" style="margin-top:0;">
+      <div class="name">ESTADÍSTICAS</div>
+      <div class="small">Lectura rápida del estado de la sed.</div>
+      <div style="margin-top:10px;">
+        <div class="chip">Precio medio: ${avg.toFixed(2)}€</div>
+        <div class="chip">Más barato: ${cheap ? cheap.name : "—"} (${min ? euro(min) : "—"})</div>
+        <div class="chip">Más caro: ${expensive ? expensive.name : "—"} (${max ? euro(max) : "—"})</div>
+        <div class="chip">Total bares: ${view.length}</div>
+      </div>
+    </div>
+  `;
 }
 
 /* ======================
@@ -292,19 +279,12 @@ SORT
 ====================== */
 
 function sortByPrice(){
-
-  view.sort((a,b)=>a.price-b.price);
-
-  render();
-
+  view.sort((a,b) => (a.price ?? 9e9) - (b.price ?? 9e9));
+  currentView === "stats" ? renderStats() : render();
 }
-
 function sortByName(){
-
-  view.sort((a,b)=>a.name.localeCompare(b.name));
-
-  render();
-
+  view.sort((a,b) => (a.name||"").localeCompare(b.name||"", "es"));
+  currentView === "stats" ? renderStats() : render();
 }
 
 /* ======================
@@ -312,93 +292,84 @@ LOGIN
 ====================== */
 
 async function enter(){
+  const msg = document.getElementById("gateMsg");
+  msg && (msg.textContent = "");
 
-  const msg=document.getElementById("gateMsg");
-
-  const key=document.getElementById("key").value;
-
-  const h=await sha256Hex(key);
-
-  if(h!==SOCIO_KEY_SHA256_HEX){
-
-    msg.textContent="Clave incorrecta";
-
+  const key = (document.getElementById("key")?.value || "").trim();
+  if(!key){
+    msg && (msg.textContent = "Introduce la clave.");
     return;
-
   }
 
-  localStorage.setItem(STORAGE_FLAG,"1");
+  const h = await sha256Hex(key);
+  if(h !== SOCIO_KEY_SHA256_HEX){
+    msg && (msg.textContent = "Clave incorrecta.");
+    return;
+  }
 
-  document.getElementById("gate").classList.add("hidden");
-  document.getElementById("app").classList.remove("hidden");
+  localStorage.setItem(STORAGE_FLAG, "1");
+  showApp();
 
   await loadData();
-
-  sortByPrice();
-
+  sortByPrice(); // default: ranking por precio
 }
 
 function logout(){
-
   localStorage.removeItem(STORAGE_FLAG);
-
-  document.getElementById("app").classList.add("hidden");
-  document.getElementById("gate").classList.remove("hidden");
-
+  showGate();
 }
 
 /* ======================
 INIT
 ====================== */
 
-window.addEventListener("DOMContentLoaded",async()=>{
-
-  document.getElementById("btnEnter")
-  .addEventListener("click",enter);
-
-  document.getElementById("key")
-  .addEventListener("keydown",e=>{
-    if(e.key==="Enter") enter();
+window.addEventListener("DOMContentLoaded", async () => {
+  // Wire buttons safely (si falta alguno, no revienta)
+  document.getElementById("btnEnter")?.addEventListener("click", enter);
+  document.getElementById("key")?.addEventListener("keydown", (e) => {
+    if(e.key === "Enter") enter();
   });
 
-  document.getElementById("btnLogout")
-  .addEventListener("click",logout);
+  document.getElementById("btnLogout")?.addEventListener("click", logout);
+  document.getElementById("btnSortPrice")?.addEventListener("click", sortByPrice);
+  document.getElementById("btnSortName")?.addEventListener("click", sortByName);
+  document.getElementById("q")?.addEventListener("input", () => {
+    currentView === "stats" ? renderStats() : render();
+  });
 
-  document.getElementById("btnSortPrice")
-  .addEventListener("click",sortByPrice);
-
-  document.getElementById("btnSortName")
-  .addEventListener("click",sortByName);
-
-  document.getElementById("q")
-  .addEventListener("input",render);
-
-  document.querySelectorAll(".navBtn").forEach(btn=>{
-
-    btn.addEventListener("click",()=>{
-
-      currentView=btn.dataset.view;
-
-      if(currentView==="stats")
-        renderStats();
-      else
-        render();
-
+  document.querySelectorAll(".navBtn").forEach(btn => {
+    btn.addEventListener("click", () => {
+      currentView = btn.dataset.view || "ranking";
+      if(currentView === "stats") renderStats();
+      else render();
     });
-
   });
 
-  const seen=localStorage.getItem(INTRO_SEEN);
+  // flow
+  const seen = localStorage.getItem(INTRO_SEEN) === "1";
+  const logged = localStorage.getItem(STORAGE_FLAG) === "1";
 
   if(!seen){
-
+    // show intro and require user interaction to start
+    document.getElementById("intro")?.classList.remove("hidden");
+    showGate(); // ensure gate/app hidden state known
+    document.getElementById("gate")?.classList.add("hidden");
     armIntro();
-
-  }else{
-
-    document.getElementById("intro").classList.add("hidden");
-    document.getElementById("gate").classList.remove("hidden");
-
+    return;
   }
 
+  // skip intro
+  document.getElementById("intro")?.classList.add("hidden");
+
+  if(logged){
+    showApp();
+    try{
+      await loadData();
+      sortByPrice();
+    }catch(e){
+      console.error(e);
+    }
+  }else{
+    showGate();
+  }
 });
