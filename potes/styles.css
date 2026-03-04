@@ -76,7 +76,9 @@ body{
 }
 .startBtn:hover{ border-color:var(--g) }
 
-.hidden{ display:none }
+/* ✅ FIX CRÍTICO: la intro se ocultará siempre */
+.hidden{ display:none !important; }
+
 .hint{ margin-top:10px; color:var(--dim); font-size:12px }
 .msg{ margin-top:10px; color:var(--r); font-weight:900 }
 
