@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-04T02:01:36.524Z",
+  "generatedAt": "2026-03-04T06:48:13.613Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
@@ -72,6 +72,12 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "Searching for Selenite",
+          "link": "https://science.nasa.gov/earth/earth-observatory/searching-for-selenite/",
+          "summary": "Oklahoma’s Salt Plains National Wildlife Refuge attracts rare and diverse species—and enthusiasts looking for a distinct type of crystallized gypsum.",
+          "isoDate": "2026-03-04T05:01:00.000Z"
+        },
+        {
           "title": "La NASA refuerza Artemis: añade una misión y perfecciona su arquitectura general",
           "link": "https://www.nasa.gov/missions/artemis/la-nasa-refuerza-artemis-anade-una-mision-y-perfecciona-su-arquitectura-general/",
           "summary": "Read this story in English here. A fin de lograr el objetivo nacional de llevar astronautas estadounidenses a la superficie de la Luna y mantener la superioridad de Estados Unidos en exploración y descubrimientos, la NASA anunció el 27 de febrero que aumentará la frecuencia de sus misiones con el programa Artemis, estandarizará la configuración del […]",
@@ -124,12 +130,6 @@
           "link": "https://www.nature.com/articles/s41586-026-10323-y",
           "summary": "Nature, Published online: 03 March 2026; doi:10.1038/s41586-026-10323-y\nGenetically encoded assembly recorder temporally resolves cellular history",
           "isoDate": "2026-03-03T00:00:00.000Z"
-        },
-        {
-          "title": "Jam-packed star system is most compact of its kind ever found ",
-          "link": "https://www.nature.com/articles/d41586-026-00667-w",
-          "summary": "Nature, Published online: 03 March 2026; doi:10.1038/d41586-026-00667-w\nAll four Sun-like stars would fit inside the area of Jupiter’s orbit.",
-          "isoDate": "2026-03-03T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Inappropriately located doctype declaration\nLine: 4\nColumn: 9\nChar: e",
-          "isoDate": "2026-03-04T02:01:26.002Z"
+          "isoDate": "2026-03-04T06:48:09.786Z"
         },
         {
           "title": "TikTok won't protect DMs with controversial privacy tech, saying it would put users at risk",
@@ -204,6 +204,12 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "A “ChatGPT for spreadsheets” helps solve difficult engineering challenges faster",
+          "link": "https://news.mit.edu/2026/chatgpt-spreadsheets-helps-solve-difficult-engineering-challenges-faster-0304",
+          "summary": "The approach could help engineers tackle extremely complex design problems, from power grid optimization to vehicle design.",
+          "isoDate": "2026-03-04T05:00:00.000Z"
+        },
+        {
           "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
           "link": "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/",
           "summary": "Gemini 3.1 Flash-Lite is our fastest and most cost-efficient Gemini 3 series model yet.",
@@ -256,12 +262,6 @@
           "link": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
           "summary": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI.",
           "isoDate": "2026-02-27T05:30:00.000Z"
-        },
-        {
-          "title": "An update on our mental health-related work",
-          "link": "https://openai.com/index/update-on-mental-health-related-work",
-          "summary": "OpenAI shares updates on its mental health safety work, including parental controls, trusted contacts, improved distress detection, and recent litigation developments.",
-          "isoDate": "2026-02-27T00:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-03-04T02:01:34.981Z"
+          "isoDate": "2026-03-04T06:48:12.327Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 58\nChar: =",
-          "isoDate": "2026-03-04T02:01:28.276Z"
+          "isoDate": "2026-03-04T06:48:11.016Z"
         },
         {
           "title": "This Offshore Wind Turbine Will House a Data Center Underwater",
