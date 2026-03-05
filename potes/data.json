@@ -1,76 +1,91 @@
 {
-  "updated": "2026-03-04",
+  "updated": "2026-03-05",
   "currency": "EUR",
   "items": [
-    {
-      "name": "El Pibe (Casa Angel)",
-      "price": 2.0,
-      "updated_price": "2026-03-04",
-      "volume_ml": 200,
-      "zone": "Potes",
-      "tapa": "Sí",
-      "ambiente": "Barrio",
-      "tags": ["tapa"]
-    },
-    {
-      "name": "Camacho",
-      "price": 2.0,
-      "updated_price": "2026-03-04",
-      "volume_ml": 200,
-      "zone": "Potes",
-      "tapa": "Aceitunas",
-      "ambiente": "Barrio",
-      "tags": ["tapa", "aceitunas"]
-    },
-    {
-      "name": "Bodega Aguilar (Byron's)",
-      "price": 2.2,
-      "updated_price": "2026-03-04",
-      "volume_ml": 200,
-      "zone": "Potes",
-      "tapa": "Sí",
-      "ambiente": "Mixto",
-      "tags": ["tapa"]
-    },
-    {
-      "name": "Casa Favila",
-      "price": 2.3,
-      "updated_price": "2026-03-04",
-      "volume_ml": 200,
-      "zone": "Potes",
-      "tapa": "Aceitunas",
-      "ambiente": "Turístico",
-      "tags": ["no suele abrir"]
-    },
-    {
-      "name": "Bar El Trenti",
-      "price": 2.4,
-      "updated_price": "2026-03-04",
-      "volume_ml": 200,
-      "zone": "Potes",
-      "tapa": "—",
-      "ambiente": "Mixto",
-      "tags": ["no la tiran bien"]
-    },
-    {
-      "name": "Bar El Latas",
-      "price": 2.3,
-      "updated_price": "2026-03-04",
-      "volume_ml": 200,
-      "zone": "Potes",
-      "tapa": "Aceitunas",
-      "ambiente": "Mixto",
-      "tags": ["depende quién la tire"]
-    },
-    {
-      "name": "Soldrería",
-      "price": 2.5,
-      "updated_price": "2026-03-05",
-      "volume_ml": 200,
-      "zone": "Potes",
-      "tapa": "Aceitunas",
-      "ambiente": "Turístico",
-      "tags": ["Buena copa y cañero"]
-    }
-  ]
+
+{
+"name":"El Pibe (Casa Angel)",
+"price":2.0,
+"updated_price":"2026-03-04",
+"volume_ml":200,
+"zone":"Potes",
+"tapa":"Sí",
+"ambiente":"Barrio",
+"pros":["Buena tapa","Ambiente auténtico"],
+"cons":[]
+},
+
+{
+"name":"Camacho",
+"price":2.0,
+"updated_price":"2026-03-04",
+"volume_ml":200,
+"zone":"Potes",
+"tapa":"Aceitunas",
+"ambiente":"Barrio",
+"pros":["Siempre ponen algo","Buen ambiente"],
+"cons":["Petado"]
+},
+
+{
+"name":"Bodega Aguilar (Byron's)",
+"price":2.2,
+"updated_price":"2026-03-04",
+"volume_ml":200,
+"zone":"Potes",
+"tapa":"Sí",
+"ambiente":"Mixto",
+"pros":["Buen sitio para empezar"],
+"cons":["No tiene barra"]
+},
+
+{
+"name":"Casa Favila",
+"price":2.3,
+"updated_price":"2026-03-04",
+"volume_ml":200,
+"zone":"Potes",
+"tapa":"Aceitunas",
+"ambiente":"Turístico",
+"pros":["Buena música pero siempre es la misma"],
+"cons":["No suele abrir"]
+},
+
+{
+"name":"Bar El Trenti",
+"price":2.4,
+"updated_price":"2026-03-04",
+"volume_ml":200,
+"zone":"Potes",
+"tapa":"—",
+"ambiente":"Mixto",
+"pros":[],
+"cons":["No tiran bien la caña"]
+},
+
+{
+"name":"Bar El Latas",
+"price":2.3,
+"updated_price":"2026-03-04",
+"volume_ml":200,
+"zone":"Potes",
+"tapa":"Aceitunas",
+"ambiente":"Mixto",
+"pros":[],
+"cons":["Depende quien la tire"]
+},
+
+{
+"name":"Soldrería",
+"price":2.5,
+"updated_price":"2026-03-05",
+"volume_ml":200,
+"zone":"Potes",
+"tapa":"Aceitunas",
+"ambiente":"Turístico",
+"pros":["Buena copa","Buen cañero"],
+"cons":[]
+}
+
+]
 }
