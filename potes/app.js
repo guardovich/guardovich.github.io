@@ -78,23 +78,59 @@ let view = [];
 let currentView = "ranking";
 
 /* ======================
-INTRO (retro)
+AUDIO (arcade)
 ====================== */
 
 let audioCtx = null;
 
-function beep(freq=880, ms=35, vol=0.02){
+function ensureAudio(){
+  if(audioCtx) return;
+  try{
+    audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+  }catch(e){
+    audioCtx = null;
+  }
+}
+
+function tone(freq=880, ms=40, vol=0.02, type="square"){
   if(!audioCtx) return;
   const o = audioCtx.createOscillator();
   const g = audioCtx.createGain();
-  o.type = "square";
+  o.type = type;
   o.frequency.value = freq;
   g.gain.value = vol;
   o.connect(g);
   g.connect(audioCtx.destination);
   o.start();
-  setTimeout(() => o.stop(), ms);
+  setTimeout(()=>o.stop(), ms);
 }
+
+// “coin insert / start” (chiptune quick sequence)
+async function sfxCoin(){
+  if(!audioCtx) return;
+  tone(988, 45, 0.03, "square");
+  await sleep(55);
+  tone(1319, 55, 0.03, "square");
+  await sleep(65);
+  tone(1760, 70, 0.03, "square");
+}
+
+async function sfxBoot(){
+  if(!audioCtx) return;
+  tone(220, 60, 0.02, "square");
+  await sleep(70);
+  tone(330, 60, 0.02, "square");
+  await sleep(70);
+  tone(440, 60, 0.02, "square");
+}
+
+function beep(freq=880, ms=35, vol=0.02){
+  tone(freq, ms, vol, "square");
+}
+
+/* ======================
+INTRO (retro)
+====================== */
 
 async function typeLineHTML(container, html, {speed=14, beeps=true} = {}){
   const line = document.createElement("div");
@@ -123,7 +159,7 @@ async function waitForEnterOrClick(introEl){
     const onKey = (e) => {
       if(e.key === "Enter"){
         window.removeEventListener("keydown", onKey);
-        resolve();
+        resolve("enter");
       }
     };
     window.addEventListener("keydown", onKey);
@@ -131,7 +167,7 @@ async function waitForEnterOrClick(introEl){
     if(introEl){
       introEl.addEventListener("click", () => {
         window.removeEventListener("keydown", onKey);
-        resolve();
+        resolve("click");
       }, { once:true });
     }
   });
@@ -186,15 +222,19 @@ async function runIntro(){
     await sleep(INTRO_MIN_MS - elapsed);
   }
 
-  // Mensaje final: estilo videojuego
-  await typeLineHTML(
-    lines,
-    `<span class="tag">[READY]</span> Pulsa <span class="ok">ENTER</span> para continuar…`,
-    {speed: 10, beeps:false}
-  );
+  // Mensaje final: parpadea con clase pressEnter (CSS)
+  const pressHTML =
+    `<div class="pressEnter">
+      <span class="tag">[READY]</span> Pulsa <span class="keycap">ENTER</span> para continuar…
+     </div>`;
+
+  await typeLineHTML(lines, pressHTML, {speed: 8, beeps:false});
 
   if(INTRO_WAIT_FOR_ENTER){
-    await waitForEnterOrClick(intro);
+    const how = await waitForEnterOrClick(intro);
+    // SFX al continuar
+    await sfxCoin();
+    dbg("Continue via: " + how);
   } else {
     await sleep(400);
   }
@@ -224,17 +264,20 @@ function armIntro(){
   const intro = document.getElementById("intro");
   const btn = document.getElementById("btnStartIntro");
 
+  let started = false;
+
   const start = async () => {
+    if(started) return;
+    started = true;
+
     dbg("START intro (triggered)");
-    if(!audioCtx){
-      try{
-        audioCtx = new (window.AudioContext || window.webkitAudioContext)();
-        dbg("AudioContext OK");
-      } catch(e){
-        dbg("AudioContext FAIL (no pasa nada)");
-      }
-    }
-    beep(880, 60, 0.02);
+
+    // AudioContext solo tras interacción del usuario
+    ensureAudio();
+
+    // Pequeño sfx boot para sensación "power on"
+    await sfxBoot();
+
     await runIntro();
   };
 
@@ -252,10 +295,11 @@ function armIntro(){
     dbg("No #intro found");
   }
 
-  // ENTER SIEMPRE inicia intro si todavía no arrancó
+  // ENTER inicia intro si todavía no arrancó
   window.addEventListener("keydown", (e) => {
     if(e.key === "Enter") start();
   });
+
   dbg("Keydown Enter wired");
 }
 
