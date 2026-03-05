@@ -10,7 +10,7 @@
       "zone": "Potes",
       "tapa": "Sí",
       "ambiente": "Barrio",
-      "pros": ["Buena tapa","Ambiente auténtico"],
+      "pros": ["Buena tapa", "Ambiente auténtico"],
       "cons": []
     },
     {
@@ -21,7 +21,7 @@
       "zone": "Potes",
       "tapa": "Aceitunas",
       "ambiente": "Barrio",
-      "pros": ["Siempre ponen algo","Buen ambiente"],
+      "pros": ["Siempre ponen algo", "Buen ambiente"],
       "cons": []
     },
     {
@@ -32,7 +32,7 @@
       "zone": "Potes",
       "tapa": "Sí",
       "ambiente": "Mixto",
-      "pros": ["Buen sitio para empezar"],
+      "pros": ["Buen sitio para empezar la ronda"],
       "cons": []
     },
     {
@@ -76,7 +76,7 @@
       "zone": "Potes",
       "tapa": "Aceitunas",
       "ambiente": "Turístico",
-      "pros": ["Buena copa","Buen cañero"],
+      "pros": ["Buena copa", "Buen cañero"],
       "cons": []
     }
   ]
