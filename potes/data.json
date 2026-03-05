@@ -16,7 +16,7 @@
       "cons": []
     },
     {
-      "name": "Camacho",
+      "name": "Los Camachos",
       "city": "Potes",
       "zone": "Potes",
       "price": 2.0,
@@ -104,6 +104,32 @@
       "tapa": "Variadas",
       "ambiente": "Barrio",
       "pros": ["el camarero es muy majo", "las tapas son muy variadas"],
+      "cons": []
+      },
+    {
+      "name": "Casa Jose",
+      "city": "Santander",
+      "zone": "Santander",
+      "price": 1.7,
+      "updated_price": "2026-03-05",
+      "volume_ml": 250,
+      "beer_brand": "Cruzcampo",
+      "tapa": "No hay tapa",
+      "ambiente": "Mixto",
+      "pros": ["Buen ambiente", "Rabas abundantes"],
+      "cons": []
+       },
+    {
+      "name": "Bar el Roble",
+      "city": "Santander",
+      "zone": "Santander",
+      "price": 1.9,
+      "updated_price": "2026-03-05",
+      "volume_ml": 250,
+      "beer_brand": "Mahou",
+      "tapa": "Tapas varias",
+      "ambiente": "Barrio agradable",
+      "pros": ["Buen ambiente", "Limpio y acogedor"],
       "cons": []
     }
   ]
