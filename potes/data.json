@@ -25,7 +25,7 @@
       "beer_brand": "—",
       "tapa": "Aceitunas",
       "ambiente": "Barrio",
-      "pros": ["Pone tapa", "Aceitunas"],
+      "pros": ["Pone tapa"],
       "cons": []
     },
     {
@@ -51,7 +51,7 @@
       "beer_brand": "—",
       "tapa": "Aceitunas",
       "ambiente": "Turístico",
-      "pros": ["Aceitunas"],
+      "pros": ["Buena música aunque siempre es la misma"],
       "cons": ["No suele abrir"]
     },
     {
@@ -64,7 +64,7 @@
       "beer_brand": "—",
       "tapa": "—",
       "ambiente": "Mixto",
-      "pros": [],
+      "pros": ["De las mejores terrazas"],
       "cons": ["No la tiran bien"]
     },
     {
@@ -75,9 +75,9 @@
       "updated_price": "2026-03-04",
       "volume_ml": 200,
       "beer_brand": "—",
-      "tapa": "Aceitunas",
+      "tapa": "Variadas",
       "ambiente": "Mixto",
-      "pros": ["Aceitunas"],
+      "pros": ["es muy major el camarero"],
       "cons": ["Depende quién la tire"]
     },
     {
@@ -90,7 +90,7 @@
       "beer_brand": "—",
       "tapa": "Aceitunas",
       "ambiente": "Turístico",
-      "pros": ["Buena copa y cañero"],
+      "pros": ["Te ofrecen una buena copa y cañero"],
       "cons": []
     },
     {
