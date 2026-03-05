@@ -3,10 +3,10 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Ranking de Cañas · Potes</title>
+  <title>Ranking de Cañas · Potes + Santander</title>
 
-  <!-- Cache-buster: cambia el valor si GitHub Pages tarda en refrescar -->
-  <link rel="stylesheet" href="styles.css?v=20260305a" />
+  <!-- Cache-buster: cambia la letra si GitHub Pages tarda en refrescar -->
+  <link rel="stylesheet" href="styles.css?v=20260305c" />
 </head>
 
 <body>
@@ -29,7 +29,7 @@
           <div class="subTitle">
             <span class="tag y">POTES</span>
             <span class="dot">·</span>
-            <span class="tag c">TELETEXTO</span>
+            <span class="tag c">SANTANDER</span>
             <span class="dot">·</span>
             <span class="tag m">CUCAS SCORE™</span>
           </div>
@@ -106,7 +106,7 @@
 
             <div class="introHint" id="introHint">
               Pulsa <span class="keycap">ENTER</span> o clic en <b>EMPEZAR</b>.
-              <div class="smallDim">Al final se quedará esperando ENTER como un videojuego.</div>
+              <div class="smallDim">Se queda encendida un rato y luego espera ENTER (modo videojuego).</div>
             </div>
 
             <button id="btnStartIntro" class="btn big startBtn">▶ EMPEZAR</button>
@@ -135,12 +135,19 @@
     <!-- APP -->
     <main id="app" class="hidden">
 
-      <!-- NAV VIEWS -->
+      <!-- NAV VIEWS + CITY -->
       <section class="panel">
         <div class="row wrap">
-          <button class="btn big navBtn" data-view="ranking">RANKING GENERAL</button>
+          <button class="btn big navBtn active" data-view="ranking">RANKING GENERAL</button>
           <button class="btn big navBtn" data-view="baratos">TOP BARATOS</button>
           <button class="btn big navBtn" data-view="stats">ESTADÍSTICAS</button>
+
+          <span class="spacer"></span>
+
+          <span class="label">CIUDAD:</span>
+          <button class="btn big cityBtn active" data-city="Potes">POTES</button>
+          <button class="btn big cityBtn" data-city="Santander">SANTANDER</button>
+          <button class="btn big cityBtn" data-city="ALL">TODAS</button>
         </div>
       </section>
 
@@ -156,7 +163,7 @@
           <span class="spacer"></span>
 
           <label class="label">FILTRO:</label>
-          <input id="q" class="input" placeholder="zona, tapa, ambiente, pros, contras…" />
+          <input id="q" class="input" placeholder="zona, tapa, ambiente, marca, pros, contras…" />
 
           <button id="btnLogout" class="btn big danger">SALIR</button>
         </div>
@@ -174,7 +181,7 @@
       </section>
 
       <footer class="ftr">
-        <span>© Potes · Teletexto Retro</span>
+        <span>© Potes/Santander · Teletexto Retro</span>
         <span class="sep">|</span>
         <a class="link" href="https://guardovich.github.io" target="_blank" rel="noreferrer">Inicio</a>
       </footer>
@@ -182,7 +189,6 @@
 
   </div>
 
-  <!-- Cache-buster: cambia el valor si GitHub Pages tarda en refrescar -->
-  <script src="app.js?v=20260305a"></script>
+  <script src="app.js?v=20260305c"></script>
 </body>
 </html>
