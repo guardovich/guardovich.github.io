@@ -2,76 +2,109 @@
   "updated": "2026-03-05",
   "currency": "EUR",
   "items": [
-
-{
-"name":"El Pibe (Casa Angel)",
-"city":"Potes",
-"beer":"Mahou",
-"price":2.0,
-"updated_price":"2026-03-04",
-"volume_ml":200,
-"zone":"Centro",
-"tapa":"Sí",
-"ambiente":"Barrio",
-"pros":["Buena tapa","Ambiente auténtico"],
-"cons":[]
-},
-
-{
-"name":"Camacho",
-"city":"Potes",
-"beer":"Estrella Galicia",
-"price":2.0,
-"updated_price":"2026-03-04",
-"volume_ml":200,
-"zone":"Centro",
-"tapa":"Aceitunas",
-"ambiente":"Barrio",
-"pros":["Siempre ponen algo","Buen ambiente"],
-"cons":[]
-},
-
-{
-"name":"Soldrería",
-"city":"Potes",
-"beer":"Mahou",
-"price":2.5,
-"updated_price":"2026-03-05",
-"volume_ml":200,
-"zone":"Centro",
-"tapa":"Aceitunas",
-"ambiente":"Turístico",
-"pros":["Buena copa","Buen cañero"],
-"cons":[]
-},
-
-{
-"name":"La Radio",
-"city":"Santander",
-"beer":"Estrella Galicia",
-"price":2.6,
-"updated_price":"2026-03-05",
-"volume_ml":200,
-"zone":"Cañadío",
-"tapa":"No",
-"ambiente":"Bar",
-"pros":["Buen ambiente","Música"],
-"cons":["Algo caro"]
-},
-
-{
-"name":"La Conveniente",
-"city":"Santander",
-"beer":"Mahou",
-"price":2.8,
-"updated_price":"2026-03-05",
-"volume_ml":200,
-"zone":"Centro",
-"tapa":"No",
-"ambiente":"Histórico",
-"pros":["Bar mítico"],
-"cons":["Muy lleno"]
-}
-
-]
+    {
+      "name": "El Pibe (Casa Angel)",
+      "city": "Potes",
+      "zone": "Potes",
+      "price": 2.0,
+      "updated_price": "2026-03-04",
+      "volume_ml": 200,
+      "beer_brand": "—",
+      "tapa": "Sí",
+      "ambiente": "Barrio",
+      "pros": ["Pone tapa"],
+      "cons": []
+    },
+    {
+      "name": "Camacho",
+      "city": "Potes",
+      "zone": "Potes",
+      "price": 2.0,
+      "updated_price": "2026-03-04",
+      "volume_ml": 200,
+      "beer_brand": "—",
+      "tapa": "Aceitunas",
+      "ambiente": "Barrio",
+      "pros": ["Pone tapa", "Aceitunas"],
+      "cons": []
+    },
+    {
+      "name": "Bodega Aguilar (Byron's)",
+      "city": "Potes",
+      "zone": "Potes",
+      "price": 2.2,
+      "updated_price": "2026-03-04",
+      "volume_ml": 200,
+      "beer_brand": "—",
+      "tapa": "Sí",
+      "ambiente": "Mixto",
+      "pros": ["Pone tapa"],
+      "cons": []
+    },
+    {
+      "name": "Casa Favila",
+      "city": "Potes",
+      "zone": "Potes",
+      "price": 2.3,
+      "updated_price": "2026-03-04",
+      "volume_ml": 200,
+      "beer_brand": "—",
+      "tapa": "Aceitunas",
+      "ambiente": "Turístico",
+      "pros": ["Aceitunas"],
+      "cons": ["No suele abrir"]
+    },
+    {
+      "name": "Bar El Trenti",
+      "city": "Potes",
+      "zone": "Potes",
+      "price": 2.4,
+      "updated_price": "2026-03-04",
+      "volume_ml": 200,
+      "beer_brand": "—",
+      "tapa": "—",
+      "ambiente": "Mixto",
+      "pros": [],
+      "cons": ["No la tiran bien"]
+    },
+    {
+      "name": "Bar El Latas",
+      "city": "Potes",
+      "zone": "Potes",
+      "price": 2.3,
+      "updated_price": "2026-03-04",
+      "volume_ml": 200,
+      "beer_brand": "—",
+      "tapa": "Aceitunas",
+      "ambiente": "Mixto",
+      "pros": ["Aceitunas"],
+      "cons": ["Depende quién la tire"]
+    },
+    {
+      "name": "Soldrería",
+      "city": "Potes",
+      "zone": "Potes",
+      "price": 2.5,
+      "updated_price": "2026-03-05",
+      "volume_ml": 200,
+      "beer_brand": "—",
+      "tapa": "Aceitunas",
+      "ambiente": "Turístico",
+      "pros": ["Buena copa y cañero"],
+      "cons": []
+      },
+    {
+      "name": "Bar Drago (donde Rei)",
+      "city": "Santander",
+      "zone": "Santander",
+      "price": 1.8,
+      "updated_price": "2026-03-05",
+      "volume_ml": 250,
+      "beer_brand": "Estrella de Galicia",
+      "tapa": "Variadas",
+      "ambiente": "Barrio",
+      "pros": ["el camarero es muy majo", "las tapas son muy variadas"],
+      "cons": []
+    }
+  ]
 }
