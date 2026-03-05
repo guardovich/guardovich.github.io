@@ -3,16 +3,6 @@ const STORAGE="potes_login"
 let DATA=null
 let view=[]
 
-async function loadData(){
-
-const r=await fetch("data.json")
-DATA=await r.json()
-view=[...DATA.items]
-
-render()
-
-}
-
 function cucasScore(b){
 
 let score=50
@@ -32,6 +22,16 @@ if(b.tapa && b.tapa!="—")score+=4
 score=Math.max(0,Math.min(100,score))
 
 return score
+
+}
+
+async function loadData(){
+
+const r=await fetch("data.json")
+DATA=await r.json()
+view=[...DATA.items]
+
+render()
 
 }
 
