@@ -9,6 +9,10 @@ const SOCIO_KEY_SHA256_HEX =
 const STORAGE_FLAG = "potes_socio_ok_v1";
 const INTRO_SEEN = "potes_intro_seen_v1";
 
+// Intro: mínimo 2s y luego espera ENTER (modo videojuego)
+const INTRO_MIN_MS = 2000;
+const INTRO_WAIT_FOR_ENTER = true;
+
 /* ======================
 DEBUG (visible + consola)
 ====================== */
@@ -29,6 +33,7 @@ function dbg(msg){
 window.addEventListener("error", (e) => {
   dbg("JS ERROR: " + (e?.message || e));
 });
+
 window.addEventListener("unhandledrejection", (e) => {
   dbg("PROMISE ERROR: " + (e?.reason?.message || e?.reason || "unknown"));
 });
@@ -113,6 +118,25 @@ async function typeLineHTML(container, html, {speed=14, beeps=true} = {}){
   line.innerHTML = html;
 }
 
+async function waitForEnterOrClick(introEl){
+  return new Promise(resolve => {
+    const onKey = (e) => {
+      if(e.key === "Enter"){
+        window.removeEventListener("keydown", onKey);
+        resolve();
+      }
+    };
+    window.addEventListener("keydown", onKey);
+
+    if(introEl){
+      introEl.addEventListener("click", () => {
+        window.removeEventListener("keydown", onKey);
+        resolve();
+      }, { once:true });
+    }
+  });
+}
+
 async function runIntro(){
   dbg("runIntro() called");
 
@@ -129,6 +153,8 @@ async function runIntro(){
     return;
   }
 
+  const t0 = Date.now();
+
   if(hint) hint.style.display = "none";
   lines.innerHTML = "";
   bar.style.width = "0%";
@@ -138,23 +164,40 @@ async function runIntro(){
     `<span class="tag">[BOOT]</span> Iniciando sistema…`,
     `<span class="tag">[SYS]</span> Acceso: <span class="ok">SOCIOS</span> · Amenaza: <span class="warn">COLEGAS CON SED</span>`,
     `<span class="tag">[DB]</span> Cargando bares · precios · tapas…`,
-    `<span class="tag">[UI]</span> Activando teletexto retro…`,
-    `<span class="tag">[OK]</span> Preparado. Abriendo puerta de acceso…`
+    `<span class="tag">[UI]</span> Activando teletexto retro…`
   ];
 
   for(const t of script){
-    await typeLineHTML(lines, t, {speed: 12, beeps: true});
-    await sleep(120);
+    await typeLineHTML(lines, t, {speed: 13, beeps: true});
+    await sleep(110);
   }
 
-  for(let i=0;i<=100;i+=2){
+  // Barra: rápida pero visible
+  for(let i=0;i<=100;i+=4){
     bar.style.width = `${i}%`;
     pct.textContent = `${String(i).padStart(2,"0")}%`;
-    if(i % 10 === 0) beep(660, 18, 0.018);
-    await sleep(22);
+    if(i % 20 === 0) beep(660, 18, 0.018);
+    await sleep(25);
   }
 
-  await sleep(120);
+  // Garantiza mínimo 2s de intro total
+  const elapsed = Date.now() - t0;
+  if(elapsed < INTRO_MIN_MS){
+    await sleep(INTRO_MIN_MS - elapsed);
+  }
+
+  // Mensaje final: estilo videojuego
+  await typeLineHTML(
+    lines,
+    `<span class="tag">[READY]</span> Pulsa <span class="ok">ENTER</span> para continuar…`,
+    {speed: 10, beeps:false}
+  );
+
+  if(INTRO_WAIT_FOR_ENTER){
+    await waitForEnterOrClick(intro);
+  } else {
+    await sleep(400);
+  }
 
   localStorage.setItem(INTRO_SEEN, "1");
   intro.classList.add("hidden");
@@ -209,7 +252,7 @@ function armIntro(){
     dbg("No #intro found");
   }
 
-  // ENTER SIEMPRE
+  // ENTER SIEMPRE inicia intro si todavía no arrancó
   window.addEventListener("keydown", (e) => {
     if(e.key === "Enter") start();
   });
@@ -413,6 +456,7 @@ window.addEventListener("DOMContentLoaded", async () => {
     return;
   }
 
+  // si ya la viste, se salta la intro
   document.getElementById("intro")?.classList.add("hidden");
 
   if(logged){
@@ -421,10 +465,10 @@ window.addEventListener("DOMContentLoaded", async () => {
       await loadData();
       sortByPrice();
       dbg("Auto-login OK");
-    }catch(e){
+    } catch(e){
       dbg("Auto-login loadData failed: " + (e?.message || e));
     }
-  }else{
+  } else {
     showGate();
     dbg("Showing gate (enter password)");
   }
