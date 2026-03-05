@@ -1,173 +1,522 @@
-const STORAGE="potes_login"
+/* ======================
+CONFIG
+====================== */
 
-let DATA=null
-let view=[]
+// "henry" SHA-256 hex
+const SOCIO_KEY_SHA256_HEX =
+  "927a3aed189d610b2e151c4208913b3ed0cb38f6be613756819b1513c8924d7f";
 
-function cucasScore(b){
+const STORAGE_FLAG = "potes_socio_ok_v1";
+const INTRO_SEEN = "potes_intro_seen_v1";
 
-let score=50
+// Intro: mínimo 2s y luego espera ENTER (modo videojuego)
+const INTRO_MIN_MS = 2000;
+const INTRO_WAIT_FOR_ENTER = true;
 
-if(b.price<=2)score+=20
-else if(b.price<=2.3)score+=10
-else score-=5
+/* ======================
+HELPERS
+====================== */
 
-score+= (b.pros?.length||0)*6
-score-= (b.cons?.length||0)*8
-
-if(b.ambiente?.toLowerCase()=="barrio")score+=6
-if(b.ambiente?.toLowerCase()=="turístico")score-=4
-
-if(b.tapa && b.tapa!="—")score+=4
-
-score=Math.max(0,Math.min(100,score))
-
-return score
-
+async function sha256Hex(str){
+  const enc = new TextEncoder().encode(str);
+  const buf = await crypto.subtle.digest("SHA-256", enc);
+  return [...new Uint8Array(buf)].map(b => b.toString(16).padStart(2,"0")).join("");
 }
 
+function euro(n){
+  return new Intl.NumberFormat("es-ES", { style:"currency", currency:"EUR" }).format(n);
+}
+
+function fmtDateISO(iso){ return iso || "—"; }
+function sleep(ms){ return new Promise(r => setTimeout(r, ms)); }
+
+function priceClass(price){
+  if(price <= 2.0) return "p-green";
+  if(price <= 2.3) return "p-yellow";
+  return "p-red";
+}
+
+/* ======================
+STATE
+====================== */
+
+let DATA = null;
+let view = [];
+let currentView = "ranking";
+
+/* ======================
+AUDIO (retro)
+====================== */
+
+let audioCtx = null;
+
+function ensureAudio(){
+  if(audioCtx) return;
+  try{ audioCtx = new (window.AudioContext || window.webkitAudioContext)(); }
+  catch(_){ audioCtx = null; }
+}
+
+function tone(freq=880, ms=40, vol=0.02, type="square"){
+  if(!audioCtx) return;
+  const o = audioCtx.createOscillator();
+  const g = audioCtx.createGain();
+  o.type = type;
+  o.frequency.value = freq;
+  g.gain.value = vol;
+  o.connect(g);
+  g.connect(audioCtx.destination);
+  o.start();
+  setTimeout(()=>o.stop(), ms);
+}
+
+async function sfxBoot(){
+  if(!audioCtx) return;
+  tone(220, 60, 0.02, "square"); await sleep(70);
+  tone(330, 60, 0.02, "square"); await sleep(70);
+  tone(440, 60, 0.02, "square");
+}
+
+async function sfxCoin(){
+  if(!audioCtx) return;
+  tone(988, 45, 0.03, "square"); await sleep(55);
+  tone(1319, 55, 0.03, "square"); await sleep(65);
+  tone(1760, 70, 0.03, "square");
+}
+
+async function sfxBeer(){
+  if(!audioCtx) return;
+  tone(1200,40,0.03,"square"); await sleep(60);
+  tone(900,50,0.03,"square"); await sleep(60);
+  tone(600,70,0.03,"square");
+}
+
+function beep(freq=880, ms=18, vol=0.015){ tone(freq, ms, vol, "square"); }
+
+/* ======================
+INTRO terminal typing
+====================== */
+
+async function typeLineHTML(container, html, {speed=14, beeps=true} = {}){
+  const line = document.createElement("div");
+  line.className = "introLine";
+  container.appendChild(line);
+
+  const tmp = document.createElement("div");
+  tmp.innerHTML = html;
+  const text = tmp.textContent || "";
+
+  const cursor = document.createElement("span");
+  cursor.className = "cursor";
+  cursor.textContent = "▌";
+
+  for(let i=0;i<text.length;i++){
+    line.textContent = text.slice(0, i+1) + " ";
+    line.appendChild(cursor);
+    if(beeps && text[i] !== " " && text[i] !== "·") beep(880, 10, 0.012);
+    await sleep(speed);
+  }
+  line.innerHTML = html;
+}
+
+function showGate(){
+  document.getElementById("gate")?.classList.remove("hidden");
+  document.getElementById("app")?.classList.add("hidden");
+  document.getElementById("key")?.focus();
+}
+
+function showApp(){
+  document.getElementById("gate")?.classList.add("hidden");
+  document.getElementById("app")?.classList.remove("hidden");
+}
+
+async function waitForEnterOrClick(introEl){
+  return new Promise(resolve => {
+    const onKey = (e) => {
+      if(e.key === "Enter"){
+        window.removeEventListener("keydown", onKey);
+        resolve("enter");
+      }
+    };
+    window.addEventListener("keydown", onKey);
+
+    introEl?.addEventListener("click", () => {
+      window.removeEventListener("keydown", onKey);
+      resolve("click");
+    }, { once:true });
+  });
+}
+
+async function runIntro(){
+  const intro = document.getElementById("intro");
+  const lines = document.getElementById("introLines");
+  const bar = document.getElementById("barInner");
+  const pct = document.getElementById("pct");
+  const hint = document.getElementById("introHint");
+
+  if(!intro || !lines || !bar || !pct){
+    intro?.classList.add("hidden");
+    showGate();
+    return;
+  }
+
+  const t0 = Date.now();
+
+  hint && (hint.style.display = "none");
+  lines.innerHTML = "";
+  bar.style.width = "0%";
+  pct.textContent = "00%";
+
+  const script = [
+    `<span class="tag">[BOOT]</span> Iniciando sistema…`,
+    `<span class="tag">[SYS]</span> Acceso: <span class="ok">SOCIOS</span> · Amenaza: <span class="warn">COLEGAS CON SED</span>`,
+    `<span class="tag">[DB]</span> Cargando bares · precios · pros · cons…`,
+    `<span class="tag">[AI]</span> Compilando Cucas Score™…`,
+    `<span class="tag">[UI]</span> Activando telettexto / CRT…`,
+    `<span class="tag">[OK]</span> Listo.`
+  ];
+
+  for(const t of script){
+    await typeLineHTML(lines, t, {speed: 12, beeps: true});
+    await sleep(120);
+  }
+
+  for(let i=0;i<=100;i+=4){
+    bar.style.width = `${i}%`;
+    pct.textContent = `${String(i).padStart(2,"0")}%`;
+    if(i % 20 === 0) beep(660, 20, 0.018);
+    await sleep(25);
+  }
+
+  const elapsed = Date.now() - t0;
+  if(elapsed < INTRO_MIN_MS) await sleep(INTRO_MIN_MS - elapsed);
+
+  await typeLineHTML(
+    lines,
+    `<div class="pressEnter"><span class="tag">[READY]</span> Pulsa <span class="ok">ENTER</span> para continuar…</div>`,
+    {speed: 10, beeps:false}
+  );
+
+  if(INTRO_WAIT_FOR_ENTER){
+    await waitForEnterOrClick(intro);
+    await sfxCoin();
+  }
+
+  localStorage.setItem(INTRO_SEEN, "1");
+  intro.classList.add("hidden");
+  showGate();
+}
+
+function armIntro(){
+  const intro = document.getElementById("intro");
+  const btn = document.getElementById("btnStartIntro");
+
+  let started = false;
+  const start = async () => {
+    if(started) return;
+    started = true;
+    ensureAudio();
+    await sfxBoot();
+    await runIntro();
+  };
+
+  btn?.addEventListener("click", start);
+  intro?.addEventListener("click", start);
+  window.addEventListener("keydown", (e) => {
+    if(e.key === "Enter") start();
+  });
+}
+
+/* ======================
+DATA
+====================== */
+
 async function loadData(){
+  const res = await fetch("data.json", { cache: "no-store" });
+  if(!res.ok) throw new Error("No se pudo cargar data.json");
+  DATA = await res.json();
+  view = [...(DATA.items || [])];
+}
 
-const r=await fetch("data.json")
-DATA=await r.json()
-view=[...DATA.items]
+/* ======================
+CUCAS SCORE™
+====================== */
 
-render()
+function cucasScore(it){
+  let s = 50;
 
+  if(typeof it.price === "number"){
+    if(it.price <= 2.0) s += 18;
+    else if(it.price <= 2.3) s += 10;
+    else s += 2;
+    if(it.price >= 2.6) s -= 6;
+  }
+
+  s += (it.pros?.length || 0) * 6;
+  s -= (it.cons?.length || 0) * 8;
+
+  const amb = (it.ambiente || "").toLowerCase();
+  if(amb.includes("barrio")) s += 6;
+  if(amb.includes("tur")) s -= 4;
+
+  const tapa = (it.tapa || "").toLowerCase();
+  if(tapa && tapa !== "—" && tapa !== "-") s += 4;
+
+  const allText = [...(it.pros||[]), ...(it.cons||[])].join(" ").toLowerCase();
+  if(allText.includes("no suele abrir")) s -= 18;
+  if(allText.includes("no tiran bien") || allText.includes("no la tiran bien")) s -= 10;
+
+  return Math.max(0, Math.min(100, Math.round(s)));
+}
+
+function cucasColorClass(score){
+  if(score >= 75) return "cucasGreen";
+  if(score >= 55) return "cucasYellow";
+  return "cucasRed";
+}
+
+/* ======================
+RENDER
+====================== */
+
+function applyFilterAndView(){
+  const q = (document.getElementById("q")?.value || "").trim().toLowerCase();
+  let list = [...view];
+
+  if(currentView === "baratos"){
+    list = list.filter(it => (it.price ?? 999) <= 2.0);
+  }
+
+  if(q){
+    list = list.filter(it => {
+      const hay = [
+        it.name, it.zone, it.tapa, it.ambiente,
+        ...(it.pros || []), ...(it.cons || []),
+        String(it.price ?? "")
+      ].filter(Boolean).join(" ").toLowerCase();
+      return hay.includes(q);
+    });
+  }
+
+  return list;
 }
 
 function render(){
+  const table = document.getElementById("table");
+  const meta = document.getElementById("meta");
+  if(!table || !meta) return;
 
-const table=document.getElementById("table")
+  const filtered = applyFilterAndView();
+  meta.textContent = `Actualizado: ${DATA?.updated || "—"} · Bares: ${filtered.length}`;
 
-table.innerHTML=view.map((b,i)=>{
+  table.innerHTML = filtered.map((it, idx) => {
+    const p = it.price ?? 999;
+    const pcls = priceClass(p);
+    const isGreenRow = p <= 2.0;
 
-const score=cucasScore(b)
+    const prosHTML = (it.pros || []).map(p => `<span class="pro">👍 ${p}</span>`).join(" ");
+    const consHTML = (it.cons || []).map(c => `<span class="con">👎 ${c}</span>`).join(" ");
 
-const pros=(b.pros||[]).map(x=>`<span class="pro">👍 ${x}</span>`).join("")
-const cons=(b.cons||[]).map(x=>`<span class="con">👎 ${x}</span>`).join("")
+    const score = cucasScore(it);
+    const ccls = cucasColorClass(score);
 
-return `
+    const chips = [
+      it.zone ? `<span class="chip">ZONA: ${String(it.zone).toUpperCase()}</span>` : "",
+      it.tapa ? `<span class="chip">TAPA: ${String(it.tapa).toUpperCase()}</span>` : "",
+      it.ambiente ? `<span class="chip">AMBIENTE: ${String(it.ambiente).toUpperCase()}</span>` : ""
+    ].join(" ");
 
-<div class="trow">
+    return `
+      <div class="trow ${isGreenRow ? "isGreen" : ""}">
+        <div class="rank">${String(idx+1).padStart(2,"0")}</div>
 
-<div class="rank">${i+1}</div>
+        <div class="name">
+          ${it.name || "—"}
+          <div class="small">Precio verificado: ${fmtDateISO(it.updated_price)} · ${(it.volume_ml ?? "—")}ml</div>
 
-<div class="name">
+          <div style="margin-top:8px;">${chips}</div>
+          <div style="margin-top:8px;">${prosHTML} ${consHTML}</div>
 
-${b.name}
+          <div class="cucasWrap ${ccls}">
+            <div class="cucasLabel">CUCAS SCORE™</div>
+            <div class="cucasValue">${score}</div>
+            <div class="cucasBarOuter">
+              <div class="cucasBarInner" style="width:${score}%; background: currentColor;"></div>
+            </div>
+          </div>
+        </div>
 
-<div class="small">${b.zone} · ${b.ambiente}</div>
+        <div class="${pcls}">${euro(p)}</div>
 
-${pros}${cons}
-
-<div class="cucasWrap">
-
-CUCAS SCORE ${score}
-
-<div class="cucasBarOuter">
-
-<div class="cucasBarInner" style="width:${score}%"></div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="price">${b.price}€</div>
-
-</div>
-
-`
-
-}).join("")
-
+        <div class="tags"></div>
+      </div>
+    `;
+  }).join("");
 }
 
-function sortPrice(){
-view.sort((a,b)=>a.price-b.price)
-render()
+function renderStats(){
+  const table = document.getElementById("table");
+  const meta = document.getElementById("meta");
+  if(!table || !meta) return;
+
+  const scores = view.map(cucasScore);
+  const avg = scores.length ? Math.round(scores.reduce((a,b)=>a+b,0)/scores.length) : 0;
+
+  meta.textContent = `Actualizado: ${DATA?.updated || "—"} · Bares: ${view.length}`;
+
+  table.innerHTML = `
+    <div class="panel" style="margin-top:0;">
+      <div class="name">ESTADÍSTICAS</div>
+      <div class="small">Media Cucas Score™: <b>${avg}</b></div>
+      <div class="small" style="margin-top:8px;color:#9aa;">
+        El score mezcla precio + pros - cons + ambiente + tapa. Ciencia emocional.
+      </div>
+    </div>
+  `;
 }
 
-function sortName(){
-view.sort((a,b)=>a.name.localeCompare(b.name))
-render()
+/* ======================
+SORTS
+====================== */
+
+function sortByPrice(){
+  view.sort((a,b) => (a.price ?? 9e9) - (b.price ?? 9e9));
+  currentView === "stats" ? renderStats() : render();
+}
+function sortByName(){
+  view.sort((a,b) => (a.name||"").localeCompare(b.name||"", "es"));
+  currentView === "stats" ? renderStats() : render();
+}
+function sortByCucas(){
+  view.sort((a,b) => cucasScore(b) - cucasScore(a));
+  currentView === "stats" ? renderStats() : render();
 }
 
-function sortCucas(){
-view.sort((a,b)=>cucasScore(b)-cucasScore(a))
-render()
+/* ======================
+RUTA DE POTES (con pros/cons)
+====================== */
+
+function pickRandom(arr){
+  if(!arr || !arr.length) return null;
+  return arr[Math.floor(Math.random() * arr.length)];
 }
 
-function generarRuta(){
+function generarRutaPotes(){
+  if(!DATA || !DATA.items) return;
 
-const bares=[...view]
+  const puntuados = [...DATA.items]
+    .map(bar => ({ bar, score: cucasScore(bar) }))
+    .sort((a,b)=>b.score-a.score);
 
-bares.sort(()=>Math.random()-0.5)
+  const pool = puntuados.slice(0, Math.min(6, puntuados.length)).map(x=>x.bar);
+  pool.sort(()=>Math.random()-0.5);
 
-const ruta=bares.slice(0,3)
+  const seleccion = pool.slice(0, Math.min(3, pool.length));
 
-let texto="Ruta recomendada: "
+  let texto = `<div class="rutaTitulo">RUTA PROPUESTA 🍻 (CUCAS MODE)</div>`;
 
-ruta.forEach((b,i)=>{
+  seleccion.forEach((bar,i)=>{
+    const pro = pickRandom(bar.pros);
+    const con = pickRandom(bar.cons);
 
-if(i==0)texto+=`empezamos en <span>${b.name}</span>`
-else if(i==1)texto+=` luego vamos a <span>${b.name}</span>`
-else texto+=` y terminamos en <span>${b.name}</span>`
+    if(i===0) texto += `Empezamos en <span>${bar.name}</span>`;
+    else if(i===1) texto += `, luego pasamos por <span>${bar.name}</span>`;
+    else texto += ` y terminamos en <span>${bar.name}</span>`;
 
-const pro=b.pros?.[0]
-const con=b.cons?.[0]
+    if(bar.price != null) texto += ` (a ${bar.price.toFixed(2)}€)`;
 
-if(pro)texto+=` porque ${pro.toLowerCase()}`
-if(con)texto+=` (aunque ${con.toLowerCase()})`
+    if(pro) texto += ` porque ${pro.toLowerCase()}`;
+    if(con) texto += ` (ojo: ${con.toLowerCase()})`;
 
-texto+=". "
+    texto += ".";
+  });
 
-})
+  const out = document.getElementById("rutaPotes");
+  if(out) out.innerHTML = texto;
 
-document.getElementById("rutaPotes").innerHTML=texto
-
+  ensureAudio();
+  sfxBeer();
 }
 
-function enter(){
+/* ======================
+LOGIN
+====================== */
 
-const k=document.getElementById("key").value
+async function enter(){
+  const msg = document.getElementById("gateMsg");
+  if(msg) msg.textContent = "";
 
-if(k==="henry"){
+  const key = (document.getElementById("key")?.value || "").trim();
+  if(!key){
+    if(msg) msg.textContent = "Introduce la clave.";
+    return;
+  }
 
-localStorage.setItem(STORAGE,"1")
+  const h = await sha256Hex(key);
+  if(h !== SOCIO_KEY_SHA256_HEX){
+    if(msg) msg.textContent = "Clave incorrecta.";
+    return;
+  }
 
-document.getElementById("gate").classList.add("hidden")
-document.getElementById("app").classList.remove("hidden")
+  localStorage.setItem(STORAGE_FLAG, "1");
+  showApp();
 
-loadData()
-
-}
-
+  await loadData();
+  sortByPrice();
 }
 
 function logout(){
-
-localStorage.removeItem(STORAGE)
-location.reload()
-
+  localStorage.removeItem(STORAGE_FLAG);
+  showGate();
 }
 
-document.addEventListener("DOMContentLoaded",()=>{
+/* ======================
+INIT
+====================== */
 
-document.getElementById("btnEnter").onclick=enter
-document.getElementById("btnLogout").onclick=logout
+window.addEventListener("DOMContentLoaded", async () => {
+  // wire login
+  document.getElementById("btnEnter")?.addEventListener("click", enter);
+  document.getElementById("key")?.addEventListener("keydown", (e) => {
+    if(e.key === "Enter") enter();
+  });
 
-document.getElementById("btnSortPrice").onclick=sortPrice
-document.getElementById("btnSortName").onclick=sortName
-document.getElementById("btnSortCucas").onclick=sortCucas
+  // wire controls
+  document.getElementById("btnLogout")?.addEventListener("click", logout);
+  document.getElementById("btnSortPrice")?.addEventListener("click", sortByPrice);
+  document.getElementById("btnSortName")?.addEventListener("click", sortByName);
+  document.getElementById("btnSortCucas")?.addEventListener("click", sortByCucas);
+  document.getElementById("btnRuta")?.addEventListener("click", generarRutaPotes);
 
-document.getElementById("btnRuta").onclick=generarRuta
+  document.getElementById("q")?.addEventListener("input", () => {
+    currentView === "stats" ? renderStats() : render();
+  });
 
-if(localStorage.getItem(STORAGE)){
-document.getElementById("gate").classList.add("hidden")
-document.getElementById("app").classList.remove("hidden")
-loadData()
-}
+  document.querySelectorAll(".navBtn").forEach(btn => {
+    btn.addEventListener("click", () => {
+      currentView = btn.dataset.view || "ranking";
+      if(currentView === "stats") renderStats();
+      else render();
+    });
+  });
 
-})
+  const seen = localStorage.getItem(INTRO_SEEN) === "1";
+  const logged = localStorage.getItem(STORAGE_FLAG) === "1";
+
+  if(!seen){
+    document.getElementById("intro")?.classList.remove("hidden");
+    document.getElementById("gate")?.classList.add("hidden");
+    document.getElementById("app")?.classList.add("hidden");
+    armIntro();
+    return;
+  }
+
+  document.getElementById("intro")?.classList.add("hidden");
+
+  if(logged){
+    showApp();
+    await loadData();
+    sortByPrice();
+  }else{
+    showGate();
+  }
+});
