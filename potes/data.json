@@ -23,7 +23,7 @@
       "tags": ["tapa", "aceitunas"]
     },
     {
-      "name": "Casa Aguilar (Byron's)",
+      "name": "Bodega Aguilar (Byron's)",
       "price": 2.2,
       "updated_price": "2026-03-04",
       "volume_ml": 200,
@@ -39,12 +39,22 @@
       "volume_ml": 200,
       "zone": "Potes",
       "tapa": "Aceitunas",
-      "ambiente": "Mixto",
+      "ambiente": "Turístico",
       "tags": ["aceitunas"]
     },
     {
       "name": "Bar El Trenti",
       "price": 2.4,
+      "updated_price": "2026-03-04",
+      "volume_ml": 200,
+      "zone": "Potes",
+      "tapa": "—",
+      "ambiente": "Mixto",
+      "tags": []
+    },
+    {
+      "name": "Bar El Latas",
+      "price": 2.3,
       "updated_price": "2026-03-04",
       "volume_ml": 200,
       "zone": "Potes",
