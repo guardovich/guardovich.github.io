@@ -6,7 +6,7 @@
   <title>Ranking de Cañas · Potes + Santander</title>
 
   <!-- Cache-buster: cambia la letra si GitHub Pages tarda en refrescar -->
-  <link rel="stylesheet" href="styles.css?v=20260305c" />
+  <link rel="stylesheet" href="styles.css?v=20260305d" />
 </head>
 
 <body>
@@ -149,6 +149,11 @@
           <button class="btn big cityBtn" data-city="Santander">SANTANDER</button>
           <button class="btn big cityBtn" data-city="ALL">TODAS</button>
         </div>
+
+        <!-- Estado visual (opcional, no rompe nada) -->
+        <div class="hint" style="margin-top:10px">
+          Consejo: si “faltan bares”, revisa <b>CIUDAD</b> y el <b>FILTRO</b> (pueden ocultarlos).
+        </div>
       </section>
 
       <!-- CONTROLS -->
@@ -158,7 +163,7 @@
           <button id="btnSortName" class="btn big">ORDENAR · NOMBRE</button>
           <button id="btnSortCucas" class="btn big">ORDENAR · CUCAS SCORE™</button>
 
-          <button id="btnRuta" class="btn big">🍻 GENERAR RUTA DE POTES</button>
+          <button id="btnRuta" class="btn big">🍻 GENERAR RUTA</button>
 
           <span class="spacer"></span>
 
@@ -189,6 +194,7 @@
 
   </div>
 
-  <script src="app.js?v=20260305c"></script>
+  <!-- defer ayuda a que el DOM esté listo y evita raros de carga -->
+  <script src="app.js?v=20260305d" defer></script>
 </body>
 </html>
