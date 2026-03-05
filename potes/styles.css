@@ -403,3 +403,25 @@ a.link:hover{ text-decoration:underline }
   .btn.big{ width:100%; }
   .input{ width:100%; min-width:0; }
 }
+
+/* ======================
+ARCADE: "PRESS ENTER"
+====================== */
+
+.pressEnter{
+  margin-top:10px;
+  color: var(--y);
+  font-weight: 900;
+  letter-spacing: 1px;
+  text-shadow: 0 0 10px rgba(255,255,0,.25);
+  animation: pressBlink 0.9s steps(2,end) infinite;
+}
+
+.pressEnter .keycap{
+  border-color:#555;
+  box-shadow: 0 0 10px rgba(0,255,255,.18);
+}
+
+@keyframes pressBlink{
+  50%{ opacity: 0.2; }
+}
