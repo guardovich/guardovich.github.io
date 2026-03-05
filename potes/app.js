@@ -9,9 +9,13 @@ const SOCIO_KEY_SHA256_HEX =
 const STORAGE_FLAG = "potes_socio_ok_v1";
 const INTRO_SEEN = "potes_intro_seen_v1";
 
-// Intro: mínimo 2s y luego espera ENTER (modo videojuego)
+// Intro: mínimo 2s + se queda encendida + espera ENTER
 const INTRO_MIN_MS = 2000;
+const INTRO_IDLE_MS = 3500;
 const INTRO_WAIT_FOR_ENTER = true;
+
+// City filter
+let currentCity = "Potes"; // Potes | Santander | ALL
 
 /* ======================
 HELPERS
@@ -26,7 +30,6 @@ async function sha256Hex(str){
 function euro(n){
   return new Intl.NumberFormat("es-ES", { style:"currency", currency:"EUR" }).format(n);
 }
-
 function fmtDateISO(iso){ return iso || "—"; }
 function sleep(ms){ return new Promise(r => setTimeout(r, ms)); }
 
@@ -148,6 +151,7 @@ async function waitForEnterOrClick(introEl){
 
 async function runIntro(){
   const intro = document.getElementById("intro");
+  const frame = document.querySelector(".introFrame");
   const lines = document.getElementById("introLines");
   const bar = document.getElementById("barInner");
   const pct = document.getElementById("pct");
@@ -158,6 +162,8 @@ async function runIntro(){
     showGate();
     return;
   }
+
+  frame?.classList.remove("idle");
 
   const t0 = Date.now();
 
@@ -170,8 +176,10 @@ async function runIntro(){
     `<span class="tag">[BOOT]</span> Iniciando sistema…`,
     `<span class="tag">[SYS]</span> Acceso: <span class="ok">SOCIOS</span> · Amenaza: <span class="warn">COLEGAS CON SED</span>`,
     `<span class="tag">[DB]</span> Cargando bares · precios · pros · cons…`,
+    `<span class="tag">[CITY]</span> Selector: <span class="ok">Potes</span> / <span class="ok">Santander</span>`,
+    `<span class="tag">[BEER]</span> Activando campo: <span class="ok">Marca</span>`,
     `<span class="tag">[AI]</span> Compilando Cucas Score™…`,
-    `<span class="tag">[UI]</span> Activando telettexto / CRT…`,
+    `<span class="tag">[UI]</span> Activando teletexto / CRT…`,
     `<span class="tag">[OK]</span> Listo.`
   ];
 
@@ -190,11 +198,15 @@ async function runIntro(){
   const elapsed = Date.now() - t0;
   if(elapsed < INTRO_MIN_MS) await sleep(INTRO_MIN_MS - elapsed);
 
+  hint && (hint.style.display = "");
   await typeLineHTML(
     lines,
     `<div class="pressEnter"><span class="tag">[READY]</span> Pulsa <span class="ok">ENTER</span> para continuar…</div>`,
     {speed: 10, beeps:false}
   );
+
+  frame?.classList.add("idle");
+  if(INTRO_IDLE_MS > 0) await sleep(INTRO_IDLE_MS);
 
   if(INTRO_WAIT_FOR_ENTER){
     await waitForEnterOrClick(intro);
@@ -282,6 +294,10 @@ function applyFilterAndView(){
   const q = (document.getElementById("q")?.value || "").trim().toLowerCase();
   let list = [...view];
 
+  if(currentCity !== "ALL"){
+    list = list.filter(it => (it.city || "Potes") === currentCity);
+  }
+
   if(currentView === "baratos"){
     list = list.filter(it => (it.price ?? 999) <= 2.0);
   }
@@ -289,8 +305,14 @@ function applyFilterAndView(){
   if(q){
     list = list.filter(it => {
       const hay = [
-        it.name, it.zone, it.tapa, it.ambiente,
-        ...(it.pros || []), ...(it.cons || []),
+        it.name,
+        it.city,
+        it.zone,
+        it.tapa,
+        it.ambiente,
+        it.beer_brand,
+        ...(it.pros || []),
+        ...(it.cons || []),
         String(it.price ?? "")
       ].filter(Boolean).join(" ").toLowerCase();
       return hay.includes(q);
@@ -300,13 +322,31 @@ function applyFilterAndView(){
   return list;
 }
 
+function renderEmpty(msg){
+  const table = document.getElementById("table");
+  if(!table) return;
+  table.innerHTML = `
+    <div class="panel" style="margin-top:0;">
+      <div class="name">${msg}</div>
+      <div class="small">Añade bares en <b>${currentCity}</b> a <code>data.json</code>.</div>
+    </div>
+  `;
+}
+
 function render(){
   const table = document.getElementById("table");
   const meta = document.getElementById("meta");
   if(!table || !meta) return;
 
   const filtered = applyFilterAndView();
-  meta.textContent = `Actualizado: ${DATA?.updated || "—"} · Bares: ${filtered.length}`;
+  const cityLabel = currentCity === "ALL" ? "Todas" : currentCity;
+
+  meta.textContent = `Actualizado: ${DATA?.updated || "—"} · Ciudad: ${cityLabel} · Bares: ${filtered.length}`;
+
+  if(filtered.length === 0){
+    renderEmpty(`NO HAY BARES PARA ${cityLabel.toUpperCase()}`);
+    return;
+  }
 
   table.innerHTML = filtered.map((it, idx) => {
     const p = it.price ?? 999;
@@ -320,9 +360,11 @@ function render(){
     const ccls = cucasColorClass(score);
 
     const chips = [
+      it.city ? `<span class="chip">CIUDAD: ${String(it.city).toUpperCase()}</span>` : "",
       it.zone ? `<span class="chip">ZONA: ${String(it.zone).toUpperCase()}</span>` : "",
       it.tapa ? `<span class="chip">TAPA: ${String(it.tapa).toUpperCase()}</span>` : "",
-      it.ambiente ? `<span class="chip">AMBIENTE: ${String(it.ambiente).toUpperCase()}</span>` : ""
+      it.ambiente ? `<span class="chip">AMBIENTE: ${String(it.ambiente).toUpperCase()}</span>` : "",
+      it.beer_brand ? `<span class="chip">CERVEZA: ${String(it.beer_brand).toUpperCase()}</span>` : ""
     ].join(" ");
 
     return `
@@ -358,17 +400,19 @@ function renderStats(){
   const meta = document.getElementById("meta");
   if(!table || !meta) return;
 
-  const scores = view.map(cucasScore);
+  const scoped = applyFilterAndView();
+  const scores = scoped.map(cucasScore);
   const avg = scores.length ? Math.round(scores.reduce((a,b)=>a+b,0)/scores.length) : 0;
 
-  meta.textContent = `Actualizado: ${DATA?.updated || "—"} · Bares: ${view.length}`;
+  const cityLabel = currentCity === "ALL" ? "Todas" : currentCity;
+  meta.textContent = `Actualizado: ${DATA?.updated || "—"} · Ciudad: ${cityLabel} · Bares: ${scoped.length}`;
 
   table.innerHTML = `
     <div class="panel" style="margin-top:0;">
       <div class="name">ESTADÍSTICAS</div>
-      <div class="small">Media Cucas Score™: <b>${avg}</b></div>
+      <div class="small">Media Cucas Score™ (según filtros): <b>${avg}</b></div>
       <div class="small" style="margin-top:8px;color:#9aa;">
-        El score mezcla precio + pros - cons + ambiente + tapa. Ciencia emocional.
+        Score = precio + pros - cons + ambiente + tapa.
       </div>
     </div>
   `;
@@ -392,7 +436,7 @@ function sortByCucas(){
 }
 
 /* ======================
-RUTA DE POTES (con pros/cons)
+RUTA DE POTES (scoped por ciudad + filtro)
 ====================== */
 
 function pickRandom(arr){
@@ -403,7 +447,15 @@ function pickRandom(arr){
 function generarRutaPotes(){
   if(!DATA || !DATA.items) return;
 
-  const puntuados = [...DATA.items]
+  const scoped = applyFilterAndView();
+  const out = document.getElementById("rutaPotes");
+
+  if(scoped.length === 0){
+    if(out) out.innerHTML = `<div class="rutaTitulo">RUTA</div>No hay bares con estos filtros.`;
+    return;
+  }
+
+  const puntuados = [...scoped]
     .map(bar => ({ bar, score: cucasScore(bar) }))
     .sort((a,b)=>b.score-a.score);
 
@@ -423,14 +475,14 @@ function generarRutaPotes(){
     else texto += ` y terminamos en <span>${bar.name}</span>`;
 
     if(bar.price != null) texto += ` (a ${bar.price.toFixed(2)}€)`;
+    if(bar.beer_brand) texto += ` · <span>${bar.beer_brand}</span>`;
 
-    if(pro) texto += ` porque ${pro.toLowerCase()}`;
-    if(con) texto += ` (ojo: ${con.toLowerCase()})`;
+    if(pro) texto += ` porque ${String(pro).toLowerCase()}`;
+    if(con) texto += ` (ojo: ${String(con).toLowerCase()})`;
 
     texto += ".";
   });
 
-  const out = document.getElementById("rutaPotes");
   if(out) out.innerHTML = texto;
 
   ensureAudio();
@@ -470,17 +522,27 @@ function logout(){
 }
 
 /* ======================
+UI helpers
+====================== */
+
+function setActiveButtons(selector, matchFn){
+  document.querySelectorAll(selector).forEach(b => {
+    b.classList.toggle("active", !!matchFn(b));
+  });
+}
+
+/* ======================
 INIT
 ====================== */
 
 window.addEventListener("DOMContentLoaded", async () => {
-  // wire login
+  // login
   document.getElementById("btnEnter")?.addEventListener("click", enter);
   document.getElementById("key")?.addEventListener("keydown", (e) => {
     if(e.key === "Enter") enter();
   });
 
-  // wire controls
+  // controls
   document.getElementById("btnLogout")?.addEventListener("click", logout);
   document.getElementById("btnSortPrice")?.addEventListener("click", sortByPrice);
   document.getElementById("btnSortName")?.addEventListener("click", sortByName);
@@ -491,14 +553,27 @@ window.addEventListener("DOMContentLoaded", async () => {
     currentView === "stats" ? renderStats() : render();
   });
 
+  // view buttons
   document.querySelectorAll(".navBtn").forEach(btn => {
     btn.addEventListener("click", () => {
       currentView = btn.dataset.view || "ranking";
+      setActiveButtons(".navBtn", b => b.dataset.view === currentView);
       if(currentView === "stats") renderStats();
       else render();
     });
   });
 
+  // city buttons
+  document.querySelectorAll(".cityBtn").forEach(btn => {
+    btn.addEventListener("click", () => {
+      currentCity = btn.dataset.city || "Potes";
+      setActiveButtons(".cityBtn", b => b.dataset.city === currentCity);
+      if(currentView === "stats") renderStats();
+      else render();
+    });
+  });
+
+  // intro / auth routing
   const seen = localStorage.getItem(INTRO_SEEN) === "1";
   const logged = localStorage.getItem(STORAGE_FLAG) === "1";
 
