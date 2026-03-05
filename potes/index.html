@@ -1,172 +1,100 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Ranking de Cañas · Solo socios</title>
-  <link rel="stylesheet" href="styles.css" />
+<meta charset="UTF-8">
+<title>Ranking de Cañas · Solo Socios</title>
+<link rel="stylesheet" href="styles.css">
 </head>
 
 <body>
-  <div class="ttx">
 
-    <!-- INTRO OVERLAY -->
-    <section id="intro" class="intro">
-      <div class="scanlines" aria-hidden="true"></div>
-      <div class="noise" aria-hidden="true"></div>
+<div id="intro" class="intro">
 
-      <div class="introFrame">
-        <div class="introTop">
-          <div class="pill cyan">RETRO MODE</div>
-          <div class="pill yellow blink">ESPACIO SOLO PARA SOCIOS</div>
-          <div class="pill magenta">v1.0</div>
-        </div>
+  <div class="introFrame">
 
-        <div class="titleWrap">
-          <div class="bigTitle glitch" data-text="RANKING DE CAÑAS">RANKING DE CAÑAS</div>
-          <div class="subTitle">
-            <span class="tag y">POTES</span>
-            <span class="dot">·</span>
-            <span class="tag c">BARRAS</span>
-            <span class="dot">·</span>
-            <span class="tag m">SEGURIDAD: RISAS</span>
-          </div>
-        </div>
-
-        <div class="introGrid">
-          <!-- LEFT: CALVO + BIRRA -->
-          <div class="artBox">
-            <div class="artHdr">
-              <span class="pill green">NPC</span>
-              <span class="pill dim">CALVO OFICIAL</span>
-              <span class="pill red blinkSlow">SED</span>
-            </div>
-
-            <pre class="pixelArt wobble" aria-hidden="true">
-<span class="c">      ████████████████</span>
-<span class="c">    ███</span><span class="y">████████████</span><span class="c">███</span>
-<span class="c">   ██</span><span class="y">██████████████</span><span class="c">██</span>
-<span class="c">  ██</span><span class="y">█████</span><span class="c">██</span><span class="y">█████</span><span class="c">██</span><span class="y">█████</span><span class="c">██</span>
-<span class="c">  ██</span><span class="y">████</span><span class="c">██</span><span class="y">██</span><span class="c">██</span><span class="y">██</span><span class="c">██</span><span class="y">████</span><span class="c">██</span>
-<span class="c">   ██</span><span class="y">██████████████</span><span class="c">██</span>
-<span class="c">     ███</span><span class="y">████████████</span><span class="c">███</span>
-
-<span class="c">        ████████████</span>
-<span class="c">      ██</span><span class="y">████</span><span class="c">██</span><span class="y">👁</span><span class="c">██</span><span class="y">👁</span><span class="c">██</span><span class="y">████</span><span class="c">██</span>
-<span class="c">     ██</span><span class="y">████</span><span class="c">██</span><span class="y">████</span><span class="c">██</span><span class="y">████</span><span class="c">██</span><span class="y">████</span><span class="c">██</span>
-<span class="c">     ██</span><span class="y">████████████████████</span><span class="c">██</span>
-<span class="c">      ██</span><span class="y">████</span><span class="c">██</span><span class="y">██</span><span class="c">██</span><span class="y">██</span><span class="c">██</span><span class="y">████</span><span class="c">██</span>
-<span class="c">        ███████</span><span class="y">██</span><span class="c">██</span><span class="y">██</span><span class="c">███████</span>
-
-<span class="y">   “LA MEDICINA DEL ALMA”</span>
-<span class="dim">   (si está a 2€, es ciencia)</span>
-            </pre>
-
-            <div class="beerBig" aria-hidden="true">
-              <div class="beerTitle">CERVEZA (GRANDE)</div>
-              <pre class="beerArt">
-<span class="y">     ██████████████</span>
-<span class="y">     █</span><span class="g">████████████</span><span class="y">█</span>
-<span class="y">     █</span><span class="g">████████████</span><span class="y">█</span>
-<span class="y">     █</span><span class="g">████████████</span><span class="y">█</span>
-<span class="y">     █</span><span class="g">████████████</span><span class="y">█</span>
-<span class="y">     █</span><span class="g">████████████</span><span class="y">█</span>
-<span class="y">     ██████████████</span>
-<span class="y">        ████████</span>
-<span class="y">        ████████</span>
-              </pre>
-            </div>
-
-            <div class="artFooter">
-              <span class="chipSmall green">VERDE ≤ 2,00€</span>
-              <span class="chipSmall yellow">AMARILLO ≤ 2,30€</span>
-              <span class="chipSmall red">ROJO &gt; 2,30€</span>
-            </div>
-          </div>
-
-          <!-- RIGHT: TERMINAL -->
-          <div class="termBox">
-            <div class="termHdr">
-              <span class="pill cyan">TERMINAL</span>
-              <span class="pill dim">BOOT LOG</span>
-              <span class="pill yellow blink">LIVE</span>
-            </div>
-
-            <div class="introLines" id="introLines"></div>
-
-            <div class="introLoad">
-              <div class="barOuter">
-                <div class="barInner" id="barInner"></div>
-              </div>
-              <div class="pct" id="pct">00%</div>
-            </div>
-
-            <div class="introHint" id="introHint">
-              Pulsa <span class="keycap">ENTER</span> o clic en <b>EMPEZAR</b>.
-              <div class="smallDim">Si no haces nada, el navegador bloquea audio: por eso pedimos interacción.</div>
-            </div>
-
-            <button id="btnStartIntro" class="btn big startBtn">▶ EMPEZAR</button>
-          </div>
-        </div>
+    <div class="titleWrap">
+      <div class="bigTitle glitch" data-text="RANKING DE CAÑAS">
+        RANKING DE CAÑAS
       </div>
-    </section>
-
-    <header class="hdr">
-      <div class="logo">RANKING DE CAÑAS</div>
-      <div class="sub">ESPACIO SOLO PARA SOCIOS</div>
-    </header>
-
-    <!-- LOGIN GATE -->
-    <section id="gate" class="panel hidden">
-      <div class="row wrap">
-        <span class="label">CLAVE SOCIO:</span>
-        <input id="key" class="input" type="password" inputmode="text" autocomplete="off" />
-        <button id="btnEnter" class="btn big">ENTRAR</button>
+      <div class="subTitle">
+        Espacio solo para socios
       </div>
-      <div id="gateMsg" class="msg"></div>
-      <div class="hint">Tip: ENTER también funciona.</div>
-    </section>
+    </div>
 
-    <!-- APP -->
-    <main id="app" class="hidden">
+    <div id="introLines"></div>
 
-      <!-- NAV -->
-      <section class="panel">
-        <div class="row wrap">
-          <button class="btn big navBtn" data-view="ranking">RANKING GENERAL</button>
-          <button class="btn big navBtn" data-view="baratos">TOP BARATOS</button>
-          <button class="btn big navBtn" data-view="stats">ESTADÍSTICAS</button>
-        </div>
-      </section>
+    <div class="panel">
+      <div class="barOuter">
+        <div id="barInner" class="barInner"></div>
+      </div>
+      <div id="pct">00%</div>
+    </div>
 
-      <section class="panel">
-        <div class="row wrap">
-          <button id="btnSortPrice" class="btn big">ORDENAR · PRECIO</button>
-          <button id="btnSortName" class="btn big">ORDENAR · NOMBRE</button>
-
-          <span class="spacer"></span>
-
-          <label class="label">FILTRO:</label>
-          <input id="q" class="input" placeholder="zona, tapa, ambiente…" />
-          <button id="btnLogout" class="btn big danger">SALIR</button>
-        </div>
-      </section>
-
-      <section class="panel">
-        <div class="meta" id="meta"></div>
-        <div class="table" id="table"></div>
-      </section>
-
-      <footer class="ftr">
-        <span>© David Guardo · Teletexto + Retro</span>
-        <span class="sep">|</span>
-        <a class="link" href="https://guardovich.github.io" target="_blank" rel="noreferrer">Inicio</a>
-      </footer>
-    </main>
+    <div id="introHint">
+      Pulsa ENTER
+    </div>
 
   </div>
 
-  <script src="app.js"></script>
+</div>
+
+
+<div id="gate" class="panel hidden">
+
+  <div class="row">
+    <div class="label">CLAVE SOCIO</div>
+    <input id="key" class="input">
+    <button id="btnEnter" class="btn big">ENTRAR</button>
+  </div>
+
+  <div id="gateMsg" class="msg"></div>
+
+</div>
+
+
+
+<div id="app" class="ttx hidden">
+
+  <div class="hdr">
+    <div class="logo">POTES</div>
+    <div class="sub">Ranking de cañas</div>
+  </div>
+
+  <div class="panel">
+
+    <div class="row wrap">
+
+      <button id="btnSortPrice" class="btn">Precio</button>
+      <button id="btnSortName" class="btn">Nombre</button>
+      <button id="btnSortCucas" class="btn big">CUCAS SCORE™</button>
+
+      <button id="btnRuta" class="btn big">
+        🍻 GENERAR RUTA DE POTES
+      </button>
+
+      <input id="q" class="input" placeholder="Buscar bar">
+
+      <div class="spacer"></div>
+
+      <button id="btnLogout" class="btn danger">
+        Salir
+      </button>
+
+    </div>
+
+  </div>
+
+
+  <div id="rutaPotes"></div>
+
+  <div id="meta" class="meta"></div>
+
+  <div id="table" class="table"></div>
+
+</div>
+
+
+<script src="app.js"></script>
+
 </body>
 </html>
