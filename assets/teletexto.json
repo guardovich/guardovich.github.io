@@ -1,10 +1,46 @@
 {
-  "generatedAt": "2026-03-05T06:53:05.550Z",
+  "generatedAt": "2026-03-05T13:00:09.760Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Anthropic makes last-ditch effort to salvage deal with Pentagon after blowup",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/889782/anthropic-pentagon-discussions-ai-deal",
+          "summary": "Anthropic CEO Dario Amodei is reportedly back at the negotiating table with the Department of Defense in an attempt to salvage the company's relationship with the US military and prevent it from being iced out of defense work for being a \"supply chain risk.\" Talks between the two parties imploded on Friday after weeks of bitter public feuding over the startup's refusal to grant the Pentagon unrestricted access to its AI, with rivals like OpenAI rushing to fill the void.\nAmodei is in talks with under-secretary of defense for research and engineering Emil Michael about a new contract that would allow the US military to continue using Anthropi …\nRead the full story at The Verge.",
+          "isoDate": "2026-03-05T11:46:46.000Z"
+        },
+        {
+          "title": "Nothing’s Headphone A are something worth considering",
+          "link": "https://www.theverge.com/tech/889615/nothing-headphone-a-review",
+          "summary": "The Headphone A keep the shape and style of Nothing’s over-ear design, but with an opaque instead of transparent case.\t\n\nAfter the release of the Headphone 1 last year - Nothing's first over-ear headphones - the company is back with the Headphone A. They're a slimmed-down over-ear option that keep the Nothing design aesthetic and excellent controls while decreasing the weight and bumping battery life up to a maximum of 135 hours. There are some concessions - middling call quality and a carrying bag instead of a case - but they're also cheaper at $199. The Headphone A makes more sense to me than the Headphone 1 ever did, and are a great second offering from Nothing.\nThe Headphone A's design is incredibly similar to the Headphone 1's. Each earpiece has the same …\nRead the full story at The Verge.",
+          "isoDate": "2026-03-05T11:15:00.000Z"
+        },
+        {
+          "title": "Nothing is finally covering up with the metal Phone 4A Pro",
+          "link": "https://www.theverge.com/tech/889769/nothing-phone-4a-pro-design-opaque-transparent",
+          "summary": "Today Nothing has revealed the 4A and 4A Pro, its latest midrange phones. The two look startlingly different from one another, with varying designs and Glyph Light interfaces. The Pro is especially striking: it's the first Nothing phone to almost entirely abandon the brand's trademark transparent design.\nI'm currently at Nothing's launch event in London, where I'm about to get my first look at the 4A Pro in person, so stay tuned for hands-on impressions coming up shortly.\nThe 4A Pro, which will go on sale in the US later this month, adopts a metal unibody design instead of the usual clear plastic. In a press release the company claims that …\nRead the full story at The Verge.",
+          "isoDate": "2026-03-05T11:15:00.000Z"
+        },
+        {
+          "title": "How much wildfire prevention is too much?",
+          "link": "https://www.technologyreview.com/2026/03/05/1133960/wildfire-prevention-limits/",
+          "summary": "The race to prevent the worst wildfires has been an increasingly high-tech one. Companies are proposing AI fire detection systems and drones that can stamp out early blazes. And now, one Canadian startup says it’s going after lightning. Lightning-sparked fires can be a big deal: The Canadian wildfires of 2023 generated nearly 500 million metric…",
+          "isoDate": "2026-03-05T11:00:00.000Z"
+        },
+        {
+          "title": "Bill Gates&#8217; nuclear company is the first to get approval to build next-gen reactor",
+          "link": "https://www.theverge.com/science/889768/bill-gates-terrapower-nuclear-wyoming-reactor",
+          "summary": "Non-plant related construction broke ground at the Wyoming facility in June 2024. | Image: TerraPower\t\n\nBill Gates-founded nuclear energy startup TerraPower has been granted approval from the Nuclear Regulatory Commission to build a next-generation reactor in Wyoming. This is the first commercial-scale, advanced nuclear power plant to ever receive the federal permit, according to the press release, and will be the first commercial reactor constructed in the US in almost a decade.\nConstruction at the Wyoming plant is expected to be completed by 2030. TerraPower is one of several companies racing to build smaller, more efficient reactors to augment electrical grids under strain from AI data centers. In a 2024 interview with The Verge, Bill Gate …\nRead the full story at The Verge.",
+          "isoDate": "2026-03-05T10:16:58.000Z"
+        },
+        {
+          "title": "Online harassment is entering its AI era",
+          "link": "https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/",
+          "summary": "Scott Shambaugh didn’t think twice when he denied an AI agent’s request to contribute to matplotlib, a software library that he helps manage. Like many open-source projects, matplotlib has been overwhelmed by a glut of AI code contributions, and so Shambaugh and his fellow maintainers have instituted a policy that all AI-written code must be…",
+          "isoDate": "2026-03-05T10:00:00.000Z"
+        },
         {
           "title": "Did Live Nation punish a venue by taking Billie Eilish away?",
           "link": "https://www.theverge.com/policy/889720/live-nation-ticketmaster-trial-doj-barclays-center-threats",
@@ -28,42 +64,6 @@
           "link": "https://www.theverge.com/news/889595/tim-sweeney-signed-away-his-right-to-criticize-google-until-2032",
           "summary": "Epic CEO Tim Sweeney might be one of the most outspoken people in the history of the world. He fought two of the world's most valuable and powerful companies almost all the way to the US Supreme Court, insulting them again and again: \"crooked,\" \"deceitful,\" \"insanely sneaky,\" calling Android a \"fake open platform,\" calling both companies \"gangster-style businesses that will do anything they think they can get away with,\" telling me how Google's Project Hug was \"an astonishingly corrupt effort at a massive scale.\"\nBut Google has finally muzzled Tim Sweeney. It's right there in a binding term sheet for his settlement with Google. \nOn March 3 …\nRead the full story at The Verge.",
           "isoDate": "2026-03-04T23:52:21.000Z"
-        },
-        {
-          "title": "TerraPower gets OK to start construction of its first nuclear plant",
-          "link": "https://arstechnica.com/science/2026/03/terrapower-gets-ok-to-start-construction-of-its-first-nuclear-plant/",
-          "summary": "Plant won't be done until 2030 at the earliest, and it still needs an operating license.",
-          "isoDate": "2026-03-04T22:54:40.000Z"
-        },
-        {
-          "title": "Space Command chief throws cold water on the question of UAPs in space",
-          "link": "https://arstechnica.com/space/2026/03/space-command-chief-throws-cold-water-on-the-question-of-uaps-in-space/",
-          "summary": "\"I am not aware of anything that is extraterrestrial, other than comets and things like that.\"",
-          "isoDate": "2026-03-04T22:32:27.000Z"
-        },
-        {
-          "title": "Here’s how Google describes its fee-reducing Apps Experience and Games Level Up programs",
-          "link": "https://www.theverge.com/tech/889538/google-apps-experience-games-level-up-program",
-          "summary": "Today, Google killed its 30 percent app store fee, partially uncoupled Google Play from Google Play Billing after they were declared an illegal monopoly in the US, and much more.\nFrom July, depending on where you live, Google will now generally charge developers 20 percent for in-app purchases, or 10 percent for subscriptions - but it's also carving out several new categories of app which might pay differently. One of them is the mysterious new \"metaverse browsers\" category, whose details have been redacted. \nBut Google is public that two other programs, Apps Experience and Games Level Up will let developers save up to 5 percent more of th …\nRead the full story at The Verge.",
-          "isoDate": "2026-03-04T22:31:48.000Z"
-        },
-        {
-          "title": "Large genome model: Open source AI trained on trillions of bases",
-          "link": "https://arstechnica.com/science/2026/03/large-genome-model-open-source-ai-trained-on-trillions-of-bases/",
-          "summary": "System can identify genes, regulatory sequences, splice sites, and more.",
-          "isoDate": "2026-03-04T22:14:54.000Z"
-        },
-        {
-          "title": "Epic and Google have signed a special deal for a new class of &#8216;metaverse&#8217; apps",
-          "link": "https://www.theverge.com/tech/889526/epic-games-google-deal-metaverse-apps",
-          "summary": "Epic Games CEO Tim Sweeney. | Image: Cath Virginia / The Verge, Getty Images\t\n\nEpic Games and Google are burying the hatchet, but documents released today reveal that they aren't only aligned on how Google is shaking things up for app stores. The two companies have also agreed to terms about a new class of apps that they're calling \"metaverse browsers,\" according to a heavily redacted section of a revised binding term sheet.\nWhile the term \"metaverse\" has largely fallen out of favor - Mark Zuckerberg, for example, is now much more interested in AI - Epic CEO Tim Sweeney has been talking for years about the metaverse and how it might work in the future. (Depending on how you define the concept, Epic's Fortnite is alrea …\nRead the full story at The Verge.",
-          "isoDate": "2026-03-04T21:49:16.000Z"
-        },
-        {
-          "title": "Google and Epic announce settlement to end app store antitrust case",
-          "link": "https://arstechnica.com/gadgets/2026/03/google-and-epic-look-to-bury-the-hatchet-with-new-app-store-settlement/",
-          "summary": "The era of the 30 percent app store cut has ended.",
-          "isoDate": "2026-03-04T20:48:16.000Z"
         }
       ]
     },
@@ -84,9 +84,27 @@
           "isoDate": "2026-03-05T01:05:42.000Z"
         },
         {
+          "title": "The Epstein scandal is a wake-up call — new rules are needed on links with rich donors",
+          "link": "https://www.nature.com/articles/d41586-026-00698-3",
+          "summary": "Nature, Published online: 05 March 2026; doi:10.1038/d41586-026-00698-3\nA systemic failure of oversight allowed the sex offender Jeffrey Epstein to curry favour with academia. Stronger governance is urgently needed.",
+          "isoDate": "2026-03-05T00:00:00.000Z"
+        },
+        {
+          "title": "Identical twins on trial: can DNA testing tell them apart?",
+          "link": "https://www.nature.com/articles/d41586-026-00521-z",
+          "summary": "Nature, Published online: 05 March 2026; doi:10.1038/d41586-026-00521-z\nIn a French criminal trial, conventional DNA analysis couldn’t distinguish between twin brothers, but emerging scientific methods could help in such cases.",
+          "isoDate": "2026-03-05T00:00:00.000Z"
+        },
+        {
           "title": "Do obesity drugs treat addiction? Huge study hints at their promise",
           "link": "https://www.nature.com/articles/d41586-026-00734-2",
           "summary": "Nature, Published online: 05 March 2026; doi:10.1038/d41586-026-00734-2\nStudy of 600,000 US military veterans shows that those who took anti-obesity medications were less likely to develop some complications of substance-use disorders.",
+          "isoDate": "2026-03-05T00:00:00.000Z"
+        },
+        {
+          "title": "Women in science are not a ‘problem to be fixed’",
+          "link": "https://www.nature.com/articles/d41586-026-00546-4",
+          "summary": "Nature, Published online: 05 March 2026; doi:10.1038/d41586-026-00546-4\nCordelia Fine wrote Patriarchy Inc to challenge two false visions of gender equality at work and offer a fairer future for the female workforce.",
           "isoDate": "2026-03-05T00:00:00.000Z"
         },
         {
@@ -112,24 +130,6 @@
           "link": "https://www.nasa.gov/news-release/nasa-opm-launch-nasa-force-to-recruit-top-talent-for-us-space-program/",
           "summary": "The U.S. Office of Personnel Management (OPM) and NASA announced NASA Force on Wednesday, a dedicated talent track within the US Tech Force initiative designed to recruit and deploy the nation’s top engineers and technologists to support America’s space program. NASA Force will identify and place high-impact technical talent into mission-critical roles supporting NASA’s exploration, […]",
           "isoDate": "2026-03-04T16:17:19.000Z"
-        },
-        {
-          "title": "US-French Satellite Takes Stock of World’s River Water",
-          "link": "https://www.nasa.gov/earth/us-french-satellite-takes-stock-of-worlds-river-water/",
-          "summary": "In a first, a space mission led by NASA and France has tracked Earth’s rivers swelling and shrinking from month to month over the course of a year and found significantly less of a swing than previous model-based estimates. A record drought in the Amazon likely influenced the tally made by the Surface Water and […]",
-          "isoDate": "2026-03-04T16:12:55.000Z"
-        },
-        {
-          "title": "Searching for Selenite",
-          "link": "https://science.nasa.gov/earth/earth-observatory/searching-for-selenite/",
-          "summary": "Oklahoma’s Salt Plains National Wildlife Refuge attracts rare and diverse species—and enthusiasts looking for a distinct type of crystallized gypsum.",
-          "isoDate": "2026-03-04T05:01:00.000Z"
-        },
-        {
-          "title": "Shared neural substrates of prosocial and parenting behaviours",
-          "link": "https://www.nature.com/articles/s41586-026-10327-8",
-          "summary": "Nature, Published online: 04 March 2026; doi:10.1038/s41586-026-10327-8\nShared neural substrates of prosocial and parenting behaviours",
-          "isoDate": "2026-03-04T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-03-05T06:53:02.105Z"
+          "isoDate": "2026-03-05T13:00:04.810Z"
         },
         {
           "title": "Musk tells jury 'people read too much' into his posts",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-03-05T06:53:04.275Z"
+          "isoDate": "2026-03-05T13:00:07.681Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 58\nChar: =",
-          "isoDate": "2026-03-05T06:53:03.547Z"
+          "isoDate": "2026-03-05T13:00:06.180Z"
         },
         {
           "title": "This Student-Built EV Focuses on Repairability",
