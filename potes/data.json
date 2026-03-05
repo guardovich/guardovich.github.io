@@ -33,7 +33,7 @@
       "tapa": "Sí",
       "ambiente": "Mixto",
       "pros": ["Buen sitio para empezar la ronda"],
-      "cons": []
+      "cons": ["no tiene barra"]
     },
     {
       "name": "Casa Favila",
@@ -43,7 +43,7 @@
       "zone": "Potes",
       "tapa": "Aceitunas",
       "ambiente": "Turístico",
-      "pros": [],
+      "pros": ["tira muy bien la cerveza"],
       "cons": ["No suele abrir"]
     },
     {
@@ -54,7 +54,7 @@
       "zone": "Potes",
       "tapa": "—",
       "ambiente": "Mixto",
-      "pros": [],
+      "pros": ["tienen buena terraza"],
       "cons": ["No tiran bien la caña"]
     },
     {
@@ -63,10 +63,10 @@
       "updated_price": "2026-03-04",
       "volume_ml": 200,
       "zone": "Potes",
-      "tapa": "Aceitunas",
+      "tapa": "Variada",
       "ambiente": "Mixto",
-      "pros": [],
-      "cons": ["Depende quién la tire"]
+      "pros": ["Majo el camarero"],
+      "cons": ["Depende quién la tire la cerveza"]
     },
     {
       "name": "Soldrería",
