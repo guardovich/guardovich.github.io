@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-03-05T02:04:29.237Z",
+  "generatedAt": "2026-03-05T06:53:05.550Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Did Live Nation punish a venue by taking Billie Eilish away?",
+          "link": "https://www.theverge.com/policy/889720/live-nation-ticketmaster-trial-doj-barclays-center-threats",
+          "summary": "John Abbamondi had orders to let the CEO of Ticketmaster down easy.\nIn April 2021, Abbamondi was the CEO of BSE Global, the company that ran Brooklyn arena the Barclays Center. BSE Global's existing Ticketmaster contract would expire at the end of September, and Abbamondi and his team had evaluated proposals from SeatGeek, AXS, and Ticketmaster. The economics of Ticketmaster offer, according to Abbamondi, \"was nowhere near as good as the other two.\" SeatGeek's technology was \"superior\" to Ticketmaster's on balance, on top of better financial terms including an equity stake in the company, the arena decided. It clinched their decision to go  …\nRead the full story at The Verge.",
+          "isoDate": "2026-03-05T02:21:41.000Z"
+        },
+        {
+          "title": "A new video from the White House mixes Call of Duty footage with actual video of Iran strikes",
+          "link": "https://www.theverge.com/games/889701/trump-white-house-call-of-duty-footage-iran",
+          "summary": "A screenshot of the Call of Duty footage in the White House’s video.\t\n\nOn Wednesday, the White House posted a video of actual military strikes on Iran in the style usually seen in Call of Duty highlight videos, and started the video with a clip from Call of Duty. The real-life footage of missiles and other munitions hitting targets in Iran shows clips seen in other Trump administration videos, like this one posted to the U.S. Central Command X account.\n\n\nCourtesy of the Red, White & Blue. pic.twitter.com/kTO0DZ56IJ\n- The White House (@WhiteHouse) March 4, 2026\n\nAs noted by The Washington Post's Drew Harwell, the animation at the start appears to be from Call of Duty: Modern Warfare III when a player activates a …\nRead the full story at The Verge.",
+          "isoDate": "2026-03-05T01:09:54.000Z"
+        },
         {
           "title": "Seven tech giants signed Trump’s pledge to keep electricity costs from spiking around data centers ",
           "link": "https://www.theverge.com/news/889578/data-center-power-pledge-white-house-google-meta-microsoft",
@@ -52,18 +64,6 @@
           "link": "https://arstechnica.com/gadgets/2026/03/google-and-epic-look-to-bury-the-hatchet-with-new-app-store-settlement/",
           "summary": "The era of the 30 percent app store cut has ended.",
           "isoDate": "2026-03-04T20:48:16.000Z"
-        },
-        {
-          "title": "NotebookLM can now summarize research in ‘cinematic’ video overviews",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/889475/notebooklm-can-now-summarize-research-in-cinematic-video-overviews",
-          "summary": "Google's NotebookLM can now turn users' research and notes into fully animated \"cinematic\" videos, going a step further than the original video overview feature Google introduced last year. \nPreviously, video overviews could only generate narrated slideshows, but the upgraded video overview feature uses a combination of Google's AI models, \"including Gemini 3, Nano Banana Pro and Veo 3,\" to generate animated visuals based on the content of users' notes. Google says Gemini \"determines the best narrative, visual style and format, and even refines its own work to ensure consistency\" when generating the videos.\n\nThis is the latest in a string o …\nRead the full story at The Verge.",
-          "isoDate": "2026-03-04T20:32:42.000Z"
-        },
-        {
-          "title": "Lawsuit: Google Gemini sent man on violent missions, set suicide \"countdown\"",
-          "link": "https://arstechnica.com/tech-policy/2026/03/lawsuit-google-gemini-sent-man-on-violent-missions-set-suicide-countdown/",
-          "summary": "Gemini allegedly called man its \"husband,\" said they could be together in death.",
-          "isoDate": "2026-03-04T20:29:14.000Z"
         }
       ]
     },
@@ -72,10 +72,22 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "A Little Town with a Long Name",
+          "link": "https://science.nasa.gov/earth/earth-observatory/a-little-town-with-a-long-name/",
+          "summary": "A NASA luminary from the Apollo era grew up in Wales near Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch.",
+          "isoDate": "2026-03-05T05:01:00.000Z"
+        },
+        {
           "title": "High-Speed Flight Project Overview",
           "link": "https://www.nasa.gov/directorates/armd/aavp/hsf/high-speed-flight-project-overview/",
           "summary": "What We do The High-Speed Flight (HSF) project develops technologies that make high-speed, airbreathing, commercial flight possible from Mach 1 to Mach 5 and above. HSF creates tools, technologies, and knowledge that will help eliminate today’s technical barriers to practical supersonic flight, most notably sonic boom. The project supports the X-59 quiet supersonic vehicle testing […]",
           "isoDate": "2026-03-05T01:05:42.000Z"
+        },
+        {
+          "title": "Do obesity drugs treat addiction? Huge study hints at their promise",
+          "link": "https://www.nature.com/articles/d41586-026-00734-2",
+          "summary": "Nature, Published online: 05 March 2026; doi:10.1038/d41586-026-00734-2\nStudy of 600,000 US military veterans shows that those who took anti-obesity medications were less likely to develop some complications of substance-use disorders.",
+          "isoDate": "2026-03-05T00:00:00.000Z"
         },
         {
           "title": "About Advanced Air Vehicles Program (AAVP)",
@@ -118,18 +130,6 @@
           "link": "https://www.nature.com/articles/s41586-026-10327-8",
           "summary": "Nature, Published online: 04 March 2026; doi:10.1038/s41586-026-10327-8\nShared neural substrates of prosocial and parenting behaviours",
           "isoDate": "2026-03-04T00:00:00.000Z"
-        },
-        {
-          "title": "Heart surgery with quick-setting magnetic fluid could prevent strokes",
-          "link": "https://www.nature.com/articles/d41586-026-00742-2",
-          "summary": "Nature, Published online: 04 March 2026; doi:10.1038/d41586-026-00742-2\nInjectable fluid safely fills area in which blood clots can form, in animal trials — plus, strong evidence that an elusive form of diamond has been made in the lab.",
-          "isoDate": "2026-03-04T00:00:00.000Z"
-        },
-        {
-          "title": "Magnetic gel injected into the heart could stop strokes",
-          "link": "https://www.nature.com/articles/d41586-026-00740-4",
-          "summary": "Nature, Published online: 04 March 2026; doi:10.1038/d41586-026-00740-4\nThe hydrogel-based plug blocks a part of the heart to cut stroke risk and was shown to be effective in rats and a pig.",
-          "isoDate": "2026-03-04T00:00:00.000Z"
         }
       ]
     },
@@ -140,20 +140,20 @@
         {
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
-          "summary": "Inappropriately located doctype declaration\nLine: 4\nColumn: 9\nChar: e",
-          "isoDate": "2026-03-05T02:04:25.469Z"
+          "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
+          "isoDate": "2026-03-05T06:53:02.105Z"
+        },
+        {
+          "title": "Musk tells jury 'people read too much' into his posts",
+          "link": "https://www.bbc.com/news/articles/c7433dz4ykwo?at_medium=RSS&at_campaign=rss",
+          "summary": "The billionaire is accused of misleading investors in the run-up to his 2022 Twitter purchase.",
+          "isoDate": "2026-03-05T02:55:34.000Z"
         },
         {
           "title": "We have more privacy controls yet less privacy than ever",
           "link": "https://www.bbc.com/news/articles/c4gj39zk1k0o?at_medium=RSS&at_campaign=rss",
           "summary": "Has online privacy become  \"a luxury not a right\" for us all in 2026?",
           "isoDate": "2026-03-05T00:04:26.000Z"
-        },
-        {
-          "title": "Musk tells jury 'people read too much' into his posts",
-          "link": "https://www.bbc.com/news/articles/c7433dz4ykwo?at_medium=RSS&at_campaign=rss",
-          "summary": "The billionaire is accused of misleading investors in the run-up to his 2022 Twitter purchase.",
-          "isoDate": "2026-03-04T22:03:57.000Z"
         },
         {
           "title": "Father claims Google's AI product fuelled son's delusional spiral",
@@ -258,9 +258,9 @@
           "isoDate": "2026-02-27T22:15:00.000Z"
         },
         {
-          "title": "OpenAI and Amazon announce strategic partnership",
-          "link": "https://openai.com/index/amazon-partnership",
-          "summary": "OpenAI and Amazon announce a strategic partnership bringing OpenAI’s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI agents.",
+          "title": "Scaling AI for everyone",
+          "link": "https://openai.com/index/scaling-ai-for-everyone",
+          "summary": "Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon.",
           "isoDate": "2026-02-27T05:30:00.000Z"
         }
       ]
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-03-05T02:04:27.685Z"
+          "isoDate": "2026-03-05T06:53:04.275Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 58\nChar: =",
-          "isoDate": "2026-03-05T02:04:26.574Z"
+          "isoDate": "2026-03-05T06:53:03.547Z"
         },
         {
           "title": "This Student-Built EV Focuses on Repairability",
