@@ -92,7 +92,7 @@
       "ambiente": "Turístico",
       "pros": ["Buena copa y cañero"],
       "cons": []
-      },
+    },
     {
       "name": "Bar Drago (donde Rei)",
       "city": "Santander",
@@ -103,9 +103,9 @@
       "beer_brand": "Estrella de Galicia",
       "tapa": "Variadas",
       "ambiente": "Barrio",
-      "pros": ["el camarero es muy majo", "las tapas son muy variadas"],
+      "pros": ["El camarero es muy majo", "Las tapas son muy variadas"],
       "cons": []
-      },
+    },
     {
       "name": "Casa Jose",
       "city": "Santander",
@@ -118,7 +118,7 @@
       "ambiente": "Mixto",
       "pros": ["Buen ambiente", "Rabas abundantes"],
       "cons": []
-       },
+    },
     {
       "name": "Bar el Roble",
       "city": "Santander",
@@ -131,7 +131,7 @@
       "ambiente": "Barrio agradable",
       "pros": ["Buen ambiente", "Limpio y acogedor"],
       "cons": []
-       },
+    },
     {
       "name": "Bar San Luis (El jefes)",
       "city": "Santander",
@@ -141,9 +141,9 @@
       "volume_ml": 250,
       "beer_brand": "Mahou",
       "tapa": "Tapas varias",
-      "ambiente": "Barrio agradable"
+      "ambiente": "Barrio agradable",
       "pros": ["Buen ambiente", "Jose es el mejor"],
-      "cons": ["todavía da Bolas de queso en el siglo XXI"]
+      "cons": ["Todavía da bolas de queso en el siglo XXI"]
     }
   ]
 }
