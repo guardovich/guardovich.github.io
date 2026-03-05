@@ -2,97 +2,108 @@
 <html lang="es">
 <head>
 <meta charset="UTF-8">
-<title>Ranking de Cañas · Solo Socios</title>
+<title>Ranking de Cañas · Potes</title>
 <link rel="stylesheet" href="styles.css">
 </head>
 
 <body>
 
+<!-- INTRO SPECTRUM -->
 <div id="intro" class="intro">
 
-  <div class="introFrame">
+<div class="introFrame">
 
-    <div class="titleWrap">
-      <div class="bigTitle glitch" data-text="RANKING DE CAÑAS">
-        RANKING DE CAÑAS
-      </div>
-      <div class="subTitle">
-        Espacio solo para socios
-      </div>
-    </div>
+<div class="titleWrap">
+<div class="bigTitle glitch" data-text="RANKING DE CAÑAS">
+RANKING DE CAÑAS
+</div>
 
-    <div id="introLines"></div>
+<div class="subTitle">
+ESPACIO SOLO PARA SOCIOS
+</div>
+</div>
 
-    <div class="panel">
-      <div class="barOuter">
-        <div id="barInner" class="barInner"></div>
-      </div>
-      <div id="pct">00%</div>
-    </div>
+<div id="introLines"></div>
 
-    <div id="introHint">
-      Pulsa ENTER
-    </div>
+<div class="panel">
+<div class="barOuter">
+<div id="barInner" class="barInner"></div>
+</div>
+<div id="pct">00%</div>
+</div>
 
-  </div>
+<div id="introHint" class="pressEnter">
+PULSA ENTER
+</div>
+
+</div>
 
 </div>
 
 
+<!-- LOGIN -->
 <div id="gate" class="panel hidden">
 
-  <div class="row">
-    <div class="label">CLAVE SOCIO</div>
-    <input id="key" class="input">
-    <button id="btnEnter" class="btn big">ENTRAR</button>
-  </div>
+<div class="row">
+<div class="label">CLAVE SOCIO</div>
+<input id="key" class="input">
+<button id="btnEnter" class="btn big">ENTRAR</button>
+</div>
 
-  <div id="gateMsg" class="msg"></div>
+<div id="gateMsg" class="msg"></div>
 
 </div>
 
 
-
+<!-- APP -->
 <div id="app" class="ttx hidden">
 
-  <div class="hdr">
-    <div class="logo">POTES</div>
-    <div class="sub">Ranking de cañas</div>
-  </div>
-
-  <div class="panel">
-
-    <div class="row wrap">
-
-      <button id="btnSortPrice" class="btn">Precio</button>
-      <button id="btnSortName" class="btn">Nombre</button>
-      <button id="btnSortCucas" class="btn big">CUCAS SCORE™</button>
-
-      <button id="btnRuta" class="btn big">
-        🍻 GENERAR RUTA DE POTES
-      </button>
-
-      <input id="q" class="input" placeholder="Buscar bar">
-
-      <div class="spacer"></div>
-
-      <button id="btnLogout" class="btn danger">
-        Salir
-      </button>
-
-    </div>
-
-  </div>
+<div class="hdr">
+<div class="logo">POTES</div>
+<div class="sub">Ranking de cañas</div>
+</div>
 
 
-  <div id="rutaPotes"></div>
+<div class="panel">
 
-  <div id="meta" class="meta"></div>
+<div class="row wrap">
 
-  <div id="table" class="table"></div>
+<button id="btnSortPrice" class="btn">
+ORDENAR · PRECIO
+</button>
+
+<button id="btnSortName" class="btn">
+ORDENAR · NOMBRE
+</button>
+
+<button id="btnSortCucas" class="btn big">
+ORDENAR · CUCAS SCORE
+</button>
+
+<button id="btnRuta" class="btn big">
+🍻 GENERAR RUTA DE POTES
+</button>
+
+<input id="q" class="input" placeholder="Buscar bar">
+
+<div class="spacer"></div>
+
+<button id="btnLogout" class="btn danger">
+SALIR
+</button>
 
 </div>
 
+</div>
+
+
+<div id="rutaPotes" class="ruta"></div>
+
+<div id="meta" class="meta"></div>
+
+<div id="table" class="table"></div>
+
+</div>
 
 <script src="app.js"></script>
 
