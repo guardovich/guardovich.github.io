@@ -1,8 +1,19 @@
+:root{
+--bg:#000;
+--fg:#e8e8e8;
+--c:#0ff;
+--y:#ff0;
+--g:#0f0;
+--r:#f33;
+--m:#f0f;
+--dim:#9aa;
+}
+
 body{
-background:#000;
-color:#e8e8e8;
-font-family:monospace;
 margin:0;
+background:#000;
+color:var(--fg);
+font-family:monospace;
 }
 
 .hidden{display:none!important}
@@ -21,13 +32,13 @@ padding-bottom:10px;
 }
 
 .logo{
-color:#0ff;
+color:var(--c);
 font-size:28px;
 font-weight:bold;
 }
 
 .sub{
-color:#ff0;
+color:var(--y);
 }
 
 .panel{
@@ -42,9 +53,7 @@ gap:10px;
 align-items:center;
 }
 
-.wrap{
-flex-wrap:wrap;
-}
+.wrap{flex-wrap:wrap}
 
 .input{
 background:#050505;
@@ -61,47 +70,32 @@ padding:10px 14px;
 cursor:pointer;
 }
 
-.btn.big{
-font-size:16px;
-}
+.btn.big{font-size:16px}
 
-.btn:hover{
-border-color:#0ff;
-}
+.btn:hover{border-color:var(--c)}
 
-.danger:hover{
-border-color:#f33;
-}
+.danger:hover{border-color:var(--r)}
 
 .rank{
-color:#0ff;
+color:var(--c);
 font-weight:bold;
 }
 
-.p-green{
-color:#0f0;
-font-size:20px;
-}
+.p-green{color:var(--g);font-size:20px}
 
-.p-yellow{
-color:#ff0;
-}
+.p-yellow{color:var(--y)}
 
-.p-red{
-color:#f33;
-}
+.p-red{color:var(--r)}
 
 .trow{
 display:grid;
-grid-template-columns:70px 1fr 120px;
+grid-template-columns:60px 1fr 120px;
 gap:10px;
 border-top:1px solid #222;
 padding:10px;
 }
 
-.name{
-font-weight:bold;
-}
+.name{font-weight:bold}
 
 .small{
 font-size:12px;
@@ -115,30 +109,36 @@ margin-right:6px;
 font-size:12px;
 }
 
+/* PROS / CONS */
+
 .pro{
-color:#0f0;
+color:var(--g);
 margin-right:8px;
 font-size:12px;
 }
 
 .con{
-color:#f33;
+color:var(--r);
 margin-right:8px;
 font-size:12px;
 }
+
+/* RUTA */
 
 .ruta{
 margin-top:14px;
 border:2px solid #222;
 padding:12px;
 background:#050505;
-color:#ff0;
+color:var(--y);
 }
 
 .ruta span{
-color:#0ff;
+color:var(--c);
 font-weight:bold;
 }
+
+/* CUCAS SCORE */
 
 .cucasWrap{
 display:flex;
@@ -156,11 +156,43 @@ border:1px solid #333;
 
 .cucasBarInner{
 height:100%;
-background:#0f0;
+background:var(--g);
 }
 
-.meta{
-font-size:12px;
-color:#aaa;
+/* INTRO */
+
+.intro{
+position:fixed;
+inset:0;
+background:#000;
+display:flex;
+align-items:center;
+justify-content:center;
+}
+
+.introFrame{
+width:800px;
+border:3px solid #222;
+padding:14px;
+}
+
+.bigTitle{
+font-size:40px;
+color:var(--c);
+font-weight:bold;
+}
+
+.subTitle{
+color:var(--y);
+margin-top:6px;
+}
+
+.pressEnter{
+color:var(--y);
+animation:blink 1s infinite;
 margin-top:10px;
+}
+
+@keyframes blink{
+50%{opacity:0.3}
 }
