@@ -1,10 +1,40 @@
 {
-  "generatedAt": "2026-03-06T06:50:32.406Z",
+  "generatedAt": "2026-03-06T12:56:15.815Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Tech industry is in tariff hell, even if refunds are automated",
+          "link": "https://arstechnica.com/tech-policy/2026/03/tech-industry-is-in-tariff-hell-even-if-refunds-are-automated/",
+          "summary": "Trade groups urge court to create a simple blueprint for tariff refunds.",
+          "isoDate": "2026-03-06T12:20:40.000Z"
+        },
+        {
+          "title": "AI startup sues ex-CEO, saying he took 41GB of email and lied on résumé",
+          "link": "https://arstechnica.com/tech-policy/2026/03/ai-startup-sues-ex-ceo-saying-he-took-41gb-of-email-and-lied-on-resume/",
+          "summary": "Hayden AI also claims co-founder improperly sold over $1.2M in stock.",
+          "isoDate": "2026-03-06T12:10:07.000Z"
+        },
+        {
+          "title": "Which of these two arcades is the \"world largest\"—and does it matter?",
+          "link": "https://arstechnica.com/gaming/2026/03/which-of-these-two-arcades-is-the-world-largest-and-does-it-matter/",
+          "summary": "While semantics count for some, gamers win either way.",
+          "isoDate": "2026-03-06T12:00:02.000Z"
+        },
+        {
+          "title": "Rocket Report: SpaceX launch prices are going up; Russia fixes broken launch pad",
+          "link": "https://arstechnica.com/space/2026/03/rocket-report-spacex-launch-prices-are-going-up-russia-fixes-broken-launch-pad/",
+          "summary": "It looks like United Launch Alliance will build more upper stages for NASA's SLS rocket.",
+          "isoDate": "2026-03-06T12:00:02.000Z"
+        },
+        {
+          "title": "Meet your new phone away from phone",
+          "link": "https://www.theverge.com/tech/889756/mwc-2026-unihertz-light-phone-clicks",
+          "summary": "BlackBerries are so back. | Photo: Allison Johnson / The Verge\t\n\nUnihertz's booth at MWC was a little out of the way, but those who did find it all seemed to want to pick up the Titan Elite 2. Sure, the cosmic orange color attracted attention, and the QWERTY keyboard reminded one showgoer of his old BlackBerry. But once I picked it up, I could see why it was so popular. It's slim, light, and pocketable, and the physical keys just beg to be pressed. I felt unencumbered, which I can't say about the phone I'm currently using. I didn't want to put it down, and based on the steady stream of visitors I saw at the booth, I wasn't alone.\nAs usual, MWC offered a bunch of odd and delightful ideas about phones that …\nRead the full story at The Verge.",
+          "isoDate": "2026-03-06T12:00:00.000Z"
+        },
         {
           "title": "Amazon.com says things are fixed after some issues with logging in and checking out",
           "link": "https://www.theverge.com/tech/890215/amazon-is-down-login-prices",
@@ -18,9 +48,9 @@
           "isoDate": "2026-03-06T01:08:00.000Z"
         },
         {
-          "title": "What if your real computer was a super-sized Lego computer brick?",
+          "title": "What if your real computer was a supersized Lego computer brick?",
           "link": "https://www.theverge.com/gadgets/890047/what-if-your-real-computer-was-a-super-sized-lego-computer-brick",
-          "summary": "The M2x2 in action. | Image: Paul Staal\t\n\nIn 1979 - nearly 50 years ago - Lego jazzed up its very first spaceships with an iconic sloped computer brick that was just painted plastic. In 2022, we introduced you to the engineer who fit an actual tiny computer inside.\nNow, industrial designer Paul Staal has flipped the script with a working desktop PC that's a super-sized homage to the classic computer brick (via Reddit and Hackster.io).\nIt's ten times bigger than the original:\nThe \"M2x2\" is largely a 3D-printed case for a Mac Mini - one you can freely print at home yourself - but it's not just a shell. He's outfitted it with a 7-inch IPS touchscreen display, and a full array of add …\nRead the full story at The Verge.",
+          "summary": "The M2x2 in action. | Image: Paul Staal\t\n\nIn 1979 - nearly 50 years ago - Lego jazzed up its very first spaceships with an iconic sloped computer brick that was just painted plastic. In 2022, we introduced you to the engineer who fit an actual tiny computer inside.\nNow, industrial designer Paul Staal has flipped the script with a working desktop PC that's a supersized homage to the classic computer brick (via Reddit and Hackster.io).\nIt's 10 times bigger than the original:\nThe \"M2x2\" is largely a 3D-printed case for a Mac Mini - one you can freely print at home yourself - but it's not just a shell. He's outfitted it with a 7-inch IPS touchscreen display, and a full array of addit …\nRead the full story at The Verge.",
           "isoDate": "2026-03-06T00:59:11.000Z"
         },
         {
@@ -34,36 +64,6 @@
           "link": "https://www.theverge.com/policy/890367/house-lawmakers-online-safety-bills-kids-act",
           "summary": "A package of child safety bills is headed to the House floor following an hours-long session that left Democrats and Republicans divided. On Thursday, lawmakers on the House Committee on Energy and Commerce voted to advance the Kids Internet and Digital Safety (KIDS) Act; Sammy's Law; and the App Store Accountability Act, which would require app stores to introduce age-gating.\nThe KIDS Act, which is sponsored by Congressman Brett Guthrie (R-KY), encompasses several child safety laws. That includes a version of the latest House Republican update to the Kids Online Safety Act (KOSA) without the \"duty of care\" provision central to the Senate's …\nRead the full story at The Verge.",
           "isoDate": "2026-03-05T23:16:00.000Z"
-        },
-        {
-          "title": "The Pentagon formally labels Anthropic a supply-chain risk",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/890347/pentagon-anthropic-supply-chain-risk",
-          "summary": "US Defense Secretary Pete Hegseth speaks during a press conference on US military action in Iran, at the Pentagon in Washington, DC, on March 2, 2026. | Brendan Smialowski/AFP via Getty Images\t\n\nView Link\nAfter weeks of failed negotiations, public ultimatums, and lawsuit threats, the Defense Department has formally labeled Anthropic a \"supply-chain risk\", escalating its fight with the AI company over their acceptable use policies and potentially bringing their fight to court.\nThe decision, first reported by The Wall Street Journal on Thursday, citing one source familiar, will bar defense contractors from working with the government if they use Claude, Anthropic's AI program, in their products. Though the designation is typically applied to foreign companies with ties to adversarial governments, this is the first time that an America …\nRead the full story at The Verge.",
-          "isoDate": "2026-03-05T23:02:22.000Z"
-        },
-        {
-          "title": "Roku&#8217;s solution to streaming decision fatigue is a trivia game",
-          "link": "https://www.theverge.com/streaming/890312/roku-roklue-trivia-game",
-          "summary": "Roku users who struggle to figure out what they want to watch might have an answer in the form of \"Roklue,\" a new game coming to the streaming platform on March 7th. Announced on Thursday, Roklue is a pop culture trivia game that Roku says helps users discover new content and \"tests players on the movies and TV shows that everyone is talking about, as well as the beloved favorites they want to watch again and again.\" \nThe first Roklue theme will be \"awards season,\" with \"clues inspired by Hollywood's biggest award show moments and celebrated films.\" Themes for the trivia game will change throughout the year. Users don't need to download any …\nRead the full story at The Verge.",
-          "isoDate": "2026-03-05T21:42:58.000Z"
-        },
-        {
-          "title": "MS exec: Microsoft's next console will play \"Xbox and PC games\"",
-          "link": "https://arstechnica.com/gaming/2026/03/ms-exec-microsofts-next-console-will-play-xbox-and-pc-games/",
-          "summary": "Project Helix is set to open the closed-console ecosystem, but the details will matter.",
-          "isoDate": "2026-03-05T21:39:43.000Z"
-        },
-        {
-          "title": "RFK Jr.’s anti-vaccine policies are \"unreviewable,\" DOJ lawyer tells judge",
-          "link": "https://arstechnica.com/health/2026/03/rfk-jr-can-promote-getting-measles-with-impunity-doj-lawyer-tells-judge/",
-          "summary": "The startling claim came amid a lawsuit from the American Academy of Pediatrics.",
-          "isoDate": "2026-03-05T21:29:30.000Z"
-        },
-        {
-          "title": "Amazon appears to be down, with over 20,000 reported problems",
-          "link": "https://arstechnica.com/gadgets/2026/03/amazon-appears-to-be-down-with-over-20000-reported-problems/",
-          "summary": "Problems viewing products and checking out.",
-          "isoDate": "2026-03-05T21:06:05.000Z"
         }
       ]
     },
@@ -90,6 +90,36 @@
           "isoDate": "2026-03-06T02:59:34.000Z"
         },
         {
+          "title": "Electric-vehicle batteries toughen up to beat the heat ",
+          "link": "https://www.nature.com/articles/d41586-026-00670-1",
+          "summary": "Nature, Published online: 06 March 2026; doi:10.1038/d41586-026-00670-1\nRising temperatures shorten battery life, but devices are improving fast enough to resist the ravages of climate change.",
+          "isoDate": "2026-03-06T00:00:00.000Z"
+        },
+        {
+          "title": "Modelling the cosmos and imagining a future without meat: Books in brief",
+          "link": "https://www.nature.com/articles/d41586-026-00758-8",
+          "summary": "Nature, Published online: 06 March 2026; doi:10.1038/d41586-026-00758-8\nAndrew Robinson reviews five of the best science picks.",
+          "isoDate": "2026-03-06T00:00:00.000Z"
+        },
+        {
+          "title": "What a viral TikTok taught me about personal storytelling in science",
+          "link": "https://www.nature.com/articles/d41586-025-04156-4",
+          "summary": "Nature, Published online: 06 March 2026; doi:10.1038/d41586-025-04156-4\nThe success of a student’s educational video made me rethink the ways that teaching can create moments of wonder that technology can’t replace.",
+          "isoDate": "2026-03-06T00:00:00.000Z"
+        },
+        {
+          "title": "Genetically modified pig liver keeps man alive until human organ transplant",
+          "link": "https://www.nature.com/articles/d41586-026-00736-0",
+          "summary": "Nature, Published online: 06 March 2026; doi:10.1038/d41586-026-00736-0\nFirst time the procedure has been performed on a living person.",
+          "isoDate": "2026-03-06T00:00:00.000Z"
+        },
+        {
+          "title": "Cracked, but still there: the glass ceiling persists for senior women in science ",
+          "link": "https://www.nature.com/articles/d41586-026-00355-9",
+          "summary": "Nature, Published online: 06 March 2026; doi:10.1038/d41586-026-00355-9\nTo mark International Women’s Day on 8 March, Mangala Srinivas reminds junior colleagues that career success won’t protect you from gender-based bias.",
+          "isoDate": "2026-03-06T00:00:00.000Z"
+        },
+        {
           "title": "About Airspace Operations and Safety Program (AOSP)",
           "link": "https://www.nasa.gov/directorates/armd/aosp/about-aosp/",
           "summary": "The Airspace Operations and Safety Program (AOSP) accelerates the transformation of the National Airspace System (NAS) to meet the variety, density, and complexity of future airspace users. Our mission is to ensure that U.S. skies remain safe, innovative, and globally competitive while enabling Advanced Air Mobility and next-generation aviation technologies.   AOSP partners with the FAA, industry, academia, and other government agencies to ensure seamless integration of […]",
@@ -100,36 +130,6 @@
           "link": "https://www.nasa.gov/image-article/nasa-wallops-supports-first-rocket-lab-haste-launch-of-2026/",
           "summary": "NASA’s Wallops Flight Facility supported a Rocket Lab HASTE suborbital launch from the company’s Launch Complex 2 in Virginia on Feb. 27, 2026. The mission, called Cassowary Vex, supported a flight of a hypersonic test platform for the Department of War’s Defense Innovation Unit.  The NASA Wallops launch range supported by providing services such as tracking, telemetry, and range safety […]",
           "isoDate": "2026-03-05T17:13:49.000Z"
-        },
-        {
-          "title": "Total Lunar Eclipse",
-          "link": "https://www.nasa.gov/image-article/total-lunar-eclipse/",
-          "summary": "The Moon appears red during a total lunar eclipse over New Orleans, home of NASA’s Michoud Assembly Facility, on March 3, 2026. This “blood moon” occurs during a total lunar eclipse, as Earth lines up between the Moon and the Sun. When this happens, the only light that reaches the Moon’s surface is from the edges […]",
-          "isoDate": "2026-03-05T16:27:19.000Z"
-        },
-        {
-          "title": "Targeting amyloid-β pathology by chimeric antigen receptor astrocyte (CAR-A) therapy",
-          "link": "https://www.science.org/doi/abs/10.1126/science.ads3972?af=R",
-          "summary": "Science, Volume 391, Issue 6789, March 2026.",
-          "isoDate": "2026-03-05T08:00:00.000Z"
-        },
-        {
-          "title": "A negative feedback loop between TERMINAL FLOWER1 and LEAFY protects inflorescence indeterminacy",
-          "link": "https://www.science.org/doi/abs/10.1126/science.adv5429?af=R",
-          "summary": "Science, Volume 391, Issue 6789, March 2026.",
-          "isoDate": "2026-03-05T08:00:00.000Z"
-        },
-        {
-          "title": "Climate change will increase forest disturbances in Europe throughout the 21st century",
-          "link": "https://www.science.org/doi/abs/10.1126/science.adx6329?af=R",
-          "summary": "Science, Volume 391, Issue 6789, March 2026.",
-          "isoDate": "2026-03-05T08:00:00.000Z"
-        },
-        {
-          "title": "Structural modeling reveals phage proteins that manipulate bacterial immune signaling",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aea1761?af=R",
-          "summary": "Science, Volume 391, Issue 6789, March 2026.",
-          "isoDate": "2026-03-05T08:00:00.000Z"
         }
       ]
     },
@@ -141,10 +141,10 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-03-06T06:50:26.944Z"
+          "isoDate": "2026-03-06T12:56:10.451Z"
         },
         {
-          "title": "Anthropic vows to sue Pentagon over risk designation",
+          "title": "Anthropic vows to sue Pentagon over supply chain risk label",
           "link": "https://www.bbc.com/news/articles/cn5g3z3xe65o?at_medium=RSS&at_campaign=rss",
           "summary": "The supply chain risk designation of the artificial intelligence firm is a first for a US company.",
           "isoDate": "2026-03-06T02:46:30.000Z"
@@ -204,6 +204,12 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "GPT-5.4 Thinking System Card",
+          "link": "https://openai.com/index/gpt-5-4-thinking-system-card",
+          "summary": "",
+          "isoDate": "2026-03-05T10:00:00.000Z"
+        },
+        {
           "title": "Introducing GPT-5.4",
           "link": "https://openai.com/index/introducing-gpt-5-4",
           "summary": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
@@ -216,16 +222,16 @@
           "isoDate": "2026-03-05T10:00:00.000Z"
         },
         {
-          "title": "GPT-5.4 Thinking System Card",
-          "link": "https://openai.com/index/gpt-5-4-thinking-system-card",
-          "summary": "",
-          "isoDate": "2026-03-05T10:00:00.000Z"
-        },
-        {
           "title": "Ensuring AI use in education leads to opportunity",
           "link": "https://openai.com/index/ai-education-opportunity",
           "summary": "OpenAI shares new tools, certifications, and measurement resources to help schools and universities close AI capability gaps and expand opportunity.",
           "isoDate": "2026-03-05T09:00:00.000Z"
+        },
+        {
+          "title": "The five AI value models driving business reinvention",
+          "link": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
+          "summary": "Five AI value models show how leaders can sequence AI from workforce fluency to process reinvention and build durable business advantage.",
+          "isoDate": "2026-03-05T00:00:00.000Z"
         },
         {
           "title": "Introducing ChatGPT for Excel and new financial data integrations",
@@ -237,12 +243,6 @@
           "title": "Introducing the Adoption news channel",
           "link": "https://openai.com/index/introducing-the-adoption-news-channel",
           "summary": "Practical insights and frameworks to turn AI progress into business advantage",
-          "isoDate": "2026-03-05T00:00:00.000Z"
-        },
-        {
-          "title": "The five AI value models driving business reinvention",
-          "link": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
-          "summary": "Five AI value models show how leaders can sequence AI from workforce fluency to process reinvention and build durable business advantage.",
           "isoDate": "2026-03-05T00:00:00.000Z"
         },
         {
@@ -258,9 +258,9 @@
           "isoDate": "2026-03-04T05:00:00.000Z"
         },
         {
-          "title": "Understanding AI and learning outcomes",
-          "link": "https://openai.com/index/understanding-ai-and-learning-outcomes",
-          "summary": "OpenAI introduces the Learning Outcomes Measurement Suite to assess AI’s impact on student learning across diverse educational environments over time.",
+          "title": "How Axios uses AI to help deliver high-impact local journalism ",
+          "link": "https://openai.com/index/axios-allison-murphy",
+          "summary": "Axios COO Allison Murphy explains how the company uses AI to support local reporters, streamline newsroom workflows, and deliver high-impact local journalism at scale.",
           "isoDate": "2026-03-04T00:00:00.000Z"
         }
       ]
@@ -273,13 +273,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-03-06T06:50:30.873Z"
+          "isoDate": "2026-03-06T12:56:14.104Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 58\nChar: =",
-          "isoDate": "2026-03-06T06:50:28.582Z"
+          "isoDate": "2026-03-06T12:56:11.686Z"
+        },
+        {
+          "title": "Scenario Modeling and Array Design for Non-Terrestrial Networks (NTNs)",
+          "link": "https://content.knowledgehub.wiley.com/scenario-modeling-and-array-design-for-non-terrestrial-networks-ntns/",
+          "summary": "Non-terrestrial networks (NTNs) using low earth orbit (LEO) satellites present unique technical challenges, from managing large satellite constellations to ensuring reliable communication links. In this webinar, we’ll explore how to address these complexities using comprehensive modeling and simulation techniques. Discover how to model and analyze satellite orbits, onboard antennas and arrays, transmitter power amplifiers (PAs), signal propagation channels, and the RF and digital receiver segments—all within an integrated workflow. Learn the importance of including every link component to achieve accurate, reliable system performance.\nHighlights include:\n\nModeling large satellite constellations\n\nAnalyzing and visualizing time-varying visibility and link closure\nUsing graphical apps for antenna analysis and RF component design\nModeling PAs and digital predistortion\nSimulating interference effects in communication links\n\nRegister now for this free webinar!",
+          "isoDate": "2026-03-06T11:00:03.000Z"
         },
         {
           "title": "From TV Repairman to Electromagnetic Compatibility Expert",
@@ -310,12 +316,6 @@
           "link": "https://spectrum.ieee.org/ieee-annual-election-2026",
           "summary": "This year’s annual election, which begins on 17 August, will include candidates for IEEE president-elect and other officer positions up for election.\nTo see who is running for 2027 IEEE president-elect and the petition candidates, visit the election website.\nThe ballot also includes nominees for delegate-elect/director-elect offices submitted by division and region nominating committees, as well as IEEE Technical Activities vice president-elect; IEEE-USA president-elect; and IEEE Standards Association board of governors members-at-large.\nThose elected take office on 1 January 2027.\n IEEE members who want to run for an office, except for IEEE president-elect, who have not been nominated, must submit their petition intention to the IEEE Board of Directors by 1 April. Petitions should be sent to the IEEE Corporate Governance staff at elections@ieee.org. The petition intention deadline for IEEE president-elect was 31 December.\nElection Updates\nRegional elections will also take place. Eligible voting members in IEEE Region 1 (Northeastern U.S.) and Region 2 (Eastern U.S.) will elect the future IEEE Region 2 delegate-elect/director-elect (Eastern and Northeastern U.S.) for the 2027—2028 term. Members in the future IEEE Region 10 (North Asia) will elect the IEEE Region 10 delegate-elect/director-elect for the same term. These changes reflect IEEE’s upcoming region realignment, as outlined in The Institute’s September 2024 article, “How Region Realignment Will Impact IEEE Elections.”\n Beginning this year, only professional members will be eligible to vote in IEEE’s annual election or sign related petitions. Ballots will be created for eligible voting members on record as of 31 March. To ensure voting eligibility, all members should review and update their contact information and communication preferences by that date.\nTo support sustainability initiatives, the “Candidate Biographies and Statements” booklet will no longer be available in print. Members can access the candidate biographies and statements within their electronic ballot, view them on the annual election website, or download the digital booklet. Members are also encouraged to vote electronically.\nFor more information about the offices up for election, the process for getting on the annual ballot, and deadlines, visit the website or email elections@ieee.org.",
           "isoDate": "2026-03-03T19:00:04.000Z"
-        },
-        {
-          "title": "Optimizing a Battery Electric Vehicle Thermal Management System",
-          "link": "https://content.knowledgehub.wiley.com/optimizing-a-battery-electric-vehicle-thermal-management-system/",
-          "summary": "This webinar looks at a Battery Electric Virtual Vehicle Model of a mid-size BEV, and uses Simulink and Simscape to facilitate design exploration, component refinement, and system-level optimization. The virtual vehicle comprises five subsystems: Electric powertrain, driveline, refrigerant cycle, coolant cycle, and passenger cabin. The model will be tested using different drive cycles, cooling, and heating scenarios. The results will be analyzed to determine the impact of the different design parameters on vehicle consumption.\nThe resulting virtual vehicle will be used to:\n\nTest different drive cycles and environmental conditions\nPerform sensitivity analysis\nOptimize model to improve thermal performance and consumption\n\nRegister now for this free webinar!",
-          "isoDate": "2026-03-03T11:00:02.000Z"
         }
       ]
     },
