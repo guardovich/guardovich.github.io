@@ -1,107 +1,186 @@
 <!doctype html>
 <html lang="es">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Teletexto Santander</title>
-  <link rel="stylesheet" href="styles.css">
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Teletexto Santander</title>
+
+<link rel="stylesheet" href="styles.css">
+
 </head>
+
 <body>
-  <div class="ttx-page">
 
-    <header class="ttx-header">
-      <div class="ttx-topline">
-        <div class="ttx-pagecode">
-          <span class="c-green">P100</span>
-          <span class="ttx-sep">|</span>
-          <span id="clock-box">00:00</span>
-        </div>
-        <div class="ttx-datebox">
-          <span id="date-box">SÁB 07 MAR 2026</span>
-        </div>
-      </div>
+<div class="ttx-page">
 
-      <div class="ttx-head-main">
-        <div class="ttx-brand-wrap">
-          <div class="ttx-brand">
-            <span class="c-cyan">TELETEXTO</span><span class="c-yellow">SANTANDER</span>
-          </div>
-          <div class="ttx-subline">
-            <span class="c-green">SERVICIO CIUDADANO</span>
-            <span class="sep">·</span>
-            <span>INFORMACIÓN LOCAL</span>
-            <span class="sep">·</span>
-            <span>SIN PUBLICIDAD</span>
-          </div>
-        </div>
+<header class="ttx-header">
 
-        <div class="ttx-status">
-          <div class="status-row">
-            <span class="label c-magenta">CIUDAD</span>
-            <span>SANTANDER</span>
-          </div>
-          <div class="status-row">
-            <span class="label c-cyan">TEMP</span>
-            <span id="temp-value">--°C</span>
-          </div>
-          <div class="status-row">
-            <span class="label c-yellow">MAREA</span>
-            <span id="tide-value">--</span>
-          </div>
-        </div>
-      </div>
-    </header>
+<div class="ttx-topline">
 
-    <section class="ticker">
-      <div class="ticker-label c-black-on-yellow">ÚLTIMA HORA</div>
-      <div class="ticker-window">
-        <div class="ticker-track" id="ticker-track">
-          CARGANDO TITULARES · CARGANDO TITULARES · CARGANDO TITULARES ·
-        </div>
-      </div>
-    </section>
+<div class="ttx-pagecode">
+<span class="c-green">P100</span>
+<span class="ttx-sep">|</span>
+<span id="clock-box">00:00</span>
+</div>
 
-    <main class="ttx-grid">
-      <section class="ttx-main">
-        <div class="section-title c-black-on-cyan">INFORMACIÓN</div>
+<div class="ttx-datebox">
+<span id="date-box">-- --- ----</span>
+</div>
 
-        <div id="featured-news" class="featured-news">
-          <article class="featured-card">
-            <div class="featured-meta c-cyan">SANTANDER · --:--</div>
-            <h2 class="featured-title">CARGANDO NOTICIAS</h2>
-            <p class="featured-body">Esperando datos de la base de datos.</p>
-          </article>
-        </div>
+</div>
 
-        <div class="rotating-headline-box">
-          <div class="rotating-label c-black-on-red">DESTACADO</div>
-          <div id="rotating-headline" class="rotating-headline">
-            CARGANDO TITULARES
-          </div>
-        </div>
+<div class="ttx-head-main">
 
-        <div class="section-title c-black-on-green">TITULARES</div>
-        <div id="news-list" class="news-list"></div>
-      </section>
+<div class="ttx-brand-wrap">
 
-      <aside class="ttx-side">
-        <div class="section-title c-black-on-magenta">COMENTARIOS</div>
-        <div id="comments-list" class="comments-list"></div>
-      </aside>
-    </main>
+<div class="ttx-brand">
+<span class="c-cyan">TELETEXTO</span><span class="c-yellow">SANTANDER</span>
+</div>
 
-    <footer class="ttx-footer">
-      <a class="footer-link" href="./index.html"><span class="c-cyan">100</span> PORTADA</a>
-      <a class="footer-link" href="./publicar.html"><span class="c-yellow">101</span> PUBLICAR</a>
-      <span class="footer-item"><span class="c-magenta">102</span> ARCHIVO</span>
-      <span class="footer-item"><span class="c-green">103</span> CONTACTO</span>
-      <span class="footer-cursor">_</span>
-    </footer>
+<div class="ttx-subline">
+<span class="c-green">SERVICIO CIUDADANO</span>
+<span class="sep">·</span>
+<span>INFORMACIÓN LOCAL</span>
+<span class="sep">·</span>
+<span>SIN PUBLICIDAD</span>
+</div>
 
-  </div>
+</div>
 
-  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
-  <script src="supabase.js"></script>
-  <script src="app.js"></script>
+<div class="ttx-status">
+
+<div class="status-row">
+<span class="label c-magenta">CIUDAD</span>
+<span>SANTANDER</span>
+</div>
+
+<div class="status-row">
+<span class="label c-cyan">TEMP</span>
+<span id="temp-value">--°C</span>
+</div>
+
+<div class="status-row">
+<span class="label c-yellow">MAREA</span>
+<span id="tide-value">--</span>
+</div>
+
+</div>
+
+</div>
+
+</header>
+
+<section class="ticker">
+
+<div class="ticker-label c-black-on-yellow">
+ÚLTIMA HORA
+</div>
+
+<div class="ticker-window">
+<div class="ticker-track" id="ticker-track">
+CARGANDO TITULARES · CARGANDO TITULARES · CARGANDO TITULARES ·
+</div>
+</div>
+
+</section>
+
+<main class="ttx-grid">
+
+<section class="ttx-main">
+
+<div class="section-title c-black-on-cyan">
+INFORMACIÓN
+</div>
+
+<div id="featured-news" class="featured-news">
+
+<article class="featured-card">
+
+<div class="featured-meta c-cyan">
+SANTANDER · --:--
+</div>
+
+<h2 class="featured-title">
+CARGANDO NOTICIAS
+</h2>
+
+<p class="featured-body">
+Esperando datos de la base de datos.
+</p>
+
+</article>
+
+</div>
+
+<div class="rotating-headline-box">
+
+<div class="rotating-label c-black-on-red">
+DESTACADO
+</div>
+
+<div id="rotating-headline" class="rotating-headline">
+CARGANDO TITULARES
+</div>
+
+</div>
+
+<div class="section-title c-black-on-green">
+TITULARES
+</div>
+
+<div id="news-list" class="news-list"></div>
+
+</section>
+
+<aside class="ttx-side">
+
+<div class="section-title c-black-on-magenta">
+COMENTARIOS
+</div>
+
+<div id="comments-list" class="comments-list"></div>
+
+</aside>
+
+</main>
+
+<footer class="ttx-footer">
+
+<a class="footer-link" href="./index.html">
+<span class="c-cyan">100</span> PORTADA
+</a>
+
+<a class="footer-link" href="./publicar.html">
+<span class="c-yellow">101</span> PUBLICAR
+</a>
+
+<span class="footer-item">
+<span class="c-magenta">102</span> ARCHIVO
+</span>
+
+<span class="footer-item">
+<span class="c-green">103</span> CONTACTO
+</span>
+
+<span class="footer-item" id="mod-access" style="cursor:pointer">
+<span class="c-red">999</span> MOD
+</span>
+
+<span class="footer-cursor">_</span>
+
+</footer>
+
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script src="supabase.js"></script>
+<script src="app.js"></script>
+
+<script>
+document.getElementById("mod-access").addEventListener("click", activateModeratorMode);
+</script>
+
 </body>
 </html>
