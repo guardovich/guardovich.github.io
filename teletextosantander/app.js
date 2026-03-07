@@ -4,59 +4,8 @@ const weatherData = {
   tide: "ALTA 18:42"
 };
 
-const newsData = [
-  {
-    title: "Nuevo tablón ciudadano en formato teletexto para avisos y eventos locales",
-    body: "El proyecto apuesta por una interfaz directa, ligera y sin publicidad, pensada para leer de un vistazo en móvil, ordenador o pantalla pública.",
-    zone: "Centro",
-    time: "08:25"
-  },
-  {
-    title: "La información local breve gana valor frente a interfaces lentas y saturadas",
-    body: "El formato de titulares cortos y entradillas rápidas recupera la lógica de servicio público y facilita el acceso inmediato a lo importante.",
-    zone: "Santander",
-    time: "08:12"
-  },
-  {
-    title: "Vecinos plantean compartir avisos útiles de barrio en un entorno sin registro",
-    body: "La idea es mantener un tono comunitario y práctico, centrado en incidencias, actividades, recomendaciones y anuncios con valor ciudadano.",
-    zone: "Castilla-Hermida",
-    time: "07:50"
-  },
-  {
-    title: "Pequeños comercios y bares podrían usar el panel como display informativo",
-    body: "La estética teletexto permite mostrar titulares destacados y un teletipo continuo en pantallas visibles desde la barra o el escaparate.",
-    zone: "Puertochico",
-    time: "07:32"
-  },
-  {
-    title: "Se estudia integrar temperatura, viento y mareas en la cabecera del portal",
-    body: "La combinación de información útil y diseño retro convierte la portada en una herramienta rápida para el día a día en la ciudad.",
-    zone: "Bahía",
-    time: "07:10"
-  }
-];
-
-const commentsData = [
-  {
-    author: "Anónimo 01",
-    body: "Muy buena idea lo de reunir avisos locales sin popups ni ruido."
-  },
-  {
-    author: "Anónimo 02",
-    body: "Este formato en una tele de bar puede quedar espectacular."
-  },
-  {
-    author: "Anónimo 03",
-    body: "Añadir viento, mareas y temperatura le da un punto muy útil."
-  },
-  {
-    author: "Anónimo 04",
-    body: "Se lee rápido y la columna lateral le da bastante vida."
-  }
-];
-
 let rotatingIndex = 0;
+let rotatingInterval = null;
 
 function setStatusData() {
   const tempEl = document.getElementById("temp-value");
@@ -66,26 +15,71 @@ function setStatusData() {
   if (tideEl) tideEl.textContent = weatherData.tide;
 }
 
+function escapeHtml(str = "") {
+  return String(str)
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;")
+    .replaceAll("'", "&#039;");
+}
+
+function formatTime(value) {
+  if (!value) return "--:--";
+  return new Date(value).toLocaleTimeString("es-ES", {
+    hour: "2-digit",
+    minute: "2-digit"
+  });
+}
+
+function updateClock() {
+  const clockEl = document.getElementById("clock-box");
+  const dateEl = document.getElementById("date-box");
+  const now = new Date();
+
+  if (clockEl) {
+    clockEl.textContent = now.toLocaleTimeString("es-ES", {
+      hour: "2-digit",
+      minute: "2-digit"
+    });
+  }
+
+  if (dateEl) {
+    dateEl.textContent = now.toLocaleDateString("es-ES", {
+      weekday: "short",
+      day: "2-digit",
+      month: "short",
+      year: "numeric"
+    }).toUpperCase();
+  }
+}
+
 function renderFeaturedNews(items) {
   const container = document.getElementById("featured-news");
   if (!container) return;
 
-  const featured = items.slice(0, 2);
-
-  container.innerHTML = featured.map((item, index) => {
-    const secondaryClass = index === 1 ? "secondary" : "";
-    const metaColor = index === 0 ? "c-cyan" : "c-yellow";
-
-    return `
-      <article class="featured-card ${secondaryClass}">
-        <div class="featured-meta ${metaColor}">
-          ${item.zone} · ${item.time}
-        </div>
-        <h2 class="featured-title">${item.title}</h2>
-        <p class="featured-body">${item.body}</p>
+  if (!items.length) {
+    container.innerHTML = `
+      <article class="featured-card">
+        <div class="featured-meta c-cyan">SANTANDER · --:--</div>
+        <h2 class="featured-title">SIN NOTICIAS TODAVÍA</h2>
+        <p class="featured-body">Aún no hay publicaciones aprobadas en la base de datos.</p>
       </article>
     `;
-  }).join("");
+    return;
+  }
+
+  const featured = items.slice(0, 2);
+
+  container.innerHTML = featured.map((item, index) => `
+    <article class="featured-card ${index === 1 ? "secondary" : ""}">
+      <div class="featured-meta ${index === 0 ? "c-cyan" : "c-yellow"}">
+        ${escapeHtml(item.zone || "Santander")} · ${formatTime(item.created_at)}
+      </div>
+      <h2 class="featured-title">${escapeHtml(item.title || "")}</h2>
+      <p class="featured-body">${escapeHtml(item.body || "")}</p>
+    </article>
+  `).join("");
 }
 
 function renderNewsList(items) {
@@ -94,13 +88,20 @@ function renderNewsList(items) {
 
   const rest = items.slice(2);
 
+  if (!rest.length) {
+    container.innerHTML = `
+      <div class="empty-box">NO HAY MÁS TITULARES DISPONIBLES</div>
+    `;
+    return;
+  }
+
   container.innerHTML = rest.map(item => `
     <article class="news-item">
       <div class="news-head">
-        <h3 class="news-title">${item.title}</h3>
-        <div class="news-time">${item.zone} · ${item.time}</div>
+        <h3 class="news-title">${escapeHtml(item.title || "")}</h3>
+        <div class="news-time">${escapeHtml(item.zone || "Santander")} · ${formatTime(item.created_at)}</div>
       </div>
-      <p class="news-body">${item.body}</p>
+      <p class="news-body">${escapeHtml(item.body || "")}</p>
     </article>
   `).join("");
 }
@@ -109,10 +110,17 @@ function renderComments(items) {
   const container = document.getElementById("comments-list");
   if (!container) return;
 
+  if (!items.length) {
+    container.innerHTML = `
+      <div class="empty-box">SIN COMENTARIOS TODAVÍA</div>
+    `;
+    return;
+  }
+
   container.innerHTML = items.map(item => `
     <article class="comment-item">
-      <div class="comment-author">${item.author}</div>
-      <p class="comment-body">${item.body}</p>
+      <div class="comment-author">${escapeHtml(item.author_name || "Anónimo")}</div>
+      <p class="comment-body">${escapeHtml(item.body || "")}</p>
     </article>
   `).join("");
 }
@@ -121,61 +129,92 @@ function buildTicker(items) {
   const track = document.getElementById("ticker-track");
   if (!track) return;
 
-  const text = items
-    .map(item => item.title.toUpperCase())
-    .join("  ·  ");
+  if (!items.length) {
+    track.textContent = "SIN TITULARES DISPONIBLES · SIN TITULARES DISPONIBLES · ";
+    return;
+  }
 
+  const text = items.map(item => (item.title || "").toUpperCase()).join("  ·  ");
   track.textContent = `${text}  ·  ${text}  ·  `;
-}
-
-function updateClock() {
-  const clockEl = document.getElementById("clock-box");
-  const dateEl = document.getElementById("date-box");
-  const now = new Date();
-
-  const time = now.toLocaleTimeString("es-ES", {
-    hour: "2-digit",
-    minute: "2-digit"
-  });
-
-  const date = now.toLocaleDateString("es-ES", {
-    weekday: "short",
-    day: "2-digit",
-    month: "short",
-    year: "numeric"
-  }).toUpperCase();
-
-  if (clockEl) clockEl.textContent = time;
-  if (dateEl) dateEl.textContent = date;
 }
 
 function renderRotatingHeadline(items) {
   const el = document.getElementById("rotating-headline");
-  if (!el || !items.length) return;
+  if (!el) return;
+
+  if (!items.length) {
+    el.textContent = "SIN TITULARES DISPONIBLES";
+    return;
+  }
 
   const item = items[rotatingIndex % items.length];
-  el.textContent = `${item.title} · ${item.zone} · ${item.time}`;
+  el.textContent = `${item.title} · ${item.zone || "Santander"} · ${formatTime(item.created_at)}`;
 }
 
 function startRotatingHeadlines(items) {
+  if (rotatingInterval) clearInterval(rotatingInterval);
+
   renderRotatingHeadline(items);
 
-  setInterval(() => {
+  if (!items.length) return;
+
+  rotatingInterval = setInterval(() => {
     rotatingIndex = (rotatingIndex + 1) % items.length;
     renderRotatingHeadline(items);
   }, 3500);
 }
 
-function init() {
-  setStatusData();
-  renderFeaturedNews(newsData);
-  renderNewsList(newsData);
-  renderComments(commentsData);
-  buildTicker(newsData);
-  updateClock();
-  startRotatingHeadlines(newsData);
+async function loadNews() {
+  const { data, error } = await supabaseClient
+    .from("posts")
+    .select("id, title, body, zone, created_at")
+    .eq("kind", "news")
+    .eq("approved", true)
+    .order("created_at", { ascending: false })
+    .limit(12);
 
+  if (error) {
+    console.error("Error cargando noticias:", error);
+    return [];
+  }
+
+  return data || [];
+}
+
+async function loadComments() {
+  const { data, error } = await supabaseClient
+    .from("posts")
+    .select("id, body, author_name, created_at")
+    .eq("kind", "comment")
+    .eq("approved", true)
+    .order("created_at", { ascending: false })
+    .limit(8);
+
+  if (error) {
+    console.error("Error cargando comentarios:", error);
+    return [];
+  }
+
+  return data || [];
+}
+
+async function init() {
+  setStatusData();
+  updateClock();
   setInterval(updateClock, 1000);
+
+  await ensureSession();
+
+  const [news, comments] = await Promise.all([
+    loadNews(),
+    loadComments()
+  ]);
+
+  renderFeaturedNews(news);
+  renderNewsList(news);
+  renderComments(comments);
+  buildTicker(news);
+  startRotatingHeadlines(news);
 }
 
 document.addEventListener("DOMContentLoaded", init);
