@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-03-07T06:40:45.854Z",
+  "generatedAt": "2026-03-07T12:47:11.658Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "The Corvette ZR1X hybrid can outpace million-dollar sports cars for a fraction of the cost",
+          "link": "https://www.theverge.com/transportation/888573/chevy-corvette-zr1x-hybrid-racing-performance",
+          "summary": "When Elon Musk burst onto the scene in his little Tesla Roadster, it seemed a matter of time before electricity rendered gas-powered sports cars obsolete. \nIt hasn't worked out that way. Automakers have struggled to bring purely electric two-seaters to market. The ones that managed to emerge have been flatly rejected by consumers. Porsche has walked back plans for an all-electric lineup of Boxster and Cayman models, seemingly spooked by technical hurdles and tepid response from its fanatical customers. Lamborghini last week scrapped plans for its first all-electric model, with the CEO saying the brand's customers have almost \"zero interest\" …\nRead the full story at The Verge.",
+          "isoDate": "2026-03-07T12:00:00.000Z"
+        },
         {
           "title": "DJI will pay $30K to the man who accidentally hacked 7,000 Romo robovacs",
           "link": "https://www.theverge.com/news/890982/dji-pay-sammy-azdoufal-robot-vacuum-hack-romo-security",
@@ -58,12 +64,6 @@
           "link": "https://arstechnica.com/ai/2026/03/googles-new-command-line-tool-can-plug-openclaw-into-your-workspace-data/",
           "summary": "This could make it easier to use multiple Workspace APIs, but it's not yet an official Google product.",
           "isoDate": "2026-03-06T19:56:20.000Z"
-        },
-        {
-          "title": "Feds take notice of iOS vulnerabilities exploited under mysterious circumstances",
-          "link": "https://arstechnica.com/security/2026/03/cisa-adds-3-ios-flaws-to-its-catalog-of-known-exploited-vulnerabilities/",
-          "summary": "The long, strange trip of a large assembly of advanced iOS exploits.",
-          "isoDate": "2026-03-06T19:41:33.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-03-07T06:40:37.780Z"
+          "isoDate": "2026-03-07T12:47:05.540Z"
         },
         {
           "title": "Xbox confirms new console is coming - but can it revive the brand?",
@@ -222,12 +222,6 @@
           "isoDate": "2026-03-06T07:00:00.000Z"
         },
         {
-          "title": "Reasoning models struggle to control their chains of thought, and that’s good",
-          "link": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
-          "summary": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
-          "isoDate": "2026-03-05T10:00:00.000Z"
-        },
-        {
           "title": "GPT-5.4 Thinking System Card",
           "link": "https://openai.com/index/gpt-5-4-thinking-system-card",
           "summary": "",
@@ -237,6 +231,12 @@
           "title": "Introducing GPT-5.4",
           "link": "https://openai.com/index/introducing-gpt-5-4",
           "summary": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
+          "isoDate": "2026-03-05T10:00:00.000Z"
+        },
+        {
+          "title": "Reasoning models struggle to control their chains of thought, and that’s good",
+          "link": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
+          "summary": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
           "isoDate": "2026-03-05T10:00:00.000Z"
         },
         {
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-03-07T06:40:40.265Z"
+          "isoDate": "2026-03-07T12:47:09.721Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 58\nChar: =",
-          "isoDate": "2026-03-07T06:40:39.243Z"
+          "isoDate": "2026-03-07T12:47:07.000Z"
         },
         {
           "title": "Video Friday: A Robot Hand With Artificial Muscles and Tendons",
