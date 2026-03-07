@@ -539,4 +539,19 @@ textarea{
   .footer-cursor{
     margin-left:0;
   }
+  .moderate-button{
+  margin-top:10px;
+  background:#000;
+  color:#ff4d4d;
+  border:1px solid #ff4d4d;
+  padding:4px 8px;
+  font-family:"Courier New", monospace;
+  text-transform:uppercase;
+  cursor:pointer;
+}
+
+.moderate-button:hover{
+  background:#ff4d4d;
+  color:#000;
+ }
 }
