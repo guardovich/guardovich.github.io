@@ -56,6 +56,8 @@ const commentsData = [
   }
 ];
 
+let rotatingIndex = 0;
+
 function setStatusData() {
   const tempEl = document.getElementById("temp-value");
   const tideEl = document.getElementById("tide-value");
@@ -120,10 +122,48 @@ function buildTicker(items) {
   if (!track) return;
 
   const text = items
-    .map(item => `${item.title.toUpperCase()}`)
+    .map(item => item.title.toUpperCase())
     .join("  ·  ");
 
   track.textContent = `${text}  ·  ${text}  ·  `;
+}
+
+function updateClock() {
+  const clockEl = document.getElementById("clock-box");
+  const dateEl = document.getElementById("date-box");
+  const now = new Date();
+
+  const time = now.toLocaleTimeString("es-ES", {
+    hour: "2-digit",
+    minute: "2-digit"
+  });
+
+  const date = now.toLocaleDateString("es-ES", {
+    weekday: "short",
+    day: "2-digit",
+    month: "short",
+    year: "numeric"
+  }).toUpperCase();
+
+  if (clockEl) clockEl.textContent = time;
+  if (dateEl) dateEl.textContent = date;
+}
+
+function renderRotatingHeadline(items) {
+  const el = document.getElementById("rotating-headline");
+  if (!el || !items.length) return;
+
+  const item = items[rotatingIndex % items.length];
+  el.textContent = `${item.title} · ${item.zone} · ${item.time}`;
+}
+
+function startRotatingHeadlines(items) {
+  renderRotatingHeadline(items);
+
+  setInterval(() => {
+    rotatingIndex = (rotatingIndex + 1) % items.length;
+    renderRotatingHeadline(items);
+  }, 3500);
 }
 
 function init() {
@@ -132,6 +172,10 @@ function init() {
   renderNewsList(newsData);
   renderComments(commentsData);
   buildTicker(newsData);
+  updateClock();
+  startRotatingHeadlines(newsData);
+
+  setInterval(updateClock, 1000);
 }
 
 document.addEventListener("DOMContentLoaded", init);
