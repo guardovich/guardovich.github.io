@@ -116,7 +116,7 @@
       "beer_brand": "Cruzcampo",
       "tapa": "No hay tapa",
       "ambiente": "Mixto",
-      "pros": ["Buen ambiente", "Rabas abundantes"],
+      "pros": ["hay Buen ambiente", "las Rabas abundantes"],
       "cons": []
     },
     {
@@ -129,7 +129,7 @@
       "beer_brand": "Mahou",
       "tapa": "Tapas varias",
       "ambiente": "Barrio agradable",
-      "pros": ["Buen ambiente", "Limpio y acogedor"],
+      "pros": ["hay Buen ambiente", " es Limpio y acogedor"],
       "cons": []
     },
     {
@@ -142,8 +142,21 @@
       "beer_brand": "Mahou",
       "tapa": "Tapas varias",
       "ambiente": "Barrio agradable",
-      "pros": ["Buen ambiente", "Jose es el mejor"],
+      "pros": ["hay Buen ambiente", "Jose es el mejor"],
       "cons": ["Todavía da bolas de queso en el siglo XXI"]
+    },
+    {
+      "name": "Bar Subtil",
+      "city": "Santander",
+      "zone": "Santander",
+      "price": 2.0,
+      "updated_price": "2026-03-08",
+      "volume_ml": 250,
+      "beer_brand": "Estrella de Galicia",
+      "tapa": "Tapas varias",
+      "ambiente": "Barrio agradable",
+      "pros": ["ponen buen menu del día", "las Tapas son muy buenas"],
+      "cons": []
     }
   ]
 }
