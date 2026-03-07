@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-03-07T01:56:29.214Z",
+  "generatedAt": "2026-03-07T06:40:45.854Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "DJI will pay $30K to the man who accidentally hacked 7,000 Romo robovacs",
+          "link": "https://www.theverge.com/news/890982/dji-pay-sammy-azdoufal-robot-vacuum-hack-romo-security",
+          "summary": "The DJI Romo robot vacuums. | Image: DJI\t\n\nOn Valentine's Day, I brought you a story that's since made headlines all around the world: How one man, just trying to steer his DJI robot vacuum with a PlayStation gamepad, discovered an entire network of 7,000 remote-control DJI robots ready to let him peek into other people's homes.\nTo be clear, DJI had already begun addressing some of the related vulnerabilities before the man, Sammy Azdoufal, showed The Verge just how much he could access. But it wasn't clear whether DJI would pay him for his discovery, particularly after how it treated security researcher Kevin Finisterre back in 2017 - or how soon DJI might fully patch the additiona …\nRead the full story at The Verge.",
+          "isoDate": "2026-03-07T02:59:32.000Z"
+        },
         {
           "title": "Ding-dong! The Exploration Upper Stage is dead",
           "link": "https://arstechnica.com/space/2026/03/ding-dong-the-exploration-upper-stage-is-dead/",
@@ -50,7 +56,7 @@
         {
           "title": "Google's new command-line tool can plug OpenClaw into your Workspace data",
           "link": "https://arstechnica.com/ai/2026/03/googles-new-command-line-tool-can-plug-openclaw-into-your-workspace-data/",
-          "summary": "This could make it easier to plug AI into Workspace APIs, but it's not yet an official Google product.",
+          "summary": "This could make it easier to use multiple Workspace APIs, but it's not yet an official Google product.",
           "isoDate": "2026-03-06T19:56:20.000Z"
         },
         {
@@ -58,12 +64,6 @@
           "link": "https://arstechnica.com/security/2026/03/cisa-adds-3-ios-flaws-to-its-catalog-of-known-exploited-vulnerabilities/",
           "summary": "The long, strange trip of a large assembly of advanced iOS exploits.",
           "isoDate": "2026-03-06T19:41:33.000Z"
-        },
-        {
-          "title": "Nintendo is suing the US government for a refund of Trump&#8217;s illegal tariffs",
-          "link": "https://www.theverge.com/games/890861/nintendo-lawsuit-tariffs-donald-trump",
-          "summary": "Nintendo of America is suing the US government over President Trump's tariffs and is demanding a \"prompt refund, with interest\" of any duties that it has paid, according to a complaint filed in the US Court of International Trade, as reported previously by Aftermath. \nThe Supreme Court ruled last month that Trump's use of the International Emergency Economic Powers Act (IEEPA) to levy \"reciprocal\" tariffs was illegal, without specifying how any refunds might work. \nNintendo announced launch details for the Switch 2, including a planned preorder date of April 9th, on the same day Trump announced plans to implement broad tariffs on imports f …\nRead the full story at The Verge.",
-          "isoDate": "2026-03-06T19:22:39.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-03-07T01:56:23.261Z"
+          "isoDate": "2026-03-07T06:40:37.780Z"
         },
         {
           "title": "Xbox confirms new console is coming - but can it revive the brand?",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-03-07T01:56:27.214Z"
+          "isoDate": "2026-03-07T06:40:40.265Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 58\nChar: =",
-          "isoDate": "2026-03-07T01:56:25.051Z"
+          "isoDate": "2026-03-07T06:40:39.243Z"
         },
         {
           "title": "Video Friday: A Robot Hand With Artificial Muscles and Tendons",
