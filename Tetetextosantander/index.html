@@ -1,1 +1,78 @@
-<h1>Teletexto Santander</h1>
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Teletexto Santander</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="ttx-page">
+
+    <header class="ttx-header">
+      <div class="ttx-brand-wrap">
+        <div class="ttx-brand">
+          <span class="c-cyan">TELETEXTO</span><span class="c-yellow">SANTANDER</span>
+        </div>
+        <div class="ttx-subline">
+          <span class="c-green">SERVICIO CIUDADANO</span>
+          <span class="sep">·</span>
+          <span>INFORMACIÓN LOCAL</span>
+          <span class="sep">·</span>
+          <span>SIN PUBLICIDAD</span>
+        </div>
+      </div>
+
+      <div class="ttx-status">
+        <div class="status-row">
+          <span class="label c-magenta">CIUDAD</span>
+          <span>SANTANDER</span>
+        </div>
+        <div class="status-row">
+          <span class="label c-cyan">TEMP</span>
+          <span id="temp-value">13°C</span>
+        </div>
+        <div class="status-row">
+          <span class="label c-yellow">MAREA</span>
+          <span id="tide-value">ALTA 18:42</span>
+        </div>
+      </div>
+    </header>
+
+    <section class="ticker">
+      <div class="ticker-label c-black-on-yellow">ÚLTIMA HORA</div>
+      <div class="ticker-window">
+        <div class="ticker-track" id="ticker-track">
+          TELETTEXTO SANTANDER · INFORMACIÓN LOCAL DIRECTA · SIN DISTRACCIONES ·
+        </div>
+      </div>
+    </section>
+
+    <main class="ttx-grid">
+      <section class="ttx-main">
+        <div class="section-title c-black-on-cyan">INFORMACIÓN</div>
+
+        <div id="featured-news" class="featured-news"></div>
+
+        <div class="section-title c-black-on-green">TITULARES</div>
+        <div id="news-list" class="news-list"></div>
+      </section>
+
+      <aside class="ttx-side">
+        <div class="section-title c-black-on-magenta">COMENTARIOS</div>
+        <div id="comments-list" class="comments-list"></div>
+      </aside>
+    </main>
+
+    <footer class="ttx-footer">
+      <span class="c-cyan">[1]</span> PORTADA
+      <span class="c-yellow">[2]</span> ARCHIVO
+      <span class="c-magenta">[3]</span> PUBLICAR
+      <span class="c-green">[4]</span> CONTACTO
+    </footer>
+
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
