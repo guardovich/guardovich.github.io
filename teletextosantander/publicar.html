@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Publicar · Teletexto Santander</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="ttx-page">
+
+    <header class="ttx-header">
+      <div class="ttx-topline">
+        <div class="ttx-pagecode">
+          <span class="c-yellow">P101</span>
+          <span class="ttx-sep">|</span>
+          <span>PUBLICAR</span>
+        </div>
+        <div class="ttx-datebox">
+          <a class="top-link" href="./index.html">VOLVER A PORTADA</a>
+        </div>
+      </div>
+
+      <div class="ttx-head-main">
+        <div class="ttx-brand-wrap">
+          <div class="ttx-brand">
+            <span class="c-cyan">PUBLICAR</span><span class="c-yellow">INFORMACIÓN</span>
+          </div>
+          <div class="ttx-subline">
+            <span class="c-green">ENVÍO ANÓNIMO</span>
+            <span class="sep">·</span>
+            <span>TÍTULO + TEXTO</span>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <main class="publish-layout">
+      <section class="publish-main">
+        <div class="section-title c-black-on-cyan">NUEVA NOTICIA</div>
+
+        <form id="post-form" class="publish-card">
+          <label class="form-label" for="title">TÍTULO</label>
+          <input id="title" name="title" type="text" maxlength="120" required>
+
+          <label class="form-label" for="zone">ZONA</label>
+          <input id="zone" name="zone" type="text" maxlength="60" placeholder="Centro, Puertochico, Bahía...">
+
+          <label class="form-label" for="body">TEXTO</label>
+          <textarea id="body" name="body" rows="8" maxlength="700" required></textarea>
+
+          <div class="char-counter" id="news-counter">0 / 700</div>
+
+          <button type="submit" class="ttx-button">PUBLICAR NOTICIA</button>
+          <p id="form-msg" class="form-msg"></p>
+        </form>
+      </section>
+
+      <aside class="publish-side">
+        <div class="section-title c-black-on-magenta">COMENTARIO RÁPIDO</div>
+
+        <form id="comment-form" class="publish-card">
+          <label class="form-label" for="author_name">NOMBRE</label>
+          <input id="author_name" name="author_name" type="text" maxlength="40" placeholder="Anónimo">
+
+          <label class="form-label" for="comment_body">COMENTARIO</label>
+          <textarea id="comment_body" name="comment_body" rows="6" maxlength="300" required></textarea>
+
+          <div class="char-counter" id="comment-counter">0 / 300</div>
+
+          <button type="submit" class="ttx-button secondary">PUBLICAR COMENTARIO</button>
+          <p id="comment-msg" class="form-msg"></p>
+        </form>
+      </aside>
+    </main>
+
+    <footer class="ttx-footer">
+      <a class="footer-link" href="./index.html"><span class="c-cyan">100</span> PORTADA</a>
+      <a class="footer-link" href="./publicar.html"><span class="c-yellow">101</span> PUBLICAR</a>
+      <span class="footer-cursor">_</span>
+    </footer>
+
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+  <script src="supabase.js"></script>
+  <script src="publicar.js"></script>
+</body>
+</html>
