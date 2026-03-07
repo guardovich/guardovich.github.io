@@ -1,17 +1,22 @@
-// teletextosantander/supabase.js
-
 const SUPABASE_URL = "https://ctzrfpnlxlkbjwgriozb.supabase.co";
-const SUPABASE_KEY = "AQUI_PEGA_TU_SUPABASE_CLIENT_API_KEY";
+const SUPABASE_KEY = "PEGA_AQUI_TU_SUPABASE_CLIENT_API_KEY";
 
 const supabaseClient = window.supabase.createClient(
   SUPABASE_URL,
   SUPABASE_KEY
 );
 
-// asegura sesión anónima para poder insertar con RLS
 async function ensureSession() {
-  const { data } = await supabaseClient.auth.getSession();
+  const { data, error } = await supabaseClient.auth.getSession();
+  if (error) {
+    console.error("Error obteniendo sesión:", error);
+    return;
+  }
+
   if (!data.session) {
-    await supabaseClient.auth.signInAnonymously();
+    const { error: signInError } = await supabaseClient.auth.signInAnonymously();
+    if (signInError) {
+      console.error("Error en login anónimo:", signInError);
+    }
   }
 }
