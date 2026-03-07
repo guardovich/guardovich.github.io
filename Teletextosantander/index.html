@@ -10,31 +10,44 @@
   <div class="ttx-page">
 
     <header class="ttx-header">
-      <div class="ttx-brand-wrap">
-        <div class="ttx-brand">
-          <span class="c-cyan">TELETEXTO</span><span class="c-yellow">SANTANDER</span>
+      <div class="ttx-topline">
+        <div class="ttx-pagecode">
+          <span class="c-green">P100</span>
+          <span class="ttx-sep">|</span>
+          <span id="clock-box">00:00</span>
         </div>
-        <div class="ttx-subline">
-          <span class="c-green">SERVICIO CIUDADANO</span>
-          <span class="sep">·</span>
-          <span>INFORMACIÓN LOCAL</span>
-          <span class="sep">·</span>
-          <span>SIN PUBLICIDAD</span>
+        <div class="ttx-datebox">
+          <span id="date-box">SÁB 07 MAR 2026</span>
         </div>
       </div>
 
-      <div class="ttx-status">
-        <div class="status-row">
-          <span class="label c-magenta">CIUDAD</span>
-          <span>SANTANDER</span>
+      <div class="ttx-head-main">
+        <div class="ttx-brand-wrap">
+          <div class="ttx-brand">
+            <span class="c-cyan">TELETEXTO</span><span class="c-yellow">SANTANDER</span>
+          </div>
+          <div class="ttx-subline">
+            <span class="c-green">SERVICIO CIUDADANO</span>
+            <span class="sep">·</span>
+            <span>INFORMACIÓN LOCAL</span>
+            <span class="sep">·</span>
+            <span>SIN PUBLICIDAD</span>
+          </div>
         </div>
-        <div class="status-row">
-          <span class="label c-cyan">TEMP</span>
-          <span id="temp-value">13°C</span>
-        </div>
-        <div class="status-row">
-          <span class="label c-yellow">MAREA</span>
-          <span id="tide-value">ALTA 18:42</span>
+
+        <div class="ttx-status">
+          <div class="status-row">
+            <span class="label c-magenta">CIUDAD</span>
+            <span>SANTANDER</span>
+          </div>
+          <div class="status-row">
+            <span class="label c-cyan">TEMP</span>
+            <span id="temp-value">13°C</span>
+          </div>
+          <div class="status-row">
+            <span class="label c-yellow">MAREA</span>
+            <span id="tide-value">ALTA 18:42</span>
+          </div>
         </div>
       </div>
     </header>
@@ -43,7 +56,7 @@
       <div class="ticker-label c-black-on-yellow">ÚLTIMA HORA</div>
       <div class="ticker-window">
         <div class="ticker-track" id="ticker-track">
-          TELETTEXTO SANTANDER · INFORMACIÓN LOCAL DIRECTA · SIN DISTRACCIONES ·
+          TELETEXTO SANTANDER · INFORMACIÓN LOCAL DIRECTA · SIN DISTRACCIONES ·
         </div>
       </div>
     </section>
@@ -53,6 +66,11 @@
         <div class="section-title c-black-on-cyan">INFORMACIÓN</div>
 
         <div id="featured-news" class="featured-news"></div>
+
+        <div class="rotating-headline-box">
+          <div class="rotating-label c-black-on-red">DESTACADO</div>
+          <div id="rotating-headline" class="rotating-headline"></div>
+        </div>
 
         <div class="section-title c-black-on-green">TITULARES</div>
         <div id="news-list" class="news-list"></div>
@@ -65,10 +83,11 @@
     </main>
 
     <footer class="ttx-footer">
-      <span class="c-cyan">[1]</span> PORTADA
-      <span class="c-yellow">[2]</span> ARCHIVO
-      <span class="c-magenta">[3]</span> PUBLICAR
-      <span class="c-green">[4]</span> CONTACTO
+      <span class="footer-item"><span class="c-cyan">100</span> PORTADA</span>
+      <span class="footer-item"><span class="c-yellow">101</span> ARCHIVO</span>
+      <span class="footer-item"><span class="c-magenta">102</span> PUBLICAR</span>
+      <span class="footer-item"><span class="c-green">103</span> CONTACTO</span>
+      <span class="footer-cursor">_</span>
     </footer>
 
   </div>
