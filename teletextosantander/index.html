@@ -42,11 +42,11 @@
           </div>
           <div class="status-row">
             <span class="label c-cyan">TEMP</span>
-            <span id="temp-value">13°C</span>
+            <span id="temp-value">--°C</span>
           </div>
           <div class="status-row">
             <span class="label c-yellow">MAREA</span>
-            <span id="tide-value">ALTA 18:42</span>
+            <span id="tide-value">--</span>
           </div>
         </div>
       </div>
@@ -56,7 +56,7 @@
       <div class="ticker-label c-black-on-yellow">ÚLTIMA HORA</div>
       <div class="ticker-window">
         <div class="ticker-track" id="ticker-track">
-          TELETEXTO SANTANDER · INFORMACIÓN LOCAL DIRECTA · SIN DISTRACCIONES ·
+          CARGANDO TITULARES · CARGANDO TITULARES · CARGANDO TITULARES ·
         </div>
       </div>
     </section>
@@ -65,11 +65,19 @@
       <section class="ttx-main">
         <div class="section-title c-black-on-cyan">INFORMACIÓN</div>
 
-        <div id="featured-news" class="featured-news"></div>
+        <div id="featured-news" class="featured-news">
+          <article class="featured-card">
+            <div class="featured-meta c-cyan">SANTANDER · --:--</div>
+            <h2 class="featured-title">CARGANDO NOTICIAS</h2>
+            <p class="featured-body">Esperando datos de la base de datos.</p>
+          </article>
+        </div>
 
         <div class="rotating-headline-box">
           <div class="rotating-label c-black-on-red">DESTACADO</div>
-          <div id="rotating-headline" class="rotating-headline"></div>
+          <div id="rotating-headline" class="rotating-headline">
+            CARGANDO TITULARES
+          </div>
         </div>
 
         <div class="section-title c-black-on-green">TITULARES</div>
@@ -83,15 +91,17 @@
     </main>
 
     <footer class="ttx-footer">
-      <span class="footer-item"><span class="c-cyan">100</span> PORTADA</span>
-      <span class="footer-item"><span class="c-yellow">101</span> ARCHIVO</span>
-      <span class="footer-item"><span class="c-magenta">102</span> PUBLICAR</span>
+      <a class="footer-link" href="./index.html"><span class="c-cyan">100</span> PORTADA</a>
+      <a class="footer-link" href="./publicar.html"><span class="c-yellow">101</span> PUBLICAR</a>
+      <span class="footer-item"><span class="c-magenta">102</span> ARCHIVO</span>
       <span class="footer-item"><span class="c-green">103</span> CONTACTO</span>
       <span class="footer-cursor">_</span>
     </footer>
 
   </div>
 
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+  <script src="supabase.js"></script>
   <script src="app.js"></script>
 </body>
 </html>
