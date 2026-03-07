@@ -36,12 +36,35 @@ body{
 }
 
 .ttx-header{
+  border-bottom:3px solid var(--line);
+}
+
+.ttx-topline{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  padding:8px 18px;
+  border-bottom:3px solid var(--line);
+  text-transform:uppercase;
+  font-size:14px;
+}
+
+.ttx-pagecode{
+  display:flex;
+  gap:10px;
+  align-items:center;
+}
+
+.ttx-sep{
+  color:var(--yellow);
+}
+
+.ttx-head-main{
   display:flex;
   justify-content:space-between;
   align-items:flex-start;
   gap:20px;
   padding:14px 18px 12px;
-  border-bottom:3px solid var(--line);
 }
 
 .ttx-brand-wrap{
@@ -118,7 +141,7 @@ body{
   padding-left:100%;
   line-height:39px;
   text-transform:uppercase;
-  animation:ticker-scroll 26s linear infinite;
+  animation:ticker-scroll 30s linear infinite;
 }
 
 @keyframes ticker-scroll{
@@ -129,7 +152,7 @@ body{
 .ttx-grid{
   display:grid;
   grid-template-columns:3fr 1fr;
-  min-height:calc(100vh - 170px);
+  min-height:calc(100vh - 185px);
 }
 
 .ttx-main{
@@ -188,6 +211,31 @@ body{
   margin:0;
   font-size:17px;
   line-height:1.45;
+}
+
+.rotating-headline-box{
+  margin:0 0 18px;
+  border:2px solid var(--red);
+  background:var(--panel);
+}
+
+.rotating-label{
+  display:inline-block;
+  padding:4px 9px;
+  font-weight:700;
+  text-transform:uppercase;
+  margin:0;
+}
+
+.rotating-headline{
+  padding:14px;
+  min-height:64px;
+  font-size:20px;
+  line-height:1.25;
+  text-transform:uppercase;
+  color:var(--red);
+  font-weight:700;
+  letter-spacing:0.5px;
 }
 
 .news-list{
@@ -265,6 +313,24 @@ body{
   display:flex;
   gap:18px;
   flex-wrap:wrap;
+  align-items:center;
+}
+
+.footer-item{
+  display:inline-flex;
+  gap:6px;
+  align-items:center;
+}
+
+.footer-cursor{
+  margin-left:auto;
+  font-weight:700;
+  animation:blink 1s step-end infinite;
+}
+
+@keyframes blink{
+  0%, 50%{ opacity:1; }
+  50.01%, 100%{ opacity:0; }
 }
 
 .c-cyan{ color:var(--cyan); }
@@ -290,6 +356,10 @@ body{
   color:#000;
   background:var(--green);
 }
+.c-black-on-red{
+  color:#000;
+  background:var(--red);
+}
 
 @media (max-width: 1000px){
   .ttx-grid{
@@ -301,7 +371,7 @@ body{
     border-bottom:3px solid var(--line);
   }
 
-  .ttx-header{
+  .ttx-head-main{
     flex-direction:column;
     align-items:flex-start;
   }
@@ -326,7 +396,8 @@ body{
     border-right:none;
   }
 
-  .ttx-header,
+  .ttx-topline,
+  .ttx-head-main,
   .ttx-main,
   .ttx-side{
     padding:12px;
@@ -340,5 +411,9 @@ body{
   .ttx-footer{
     gap:10px;
     font-size:13px;
+  }
+
+  .footer-cursor{
+    margin-left:0;
   }
 }
