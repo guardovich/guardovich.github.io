@@ -105,7 +105,7 @@ function renderNewsList(items) {
         <div class="news-time">${escapeHtml(item.zone || "Santander")} · ${formatTime(item.created_at)}</div>
       </div>
       <p class="news-body">${escapeHtml(item.body || "")}</p>
-      <button class="moderate-button" onclick="hideNews(${item.id})">[ ocultar noticia ]</button>
+      <button class="moderate-button" onclick="hideNews(${item.id})">[ mod ]</button>
     </article>
   `).join("");
 }
@@ -125,7 +125,7 @@ function renderComments(items) {
     <article class="comment-item">
       <div class="comment-author">${escapeHtml(item.author_name || "Anónimo")}</div>
       <p class="comment-body">${escapeHtml(item.body || "")}</p>
-      <button class="moderate-button" onclick="hideComment(${item.id})">[ eliminar ]</button>
+      <button class="moderate-button" onclick="hideComment(${item.id})">[ mod ]</button>
     </article>
   `).join("");
 }
