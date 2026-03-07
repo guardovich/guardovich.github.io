@@ -6,6 +6,7 @@ const weatherData = {
 
 let rotatingIndex = 0;
 let rotatingInterval = null;
+let moderatorMode = false;
 
 function setStatusData() {
   const tempEl = document.getElementById("temp-value");
@@ -13,6 +14,17 @@ function setStatusData() {
 
   if (tempEl) tempEl.textContent = weatherData.temperature;
   if (tideEl) tideEl.textContent = weatherData.tide;
+}
+
+async function refreshStatusData() {
+  try {
+    // De momento usa datos locales.
+    // Aquí luego puedes meter una API real de tiempo y mareas.
+    setStatusData();
+    console.log("Estado actualizado:", new Date().toLocaleString("es-ES"));
+  } catch (error) {
+    console.error("Error actualizando tiempo y mareas:", error);
+  }
 }
 
 function escapeHtml(str = "") {
@@ -54,6 +66,28 @@ function updateClock() {
   }
 }
 
+function activateModeratorMode() {
+  const password = prompt("Clave de moderador");
+
+  if (password === "racing123") {
+    sessionStorage.setItem("moderatorMode", "true");
+    alert("Modo moderador activado");
+    location.reload();
+  } else {
+    alert("Clave incorrecta");
+  }
+}
+
+function restoreModeratorMode() {
+  moderatorMode = sessionStorage.getItem("moderatorMode") === "true";
+}
+
+function deactivateModeratorMode() {
+  sessionStorage.removeItem("moderatorMode");
+  moderatorMode = false;
+  location.reload();
+}
+
 function renderFeaturedNews(items) {
   const container = document.getElementById("featured-news");
   if (!container) return;
@@ -78,9 +112,7 @@ function renderFeaturedNews(items) {
       </div>
       <h2 class="featured-title">${escapeHtml(item.title || "")}</h2>
       <p class="featured-body">${escapeHtml(item.body || "")}</p>
-      ${index === 0 ? `
-        <button class="moderate-button" onclick="hideNews(${item.id})">[ ocultar noticia ]</button>
-      ` : ""}
+      ${moderatorMode ? `<button class="moderate-button" onclick="hideNews(${item.id})">[mod]</button>` : ""}
     </article>
   `).join("");
 }
@@ -105,7 +137,7 @@ function renderNewsList(items) {
         <div class="news-time">${escapeHtml(item.zone || "Santander")} · ${formatTime(item.created_at)}</div>
       </div>
       <p class="news-body">${escapeHtml(item.body || "")}</p>
-      <button class="moderate-button" onclick="hideNews(${item.id})">[ mod ]</button>
+      ${moderatorMode ? `<button class="moderate-button" onclick="hideNews(${item.id})">[mod]</button>` : ""}
     </article>
   `).join("");
 }
@@ -125,7 +157,7 @@ function renderComments(items) {
     <article class="comment-item">
       <div class="comment-author">${escapeHtml(item.author_name || "Anónimo")}</div>
       <p class="comment-body">${escapeHtml(item.body || "")}</p>
-      <button class="moderate-button" onclick="hideComment(${item.id})">[ mod ]</button>
+      ${moderatorMode ? `<button class="moderate-button" onclick="hideComment(${item.id})">[mod]</button>` : ""}
     </article>
   `).join("");
 }
@@ -253,10 +285,38 @@ async function hideNews(id) {
   location.reload();
 }
 
+function injectModeratorAccess() {
+  const footer = document.querySelector(".ttx-footer");
+  if (!footer) return;
+
+  const modControl = document.createElement("span");
+  modControl.className = "footer-item footer-mod";
+  modControl.style.cursor = "pointer";
+
+  if (moderatorMode) {
+    modControl.innerHTML = `<span class="c-red">999</span> MOD ON`;
+    modControl.onclick = deactivateModeratorMode;
+    modControl.title = "Desactivar modo moderador";
+  } else {
+    modControl.innerHTML = `<span class="c-red">999</span> MOD`;
+    modControl.onclick = activateModeratorMode;
+    modControl.title = "Activar modo moderador";
+  }
+
+  footer.appendChild(modControl);
+}
+
 async function init() {
+  restoreModeratorMode();
+
   setStatusData();
+  await refreshStatusData();
+
   updateClock();
   setInterval(updateClock, 1000);
+
+  // Actualiza temperatura y mareas cada hora
+  setInterval(refreshStatusData, 60 * 60 * 1000);
 
   await ensureSession();
 
@@ -270,6 +330,7 @@ async function init() {
   renderComments(comments);
   buildTicker(news);
   startRotatingHeadlines(news);
+  injectModeratorAccess();
 }
 
 document.addEventListener("DOMContentLoaded", init);
