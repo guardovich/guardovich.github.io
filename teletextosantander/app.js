@@ -78,6 +78,9 @@ function renderFeaturedNews(items) {
       </div>
       <h2 class="featured-title">${escapeHtml(item.title || "")}</h2>
       <p class="featured-body">${escapeHtml(item.body || "")}</p>
+      ${index === 0 ? `
+        <button class="moderate-button" onclick="hideNews(${item.id})">[ ocultar noticia ]</button>
+      ` : ""}
     </article>
   `).join("");
 }
@@ -102,6 +105,7 @@ function renderNewsList(items) {
         <div class="news-time">${escapeHtml(item.zone || "Santander")} · ${formatTime(item.created_at)}</div>
       </div>
       <p class="news-body">${escapeHtml(item.body || "")}</p>
+      <button class="moderate-button" onclick="hideNews(${item.id})">[ ocultar noticia ]</button>
     </article>
   `).join("");
 }
@@ -121,6 +125,7 @@ function renderComments(items) {
     <article class="comment-item">
       <div class="comment-author">${escapeHtml(item.author_name || "Anónimo")}</div>
       <p class="comment-body">${escapeHtml(item.body || "")}</p>
+      <button class="moderate-button" onclick="hideComment(${item.id})">[ eliminar ]</button>
     </article>
   `).join("");
 }
@@ -196,6 +201,56 @@ async function loadComments() {
   }
 
   return data || [];
+}
+
+async function hideComment(id) {
+  const password = prompt("Clave de moderador");
+
+  if (password !== "racing123") {
+    alert("Clave incorrecta");
+    return;
+  }
+
+  await ensureSession();
+
+  const { error } = await supabaseClient
+    .from("posts")
+    .update({ approved: false })
+    .eq("id", id)
+    .eq("kind", "comment");
+
+  if (error) {
+    console.error("Error ocultando comentario:", error);
+    alert("No se pudo ocultar el comentario");
+    return;
+  }
+
+  location.reload();
+}
+
+async function hideNews(id) {
+  const password = prompt("Clave de moderador");
+
+  if (password !== "racing123") {
+    alert("Clave incorrecta");
+    return;
+  }
+
+  await ensureSession();
+
+  const { error } = await supabaseClient
+    .from("posts")
+    .update({ approved: false })
+    .eq("id", id)
+    .eq("kind", "news");
+
+  if (error) {
+    console.error("Error ocultando noticia:", error);
+    alert("No se pudo ocultar la noticia");
+    return;
+  }
+
+  location.reload();
 }
 
 async function init() {
