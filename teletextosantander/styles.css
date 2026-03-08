@@ -1,14 +1,14 @@
 :root{
   --bg:#000000;
-  --fg:#f1f1f1;
-  --cyan:#00e5ff;
-  --yellow:#ffe600;
-  --magenta:#ff4dff;
-  --green:#31ff6a;
-  --red:#ff4d4d;
-  --blue:#57a6ff;
-  --panel:#050505;
-  --line:#d8d8d8;
+  --fg:#f5f5f5;
+  --cyan:#00ffff;
+  --yellow:#ffff00;
+  --magenta:#ff00ff;
+  --green:#00ff00;
+  --red:#ff4040;
+  --blue:#4da6ff;
+  --panel:#000000;
+  --line:#d0d0d0;
 
   --tv-body-1:#5a4736;
   --tv-body-2:#2a2017;
@@ -106,21 +106,21 @@ body{
   left:0;
   width:4px;
   height:4px;
-  background:#00e5ff;
+  background:var(--cyan);
   box-shadow:
-    4px 0 0 #00e5ff,
-    8px 0 0 #00e5ff,
-    12px 0 0 #00e5ff,
-    16px 0 0 #00e5ff,
+    4px 0 0 var(--cyan),
+    8px 0 0 var(--cyan),
+    12px 0 0 var(--cyan),
+    16px 0 0 var(--cyan),
 
-    0 4px 0 #00e5ff,
-    16px 4px 0 #00e5ff,
+    0 4px 0 var(--cyan),
+    16px 4px 0 var(--cyan),
 
-    0 8px 0 #00e5ff,
-    4px 8px 0 #00e5ff,
-    8px 8px 0 #00e5ff,
-    12px 8px 0 #00e5ff,
-    16px 8px 0 #00e5ff;
+    0 8px 0 var(--cyan),
+    4px 8px 0 var(--cyan),
+    8px 8px 0 var(--cyan),
+    12px 8px 0 var(--cyan),
+    16px 8px 0 var(--cyan);
 }
 
 .tv-pixel-logo::after{
@@ -130,16 +130,16 @@ body{
   left:2px;
   width:4px;
   height:4px;
-  background:#ffe600;
-  box-shadow:12px 0 0 #ffe600;
+  background:var(--yellow);
+  box-shadow:12px 0 0 var(--yellow);
 }
 
 .tv-brand-text{
   font-size:12px;
   line-height:1.1;
   text-transform:uppercase;
-  color:#ffe600;
-  text-shadow:0 0 5px rgba(255,230,0,0.35);
+  color:var(--yellow);
+  text-shadow:0 0 5px rgba(255,255,0,0.35);
 }
 
 /* ===== MARCO INTERIOR TV ===== */
@@ -754,11 +754,23 @@ textarea{
   align-items:center;
 }
 
+.tele-footer{
+  justify-content:flex-start;
+  gap:14px;
+  background:#000;
+  box-shadow:inset 0 1px 0 rgba(255,255,255,0.12);
+}
+
 .footer-item,
 .footer-link{
   display:inline-flex;
   gap:6px;
   align-items:center;
+}
+
+.tele-footer .footer-link{
+  padding:2px 4px;
+  font-weight:700;
 }
 
 .footer-link:hover{
@@ -767,21 +779,28 @@ textarea{
   padding:2px 4px;
 }
 
+.tele-footer .footer-link:hover{
+  background:#fff;
+  color:#000;
+}
+
 .footer-cursor{
   margin-left:auto;
   font-weight:700;
-  animation:blink 1s step-end infinite;
+  color:var(--yellow);
+  text-shadow:0 0 6px var(--yellow);
+  animation:teleCursor 0.8s steps(1) infinite;
 }
 
-@keyframes blink{
-  0%, 50%{ opacity:1; }
-  50.01%, 100%{ opacity:0; }
+@keyframes teleCursor{
+  0%, 49%{ opacity:1; }
+  50%, 100%{ opacity:0; }
 }
 
 .moderate-button{
   margin-top:6px;
   background:none;
-  color:#ff4d4d;
+  color:var(--red);
   border:none;
   font-family:"Courier New", monospace;
   font-size:11px;
@@ -795,12 +814,25 @@ textarea{
   opacity:1;
 }
 
+.tele-separator{
+  display:block;
+  width:100%;
+  overflow:hidden;
+  white-space:nowrap;
+  color:var(--cyan);
+  font-weight:700;
+  line-height:1;
+  margin:10px 0 14px;
+  text-shadow:0 0 4px currentColor;
+}
+
 .c-cyan{ color:var(--cyan); }
 .c-yellow{ color:var(--yellow); }
 .c-magenta{ color:var(--magenta); }
 .c-green{ color:var(--green); }
 .c-red{ color:var(--red); }
 .c-blue{ color:var(--blue); }
+.c-white{ color:var(--fg); }
 
 .c-black-on-yellow{
   color:#000;
@@ -838,6 +870,68 @@ textarea{
   text-shadow:
     0 0 2px currentColor,
     0 0 6px currentColor;
+}
+
+/* ===== LOADER TELETTEXTO ===== */
+
+.teletext-loader{
+  position:fixed;
+  inset:0;
+  z-index:9999;
+  background:#000;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  animation:loaderHide 1.1s ease forwards;
+  animation-delay:.6s;
+}
+
+.teletext-loader-inner{
+  width:min(520px, 90vw);
+  text-align:center;
+  color:var(--cyan);
+  text-transform:uppercase;
+}
+
+.loader-title{
+  font-size:28px;
+  font-weight:700;
+  margin-bottom:16px;
+  text-shadow:0 0 8px var(--cyan);
+}
+
+.loader-bar{
+  width:100%;
+  height:18px;
+  border:2px solid var(--cyan);
+  padding:2px;
+  margin-bottom:14px;
+}
+
+.loader-bar span{
+  display:block;
+  height:100%;
+  width:0%;
+  background:var(--cyan);
+  animation:loaderBar .7s linear forwards;
+}
+
+.loader-sub{
+  color:var(--yellow);
+  font-size:18px;
+  text-shadow:0 0 6px var(--yellow);
+}
+
+@keyframes loaderBar{
+  from{ width:0%; }
+  to{ width:100%; }
+}
+
+@keyframes loaderHide{
+  to{
+    opacity:0;
+    visibility:hidden;
+  }
 }
 
 /* ===== RESPONSIVE ===== */
