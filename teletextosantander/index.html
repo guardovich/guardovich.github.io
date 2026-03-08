@@ -46,13 +46,24 @@
 
 </div>
 
+<nav class="ttx-topnav">
+<a class="topnav-link" href="./index.html"><span class="c-cyan">100</span> PORTADA</a>
+<a class="topnav-link" href="./publicar.html"><span class="c-yellow">101</span> PUBLICAR</a>
+<a class="topnav-link" href="./archivo.html"><span class="c-magenta">102</span> ARCHIVO</a>
+<a class="topnav-link" href="./tiempo.html"><span class="c-green">103</span> TIEMPO</a>
+<a class="topnav-link" href="./racing.html"><span class="c-red">104</span> RACING</a>
+<a class="topnav-link" href="./avisos.html"><span class="c-blue">106</span> AVISOS</a>
+</nav>
 
 <div class="ttx-head-main">
 
 <div class="ttx-brand-wrap">
 
-<div class="ttx-brand">
+<div class="ttx-brand brand-with-crest">
+<img src="./img/racingescudo.png" alt="Escudo Racing" class="mini-racing-crest">
+<div>
 <span class="c-cyan">TELETEXTO</span><span class="c-yellow">SANTANDER</span>
+</div>
 </div>
 
 <div class="ttx-subline">
@@ -64,7 +75,6 @@
 </div>
 
 </div>
-
 
 <div class="ttx-status">
 
@@ -93,10 +103,11 @@
 <span id="tide-value">--</span>
 </div>
 
-<!-- RESULTADO RACING DESTACADO -->
-
 <div class="status-row racing-row">
-<span class="label c-green">RACING</span>
+<span class="label c-green racing-label-with-crest">
+<img src="./img/racingescudo.png" alt="Escudo Racing" class="racing-status-crest">
+RACING
+</span>
 <span id="racing-last-result" class="racing-score">
 CARGANDO...
 </span>
@@ -107,8 +118,6 @@ CARGANDO...
 </div>
 
 </header>
-
-
 
 <section class="ticker">
 
@@ -126,8 +135,6 @@ CARGANDO TITULARES · CARGANDO TITULARES · CARGANDO TITULARES ·
 
 </section>
 
-
-
 <main class="ttx-grid">
 
 <section class="ttx-main">
@@ -135,7 +142,6 @@ CARGANDO TITULARES · CARGANDO TITULARES · CARGANDO TITULARES ·
 <div class="section-title c-black-on-cyan">
 INFORMACIÓN
 </div>
-
 
 <div id="featured-news" class="featured-news">
 
@@ -146,7 +152,6 @@ INFORMACIÓN
 </article>
 
 </div>
-
 
 <div class="rotating-headline-box">
 
@@ -160,7 +165,6 @@ CARGANDO TITULARES
 
 </div>
 
-
 <div class="section-title c-black-on-green">
 TITULARES
 </div>
@@ -168,8 +172,6 @@ TITULARES
 <div id="news-list" class="news-list"></div>
 
 </section>
-
-
 
 <aside class="ttx-side">
 
@@ -182,8 +184,6 @@ COMENTARIOS
 </aside>
 
 </main>
-
-
 
 <section style="padding:12px 18px">
 
@@ -206,8 +206,6 @@ COMENTARIOS
 </div>
 
 </section>
-
-
 
 <footer class="ttx-footer tele-footer">
 
@@ -248,7 +246,6 @@ COMENTARIOS
 </div>
 </div>
 
-
 <div class="tv-controls" aria-hidden="true">
 
 <div class="tv-speaker">
@@ -267,18 +264,11 @@ COMENTARIOS
 
 </div>
 
-
-
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
 <script src="supabase.js"></script>
 <script src="app.js"></script>
 
-
-
 <script>
-
-/* RELOJ */
-
 function updateClock(){
 
 const now=new Date()
@@ -295,9 +285,6 @@ year:"numeric"
 }).toUpperCase()
 
 }
-
-
-/* TIEMPO */
 
 function weatherCodeToText(code){
 
@@ -316,7 +303,6 @@ return map[code]||"VARIABLE"
 
 }
 
-
 async function refreshStatusData(){
 
 try{
@@ -330,9 +316,7 @@ const data=await response.json()
 const current=data.current_weather||{}
 
 document.getElementById("temp-value").textContent=Math.round(current.temperature)+"°C"
-
 document.getElementById("wind-value").textContent=Math.round(current.windspeed)+" km/h"
-
 document.getElementById("sky-value").textContent=weatherCodeToText(current.weathercode)
 
 }catch(e){
@@ -343,9 +327,6 @@ console.log("error tiempo",e)
 
 }
 
-
-/* RESULTADO RACING */
-
 async function refreshRacingResult(){
 
 const el=document.getElementById("racing-last-result")
@@ -353,13 +334,17 @@ const el=document.getElementById("racing-last-result")
 try{
 
 const response=await fetch("https://www.thesportsdb.com/api/v1/json/1/eventslast.php?id=133726")
-
 const data=await response.json()
 
-const match=data.results[0]
+const match=data?.results?.[0]
 
-const home=match.strHomeTeam.replace("Racing de Santander","Racing")
-const away=match.strAwayTeam.replace("Racing de Santander","Racing")
+if(!match){
+el.textContent="NO DISP."
+return
+}
+
+const home=(match.strHomeTeam||"").replace("Racing de Santander","Racing").replace("Real Racing Club de Santander","Racing")
+const away=(match.strAwayTeam||"").replace("Racing de Santander","Racing").replace("Real Racing Club de Santander","Racing")
 
 const score=`${home} ${match.intHomeScore}-${match.intAwayScore} ${away}`
 
@@ -368,15 +353,11 @@ el.textContent=score
 }catch(e){
 
 console.log("error racing",e)
-
 el.textContent="NO DISP."
 
 }
 
 }
-
-
-/* INICIO */
 
 updateClock()
 setInterval(updateClock,1000)
@@ -388,7 +369,6 @@ refreshRacingResult()
 setInterval(refreshRacingResult,300000)
 
 document.getElementById("mod-access").addEventListener("click",activateModeratorMode)
-
 </script>
 
 </body>
