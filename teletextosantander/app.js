@@ -2,6 +2,10 @@ let rotatingIndex = 0;
 let rotatingInterval = null;
 let moderatorMode = false;
 
+let newsPages = [];
+let currentNewsPage = 0;
+let newsPageInterval = null;
+
 function escapeHtml(str = "") {
   return String(str)
     .replaceAll("&", "&amp;")
@@ -154,6 +158,40 @@ function startRotatingHeadlines(items) {
   }, 3500);
 }
 
+function splitIntoPages(items, pageSize = 6) {
+  const pages = [];
+  for (let i = 0; i < items.length; i += pageSize) {
+    pages.push(items.slice(i, i + pageSize));
+  }
+  return pages;
+}
+
+function renderNewsPage(pageItems) {
+  renderFeaturedNews(pageItems);
+  renderNewsList(pageItems);
+}
+
+function startNewsPageRotation(allNews) {
+  if (newsPageInterval) clearInterval(newsPageInterval);
+
+  newsPages = splitIntoPages(allNews, 6);
+  currentNewsPage = 0;
+
+  if (!newsPages.length) {
+    renderNewsPage([]);
+    return;
+  }
+
+  renderNewsPage(newsPages[currentNewsPage]);
+
+  if (newsPages.length === 1) return;
+
+  newsPageInterval = setInterval(() => {
+    currentNewsPage = (currentNewsPage + 1) % newsPages.length;
+    renderNewsPage(newsPages[currentNewsPage]);
+  }, 20000);
+}
+
 async function loadNews() {
   const { data, error } = await supabaseClient
     .from("posts")
@@ -161,7 +199,7 @@ async function loadNews() {
     .eq("kind", "news")
     .eq("approved", true)
     .order("created_at", { ascending: false })
-    .limit(12);
+    .limit(24);
 
   if (error) {
     console.error("Error cargando noticias:", error);
@@ -248,8 +286,7 @@ async function init() {
     loadComments()
   ]);
 
-  renderFeaturedNews(news);
-  renderNewsList(news);
+  startNewsPageRotation(news);
   renderComments(comments);
   buildTicker(news);
   startRotatingHeadlines(news);
