@@ -13,11 +13,8 @@
   --mac-case-1:#e5e2d8;
   --mac-case-2:#cfcac1;
   --mac-case-3:#bdb7ac;
-  --mac-shadow:#8d877d;
-  --mac-dark:#6c675f;
   --mac-slot:#7e786f;
   --mac-bezel:#a8a297;
-  --mac-screen:#111111;
 }
 
 *{
@@ -29,6 +26,7 @@ body{
   margin:0;
   padding:0;
   min-height:100%;
+  overflow-x:hidden;
   color:var(--fg);
   font-family:"Courier New", Courier, monospace;
 }
@@ -39,14 +37,19 @@ body{
     radial-gradient(circle at top, #d9d9d9 0%, #bfbfbf 35%, #8f8f8f 100%);
 }
 
+img{
+  max-width:100%;
+  height:auto;
+}
+
 /* =========================
    MACINTOSH CLASSIC FRAME
 ========================= */
 
 .tv-shell{
-  width:min(1200px, 100%);
+  width:min(1000px, 100%);
   margin:0 auto;
-  padding:34px 34px 82px;
+  padding:26px 26px 64px;
   position:relative;
   border-radius:22px;
   background:
@@ -97,7 +100,6 @@ body{
   z-index:3;
 }
 
-/* logo pixel superior izquierdo */
 .tv-brand-badge{
   position:absolute;
   top:16px;
@@ -174,10 +176,9 @@ body{
     inset 0 1px 0 rgba(255,255,255,0.25);
 }
 
-/* marco de pantalla */
 .tv-bezel{
   background:#111;
-  padding:28px;
+  padding:18px;
   border-radius:12px;
   box-shadow:
     inset 0 0 35px rgba(0,0,0,0.92),
@@ -185,7 +186,7 @@ body{
 }
 
 .tv-inner-shadow{
-  padding:8px;
+  padding:6px;
   background:#000;
   border-radius:6px;
   box-shadow:
@@ -206,7 +207,6 @@ body{
   filter:contrast(1.06) saturate(1.04);
 }
 
-/* ranura de disquete falsa en la base */
 .tv-controls{
   display:block;
   position:relative;
@@ -264,7 +264,9 @@ body{
   display:none;
 }
 
-/* ===== CRT ===== */
+/* =========================
+   CRT
+========================= */
 
 .tv-screen-overlay{
   position:absolute;
@@ -339,7 +341,9 @@ body{
   }
 }
 
-/* ===== TELETTEXTO ===== */
+/* =========================
+   BASE TELETTEXTO
+========================= */
 
 a{
   color:inherit;
@@ -371,6 +375,19 @@ textarea{
   resize:vertical;
 }
 
+.ttx-page,
+.ttx-main,
+.ttx-side,
+.news-list,
+.comments-list,
+.featured-news,
+.ttx-head-main,
+.ttx-topnav,
+.news-head,
+.racing-news-headline{
+  min-width:0;
+}
+
 .ttx-page{
   position:relative;
   z-index:2;
@@ -400,10 +417,10 @@ textarea{
   display:flex;
   justify-content:space-between;
   align-items:center;
-  padding:8px 18px;
+  padding:8px 12px;
   border-bottom:3px solid var(--line);
   text-transform:uppercase;
-  font-size:14px;
+  font-size:13px;
 }
 
 .ttx-pagecode{
@@ -416,12 +433,11 @@ textarea{
   color:var(--yellow);
 }
 
-/* navegación superior */
 .ttx-topnav{
   display:flex;
   flex-wrap:wrap;
-  gap:10px;
-  padding:8px 18px;
+  gap:8px;
+  padding:8px 12px;
   border-bottom:3px solid var(--line);
   background:#000;
   text-transform:uppercase;
@@ -431,9 +447,10 @@ textarea{
   display:inline-flex;
   align-items:center;
   gap:6px;
-  padding:2px 6px;
-  font-size:14px;
+  padding:2px 4px;
+  font-size:12px;
   font-weight:700;
+  white-space:nowrap;
 }
 
 .topnav-link:hover{
@@ -453,27 +470,29 @@ textarea{
 }
 
 .ttx-head-main{
-  display:flex;
-  justify-content:space-between;
-  align-items:flex-start;
-  gap:20px;
-  padding:14px 18px 12px;
+  display:grid;
+  grid-template-columns:minmax(0, 1fr) 240px;
+  gap:12px;
+  padding:12px;
+  align-items:start;
 }
 
 .ttx-brand-wrap{
   min-width:0;
+  flex:1 1 auto;
 }
 
 .ttx-brand{
-  font-size:clamp(28px, 4vw, 56px);
-  line-height:0.95;
+  display:block;
+  max-width:100%;
+  font-size:clamp(22px, 2.2vw, 34px);
+  line-height:1;
   font-weight:700;
   letter-spacing:1px;
   text-transform:uppercase;
-  word-break:break-word;
+  overflow-wrap:anywhere;
 }
 
-/* marca con escudo */
 .brand-with-crest{
   display:flex;
   align-items:center;
@@ -481,18 +500,19 @@ textarea{
 }
 
 .mini-racing-crest{
-  width:44px;
+  width:28px;
   height:auto;
+  flex:0 0 auto;
   image-rendering:pixelated;
   filter:drop-shadow(0 0 6px rgba(0,255,0,0.45));
-  flex:0 0 auto;
 }
 
 .ttx-subline{
   margin-top:8px;
-  font-size:14px;
+  font-size:12px;
   text-transform:uppercase;
   opacity:0.95;
+  line-height:1.3;
 }
 
 .ttx-subline .sep{
@@ -501,28 +521,29 @@ textarea{
 }
 
 .ttx-status{
-  min-width:280px;
-  text-align:right;
-  font-size:15px;
+  min-width:0;
+  text-align:left;
+  font-size:13px;
   text-transform:uppercase;
-  line-height:1.55;
+  line-height:1.35;
 }
 
 .status-row{
   display:flex;
-  justify-content:flex-end;
-  gap:10px;
+  justify-content:flex-start;
+  gap:8px;
   align-items:center;
+  flex-wrap:wrap;
 }
 
 .status-row .label{
-  min-width:64px;
-  text-align:right;
+  min-width:68px;
+  text-align:left;
   font-weight:700;
 }
 
 .racing-row{
-  font-size:18px;
+  font-size:14px;
   font-weight:700;
   margin-top:8px;
 }
@@ -530,12 +551,12 @@ textarea{
 .racing-label-with-crest{
   display:inline-flex;
   align-items:center;
-  justify-content:flex-end;
+  justify-content:flex-start;
   gap:8px;
 }
 
 .racing-status-crest{
-  width:26px;
+  width:20px;
   height:auto;
   image-rendering:pixelated;
   filter:drop-shadow(0 0 5px rgba(0,255,0,0.35));
@@ -546,6 +567,10 @@ textarea{
   color:var(--green);
   text-shadow:0 0 6px var(--green);
 }
+
+/* =========================
+   TICKER
+========================= */
 
 .ticker{
   display:flex;
@@ -567,6 +592,7 @@ textarea{
   position:relative;
   overflow:hidden;
   width:100%;
+  min-width:0;
   white-space:nowrap;
   min-height:39px;
 }
@@ -584,25 +610,29 @@ textarea{
   100%{ transform:translateX(-100%); }
 }
 
+/* =========================
+   LAYOUT
+========================= */
+
 .ttx-grid{
   display:grid;
-  grid-template-columns:3fr 1fr;
-  min-height:calc(100vh - 185px);
+  grid-template-columns:minmax(0, 1.7fr) minmax(220px, 0.7fr);
+  min-height:auto;
 }
 
 .ttx-main{
-  padding:16px;
+  padding:12px;
   border-right:3px solid var(--line);
 }
 
 .ttx-side{
-  padding:16px;
+  padding:12px;
 }
 
 .section-title{
   display:inline-block;
   padding:4px 9px;
-  margin:0 0 14px;
+  margin:0 0 12px;
   font-weight:700;
   text-transform:uppercase;
 }
@@ -632,20 +662,23 @@ textarea{
 
 .featured-title{
   margin:0 0 10px;
-  font-size:clamp(22px, 2.2vw, 34px);
+  font-size:clamp(18px, 2vw, 26px);
   line-height:1.12;
   text-transform:uppercase;
+  overflow-wrap:anywhere;
+  word-break:break-word;
 }
 
 .featured-card.secondary .featured-title{
-  font-size:clamp(18px, 1.8vw, 26px);
   color:var(--yellow);
 }
 
 .featured-body{
   margin:0;
-  font-size:17px;
+  font-size:14px;
   line-height:1.45;
+  overflow-wrap:anywhere;
+  word-break:break-word;
 }
 
 .rotating-headline-box{
@@ -663,13 +696,15 @@ textarea{
 
 .rotating-headline{
   padding:14px;
-  min-height:64px;
-  font-size:20px;
+  min-height:auto;
+  font-size:16px;
   line-height:1.25;
   text-transform:uppercase;
   color:var(--red);
   font-weight:700;
   letter-spacing:0.5px;
+  overflow-wrap:anywhere;
+  word-break:break-word;
 }
 
 .news-list{
@@ -686,22 +721,23 @@ textarea{
 
 .news-head{
   display:flex;
-  justify-content:space-between;
-  gap:12px;
+  flex-direction:column;
+  gap:4px;
   align-items:flex-start;
   margin-bottom:8px;
 }
 
 .news-title{
   margin:0;
-  font-size:19px;
+  font-size:18px;
   line-height:1.18;
   text-transform:uppercase;
   color:var(--yellow);
+  overflow-wrap:anywhere;
+  word-break:break-word;
 }
 
 .news-time{
-  flex:0 0 auto;
   font-size:13px;
   color:var(--cyan);
   text-transform:uppercase;
@@ -709,8 +745,10 @@ textarea{
 
 .news-body{
   margin:0;
-  font-size:15px;
+  font-size:14px;
   line-height:1.42;
+  overflow-wrap:anywhere;
+  word-break:break-word;
 }
 
 .comments-list{
@@ -737,7 +775,13 @@ textarea{
   margin:0;
   font-size:14px;
   line-height:1.42;
+  overflow-wrap:anywhere;
+  word-break:break-word;
 }
+
+/* =========================
+   PUBLICAR
+========================= */
 
 .publish-layout{
   display:grid;
@@ -815,20 +859,23 @@ textarea{
   text-transform:uppercase;
 }
 
+/* =========================
+   FOOTER
+========================= */
+
 .ttx-footer{
   border-top:3px solid var(--line);
-  padding:10px 14px;
-  font-size:14px;
+  padding:8px 10px;
+  font-size:12px;
   text-transform:uppercase;
   display:flex;
-  gap:18px;
+  gap:8px;
   flex-wrap:wrap;
   align-items:center;
 }
 
 .tele-footer{
   justify-content:flex-start;
-  gap:14px;
   background:#000;
   box-shadow:inset 0 1px 0 rgba(255,255,255,0.12);
 }
@@ -898,6 +945,10 @@ textarea{
   text-shadow:0 0 4px currentColor;
 }
 
+/* =========================
+   COLORES
+========================= */
+
 .c-cyan{ color:var(--cyan); }
 .c-yellow{ color:var(--yellow); }
 .c-magenta{ color:var(--magenta); }
@@ -943,7 +994,61 @@ textarea{
     0 0 6px currentColor;
 }
 
-/* ===== LOADER ===== */
+/* =========================
+   RACING PAGE
+========================= */
+
+.racing-logo-block{
+  display:flex;
+  justify-content:center;
+  margin:14px 0 18px;
+}
+
+.racing-logo-main{
+  width:84px;
+  height:auto;
+  image-rendering:pixelated;
+  filter:drop-shadow(0 0 8px rgba(0,255,0,0.45));
+  transition:transform .15s ease;
+}
+
+.racing-news-item{
+  border-left:6px solid var(--green);
+}
+
+.racing-news-headline{
+  display:grid;
+  grid-template-columns:22px minmax(0,1fr);
+  gap:8px;
+  align-items:start;
+}
+
+.racing-news-icon{
+  width:22px;
+  height:auto;
+  flex:0 0 auto;
+  image-rendering:pixelated;
+  filter:drop-shadow(0 0 5px rgba(0,255,0,0.35));
+  transition:transform .15s ease;
+}
+
+.racing-news-text{
+  min-width:0;
+  width:100%;
+}
+
+.racing-news-item .news-title{
+  color:var(--green);
+}
+
+.racing-logo-main:hover,
+.racing-news-icon:hover{
+  transform:scale(1.05);
+}
+
+/* =========================
+   LOADER
+========================= */
 
 .teletext-loader{
   position:fixed;
@@ -1005,38 +1110,9 @@ textarea{
   }
 }
 
-/* ===== RESPONSIVE ===== */
-
-@media (max-width: 1000px){
-  .ttx-grid,
-  .publish-layout{
-    grid-template-columns:1fr;
-  }
-
-  .ttx-main,
-  .publish-main{
-    border-right:none;
-    border-bottom:3px solid var(--line);
-  }
-
-  .ttx-head-main{
-    flex-direction:column;
-    align-items:flex-start;
-  }
-
-  .ttx-status{
-    text-align:left;
-    min-width:auto;
-  }
-
-  .status-row{
-    justify-content:flex-start;
-  }
-
-  .racing-label-with-crest{
-    justify-content:flex-start;
-  }
-}
+/* =========================
+   RESPONSIVE
+========================= */
 
 @media (max-width: 900px){
   body{
@@ -1047,11 +1123,6 @@ textarea{
     width:100%;
     border-radius:20px;
     padding:18px 18px 58px;
-  }
-
-  .tv-shell::before,
-  .tv-shell::after{
-    display:block;
   }
 
   .tv-bezel{
@@ -1082,6 +1153,38 @@ textarea{
     width:110px;
   }
 
+  .ttx-grid,
+  .publish-layout{
+    grid-template-columns:1fr;
+  }
+
+  .ttx-main,
+  .publish-main{
+    border-right:none;
+    border-bottom:3px solid var(--line);
+  }
+
+  .ttx-head-main{
+    display:flex;
+    flex-direction:column;
+    align-items:flex-start;
+    gap:14px;
+  }
+
+  .ttx-status{
+    width:100%;
+    text-align:left;
+  }
+
+  .status-row{
+    justify-content:flex-start;
+  }
+
+  .status-row .label{
+    min-width:72px;
+    text-align:left;
+  }
+
   .ttx-topnav{
     gap:8px;
     padding:8px 12px;
@@ -1094,6 +1197,151 @@ textarea{
 
   .mini-racing-crest{
     width:36px;
+  }
+
+  .racing-status-crest{
+    width:22px;
+  }
+
+  .racing-news-headline{
+    grid-template-columns:30px minmax(0,1fr);
+    gap:10px;
+  }
+
+  .racing-news-icon{
+    width:30px;
+  }
+
+  .racing-logo-main{
+    width:min(110px, 30vw);
+  }
+}
+
+@media (max-width: 900px) and (orientation: landscape){
+  body{
+    padding:6px;
+  }
+
+  .tv-shell{
+    padding:10px 10px 42px;
+  }
+
+  .tv-bezel{
+    padding:10px;
+  }
+
+  .tv-inner-shadow{
+    padding:4px;
+  }
+
+  .ttx-topline{
+    padding:6px 10px;
+    font-size:12px;
+  }
+
+  .ttx-topnav{
+    padding:6px 10px;
+    gap:6px;
+  }
+
+  .topnav-link{
+    font-size:11px;
+    padding:1px 4px;
+  }
+
+  .ttx-head-main{
+    display:grid;
+    grid-template-columns:minmax(0, 1fr) 210px;
+    gap:10px;
+    padding:10px;
+    align-items:start;
+  }
+
+  .ttx-brand{
+    font-size:clamp(20px, 3vw, 28px);
+  }
+
+  .ttx-subline{
+    font-size:11px;
+    line-height:1.25;
+  }
+
+  .ttx-status{
+    font-size:12px;
+    line-height:1.3;
+    text-align:left;
+  }
+
+  .status-row{
+    gap:6px;
+  }
+
+  .status-row .label{
+    min-width:64px;
+  }
+
+  .mini-racing-crest{
+    width:24px;
+  }
+
+  .racing-status-crest{
+    width:18px;
+  }
+
+  .racing-row{
+    font-size:13px;
+  }
+
+  .ttx-main,
+  .ttx-side{
+    padding:10px;
+  }
+
+  .featured-title{
+    font-size:18px;
+  }
+
+  .featured-body,
+  .news-body,
+  .comment-body{
+    font-size:13px;
+  }
+
+  .rotating-headline{
+    font-size:15px;
+  }
+
+  .ticker-label{
+    padding:6px 10px;
+    font-size:11px;
+  }
+
+  .ticker-window{
+    min-height:30px;
+  }
+
+  .ticker-track{
+    line-height:30px;
+    font-size:12px;
+  }
+
+  .racing-logo-main{
+    width:72px;
+  }
+
+  .racing-news-icon{
+    width:20px;
+  }
+
+  .racing-news-headline{
+    grid-template-columns:20px minmax(0,1fr);
+    gap:8px;
+  }
+
+  .ttx-footer{
+    padding:8px 10px;
+    gap:6px;
+    font-size:11px;
   }
 }
 
@@ -1151,664 +1399,5 @@ textarea{
 
   .racing-status-crest{
     width:22px;
-  }
-
-/* =========================
-   RACING PAGE
-========================= */
-
-/* escudo grande superior */
-
-.racing-logo-block{
-  display:flex;
-  justify-content:center;
-  margin:18px 0 24px;
-}
-
-.racing-logo-main{
-  width:150px;
-  height:auto;
-  image-rendering:pixelated;
-  filter:drop-shadow(0 0 8px rgba(0,255,0,0.45));
-}
-
-/* noticia racing */
-
-.racing-news-item{
-  border-left:6px solid var(--green);
-}
-
-/* layout noticia */
-
-.racing-news-headline{
-  display:flex;
-  gap:12px;
-  align-items:flex-start;
-}
-
-/* escudo pequeño en noticia */
-
-.racing-news-icon{
-  width:34px;
-  height:auto;
-  flex:0 0 auto;
-  image-rendering:pixelated;
-  filter:drop-shadow(0 0 5px rgba(0,255,0,0.35));
-}
-
-/* texto noticia */
-
-.racing-news-text{
-  min-width:0;
-  width:100%;
-}
-
-/* pequeño efecto visual */
-
-.racing-news-item .news-title{
-  color:var(--green);
-}
-
-/* animación leve CRT */
-
-.racing-logo-main,
-.racing-news-icon{
-  transition:transform .15s ease;
-}
-
-.racing-logo-main:hover,
-.racing-news-icon:hover{
-  transform:scale(1.05);
-}
-
-/* =========================
-   AJUSTES RESPONSIVE FINOS
-========================= */
-
-/* evita desbordes raros */
-html,
-body{
-  overflow-x:hidden;
-}
-
-.ttx-page,
-.ttx-main,
-.ttx-side,
-.news-list,
-.comments-list,
-.featured-news,
-.ttx-head-main,
-.ttx-topnav,
-.news-head,
-.racing-news-headline{
-  min-width:0;
-}
-
-/* imágenes nunca se salen */
-img{
-  max-width:100%;
-  height:auto;
-}
-
-/* la marca principal puede encoger */
-.ttx-brand-wrap{
-  min-width:0;
-  flex:1 1 auto;
-}
-
-.ttx-brand{
-  display:block;
-  max-width:100%;
-  overflow-wrap:anywhere;
-}
-
-/* panel derecho superior más flexible */
-.ttx-status{
-  min-width:0;
-  flex:0 1 320px;
-}
-
-/* navegación superior más compacta */
-.ttx-topnav{
-  display:flex;
-  flex-wrap:wrap;
-  gap:8px;
-}
-
-.topnav-link{
-  white-space:nowrap;
-}
-
-/* evita que titulares largos rompan el layout */
-.news-title,
-.featured-title,
-.rotating-headline,
-.news-body,
-.comment-body{
-  overflow-wrap:anywhere;
-  word-break:break-word;
-}
-
-/* ticker más seguro */
-.ticker-window{
-  min-width:0;
-}
-
-/* escudos racing */
-.mini-racing-crest{
-  width:40px;
-}
-
-.racing-status-crest{
-  width:24px;
-}
-
-.racing-logo-main{
-  width:min(150px, 42vw);
-}
-
-.racing-news-icon{
-  width:30px;
-}
-
-/* =========================
-   ESCRITORIO / TABLET HORIZONTAL
-========================= */
-
-@media (min-width: 901px){
-  .ttx-grid{
-    grid-template-columns:minmax(0, 2.2fr) minmax(260px, 0.8fr);
-  }
-
-  .ttx-head-main{
-    display:grid;
-    grid-template-columns:minmax(0, 1fr) minmax(240px, 320px);
-    gap:18px;
-    align-items:start;
-  }
-
-  .news-head{
-    display:grid;
-    grid-template-columns:minmax(0, 1fr) auto;
-    gap:10px;
-    align-items:start;
-  }
-}
-
-/* =========================
-   MÓVIL EN HORIZONTAL Y TABLET PEQUEÑA
-========================= */
-
-@media (max-width: 900px){
-  .tv-shell{
-    padding:14px 14px 52px;
-  }
-
-  .tv-brand-badge{
-    position:static;
-    margin:0 0 10px 0;
-    width:fit-content;
-  }
-
-  .ttx-head-main{
-    display:flex;
-    flex-direction:column;
-    align-items:flex-start;
-    gap:14px;
-  }
-
-  .ttx-status{
-    width:100%;
-    text-align:left;
-  }
-
-  .status-row{
-    justify-content:flex-start;
-    flex-wrap:wrap;
-  }
-
-  .status-row .label{
-    min-width:72px;
-    text-align:left;
-  }
-
-  .ttx-grid{
-    grid-template-columns:1fr;
-  }
-
-  .ttx-main{
-    border-right:none;
-    border-bottom:3px solid var(--line);
-  }
-
-  .news-head{
-    flex-direction:column;
-    gap:4px;
-  }
-
-  .racing-news-headline{
-    display:grid;
-    grid-template-columns:30px minmax(0, 1fr);
-    gap:10px;
-    align-items:start;
-  }
-}
-
-/* =========================
-   MÓVIL EN HORIZONTAL REAL
-========================= */
-
-@media (max-width: 900px) and (orientation: landscape){
-  body{
-    padding:8px;
-  }
-
-  .tv-shell{
-    width:100%;
-    padding:10px 10px 44px;
-  }
-
-  .tv-bezel{
-    padding:10px;
-  }
-
-  .tv-inner-shadow{
-    padding:5px;
-  }
-
-  .ttx-topline{
-    padding:6px 10px;
-    font-size:12px;
-  }
-
-  .ttx-topnav{
-    padding:6px 10px;
-    gap:6px;
-  }
-
-  .topnav-link{
-    font-size:12px;
-    padding:1px 4px;
-  }
-
-  .ttx-head-main{
-    padding:10px;
-    gap:10px;
-  }
-
-  .ttx-brand{
-    font-size:clamp(22px, 3vw, 34px);
-  }
-
-  .ttx-subline{
-    font-size:12px;
-  }
-
-  .ttx-status{
-    font-size:13px;
-    line-height:1.4;
-  }
-
-  .racing-row{
-    font-size:15px;
-  }
-
-  .section-title{
-    margin-bottom:10px;
-  }
-
-  .ttx-main,
-  .ttx-side{
-    padding:10px;
-  }
-
-  .featured-title{
-    font-size:clamp(18px, 2vw, 24px);
-  }
-
-  .featured-body,
-  .news-body,
-  .comment-body{
-    font-size:14px;
-  }
-
-  .rotating-headline{
-    font-size:16px;
-    min-height:auto;
-  }
-
-  .ticker-label{
-    padding:6px 10px;
-    font-size:12px;
-  }
-
-  .ticker-window{
-    min-height:32px;
-  }
-
-  .ticker-track{
-    line-height:32px;
-    font-size:13px;
-  }
-
-  .mini-racing-crest{
-    width:30px;
-  }
-
-  .racing-logo-main{
-    width:90px;
-  }
-
-  .racing-news-icon{
-    width:24px;
-  }
-
-  .ttx-footer{
-    padding:8px 10px;
-    gap:8px;
-    font-size:12px;
-  }
-}
-
-/* =========================
-   ESCRITORIO GRANDE
-========================= */
-
-@media (min-width: 1200px){
-  .ttx-head-main{
-    grid-template-columns:minmax(0, 1fr) 320px;
-  }
-
-  .ttx-status{
-    font-size:15px;
-  }
-}
-
-/* =====================================
-   FIX LAYOUT ESCRITORIO + HORIZONTAL
-===================================== */
-
-/* evita que algo ensanche la página */
-html,
-body{
-  overflow-x:hidden;
-}
-
-/* escritorio y tablet horizontal */
-@media (min-width: 901px){
-
-  .tv-shell{
-    width:min(980px, 100%);
-    padding:24px 24px 60px;
-  }
-
-  .tv-bezel{
-    padding:16px;
-  }
-
-  .tv-inner-shadow{
-    padding:6px;
-  }
-
-  .ttx-topline{
-    padding:8px 12px;
-    font-size:13px;
-  }
-
-  .ttx-topnav{
-    padding:8px 12px;
-    gap:6px;
-  }
-
-  .topnav-link{
-    font-size:12px;
-    padding:2px 4px;
-  }
-
-  .ttx-head-main{
-    display:grid;
-    grid-template-columns:minmax(0, 1fr) 240px;
-    gap:12px;
-    padding:12px;
-    align-items:start;
-  }
-
-  .ttx-brand{
-    font-size:clamp(22px, 2.2vw, 34px);
-    line-height:1;
-  }
-
-  .ttx-subline{
-    font-size:12px;
-    line-height:1.3;
-  }
-
-  .ttx-status{
-    min-width:0;
-    font-size:13px;
-    line-height:1.35;
-    text-align:left;
-  }
-
-  .status-row{
-    justify-content:flex-start;
-    flex-wrap:wrap;
-    gap:8px;
-  }
-
-  .status-row .label{
-    min-width:68px;
-    text-align:left;
-  }
-
-  .racing-row{
-    font-size:14px;
-  }
-
-  .mini-racing-crest{
-    width:28px;
-  }
-
-  .racing-status-crest{
-    width:20px;
-  }
-
-  .ttx-grid{
-    display:grid;
-    grid-template-columns:minmax(0, 1.7fr) minmax(220px, 0.7fr);
-    min-height:auto;
-  }
-
-  .ttx-main,
-  .ttx-side{
-    padding:12px;
-  }
-
-  .news-head{
-    display:flex;
-    flex-direction:column;
-    gap:4px;
-  }
-
-  .featured-title{
-    font-size:clamp(18px, 2vw, 26px);
-  }
-
-  .featured-body,
-  .news-body,
-  .comment-body{
-    font-size:14px;
-  }
-
-  .rotating-headline{
-    font-size:16px;
-    min-height:auto;
-  }
-
-  .racing-logo-main{
-    width:84px;
-  }
-
-  .racing-news-icon{
-    width:22px;
-  }
-
-  .racing-news-headline{
-    display:grid;
-    grid-template-columns:22px minmax(0,1fr);
-    gap:8px;
-    align-items:start;
-  }
-
-  .ttx-footer{
-    padding:8px 10px;
-    gap:8px;
-    font-size:12px;
-  }
-}
-
-/* móvil horizontal real */
-@media (max-width: 900px) and (orientation: landscape){
-
-  body{
-    padding:6px;
-  }
-
-  .tv-shell{
-    width:100%;
-    padding:10px 10px 42px;
-  }
-
-  .tv-bezel{
-    padding:10px;
-  }
-
-  .tv-inner-shadow{
-    padding:4px;
-  }
-
-  .ttx-topline{
-    padding:6px 10px;
-    font-size:12px;
-  }
-
-  .ttx-topnav{
-    padding:6px 10px;
-    gap:6px;
-  }
-
-  .topnav-link{
-    font-size:11px;
-    padding:1px 4px;
-  }
-
-  .ttx-head-main{
-    display:grid;
-    grid-template-columns:minmax(0, 1fr) 210px;
-    gap:10px;
-    padding:10px;
-    align-items:start;
-  }
-
-  .ttx-brand{
-    font-size:clamp(20px, 3vw, 28px);
-  }
-
-  .ttx-subline{
-    font-size:11px;
-    line-height:1.25;
-  }
-
-  .ttx-status{
-    min-width:0;
-    font-size:12px;
-    line-height:1.3;
-    text-align:left;
-  }
-
-  .status-row{
-    justify-content:flex-start;
-    flex-wrap:wrap;
-    gap:6px;
-  }
-
-  .status-row .label{
-    min-width:64px;
-    text-align:left;
-  }
-
-  .mini-racing-crest{
-    width:24px;
-  }
-
-  .racing-status-crest{
-    width:18px;
-  }
-
-  .racing-row{
-    font-size:13px;
-  }
-
-  .ttx-grid{
-    grid-template-columns:1fr;
-  }
-
-  .ttx-main{
-    border-right:none;
-    border-bottom:3px solid var(--line);
-  }
-
-  .ttx-main,
-  .ttx-side{
-    padding:10px;
-  }
-
-  .featured-title{
-    font-size:18px;
-  }
-
-  .featured-body,
-  .news-body,
-  .comment-body{
-    font-size:13px;
-  }
-
-  .rotating-headline{
-    font-size:15px;
-    min-height:auto;
-  }
-
-  .ticker-label{
-    padding:6px 10px;
-    font-size:11px;
-  }
-
-  .ticker-window{
-    min-height:30px;
-  }
-
-  .ticker-track{
-    line-height:30px;
-    font-size:12px;
-  }
-
-  .racing-logo-main{
-    width:72px;
-  }
-
-  .racing-news-icon{
-    width:20px;
-  }
-
-  .racing-news-headline{
-    display:grid;
-    grid-template-columns:20px minmax(0,1fr);
-    gap:8px;
-  }
-
-  .ttx-footer{
-    padding:8px 10px;
-    gap:6px;
-    font-size:11px;
   }
 }
