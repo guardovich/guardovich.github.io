@@ -1172,13 +1172,11 @@ textarea{
   filter:drop-shadow(0 0 8px rgba(0,255,0,0.45));
 }
 
-
 /* noticia racing */
 
 .racing-news-item{
   border-left:6px solid var(--green);
 }
-
 
 /* layout noticia */
 
@@ -1187,7 +1185,6 @@ textarea{
   gap:12px;
   align-items:flex-start;
 }
-
 
 /* escudo pequeño en noticia */
 
@@ -1199,7 +1196,6 @@ textarea{
   filter:drop-shadow(0 0 5px rgba(0,255,0,0.35));
 }
 
-
 /* texto noticia */
 
 .racing-news-text{
@@ -1207,13 +1203,11 @@ textarea{
   width:100%;
 }
 
-
 /* pequeño efecto visual */
 
 .racing-news-item .news-title{
   color:var(--green);
 }
-
 
 /* animación leve CRT */
 
@@ -1226,4 +1220,3 @@ textarea{
 .racing-news-icon:hover{
   transform:scale(1.05);
 }
- }
