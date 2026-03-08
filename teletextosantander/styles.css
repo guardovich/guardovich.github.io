@@ -1152,4 +1152,78 @@ textarea{
   .racing-status-crest{
     width:22px;
   }
+
+/* =========================
+   RACING PAGE
+========================= */
+
+/* escudo grande superior */
+
+.racing-logo-block{
+  display:flex;
+  justify-content:center;
+  margin:18px 0 24px;
 }
+
+.racing-logo-main{
+  width:150px;
+  height:auto;
+  image-rendering:pixelated;
+  filter:drop-shadow(0 0 8px rgba(0,255,0,0.45));
+}
+
+
+/* noticia racing */
+
+.racing-news-item{
+  border-left:6px solid var(--green);
+}
+
+
+/* layout noticia */
+
+.racing-news-headline{
+  display:flex;
+  gap:12px;
+  align-items:flex-start;
+}
+
+
+/* escudo pequeño en noticia */
+
+.racing-news-icon{
+  width:34px;
+  height:auto;
+  flex:0 0 auto;
+  image-rendering:pixelated;
+  filter:drop-shadow(0 0 5px rgba(0,255,0,0.35));
+}
+
+
+/* texto noticia */
+
+.racing-news-text{
+  min-width:0;
+  width:100%;
+}
+
+
+/* pequeño efecto visual */
+
+.racing-news-item .news-title{
+  color:var(--green);
+}
+
+
+/* animación leve CRT */
+
+.racing-logo-main,
+.racing-news-icon{
+  transition:transform .15s ease;
+}
+
+.racing-logo-main:hover,
+.racing-news-icon:hover{
+  transform:scale(1.05);
+}
+ }
