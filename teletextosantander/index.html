@@ -79,7 +79,12 @@
 
                 <div class="status-row">
                   <span class="label c-yellow">MAREA</span>
-                  <span id="tide-value">--</span>
+                  <span id="tide-value">PENDIENTE</span>
+                </div>
+
+                <div class="status-row">
+                  <span class="label c-red">RACING</span>
+                  <span id="racing-last-result">--</span>
                 </div>
 
               </div>
@@ -146,23 +151,19 @@
           </main>
 
           <section style="padding:12px 18px">
-
             <div class="tele-separator">
               ████████████████████████████████████████████████████████
             </div>
 
             <div style="font-size:16px;text-transform:uppercase">
               <span class="c-cyan">PÁGINAS DISPONIBLES</span>
-
               <br><br>
-
               <a href="./publicar.html"><span class="c-yellow">101</span> PUBLICAR INFORMACIÓN</a><br>
               <a href="./archivo.html"><span class="c-magenta">102</span> ARCHIVO NOTICIAS</a><br>
               <a href="./tiempo.html"><span class="c-green">103</span> TIEMPO SANTANDER</a><br>
               <a href="./racing.html"><span class="c-red">104</span> RACING ACTUALIDAD</a><br>
               <a href="./avisos.html"><span class="c-blue">106</span> AVISOS CIUDADANOS</a>
             </div>
-
           </section>
 
           <footer class="ttx-footer tele-footer">
@@ -286,11 +287,40 @@ async function refreshStatusData() {
   }
 }
 
+async function refreshRacingResult() {
+  try {
+    const url = "https://www.thesportsdb.com/api/v1/json/1/eventslast.php?id=133726";
+    const response = await fetch(url);
+    const data = await response.json();
+
+    const event = data?.results?.[0];
+    const el = document.getElementById("racing-last-result");
+    if (!el || !event) return;
+
+    const home = event.strHomeTeam || "Racing";
+    const away = event.strAwayTeam || "";
+    const homeScore = event.intHomeScore ?? "-";
+    const awayScore = event.intAwayScore ?? "-";
+
+    const shortHome = home.replace("Racing de Santander", "Racing");
+    const shortAway = away
+      .replace("Racing de Santander", "Racing")
+      .replace("Real Racing Club de Santander", "Racing");
+
+    el.textContent = `${shortHome} ${homeScore}-${awayScore} ${shortAway}`;
+  } catch (e) {
+    console.log("error racing", e);
+  }
+}
+
 updateClock();
 setInterval(updateClock, 1000);
 
 refreshStatusData();
 setInterval(refreshStatusData, 3600000);
+
+refreshRacingResult();
+setInterval(refreshRacingResult, 300000);
 
 document.getElementById("mod-access").addEventListener("click", activateModeratorMode);
 </script>
