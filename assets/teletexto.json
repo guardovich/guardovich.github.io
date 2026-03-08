@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-03-07T18:34:09.939Z",
+  "generatedAt": "2026-03-08T02:06:01.888Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Hunting for elusive \"ghost elephants\"",
+          "link": "https://arstechnica.com/science/2026/03/hunting-for-elusive-ghost-elephants/",
+          "summary": "Werner Herzog directed this evocative NatGeo documentary of an ornithologist's quest to find a new species.",
+          "isoDate": "2026-03-07T21:06:46.000Z"
+        },
         {
           "title": "Sony appears to be testing dynamic pricing on PlayStation games",
           "link": "https://www.theverge.com/games/891085/sony-dynamic-pricing-playstation-games",
@@ -58,12 +64,6 @@
           "link": "https://arstechnica.com/security/2026/03/from-iran-to-ukraine-everyones-trying-to-hack-security-cameras/",
           "summary": "Research shows apparent Iranian state hackers trying to hijack consumer-grade cameras.",
           "isoDate": "2026-03-07T11:30:06.000Z"
-        },
-        {
-          "title": "DJI will pay $30K to the man who accidentally hacked 7,000 Romo robovacs",
-          "link": "https://www.theverge.com/news/890982/dji-pay-sammy-azdoufal-robot-vacuum-hack-romo-security",
-          "summary": "The DJI Romo robot vacuums. | Image: DJI\t\n\nOn Valentine's Day, I brought you a story that's since made headlines all around the world: How one man, just trying to steer his DJI robot vacuum with a PlayStation gamepad, discovered an entire network of 7,000 remote-control DJI robots ready to let him peek into other people's homes.\nTo be clear, DJI had already begun addressing some of the related vulnerabilities before the man, Sammy Azdoufal, showed The Verge just how much he could access. But it wasn't clear whether DJI would pay him for his discovery, particularly after how it treated security researcher Kevin Finisterre back in 2017 - or how soon DJI might fully patch the additiona …\nRead the full story at The Verge.",
-          "isoDate": "2026-03-07T02:59:32.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-03-07T18:34:04.227Z"
+          "isoDate": "2026-03-08T02:05:56.342Z"
         },
         {
           "title": "Xbox confirms new console is coming - but can it revive the brand?",
@@ -204,15 +204,15 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "Codex Security: now in research preview ",
-          "link": "https://openai.com/index/codex-security-now-in-research-preview",
-          "summary": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.",
-          "isoDate": "2026-03-06T10:00:00.000Z"
-        },
-        {
           "title": "How Descript enables multilingual video dubbing at scale",
           "link": "https://openai.com/index/descript",
           "summary": "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across languages.",
+          "isoDate": "2026-03-06T10:00:00.000Z"
+        },
+        {
+          "title": "Codex Security: now in research preview ",
+          "link": "https://openai.com/index/codex-security-now-in-research-preview",
+          "summary": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.",
           "isoDate": "2026-03-06T10:00:00.000Z"
         },
         {
@@ -222,9 +222,9 @@
           "isoDate": "2026-03-06T07:00:00.000Z"
         },
         {
-          "title": "GPT-5.4 Thinking System Card",
-          "link": "https://openai.com/index/gpt-5-4-thinking-system-card",
-          "summary": "",
+          "title": "Reasoning models struggle to control their chains of thought, and that’s good",
+          "link": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
+          "summary": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
           "isoDate": "2026-03-05T10:00:00.000Z"
         },
         {
@@ -234,9 +234,9 @@
           "isoDate": "2026-03-05T10:00:00.000Z"
         },
         {
-          "title": "Reasoning models struggle to control their chains of thought, and that’s good",
-          "link": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
-          "summary": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
+          "title": "GPT-5.4 Thinking System Card",
+          "link": "https://openai.com/index/gpt-5-4-thinking-system-card",
+          "summary": "",
           "isoDate": "2026-03-05T10:00:00.000Z"
         },
         {
@@ -244,6 +244,12 @@
           "link": "https://openai.com/index/ai-education-opportunity",
           "summary": "OpenAI shares new tools, certifications, and measurement resources to help schools and universities close AI capability gaps and expand opportunity.",
           "isoDate": "2026-03-05T09:00:00.000Z"
+        },
+        {
+          "title": "Introducing the Adoption news channel",
+          "link": "https://openai.com/index/introducing-the-adoption-news-channel",
+          "summary": "Practical insights and frameworks to turn AI progress into business advantage",
+          "isoDate": "2026-03-05T00:00:00.000Z"
         },
         {
           "title": "Introducing ChatGPT for Excel and new financial data integrations",
@@ -256,12 +262,6 @@
           "link": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
           "summary": "Five AI value models show how leaders can sequence AI from workforce fluency to process reinvention and build durable business advantage.",
           "isoDate": "2026-03-05T00:00:00.000Z"
-        },
-        {
-          "title": "Introducing the Adoption news channel",
-          "link": "https://openai.com/index/introducing-the-adoption-news-channel",
-          "summary": "Practical insights and frameworks to turn AI progress into business advantage",
-          "isoDate": "2026-03-05T00:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-03-07T18:34:08.349Z"
+          "isoDate": "2026-03-08T02:05:59.523Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 58\nChar: =",
-          "isoDate": "2026-03-07T18:34:05.939Z"
+          "isoDate": "2026-03-08T02:05:57.486Z"
         },
         {
           "title": "Laser-Based 3D Printing Could Build Future Bases on the Moon",
@@ -324,12 +324,57 @@
       "maxItems": 120,
       "items": [
         {
-          "title": "RESULTADOS (EN DIRECTO)",
+          "title": "RESULTADOS (ÚLTIMOS)",
           "link": "",
           "summary": ""
         },
         {
-          "title": "ATL  1-1  REA",
+          "title": "ATH  0-1  BAR",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "ATL  3-2  REA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "LEV  1-1  GIR",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "OSA  2-2  MAL",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "CEL  1-2  REA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "RAY  3-0  REA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "REA  0-1  GET",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "GIR  1-2  CEL",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "REA  2-2  SEV",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "VAL  1-0  OSA",
           "link": "",
           "summary": ""
         },
@@ -344,7 +389,7 @@
           "summary": ""
         },
         {
-          "title": " 1  BAR  26  21  1  4  71  26  45  64",
+          "title": " 1  BAR  27  22  1  4  72  26  46  67",
           "link": "",
           "summary": ""
         },
@@ -354,7 +399,7 @@
           "summary": ""
         },
         {
-          "title": " 3  ATL  27  15  7  5  44  24  20  52",
+          "title": " 3  ATL  27  16  6  5  46  25  21  54",
           "link": "",
           "summary": ""
         },
@@ -374,17 +419,17 @@
           "summary": ""
         },
         {
-          "title": " 7  REA  27   9  9  9  39  39   0  36",
+          "title": " 7  ESP  26  10  6 10  33  39  -6  36",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 8  ESP  26  10  6 10  33  39  -6  36",
+          "title": " 8  REA  27   9  8 10  40  41  -1  35",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 9  ATH  26  10  5 11  30  36  -6  35",
+          "title": " 9  ATH  27  10  5 12  30  37  -7  35",
           "link": "",
           "summary": ""
         },
