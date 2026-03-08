@@ -1220,3 +1220,306 @@ textarea{
 .racing-news-icon:hover{
   transform:scale(1.05);
 }
+
+/* =========================
+   AJUSTES RESPONSIVE FINOS
+========================= */
+
+/* evita desbordes raros */
+html,
+body{
+  overflow-x:hidden;
+}
+
+.ttx-page,
+.ttx-main,
+.ttx-side,
+.news-list,
+.comments-list,
+.featured-news,
+.ttx-head-main,
+.ttx-topnav,
+.news-head,
+.racing-news-headline{
+  min-width:0;
+}
+
+/* imágenes nunca se salen */
+img{
+  max-width:100%;
+  height:auto;
+}
+
+/* la marca principal puede encoger */
+.ttx-brand-wrap{
+  min-width:0;
+  flex:1 1 auto;
+}
+
+.ttx-brand{
+  display:block;
+  max-width:100%;
+  overflow-wrap:anywhere;
+}
+
+/* panel derecho superior más flexible */
+.ttx-status{
+  min-width:0;
+  flex:0 1 320px;
+}
+
+/* navegación superior más compacta */
+.ttx-topnav{
+  display:flex;
+  flex-wrap:wrap;
+  gap:8px;
+}
+
+.topnav-link{
+  white-space:nowrap;
+}
+
+/* evita que titulares largos rompan el layout */
+.news-title,
+.featured-title,
+.rotating-headline,
+.news-body,
+.comment-body{
+  overflow-wrap:anywhere;
+  word-break:break-word;
+}
+
+/* ticker más seguro */
+.ticker-window{
+  min-width:0;
+}
+
+/* escudos racing */
+.mini-racing-crest{
+  width:40px;
+}
+
+.racing-status-crest{
+  width:24px;
+}
+
+.racing-logo-main{
+  width:min(150px, 42vw);
+}
+
+.racing-news-icon{
+  width:30px;
+}
+
+/* =========================
+   ESCRITORIO / TABLET HORIZONTAL
+========================= */
+
+@media (min-width: 901px){
+  .ttx-grid{
+    grid-template-columns:minmax(0, 2.2fr) minmax(260px, 0.8fr);
+  }
+
+  .ttx-head-main{
+    display:grid;
+    grid-template-columns:minmax(0, 1fr) minmax(240px, 320px);
+    gap:18px;
+    align-items:start;
+  }
+
+  .news-head{
+    display:grid;
+    grid-template-columns:minmax(0, 1fr) auto;
+    gap:10px;
+    align-items:start;
+  }
+}
+
+/* =========================
+   MÓVIL EN HORIZONTAL Y TABLET PEQUEÑA
+========================= */
+
+@media (max-width: 900px){
+  .tv-shell{
+    padding:14px 14px 52px;
+  }
+
+  .tv-brand-badge{
+    position:static;
+    margin:0 0 10px 0;
+    width:fit-content;
+  }
+
+  .ttx-head-main{
+    display:flex;
+    flex-direction:column;
+    align-items:flex-start;
+    gap:14px;
+  }
+
+  .ttx-status{
+    width:100%;
+    text-align:left;
+  }
+
+  .status-row{
+    justify-content:flex-start;
+    flex-wrap:wrap;
+  }
+
+  .status-row .label{
+    min-width:72px;
+    text-align:left;
+  }
+
+  .ttx-grid{
+    grid-template-columns:1fr;
+  }
+
+  .ttx-main{
+    border-right:none;
+    border-bottom:3px solid var(--line);
+  }
+
+  .news-head{
+    flex-direction:column;
+    gap:4px;
+  }
+
+  .racing-news-headline{
+    display:grid;
+    grid-template-columns:30px minmax(0, 1fr);
+    gap:10px;
+    align-items:start;
+  }
+}
+
+/* =========================
+   MÓVIL EN HORIZONTAL REAL
+========================= */
+
+@media (max-width: 900px) and (orientation: landscape){
+  body{
+    padding:8px;
+  }
+
+  .tv-shell{
+    width:100%;
+    padding:10px 10px 44px;
+  }
+
+  .tv-bezel{
+    padding:10px;
+  }
+
+  .tv-inner-shadow{
+    padding:5px;
+  }
+
+  .ttx-topline{
+    padding:6px 10px;
+    font-size:12px;
+  }
+
+  .ttx-topnav{
+    padding:6px 10px;
+    gap:6px;
+  }
+
+  .topnav-link{
+    font-size:12px;
+    padding:1px 4px;
+  }
+
+  .ttx-head-main{
+    padding:10px;
+    gap:10px;
+  }
+
+  .ttx-brand{
+    font-size:clamp(22px, 3vw, 34px);
+  }
+
+  .ttx-subline{
+    font-size:12px;
+  }
+
+  .ttx-status{
+    font-size:13px;
+    line-height:1.4;
+  }
+
+  .racing-row{
+    font-size:15px;
+  }
+
+  .section-title{
+    margin-bottom:10px;
+  }
+
+  .ttx-main,
+  .ttx-side{
+    padding:10px;
+  }
+
+  .featured-title{
+    font-size:clamp(18px, 2vw, 24px);
+  }
+
+  .featured-body,
+  .news-body,
+  .comment-body{
+    font-size:14px;
+  }
+
+  .rotating-headline{
+    font-size:16px;
+    min-height:auto;
+  }
+
+  .ticker-label{
+    padding:6px 10px;
+    font-size:12px;
+  }
+
+  .ticker-window{
+    min-height:32px;
+  }
+
+  .ticker-track{
+    line-height:32px;
+    font-size:13px;
+  }
+
+  .mini-racing-crest{
+    width:30px;
+  }
+
+  .racing-logo-main{
+    width:90px;
+  }
+
+  .racing-news-icon{
+    width:24px;
+  }
+
+  .ttx-footer{
+    padding:8px 10px;
+    gap:8px;
+    font-size:12px;
+  }
+}
+
+/* =========================
+   ESCRITORIO GRANDE
+========================= */
+
+@media (min-width: 1200px){
+  .ttx-head-main{
+    grid-template-columns:minmax(0, 1fr) 320px;
+  }
+
+  .ttx-status{
+    font-size:15px;
+  }
+}
