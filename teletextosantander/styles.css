@@ -96,6 +96,16 @@ body{
   height:16px;
   position:relative;
   image-rendering:pixelated;
+  background:transparent;
+}
+
+.tv-pixel-logo::before{
+  content:"";
+  position:absolute;
+  top:0;
+  left:0;
+  width:4px;
+  height:4px;
   background:#00e5ff;
   box-shadow:
     4px 0 0 #00e5ff,
@@ -111,6 +121,18 @@ body{
     8px 8px 0 #00e5ff,
     12px 8px 0 #00e5ff,
     16px 8px 0 #00e5ff;
+}
+
+.tv-pixel-logo::after{
+  content:"";
+  position:absolute;
+  top:-4px;
+  left:2px;
+  width:4px;
+  height:4px;
+  background:#ffe600;
+  box-shadow:12px 0 0 #ffe600;
+}
 }
 
 .tv-pixel-logo::before,
