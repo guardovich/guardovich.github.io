@@ -1559,4 +1559,30 @@ textarea{
     width:100%;
   }
 }
+  .libertad-banner{
+  display:flex;
+  justify-content:center;
+  margin:0 0 14px;
+}
+
+.libertad-banner img{
+  width:100%;
+  max-width:260px;
+  height:auto;
+  image-rendering:pixelated;
+  display:block;
+  filter:drop-shadow(0 0 8px rgba(255,255,255,0.12));
+}
+
+@media (max-width: 900px){
+  .libertad-banner img{
+    max-width:220px;
+  }
+}
+
+@media (max-width: 640px){
+  .libertad-banner img{
+    max-width:200px;
+  }
+}
 
