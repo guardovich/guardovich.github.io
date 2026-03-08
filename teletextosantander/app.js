@@ -1,31 +1,6 @@
-const weatherData = {
-  city: "Santander",
-  temperature: "13°C",
-  tide: "ALTA 18:42"
-};
-
 let rotatingIndex = 0;
 let rotatingInterval = null;
 let moderatorMode = false;
-
-function setStatusData() {
-  const tempEl = document.getElementById("temp-value");
-  const tideEl = document.getElementById("tide-value");
-
-  if (tempEl) tempEl.textContent = weatherData.temperature;
-  if (tideEl) tideEl.textContent = weatherData.tide;
-}
-
-async function refreshStatusData() {
-  try {
-    // De momento usa datos locales.
-    // Aquí luego puedes meter una API real de tiempo y mareas.
-    setStatusData();
-    console.log("Estado actualizado:", new Date().toLocaleString("es-ES"));
-  } catch (error) {
-    console.error("Error actualizando tiempo y mareas:", error);
-  }
-}
 
 function escapeHtml(str = "") {
   return String(str)
@@ -42,28 +17,6 @@ function formatTime(value) {
     hour: "2-digit",
     minute: "2-digit"
   });
-}
-
-function updateClock() {
-  const clockEl = document.getElementById("clock-box");
-  const dateEl = document.getElementById("date-box");
-  const now = new Date();
-
-  if (clockEl) {
-    clockEl.textContent = now.toLocaleTimeString("es-ES", {
-      hour: "2-digit",
-      minute: "2-digit"
-    });
-  }
-
-  if (dateEl) {
-    dateEl.textContent = now.toLocaleDateString("es-ES", {
-      weekday: "short",
-      day: "2-digit",
-      month: "short",
-      year: "numeric"
-    }).toUpperCase();
-  }
 }
 
 function activateModeratorMode() {
@@ -285,38 +238,8 @@ async function hideNews(id) {
   location.reload();
 }
 
-function injectModeratorAccess() {
-  const footer = document.querySelector(".ttx-footer");
-  if (!footer) return;
-
-  const modControl = document.createElement("span");
-  modControl.className = "footer-item footer-mod";
-  modControl.style.cursor = "pointer";
-
-  if (moderatorMode) {
-    modControl.innerHTML = `<span class="c-red">999</span> MOD ON`;
-    modControl.onclick = deactivateModeratorMode;
-    modControl.title = "Desactivar modo moderador";
-  } else {
-    modControl.innerHTML = `<span class="c-red">999</span> MOD`;
-    modControl.onclick = activateModeratorMode;
-    modControl.title = "Activar modo moderador";
-  }
-
-  footer.appendChild(modControl);
-}
-
 async function init() {
   restoreModeratorMode();
-
-  setStatusData();
-  await refreshStatusData();
-
-  updateClock();
-  setInterval(updateClock, 1000);
-
-  // Actualiza temperatura y mareas cada hora
-  setInterval(refreshStatusData, 60 * 60 * 1000);
 
   await ensureSession();
 
@@ -330,7 +253,6 @@ async function init() {
   renderComments(comments);
   buildTicker(news);
   startRotatingHeadlines(news);
-  injectModeratorAccess();
 }
 
 document.addEventListener("DOMContentLoaded", init);
