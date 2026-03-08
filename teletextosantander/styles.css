@@ -1343,8 +1343,6 @@ textarea{
     gap:6px;
     font-size:11px;
   }
-}
-
 @media (max-width: 640px){
   body{
     padding:0;
@@ -1400,26 +1398,82 @@ textarea{
   .racing-status-crest{
     width:22px;
   }
-  .racing-lineup-box{
+}
+
+/* =========================
+   BANNER LOGO PORTADA
+========================= */
+
+.ttx-brand-logo{
+  display:flex;
+  align-items:center;
+  justify-content:flex-start;
+  width:100%;
+}
+
+.ttx-brand-logo img{
+  width:min(560px, 100%);
+  height:auto;
+  image-rendering:pixelated;
+  display:block;
+  filter:drop-shadow(0 0 8px rgba(0,255,255,0.28));
+}
+
+/* =========================
+   ALINEACIÓN RACING
+========================= */
+
+.racing-lineup-box{
   margin:0 0 18px;
 }
 
 .racing-lineup-field{
+  position:relative;
   margin:10px 0 18px;
-  padding:16px 12px;
+  padding:18px 12px;
   border:2px solid var(--green);
   background:
-    linear-gradient(
+    linear-gradient(to bottom, rgba(0,255,0,0.10), rgba(0,255,0,0.04)),
+    repeating-linear-gradient(
       to bottom,
-      rgba(0,255,0,0.05),
-      rgba(0,255,0,0.02)
-    );
+      rgba(0,255,0,0.06) 0px,
+      rgba(0,255,0,0.06) 26px,
+      rgba(0,0,0,0.00) 26px,
+      rgba(0,0,0,0.00) 52px
+    ),
+    #001a00;
+  overflow:hidden;
   display:flex;
   flex-direction:column;
-  gap:14px;
+  gap:16px;
+}
+
+.racing-lineup-field::before{
+  content:"";
+  position:absolute;
+  left:8%;
+  right:8%;
+  top:50%;
+  height:2px;
+  background:rgba(255,255,255,0.22);
+  transform:translateY(-50%);
+}
+
+.racing-lineup-field::after{
+  content:"";
+  position:absolute;
+  width:84px;
+  height:84px;
+  border:2px solid rgba(255,255,255,0.18);
+  border-radius:50%;
+  left:50%;
+  top:50%;
+  transform:translate(-50%, -50%);
 }
 
 .racing-lineup-field .line{
+  position:relative;
+  z-index:1;
   display:flex;
   justify-content:center;
   align-items:center;
@@ -1432,12 +1486,36 @@ textarea{
   text-align:center;
   padding:6px 8px;
   border:1px solid var(--green);
-  background:#000;
+  background:rgba(0,0,0,0.82);
   color:var(--green);
   font-weight:700;
   text-transform:uppercase;
   font-size:13px;
   text-shadow:0 0 6px rgba(0,255,0,0.45);
+  box-shadow:
+    inset 0 0 0 1px rgba(255,255,255,0.04),
+    0 0 8px rgba(0,255,0,0.10);
+}
+
+.line-keeper{
+  margin-top:2px;
+}
+
+.line-def{
+  margin-top:4px;
+}
+
+.line-mid2{
+  margin-top:6px;
+}
+
+.line-mid3{
+  margin-top:6px;
+}
+
+.line-striker{
+  margin-top:4px;
+  margin-bottom:2px;
 }
 
 .line-keeper .player-card,
@@ -1445,10 +1523,23 @@ textarea{
   min-width:150px;
 }
 
+/* =========================
+   AJUSTES RESPONSIVE EXTRA
+========================= */
+
 @media (max-width: 900px){
+  .ttx-brand-logo img{
+    width:min(420px, 100%);
+  }
+
   .racing-lineup-field{
-    padding:12px 8px;
+    padding:14px 8px;
     gap:10px;
+  }
+
+  .racing-lineup-field::after{
+    width:64px;
+    height:64px;
   }
 
   .player-card{
@@ -1462,3 +1553,10 @@ textarea{
     min-width:120px;
   }
 }
+
+@media (max-width: 640px){
+  .ttx-brand-logo img{
+    width:100%;
+  }
+}
+
