@@ -174,7 +174,7 @@ function renderNewsPage(pageItems) {
 function startNewsPageRotation(allNews) {
   if (newsPageInterval) clearInterval(newsPageInterval);
 
-  newsPages = splitIntoPages(allNews, 6);
+  newsPages = splitIntoPages(allNews, 4);
   currentNewsPage = 0;
 
   if (!newsPages.length) {
@@ -189,7 +189,7 @@ function startNewsPageRotation(allNews) {
   newsPageInterval = setInterval(() => {
     currentNewsPage = (currentNewsPage + 1) % newsPages.length;
     renderNewsPage(newsPages[currentNewsPage]);
-  }, 20000);
+  }, 15000);
 }
 
 async function loadNews() {
