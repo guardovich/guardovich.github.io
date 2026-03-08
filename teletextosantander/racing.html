@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>P104 Racing · Teletexto Santander</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div class="tv-shell">
+
+<div class="tv-brand-badge">
+<div class="tv-pixel-logo"></div>
+<div class="tv-brand-text">TV<br>SANTANDER</div>
+</div>
+
+<div class="tv-bezel">
+<div class="tv-inner-shadow">
+<div class="tv-screen-curved">
+
+<div class="tv-static"></div>
+<div class="tv-screen-overlay"></div>
+<div class="tv-screen-glow"></div>
+
+<div class="ttx-page">
+
+<header class="ttx-header">
+
+<div class="ttx-topline">
+<div class="ttx-pagecode">
+<span class="c-green">P104</span>
+<span class="ttx-sep">|</span>
+<span id="clock-box">00:00</span>
+</div>
+
+<div class="ttx-datebox">
+<span class="c-yellow">RACING</span>
+</div>
+</div>
+
+<div class="ttx-head-main">
+
+<div class="ttx-brand-wrap">
+<div class="ttx-brand">
+<span class="c-green">RACING</span><span class="c-white">SANTANDER</span>
+</div>
+
+<div class="ttx-subline">
+<span class="c-green">ACTUALIDAD</span>
+<span class="sep">·</span>
+<span>RESULTADOS</span>
+<span class="sep">·</span>
+<span>CLASIFICACIÓN</span>
+</div>
+
+</div>
+</div>
+</header>
+
+<main class="ttx-main" style="border-right:none;">
+
+<div class="section-title c-black-on-green">RACING</div>
+
+<div class="tele-separator">
+████████████████████████████████████████████████████████
+</div>
+
+<div id="racing-news" class="news-list"></div>
+
+</main>
+
+<footer class="ttx-footer tele-footer">
+<a class="footer-link" href="./index.html"><span class="c-cyan">100</span> PORTADA</a>
+<a class="footer-link" href="./publicar.html"><span class="c-yellow">101</span> PUBLICAR</a>
+<a class="footer-link" href="./archivo.html"><span class="c-magenta">102</span> ARCHIVO</a>
+<a class="footer-link" href="./tiempo.html"><span class="c-green">103</span> TIEMPO</a>
+<a class="footer-link" href="./racing.html"><span class="c-red">104</span> RACING</a>
+<a class="footer-link" href="./avisos.html"><span class="c-blue">106</span> AVISOS</a>
+<span class="footer-cursor">█</span>
+</footer>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script src="supabase.js"></script>
+
+<script>
+
+const supabaseClient = supabase.createClient(SUPABASE_URL, SUPABASE_KEY)
+
+async function loadRacing(){
+
+const { data } = await supabaseClient
+.from("posts")
+.select("*")
+.eq("kind","news")
+.ilike("title","%racing%")
+.eq("approved",true)
+.order("created_at",{ascending:false})
+.limit(20)
+
+const container = document.getElementById("racing-news")
+
+container.innerHTML = data.map(item => `
+<article class="news-item">
+<div class="news-head">
+<h3 class="news-title">${item.title}</h3>
+<div class="news-time">${item.zone || "Deportes"}</div>
+</div>
+<p class="news-body">${item.body}</p>
+</article>
+`).join("")
+
+}
+
+loadRacing()
+
+</script>
+
+</body>
+</html>
