@@ -524,7 +524,7 @@ textarea{
   padding-left:100%;
   line-height:39px;
   text-transform:uppercase;
-  animation:ticker-scroll 52s linear infinite;
+  animation:ticker-scroll 120s linear infinite;
 }
 
 @keyframes ticker-scroll{
