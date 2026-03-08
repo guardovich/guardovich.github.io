@@ -27,10 +27,10 @@
               <div class="ttx-pagecode">
                 <span class="c-green">P106</span>
                 <span class="ttx-sep">|</span>
-                <span>AVISOS CIUDADANOS</span>
+                <span id="clock-box">00:00</span>
               </div>
               <div class="ttx-datebox">
-                <a class="top-link" href="./index.html">VOLVER</a>
+                <span id="date-box">AVISOS</span>
               </div>
             </div>
 
@@ -50,22 +50,8 @@
             <div class="section-title c-black-on-cyan">TABLÓN 106</div>
             <div class="tele-separator">████████████████████████████████████████████████████████</div>
 
-            <div class="news-list">
-              <article class="news-item">
-                <div class="news-head">
-                  <h3 class="news-title">CORTE DE AGUA EN CALLE ALTA</h3>
-                  <div class="news-time">CENTRO · 09:12</div>
-                </div>
-                <p class="news-body">Servicio interrumpido temporalmente por obras de mantenimiento.</p>
-              </article>
-
-              <article class="news-item">
-                <div class="news-head">
-                  <h3 class="news-title">SE BUSCA PERRO PERDIDO EN CUETO</h3>
-                  <div class="news-time">CUETO · 08:41</div>
-                </div>
-                <p class="news-body">Mestizo pequeño, collar azul. Avisar a vecinos de la zona.</p>
-              </article>
+            <div id="avisos-list" class="news-list">
+              <div class="empty-box">CARGANDO AVISOS...</div>
             </div>
           </main>
 
@@ -83,6 +69,90 @@
     </div>
   </div>
 </div>
+
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script src="supabase.js"></script>
+
+<script>
+function formatTime(value) {
+  if (!value) return "--:--";
+  return new Date(value).toLocaleTimeString("es-ES", {
+    hour: "2-digit",
+    minute: "2-digit"
+  });
+}
+
+function escapeHtml(str = "") {
+  return String(str)
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;")
+    .replaceAll("'", "&#039;");
+}
+
+function updateClock() {
+  const now = new Date();
+  const clock = document.getElementById("clock-box");
+  const date = document.getElementById("date-box");
+
+  if (clock) {
+    clock.textContent = now.toLocaleTimeString("es-ES", {
+      hour: "2-digit",
+      minute: "2-digit"
+    });
+  }
+
+  if (date) {
+    date.textContent = now.toLocaleDateString("es-ES", {
+      weekday: "short",
+      day: "2-digit",
+      month: "short",
+      year: "numeric"
+    }).toUpperCase();
+  }
+}
+
+async function loadAvisos() {
+  await ensureSession();
+
+  const { data, error } = await supabaseClient
+    .from("posts")
+    .select("id, title, body, zone, created_at")
+    .eq("kind", "news")
+    .eq("zone", "Avisos")
+    .eq("approved", true)
+    .order("created_at", { ascending: false })
+    .limit(20);
+
+  const container = document.getElementById("avisos-list");
+
+  if (error) {
+    console.error("Error cargando avisos:", error);
+    container.innerHTML = `<div class="empty-box">ERROR CARGANDO AVISOS</div>`;
+    return;
+  }
+
+  if (!data || !data.length) {
+    container.innerHTML = `<div class="empty-box">NO HAY AVISOS DISPONIBLES</div>`;
+    return;
+  }
+
+  container.innerHTML = data.map(item => `
+    <article class="news-item">
+      <div class="news-head">
+        <h3 class="news-title">${escapeHtml(item.title || "")}</h3>
+        <div class="news-time">AVISOS · ${formatTime(item.created_at)}</div>
+      </div>
+      <p class="news-body">${escapeHtml(item.body || "")}</p>
+    </article>
+  `).join("");
+}
+
+updateClock();
+setInterval(updateClock, 1000);
+loadAvisos();
+</script>
 
 </body>
 </html>
