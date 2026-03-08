@@ -1400,4 +1400,65 @@ textarea{
   .racing-status-crest{
     width:22px;
   }
+  .racing-lineup-box{
+  margin:0 0 18px;
+}
+
+.racing-lineup-field{
+  margin:10px 0 18px;
+  padding:16px 12px;
+  border:2px solid var(--green);
+  background:
+    linear-gradient(
+      to bottom,
+      rgba(0,255,0,0.05),
+      rgba(0,255,0,0.02)
+    );
+  display:flex;
+  flex-direction:column;
+  gap:14px;
+}
+
+.racing-lineup-field .line{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  gap:12px;
+  flex-wrap:wrap;
+}
+
+.player-card{
+  min-width:120px;
+  text-align:center;
+  padding:6px 8px;
+  border:1px solid var(--green);
+  background:#000;
+  color:var(--green);
+  font-weight:700;
+  text-transform:uppercase;
+  font-size:13px;
+  text-shadow:0 0 6px rgba(0,255,0,0.45);
+}
+
+.line-keeper .player-card,
+.line-striker .player-card{
+  min-width:150px;
+}
+
+@media (max-width: 900px){
+  .racing-lineup-field{
+    padding:12px 8px;
+    gap:10px;
+  }
+
+  .player-card{
+    min-width:100px;
+    font-size:12px;
+    padding:5px 6px;
+  }
+
+  .line-keeper .player-card,
+  .line-striker .player-card{
+    min-width:120px;
+  }
 }
