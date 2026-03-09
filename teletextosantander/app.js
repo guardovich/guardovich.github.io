@@ -52,6 +52,91 @@ function cleanTitle(item) {
   return title;
 }
 
+function mergeMainNews(news, mediaNews, limit = 12) {
+  const combined = [...news];
+
+  for (const item of mediaNews) {
+    if (combined.length >= limit) break;
+
+    combined.push({
+      ...item,
+      zone: item.source || "MEDIO"
+    });
+  }
+
+  return combined;
+}
+
+function weatherCodeToText(code) {
+  const map = {
+    0: "DESPEJADO",
+    1: "CASI DESPEJADO",
+    2: "NUBES",
+    3: "CUBIERTO",
+    45: "NIEBLA",
+    48: "NIEBLA",
+    61: "LLUVIA",
+    63: "LLUVIA",
+    65: "LLUVIA FUERTE",
+    80: "CHUBASCOS",
+    95: "TORMENTA"
+  };
+
+  return map[code] || "VARIABLE";
+}
+
+function updateClock() {
+  const now = new Date();
+
+  const clockEl = document.getElementById("clock-box");
+  const dateEl = document.getElementById("date-box");
+
+  if (clockEl) {
+    clockEl.textContent = now.toLocaleTimeString("es-ES", {
+      hour: "2-digit",
+      minute: "2-digit"
+    });
+  }
+
+  if (dateEl) {
+    dateEl.textContent = now.toLocaleDateString("es-ES", {
+      weekday: "short",
+      day: "2-digit",
+      month: "short",
+      year: "numeric"
+    }).toUpperCase();
+  }
+}
+
+async function refreshStatusData() {
+  try {
+    const url = "https://api.open-meteo.com/v1/forecast?latitude=43.46&longitude=-3.80&current_weather=true";
+
+    const response = await fetch(url);
+    const data = await response.json();
+
+    const current = data.current_weather || {};
+
+    const tempEl = document.getElementById("temp-value");
+    const windEl = document.getElementById("wind-value");
+    const skyEl = document.getElementById("sky-value");
+
+    if (tempEl && current.temperature !== undefined) {
+      tempEl.textContent = Math.round(current.temperature) + "°C";
+    }
+
+    if (windEl && current.windspeed !== undefined) {
+      windEl.textContent = Math.round(current.windspeed) + " km/h";
+    }
+
+    if (skyEl) {
+      skyEl.textContent = weatherCodeToText(current.weathercode);
+    }
+  } catch (e) {
+    console.error("Error tiempo:", e);
+  }
+}
+
 function activateModeratorMode() {
   const password = prompt("Clave de moderador");
 
@@ -119,7 +204,7 @@ function renderNewsList(items) {
       <div class="news-head">
         <h3 class="news-title">${escapeHtml(item.title || "")}</h3>
         <div class="news-time">
-          ${escapeHtml(item.zone || "Santander")} · ${formatTime(item.created_at)}
+          ${escapeHtml(item.zone || item.source || "Santander")} · ${formatTime(item.created_at)}
         </div>
       </div>
       <p class="news-body">${escapeHtml(item.body || "")}</p>
@@ -375,6 +460,12 @@ async function hideNews(id) {
 async function init() {
   restoreModeratorMode();
 
+  updateClock();
+  setInterval(updateClock, 1000);
+
+  await refreshStatusData();
+  setInterval(refreshStatusData, 60 * 60 * 1000);
+
   await ensureSession();
 
   const [news, comments, mediaNews] = await Promise.all([
@@ -383,11 +474,13 @@ async function init() {
     loadMediaNews()
   ]);
 
-  startNewsPageRotation(news);
+  const mainNews = mergeMainNews(news, mediaNews, 12);
+
+  startNewsPageRotation(mainNews);
   renderComments(comments);
   renderMediaNews(mediaNews);
-  buildTicker([...news, ...mediaNews]);
-  startRotatingHeadlines([...news, ...mediaNews]);
+  buildTicker(mainNews);
+  startRotatingHeadlines(mainNews);
 }
 
 document.addEventListener("DOMContentLoaded", init);
