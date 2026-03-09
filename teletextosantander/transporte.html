@@ -80,7 +80,11 @@
               CARGANDO RESUMEN DE TRANSPORTE...
             </div>
 
-            <div class="section-title c-black-on-yellow">DATASETS DISPONIBLES</div>
+            <div class="section-title c-black-on-yellow">REGISTROS DESTACADOS</div>
+
+            <div id="transport-page-info" class="char-counter">
+              CARGANDO PÁGINAS...
+            </div>
 
             <div id="transport-list" class="news-list">
               <div class="empty-box">CARGANDO DATOS...</div>
@@ -108,6 +112,10 @@
 </div>
 
 <script>
+let transportPages = [];
+let currentTransportPage = 0;
+let transportInterval = null;
+
 function updateClock() {
   const now = new Date();
 
@@ -147,6 +155,108 @@ function formatDatasetName(name = "") {
     .toUpperCase();
 }
 
+function groupLabel(type = "") {
+  const map = {
+    "VADO": "VADOS",
+    "PMR": "PLAZAS PMR",
+    "MOTO": "PLAZAS MOTO",
+    "CARGA": "CARGA Y DESCARGA",
+    "ZONA_30": "ZONAS 30",
+    "SEÑAL": "SEÑALES"
+  };
+
+  return map[type] || type || "TRANSPORTE";
+}
+
+function splitIntoPages(items, pageSize = 10) {
+  const pages = [];
+
+  for (let i = 0; i < items.length; i += pageSize) {
+    pages.push(items.slice(i, i + pageSize));
+  }
+
+  return pages;
+}
+
+function buildFlatItems(datasets = []) {
+  const merged = [];
+
+  datasets.forEach(ds => {
+    (ds.items || []).forEach(item => {
+      merged.push({
+        ...item,
+        dataset_name: ds.dataset || ""
+      });
+    });
+  });
+
+  return merged;
+}
+
+function renderTransportPage(pageItems, pageIndex, totalPages) {
+  const listEl = document.getElementById("transport-list");
+  const infoEl = document.getElementById("transport-page-info");
+
+  if (!listEl) return;
+
+  if (infoEl) {
+    infoEl.textContent = `PÁGINA ${pageIndex + 1}/${totalPages} · ROTACIÓN AUTOMÁTICA`;
+  }
+
+  if (!pageItems.length) {
+    listEl.innerHTML = `<div class="empty-box">SIN REGISTROS DISPONIBLES</div>`;
+    return;
+  }
+
+  listEl.innerHTML = pageItems.map(item => `
+    <article class="news-item media-news-item transport-card">
+      <div class="news-head">
+        <h3 class="news-title">${escapeHtml(item.title || "SIN TÍTULO")}</h3>
+        <div class="news-time">${escapeHtml(groupLabel(item.type))}</div>
+      </div>
+      <p class="news-body">
+        <span class="c-cyan">CALLE:</span> ${escapeHtml(item.street || "NO DISP.")}
+        ${item.number ? ` · <span class="c-yellow">Nº</span> ${escapeHtml(item.number)}` : ""}
+        <br>
+        <span class="c-green">ID:</span> ${escapeHtml(String(item.id || "NO DISP."))}
+        ${item.subtitle ? ` · <span class="c-magenta">${escapeHtml(item.subtitle)}</span>` : ""}
+        <br>
+        <span class="c-blue">COORD:</span> ${escapeHtml(String(item.lat || "--"))}, ${escapeHtml(String(item.lon || "--"))}
+      </p>
+    </article>
+  `).join("");
+}
+
+function startTransportRotation(items) {
+  if (transportInterval) clearInterval(transportInterval);
+
+  transportPages = splitIntoPages(items, 8);
+  currentTransportPage = 0;
+
+  if (!transportPages.length) {
+    renderTransportPage([], 0, 0);
+    return;
+  }
+
+  renderTransportPage(
+    transportPages[currentTransportPage],
+    currentTransportPage,
+    transportPages.length
+  );
+
+  if (transportPages.length === 1) return;
+
+  transportInterval = setInterval(() => {
+    currentTransportPage = (currentTransportPage + 1) % transportPages.length;
+
+    renderTransportPage(
+      transportPages[currentTransportPage],
+      currentTransportPage,
+      transportPages.length
+    );
+  }, 12000);
+}
+
 async function loadTransportData() {
   const summaryEl = document.getElementById("transport-summary");
   const listEl = document.getElementById("transport-list");
@@ -156,6 +266,8 @@ async function loadTransportData() {
     const data = await response.json();
 
     const datasets = data.datasets || [];
+    const items = buildFlatItems(datasets);
+
     const updated = data.updated
       ? new Date(data.updated).toLocaleString("es-ES")
       : "NO DISP.";
@@ -167,22 +279,12 @@ async function loadTransportData() {
       <strong class="c-magenta">ELEMENTOS:</strong> ${data.total_items || 0}
     `;
 
-    if (!datasets.length) {
-      listEl.innerHTML = `<div class="empty-box">SIN DATASETS DISPONIBLES</div>`;
+    if (!datasets.length || !items.length) {
+      listEl.innerHTML = `<div class="empty-box">SIN DATOS DISPONIBLES</div>`;
       return;
     }
 
-    listEl.innerHTML = datasets.map(ds => `
-      <article class="news-item media-news-item">
-        <div class="news-head">
-          <h3 class="news-title">${escapeHtml(formatDatasetName(ds.dataset || "dataset"))}</h3>
-          <div class="news-time">${ds.ok ? "OK" : "ERROR"} · ${escapeHtml(String(ds.count ?? 0))} ITEMS</div>
-        </div>
-        <p class="news-body">
-          URL: ${escapeHtml(ds.url || "NO DISPONIBLE")}
-        </p>
-      </article>
-    `).join("");
+    startTransportRotation(items);
 
   } catch (error) {
     console.error("Error cargando transport.json:", error);
