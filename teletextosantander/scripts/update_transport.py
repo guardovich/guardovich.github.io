@@ -39,15 +39,15 @@ def normalize_records(raw):
     if raw is None:
         return []
 
-    # lista directa
+    # CASO 1: la API devuelve una lista directa (muy común en Santander)
     if isinstance(raw, list):
         return raw
 
-    # geojson
+    # CASO 2: geojson
     if isinstance(raw, dict) and "features" in raw:
         return [f.get("properties", {}) | {"geometry": f.get("geometry")} for f in raw["features"]]
 
-    # estructura result
+    # CASO 3: estructura result
     if isinstance(raw, dict) and "result" in raw:
 
         result = raw["result"]
@@ -57,18 +57,23 @@ def normalize_records(raw):
 
         if isinstance(result, dict):
 
-            if "items" in result:
+            if "items" in result and isinstance(result["items"], list):
                 return result["items"]
 
-            if "records" in result:
+            if "records" in result and isinstance(result["records"], list):
                 return result["records"]
 
-    # fallback
+            if "data" in result and isinstance(result["data"], list):
+                return result["data"]
+
+    # CASO 4: estructuras alternativas
     if isinstance(raw, dict):
 
         for key in ["items", "records", "data", "results"]:
             if key in raw and isinstance(raw[key], list):
                 return raw[key]
+
+    print("⚠️ estructura desconocida:", type(raw))
 
     return []
 
@@ -97,15 +102,21 @@ def extract_lat_lon(record):
 
     for k in lat_keys:
         if k in record and record[k] not in (None, ""):
-            lat = float(record[k])
-            break
+            try:
+                lat = float(record[k])
+                break
+            except:
+                pass
 
     for k in lon_keys:
         if k in record and record[k] not in (None, ""):
-            lon = float(record[k])
-            break
+            try:
+                lon = float(record[k])
+                break
+            except:
+                pass
 
-    # geojson geometry
+    # GeoJSON geometry
     if lat is None and "geometry" in record:
         g = record["geometry"]
         if g and "coordinates" in g:
@@ -188,7 +199,7 @@ def fetch_dataset(dataset_key, url):
 
     records = normalize_records(raw)
 
-    print(dataset_key, "registros:", len(records))
+    print(dataset_key, "registros detectados:", len(records))
 
     items = [summarize_record(dataset_key, r, i) for i, r in enumerate(records)]
 
