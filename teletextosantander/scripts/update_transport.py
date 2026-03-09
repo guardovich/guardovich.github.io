@@ -1,6 +1,5 @@
 import json
 from datetime import datetime, timezone
-
 import requests
 
 OUTPUT_FILE = "teletextosantander/data/transport.json"
@@ -24,42 +23,50 @@ def now_iso():
     return datetime.now(timezone.utc).isoformat()
 
 
-def safe_get_json(url: str):
+def safe_get_json(url):
     try:
-        print(f"Descargando: {url}")
-        response = requests.get(url, headers=HEADERS, timeout=25)
-        response.raise_for_status()
-        return response.json()
-    except Exception as exc:
-        print(f"Error descargando {url}: {exc}")
+        print("Descargando:", url)
+        r = requests.get(url, headers=HEADERS, timeout=30)
+        r.raise_for_status()
+        return r.json()
+    except Exception as e:
+        print("ERROR:", e)
         return None
 
 
 def normalize_records(raw):
+
     if raw is None:
         return []
 
+    # lista directa
     if isinstance(raw, list):
         return raw
 
+    # geojson
+    if isinstance(raw, dict) and "features" in raw:
+        return [f.get("properties", {}) | {"geometry": f.get("geometry")} for f in raw["features"]]
+
+    # estructura result
+    if isinstance(raw, dict) and "result" in raw:
+
+        result = raw["result"]
+
+        if isinstance(result, list):
+            return result
+
+        if isinstance(result, dict):
+
+            if "items" in result:
+                return result["items"]
+
+            if "records" in result:
+                return result["records"]
+
+    # fallback
     if isinstance(raw, dict):
-        if "result" in raw:
-            result = raw["result"]
 
-            if isinstance(result, dict):
-                if "items" in result and isinstance(result["items"], list):
-                    return result["items"]
-
-                if "records" in result and isinstance(result["records"], list):
-                    return result["records"]
-
-                if "data" in result and isinstance(result["data"], list):
-                    return result["data"]
-
-            if isinstance(result, list):
-                return result
-
-        for key in ("items", "records", "data", "features", "results"):
+        for key in ["items", "records", "data", "results"]:
             if key in raw and isinstance(raw[key], list):
                 return raw[key]
 
@@ -67,6 +74,10 @@ def normalize_records(raw):
 
 
 def extract_lat_lon(record):
+
+    lat = None
+    lon = None
+
     lat_keys = [
         "ayto:latWGS84",
         "geo:lat",
@@ -84,71 +95,27 @@ def extract_lat_lon(record):
         "longitude"
     ]
 
-    lat = None
-    lon = None
-
-    for key in lat_keys:
-        if key in record and record.get(key) not in (None, ""):
-            lat = str(record.get(key)).strip()
+    for k in lat_keys:
+        if k in record and record[k] not in (None, ""):
+            lat = float(record[k])
             break
 
-    for key in lon_keys:
-        if key in record and record.get(key) not in (None, ""):
-            lon = str(record.get(key)).strip()
+    for k in lon_keys:
+        if k in record and record[k] not in (None, ""):
+            lon = float(record[k])
             break
+
+    # geojson geometry
+    if lat is None and "geometry" in record:
+        g = record["geometry"]
+        if g and "coordinates" in g:
+            lon, lat = g["coordinates"]
 
     return lat, lon
 
 
-def extract_title(dataset_key, record, index):
-    if dataset_key == "vados":
-        calle = record.get("ayto:NombreCalle", "")
-        numero = record.get("ayto:NumeroPostal", "")
-        tipo = record.get("ayto:TipoSenal", "VADO")
-        return f"{tipo} · {calle} {numero}".strip()
-
-    if dataset_key == "plazas_pmr":
-        calle = record.get("ayto:NombreCalle", "")
-        numero = record.get("ayto:NumeroPostal", "")
-        return f"PMR · {calle} {numero}".strip()
-
-    if dataset_key == "plazas_motos":
-        calle = record.get("ayto:NombreCalle", "")
-        numero = record.get("ayto:NumeroPostal", "")
-        return f"MOTOS · {calle} {numero}".strip()
-
-    if dataset_key == "zonas_carga":
-        calle = record.get("ayto:NombreCalle", "")
-        numero = record.get("ayto:NumeroPostal", "")
-        return f"CARGA · {calle} {numero}".strip()
-
-    if dataset_key == "zonas_30":
-        calle = record.get("ayto:NombreCalle", "") or record.get("dc:title", "")
-        return f"ZONA 30 · {calle}".strip()
-
-    if dataset_key == "senales_trafico":
-        tipo = record.get("ayto:TipoSenal", "SEÑAL")
-        calle = record.get("ayto:NombreCalle", "")
-        numero = record.get("ayto:NumeroPostal", "")
-        return f"{tipo} · {calle} {numero}".strip()
-
-    return f"{dataset_key}_{index + 1}"
-
-
-def extract_subtitle(dataset_key, record):
-    if dataset_key == "vados":
-        return record.get("ayto:Autorizacion", "")
-
-    if dataset_key == "senales_trafico":
-        return record.get("ayto:CodTipoSenal", "")
-
-    if dataset_key == "plazas_pmr":
-        return record.get("ayto:Regulacion", "")
-
-    return record.get("dc:identifier", "")
-
-
 def dataset_type(dataset_key):
+
     mapping = {
         "senales_trafico": "SEÑAL",
         "plazas_pmr": "PMR",
@@ -157,27 +124,57 @@ def dataset_type(dataset_key):
         "zonas_carga": "CARGA",
         "zonas_30": "ZONA_30",
     }
+
     return mapping.get(dataset_key, "TRANSPORTE")
 
 
-def summarize_record(dataset_key, record, index):
+def build_title(dataset_key, record):
+
+    calle = record.get("ayto:NombreCalle", "")
+    numero = record.get("ayto:NumeroPostal", "")
+
+    if dataset_key == "vados":
+        tipo = record.get("ayto:TipoSenal", "VADO")
+        return f"{tipo} · {calle} {numero}".strip()
+
+    if dataset_key == "plazas_pmr":
+        return f"PMR · {calle} {numero}".strip()
+
+    if dataset_key == "plazas_motos":
+        return f"MOTOS · {calle} {numero}".strip()
+
+    if dataset_key == "zonas_carga":
+        return f"CARGA · {calle} {numero}".strip()
+
+    if dataset_key == "zonas_30":
+        return f"ZONA 30 · {calle}".strip()
+
+    if dataset_key == "senales_trafico":
+        tipo = record.get("ayto:TipoSenal", "SEÑAL")
+        return f"{tipo} · {calle}".strip()
+
+    return "TRANSPORTE"
+
+
+def summarize_record(dataset_key, record, i):
+
     lat, lon = extract_lat_lon(record)
 
     return {
-        "id": record.get("dc:identifier") or record.get("id") or f"{dataset_key}_{index + 1}",
+        "id": record.get("dc:identifier") or f"{dataset_key}_{i}",
         "dataset": dataset_key,
         "type": dataset_type(dataset_key),
-        "title": extract_title(dataset_key, record, index),
-        "subtitle": extract_subtitle(dataset_key, record),
+        "title": build_title(dataset_key, record),
         "street": record.get("ayto:NombreCalle", ""),
         "number": record.get("ayto:NumeroPostal", ""),
         "modified": record.get("dc:modified", ""),
         "lat": lat,
-        "lon": lon,
+        "lon": lon
     }
 
 
 def fetch_dataset(dataset_key, url):
+
     raw = safe_get_json(url)
 
     if raw is None:
@@ -186,54 +183,64 @@ def fetch_dataset(dataset_key, url):
             "url": url,
             "ok": False,
             "count": 0,
-            "items": [],
-            "error": "No response"
+            "items": []
         }
 
     records = normalize_records(raw)
-    print(f"{dataset_key} registros: {len(records)}")
 
-    items = [summarize_record(dataset_key, record, i) for i, record in enumerate(records)]
+    print(dataset_key, "registros:", len(records))
+
+    items = [summarize_record(dataset_key, r, i) for i, r in enumerate(records)]
 
     return {
         "dataset": dataset_key,
         "url": url,
         "ok": True,
         "count": len(items),
-        "items": items[:100]
+        "items": items[:200]
     }
 
 
 def build_payload():
-    datasets = []
-    total_items = 0
 
-    for dataset_key, url in BASE_DATASET_URLS.items():
-        result = fetch_dataset(dataset_key, url)
-        datasets.append(result)
-        total_items += result["count"]
+    datasets = []
+    total = 0
+
+    for k, url in BASE_DATASET_URLS.items():
+
+        ds = fetch_dataset(k, url)
+
+        datasets.append(ds)
+
+        total += ds["count"]
 
     return {
         "updated": now_iso(),
         "source": "datos.santander.es",
         "total_datasets": len(datasets),
-        "total_items": total_items,
+        "total_items": total,
         "datasets": datasets
     }
 
 
 def save_json(data):
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as file:
-        json.dump(data, file, ensure_ascii=False, indent=2)
+
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
 
 
 def main():
+
     payload = build_payload()
+
     save_json(payload)
+
     print(
-        f"JSON actualizado. "
-        f"Datasets: {payload['total_datasets']} · "
-        f"Items: {payload['total_items']}"
+        "JSON actualizado:",
+        payload["total_datasets"],
+        "datasets ·",
+        payload["total_items"],
+        "items"
     )
 
 
