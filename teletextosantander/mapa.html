@@ -3,185 +3,384 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-
 <title>P121 Mapa Transporte · Teletexto Santander</title>
 
 <link rel="stylesheet" href="styles.css">
-
-<link
-rel="stylesheet"
-href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
-/>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
 
 <style>
-
-#map{
-height:520px;
-border:3px solid #00ffff;
-image-rendering:pixelated;
-filter:contrast(1.2) saturate(1.1);
+.telemap-frame{
+  border:3px solid var(--cyan);
+  background:#000;
+  padding:8px;
+  box-shadow:
+    inset 0 0 0 2px rgba(255,255,255,0.06),
+    0 0 14px rgba(0,255,255,0.10);
 }
 
-.leaflet-container{
-background:#000;
+#map.telemap{
+  height:520px;
+  width:100%;
+  background:#020202;
+  image-rendering:pixelated;
+  filter:contrast(1.35) saturate(0.85) brightness(0.9);
 }
 
+#map.telemap .leaflet-tile{
+  image-rendering:pixelated !important;
+  filter:grayscale(1) contrast(1.8) brightness(0.58);
+}
+
+#map.telemap .leaflet-container{
+  background:#000;
+  font-family:"Courier New", Courier, monospace;
+}
+
+#map.telemap .leaflet-control-container{
+  display:none;
+}
+
+#map.telemap .leaflet-popup-content-wrapper{
+  background:#000;
+  color:var(--fg);
+  border:2px solid var(--cyan);
+  border-radius:0;
+  box-shadow:none;
+}
+
+#map.telemap .leaflet-popup-tip{
+  background:#000;
+  box-shadow:none;
+}
+
+.map-status-box,
+.map-help-box{
+  margin:0 0 12px;
+  padding:10px 12px;
+  border:2px solid var(--line);
+  background:#000;
+  font-size:14px;
+  text-transform:uppercase;
+}
+
+.map-help-box{
+  margin:12px 0 0;
+  border-color:var(--yellow);
+  color:var(--yellow);
+}
+
+.telemap-legend{
+  display:flex;
+  flex-wrap:wrap;
+  gap:10px 16px;
+  margin:12px 0 0;
+  padding:10px 12px;
+  border:2px solid var(--magenta);
+  background:#000;
+  text-transform:uppercase;
+  font-size:13px;
+}
+
+.legend-chip{
+  display:inline-flex;
+  align-items:center;
+  gap:8px;
+}
+
+.legend-pixel{
+  width:12px;
+  height:12px;
+  display:inline-block;
+  box-shadow:0 0 6px currentColor;
+}
+
+.legend-pixel.pmr{
+  background:var(--yellow);
+  color:var(--yellow);
+}
+
+.legend-pixel.vado{
+  background:var(--red);
+  color:var(--red);
+}
+
+.legend-pixel.moto{
+  background:var(--green);
+  color:var(--green);
+}
+
+.legend-pixel.carga{
+  background:var(--magenta);
+  color:var(--magenta);
+}
+
+.legend-pixel.other{
+  background:var(--cyan);
+  color:var(--cyan);
+}
+
+@media (max-width: 900px){
+  #map.telemap{
+    height:420px;
+  }
+}
+
+@media (max-width: 640px){
+  #map.telemap{
+    height:340px;
+  }
+
+  .telemap-legend{
+    font-size:12px;
+    gap:8px 12px;
+  }
+
+  .legend-pixel{
+    width:10px;
+    height:10px;
+  }
+}
 </style>
-
 </head>
 <body>
 
-<div class="ttx-page">
+<div class="tv-shell">
 
-<header class="ttx-header">
+  <div class="tv-brand-badge">
+    <div class="tv-pixel-logo"></div>
+    <div class="tv-brand-text">TV<br>SANTANDER</div>
+  </div>
 
-<div class="ttx-topline">
+  <div class="tv-bezel">
+    <div class="tv-inner-shadow">
+      <div class="tv-screen-curved">
 
-<div class="ttx-pagecode">
-<span class="c-green">P121</span>
-<span class="ttx-sep">|</span>
-<span id="clock-box">00:00</span>
-</div>
+        <div class="tv-static"></div>
+        <div class="tv-screen-overlay"></div>
+        <div class="tv-screen-glow"></div>
 
-<div class="ttx-datebox">
-<span id="date-box">MAPA</span>
-</div>
+        <div class="ttx-page">
 
-</div>
+          <header class="ttx-header">
 
-<nav class="ttx-topnav">
+            <div class="ttx-topline">
+              <div class="ttx-pagecode">
+                <span class="c-green">P121</span>
+                <span class="ttx-sep">|</span>
+                <span id="clock-box">00:00</span>
+              </div>
 
-<a class="topnav-link" href="./index.html">
-<span class="c-cyan">100</span> PORTADA
-</a>
+              <div class="ttx-datebox">
+                <span id="date-box">MAPA</span>
+              </div>
+            </div>
 
-<a class="topnav-link" href="./transporte.html">
-<span class="c-cyan">120</span> TRANSPORTE
-</a>
+            <nav class="ttx-topnav">
+              <a class="topnav-link" href="./index.html"><span class="c-cyan">100</span> PORTADA</a>
+              <a class="topnav-link" href="./publicar.html"><span class="c-yellow">101</span> PUBLICAR</a>
+              <a class="topnav-link" href="./archivo.html"><span class="c-magenta">102</span> ARCHIVO</a>
+              <a class="topnav-link" href="./tiempo.html"><span class="c-green">103</span> TIEMPO</a>
+              <a class="topnav-link" href="./racing.html"><span class="c-red">104</span> RACING</a>
+              <a class="topnav-link" href="./avisos.html"><span class="c-blue">106</span> AVISOS</a>
+              <a class="topnav-link" href="./historia.html"><span class="c-yellow">107</span> HISTORIA</a>
+              <a class="topnav-link" href="./transporte.html"><span class="c-cyan">120</span> TRANSPORTE</a>
+              <a class="topnav-link active" href="./mapa.html"><span class="c-green">121</span> MAPA</a>
+            </nav>
 
-<a class="topnav-link active" href="./mapa.html">
-<span class="c-green">121</span> MAPA
-</a>
+          </header>
 
-</nav>
+          <main class="ttx-main" style="border-right:none;">
 
-</header>
+            <div class="section-title c-black-on-cyan">
+              P121 · MAPA TRANSPORTE SANTANDER
+            </div>
 
-<main class="ttx-main">
+            <div class="tele-separator">
+              ████████████████████████████████████████████████████████
+            </div>
 
-<div class="section-title c-black-on-cyan">
-P121 · MAPA TRANSPORTE SANTANDER
-</div>
+            <div class="map-status-box" id="map-status-box">
+              CARGANDO CAPAS DE MOVILIDAD...
+            </div>
 
-<div id="map"></div>
+            <div class="telemap-frame">
+              <div id="map" class="telemap"></div>
+            </div>
 
-</main>
+            <div class="telemap-legend">
+              <span class="legend-chip"><span class="legend-pixel pmr"></span> PMR</span>
+              <span class="legend-chip"><span class="legend-pixel vado"></span> VADOS</span>
+              <span class="legend-chip"><span class="legend-pixel moto"></span> MOTOS</span>
+              <span class="legend-chip"><span class="legend-pixel carga"></span> CARGA</span>
+              <span class="legend-chip"><span class="legend-pixel other"></span> OTROS</span>
+            </div>
 
-<footer class="ttx-footer tele-footer">
+            <div class="map-help-box">
+              MAPA PIXELADO · DATOS ABIERTOS · SANTANDER
+            </div>
 
-<a class="footer-link" href="./index.html">
-<span class="c-cyan">100</span> PORTADA
-</a>
+          </main>
 
-<a class="footer-link" href="./transporte.html">
-<span class="c-cyan">120</span> TRANSPORTE
-</a>
+          <footer class="ttx-footer tele-footer">
 
-<a class="footer-link" href="./mapa.html">
-<span class="c-green">121</span> MAPA
-</a>
+            <a class="footer-link" href="./index.html">
+              <span class="c-cyan">100</span> PORTADA
+            </a>
 
-<span class="footer-cursor">█</span>
+            <a class="footer-link" href="./publicar.html">
+              <span class="c-yellow">101</span> PUBLICAR
+            </a>
 
-</footer>
+            <a class="footer-link" href="./archivo.html">
+              <span class="c-magenta">102</span> ARCHIVO
+            </a>
 
+            <a class="footer-link" href="./tiempo.html">
+              <span class="c-green">103</span> TIEMPO
+            </a>
+
+            <a class="footer-link" href="./racing.html">
+              <span class="c-red">104</span> RACING
+            </a>
+
+            <a class="footer-link" href="./avisos.html">
+              <span class="c-blue">106</span> AVISOS
+            </a>
+
+            <a class="footer-link" href="./historia.html">
+              <span class="c-yellow">107</span> HISTORIA
+            </a>
+
+            <a class="footer-link" href="./transporte.html">
+              <span class="c-cyan">120</span> TRANSPORTE
+            </a>
+
+            <a class="footer-link" href="./mapa.html">
+              <span class="c-green">121</span> MAPA
+            </a>
+
+            <span class="footer-cursor">█</span>
+
+          </footer>
+
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 
 <script>
-
 function updateClock(){
+  const now = new Date();
 
-const now = new Date()
+  document.getElementById("clock-box").textContent =
+    now.toLocaleTimeString("es-ES",{hour:"2-digit",minute:"2-digit"});
 
-document.getElementById("clock-box").textContent =
-now.toLocaleTimeString("es-ES",{hour:"2-digit",minute:"2-digit"})
-
-document.getElementById("date-box").textContent =
-now.toLocaleDateString("es-ES",{day:"2-digit",month:"short"}).toUpperCase()
-
+  document.getElementById("date-box").textContent =
+    now.toLocaleDateString("es-ES",{day:"2-digit",month:"short"}).toUpperCase();
 }
 
-setInterval(updateClock,1000)
-updateClock()
+setInterval(updateClock,1000);
+updateClock();
 
-const map = L.map("map",{zoomControl:false})
-.setView([43.4623,-3.8099],13)
+const map = L.map("map", {
+  zoomControl:false,
+  attributionControl:false
+}).setView([43.4623,-3.8099],13);
 
-L.tileLayer(
-"https://tile.openstreetmap.org/{z}/{x}/{y}.png",
-{
-maxZoom:19
+L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
+  maxZoom:19
+}).addTo(map);
+
+function markerStyleByType(type){
+  if(type === "PMR"){
+    return { color:"#ffff00", radius:5 };
+  }
+  if(type === "VADO"){
+    return { color:"#ff4040", radius:5 };
+  }
+  if(type === "MOTO"){
+    return { color:"#00ff00", radius:5 };
+  }
+  if(type === "CARGA"){
+    return { color:"#ff00ff", radius:5 };
+  }
+  return { color:"#00ffff", radius:4 };
 }
-).addTo(map)
 
+function makePopup(item){
+  const title = item.title || "SIN TÍTULO";
+  const street = item.street || "NO DISP.";
+  const number = item.number || "";
+  const type = item.type || "OTRO";
+
+  return `
+    <div style="text-transform:uppercase;font-size:12px;line-height:1.35;">
+      <div style="font-weight:700;margin-bottom:6px;">${title}</div>
+      <div>TIPO: ${type}</div>
+      <div>CALLE: ${street} ${number}</div>
+      <div>LAT: ${item.lat || "--"}</div>
+      <div>LON: ${item.lon || "--"}</div>
+    </div>
+  `;
+}
 
 async function loadTransport(){
+  const statusBox = document.getElementById("map-status-box");
 
-try{
+  try{
+    const res = await fetch("./data/transport.json?" + Date.now());
+    const data = await res.json();
 
-const res = await fetch("./data/transport.json?"+Date.now())
+    const datasets = data.datasets || [];
+    let painted = 0;
 
-const data = await res.json()
+    datasets.forEach(ds => {
+      (ds.items || []).forEach(item => {
+        if(!item.lat || !item.lon) return;
 
-const datasets = data.datasets || []
+        const lat = parseFloat(item.lat);
+        const lon = parseFloat(item.lon);
 
-datasets.forEach(ds=>{
+        if(Number.isNaN(lat) || Number.isNaN(lon)) return;
 
-if(!ds.items) return
+        const style = markerStyleByType(item.type);
 
-ds.items.forEach(item=>{
+        const marker = L.circleMarker(
+          [lat, lon],
+          {
+            radius: style.radius,
+            color: style.color,
+            weight: 1,
+            fillColor: style.color,
+            fillOpacity: 1,
+            opacity: 1
+          }
+        );
 
-if(!item.lat || !item.lon) return
+        marker.bindPopup(makePopup(item));
+        marker.addTo(map);
+        painted++;
+      });
+    });
 
-let color="#00ffff"
+    statusBox.innerHTML = `
+      <span class="c-cyan">CAPAS CARGADAS:</span> ${datasets.length}
+      &nbsp;·&nbsp;
+      <span class="c-green">PUNTOS:</span> ${painted}
+    `;
 
-if(item.type==="PMR") color="#ffff00"
-if(item.type==="VADO") color="#ff3333"
-if(item.type==="MOTO") color="#00ff00"
-if(item.type==="CARGA") color="#ff00ff"
-
-const marker = L.circleMarker(
-[item.lat,item.lon],
-{
-radius:4,
-color:color,
-weight:1,
-fillOpacity:0.9
+  }catch(err){
+    console.error("error cargando transporte", err);
+    statusBox.innerHTML = `
+      <span class="c-red">ERROR CARGANDO DATOS DE MOVILIDAD</span>
+    `;
+  }
 }
-)
 
-marker.bindPopup(
-"<b>"+item.title+"</b><br>"+item.street
-)
-
-marker.addTo(map)
-
-})
-
-})
-
-}catch(err){
-
-console.error("error cargando transporte",err)
-
-}
-
-}
-
-loadTransport()
-
+loadTransport();
 </script>
 
 </body>
