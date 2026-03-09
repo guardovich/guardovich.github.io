@@ -17,7 +17,12 @@ function escapeHtml(str = "") {
 
 function formatTime(value) {
   if (!value) return "--:--";
-  return new Date(value).toLocaleTimeString("es-ES", {
+
+  const date = new Date(value);
+
+  if (Number.isNaN(date.getTime())) return "--:--";
+
+  return date.toLocaleTimeString("es-ES", {
     hour: "2-digit",
     minute: "2-digit"
   });
@@ -34,7 +39,7 @@ function extractSource(item) {
   const parts = title.split(" - ");
 
   if (parts.length > 1) {
-    return parts[parts.length - 1].toUpperCase();
+    return parts[parts.length - 1].trim().toUpperCase();
   }
 
   return "MEDIO";
@@ -114,7 +119,6 @@ async function refreshStatusData() {
 
     const response = await fetch(url);
     const data = await response.json();
-
     const current = data.current_weather || {};
 
     const tempEl = document.getElementById("temp-value");
@@ -368,23 +372,23 @@ async function loadComments() {
   return data || [];
 }
 
-async function fetchWithTimeout(url, ms = 4000) {
+async function fetchWithTimeout(url, ms = 5000) {
   const controller = new AbortController();
   const timeout = setTimeout(() => controller.abort(), ms);
 
   try {
-    const res = await fetch(url, { signal: controller.signal });
-    return res;
+    const response = await fetch(url, { signal: controller.signal });
+    return response;
   } finally {
     clearTimeout(timeout);
   }
 }
 
-async function fetchRSS(feedUrl) {
+async function fetchRSSViaRss2Json(feedUrl) {
   const api = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(feedUrl)}`;
 
   try {
-    const res = await fetchWithTimeout(api, 4000);
+    const res = await fetchWithTimeout(api, 4500);
     const data = await res.json();
 
     if (!data || data.status !== "ok" || !Array.isArray(data.items)) {
@@ -400,9 +404,57 @@ async function fetchRSS(feedUrl) {
       link: item.link
     }));
   } catch (e) {
-    console.error("RSS error", e);
+    console.error("RSS error rss2json:", e);
     return [];
   }
+}
+
+async function fetchRSSViaAllOrigins(feedUrl) {
+  const proxyUrl = `https://api.allorigins.win/raw?url=${encodeURIComponent(feedUrl)}`;
+
+  try {
+    const res = await fetchWithTimeout(proxyUrl, 5000);
+    const xmlText = await res.text();
+
+    const parser = new DOMParser();
+    const xml = parser.parseFromString(xmlText, "text/xml");
+
+    const items = Array.from(xml.querySelectorAll("item"));
+
+    return items.map(item => {
+      const titleText = item.querySelector("title")?.textContent?.trim() || "";
+      const descriptionText = item.querySelector("description")?.textContent?.trim() || "";
+      const pubDateText = item.querySelector("pubDate")?.textContent?.trim() || "";
+      const linkText = item.querySelector("link")?.textContent?.trim() || "";
+
+      const fakeItem = {
+        title: titleText,
+        description: descriptionText,
+        pubDate: pubDateText,
+        link: linkText,
+        author: ""
+      };
+
+      return {
+        title: cleanTitle(fakeItem),
+        body: stripHtml(descriptionText).slice(0, 180),
+        source: extractSource(fakeItem),
+        created_at: pubDateText,
+        link: linkText
+      };
+    });
+  } catch (e) {
+    console.error("AllOrigins RSS error:", e);
+    return [];
+  }
+}
+
+async function fetchRSS(feedUrl) {
+  const firstTry = await fetchRSSViaRss2Json(feedUrl);
+
+  if (firstTry.length) return firstTry;
+
+  return await fetchRSSViaAllOrigins(feedUrl);
 }
 
 async function loadMediaNews() {
