@@ -6,12 +6,12 @@ import requests
 OUTPUT_FILE = "teletextosantander/data/transport.json"
 
 BASE_DATASET_URLS = {
-    "senales_trafico": "http://datos.santander.es/api/rest/datasets/senales_trafico.json?items=500",
-    "plazas_pmr": "http://datos.santander.es/api/rest/datasets/plazas_pmr_nofoto.json?items=500",
-    "vados": "http://datos.santander.es/api/rest/datasets/vados.json?items=500",
-    "plazas_motos": "http://datos.santander.es/api/rest/datasets/plazas_motos.json?items=500",
-    "zonas_carga": "http://datos.santander.es/api/rest/datasets/zonas_carga.json?items=500",
-    "zonas_30": "http://datos.santander.es/api/rest/datasets/zonas_30.json?items=500",
+    "senales_trafico": "http://datos.santander.es/api/datos/senales_trafico.json",
+    "plazas_pmr": "http://datos.santander.es/api/datos/plazas_pmr.json",
+    "vados": "http://datos.santander.es/api/datos/vados.json",
+    "plazas_motos": "http://datos.santander.es/api/datos/plazas_motos.json",
+    "zonas_carga": "http://datos.santander.es/api/datos/zonas_carga.json",
+    "zonas_30": "http://datos.santander.es/api/datos/zonas_30.json",
 }
 
 HEADERS = {
