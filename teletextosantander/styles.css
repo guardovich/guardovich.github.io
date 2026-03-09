@@ -1674,7 +1674,7 @@ textarea{
   .history-card-img{
     max-width:280px;
   }
-  
+}
   /* =========================
    NOTICIAS DE MEDIOS (RSS)
 ========================= */
@@ -1697,6 +1697,32 @@ textarea{
 }
 
 /* pequeño icono visual opcional */
+
+.media-news-item .news-time::before{
+  content:"PRENSA · ";
+  color:var(--yellow);
+  font-weight:700;
+}
+/* =========================
+   NOTICIAS DE MEDIOS (RSS)
+========================= */
+
+.media-news-item{
+  border-left:6px solid var(--cyan);
+}
+
+.media-news-item .news-title{
+  color:var(--cyan);
+}
+
+.media-news-item .news-title a{
+  color:inherit;
+  text-decoration:none;
+}
+
+.media-news-item .news-title a:hover{
+  text-decoration:underline;
+}
 
 .media-news-item .news-time::before{
   content:"PRENSA · ";
