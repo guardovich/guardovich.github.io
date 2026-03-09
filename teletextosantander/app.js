@@ -23,6 +23,37 @@ function formatTime(value) {
   });
 }
 
+function stripHtml(str = "") {
+  return String(str).replace(/<[^>]*>/g, "").trim();
+}
+
+function extractSource(item) {
+
+  if (item.author) return stripHtml(item.author).toUpperCase();
+
+  const title = stripHtml(item.title || "");
+  const parts = title.split(" - ");
+
+  if (parts.length > 1) {
+    return parts[parts.length - 1].toUpperCase();
+  }
+
+  return "MEDIO";
+}
+
+function cleanTitle(item) {
+
+  const title = stripHtml(item.title || "");
+  const parts = title.split(" - ");
+
+  if (parts.length > 1) {
+    parts.pop();
+    return parts.join(" - ").trim();
+  }
+
+  return title;
+}
+
 function activateModeratorMode() {
   const password = prompt("Clave de moderador");
 
@@ -99,6 +130,31 @@ function renderNewsList(items) {
   `).join("");
 }
 
+function renderMediaNews(items) {
+
+  const container = document.getElementById("media-news-list");
+  if (!container) return;
+
+  if (!items.length) {
+    container.innerHTML = `
+      <div class="empty-box">SIN INFORMACIÓN DE MEDIOS</div>
+    `;
+    return;
+  }
+
+  container.innerHTML = items.map(item => `
+    <article class="news-item media-news-item">
+      <div class="news-head">
+        <h3 class="news-title">
+          <a href="${item.link}" target="_blank">${escapeHtml(item.title)}</a>
+        </h3>
+        <div class="news-time">${escapeHtml(item.source)} · ${formatTime(item.created_at)}</div>
+      </div>
+      <p class="news-body">${escapeHtml(item.body)}</p>
+    </article>
+  `).join("");
+}
+
 function renderComments(items) {
   const container = document.getElementById("comments-list");
   if (!container) return;
@@ -120,19 +176,22 @@ function renderComments(items) {
 }
 
 function buildTicker(items) {
+
   const track = document.getElementById("ticker-track");
   if (!track) return;
 
   if (!items.length) {
-    track.textContent = "SIN TITULARES DISPONIBLES · SIN TITULARES DISPONIBLES · ";
+    track.textContent = "SIN TITULARES DISPONIBLES · ";
     return;
   }
 
   const text = items.map(item => (item.title || "").toUpperCase()).join("  ·  ");
+
   track.textContent = `${text}  ·  ${text}  ·  `;
 }
 
 function renderRotatingHeadline(items) {
+
   const el = document.getElementById("rotating-headline");
   if (!el) return;
 
@@ -142,10 +201,13 @@ function renderRotatingHeadline(items) {
   }
 
   const item = items[rotatingIndex % items.length];
-  el.textContent = `${item.title} · ${item.zone || "Santander"} · ${formatTime(item.created_at)}`;
+
+  el.textContent =
+    `${item.title} · ${(item.zone || item.source || "Santander")} · ${formatTime(item.created_at)}`;
 }
 
 function startRotatingHeadlines(items) {
+
   if (rotatingInterval) clearInterval(rotatingInterval);
 
   renderRotatingHeadline(items);
@@ -153,33 +215,49 @@ function startRotatingHeadlines(items) {
   if (!items.length) return;
 
   rotatingInterval = setInterval(() => {
+
     rotatingIndex = (rotatingIndex + 1) % items.length;
+
     renderRotatingHeadline(items);
+
   }, 3500);
 }
 
 function splitIntoPages(items, pageSize = 6) {
+
   const pages = [];
+
   for (let i = 0; i < items.length; i += pageSize) {
+
     pages.push(items.slice(i, i + pageSize));
+
   }
+
   return pages;
 }
 
 function renderNewsPage(pageItems) {
+
   renderFeaturedNews(pageItems);
+
   renderNewsList(pageItems);
+
 }
 
 function startNewsPageRotation(allNews) {
+
   if (newsPageInterval) clearInterval(newsPageInterval);
 
   newsPages = splitIntoPages(allNews, 4);
+
   currentNewsPage = 0;
 
   if (!newsPages.length) {
+
     renderNewsPage([]);
+
     return;
+
   }
 
   renderNewsPage(newsPages[currentNewsPage]);
@@ -187,12 +265,16 @@ function startNewsPageRotation(allNews) {
   if (newsPages.length === 1) return;
 
   newsPageInterval = setInterval(() => {
+
     currentNewsPage = (currentNewsPage + 1) % newsPages.length;
+
     renderNewsPage(newsPages[currentNewsPage]);
+
   }, 15000);
 }
 
 async function loadNews() {
+
   const { data, error } = await supabaseClient
     .from("posts")
     .select("id, title, body, zone, created_at")
@@ -210,6 +292,7 @@ async function loadNews() {
 }
 
 async function loadComments() {
+
   const { data, error } = await supabaseClient
     .from("posts")
     .select("id, body, author_name, created_at")
@@ -226,70 +309,65 @@ async function loadComments() {
   return data || [];
 }
 
-async function hideComment(id) {
-  const password = prompt("Clave de moderador");
+async function loadMediaNews() {
 
-  if (password !== "racing123") {
-    alert("Clave incorrecta");
-    return;
+  const rssUrl = encodeURIComponent(
+    "https://news.google.com/rss/search?q=Santander+OR+Racing+de+Santander&hl=es&gl=ES&ceid=ES:es"
+  );
+
+  const url = `https://api.rss2json.com/v1/api.json?rss_url=${rssUrl}`;
+
+  try {
+
+    const response = await fetch(url);
+
+    const data = await response.json();
+
+    return (data.items || []).slice(0, 6).map(item => ({
+
+      title: cleanTitle(item),
+
+      body: stripHtml(item.description || "").slice(0, 180),
+
+      source: extractSource(item),
+
+      created_at: item.pubDate,
+
+      link: item.link
+
+    }));
+
+  } catch (error) {
+
+    console.error("Error cargando RSS:", error);
+
+    return [];
+
   }
-
-  await ensureSession();
-
-  const { error } = await supabaseClient
-    .from("posts")
-    .update({ approved: false })
-    .eq("id", id)
-    .eq("kind", "comment");
-
-  if (error) {
-    console.error("Error ocultando comentario:", error);
-    alert("No se pudo ocultar el comentario");
-    return;
-  }
-
-  location.reload();
-}
-
-async function hideNews(id) {
-  const password = prompt("Clave de moderador");
-
-  if (password !== "racing123") {
-    alert("Clave incorrecta");
-    return;
-  }
-
-  await ensureSession();
-
-  const { error } = await supabaseClient
-    .from("posts")
-    .update({ approved: false })
-    .eq("id", id)
-    .eq("kind", "news");
-
-  if (error) {
-    console.error("Error ocultando noticia:", error);
-    alert("No se pudo ocultar la noticia");
-    return;
-  }
-
-  location.reload();
 }
 
 async function init() {
+
   restoreModeratorMode();
 
   await ensureSession();
 
-  const [news, comments] = await Promise.all([
+  const [news, comments, mediaNews] = await Promise.all([
     loadNews(),
-    loadComments()
+    loadComments(),
+    loadMediaNews()
   ]);
 
   startNewsPageRotation(news);
+
   renderComments(comments);
-  buildTicker(news);
-  startRotatingHeadlines(news);
+
+  renderMediaNews(mediaNews);
+
+  buildTicker([...news, ...mediaNews]);
+
+  startRotatingHeadlines([...news, ...mediaNews]);
+
 }
 
 document.addEventListener("DOMContentLoaded", init);
