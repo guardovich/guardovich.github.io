@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>P121 Mapa Transporte · Teletexto Santander</title>
+
+<link rel="stylesheet" href="styles.css">
+
+<link
+rel="stylesheet"
+href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+/>
+
+<style>
+
+#map{
+height:520px;
+border:3px solid #00ffff;
+image-rendering:pixelated;
+filter:contrast(1.2) saturate(1.1);
+}
+
+.leaflet-container{
+background:#000;
+}
+
+</style>
+
+</head>
+<body>
+
+<div class="ttx-page">
+
+<header class="ttx-header">
+
+<div class="ttx-topline">
+
+<div class="ttx-pagecode">
+<span class="c-green">P121</span>
+<span class="ttx-sep">|</span>
+<span id="clock-box">00:00</span>
+</div>
+
+<div class="ttx-datebox">
+<span id="date-box">MAPA</span>
+</div>
+
+</div>
+
+<nav class="ttx-topnav">
+
+<a class="topnav-link" href="./index.html">
+<span class="c-cyan">100</span> PORTADA
+</a>
+
+<a class="topnav-link" href="./transporte.html">
+<span class="c-cyan">120</span> TRANSPORTE
+</a>
+
+<a class="topnav-link active" href="./mapa.html">
+<span class="c-green">121</span> MAPA
+</a>
+
+</nav>
+
+</header>
+
+<main class="ttx-main">
+
+<div class="section-title c-black-on-cyan">
+P121 · MAPA TRANSPORTE SANTANDER
+</div>
+
+<div id="map"></div>
+
+</main>
+
+<footer class="ttx-footer tele-footer">
+
+<a class="footer-link" href="./index.html">
+<span class="c-cyan">100</span> PORTADA
+</a>
+
+<a class="footer-link" href="./transporte.html">
+<span class="c-cyan">120</span> TRANSPORTE
+</a>
+
+<a class="footer-link" href="./mapa.html">
+<span class="c-green">121</span> MAPA
+</a>
+
+<span class="footer-cursor">█</span>
+
+</footer>
+
+</div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+<script>
+
+function updateClock(){
+
+const now = new Date()
+
+document.getElementById("clock-box").textContent =
+now.toLocaleTimeString("es-ES",{hour:"2-digit",minute:"2-digit"})
+
+document.getElementById("date-box").textContent =
+now.toLocaleDateString("es-ES",{day:"2-digit",month:"short"}).toUpperCase()
+
+}
+
+setInterval(updateClock,1000)
+updateClock()
+
+const map = L.map("map",{zoomControl:false})
+.setView([43.4623,-3.8099],13)
+
+L.tileLayer(
+"https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+{
+maxZoom:19
+}
+).addTo(map)
+
+
+async function loadTransport(){
+
+try{
+
+const res = await fetch("./data/transport.json?"+Date.now())
+
+const data = await res.json()
+
+const datasets = data.datasets || []
+
+datasets.forEach(ds=>{
+
+if(!ds.items) return
+
+ds.items.forEach(item=>{
+
+if(!item.lat || !item.lon) return
+
+let color="#00ffff"
+
+if(item.type==="PMR") color="#ffff00"
+if(item.type==="VADO") color="#ff3333"
+if(item.type==="MOTO") color="#00ff00"
+if(item.type==="CARGA") color="#ff00ff"
+
+const marker = L.circleMarker(
+[item.lat,item.lon],
+{
+radius:4,
+color:color,
+weight:1,
+fillOpacity:0.9
+}
+)
+
+marker.bindPopup(
+"<b>"+item.title+"</b><br>"+item.street
+)
+
+marker.addTo(map)
+
+})
+
+})
+
+}catch(err){
+
+console.error("error cargando transporte",err)
+
+}
+
+}
+
+loadTransport()
+
+</script>
+
+</body>
+</html>
