@@ -1729,7 +1729,14 @@ textarea{
   color:var(--yellow);
   font-weight:700;
 }
-
 .transport-card{
   border-left:6px solid var(--cyan);
+}
+
+#transport-page-info{
+  margin:0 0 10px;
+}
+
+#transport-summary strong{
+  font-weight:700;
 }
