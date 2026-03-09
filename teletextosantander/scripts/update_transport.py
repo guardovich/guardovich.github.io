@@ -1,1 +1,1 @@
-
+print("Script listo")
