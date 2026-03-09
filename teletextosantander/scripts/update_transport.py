@@ -3,7 +3,7 @@ from datetime import datetime, timezone
 
 import requests
 
-OUTPUT_FILE = "data/transport.json"
+OUTPUT_FILE = "teletextosantander/data/transport.json"
 
 BASE_DATASET_URLS = {
     "senales_trafico": "http://datos.santander.es/api/rest/datasets/senales_trafico.json?items=500",
