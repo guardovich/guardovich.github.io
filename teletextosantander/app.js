@@ -368,11 +368,23 @@ async function loadComments() {
   return data || [];
 }
 
+async function fetchWithTimeout(url, ms = 4000) {
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), ms);
+
+  try {
+    const res = await fetch(url, { signal: controller.signal });
+    return res;
+  } finally {
+    clearTimeout(timeout);
+  }
+}
+
 async function fetchRSS(feedUrl) {
   const api = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(feedUrl)}`;
 
   try {
-    const res = await fetch(api);
+    const res = await fetchWithTimeout(api, 4000);
     const data = await res.json();
 
     if (!data || data.status !== "ok" || !Array.isArray(data.items)) {
@@ -395,8 +407,7 @@ async function fetchRSS(feedUrl) {
 
 async function loadMediaNews() {
   const feeds = [
-    "https://news.google.com/rss/search?q=Santander&hl=es&gl=ES&ceid=ES:es",
-    "https://news.google.com/rss/search?q=Racing+de+Santander&hl=es&gl=ES&ceid=ES:es"
+    "https://news.google.com/rss/search?q=Santander+OR+Racing+de+Santander&hl=es&gl=ES&ceid=ES:es"
   ];
 
   const results = await Promise.all(feeds.map(fetchRSS));
@@ -463,15 +474,21 @@ async function init() {
   updateClock();
   setInterval(updateClock, 1000);
 
-  await refreshStatusData();
+  refreshStatusData();
   setInterval(refreshStatusData, 60 * 60 * 1000);
 
-  await ensureSession();
+  ensureSession().catch(error => {
+    console.error("Error ensureSession:", error);
+  });
+
+  const newsPromise = loadNews();
+  const commentsPromise = loadComments();
+  const mediaNewsPromise = loadMediaNews();
 
   const [news, comments, mediaNews] = await Promise.all([
-    loadNews(),
-    loadComments(),
-    loadMediaNews()
+    newsPromise,
+    commentsPromise,
+    mediaNewsPromise
   ]);
 
   const mainNews = mergeMainNews(news, mediaNews, 12);
