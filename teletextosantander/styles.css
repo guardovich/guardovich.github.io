@@ -1729,3 +1729,7 @@ textarea{
   color:var(--yellow);
   font-weight:700;
 }
+
+.transport-card{
+  border-left:6px solid var(--cyan);
+}
