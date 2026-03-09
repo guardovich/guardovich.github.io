@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-08T18:34:34.168Z",
+  "generatedAt": "2026-03-09T02:07:20.395Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
@@ -72,6 +72,12 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "Monthly HIV-drug injections offer potent alternative to daily tablets",
+          "link": "https://www.nature.com/articles/d41586-026-00669-8",
+          "summary": "Nature, Published online: 08 March 2026; doi:10.1038/d41586-026-00669-8\nLong-lasting treatment suppresses HIV in people with mental illness and other conditions that make it challenging to adhere to standard treatments.",
+          "isoDate": "2026-03-08T00:00:00.000Z"
+        },
+        {
           "title": "ARMD Research Solicitations (Updated March 6)",
           "link": "https://www.nasa.gov/aeronautics/armd-solicitations/",
           "summary": "THIS PAGE WAS UPDATED ON MARCH 6, 2026 This Aeronautics Research Mission Directorate (ARMD) solicitations page compiles the opportunities to collaborate with NASA’s aeronautical innovators and/or contribute to their research to enable new and improved air transportation systems. Most opportunities to participate in research are officially announced through the Web-based NASA Solicitation and Proposal Integrated […]",
@@ -124,12 +130,6 @@
           "link": "https://www.nasa.gov/directorates/armd/aosp/amp/about-aamp/",
           "summary": "The Advanced Air Mobility Pathfinders (AAMP) project accelerates advanced air mobility technologies for wildfire response and urban transportation through real-world demonstrations and strategic partnerships. AAMP researches emerging technologies, establishes aircraft strategic deconfliction frameworks, and validates solutions in metropolitan areas to enable larger-scale urban air mobility. The project enhances Unmanned Aircraft Systems capabilities for wildfire mitigation and disaster response by transferring Portable Airspace Management System technologies to enable routine, safe, […]",
           "isoDate": "2026-03-06T02:59:34.000Z"
-        },
-        {
-          "title": "Briefing chat: What Galileo’s scribbled margin notes reveal about his scientific journey",
-          "link": "https://www.nature.com/articles/d41586-026-00759-7",
-          "summary": "Nature, Published online: 06 March 2026; doi:10.1038/d41586-026-00759-7\nNature staff discuss some of the week’s top science news.",
-          "isoDate": "2026-03-06T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-03-08T18:34:29.558Z"
+          "isoDate": "2026-03-09T02:07:16.439Z"
         },
         {
           "title": "Mayor Sadiq Khan invites embattled AI firm Anthropic to expand in London",
@@ -222,9 +222,9 @@
           "isoDate": "2026-03-06T07:00:00.000Z"
         },
         {
-          "title": "Introducing GPT-5.4",
-          "link": "https://openai.com/index/introducing-gpt-5-4",
-          "summary": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
+          "title": "GPT-5.4 Thinking System Card",
+          "link": "https://openai.com/index/gpt-5-4-thinking-system-card",
+          "summary": "",
           "isoDate": "2026-03-05T10:00:00.000Z"
         },
         {
@@ -234,9 +234,9 @@
           "isoDate": "2026-03-05T10:00:00.000Z"
         },
         {
-          "title": "GPT-5.4 Thinking System Card",
-          "link": "https://openai.com/index/gpt-5-4-thinking-system-card",
-          "summary": "",
+          "title": "Introducing GPT-5.4",
+          "link": "https://openai.com/index/introducing-gpt-5-4",
+          "summary": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
           "isoDate": "2026-03-05T10:00:00.000Z"
         },
         {
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-03-08T18:34:32.864Z"
+          "isoDate": "2026-03-09T02:07:18.729Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 58\nChar: =",
-          "isoDate": "2026-03-08T18:34:30.893Z"
+          "isoDate": "2026-03-09T02:07:17.913Z"
         },
         {
           "title": "Military AI Policy Needs Democratic Oversight",
@@ -324,12 +324,57 @@
       "maxItems": 120,
       "items": [
         {
-          "title": "RESULTADOS (EN DIRECTO)",
+          "title": "RESULTADOS (ÚLTIMOS)",
           "link": "",
           "summary": ""
         },
         {
-          "title": "SEV  1-0  RAY",
+          "title": "VAL  3-2  ALA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "SEV  1-1  RAY",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "GET  2-0  REA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "VIL  2-1  ELC",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "ATH  0-1  BAR",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "ATL  3-2  REA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "LEV  1-1  GIR",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "OSA  2-2  MAL",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "CEL  1-2  REA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "RAY  3-0  REA",
           "link": "",
           "summary": ""
         },
@@ -399,27 +444,27 @@
           "summary": ""
         },
         {
-          "title": "12  SEV  27   9  6 12  35  41  -6  33",
+          "title": "12  VAL  27   8  8 11  30  41 -11  32",
           "link": "",
           "summary": ""
         },
         {
-          "title": "13  GIR  27   7 10 10  28  43 -15  31",
+          "title": "13  RAY  27   7 10 10  27  33  -6  31",
           "link": "",
           "summary": ""
         },
         {
-          "title": "14  RAY  27   7  9 11  26  33  -7  30",
+          "title": "14  SEV  27   8  7 12  35  42  -7  31",
           "link": "",
           "summary": ""
         },
         {
-          "title": "15  VAL  26   7  8 11  27  39 -12  29",
+          "title": "15  GIR  27   7 10 10  28  43 -15  31",
           "link": "",
           "summary": ""
         },
         {
-          "title": "16  ALA  26   7  6 13  23  34 -11  27",
+          "title": "16  ALA  27   7  6 14  25  37 -12  27",
           "link": "",
           "summary": ""
         },
