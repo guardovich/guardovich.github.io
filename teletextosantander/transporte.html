@@ -1,0 +1,200 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>P120 Transporte · Teletexto Santander</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div class="tv-shell">
+
+  <div class="tv-brand-badge">
+    <div class="tv-pixel-logo"></div>
+    <div class="tv-brand-text">TV<br>SANTANDER</div>
+  </div>
+
+  <div class="tv-bezel">
+    <div class="tv-inner-shadow">
+      <div class="tv-screen-curved">
+
+        <div class="tv-static"></div>
+        <div class="tv-screen-overlay"></div>
+        <div class="tv-screen-glow"></div>
+
+        <div class="ttx-page">
+
+          <header class="ttx-header">
+
+            <div class="ttx-topline">
+              <div class="ttx-pagecode">
+                <span class="c-green">P120</span>
+                <span class="ttx-sep">|</span>
+                <span id="clock-box">00:00</span>
+              </div>
+
+              <div class="ttx-datebox">
+                <span id="date-box">TRANSPORTE</span>
+              </div>
+            </div>
+
+            <nav class="ttx-topnav">
+              <a class="topnav-link" href="./index.html"><span class="c-cyan">100</span> PORTADA</a>
+              <a class="topnav-link" href="./publicar.html"><span class="c-yellow">101</span> PUBLICAR</a>
+              <a class="topnav-link" href="./archivo.html"><span class="c-magenta">102</span> ARCHIVO</a>
+              <a class="topnav-link" href="./tiempo.html"><span class="c-green">103</span> TIEMPO</a>
+              <a class="topnav-link" href="./racing.html"><span class="c-red">104</span> RACING</a>
+              <a class="topnav-link" href="./avisos.html"><span class="c-blue">106</span> AVISOS</a>
+              <a class="topnav-link" href="./historia.html"><span class="c-yellow">107</span> HISTORIA</a>
+              <a class="topnav-link active" href="./transporte.html"><span class="c-cyan">120</span> TRANSPORTE</a>
+            </nav>
+
+            <div class="ttx-head-main">
+              <div class="ttx-brand-wrap">
+                <div class="ttx-brand">
+                  <span class="c-cyan">TRANSPORTE</span><span class="c-yellow">SANTANDER</span>
+                </div>
+
+                <div class="ttx-subline">
+                  <span class="c-green">DATOS ABIERTOS</span>
+                  <span class="sep">·</span>
+                  <span>TRÁFICO</span>
+                  <span class="sep">·</span>
+                  <span>MOVILIDAD URBANA</span>
+                </div>
+              </div>
+            </div>
+
+          </header>
+
+          <main class="ttx-main" style="border-right:none;">
+
+            <div class="section-title c-black-on-cyan">P120 · TRANSPORTE Y MOVILIDAD</div>
+
+            <div class="tele-separator">
+              ████████████████████████████████████████████████████████
+            </div>
+
+            <div id="transport-summary" class="empty-box">
+              CARGANDO RESUMEN DE TRANSPORTE...
+            </div>
+
+            <div class="section-title c-black-on-yellow">DATASETS DISPONIBLES</div>
+
+            <div id="transport-list" class="news-list">
+              <div class="empty-box">CARGANDO DATOS...</div>
+            </div>
+
+          </main>
+
+          <footer class="ttx-footer tele-footer">
+            <a class="footer-link" href="./index.html"><span class="c-cyan">100</span> PORTADA</a>
+            <a class="footer-link" href="./publicar.html"><span class="c-yellow">101</span> PUBLICAR</a>
+            <a class="footer-link" href="./archivo.html"><span class="c-magenta">102</span> ARCHIVO</a>
+            <a class="footer-link" href="./tiempo.html"><span class="c-green">103</span> TIEMPO</a>
+            <a class="footer-link" href="./racing.html"><span class="c-red">104</span> RACING</a>
+            <a class="footer-link" href="./avisos.html"><span class="c-blue">106</span> AVISOS</a>
+            <a class="footer-link" href="./historia.html"><span class="c-yellow">107</span> HISTORIA</a>
+            <a class="footer-link" href="./transporte.html"><span class="c-cyan">120</span> TRANSPORTE</a>
+            <span class="footer-cursor">█</span>
+          </footer>
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<script>
+function updateClock() {
+  const now = new Date();
+
+  const clock = document.getElementById("clock-box");
+  const date = document.getElementById("date-box");
+
+  if (clock) {
+    clock.textContent = now.toLocaleTimeString("es-ES", {
+      hour: "2-digit",
+      minute: "2-digit"
+    });
+  }
+
+  if (date) {
+    date.textContent = now.toLocaleDateString("es-ES", {
+      weekday: "short",
+      day: "2-digit",
+      month: "short",
+      year: "numeric"
+    }).toUpperCase();
+  }
+}
+
+function escapeHtml(str = "") {
+  return String(str)
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;")
+    .replaceAll("'", "&#039;");
+}
+
+function formatDatasetName(name = "") {
+  return String(name)
+    .replaceAll("_", " ")
+    .replaceAll("-", " ")
+    .toUpperCase();
+}
+
+async function loadTransportData() {
+  const summaryEl = document.getElementById("transport-summary");
+  const listEl = document.getElementById("transport-list");
+
+  try {
+    const response = await fetch("./data/transport.json?ts=" + Date.now());
+    const data = await response.json();
+
+    const datasets = data.datasets || [];
+    const updated = data.updated
+      ? new Date(data.updated).toLocaleString("es-ES")
+      : "NO DISP.";
+
+    summaryEl.innerHTML = `
+      <strong class="c-cyan">ACTUALIZADO:</strong> ${escapeHtml(updated)}<br>
+      <strong class="c-yellow">FUENTE:</strong> ${escapeHtml(data.source || "datos.santander.es")}<br>
+      <strong class="c-green">DATASETS:</strong> ${datasets.length}<br>
+      <strong class="c-magenta">ELEMENTOS:</strong> ${data.total_items || 0}
+    `;
+
+    if (!datasets.length) {
+      listEl.innerHTML = `<div class="empty-box">SIN DATASETS DISPONIBLES</div>`;
+      return;
+    }
+
+    listEl.innerHTML = datasets.map(ds => `
+      <article class="news-item media-news-item">
+        <div class="news-head">
+          <h3 class="news-title">${escapeHtml(formatDatasetName(ds.dataset || "dataset"))}</h3>
+          <div class="news-time">${ds.ok ? "OK" : "ERROR"} · ${escapeHtml(String(ds.count ?? 0))} ITEMS</div>
+        </div>
+        <p class="news-body">
+          URL: ${escapeHtml(ds.url || "NO DISPONIBLE")}
+        </p>
+      </article>
+    `).join("");
+
+  } catch (error) {
+    console.error("Error cargando transport.json:", error);
+    summaryEl.textContent = "ERROR CARGANDO RESUMEN";
+    listEl.innerHTML = `<div class="empty-box">NO SE PUDO CARGAR TRANSPORT.JSON</div>`;
+  }
+}
+
+updateClock();
+setInterval(updateClock, 1000);
+loadTransportData();
+</script>
+
+</body>
+</html>
