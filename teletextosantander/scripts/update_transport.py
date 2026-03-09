@@ -46,7 +46,7 @@ def normalize_records(raw):
             value = raw.get(key)
             if isinstance(value, list):
                 return value
-        return [raw]
+        return []
 
     return []
 
@@ -64,12 +64,12 @@ def extract_lat_lon(record):
 
     for key in lat_keys:
         if key in record and record.get(key) not in (None, ""):
-            lat = record.get(key)
+            lat = str(record.get(key)).strip()
             break
 
     for key in lon_keys:
         if key in record and record.get(key) not in (None, ""):
-            lon = record.get(key)
+            lon = str(record.get(key)).strip()
             break
 
     return lat, lon
@@ -203,7 +203,11 @@ def save_json(data):
 def main():
     payload = build_payload()
     save_json(payload)
-    print(f"JSON actualizado. Datasets: {payload['total_datasets']} · Items: {payload['total_items']}")
+    print(
+        f"JSON actualizado. "
+        f"Datasets: {payload['total_datasets']} · "
+        f"Items: {payload['total_items']}"
+    )
 
 
 if __name__ == "__main__":
