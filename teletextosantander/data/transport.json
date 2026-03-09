@@ -1,47 +1,47 @@
 {
-  "updated": "2026-03-09T17:18:23.117926+00:00",
+  "updated": "2026-03-09T17:26:07.526393+00:00",
   "source": "datos.santander.es",
   "total_datasets": 6,
   "total_items": 0,
   "datasets": [
     {
       "dataset": "senales_trafico",
-      "url": "http://datos.santander.es/api/rest/datasets/senales_trafico.json?items=500",
+      "url": "http://datos.santander.es/api/datos/senales_trafico.json",
       "ok": true,
       "count": 0,
       "items": []
     },
     {
       "dataset": "plazas_pmr",
-      "url": "http://datos.santander.es/api/rest/datasets/plazas_pmr_nofoto.json?items=500",
+      "url": "http://datos.santander.es/api/datos/plazas_pmr.json",
       "ok": true,
       "count": 0,
       "items": []
     },
     {
       "dataset": "vados",
-      "url": "http://datos.santander.es/api/rest/datasets/vados.json?items=500",
+      "url": "http://datos.santander.es/api/datos/vados.json",
       "ok": true,
       "count": 0,
       "items": []
     },
     {
       "dataset": "plazas_motos",
-      "url": "http://datos.santander.es/api/rest/datasets/plazas_motos.json?items=500",
+      "url": "http://datos.santander.es/api/datos/plazas_motos.json",
       "ok": true,
       "count": 0,
       "items": []
     },
     {
       "dataset": "zonas_carga",
-      "url": "http://datos.santander.es/api/rest/datasets/zonas_carga.json?items=500",
+      "url": "http://datos.santander.es/api/datos/zonas_carga.json",
       "ok": true,
       "count": 0,
       "items": []
     },
     {
       "dataset": "zonas_30",
-      "url": "http://datos.santander.es/api/rest/datasets/zonas_30.json?items=500",
+      "url": "http://datos.santander.es/api/datos/zonas_30.json",
       "ok": true,
       "count": 0,
       "items": []
