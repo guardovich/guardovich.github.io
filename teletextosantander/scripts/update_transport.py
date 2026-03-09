@@ -39,45 +39,51 @@ def safe_get_json(url):
         return None
 
 
-# Detecta automáticamente dónde están los registros
+# NUEVA FUNCIÓN CORREGIDA
 def normalize_records(raw):
 
     if raw is None:
         return []
 
+    # caso más común: lista directa
     if isinstance(raw, list):
         return raw
 
     if isinstance(raw, dict):
 
-        if "result" in raw:
+        # APIs que devuelven items
+        if "items" in raw and isinstance(raw["items"], list):
+            return raw["items"]
 
+        # APIs que devuelven records
+        if "records" in raw and isinstance(raw["records"], list):
+            return raw["records"]
+
+        # estructura CKAN
+        if "result" in raw:
             result = raw["result"]
 
             if isinstance(result, list):
                 return result
 
             if isinstance(result, dict):
-
                 for key in ["items", "records", "data"]:
                     if key in result and isinstance(result[key], list):
                         return result[key]
 
+        # GeoJSON
         if "features" in raw:
-
             records = []
-
             for f in raw["features"]:
                 props = f.get("properties", {})
                 props["geometry"] = f.get("geometry")
                 records.append(props)
-
             return records
 
-        for key, value in raw.items():
-            if isinstance(value, list) and len(value) > 0:
-                if isinstance(value[0], dict):
-                    return value
+        # fallback automático
+        for value in raw.values():
+            if isinstance(value, list) and value and isinstance(value[0], dict):
+                return value
 
     return []
 
