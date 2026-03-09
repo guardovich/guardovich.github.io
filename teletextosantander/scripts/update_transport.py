@@ -1,8 +1,13 @@
 import json
+import os
 from datetime import datetime, timezone
 import requests
 
-OUTPUT_FILE = "teletextosantander/data/transport.json"
+# Ruta segura al archivo JSON
+OUTPUT_FILE = os.path.join(
+    os.path.dirname(__file__),
+    "../data/transport.json"
+)
 
 BASE_DATASET_URLS = {
     "senales_trafico": "http://datos.santander.es/api/datos/senales_trafico.json",
@@ -30,50 +35,49 @@ def safe_get_json(url):
         r.raise_for_status()
         return r.json()
     except Exception as e:
-        print("ERROR:", e)
+        print("ERROR descargando:", url, e)
         return None
 
 
+# Detecta automáticamente dónde están los registros
 def normalize_records(raw):
 
     if raw is None:
         return []
 
-    # CASO 1: la API devuelve una lista directa (muy común en Santander)
     if isinstance(raw, list):
         return raw
 
-    # CASO 2: geojson
-    if isinstance(raw, dict) and "features" in raw:
-        return [f.get("properties", {}) | {"geometry": f.get("geometry")} for f in raw["features"]]
-
-    # CASO 3: estructura result
-    if isinstance(raw, dict) and "result" in raw:
-
-        result = raw["result"]
-
-        if isinstance(result, list):
-            return result
-
-        if isinstance(result, dict):
-
-            if "items" in result and isinstance(result["items"], list):
-                return result["items"]
-
-            if "records" in result and isinstance(result["records"], list):
-                return result["records"]
-
-            if "data" in result and isinstance(result["data"], list):
-                return result["data"]
-
-    # CASO 4: estructuras alternativas
     if isinstance(raw, dict):
 
-        for key in ["items", "records", "data", "results"]:
-            if key in raw and isinstance(raw[key], list):
-                return raw[key]
+        if "result" in raw:
 
-    print("⚠️ estructura desconocida:", type(raw))
+            result = raw["result"]
+
+            if isinstance(result, list):
+                return result
+
+            if isinstance(result, dict):
+
+                for key in ["items", "records", "data"]:
+                    if key in result and isinstance(result[key], list):
+                        return result[key]
+
+        if "features" in raw:
+
+            records = []
+
+            for f in raw["features"]:
+                props = f.get("properties", {})
+                props["geometry"] = f.get("geometry")
+                records.append(props)
+
+            return records
+
+        for key, value in raw.items():
+            if isinstance(value, list) and len(value) > 0:
+                if isinstance(value[0], dict):
+                    return value
 
     return []
 
@@ -102,21 +106,15 @@ def extract_lat_lon(record):
 
     for k in lat_keys:
         if k in record and record[k] not in (None, ""):
-            try:
-                lat = float(record[k])
-                break
-            except:
-                pass
+            lat = float(record[k])
+            break
 
     for k in lon_keys:
         if k in record and record[k] not in (None, ""):
-            try:
-                lon = float(record[k])
-                break
-            except:
-                pass
+            lon = float(record[k])
+            break
 
-    # GeoJSON geometry
+    # soporte GeoJSON
     if lat is None and "geometry" in record:
         g = record["geometry"]
         if g and "coordinates" in g:
@@ -235,6 +233,8 @@ def build_payload():
 
 
 def save_json(data):
+
+    os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
