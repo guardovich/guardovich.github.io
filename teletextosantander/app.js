@@ -57,6 +57,29 @@ function cleanTitle(item) {
   return title;
 }
 
+function normalizeTitleForCompare(title = "") {
+  return String(title)
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function dedupeMediaNews(items = []) {
+  const seen = new Set();
+  const result = [];
+
+  for (const item of items) {
+    const key = normalizeTitleForCompare(item.title || "");
+    if (!key || seen.has(key)) continue;
+    seen.add(key);
+    result.push(item);
+  }
+
+  return result;
+}
+
 function mergeMainNews(news, mediaNews, limit = 12) {
   const combined = [...news];
 
@@ -459,15 +482,17 @@ async function fetchRSS(feedUrl) {
 
 async function loadMediaNews() {
   const feeds = [
-    "https://news.google.com/rss/search?q=Santander+OR+Racing+de+Santander&hl=es&gl=ES&ceid=ES:es"
+    "https://news.google.com/rss/search?q=Santander&hl=es&gl=ES&ceid=ES:es",
+    "https://news.google.com/rss/search?q=Racing+de+Santander&hl=es&gl=ES&ceid=ES:es"
   ];
 
   const results = await Promise.all(feeds.map(fetchRSS));
 
-  return results
-    .flat()
-    .filter(item => item.title && item.link)
-    .slice(0, 8);
+  return dedupeMediaNews(
+    results
+      .flat()
+      .filter(item => item.title && item.link)
+  ).slice(0, 12);
 }
 
 async function hideComment(id) {
