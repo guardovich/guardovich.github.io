@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-03-12T02:05:48.635Z",
+  "generatedAt": "2026-03-12T06:55:55.606Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Google Play Games for PC is getting more premium titles and cross-buy with Android",
+          "link": "https://arstechnica.com/gaming/2026/03/google-play-games-for-pc-is-getting-more-premium-titles-and-cross-buy-with-android/",
+          "summary": "Google is more focused on desktop gaming than ever before.",
+          "isoDate": "2026-03-11T23:00:36.000Z"
+        },
         {
           "title": "One of Grammarly’s ‘experts’ is suing the company over its identity-stealing AI feature",
           "link": "https://www.theverge.com/ai-artificial-intelligence/893451/grammarly-ai-lawsuit-julia-angwin",
@@ -58,12 +64,6 @@
           "link": "https://arstechnica.com/gadgets/2026/03/windows-11s-steam-deck-ish-streamlined-xbox-gaming-ui-comes-to-all-pcs-in-april/",
           "summary": "Running Windows on gaming handhelds is currently a blessing and a curse.",
           "isoDate": "2026-03-11T20:55:50.000Z"
-        },
-        {
-          "title": "\"Use a gun\" or \"beat the crap out of him\": AI chatbot urged violence, study finds",
-          "link": "https://arstechnica.com/tech-policy/2026/03/use-a-gun-or-beat-the-crap-out-of-him-ai-chatbot-urged-violence-study-finds/",
-          "summary": "Character.AI deemed \"uniquely unsafe\" among 10 chatbots tested by CCDH.",
-          "isoDate": "2026-03-11T20:44:13.000Z"
         }
       ]
     },
@@ -71,6 +71,12 @@
       "header": "120  CIENCIA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Dust Outbreak Reaches Europe",
+          "link": "https://science.nasa.gov/earth/earth-observatory/dust-outbreak-reaches-europe/",
+          "summary": "Clouds of dust lofted from the Sahara Desert brought hazy skies and muddy rain to Western Europe.",
+          "isoDate": "2026-03-12T04:01:00.000Z"
+        },
         {
           "title": "2026 William T. Pecora Award Nominations Now Being Accepted",
           "link": "https://science.nasa.gov/missions/landsat/2026-william-t-pecora-award-nominations-now-being-accepted/",
@@ -124,12 +130,6 @@
           "link": "https://www.nature.com/articles/d41586-026-00798-0",
           "summary": "Nature, Published online: 11 March 2026; doi:10.1038/d41586-026-00798-0\nA study reveals how the asexual Amazon molly defies evolutionary expectations — plus, evidence of what might be powering superluminous supernovae.",
           "isoDate": "2026-03-11T00:00:00.000Z"
-        },
-        {
-          "title": "The dynamic basis of G-protein recognition and activation by a GPCR",
-          "link": "https://www.nature.com/articles/s41586-026-10228-w",
-          "summary": "Nature, Published online: 11 March 2026; doi:10.1038/s41586-026-10228-w\nConventional and time-resolved cryo-electron microscopy reveal how NTSR1 dynamically engages and releases different G proteins, capturing over 20 intermediates and uncovering key mechanistic steps in GDP- and GTP-driven activation, subtype selectivity and distinct dissociation pathways.",
-          "isoDate": "2026-03-11T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-03-12T02:05:43.888Z"
+          "isoDate": "2026-03-12T06:55:50.055Z"
         },
         {
           "title": "What role has cyber warfare played in Iran?",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-03-12T02:05:47.258Z"
+          "isoDate": "2026-03-12T06:55:53.848Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 58\nChar: =",
-          "isoDate": "2026-03-12T02:05:46.195Z"
+          "isoDate": "2026-03-12T06:55:51.740Z"
         },
         {
           "title": "IEEE Launches Global Virtual Career Fairs",
