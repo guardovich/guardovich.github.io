@@ -24,14 +24,23 @@ HELPERS
 async function sha256Hex(str){
   const enc = new TextEncoder().encode(str);
   const buf = await crypto.subtle.digest("SHA-256", enc);
-  return [...new Uint8Array(buf)].map(b => b.toString(16).padStart(2,"0")).join("");
+  return [...new Uint8Array(buf)].map(b => b.toString(16).padStart(2, "0")).join("");
 }
 
 function euro(n){
-  return new Intl.NumberFormat("es-ES", { style:"currency", currency:"EUR" }).format(n);
+  return new Intl.NumberFormat("es-ES", {
+    style: "currency",
+    currency: "EUR"
+  }).format(n);
 }
-function fmtDateISO(iso){ return iso || "—"; }
-function sleep(ms){ return new Promise(r => setTimeout(r, ms)); }
+
+function fmtDateISO(iso){
+  return iso || "—";
+}
+
+function sleep(ms){
+  return new Promise(r => setTimeout(r, ms));
+}
 
 function priceClass(price){
   if(price <= 2.0) return "p-green";
@@ -41,7 +50,15 @@ function priceClass(price){
 
 function nowClock(){
   const d = new Date();
-  return d.toLocaleTimeString("es-ES", { hour: "2-digit", minute: "2-digit" });
+  return d.toLocaleTimeString("es-ES", {
+    hour: "2-digit",
+    minute: "2-digit"
+  });
+}
+
+function randomFrom(arr){
+  if(!arr || !arr.length) return "";
+  return arr[Math.floor(Math.random() * arr.length)];
 }
 
 /* ======================
@@ -51,54 +68,53 @@ STATE
 let DATA = null;
 let view = [];
 let currentView = "ranking";
+let excusaBusy = false;
 
 /* ======================
 EXCUSAS
 ====================== */
 
-const excusas = [
-
-"Estoy terminando una cosa rapidísima y se me ha ido un poco de las manos.",
-"Salí a por una cerveza rápida y al final me he encontrado con media cuadrilla.",
-"Me he cruzado con un conocido que no veía desde hace años y se ha alargado la charla.",
-"Estoy pagando y aquí lo de dividir la cuenta se está complicando más de lo previsto.",
-"Pensaba irme hace rato pero justo ha llegado una ronda que no podía rechazar.",
-"Estoy intentando salir pero me han parado en la puerta para despedirse.",
-"Me he quedado atrapado en una conversación eterna sobre fútbol.",
-"Estoy cerrando una conversación que se ha puesto intensa de repente.",
-"Pensaba ir directo para casa pero me han liado para una última.",
-"Estoy esperando a que traigan la cuenta y aquí va con calma.",
-"Me he encontrado con un amigo que estaba de paso y nos hemos puesto al día.",
-"Estoy terminando la cerveza y salgo ya.",
-"Me he quedado un momento más porque han sacado una tapa que no esperaba.",
-"Estoy esperando a un amigo que va a pagar su parte para poder irme.",
-"Se me ha alargado un poco más de lo previsto la despedida.",
-"Me he cruzado con unos conocidos y se ha montado una pequeña tertulia.",
-"Estoy gestionando la retirada estratégica.",
-"Pensaba marcharme ya pero han empezado a hablar de un tema interesante.",
-"Estoy intentando cerrar la noche con dignidad.",
-"Se me ha complicado la salida porque justo ha empezado otra ronda.",
-"Estoy resolviendo un pequeño lío con la cuenta.",
-"Me han parado para saludar y se ha liado una conversación larga.",
-"Estoy en la fase final de retirada.",
-"Me he quedado un momento más porque estaban contando algo buenísimo.",
-"Estoy esperando el momento correcto para irme sin quedar mal.",
-"Pensaba irme ya pero justo han llegado unos conocidos.",
-"Estoy terminando la conversación y salgo.",
-"Se me ha ido un poco el tiempo sin darme cuenta.",
-"Estoy intentando despedirme pero cada vez sale otro tema.",
-"Estoy cerrando un debate absurdo que ha surgido en la mesa.",
-"Me han liado con una última rápida y estoy terminándola.",
-"Estoy gestionando la logística de salida.",
-"Me he quedado un momento más porque han empezado a contar una historia increíble.",
-"Estoy esperando a que se vacíe un poco la barra para pagar.",
-"Estoy en fase de despedidas múltiples.",
-"Se me ha cruzado media ciudad aquí dentro.",
-"Estoy terminando una charla que ha derivado en anécdotas antiguas.",
-"Estoy intentando marcharme desde hace rato pero siempre aparece alguien más.",
-"Pensaba que ya me iba pero han sacado otra ronda inesperada.",
-"Voy con un pequeño retraso logístico pero ya estoy saliendo."
-
+const EXCUSAS = [
+  "Estoy terminando una cosa rapidísima y se me ha ido un poco de las manos.",
+  "Salí a por una cerveza rápida y al final me he encontrado con media cuadrilla.",
+  "Me he cruzado con un conocido que no veía desde hace años y se ha alargado la charla.",
+  "Estoy pagando y aquí lo de dividir la cuenta se está complicando más de lo previsto.",
+  "Pensaba irme hace rato pero justo ha llegado una ronda que no podía rechazar.",
+  "Estoy intentando salir pero me han parado en la puerta para despedirse.",
+  "Me he quedado atrapado en una conversación eterna sobre fútbol.",
+  "Estoy cerrando una conversación que se ha puesto intensa de repente.",
+  "Pensaba ir directo para casa pero me han liado para una última.",
+  "Estoy esperando a que traigan la cuenta y aquí va con calma.",
+  "Me he encontrado con un amigo que estaba de paso y nos hemos puesto al día.",
+  "Estoy terminando la cerveza y salgo ya.",
+  "Me he quedado un momento más porque han sacado una tapa que no esperaba.",
+  "Estoy esperando a un amigo que va a pagar su parte para poder irme.",
+  "Se me ha alargado un poco más de lo previsto la despedida.",
+  "Me he cruzado con unos conocidos y se ha montado una pequeña tertulia.",
+  "Estoy gestionando la retirada estratégica.",
+  "Pensaba marcharme ya pero han empezado a hablar de un tema interesante.",
+  "Estoy intentando cerrar la noche con dignidad.",
+  "Se me ha complicado la salida porque justo ha empezado otra ronda.",
+  "Estoy resolviendo un pequeño lío con la cuenta.",
+  "Me han parado para saludar y se ha liado una conversación larga.",
+  "Estoy en la fase final de retirada.",
+  "Me he quedado un momento más porque estaban contando algo buenísimo.",
+  "Estoy esperando el momento correcto para irme sin quedar mal.",
+  "Pensaba irme ya pero justo han llegado unos conocidos.",
+  "Estoy terminando la conversación y salgo.",
+  "Se me ha ido un poco el tiempo sin darme cuenta.",
+  "Estoy intentando despedirme pero cada vez sale otro tema.",
+  "Estoy cerrando un debate absurdo que ha surgido en la mesa.",
+  "Me han liado con una última rápida y estoy terminándola.",
+  "Estoy gestionando la logística de salida.",
+  "Me he quedado un momento más porque han empezado a contar una historia increíble.",
+  "Estoy esperando a que se vacíe un poco la barra para pagar.",
+  "Estoy en fase de despedidas múltiples.",
+  "Se me ha cruzado media ciudad aquí dentro.",
+  "Estoy terminando una charla que ha derivado en anécdotas antiguas.",
+  "Estoy intentando marcharme desde hace rato pero siempre aparece alguien más.",
+  "Pensaba que ya me iba pero han sacado otra ronda inesperada.",
+  "Voy con un pequeño retraso logístico pero ya estoy saliendo."
 ];
 
 const MARGE_REACTIONS = [
@@ -118,61 +134,8 @@ const MARGE_HAPPY_REACTIONS = [
 ];
 
 /* ======================
-AUDIO (retro)
+AUDIO
 ====================== */
-
-let audioCtx = null;
-
-function ensureAudio(){
-  if(audioCtx) return;
-  try{ audioCtx = new (window.AudioContext || window.webkitAudioContext)(); }
-  catch(_){ audioCtx = null; }
-}
-
-function tone(freq=880, ms=40, vol=0.02, type="square"){
-  if(!audioCtx) return;
-  const o = audioCtx.createOscillator();
-  const g = audioCtx.createGain();
-  o.type = type;
-  o.frequency.value = freq;
-  g.gain.value = vol;
-  o.connect(g);
-  g.connect(audioCtx.destination);
-  o.start();
-  setTimeout(()=>o.stop(), ms);
-}
-
-async function sfxBoot(){
-  if(!audioCtx) return;
-  tone(220, 60, 0.02, "square"); await sleep(70);
-  tone(330, 60, 0.02, "square"); await sleep(70);
-  tone(440, 60, 0.02, "square");
-}
-
-async function sfxCoin(){
-  if(!audioCtx) return;
-  tone(988, 45, 0.03, "square"); await sleep(55);
-  tone(1319, 55, 0.03, "square"); await sleep(65);
-  tone(1760, 70, 0.03, "square");
-}
-
-async function sfxBeer(){
-  if(!audioCtx) return;
-  tone(1200,40,0.03,"square"); await sleep(60);
-  tone(900,50,0.03,"square"); await sleep(60);
-  tone(600,70,0.03,"square");
-}
-
-async function sfxBurp(){
-  if(!audioCtx) return;
-  tone(220, 70, 0.03, "square"); await sleep(50);
-  tone(180, 90, 0.03, "square"); await sleep(60);
-  tone(140, 130, 0.035, "square");
-}
-
-function beep(freq=880, ms=18, vol=0.015){
-  tone(freq, ms, vol, "square");
-}
 
 function playAudioFile(path, volume = 0.5){
   try{
@@ -189,7 +152,49 @@ function playAudioFile(path, volume = 0.5){
 INTRO terminal typing
 ====================== */
 
-async function typeLineHTML(container, html, {speed=14, beeps=true} = {}){
+let audioCtx = null;
+
+function ensureAudio(){
+  if(audioCtx) return;
+  try{
+    audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+  }catch(_){
+    audioCtx = null;
+  }
+}
+
+function tone(freq = 880, ms = 40, vol = 0.02, type = "square"){
+  if(!audioCtx) return;
+  const o = audioCtx.createOscillator();
+  const g = audioCtx.createGain();
+  o.type = type;
+  o.frequency.value = freq;
+  g.gain.value = vol;
+  o.connect(g);
+  g.connect(audioCtx.destination);
+  o.start();
+  setTimeout(() => o.stop(), ms);
+}
+
+async function sfxBoot(){
+  if(!audioCtx) return;
+  tone(220, 60, 0.02, "square"); await sleep(70);
+  tone(330, 60, 0.02, "square"); await sleep(70);
+  tone(440, 60, 0.02, "square");
+}
+
+async function sfxCoin(){
+  if(!audioCtx) return;
+  tone(988, 45, 0.03, "square"); await sleep(55);
+  tone(1319, 55, 0.03, "square"); await sleep(65);
+  tone(1760, 70, 0.03, "square");
+}
+
+function beep(freq = 880, ms = 18, vol = 0.015){
+  tone(freq, ms, vol, "square");
+}
+
+async function typeLineHTML(container, html, { speed = 14, beeps = true } = {}){
   const line = document.createElement("div");
   line.className = "introLine";
   container.appendChild(line);
@@ -202,10 +207,12 @@ async function typeLineHTML(container, html, {speed=14, beeps=true} = {}){
   cursor.className = "cursor";
   cursor.textContent = "▌";
 
-  for(let i=0;i<text.length;i++){
-    line.textContent = text.slice(0, i+1) + " ";
+  for(let i = 0; i < text.length; i++){
+    line.textContent = text.slice(0, i + 1) + " ";
     line.appendChild(cursor);
-    if(beeps && text[i] !== " " && text[i] !== "·") beep(880, 10, 0.012);
+    if(beeps && text[i] !== " " && text[i] !== "·"){
+      beep(880, 10, 0.012);
+    }
     await sleep(speed);
   }
 
@@ -237,7 +244,7 @@ async function waitForEnterOrClick(introEl){
     introEl?.addEventListener("click", () => {
       window.removeEventListener("keydown", onKey);
       resolve("click");
-    }, { once:true });
+    }, { once: true });
   });
 }
 
@@ -276,13 +283,13 @@ async function runIntro(){
   ];
 
   for(const t of script){
-    await typeLineHTML(lines, t, {speed: 12, beeps: true});
+    await typeLineHTML(lines, t, { speed: 12, beeps: true });
     await sleep(120);
   }
 
-  for(let i=0;i<=100;i+=4){
+  for(let i = 0; i <= 100; i += 4){
     bar.style.width = `${i}%`;
-    pct.textContent = `${String(i).padStart(2,"0")}%`;
+    pct.textContent = `${String(i).padStart(2, "0")}%`;
     if(i % 20 === 0) beep(660, 20, 0.018);
     await sleep(25);
   }
@@ -294,7 +301,7 @@ async function runIntro(){
   await typeLineHTML(
     lines,
     `<div class="pressEnter"><span class="tag">[READY]</span> Pulsa <span class="ok">ENTER</span> para continuar…</div>`,
-    {speed: 10, beeps:false}
+    { speed: 10, beeps: false }
   );
 
   frame?.classList.add("idle");
@@ -409,6 +416,7 @@ function applyFilterAndView(){
         ...(it.cons || []),
         String(it.price ?? "")
       ].filter(Boolean).join(" ").toLowerCase();
+
       return hay.includes(q);
     });
   }
@@ -448,8 +456,8 @@ function render(){
     const pcls = priceClass(p);
     const isGreenRow = p <= 2.0;
 
-    const prosHTML = (it.pros || []).map(p => `<span class="pro">👍 ${p}</span>`).join(" ");
-    const consHTML = (it.cons || []).map(c => `<span class="con">👎 ${c}</span>`).join(" ");
+    const prosHTML = (it.pros || []).map(pv => `<span class="pro">👍 ${pv}</span>`).join(" ");
+    const consHTML = (it.cons || []).map(cv => `<span class="con">👎 ${cv}</span>`).join(" ");
 
     const score = cucasScore(it);
     const ccls = cucasColorClass(score);
@@ -464,7 +472,7 @@ function render(){
 
     return `
       <div class="trow ${isGreenRow ? "isGreen" : ""}">
-        <div class="rank">${String(idx+1).padStart(2,"0")}</div>
+        <div class="rank">${String(idx + 1).padStart(2, "0")}</div>
 
         <div class="name">
           ${it.name || "—"}
@@ -497,7 +505,7 @@ function renderStats(){
 
   const scoped = applyFilterAndView();
   const scores = scoped.map(cucasScore);
-  const avg = scores.length ? Math.round(scores.reduce((a,b)=>a+b,0)/scores.length) : 0;
+  const avg = scores.length ? Math.round(scores.reduce((a, b) => a + b, 0) / scores.length) : 0;
 
   const cityLabel = currentCity === "ALL" ? "Todas" : currentCity;
   meta.textContent = `Actualizado: ${DATA?.updated || "—"} · Ciudad: ${cityLabel} · Bares: ${scoped.length}`;
@@ -518,22 +526,22 @@ SORTS
 ====================== */
 
 function sortByPrice(){
-  view.sort((a,b) => (a.price ?? 9e9) - (b.price ?? 9e9));
+  view.sort((a, b) => (a.price ?? 9e9) - (b.price ?? 9e9));
   currentView === "stats" ? renderStats() : render();
 }
 
 function sortByName(){
-  view.sort((a,b) => (a.name || "").localeCompare(b.name || "", "es"));
+  view.sort((a, b) => (a.name || "").localeCompare(b.name || "", "es"));
   currentView === "stats" ? renderStats() : render();
 }
 
 function sortByCucas(){
-  view.sort((a,b) => cucasScore(b) - cucasScore(a));
+  view.sort((a, b) => cucasScore(b) - cucasScore(a));
   currentView === "stats" ? renderStats() : render();
 }
 
 /* ======================
-RUTA DE POTES (scoped por ciudad + filtro)
+RUTA DE POTES
 ====================== */
 
 function pickRandom(arr){
@@ -541,7 +549,7 @@ function pickRandom(arr){
   return arr[Math.floor(Math.random() * arr.length)];
 }
 
-async function generarRutaPotes(){
+function generarRutaPotes(){
   if(!DATA || !DATA.items) return;
 
   const scoped = applyFilterAndView();
@@ -554,7 +562,7 @@ async function generarRutaPotes(){
 
   const puntuados = [...scoped]
     .map(bar => ({ bar, score: cucasScore(bar) }))
-    .sort((a,b) => b.score - a.score);
+    .sort((a, b) => b.score - a.score);
 
   const pool = puntuados.slice(0, Math.min(6, puntuados.length)).map(x => x.bar);
   pool.sort(() => Math.random() - 0.5);
@@ -573,7 +581,6 @@ async function generarRutaPotes(){
 
     if(bar.price != null) texto += ` (a ${bar.price.toFixed(2)}€)`;
     if(bar.beer_brand) texto += ` · <span>${bar.beer_brand}</span>`;
-
     if(pro) texto += ` porque ${String(pro).toLowerCase()}`;
     if(con) texto += ` (ojo: ${String(con).toLowerCase()})`;
 
@@ -582,9 +589,7 @@ async function generarRutaPotes(){
 
   if(out) out.innerHTML = texto;
 
-  ensureAudio();
-  await sfxBeer();
-  await triggerBarneyDrink();
+  triggerBarneyDrink();
 }
 
 /* ======================
@@ -620,14 +625,12 @@ function logout(){
 }
 
 /* ======================
-BARNEY NPC
+BARNEY
 ====================== */
 
 function triggerBarneyDrink(){
-
   const sprite = document.getElementById("barneySprite");
   if(!sprite) return;
-
   if(sprite.classList.contains("drink")) return;
 
   sprite.classList.remove("drink");
@@ -637,8 +640,8 @@ function triggerBarneyDrink(){
   setTimeout(() => {
     sprite.classList.remove("drink");
   }, 1350);
-
 }
+
 /* ======================
 EXCUSAS / NOKIA
 ====================== */
@@ -672,12 +675,6 @@ function setMargeHappy(){
   marge.classList.remove("marge-angry");
   marge.classList.add("marge-happy");
 }
-
-function randomFrom(arr){
-  return arr[Math.floor(Math.random() * arr.length)];
-}
-
-let excusaBusy = false;
 
 async function generarExcusa(){
   if(excusaBusy) return;
@@ -726,7 +723,7 @@ async function generarExcusa(){
 }
 
 /* ======================
-UI helpers
+UI HELPERS
 ====================== */
 
 function setActiveButtons(selector, matchFn){
@@ -740,13 +737,11 @@ INIT
 ====================== */
 
 window.addEventListener("DOMContentLoaded", async () => {
-  // login
   document.getElementById("btnEnter")?.addEventListener("click", enter);
   document.getElementById("key")?.addEventListener("keydown", (e) => {
     if(e.key === "Enter") enter();
   });
 
-  // controls
   document.getElementById("btnLogout")?.addEventListener("click", logout);
   document.getElementById("btnSortPrice")?.addEventListener("click", sortByPrice);
   document.getElementById("btnSortName")?.addEventListener("click", sortByName);
@@ -758,13 +753,10 @@ window.addEventListener("DOMContentLoaded", async () => {
     currentView === "stats" ? renderStats() : render();
   });
 
-  // Barney
   document.getElementById("npcBarneyBtn")?.addEventListener("click", triggerBarneyDrink);
 
-  // default panel
   showRankingPanel();
 
-  // view buttons
   document.querySelectorAll(".navBtn").forEach(btn => {
     btn.addEventListener("click", () => {
       currentView = btn.dataset.view || "ranking";
@@ -782,7 +774,6 @@ window.addEventListener("DOMContentLoaded", async () => {
     });
   });
 
-  // city buttons
   document.querySelectorAll(".cityBtn").forEach(btn => {
     btn.addEventListener("click", () => {
       currentCity = btn.dataset.city || "Potes";
@@ -793,7 +784,6 @@ window.addEventListener("DOMContentLoaded", async () => {
     });
   });
 
-  // intro / auth routing
   const seen = localStorage.getItem(INTRO_SEEN) === "1";
   const logged = localStorage.getItem(STORAGE_FLAG) === "1";
 
