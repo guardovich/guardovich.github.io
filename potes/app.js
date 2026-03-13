@@ -601,24 +601,21 @@ function logout(){
 BARNEY NPC
 ====================== */
 
-async function triggerBarneyDrink(){
+function triggerBarneyDrink(){
+
   const sprite = document.getElementById("barneySprite");
   if(!sprite) return;
 
   if(sprite.classList.contains("drink")) return;
 
-  ensureAudio();
   sprite.classList.remove("drink");
-  void sprite.offsetWidth; // reinicia la animación
+  void sprite.offsetWidth;
   sprite.classList.add("drink");
-
-  await sfxBeer();
-  await sleep(120);
-  await sfxBurp();
 
   setTimeout(() => {
     sprite.classList.remove("drink");
   }, 1350);
+
 }
 /* ======================
 EXCUSAS / NOKIA
