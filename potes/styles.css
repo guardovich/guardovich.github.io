@@ -687,6 +687,10 @@ a.link:hover{
 BUSCADOR + BARNEY SPRITE
 ====================== */
 
+/* ======================
+BUSCADOR + BARNEY SPRITE
+====================== */
+
 .searchWrap{
   display:flex;
   align-items:center;
@@ -716,9 +720,10 @@ BUSCADOR + BARNEY SPRITE
   background-image:url("./barney-sprite.png");
   background-repeat:no-repeat;
   background-size:300% 300%;
-  background-position:0% 0%;
+  background-position:0 0;
   display:block;
-  animation:barneyIdle 1.2s steps(1,end) infinite;
+  image-rendering:pixelated;
+  animation:barneyIdle 1.4s steps(1,end) infinite;
 }
 
 .npcBarneyWrap::after{
@@ -751,24 +756,40 @@ BUSCADOR + BARNEY SPRITE
   }
 }
 
+/* Idle: recorre varios frames reales */
 @keyframes barneyIdle{
-  0%{ background-position:0% 0%; }
-  50%{ background-position:50% 0%; }
-  100%{ background-position:0% 0%; }
+  0%   { background-position:   0%   0%; }
+  20%  { background-position:  50%   0%; }
+  40%  { background-position: 100%   0%; }
+  60%  { background-position:   0%  50%; }
+  80%  { background-position:  50%  50%; }
+  100% { background-position:   0%   0%; }
 }
 
+/* Al clicar / generar ruta */
 .barneySprite.drink{
-  animation:barneyDrink 1.3s steps(1,end) 1;
+  animation:barneyDrink 1.35s steps(1,end) 1;
 }
 
 @keyframes barneyDrink{
-  0%{ background-position:0% 0%; }
-  16%{ background-position:50% 0%; }
-  32%{ background-position:100% 0%; }
-  48%{ background-position:0% 50%; }
-  64%{ background-position:50% 50%; }
-  80%{ background-position:100% 50%; }
-  100%{ background-position:100% 100%; }
+  0%   { background-position:   0%   0%; }
+  16%  { background-position:  50%   0%; }
+  32%  { background-position: 100%   0%; }
+  48%  { background-position:   0%  50%; }
+  64%  { background-position:  50%  50%; }
+  80%  { background-position: 100%  50%; }
+  100% { background-position: 100% 100%; }
+}
+
+@media (max-width:640px){
+  .searchWrap{
+    width:100%;
+  }
+
+  .npcBarneyWrap{
+    width:120px;
+    height:120px;
+  }
 }
 
 /* ======================
