@@ -1,10 +1,58 @@
 {
-  "generatedAt": "2026-03-12T18:54:19.588Z",
+  "generatedAt": "2026-03-13T02:03:05.801Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "The best Bluetooth trackers for Apple and Android phones",
+          "link": "https://www.theverge.com/23769840/best-bluetooth-trackers",
+          "summary": "Bluetooth trackers come in all shapes and sizes. | ﻿Illustration: Cath Virginia / The Verge\t\n\nSome people rarely lose things. Wallets are always exactly where they’re supposed to be, keys never go missing, and remotes never slip between the couch cushions. And then there’s the rest of us — the folks who can’t ever seem to find the thing that was right there a few seconds ago. For us, there are Bluetooth trackers.\nBluetooth trackers have been around for a long time, and they all generally work the same way. You stick the tracker onto an object, pair it with your phone, and then, when you lose said object, you can go into an app and ring the tracker. But these days, Bluetooth trackers can do a lot more. Some have ultra-wideband chips that enable precision tracking, so you can find exactly where in a room your item is. Increasingly, trackers also tap into large networks — like Apple’s and Google’s — making it easier to locate lost items outside the home. Many will notify you if they detect you’ve left the device behind or come with QR codes that link to your contact information so people can easily return lost devices.\nThese features are incredibly handy but also have the potential for misuse. Take AirTags. When Apple launched the trackers, it hadn’t anticipated they’d be used to track people or stolen items — but that’s exactly what happened. It’s since beefed up its anti-stalking features, and companies like Tile have also followed suit. Apple and Google have launched a standard that enables unwanted tracking alerts across both Android and iOS devices — and major players like Tile, Samsung, and Chipolo are on board. But until this standard is up and running, it pays to be aware of each tracker’s current approach when you’re deciding the best option for you.\nAs consummate Losers of Things, we have tested a fair share of Bluetooth trackers on wallets, keys, and luggage. Here’s what we’d recommend if you, too, have a hard time finding things.\n\n\n\n\n\nThe best tracker for iPhone users\nApple AirTag (second-gen)\nApple’s latest AirTags features an upgraded ultra-wideband chip for more precise location tracking, a noticeably louder speaker, and an expanded Bluetooth range. \n\nWhere to Buy:\n\n $29 at Amazon\n $29 at Best Buy\n $29 at Walmart\n\nIf you’re an iPhone owner, Apple’s second-gen AirTag offers a level of precision that rival trackers simply cannot match. The updated model leverages the company’s latest ultra wideband (UWB) chip for its nifty Precision Finding feature, which, in turn, can lead you to your lost item with an on-screen arrow in the Find My app. Plus, because AirTags can tap into Apple’s vast Find My network, a lost tracker can anonymously ping its location to Apple’s iCloud servers whenever it’s near another Apple device, extending its range beyond Bluetooth’s limitations.\nThat level of precision proved incredibly useful during testing. Apple’s newest coin-shaped tracker consistently guided us to our misplaced items, including a spare mailroom key hidden in a closet. None of the other Bluetooth trackers we tested — including those from Tile and other third-party, Find My-compatible offerings — worked quite as well. The extended range on the latest AirTags also makes it much easier to reliably locate items in multi-story homes, while a series of iOS updates has made it possible to share a temporary map with a host of airlines (including Delta and United), which can help if your luggage should ever go missing.\nThere are downsides, though. Although their replaceable CR2032 battery helps you save money in the long run, AirTags aren’t truly $29, since you’ll likely need to buy a separate holder to attach one to your keys or luggage. They’ve also faced criticism for being misused for unwanted tracking purposes (you can read our original testing in full here). That being said, Apple is aware of the issue and has since improved unwanted tracking alerts by shortening the time before you’re notified an unknown AirTag is in your vicinity, making chimes louder, and creating a separate app that lets Android users scan for unknown AirTags. \nRead our second-generation AirTags review.\nThe best tracker for Android users\nTile Pro\nThe Tile Pro is the company’s loudest Bluetooth tracker and has the widest range at 400 feet. It also has a user-replaceable battery, unlike other Tiles.\n\nWhere to Buy:\n\n $34.99 $30.99 at Amazon\n $34.99 at Best Buy\n $34.99 at Target\n\nMore and more trackers now support both Google’s and Apple’s Find My networks, but Tile’s trackers remain our top recommendation for both Android users and those in mixed iOS / Android households. What’s more, Tile currently offers four form factors to suit different needs: the card-shaped Tile Slim ($29.99), the square-ish Tile Mate ($24.99), the self-adhesive Tile Sticker ($24.99), and the Tile Pro ($34.99). The keyfob-shaped Tile Pro is our personal favorite; it’s larger than the Mate, offers the longest Bluetooth range at 500 feet, and has the loudest ring. Of the four, it’s also the only one that has a replaceable one-year CR2032 battery.\nA note about Google’s Find Hub network\nIn 2024,  Google finally launched its Find My Device network, which was later renamed Find Hub. It works similarly to Apple’s Find My network: you’ll be able to share trackers with family members, and there are also unwanted tracking alerts.\nInitially, the network lagged behind Apple’s, but it’s starting to catch up. After several weeks of testing Find Hub-compatible trackers — specifically the Chipolo Pop, Pebblebee Clip 5, and Motorola’s Moto Tag — in April, we found the network had improved significantly, especially in busy areas. Still, it’s clear Google prioritized privacy over precision.\nGoogle is making some progress, though. In 2024, it also rolled out satellite connectivity to Pixel 9 phones and newer devices, followed by UWB support for more precise tracking with Moto Tags and other compatible phones and trackers. More recently, the company added support for an iPhone-like feature that lets you share tracker locations with a growing number of airlines. So far, the list doesn’t include any US-based carriers, but it does include Lufthansa, Air India, China Airlines, Saudia, and more.\nAll Tile trackers work similarly to AirTags. Like Apple’s, Tile’s platform-agnostic trackers can tap into a larger network — in this case, the Tile Network and Amazon Sidewalk, neither of which is as expansive as Apple’s or Google’s. However, when we tested Google’s Find Hub-compatible trackers, including the Chipolo Pop and Moto Tag, we found that Tile still did better at tracking items outside the home. The biggest downside is that Tile trackers lack ultra wideband support, which means they can’t guide you to a nearby item using distance and directional cues like an AirTag. The company did announce a tracker that supports UWB in 2021, but it’s yet to ship, likely because Apple is effectively blocking UWB compatibility for third parties in iOS and Tile’s priorities shifted after it was acquired by Life360.\nThat being said, Tile trackers do have an edge over AirTags when it comes to recovering stolen items and safety features. That’s largely due to Tile’s anti-theft feature, which makes trackers invisible to tracking detection if your item is stolen. Using it requires identity verification and carries strict penalties, including a $1 million fine for misuse. Tile also offers a “Scan and Secure” tool for detecting unknown Tile devices nearby, though potential victims still have to proactively scan their surroundings. \nTo round things out, Tile users can manage their trackers directly within the Life360 app and send SOS alerts to emergency contacts with the push of a button (or several). New Tile users are also eligible for up to $100 in reimbursement for lost items and free replacements for damaged trackers, as well as access to 30 days of location history and unlimited sharing within their first year. After that, Tile owners will have to pay the $29.99 annual premium subscription fee to continue enjoying those perks, though every Tile user gets two days of location history for free.\nThe best AirTag and Tile alternative\nPebblebee Clip 5\nThe Pebblebee Clip 5 supports Apple’s Find My and Google’s Find Hub networks, but also has a 500-foot Bluetooth range, LEDs that flash to help you locate it, and a rechargeable battery that lasts up to 12 months on a single charge.\n\nWhere to Buy:\n\n $34.99 at Pebblebee\n $34.99 at Amazon\n\nIf you’re looking for an AirTag or Tile alternative, the $34.99 Pebblebee Clip 5 is an excellent choice. It’s one of a growing number of trackers that support both Apple’s Find My and Google’s Find Hub networks, which is a major improvement over its predecessor. Setup is seamless for iOS and Android users, but because Pebblebee’s app doesn’t handle tracking, features like geofencing and safe locations depend on which network you choose. Apple’s Find My, for instance, supports “left behind” alerts and safe locations; Google’s Find Hub still lacks an equivalent.\nThe thing we like best about the Pebblebee Clip 5 is its rechargeable battery. It can last up to a year on a single charge, though you may get longer than that depending on your usage. It features a USB-C port, and Pebblebee advertises a Bluetooth range of up to 500 feet, which is 100 feet more than the Tile Pro, our pick for Android users. Additionally, the Clip 5 features a blinking LED strip that’s noticeably brighter than prior models and a significantly louder ringtone, making lost items easier to find, even in dark or noisy environments.\nYou can still use Pebblebee’s app to set voice tags, ask Amazon Alexa or Google Assistant for help, or double-tap the tracker to ring your phone. While the Clip 5 is larger than an AirTag, it also includes a snap-on key ring, so you don’t need to pay for an extra accessory just to attach it to your belongings. It’s also rated IP66 for dust and water resistance, making it slightly more durable than earlier Pebblebee trackers. \nThe best AirTag alternative for wallets\nPebblebee Card 5\nThe Pebblebee Card 5 has a rechargeable battery that lasts up to 18 months and supports wireless charging. It works with Apple’s Find My and Google’s Find Hub, but you can also use the Pebblebee app for voice tagging.\n\nWhere to Buy:\n\n $34.99 at Amazon\n $34.99 at Pebblebee\n\nYou could try stuffing an AirTag into a bifold wallet and hope it stays put — or opt for a Find My–compatible alternative that’s actually designed for wallets, like the $34.99 Pebblebee Card 5. It plays nicely with both Apple’s Find My and Google’s Find Hub networks, giving you cross-platform flexibility and the benefits of each, all with a super loud ringtone. It doesn’t offer precision tracking because it lacks UWB, but it makes up for it with said ringtones. It also supports unwanted tracking alerts as part of the Find My network.\nThe Card 5 stands out for its sleek design and wireless charging. At just 1.8mm thick, it’s one of the thinnest trackers you can buy and measures about the size of a credit card, meaning you can easily slip it into an overstuffed wallet packed to the brim with receipts, gift cards, and cash. The same can’t always be said of Tile’s wallet tracker, which is nearly twice as thick. What’s more, the Card 5 lasts up to 18 months on a single charge and supports wireless charging, so you don’t have to worry about replacing any batteries.\nUnsurprisingly, the Card 5 shares many of the same strengths as the Pebblebee Clip 5, including support for the Pebblebee app and voice tagging. You also get a range of up to 500 feet, an IP66 rating for dust and water resistance, and a built-in button you can press to help locate your phone. \nOther Bluetooth trackers to consider\nChipolo Pop and Chipolo Loop\nThe $29 Chipolo Pop offers a similar form factor to Apple’s AirTag in a lighter, more colorful package with a hole for a keychain or lanyard, a louder beep, and compatibility with both Apple’s Find My and Google’s Find Hub networks (though only one at a time). You can even use the Pop as a remote camera shutter and press the built-in button twice to find your lost phone. Unlike Chipolo’s other trackers, it boasts a wider 300-foot Bluetooth range, a more robust IP55 rating for water and dust resistance, and includes a user-replaceable battery that can last up to a year.\nIn our testing, tracking was accurate on both Apple’s and Google’s networks in most cases, Google’s struggled to track items outside of the home as reliably as the Tile. And without UWB, the Pop couldn’t match the AirTag’s pinpoint precision. Still, the Chipolo app provides Android users with reliable out-of-range alerts and left-behind notifications — something Pebblebee and Moto Tag’s trackers lack —which, in our experience, trigger even faster than the Tile.\nIf you’re willing to spend an extra $10, the $39 Chipolo Loop is very similar to the Chipolo Pop, with many of the same strengths and weaknesses. However, it charges via USB-C and includes a built-in silicone ring that’s easy to attach to keys, bags, and other items. You also get a more durable IP67 rating and an extra 100 feet of Bluetooth range — up to 400 feet total. Just note you’ll have to supply your own USB-C cable. \nSamsung SmartTag2\nIf you’re a Samsung Galaxy phone user, the $29.99 Samsung SmartTag2 gets you UWB tracking and can tap into the Galaxy Find network, which operates similarly to Apple’s Find My network. It’s a great AirTag alternative, but it isn’t our overall pick for Android because it’s limited to Samsung Galaxy users. That said, the latest SmartTag2 includes an improved Compass View, longer battery life, and a better app experience. It also has a newer, oblong design with a larger key ring than the original SmartTag.\nMoto Tag\nMotorola’s $29.99 Moto Tag is the first tracker on Google’s Find Hub network to offer ultra wideband for locating lost items on phones equipped with a UWB chip, which is a feature Google enabled via a firmware update after releasing the device. Like Apple’s AirTag, it can guide you directly to your missing item via directional cues in the Find Hub app. It worked well in our testing, though Apple’s AirTag was occasionally more precise when tracking objects farther away or through walls. The Moto Tag was also less effective than Tile’s trackers at locating items outside of the home.\nStill, if you want a tracker to find things around the house, the Moto Tag is a solid pick. It also fits most AirTag accessories, carries an IP67 rating for dust and water resistance, and uses a replaceable CR2032 battery that lasts up to a year. It can ring your misplaced phone, too, and doubles as a remote shutter for Motorola phones. Just know that Motorola recently announced the Moto Tag 2, which can last more than 500 days on a user-replaceable CR2032 coin cell battery and offers improved dust and water resistance. The company hasn’t specified an exact US release date (yet), though it should be available sometime in Q2 2026.\nChipolo Card\nThe rechargeable Chipolo Card is also a good tracker for wallets. Priced at $39, it works with either Apple’s Find My or Google’s Find Hub network and carries an IP67 rating for dust and water resistance. It supports Qi wireless charging, unlike the Chipolo Loop, and features a slim design that slips neatly into your wallet. It also offers a 400-foot Bluetooth range — a bit less than the Pebblebee Card 5 — and lasts about six months per charge. Overall, it’s a solid choice if you want something simple, even if it lacks the QR code found on some competing trackers. \nEufy Security SmartTrack Card E30\nEufy’s rechargeable $34.99 SmartTrack Card E30 is another good option for wallets, one that can also tap into Apple’s Find My network like the aforementioned Pebblebee Card 5. On the back, there’s also a QR code — similar to the ones Tile uses — that helps good Samaritans return your item to you. Like the Pebblebee’s newest offerings, you can also share it with multiple people if you set it up via the Eufy Security app.\nThe bummer here is that the E30 doesn’t work with Android and lacks UWB. However, the upcoming Eufy SmartTrack Card E40 will add support for Google’s Find Hub network while continuing to support Apple’s aforementioned Find My feature. It can also recharge via any Qi-compatible wireless charger and features a louder, 100dB alarm. The company says it will be available sometime in Q1 2026.\nUpdate, March 12th: Adjusted pricing / availability and swapped in Apple’s second-gen AirTag as our No. 1 pick for iPhone users.",
+          "isoDate": "2026-03-12T22:30:35.000Z"
+        },
+        {
+          "title": "A defense official reveals how AI chatbots could be used for targeting decisions",
+          "link": "https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/",
+          "summary": "The US military might use generative AI systems to rank lists of targets and make recommendations—which would be vetted by humans—about which to strike first, according to a Defense Department official with knowledge of the matter. The disclosure about how the military may use AI chatbots comes as the Pentagon faces scrutiny over a strike…",
+          "isoDate": "2026-03-12T22:23:34.000Z"
+        },
+        {
+          "title": "The who, what, and why of the attack that has shut down Stryker's Windows network",
+          "link": "https://arstechnica.com/security/2026/03/whats-known-about-wiper-attack-on-stryker-a-major-supplier-of-lifesaving-devices/",
+          "summary": "Company says it doesn't know how long it will take to restore its Microsoft environment.",
+          "isoDate": "2026-03-12T22:18:11.000Z"
+        },
+        {
+          "title": "Google Chrome is coming to Arm-powered Linux devices later this year",
+          "link": "https://www.theverge.com/tech/894095/google-chrome-for-arm-linux",
+          "summary": "You can download Chrome for Linux, and you can download Chrome for Arm devices - but if you've got a computer running Linux on Arm, not so much! Now, Google says it's finally bringing Chrome to ARM64 Linux machines in Q2 2026, following Chrome for Arm Macs in 2020 and Chrome for Windows on Arm in 2024.\nWhy Arm + Linux now? In a blog post, Google only says that it \"addresses the growing demand for a browsing experience that combines the benefits of the open-source Chromium project with the Google ecosystem of apps and features.\" What we're left wondering is whether Google's talking about existing demand, or demand yet to come. \nThere's cert …\nRead the full story at The Verge.",
+          "isoDate": "2026-03-12T21:33:04.000Z"
+        },
+        {
+          "title": "Live Nation director boasted of gouging ticket buyers, \"robbing them blind\"",
+          "link": "https://arstechnica.com/tech-policy/2026/03/live-nation-director-boasted-of-gouging-ticket-buyers-robbing-them-blind/",
+          "summary": "Unsealed messages add wrinkle to trial after US agreed to settle with Live Nation.",
+          "isoDate": "2026-03-12T20:47:58.000Z"
+        },
+        {
+          "title": "HP has new incentive to stop blocking third-party ink in its printers",
+          "link": "https://arstechnica.com/gadgets/2026/03/hp-has-new-incentive-to-stop-blocking-third-party-ink-in-its-printers/",
+          "summary": "Trade group callls out HP for latest Dynamic Security firmware update.",
+          "isoDate": "2026-03-12T20:29:19.000Z"
+        },
+        {
+          "title": "What it was like to watch grieving parents stare down Mark Zuckerberg in court",
+          "link": "https://www.theverge.com/policy/893930/social-media-addiction-trial-los-angeles-zuckerberg-instagram-youtube",
+          "summary": "Around a dozen parents huddled in the dim hallway outside the courtroom in February, nervously gripping paper tickets. They were glaring at a gray tote bag held by a member of the court staff - the one who'd determine, by lottery, if they made it inside. Pinned on bags and coats, butterfly clips honored children they'd lost, deaths these parents link to their children's experiences online. The clips were a symbolic gesture chosen to not inadvertently prejudice the jury, which would decide if social media companies could be held liable for the kinds of harms they believe their children experienced. If the number on a parent's ticket came up,  …\nRead the full story at The Verge.",
+          "isoDate": "2026-03-12T18:58:58.000Z"
+        },
+        {
+          "title": "Trump's DOJ is not falling for Sam Bankman-Fried's MAGA makeover on X",
+          "link": "https://arstechnica.com/tech-policy/2026/03/trumps-doj-is-not-falling-for-sam-bankman-frieds-maga-makeover-on-x/",
+          "summary": "SBF is still twisting facts to hide FTX crypto losses, DOJ says to block new trial.",
+          "isoDate": "2026-03-12T18:58:07.000Z"
+        },
         {
           "title": "The original AirTag is the cheapest it’s ever been",
           "link": "https://www.theverge.com/gadgets/894007/apple-airtag-first-generation-deal-sale",
@@ -12,58 +60,10 @@
           "isoDate": "2026-03-12T18:50:23.000Z"
         },
         {
-          "title": "KPop Demon Hunters is getting a sequel, obviously.",
+          "title": "KPop Demon Hunters is getting a sequel, obviously",
           "link": "https://www.theverge.com/entertainment/894014/kpop-demon-hunters-sequel",
-          "summary": "The girl group is coming back.\t\n\nGet ready to get even more KPop, demonier, and as huntery as possible. Netflix's smash-hit, Oscar-nominated animated film KPop Demon Hunters is returning for a sequel, with the fictional Korean girl group HUNTR/X coming back to lay down pop hits and smash evil boybands (and/or other demons). \nMaggie Kang and Chris Appelhans will once again direct their first project in an \"exclusive multiyear writing and directing partnership\" with Netflix. \nSeeing as the first movie was Netflix's self-reported most-popular film of all time, the company's widest theatrical release and first ever box office #1, nominated in both the Best Animated Film and B …\nRead the full story at The Verge.",
+          "summary": "The girl group is coming back.\t\n\nGet ready to get even more K-pop, demonier, and as huntery as possible. Netflix's smash-hit, Oscar-nominated animated film KPop Demon Hunters is returning for a sequel, with the fictional Korean girl group HUNTR/X coming back to lay down pop hits and smash evil boy bands (and/or other demons).\nMaggie Kang and Chris Appelhans will once again direct this one, their first project in an \"exclusive multiyear writing and directing partnership\" with Netflix. \nSeeing as the first movie was Netflix's self-reported most-popular film of all time, the company's widest theatrical release and first ever box office No. 1, nominated in both the Best Anima …\nRead the full story at The Verge.",
           "isoDate": "2026-03-12T18:45:32.000Z"
-        },
-        {
-          "title": "Facebook Marketplace adds AI auto-replies for annoying ‘Is this still available?’ messages",
-          "link": "https://www.theverge.com/tech/893907/facebook-marketplace-ai-auto-reply-listings",
-          "summary": "Facebook Marketplace is adding a bunch of new AI-powered tools that are supposed to make selling items on the platform a little more efficient. One feature will use Meta AI to automatically respond to those annoying \"Is this still available?\" messages.\nYou can toggle on the auto-reply option when creating a listing, and Meta AI will draft an editable response to any questions related to availability. In an example shown by Meta, its AI assistant creates an auto-reply saying, \"Yes, it's still available. Do you have any questions?\"\nFacebook Marketplace is trying to speed up the process of listing items, too, as Meta AI can now use the photos …\nRead the full story at The Verge.",
-          "isoDate": "2026-03-12T17:59:32.000Z"
-        },
-        {
-          "title": "Lucid announces midsize EV platform, says profitability lies with SUVs",
-          "link": "https://arstechnica.com/cars/2026/03/lucid-announces-midsize-ev-platform-says-profitability-lies-with-suvs/",
-          "summary": "Three smaller SUVs are in development, starting at under $50,000.",
-          "isoDate": "2026-03-12T17:54:35.000Z"
-        },
-        {
-          "title": "Perplexity's \"Personal Computer\" brings its AI agents to the, uh, Personal Computer",
-          "link": "https://arstechnica.com/ai/2026/03/perplexitys-personal-computer-brings-its-ai-agents-to-the-uh-personal-computer/",
-          "summary": "Perplexity says AI access to your files is in \"secure environment with clear safeguards.\"",
-          "isoDate": "2026-03-12T17:44:18.000Z"
-        },
-        {
-          "title": "Gemini’s task automation is here and it’s wild",
-          "link": "https://www.theverge.com/tech/893820/gemini-task-automation-samsung-s26-google-pixel-10",
-          "summary": "Computers ordering cappuccinos.\t\n\nA couple of weeks ago, Google and Samsung announced a big Gemini development coming to their newest devices: task automation. Starting with food delivery and rideshare apps, Gemini would be able to use certain apps on your behalf in a virtual window to take care of things like ordering dinner or getting a car to the airport - all based on simple prompts. You know, all the stuff that we've been promised for years AI assistants will be able to do. That feature wasn't live when I first started testing the S26 Ultra, but it just arrived in beta as part of an update. And boy is it weird watching your phone use itself!\nThe first prompt I gave it  …\nRead the full story at The Verge.",
-          "isoDate": "2026-03-12T16:59:43.000Z"
-        },
-        {
-          "title": "Centuries before the Inca, Peru's wealthy imported parrots from afar",
-          "link": "https://arstechnica.com/science/2026/03/centuries-before-the-inca-perus-wealthy-imported-parrots-from-afar/",
-          "summary": "The Inca Empire's system of roads were built on centuries-old trade routes.",
-          "isoDate": "2026-03-12T16:49:58.000Z"
-        },
-        {
-          "title": "Google’s TV Streamer 4K doubles as a smart home hub and it’s on sale",
-          "link": "https://www.theverge.com/gadgets/893822/google-tv-streamer-4k-oscars-march-madness-deal-sale",
-          "summary": "Between March Madness and the Oscars, now might be a good time to improve your TV setup. Google’s TV Streamer 4K is currently on sale for $79.99 ($20 off) at Amazon, Target, and Walmart, which is its second-best price to date and only $5 more than its all-time low.\nAs a streaming device, it’s terrific. Getting started is easy; it took us only about 10 minutes to set up, and the Google Home app even asks which streaming services you use and automatically installs them for you. The device also supports Dolby Vision and Dolby Atmos, too, so movies and shows look sharper and sound more immersive.  \nGoogle TV Streamer (4K)\n\nWhere to Buy:\n\n $99.99 $79.99 at Amazon\n $99.99 $79.99 at Best Buy\n $99.99 $79.99 at Walmart\n\nPlus, it runs Google TV, which pulls together recommendations from across your streaming services and includes helpful details like Rotten Tomatoes scores, while also offering suggestions from live and free channels. That’s handy if you’re not sure what to watch. The device does a good job recommending personalized titles based on what information it’s gathered about you from other Google services. \nWhat really sets it apart from other streaming devices, though, is that it also doubles as an excellent smart home hub with built-in support for both Matter and Thread. That means you can control various smart home devices from the TV Streamer 4K. For instance, you can adjust lights using Google Assistant via the remote or the Google Home panel, and even view camera feeds on your TV. It’s a handy feature when you’re watching something and don’t want to press pause just to turn on the thermostat or check who’s at the door.\nRead our Google TV Streamer review.",
-          "isoDate": "2026-03-12T16:37:34.000Z"
-        },
-        {
-          "title": "Apple's MacBook Neo makes repairs easier and cheaper than other MacBooks",
-          "link": "https://arstechnica.com/gadgets/2026/03/more-modular-design-makes-macbook-neo-easier-to-fix-than-other-apple-laptops/",
-          "summary": "Neo is the first MacBook in a long time with an easily replaceable keyboard.",
-          "isoDate": "2026-03-12T16:03:06.000Z"
-        },
-        {
-          "title": "Anthropic&#8217;s Claude AI can respond with charts, diagrams, and other visuals now",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/893625/anthropic-claude-ai-charts-diagrams",
-          "summary": "Anthropic's latest update to Claude will allow the AI chatbot to generate custom charts, diagrams, and other visualizations during your conversation. If Claude determines a visual is useful based on the context of your chat, it will insert the image in-line, rather than in its side panel.\nAs an example, Anthropic says a conversation about the periodic table could lead Claude to generate a visualization of it, featuring interactive elements that let you click inside the table for more information. Another example shows how Claude can generate a visual related to a question about how weight travels through a building.\nThough Claude will auto …\nRead the full story at The Verge.",
-          "isoDate": "2026-03-12T16:00:00.000Z"
         }
       ]
     },
@@ -71,6 +71,24 @@
       "header": "120  CIENCIA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "About Low Boom Flight Demonstrator (LBFD) Project",
+          "link": "https://www.nasa.gov/directorates/armd/iasp/armd-iasp-lbfd/about-lbfd/",
+          "summary": "The Low Boom Flight Demonstrator project (LBFD) is part of NASA’s effort to help enable new aircraft noise standards that are required to open the market to commercial supersonic flight over land. The federal government banned all civilian supersonic flights over land more than fifty years ago due to sonic boom noise. If new standards are established, the U.S. aviation […]",
+          "isoDate": "2026-03-12T22:00:00.000Z"
+        },
+        {
+          "title": "NASA to Cover Upcoming US Spacewalks 94, 95 Outside Space Station",
+          "link": "https://www.nasa.gov/news-release/nasa-to-cover-upcoming-us-spacewalks-94-95-outside-space-station/",
+          "summary": "NASA astronauts will conduct a pair of spacewalks beginning Wednesday, March 18, outside of the International Space Station to prepare for the installation of two roll-out solar arrays. Experts from NASA will preview the spacewalks during a news conference at 2 p.m. EDT, Monday, March 16, at the agency’s Johnson Space Center in Houston. Watch […]",
+          "isoDate": "2026-03-12T21:09:16.000Z"
+        },
+        {
+          "title": "About Integrated Aviation Systems Program (IASP)",
+          "link": "https://www.nasa.gov/directorates/armd/iasp/about-iasp/",
+          "summary": "The Integrated Aviation Systems Program (IASP) conducts research and integrated, systems-level demonstrations in a flight environment to prove, mature and transition them into future aircraft and systems. The program aims to determine feasibility and accelerate development of less mature technologies, and for more mature technologies, execute highly complex flight demonstrations to prove and accelerate technology […]",
+          "isoDate": "2026-03-12T21:00:00.000Z"
+        },
         {
           "title": "Tiny NASA Spacecraft Delivers Exoplanet Mission’s First Images",
           "link": "https://www.nasa.gov/science-research/astrophysics/exoplanet-science/tiny-nasa-spacecraft-delivers-exoplanet-missions-first-images/",
@@ -96,40 +114,22 @@
           "isoDate": "2026-03-12T14:24:33.000Z"
         },
         {
-          "title": "Dust Outbreak Reaches Europe",
-          "link": "https://science.nasa.gov/earth/earth-observatory/dust-outbreak-reaches-europe/",
-          "summary": "Clouds of dust lofted from the Sahara Desert brought hazy skies and muddy rain to Western Europe.",
-          "isoDate": "2026-03-12T04:01:00.000Z"
+          "title": "Whole-embryo spatial transcriptomics at subcellular resolution from gastrulation to organogenesis",
+          "link": "https://www.science.org/doi/abs/10.1126/science.adt3439?af=R",
+          "summary": "Science, Volume 391, Issue 6790, March 2026.",
+          "isoDate": "2026-03-12T07:00:00.000Z"
         },
         {
-          "title": "No such thing as a shark? Genomes shake up ocean predator’s family tree",
-          "link": "https://www.nature.com/articles/d41586-026-00594-w",
-          "summary": "Nature, Published online: 12 March 2026; doi:10.1038/d41586-026-00594-w\nSharks might not be a natural biological group, with most species potentially closer kin to rays than to an oddball group of sharks.",
-          "isoDate": "2026-03-12T00:00:00.000Z"
+          "title": "Computational design of conformation-biasing mutations to alter protein functions",
+          "link": "https://www.science.org/doi/abs/10.1126/science.adv7953?af=R",
+          "summary": "Science, Volume 391, Issue 6790, March 2026.",
+          "isoDate": "2026-03-12T07:00:00.000Z"
         },
         {
-          "title": "‘Einstein‘ bot sharpens debate over AI in the classroom",
-          "link": "https://www.nature.com/articles/d41586-026-00764-w",
-          "summary": "Nature, Published online: 12 March 2026; doi:10.1038/d41586-026-00764-w\nFaculty members are spending ever more time outmanoeuvring students who want to cut corners with artificial intelligence.",
-          "isoDate": "2026-03-12T00:00:00.000Z"
-        },
-        {
-          "title": "Reckoning with my ‘ghost years’: why a high publication rate doesn’t always reflect success",
-          "link": "https://www.nature.com/articles/d41586-025-04062-9",
-          "summary": "Nature, Published online: 12 March 2026; doi:10.1038/d41586-025-04062-9\nI have a five-year gap in my publication record. Last year, I published seven academic articles as either the first or corresponding author. Here’s why one level of output isn’t better than any other.",
-          "isoDate": "2026-03-12T00:00:00.000Z"
-        },
-        {
-          "title": "How bioRxiv changed the way biologists share ideas – in numbers",
-          "link": "https://www.nature.com/articles/d41586-026-00709-3",
-          "summary": "Nature, Published online: 12 March 2026; doi:10.1038/d41586-026-00709-3\nFour million articles are now downloaded from bioRxiv every month, according to an analysis of the life-science preprint server’s first 13 years of existence.",
-          "isoDate": "2026-03-12T00:00:00.000Z"
-        },
-        {
-          "title": "Nervous networker or conference presenter? Just care less, says voice coach Susie Ashfield",
-          "link": "https://www.nature.com/articles/d41586-026-00547-3",
-          "summary": "Nature, Published online: 12 March 2026; doi:10.1038/d41586-026-00547-3\nThe author of Just F**cking Say It offers tips to boost your confidence as a public speaker.",
-          "isoDate": "2026-03-12T00:00:00.000Z"
+          "title": "Lifelong behavioral screen reveals an architecture of vertebrate aging",
+          "link": "https://www.science.org/doi/abs/10.1126/science.aea9795?af=R",
+          "summary": "Science, Volume 391, Issue 6790, March 2026.",
+          "isoDate": "2026-03-12T07:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-03-12T18:54:13.323Z"
+          "isoDate": "2026-03-13T02:03:02.222Z"
         },
         {
           "title": "Grammarly pulls AI author-impersonation tool after backlash",
@@ -204,6 +204,12 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "Can AI help predict which heart-failure patients will worsen within a year?",
+          "link": "https://news.mit.edu/2026/can-ai-help-predict-which-heart-failure-patients-will-worsen-0312",
+          "summary": "Researchers at MIT, Mass General Brigham, and Harvard Medical School developed a deep-learning model to forecast a patient’s heart failure prognosis up to a year in advance.",
+          "isoDate": "2026-03-12T21:30:00.000Z"
+        },
+        {
           "title": "3 Questions: On the future of AI and the mathematical and physical sciences",
           "link": "https://news.mit.edu/2026/3-questions-future-of-ai-and-mathematical-physical-sciences-0311",
           "summary": "Professor Jesse Thaler describes a vision for a two-way bridge between artificial intelligence and the mathematical and physical sciences — one that promises to advance both.",
@@ -256,12 +262,6 @@
           "link": "https://news.mit.edu/2026/mit-professor-joseph-paradiso-sensing-innovations-0310",
           "summary": "From early motion-sensing platforms to environmental monitoring, the professor and head of the Program in Media Arts and Sciences has turned decades of cross-disciplinary research into real-world impact.",
           "isoDate": "2026-03-10T20:25:00.000Z"
-        },
-        {
-          "title": "Improving instruction hierarchy in frontier LLMs",
-          "link": "https://openai.com/index/instruction-hierarchy-challenge",
-          "summary": "IH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks.",
-          "isoDate": "2026-03-10T11:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-03-12T18:54:17.975Z"
+          "isoDate": "2026-03-13T02:03:04.450Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 58\nChar: =",
-          "isoDate": "2026-03-12T18:54:15.226Z"
+          "isoDate": "2026-03-13T02:03:03.843Z"
         },
         {
           "title": "Investing in Your Professional Community Yields Big Returns",
