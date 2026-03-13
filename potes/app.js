@@ -602,27 +602,24 @@ BARNEY NPC
 ====================== */
 
 async function triggerBarneyDrink(){
-  const npc = document.getElementById("npcBarneyBtn");
-  const bubble = document.getElementById("burpBubble");
-  if(!npc) return;
+  const sprite = document.getElementById("barneySprite");
+  if(!sprite) return;
 
-  if(npc.classList.contains("drink")) return;
-
-  const texts = ["BURP!", "AAAH!", "GLUP", "OTRA!"];
-  if(bubble){
-    bubble.textContent = texts[Math.floor(Math.random() * texts.length)];
-  }
+  if(sprite.classList.contains("drink")) return;
 
   ensureAudio();
-  npc.classList.add("drink");
+  sprite.classList.remove("drink");
+  void sprite.offsetWidth; // reinicia la animación
+  sprite.classList.add("drink");
 
+  await sfxBeer();
+  await sleep(120);
   await sfxBurp();
 
   setTimeout(() => {
-    npc.classList.remove("drink");
-  }, 1000);
+    sprite.classList.remove("drink");
+  }, 1350);
 }
-
 /* ======================
 EXCUSAS / NOKIA
 ====================== */
