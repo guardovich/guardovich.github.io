@@ -6,7 +6,7 @@
   <title>Ranking de Cañas · Potes + Santander</title>
 
   <!-- Cache-buster: cambia la letra si GitHub Pages tarda en refrescar -->
-  <link rel="stylesheet" href="styles.css?v=20260305d" />
+  <link rel="stylesheet" href="styles.css?v=20260305e" />
 </head>
 
 <body>
@@ -150,7 +150,6 @@
           <button class="btn big cityBtn" data-city="ALL">TODAS</button>
         </div>
 
-        <!-- Estado visual (opcional, no rompe nada) -->
         <div class="hint" style="margin-top:10px">
           Consejo: si “faltan bares”, revisa <b>CIUDAD</b> y el <b>FILTRO</b> (pueden ocultarlos).
         </div>
@@ -168,7 +167,17 @@
           <span class="spacer"></span>
 
           <label class="label">FILTRO:</label>
-          <input id="q" class="input" placeholder="zona, tapa, ambiente, marca, pros, contras…" />
+
+          <div class="searchWrap">
+            <input id="q" class="input" placeholder="zona, tapa, ambiente, marca, pros, contras…" />
+
+            <div class="npcDrink" aria-hidden="true">
+              <div class="npcHead"></div>
+              <div class="npcBody"></div>
+              <div class="npcArm"></div>
+              <div class="npcBeer"></div>
+            </div>
+          </div>
 
           <button id="btnLogout" class="btn big danger">SALIR</button>
         </div>
@@ -194,7 +203,6 @@
 
   </div>
 
-  <!-- defer ayuda a que el DOM esté listo y evita raros de carga -->
-  <script src="app.js?v=20260305d" defer></script>
+  <script src="app.js?v=20260305e" defer></script>
 </body>
 </html>
