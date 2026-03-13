@@ -93,7 +93,16 @@ async function sfxBeer(){
   tone(600,70,0.03,"square");
 }
 
-function beep(freq=880, ms=18, vol=0.015){ tone(freq, ms, vol, "square"); }
+async function sfxBurp(){
+  if(!audioCtx) return;
+  tone(220, 70, 0.03, "square"); await sleep(50);
+  tone(180, 90, 0.03, "square"); await sleep(60);
+  tone(140, 130, 0.035, "square");
+}
+
+function beep(freq=880, ms=18, vol=0.015){
+  tone(freq, ms, vol, "square");
+}
 
 /* ======================
 INTRO terminal typing
@@ -118,6 +127,7 @@ async function typeLineHTML(container, html, {speed=14, beeps=true} = {}){
     if(beeps && text[i] !== " " && text[i] !== "·") beep(880, 10, 0.012);
     await sleep(speed);
   }
+
   line.innerHTML = html;
 }
 
@@ -140,6 +150,7 @@ async function waitForEnterOrClick(introEl){
         resolve("enter");
       }
     };
+
     window.addEventListener("keydown", onKey);
 
     introEl?.addEventListener("click", () => {
@@ -167,7 +178,7 @@ async function runIntro(){
 
   const t0 = Date.now();
 
-  hint && (hint.style.display = "none");
+  if(hint) hint.style.display = "none";
   lines.innerHTML = "";
   bar.style.width = "0%";
   pct.textContent = "00%";
@@ -198,7 +209,7 @@ async function runIntro(){
   const elapsed = Date.now() - t0;
   if(elapsed < INTRO_MIN_MS) await sleep(INTRO_MIN_MS - elapsed);
 
-  hint && (hint.style.display = "");
+  if(hint) hint.style.display = "";
   await typeLineHTML(
     lines,
     `<div class="pressEnter"><span class="tag">[READY]</span> Pulsa <span class="ok">ENTER</span> para continuar…</div>`,
@@ -223,6 +234,7 @@ function armIntro(){
   const btn = document.getElementById("btnStartIntro");
 
   let started = false;
+
   const start = async () => {
     if(started) return;
     started = true;
@@ -233,6 +245,7 @@ function armIntro(){
 
   btn?.addEventListener("click", start);
   intro?.addEventListener("click", start);
+
   window.addEventListener("keydown", (e) => {
     if(e.key === "Enter") start();
   });
@@ -273,7 +286,7 @@ function cucasScore(it){
   const tapa = (it.tapa || "").toLowerCase();
   if(tapa && tapa !== "—" && tapa !== "-") s += 4;
 
-  const allText = [...(it.pros||[]), ...(it.cons||[])].join(" ").toLowerCase();
+  const allText = [...(it.pros || []), ...(it.cons || [])].join(" ").toLowerCase();
   if(allText.includes("no suele abrir")) s -= 18;
   if(allText.includes("no tiran bien") || allText.includes("no la tiran bien")) s -= 10;
 
@@ -325,6 +338,7 @@ function applyFilterAndView(){
 function renderEmpty(msg){
   const table = document.getElementById("table");
   if(!table) return;
+
   table.innerHTML = `
     <div class="panel" style="margin-top:0;">
       <div class="name">${msg}</div>
@@ -426,10 +440,12 @@ function sortByPrice(){
   view.sort((a,b) => (a.price ?? 9e9) - (b.price ?? 9e9));
   currentView === "stats" ? renderStats() : render();
 }
+
 function sortByName(){
-  view.sort((a,b) => (a.name||"").localeCompare(b.name||"", "es"));
+  view.sort((a,b) => (a.name || "").localeCompare(b.name || "", "es"));
   currentView === "stats" ? renderStats() : render();
 }
+
 function sortByCucas(){
   view.sort((a,b) => cucasScore(b) - cucasScore(a));
   currentView === "stats" ? renderStats() : render();
@@ -444,7 +460,7 @@ function pickRandom(arr){
   return arr[Math.floor(Math.random() * arr.length)];
 }
 
-function generarRutaPotes(){
+async function generarRutaPotes(){
   if(!DATA || !DATA.items) return;
 
   const scoped = applyFilterAndView();
@@ -457,21 +473,21 @@ function generarRutaPotes(){
 
   const puntuados = [...scoped]
     .map(bar => ({ bar, score: cucasScore(bar) }))
-    .sort((a,b)=>b.score-a.score);
+    .sort((a,b) => b.score - a.score);
 
-  const pool = puntuados.slice(0, Math.min(6, puntuados.length)).map(x=>x.bar);
-  pool.sort(()=>Math.random()-0.5);
+  const pool = puntuados.slice(0, Math.min(6, puntuados.length)).map(x => x.bar);
+  pool.sort(() => Math.random() - 0.5);
 
   const seleccion = pool.slice(0, Math.min(3, pool.length));
 
   let texto = `<div class="rutaTitulo">RUTA PROPUESTA 🍻 (CUCAS MODE)</div>`;
 
-  seleccion.forEach((bar,i)=>{
+  seleccion.forEach((bar, i) => {
     const pro = pickRandom(bar.pros);
     const con = pickRandom(bar.cons);
 
-    if(i===0) texto += `Empezamos en <span>${bar.name}</span>`;
-    else if(i===1) texto += `, luego pasamos por <span>${bar.name}</span>`;
+    if(i === 0) texto += `Empezamos en <span>${bar.name}</span>`;
+    else if(i === 1) texto += `, luego pasamos por <span>${bar.name}</span>`;
     else texto += ` y terminamos en <span>${bar.name}</span>`;
 
     if(bar.price != null) texto += ` (a ${bar.price.toFixed(2)}€)`;
@@ -486,7 +502,8 @@ function generarRutaPotes(){
   if(out) out.innerHTML = texto;
 
   ensureAudio();
-  sfxBeer();
+  await sfxBeer();
+  await triggerBarneyDrink();
 }
 
 /* ======================
@@ -522,6 +539,28 @@ function logout(){
 }
 
 /* ======================
+BARNEY NPC
+====================== */
+
+async function triggerBarneyDrink(){
+  const npc = document.getElementById("npcBarneyBtn");
+  if(!npc) return;
+
+  if(npc.classList.contains("drink")) return;
+
+  ensureAudio();
+  npc.classList.add("drink");
+
+  await sfxBeer();
+  await sleep(120);
+  await sfxBurp();
+
+  setTimeout(() => {
+    npc.classList.remove("drink");
+  }, 1000);
+}
+
+/* ======================
 UI helpers
 ====================== */
 
@@ -552,6 +591,9 @@ window.addEventListener("DOMContentLoaded", async () => {
   document.getElementById("q")?.addEventListener("input", () => {
     currentView === "stats" ? renderStats() : render();
   });
+
+  // Barney
+  document.getElementById("npcBarneyBtn")?.addEventListener("click", triggerBarneyDrink);
 
   // view buttons
   document.querySelectorAll(".navBtn").forEach(btn => {
