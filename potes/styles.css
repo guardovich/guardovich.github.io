@@ -521,6 +521,10 @@ a.link:hover{ text-decoration:underline }
 BUSCADOR + BARNEY NPC
 ====================== */
 
+/* ======================
+BUSCADOR + BARNEY SPRITE
+====================== */
+
 .searchWrap{
   display:flex;
   align-items:center;
@@ -530,8 +534,8 @@ BUSCADOR + BARNEY NPC
 
 .npcBarneyWrap{
   position:relative;
-  width:128px;
-  height:128px;
+  width:170px;
+  height:170px;
   flex:0 0 auto;
   border:2px solid #222;
   background:#050505;
@@ -541,18 +545,21 @@ BUSCADOR + BARNEY NPC
   box-shadow:
     0 0 0 1px rgba(255,255,255,.03),
     0 0 14px rgba(0,255,255,.10);
-  animation: npcGlow 2.4s ease-in-out infinite;
+  animation:npcGlow 2.4s ease-in-out infinite;
 }
 
-.npcBarneyImg{
+.barneySprite{
   width:100%;
   height:100%;
-  object-fit:contain;
-  display:block;
-  pointer-events:none;
+  background-image:url("barney-sprite.jpeg");
+  background-repeat:no-repeat;
+  background-size:300% 300%;
+  background-position:0% 0%;
+  image-rendering:auto;
+  animation:barneyIdle 1.2s steps(1,end) infinite;
 }
 
-/* scanlines locales */
+/* scanlines */
 .npcBarneyWrap::after{
   content:"";
   position:absolute;
@@ -566,49 +573,8 @@ BUSCADOR + BARNEY NPC
       transparent 3px,
       transparent 6px
     );
-  mix-blend-mode: overlay;
+  mix-blend-mode:overlay;
   opacity:.22;
-}
-
-/* ojos superpuestos */
-.eye{
-  position:absolute;
-  width:8px;
-  height:8px;
-  background:#000;
-  border-radius:50%;
-  pointer-events:none;
-  animation: eyeLook 3.8s steps(1,end) infinite;
-  z-index:3;
-}
-
-.eye-left{
-  left:31px;
-  top:34px;
-}
-.eye-right{
-  left:67px;
-  top:35px;
-  animation-delay:.25s;
-}
-
-/* globo de eructo */
-.burpBubble{
-  position:absolute;
-  right:6px;
-  top:8px;
-  background:#111;
-  color:var(--y);
-  border:2px solid #333;
-  padding:2px 6px;
-  font-weight:900;
-  letter-spacing:.8px;
-  font-size:12px;
-  opacity:0;
-  transform:translateY(6px) scale(.9);
-  pointer-events:none;
-  text-shadow:0 0 8px rgba(255,255,0,.20);
-  z-index:4;
 }
 
 @keyframes npcGlow{
@@ -624,57 +590,38 @@ BUSCADOR + BARNEY NPC
   }
 }
 
-@keyframes eyeLook{
-  0%, 15%{ transform: translate(0,0); }
-  20%, 35%{ transform: translate(-3px,0); }
-  40%, 55%{ transform: translate(3px,0); }
-  60%, 72%{ transform: translate(0,1px); }
-  78%, 100%{ transform: translate(0,0); }
+/* idle: primeros dos frames */
+@keyframes barneyIdle{
+  0%   { background-position:   0%   0%; }
+  50%  { background-position:  50%   0%; }
+  100% { background-position:   0%   0%; }
 }
 
-.npcBarneyWrap.drink{
-  animation:
-    npcGlow 2.4s ease-in-out infinite,
-    npcShake .45s ease-in-out 1;
+/* beber + eructar */
+.barneySprite.drink{
+  animation:barneyDrink 1.3s steps(1,end) 1;
 }
 
-.npcBarneyWrap.drink .eye-left,
-.npcBarneyWrap.drink .eye-right{
-  animation:none;
-  transform: translate(1px,1px);
+@keyframes barneyDrink{
+  0%   { background-position:   0%   0%; }   /* frame 1 */
+  16%  { background-position:  50%   0%; }   /* frame 2 */
+  32%  { background-position: 100%   0%; }   /* frame 3 */
+  48%  { background-position:   0%  50%; }   /* frame 4 */
+  64%  { background-position:  50%  50%; }   /* frame 5 */
+  80%  { background-position: 100%  50%; }   /* frame 6 */
+  100% { background-position: 100% 100%; }   /* frame 9 */
 }
 
-.npcBarneyWrap.drink .burpBubble{
-  animation: burpShow 1s ease-out 1;
-}
-
-@keyframes npcShake{
-  0%{ transform: rotate(0deg) translateY(0); }
-  20%{ transform: rotate(-1.2deg) translateY(-1px); }
-  40%{ transform: rotate(1.4deg) translateY(0); }
-  60%{ transform: rotate(-1deg) translateY(-1px); }
-  100%{ transform: rotate(0deg) translateY(0); }
-}
-
-@keyframes burpShow{
-  0%{
-    opacity:0;
-    transform:translateY(8px) scale(.8);
+@media (max-width:640px){
+  .searchWrap{
+    width:100%;
   }
-  20%{
-    opacity:1;
-    transform:translateY(0) scale(1);
-  }
-  70%{
-    opacity:1;
-    transform:translateY(-4px) scale(1.05);
-  }
-  100%{
-    opacity:0;
-    transform:translateY(-10px) scale(.95);
+
+  .npcBarneyWrap{
+    width:120px;
+    height:120px;
   }
 }
-
 /* ======================
 NOKIA EXCUSAS
 ====================== */
