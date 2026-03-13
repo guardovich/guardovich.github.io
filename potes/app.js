@@ -39,6 +39,11 @@ function priceClass(price){
   return "p-red";
 }
 
+function nowClock(){
+  const d = new Date();
+  return d.toLocaleTimeString("es-ES", { hour: "2-digit", minute: "2-digit" });
+}
+
 /* ======================
 STATE
 ====================== */
@@ -46,6 +51,49 @@ STATE
 let DATA = null;
 let view = [];
 let currentView = "ranking";
+
+/* ======================
+EXCUSAS
+====================== */
+
+const EXCUSAS = [
+  "Estoy terminando una cosa rapidísima y se me ha ido de las manos.",
+  "Salí a por una cerveza y ha acabado siendo una investigación de campo.",
+  "Estoy atrapado en una conversación con un señor que habla del Racing.",
+  "He calculado mal los tiempos y voy con retraso técnico.",
+  "Me he cruzado con unos amigos y ha habido retención social.",
+  "Estoy cerrando la cuenta y aquí la matemática popular va lenta.",
+  "Me han liado con una última que claramente no era la última.",
+  "Estoy en una situación de bar difícil de explicar.",
+  "Pensaba que ya iba para casa pero se activó otra ronda.",
+  "Estoy esperando el momento digno para irme.",
+  "Se me ha complicado el operativo salida.",
+  "Hay un debate cervecero que merece acta notarial.",
+  "Estoy terminando una gestión presencial cervecera.",
+  "Me ha pillado el clásico cinco minutos.",
+  "Estoy deshaciendo una improvisación.",
+  "Ha surgido una reunión festiva inesperada.",
+  "Estoy en fase de repliegue.",
+  "Se me ha ido el santo al bar de al lado.",
+  "Estoy intentando marcharme desde hace rato.",
+  "Voy tarde pero traigo una explicación histórica."
+];
+
+const MARGE_REACTIONS = [
+  "Mmm...",
+  "A ver qué excusa es esta...",
+  "Esto no me convence...",
+  "Te estoy leyendo...",
+  "Más te vale que sea buena..."
+];
+
+const MARGE_HAPPY_REACTIONS = [
+  "Ooooh, qué aplicado eres...",
+  "Bueno... te la compro.",
+  "Vale, pero luego me lo cuentas.",
+  "Mira qué majo...",
+  "Está bien, acepto pulpo."
+];
 
 /* ======================
 AUDIO (retro)
@@ -102,6 +150,17 @@ async function sfxBurp(){
 
 function beep(freq=880, ms=18, vol=0.015){
   tone(freq, ms, vol, "square");
+}
+
+function playAudioFile(path, volume = 0.5){
+  try{
+    const a = new Audio(path);
+    a.volume = volume;
+    a.play().catch(() => {});
+    return a;
+  }catch(_){
+    return null;
+  }
 }
 
 /* ======================
@@ -544,20 +603,110 @@ BARNEY NPC
 
 async function triggerBarneyDrink(){
   const npc = document.getElementById("npcBarneyBtn");
+  const bubble = document.getElementById("burpBubble");
   if(!npc) return;
 
   if(npc.classList.contains("drink")) return;
 
+  const texts = ["BURP!", "AAAH!", "GLUP", "OTRA!"];
+  if(bubble){
+    bubble.textContent = texts[Math.floor(Math.random() * texts.length)];
+  }
+
   ensureAudio();
   npc.classList.add("drink");
 
-  await sfxBeer();
-  await sleep(120);
   await sfxBurp();
 
   setTimeout(() => {
     npc.classList.remove("drink");
   }, 1000);
+}
+
+/* ======================
+EXCUSAS / NOKIA
+====================== */
+
+function vibrarNokia(){
+  if(navigator.vibrate){
+    navigator.vibrate([120, 60, 120, 60, 120]);
+  }
+}
+
+function showRankingPanel(){
+  document.getElementById("rankingPanel")?.classList.remove("hidden");
+  document.getElementById("excusaPanel")?.classList.add("hidden");
+}
+
+function showExcusaPanel(){
+  document.getElementById("rankingPanel")?.classList.add("hidden");
+  document.getElementById("excusaPanel")?.classList.remove("hidden");
+}
+
+function setMargeAngry(){
+  const marge = document.getElementById("margeSprite");
+  if(!marge) return;
+  marge.classList.remove("marge-happy");
+  marge.classList.add("marge-angry");
+}
+
+function setMargeHappy(){
+  const marge = document.getElementById("margeSprite");
+  if(!marge) return;
+  marge.classList.remove("marge-angry");
+  marge.classList.add("marge-happy");
+}
+
+function randomFrom(arr){
+  return arr[Math.floor(Math.random() * arr.length)];
+}
+
+let excusaBusy = false;
+
+async function generarExcusa(){
+  if(excusaBusy) return;
+  excusaBusy = true;
+
+  const text = document.getElementById("excusaText");
+  const reaction = document.getElementById("margeReaction");
+  const notice = document.getElementById("nokiaNotice");
+  const phone = document.getElementById("nokiaPhone");
+  const time = document.getElementById("excusaTime");
+
+  const excusa = randomFrom(EXCUSAS);
+
+  if(time) time.textContent = nowClock();
+
+  setMargeAngry();
+
+  if(reaction) reaction.textContent = randomFrom(MARGE_REACTIONS);
+  if(notice) notice.textContent = "ENVIANDO MENSAJE...";
+  if(text){
+    text.textContent = "ENVIANDO...";
+    text.classList.add("smsSending");
+  }
+
+  playAudioFile("sfx/mensaje.mp3", 0.45);
+
+  await sleep(3000);
+
+  playAudioFile("sfx/mensaje2.mp3", 0.55);
+  vibrarNokia();
+
+  phone?.classList.add("nokiaVibrate");
+  setTimeout(() => phone?.classList.remove("nokiaVibrate"), 400);
+
+  if(notice) notice.textContent = "1 MENSAJE NUEVO";
+  if(text){
+    text.classList.remove("smsSending");
+    text.textContent = excusa;
+  }
+  if(reaction) reaction.textContent = randomFrom(MARGE_HAPPY_REACTIONS);
+  if(time) time.textContent = nowClock();
+
+  setMargeHappy();
+
+  excusaBusy = false;
 }
 
 /* ======================
@@ -587,6 +736,7 @@ window.addEventListener("DOMContentLoaded", async () => {
   document.getElementById("btnSortName")?.addEventListener("click", sortByName);
   document.getElementById("btnSortCucas")?.addEventListener("click", sortByCucas);
   document.getElementById("btnRuta")?.addEventListener("click", generarRutaPotes);
+  document.getElementById("btnExcusa")?.addEventListener("click", generarExcusa);
 
   document.getElementById("q")?.addEventListener("input", () => {
     currentView === "stats" ? renderStats() : render();
@@ -595,11 +745,22 @@ window.addEventListener("DOMContentLoaded", async () => {
   // Barney
   document.getElementById("npcBarneyBtn")?.addEventListener("click", triggerBarneyDrink);
 
+  // default panel
+  showRankingPanel();
+
   // view buttons
   document.querySelectorAll(".navBtn").forEach(btn => {
     btn.addEventListener("click", () => {
       currentView = btn.dataset.view || "ranking";
       setActiveButtons(".navBtn", b => b.dataset.view === currentView);
+
+      if(currentView === "excusas"){
+        showExcusaPanel();
+        return;
+      }
+
+      showRankingPanel();
+
       if(currentView === "stats") renderStats();
       else render();
     });
@@ -610,8 +771,9 @@ window.addEventListener("DOMContentLoaded", async () => {
     btn.addEventListener("click", () => {
       currentCity = btn.dataset.city || "Potes";
       setActiveButtons(".cityBtn", b => b.dataset.city === currentCity);
+
       if(currentView === "stats") renderStats();
-      else render();
+      else if(currentView !== "excusas") render();
     });
   });
 
