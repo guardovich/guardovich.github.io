@@ -521,106 +521,24 @@ a.link:hover{ text-decoration:underline }
 BUSCADOR + BARNEY NPC
 ====================== */
 
-/* ======================
-BUSCADOR + BARNEY SPRITE
-====================== */
+async function triggerBarneyDrink(){
+  const sprite = document.getElementById("barneySprite");
+  if(!sprite) return;
 
-.searchWrap{
-  display:flex;
-  align-items:center;
-  gap:18px;
-  flex-wrap:wrap;
-}
+  if(sprite.classList.contains("drink")) return;
 
-.npcBarneyWrap{
-  position:relative;
-  width:170px;
-  height:170px;
-  flex:0 0 auto;
-  border:2px solid #222;
-  background:#050505;
-  padding:0;
-  cursor:pointer;
-  overflow:hidden;
-  box-shadow:
-    0 0 0 1px rgba(255,255,255,.03),
-    0 0 14px rgba(0,255,255,.10);
-  animation:npcGlow 2.4s ease-in-out infinite;
-}
+  ensureAudio();
+  sprite.classList.remove("drink");
+  void sprite.offsetWidth;
+  sprite.classList.add("drink");
 
-.barneySprite{
-  width:100%;
-  height:100%;
-  background-image:url("barney-sprite.jpeg");
-  background-repeat:no-repeat;
-  background-size:300% 300%;
-  background-position:0% 0%;
-  image-rendering:auto;
-  animation:barneyIdle 1.2s steps(1,end) infinite;
-}
+  await sfxBeer();
+  await sleep(120);
+  await sfxBurp();
 
-/* scanlines */
-.npcBarneyWrap::after{
-  content:"";
-  position:absolute;
-  inset:0;
-  pointer-events:none;
-  background:
-    repeating-linear-gradient(
-      to bottom,
-      rgba(255,255,255,.05) 0px,
-      rgba(255,255,255,.05) 1px,
-      transparent 3px,
-      transparent 6px
-    );
-  mix-blend-mode:overlay;
-  opacity:.22;
-}
-
-@keyframes npcGlow{
-  0%,100%{
-    box-shadow:
-      0 0 0 1px rgba(255,255,255,.03),
-      0 0 14px rgba(0,255,255,.10);
-  }
-  50%{
-    box-shadow:
-      0 0 0 1px rgba(255,255,255,.05),
-      0 0 22px rgba(255,255,0,.12);
-  }
-}
-
-/* idle: primeros dos frames */
-@keyframes barneyIdle{
-  0%   { background-position:   0%   0%; }
-  50%  { background-position:  50%   0%; }
-  100% { background-position:   0%   0%; }
-}
-
-/* beber + eructar */
-.barneySprite.drink{
-  animation:barneyDrink 1.3s steps(1,end) 1;
-}
-
-@keyframes barneyDrink{
-  0%   { background-position:   0%   0%; }   /* frame 1 */
-  16%  { background-position:  50%   0%; }   /* frame 2 */
-  32%  { background-position: 100%   0%; }   /* frame 3 */
-  48%  { background-position:   0%  50%; }   /* frame 4 */
-  64%  { background-position:  50%  50%; }   /* frame 5 */
-  80%  { background-position: 100%  50%; }   /* frame 6 */
-  100% { background-position: 100% 100%; }   /* frame 9 */
-}
-
-@media (max-width:640px){
-  .searchWrap{
-    width:100%;
-  }
-
-  .npcBarneyWrap{
-    width:120px;
-    height:120px;
-  }
+  setTimeout(() => {
+    sprite.classList.remove("drink");
+  }, 1300);
 }
 /* ======================
 NOKIA EXCUSAS
