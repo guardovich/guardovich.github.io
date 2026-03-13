@@ -512,3 +512,152 @@ a.link:hover{ text-decoration:underline }
   .btn.big{ width:100%; }
   .input{ width:100%; min-width:0; }
 }
+
+/* ======================
+BUSCADOR + NPC PIXEL
+====================== */
+
+.searchWrap{
+  display:flex;
+  align-items:center;
+  gap:16px;
+  flex-wrap:wrap;
+}
+
+.npcDrink{
+  position:relative;
+  width:84px;
+  height:84px;
+  image-rendering: pixelated;
+  flex:0 0 auto;
+  filter: drop-shadow(0 0 6px rgba(0,255,255,.15));
+  animation: npcIdle 1.9s steps(2,end) infinite;
+}
+
+.npcHead{
+  position:absolute;
+  left:26px;
+  top:6px;
+  width:24px;
+  height:24px;
+  background:#ffd37a;
+  box-shadow:
+    0 0 0 3px #111 inset,
+    0 0 0 1px #000;
+}
+
+.npcHead::before{
+  content:"";
+  position:absolute;
+  left:4px;
+  top:3px;
+  width:16px;
+  height:6px;
+  background:#c58b4d;
+}
+
+.npcHead::after{
+  content:"";
+  position:absolute;
+  left:6px;
+  top:11px;
+  width:12px;
+  height:3px;
+  background:
+    linear-gradient(to right, #000 0 3px, transparent 3px 9px, #000 9px 12px);
+}
+
+.npcBody{
+  position:absolute;
+  left:24px;
+  top:32px;
+  width:28px;
+  height:26px;
+  background:var(--c);
+  box-shadow:
+    0 0 0 3px #111 inset,
+    0 0 0 1px #000;
+}
+
+.npcArm{
+  position:absolute;
+  left:46px;
+  top:34px;
+  width:20px;
+  height:6px;
+  background:#ffd37a;
+  transform-origin: 2px 3px;
+  animation: drinkArm 1.9s steps(2,end) infinite;
+  box-shadow: 0 0 0 1px #000;
+}
+
+.npcBeer{
+  position:absolute;
+  left:60px;
+  top:24px;
+  width:12px;
+  height:20px;
+  background:#ffdd33;
+  border:1px solid #000;
+  box-shadow:
+    inset 0 -8px 0 #d49b00,
+    0 0 0 1px rgba(255,255,255,.05);
+  animation: drinkBeer 1.9s steps(2,end) infinite;
+}
+
+.npcBeer::before{
+  content:"";
+  position:absolute;
+  left:1px;
+  top:-4px;
+  width:8px;
+  height:4px;
+  background:#fff;
+}
+
+.npcBeer::after{
+  content:"";
+  position:absolute;
+  right:-4px;
+  top:4px;
+  width:4px;
+  height:8px;
+  border:1px solid #000;
+  border-left:none;
+  background:transparent;
+}
+
+@keyframes npcIdle{
+  0%, 100%{ transform: translateY(0); }
+  50%{ transform: translateY(-2px); }
+}
+
+@keyframes drinkArm{
+  0%, 35%{
+    transform: rotate(0deg);
+  }
+  45%, 70%{
+    transform: rotate(-38deg);
+  }
+  100%{
+    transform: rotate(0deg);
+  }
+}
+
+@keyframes drinkBeer{
+  0%, 35%{
+    transform: translate(0,0) rotate(0deg);
+  }
+  45%, 70%{
+    transform: translate(-14px,-10px) rotate(-28deg);
+  }
+  100%{
+    transform: translate(0,0) rotate(0deg);
+  }
+}
+
+@media (max-width:640px){
+  .searchWrap{
+    width:100%;
+  }
+}
