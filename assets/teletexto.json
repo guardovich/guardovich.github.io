@@ -1,10 +1,40 @@
 {
-  "generatedAt": "2026-03-14T06:45:56.433Z",
+  "generatedAt": "2026-03-14T12:51:40.605Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Samsung Galaxy S26 Ultra review: show off",
+          "link": "https://www.theverge.com/tech/893936/samsung-galaxy-s26-ultra-review-show-off",
+          "summary": "A notable phone.\t\n\n\"Someone might be watching everything I'm doing on my screen,\" I tell myself in public. Even when I'm doing nothing of consequence - just making my little Wordle guesses - there's a sense of unease that stays with me. \nIt's never bothered me too much, and I generally save the sensitive stuff like banking for when I'm home, but I realize it's a feeling I've internalized whenever I'm on my phone in a crowded place. Using Samsung's Galaxy S26 Ultra for the past couple of weeks has offered some relief from that particular worry simmering in the back of my mind; it solves a problem I didn't even fully recognize until I started using it in my dai …\nRead the full story at The Verge.",
+          "isoDate": "2026-03-14T12:00:00.000Z"
+        },
+        {
+          "title": "5 great indie games from GDC 2026",
+          "link": "https://www.theverge.com/games/894511/gdc-2026-best-indie-games",
+          "summary": "I just got back from the GDC Festival of Gaming, a big industry-focused event in San Francisco that was formerly known as the Game Developers Conference. While the show is mostly about educational sessions and networking opportunities for working developers, there were also a bunch of games that I got to play. Here are some of my favorites, listed alphabetically. Best of all, these could all launch this year - hopefully well before Grand Theft Auto VI.\nAt Fate's End\n\nAt Fate's End is a gorgeous new action-adventure game from Spiritfarer developer Thunder Lotus all about grappling with sibling relationships through exploration and battles. I …\nRead the full story at The Verge.",
+          "isoDate": "2026-03-14T12:00:00.000Z"
+        },
+        {
+          "title": "Wordle’s creator made a fun new puzzle game",
+          "link": "https://www.theverge.com/tech/894586/wordle-parseword-sonos-play-installer",
+          "summary": "Hi, friends! Welcome to Installer No. 119, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope your agents are well, and also you can read all the old editions at the Installer homepage.) \nThis week, I've been reading about Pixar's future and flight MH370 and sports gambling and YouTube Face, finally digging into Dungeon Crawler Carl after you recommended it so many times, hoping Rooster keeps being as good as its premiere, buying a MacBook Neo I definitely didn't need, redesigning my Obsidian setup to James Bedford's specifications, testing the Fairbuds XL headphones, and putting away all my winter  …\nRead the full story at The Verge.",
+          "isoDate": "2026-03-14T12:00:00.000Z"
+        },
+        {
+          "title": "European retailers yank popular headphones after study reports trace amounts of hormone-disrupting chemicals",
+          "link": "https://www.theverge.com/science/894771/headphones-hormone-disrupting-chemicals-study",
+          "summary": "Some European retailers have stopped selling certain headphones after an EU-funded study found that they contained hormone-disrupting chemicals. \nThe study included leading brands such as Apple, Beats, Samsung, Bose, JBL, and Sennheiser. Online stores Bol.com, Coolblue, and Mediamarkt didn't respond to inquiries from The Verge about which headphones they pulled, but local news outlets report that they're among the retailers that have decided to yank some of the worst-scoring models off the market.  \nThe study authors analyzed 81 different types of headphones, and found that all of them contained at least traces of harmful chemicals includi …\nRead the full story at The Verge.",
+          "isoDate": "2026-03-14T11:00:00.000Z"
+        },
+        {
+          "title": "Staff complain that xAI is flailing because of constant upheaval",
+          "link": "https://arstechnica.com/ai/2026/03/staff-complain-that-xai-is-flailing-because-of-constant-upheaval/",
+          "summary": "Staff complain that the constant upheaval is destroying morale.",
+          "isoDate": "2026-03-14T07:14:53.000Z"
+        },
         {
           "title": "NASA officials sidestepped questions on Artemis II risks—there's a reason why",
           "link": "https://arstechnica.com/space/2026/03/flying-to-the-moon-for-the-first-time-in-54-years-is-risky-but-how-risky/",
@@ -34,36 +64,6 @@
           "link": "https://arstechnica.com/ai/2026/03/figuring-out-why-ais-get-flummoxed-by-some-games/",
           "summary": "When winning depends on intuiting a mathematical function, AIs come up short.",
           "isoDate": "2026-03-13T21:47:34.000Z"
-        },
-        {
-          "title": "Spotify tests letting users directly customize their Taste Profile",
-          "link": "https://www.theverge.com/entertainment/894753/spotify-taste-profile",
-          "summary": "Less slop please. | Image: Spotify\t\n\nSpotify Premium users in New Zealand will be the first to experience the service's latest personalization feature. The company is letting users view and make changes to their Taste Profile directly. If your algorithm is serving up too much Bieber, you can politely tell the algorithm to ease up. Beta testers will be able to access the feature by tapping on their profile icon and then selecting Taste Profile from the sidebar menu. \nThe Taste Profile tells you not only what artists you frequently listen to, but also identifies trends in your listening habits. In a little demo clip, Spotify shows an example Taste Profile that includes the line, …\nRead the full story at The Verge.",
-          "isoDate": "2026-03-13T21:44:23.000Z"
-        },
-        {
-          "title": "Google Fiber will be sold to private equity firm and merge with cable company",
-          "link": "https://arstechnica.com/tech-policy/2026/03/google-fiber-will-be-sold-to-private-equity-firm-and-merge-with-cable-company/",
-          "summary": "GFiber and Astound to merge with Alphabet selling majority stake to Stonepeak.",
-          "isoDate": "2026-03-13T20:57:54.000Z"
-        },
-        {
-          "title": "Microsoft’s Copilot AI assistant is coming to current-gen Xbox consoles this year",
-          "link": "https://www.theverge.com/games/894799/microsoft-gaming-copilot-ai-xbox-consoles",
-          "summary": "Xbox is getting ready to launch its Gaming Copilot AI assistant on \"current-generation consoles\" this year, according to a report from GamesRadar. Sonali Yadav, Xbox's product manager for gaming AI, revealed the news during a panel at the Game Developers Conference (GDC), adding that the company will also add the assistant to \"more services that players are playing.\" \nMicrosoft has been working on its gaming-focused Copilot assistant for months now, with the company launching it in beta on the Xbox mobile app, Windows 11, and Xbox Ally handhelds. Players can use their voice to call upon the Gaming Copilot if they get stuck in a game, and th …\nRead the full story at The Verge.",
-          "isoDate": "2026-03-13T20:51:48.000Z"
-        },
-        {
-          "title": "Trump Mobile is just one in the crowd of conservative carriers",
-          "link": "https://www.theverge.com/tech/894762/trump-mobile-conservative-mvno-radiant-patriot-puretalk-charity-liberty",
-          "summary": "Where's the Trump phone? We're going to keep talking about it every week. This week, I wanted to see how Trump Mobile stacks up to its conservative carrier competition.\nTrump Mobile isn't unique. I mean, it is in some pretty specific senses - it's not every day the president's family launches a phone company while he's in office - but it's far from the first company to offer a mobile carrier targeted at the conservative crowd. \nIn fact, there's a rich history of smaller networks trying to make their money from patriots, Christians, and Republican voters. Like Trump Mobile, they're all MVNOs (mobile virtual network operators), carriers that …\nRead the full story at The Verge.",
-          "isoDate": "2026-03-13T20:51:39.000Z"
-        },
-        {
-          "title": "Digg’s open beta shuts down after just two months, blaming AI bot spam",
-          "link": "https://www.theverge.com/tech/894803/digg-beta-shutdown-layoffs-ai",
-          "summary": "It's only been a year since Digg founder Kevin Rose, Reddit cofounder Alexis Ohanian, and a few others announced the link-sharing site would relaunch, promising a \"social discovery built by communities, not by algorithms.\" Now, two months after opening its Reddit-like platform to the public, Digg is announcing a \"hard reset\" that's shutting down operations and will \"significantly downsize the Digg team.\" \nWhen they announced its relaunch, Rose told The Verge that AI could \"remove the janitorial work of moderators and community managers.\" Now, the new Digg's CEO Justin Mezzell writes in a note pinned to the homepage that, \"We knew bots were  …\nRead the full story at The Verge.",
-          "isoDate": "2026-03-13T20:51:15.000Z"
         }
       ]
     },
@@ -141,11 +141,11 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-03-14T06:45:51.132Z"
+          "isoDate": "2026-03-14T12:51:37.570Z"
         },
         {
           "title": "Tech Now",
-          "link": "https://www.bbc.co.uk/iplayer/live/bbcnews?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/iplayer/episode/m002sx4k?at_medium=RSS&at_campaign=rss",
           "summary": "Paul Carter checks out the newest phones, gadgets and trends from MWC Barcelona.",
           "isoDate": "2026-03-14T01:00:00.000Z"
         },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-03-14T06:45:55.013Z"
+          "isoDate": "2026-03-14T12:51:39.167Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 58\nChar: =",
-          "isoDate": "2026-03-14T06:45:52.636Z"
+          "isoDate": "2026-03-14T12:51:38.426Z"
         },
         {
           "title": "Video Friday: These Robots Were Born to Run",
