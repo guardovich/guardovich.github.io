@@ -1,0 +1,47 @@
+body{
+  background:black;
+  color:#00ffcc;
+  font-family:monospace;
+  text-align:center;
+}
+
+h1{
+  color:yellow;
+}
+
+button{
+  font-size:18px;
+  padding:10px;
+  margin:10px;
+  cursor:pointer;
+}
+
+#diceArea{
+  margin:20px;
+}
+
+.die{
+  display:inline-block;
+  width:60px;
+  height:60px;
+  line-height:60px;
+  font-size:30px;
+  border:2px solid #00ffcc;
+  margin:10px;
+  cursor:pointer;
+}
+
+.locked{
+  background:#00ffcc;
+  color:black;
+}
+
+table{
+  margin:auto;
+  border-collapse:collapse;
+}
+
+td,th{
+  border:1px solid #00ffcc;
+  padding:8px;
+}
