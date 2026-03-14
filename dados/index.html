@@ -1,47 +1,110 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-<meta charset="UTF-8">
-<title>Generala Retro</title>
-<link rel="stylesheet" href="styles.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Generala Retro</title>
+  <link rel="stylesheet" href="styles.css" />
 </head>
-
 <body>
+  <div class="app">
+    <header class="topbar">
+      <div>
+        <h1>🎲 GENERALA RETRO</h1>
+        <p class="subtitle">Dados de bar para GitHub Pages</p>
+      </div>
+      <button id="soundToggle" class="small-btn" type="button">🔊 Sonido: ON</button>
+    </header>
 
-<h1>🎲 GENERALA RETRO</h1>
+    <main>
+      <section id="setupScreen" class="panel">
+        <h2>Nueva partida</h2>
 
-<div id="setup">
-  <h2>Nueva partida</h2>
+        <div class="setup-grid">
+          <div class="field">
+            <label for="numPlayers">Número de jugadores</label>
+            <select id="numPlayers">
+              <option value="2">2</option>
+              <option value="3" selected>3</option>
+              <option value="4">4</option>
+              <option value="5">5</option>
+              <option value="6">6</option>
+            </select>
+          </div>
 
-  <label>Número de jugadores:</label>
-  <select id="numPlayers">
-    <option>2</option>
-    <option>3</option>
-    <option>4</option>
-    <option>5</option>
-    <option>6</option>
-  </select>
+          <div class="field">
+            <label for="playerNames">Nombres</label>
+            <textarea id="playerNames" rows="6" placeholder="Uno por línea&#10;David&#10;Javi&#10;Marta"></textarea>
+          </div>
+        </div>
 
-  <button onclick="startGame()">Empezar</button>
-</div>
+        <div class="rules-box">
+          <strong>Categorías:</strong> unos, doses, treses, cuatros, cincos, seises, escalera, full, póker, generala y doble generala.
+        </div>
 
-<div id="game" style="display:none">
+        <div class="setup-actions">
+          <button id="startBtn" class="primary-btn" type="button">Empezar partida</button>
+        </div>
+      </section>
 
-<h2 id="turnInfo"></h2>
+      <section id="gameScreen" class="hidden">
+        <div class="game-grid">
+          <section class="panel status-panel">
+            <div class="status-top">
+              <div>
+                <h2 id="turnTitle">Turno de Jugador 1</h2>
+                <p id="roundInfo" class="muted">Ronda 1</p>
+              </div>
+              <div class="roll-badge">
+                Tiradas: <span id="rollsLeft">3</span>
+              </div>
+            </div>
 
-<div id="diceArea"></div>
+            <div id="barMessage" class="bar-message">Bienvenidos a la timba.</div>
 
-<button onclick="rollDice()">Tirar dados</button>
-<button onclick="endTurn()">Terminar turno</button>
+            <div id="diceArea" class="dice-area"></div>
 
-<h3>Tiradas restantes: <span id="rollsLeft">3</span></h3>
+            <div class="controls">
+              <button id="rollBtn" class="primary-btn" type="button">Tirar dados</button>
+              <button id="scoreBtn" class="secondary-btn" type="button">Anotar jugada</button>
+              <button id="newGameBtnTop" class="danger-btn" type="button">Nueva partida</button>
+            </div>
 
-<h2>Puntuaciones</h2>
-<table id="scoreTable"></table>
+            <p class="hint">
+              Toca un dado para bloquearlo antes de volver a tirar.
+            </p>
+          </section>
 
-</div>
+          <section class="panel score-panel">
+            <div class="score-head">
+              <h2>Marcador</h2>
+              <div id="leaderInfo" class="muted">Sin líder todavía</div>
+            </div>
 
-<script src="app.js"></script>
+            <div class="table-wrap">
+              <table id="scoreTable"></table>
+            </div>
+          </section>
 
+          <section class="panel rank-panel">
+            <h2>Ranking local</h2>
+            <div id="rankingBox" class="ranking-box"></div>
+            <button id="resetRankingBtn" class="small-btn" type="button">Borrar ranking</button>
+          </section>
+        </div>
+      </section>
+
+      <section id="endScreen" class="panel hidden">
+        <h2>Fin de la partida</h2>
+        <p id="winnerText" class="winner-text"></p>
+        <div id="finalSummary" class="final-summary"></div>
+        <div class="setup-actions">
+          <button id="playAgainBtn" class="primary-btn" type="button">Jugar otra vez</button>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <script src="app.js"></script>
 </body>
 </html>
