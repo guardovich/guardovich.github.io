@@ -158,6 +158,33 @@
       "pros": ["ponen buen menu del día", "las Tapas son muy buenas"],
       "cons": []
          },
+ {
+      "name": "El Sena",
+      "city": "Santander",
+      "zone": "Santander",
+      "price": 2.2,
+      "updated_price": "2026-03-13",
+      "volume_ml": 300,
+      "beer_brand": "El Aguila",
+      "tapa": "Tapas varias",
+      "ambiente": "Barrio agradable",
+      "pros": ["es bar clásico para vermut", "hay muy buena antención"],
+      "cons": ["el local puede quedarse pequeño"]
+         },
+    {
+      "name": "Café Burdeos",
+      "city": "Santander",
+      "zone": "Ayuntamiento",
+      "price": 2.5,
+      "updated_price": "2026-03-13",
+      "volume_ml": 330,
+      "beer_brand": "Mahou",
+      "tapa": "Tapas varias",
+      "ambiente": "Barrio agradable",
+      "pros": ["tiene buena ubicación", "bien tirada la caña"],
+      "cons": [""]
+         },
+    
     {
       "name": "La Santanderina",
       "city": "Santander",
