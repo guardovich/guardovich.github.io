@@ -589,7 +589,9 @@ function generarRutaPotes(){
 
   if(out) out.innerHTML = texto;
 
-  triggerBarneyDrink();
+  ensureAudio();
+sfxCoin();
+triggerBarneyDrink();
 }
 
 /* ======================
