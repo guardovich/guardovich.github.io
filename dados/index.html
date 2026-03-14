@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Generala Retro</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+<h1>🎲 GENERALA RETRO</h1>
+
+<div id="setup">
+  <h2>Nueva partida</h2>
+
+  <label>Número de jugadores:</label>
+  <select id="numPlayers">
+    <option>2</option>
+    <option>3</option>
+    <option>4</option>
+    <option>5</option>
+    <option>6</option>
+  </select>
+
+  <button onclick="startGame()">Empezar</button>
+</div>
+
+<div id="game" style="display:none">
+
+<h2 id="turnInfo"></h2>
+
+<div id="diceArea"></div>
+
+<button onclick="rollDice()">Tirar dados</button>
+<button onclick="endTurn()">Terminar turno</button>
+
+<h3>Tiradas restantes: <span id="rollsLeft">3</span></h3>
+
+<h2>Puntuaciones</h2>
+<table id="scoreTable"></table>
+
+</div>
+
+<script src="app.js"></script>
+
+</body>
+</html>
