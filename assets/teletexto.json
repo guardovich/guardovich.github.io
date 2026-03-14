@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-14T02:00:36.866Z",
+  "generatedAt": "2026-03-14T06:45:56.433Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
@@ -72,6 +72,12 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "Top brass in China reaffirm goal to be world leaders in tech, AI",
+          "link": "https://www.nature.com/articles/d41586-026-00814-3",
+          "summary": "Nature, Published online: 14 March 2026; doi:10.1038/d41586-026-00814-3\nThe new five-year plan calls for more original scientific research to facilitate the country's bid for self-reliance.",
+          "isoDate": "2026-03-14T00:00:00.000Z"
+        },
+        {
           "title": "Volunteers Find Oddly High Solar Flare Rates",
           "link": "https://science.nasa.gov/get-involved/citizen-science/volunteers-find-oddly-high-solar-flare-rates/",
           "summary": "Patches of the Sun’s surface often show strong magnetic fields. These fields can emerge within a matter of hours, and can decay slowly or quickly, sometimes over days, weeks, or even months. Thanks to a new study about these long-lived active regions, we now know much more about the patches where these strong magnetic fields […]",
@@ -124,12 +130,6 @@
           "link": "https://www.nasa.gov/es/agenda-diaria-de-la-mision-a-la-luna-de-artemis-ii-de-la-nasa/",
           "summary": "Read this web article in English here. Unos ocho minutos después del despegue de Artemis II, la nave espacial Orion y su tripulación —los astronautas de la NASA Reid Wiseman, Victor Glover y Christina Koch, junto con el astronauta de la CSA (Agencia Espacial Canadiense) Jeremy Hansen— llegarán al espacio. Este vuelo de prueba de casi 10 días […]",
           "isoDate": "2026-03-13T15:40:17.000Z"
-        },
-        {
-          "title": "NASA’s Artemis II Moon Mission Daily Agenda",
-          "link": "https://www.nasa.gov/missions/artemis/nasas-artemis-ii-moon-mission-daily-agenda/",
-          "summary": "About eight minutes after Artemis II lifts off, the Orion spacecraft and its crew, NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, along with CSA (Canadian Space Agency) astronaut Jeremy Hansen, will be in space. The approximately 10-day test flight will be packed with activity as the astronauts venture around the Moon and back, […]",
-          "isoDate": "2026-03-13T15:21:40.000Z"
         }
       ]
     },
@@ -141,11 +141,11 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-03-14T02:00:31.482Z"
+          "isoDate": "2026-03-14T06:45:51.132Z"
         },
         {
           "title": "Tech Now",
-          "link": "https://www.bbc.co.uk/iplayer/episode/m002sx4k?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/iplayer/live/bbcnews?at_medium=RSS&at_campaign=rss",
           "summary": "Paul Carter checks out the newest phones, gadgets and trends from MWC Barcelona.",
           "isoDate": "2026-03-14T01:00:00.000Z"
         },
@@ -234,15 +234,15 @@
           "isoDate": "2026-03-11T11:30:00.000Z"
         },
         {
-          "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
-          "link": "https://openai.com/index/wayfair",
-          "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
-          "isoDate": "2026-03-11T11:00:00.000Z"
-        },
-        {
           "title": "From model to agent: Equipping the Responses API with a computer environment ",
           "link": "https://openai.com/index/equip-responses-api-computer-environment",
           "summary": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state.",
+          "isoDate": "2026-03-11T11:00:00.000Z"
+        },
+        {
+          "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+          "link": "https://openai.com/index/wayfair",
+          "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
           "isoDate": "2026-03-11T11:00:00.000Z"
         },
         {
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-03-14T02:00:35.173Z"
+          "isoDate": "2026-03-14T06:45:55.013Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 58\nChar: =",
-          "isoDate": "2026-03-14T02:00:33.072Z"
+          "isoDate": "2026-03-14T06:45:52.636Z"
         },
         {
           "title": "Video Friday: These Robots Were Born to Run",
