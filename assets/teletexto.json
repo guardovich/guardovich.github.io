@@ -1,10 +1,58 @@
 {
-  "generatedAt": "2026-03-16T07:17:24.106Z",
+  "generatedAt": "2026-03-16T13:12:34.087Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "This is not a fly uploaded to a computer",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/894587/fly-brain-computer-upload",
+          "summary": "Last week, a few posts about a so-called virtual \"embodied fly\" tore through X, boosted by AI hype accounts and excited commenters who didn't seem to understand what it was they were excited about.\nThe videos came from San Francisco-based Eon Systems, which says it's working toward \"digital human intelligence\" and claims it wants to build a full digital emulation of a mouse brain within the next two years - a timeline that is, to put it generously, ambitious. Cofounder Alexander Wissner-Gross shared the original clip publicly, calling it the \"world's first embodiment of a whole-brain emulation that produces multiple behaviors\" and hinting a …\nRead the full story at The Verge.",
+          "isoDate": "2026-03-16T12:49:07.000Z"
+        },
+        {
+          "title": "The Download: glass chips and “AI-free” logos",
+          "link": "https://www.technologyreview.com/2026/03/16/1134301/the-download-glass-ai-chips-ai-free-logo/",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Future AI chips could be built on glass  Human-made glass is thousands of years old. But it’s now poised to find its way into the AI chips used in the world’s newest and…",
+          "isoDate": "2026-03-16T12:35:00.000Z"
+        },
+        {
+          "title": "The science of how fireflies stay in sync",
+          "link": "https://arstechnica.com/science/2026/03/the-science-of-how-fireflies-stay-in-sync/",
+          "summary": "Engineers have uncovered the mathematical rules fireflies follow to sync up their flashes.",
+          "isoDate": "2026-03-16T12:25:31.000Z"
+        },
+        {
+          "title": "The classic Apple Macintosh mouse inspired Spigen’s retro AirPods case",
+          "link": "https://www.theverge.com/tech/893636/spigen-apple-airpods-pro-3-macintosh-magsafe-wallet-retro",
+          "summary": "If you've already given your iPhone 17 Pro and Pro Max a retro '80s facelift with Spigen's Macintosh 128K and Apple Lisa-inspired Classic LS cases, you might as well make your wireless earbuds match. But instead of making the AirPods Pro 3 look like a decades-old desktop computer, Spigen's case turns them into a replica of the Macintosh's iconic single-button mouse.\nThe $29.99 case is available through Amazon and comes in two parts that attach to the bottom and hinged lid of the AirPods Pro 3's charging case. Even wrapped in its vintage disguise the case can still open as designed, and its USB-C port and status LED are still accessible. Spi …\nRead the full story at The Verge.",
+          "isoDate": "2026-03-16T12:00:00.000Z"
+        },
+        {
+          "title": "OpenAI&#8217;s adult mode will reportedly be smutty, not pornographic",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/895130/openai-chatgpt-adult-mode-text-smut-written-erotica",
+          "summary": "So when exactly is smut considered porn? | Cath Virginia / The Verge | Photos from Getty Images\t\n\nOpenAI's delayed \"adult mode\" for ChatGPT is expected to support saucy text conversations at launch, but not the chatbot's ability to generate images, voice, or video. Speaking to The Wall Street Journal, an unnamed OpenAI spokesperson described content that will be provided by the upcoming feature as smut rather than pornography, allowing ChatGPT users to generate textual chats with adult themes.\nThe feature was initially announced in October, with OpenAI CEO Sam Altman claiming that the company had managed to mitigate enough of the \"serious mental health issues\" with its AI model to relax safety restrictions and introduce \"erotica for ver …\nRead the full story at The Verge.",
+          "isoDate": "2026-03-16T11:18:20.000Z"
+        },
+        {
+          "title": "A century after the first rocket launch, Ars staffers pick their favorites",
+          "link": "https://arstechnica.com/space/2026/03/a-century-after-the-first-rocket-launch-ars-staffers-pick-their-favorites/",
+          "summary": "\"I realized that if something went wrong up there, things might go very badly down here.\"",
+          "isoDate": "2026-03-16T11:00:56.000Z"
+        },
+        {
+          "title": "Securing digital assets against future threats",
+          "link": "https://www.technologyreview.com/2026/03/16/1134287/securing-digital-assets-against-future-threats/",
+          "summary": "",
+          "isoDate": "2026-03-16T11:00:00.000Z"
+        },
+        {
+          "title": "My fitness tracker is a secret weapon against my chronic illness",
+          "link": "https://www.theverge.com/features/889835/fitness-trackers-chronic-illness-visible-whoop",
+          "summary": "Arielle Duhaime-Ross does a bike tune-up. | Photo by Evan Ortiz / The Verge\t\n\nOne of the first major crashes I experienced as a chronically ill person happened on an unusually sunny January day in New York City. It was 2023, and I was riding my bike with a friend, flying high from the exercise. We'd covered just over 40 miles on mostly flat ground, a longish ride, but not out of ordinary for me. And that's when it started. About 15 minutes from my apartment, my body gave out. \nAt first it was just my head - it grew hot, and within minutes, my brain felt like it was on fire. Pretty soon, the rest of my insides were burning up, too. As the skin on my arms and face turned red, and my limbs grew heavy, I felt bewildered. …\nRead the full story at The Verge.",
+          "isoDate": "2026-03-16T10:00:00.000Z"
+        },
         {
           "title": "Aether OS is a computer in a browser built for the AT Protocol",
           "link": "https://www.theverge.com/tech/895083/aether-os-browser-at-protocol",
@@ -16,54 +64,6 @@
           "link": "https://www.theverge.com/entertainment/895065/sotomayor-wabi-sabi-review",
           "summary": "Can’t. Stop. Dancing. | Image: Wonderwheel Recordings\t\n\nShout out to subscriber N_Gorski for today's pick. They popped into the comments on last week's recommendation to ask what I thought of the new Sotomayor record. Well, I hadn't actually heard it yet, but now I'm obsessed.\nThe group consists of siblings Raul and Paulina Sotomayor from Mexico City. Wabi Sabi is their first record since 2020's Origenes, and it is pure joy. You can look back through everything I've recommended over the last several months, and \"fun\" is not how you'd describe most of it. But that's what Wabi Sabi is - it's fun, chaotic, and dancey as hell.\nI was only familiar with Sotomayor before this because of a short docume …\nRead the full story at The Verge.",
           "isoDate": "2026-03-15T16:45:00.000Z"
-        },
-        {
-          "title": "AI Czar David Sacks wants Trump to ‘get out’ of Iran",
-          "link": "https://www.theverge.com/policy/895059/trump-ai-czar-out-of-iran",
-          "summary": "He might have realized he’s about to lose a lot of money. | Image: Cath Virginia / The Verge, Getty Images\t\n\nDavid Sacks, the White House's AI and crypto czar, has warned that a continued war in Iran could be catastrophic. On the All In podcast, Sacks said that \"we should try to find the off-ramp.\"  He expressed concern that Iran could demolish oil and gas infrastructure across the Middle East, but more alarmingly, that it could start targeting desalination plants, which provide water to much of the region, and could lead to an even larger humanitarian crisis. \nSacks has never made humanitarian efforts a cornerstone of his public persona, however. But he has a well-documented anti-interventionist streak, and even claimed on stage at the RNC that A …\nRead the full story at The Verge.",
-          "isoDate": "2026-03-15T14:13:25.000Z"
-        },
-        {
-          "title": "AI companies want to harvest improv actors’ skills to train AI on human emotion",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/893931/ai-companies-handshake-improv-actors-training-data",
-          "summary": "If you've got strong creative instincts, the ability to authentically portray emotion, and are capable of staying true to a character's voice throughout a scene, there's a job listing calling for your experience. \nThe catch: You won't be performing in a theater, a film studio, or an underground performance space. You'd be using your talents to train an AI model for \"one of the leading AI companies,\" according to the open role posted by Handshake, a company that provides training data to OpenAI and other labs. \nHandshake AI is one of a handful of companies of its kind, scrambling to provide more and more niche or specific training data to A …\nRead the full story at The Verge.",
-          "isoDate": "2026-03-15T14:00:00.000Z"
-        },
-        {
-          "title": "Samsung’s Galaxy Buds 4 Pro are the choice — if you have a Galaxy phone",
-          "link": "https://www.theverge.com/tech/894501/samsung-galaxy-buds-4-pro-review",
-          "summary": "The Galaxy Buds Pro 4 are a nice improvement over the Buds 3, but still require a Galaxy device to use all their features.\t\n\nSamsung promised \"more than a design refresh\" for its new top-end Galaxy Buds - it added upgraded woofers for improved, dual-amped hi-fi sound, a new blade design, clearer call performance, and better noise cancellation. Ultimately, while the $249.99 Galaxy Buds 4 aren't a huge leap forward over the previous model, they keep what was good about the Buds 3 and improve on most of what wasn't - as long as you use Samsung Galaxy devices.\nThat's because, much like the AirPods Pro 3 with Apple gear, the Buds 4 Pro still work best when paired with another Galaxy device. This unlocks all of the functionality of the Buds 4 Pro, including hi-res audi …\nRead the full story at The Verge.",
-          "isoDate": "2026-03-15T13:00:00.000Z"
-        },
-        {
-          "title": "The fast rise and epic fall of Clubhouse",
-          "link": "https://www.theverge.com/podcast/895044/clubhouse-audio-social-network-version-history",
-          "summary": "In 2020 and 2021, the social media world seemed to be on the verge of complete change. A new app called TikTok was ascendant, bringing a whole new kind of vertical video to phones everywhere. And another app - not as popular, but growing fast, and already hugely influential among the tech set - looked like it might have an entirely new social idea on its hands. It was called Clubhouse, and it was a huge bet that audio might be the future. It was the next big thing, until it wasn't.\nOn this episode of Version History, we tell the story of the early days of Clubhouse, and how a simple audio group chat app turned into a booming entertainment a …\nRead the full story at The Verge.",
-          "isoDate": "2026-03-15T12:24:20.000Z"
-        },
-        {
-          "title": "Live-service games are a mess",
-          "link": "https://www.theverge.com/column/893294/live-service-games-mess",
-          "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the slow-motion disaster of live-service games, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.\nHow it started\nTwo years ago, I stood at the top of the iconic red stairs in Times Square to experience the weirdest concert of my life. As glowing butterflies flitted about the various screens, a crowd steadily grew, knowing something was happening, but unsure of what. Then a countdown started, and a minute later one of the screens opened up, revealing Ice Spice and, later, …\nRead the full story at The Verge.",
-          "isoDate": "2026-03-15T12:00:00.000Z"
-        },
-        {
-          "title": "An engineering thesis disguised as a coupe: A history of the Honda Prelude",
-          "link": "https://arstechnica.com/cars/2026/03/an-engineering-thesis-disguised-as-a-coupe-a-history-of-the-honda-prelude/",
-          "summary": "Technology like four-wheel steering and variable valve timing debuted in the Prelude.",
-          "isoDate": "2026-03-15T11:15:48.000Z"
-        },
-        {
-          "title": "The $100,000 fee for H-1Bs is causing all sorts of problems",
-          "link": "https://www.theverge.com/policy/894537/h1b-fee-increase-trump-teacher-shortage-tech-workers",
-          "summary": "Last fall, President Donald Trump's executive order raising the fee for H-1B visas to $100,000 - like many of his immigration policies - led to near-immediate chaos. Thousands of workers who had flown overseas to renew their visas ended up stranded abroad. Details about who would be affected only emerged after the fact. Six months later, the disorder from the initial announcement has mostly subsided. The H-1B registration season for the next fiscal year has just begun. With H-1B applications open until March 19th, it's unclear what effect, if any, the new rules will have on hiring, immigration, and the workforce, but experts are warning the  …\nRead the full story at The Verge.",
-          "isoDate": "2026-03-15T11:00:00.000Z"
-        },
-        {
-          "title": "Trump administration is allegedly collecting $10 billion on the TikTok deal",
-          "link": "https://www.theverge.com/policy/895039/trump-10-billion-tiktok",
-          "summary": "In September, Donald Trump claimed that \"the United States is getting a tremendous fee\" for brokering the TikTok deal. Now sources tell the Wall Street Journal and the New York Times that fee is expected to be in the range of $10 billion. The money is supposedly being paid by new investors, including Oracle and Silver Lake. Reports are that $2.5 billion was already paid to the Treasury when the deal closed on January 22nd. The rest will be paid out in installments.\nThis is the latest example of the Trump administration inserting itself into private business in unprecedented ways, including taking on a 10-percent stake in Intel last August,  …\nRead the full story at The Verge.",
-          "isoDate": "2026-03-14T21:57:07.000Z"
         }
       ]
     },
@@ -72,9 +72,27 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "Top brass in China reaffirm goal to be world leaders in tech, AI",
+          "title": "AI and the PhD student: friend or foe?",
+          "link": "https://www.nature.com/articles/d41586-026-00843-y",
+          "summary": "Nature, Published online: 16 March 2026; doi:10.1038/d41586-026-00843-y\nGraduate students increasingly use artificial-intelligence tools to draft, code and search — but many fear it could erode the very skills a doctorate is meant to build.",
+          "isoDate": "2026-03-16T00:00:00.000Z"
+        },
+        {
+          "title": "The real story behind China’s technology triumph",
+          "link": "https://www.nature.com/articles/d41586-026-00841-0",
+          "summary": "Nature, Published online: 16 March 2026; doi:10.1038/d41586-026-00841-0\nAn exemplary book gets much right, but misses the point that the nation’s tech dominance has more to do with globalization than with policy choices.",
+          "isoDate": "2026-03-16T00:00:00.000Z"
+        },
+        {
+          "title": "Can AI models reliably forecast extreme weather events?",
+          "link": "https://www.nature.com/articles/d41586-026-00842-z",
+          "summary": "Nature, Published online: 16 March 2026; doi:10.1038/d41586-026-00842-z\nMore-rigorous testing is required before artificial-intelligence approaches are widely adopted by public forecasting agencies.",
+          "isoDate": "2026-03-16T00:00:00.000Z"
+        },
+        {
+          "title": "China intensifies push to become world leader in tech and AI",
           "link": "https://www.nature.com/articles/d41586-026-00814-3",
-          "summary": "Nature, Published online: 14 March 2026; doi:10.1038/d41586-026-00814-3\nThe new five-year plan calls for more original scientific research to facilitate the country's bid for self-reliance.",
+          "summary": "Nature, Published online: 14 March 2026; doi:10.1038/d41586-026-00814-3\nThe new five-year plan calls for more original scientific research to facilitate the country’s bid for self-reliance.",
           "isoDate": "2026-03-14T00:00:00.000Z"
         },
         {
@@ -112,24 +130,6 @@
           "link": "https://science.nasa.gov/get-involved/citizen-science/nasa-volunteers-study-biofilm-adaptability-in-space/",
           "summary": "Biofilms are communities of microorganisms that stick to one another and also adhere to a nearby surface. They are intricately associated with life on Earth, enabling functions essential to human and plant systems.",
           "isoDate": "2026-03-13T17:08:49.000Z"
-        },
-        {
-          "title": "USBR Halt the Hitchhiker: Invasive Species Challenge",
-          "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/usbr-halt-the-hitchhiker-invasive-species-challenge/",
-          "summary": "NASA’s Center of Excellence for Collaborative Innovation (CoECI) assists in the use of crowdsourcing across the federal government. CoECI’s NASA Tournament Lab offers the contract capability to run external crowdsourced challenges on behalf of NASA and other agencies. The Bureau of Reclamation (Reclamation) is sponsoring a 3-phase prize challenge (managed by yet2) for innovative solutions […]",
-          "isoDate": "2026-03-13T17:03:49.000Z"
-        },
-        {
-          "title": "Good Morning, Moon",
-          "link": "https://www.nasa.gov/image-article/good-morning-moon/",
-          "summary": "Early morning sunlight illuminates the western wall of this unnamed crater, leaving deep shadows on the ground and in the interior. The image was taken on August 30, 2023, by LROC (Lunar Reconnaissance Orbiter Camera). LROC is a system of three cameras and one of the seven instruments aboard NASA’s LRO (Lunar Reconnaissance Orbiter) mission, […]",
-          "isoDate": "2026-03-13T16:19:57.000Z"
-        },
-        {
-          "title": "Agenda diaria de la misión a la Luna de Artemis II de la NASA",
-          "link": "https://www.nasa.gov/es/agenda-diaria-de-la-mision-a-la-luna-de-artemis-ii-de-la-nasa/",
-          "summary": "Read this web article in English here. Unos ocho minutos después del despegue de Artemis II, la nave espacial Orion y su tripulación —los astronautas de la NASA Reid Wiseman, Victor Glover y Christina Koch, junto con el astronauta de la CSA (Agencia Espacial Canadiense) Jeremy Hansen— llegarán al espacio. Este vuelo de prueba de casi 10 días […]",
-          "isoDate": "2026-03-13T15:40:17.000Z"
         }
       ]
     },
@@ -141,13 +141,31 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-03-16T07:17:18.756Z"
+          "isoDate": "2026-03-16T13:12:30.688Z"
+        },
+        {
+          "title": "Firms urged to check if other users edited their data on Companies House",
+          "link": "https://www.bbc.com/news/articles/c5y41p0dy1wo?at_medium=RSS&at_campaign=rss",
+          "summary": "The glitch meant logged-in users could view and edit other companies' details without their consent.",
+          "isoDate": "2026-03-16T12:19:09.000Z"
+        },
+        {
+          "title": "Is this product 'human-made'? The race to establish an AI-free logo",
+          "link": "https://www.bbc.com/news/articles/cj0d6el50ppo?at_medium=RSS&at_campaign=rss",
+          "summary": "The backlash to the growing use of the tech has led to an explosion in attempts to come up with 'AI-Free' logo that could be used globally.",
+          "isoDate": "2026-03-16T00:32:50.000Z"
         },
         {
           "title": "Tech Now",
           "link": "https://www.bbc.co.uk/iplayer/episode/m002sx4k?at_medium=RSS&at_campaign=rss",
           "summary": "Paul Carter checks out the newest phones, gadgets and trends from MWC Barcelona.",
-          "isoDate": "2026-03-14T01:00:00.000Z"
+          "isoDate": "2026-03-14T01:00:06.000Z"
+        },
+        {
+          "title": "She spent 16 hours on Instagram in a day. It's up to a jury to decide if Meta is to blame",
+          "link": "https://www.bbc.com/news/articles/c0mg3zd7xwpo?at_medium=RSS&at_campaign=rss",
+          "summary": "A landmark lawsuit will set the stage for thousands of people who say social media platforms are intentionally addictive.",
+          "isoDate": "2026-03-14T00:02:15.000Z"
         },
         {
           "title": "Games with loot boxes to get minimum 16 age rating across Europe",
@@ -178,24 +196,6 @@
           "link": "https://www.bbc.com/news/articles/c5yr0576ygvo?at_medium=RSS&at_campaign=rss",
           "summary": "Militaries are often cagey about their cyber activities. But the US has hinted at the role it has played.",
           "isoDate": "2026-03-12T10:20:08.000Z"
-        },
-        {
-          "title": "Social media firms asked to toughen up age checks for under-13s",
-          "link": "https://www.bbc.com/news/articles/cn48n18pg1eo?at_medium=RSS&at_campaign=rss",
-          "summary": "Instagram, Snapchat, TikTok, YouTube and Roblox are among the platforms UK regulators say aren't putting children's safety at the heart of their products.",
-          "isoDate": "2026-03-12T09:26:09.000Z"
-        },
-        {
-          "title": "Big Tech backs Anthropic in fight against Trump administration",
-          "link": "https://www.bbc.com/news/articles/c4g7k7zdd0zo?at_medium=RSS&at_campaign=rss",
-          "summary": "A group representing tech giants called government action against Anthropic a \"temper tantrum\".",
-          "isoDate": "2026-03-11T22:46:44.000Z"
-        },
-        {
-          "title": "UK PlayStation users could be owed billions",
-          "link": "https://www.bbc.com/news/videos/cm2xg13j3x5o?at_medium=RSS&at_campaign=rss",
-          "summary": "Lawyers say Sony was able to set prices without competition.",
-          "isoDate": "2026-03-11T13:34:56.000Z"
         }
       ]
     },
@@ -234,15 +234,15 @@
           "isoDate": "2026-03-11T11:30:00.000Z"
         },
         {
-          "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
-          "link": "https://openai.com/index/wayfair",
-          "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
-          "isoDate": "2026-03-11T11:00:00.000Z"
-        },
-        {
           "title": "From model to agent: Equipping the Responses API with a computer environment ",
           "link": "https://openai.com/index/equip-responses-api-computer-environment",
           "summary": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state.",
+          "isoDate": "2026-03-11T11:00:00.000Z"
+        },
+        {
+          "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+          "link": "https://openai.com/index/wayfair",
+          "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
           "isoDate": "2026-03-11T11:00:00.000Z"
         },
         {
@@ -273,13 +273,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-03-16T07:17:22.638Z"
+          "isoDate": "2026-03-16T13:12:32.848Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 58\nChar: =",
-          "isoDate": "2026-03-16T07:17:20.283Z"
+          "isoDate": "2026-03-16T13:12:32.007Z"
+        },
+        {
+          "title": "Exploring Light and Life: Nanophotonics and AI for Molecular Sequencing and Single-Cell Phenotyping",
+          "link": "https://events.bizzabo.com/823847",
+          "summary": "The biosphere transmits data 9 orders of magnitude faster than the technosphere. A new class of nanophotonic tools is beginning to close that gap.\nIn this webinar, Prof. Dionne will present VINPix: Si-photonic resonators with high-Q factors (thousands to millions), subwavelength mode volumes, and densities exceeding 10M/cm². Combined with acoustic bioprinting and AI, they may enable detection of multiomic signatures — genes, proteins, and metabolites on a single chip — at previously unattainable rates, opening new possibilities for molecular communication systems and biochemical sensing for health and sustainability.\nKey Takeaway: \n\nSingle-chip multiomics — VINPix arrays plus AI for simultaneous gene, protein, and metabolite detection\nField-deployed biosensing — integrated with Monterey Bay Aquarium Research Institute (MBARI) autonomous underwater robots for ocean biochemical monitoring\nPeptide & glyco-conjugate sequencing — major histocompatibility complex (MHC)-tethered peptides, dynamic Raman spectroscopy, and computational metadynamics to identify previously unseen molecular species\nTumor microenvironment profiling — subcellular prediction of drug resistance, macrophage polarization, and T-cell activation states\n\nRegister now for this free webinar!",
+          "isoDate": "2026-03-16T10:00:04.000Z"
         },
         {
           "title": "Video Friday: These Robots Were Born to Run",
@@ -310,12 +316,6 @@
           "link": "https://spectrum.ieee.org/ieee-global-virtual-career-fairs",
           "summary": "In 2025 IEEE launched its first virtual career fair to help strengthen the engineering workforce and connect top talent with industry professionals. The event, which was held in the United States, attracted thousands of students and professionals. They learned about more than 500 job opportunities in high-demand fields including artificial intelligence, semiconductors, and power and energy. They also gained access to career resources.\nHosted by IEEE Industry Engagement, the event marked a milestone in the organization’s expanding workforce development efforts to bridge the gap between academic training and industry needs while bolstering the technical talent pipeline, says Jessica Bian, 2025 chair of the IEEE Industry Engagement Committee. The IEC works to strengthen the connection with industry professionals, companies, and technology sectors through global career fairs, as well as its Industry Newsletter, AI-powered career guidance tools, and World Technology Summits, where industry leaders discuss solutions to societal challenges.\n“We are bringing together companies, universities, and young professionals to help meet the demand for technical talent in critical sectors,” Bian says. “It is part of our commitment to preparing the next generation of innovators.”\nThe virtual career fairs are expanding to more IEEE regions this year. One was held last month for Region 9 (Latin America). One is scheduled next month for Region 8 (Europe, Middle East, and Africa) and another in May for Region 7 (Canada).\nA global career fair is slated for June.\nRegistration information for all the fairs is available at careerfair.ieee.org.\nInnovative recruitment events\nThe fairs, which use the vFairs virtual platform, provide interactive sessions with representatives from hiring companies, direct chats with recruiters, video interviews, and access to downloadable job resources. The features help remove geographic barriers and increase visibility for employers and job seekers.\nThe career fair platform features interactive engagement tools including networking roundtables, a live activity feed, a leaderboard, and a virtual photobooth to encourage participants to remain active throughout the day.\nBringing together thousands of professionals\nSTEM students participated in the U.S. and Latin America events, along with early-career professionals and seasoned engineers—almost 8,000 participants in all. They represented diverse fields including software engineering, AI, semiconductors, and power systems.\nSiemens, Burns & McDonnell, and Morgan Stanley were among the dozens of companies that participated in the U.S. event. More than 500 internships, co-op opportunities, and full-time positions were promoted.\n“I found the overall process highly efficient and the platform intuitive—which made for a great sourcing experience,” said a recruiter from Burns & McDonnell, a design and construction firm. “I was able to join a session, short-list several high-potential candidates, review their résumés, and initiate contact with a couple of them.\n“I am optimistic that we will be able to extend at least one offer from this pipeline.”\nParticipating students described the fair as impactful.\n“I gained valuable hiring insights from industry leaders, like Siemens, TRC Companies, and Schweitzer Engineering Laboratories,” said Michael Dugan, an electrical and computer engineering graduate student at Rice University, in Houston.\nNew tools elevating the candidate experience\nAttendees had access to AI-guided job-matching tools and career development programs and resources.\nPrior to the fair, registrants could use the IEEE Career Guidance Counselor, an AI-powered career advisor. The ICGC tool analyzes candidates’ skills and experience to suggest aligned roles and provides tailored professional development plans.\nThe ICGC also makes personalized recommendations for mentors, job opportunities, training resources, and career pathways.\nPre-event workshops and mock interview sessions helped participants refine their résumé, strengthen interview strategies, and manage expectations. They also provided tips on how to engage with recruiters.\n“I gained valuable hiring insights from industry leaders, like Siemens, TRC Companies, and Schweitzer Engineering Laboratories.” —Michael Dugan, graduate student at Rice University, in Houston\nDuring the Future Ready Engineers: Essential Skills and Networking Strategies to Stand Out at a Career Fair workshop, Shaibu Ibrahim, a senior electrical engineer and member of IEEE Young Professionals, shared networking strategies for career fairs and industry events as well as tips on preparation, engagement, and effective follow-up.\n“The workshop offered advice that shaped my approach to the fair,” Dugan said. “It truly helped manage expectations and maximize my preparation.”\nLearning more about IEEE\nTo help participants learn about IEEE and its volunteering opportunities, its societies and councils set up roundtables and technical community booths at the fairs. They were hosted by IEEE Technical Activities, IEEE Future Networks, and the IEEE Signal Processing Society.\n“While exploring volunteer opportunities, I was excited to learn about IEEE Future Networks,” Dugan said. “Connecting with dedicated IEEE members, like Craig Polk, was a definite highlight.” Polk is an IEEE senior member and a senior program manager for IEEE Future Networks.\nA commitment to career development\nIEEE created the career fairs as free, accessible platforms for employers and job seekers to serve as a trusted bridge between companies seeking top technical talent and members dedicated to advancing their career. It is our responsibility to support them by connecting them with meaningful career opportunities.\nIn today’s unpredictable job landscape, IEEE is stepping up to help our talented members navigate change, build resilience, and connect with future employers.",
           "isoDate": "2026-03-11T18:00:03.000Z"
-        },
-        {
-          "title": "Keep Your Intuition Sharp While Using AI Coding Tools",
-          "link": "https://spectrum.ieee.org/ai-for-coding-intuition",
-          "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Parsity and delivered to your inbox for free!\nHow to Keep Your Engineering Skills Sharp in an AI World\nEngineers today are caught in a strange new reality. We’re expected to move faster than ever using AI tools for coding, analysis, documentation, and design. At the same time, there’s a growing worry in the background: If the AI is doing the work, what happens to my skills?\nThat concern isn’t just philosophical. Research from Anthropic, the company behind Claude, has suggested that heavy AI assistance can interfere with human learning—especially for more junior software engineers. When a tool fills in the gaps too quickly, you may deliver working output without ever building a strong mental model of what’s happening underneath. \nMore experienced engineers often feel a different version of this anxiety: a fear that they might slowly lose the hard-earned intuition that made them effective in the first place.\nIn some ways, this isn’t new. We’ve always borrowed solutions from textbooks, colleagues, forums, and code snippets from strangers on the internet. The difference now is speed and scale. AI can generate pages of plausible solutions in seconds. It’s never been easier to produce work you don’t fully understand.\nI recently felt this firsthand when I joined a new team and had to work in a codebase and language I’d never used before. With AI tools, I was able to become productive almost immediately. I could describe a small change I wanted, get back something that matched the existing patterns, and ship improvements within days. That kind of ramp-up speed is incredible and, increasingly, expected.\nBut I also noticed how easy it would have been to stop at “it works.”\nInstead, I made a conscious decision to use AI not just to generate solutions, but to deepen my understanding. After getting a working change, I’d ask the AI to walk me through the code step by step. Why was this pattern used? What would break if I removed this abstraction? Is this idiomatic for this language, or just one possible approach?\nThe shift from generation to interrogation made a massive difference.\nOne of the most powerful techniques I used was explaining things back in my own words. I’d summarize how I thought a part of the system worked or how this language handled certain concepts, then ask the AI to point out gaps or mistakes. That process forced me to form my own mental models rather than just recognizing patterns. Over time, I started to build intuition for the language’s quirks, common pitfalls, and design style. This kind of understanding helps you debug and design, not just copy and paste.\nThis is the core mindset shift engineers need in the AI era: Use AI to accelerate learning, not to replace thinking.\nThe worst way to use these tools is also the easiest: prompt, accept, ship, repeat. That path leads to shallow knowledge and growing dependence. The better path is slightly slower but more durable. Let AI help you move quickly, but always come back and ask, Do I understand what I just built? If not, use the same tool to help you understand it.\nAI can absolutely make us faster. Used well, it can also make us better at our jobs. The engineers who stay sharp won’t be the ones who avoid AI, they’ll be the ones who turn it into a collaborator in their own learning.\n—Brian\nHow Ukraine’s Electrical Engineers Fight a War \nWhen war strikes, critical power infrastructure is often hit. Engineers in Ukraine have risked their lives to keep electricity flowing, and some have been hurt or killed in the dangerous wartime conditions. One such engineer, Oleksiy Brecht, died on the job in January. “Brecht’s life and death are a window into the realities of thousands of Ukrainian engineers who face conditions beyond what most engineers could imagine,” writes IEEE Spectrum contributing editor Peter Fairley. \nRead more here. \nCan a Computer Science Student Be Taught To Design Hardware?\nThe semiconductor industry needs more engineers to build the chips that power our daily lives. To help expand the talent pool, the industry is testing new approaches, including training software engineers to design hardware with the help of AI tools. All engineers will still need to have an understanding of the fundamentals—but could computer science students soon apply their coding skills to help design hardware? \nRead more here. \nIEEE Course Improves Engineers’ Writing Skills\nEffective writing and communication are among the most important skills for engineers looking to advance their careers. Though often labeled a “soft skill,” clear communication is essential in both academia and industry. IEEE is now offering a course covering key writing skills, ethical use of generative AI, publishing strategies, and more. \nRead more here.",
-          "isoDate": "2026-03-11T15:28:43.000Z"
         }
       ]
     },
