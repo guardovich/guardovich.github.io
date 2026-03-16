@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-03-15T18:39:12.845Z",
+  "generatedAt": "2026-03-16T02:27:02.907Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Aether OS is a computer in a browser built for the AT Protocol",
+          "link": "https://www.theverge.com/tech/895083/aether-os-browser-at-protocol",
+          "summary": "Aether OS puts a full-fledged desktop in your browser that ties directly into the AT Protocol. That means it connects to your Bluesky account and other public records. It offers a pretty full suite of apps, 42 in total, covering text editing, task management, and social media. There's even a rudimentary tracker for making chiptunes, a DAW, and a video editor. \nOf course, part of the appeal is also the cyberpunk good looks that draw obvious inspiration from The Matrix. \nRight now, the project is in alpha, and there are a lot of rough edges. Documentation is also basically non-existent. So, if you get stuck trying to use an app, you're kind  …\nRead the full story at The Verge.",
+          "isoDate": "2026-03-15T19:35:57.000Z"
+        },
         {
           "title": "Sotomayor’s Wabi Sabi is the funnest record of 2026",
           "link": "https://www.theverge.com/entertainment/895065/sotomayor-wabi-sabi-review",
@@ -58,12 +64,6 @@
           "link": "https://www.theverge.com/policy/895039/trump-10-billion-tiktok",
           "summary": "In September, Donald Trump claimed that \"the United States is getting a tremendous fee\" for brokering the TikTok deal. Now sources tell the Wall Street Journal and the New York Times that fee is expected to be in the range of $10 billion. The money is supposedly being paid by new investors, including Oracle and Silver Lake. Reports are that $2.5 billion was already paid to the Treasury when the deal closed on January 22nd. The rest will be paid out in installments.\nThis is the latest example of the Trump administration inserting itself into private business in unprecedented ways, including taking on a 10-percent stake in Intel last August,  …\nRead the full story at The Verge.",
           "isoDate": "2026-03-14T21:57:07.000Z"
-        },
-        {
-          "title": "Meta is reportedly laying off up to 20 percent of its staff",
-          "link": "https://www.theverge.com/business/895026/meta-laying-off-20-percent",
-          "summary": "According to Reuters, Meta is looking to offset spending on AI and data centers with a massive round of layoffs. Sources familiar with the matter say the company could lay off as much as 20 percent of its staff, eliminating roughly 15,800 positions. That would be the largest series of layoffs at the company since it terminated 22,000 workers over just a few months between November 2022 and early 2023.\nWord of the potential downsizing comes after Meta signaled that it was all but giving up on VR and the Metaverse, slashing budgets and closing studios. Instead, the company has been spending big to attract AI talent, build data centers, and ac …\nRead the full story at The Verge.",
-          "isoDate": "2026-03-14T18:48:56.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-03-15T18:39:07.913Z"
+          "isoDate": "2026-03-16T02:26:57.181Z"
         },
         {
           "title": "Tech Now",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-03-15T18:39:11.313Z"
+          "isoDate": "2026-03-16T02:27:01.082Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 58\nChar: =",
-          "isoDate": "2026-03-15T18:39:09.081Z"
+          "isoDate": "2026-03-16T02:26:58.684Z"
         },
         {
           "title": "Video Friday: These Robots Were Born to Run",
@@ -324,12 +324,57 @@
       "maxItems": 120,
       "items": [
         {
-          "title": "RESULTADOS (EN DIRECTO)",
+          "title": "RESULTADOS (ÚLTIMOS)",
           "link": "",
           "summary": ""
         },
         {
-          "title": "REA  0-1  CEL",
+          "title": "REA  3-1  OSA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "REA  1-1  CEL",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "BAR  5-2  SEV",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "MAL  2-1  ESP",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "REA  4-1  ELC",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "REA  1-0  VAL",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "ATL  1-0  GET",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "GIR  3-0  ATH",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "ALA  1-1  VIL",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "ESP  1-1  REA",
           "link": "",
           "summary": ""
         },
@@ -364,22 +409,22 @@
           "summary": ""
         },
         {
-          "title": " 5  CEL  28  11 10  7  38  30   8  43",
+          "title": " 5  REA  28  11 11  6  43  35   8  44",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 6  REA  28  11 10  7  42  35   7  43",
+          "title": " 6  CEL  28  10 11  7  38  31   7  41",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 7  ESP  28  10  7 11  35  42  -7  37",
+          "title": " 7  REA  28  10  8 10  43  42   1  38",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 8  REA  27   9  8 10  40  41  -1  35",
+          "title": " 8  ESP  28  10  7 11  35  42  -7  37",
           "link": "",
           "summary": ""
         },
@@ -394,7 +439,7 @@
           "summary": ""
         },
         {
-          "title": "11  OSA  27   9  7 11  32  32   0  34",
+          "title": "11  OSA  28   9  7 12  33  35  -2  34",
           "link": "",
           "summary": ""
         },
