@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-17T02:06:14.792Z",
+  "generatedAt": "2026-03-17T07:04:11.361Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
@@ -72,6 +72,12 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "A Bit of Gray on an Emerald Isle",
+          "link": "https://science.nasa.gov/earth/earth-observatory/a-bit-of-gray-in-an-emerald-isle/",
+          "summary": "Ireland is best known for its many greens, but the striking grays of the island’s Burren region also stand out in satellite images.",
+          "isoDate": "2026-03-17T04:01:00.000Z"
+        },
+        {
           "title": "NASA Invites Media to Learn About Upcoming X-59 Test Flights",
           "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-learn-about-upcoming-x-59-test-flights/",
           "summary": "NASA will hold a media teleconference at 5:30 p.m. EDT on Thursday, March 19 to highlight plans for its X-59 quiet supersonic aircraft’s upcoming flight tests. The teleconference is set to take place after the X-59 is scheduled to complete its second flight, in California. For the media call, NASA leadership will join representatives from […]",
@@ -124,12 +130,6 @@
           "link": "https://www.nature.com/articles/d41586-026-00769-5",
           "summary": "Nature, Published online: 16 March 2026; doi:10.1038/d41586-026-00769-5\nMicrobial diversity loss seen after a course of some commonly prescribed antibiotics can persist for years.",
           "isoDate": "2026-03-16T00:00:00.000Z"
-        },
-        {
-          "title": "Insulin resistance prediction from wearables and routine blood biomarkers",
-          "link": "https://www.nature.com/articles/s41586-026-10179-2",
-          "summary": "Nature, Published online: 16 March 2026; doi:10.1038/s41586-026-10179-2\nA machine-learning model that integrates data from wearable devices (such as smartwatches) with blood biomarkers and demographic data can predict whether someone has insulin resistance, enabling timely lifestyle interventions to prevent progression to type 2 diabetes.",
-          "isoDate": "2026-03-16T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-03-17T02:06:10.404Z"
+          "isoDate": "2026-03-17T07:04:06.426Z"
         },
         {
           "title": "AI firm Anthropic seeks weapons expert to stop users from 'misuse'",
@@ -240,15 +240,15 @@
           "isoDate": "2026-03-11T11:30:00.000Z"
         },
         {
-          "title": "From model to agent: Equipping the Responses API with a computer environment ",
-          "link": "https://openai.com/index/equip-responses-api-computer-environment",
-          "summary": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state.",
-          "isoDate": "2026-03-11T11:00:00.000Z"
-        },
-        {
           "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
           "link": "https://openai.com/index/wayfair",
           "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
+          "isoDate": "2026-03-11T11:00:00.000Z"
+        },
+        {
+          "title": "From model to agent: Equipping the Responses API with a computer environment ",
+          "link": "https://openai.com/index/equip-responses-api-computer-environment",
+          "summary": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state.",
           "isoDate": "2026-03-11T11:00:00.000Z"
         },
         {
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-03-17T02:06:13.192Z"
+          "isoDate": "2026-03-17T07:04:09.996Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 58\nChar: =",
-          "isoDate": "2026-03-17T02:06:12.116Z"
+          "isoDate": "2026-03-17T07:04:07.918Z"
         },
         {
           "title": "Utilities Study How to Protect Grids From Rising Physical Threats",
