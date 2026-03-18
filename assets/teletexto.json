@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-18T02:10:15.504Z",
+  "generatedAt": "2026-03-18T07:02:11.071Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
@@ -72,6 +72,12 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "Wave of Dust Rolls Through Texas",
+          "link": "https://science.nasa.gov/earth/earth-observatory/wave-of-dust-rolls-through-texas/",
+          "summary": "An advancing cold front kicked up a sharp line of sand and other small particles that swept over the high plains.",
+          "isoDate": "2026-03-18T04:01:00.000Z"
+        },
+        {
           "title": "Knock knock, no one’s there. Study finds scientists’ jokes mostly fall flat",
           "link": "https://www.nature.com/articles/d41586-026-00854-9",
           "summary": "Nature, Published online: 18 March 2026; doi:10.1038/d41586-026-00854-9\nSurvey examines how often academics attempt jokes during conference talks — and how these attempts at comedy land.",
@@ -124,12 +130,6 @@
           "link": "https://www.nature.com/articles/s41586-026-10360-7",
           "summary": "Nature, Published online: 17 March 2026; doi:10.1038/s41586-026-10360-7\nMolecular basis of oocyte cytoplasmic lattice assembly",
           "isoDate": "2026-03-17T00:00:00.000Z"
-        },
-        {
-          "title": "Triple-junction solar cells with improved carrier and photon management",
-          "link": "https://www.nature.com/articles/s41586-026-10385-y",
-          "summary": "Nature, Published online: 17 March 2026; doi:10.1038/s41586-026-10385-y\nTriple-junction solar cells with improved carrier and photon management",
-          "isoDate": "2026-03-17T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-03-18T02:10:11.243Z"
+          "isoDate": "2026-03-18T07:02:07.285Z"
         },
         {
           "title": "Ad for AI editing app which said it could 'remove anything' banned ",
@@ -204,6 +204,12 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "Sustaining diplomacy amid competition in US-China relations",
+          "link": "https://news.mit.edu/2026/sustaining-diplomacy-amid-us-china-competition-0318",
+          "summary": "At MIT, former U.S. ambassador to China Nicholas Burns highlights climate change as an area for diplomatic engagement, while exploring areas including China's emphasis on STEM education.",
+          "isoDate": "2026-03-18T04:00:00.000Z"
+        },
+        {
           "title": "MIT-IBM Watson AI Lab seed to signal: Amplifying early-career faculty impact",
           "link": "https://news.mit.edu/2026/mit-ibm-watson-ai-lab-seed-signal-amplifying-early-career-faculty-impact-0317",
           "summary": "Academia-industry relationship is an early-stage accelerator, supporting professional progress and research.",
@@ -256,12 +262,6 @@
           "link": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
           "summary": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows.",
           "isoDate": "2026-03-11T11:30:00.000Z"
-        },
-        {
-          "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
-          "link": "https://openai.com/index/wayfair",
-          "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
-          "isoDate": "2026-03-11T11:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-03-18T02:10:13.771Z"
+          "isoDate": "2026-03-18T07:02:09.575Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 58\nChar: =",
-          "isoDate": "2026-03-18T02:10:12.817Z"
+          "isoDate": "2026-03-18T07:02:08.722Z"
         },
         {
           "title": "“Sensorveillance” Turns Ordinary Life Into Evidence",
