@@ -1,69 +1,69 @@
 {
-  "generatedAt": "2026-03-17T19:02:03.422Z",
+  "generatedAt": "2026-03-18T02:10:15.504Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
         {
+          "title": "The Pentagon is planning for AI companies to train on classified data, defense official says",
+          "link": "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/",
+          "summary": "The Pentagon is discussing plans to set up secure environments for generative AI companies to train military-specific versions of their models on classified data, MIT Technology Review has learned.  AI models like Anthropic’s Claude are already used to answer questions in classified settings; applications include analyzing targets in Iran. But allowing models to train on…",
+          "isoDate": "2026-03-17T22:30:46.000Z"
+        },
+        {
+          "title": "Apple can delist apps \"with or without cause,\" judge says in loss for Musi app",
+          "link": "https://arstechnica.com/tech-policy/2026/03/judge-upholds-apple-delisting-of-free-musi-app-that-streams-songs-from-youtube/",
+          "summary": "Judge tosses Musi case against Apple, sanctions lawyers for \"mak[ing] up facts.\"",
+          "isoDate": "2026-03-17T21:38:33.000Z"
+        },
+        {
+          "title": "How World ID wants to put a unique human identity on every AI agent",
+          "link": "https://arstechnica.com/ai/2026/03/world-id-wants-you-to-put-a-cryptographically-unique-human-identity-behind-your-ai-agents/",
+          "summary": "Iris-scan backed tokens could help stop agent swarms from overwhelming online systems.",
+          "isoDate": "2026-03-17T21:28:27.000Z"
+        },
+        {
+          "title": "I went to the Pentagon to watch Pete Hegseth scold war reporters",
+          "link": "https://www.theverge.com/policy/896312/pentagon-briefing-iran-war-pete-hegseth",
+          "summary": "It is day 13 of America's surprise war with Iran - by sheer coincidence, it's Friday the 13th - and I am delirious. I haven't had a coffee since I woke up at 5AM, because I'm not allowed to bring outside beverages into the Pentagon (the security screening cutoff was at 7AM for the 8AM), and ever since Defense Secretary Pete Hegseth changed the rules last year, journalists are not allowed to go anywhere in the building without an escort, especially to wherever coffee is available. Also, I am struggling to comprehend why I, a reporter who has never covered a war, was assigned to sit in one of the good seats in the briefing room, watching Hegse …\nRead the full story at The Verge.",
+          "isoDate": "2026-03-17T20:47:35.000Z"
+        },
+        {
+          "title": "The Beats Studio Pro are nearly $200 off ahead of Amazon’s big spring sale",
+          "link": "https://www.theverge.com/gadgets/896279/beats-studio-pro-anc-headphones-amazon-big-spring-sale-deal-2026",
+          "summary": "Earlier this week, Apple unveiled the AirPods Max 2. The forthcoming over-ear headphones build on their predecessor with an H2 chip that powers a range of new features; however, they still don’t offer the sort of cross-OS compatibility you’ll get with a modern pair of Beats headphones — including the Beats Studio Pro, which are on sale at Amazon, Walmart, and Best Buy for an all-time low of around $169.95 ($180 off) in the run-up to Amazon’s annual Big Spring Sale.\nBeats Studio Pro\n\nWhere to Buy:\n\n $349.99 $169.95 at Amazon\n $349.99 $169.99 at Best Buy\n $349.99 $169.95 at Walmart\n\nAlthough they’re undoubtedly getting a little long in the tooth — the Beats design hasn’t fundamentally changed since 2017 — the Beats Studio Pro remain a solid pair of platform-agnostic headphones, particularly at this price. They offer one-touch pairing with both iOS and Android devices, along with support for Apple’s Find My and Google’s Find Hub networks, allowing you to locate them a little easier should you ever misplace them. Apple users get hands-free Siri access and support for head-tracking spatial audio, while Android folks get an AirPods-like audio switching trick that lets you effortlessly jump between different Android devices (phones, Chromebooks, etc.).\nAs far as sound quality is concerned, the Studio Pro aren’t going to rival that of newer options like Bose’s latest QuietComfort Ultra or Sony’s WH-1000XM6 (or even the last-gen XM5, for that matter). Their custom 40mm drivers don’t deliver anything exceptional, but their signature is balanced and decent enough, even if it sheds some of the low-end oomph for which Beats was once known. Plus, they offer an excellent transparency mode for piping outside noise and support lossless playback over USB-C, letting you leverage 24-bit / 48kHz  audio from compatible platforms like Spotify, Apple Music, and Amazon Music. Now, if only USB-C playback didn’t disable all access to their noise cancellation and transparency modes when active.\nRead our full Beats Studio Pro review.",
+          "isoDate": "2026-03-17T20:38:08.000Z"
+        },
+        {
+          "title": "Remedy’s live-service shooter Firebreak is getting its final major update",
+          "link": "https://www.theverge.com/entertainment/896278/fbc-firebreak-last-update-remedy",
+          "summary": "FBC: Firebreak. | Image: Remedy Entertainment\t\n\nRemedy is winding down its team shooter FBC: Firebreak with a big update that launches today. But while the game won't be getting any new content going forward, the studio intends to keep it alive for the foreseeable future. It's yet another example of a live-service game struggling amidst a volatile market.\nThe new update is called \"Open House,\" and it includes a handful of new areas pulled from Control (Firebreak is a spinoff that takes place in the Control universe), along with what Remedy describes as \"gameplay improvements and balance changes aimed at making combat clearer, smoother, and more flexible.\" You can check out Steam for the  …\nRead the full story at The Verge.",
+          "isoDate": "2026-03-17T19:36:45.000Z"
+        },
+        {
+          "title": "Spotify adds &#8216;Exclusive Mode&#8217; audiophile feature for Windows PCs",
+          "link": "https://www.theverge.com/entertainment/896290/spotify-exclusive-mode-windows",
+          "summary": "Starting Tuesday, Spotify users will have access to \"Exclusive Mode,\" a new feature in the streaming service's Windows app that can help maximize audio quality by giving the Spotify app full control over your device's audio processing. According to Spotify, \"your computer may alter audio before it reaches your DAC by resampling it, mixing other system sounds in, and changing the volume.\" Turning on Exclusive Mode prevents this, which Spotify says allows for \"Bit Perfect playback.\" \nExclusive Mode is currently only available to Spotify Premium users on Windows, but Spotify says it will also be coming to the Mac app \"in a future release.\" To  …\nRead the full story at The Verge.",
+          "isoDate": "2026-03-17T19:33:29.000Z"
+        },
+        {
+          "title": "Arizona indicts prediction market Kalshi for running illegal gambling operation",
+          "link": "https://arstechnica.com/tech-policy/2026/03/arizona-indicts-prediction-market-kalshi-for-running-illegal-gambling-operation/",
+          "summary": "Desert state becomes first to file criminal case against prediction platform.",
+          "isoDate": "2026-03-17T19:28:26.000Z"
+        },
+        {
+          "title": "FDA links raw cheese to outbreak; Makers \"100% disagree,\" refuse recall",
+          "link": "https://arstechnica.com/health/2026/03/fda-links-raw-cheese-to-outbreak-makers-100-disagree-refuse-recall/",
+          "summary": "Of the seven illnesses identified so far, four are in children age 3 or younger.",
+          "isoDate": "2026-03-17T18:53:12.000Z"
+        },
+        {
           "title": "Ikea tried to build a smart home for everyone — here&#8217;s why it&#8217;s not working yet",
           "link": "https://www.theverge.com/tech/896006/ikea-matter-thread-smart-home-problems",
           "summary": "Ikea’s new smart bulbs, sensors, and remotes use Matter-over-Thread to connect to any compatible ecosystem — including Apple Home and Amazon Alexa. In theory. | Photo by Jennifer Pattison Tuohy / The Verge\t\n\nIkea's new Matter-over-Thread products were supposed to prove that the smart home could be cheap, accessible, and reliable. The highly anticipated line - which includes sensors, remotes, smart plugs, air-quality monitors, and smart bulbs - has most everything you need to build a smart home, with prices starting at $6. It's an exciting idea, but it's still not ready for primetime.\nWhen I first got the Ikea devices in January, I had a lot of problems connecting them to my main platform, Apple Home. And it turned out I was not alone. Reddit forums and user reviews were full of reports of onboarding and connectivity issues. Many people were str …\nRead the full story at The Verge.",
           "isoDate": "2026-03-17T18:45:14.000Z"
-        },
-        {
-          "title": "Nvidia&#8217;s DLSS 5 is like motion smoothing for video games, but worse",
-          "link": "https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing",
-          "summary": "Yesterday Nvidia revealed its latest upscaling tech called DLSS 5, which it described as \"the company's most significant breakthrough in computer graphics since the debut of real-time ray tracing in 2018.\" Sounds good, until you actually see it. According to Nvidia, the tech \"infuses pixels with photoreal lighting and materials,\" but all anyone seemed to notice was that it turned recognizable faces into something resembling AI slop. Resident Evil Requiem protagonist Grace got a makeover that would make her look at home in a Tilly Norwood video. The Hogwarts Legacy kids looked like they'd been wrung through an Instagram filter. Even Liverpool …\nRead the full story at The Verge.",
-          "isoDate": "2026-03-17T18:00:00.000Z"
-        },
-        {
-          "title": "Antigravity’s 360-degree drone is 20 percent off ahead of its next feature drop",
-          "link": "https://www.theverge.com/gadgets/895980/antigravity-a1-360-degree-drone-deal-amazon-big-spring-sale-2026",
-          "summary": "Insta360’s Antigravity A1 is one of the most interesting drones on the market thanks to its included Vision Goggles, which provide a 360-degree first-person view through the drone’s cameras (a screen on the outside of its lenses shows what the pilot is seeing). Its cameras can shoot 8K video at 30 frames per second, or in 5.7K at 60 frames per second. And now, the company has launched its biggest discounts yet on all bundles, knocking 20 percent off the list price at Amazon, Best Buy, and directly from Antigravity through April 16th.\nAntigravity A1 drone\n\nWhere to Buy:\n\n $1599 $1279 at Amazon (Standard)\n $1599 $1279 at Best Buy (Standard)\n $1899 $1519 at Amazon (Explorer)\n\nThe ongoing promo ends just as the company is set to release a new set of features via a free software update. Before I dig into said features, however, here’s what each bundle includes and how much they currently cost. The most affordable bundle, which Antigravity calls the “Standard” set, costs $1,279 (originally $1,599). It includes the A1 drone, Vision Goggles, a remote control, a battery, a carrying case, and four spare propellers.\nThe “Explorer” and “Infinity” bundles are selling for $1,519 (was $1,899) and $1,599 (was $1,999), respectively. They include additional spare propellers and batteries, as well as other accessories not included in the entry tier, such as a sling bag and a charging hub. The priciest package comes with a quick reader for transferring drone footage to other devices, and high-capacity batteries instead of standard batteries included in other tiers.\nIn February, Antigravity shipped a new Flight Simulator mode, which lets you practice flying through the Vision Goggles without actually having to fly the drone. On April 15th, the company will launch voice controls to let you trigger certain shooting functions with a command, timelapse capture in multiple flight modes, and Virtual Cockpit. The latter inclusion can insert virtual assets into your view for fun, making it look like you’re riding a dragon or flying in an airplane cockpit.\nHere’s a look at the A1 when we got hands-on with a prototype ahead of its launch:\n\n \n @verge \nI tried Antigravity, the first drone from Insta360. It’s a flying 360-degree camera with these wild goggles that have a screen on the front, point-to-fly controls, and the ability to film in every direction and piece together dynamic videos afterward! The company says it’s coming to the US for as little as $1,300 or as much as $1,700 if Trump’s tariffs allow and claims it’s standing up a whole Antigravity company to make it happen. #todayimtoyingwith #drone #dronefootage #dronetok #tech \n ♬ original sound – The Verge",
-          "isoDate": "2026-03-17T17:29:48.000Z"
-        },
-        {
-          "title": "Researchers disclose vulnerabilities in IP KVMs from four manufacturers",
-          "link": "https://arstechnica.com/security/2026/03/researchers-disclose-vulnerabilities-in-ip-kvms-from-4-manufacturers/",
-          "summary": "Internet-exposed devices that give BIOS-level access? What could possibly go wrong?",
-          "isoDate": "2026-03-17T17:07:12.000Z"
-        },
-        {
-          "title": "The messiah rises in Dune: Part Three’s new trailer",
-          "link": "https://www.theverge.com/entertainment/896111/dune-part-three-trailer-release-date",
-          "summary": "First comes love, then comes marriage, then comes a portentous set of twin babies in the new trailer for Dune: Part Three.\nWarner Bros. has debuted its first full trailer for Denis Villeneuve's third Dune film. Thankfully, it doesn't give everything about the film away, but it does put a spotlight on a few of the key characters who will bring this chapter of Paul Atreides' (Timothée Chalamet) story to an end. Set a few years after the events of Part Two, Dune: Part Three finds Paul and Chani (Zendaya) eagerly anticipating the birth of their first child. \nThough the couple don't seem to know that they're about to have twins in the trailer,  …\nRead the full story at The Verge.",
-          "isoDate": "2026-03-17T17:01:14.000Z"
-        },
-        {
-          "title": "Now everyone in the US is getting Google&#8217;s personalized Gemini AI",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/896107/google-expands-personal-intelligence",
-          "summary": "Google announced on Tuesday that all users in the US will now have access to its Personal Intelligence feature, which lets you connect various Google apps to provide context for Gemini's responses and suggestions. Access was previously limited to Google AI Pro and AI Ultra subscribers. Now, free-tier users in the US can also use Personal Intelligence through AI Mode in Search, Gemini in Chrome, and the Gemini app. However, the feature is currently only available to users on personal Google accounts, not business, enterprise, or education users. \nPersonal Intelligence uses data from connected apps, like YouTube, Google Photos, and Gmail, to  …\nRead the full story at The Verge.",
-          "isoDate": "2026-03-17T16:33:41.000Z"
-        },
-        {
-          "title": "Gamers react with overwhelming disgust to DLSS 5's generative AI glow-ups",
-          "link": "https://arstechnica.com/gaming/2026/03/gamers-react-with-overwhelming-disgust-to-dlss-5s-generative-ai-glow-ups/",
-          "summary": "Nvidia's next frame-gen tech goes way beyond upscaling, and not in a good way",
-          "isoDate": "2026-03-17T16:29:16.000Z"
-        },
-        {
-          "title": "After three months, Samsung is ending sales of the $2,899 Galaxy Z TriFold",
-          "link": "https://arstechnica.com/gadgets/2026/03/after-three-months-samsung-is-ending-sales-of-the-2899-galaxy-z-trifold/",
-          "summary": "Samsung didn't offer an explanation for its decision, but it's not exactly a surprise.",
-          "isoDate": "2026-03-17T16:10:02.000Z"
-        },
-        {
-          "title": "Intel announces Core Ultra 200HX Plus CPUs for high-end gaming laptops",
-          "link": "https://www.theverge.com/tech/895921/intel-core-ultra-290hx-270hx-flagship-gaming-laptop-cpu",
-          "summary": "Intel has a pair of new flagship CPUs coming to a variety of pricey gaming laptops: the Core Ultra 9 290 HX Plus and Core Ultra 7 270HX Plus. The Arrow Lake Refresh chips sport 24 cores / 24 threads and 20 cores / 20 threads, respectively. Like Intel's recently announced desktop CPUs, the new Plus models for laptops are \"pushed further for enthusiasts,\" and also feature the Intel Binary Optimization Tool that can improve native performance \"in select games.\"\nIntel's Josh Newman states that the new chips \"deliver meaningful, real‑world performance gains so users can experience smoother gameplay, faster creation workflows, and mo …\nRead the full story at The Verge.",
-          "isoDate": "2026-03-17T15:50:45.000Z"
-        },
-        {
-          "title": "Two more EVs for the trash heap: Volvo EX30 and Honda Prologue",
-          "link": "https://www.theverge.com/transportation/895953/volvo-ex30-honda-prologue-ev-cancel",
-          "summary": "The steady stream of news about automakers cancelling or discontinuing electric vehicles continues apace. This week it's Volvo's small, quirky EX30 and Honda's solo electric offering in the US, the Prologue. Both are the latest victims of stagnating EV sales in the US thanks to the Trump administration's decision to eliminate tax incentives. \nFirst, the EX30. The small SUV was the most affordable EV in Volvo's lineup, even if it took some time before it arrived on our shores. Volvo spokesperson Sophia Durr says that the automaker's US division has decided to discontinue the EX30 and EX30 Cross Country after the 2026 model year. It will, how …\nRead the full story at The Verge.",
-          "isoDate": "2026-03-17T15:25:47.000Z"
         }
       ]
     },
@@ -71,6 +71,24 @@
       "header": "120  CIENCIA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Knock knock, no one’s there. Study finds scientists’ jokes mostly fall flat",
+          "link": "https://www.nature.com/articles/d41586-026-00854-9",
+          "summary": "Nature, Published online: 18 March 2026; doi:10.1038/d41586-026-00854-9\nSurvey examines how often academics attempt jokes during conference talks — and how these attempts at comedy land.",
+          "isoDate": "2026-03-18T00:00:00.000Z"
+        },
+        {
+          "title": "NASA’s X-59 Prepares for Second Flight",
+          "link": "https://www.nasa.gov/centers-and-facilities/armstrong/nasas-x-59-prepares-for-second-flight/",
+          "summary": "NASA’s X-59 experimental aircraft is preparing for its second flight, a step that will set the pace for more flight testing in 2026.  Over the coming months, NASA will take the quiet supersonic jet faster and higher, while validating safety and performance, a process known as envelope expansion.  NASA test pilot Jim “Clue” Less will be at the X-59’s […]",
+          "isoDate": "2026-03-17T20:55:48.000Z"
+        },
+        {
+          "title": "Dim Delights in Cancer",
+          "link": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/dim-delights-in-cancer/",
+          "summary": "Cancer the Crab is a dim constellation, yet it contains one of the most beautiful and easy-to-spot star clusters in our sky: the Beehive Cluster. Cancer also possesses one of the most studied exoplanets: the superhot super-Earth, 55 Cancri e. Find Cancer’s dim stars by looking in between the brighter neighboring constellations of Gemini and […]",
+          "isoDate": "2026-03-17T19:41:48.000Z"
+        },
         {
           "title": "Solving Asteroid Bennu’s Mysteries",
           "link": "https://www.nasa.gov/image-article/solving-asteroid-bennus-mysteries/",
@@ -112,24 +130,6 @@
           "link": "https://www.nature.com/articles/s41586-026-10385-y",
           "summary": "Nature, Published online: 17 March 2026; doi:10.1038/s41586-026-10385-y\nTriple-junction solar cells with improved carrier and photon management",
           "isoDate": "2026-03-17T00:00:00.000Z"
-        },
-        {
-          "title": "When artificial lightning strikes",
-          "link": "https://www.nature.com/articles/d41586-026-00643-4",
-          "summary": "Nature, Published online: 17 March 2026; doi:10.1038/d41586-026-00643-4\nSafety concerns of human-triggered bolts of electricity, and a peacrab loses its colour in the evening, in this week’s pick from the Nature archive.",
-          "isoDate": "2026-03-17T00:00:00.000Z"
-        },
-        {
-          "title": "Rethinking AI’s role in survey research: from threat to collaboration",
-          "link": "https://www.nature.com/articles/d41586-026-00862-9",
-          "summary": "Nature, Published online: 17 March 2026; doi:10.1038/d41586-026-00862-9\nRethinking AI’s role in survey research: from threat to collaboration",
-          "isoDate": "2026-03-17T00:00:00.000Z"
-        },
-        {
-          "title": "Autism in older adults: the health system must recognize its effects",
-          "link": "https://www.nature.com/articles/d41586-026-00863-8",
-          "summary": "Nature, Published online: 17 March 2026; doi:10.1038/d41586-026-00863-8\nAutism in older adults: the health system must recognize its effects",
-          "isoDate": "2026-03-17T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-03-17T19:01:59.204Z"
+          "isoDate": "2026-03-18T02:10:11.243Z"
+        },
+        {
+          "title": "Ad for AI editing app which said it could 'remove anything' banned ",
+          "link": "https://www.bbc.com/news/articles/cx2g8888q53o?at_medium=RSS&at_campaign=rss",
+          "summary": "The UK regulator said the ad condoned \"digitally altering and exposing women's bodies without their consent.\"",
+          "isoDate": "2026-03-18T00:00:09.000Z"
+        },
+        {
+          "title": "Tech Life",
+          "link": "https://www.bbc.co.uk/sounds/play/w3ct6zq8?at_medium=RSS&at_campaign=rss",
+          "summary": "The effect of screen time on young children. Plus a listener tells us his AI voice story.",
+          "isoDate": "2026-03-17T20:30:00.000Z"
         },
         {
           "title": "Nvidia faces gamer backlash over 'breakthrough' AI graphics feature",
@@ -184,18 +196,6 @@
           "link": "https://www.bbc.com/news/articles/c0mg3zd7xwpo?at_medium=RSS&at_campaign=rss",
           "summary": "A landmark lawsuit will set the stage for thousands of people who say social media platforms are intentionally addictive.",
           "isoDate": "2026-03-14T00:02:15.000Z"
-        },
-        {
-          "title": "Games with loot boxes to get minimum 16 age rating across Europe",
-          "link": "https://www.bbc.com/news/articles/cge84xqjg5lo?at_medium=RSS&at_campaign=rss",
-          "summary": "The new changes by the Pan-European Game Information age-ratings body (PEGI) will start from June.",
-          "isoDate": "2026-03-13T12:57:02.000Z"
-        },
-        {
-          "title": "AI toys for children misread emotions and respond inappropriately, researchers warn",
-          "link": "https://www.bbc.com/news/articles/clyg4wx6nxgo?at_medium=RSS&at_campaign=rss",
-          "summary": "In first study of its kind, Cambridge researchers found AI toys could misread some children's emotions.",
-          "isoDate": "2026-03-13T09:10:53.000Z"
         }
       ]
     },
@@ -204,10 +204,22 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "MIT-IBM Watson AI Lab seed to signal: Amplifying early-career faculty impact",
+          "link": "https://news.mit.edu/2026/mit-ibm-watson-ai-lab-seed-signal-amplifying-early-career-faculty-impact-0317",
+          "summary": "Academia-industry relationship is an early-stage accelerator, supporting professional progress and research.",
+          "isoDate": "2026-03-17T20:35:44.000Z"
+        },
+        {
           "title": "Introducing GPT-5.4 mini and nano",
           "link": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
           "summary": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads.",
           "isoDate": "2026-03-17T10:00:00.000Z"
+        },
+        {
+          "title": "Equipping workers with insights about compensation",
+          "link": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
+          "summary": "New research shows Americans send nearly 3 million daily messages to ChatGPT asking about compensation and earnings, helping close the wage information gap.",
+          "isoDate": "2026-03-17T00:00:00.000Z"
         },
         {
           "title": "Why Codex Security Doesn’t Include a SAST Report",
@@ -246,22 +258,10 @@
           "isoDate": "2026-03-11T11:30:00.000Z"
         },
         {
-          "title": "From model to agent: Equipping the Responses API with a computer environment ",
-          "link": "https://openai.com/index/equip-responses-api-computer-environment",
-          "summary": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state.",
-          "isoDate": "2026-03-11T11:00:00.000Z"
-        },
-        {
           "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
           "link": "https://openai.com/index/wayfair",
           "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
           "isoDate": "2026-03-11T11:00:00.000Z"
-        },
-        {
-          "title": "A better method for planning complex visual tasks",
-          "link": "https://news.mit.edu/2026/better-method-planning-complex-visual-tasks-0311",
-          "summary": "A new hybrid system could help robots navigate in changing environments or increase the efficiency of multirobot assembly teams.",
-          "isoDate": "2026-03-11T04:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-03-17T19:02:01.837Z"
+          "isoDate": "2026-03-18T02:10:13.771Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 58\nChar: =",
-          "isoDate": "2026-03-17T19:02:00.691Z"
+          "isoDate": "2026-03-18T02:10:12.817Z"
         },
         {
           "title": "“Sensorveillance” Turns Ordinary Life Into Evidence",
