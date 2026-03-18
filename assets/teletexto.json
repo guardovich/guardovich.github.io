@@ -1,10 +1,58 @@
 {
-  "generatedAt": "2026-03-18T07:02:11.071Z",
+  "generatedAt": "2026-03-18T13:12:22.681Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "The great EV pullback: all the obstacles, cancellations, and delays",
+          "link": "https://www.theverge.com/transportation/896559/ev-cancellation-delay-hybrid-china",
+          "summary": "The auto industry bet big on electric vehicles, but now those ambitious goals are falling apart. Demand was already slowing down when Donald Trump took office and took an ax to pro-EV policy: the elimination of the federal EV tax credit, kneecapping clean energy, and bulldozing emissions rules. Tariffs have been taking their toll as well. And now US and European automakers are taking a bath on its EV investments, forcing them to readjust their model lineup. Hybrids are the new bet, and the EV future looks further away than ever — at least for the US. China continues to outpace the rest of the world in EV development, and stands poised to win that future. \nFollow along below for all the latest updates about the EV industry.\nTwo more EVs for the trash heap: Volvo EX30 and Honda Prologue\n\t\t\t\nHonda cancels Zero Series EVs, citing ‘extremely challenging’ situation\n\t\t\t\nStellantis is in a crisis of its own making\n\t\t\t\nAmerica is at risk of becoming an automotive backwater\n\t\t\t\nTrump’s new ‘Buy American’ requirement for EV charging would dramatically curtail build-out\n\t\t\t\nFord’s big bet on EVs didn’t pan out — now it’s pivoting to hybrids and energy storage\n\t\t\t\nGM to end production of electric Chevy Brightdrop vans\n\t\t\t\nHonda cancels Acura ZDX in latest casualty of EV pullback\n\t\t\t\nStellantis cancels Ram 1500 REV as electric truck demand dims\n\t\t\t\nThe great EV pullback has begun\n\t\t\t\nVolkswagen cancels ID.7 sedan for US\n\t\t\t\nFord cancels its electric three-row SUV and delays futuristic electric truck",
+          "isoDate": "2026-03-18T13:00:41.000Z"
+        },
+        {
+          "title": "Nvidia has lost the plot with gamers",
+          "link": "https://www.theverge.com/games/895753/nvidia-dlss-5-slop-face-fake-frames",
+          "summary": "Nvidia surely thought it was doing a good thing for gamers by \"upgrading\" the faces of our favorite video game characters. But that just shows how much the company has lost the plot.\nNvidia could've marketed its new DLSS 5 real-time lighting technology as a way to make future, next-gen games look better. Instead, it told the world that games people already know and love look bad. It focused on retconning characters' faces. And now, confronted with the predictable backlash, Nvidia's CEO is telling critics that we're \"completely wrong.\"\nRegardless of how it works, the tech presents as an AI filter that tries to optimize everyone and everythi …\nRead the full story at The Verge.",
+          "isoDate": "2026-03-18T13:00:00.000Z"
+        },
+        {
+          "title": "The Download: The Pentagon’s new AI plans, and next-gen nuclear reactors",
+          "link": "https://www.technologyreview.com/2026/03/18/1134371/the-download-the-pentagons-new-ai-plans-and-next-gen-nuclear-reactors/",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Pentagon is planning for AI companies to train on classified data, defense official says  The Pentagon plans to set up secure environments for generative AI companies to train military-specific versions of their…",
+          "isoDate": "2026-03-18T12:38:00.000Z"
+        },
+        {
+          "title": "DLSS 5: Has Nvidia&#8217;s AI graphics technology gone too far?",
+          "link": "https://www.theverge.com/games/896518/nvidia-dlss-5-ai-3d-rendering",
+          "summary": "Nvidia has revealed a new “3D guided neural rendering model” called DLSS 5 that can change a game’s lighting and materials in real-time, and… many gamers aren’t happy. From DLSS 5 memes to complaints about how it’s “yassified” Resident Evil Requiem characters in demos, the first impression has not been a good one, no matter how much Nvidia insists that this pursuit of photorealism is still honoring the original artists’ intent.\nFollow along below for all the latest updates about Nvidia’s DLSS 5 upgrades.\nNvidia has lost the plot with gamers\n\t\t\t\nJensen Huang, on the critical reaction to DLSS 5: “Well, first of all, they’re completely wrong.”\n\t\t\t\nNvidia’s DLSS 5 is like motion smoothing for video games, but worse\n\t\t\t\nDLSS 5 looks like a real-time generative AI filter for video games\n\t\t\t\nNvidia just announced DLSS 5 and Digital Foundry already has a video.",
+          "isoDate": "2026-03-18T12:30:00.000Z"
+        },
+        {
+          "title": "Users hate it, but age-check tech is coming. Here's how it works.",
+          "link": "https://arstechnica.com/tech-policy/2026/03/after-discord-fiasco-age-check-tech-promises-privacy-by-running-locally-does-it-work/",
+          "summary": "On-device face scans and cross-platform age keys decrease privacy risks, but trust issues abound.",
+          "isoDate": "2026-03-18T11:30:47.000Z"
+        },
+        {
+          "title": "Here's BMW's first all-electric 3 series, the 2027 i3",
+          "link": "https://arstechnica.com/cars/2026/03/heres-bmws-first-all-electric-3-series-the-2027-i3/",
+          "summary": "The iX3 SUV was very good; we think the i3 sedan will be even better.",
+          "isoDate": "2026-03-18T10:00:23.000Z"
+        },
+        {
+          "title": "BMW brings back the i3 as a funky four-door EV",
+          "link": "https://www.theverge.com/transportation/895265/bmw-i3-neue-klasse-ev-price-specs",
+          "summary": "BMW's new class of EVs begins with the iX3 SUV, but you had to know it wouldn't end there. The company's engineers didn't spend all that time working up a completely redesigned and substantially more efficient EV platform just for one crossover, and now it's time for the second wave.\nMeet the new i3, which takes the same basic motor, battery, and electronics package that powers the iX3, plus the Neue Klasse's controversial styling cues, and applies it to a more familiar sedan shape, the sort of silhouette that BMW's reputation was largely built upon. \nIt definitely looks a lot like the iX3, but with a slightly different intent. Sebastian K …\nRead the full story at The Verge.",
+          "isoDate": "2026-03-18T10:00:00.000Z"
+        },
+        {
+          "title": "What do new nuclear reactors mean for waste?",
+          "link": "https://www.technologyreview.com/2026/03/18/1134345/advanced-nuclear-reactors-waste/",
+          "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. The way the world currently deals with nuclear waste is as creative as it is varied: Drown it in water pools, encase it in steel, bury…",
+          "isoDate": "2026-03-18T09:00:00.000Z"
+        },
         {
           "title": "The Pentagon is planning for AI companies to train on classified data, defense official says",
           "link": "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/",
@@ -16,54 +64,6 @@
           "link": "https://arstechnica.com/tech-policy/2026/03/judge-upholds-apple-delisting-of-free-musi-app-that-streams-songs-from-youtube/",
           "summary": "Judge tosses Musi case against Apple, sanctions lawyers for \"mak[ing] up facts.\"",
           "isoDate": "2026-03-17T21:38:33.000Z"
-        },
-        {
-          "title": "How World ID wants to put a unique human identity on every AI agent",
-          "link": "https://arstechnica.com/ai/2026/03/world-id-wants-you-to-put-a-cryptographically-unique-human-identity-behind-your-ai-agents/",
-          "summary": "Iris-scan backed tokens could help stop agent swarms from overwhelming online systems.",
-          "isoDate": "2026-03-17T21:28:27.000Z"
-        },
-        {
-          "title": "I went to the Pentagon to watch Pete Hegseth scold war reporters",
-          "link": "https://www.theverge.com/policy/896312/pentagon-briefing-iran-war-pete-hegseth",
-          "summary": "It is day 13 of America's surprise war with Iran - by sheer coincidence, it's Friday the 13th - and I am delirious. I haven't had a coffee since I woke up at 5AM, because I'm not allowed to bring outside beverages into the Pentagon (the security screening cutoff was at 7AM for the 8AM), and ever since Defense Secretary Pete Hegseth changed the rules last year, journalists are not allowed to go anywhere in the building without an escort, especially to wherever coffee is available. Also, I am struggling to comprehend why I, a reporter who has never covered a war, was assigned to sit in one of the good seats in the briefing room, watching Hegse …\nRead the full story at The Verge.",
-          "isoDate": "2026-03-17T20:47:35.000Z"
-        },
-        {
-          "title": "The Beats Studio Pro are nearly $200 off ahead of Amazon’s big spring sale",
-          "link": "https://www.theverge.com/gadgets/896279/beats-studio-pro-anc-headphones-amazon-big-spring-sale-deal-2026",
-          "summary": "Earlier this week, Apple unveiled the AirPods Max 2. The forthcoming over-ear headphones build on their predecessor with an H2 chip that powers a range of new features; however, they still don’t offer the sort of cross-OS compatibility you’ll get with a modern pair of Beats headphones — including the Beats Studio Pro, which are on sale at Amazon, Walmart, and Best Buy for an all-time low of around $169.95 ($180 off) in the run-up to Amazon’s annual Big Spring Sale.\nBeats Studio Pro\n\nWhere to Buy:\n\n $349.99 $169.95 at Amazon\n $349.99 $169.99 at Best Buy\n $349.99 $169.95 at Walmart\n\nAlthough they’re undoubtedly getting a little long in the tooth — the Beats design hasn’t fundamentally changed since 2017 — the Beats Studio Pro remain a solid pair of platform-agnostic headphones, particularly at this price. They offer one-touch pairing with both iOS and Android devices, along with support for Apple’s Find My and Google’s Find Hub networks, allowing you to locate them a little easier should you ever misplace them. Apple users get hands-free Siri access and support for head-tracking spatial audio, while Android folks get an AirPods-like audio switching trick that lets you effortlessly jump between different Android devices (phones, Chromebooks, etc.).\nAs far as sound quality is concerned, the Studio Pro aren’t going to rival that of newer options like Bose’s latest QuietComfort Ultra or Sony’s WH-1000XM6 (or even the last-gen XM5, for that matter). Their custom 40mm drivers don’t deliver anything exceptional, but their signature is balanced and decent enough, even if it sheds some of the low-end oomph for which Beats was once known. Plus, they offer an excellent transparency mode for piping outside noise and support lossless playback over USB-C, letting you leverage 24-bit / 48kHz  audio from compatible platforms like Spotify, Apple Music, and Amazon Music. Now, if only USB-C playback didn’t disable all access to their noise cancellation and transparency modes when active.\nRead our full Beats Studio Pro review.",
-          "isoDate": "2026-03-17T20:38:08.000Z"
-        },
-        {
-          "title": "Remedy’s live-service shooter Firebreak is getting its final major update",
-          "link": "https://www.theverge.com/entertainment/896278/fbc-firebreak-last-update-remedy",
-          "summary": "FBC: Firebreak. | Image: Remedy Entertainment\t\n\nRemedy is winding down its team shooter FBC: Firebreak with a big update that launches today. But while the game won't be getting any new content going forward, the studio intends to keep it alive for the foreseeable future. It's yet another example of a live-service game struggling amidst a volatile market.\nThe new update is called \"Open House,\" and it includes a handful of new areas pulled from Control (Firebreak is a spinoff that takes place in the Control universe), along with what Remedy describes as \"gameplay improvements and balance changes aimed at making combat clearer, smoother, and more flexible.\" You can check out Steam for the  …\nRead the full story at The Verge.",
-          "isoDate": "2026-03-17T19:36:45.000Z"
-        },
-        {
-          "title": "Spotify adds &#8216;Exclusive Mode&#8217; audiophile feature for Windows PCs",
-          "link": "https://www.theverge.com/entertainment/896290/spotify-exclusive-mode-windows",
-          "summary": "Starting Tuesday, Spotify users will have access to \"Exclusive Mode,\" a new feature in the streaming service's Windows app that can help maximize audio quality by giving the Spotify app full control over your device's audio processing. According to Spotify, \"your computer may alter audio before it reaches your DAC by resampling it, mixing other system sounds in, and changing the volume.\" Turning on Exclusive Mode prevents this, which Spotify says allows for \"Bit Perfect playback.\" \nExclusive Mode is currently only available to Spotify Premium users on Windows, but Spotify says it will also be coming to the Mac app \"in a future release.\" To  …\nRead the full story at The Verge.",
-          "isoDate": "2026-03-17T19:33:29.000Z"
-        },
-        {
-          "title": "Arizona indicts prediction market Kalshi for running illegal gambling operation",
-          "link": "https://arstechnica.com/tech-policy/2026/03/arizona-indicts-prediction-market-kalshi-for-running-illegal-gambling-operation/",
-          "summary": "Desert state becomes first to file criminal case against prediction platform.",
-          "isoDate": "2026-03-17T19:28:26.000Z"
-        },
-        {
-          "title": "FDA links raw cheese to outbreak; Makers \"100% disagree,\" refuse recall",
-          "link": "https://arstechnica.com/health/2026/03/fda-links-raw-cheese-to-outbreak-makers-100-disagree-refuse-recall/",
-          "summary": "Of the seven illnesses identified so far, four are in children age 3 or younger.",
-          "isoDate": "2026-03-17T18:53:12.000Z"
-        },
-        {
-          "title": "Ikea tried to build a smart home for everyone — here&#8217;s why it&#8217;s not working yet",
-          "link": "https://www.theverge.com/tech/896006/ikea-matter-thread-smart-home-problems",
-          "summary": "Ikea’s new smart bulbs, sensors, and remotes use Matter-over-Thread to connect to any compatible ecosystem — including Apple Home and Amazon Alexa. In theory. | Photo by Jennifer Pattison Tuohy / The Verge\t\n\nIkea's new Matter-over-Thread products were supposed to prove that the smart home could be cheap, accessible, and reliable. The highly anticipated line - which includes sensors, remotes, smart plugs, air-quality monitors, and smart bulbs - has most everything you need to build a smart home, with prices starting at $6. It's an exciting idea, but it's still not ready for primetime.\nWhen I first got the Ikea devices in January, I had a lot of problems connecting them to my main platform, Apple Home. And it turned out I was not alone. Reddit forums and user reviews were full of reports of onboarding and connectivity issues. Many people were str …\nRead the full story at The Verge.",
-          "isoDate": "2026-03-17T18:45:14.000Z"
         }
       ]
     },
@@ -76,6 +76,36 @@
           "link": "https://science.nasa.gov/earth/earth-observatory/wave-of-dust-rolls-through-texas/",
           "summary": "An advancing cold front kicked up a sharp line of sand and other small particles that swept over the high plains.",
           "isoDate": "2026-03-18T04:01:00.000Z"
+        },
+        {
+          "title": "Author Correction: Autoimmune response to C9orf72 protein in amyotrophic lateral sclerosis",
+          "link": "https://www.nature.com/articles/s41586-026-10388-9",
+          "summary": "Nature, Published online: 18 March 2026; doi:10.1038/s41586-026-10388-9\nAuthor Correction: Autoimmune response to C9orf72 protein in amyotrophic lateral sclerosis",
+          "isoDate": "2026-03-18T00:00:00.000Z"
+        },
+        {
+          "title": "Publisher Correction: Atlas-guided discovery of transcription factors for T cell programming",
+          "link": "https://www.nature.com/articles/s41586-026-10382-1",
+          "summary": "Nature, Published online: 18 March 2026; doi:10.1038/s41586-026-10382-1\nPublisher Correction: Atlas-guided discovery of transcription factors for T cell programming",
+          "isoDate": "2026-03-18T00:00:00.000Z"
+        },
+        {
+          "title": "Major Turing computing award goes to quantum science for first time",
+          "link": "https://www.nature.com/articles/d41586-026-00818-z",
+          "summary": "Nature, Published online: 18 March 2026; doi:10.1038/d41586-026-00818-z\nTuring Award winners Gilles Brassard and Charles Bennett pioneered ideas that are now foundational to quantum computers and quantum communications.",
+          "isoDate": "2026-03-18T00:00:00.000Z"
+        },
+        {
+          "title": "AI set to map risks of future climate disasters",
+          "link": "https://www.nature.com/articles/d41586-026-00835-y",
+          "summary": "Nature, Published online: 18 March 2026; doi:10.1038/d41586-026-00835-y\nWarning systems can engage people on a personal level — if they are built in a way that bridges technology and social science.",
+          "isoDate": "2026-03-18T00:00:00.000Z"
+        },
+        {
+          "title": "Affordable mobility for all: why we need smaller, cheaper electric vehicles",
+          "link": "https://www.nature.com/articles/d41586-026-00779-3",
+          "summary": "Nature, Published online: 18 March 2026; doi:10.1038/d41586-026-00779-3\nA cross between e-bikes and electric cars, low-speed electric vehicles are easier to build and run and are greener than larger alternatives.",
+          "isoDate": "2026-03-18T00:00:00.000Z"
         },
         {
           "title": "Knock knock, no one’s there. Study finds scientists’ jokes mostly fall flat",
@@ -100,36 +130,6 @@
           "link": "https://www.nasa.gov/image-article/solving-asteroid-bennus-mysteries/",
           "summary": "These X-ray computed tomography (XCT) scans released on March 17, 2026, give us a glimpse inside asteroid Bennu. They show the most common types of crack networks observed in Bennu samples; these networks solved a mystery that baffled NASA for years. When NASA’s OSIRIS-REx spacecraft first approached asteroid Bennu in 2018, scientists expected to see smooth, sandy beach-like surfaces. Instead, they […]",
           "isoDate": "2026-03-17T14:40:29.000Z"
-        },
-        {
-          "title": "Asteroid Bennu’s Rugged Surface Baffled NASA, We Finally Know Why",
-          "link": "https://science.nasa.gov/missions/osiris-rex/asteroid-bennus-rugged-surface-baffled-nasa-we-finally-know-why/",
-          "summary": "In one of the biggest surprises of NASA’s OSIRIS-REx mission, its target asteroid, Bennu, turned out to be a jagged, rugged world covered in large boulders, with few of the smooth patches of sandy or pebbly material scientists had expected based on observations with Earth-based instruments. Bennu’s looks were quite deceiving, and until now, scientists struggled to figure out why.",
-          "isoDate": "2026-03-17T12:49:40.000Z"
-        },
-        {
-          "title": "Hail Yeah! NASA Researchers Use Volunteer Observations for Hail Estimates",
-          "link": "https://science.nasa.gov/get-involved/citizen-science/hail-yeah-nasa-researchers-use-volunteer-observations-for-hail-estimates/",
-          "summary": "The bigger the hailstone, the more damage it can cause. But scientists find that predicting hailstone size can be challenging. How quickly does hail melt as it falls?",
-          "isoDate": "2026-03-17T12:28:29.000Z"
-        },
-        {
-          "title": "A Bit of Gray on an Emerald Isle",
-          "link": "https://science.nasa.gov/earth/earth-observatory/a-bit-of-gray-in-an-emerald-isle/",
-          "summary": "Ireland is best known for its many greens, but the striking grays of the island’s Burren region also stand out in satellite images.",
-          "isoDate": "2026-03-17T04:01:00.000Z"
-        },
-        {
-          "title": "Planar Li deposition and dissolution enable practical anode-free pouch cells",
-          "link": "https://www.nature.com/articles/s41586-026-10402-0",
-          "summary": "Nature, Published online: 17 March 2026; doi:10.1038/s41586-026-10402-0\nPlanar Li deposition and dissolution enable practical anode-free pouch cells",
-          "isoDate": "2026-03-17T00:00:00.000Z"
-        },
-        {
-          "title": "Molecular basis of oocyte cytoplasmic lattice assembly",
-          "link": "https://www.nature.com/articles/s41586-026-10360-7",
-          "summary": "Nature, Published online: 17 March 2026; doi:10.1038/s41586-026-10360-7\nMolecular basis of oocyte cytoplasmic lattice assembly",
-          "isoDate": "2026-03-17T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-03-18T07:02:07.285Z"
+          "isoDate": "2026-03-18T13:12:18.154Z"
         },
         {
           "title": "Ad for AI editing app which said it could 'remove anything' banned ",
@@ -216,6 +216,12 @@
           "isoDate": "2026-03-17T20:35:44.000Z"
         },
         {
+          "title": "Measuring progress toward AGI: A cognitive framework",
+          "link": "https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/",
+          "summary": "We’re introducing a framework to measure progress toward AGI, and launching a Kaggle hackathon to build the relevant evaluations.",
+          "isoDate": "2026-03-17T16:03:47.000Z"
+        },
+        {
           "title": "Introducing GPT-5.4 mini and nano",
           "link": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
           "summary": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads.",
@@ -256,12 +262,6 @@
           "link": "https://openai.com/index/rakuten",
           "summary": "Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks.",
           "isoDate": "2026-03-11T13:00:00.000Z"
-        },
-        {
-          "title": "Designing AI agents to resist prompt injection",
-          "link": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
-          "summary": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows.",
-          "isoDate": "2026-03-11T11:30:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-03-18T07:02:09.575Z"
+          "isoDate": "2026-03-18T13:12:20.995Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 58\nChar: =",
-          "isoDate": "2026-03-18T07:02:08.722Z"
+          "isoDate": "2026-03-18T13:12:19.615Z"
         },
         {
           "title": "“Sensorveillance” Turns Ordinary Life Into Evidence",
