@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-19T02:11:08.826Z",
+  "generatedAt": "2026-03-19T06:58:06.841Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
@@ -72,6 +72,12 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "Australia’s “Red Centre” Turns Green",
+          "link": "https://science.nasa.gov/earth/earth-observatory/australias-red-centre-turns-green/",
+          "summary": "Abundant rainfall in February and March 2026 transformed the desert landscape of Central Australia.",
+          "isoDate": "2026-03-19T04:00:00.000Z"
+        },
+        {
           "title": "Curiosity Blog, Sols 4832–4837: Driving the (Contact) Line!",
           "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4832-4837-driving-the-contact-line/",
           "summary": "Written by Catherine O’Connell-Cooper, APXS Strategic Planner and Payload Uplink/Downlink Lead, University of New Brunswick, Canada Earth planning date: Friday, March 13, 2026 We are in our final phase of the boxwork campaign, investigating the contacts between the boxwork unit and the layered sulfate unit. As my colleague Bill reported here, last week we crossed […]",
@@ -124,12 +130,6 @@
           "link": "https://www.nature.com/articles/d41586-026-00891-4",
           "summary": "Nature, Published online: 18 March 2026; doi:10.1038/d41586-026-00891-4\nNew evidence reveals biochemical pathway behind quinine production.",
           "isoDate": "2026-03-18T00:00:00.000Z"
-        },
-        {
-          "title": "Integrated memristor for mitigating reverse-bias in perovskite solar cells",
-          "link": "https://www.nature.com/articles/s41586-026-10275-3",
-          "summary": "Nature, Published online: 18 March 2026; doi:10.1038/s41586-026-10275-3\nA memristor integrated into perovskite photovoltaics aims to mitigate the issues seen with reverse-bias degradation under partial shading.",
-          "isoDate": "2026-03-18T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-03-19T02:11:04.164Z"
+          "isoDate": "2026-03-19T06:58:03.648Z"
+        },
+        {
+          "title": "Child seen in sex abuse videos identified after researcher spots school badge",
+          "link": "https://www.bbc.com/news/articles/cvgj22e7qwyo?at_medium=RSS&at_campaign=rss",
+          "summary": "An analyst tells the BBC how she tracked down a victim of child sexual abuse after years of searching.",
+          "isoDate": "2026-03-19T03:21:12.000Z"
         },
         {
           "title": "Quantum pioneers win Turing Award for encryption breakthrough",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.com/news/articles/c5y41p0dy1wo?at_medium=RSS&at_campaign=rss",
           "summary": "The glitch meant logged-in users could view and edit other companies' details without their consent.",
           "isoDate": "2026-03-16T12:19:09.000Z"
-        },
-        {
-          "title": "Is this product 'human-made'? The race to establish an AI-free logo",
-          "link": "https://www.bbc.com/news/articles/cj0d6el50ppo?at_medium=RSS&at_campaign=rss",
-          "summary": "The backlash to the growing use of the tech has led to an explosion in attempts to come up with 'AI-Free' logo that could be used globally.",
-          "isoDate": "2026-03-16T00:32:50.000Z"
         }
       ]
     },
@@ -203,6 +203,18 @@
       "header": "160  INTELIGENCIA ARTIFICIAL",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Generative AI improves a wireless vision system that sees through obstructions",
+          "link": "https://news.mit.edu/2026/generative-ai-improves-wireless-vision-system-sees-through-obstructions-0319",
+          "summary": "With this new technique, a robot could more accurately detect hidden objects or understand an indoor scene using reflected Wi-Fi signals.",
+          "isoDate": "2026-03-19T04:00:00.000Z"
+        },
+        {
+          "title": "A better method for identifying overconfident large language models",
+          "link": "https://news.mit.edu/2026/better-method-identifying-overconfident-large-language-models-0319",
+          "summary": "This new metric for measuring uncertainty could flag hallucinations and help users know whether to trust an AI model.",
+          "isoDate": "2026-03-19T04:00:00.000Z"
+        },
         {
           "title": "Sustaining diplomacy amid competition in US-China relations",
           "link": "https://news.mit.edu/2026/sustaining-diplomacy-amid-us-china-competition-0318",
@@ -250,18 +262,6 @@
           "link": "https://news.mit.edu/2026/can-ai-help-predict-which-heart-failure-patients-will-worsen-0312",
           "summary": "Researchers at MIT, Mass General Brigham, and Harvard Medical School developed a deep-learning model to forecast a patient’s heart failure prognosis up to a year in advance.",
           "isoDate": "2026-03-12T21:30:00.000Z"
-        },
-        {
-          "title": "3 Questions: On the future of AI and the mathematical and physical sciences",
-          "link": "https://news.mit.edu/2026/3-questions-future-of-ai-and-mathematical-physical-sciences-0311",
-          "summary": "Professor Jesse Thaler describes a vision for a two-way bridge between artificial intelligence and the mathematical and physical sciences — one that promises to advance both.",
-          "isoDate": "2026-03-11T22:30:00.000Z"
-        },
-        {
-          "title": "New MIT class uses anthropology to improve chatbots",
-          "link": "https://news.mit.edu/2026/mit-class-uses-anthropology-to-improve-chatbots-0311",
-          "summary": "MIT computer science students design AI chatbots to help young users become more social, and socially confident.",
-          "isoDate": "2026-03-11T16:10:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-03-19T02:11:07.306Z"
+          "isoDate": "2026-03-19T06:58:05.429Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 58\nChar: =",
-          "isoDate": "2026-03-19T02:11:06.063Z"
+          "isoDate": "2026-03-19T06:58:04.863Z"
         },
         {
           "title": "ENIAC, the First General-Purpose Digital Computer, Turns 80",
