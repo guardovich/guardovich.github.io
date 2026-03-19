@@ -1,69 +1,69 @@
 {
-  "generatedAt": "2026-03-19T13:04:53.982Z",
+  "generatedAt": "2026-03-19T18:58:32.355Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
         {
-          "title": "Nothing Phone 4A Pro review: That flagship feeling",
-          "link": "https://www.theverge.com/tech/896626/nothing-phone-4a-pro-review-design-specs-battery-camera",
-          "summary": "The Phone 4A Pro looks like no Nothing phone before, while simultaneously looking like only a Nothing phone could.\t\n\nCEO Carl Pei says Nothing won't release a flagship phone this year. So instead we have the 4A Pro, a $499 phone that looks and feels higher-end than last year's flagship Phone 3, helped in large part by a new metal design.\nCompare the Phone 4A Pro to its immediate rivals, the Pixel 10A and iPhone 17E, and it looks impressive: a larger, brighter, and faster display; more cameras; and Nothing's unique design, including the Glyph Matrix rear display. But dig deeper, and the 4A Pro's compromises are revealed. \nNothing earns points for style, but unless you're particularly enamored of the bigger screen and bolder look, Apple and Google's phones …\nRead the full story at The Verge.",
-          "isoDate": "2026-03-19T13:00:00.000Z"
+          "title": "A rogue AI led to a serious security incident at Meta",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident",
+          "summary": "For almost two hours last week, Meta employees had unauthorized access to company and user data thanks to an AI agent that gave an employee inaccurate technical advice, as previously reported by The Information. Meta spokesperson Tracy Clayton said in a statement to The Verge that \"no user data was mishandled\" during the incident. \nA Meta engineer was using an internal AI agent, which Clayton described as \"similar in nature to OpenClaw within a secure development environment,\" to analyze a technical question another employee posted on an internal company forum. But the agent also independently publicly replied to the question after analyzin …\nRead the full story at The Verge.",
+          "isoDate": "2026-03-19T18:20:05.000Z"
         },
         {
-          "title": "Adobe’s AI image generator can now be trained on your own art",
-          "link": "https://www.theverge.com/tech/897243/adobe-firefly-ai-custom-models-image-public-beta",
-          "summary": "Just feed your images into the bot and it’ll try to mimic specific styles and aesthetics. | Image: Adobe\t\n\nAdobe is launching customizable AI image generators that can mimic specific artistic styles and character designs. The Firefly Custom Models are available in public beta starting today, allowing creators and brands to train a model on their own assets to ensure generated images follow a consistent aesthetic for characters, illustrations, and photography.\nThe tool aims to streamline workflows for teams and creators that need to produce high volumes of content, providing a reusable foundation that preserves visual consistency across multiple projects, instead of having to start from scratch each time. Adobe says that custom models can help pr …\nRead the full story at The Verge.",
-          "isoDate": "2026-03-19T13:00:00.000Z"
+          "title": "Microsoft’s go-to Xbox controller is selling at its best price of the year",
+          "link": "https://www.theverge.com/gadgets/897334/xbox-wireless-controller-pc-steam-deck-amazon-big-spring-sale-2026-deal",
+          "summary": "The white model is receiving the steepest discount, but the black version is less than $1 more. | Photo: Antonio G. Di Benedetto / The Verge\t\n\nMicrosoft’s Xbox console strategy needs work, but its Bluetooth-ready controller that shipped alongside the Xbox Series X and Series S is fantastic. We think it’s one of the best Xbox controllers out there, thanks to its comfortable design, multiplatform compatibility (it works great on the Steam Deck and PC, too), and its textured grips and triggers, which prevent your fingers from slipping during intense games.\nThankfully, the Xbox Wireless Controller is discounted in a couple of different colors in the lead-up to Amazon’s Big Spring Sale. The black version is currently available for the lowest price we’ve seen this year at Amazon, Walmart, and Target. Originally $64.99, it’s now just $43.49. The white version is $0.49 cents cheaper at Amazon and Walmart. There’s also a discount on a bundle that includes the black-colored model and a USB-C cable to connect it to a device of your choosing, eliminating the need for AA batteries. It costs $2 more, and you can buy it for $44.99 (down from $64.99) at Amazon.\nXbox Wireless Controller\nThe official Xbox Wireless Controller has a dedicated share button for saving clips and screenshots and sharing them online, Bluetooth support, and a USB-C port for charging up Microsoft’s play-and-charge rechargeable battery.\n\nWhere to Buy:\n\n $64.99 $43.49 at Amazon (black)\n $64.99 $43.49 at Walmart (black)\n $64.99 $43 at Amazon (white)\n\nThe Xbox controller is also a great Nintendo Switch 2 controller — hear me out! Instead of buying a costly Switch 2 Pro controller, you can buy 8BitDo’s $20 USB Adapter 2, plug it into your console’s dock, then easily connect the Xbox controller to it. It works in a pinch, though the adapter only supports one paired controller at a time.",
+          "isoDate": "2026-03-19T18:16:33.000Z"
         },
         {
-          "title": "Fitbit&#8217;s AI health coach will soon be able to read your medical records",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/897250/fitbits-ai-health-coach-reads-medical-records",
-          "summary": "Would you share your medical records with a personal trainer? How about a virtual one? Google, which this week announced it is giving Fitbit's AI health coach the ability to read your medical records, is hoping the answer is yes, following rivals like Amazon, OpenAI, and Microsoft in betting that users are willing to trade their most sensitive data in exchange for more personalized health advice. \nStarting next month in preview, US Fitbit users will be able to link their medical records to the Fitbit app. That medical data - such as lab results, medications, and visit history - will, alongside wearable data, help Fitbit's AI-powered health  …\nRead the full story at The Verge.",
-          "isoDate": "2026-03-19T12:27:23.000Z"
+          "title": "At the last minute, Meta decides not to kill Horizon Worlds VR after all",
+          "link": "https://arstechnica.com/gadgets/2026/03/at-the-last-minute-meta-decides-not-to-kill-horizon-worlds-vr-after-all/",
+          "summary": "VR will be on life support while mobile remains the focus, though.",
+          "isoDate": "2026-03-19T17:50:40.000Z"
         },
         {
-          "title": "The Download: Quantum computing for health, and why the world doesn’t recycle more nuclear waste",
-          "link": "https://www.technologyreview.com/2026/03/19/1134413/the-download-quantum-computing-health-recycling-nuclear-waste/",
-          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A $5 million prize awaits proof that quantum computers can solve health care problems  In a laboratory on the outskirts of Oxford, a quantum computer built from atoms and light awaits…",
-          "isoDate": "2026-03-19T12:17:02.000Z"
+          "title": "Afroman keeps trolling cops after winning “Lemon Pound Cake” defamation case",
+          "link": "https://arstechnica.com/tech-policy/2026/03/afroman-keeps-trolling-cops-after-winning-lemon-pound-cake-defamation-case/",
+          "summary": "Cops asked the jury for millions after Afroman used raid footage in music videos.",
+          "isoDate": "2026-03-19T17:45:28.000Z"
         },
         {
-          "title": "Uber to invest $1.25 billion in Rivian as part of new robotaxi deal",
-          "link": "https://www.theverge.com/transportation/897105/uber-rivian-robotaxi-investment-deal",
-          "summary": "Uber and Rivian are joining forces to deploy 50,000 fully autonomous robotaxis over the next several decades, the companies announced Thursday. As part of the deal, Uber will invest $1.25 billion in Rivian through 2031, contingent on Rivian meeting certain autonomy milestones, starting with an initial $300 million at signing. (The deal is still subject to regulatory approval.)\nThe news signals a big vote of confidence in Rivian's nascent autonomy efforts, which include designing its own custom AI chips to power Level 4 autonomous vehicles. Uber, meanwhile, has been on something of a robotaxi partnering spree, corralling a variety of compani …\nRead the full story at The Verge.",
-          "isoDate": "2026-03-19T12:00:00.000Z"
+          "title": "All the wrong EVs are getting canceled",
+          "link": "https://www.theverge.com/transportation/897399/all-the-wrong-evs-are-getting-cancelled",
+          "summary": "A Tesla Cybertruck gleaming in the lot of the Tesla showroom in North Hollywood, Los Angeles, on March 29, 2025. | Photo by Simone Lueck / The Verge\t\n\nThese past few weeks have been particularly brutal for the EV industry - and anyone who believes that electric vehicles are the future. Thanks to slowing demand and policy whiplashes, automakers are on an EV murder spree, killing a host of promising new models. The EV graveyard grows bigger by the minute. \nAnd unfortunately, as is often the case, much of the focus seems to be on affordable models that had the potential to attract new customers. Meanwhile, ugly EVs that cost too much and do nothing to move the needle on EV adoption continue to darken our highways. \nFirst, the cheap ones whose bodies have not yet gone cold. The Volvo EX30, a …\nRead the full story at The Verge.",
+          "isoDate": "2026-03-19T17:44:12.000Z"
         },
         {
-          "title": "TCL’s German QLED ban puts pressure on TV brands to be more honest about QDs",
-          "link": "https://arstechnica.com/gadgets/2026/03/tcls-german-qled-ban-puts-pressure-on-tv-brands-to-be-more-honest-about-qds/",
-          "summary": "\"This is a serious warning shot.\"",
-          "isoDate": "2026-03-19T11:00:46.000Z"
+          "title": "Google details new 24-hour process to sideload unverified Android apps",
+          "link": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
+          "summary": "The \"advanced flow\" will be available before verification enforcement begins later this year.",
+          "isoDate": "2026-03-19T17:28:26.000Z"
         },
         {
-          "title": "A $5 million prize awaits proof that quantum computers can solve health care problems",
-          "link": "https://www.technologyreview.com/2026/03/19/1134409/a-5-million-prize-awaits-proof-that-quantum-computers-can-solve-health-care-problems/",
-          "summary": "I’m standing in front of a quantum computer built out of atoms and light at the UK’s National Quantum Computing Centre on the outskirts of Oxford. On a laboratory table, a complex matrix of mirrors and lenses surrounds a Rubik’s Cube–size cell where 100 cesium atoms are suspended in grid formation by a carefully manipulated…",
-          "isoDate": "2026-03-19T10:51:43.000Z"
+          "title": "Prediction markets are trying to lure journalists with partnership deals",
+          "link": "https://www.theverge.com/news/897388/kalshi-polymarket-journalists-partnership-deals",
+          "summary": "Prediction markets are working to ingratiate themselves with mainstream news and culture: The Golden Globes broadcast in January was plastered with Polymarket odds, the AP is licensing election data to Kalshi, and a partnership between Polymarket and Substack means more prediction market data in newsletters.\nSome prediction market exchanges are now attempting to strike deals with individual reporters. Rick Ellis, an independent entertainment journalist who runs AllYourScreens.com and writes a newsletter on Substack about TV and streaming, told The Verge he received an offer this week.\nThe deal involved producing two stories a week based on …\nRead the full story at The Verge.",
+          "isoDate": "2026-03-19T17:00:42.000Z"
         },
         {
-          "title": "Why the world doesn’t recycle more nuclear waste",
-          "link": "https://www.technologyreview.com/2026/03/19/1134399/nuclear-waste-reprocessing/",
-          "summary": "The prospect of making trash useful is always fascinating to me. Whether it’s used batteries, solar panels, or spent nuclear fuel, getting use out of something destined for disposal sounds like a win all around. In nuclear energy, figuring out what to do with waste has always been a challenge, since the material needs to…",
-          "isoDate": "2026-03-19T10:00:00.000Z"
+          "title": "Google reveals its solution for true Android sideloading: a mandatory waiting period",
+          "link": "https://www.theverge.com/tech/897420/android-sideloading-unverified-developers-process",
+          "summary": "Google has revealed the \"advanced flow\" that will be required to install certain Android apps once the company introduces mandatory developer verification later this year. The company had initially announced that it would no longer be possible to install apps from unverified developers, and the process announced today is its concession to critics who accused it of killing off app sideloading and making Android less open.\nThe good news is the new advanced flow is a one-off process that won't need to be repeated every time a user wants to sideload an app; the bad news is that part of that process includes a mandatory one-day waiting period. \nRead the full story at The Verge.",
+          "isoDate": "2026-03-19T17:00:33.000Z"
         },
         {
-          "title": "Trump is threatening international students, and a new bill could help stop him",
-          "link": "https://www.theverge.com/policy/897097/opt-bill-international-student-visas",
-          "summary": "Department of Homeland Security. | Image: The Verge\t\n\nA bipartisan duo is pushing back on President Donald Trump's attempts to end a program that lets hundreds of thousands of foreign students work in the US for a year after graduation. Reps. Sam Liccardo (D-CA) and Jay Obernolte (R-CA) introduced a bill that would codify Optional Practical Training (OPT), which allows international students to work in their field of study for 12 months, with extensions of up to 24 months for STEM students. \nOPT was introduced in 1992 and functions as a sort of bridge between student visas, or F-1s, and H-1Bs, the visa category issued to foreign nationals who work for US companies. But OPT is now under threat  …\nRead the full story at The Verge.",
-          "isoDate": "2026-03-19T09:00:00.000Z"
+          "title": "Despite hardware limits, Parallels supports running Windows on MacBook Neo",
+          "link": "https://arstechnica.com/gadgets/2026/03/despite-hardware-limits-parallels-supports-running-windows-on-macbook-neo/",
+          "summary": "\"8GB unified memory is the minimum practical configuration.\"",
+          "isoDate": "2026-03-19T16:50:10.000Z"
         },
         {
-          "title": "Kagi Translate's AI answers the question \"What would horny Margaret Thatcher say?\"",
-          "link": "https://arstechnica.com/ai/2026/03/kagi-translates-ai-answers-the-question-what-would-horny-margaret-thatcher-say/",
-          "summary": "Remember when it was fun to play around with LLMs?",
-          "isoDate": "2026-03-18T22:06:32.000Z"
+          "title": "Meta is actually keeping its VR metaverse running, for now",
+          "link": "https://www.theverge.com/tech/897396/meta-vr-horizon-worlds-metaverse-andrew-bosworth",
+          "summary": "Meta is reversing its plans to shut down its VR metaverse - sort of.\nOn Monday, the company announced that it would be shutting down the VR version of its 3D social platform Horizon Worlds on June 15th in favor of a new focus on the mobile version of the app. But in a Wednesday AMA on his Instagram, Meta CTO Andrew Bosworth said the company has decided that existing VR worlds would remain available and that the Horizon Worlds VR app will be available to download \"for the foreseeable future.\"\nMeta is keeping VR Horizon Worlds experiences around as a way to support \"the fans who reached out, like yourself, who really care about that,\" Boswor …\nRead the full story at The Verge.",
+          "isoDate": "2026-03-19T16:36:21.000Z"
         }
       ]
     },
@@ -72,10 +72,52 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "American Bald Eagle at NASA’s Kennedy Space Center",
+          "link": "https://www.nasa.gov/image-article/american-bald-eagle-at-nasas-kennedy-space-center/",
+          "summary": "An American bald eagle flies away from its nest and tree at NASA’s Kennedy Space Center in Florida on Friday, March 13, 2026. Bald eagle nesting surveys across NASA Kennedy, Merritt Island National Wildlife Refuge, and Canaveral National Seashore are conducted annually to document the number of bald eagle active and inactive nests in support […]",
+          "isoDate": "2026-03-19T15:16:25.000Z"
+        },
+        {
+          "title": "How NASA is Collecting Explosion Data for Next Generation Rockets",
+          "link": "https://www.nasa.gov/centers-and-facilities/stennis/collecting-explosion-data-for-next-generation-rockets/",
+          "summary": "Commercial launch providers continue to advance propulsion technology with a renewed focus on liquid oxygen and methane propelled rockets and spacecraft. As systems grow in scale, carrying millions of pounds of propellant, so too does the responsibility to fully understand the safety profile. Engineers at NASA, with decades of cryogenic and test operations expertise, are […]",
+          "isoDate": "2026-03-19T15:13:24.000Z"
+        },
+        {
+          "title": "NASA Laser Reflecting Instrument Makes GPS Satellite More Accurate",
+          "link": "https://science.nasa.gov/centers-and-facilities/goddard/nasa-laser-reflecting-instrument-makes-gps-satellite-more-accurate/",
+          "summary": "A NASA laser reflecting technology that will aid Global Positioning System (GPS) accuracy is now operational as of March 9. The instrument, known as a laser retroreflector array, or LRA, launched aboard GPS III SV-09, the ninth of U.S. Space Force’s Block III Global Positioning System satellites, on Jan. 27. LRAs are sets of mirrors […]",
+          "isoDate": "2026-03-19T15:00:00.000Z"
+        },
+        {
+          "title": "NASA to Cover Progress 94 Spacecraft Launch, Space Station Docking",
+          "link": "https://www.nasa.gov/news-release/nasa-to-cover-progress-94-spacecraft-launch-space-station-docking/",
+          "summary": "NASA will provide live coverage of the launch and docking of a Roscosmos cargo spacecraft carrying about three tons of food, fuel, and supplies for the crew aboard the International Space Station. The unpiloted Roscosmos Progress 94 resupply spacecraft is scheduled to launch at 7:59 a.m. EDT (4:59 p.m. Baikonur time) Sunday, March 22, on […]",
+          "isoDate": "2026-03-19T14:15:03.000Z"
+        },
+        {
+          "title": "Meet the Platypi: NASA’s Newest Astronaut Candidate Class ",
+          "link": "https://www.nasa.gov/centers-and-facilities/johnson/meet-the-platypi-nasas-newest-astronaut-candidate-class/",
+          "summary": "Ten explorers are currently training at NASA’s Johnson Space Center in Houston to become flight-eligible astronauts.  Selected in 2025, the astronaut candidates are building the technical and operational skills needed for future missions to the International Space Station, the Moon, and eventually Mars. Now, NASA’s newest astronaut candidates have a class name: the Platypi.  The name was selected […]",
+          "isoDate": "2026-03-19T13:00:00.000Z"
+        },
+        {
+          "title": "NASA’s Roman Observatory Passes Final Major Prelaunch Tests",
+          "link": "https://www.nasa.gov/universe/nasas-roman-observatory-passes-final-major-prelaunch-tests/",
+          "summary": "NASA’s Nancy Grace Roman Space Telescope team recently blasted the observatory with extreme sound, shook it, and listened to its electronic hum. Roman passed all three assessments, which aimed to confirm that the observatory will withstand launch conditions and function as expected in space. The achievement keeps the mission on track for launch as early […]",
+          "isoDate": "2026-03-19T12:55:00.000Z"
+        },
+        {
           "title": "Australia’s “Red Centre” Turns Green",
           "link": "https://science.nasa.gov/earth/earth-observatory/australias-red-centre-turns-green/",
           "summary": "Abundant rainfall in February and March 2026 transformed the desert landscape of Central Australia.",
           "isoDate": "2026-03-19T04:00:00.000Z"
+        },
+        {
+          "title": "Editorial Expression of Concern: A FADD-dependent innate immune mechanism in mammalian cells",
+          "link": "https://www.nature.com/articles/s41586-026-10397-8",
+          "summary": "Nature, Published online: 19 March 2026; doi:10.1038/s41586-026-10397-8\nEditorial Expression of Concern: A FADD-dependent innate immune mechanism in mammalian cells",
+          "isoDate": "2026-03-19T00:00:00.000Z"
         },
         {
           "title": "UK bets big on homegrown fusion and quantum — can it lead the world?",
@@ -84,52 +126,10 @@
           "isoDate": "2026-03-19T00:00:00.000Z"
         },
         {
-          "title": "Seeking an industry role? Sell yourself as a problem-solver, not a job-seeker",
-          "link": "https://www.nature.com/articles/d41586-026-00548-2",
-          "summary": "Nature, Published online: 19 March 2026; doi:10.1038/d41586-026-00548-2\nA mindset change can make career pivots from academia more straightforward, says Gertrude Nonterah.",
+          "title": "China could be the world’s biggest public funder of science within two years",
+          "link": "https://www.nature.com/articles/d41586-026-00618-5",
+          "summary": "Nature, Published online: 19 March 2026; doi:10.1038/d41586-026-00618-5\nForecast by science-policy researchers raises questions about where the epicentre of global research will shift to in the coming decade.",
           "isoDate": "2026-03-19T00:00:00.000Z"
-        },
-        {
-          "title": "Mathematician who reshaped number theory wins prestigious Abel prize",
-          "link": "https://www.nature.com/articles/d41586-026-00819-y",
-          "summary": "Nature, Published online: 19 March 2026; doi:10.1038/d41586-026-00819-y\nMathematician Gerd Faltings showed that arithmetic equations have a finite number of solutions.",
-          "isoDate": "2026-03-19T00:00:00.000Z"
-        },
-        {
-          "title": "Masked mitochondria slip into cells to treat disease in mice",
-          "link": "https://www.nature.com/articles/d41586-026-00869-2",
-          "summary": "Nature, Published online: 19 March 2026; doi:10.1038/d41586-026-00869-2\nTransplantation technique lengthened survival in animals with an often-fatal mitochondrial disease.",
-          "isoDate": "2026-03-19T00:00:00.000Z"
-        },
-        {
-          "title": "Curiosity Blog, Sols 4832–4837: Driving the (Contact) Line!",
-          "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4832-4837-driving-the-contact-line/",
-          "summary": "Written by Catherine O’Connell-Cooper, APXS Strategic Planner and Payload Uplink/Downlink Lead, University of New Brunswick, Canada Earth planning date: Friday, March 13, 2026 We are in our final phase of the boxwork campaign, investigating the contacts between the boxwork unit and the layered sulfate unit. As my colleague Bill reported here, last week we crossed […]",
-          "isoDate": "2026-03-18T19:16:35.000Z"
-        },
-        {
-          "title": "Lava Flows Down Mayon",
-          "link": "https://www.nasa.gov/image-article/lava-flows-down-mayon/",
-          "summary": "The OLI (Operational Land Imager) on Landsat 8 acquired this rare, relatively clear image of  Mayon, the most active volcano in the Philippines, on Feb. 26, 2026. The natural-color scene is overlaid with infrared observations to highlight the lava’s heat signature. On that day, the Philippine Institute of Volcanology and Seismology (PHIVOLCS) reported volcanic earthquakes, rockfalls, and hot clouds of ash […]",
-          "isoDate": "2026-03-18T15:19:59.000Z"
-        },
-        {
-          "title": "From Service to Space Systems: A Pathways Journey to NASA",
-          "link": "https://www.nasa.gov/general/from-service-to-space-systems-a-pathways-journey-to-nasa/",
-          "summary": "For Corey Elmore, the path to NASA’s Kennedy Space Center did not begin in engineering. It began in service. Today he serves as a NASA Pathways engineering intern in the Technical Processes and Tools Branch (KSC-NE-TA) at Kennedy Space Center. Through the Pathways program, he is gaining hands-on experience supporting the engineering environments, technical tools […]",
-          "isoDate": "2026-03-18T15:06:08.000Z"
-        },
-        {
-          "title": "Widely Attended Gatherings (WAGs) Determinations",
-          "link": "https://www.nasa.gov/organizations/nasa-ethics-advice-for-widely-attended-gatherings-wags/",
-          "summary": "2026 Maryland Space Business Roundtable (MSBR) 3.26.26 SIA_27th Annual Leadership Dinner 3.23.26 2026 Artemis Suppliers Conference 3.23-25.26 Ansys Government Initiatives Event_AGI 3.19.26 Homeland Security Week 3.17-18.26 Amazon Smithsonian and Space for Humanity Event 3.16.26 HLSR_NASA Night at the Rodeo 3.7.26 WIF Leadership Luncheon 3.4.26 2026 National Space Club Florida Committee Monthly Luncheon Space Policy Institute […]",
-          "isoDate": "2026-03-18T14:08:31.000Z"
-        },
-        {
-          "title": "NASA’s Hubble Unexpectedly Catches Comet Breaking Up",
-          "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-unexpectedly-catches-comet-breaking-up/",
-          "summary": "In a happy twist of fate, NASA’s Hubble Space Telescope just witnessed a comet in the act of breaking apart. The chance of that happening while Hubble watched is extraordinarily minuscule. The findings published Wednesday in the journal Icarus. The comet K1, whose full name is C/2025 K1 (ATLAS)—not to be confused with interstellar comet […]",
-          "isoDate": "2026-03-18T14:00:36.000Z"
         }
       ]
     },
@@ -141,7 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-03-19T13:04:50.410Z"
+          "isoDate": "2026-03-19T18:58:27.050Z"
+        },
+        {
+          "title": "Facebook offering TikTok and YouTube creators $3,000 to post content",
+          "link": "https://www.bbc.com/news/articles/c895wwp3kqlo?at_medium=RSS&at_campaign=rss",
+          "summary": "Meta wants creators to \"rediscover\" Facebook, but a social media expert says viewers will not follow.",
+          "isoDate": "2026-03-19T15:33:22.000Z"
         },
         {
           "title": "US messageboard 4Chan mocks £520,000 fine for UK online safety breaches",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.com/news/articles/cdxg15eyv5ko?at_medium=RSS&at_campaign=rss",
           "summary": "Nvidia says the tool will transform game graphics - critics warn it could squeeze out artistic expression.",
           "isoDate": "2026-03-17T14:12:13.000Z"
-        },
-        {
-          "title": "AI firm Anthropic seeks weapons expert to stop users from 'misuse'",
-          "link": "https://www.bbc.com/news/articles/c74721xyd1wo?at_medium=RSS&at_campaign=rss",
-          "summary": "The artificial intelligence firm says it wants to prevent \"catastrophic misuse\" of its systems.",
-          "isoDate": "2026-03-17T00:08:32.000Z"
         }
       ]
     },
@@ -203,6 +203,12 @@
       "header": "160  INTELIGENCIA ARTIFICIAL",
       "maxItems": 10,
       "items": [
+        {
+          "title": "How we monitor internal coding agents for misalignment",
+          "link": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+          "summary": "How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks and strengthen AI safety safeguards.",
+          "isoDate": "2026-03-19T10:00:00.000Z"
+        },
         {
           "title": "Generative AI improves a wireless vision system that sees through obstructions",
           "link": "https://news.mit.edu/2026/generative-ai-improves-wireless-vision-system-sees-through-obstructions-0319",
@@ -240,15 +246,15 @@
           "isoDate": "2026-03-17T16:03:47.000Z"
         },
         {
-          "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
-          "link": "https://openai.com/index/japan-teen-safety-blueprint",
-          "summary": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.",
-          "isoDate": "2026-03-17T10:00:00.000Z"
-        },
-        {
           "title": "Introducing GPT-5.4 mini and nano",
           "link": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
           "summary": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads.",
+          "isoDate": "2026-03-17T10:00:00.000Z"
+        },
+        {
+          "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
+          "link": "https://openai.com/index/japan-teen-safety-blueprint",
+          "summary": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.",
           "isoDate": "2026-03-17T10:00:00.000Z"
         },
         {
@@ -256,12 +262,6 @@
           "link": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
           "summary": "New research shows Americans send nearly 3 million daily messages to ChatGPT asking about compensation and earnings, helping close the wage information gap.",
           "isoDate": "2026-03-17T00:00:00.000Z"
-        },
-        {
-          "title": "Why Codex Security Doesn’t Include a SAST Report",
-          "link": "https://openai.com/index/why-codex-security-doesnt-include-sast",
-          "summary": "A deep dive into why Codex Security doesn’t rely on traditional SAST, instead using AI-driven constraint reasoning and validation to find real vulnerabilities with fewer false positives.",
-          "isoDate": "2026-03-16T00:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-03-19T13:04:52.499Z"
+          "isoDate": "2026-03-19T18:58:30.429Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 58\nChar: =",
-          "isoDate": "2026-03-19T13:04:51.819Z"
+          "isoDate": "2026-03-19T18:58:28.343Z"
+        },
+        {
+          "title": "Nigerian Firms Embrace Kit-Based EV Assembly for Cost Savings",
+          "link": "https://spectrum.ieee.org/ev-nigeria",
+          "summary": "A growing number of Nigerian companies are turning to kit-based assembly to bring electric vehicles to market in Africa. Lagos-based Saglev Micromobility Nigeria recently partnered with Dongfeng Motor Corporation, in Wuhan, China, to assemble 18-seat electric passenger vans from imported kits.\nKit-based assembly allows Nigerian firms to reduce costs, create jobs, and develop local technical expertise—key steps toward expanding EV access. Fully assembled and imported EVs face high tariffs that put them out of reach for many African consumers, whereas kit-based approaches make electric mobility more affordable today. Saglev’s initiative reflects a broader trend: CIG Motors, NEV Electric, and regional players in Cote D’Ivoire, Ghana, and Kenya are also leveraging imported kits to build local EV ecosystems, signaling that parts of West Africa are intent on catching up with global electrification efforts.\n\n\nExpanding the Local EV Ecosystem\nCIG Motors operates a kit-assembly plant in Lagos producing vehicles from Chinese automakers GAC Motor and Wuling Motors. These vehicles include the Wuling Bingo, a compact five-door electric hatchback, and the Hongguang Mini EV Macaron, a microcar with roughly 200 kilometers of range aimed at ride-share operators looking for ultralow-cost urban transport. NEV Electric focuses on electric buses and three-wheelers for urban transit and last-mile delivery.\nSaglev’s CEO, Olu Faleye, emphasizes that Nigeria’s EV transition addresses both practical economic needs in addition to environmental goals. Beyond passenger transport, electric vehicles could help reduce one of Nigeria’s persistent agricultural challenges: post-harvest spoilage. Nigeria loses an estimated 30–40 million tonnes of food annually because of weak logistics and limited refrigeration infrastructure, according to the Organization for Technology Advancement of Cold Chain in West Africa.\nElectric vans, mini-trucks, and three-wheel cargo vehicles could help close this gap because their batteries can power refrigeration systems during transport without relying on costly diesel fuel. As EV adoption grows and charging infrastructure expands, temperature-controlled transport could become more affordable, reducing spoilage, improving farmer incomes, and helping stabilize food supplies, the organization says.\n“I don’t believe that the promised land is making a fully built EV on the ground here.” \n–Olu Faleye, Saglev CEO\nBeyond Nigeria, Mombasa, Kenya–based Associated Vehicle Assemblers has begun assembling electric taxis and minibuses from imported kits, and Ghana’s government is spurring kit-car assembly there under its national Automotive Development Plan. In Ghana, assemblers benefit from import-duty exemptions on kits and equipment, corporate tax breaks, and access to industrial infrastructure. Saglev is already availing itself of those benefits, at its kit-assembly plant in Accra. The company says it also plans to expand its assembly operations to Cote D’Ivoire. \n\n\nInfrastructure Challenges and Workarounds\nDespite these signs that West Africa’s EV ecosystem is gaining traction, limited grid reliability and sparse public charging infrastructure remain major barriers to widespread EV adoption. Urban households in Nigeria experience roughly six or seven blackouts per week, each lasting about 12 hours, according to Nigeria’s National Bureau of Statistics. That’s more downtime each day than the average U.S. household experiences in a year. More than 40 percent of households rely on generators, which supply about 44 percent of residential electricity, according to research by Stears and Sterling Bank.\nMany early EV adopters therefore charge vehicles using gasoline or diesel generators. Faleye notes that Nigerians have long relied on such workarounds and expects fossil fuels to remain part of the EV charging equation for the foreseeable future—at least until falling costs for solar panels and battery storage make cleaner charging viable.\nHe acknowledges that charging EVs using hydrocarbons is fraught from an environmental perspective, but he points out that the practice at least brings other benefits of EVs, including lower maintenance costs and the EVs’ synergies with refrigeration and transportation logistics. And he points to a 2020 peer-reviewed study in the journal Environmental and Climate Technologies that compared the overall efficiency of internal combustion vehicles and electric vehicles across the full well-to-wheel energy chain. The study’s conclusion: Even after accounting for conversion losses, generating electricity with a diesel or gasoline generator to power an electric vehicle can remain just as efficient overall as burning the same fuel directly in a vehicle’s internal combustion engine.\n\n\nScalable EV Adoption in Nigeria\nThe approach taken by Saglev and other Nigerian kit-car builders shows how local assembly can advance EV adoption even where infrastructure remains unreliable. By starting with kits, companies can deploy practical electric mobility solutions now while building the supply chains and technical expertise needed for more resource-intensive localized production.\nStill, when asked whether Saglev plans to eventually move beyond kit assembly to independent design and manufacturing of EVs, Faleye calls such a move impractical.\n“I don’t believe that the promised land is making a fully built EV on the ground here,” he says. “For me to do efficient vehicle manufacturing, I’d need a lot of robotics and 3D printing. That expense is unnecessary—it would just increase costs and make EVs more expensive.”\nIn a country where electricity can disappear for days, Nigeria’s kit-based EV strategy highlights a practical truth: incremental progress and ingenuity may matter more than perfect infrastructure. For Saglev, every kit-based vehicle rolling off the line is not just a van or bus—it’s a step toward an EV ecosystem that works for Nigeria’s realities today.",
+          "isoDate": "2026-03-19T14:45:05.000Z"
         },
         {
           "title": "How Your Virtual Twin Could One Day Save Your Life",
@@ -310,12 +316,6 @@
           "link": "https://spectrum.ieee.org/polymer-blend-capacitor",
           "summary": "As electronics demand higher energy density, one component has proved challenging to shrink: the capacitor. Making a smaller capacitor usually requires thinning the dielectric layer or electrode surface area, which has often resulted in a reduction of power. A new polymer material could help change that.\nIn a study published 18 February in Nature, a Pennsylvania State University-led team reported a capacitor crafted from a polymer blend that can operate at temperatures up to 250 °C while storing roughly four times as much energy as conventional polymer capacitors. Today’s advanced polymer capacitors typically function only up to about 100 °C, meaning engineers often rely on bulky cooling systems in high-power electronics. The research team has filed a patent for the polymer capacitors and plans to bring them to market.\nCapacitors deliver rapid bursts of energy and stabilize voltage in circuits, making them essential in applications ranging from electric vehicles and aerospace electronics to power-grid infrastructure and AI data centers. Yet while transistors have steadily shrunk with advances in semiconductor manufacturing, passive components such as capacitors and inductors have not scaled at the same pace.\n“Capacitors can account for 30 to 40 percent of the volume in some power electronics systems,” says Qiming Zhang, an electrical engineering researcher at Penn State and study author, explaining why it’s important to make smaller capacitors.\nA plastics blend more powerful than its parts\nThe research team combined two commercially available engineered plastics: polyetherimide (PEI), originally developed by General Electric and widely used in industrial equipment, and PBPDA, known for strong heat resistance and electrical insulation. When processed together under controlled conditions, the polymers self-assemble into nanoscale structures that form thin dielectric films inside capacitors. Those structures help suppress electrical leakage while allowing the material to polarize strongly in an electric field, allowing greater energy storage.\nThe resulting material exhibits an unusually high dielectric constant—a measure of how much electrical energy a material can store. Most polymer dielectrics have values around four, but the blended polymer dielectric in the new work had a value of 13.5.\n“If you look at the literature up to now, no one has reached this level of dielectric constant in this type of polymer system,” Zhang says. “Putting two commonly used polymers together and seeing this kind of performance was a surprise to many people.”\nBecause the material can remain operational even at elevated temperatures—such as those from extreme environmental heat or hot spots in densely built components—capacitors built from this polymer could potentially store the same amount of energy in a smaller package. \n“With this material, you can make the same device using about [one-fourth as much] material,” Zhang says. “Because the polymers themselves are inexpensive, the cost does not increase. At the same time, the component can become smaller and lighter.”\nHow the polymer mix improves capacitors\nThe researchers’ finding is “a big advancement,” says Alamgir Karim, a polymer research director at the University of Houston who was not involved in the Penn State development. “Normally when you mix polymers, you don’t expect the dielectric constant to increase.”\nKarim says the effect likely arises from nanoscale interfaces created when the polymers partially separate. “At about a 50–50 mixture, the polymers don’t fully mix and instead create a very large interfacial area,” he says. “Those interfaces may be where the unusual electrical behavior comes from.”\nIf the material can be produced at scale, it could help address a key bottleneck in high-power electronics. Higher-temperature capacitors could reduce cooling requirements and allow engineers to pack more power into smaller systems—an advantage for aerospace platforms, electric vehicles, the electric grid, and other high-temperature environments.\nBut translating the concept from laboratory methods to commercial manufacturing may present challenges, says Zongliang Xie, a postdoctoral researcher at the Lawrence Berkeley National Laboratory. The Penn State team is now producing small dielectric films, but industrial capacitor manufacturing typically requires continuous rolls of material that can extend for kilometers.\n“Industry generally prefers extrusion-based processing because it’s easier and cheaper to control,” Xie says. “Scaling to produce great lengths of film while maintaining the same structure and performance could complicate matters. There’s potential, but it’s also challenging.”\nStill, researchers say the discovery demonstrates that new performance limits may still be unlocked using familiar materials. “Developing the material is only the first step,” Zhang says. “But it shows people that this barrier can be broken.”",
           "isoDate": "2026-03-17T12:00:08.000Z"
-        },
-        {
-          "title": "Wanted: Europe’s Missing Cloud Provider",
-          "link": "https://spectrum.ieee.org/europe-cloud-sovereignty",
-          "summary": "Looming over the internet lasers and firestarting phones companies were touting at Mobile World Congress in Barcelona this month, was a more nebulous but much larger announcement: a pan-European cloud called EURO-3C.\nEURO-3C’s backers – Spanish telecoms giant Telefónica, dozens of other European companies, and the European Commission (EC) – aim to fill a gap. U.S.-based cloud giants dominate in the EU, and European policymakers want their growing portfolio of digital government services on a “sovereign cloud” under full EU control.\nBut the EU lacks a real equivalent to the likes of AWS or Microsoft Azure. Indeed, any effort to build one will inevitably run up against the same U.S. cloud giants.\nJust four U.S.-based hyperscalers – AWS, Microsoft Azure, Google Cloud, and IBM Cloud – together account for some 70 percent of EU cloud services. This is despite the fact that the 2018 U.S. CLOUD Act allows U.S. federal law enforcement – at least in theory – to compel U.S.-based firms to hand over data that’s stored abroad. \nWho do you trust?\nBut those hypothetical risks to digital services have become more real as transatlantic relations have soured under the second Trump administration. The U.S. has openly threatened to invade an EU member state and sanctioned a European Commissioner for passing legislation the White House dislikes. \nAfter the White House sanctioned the Netherlands-based International Criminal Court in February 2025, Court staffers claimed Microsoft locked the Court’s chief prosecutor out of his email (Microsoft has denied this). Around the same time, the U.S. reportedly threatened to sever EU ally Ukraine’s access to crucial Starlink satellite internet as leverage during trade negotiations.\n“The geopolitical risk isn’t just the most extreme form of a doomsday ‘kill switch’ where Washington turns off Europe’s internet,” Stéfane Fermigier of EuroStack, an industry group that supports European digital independence. “It is the selective degradation of services and a total lack of retaliatory leverage.”\nWhat, then, is the EU to do? France offers an example. Even before 2025, France implemented harsh restrictions on non-EU cloud providers in public services – providers must locate data in the EU, rely on EU-based staff, and may not have majority-non-EU shareholders. Now, EU policymakers are following France’s lead.\nIn October 2025, the EC issued a two-part framework for judging cloud providers bidding for public sector contracts. In the first part, the framework lays out a sort of sovereignty ladder. The more that a provider is subject to EU law, the higher its sovereignty level on this ladder. Any prospective bidder must first meet a certain level, depending on the tender.\nQualifying bidders then move to the second part, where their “sovereignty” is scored in more detail. Using too much proprietary software; over-relying on supply chains from outside the EU; having non-EU support staff; liability to non-EU laws like the CLOUD Act: all hurt a bidder’s score. \nThe framework was created for one tender, but observers say it sets a major precedent. Cloud providers bidding for state contracts across Europe may need to follow it, and it may influence legislation on both national and EU-wide levels.\nA question of scale\nWho, then, will receive high marks? At the moment, the answer is not simple. The EU cloud scene is quite fragmented. Numerous modest EU providers offer “sovereign cloud” services – such as Scaleway, OVHcloud, and Deutsche Telekom’s T-Systems – but none are on the scale of AWS or Google Cloud.\nInertia is on the side of the U.S. cloud giants, who can invest in their infrastructure and services on a far grander scale than their European counterparts. Some U.S. providers now offer cloud services they say comply with the Commission’s “cloud sovereignty” demands.\nSome European observers, like EuroStack, say such promises are hollow so long as a provider’s parent company is subject to the likes of the CLOUD Act, and loopholes in the Commission’s process remain open. An AWS spokesperson told Spectrum it had not disclosed any non-US enterprise or government data to the U.S. government under the CLOUD Act; a Google spokesperson said that its most sensitive EU offerings “are subject to local laws, not US law”.\nEven if a project like EURO-3C can offer a large-scale alternative, the US cloud giants have another sort of inertia. Many developers – and many public purchasers of their services – will need convincing to leave behind a familiar environment.\n“If you look at AWS, you look at Google, they’ve created some super technology. It’s very convenient, it’s easy to use,” says Arnold Juffer, CEO of the Netherlands-based cloud provider Nebul. “Once you’re in that platform, in that ecosystem, it’s very hard to get out.”\nMartyna Chmura, an analyst at the Bloomsbury Intelligence and Security Institute, a London-based think tank, sees some EU developers taking a mixed approach. “Many organizations are already moving toward multi-cloud setups, using European or sovereign providers for sensitive workloads while still relying on hyperscalers for certain services,” she says.\nIn that case, the EU’s top-down demands may encourage developers to use EU providers for sensitive applications – like government services, transport, autonomous vehicles, and some industrial automation – even if it’s inconvenient in the short term, or if it causes even more fragmentation of the EU cloud scene. “Running systems across different platforms can increase integration costs and make security and data governance more complicated. In some cases, organisations could lose some of the efficiency and cost advantages that come from using large hyperscale platforms,” Chmura says.\n“Overall, the EU appears willing to accept some of these trade-offs,” Chmura says.",
-          "isoDate": "2026-03-17T11:00:06.000Z"
         }
       ]
     },
