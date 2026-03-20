@@ -1,69 +1,69 @@
 {
-  "generatedAt": "2026-03-19T18:58:32.355Z",
+  "generatedAt": "2026-03-20T02:04:46.576Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
         {
-          "title": "A rogue AI led to a serious security incident at Meta",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident",
-          "summary": "For almost two hours last week, Meta employees had unauthorized access to company and user data thanks to an AI agent that gave an employee inaccurate technical advice, as previously reported by The Information. Meta spokesperson Tracy Clayton said in a statement to The Verge that \"no user data was mishandled\" during the incident. \nA Meta engineer was using an internal AI agent, which Clayton described as \"similar in nature to OpenClaw within a secure development environment,\" to analyze a technical question another employee posted on an internal company forum. But the agent also independently publicly replied to the question after analyzin …\nRead the full story at The Verge.",
-          "isoDate": "2026-03-19T18:20:05.000Z"
+          "title": "Valve’s huge SteamOS 3.8 update adds long-awaited features — and supports Steam Machine",
+          "link": "https://www.theverge.com/games/897765/valve-steamos-3-8-update-steam-deck-hibernation-steam-machine-xbox-ally",
+          "summary": "Valve has just released SteamOS 3.8.0 in preview, and it's a doozy. \nNot only is it the first release to support the upcoming Steam Machine living room gaming PC, it comes with long-awaited features for Valve's handhelds and more support for other companies' handhelds than we've seen to date - including Microsoft and Asus' Xbox Ally series, the Lenovo Legion Go 2, the OneXPlayer X1, and additional support for MSI, GPD, Anbernic, OrangePi, and Zotac. \nThe one that excites me most: Valve is adding genuine hibernation and \"memory power down\" modes to the Steam Deck - though just the LCD model to start - which should help extend battery life w …\nRead the full story at The Verge.",
+          "isoDate": "2026-03-20T00:34:04.000Z"
         },
         {
-          "title": "Microsoft’s go-to Xbox controller is selling at its best price of the year",
-          "link": "https://www.theverge.com/gadgets/897334/xbox-wireless-controller-pc-steam-deck-amazon-big-spring-sale-2026-deal",
-          "summary": "The white model is receiving the steepest discount, but the black version is less than $1 more. | Photo: Antonio G. Di Benedetto / The Verge\t\n\nMicrosoft’s Xbox console strategy needs work, but its Bluetooth-ready controller that shipped alongside the Xbox Series X and Series S is fantastic. We think it’s one of the best Xbox controllers out there, thanks to its comfortable design, multiplatform compatibility (it works great on the Steam Deck and PC, too), and its textured grips and triggers, which prevent your fingers from slipping during intense games.\nThankfully, the Xbox Wireless Controller is discounted in a couple of different colors in the lead-up to Amazon’s Big Spring Sale. The black version is currently available for the lowest price we’ve seen this year at Amazon, Walmart, and Target. Originally $64.99, it’s now just $43.49. The white version is $0.49 cents cheaper at Amazon and Walmart. There’s also a discount on a bundle that includes the black-colored model and a USB-C cable to connect it to a device of your choosing, eliminating the need for AA batteries. It costs $2 more, and you can buy it for $44.99 (down from $64.99) at Amazon.\nXbox Wireless Controller\nThe official Xbox Wireless Controller has a dedicated share button for saving clips and screenshots and sharing them online, Bluetooth support, and a USB-C port for charging up Microsoft’s play-and-charge rechargeable battery.\n\nWhere to Buy:\n\n $64.99 $43.49 at Amazon (black)\n $64.99 $43.49 at Walmart (black)\n $64.99 $43 at Amazon (white)\n\nThe Xbox controller is also a great Nintendo Switch 2 controller — hear me out! Instead of buying a costly Switch 2 Pro controller, you can buy 8BitDo’s $20 USB Adapter 2, plug it into your console’s dock, then easily connect the Xbox controller to it. It works in a pinch, though the adapter only supports one paired controller at a time.",
-          "isoDate": "2026-03-19T18:16:33.000Z"
+          "title": "OpenAI is planning a desktop ‘superapp’",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/897778/openai-chatgpt-codex-atlas-browser-superapp",
+          "summary": "OpenAI is working on a desktop \"superapp\" that merges its ChatGPT app, the Codex AI coding app, and its AI-powered Atlas browser into one app, The Wall Street Journal reports. The company is making the change as part of an effort to simplify its various product efforts, according to a memo cited by the WSJ from Fidji Simo, OpenAI's CEO of Applications. Fragmentation \"has been slowing us down and making it harder to hit the quality bar we want,\" Simo said.\nOpenAI made waves last year with splashy announcements like the Sora video app and buying Jony Ive's AI hardware company. But it has been facing increased competition from Anthropic as of  …\nRead the full story at The Verge.",
+          "isoDate": "2026-03-20T00:09:38.000Z"
         },
         {
-          "title": "At the last minute, Meta decides not to kill Horizon Worlds VR after all",
-          "link": "https://arstechnica.com/gadgets/2026/03/at-the-last-minute-meta-decides-not-to-kill-horizon-worlds-vr-after-all/",
-          "summary": "VR will be on life support while mobile remains the focus, though.",
-          "isoDate": "2026-03-19T17:50:40.000Z"
+          "title": "RFK Jr. has destroyed over a quarter of health dept's expert panels",
+          "link": "https://arstechnica.com/health/2026/03/rfk-jr-s-war-on-scientific-expertise-destroyed-27-of-agencys-advisor-panels/",
+          "summary": "Under Kennedy, the health dept. has wiped out 75 advisory boards, corrupted others.",
+          "isoDate": "2026-03-19T22:34:06.000Z"
         },
         {
-          "title": "Afroman keeps trolling cops after winning “Lemon Pound Cake” defamation case",
-          "link": "https://arstechnica.com/tech-policy/2026/03/afroman-keeps-trolling-cops-after-winning-lemon-pound-cake-defamation-case/",
-          "summary": "Cops asked the jury for millions after Afroman used raid footage in music videos.",
-          "isoDate": "2026-03-19T17:45:28.000Z"
+          "title": "Cloud service providers ask EU regulator to reinstate VMware partner program",
+          "link": "https://arstechnica.com/information-technology/2026/03/cloud-service-providers-ask-eu-regulator-to-reinstate-vmware-partner-program/",
+          "summary": "Broadcom says the group is misrepresenting market \"realities.\"",
+          "isoDate": "2026-03-19T21:29:53.000Z"
         },
         {
-          "title": "All the wrong EVs are getting canceled",
-          "link": "https://www.theverge.com/transportation/897399/all-the-wrong-evs-are-getting-cancelled",
-          "summary": "A Tesla Cybertruck gleaming in the lot of the Tesla showroom in North Hollywood, Los Angeles, on March 29, 2025. | Photo by Simone Lueck / The Verge\t\n\nThese past few weeks have been particularly brutal for the EV industry - and anyone who believes that electric vehicles are the future. Thanks to slowing demand and policy whiplashes, automakers are on an EV murder spree, killing a host of promising new models. The EV graveyard grows bigger by the minute. \nAnd unfortunately, as is often the case, much of the focus seems to be on affordable models that had the potential to attract new customers. Meanwhile, ugly EVs that cost too much and do nothing to move the needle on EV adoption continue to darken our highways. \nFirst, the cheap ones whose bodies have not yet gone cold. The Volvo EX30, a …\nRead the full story at The Verge.",
-          "isoDate": "2026-03-19T17:44:12.000Z"
+          "title": "Sony’s new WF-1000XM6 earbuds are already on sale for $30 off",
+          "link": "https://www.theverge.com/gadgets/897668/sony-wf-1000xm6-wireless-earbuds-deal-sale",
+          "summary": "Sony’s WF-1000XM6 are on sale in both color options. | Photo by Amelia Holowaty Krales / The Verge\t\n\nSony’s WF-1000XM6 are the best noise-canceling wireless earbuds you can buy, but they’ve been hard to recommend over the last-gen model because of the price. While the older version is often on sale for $248, the update costs $329 — and has never before been marked down. That’s why this deal is worth paying attention to: right now, Sony’s WF-1000XM6 are on sale for about $298 ($31 off) at Amazon, Best Buy, and directly from Sony, marking their first discount.\nSony WF-1000XM6 earbuds\n\nWhere to Buy:\n\n $329.99 $298 at Amazon\n $329.99 $298 at Best Buy\n $329.99 $299.99 at Sony\n\nSony’s WF-1000XM lineup has long been among our favorite wireless earbuds, and the latest model simply builds upon what already works so well. In his review, my colleague John Higgins noted they block out noise even more effectively, outperforming both the Bose Ultra Earbuds and AirPods Pro when it comes to tuning out nearby conversations. They also sound as impressive as ever, delivering clean, well-balanced audio with richer bass than their predecessor, along with continued support for Sony’s LDAC codec so music retains more detail. Sony has added a new listening mode designed to make audio less distracting by mimicking the effect of background music in a cafe, which is helpful if you rely on music to help you focus. \nBeyond sound and noise cancellation, the buds remain well-suited for everyday use. Battery life remains top-notch, lasting up to eight hours on a single charge or up to 24 hours with the wireless charging case. For comfort, Sony continues to include swappable foam ear tips in multiple sizes, and will send silicone tips for free if the foam ones don’t work for you. That said, getting the best noise cancellation and sounds depends on achieving a secure fit with one of the included foam ear tips, which our reviewer struggled with. \nRead our Sony WF-1000XM6 review.",
+          "isoDate": "2026-03-19T21:25:00.000Z"
         },
         {
-          "title": "Google details new 24-hour process to sideload unverified Android apps",
-          "link": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
-          "summary": "The \"advanced flow\" will be available before verification enforcement begins later this year.",
-          "isoDate": "2026-03-19T17:28:26.000Z"
+          "title": "Millions of iPhones can be hacked with a new tool found in the wild",
+          "link": "https://arstechnica.com/security/2026/03/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/",
+          "summary": "DarkSword, a powerful iPhone-hacking technique, has been discovered in use by Russian hackers.",
+          "isoDate": "2026-03-19T20:11:36.000Z"
         },
         {
-          "title": "Prediction markets are trying to lure journalists with partnership deals",
-          "link": "https://www.theverge.com/news/897388/kalshi-polymarket-journalists-partnership-deals",
-          "summary": "Prediction markets are working to ingratiate themselves with mainstream news and culture: The Golden Globes broadcast in January was plastered with Polymarket odds, the AP is licensing election data to Kalshi, and a partnership between Polymarket and Substack means more prediction market data in newsletters.\nSome prediction market exchanges are now attempting to strike deals with individual reporters. Rick Ellis, an independent entertainment journalist who runs AllYourScreens.com and writes a newsletter on Substack about TV and streaming, told The Verge he received an offer this week.\nThe deal involved producing two stories a week based on …\nRead the full story at The Verge.",
-          "isoDate": "2026-03-19T17:00:42.000Z"
+          "title": "Marc Andreessen is a philosophical zombie",
+          "link": "https://www.theverge.com/tldr/897566/marc-andreessen-is-a-philosophical-zombie",
+          "summary": "What inner life? | ﻿Image: Cath Virginia / The Verge, Getty Images\t\n\nI admit, this is an innovation I did not see coming: Silicon Valley has invented the philosophical zombie from the classic thought experiment \"lol how crazy would it be if there were a philosophical zombie.\"\nUntil recently, the philosophical zombie was a concept closely associated with Australian philosopher David Chalmers, who defines it as \"someone or something physically identical to me (or to any other conscious being), but lacking conscious experiences altogether.\" Chalmers' zombie twin is identical to him functionally and psychologically - except that he feels nothing. This is different from a Hollywood zombie, which has \"little capac …\nRead the full story at The Verge.",
+          "isoDate": "2026-03-19T20:07:54.000Z"
         },
         {
-          "title": "Google reveals its solution for true Android sideloading: a mandatory waiting period",
-          "link": "https://www.theverge.com/tech/897420/android-sideloading-unverified-developers-process",
-          "summary": "Google has revealed the \"advanced flow\" that will be required to install certain Android apps once the company introduces mandatory developer verification later this year. The company had initially announced that it would no longer be possible to install apps from unverified developers, and the process announced today is its concession to critics who accused it of killing off app sideloading and making Android less open.\nThe good news is the new advanced flow is a one-off process that won't need to be repeated every time a user wants to sideload an app; the bad news is that part of that process includes a mandatory one-day waiting period. \nRead the full story at The Verge.",
-          "isoDate": "2026-03-19T17:00:33.000Z"
+          "title": "FBI started buying Americans' location data again, Kash Patel confirms",
+          "link": "https://arstechnica.com/tech-policy/2026/03/fbi-started-buying-americans-location-data-again-kash-patel-confirms/",
+          "summary": "Tom Cotton supports FBI data purchasing, compares it to searching people's trash.",
+          "isoDate": "2026-03-19T19:57:35.000Z"
         },
         {
-          "title": "Despite hardware limits, Parallels supports running Windows on MacBook Neo",
-          "link": "https://arstechnica.com/gadgets/2026/03/despite-hardware-limits-parallels-supports-running-windows-on-macbook-neo/",
-          "summary": "\"8GB unified memory is the minimum practical configuration.\"",
-          "isoDate": "2026-03-19T16:50:10.000Z"
+          "title": "The coolest game controller for your phone is $50 off",
+          "link": "https://www.theverge.com/gadgets/897465/ohsnap-mcon-phone-controller-deal-sale",
+          "summary": "The MCON includes an adhesive-backed ring for phones that aren’t MagSafe- or Pixelsnap-ready. | Image: OhSnap\t\n\nThe MCON is the closest to a Swiss army knife that a controller can be. No, it doesn’t contain a can opener, but it makes up for it with a surprising array of features. Once you attach your MagSafe- or Pixelsnap-ready phone to the top plate, pressing a button along its top edge satisfyingly pops your phone up to reveal a full suite of controls, including TMR sticks made by GameSir. The MCON launched for $150, but you can get it for $99.99 through its manufacturer, OhSnap — the same amount that backers paid for the “super early bird” discount during the MCON’s 2025 Kickstarter campaign.\nOhSnap MCON controller\n\nWhere to Buy:\n\n $149.99 $99.99 at OhSnap\n\nI only recently received an MCON controller for testing, but it didn’t take long to appreciate that its button layout is a bit more ergonomically-friendly than other phone controllers I’ve tried. I’m also a fan of the MCON’s two fold-out palm grips because they make it easier to use the shoulder buttons.\nYou can use the MCON with devices that don’t have magnets, too. OhSnap includes an adhesive-backed ring that you can stick to the back of any iPhone or Android phone. \n\n \n @verge \nThe viral Ohsnap MCON spring-loaded pocket gamepad is nearly here and I’m toying with an early sample! The snap is satisfying, the controls are surprisingly great, and gosh can it pair with lots of Bluetooth devices including the Nintendo Switch 2. But it’s also surprisingly thick (due to a big MagSafe pad) and comes with a $150 price tag! I also had slightly peeling magnets on my samples, but Ohsnap says that’s already fixed for mass production. #todayimtoyingwith #ohsnap #mcon #gaming #gametok \n ♬ original sound – The Verge",
+          "isoDate": "2026-03-19T19:47:45.000Z"
         },
         {
-          "title": "Meta is actually keeping its VR metaverse running, for now",
-          "link": "https://www.theverge.com/tech/897396/meta-vr-horizon-worlds-metaverse-andrew-bosworth",
-          "summary": "Meta is reversing its plans to shut down its VR metaverse - sort of.\nOn Monday, the company announced that it would be shutting down the VR version of its 3D social platform Horizon Worlds on June 15th in favor of a new focus on the mobile version of the app. But in a Wednesday AMA on his Instagram, Meta CTO Andrew Bosworth said the company has decided that existing VR worlds would remain available and that the Horizon Worlds VR app will be available to download \"for the foreseeable future.\"\nMeta is keeping VR Horizon Worlds experiences around as a way to support \"the fans who reached out, like yourself, who really care about that,\" Boswor …\nRead the full story at The Verge.",
-          "isoDate": "2026-03-19T16:36:21.000Z"
+          "title": "Dogfighting in space won't look like the movies, but this company wants in on it",
+          "link": "https://arstechnica.com/space/2026/03/dogfighting-in-space-this-company-builds-satellites-for-high-tempo-engagement/",
+          "summary": "\"Where we are today in space warfare is very similar to where air superiority was in the 1930s.\"",
+          "isoDate": "2026-03-19T19:45:22.000Z"
         }
       ]
     },
@@ -108,28 +108,28 @@
           "isoDate": "2026-03-19T12:55:00.000Z"
         },
         {
-          "title": "Australia’s “Red Centre” Turns Green",
-          "link": "https://science.nasa.gov/earth/earth-observatory/australias-red-centre-turns-green/",
-          "summary": "Abundant rainfall in February and March 2026 transformed the desert landscape of Central Australia.",
-          "isoDate": "2026-03-19T04:00:00.000Z"
+          "title": "Commensal-driven serotonin production modulates in vivo delivery of synthetic and viral vectors",
+          "link": "https://www.science.org/doi/abs/10.1126/science.adu7686?af=R",
+          "summary": "Science, Volume 391, Issue 6791, March 2026.",
+          "isoDate": "2026-03-19T07:00:00.000Z"
         },
         {
-          "title": "Editorial Expression of Concern: A FADD-dependent innate immune mechanism in mammalian cells",
-          "link": "https://www.nature.com/articles/s41586-026-10397-8",
-          "summary": "Nature, Published online: 19 March 2026; doi:10.1038/s41586-026-10397-8\nEditorial Expression of Concern: A FADD-dependent innate immune mechanism in mammalian cells",
-          "isoDate": "2026-03-19T00:00:00.000Z"
+          "title": "Overcoming T cell tolerance to tumor self-antigens through catch-bond engineering",
+          "link": "https://www.science.org/doi/abs/10.1126/science.adx3162?af=R",
+          "summary": "Science, Volume 391, Issue 6791, March 2026.",
+          "isoDate": "2026-03-19T07:00:00.000Z"
         },
         {
-          "title": "UK bets big on homegrown fusion and quantum — can it lead the world?",
-          "link": "https://www.nature.com/articles/d41586-026-00877-2",
-          "summary": "Nature, Published online: 19 March 2026; doi:10.1038/d41586-026-00877-2\nUK government announces multibillion-pound science investments — but what impact will this have on the global race in these fields?",
-          "isoDate": "2026-03-19T00:00:00.000Z"
+          "title": "From chronic pain to depression: Neurogenesis-driven microglial remodeling in the hippocampal dentate gyrus",
+          "link": "https://www.science.org/doi/abs/10.1126/science.aee6177?af=R",
+          "summary": "Science, Volume 391, Issue 6791, March 2026.",
+          "isoDate": "2026-03-19T07:00:00.000Z"
         },
         {
-          "title": "China could be the world’s biggest public funder of science within two years",
-          "link": "https://www.nature.com/articles/d41586-026-00618-5",
-          "summary": "Nature, Published online: 19 March 2026; doi:10.1038/d41586-026-00618-5\nForecast by science-policy researchers raises questions about where the epicentre of global research will shift to in the coming decade.",
-          "isoDate": "2026-03-19T00:00:00.000Z"
+          "title": "Highly efficient, deep-ultraviolet luminescence in hBN moiré quantum wells",
+          "link": "https://www.science.org/doi/abs/10.1126/science.aeb2095?af=R",
+          "summary": "Science, Volume 391, Issue 6791, March 2026.",
+          "isoDate": "2026-03-19T07:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-03-19T18:58:27.050Z"
+          "isoDate": "2026-03-20T02:04:42.013Z"
         },
         {
           "title": "Facebook offering TikTok and YouTube creators $3,000 to post content",
@@ -246,15 +246,15 @@
           "isoDate": "2026-03-17T16:03:47.000Z"
         },
         {
-          "title": "Introducing GPT-5.4 mini and nano",
-          "link": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
-          "summary": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads.",
-          "isoDate": "2026-03-17T10:00:00.000Z"
-        },
-        {
           "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
           "link": "https://openai.com/index/japan-teen-safety-blueprint",
           "summary": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.",
+          "isoDate": "2026-03-17T10:00:00.000Z"
+        },
+        {
+          "title": "Introducing GPT-5.4 mini and nano",
+          "link": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+          "summary": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads.",
           "isoDate": "2026-03-17T10:00:00.000Z"
         },
         {
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-03-19T18:58:30.429Z"
+          "isoDate": "2026-03-20T02:04:45.236Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 58\nChar: =",
-          "isoDate": "2026-03-19T18:58:28.343Z"
+          "isoDate": "2026-03-20T02:04:43.708Z"
         },
         {
           "title": "Nigerian Firms Embrace Kit-Based EV Assembly for Cost Savings",
