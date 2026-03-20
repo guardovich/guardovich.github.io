@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-20T02:04:46.576Z",
+  "generatedAt": "2026-03-20T06:55:44.501Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
@@ -72,6 +72,18 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "Restless Kīlauea Launches Lava and Ash",
+          "link": "https://science.nasa.gov/earth/earth-observatory/restless-kilauea-launches-lava-and-ash/",
+          "summary": "Episode 43 of the Hawaiian volcano’s current eruption was marked by high lava fountains and widespread ash dispersal.",
+          "isoDate": "2026-03-20T04:01:00.000Z"
+        },
+        {
+          "title": "Chemical pollutants are rife across the world’s oceans",
+          "link": "https://www.nature.com/articles/d41586-026-00850-z",
+          "summary": "Nature, Published online: 20 March 2026; doi:10.1038/d41586-026-00850-z\nCompounds that are used to make plastics and personal-care products were found in all types of marine environment, a meta-analysis shows.",
+          "isoDate": "2026-03-20T00:00:00.000Z"
+        },
+        {
           "title": "American Bald Eagle at NASA’s Kennedy Space Center",
           "link": "https://www.nasa.gov/image-article/american-bald-eagle-at-nasas-kennedy-space-center/",
           "summary": "An American bald eagle flies away from its nest and tree at NASA’s Kennedy Space Center in Florida on Friday, March 13, 2026. Bald eagle nesting surveys across NASA Kennedy, Merritt Island National Wildlife Refuge, and Canaveral National Seashore are conducted annually to document the number of bald eagle active and inactive nests in support […]",
@@ -118,18 +130,6 @@
           "link": "https://www.science.org/doi/abs/10.1126/science.adx3162?af=R",
           "summary": "Science, Volume 391, Issue 6791, March 2026.",
           "isoDate": "2026-03-19T07:00:00.000Z"
-        },
-        {
-          "title": "From chronic pain to depression: Neurogenesis-driven microglial remodeling in the hippocampal dentate gyrus",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aee6177?af=R",
-          "summary": "Science, Volume 391, Issue 6791, March 2026.",
-          "isoDate": "2026-03-19T07:00:00.000Z"
-        },
-        {
-          "title": "Highly efficient, deep-ultraviolet luminescence in hBN moiré quantum wells",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aeb2095?af=R",
-          "summary": "Science, Volume 391, Issue 6791, March 2026.",
-          "isoDate": "2026-03-19T07:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-03-20T02:04:42.013Z"
+          "isoDate": "2026-03-20T06:55:38.425Z"
         },
         {
           "title": "Facebook offering TikTok and YouTube creators $3,000 to post content",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-03-20T02:04:45.236Z"
+          "isoDate": "2026-03-20T06:55:43.064Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 58\nChar: =",
-          "isoDate": "2026-03-20T02:04:43.708Z"
+          "isoDate": "2026-03-20T06:55:40.181Z"
         },
         {
           "title": "Nigerian Firms Embrace Kit-Based EV Assembly for Cost Savings",
