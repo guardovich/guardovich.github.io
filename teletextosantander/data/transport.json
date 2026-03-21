@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-20T23:46:06.589414+00:00",
+  "updated": "2026-03-21T02:41:02.073719+00:00",
   "source": "datos.santander.es",
   "total_datasets": 6,
   "total_items": 1662,
@@ -8856,7 +8856,7 @@
           "title": "ZONA 30 ·",
           "street": "",
           "number": "",
-          "modified": "2026-03-20T23:27:55.504Z",
+          "modified": "2026-03-20T23:50:00.081Z",
           "lat": null,
           "lon": null
         },
@@ -8867,7 +8867,7 @@
           "title": "ZONA 30 ·",
           "street": "",
           "number": "",
-          "modified": "2026-03-20T23:27:55.504Z",
+          "modified": "2026-03-20T23:50:00.081Z",
           "lat": null,
           "lon": null
         },
@@ -8878,7 +8878,7 @@
           "title": "ZONA 30 ·",
           "street": "",
           "number": "",
-          "modified": "2026-03-20T23:27:55.504Z",
+          "modified": "2026-03-20T23:50:00.081Z",
           "lat": null,
           "lon": null
         },
@@ -8889,7 +8889,7 @@
           "title": "ZONA 30 ·",
           "street": "",
           "number": "",
-          "modified": "2026-03-20T23:27:55.503Z",
+          "modified": "2026-03-20T23:50:00.08Z",
           "lat": null,
           "lon": null
         },
@@ -8900,7 +8900,7 @@
           "title": "ZONA 30 ·",
           "street": "",
           "number": "",
-          "modified": "2026-03-20T23:27:55.503Z",
+          "modified": "2026-03-20T23:50:00.08Z",
           "lat": null,
           "lon": null
         },
@@ -8911,7 +8911,7 @@
           "title": "ZONA 30 ·",
           "street": "",
           "number": "",
-          "modified": "2026-03-20T23:27:55.503Z",
+          "modified": "2026-03-20T23:50:00.08Z",
           "lat": null,
           "lon": null
         },
@@ -8922,18 +8922,7 @@
           "title": "ZONA 30 ·",
           "street": "",
           "number": "",
-          "modified": "2026-03-20T23:27:55.503Z",
-          "lat": null,
-          "lon": null
-        },
-        {
-          "id": "28",
-          "dataset": "zonas_30",
-          "type": "ZONA_30",
-          "title": "ZONA 30 ·",
-          "street": "",
-          "number": "",
-          "modified": "2026-03-20T23:27:55.502Z",
+          "modified": "2026-03-20T23:50:00.08Z",
           "lat": null,
           "lon": null
         },
@@ -8944,29 +8933,18 @@
           "title": "ZONA 30 ·",
           "street": "",
           "number": "",
-          "modified": "2026-03-20T23:27:55.502Z",
+          "modified": "2026-03-20T23:50:00.075Z",
           "lat": null,
           "lon": null
         },
         {
-          "id": "24",
+          "id": "28",
           "dataset": "zonas_30",
           "type": "ZONA_30",
           "title": "ZONA 30 ·",
           "street": "",
           "number": "",
-          "modified": "2026-03-20T23:27:55.496Z",
-          "lat": null,
-          "lon": null
-        },
-        {
-          "id": "25",
-          "dataset": "zonas_30",
-          "type": "ZONA_30",
-          "title": "ZONA 30 ·",
-          "street": "",
-          "number": "",
-          "modified": "2026-03-20T23:27:55.496Z",
+          "modified": "2026-03-20T23:50:00.071Z",
           "lat": null,
           "lon": null
         },
@@ -8977,7 +8955,7 @@
           "title": "ZONA 30 ·",
           "street": "",
           "number": "",
-          "modified": "2026-03-20T23:27:55.496Z",
+          "modified": "2026-03-20T23:50:00.06Z",
           "lat": null,
           "lon": null
         },
@@ -8988,40 +8966,7 @@
           "title": "ZONA 30 ·",
           "street": "",
           "number": "",
-          "modified": "2026-03-20T23:27:55.496Z",
-          "lat": null,
-          "lon": null
-        },
-        {
-          "id": "20",
-          "dataset": "zonas_30",
-          "type": "ZONA_30",
-          "title": "ZONA 30 ·",
-          "street": "",
-          "number": "",
-          "modified": "2026-03-20T23:27:55.495Z",
-          "lat": null,
-          "lon": null
-        },
-        {
-          "id": "21",
-          "dataset": "zonas_30",
-          "type": "ZONA_30",
-          "title": "ZONA 30 ·",
-          "street": "",
-          "number": "",
-          "modified": "2026-03-20T23:27:55.495Z",
-          "lat": null,
-          "lon": null
-        },
-        {
-          "id": "22",
-          "dataset": "zonas_30",
-          "type": "ZONA_30",
-          "title": "ZONA 30 ·",
-          "street": "",
-          "number": "",
-          "modified": "2026-03-20T23:27:55.495Z",
+          "modified": "2026-03-20T23:50:00.06Z",
           "lat": null,
           "lon": null
         },
@@ -9032,18 +8977,62 @@
           "title": "ZONA 30 ·",
           "street": "",
           "number": "",
-          "modified": "2026-03-20T23:27:55.495Z",
+          "modified": "2026-03-20T23:50:00.059Z",
           "lat": null,
           "lon": null
         },
         {
-          "id": "17",
+          "id": "24",
           "dataset": "zonas_30",
           "type": "ZONA_30",
           "title": "ZONA 30 ·",
           "street": "",
           "number": "",
-          "modified": "2026-03-20T23:27:55.494Z",
+          "modified": "2026-03-20T23:50:00.059Z",
+          "lat": null,
+          "lon": null
+        },
+        {
+          "id": "25",
+          "dataset": "zonas_30",
+          "type": "ZONA_30",
+          "title": "ZONA 30 ·",
+          "street": "",
+          "number": "",
+          "modified": "2026-03-20T23:50:00.059Z",
+          "lat": null,
+          "lon": null
+        },
+        {
+          "id": "20",
+          "dataset": "zonas_30",
+          "type": "ZONA_30",
+          "title": "ZONA 30 ·",
+          "street": "",
+          "number": "",
+          "modified": "2026-03-20T23:50:00.058Z",
+          "lat": null,
+          "lon": null
+        },
+        {
+          "id": "21",
+          "dataset": "zonas_30",
+          "type": "ZONA_30",
+          "title": "ZONA 30 ·",
+          "street": "",
+          "number": "",
+          "modified": "2026-03-20T23:50:00.058Z",
+          "lat": null,
+          "lon": null
+        },
+        {
+          "id": "22",
+          "dataset": "zonas_30",
+          "type": "ZONA_30",
+          "title": "ZONA 30 ·",
+          "street": "",
+          "number": "",
+          "modified": "2026-03-20T23:50:00.058Z",
           "lat": null,
           "lon": null
         },
@@ -9054,18 +9043,18 @@
           "title": "ZONA 30 ·",
           "street": "",
           "number": "",
-          "modified": "2026-03-20T23:27:55.494Z",
+          "modified": "2026-03-20T23:50:00.057Z",
           "lat": null,
           "lon": null
         },
         {
-          "id": "12",
+          "id": "17",
           "dataset": "zonas_30",
           "type": "ZONA_30",
           "title": "ZONA 30 ·",
           "street": "",
           "number": "",
-          "modified": "2026-03-20T23:27:55.487Z",
+          "modified": "2026-03-20T23:50:00.048Z",
           "lat": null,
           "lon": null
         },
@@ -9076,7 +9065,7 @@
           "title": "ZONA 30 ·",
           "street": "",
           "number": "",
-          "modified": "2026-03-20T23:27:55.487Z",
+          "modified": "2026-03-20T23:50:00.039Z",
           "lat": null,
           "lon": null
         },
@@ -9087,7 +9076,7 @@
           "title": "ZONA 30 ·",
           "street": "",
           "number": "",
-          "modified": "2026-03-20T23:27:55.487Z",
+          "modified": "2026-03-20T23:50:00.039Z",
           "lat": null,
           "lon": null
         },
@@ -9098,7 +9087,7 @@
           "title": "ZONA 30 ·",
           "street": "",
           "number": "",
-          "modified": "2026-03-20T23:27:55.487Z",
+          "modified": "2026-03-20T23:50:00.039Z",
           "lat": null,
           "lon": null
         },
@@ -9109,7 +9098,7 @@
           "title": "ZONA 30 ·",
           "street": "",
           "number": "",
-          "modified": "2026-03-20T23:27:55.486Z",
+          "modified": "2026-03-20T23:50:00.038Z",
           "lat": null,
           "lon": null
         },
@@ -9120,7 +9109,7 @@
           "title": "ZONA 30 ·",
           "street": "",
           "number": "",
-          "modified": "2026-03-20T23:27:55.486Z",
+          "modified": "2026-03-20T23:50:00.038Z",
           "lat": null,
           "lon": null
         },
@@ -9131,7 +9120,7 @@
           "title": "ZONA 30 ·",
           "street": "",
           "number": "",
-          "modified": "2026-03-20T23:27:55.486Z",
+          "modified": "2026-03-20T23:50:00.038Z",
           "lat": null,
           "lon": null
         },
@@ -9142,18 +9131,18 @@
           "title": "ZONA 30 ·",
           "street": "",
           "number": "",
-          "modified": "2026-03-20T23:27:55.486Z",
+          "modified": "2026-03-20T23:50:00.038Z",
           "lat": null,
           "lon": null
         },
         {
-          "id": "5",
+          "id": "12",
           "dataset": "zonas_30",
           "type": "ZONA_30",
           "title": "ZONA 30 ·",
           "street": "",
           "number": "",
-          "modified": "2026-03-20T23:27:55.485Z",
+          "modified": "2026-03-20T23:50:00.038Z",
           "lat": null,
           "lon": null
         },
@@ -9164,40 +9153,18 @@
           "title": "ZONA 30 ·",
           "street": "",
           "number": "",
-          "modified": "2026-03-20T23:27:55.485Z",
+          "modified": "2026-03-20T23:50:00.031Z",
           "lat": null,
           "lon": null
         },
         {
-          "id": "3",
+          "id": "5",
           "dataset": "zonas_30",
           "type": "ZONA_30",
           "title": "ZONA 30 ·",
           "street": "",
           "number": "",
-          "modified": "2026-03-20T23:27:55.479Z",
-          "lat": null,
-          "lon": null
-        },
-        {
-          "id": "18",
-          "dataset": "zonas_30",
-          "type": "ZONA_30",
-          "title": "ZONA 30 ·",
-          "street": "",
-          "number": "",
-          "modified": "2026-03-20T23:27:55.478Z",
-          "lat": null,
-          "lon": null
-        },
-        {
-          "id": "39",
-          "dataset": "zonas_30",
-          "type": "ZONA_30",
-          "title": "ZONA 30 ·",
-          "street": "",
-          "number": "",
-          "modified": "2026-03-20T23:27:55.478Z",
+          "modified": "2026-03-20T23:50:00.03Z",
           "lat": null,
           "lon": null
         },
@@ -9208,7 +9175,7 @@
           "title": "ZONA 30 ·",
           "street": "",
           "number": "",
-          "modified": "2026-03-20T23:27:55.478Z",
+          "modified": "2026-03-20T23:50:00.021Z",
           "lat": null,
           "lon": null
         },
@@ -9219,18 +9186,18 @@
           "title": "ZONA 30 ·",
           "street": "",
           "number": "",
-          "modified": "2026-03-20T23:27:55.478Z",
+          "modified": "2026-03-20T23:50:00.021Z",
           "lat": null,
           "lon": null
         },
         {
-          "id": "38",
+          "id": "3",
           "dataset": "zonas_30",
           "type": "ZONA_30",
           "title": "ZONA 30 ·",
           "street": "",
           "number": "",
-          "modified": "2026-03-20T23:27:55.477Z",
+          "modified": "2026-03-20T23:50:00.021Z",
           "lat": null,
           "lon": null
         },
@@ -9241,7 +9208,7 @@
           "title": "ZONA 30 ·",
           "street": "",
           "number": "",
-          "modified": "2026-03-20T23:27:55.477Z",
+          "modified": "2026-03-20T23:50:00.02Z",
           "lat": null,
           "lon": null
         },
@@ -9252,7 +9219,7 @@
           "title": "ZONA 30 ·",
           "street": "",
           "number": "",
-          "modified": "2026-03-20T23:27:55.477Z",
+          "modified": "2026-03-20T23:50:00.02Z",
           "lat": null,
           "lon": null
         },
@@ -9263,7 +9230,40 @@
           "title": "ZONA 30 ·",
           "street": "",
           "number": "",
-          "modified": "2026-03-20T23:27:55.477Z",
+          "modified": "2026-03-20T23:50:00.02Z",
+          "lat": null,
+          "lon": null
+        },
+        {
+          "id": "18",
+          "dataset": "zonas_30",
+          "type": "ZONA_30",
+          "title": "ZONA 30 ·",
+          "street": "",
+          "number": "",
+          "modified": "2026-03-20T23:50:00.02Z",
+          "lat": null,
+          "lon": null
+        },
+        {
+          "id": "39",
+          "dataset": "zonas_30",
+          "type": "ZONA_30",
+          "title": "ZONA 30 ·",
+          "street": "",
+          "number": "",
+          "modified": "2026-03-20T23:50:00.02Z",
+          "lat": null,
+          "lon": null
+        },
+        {
+          "id": "38",
+          "dataset": "zonas_30",
+          "type": "ZONA_30",
+          "title": "ZONA 30 ·",
+          "street": "",
+          "number": "",
+          "modified": "2026-03-20T23:50:00.013Z",
           "lat": null,
           "lon": null
         },
@@ -9274,7 +9274,7 @@
           "title": "ZONA 30 ·",
           "street": "",
           "number": "",
-          "modified": "2026-03-20T23:27:55.476Z",
+          "modified": "2026-03-20T23:50:00.011Z",
           "lat": null,
           "lon": null
         }
