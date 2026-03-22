@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-03-21T18:36:28.224Z",
+  "generatedAt": "2026-03-22T02:11:39.663Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Halide co-founder is suing former partner for bringing source code to Apple",
+          "link": "https://www.theverge.com/business/898687/halide-lawsuit-co-founder-apple",
+          "summary": "Halide running on an iPhone. | Photo: Allison Johnson / The Verge\t\n\nLux Optics co-founder Sebastiaan de With made headlines when he joined Apple in late January. The company was behind Halide, one of the most popular photography apps for the iPhone, which gained a cult following for its robust pro-level controls. \nApple was apparently a big enough fan that it tried to acquire the developer last summer. Those talks never bore fruit, and eventually the company simply hired de With. At the time, it was widely believed that Apple had poached him from Lux. But new allegations from a lawsuit filed by co-founder Ben Sandofsky in the California Superior Court of Santa Cruz claim de With was fired for financial misc …\nRead the full story at The Verge.",
+          "isoDate": "2026-03-21T21:02:56.000Z"
+        },
         {
           "title": "The AirPods Pro 3 are $50 off right now, nearly matching their best-ever price",
           "link": "https://www.theverge.com/gadgets/898502/airpods-pro-3-amazon-big-spring-sale-2026-deal",
@@ -58,12 +64,6 @@
           "link": "https://arstechnica.com/science/2026/03/we-keep-finding-the-raw-material-of-dna-in-asteroids-whats-it-telling-us/",
           "summary": "This week's result is just the latest in a growing collection of discoveries.",
           "isoDate": "2026-03-21T11:00:37.000Z"
-        },
-        {
-          "title": "Kodiak CEO says making trucks drive themselves is only half the battle",
-          "link": "https://www.theverge.com/transportation/897551/kodiak-ai-self-driving-truck-ceo-interview",
-          "summary": "This year is shaping up to be a big one for self-driving trucks. In addition to Aurora's plan to deploy hundreds of autonomous big rigs and Waabi expanding into robotaxis, you've also got Kodiak AI aiming to launch its own fully driverless long-haul freight operation by the end of 2026. While robotaxis may still win all the headlines, driverless trucks are making their own progress, slowly but surely. \nBut in a recent interview, Kodiak AI CEO Don Burnette said that deploying autonomous trucks is really only half the battle. He said that while most of his competitors are fussing over details like AI, perception, and mileage milestones, Kodia …\nRead the full story at The Verge.",
-          "isoDate": "2026-03-21T11:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-03-21T18:36:24.985Z"
+          "isoDate": "2026-03-22T02:11:35.884Z"
         },
         {
           "title": "Tech Now",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-03-21T18:36:26.903Z"
+          "isoDate": "2026-03-22T02:11:38.048Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 58\nChar: =",
-          "isoDate": "2026-03-21T18:36:26.245Z"
+          "isoDate": "2026-03-22T02:11:37.237Z"
         },
         {
           "title": "AI Aims for Autonomous Wheelchair Navigation",
@@ -324,17 +324,57 @@
       "maxItems": 120,
       "items": [
         {
-          "title": "RESULTADOS (EN DIRECTO)",
+          "title": "RESULTADOS (ÚLTIMOS)",
           "link": "",
           "summary": ""
         },
         {
-          "title": "LEV  2-2  REA",
+          "title": "SEV  0-2  VAL",
           "link": "",
           "summary": ""
         },
         {
-          "title": "OSA  0-0  GIR",
+          "title": "LEV  4-2  REA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "OSA  1-0  GIR",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "ESP  1-2  GET",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "ELC  2-1  MAL",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "VIL  3-1  REA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "RAY  1-1  LEV",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "REA  3-1  OSA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "REA  1-1  CEL",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "BAR  5-2  SEV",
           "link": "",
           "summary": ""
         },
@@ -389,37 +429,37 @@
           "summary": ""
         },
         {
-          "title": " 9  ESP  29  10  7 12  36  44  -8  37",
+          "title": " 9  OSA  29  10  7 12  34  35  -1  37",
           "link": "",
           "summary": ""
         },
         {
-          "title": "10  OSA  29   9  8 12  33  35  -2  35",
+          "title": "10  ESP  29  10  7 12  36  44  -8  37",
           "link": "",
           "summary": ""
         },
         {
-          "title": "11  ATH  28  10  5 13  30  40 -10  35",
+          "title": "11  VAL  29   9  8 12  32  42 -10  35",
           "link": "",
           "summary": ""
         },
         {
-          "title": "12  GIR  29   8 11 10  31  43 -12  35",
+          "title": "12  ATH  28  10  5 13  30  40 -10  35",
           "link": "",
           "summary": ""
         },
         {
-          "title": "13  RAY  28   7 11 10  28  34  -6  32",
+          "title": "13  GIR  29   8 10 11  31  44 -13  34",
           "link": "",
           "summary": ""
         },
         {
-          "title": "14  VAL  28   8  8 12  30  42 -12  32",
+          "title": "14  RAY  28   7 11 10  28  34  -6  32",
           "link": "",
           "summary": ""
         },
         {
-          "title": "15  SEV  28   8  7 13  37  47 -10  31",
+          "title": "15  SEV  29   8  7 14  37  49 -12  31",
           "link": "",
           "summary": ""
         },
@@ -439,12 +479,12 @@
           "summary": ""
         },
         {
-          "title": "19  LEV  29   5  9 15  32  48 -16  24",
+          "title": "19  LEV  29   6  8 15  34  48 -14  26",
           "link": "",
           "summary": ""
         },
         {
-          "title": "20  REA  29   4 10 15  20  46 -26  22",
+          "title": "20  REA  29   4  9 16  20  48 -28  21",
           "link": "",
           "summary": ""
         }
