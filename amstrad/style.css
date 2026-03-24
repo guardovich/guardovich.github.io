@@ -41,11 +41,32 @@ body {
   box-shadow: inset 0 0 20px rgba(0,255,0,0.2);
 }
 
+/* ======================
+   RELOJ
+====================== */
+.clock {
+  width: 100%;
+  text-align: left;
+  font-size: 14px;
+  margin-bottom: 20px;
+  line-height: 1.4;
+  letter-spacing: 1px;
+
+  color: #33ff33;
+  text-shadow: 0 0 6px #33ff33;
+}
+
+/* ======================
+   LOGO
+====================== */
 .logo-img {
   width: 140px;
   margin-bottom: 20px;
 }
 
+/* ======================
+   MARCA
+====================== */
 .brand h1 {
   font-size: 16px;
   margin: 0;
@@ -59,6 +80,17 @@ body {
 }
 
 /* ======================
+   SISTEMA INFO
+====================== */
+.system-info {
+  margin-top: 20px;
+  width: 100%;
+  font-size: 12px;
+  line-height: 1.6;
+  color: #33ff33;
+}
+
+/* ======================
    ZONA PRINCIPAL
 ====================== */
 .main {
@@ -69,12 +101,11 @@ body {
 }
 
 /* ======================
-   PANTALLA CPC
+   PANTALLA BASE
 ====================== */
 .screen {
   width: 700px;
   height: 420px;
-  background: #000;
   padding: 20px;
 
   border-radius: 20px / 12px;
@@ -83,20 +114,34 @@ body {
     0 0 20px rgba(0,255,0,0.2),
     inset 0 0 20px rgba(0,0,0,0.8);
 
-  text-shadow: 0 0 6px #33ff33;
-
   overflow: hidden;
   position: relative;
 
-  /* 🔥 CPC REAL */
   font-family: 'CPC', monospace;
   font-size: 16px;
   line-height: 1.1;
   letter-spacing: 1px;
 
-  /* quitar suavizado */
   -webkit-font-smoothing: none;
   -moz-osx-font-smoothing: grayscale;
+}
+
+/* ======================
+   🎮 MODE 1 (verde clásico)
+====================== */
+.mode1 {
+  background: #000;
+  color: #33ff33;
+  text-shadow: 0 0 6px #33ff33;
+}
+
+/* ======================
+   🎮 MODE 2 (CPC real azul/amarillo)
+====================== */
+.mode2 {
+  background: #0000aa;
+  color: #ffff00;
+  text-shadow: none;
 }
 
 /* ======================
@@ -165,7 +210,7 @@ body {
 input {
   background: transparent;
   border: none;
-  color: #33ff33;
+  color: inherit;
   font-family: 'CPC', monospace;
   font-size: 16px;
   outline: none;
@@ -178,7 +223,7 @@ input {
 .cursor {
   width: 10px;
   height: 18px;
-  background: #33ff33;
+  background: currentColor;
   animation: blink 1s infinite;
 }
 
