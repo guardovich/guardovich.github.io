@@ -1,182 +1,59 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Amstrad CPC 6128 - NET Searcher</title>
-    <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Amstrad CPC Interface</title>
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-    <div class="amstrad-cpc">
-        <!-- Monitor CRT con bisel -->
-        <div class="monitor">
-            <div class="bezel">
-                <div class="screen">
-                    
-                    <!-- HEADER: Información del sistema (siempre visible) -->
-                    <div class="system-header">
-                        <div class="top-bar">
-                            <div class="model">AMSTRAD CPC 6128</div>
-                            <div class="status-leds">
-                                <div class="led power"></div>
-                                <div class="led drive"></div>
-                                <div class="led tape"></div>
-                            </div>
-                        </div>
-                        
-                        <div class="system-info">
-                            <div class="info-line">
-                                <span class="label">CPU:</span>
-                                <span class="value">Zilog Z80A @ 4MHz</span>
-                            </div>
-                            <div class="info-line">
-                                <span class="label">RAM:</span>
-                                <span class="value">128KB EXPANDIDO</span>
-                            </div>
-                            <div class="info-line">
-                                <span class="label">ROM:</span>
-                                <span class="value">BASIC 1.1 + AMSDOS</span>
-                            </div>
-                            <div class="info-line">
-                                <span class="label">MODO:</span>
-                                <span class="value" id="screenMode">MODO TEXTO 80x25</span>
-                            </div>
-                        </div>
-                        
-                        <div class="divider">
-                            <span>═══════════════════════════════════════════════════════</span>
-                        </div>
-                        
-                        <div class="basic-prompt">
-                            <span class="prompt">Amstrad CPC BASIC 1.1</span>
-                            <span class="cursor">_</span>
-                        </div>
-                    </div>
-                    
-                    <!-- PROGRAMA: NET Searcher v1.0 (centrado) -->
-                    <div class="program-container">
-                        <div class="program-border">
-                            <div class="program-header">
-                                <span>► NET SEARCHER v1.0 ◄</span>
-                                <span class="disk-icon">💾</span>
-                            </div>
-                            
-                            <div class="program-content">
-                                <!-- Buscador integrado -->
-                                <div class="search-module">
-                                    <div class="status-bar">
-                                        <span class="prompt">&gt;</span>
-                                        <span id="connectionStatus" class="status-text">SISTEMA LISTO</span>
-                                        <span class="blink">_</span>
-                                    </div>
-                                    
-                                    <div class="input-area">
-                                        <div class="input-line">
-                                            <span class="prompt">BUSCAR:</span>
-                                            <input type="text" id="searchInput" 
-                                                   placeholder="INTRODUZCA TÉRMINO" 
-                                                   onkeypress="handleSearchKey(event)">
-                                        </div>
-                                        
-                                        <div class="engine-selector">
-                                            <span class="prompt">MOTOR [1-4]:</span>
-                                            <div class="engine-buttons">
-                                                <button class="engine-btn active" data-engine="1">1.GOOGLE</button>
-                                                <button class="engine-btn" data-engine="2">2.WIKIPEDIA</button>
-                                                <button class="engine-btn" data-engine="3">3.IMÁGENES</button>
-                                                <button class="engine-btn" data-engine="4">4.NOTICIAS</button>
-                                            </div>
-                                        </div>
-                                        
-                                        <div class="action-buttons">
-                                            <button onclick="performSearch()" class="action-btn">
-                                                [ENTER] EJECUTAR
-                                            </button>
-                                            <button onclick="clearSearch()" class="action-btn">
-                                                [ESC] LIMPIAR
-                                            </button>
-                                            <button onclick="loadDemo()" class="action-btn">
-                                                [F1] DEMO
-                                            </button>
-                                        </div>
-                                    </div>
-                                    
-                                    <!-- Área de resultados -->
-                                    <div class="results-area">
-                                        <div class="results-header">
-                                            <span>RESULTADOS DE BÚSQUEDA</span>
-                                            <span id="resultCount"></span>
-                                        </div>
-                                        <div id="searchResults" class="search-results">
-                                            <div class="welcome-message">
-                                                <pre>
-    ╔══════════════════════════════════════════════════════╗
-    ║                                                      ║
-    ║     AMSTRAD CPC NETWORK INTERFACE v1.0              ║
-    ║                                                      ║
-    ║     LISTO PARA NAVEGAR POR INTERNET                 ║
-    ║                                                      ║
-    ║     INTRODUZCA TÉRMINO Y PRESIONE [ENTER]           ║
-    ║                                                      ║
-    ╚══════════════════════════════════════════════════════╝
-                                                </pre>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    
-                                    <!-- Footer con información del sistema -->
-                                    <div class="system-footer">
-                                        <div class="memory-meter">
-                                            <span>MEM: ████████░░ 64KB LIBRES</span>
-                                        </div>
-                                        <div class="disk-status">
-                                            <span>DISCO: B: NETSEARCH.BAS</span>
-                                        </div>
-                                        <div class="time-display">
-                                            <span id="systemTime">00:00:00</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    
-                    <!-- FOOTER: Comandos BASIC -->
-                    <div class="command-footer">
-                        <div class="command-line">
-                            <span class="prompt">Listo</span>
-                        </div>
-                        <div class="function-keys">
-                            <span>F1:DEMO</span>
-                            <span>F2:GUARDAR</span>
-                            <span>F3:CARGAR</span>
-                            <span>F4:LIST</span>
-                            <span>F5:RUN</span>
-                        </div>
-                    </div>
-                    
-                </div>
-            </div>
-            
-            <!-- Logos del monitor -->
-            <div class="monitor-brand">
-                <span>CTM-644</span>
-                <span>COLOUR MONITOR</span>
-            </div>
-        </div>
-        
-        <!-- Teclado (decorativo) -->
-        <div class="keyboard">
-            <div class="keyboard-top">
-                <div class="keyboard-brand">amstrad</div>
-                <div class="keyboard-model">CPC 6128</div>
-            </div>
-            <div class="keys-row">
-                <span>ESC</span><span>F1</span><span>F2</span><span>F3</span><span>F4</span><span>F5</span>
-            </div>
-        </div>
-    </div>
+  <div class="cpc-frame">
+    <div class="screen-bezel">
+      <main class="screen" id="screen">
+        <header class="boot-block">
+          <div class="line">Amstrad Consumer Electronics plc</div>
+          <div class="line">BASIC 1.0</div>
+          <div class="line">Ready</div>
+        </header>
 
-    <script src="script.js"></script>
+        <section class="hero">
+          <h1>GUARDOVICH CPC</h1>
+          <p class="subtitle">Sistema de información retro</p>
+        </section>
+
+        <section class="menu">
+          <div class="line prompt-line">
+            <span class="prompt">></span>
+            <span id="typed-command">RUN "MENU"</span>
+            <span class="cursor"></span>
+          </div>
+
+          <nav class="menu-list">
+            <button class="menu-btn" data-section="news">1. Noticias</button>
+            <button class="menu-btn" data-section="projects">2. Proyectos</button>
+            <button class="menu-btn" data-section="about">3. Acerca de</button>
+            <button class="menu-btn" data-section="contact">4. Contacto</button>
+          </nav>
+        </section>
+
+        <section class="content-window" id="content-window">
+          <div class="window-title">Cargando módulo...</div>
+          <div class="window-body" id="content">
+            <p>Selecciona una opción para continuar.</p>
+          </div>
+        </section>
+
+        <footer class="status-bar">
+          <span>MODE 1</span>
+          <span>64K RAM SYSTEM</span>
+          <span id="clock">00:00:00</span>
+        </footer>
+      </main>
+    </div>
+  </div>
+
+  <audio id="beep-audio" preload="auto"></audio>
+
+  <script src="script.js"></script>
 </body>
 </html>
