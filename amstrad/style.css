@@ -57,7 +57,7 @@ body {
 }
 
 /* ======================
-   LOGO
+   LOGO MONITOR
 ====================== */
 .logo-img {
   width: 140px;
@@ -124,6 +124,21 @@ body {
 
   -webkit-font-smoothing: none;
   -moz-osx-font-smoothing: grayscale;
+}
+
+/* ======================
+   🔥 LOGO CPC EN PANTALLA
+====================== */
+.cpc-logo {
+  position: absolute;
+  top: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+
+  width: 120px;
+  opacity: 0.85;
+
+  pointer-events: none;
 }
 
 /* ======================
