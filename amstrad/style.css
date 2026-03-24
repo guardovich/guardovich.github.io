@@ -1,48 +1,51 @@
 body {
   margin: 0;
   background: #111;
+  font-family: monospace;
+  color: #33ff33;
+}
+
+/* LOGO */
+.logo {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+}
+
+.logo img {
+  width: 180px;
+  opacity: 0.9;
+}
+
+/* CENTRAR TERMINAL */
+.terminal-container {
   display: flex;
   justify-content: center;
   align-items: center;
   height: 100vh;
 }
 
-/* CONTENEDOR */
-.amstrad-container {
-  position: relative;
-  width: 900px;
-}
-
-/* IMAGEN */
-.monitor-img {
-  width: 100%;
-  display: block;
-}
-
 /* PANTALLA */
 .screen {
-  position: absolute;
-
-  top: 95px;
-  left: 140px;
-  width: 620px;
-  height: 360px;
+  width: 700px;
+  height: 420px;
 
   background: #000;
-  color: #33ff33;
-
-  font-family: monospace;
-  font-size: 16px;
-
   padding: 20px;
-  overflow: hidden;
 
   border-radius: 20px / 12px;
 
+  box-shadow:
+    0 0 20px rgba(0,255,0,0.2),
+    inset 0 0 20px rgba(0,0,0,0.8);
+
   text-shadow: 0 0 6px #33ff33;
+
+  overflow: hidden;
+  position: relative;
 }
 
-/* CRT efecto */
+/* CRT */
 .screen::before {
   content: "";
   position: absolute;
@@ -53,14 +56,12 @@ body {
     transparent 60%,
     rgba(0,0,0,0.4) 100%
   );
-  pointer-events: none;
 }
 
 .screen::after {
   content: "";
   position: absolute;
-  width: 100%;
-  height: 100%;
+  inset: 0;
   background: repeating-linear-gradient(
     to bottom,
     rgba(255,255,255,0.05) 0px,
@@ -68,7 +69,6 @@ body {
     transparent 2px,
     transparent 4px
   );
-  pointer-events: none;
 }
 
 /* TEXTO */
@@ -80,7 +80,6 @@ body {
 /* INPUT */
 .input-line {
   display: flex;
-  align-items: center;
 }
 
 .prompt {
@@ -92,7 +91,7 @@ input {
   border: none;
   color: #33ff33;
   font-family: inherit;
-  font-size: inherit;
+  font-size: 16px;
   outline: none;
   width: 100%;
 }
