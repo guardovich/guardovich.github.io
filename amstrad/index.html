@@ -17,16 +17,20 @@
 <div class="terminal-container">
   <div class="screen">
 
-    <div id="output">
-      <p>Amstrad Consumer Electronics plc</p>
-      <p>BASIC 1.0</p>
-      <p>Ready</p>
-    </div>
+    <!-- BOOT -->
+    <div id="boot"></div>
 
-    <div class="input-line">
-      <span class="prompt">></span>
-      <input id="commandInput" autofocus />
-      <span class="cursor"></span>
+    <!-- TERMINAL REAL -->
+    <div id="terminal" style="display:none;">
+
+      <div id="output"></div>
+
+      <div class="input-line">
+        <span class="prompt">></span>
+        <input id="commandInput" autocomplete="off" />
+        <span class="cursor"></span>
+      </div>
+
     </div>
 
   </div>
