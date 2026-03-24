@@ -2,6 +2,8 @@ const boot = document.getElementById("boot");
 const terminal = document.getElementById("terminal");
 const input = document.getElementById("commandInput");
 const output = document.getElementById("output");
+const screen = document.getElementById("screen");
+const modeLabel = document.getElementById("modeLabel");
 
 /* ======================
    ESTADO
@@ -9,7 +11,10 @@ const output = document.getElementById("output");
 let wikiOptions = [];
 let newsOptions = [];
 let waitingSelection = false;
-let selectionMode = null; // "wiki" o "news"
+let selectionMode = null;
+
+let currentText = [];
+let currentIndex = 0;
 
 /* ======================
    PRINT
@@ -33,6 +38,38 @@ function beep(freq = 800, duration = 80) {
     osc.start();
     setTimeout(() => osc.stop(), duration);
   } catch {}
+}
+
+/* ======================
+   RELOJ
+====================== */
+function updateClock() {
+  const clock = document.getElementById("clock");
+  const now = new Date();
+
+  const time = now.toLocaleTimeString("es-ES", { hour12: false });
+  const date = now.toLocaleDateString("es-ES");
+
+  clock.innerHTML = `${time}<br>${date}`;
+}
+setInterval(updateClock, 1000);
+updateClock();
+
+/* ======================
+   MODOS CPC
+====================== */
+function setMode(mode) {
+  screen.classList.remove("mode1", "mode2");
+
+  if (mode === 2) {
+    screen.classList.add("mode2");
+    modeLabel.textContent = "MODE: 2";
+  } else {
+    screen.classList.add("mode1");
+    modeLabel.textContent = "MODE: 1";
+  }
+
+  print("Modo cambiado.");
 }
 
 /* ======================
@@ -103,42 +140,57 @@ function splitText(text, maxLength = 60) {
 }
 
 /* ======================
+   PAGINACIÓN
+====================== */
+function showMore() {
+  const chunk = currentText.slice(currentIndex, currentIndex + 10);
+
+  chunk.forEach(line => print(line));
+  currentIndex += 10;
+
+  if (currentIndex < currentText.length) {
+    print("-- MORE --");
+  }
+}
+
+/* ======================
    WIKIPEDIA
 ====================== */
-async function searchWikipedia(query) {
+async function searchWikipedia(query, full = false) {
   print("Consultando base de datos...");
 
   try {
-    const url = `https://es.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(query)}`;
+    let url;
+
+    if (full) {
+      url = `https://es.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&titles=${encodeURIComponent(query)}&format=json&origin=*`;
+    } else {
+      url = `https://es.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(query)}`;
+    }
+
     const res = await fetch(url);
-
-    if (!res.ok) return searchWikipediaFallback(query);
-
     const data = await res.json();
 
-    const isDisambiguation =
-      data.type === "disambiguation" ||
-      (data.extract && data.extract.toLowerCase().includes("puede referirse a"));
+    let text = "";
 
-    if (isDisambiguation) {
-      print("Entrada ambigua. Buscando opciones...");
-      return searchWikipediaFallback(query);
-    }
-
-    if (data.extract) {
-      wikiOptions = [];
-      waitingSelection = false;
-      selectionMode = null;
-
-      print("-----");
-      print(data.title.toUpperCase());
-      print("-----");
-
-      const lines = splitText(data.extract);
-      lines.forEach(line => print(line));
+    if (full) {
+      const pages = data.query.pages;
+      const page = Object.values(pages)[0];
+      text = page.extract;
     } else {
-      searchWikipediaFallback(query);
+      text = data.extract;
     }
+
+    if (!text) return searchWikipediaFallback(query);
+
+    print("-----");
+    print(query.toUpperCase());
+    print("-----");
+
+    currentText = splitText(text);
+    currentIndex = 0;
+
+    showMore();
 
   } catch {
     print("Error de conexión.");
@@ -146,53 +198,50 @@ async function searchWikipedia(query) {
 }
 
 /* ======================
-   FALLBACK WIKI
+   FALLBACK
 ====================== */
 async function searchWikipediaFallback(query) {
-  try {
-    const url = `https://es.wikipedia.org/w/api.php?action=query&list=search&srsearch=${encodeURIComponent(query)}&format=json&origin=*`;
-    const res = await fetch(url);
-    const data = await res.json();
+  const url = `https://es.wikipedia.org/w/api.php?action=query&list=search&srsearch=${encodeURIComponent(query)}&format=json&origin=*`;
+  const res = await fetch(url);
+  const data = await res.json();
 
-    const results = data.query.search;
+  wikiOptions = data.query.search.slice(0, 5);
+  waitingSelection = true;
+  selectionMode = "wiki";
 
-    if (results.length > 0) {
-      wikiOptions = results.slice(0, 5);
-      waitingSelection = true;
-      selectionMode = "wiki";
+  print("Puede referirse a:");
 
-      print("Puede referirse a:");
-
-      wikiOptions.forEach((r, i) => {
-        print(`${i + 1}. ${r.title}`);
-      });
-
-      print("Selecciona número...");
-    } else {
-      print("No encontrado.");
-    }
-
-  } catch {
-    print("Error.");
-  }
+  wikiOptions.forEach((r, i) => {
+    print(`${i + 1}. ${r.title}`);
+  });
 }
 
 /* ======================
-   NEWS RSS
+   NEWS AI
 ====================== */
 async function loadNewsAI() {
-  print("Cargando noticias de IA...");
+  loadRSS("https://feeds.bbci.co.uk/news/technology/rss.xml", "AI / TECH NEWS");
+}
+
+/* ======================
+   NEWS COM (académico)
+====================== */
+async function loadNewsCOM() {
+  loadRSS("https://www.tandfonline.com/feed/rss/hmcs20", "COMMUNICATION RESEARCH");
+}
+
+/* ======================
+   RSS GENERICO
+====================== */
+async function loadRSS(feed, title) {
+  print("Cargando noticias...");
 
   try {
-    const rssUrl = encodeURIComponent("https://feeds.bbci.co.uk/news/technology/rss.xml");
-    const url = `https://api.allorigins.win/raw?url=${rssUrl}`;
-
+    const url = `https://api.allorigins.win/raw?url=${encodeURIComponent(feed)}`;
     const res = await fetch(url);
     const text = await res.text();
 
-    const parser = new DOMParser();
-    const xml = parser.parseFromString(text, "text/xml");
-
+    const xml = new DOMParser().parseFromString(text, "text/xml");
     const items = xml.querySelectorAll("item");
 
     newsOptions = [];
@@ -200,7 +249,7 @@ async function loadNewsAI() {
     selectionMode = "news";
 
     print("-----");
-    print("AI / TECH NEWS");
+    print(title);
     print("-----");
 
     let count = 0;
@@ -211,16 +260,13 @@ async function loadNewsAI() {
       const title = item.querySelector("title")?.textContent;
       const link = item.querySelector("link")?.textContent;
 
-      if (title && link) {
-        newsOptions.push({ title, link });
-        print(`${count + 1}. ${title}`);
-        count++;
-      }
+      newsOptions.push({ title, link });
+      print(`${count + 1}. ${title}`);
+      count++;
     });
 
-    print("Selecciona número para abrir noticia...");
   } catch {
-    print("Error cargando noticias.");
+    print("Error RSS.");
   }
 }
 
@@ -229,83 +275,45 @@ async function loadNewsAI() {
 ====================== */
 function runCommand(cmd) {
   const clean = cmd.trim();
-
   print("> " + cmd);
 
-  /* 🔥 SELECCIÓN UNIVERSAL */
   if (waitingSelection && !isNaN(clean)) {
-    const index = parseInt(clean) - 1;
+    const i = parseInt(clean) - 1;
 
-    if (selectionMode === "wiki" && wikiOptions[index]) {
-      const selected = wikiOptions[index].title;
-
-      waitingSelection = false;
-      wikiOptions = [];
-      selectionMode = null;
-
-      print("Cargando: " + selected);
-      searchWikipedia(selected);
-      return;
+    if (selectionMode === "wiki") {
+      searchWikipedia(wikiOptions[i].title);
     }
 
-    if (selectionMode === "news" && newsOptions[index]) {
-      const selected = newsOptions[index];
-
-      waitingSelection = false;
-      newsOptions = [];
-      selectionMode = null;
-
-      print("Abriendo noticia...");
-      window.open(selected.link, "_blank");
-      return;
+    if (selectionMode === "news") {
+      window.open(newsOptions[i].link);
     }
 
-    print("Opción inválida.");
+    waitingSelection = false;
     return;
   }
 
   const command = clean.toUpperCase();
 
   if (command === "HELP") {
-    print("COMANDOS:");
-    print("WIKI [tema]");
-    print("NEWS");
-    print("CLEAR");
-    print("ABOUT");
+    print("WIKI / WIKI+ / MORE");
+    print("NEWS / NEWS COM");
+    print("MODE 1 / MODE 2");
     return;
   }
 
-  if (command === "CLEAR") {
-    output.innerHTML = "";
-    wikiOptions = [];
-    newsOptions = [];
-    waitingSelection = false;
-    selectionMode = null;
-    return;
-  }
-
-  if (command === "ABOUT") {
-    print("GUARDOVICH CPC SYSTEM");
-    print("Wikipedia + Noticias IA");
-    return;
-  }
-
-  if (command.startsWith("WIKI ")) {
-    searchWikipedia(clean.slice(5));
-    return;
-  }
-
-  if (command === "NEWS" || command === "NEWS AI") {
-    loadNewsAI();
-    return;
-  }
+  if (command === "MORE") return showMore();
+  if (command === "MODE 1") return setMode(1);
+  if (command === "MODE 2") return setMode(2);
+  if (command === "NEWS") return loadNewsAI();
+  if (command === "NEWS COM") return loadNewsCOM();
+  if (command.startsWith("WIKI+ ")) return searchWikipedia(clean.slice(6), true);
+  if (command.startsWith("WIKI ")) return searchWikipedia(clean.slice(5));
 
   print("Syntax Error");
-  beep(200, 100);
 }
 
 /* INPUT */
-input.addEventListener("keydown", (e) => {
+input.addEventListener("keydown", e => {
   if (e.key === "Enter") {
     runCommand(input.value);
     input.value = "";
