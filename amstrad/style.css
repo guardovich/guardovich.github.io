@@ -1,17 +1,32 @@
+/* ======================
+   FUENTE CPC REAL
+====================== */
+@font-face {
+  font-family: 'CPC';
+  src: url('fonts/cpc.ttf') format('truetype');
+}
+
+/* ======================
+   BASE
+====================== */
 body {
   margin: 0;
   background: #111;
-  font-family: monospace;
+  font-family: 'CPC', monospace;
   color: #33ff33;
 }
 
-/* LAYOUT GENERAL */
+/* ======================
+   LAYOUT GENERAL
+====================== */
 .layout {
   display: flex;
   height: 100vh;
 }
 
-/* SIDEBAR IZQUIERDA */
+/* ======================
+   SIDEBAR IZQUIERDA
+====================== */
 .sidebar {
   width: 260px;
   background: #000;
@@ -42,7 +57,9 @@ body {
   color: #00ffcc;
 }
 
-/* ZONA PRINCIPAL */
+/* ======================
+   ZONA PRINCIPAL
+====================== */
 .main {
   flex: 1;
   display: flex;
@@ -50,7 +67,9 @@ body {
   align-items: center;
 }
 
-/* PANTALLA */
+/* ======================
+   PANTALLA CPC
+====================== */
 .screen {
   width: 700px;
   height: 420px;
@@ -67,9 +86,20 @@ body {
 
   overflow: hidden;
   position: relative;
+
+  /* 🔥 CLAVE CPC */
+  font-family: 'CPC', monospace;
+  font-size: 16px;
+  line-height: 1.1;
+  letter-spacing: 1px;
+
+  -webkit-font-smoothing: none;
+  font-smooth: never;
 }
 
-/* CRT */
+/* ======================
+   CRT EFECTO
+====================== */
 .screen::before {
   content: "";
   position: absolute;
@@ -95,27 +125,35 @@ body {
   );
 }
 
-/* BOOT */
+/* ======================
+   BOOT
+====================== */
 #boot {
   position: absolute;
   inset: 0;
   padding: 20px;
 }
 
-/* TERMINAL */
+/* ======================
+   TERMINAL
+====================== */
 #terminal {
   height: 100%;
   display: flex;
   flex-direction: column;
 }
 
-/* TEXTO */
+/* ======================
+   TEXTO
+====================== */
 #output {
   flex: 1;
   overflow-y: auto;
 }
 
-/* INPUT */
+/* ======================
+   INPUT
+====================== */
 .input-line {
   display: flex;
 }
@@ -124,13 +162,15 @@ input {
   background: transparent;
   border: none;
   color: #33ff33;
-  font-family: inherit;
+  font-family: 'CPC', monospace;
   font-size: 16px;
   outline: none;
   width: 100%;
 }
 
-/* CURSOR */
+/* ======================
+   CURSOR
+====================== */
 .cursor {
   width: 10px;
   height: 18px;
@@ -142,7 +182,9 @@ input {
   50% { opacity: 0; }
 }
 
-/* RESPONSIVE */
+/* ======================
+   RESPONSIVE
+====================== */
 @media (max-width: 800px) {
   .layout {
     flex-direction: column;
