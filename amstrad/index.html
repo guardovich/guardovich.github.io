@@ -1,59 +1,30 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Amstrad CPC Interface</title>
-  <link rel="stylesheet" href="style.css" />
+  <meta charset="UTF-8">
+  <title>AMSTRAD CPC</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <div class="cpc-frame">
-    <div class="screen-bezel">
-      <main class="screen" id="screen">
-        <header class="boot-block">
-          <div class="line">Amstrad Consumer Electronics plc</div>
-          <div class="line">BASIC 1.0</div>
-          <div class="line">Ready</div>
-        </header>
 
-        <section class="hero">
-          <h1>GUARDOVICH CPC</h1>
-          <p class="subtitle">Sistema de información retro</p>
-        </section>
+<div class="monitor">
+  <div class="screen" id="screen">
 
-        <section class="menu">
-          <div class="line prompt-line">
-            <span class="prompt">></span>
-            <span id="typed-command">RUN "MENU"</span>
-            <span class="cursor"></span>
-          </div>
-
-          <nav class="menu-list">
-            <button class="menu-btn" data-section="news">1. Noticias</button>
-            <button class="menu-btn" data-section="projects">2. Proyectos</button>
-            <button class="menu-btn" data-section="about">3. Acerca de</button>
-            <button class="menu-btn" data-section="contact">4. Contacto</button>
-          </nav>
-        </section>
-
-        <section class="content-window" id="content-window">
-          <div class="window-title">Cargando módulo...</div>
-          <div class="window-body" id="content">
-            <p>Selecciona una opción para continuar.</p>
-          </div>
-        </section>
-
-        <footer class="status-bar">
-          <span>MODE 1</span>
-          <span>64K RAM SYSTEM</span>
-          <span id="clock">00:00:00</span>
-        </footer>
-      </main>
+    <div id="output">
+      <p>Amstrad Consumer Electronics plc</p>
+      <p>BASIC 1.0</p>
+      <p>Ready</p>
     </div>
+
+    <div class="input-line">
+      <span class="prompt">></span>
+      <input id="commandInput" autofocus />
+      <span class="cursor"></span>
+    </div>
+
   </div>
+</div>
 
-  <audio id="beep-audio" preload="auto"></audio>
-
-  <script src="script.js"></script>
+<script src="script.js"></script>
 </body>
 </html>
