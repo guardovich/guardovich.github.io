@@ -40,23 +40,28 @@
   <!-- TERMINAL -->
   <main class="main">
 
-    <div class="screen mode1" id="screen">
+    <div class="monitor-wrapper">
 
-      <!-- 🔥 LOGO CPC ENCIMA DE LA PANTALLA -->
-      <img src="img/amstradlogo.png" class="cpc-logo" alt="Amstrad Logo">
+      <!-- 🔥 LOGO FUERA DE LA PANTALLA -->
+      <img src="img/amstradlogo.png" class="cpc-logo-top" alt="Amstrad Logo">
 
-      <!-- BOOT -->
-      <div id="boot"></div>
+      <!-- PANTALLA -->
+      <div class="screen mode1" id="screen">
 
-      <!-- TERMINAL -->
-      <div id="terminal" style="display:none;">
-        <div id="output"></div>
+        <!-- BOOT -->
+        <div id="boot"></div>
 
-        <div class="input-line">
-          <span class="prompt">></span>
-          <input id="commandInput" autocomplete="off" spellcheck="false" />
-          <span class="cursor"></span>
+        <!-- TERMINAL -->
+        <div id="terminal" style="display:none;">
+          <div id="output"></div>
+
+          <div class="input-line">
+            <span class="prompt">></span>
+            <input id="commandInput" autocomplete="off" spellcheck="false" />
+            <span class="cursor"></span>
+          </div>
         </div>
+
       </div>
 
     </div>
