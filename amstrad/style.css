@@ -101,6 +101,24 @@ body {
 }
 
 /* ======================
+   WRAPPER MONITOR
+====================== */
+.monitor-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* ======================
+   LOGO ENCIMA (GRANDE)
+====================== */
+.cpc-logo-top {
+  width: 240px; /* 🔥 doble tamaño */
+  margin-bottom: 12px;
+  opacity: 0.95;
+}
+
+/* ======================
    PANTALLA BASE
 ====================== */
 .screen {
@@ -124,21 +142,6 @@ body {
 
   -webkit-font-smoothing: none;
   -moz-osx-font-smoothing: grayscale;
-}
-
-/* ======================
-   🔥 LOGO CPC EN PANTALLA
-====================== */
-.cpc-logo {
-  position: absolute;
-  top: 10px;
-  left: 50%;
-  transform: translateX(-50%);
-
-  width: 120px;
-  opacity: 0.85;
-
-  pointer-events: none;
 }
 
 /* ======================
