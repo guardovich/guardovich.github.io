@@ -12,18 +12,33 @@
 
   <!-- PANEL IZQUIERDO -->
   <aside class="sidebar">
+
+    <!-- RELOJ -->
+    <div class="clock" id="clock">
+      00:00:00<br>
+      01/01/1985
+    </div>
+
+    <!-- LOGO -->
     <img src="img/monitor.png" alt="Amstrad CPC" class="logo-img">
 
+    <!-- MARCA -->
     <div class="brand">
       <h1>AMSTRAD CPC</h1>
       <h2>GUARDOVICH TECHNOLOGIES</h2>
+    </div>
+
+    <!-- ESTADO -->
+    <div class="system-info">
+      <p>STATUS: ONLINE</p>
+      <p id="modeLabel">MODE: 1</p>
+      <p>DATA: READY</p>
     </div>
   </aside>
 
   <!-- TERMINAL -->
   <main class="main">
-
-    <div class="screen">
+    <div class="screen mode1" id="screen">
 
       <!-- BOOT -->
       <div id="boot"></div>
@@ -34,13 +49,12 @@
 
         <div class="input-line">
           <span class="prompt">></span>
-          <input id="commandInput" autocomplete="off" />
+          <input id="commandInput" autocomplete="off" spellcheck="false" />
           <span class="cursor"></span>
         </div>
       </div>
 
     </div>
-
   </main>
 
 </div>
