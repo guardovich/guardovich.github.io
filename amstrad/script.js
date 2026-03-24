@@ -7,7 +7,9 @@ const output = document.getElementById("output");
    ESTADO
 ====================== */
 let wikiOptions = [];
+let newsOptions = [];
 let waitingSelection = false;
+let selectionMode = null; // "wiki" o "news"
 
 /* ======================
    PRINT
@@ -110,13 +112,10 @@ async function searchWikipedia(query) {
     const url = `https://es.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(query)}`;
     const res = await fetch(url);
 
-    if (!res.ok) {
-      return searchWikipediaFallback(query);
-    }
+    if (!res.ok) return searchWikipediaFallback(query);
 
     const data = await res.json();
 
-    /* 🔥 DETECTAR DESAMBIGUACIÓN */
     const isDisambiguation =
       data.type === "disambiguation" ||
       (data.extract && data.extract.toLowerCase().includes("puede referirse a"));
@@ -129,6 +128,7 @@ async function searchWikipedia(query) {
     if (data.extract) {
       wikiOptions = [];
       waitingSelection = false;
+      selectionMode = null;
 
       print("-----");
       print(data.title.toUpperCase());
@@ -136,7 +136,6 @@ async function searchWikipedia(query) {
 
       const lines = splitText(data.extract);
       lines.forEach(line => print(line));
-
     } else {
       searchWikipediaFallback(query);
     }
@@ -145,8 +144,9 @@ async function searchWikipedia(query) {
     print("Error de conexión.");
   }
 }
+
 /* ======================
-   FALLBACK (FIX REAL)
+   FALLBACK WIKI
 ====================== */
 async function searchWikipediaFallback(query) {
   try {
@@ -159,6 +159,7 @@ async function searchWikipediaFallback(query) {
     if (results.length > 0) {
       wikiOptions = results.slice(0, 5);
       waitingSelection = true;
+      selectionMode = "wiki";
 
       print("Puede referirse a:");
 
@@ -177,6 +178,53 @@ async function searchWikipediaFallback(query) {
 }
 
 /* ======================
+   NEWS RSS
+====================== */
+async function loadNewsAI() {
+  print("Cargando noticias de IA...");
+
+  try {
+    const rssUrl = encodeURIComponent("https://feeds.bbci.co.uk/news/technology/rss.xml");
+    const url = `https://api.allorigins.win/raw?url=${rssUrl}`;
+
+    const res = await fetch(url);
+    const text = await res.text();
+
+    const parser = new DOMParser();
+    const xml = parser.parseFromString(text, "text/xml");
+
+    const items = xml.querySelectorAll("item");
+
+    newsOptions = [];
+    waitingSelection = true;
+    selectionMode = "news";
+
+    print("-----");
+    print("AI / TECH NEWS");
+    print("-----");
+
+    let count = 0;
+
+    items.forEach(item => {
+      if (count >= 5) return;
+
+      const title = item.querySelector("title")?.textContent;
+      const link = item.querySelector("link")?.textContent;
+
+      if (title && link) {
+        newsOptions.push({ title, link });
+        print(`${count + 1}. ${title}`);
+        count++;
+      }
+    });
+
+    print("Selecciona número para abrir noticia...");
+  } catch {
+    print("Error cargando noticias.");
+  }
+}
+
+/* ======================
    COMANDOS
 ====================== */
 function runCommand(cmd) {
@@ -184,23 +232,36 @@ function runCommand(cmd) {
 
   print("> " + cmd);
 
-  /* 🔥 FIX: selección SOLO cuando toca */
+  /* 🔥 SELECCIÓN UNIVERSAL */
   if (waitingSelection && !isNaN(clean)) {
     const index = parseInt(clean) - 1;
 
-    if (wikiOptions[index]) {
+    if (selectionMode === "wiki" && wikiOptions[index]) {
       const selected = wikiOptions[index].title;
 
       waitingSelection = false;
       wikiOptions = [];
+      selectionMode = null;
 
       print("Cargando: " + selected);
       searchWikipedia(selected);
       return;
-    } else {
-      print("Opción inválida.");
+    }
+
+    if (selectionMode === "news" && newsOptions[index]) {
+      const selected = newsOptions[index];
+
+      waitingSelection = false;
+      newsOptions = [];
+      selectionMode = null;
+
+      print("Abriendo noticia...");
+      window.open(selected.link, "_blank");
       return;
     }
+
+    print("Opción inválida.");
+    return;
   }
 
   const command = clean.toUpperCase();
@@ -208,6 +269,7 @@ function runCommand(cmd) {
   if (command === "HELP") {
     print("COMANDOS:");
     print("WIKI [tema]");
+    print("NEWS");
     print("CLEAR");
     print("ABOUT");
     return;
@@ -216,18 +278,25 @@ function runCommand(cmd) {
   if (command === "CLEAR") {
     output.innerHTML = "";
     wikiOptions = [];
+    newsOptions = [];
     waitingSelection = false;
+    selectionMode = null;
     return;
   }
 
   if (command === "ABOUT") {
     print("GUARDOVICH CPC SYSTEM");
-    print("Wikipedia integrada");
+    print("Wikipedia + Noticias IA");
     return;
   }
 
   if (command.startsWith("WIKI ")) {
     searchWikipedia(clean.slice(5));
+    return;
+  }
+
+  if (command === "NEWS" || command === "NEWS AI") {
+    loadNewsAI();
     return;
   }
 
