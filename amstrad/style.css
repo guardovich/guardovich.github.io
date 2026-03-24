@@ -19,37 +19,43 @@ body {
   display: block;
 }
 
-/* PANTALLA AJUSTADA AL HUECO */
+/* PANTALLA */
 .screen {
   position: absolute;
 
   top: 95px;
   left: 140px;
-
   width: 620px;
   height: 360px;
 
   background: #000;
   color: #33ff33;
-  padding: 20px;
 
-  border-radius: 14px;
-
-  text-shadow: 0 0 6px #33ff33;
-}
-
-  background: #000;
-  color: #33ff33;
   font-family: monospace;
+  font-size: 16px;
+
   padding: 20px;
   overflow: hidden;
 
-  border-radius: 10px;
+  border-radius: 20px / 12px;
 
   text-shadow: 0 0 6px #33ff33;
 }
 
-/* scanlines */
+/* CRT efecto */
+.screen::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  background: radial-gradient(
+    ellipse at center,
+    transparent 60%,
+    rgba(0,0,0,0.4) 100%
+  );
+  pointer-events: none;
+}
+
 .screen::after {
   content: "";
   position: absolute;
@@ -65,15 +71,20 @@ body {
   pointer-events: none;
 }
 
-/* texto */
+/* TEXTO */
 #output {
   height: 90%;
   overflow-y: auto;
 }
 
-/* input */
+/* INPUT */
 .input-line {
   display: flex;
+  align-items: center;
+}
+
+.prompt {
+  margin-right: 5px;
 }
 
 input {
@@ -81,11 +92,12 @@ input {
   border: none;
   color: #33ff33;
   font-family: inherit;
+  font-size: inherit;
   outline: none;
   width: 100%;
 }
 
-/* cursor */
+/* CURSOR */
 .cursor {
   width: 10px;
   height: 18px;
@@ -95,8 +107,4 @@ input {
 
 @keyframes blink {
   50% { opacity: 0; }
-}
-
-.screen {
-  border-radius: 20px / 12px;
 }
