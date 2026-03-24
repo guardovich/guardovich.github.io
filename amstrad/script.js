@@ -16,6 +16,13 @@ let selectionMode = null;
 let currentText = [];
 let currentIndex = 0;
 
+/* 🔥 NUEVO */
+let commandHistory = [];
+let historyIndex = -1;
+
+let editorMode = false;
+let editorBuffer = [];
+
 /* ======================
    PRINT
 ====================== */
@@ -27,12 +34,10 @@ function print(text) {
 }
 
 /* ======================
-   CLEAR (🔥 NUEVO)
+   CLEAR
 ====================== */
 function clearScreen() {
   output.innerHTML = "";
-
-  // reset estado
   wikiOptions = [];
   newsOptions = [];
   waitingSelection = false;
@@ -62,16 +67,13 @@ function updateClock() {
   const clock = document.getElementById("clock");
   const now = new Date();
 
-  const time = now.toLocaleTimeString("es-ES", { hour12: false });
-  const date = now.toLocaleDateString("es-ES");
-
-  clock.innerHTML = `${time}<br>${date}`;
+  clock.innerHTML = `${now.toLocaleTimeString("es-ES", {hour12:false})}<br>${now.toLocaleDateString("es-ES")}`;
 }
 setInterval(updateClock, 1000);
 updateClock();
 
 /* ======================
-   MODOS CPC
+   MODOS
 ====================== */
 function setMode(mode) {
   screen.classList.remove("mode1", "mode2");
@@ -169,19 +171,15 @@ function showMore() {
 }
 
 /* ======================
-   WIKIPEDIA
+   WIKI
 ====================== */
 async function searchWikipedia(query, full = false) {
   print("Consultando base de datos...");
 
   try {
-    let url;
-
-    if (full) {
-      url = `https://es.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&titles=${encodeURIComponent(query)}&format=json&origin=*`;
-    } else {
-      url = `https://es.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(query)}`;
-    }
+    let url = full
+      ? `https://es.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&titles=${encodeURIComponent(query)}&format=json&origin=*`
+      : `https://es.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(query)}`;
 
     const res = await fetch(url);
     const data = await res.json();
@@ -191,29 +189,18 @@ async function searchWikipedia(query, full = false) {
 
     if (full) {
       const page = Object.values(data.query.pages)[0];
-
-      if (!page.extract || page.missing !== undefined) {
-        return searchWikipediaFallback(query);
-      }
-
+      if (!page.extract) return searchWikipediaFallback(query);
       text = page.extract;
       title = page.title;
-
     } else {
-      const isDisambiguation =
-        data.type === "disambiguation" ||
-        (data.extract && data.extract.toLowerCase().includes("puede referirse a"));
-
-      if (isDisambiguation || !data.extract) {
+      if (!data.extract || data.type === "disambiguation") {
         return searchWikipediaFallback(query);
       }
-
       text = data.extract;
       title = data.title;
     }
 
     waitingSelection = false;
-    selectionMode = null;
     wikiOptions = [];
 
     print("-----");
@@ -222,7 +209,6 @@ async function searchWikipedia(query, full = false) {
 
     currentText = splitText(text);
     currentIndex = 0;
-
     showMore();
 
   } catch {
@@ -234,47 +220,21 @@ async function searchWikipedia(query, full = false) {
    FALLBACK
 ====================== */
 async function searchWikipediaFallback(query) {
-  try {
-    const url = `https://es.wikipedia.org/w/api.php?action=query&list=search&srsearch=${encodeURIComponent(query)}&format=json&origin=*`;
-    const res = await fetch(url);
-    const data = await res.json();
+  const url = `https://es.wikipedia.org/w/api.php?action=query&list=search&srsearch=${encodeURIComponent(query)}&format=json&origin=*`;
+  const res = await fetch(url);
+  const data = await res.json();
 
-    const results = data.query.search;
+  wikiOptions = data.query.search.slice(0, 5);
+  waitingSelection = true;
+  selectionMode = "wiki";
 
-    if (!results || results.length === 0) {
-      print("No encontrado.");
-      return;
-    }
-
-    wikiOptions = results.slice(0, 6);
-    waitingSelection = true;
-    selectionMode = "wiki";
-
-    print("Puede referirse a:");
-
-    wikiOptions.forEach((r, i) => {
-      print(`${i + 1}. ${r.title}`);
-    });
-
-    print("Selecciona número...");
-  } catch {
-    print("Error.");
-  }
+  print("Puede referirse a:");
+  wikiOptions.forEach((r, i) => print(`${i + 1}. ${r.title}`));
+  print("Selecciona número...");
 }
 
 /* ======================
-   NEWS
-====================== */
-function loadNewsAI() {
-  loadRSS("https://feeds.bbci.co.uk/news/technology/rss.xml", "AI / TECH NEWS");
-}
-
-function loadNewsCOM() {
-  loadRSS("https://rss.sciam.com/ScientificAmerican-Global", "SCIENCE NEWS");
-}
-
-/* ======================
-   RSS (FIX ESTABLE)
+   RSS
 ====================== */
 async function loadRSS(feed, title) {
   print("Cargando noticias...");
@@ -286,11 +246,6 @@ async function loadRSS(feed, title) {
 
     const xml = new DOMParser().parseFromString(data.contents, "text/xml");
     const items = xml.querySelectorAll("item");
-
-    if (!items.length) {
-      print("No hay noticias.");
-      return;
-    }
 
     newsOptions = [];
     waitingSelection = true;
@@ -304,7 +259,6 @@ async function loadRSS(feed, title) {
 
     items.forEach(item => {
       if (count >= 5) return;
-
       const t = item.querySelector("title")?.textContent;
       const link = item.querySelector("link")?.textContent;
 
@@ -316,10 +270,38 @@ async function loadRSS(feed, title) {
     });
 
     print("Selecciona número...");
-  } catch (err) {
+  } catch {
     print("Error RSS.");
-    console.error(err);
   }
+}
+
+/* ======================
+   EDITOR CPC 🔥
+====================== */
+function startEditor() {
+  editorMode = true;
+  editorBuffer = [];
+  print("--- EDITOR MODE ---");
+  print("ESC para salir | SAVE para guardar");
+}
+
+function saveFile() {
+  const blob = new Blob([editorBuffer.join("\n")], { type: "text/markdown" });
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(blob);
+  a.download = "guardovich.md";
+  a.click();
+
+  print("Archivo descargado.");
+}
+
+function loadFile(file) {
+  const reader = new FileReader();
+  reader.onload = e => {
+    editorBuffer = e.target.result.split("\n");
+    editorBuffer.forEach(line => print(line));
+  };
+  reader.readAsText(file);
 }
 
 /* ======================
@@ -327,25 +309,32 @@ async function loadRSS(feed, title) {
 ====================== */
 function runCommand(cmd) {
   const clean = cmd.trim();
+
+  /* 🔥 EDITOR MODE */
+  if (editorMode) {
+    if (clean.toUpperCase() === "SAVE") return saveFile();
+    if (clean === "EXIT") {
+      editorMode = false;
+      print("Saliendo del editor...");
+      return;
+    }
+
+    editorBuffer.push(clean);
+    print(clean);
+    return;
+  }
+
   print("> " + cmd);
 
-  /* selección */
+  commandHistory.push(cmd);
+  historyIndex = commandHistory.length;
+
   if (waitingSelection && !isNaN(clean)) {
     const i = parseInt(clean) - 1;
 
-    if (selectionMode === "wiki" && wikiOptions[i]) {
-      waitingSelection = false;
-      searchWikipedia(wikiOptions[i].title);
-      return;
-    }
+    if (selectionMode === "wiki") return searchWikipedia(wikiOptions[i].title);
+    if (selectionMode === "news") return window.open(newsOptions[i].link);
 
-    if (selectionMode === "news" && newsOptions[i]) {
-      waitingSelection = false;
-      window.open(newsOptions[i].link, "_blank");
-      return;
-    }
-
-    print("Opción inválida.");
     return;
   }
 
@@ -353,41 +342,58 @@ function runCommand(cmd) {
 
   if (command === "HELP") {
     print("WIKI / WIKI+ / MORE");
-    print("NEWS / NEWS COM");
-    print("MODE 1 / MODE 2");
+    print("NEWS / MODE");
+    print("EDIT / SAVE");
     print("CLEAR / ABOUT");
     return;
   }
 
+  if (command === "EDIT") return startEditor();
   if (command === "CLEAR") return clearScreen();
+  if (command === "MODE 1") return setMode(1);
+  if (command === "MODE 2") return setMode(2);
+
+  if (command === "NEWS") return loadRSS("https://feeds.bbci.co.uk/news/technology/rss.xml", "AI NEWS");
+
+  if (command.startsWith("WIKI ")) return searchWikipedia(clean.slice(5));
 
   if (command === "ABOUT") {
     print("GUARDOVICH CPC SYSTEM");
-    print("Retro Terminal + Wikipedia + RSS");
-    print("Powered by Guardovich Technologies");
+    print("Retro + Wikipedia + RSS + Editor");
     return;
   }
-
-  if (command === "MORE") return showMore();
-  if (command === "MODE 1") return setMode(1);
-  if (command === "MODE 2") return setMode(2);
-  if (command === "NEWS") return loadNewsAI();
-  if (command === "NEWS COM") return loadNewsCOM();
-
-  if (command.startsWith("WIKI+ ")) return searchWikipedia(clean.slice(6), true);
-  if (command.startsWith("WIKI ")) return searchWikipedia(clean.slice(5));
 
   print("Syntax Error");
   beep(200, 100);
 }
 
-/* INPUT */
+/* ======================
+   INPUT + HISTORIAL
+====================== */
 input.addEventListener("keydown", e => {
   if (e.key === "Enter") {
     runCommand(input.value);
     input.value = "";
   }
+
+  if (e.key === "ArrowUp") {
+    if (historyIndex > 0) {
+      historyIndex--;
+      input.value = commandHistory[historyIndex];
+    }
+  }
+
+  if (e.key === "ArrowDown") {
+    if (historyIndex < commandHistory.length - 1) {
+      historyIndex++;
+      input.value = commandHistory[historyIndex];
+    } else {
+      input.value = "";
+    }
+  }
 });
 
-/* INIT */
+/* ======================
+   INIT
+====================== */
 startBoot();
