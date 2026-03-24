@@ -1,10 +1,17 @@
+const boot = document.getElementById("boot");
+const terminal = document.getElementById("terminal");
 const input = document.getElementById("commandInput");
 const output = document.getElementById("output");
 
-/* ESTADO GLOBAL */
+/* ======================
+   ESTADO
+====================== */
 let wikiOptions = [];
+let waitingSelection = false;
 
-/* PRINT */
+/* ======================
+   PRINT
+====================== */
 function print(text) {
   const p = document.createElement("p");
   p.textContent = text;
@@ -12,7 +19,69 @@ function print(text) {
   output.scrollTop = output.scrollHeight;
 }
 
-/* SPLIT TEXTO */
+/* ======================
+   SONIDO
+====================== */
+function beep(freq = 800, duration = 80) {
+  try {
+    const ctx = new (window.AudioContext || window.webkitAudioContext)();
+    const osc = ctx.createOscillator();
+    osc.frequency.value = freq;
+    osc.connect(ctx.destination);
+    osc.start();
+    setTimeout(() => osc.stop(), duration);
+  } catch {}
+}
+
+/* ======================
+   BOOT
+====================== */
+function startBoot() {
+  const lines = [
+    "Amstrad Consumer Electronics plc",
+    "BASIC 1.0",
+    "64K RAM SYSTEM",
+    "",
+    "Ready"
+  ];
+
+  let i = 0;
+
+  function typeLine() {
+    if (i >= lines.length) {
+      setTimeout(() => {
+        boot.style.display = "none";
+        terminal.style.display = "flex";
+        input.focus();
+      }, 400);
+      return;
+    }
+
+    const p = document.createElement("p");
+    boot.appendChild(p);
+
+    let j = 0;
+    const text = lines[i];
+
+    const interval = setInterval(() => {
+      p.textContent += text[j] || "";
+      j++;
+
+      if (j > text.length) {
+        clearInterval(interval);
+        i++;
+        setTimeout(typeLine, 200);
+      }
+    }, 20);
+  }
+
+  beep(1200, 50);
+  typeLine();
+}
+
+/* ======================
+   TEXTO
+====================== */
 function splitText(text, maxLength = 60) {
   const words = text.split(" ");
   let lines = [];
@@ -31,69 +100,33 @@ function splitText(text, maxLength = 60) {
   return lines;
 }
 
-/* SONIDO */
-function beep(freq = 600, duration = 50) {
-  try {
-    const ctx = new (window.AudioContext || window.webkitAudioContext)();
-    const osc = ctx.createOscillator();
-    const gain = ctx.createGain();
-
-    osc.frequency.value = freq;
-    osc.type = "square";
-
-    osc.connect(gain);
-    gain.connect(ctx.destination);
-
-    osc.start();
-
-    setTimeout(() => {
-      osc.stop();
-      ctx.close();
-    }, duration);
-  } catch {
-    // por si falla audio en algún navegador
-  }
-}
-
-/* =========================
-   WIKIPEDIA PRINCIPAL
-========================= */
+/* ======================
+   WIKIPEDIA
+====================== */
 async function searchWikipedia(query) {
   print("Consultando base de datos...");
 
   try {
-    const cleanQuery = query.trim();
-
-    const url = `https://es.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(cleanQuery)}`;
+    const url = `https://es.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(query)}`;
     const res = await fetch(url);
 
-    if (!res.ok) {
-      print("No encontrado. Probando búsqueda...");
-      return searchWikipediaFallback(cleanQuery);
-    }
+    if (!res.ok) return searchWikipediaFallback(query);
 
     const data = await res.json();
 
     if (data.extract) {
-      wikiOptions = []; // reset opciones
+      wikiOptions = [];
+      waitingSelection = false;
 
       print("-----");
       print(data.title.toUpperCase());
       print("-----");
 
-      if (data.thumbnail && data.thumbnail.source) {
-        const img = document.createElement("img");
-        img.src = data.thumbnail.source;
-        img.style.width = "120px";
-        img.style.margin = "10px 0";
-        output.appendChild(img);
-      }
-
       const lines = splitText(data.extract);
       lines.forEach(line => print(line));
 
     } else {
-      searchWikipediaFallback(cleanQuery);
+      searchWikipediaFallback(query);
     }
 
   } catch {
@@ -101,62 +134,66 @@ async function searchWikipedia(query) {
   }
 }
 
-/* =========================
-   FALLBACK + DESAMBIGUACIÓN
-========================= */
+/* ======================
+   FALLBACK (FIX REAL)
+====================== */
 async function searchWikipediaFallback(query) {
   try {
-    const searchUrl = `https://es.wikipedia.org/w/api.php?action=query&list=search&srsearch=${encodeURIComponent(query)}&format=json&origin=*`;
-
-    const res = await fetch(searchUrl);
+    const url = `https://es.wikipedia.org/w/api.php?action=query&list=search&srsearch=${encodeURIComponent(query)}&format=json&origin=*`;
+    const res = await fetch(url);
     const data = await res.json();
 
     const results = data.query.search;
 
     if (results.length > 0) {
+      wikiOptions = results.slice(0, 5);
+      waitingSelection = true;
+
       print("Puede referirse a:");
 
-      wikiOptions = results.slice(0, 5);
-
-      wikiOptions.forEach((item, index) => {
-        print(`${index + 1}. ${item.title}`);
+      wikiOptions.forEach((r, i) => {
+        print(`${i + 1}. ${r.title}`);
       });
 
       print("Selecciona número...");
     } else {
-      print("No se encontró información.");
+      print("No encontrado.");
     }
 
   } catch {
-    print("Error en búsqueda.");
+    print("Error.");
   }
 }
 
-/* =========================
+/* ======================
    COMANDOS
-========================= */
+====================== */
 function runCommand(cmd) {
-  const command = cmd.trim().toUpperCase();
+  const clean = cmd.trim();
 
   print("> " + cmd);
 
-  /* SELECCIÓN DE OPCIONES WIKI */
-  if (!isNaN(cmd.trim()) && wikiOptions.length > 0) {
-    const index = parseInt(cmd) - 1;
+  /* 🔥 FIX: selección SOLO cuando toca */
+  if (waitingSelection && !isNaN(clean)) {
+    const index = parseInt(clean) - 1;
 
     if (wikiOptions[index]) {
       const selected = wikiOptions[index].title;
+
+      waitingSelection = false;
       wikiOptions = [];
 
       print("Cargando: " + selected);
-      beep(800, 50);
-
       searchWikipedia(selected);
+      return;
+    } else {
+      print("Opción inválida.");
       return;
     }
   }
 
-  /* HELP */
+  const command = clean.toUpperCase();
+
   if (command === "HELP") {
     print("COMANDOS:");
     print("WIKI [tema]");
@@ -165,29 +202,24 @@ function runCommand(cmd) {
     return;
   }
 
-  /* CLEAR */
   if (command === "CLEAR") {
     output.innerHTML = "";
     wikiOptions = [];
+    waitingSelection = false;
     return;
   }
 
-  /* ABOUT */
   if (command === "ABOUT") {
     print("GUARDOVICH CPC SYSTEM");
     print("Wikipedia integrada");
-    print("Modo retro interactivo");
     return;
   }
 
-  /* WIKI */
   if (command.startsWith("WIKI ")) {
-    const query = cmd.slice(5);
-    searchWikipedia(query);
+    searchWikipedia(clean.slice(5));
     return;
   }
 
-  /* ERROR */
   print("Syntax Error");
   beep(200, 100);
 }
@@ -199,3 +231,6 @@ input.addEventListener("keydown", (e) => {
     input.value = "";
   }
 });
+
+/* INIT */
+startBoot();
