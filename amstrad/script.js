@@ -4,6 +4,9 @@ const input = document.getElementById("commandInput");
 const output = document.getElementById("output");
 const screen = document.getElementById("screen");
 const modeLabel = document.getElementById("modeLabel");
+const fileInput = document.getElementById("fileInput");
+const editorStatus = document.getElementById("editorStatus");
+const promptEl = document.getElementById("prompt");
 
 /* ======================
    ESTADO
@@ -16,21 +19,37 @@ let selectionMode = null;
 let currentText = [];
 let currentIndex = 0;
 
-/* 🔥 NUEVO */
 let commandHistory = [];
 let historyIndex = -1;
 
 let editorMode = false;
 let editorBuffer = [];
+let currentDocName = "guardovich.md";
 
 /* ======================
    PRINT
 ====================== */
-function print(text) {
+function print(text = "") {
   const p = document.createElement("p");
   p.textContent = text;
   output.appendChild(p);
   output.scrollTop = output.scrollHeight;
+}
+
+function renderEditorBuffer() {
+  output.innerHTML = "";
+  editorBuffer.forEach((line) => print(line));
+}
+
+function updateEditorStatus() {
+  if (!editorMode) {
+    editorStatus.style.display = "none";
+    return;
+  }
+
+  editorStatus.style.display = "block";
+  editorStatus.textContent =
+    `WORDSTAR MODE · LINES ${editorBuffer.length} · FILE ${currentDocName} · ESC EXIT · SAVE · LOAD`;
 }
 
 /* ======================
@@ -66,8 +85,7 @@ function beep(freq = 800, duration = 80) {
 function updateClock() {
   const clock = document.getElementById("clock");
   const now = new Date();
-
-  clock.innerHTML = `${now.toLocaleTimeString("es-ES", {hour12:false})}<br>${now.toLocaleDateString("es-ES")}`;
+  clock.innerHTML = `${now.toLocaleTimeString("es-ES", { hour12: false })}<br>${now.toLocaleDateString("es-ES")}`;
 }
 setInterval(updateClock, 1000);
 updateClock();
@@ -143,7 +161,7 @@ function splitText(text, maxLength = 60) {
   let lines = [];
   let current = "";
 
-  words.forEach(word => {
+  words.forEach((word) => {
     if ((current + word).length > maxLength) {
       lines.push(current);
       current = word + " ";
@@ -161,8 +179,7 @@ function splitText(text, maxLength = 60) {
 ====================== */
 function showMore() {
   const chunk = currentText.slice(currentIndex, currentIndex + 10);
-
-  chunk.forEach(line => print(line));
+  chunk.forEach((line) => print(line));
   currentIndex += 10;
 
   if (currentIndex < currentText.length) {
@@ -171,15 +188,19 @@ function showMore() {
 }
 
 /* ======================
-   WIKI
+   WIKIPEDIA
 ====================== */
 async function searchWikipedia(query, full = false) {
   print("Consultando base de datos...");
 
   try {
-    let url = full
-      ? `https://es.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&titles=${encodeURIComponent(query)}&format=json&origin=*`
-      : `https://es.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(query)}`;
+    let url;
+
+    if (full) {
+      url = `https://es.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&titles=${encodeURIComponent(query)}&format=json&origin=*`;
+    } else {
+      url = `https://es.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(query)}`;
+    }
 
     const res = await fetch(url);
     const data = await res.json();
@@ -189,18 +210,28 @@ async function searchWikipedia(query, full = false) {
 
     if (full) {
       const page = Object.values(data.query.pages)[0];
-      if (!page.extract) return searchWikipediaFallback(query);
+
+      if (!page.extract || page.missing !== undefined) {
+        return searchWikipediaFallback(query);
+      }
+
       text = page.extract;
       title = page.title;
     } else {
-      if (!data.extract || data.type === "disambiguation") {
+      const isDisambiguation =
+        data.type === "disambiguation" ||
+        (data.extract && data.extract.toLowerCase().includes("puede referirse a"));
+
+      if (isDisambiguation || !data.extract) {
         return searchWikipediaFallback(query);
       }
+
       text = data.extract;
       title = data.title;
     }
 
     waitingSelection = false;
+    selectionMode = null;
     wikiOptions = [];
 
     print("-----");
@@ -216,26 +247,44 @@ async function searchWikipedia(query, full = false) {
   }
 }
 
-/* ======================
-   FALLBACK
-====================== */
 async function searchWikipediaFallback(query) {
-  const url = `https://es.wikipedia.org/w/api.php?action=query&list=search&srsearch=${encodeURIComponent(query)}&format=json&origin=*`;
-  const res = await fetch(url);
-  const data = await res.json();
+  try {
+    const url = `https://es.wikipedia.org/w/api.php?action=query&list=search&srsearch=${encodeURIComponent(query)}&format=json&origin=*`;
+    const res = await fetch(url);
+    const data = await res.json();
 
-  wikiOptions = data.query.search.slice(0, 5);
-  waitingSelection = true;
-  selectionMode = "wiki";
+    const results = data.query.search;
 
-  print("Puede referirse a:");
-  wikiOptions.forEach((r, i) => print(`${i + 1}. ${r.title}`));
-  print("Selecciona número...");
+    if (!results || results.length === 0) {
+      print("No encontrado.");
+      return;
+    }
+
+    wikiOptions = results.slice(0, 6);
+    waitingSelection = true;
+    selectionMode = "wiki";
+
+    print("Puede referirse a:");
+    wikiOptions.forEach((r, i) => {
+      print(`${i + 1}. ${r.title}`);
+    });
+    print("Selecciona número...");
+  } catch {
+    print("Error.");
+  }
 }
 
 /* ======================
    RSS
 ====================== */
+function loadNewsAI() {
+  loadRSS("https://feeds.bbci.co.uk/news/technology/rss.xml", "AI / TECH NEWS");
+}
+
+function loadNewsCOM() {
+  loadRSS("https://rss.sciam.com/ScientificAmerican-Global", "SCIENCE NEWS");
+}
+
 async function loadRSS(feed, title) {
   print("Cargando noticias...");
 
@@ -247,6 +296,11 @@ async function loadRSS(feed, title) {
     const xml = new DOMParser().parseFromString(data.contents, "text/xml");
     const items = xml.querySelectorAll("item");
 
+    if (!items.length) {
+      print("No hay noticias.");
+      return;
+    }
+
     newsOptions = [];
     waitingSelection = true;
     selectionMode = "news";
@@ -257,8 +311,9 @@ async function loadRSS(feed, title) {
 
     let count = 0;
 
-    items.forEach(item => {
+    items.forEach((item) => {
       if (count >= 5) return;
+
       const t = item.querySelector("title")?.textContent;
       const link = item.querySelector("link")?.textContent;
 
@@ -270,37 +325,69 @@ async function loadRSS(feed, title) {
     });
 
     print("Selecciona número...");
-  } catch {
+  } catch (err) {
     print("Error RSS.");
+    console.error(err);
   }
 }
 
 /* ======================
-   EDITOR CPC 🔥
+   WORDSTAR MODE
 ====================== */
 function startEditor() {
   editorMode = true;
   editorBuffer = [];
-  print("--- EDITOR MODE ---");
-  print("ESC para salir | SAVE para guardar");
+  currentDocName = "guardovich.md";
+  screen.classList.add("editor-mode");
+  promptEl.textContent = ":";
+  clearScreen();
+  print("WORDSTAR 4.0");
+  print("------------------------------");
+  print("Escribe línea a línea.");
+  print("SAVE para descargar .md");
+  print("LOAD para cargar .md");
+  print("ESC o EXIT para salir");
+  print("------------------------------");
+  updateEditorStatus();
 }
 
-function saveFile() {
-  const blob = new Blob([editorBuffer.join("\n")], { type: "text/markdown" });
+function exitEditor() {
+  editorMode = false;
+  screen.classList.remove("editor-mode");
+  promptEl.textContent = ">";
+  updateEditorStatus();
+  print("Saliendo del editor...");
+}
+
+function saveEditorFile() {
+  const content = editorBuffer.join("\n");
+  const blob = new Blob([content], { type: "text/markdown" });
   const a = document.createElement("a");
   a.href = URL.createObjectURL(blob);
-  a.download = "guardovich.md";
+  a.download = currentDocName;
   a.click();
-
-  print("Archivo descargado.");
+  print(`Archivo descargado: ${currentDocName}`);
 }
 
-function loadFile(file) {
+function triggerLoadFile() {
+  fileInput.value = "";
+  fileInput.click();
+}
+
+function loadEditorFile(file) {
   const reader = new FileReader();
-  reader.onload = e => {
-    editorBuffer = e.target.result.split("\n");
-    editorBuffer.forEach(line => print(line));
+
+  reader.onload = (e) => {
+    const content = e.target.result || "";
+    editorBuffer = String(content).replace(/\r/g, "").split("\n");
+    currentDocName = file.name || "guardovich.md";
+    clearScreen();
+    print(`CARGADO: ${currentDocName}`);
+    print("------------------------------");
+    renderEditorBuffer();
+    updateEditorStatus();
   };
+
   reader.readAsText(file);
 }
 
@@ -309,32 +396,57 @@ function loadFile(file) {
 ====================== */
 function runCommand(cmd) {
   const clean = cmd.trim();
+  if (!editorMode) {
+    print("> " + cmd);
+  }
 
-  /* 🔥 EDITOR MODE */
   if (editorMode) {
-    if (clean.toUpperCase() === "SAVE") return saveFile();
-    if (clean === "EXIT") {
-      editorMode = false;
-      print("Saliendo del editor...");
+    const upper = clean.toUpperCase();
+
+    if (upper === "SAVE") {
+      saveEditorFile();
       return;
     }
 
-    editorBuffer.push(clean);
-    print(clean);
+    if (upper === "LOAD") {
+      triggerLoadFile();
+      return;
+    }
+
+    if (upper === "EXIT") {
+      exitEditor();
+      return;
+    }
+
+    if (clean !== "") {
+      editorBuffer.push(clean);
+      print(clean);
+      updateEditorStatus();
+    }
     return;
   }
 
-  print("> " + cmd);
-
-  commandHistory.push(cmd);
-  historyIndex = commandHistory.length;
+  if (clean !== "") {
+    commandHistory.push(clean);
+    historyIndex = commandHistory.length;
+  }
 
   if (waitingSelection && !isNaN(clean)) {
-    const i = parseInt(clean) - 1;
+    const i = parseInt(clean, 10) - 1;
 
-    if (selectionMode === "wiki") return searchWikipedia(wikiOptions[i].title);
-    if (selectionMode === "news") return window.open(newsOptions[i].link);
+    if (selectionMode === "wiki" && wikiOptions[i]) {
+      waitingSelection = false;
+      searchWikipedia(wikiOptions[i].title);
+      return;
+    }
 
+    if (selectionMode === "news" && newsOptions[i]) {
+      waitingSelection = false;
+      window.open(newsOptions[i].link, "_blank");
+      return;
+    }
+
+    print("Opción inválida.");
     return;
   }
 
@@ -342,52 +454,79 @@ function runCommand(cmd) {
 
   if (command === "HELP") {
     print("WIKI / WIKI+ / MORE");
-    print("NEWS / MODE");
-    print("EDIT / SAVE");
-    print("CLEAR / ABOUT");
+    print("NEWS / NEWS COM");
+    print("MODE 1 / MODE 2");
+    print("EDIT / CLEAR / ABOUT");
+    return;
+  }
+
+  if (command === "CLEAR") return clearScreen();
+  if (command === "ABOUT") {
+    print("GUARDOVICH CPC SYSTEM");
+    print("Retro Terminal + Wikipedia + RSS");
+    print("WORDSTAR MODE integrado");
+    print("Powered by Guardovich Technologies");
     return;
   }
 
   if (command === "EDIT") return startEditor();
-  if (command === "CLEAR") return clearScreen();
+  if (command === "MORE") return showMore();
   if (command === "MODE 1") return setMode(1);
   if (command === "MODE 2") return setMode(2);
+  if (command === "NEWS") return loadNewsAI();
+  if (command === "NEWS COM") return loadNewsCOM();
 
-  if (command === "NEWS") return loadRSS("https://feeds.bbci.co.uk/news/technology/rss.xml", "AI NEWS");
-
+  if (command.startsWith("WIKI+ ")) return searchWikipedia(clean.slice(6), true);
   if (command.startsWith("WIKI ")) return searchWikipedia(clean.slice(5));
 
-  if (command === "ABOUT") {
-    print("GUARDOVICH CPC SYSTEM");
-    print("Retro + Wikipedia + RSS + Editor");
-    return;
+  if (clean !== "") {
+    print("Syntax Error");
+    beep(200, 100);
   }
-
-  print("Syntax Error");
-  beep(200, 100);
 }
+
+/* ======================
+   FILE INPUT
+====================== */
+fileInput.addEventListener("change", (e) => {
+  const file = e.target.files?.[0];
+  if (file) {
+    loadEditorFile(file);
+  }
+});
 
 /* ======================
    INPUT + HISTORIAL
 ====================== */
-input.addEventListener("keydown", e => {
+input.addEventListener("keydown", (e) => {
+  if (editorMode && e.key === "Escape") {
+    e.preventDefault();
+    exitEditor();
+    input.value = "";
+    return;
+  }
+
   if (e.key === "Enter") {
     runCommand(input.value);
     input.value = "";
+    return;
   }
 
-  if (e.key === "ArrowUp") {
+  if (!editorMode && e.key === "ArrowUp") {
+    e.preventDefault();
     if (historyIndex > 0) {
       historyIndex--;
       input.value = commandHistory[historyIndex];
     }
   }
 
-  if (e.key === "ArrowDown") {
+  if (!editorMode && e.key === "ArrowDown") {
+    e.preventDefault();
     if (historyIndex < commandHistory.length - 1) {
       historyIndex++;
       input.value = commandHistory[historyIndex];
     } else {
+      historyIndex = commandHistory.length;
       input.value = "";
     }
   }
