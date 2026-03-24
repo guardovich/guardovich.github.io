@@ -1,34 +1,43 @@
-@font-face {
-  font-family: "CPC";
-  src: url("fonts/cpc.ttf");
-}
-
 body {
+  margin: 0;
   background: #111;
   display: flex;
   justify-content: center;
   align-items: center;
   height: 100vh;
-  margin: 0;
 }
 
-.monitor {
-  background: #333;
-  padding: 30px;
-  border-radius: 20px;
-  box-shadow: inset 0 0 20px #000;
+/* CONTENEDOR */
+.amstrad-container {
+  position: relative;
+  width: 900px;
 }
 
+/* IMAGEN */
+.monitor-img {
+  width: 100%;
+  display: block;
+}
+
+/* PANTALLA AJUSTADA AL HUECO */
 .screen {
-  width: 640px;
-  height: 400px;
+  position: absolute;
+
+  /* 🔥 AJUSTA ESTO FINAMENTE */
+  top: 70px;
+  left: 110px;
+  width: 680px;
+  height: 420px;
+
   background: #000;
   color: #33ff33;
-  font-family: "CPC", monospace;
-  font-size: 16px;
+  font-family: monospace;
   padding: 20px;
-  position: relative;
   overflow: hidden;
+
+  border-radius: 10px;
+
+  text-shadow: 0 0 6px #33ff33;
 }
 
 /* scanlines */
@@ -47,23 +56,15 @@ body {
   pointer-events: none;
 }
 
-/* glow */
-.screen {
-  text-shadow: 0 0 6px #33ff33;
-}
-
+/* texto */
 #output {
   height: 90%;
   overflow-y: auto;
 }
 
+/* input */
 .input-line {
   display: flex;
-  align-items: center;
-}
-
-.prompt {
-  margin-right: 5px;
 }
 
 input {
@@ -71,7 +72,6 @@ input {
   border: none;
   color: #33ff33;
   font-family: inherit;
-  font-size: inherit;
   outline: none;
   width: 100%;
 }
