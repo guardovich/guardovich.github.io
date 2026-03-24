@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-24T02:04:38.217Z",
+  "generatedAt": "2026-03-24T07:04:11.141Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
@@ -72,6 +72,12 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "Tropical Cyclone Narelle Crosses Australia",
+          "link": "https://science.nasa.gov/earth/earth-observatory/tropical-cyclone-narelle-crosses-australia/",
+          "summary": "The powerful storm lashed the northern edge of the continent with damaging winds and drenching rain as it made landfall multiple times.",
+          "isoDate": "2026-03-24T04:01:00.000Z"
+        },
+        {
           "title": "NASA Data Hackathon Inspires Community Action",
           "link": "https://science.nasa.gov/get-involved/citizen-science/nasa-data-hackathon-inspires-community-action/",
           "summary": "On Jan. 31, students, library staff, researchers, and community members gathered at the University of Florida’s (UF) Marston Science Library for the Environmental Monitoring through Education, Research, and Geospatial Engagement (EMERGE) NASA Data Hackathon. This initiative empowers libraries, educators, and individuals to engage in public health and environmental science using real-world data tools and citizen […]",
@@ -124,12 +130,6 @@
           "link": "https://www.nature.com/articles/d41586-026-00881-6",
           "summary": "Nature, Published online: 23 March 2026; doi:10.1038/d41586-026-00881-6\nScientific discoveries are increasingly eroding the human–animal divide and challenging long-standing assumptions about human exceptionalism.",
           "isoDate": "2026-03-23T00:00:00.000Z"
-        },
-        {
-          "title": "How to measure a good life – tips for moving beyond GDP",
-          "link": "https://www.nature.com/articles/d41586-026-00884-3",
-          "summary": "Nature, Published online: 23 March 2026; doi:10.1038/d41586-026-00884-3\nIncluding human and environmental capital paints a different picture of national economies than does GDP alone.",
-          "isoDate": "2026-03-23T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-03-24T02:04:33.775Z"
+          "isoDate": "2026-03-24T07:04:06.819Z"
         },
         {
           "title": "US bans new foreign-made consumer internet routers",
@@ -204,6 +204,12 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "How to create “humble” AI ",
+          "link": "https://news.mit.edu/2026/creating-humble-ai-0324",
+          "summary": "An MIT-led team is designing artificial intelligence systems for medical diagnosis that are more collaborative and forthcoming about uncertainty.",
+          "isoDate": "2026-03-24T04:00:00.000Z"
+        },
+        {
           "title": "Advancing international trade research and finding community",
           "link": "https://news.mit.edu/2026/sojun-park-advancing-international-trade-research-finding-community-0323",
           "summary": "Sojun Park, a postdoc at the Center for International Studies, has learned much from his research on intellectual property as well as his interactions with students and mentors at MIT.",
@@ -256,12 +262,6 @@
           "link": "https://openai.com/index/openai-to-acquire-astral",
           "summary": "Accelerates Codex growth to power the next generation of Python developer tools",
           "isoDate": "2026-03-19T00:00:00.000Z"
-        },
-        {
-          "title": "Sustaining diplomacy amid competition in US-China relations",
-          "link": "https://news.mit.edu/2026/sustaining-diplomacy-amid-us-china-competition-0318",
-          "summary": "At MIT, former U.S. ambassador to China Nicholas Burns highlights climate change as an area for diplomatic engagement, while exploring areas including China's emphasis on STEM education.",
-          "isoDate": "2026-03-18T04:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-03-24T02:04:36.954Z"
+          "isoDate": "2026-03-24T07:04:09.603Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 58\nChar: =",
-          "isoDate": "2026-03-24T02:04:35.195Z"
+          "isoDate": "2026-03-24T07:04:08.102Z"
         },
         {
           "title": "Remembering IEEE Power & Energy Society Leader Mel Olken",
