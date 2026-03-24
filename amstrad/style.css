@@ -4,6 +4,7 @@
 @font-face {
   font-family: 'CPC';
   src: url('fonts/cpc.ttf') format('truetype');
+  font-display: swap;
 }
 
 /* ======================
@@ -87,14 +88,15 @@ body {
   overflow: hidden;
   position: relative;
 
-  /* 🔥 CLAVE CPC */
+  /* 🔥 CPC REAL */
   font-family: 'CPC', monospace;
   font-size: 16px;
   line-height: 1.1;
   letter-spacing: 1px;
 
+  /* quitar suavizado */
   -webkit-font-smoothing: none;
-  font-smooth: never;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 /* ======================
@@ -110,6 +112,7 @@ body {
     transparent 60%,
     rgba(0,0,0,0.4) 100%
   );
+  pointer-events: none;
 }
 
 .screen::after {
@@ -123,6 +126,7 @@ body {
     transparent 2px,
     transparent 4px
   );
+  pointer-events: none;
 }
 
 /* ======================
