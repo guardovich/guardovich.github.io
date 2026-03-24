@@ -154,7 +154,7 @@ function showMore() {
 }
 
 /* ======================
-   WIKIPEDIA
+   WIKIPEDIA (FIX REAL)
 ====================== */
 async function searchWikipedia(query, full = false) {
   print("Consultando base de datos...");
@@ -172,19 +172,37 @@ async function searchWikipedia(query, full = false) {
     const data = await res.json();
 
     let text = "";
+    let title = query;
 
     if (full) {
-      const pages = data.query.pages;
-      const page = Object.values(pages)[0];
+      const page = Object.values(data.query.pages)[0];
+
+      if (!page.extract || page.missing !== undefined) {
+        return searchWikipediaFallback(query);
+      }
+
       text = page.extract;
+      title = page.title;
+
     } else {
+      const isDisambiguation =
+        data.type === "disambiguation" ||
+        (data.extract && data.extract.toLowerCase().includes("puede referirse a"));
+
+      if (isDisambiguation || !data.extract) {
+        return searchWikipediaFallback(query);
+      }
+
       text = data.extract;
+      title = data.title;
     }
 
-    if (!text) return searchWikipediaFallback(query);
+    waitingSelection = false;
+    selectionMode = null;
+    wikiOptions = [];
 
     print("-----");
-    print(query.toUpperCase());
+    print(title.toUpperCase());
     print("-----");
 
     currentText = splitText(text);
@@ -198,40 +216,53 @@ async function searchWikipedia(query, full = false) {
 }
 
 /* ======================
-   FALLBACK
+   FALLBACK (AMBIGÜEDAD)
 ====================== */
 async function searchWikipediaFallback(query) {
-  const url = `https://es.wikipedia.org/w/api.php?action=query&list=search&srsearch=${encodeURIComponent(query)}&format=json&origin=*`;
-  const res = await fetch(url);
-  const data = await res.json();
+  try {
+    const url = `https://es.wikipedia.org/w/api.php?action=query&list=search&srsearch=${encodeURIComponent(query)}&format=json&origin=*`;
+    const res = await fetch(url);
+    const data = await res.json();
 
-  wikiOptions = data.query.search.slice(0, 5);
-  waitingSelection = true;
-  selectionMode = "wiki";
+    const results = data.query.search;
 
-  print("Puede referirse a:");
+    if (!results || results.length === 0) {
+      print("No encontrado.");
+      return;
+    }
 
-  wikiOptions.forEach((r, i) => {
-    print(`${i + 1}. ${r.title}`);
-  });
+    wikiOptions = results.slice(0, 6);
+    waitingSelection = true;
+    selectionMode = "wiki";
+
+    print("Puede referirse a:");
+
+    wikiOptions.forEach((r, i) => {
+      print(`${i + 1}. ${r.title}`);
+    });
+
+    print("Selecciona número...");
+  } catch {
+    print("Error.");
+  }
 }
 
 /* ======================
    NEWS AI
 ====================== */
-async function loadNewsAI() {
+function loadNewsAI() {
   loadRSS("https://feeds.bbci.co.uk/news/technology/rss.xml", "AI / TECH NEWS");
 }
 
 /* ======================
    NEWS COM (académico)
 ====================== */
-async function loadNewsCOM() {
+function loadNewsCOM() {
   loadRSS("https://www.tandfonline.com/feed/rss/hmcs20", "COMMUNICATION RESEARCH");
 }
 
 /* ======================
-   RSS GENERICO
+   RSS
 ====================== */
 async function loadRSS(feed, title) {
   print("Cargando noticias...");
@@ -257,14 +288,17 @@ async function loadRSS(feed, title) {
     items.forEach(item => {
       if (count >= 5) return;
 
-      const title = item.querySelector("title")?.textContent;
+      const t = item.querySelector("title")?.textContent;
       const link = item.querySelector("link")?.textContent;
 
-      newsOptions.push({ title, link });
-      print(`${count + 1}. ${title}`);
-      count++;
+      if (t && link) {
+        newsOptions.push({ title: t, link });
+        print(`${count + 1}. ${t}`);
+        count++;
+      }
     });
 
+    print("Selecciona número...");
   } catch {
     print("Error RSS.");
   }
@@ -277,18 +311,24 @@ function runCommand(cmd) {
   const clean = cmd.trim();
   print("> " + cmd);
 
+  /* selección */
   if (waitingSelection && !isNaN(clean)) {
     const i = parseInt(clean) - 1;
 
-    if (selectionMode === "wiki") {
-      searchWikipedia(wikiOptions[i].title);
+    if (selectionMode === "wiki" && wikiOptions[i]) {
+      const selected = wikiOptions[i].title;
+      waitingSelection = false;
+      searchWikipedia(selected);
+      return;
     }
 
-    if (selectionMode === "news") {
-      window.open(newsOptions[i].link);
+    if (selectionMode === "news" && newsOptions[i]) {
+      window.open(newsOptions[i].link, "_blank");
+      waitingSelection = false;
+      return;
     }
 
-    waitingSelection = false;
+    print("Opción inválida.");
     return;
   }
 
@@ -306,10 +346,12 @@ function runCommand(cmd) {
   if (command === "MODE 2") return setMode(2);
   if (command === "NEWS") return loadNewsAI();
   if (command === "NEWS COM") return loadNewsCOM();
+
   if (command.startsWith("WIKI+ ")) return searchWikipedia(clean.slice(6), true);
   if (command.startsWith("WIKI ")) return searchWikipedia(clean.slice(5));
 
   print("Syntax Error");
+  beep(200, 100);
 }
 
 /* INPUT */
