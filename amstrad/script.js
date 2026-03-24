@@ -110,9 +110,21 @@ async function searchWikipedia(query) {
     const url = `https://es.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(query)}`;
     const res = await fetch(url);
 
-    if (!res.ok) return searchWikipediaFallback(query);
+    if (!res.ok) {
+      return searchWikipediaFallback(query);
+    }
 
     const data = await res.json();
+
+    /* 🔥 DETECTAR DESAMBIGUACIÓN */
+    const isDisambiguation =
+      data.type === "disambiguation" ||
+      (data.extract && data.extract.toLowerCase().includes("puede referirse a"));
+
+    if (isDisambiguation) {
+      print("Entrada ambigua. Buscando opciones...");
+      return searchWikipediaFallback(query);
+    }
 
     if (data.extract) {
       wikiOptions = [];
@@ -133,7 +145,6 @@ async function searchWikipedia(query) {
     print("Error de conexión.");
   }
 }
-
 /* ======================
    FALLBACK (FIX REAL)
 ====================== */
