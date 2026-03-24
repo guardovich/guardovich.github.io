@@ -27,6 +27,21 @@ function print(text) {
 }
 
 /* ======================
+   CLEAR (🔥 NUEVO)
+====================== */
+function clearScreen() {
+  output.innerHTML = "";
+
+  // reset estado
+  wikiOptions = [];
+  newsOptions = [];
+  waitingSelection = false;
+  selectionMode = null;
+  currentText = [];
+  currentIndex = 0;
+}
+
+/* ======================
    SONIDO
 ====================== */
 function beep(freq = 800, duration = 80) {
@@ -154,7 +169,7 @@ function showMore() {
 }
 
 /* ======================
-   WIKIPEDIA (FIX REAL)
+   WIKIPEDIA
 ====================== */
 async function searchWikipedia(query, full = false) {
   print("Consultando base de datos...");
@@ -216,7 +231,7 @@ async function searchWikipedia(query, full = false) {
 }
 
 /* ======================
-   FALLBACK (AMBIGÜEDAD)
+   FALLBACK
 ====================== */
 async function searchWikipediaFallback(query) {
   try {
@@ -248,32 +263,34 @@ async function searchWikipediaFallback(query) {
 }
 
 /* ======================
-   NEWS AI
+   NEWS
 ====================== */
 function loadNewsAI() {
   loadRSS("https://feeds.bbci.co.uk/news/technology/rss.xml", "AI / TECH NEWS");
 }
 
-/* ======================
-   NEWS COM (académico)
-====================== */
 function loadNewsCOM() {
-  loadRSS("https://www.tandfonline.com/feed/rss/hmcs20", "COMMUNICATION RESEARCH");
+  loadRSS("https://rss.sciam.com/ScientificAmerican-Global", "SCIENCE NEWS");
 }
 
 /* ======================
-   RSS
+   RSS (FIX ESTABLE)
 ====================== */
 async function loadRSS(feed, title) {
   print("Cargando noticias...");
 
   try {
-    const url = `https://api.allorigins.win/raw?url=${encodeURIComponent(feed)}`;
-    const res = await fetch(url);
-    const text = await res.text();
+    const proxy = "https://api.allorigins.win/get?url=" + encodeURIComponent(feed);
+    const res = await fetch(proxy);
+    const data = await res.json();
 
-    const xml = new DOMParser().parseFromString(text, "text/xml");
+    const xml = new DOMParser().parseFromString(data.contents, "text/xml");
     const items = xml.querySelectorAll("item");
+
+    if (!items.length) {
+      print("No hay noticias.");
+      return;
+    }
 
     newsOptions = [];
     waitingSelection = true;
@@ -299,8 +316,9 @@ async function loadRSS(feed, title) {
     });
 
     print("Selecciona número...");
-  } catch {
+  } catch (err) {
     print("Error RSS.");
+    console.error(err);
   }
 }
 
@@ -316,15 +334,14 @@ function runCommand(cmd) {
     const i = parseInt(clean) - 1;
 
     if (selectionMode === "wiki" && wikiOptions[i]) {
-      const selected = wikiOptions[i].title;
       waitingSelection = false;
-      searchWikipedia(selected);
+      searchWikipedia(wikiOptions[i].title);
       return;
     }
 
     if (selectionMode === "news" && newsOptions[i]) {
-      window.open(newsOptions[i].link, "_blank");
       waitingSelection = false;
+      window.open(newsOptions[i].link, "_blank");
       return;
     }
 
@@ -338,6 +355,16 @@ function runCommand(cmd) {
     print("WIKI / WIKI+ / MORE");
     print("NEWS / NEWS COM");
     print("MODE 1 / MODE 2");
+    print("CLEAR / ABOUT");
+    return;
+  }
+
+  if (command === "CLEAR") return clearScreen();
+
+  if (command === "ABOUT") {
+    print("GUARDOVICH CPC SYSTEM");
+    print("Retro Terminal + Wikipedia + RSS");
+    print("Powered by Guardovich Technologies");
     return;
   }
 
