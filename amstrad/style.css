@@ -96,3 +96,7 @@ input {
 @keyframes blink {
   50% { opacity: 0; }
 }
+
+.screen {
+  border-radius: 20px / 12px;
+}
