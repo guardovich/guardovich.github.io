@@ -5,24 +5,49 @@ body {
   color: #33ff33;
 }
 
-/* LOGO */
-.logo {
-  position: absolute;
-  top: 20px;
-  left: 20px;
+/* LAYOUT GENERAL */
+.layout {
+  display: flex;
+  height: 100vh;
 }
 
-.logo img {
-  width: 180px;
-  opacity: 0.9;
+/* SIDEBAR IZQUIERDA */
+.sidebar {
+  width: 260px;
+  background: #000;
+  border-right: 2px solid #33ff33;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+
+  box-shadow: inset 0 0 20px rgba(0,255,0,0.2);
 }
 
-/* CENTRAR */
-.terminal-container {
+.logo-img {
+  width: 140px;
+  margin-bottom: 20px;
+}
+
+.brand h1 {
+  font-size: 16px;
+  margin: 0;
+  color: #33ff33;
+}
+
+.brand h2 {
+  font-size: 12px;
+  margin-top: 10px;
+  color: #00ffcc;
+}
+
+/* ZONA PRINCIPAL */
+.main {
+  flex: 1;
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
 }
 
 /* PANTALLA */
@@ -31,11 +56,15 @@ body {
   height: 420px;
   background: #000;
   padding: 20px;
+
   border-radius: 20px / 12px;
+
   box-shadow:
     0 0 20px rgba(0,255,0,0.2),
     inset 0 0 20px rgba(0,0,0,0.8);
+
   text-shadow: 0 0 6px #33ff33;
+
   overflow: hidden;
   position: relative;
 }
@@ -111,4 +140,26 @@ input {
 
 @keyframes blink {
   50% { opacity: 0; }
+}
+
+/* RESPONSIVE */
+@media (max-width: 800px) {
+  .layout {
+    flex-direction: column;
+  }
+
+  .sidebar {
+    width: 100%;
+    border-right: none;
+    border-bottom: 2px solid #33ff33;
+  }
+
+  .main {
+    padding: 10px;
+  }
+
+  .screen {
+    width: 100%;
+    height: 400px;
+  }
 }
