@@ -2,23 +2,27 @@ body {
   background: #000;
   color: #00ffcc;
   font-family: monospace;
+  margin: 0;
+  padding: 10px;
+
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  min-height: 100vh;
 }
 
 /* PLAYER */
 .player {
-  width: 360px;
+  width: 95%;
+  max-width: 600px; /* 🔥 más grande en escritorio */
   background: #111;
-  border: 2px solid #00ffcc;
-  box-shadow: 0 0 20px #00ffcc;
-  padding: 10px;
+  border: 3px solid #00ffcc;
+  box-shadow: 0 0 25px #00ffcc;
+  padding: 15px;
   position: relative;
 }
 
-/* CRT EFFECT MÁS REAL */
+/* CRT */
 .player::after {
   content: "";
   position: absolute;
@@ -29,8 +33,9 @@ body {
   background: repeating-linear-gradient(
     to bottom,
     rgba(0,255,204,0.05),
-    rgba(0,255,204,0.05) 1px,
-    transparent 2px
+    rgba(0,255,204,0.05) 2px,
+    transparent 2px,
+    transparent 4px
   );
   pointer-events:none;
 }
@@ -39,53 +44,43 @@ body {
 .title {
   text-align: center;
   font-weight: bold;
-  margin-bottom: 10px;
+  margin-bottom: 15px;
+  font-size: 20px;
   letter-spacing: 2px;
 }
 
 /* AVATAR */
-.avatar {
-  text-align: center;
-}
-
 .avatar img {
   width: 100%;
-  max-height: 200px;
+  max-height: 260px;
   object-fit: cover;
   filter: contrast(120%) brightness(120%) hue-rotate(90deg);
-  transition: 0.3s;
-}
-
-/* efecto leve al hover */
-.avatar img:hover {
-  filter: contrast(140%) brightness(140%) hue-rotate(110deg);
 }
 
 /* ENTITY */
 .entity {
-  font-size: 10px;
+  font-size: 12px;
   text-align: center;
   opacity: 0.7;
-  margin-bottom: 5px;
+  margin-bottom: 10px;
 }
 
 /* SCREEN */
 .screen {
   background: #000;
-  border: 1px solid #00ffcc;
-  padding: 6px;
-  height: 50px;
-  font-size: 12px;
+  border: 2px solid #00ffcc;
+  padding: 10px;
+  height: 60px;
+  font-size: 14px;
   display: flex;
   align-items: center;
 }
 
 /* CONTROLS */
 .controls {
-  margin-top: 10px;
+  margin-top: 15px;
   display: flex;
-  justify-content: space-between;
-  gap: 5px;
+  gap: 10px;
 }
 
 /* BOTONES */
@@ -93,10 +88,10 @@ button {
   flex: 1;
   background: #000;
   color: #00ffcc;
-  border: 1px solid #00ffcc;
-  padding: 6px;
+  border: 2px solid #00ffcc;
+  padding: 12px;
+  font-size: 14px;
   cursor: pointer;
-  font-size: 10px;
   transition: 0.2s;
 }
 
@@ -106,7 +101,7 @@ button:hover {
   color: #000;
 }
 
-/* 🔥 BOTÓN ACTIVO */
+/* activo */
 button.active {
   background: #00ffcc;
   color: #000;
@@ -115,12 +110,11 @@ button.active {
 
 /* NEWS */
 .news {
-  margin-top: 10px;
-  font-size: 11px;
-  height: 60px;
-  overflow: hidden;
-  border-top: 1px solid #00ffcc;
-  padding-top: 5px;
+  margin-top: 15px;
+  font-size: 14px;
+  min-height: 70px;
+  border-top: 2px solid #00ffcc;
+  padding-top: 10px;
   display: flex;
   align-items: center;
 }
@@ -128,6 +122,7 @@ button.active {
 /* LIVE */
 .live {
   color: red;
+  font-weight: bold;
   animation: blink 1s infinite;
 }
 
@@ -135,9 +130,23 @@ button.active {
   50% { opacity: 0.3; }
 }
 
-/* 📱 RESPONSIVE */
+/* 📱 MÓVIL GRANDE */
 @media (max-width: 480px) {
-  .player {
-    width: 90%;
+
+  .title {
+    font-size: 18px;
+  }
+
+  button {
+    font-size: 13px;
+    padding: 10px;
+  }
+
+  .screen {
+    font-size: 13px;
+  }
+
+  .news {
+    font-size: 13px;
   }
 }
