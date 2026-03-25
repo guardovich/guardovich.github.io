@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-03-25T02:09:40.104Z",
+  "generatedAt": "2026-03-25T07:02:22.631Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "\"The last straw\"—RFK Jr.'s anti-vaccine ally angrily quits CDC panel after spat",
+          "link": "https://arstechnica.com/health/2026/03/rfk-jr-anti-vaccine-ally-dramatically-quits-cdc-panel-complaining-of-drama/",
+          "summary": "Robert Malone quit a vaccine panel, blaming an HHS spokesperson for \"trashing\" him.",
+          "isoDate": "2026-03-25T03:43:55.000Z"
+        },
         {
           "title": "The BB-777 is the ultimate in boombox nostalgia",
           "link": "https://www.theverge.com/tech/897876/the-bb-777-is-the-ultimate-in-boombox-nostalgia",
@@ -58,12 +64,6 @@
           "link": "https://www.theverge.com/policy/899855/ice-airports-tsa-shutdown-dhs-jfk",
           "summary": "I arrived at John F. Kennedy International Airport nearly five hours before my domestic flight. This is not my way - usually I roll up to the airport 30 minutes before boarding - but not even I have enough hubris to think that my good luck is more powerful than a partial government shutdown. Congress has yet to pass a bill funding the Department of Homeland Security, meaning thousands of federal employees from TSA to the Coast Guard are working without pay - or, in the case of TSA, calling out of work, causing staff shortages and hourslong security lines at airports across the country. \nOn Monday, President Donald Trump deployed between 100 …\nRead the full story at The Verge.",
           "isoDate": "2026-03-24T21:17:28.000Z"
-        },
-        {
-          "title": "OpenAI just gave up on Sora and its billion-dollar Disney deal",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt",
-          "summary": "A frame from a Sora 2-generated video. | Image: OpenAI\t\n\nOn Tuesday afternoon, OpenAI announced \"We're saying goodbye to Sora,\" the video generation tool that it launched at the end of 2024, and centered in a massive licensing deal with Disney only a few months ago. The Wall Street Journal reported the move earlier, saying that OpenAI boss Sam Altman had informed staff that both the TikTok-like Sora app and API access for developers would be discontinued, with no plans to roll the feature into ChatGPT as had previously been rumored. \nAccording to The Hollywood Reporter, as a result, the deal Disney announced in December, saying it would invest $1 billion in OpenAI, license its characters for use  …\nRead the full story at The Verge.",
-          "isoDate": "2026-03-24T21:08:10.000Z"
         }
       ]
     },
@@ -71,6 +71,12 @@
       "header": "120  CIENCIA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Kona Storms Flood Oʻahu",
+          "link": "https://science.nasa.gov/earth/earth-observatory/kona-storms-flood-o%ca%bbahu/",
+          "summary": "Back-to-back subtropical cyclones in March fueled destructive flash flooding on several of the Hawaiian Islands.",
+          "isoDate": "2026-03-25T04:01:00.000Z"
+        },
         {
           "title": "NASA PC-12 Aircraft Makes Move to Support Flight Research Across Agency",
           "link": "https://www.nasa.gov/image-article/nasa-pc-12-aircraft-makes-move-to-support-flight-research-across-agency/",
@@ -124,12 +130,6 @@
           "link": "https://www.nasa.gov/news-release/nasa-unveils-initiatives-to-achieve-americas-national-space-policy/",
           "summary": "As part of its “Ignition” event on Tuesday, NASA announced a series of transformative agencywide initiatives designed to achieve President Donald J. Trump’s National Space Policy and advance American leadership in space. These actions reflect the urgency of the moment, but also the tremendous opportunity ahead for world-changing science and discovery. “NASA is committed to […]",
           "isoDate": "2026-03-24T13:01:25.000Z"
-        },
-        {
-          "title": "Optical Vortex Phase Masks for the Detection of Habitable Worlds ",
-          "link": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/optical-vortex-phase-masks-for-the-detection-of-habitable-worlds/",
-          "summary": "A team of NASA researchers is developing new types of optical masks that could help enable the many orders of magnitude of starlight suppression needed for future space observatories to pick out very faint habitable exoplanets from the far brighter glare of their stellar hosts.",
-          "isoDate": "2026-03-24T13:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-03-25T02:09:35.136Z"
+          "isoDate": "2026-03-25T07:02:19.263Z"
+        },
+        {
+          "title": "OpenAI ends Disney partnership as it closes Sora video-making app",
+          "link": "https://www.bbc.com/news/articles/c3w3e467ewqo?at_medium=RSS&at_campaign=rss",
+          "summary": "The move comes less two years after the launch of the AI video app sent shockwaves through the media industry.",
+          "isoDate": "2026-03-25T04:48:56.000Z"
+        },
+        {
+          "title": "BTS comeback concert on Netflix draws 18.4m global viewers ",
+          "link": "https://www.bbc.com/news/articles/cy513rvg91ro?at_medium=RSS&at_campaign=rss",
+          "summary": "The livestreamed show saw the band perform together for the first time since October 2022.",
+          "isoDate": "2026-03-25T02:55:12.000Z"
         },
         {
           "title": "Meta told to pay $375m for misleading users over child safety",
@@ -184,18 +196,6 @@
           "link": "https://www.bbc.co.uk/iplayer/episode/m002t71c?at_medium=RSS&at_campaign=rss",
           "summary": "Alasdair Keane visits the underground insect farm turning food waste into animal feed.",
           "isoDate": "2026-03-21T01:00:17.000Z"
-        },
-        {
-          "title": "Hargreaves Lansdown says IT issues which affected thousands are over",
-          "link": "https://www.bbc.com/news/articles/cx2reyjdyjzo?at_medium=RSS&at_campaign=rss",
-          "summary": "The finance firm has apologised for the disruption to its website and app, which has angered many customers.",
-          "isoDate": "2026-03-20T17:44:22.000Z"
-        },
-        {
-          "title": "Luke Littler applies to trademark his face to combat AI fakes",
-          "link": "https://www.bbc.com/news/articles/c5y7374x9n4o?at_medium=RSS&at_campaign=rss",
-          "summary": "The darts star's image has been used legally on darts merchandise, snacks and fashion brands.",
-          "isoDate": "2026-03-20T16:16:30.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-03-25T02:09:38.395Z"
+          "isoDate": "2026-03-25T07:02:21.228Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 58\nChar: =",
-          "isoDate": "2026-03-25T02:09:36.481Z"
+          "isoDate": "2026-03-25T07:02:20.357Z"
         },
         {
           "title": "In Edison’s Revenge, Data Centers Are Transitioning From AC to DC",
