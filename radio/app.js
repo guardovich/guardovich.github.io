@@ -2,10 +2,8 @@
    CONFIG
 ====================== */
 
-// 🔥 PON TU STREAM METAL
 const STREAM_URL = "https://TU-STREAM-AQUI";
 
-/* RSS */
 const feeds = [
   "https://rss.elpais.com/rss/elpais/tecnologia.xml",
   "https://feeds.bbci.co.uk/news/technology/rss.xml"
@@ -24,9 +22,7 @@ function play() {
 
   status.innerHTML = '>> <span class="live">LIVE</span> METAL STREAM';
 
-  // efecto visual Sinei activa
-  document.querySelector(".avatar img").style.filter =
-    "contrast(150%) brightness(140%) hue-rotate(120deg)";
+  activarSinei();
 }
 
 function stop() {
@@ -34,10 +30,37 @@ function stop() {
   audio.src = "";
 
   status.textContent = ">> STOPPED";
+}
 
-  // vuelve a estado normal
-  document.querySelector(".avatar img").style.filter =
-    "contrast(120%) brightness(120%) hue-rotate(90deg)";
+/* ======================
+   VOZ SINEI
+====================== */
+
+const frases = [
+  "El medio es el mensaje",
+  "La información no es neutra",
+  "El encuadre define la realidad",
+  "La esfera pública está distorsionada",
+  "Detectando sesgo mediático",
+  "La tecnología moldea la percepción",
+  "Lo que se omite también comunica",
+  "Analizando rigor periodístico"
+];
+
+function hablar(texto) {
+  const msg = new SpeechSynthesisUtterance(texto);
+  msg.lang = "es-ES";
+  msg.rate = 0.9;
+  msg.pitch = 0.8;
+
+  speechSynthesis.speak(msg);
+}
+
+function activarSinei() {
+  setInterval(() => {
+    const frase = frases[Math.floor(Math.random() * frases.length)];
+    hablar(frase);
+  }, 25000);
 }
 
 /* ======================
@@ -72,12 +95,12 @@ async function loadRSS(feedUrl) {
     });
 
   } catch (e) {
-    console.log("RSS error:", feedUrl);
+    console.log("RSS error");
   }
 }
 
 /* ======================
-   ROTACIÓN
+   ROTACIÓN NOTICIAS
 ====================== */
 
 function rotateNews() {
@@ -86,16 +109,14 @@ function rotateNews() {
   setInterval(() => {
     const news = document.getElementById("news");
 
-    news.classList.remove("scroll");
+    news.textContent = ">> " + newsList[index];
 
-    setTimeout(() => {
-      news.textContent = ">> " + newsList[index];
-      news.classList.add("scroll");
+    // voz opcional
+    hablar("Nuevo titular detectado");
 
-      index = (index + 1) % newsList.length;
-    }, 100);
+    index = (index + 1) % newsList.length;
 
-  }, 5000);
+  }, 8000);
 }
 
 /* ======================
