@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Radio Guardovich</title>
+
+<style>
+body {
+  background:#000;
+  color:#00ffcc;
+  font-family: monospace;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  height:100vh;
+}
+
+.player {
+  width:350px;
+  background:#111;
+  border:2px solid #00ffcc;
+  box-shadow:0 0 20px #00ffcc;
+  padding:10px;
+}
+
+.title {
+  text-align:center;
+  font-weight:bold;
+}
+
+.screen {
+  background:#000;
+  border:1px solid #00ffcc;
+  padding:5px;
+  height:50px;
+  font-size:12px;
+  overflow:hidden;
+}
+
+.controls {
+  margin-top:10px;
+  display:flex;
+  justify-content:space-around;
+}
+
+.news {
+  margin-top:10px;
+  font-size:11px;
+  height:60px;
+  overflow:hidden;
+  border-top:1px solid #00ffcc;
+  padding-top:5px;
+}
+</style>
+</head>
+
+<body>
+
+<div class="player">
+  <div class="title">🎧 RADIO GUARDOVICH</div>
+
+  <div class="screen" id="status">
+    >> READY
+  </div>
+
+  <div class="controls">
+    <button onclick="play()">PLAY</button>
+    <button onclick="stop()">STOP</button>
+  </div>
+
+  <div class="news" id="news">
+    >> CARGANDO NOTICIAS...
+  </div>
+</div>
+
+<audio id="audio"></audio>
+
+<script>
+const STREAM_URL = "https://TU-STREAM-METAL-AQUI";
+
+const audio = document.getElementById("audio");
+
+function play(){
+  audio.src = STREAM_URL;
+  audio.play();
+  document.getElementById("status").textContent = ">> METAL LIVE";
+}
+
+function stop(){
+  audio.pause();
+  audio.src = "";
+  document.getElementById("status").textContent = ">> STOPPED";
+}
+
+/* ======================
+   RSS NOTICIAS
+====================== */
+
+// ⚠️ usamos proxy para evitar CORS
+const RSS_URL = "https://api.allorigins.win/get?url=" +
+  encodeURIComponent("https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml");
+
+let newsList = [];
+let index = 0;
+
+async function loadRSS(){
+  try{
+    const res = await fetch(RSS_URL);
+    const data = await res.json();
+
+    const parser = new DOMParser();
+    const xml = parser.parseFromString(data.contents, "text/xml");
+
+    const items = xml.querySelectorAll("item");
+
+    newsList = [...items].map(item => ({
+      title: item.querySelector("title").textContent
+    }));
+
+    rotateNews();
+
+  } catch(e){
+    document.getElementById("news").textContent = ">> ERROR RSS";
+  }
+}
+
+function rotateNews(){
+  if(newsList.length === 0) return;
+
+  setInterval(()=>{
+    const n = newsList[index];
+    document.getElementById("news").textContent = ">> " + n.title;
+
+    index = (index + 1) % newsList.length;
+  }, 5000);
+}
+
+loadRSS();
+</script>
+
+</body>
+</html>
