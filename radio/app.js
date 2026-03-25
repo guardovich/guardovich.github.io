@@ -3,17 +3,15 @@
 ====================== */
 
 const streams = {
-  main: "https://stream.laut.fm/metal",                // puede tener ads
-  clean: "https://ice4.somafm.com/metal-128-mp3"       // sin ads
+  main: "https://stream.laut.fm/metal",
+  clean: "https://ice4.somafm.com/metal-128-mp3"
 };
 
 const feeds = [
-  // 🌍 tecnología / medios
   "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "https://www.niemanlab.org/feed/",
   "https://www.xataka.com/feed.xml",
 
-  // 🔥 REDDIT (FORO)
   "https://www.reddit.com/r/spain/.rss",
   "https://www.reddit.com/r/technology/.rss",
   "https://www.reddit.com/r/artificial/.rss"
@@ -35,11 +33,10 @@ function playStream(tipo) {
     .then(() => {
       setActiveButton(tipo);
 
-      if (tipo === "main") {
-        status.innerHTML = '>> <span class="live">LIVE</span> ROCK/METAL';
-      } else {
-        status.innerHTML = '>> <span class="live">LIVE</span> METAL CLEAN';
-      }
+      status.innerHTML =
+        tipo === "main"
+          ? '>> <span class="live">LIVE</span> ROCK/METAL'
+          : '>> <span class="live">LIVE</span> METAL CLEAN';
     })
     .catch(err => {
       status.textContent = ">> ERROR STREAM";
@@ -52,10 +49,8 @@ function stop() {
   audio.src = "";
   status.textContent = ">> STOPPED";
 
-  // quitar botón activo
-  document.querySelectorAll("button").forEach(btn => {
-    btn.classList.remove("active");
-  });
+  document.querySelectorAll(".controls button")
+    .forEach(btn => btn.classList.remove("active"));
 }
 
 /* ======================
@@ -67,11 +62,8 @@ function setActiveButton(tipo) {
 
   buttons.forEach(btn => btn.classList.remove("active"));
 
-  if (tipo === "main") {
-    buttons[0].classList.add("active");
-  } else if (tipo === "clean") {
-    buttons[1].classList.add("active");
-  }
+  if (tipo === "main") buttons[0].classList.add("active");
+  if (tipo === "clean") buttons[1].classList.add("active");
 }
 
 /* ======================
@@ -81,41 +73,29 @@ function setActiveButton(tipo) {
 function clasificarNoticia(texto, fuente = "") {
   const t = texto.toLowerCase();
 
-  // 🟣 REDDIT = FORO
-  if (fuente.includes("reddit")) {
-    return "[FORO]";
-  }
+  if (fuente.includes("reddit")) return "[FORO]";
 
-  // 🤖 IA
   if (
     t.includes("ai") ||
     t.includes("inteligencia artificial") ||
     t.includes("openai") ||
     t.includes("chatgpt")
-  ) {
-    return "[IA]";
-  }
+  ) return "[IA]";
 
-  // 🧠 MEDIOS
   if (
     t.includes("media") ||
     t.includes("periodismo") ||
     t.includes("news") ||
     t.includes("prensa")
-  ) {
-    return "[MEDIA]";
-  }
+  ) return "[MEDIA]";
 
-  // 💻 TECNOLOGÍA
   if (
     t.includes("tech") ||
     t.includes("software") ||
     t.includes("hardware") ||
     t.includes("gpu") ||
     t.includes("internet")
-  ) {
-    return "[TECH]";
-  }
+  ) return "[TECH]";
 
   return "[INFO]";
 }
@@ -128,7 +108,7 @@ let newsList = [];
 let index = 0;
 
 async function loadRSS(feedUrl) {
-  const proxy = "https://api.allorigins.win/raw?url=" + encodeURIComponent(feedUrl);
+  const proxy = "https://corsproxy.io/?url=" + encodeURIComponent(feedUrl);
 
   try {
     const res = await fetch(proxy);
@@ -137,13 +117,15 @@ async function loadRSS(feedUrl) {
     const parser = new DOMParser();
     const xml = parser.parseFromString(text, "text/xml");
 
-    const items = xml.querySelectorAll("item");
+    // 🔥 compatible RSS + Reddit
+    const items = xml.querySelectorAll("item, entry");
 
-    items.forEach(item => {
+    items.forEach((item, i) => {
+      if (i > 10) return; // 🔥 límite
+
       let title = item.querySelector("title")?.textContent;
 
       if (title) {
-        // limpiar títulos raros
         title = title.replace(/\[.*?\]/g, "").trim();
 
         const tag = clasificarNoticia(title, feedUrl);
@@ -158,7 +140,7 @@ async function loadRSS(feedUrl) {
 }
 
 /* ======================
-   ROTACIÓN NOTICIAS
+   ROTACIÓN
 ====================== */
 
 function rotateNews() {
@@ -174,15 +156,19 @@ function rotateNews() {
 }
 
 /* ======================
-   INIT
+   INIT (OPTIMIZADO)
 ====================== */
 
 async function init() {
-  for (let feed of feeds) {
-    await loadRSS(feed);
-  }
+
+  status.textContent = ">> CARGANDO NOTICIAS...";
+
+  // ⚡ carga paralela
+  await Promise.all(feeds.map(feed => loadRSS(feed)));
 
   console.log("Noticias cargadas:", newsList.length);
+
+  status.textContent = ">> READY";
 
   rotateNews();
 }
