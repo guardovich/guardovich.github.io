@@ -2,7 +2,10 @@
    CONFIG
 ====================== */
 
-const STREAM_URL = "https://stream.laut.fm/metal";
+const streams = {
+  main: "https://stream.laut.fm/metal",                // puede tener ads
+  clean: "https://ice4.somafm.com/metal-128-mp3"       // sin ads
+};
 
 const feeds = [
   // 🌍 tecnología / medios
@@ -23,15 +26,23 @@ const feeds = [
 const audio = document.getElementById("audio");
 const status = document.getElementById("status");
 
-function play() {
-  audio.src = STREAM_URL;
+function playStream(tipo) {
+  const url = streams[tipo];
+
+  audio.src = url;
 
   audio.play()
     .then(() => {
-      status.innerHTML = '>> <span class="live">LIVE</span> METAL STREAM';
+      setActiveButton(tipo);
+
+      if (tipo === "main") {
+        status.innerHTML = '>> <span class="live">LIVE</span> ROCK/METAL';
+      } else {
+        status.innerHTML = '>> <span class="live">LIVE</span> METAL CLEAN';
+      }
     })
     .catch(err => {
-      status.textContent = ">> ERROR PLAY";
+      status.textContent = ">> ERROR STREAM";
       console.error(err);
     });
 }
@@ -40,6 +51,27 @@ function stop() {
   audio.pause();
   audio.src = "";
   status.textContent = ">> STOPPED";
+
+  // quitar botón activo
+  document.querySelectorAll("button").forEach(btn => {
+    btn.classList.remove("active");
+  });
+}
+
+/* ======================
+   BOTÓN ACTIVO
+====================== */
+
+function setActiveButton(tipo) {
+  const buttons = document.querySelectorAll(".controls button");
+
+  buttons.forEach(btn => btn.classList.remove("active"));
+
+  if (tipo === "main") {
+    buttons[0].classList.add("active");
+  } else if (tipo === "clean") {
+    buttons[1].classList.add("active");
+  }
 }
 
 /* ======================
@@ -85,7 +117,6 @@ function clasificarNoticia(texto, fuente = "") {
     return "[TECH]";
   }
 
-  // DEFAULT
   return "[INFO]";
 }
 
@@ -112,8 +143,7 @@ async function loadRSS(feedUrl) {
       let title = item.querySelector("title")?.textContent;
 
       if (title) {
-
-        // limpiar títulos raros (reddit etc.)
+        // limpiar títulos raros
         title = title.replace(/\[.*?\]/g, "").trim();
 
         const tag = clasificarNoticia(title, feedUrl);
@@ -128,7 +158,7 @@ async function loadRSS(feedUrl) {
 }
 
 /* ======================
-   ROTACIÓN
+   ROTACIÓN NOTICIAS
 ====================== */
 
 function rotateNews() {
