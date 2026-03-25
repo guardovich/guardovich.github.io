@@ -2,12 +2,12 @@
    CONFIG
 ====================== */
 
-// 🔥 PRUEBA ESTE STREAM (FUNCIONA)
 const STREAM_URL = "https://stream.laut.fm/metal";
 
-// RSS
 const feeds = [
-  "https://feeds.bbci.co.uk/news/technology/rss.xml"
+  "https://feeds.bbci.co.uk/news/technology/rss.xml",
+  "https://www.niemanlab.org/feed/",
+  "https://www.xataka.com/feed.xml"
 ];
 
 /* ======================
@@ -37,6 +37,32 @@ function stop() {
 }
 
 /* ======================
+   CLASIFICACIÓN
+====================== */
+
+function clasificarNoticia(texto) {
+  const t = texto.toLowerCase();
+
+  // IA
+  if (t.includes("ai") || t.includes("inteligencia artificial") || t.includes("openai") || t.includes("chatgpt")) {
+    return "[IA]";
+  }
+
+  // MEDIOS / COMUNICACIÓN
+  if (t.includes("media") || t.includes("periodismo") || t.includes("news") || t.includes("prensa")) {
+    return "[MEDIA]";
+  }
+
+  // TECNOLOGÍA
+  if (t.includes("tech") || t.includes("software") || t.includes("hardware") || t.includes("gpu") || t.includes("internet")) {
+    return "[TECH]";
+  }
+
+  // DEFAULT
+  return "[INFO]";
+}
+
+/* ======================
    RSS
 ====================== */
 
@@ -57,13 +83,20 @@ async function loadRSS(feedUrl) {
 
     items.forEach(item => {
       const title = item.querySelector("title")?.textContent;
-      if (title) newsList.push(title);
+      if (title) {
+        const tag = clasificarNoticia(title);
+        newsList.push(`${tag} ${title}`);
+      }
     });
 
   } catch (e) {
-    console.log("RSS error");
+    console.log("RSS error:", feedUrl);
   }
 }
+
+/* ======================
+   ROTACIÓN
+====================== */
 
 function rotateNews() {
   if (newsList.length === 0) return;
@@ -73,8 +106,13 @@ function rotateNews() {
       ">> " + newsList[index];
 
     index = (index + 1) % newsList.length;
+
   }, 6000);
 }
+
+/* ======================
+   INIT
+====================== */
 
 async function init() {
   for (let feed of feeds) {
