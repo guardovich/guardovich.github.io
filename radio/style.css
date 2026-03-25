@@ -18,7 +18,7 @@ body {
   position: relative;
 }
 
-/* CRT EFFECT */
+/* CRT */
 .player::after {
   content: "";
   position: absolute;
@@ -46,7 +46,6 @@ body {
 /* AVATAR */
 .avatar {
   text-align: center;
-  margin-bottom: 5px;
 }
 
 .avatar img {
@@ -54,15 +53,14 @@ body {
   max-height: 200px;
   object-fit: cover;
   filter: contrast(120%) brightness(120%) hue-rotate(90deg);
-  opacity: 0.9;
 }
 
-/* ENTITY TEXT */
+/* ENTITY */
 .entity {
   font-size: 10px;
   text-align: center;
-  margin-bottom: 5px;
   opacity: 0.7;
+  margin-bottom: 5px;
 }
 
 /* SCREEN */
@@ -72,7 +70,6 @@ body {
   padding: 6px;
   height: 50px;
   font-size: 12px;
-  overflow: hidden;
 }
 
 /* CONTROLS */
@@ -105,20 +102,9 @@ button:hover {
   padding-top: 5px;
 }
 
-/* SCROLL */
-.scroll {
-  animation: scrollText 5s linear;
-}
-
-@keyframes scrollText {
-  0% { transform: translateY(100%); }
-  100% { transform: translateY(-100%); }
-}
-
 /* LIVE */
 .live {
   color: red;
-  font-weight: bold;
   animation: blink 1s infinite;
 }
 
