@@ -5,9 +5,15 @@
 const STREAM_URL = "https://stream.laut.fm/metal";
 
 const feeds = [
+  // 🌍 tecnología / medios
   "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "https://www.niemanlab.org/feed/",
-  "https://www.xataka.com/feed.xml"
+  "https://www.xataka.com/feed.xml",
+
+  // 🔥 REDDIT (FORO)
+  "https://www.reddit.com/r/spain/.rss",
+  "https://www.reddit.com/r/technology/.rss",
+  "https://www.reddit.com/r/artificial/.rss"
 ];
 
 /* ======================
@@ -40,21 +46,42 @@ function stop() {
    CLASIFICACIÓN
 ====================== */
 
-function clasificarNoticia(texto) {
+function clasificarNoticia(texto, fuente = "") {
   const t = texto.toLowerCase();
 
-  // IA
-  if (t.includes("ai") || t.includes("inteligencia artificial") || t.includes("openai") || t.includes("chatgpt")) {
+  // 🟣 REDDIT = FORO
+  if (fuente.includes("reddit")) {
+    return "[FORO]";
+  }
+
+  // 🤖 IA
+  if (
+    t.includes("ai") ||
+    t.includes("inteligencia artificial") ||
+    t.includes("openai") ||
+    t.includes("chatgpt")
+  ) {
     return "[IA]";
   }
 
-  // MEDIOS / COMUNICACIÓN
-  if (t.includes("media") || t.includes("periodismo") || t.includes("news") || t.includes("prensa")) {
+  // 🧠 MEDIOS
+  if (
+    t.includes("media") ||
+    t.includes("periodismo") ||
+    t.includes("news") ||
+    t.includes("prensa")
+  ) {
     return "[MEDIA]";
   }
 
-  // TECNOLOGÍA
-  if (t.includes("tech") || t.includes("software") || t.includes("hardware") || t.includes("gpu") || t.includes("internet")) {
+  // 💻 TECNOLOGÍA
+  if (
+    t.includes("tech") ||
+    t.includes("software") ||
+    t.includes("hardware") ||
+    t.includes("gpu") ||
+    t.includes("internet")
+  ) {
     return "[TECH]";
   }
 
@@ -82,9 +109,15 @@ async function loadRSS(feedUrl) {
     const items = xml.querySelectorAll("item");
 
     items.forEach(item => {
-      const title = item.querySelector("title")?.textContent;
+      let title = item.querySelector("title")?.textContent;
+
       if (title) {
-        const tag = clasificarNoticia(title);
+
+        // limpiar títulos raros (reddit etc.)
+        title = title.replace(/\[.*?\]/g, "").trim();
+
+        const tag = clasificarNoticia(title, feedUrl);
+
         newsList.push(`${tag} ${title}`);
       }
     });
@@ -118,6 +151,9 @@ async function init() {
   for (let feed of feeds) {
     await loadRSS(feed);
   }
+
+  console.log("Noticias cargadas:", newsList.length);
+
   rotateNews();
 }
 
