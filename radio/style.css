@@ -18,7 +18,7 @@ body {
   position: relative;
 }
 
-/* CRT */
+/* CRT EFFECT MÁS REAL */
 .player::after {
   content: "";
   position: absolute;
@@ -30,8 +30,7 @@ body {
     to bottom,
     rgba(0,255,204,0.05),
     rgba(0,255,204,0.05) 1px,
-    transparent 1px,
-    transparent 3px
+    transparent 2px
   );
   pointer-events:none;
 }
@@ -41,6 +40,7 @@ body {
   text-align: center;
   font-weight: bold;
   margin-bottom: 10px;
+  letter-spacing: 2px;
 }
 
 /* AVATAR */
@@ -53,6 +53,12 @@ body {
   max-height: 200px;
   object-fit: cover;
   filter: contrast(120%) brightness(120%) hue-rotate(90deg);
+  transition: 0.3s;
+}
+
+/* efecto leve al hover */
+.avatar img:hover {
+  filter: contrast(140%) brightness(140%) hue-rotate(110deg);
 }
 
 /* ENTITY */
@@ -70,26 +76,41 @@ body {
   padding: 6px;
   height: 50px;
   font-size: 12px;
+  display: flex;
+  align-items: center;
 }
 
 /* CONTROLS */
 .controls {
   margin-top: 10px;
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
+  gap: 5px;
 }
 
+/* BOTONES */
 button {
+  flex: 1;
   background: #000;
   color: #00ffcc;
   border: 1px solid #00ffcc;
-  padding: 6px 12px;
+  padding: 6px;
   cursor: pointer;
+  font-size: 10px;
+  transition: 0.2s;
 }
 
+/* hover */
 button:hover {
   background: #00ffcc;
   color: #000;
+}
+
+/* 🔥 BOTÓN ACTIVO */
+button.active {
+  background: #00ffcc;
+  color: #000;
+  box-shadow: 0 0 10px #00ffcc;
 }
 
 /* NEWS */
@@ -100,6 +121,8 @@ button:hover {
   overflow: hidden;
   border-top: 1px solid #00ffcc;
   padding-top: 5px;
+  display: flex;
+  align-items: center;
 }
 
 /* LIVE */
@@ -110,4 +133,11 @@ button:hover {
 
 @keyframes blink {
   50% { opacity: 0.3; }
+}
+
+/* 📱 RESPONSIVE */
+@media (max-width: 480px) {
+  .player {
+    width: 90%;
+  }
 }
