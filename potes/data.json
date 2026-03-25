@@ -33,13 +33,13 @@
       "city": "Potes",
       "zone": "Potes",
       "price": 2.2,
-      "updated_price": "2026-03-04",
-      "volume_ml": 200,
+      "updated_price": "2026-03-28",
+      "volume_ml": 250,
       "beer_brand": "Estrella Damn",
       "tapa": "Sí",
       "ambiente": "Mixto",
-      "pros": ["Pone tapa"],
-      "cons": ["el negro ha quitado la barra, no hay barra"]
+      "pros": ["Pone tapa y tira buena cerveza"],
+      "cons": []
     },
     {
       "name": "Casa Favila",
@@ -71,9 +71,9 @@
       "name": "Bar El Latas",
       "city": "Potes",
       "zone": "Potes",
-      "price": 2.3,
+      "price": 2.2,
       "updated_price": "2026-03-04",
-      "volume_ml": 200,
+      "volume_ml": 220,
       "beer_brand": "Mahou",
       "tapa": "Variadas",
       "ambiente": "Mixto",
@@ -197,6 +197,34 @@
       "ambiente": "Mixto",
       "pros": ["Ponen vaso de caña", "son 330 aprox la caña"],
       "cons": []
+       },
+    
+    {
+      "name": "Thunder",
+      "city": "Potes",
+      "zone": "Potes",
+      "price": 2.2,
+      "updated_price": "2026-03-25",
+      "volume_ml": 250,
+      "beer_brand": "Keller",
+      "tapa": "Tapas varias",
+      "ambiente": "Mixto",
+      "pros": ["Ponen vaso de caña", "Gran ambiente","Tienen Pinball de Harry el Sucio", "Tiene futbolín y billar"],
+      "cons": ["La cerveza Keller es floja"]
+            },
+    
+    {
+      "name": "El Cantón",
+      "city": "Potes",
+      "zone": "Ayuntamiento",
+      "price": 2.7,
+      "updated_price": "2026-03-25",
+      "volume_ml": 250,
+      "beer_brand": "Estrella de Galicia",
+      "tapa": "Tapas varias",
+      "ambiente": "Mixto",
+      "pros": ["Buen ambiente", "Excelente servicio"],
+      "cons": ["la caña es cara"]
     }
   ]
 }
