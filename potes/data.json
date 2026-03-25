@@ -52,7 +52,7 @@
       "tapa": "Aceitunas",
       "ambiente": "Mixto",
       "pros": ["Regreso estelar de Chus","Buena música aunque siempre es la misma", "la mejor cerveza tirada"],
-      "cons": ["No suele abrir"]
+      "cons": []
     },
     {
       "name": "Bar El Trenti",
@@ -65,7 +65,7 @@
       "tapa": "—",
       "ambiente": "Mixto",
       "pros": ["De las mejores terrazas"],
-      "cons": ["No la tiran bien"]
+      "cons": ["No la tiran bien siempre"]
     },
     {
       "name": "Bar El Latas",
