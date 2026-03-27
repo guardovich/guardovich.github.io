@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-27T02:24:52.546Z",
+  "generatedAt": "2026-03-27T07:07:32.287Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
@@ -72,6 +72,24 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "Satellite Spots a Spawn",
+          "link": "https://science.nasa.gov/earth/earth-observatory/satellite-spots-a-spawn/",
+          "summary": "The activity of herring around Vancouver Island in British Columbia brightened coastal waters enough to be detectable from space.",
+          "isoDate": "2026-03-27T04:01:00.000Z"
+        },
+        {
+          "title": "Huge lung-cancer screening campaign boosts early diagnosis",
+          "link": "https://www.nature.com/articles/d41586-026-00954-6",
+          "summary": "Nature, Published online: 27 March 2026; doi:10.1038/d41586-026-00954-6\nA programme that offers scans to smokers between the ages of 55 and 74 detects a large number of early-stage lung tumours.",
+          "isoDate": "2026-03-27T00:00:00.000Z"
+        },
+        {
+          "title": "Sunken Soviet nuclear submarine’s radioactive release",
+          "link": "https://www.nature.com/articles/d41586-026-00953-7",
+          "summary": "Nature, Published online: 27 March 2026; doi:10.1038/d41586-026-00953-7\nLow levels of radioactive strontium and caesium are emanating from a pipe on the wreck of the Komsomolets.",
+          "isoDate": "2026-03-27T00:00:00.000Z"
+        },
+        {
           "title": "What’s Up: April 2026 Skywatching Tips from NASA",
           "link": "https://science.nasa.gov/solar-system/whats-up-april-2026-skywatching-tips-from-nasa/",
           "summary": "Mercury shines at its brightest for the year, the Lyrid meteor shower peaks, and a bright new comet makes an appearance in April’s night sky.",
@@ -112,24 +130,6 @@
           "link": "https://www.nasa.gov/image-article/nasas-ixpe-gets-fresh-look-at-supernova/",
           "summary": "NASA’s IXPE (Imaging X-ray Polarimetry Explorer) mission has taken a new observation of a supernova, RCW 86, seen here in an image released on March 24, 2026. This observation helps fill in a fuller picture of what other telescopes have seen. The full image combines IXPE’s data with legacy observations from two other X-ray telescopes: […]",
           "isoDate": "2026-03-26T16:58:30.000Z"
-        },
-        {
-          "title": "Curiosity Blog, Sols 4838-4844: Wrapping Up the Boxwork Terrain",
-          "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4838-4844-wrapping-up-the-boxwork-terrain/",
-          "summary": "Written by Deborah Padgett, MSL Operations Product Ground System Task Lead at NASA’s Jet Propulsion Laboratory Earth planning date: Friday, March 20, 2026 Curiosity has just concluded a very intense week of science observations and engineering activities, as it wraps up its monthslong investigation of the Martian boxwork terrain. Three days of planning this week […]",
-          "isoDate": "2026-03-26T15:26:13.000Z"
-        },
-        {
-          "title": "La NASA anuncia la cobertura de la de la primera misión tripulada Artemis alrededor de la Luna",
-          "link": "https://www.nasa.gov/news-release/la-nasa-anuncia-la-cobertura-de-la-de-la-primera-mision-tripulada-artemis-alrededor-de-la-luna/",
-          "summary": "Diversos eventos previos al lanzamiento, del lanzamiento y de la misión Artemis II de la NASA alrededor de la Luna se transmitirán en línea. La agencia tiene como fecha objetivo no antes del miércoles 1 de abril para este vuelo de prueba, con una ventana de lanzamiento de dos horas que se abre a las […]",
-          "isoDate": "2026-03-26T14:55:22.000Z"
-        },
-        {
-          "title": "NASA’s Hubble Detects First-Ever Spin Reversal of Tiny Comet",
-          "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-detects-first-ever-spin-reversal-of-tiny-comet/",
-          "summary": "Astronomers using NASA’s Hubble Space Telescope have found evidence that the spinning of a small comet slowed and then reversed its direction of rotation, offering a dramatic example of how volatile activity can affect the spin and physical evolution of small bodies in the solar system. This is the first time researchers have observed evidence […]",
-          "isoDate": "2026-03-26T14:00:11.000Z"
         }
       ]
     },
@@ -141,7 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-03-27T02:24:47.914Z"
+          "isoDate": "2026-03-27T07:07:28.811Z"
+        },
+        {
+          "title": "Campaigners welcome Meta and YouTube's defeat in landmark social media addiction trial",
+          "link": "https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&at_campaign=rss",
+          "summary": "A woman has been awarded $6m in a verdict that could have implications for hundreds of other cases in the US.",
+          "isoDate": "2026-03-27T03:21:48.000Z"
         },
         {
           "title": "Judge rejects Pentagon's attempt to 'cripple' Anthropic",
@@ -154,12 +160,6 @@
           "link": "https://www.bbc.com/news/articles/c05dlm0l0jgo?at_medium=RSS&at_campaign=rss",
           "summary": "US District Judge Jane Boyle said the company had failed to show it had suffered any harm under federal competition laws.",
           "isoDate": "2026-03-26T17:29:13.000Z"
-        },
-        {
-          "title": "Campaigners welcome Meta and YouTube's defeat in landmark social media addiction trial",
-          "link": "https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&at_campaign=rss",
-          "summary": "A woman has been awarded $6m in a verdict that could have implications for hundreds of other cases in the US.",
-          "isoDate": "2026-03-26T09:43:25.000Z"
         },
         {
           "title": "'A game-changing moment for social media' - what next for big tech after landmark addiction verdict?",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-03-27T02:24:51.512Z"
+          "isoDate": "2026-03-27T07:07:30.964Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-03-27T02:24:49.239Z"
+          "isoDate": "2026-03-27T07:07:30.106Z"
         },
         {
           "title": "Improve Engineering Communication by Translating Technical Detail",
