@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-01T02:35:41.272Z",
+  "generatedAt": "2026-04-01T07:20:39.281Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
@@ -72,6 +72,12 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "March of the Harmattan",
+          "link": "https://science.nasa.gov/earth/earth-observatory/march-of-the-harmattan/",
+          "summary": "Strong winds in March 2026 carried Saharan dust across northwestern Africa and toward the Canary Islands, reducing visibility and prompting alerts.",
+          "isoDate": "2026-04-01T04:00:00.000Z"
+        },
+        {
           "title": "Godspeed, Artemis II!",
           "link": "https://www.nasa.gov/image-article/godspeed-artemis-ii/",
           "summary": "NASA astronaut Jessica Meir took this photo of an Artemis program patch floating in the International Space Station’s cupola. She posted it on X on March 30, 2026, with the following caption: “Our work on the @Space_Station has provided the foundation to explore further, preparing us to return humans to the Moon this week. Stay […]",
@@ -124,12 +130,6 @@
           "link": "https://www.nature.com/articles/d41586-026-01002-z",
           "summary": "Nature, Published online: 31 March 2026; doi:10.1038/d41586-026-01002-z\nAstronomers have spotted a second planet taking shape from the material orbiting a young star — only the second such example known.",
           "isoDate": "2026-03-31T00:00:00.000Z"
-        },
-        {
-          "title": "A responsible authorship culture is needed — it is a collective responsibility",
-          "link": "https://www.nature.com/articles/d41586-026-00997-9",
-          "summary": "Nature, Published online: 31 March 2026; doi:10.1038/d41586-026-00997-9\nA responsible authorship culture is needed — it is a collective responsibility",
-          "isoDate": "2026-03-31T00:00:00.000Z"
         }
       ]
     },
@@ -141,13 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-04-01T02:35:35.491Z"
+          "isoDate": "2026-04-01T07:20:35.647Z"
         },
         {
           "title": "Tech giant Oracle makes 'significant' job cuts",
           "link": "https://www.bbc.com/news/articles/cm296jzzl9yo?at_medium=RSS&at_campaign=rss",
           "summary": "It is thought that thousands of people may have lost their jobs at Oracle, one of the world's largest tech companies.",
-          "isoDate": "2026-03-31T21:50:41.000Z"
+          "isoDate": "2026-04-01T07:09:46.000Z"
         },
         {
           "title": "Tech Life",
@@ -204,6 +204,12 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "Preview tool helps makers visualize 3D-printed objects",
+          "link": "https://news.mit.edu/2026/preview-tool-helps-makers-visualize-3d-printed-objects-0401",
+          "summary": "By quickly generating aesthetically accurate previews of fabricated objects, the VisiPrint system could make prototyping faster and less wasteful.",
+          "isoDate": "2026-04-01T04:00:00.000Z"
+        },
+        {
           "title": "Accelerating the next phase of AI",
           "link": "https://openai.com/index/accelerating-the-next-phase-ai",
           "summary": "OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI.",
@@ -256,12 +262,6 @@
           "link": "https://news.mit.edu/2026/augmenting-citizen-science-computer-vision-fish-monitoring-0325",
           "summary": "MIT Sea Grant works with the Woodwell Climate Research Center and other collaborators to demonstrate a deep learning-based system for fish monitoring.",
           "isoDate": "2026-03-25T21:00:00.000Z"
-        },
-        {
-          "title": "Protecting people from harmful manipulation",
-          "link": "https://deepmind.google/blog/protecting-people-from-harmful-manipulation/",
-          "summary": "Google DeepMind researches AI's harmful manipulation risks across areas like finance and health, leading to new safety measures.",
-          "isoDate": "2026-03-25T16:46:20.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-04-01T02:35:39.594Z"
+          "isoDate": "2026-04-01T07:20:38.086Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-04-01T02:35:37.261Z"
+          "isoDate": "2026-04-01T07:20:37.153Z"
         },
         {
           "title": "The ’80s Submersible That Transformed Underwater Exploration",
