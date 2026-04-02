@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-04-02T02:13:58.919Z",
+  "generatedAt": "2026-04-02T07:12:46.176Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
         {
-          "title": "Artemis II, NASA's most daring mission in generations, launches to the Moon",
+          "title": "Artemis II, NASA's boldest mission in generations, launches crew to the Moon",
           "link": "https://arstechnica.com/space/2026/04/four-astronauts-depart-for-the-moon-with-a-fiery-send-off-from-cape-canaveral/",
           "summary": "Liftoff of Artemis II with four astronauts occurred at 6:35 pm EDT (22:35 UTC) on Wednesday.",
           "isoDate": "2026-04-02T00:04:17.000Z"
@@ -72,6 +72,24 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "Réunion Island Lava Reaches the Sea",
+          "link": "https://science.nasa.gov/earth/earth-observatory/reunion-island-lava-reaches-the-sea/",
+          "summary": "The February 2026 eruption at Piton de la Fournaise has lasted longer and produced a larger volume of lava than recent eruptions from this frequently active volcano.",
+          "isoDate": "2026-04-02T04:01:00.000Z"
+        },
+        {
+          "title": "Regular physical activity in midlife cuts risk of early death ",
+          "link": "https://www.nature.com/articles/d41586-026-01000-1",
+          "summary": "Nature, Published online: 02 April 2026; doi:10.1038/d41586-026-01000-1\nStudy of more than 11,000 women found that only a few hours of moderate-to-vigorous activity per week had a strong effect.",
+          "isoDate": "2026-04-02T00:00:00.000Z"
+        },
+        {
+          "title": "How procrastination can rob you of career fulfilment in science",
+          "link": "https://www.nature.com/articles/d41586-026-00551-7",
+          "summary": "Nature, Published online: 02 April 2026; doi:10.1038/d41586-026-00551-7\nPutting off an important task in a long to-do list might be because you fear failure. Or maybe it is success that scares you?",
+          "isoDate": "2026-04-02T00:00:00.000Z"
+        },
+        {
           "title": "Liftoff! NASA Launches Astronauts on Historic Artemis Moon Mission",
           "link": "https://www.nasa.gov/news-release/liftoff-nasa-launches-astronauts-on-historic-artemis-moon-mission/",
           "summary": "Spurred by American ingenuity, astronauts on NASA’s Artemis II mission are in flight, preparing for the first crewed lunar flyby in more than 50 years. NASA’s SLS (Space Launch System) rocket lifted off from Launch Pad 39B at the agency’s Kennedy Space Center in Florida at 6:35 p.m. EDT Wednesday, sending four astronauts aboard the […]",
@@ -112,24 +130,6 @@
           "link": "https://www.nature.com/articles/s41586-026-10230-2",
           "summary": "Nature, Published online: 01 April 2026; doi:10.1038/s41586-026-10230-2\nDissociative ionization of H2 molecules by the combination of a phase-locked attosecond laser pair and a few-cycle NIR laser shows that ion–photoelectron entanglement influences electronic coherence in H2+, allowing control over the degree of entanglement by varying the delay between the pulses.",
           "isoDate": "2026-04-01T00:00:00.000Z"
-        },
-        {
-          "title": "The 1000 Chinese Pangenome empowers medical and population genetics",
-          "link": "https://www.nature.com/articles/s41586-026-10315-y",
-          "summary": "Nature, Published online: 01 April 2026; doi:10.1038/s41586-026-10315-y\nDevelopment of the pangenome-informed genome assembly (PIGA) workflow enabled the generation of 1,116 diploid genome assemblies (55 de novo and 1,061 pangenome-informed), representing an extensive resource of medically relevant genic variations.",
-          "isoDate": "2026-04-01T00:00:00.000Z"
-        },
-        {
-          "title": "Gene regulatory landscape dissected by single-cell four-omics sequencing",
-          "link": "https://www.nature.com/articles/s41586-026-10322-z",
-          "summary": "Nature, Published online: 01 April 2026; doi:10.1038/s41586-026-10322-z\nCombining single-cell parallel profiling of genome conformation, histone modifications, chromatin accessibility and gene expression reveals dynamics and intranuclear spatial clustering of epigenome profiles, enabling sophisticated analysis of the regulatory landscape across cell types and tissues.",
-          "isoDate": "2026-04-01T00:00:00.000Z"
-        },
-        {
-          "title": "Developmental organization of sensory and sympathetic ganglia",
-          "link": "https://www.nature.com/articles/s41586-026-10313-0",
-          "summary": "Nature, Published online: 01 April 2026; doi:10.1038/s41586-026-10313-0\nFindings suggest that neural crest fate bias predominantly emerges within the neural tube, and that only a minor subset of delaminated progenitors retain multipotency to generate both sensory and sympathetic derivatives.",
-          "isoDate": "2026-04-01T00:00:00.000Z"
         }
       ]
     },
@@ -141,13 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-04-02T02:13:52.334Z"
+          "isoDate": "2026-04-02T07:12:42.637Z"
         },
         {
-          "title": "Elon Musk's SpaceX moves to become a publicly traded company",
+          "title": "Elon Musk's SpaceX set to go public in $1 trillion share listing",
           "link": "https://www.bbc.com/news/articles/c2k35lg92dpo?at_medium=RSS&at_campaign=rss",
           "summary": "The company’s public stock debut is set to be one of the most valuable in history, and could make Musk the world's first trillionaire.",
-          "isoDate": "2026-04-01T22:35:23.000Z"
+          "isoDate": "2026-04-02T07:05:05.000Z"
         },
         {
           "title": "Peppa Pig and Transformers owner Hasbro hit by cyber-attack",
@@ -204,6 +204,12 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "Evaluating the ethics of autonomous systems",
+          "link": "https://news.mit.edu/2026/evaluating-autonomous-systems-ethics-0402",
+          "summary": "MIT researchers developed a testing framework that pinpoints situations where AI decision-support systems are not treating people and communities fairly.",
+          "isoDate": "2026-04-02T04:00:00.000Z"
+        },
+        {
           "title": "Preview tool helps makers visualize 3D-printed objects",
           "link": "https://news.mit.edu/2026/preview-tool-helps-makers-visualize-3d-printed-objects-0401",
           "summary": "By quickly generating aesthetically accurate previews of fabricated objects, the VisiPrint system could make prototyping faster and less wasteful.",
@@ -256,12 +262,6 @@
           "link": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
           "summary": "Our latest voice model has improved precision and lower latency to make voice interactions more fluid, natural and precise.",
           "isoDate": "2026-03-26T15:23:35.000Z"
-        },
-        {
-          "title": "AI system learns to keep warehouse robot traffic running smoothly ",
-          "link": "https://news.mit.edu/2026/ai-system-keeps-warehouse-robot-traffic-running-smoothly-0326",
-          "summary": "This new approach adapts to decide which robots should get the right of way at every moment, avoiding congestion and increasing throughput.",
-          "isoDate": "2026-03-26T04:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-04-02T02:13:56.786Z"
+          "isoDate": "2026-04-02T07:12:44.889Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-04-02T02:13:54.476Z"
+          "isoDate": "2026-04-02T07:12:44.070Z"
         },
         {
           "title": "What Exoskeletons Learned From One Relentless User",
