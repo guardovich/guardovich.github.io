@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-04-03T02:23:03.569Z",
+  "generatedAt": "2026-04-03T07:08:20.372Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Four astronauts are now inexorably bound for the Moon",
+          "link": "https://arstechnica.com/space/2026/04/four-astronauts-are-now-inexorably-bound-for-the-moon/",
+          "summary": "“I don’t think we could be more pleased.\"",
+          "isoDate": "2026-04-03T02:17:37.000Z"
+        },
         {
           "title": "AO3 is finally out of beta after 17 years",
           "link": "https://www.theverge.com/tech/906346/ao3-archive-of-our-own-beta-exit",
@@ -58,12 +64,6 @@
           "link": "https://www.theverge.com/entertainment/906151/mlb-abs-challenge-system-cb-bucknor-worst-umpire-baseball",
           "summary": "SAN DIEGO, CALIFORNIA - AUGUST 09: Home plate umpire CB Bucknor looks on during the third inning of the game between the San Diego Padres and the Boston Red Sox at Petco Park on August 09, 2025 in San Diego, California. (Photo by Orlando Ramirez/Getty Images) | Getty Images\t\n\nDuring Wednesday's game between the Tampa Bay Rays and the Milwaukee Brewers, umpire CB Bucknor took a foul ball to the mask and had to be helped off the field. It was the cap to what has been a particularly bad week for one of the most controversial umpires in baseball.\nIt started with perhaps the best example of how MLB's Automated Ball-Strike (ABS) Challenge System can inject drama in baseball. This is the first year for the new robot umpire, which allows hitters, catchers, and pitchers to challenge balls and strikes for the first time. Each team starts a game with two challenges. But they only lose a challenge if it's unsuccessful, so p …\nRead the full story at The Verge.",
           "isoDate": "2026-04-02T19:50:41.000Z"
-        },
-        {
-          "title": "Male octopuses guided through mating by female hormones",
-          "link": "https://arstechnica.com/science/2026/04/male-octopuses-guided-through-mating-by-female-hormones/",
-          "summary": "A receptor that's used to find prey is also activated by progesterone.",
-          "isoDate": "2026-04-02T19:48:16.000Z"
         }
       ]
     },
@@ -71,6 +71,18 @@
       "header": "120  CIENCIA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Barents Sea Tied to Low Arctic Sea Ice",
+          "link": "https://science.nasa.gov/earth/earth-observatory/barents-sea-tied-to-low-arctic-sea-ice/",
+          "summary": "Patches of open water in the region contributed to low sea ice extent across the Arctic in March 2026, which tied with the lowest maximum observed in the satellite record.",
+          "isoDate": "2026-04-03T04:00:00.000Z"
+        },
+        {
+          "title": "NASA’s Artemis II Mission Leaves Earth Orbit for Flight around Moon",
+          "link": "https://www.nasa.gov/news-release/nasas-artemis-ii-mission-leaves-earth-orbit-for-flight-around-moon/",
+          "summary": "For the first time in more than 50 years, astronauts on a NASA mission are bound to fly around the Moon after successfully completing a key burn of Orion’s main engine. With the approximately six-minute firing of the spacecraft’s service module engine on Thursday, known as the translunar injection burn, Orion and its crew of […]",
+          "isoDate": "2026-04-03T02:48:08.000Z"
+        },
         {
           "title": "Artemis II Astronauts Launch to Moon",
           "link": "https://www.nasa.gov/image-article/artemis-ii-astronauts-launch-to-moon/",
@@ -118,18 +130,6 @@
           "link": "https://www.science.org/doi/abs/10.1126/science.aeb3627?af=R",
           "summary": "Science, Volume 392, Issue 6793, April 2026.",
           "isoDate": "2026-04-02T07:00:00.000Z"
-        },
-        {
-          "title": "Targeting modulated vascular smooth muscle cells in atherosclerosis via FAP-directed immunotherapy",
-          "link": "https://www.science.org/doi/abs/10.1126/science.adx1736?af=R",
-          "summary": "Science, Volume 392, Issue 6793, April 2026.",
-          "isoDate": "2026-04-02T07:00:00.000Z"
-        },
-        {
-          "title": "The great education contradiction",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aeg6014?af=R",
-          "summary": "Science, Volume 392, Issue 6793, April 2026.",
-          "isoDate": "2026-04-02T07:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-04-03T02:22:57.066Z"
+          "isoDate": "2026-04-03T07:08:15.517Z"
         },
         {
           "title": "Fewer UK adults posting on social media, Ofcom finds",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-04-03T02:23:01.544Z"
+          "isoDate": "2026-04-03T07:08:18.866Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-04-03T02:22:58.371Z"
+          "isoDate": "2026-04-03T07:08:16.958Z"
         },
         {
           "title": "Young Professional’s AI Tool Spots Mental Health Conditions",
