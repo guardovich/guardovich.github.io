@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-04-04T02:08:03.736Z",
+  "generatedAt": "2026-04-04T07:00:59.814Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Anker’s Nebula P1 projector is the portable sound king",
+          "link": "https://www.theverge.com/reviews/906455/anker-nebula-p1-review-vanlife-sound-champ",
+          "summary": "The Nebula P1 goes anywhere you can find a power source.\t\n\nThe Soundcore Nebula P1 from Anker isn't the most portable Google TV projector I've ever reviewed, nor is it the brightest. It doesn't even have a built-in battery. Instead it's a decent video device that focuses on sound.\nThe Nebula P1's standout feature is a pair of speakers that detach to create true left- and right-channel separation. It sounds much better than typical all-in-ones like the supremely portable TCL PlayCube, Xgimi MoGo, or Anker's popular Capsule projectors.\nI've been testing the $799 (currently on sale for $639) Nebula P1 as I travel around the European countryside in my van. It's not my favorite portable projector, but  …\nRead the full story at The Verge.",
+          "isoDate": "2026-04-04T07:00:00.000Z"
+        },
         {
           "title": "Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra",
           "link": "https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban",
@@ -58,12 +64,6 @@
           "link": "https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/",
           "summary": "The viral AI agentic tool let attackers silently gain admin unauthenticated access.",
           "isoDate": "2026-04-03T20:30:15.000Z"
-        },
-        {
-          "title": "OpenAI’s AGI boss is taking a leave of absence",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence",
-          "summary": "OpenAI is undergoing another round of C-suite changes, according to an internal memo viewed by The Verge. \nFidji Simo, OpenAI's CEO of AGI deployment - who was until recently the company's CEO of applications - says in the memo that she will be stepping away on medical leave \"for the next several weeks\" due to a neuroimmune condition. While she's out, OpenAI president Greg Brockman will be in charge of product, including leading OpenAI's super app efforts. On the business side, CSO Jason Kwon, CFO Sarah Friar, and CRO Denise Dresser will take charge. \nOpenAI's CMO, Kate Rouch, has also decided to step down in order to focus on her health,  …\nRead the full story at The Verge.",
-          "isoDate": "2026-04-03T20:22:59.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-04-04T02:07:58.896Z"
+          "isoDate": "2026-04-04T07:00:55.743Z"
         },
         {
           "title": "Tech Now",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-04-04T02:08:01.735Z"
+          "isoDate": "2026-04-04T07:00:58.421Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-04-04T02:08:00.599Z"
+          "isoDate": "2026-04-04T07:00:57.394Z"
         },
         {
           "title": "Video Friday: Digit Learns to Dance—Virtually Overnight",
