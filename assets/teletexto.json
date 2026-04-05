@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-04-04T18:42:01.161Z",
+  "generatedAt": "2026-04-05T02:29:45.973Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Artemis II is going so well that we're left to talk about frozen urine",
+          "link": "https://arstechnica.com/space/2026/04/artemis-ii-is-going-so-well-that-were-left-to-talk-about-frozen-urine/",
+          "summary": "\"I think the fixation on the toilet is kind of human nature.\"",
+          "isoDate": "2026-04-05T00:12:45.000Z"
+        },
+        {
+          "title": "Tech companies are trying to neuter Colorado’s landmark right-to-repair law",
+          "link": "https://arstechnica.com/tech-policy/2026/04/tech-companies-are-trying-to-neuter-colorados-landmark-right-to-repair-law/",
+          "summary": "A state bill is a glimpse of how corporations are limiting people's ability to make their own fixes and upgrades.",
+          "isoDate": "2026-04-04T20:36:49.000Z"
+        },
         {
           "title": "A folk musician became a target for AI fakes and a copyright troll",
           "link": "https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright",
@@ -52,18 +64,6 @@
           "link": "https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban",
           "summary": "Using OpenClaw with Claude AI is about to get a lot more expensive, thanks to Anthropic's new policy changes. Beginning April 4th at 3PM ET, users will \"no longer be able to use your Claude subscription limits for third-party harnesses including OpenClaw,\" according to an email sent to users on Friday evening. Instead, if users want to use OpenClaw with Claude, they'll have to use a \"pay-as-you-go option\" that will be billed separate from their Claude subscription. \nWith OpenClaw creator Peter Steinberger now employed by OpenAI, Anthropic may also be encouraging subscribers to use more of its own tools, like Claude Cowork, instead. Steinber …\nRead the full story at The Verge.",
           "isoDate": "2026-04-03T23:52:49.000Z"
-        },
-        {
-          "title": "Trump proposes steep cut to NASA budget as astronauts head for the Moon",
-          "link": "https://arstechnica.com/space/2026/04/trump-proposes-steep-cut-to-nasa-budget-as-astronauts-head-for-the-moon/",
-          "summary": "Congress will likely reject the White House's NASA cuts, just as it did last year.",
-          "isoDate": "2026-04-03T23:19:36.000Z"
-        },
-        {
-          "title": "Ice Age dice show early Native Americans may have understood probability",
-          "link": "https://arstechnica.com/science/2026/04/ice-age-dice-show-early-native-americans-may-have-understood-probability/",
-          "summary": "Ice Age hunter-gatherer \"were intentionally relying on random outcomes in repeatable, rule-based ways.\"",
-          "isoDate": "2026-04-03T22:55:29.000Z"
         }
       ]
     },
@@ -71,6 +71,12 @@
       "header": "120  CIENCIA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "NASA Answers Your Most Pressing Artemis II Questions",
+          "link": "https://www.nasa.gov/missions/nasa-answers-your-most-pressing-artemis-ii-questions/",
+          "summary": "The first crewed test flight under NASA’s Artemis program is underway. Four Artemis II astronauts are flying aboard NASA’s Orion spacecraft around the Moon and back, as they test how the spacecraft’s systems operate in a deep space environment. NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy […]",
+          "isoDate": "2026-04-04T19:44:31.000Z"
+        },
         {
           "title": "Illuminated in Orion",
           "link": "https://www.nasa.gov/image-article/illuminated-in-orion/",
@@ -124,12 +130,6 @@
           "link": "https://www.nature.com/articles/d41586-026-01105-7",
           "summary": "Nature, Published online: 03 April 2026; doi:10.1038/d41586-026-01105-7\nBudget proposal would also curb federal payments for scientific publishing.",
           "isoDate": "2026-04-03T00:00:00.000Z"
-        },
-        {
-          "title": "Artemis II Astronauts Launch to Moon",
-          "link": "https://www.nasa.gov/image-article/artemis-ii-astronauts-launch-to-moon/",
-          "summary": "NASA’s Space Launch System rocket and Orion spacecraft lift off in this April 1, 2026, image. NASA’s Artemis II mission will take NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy on an approximately 10-day journey around the Moon and back aboard their Orion spacecraft. See more launch […]",
-          "isoDate": "2026-04-02T16:50:01.000Z"
         }
       ]
     },
@@ -141,11 +141,11 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-04-04T18:41:57.270Z"
+          "isoDate": "2026-04-05T02:29:41.163Z"
         },
         {
           "title": "Tech Now",
-          "link": "https://www.bbc.co.uk/iplayer/live/bbcnews?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/iplayer/episode/m002tvm7?at_medium=RSS&at_campaign=rss",
           "summary": "Shiona McCallum tours Blenheim Palace, exploring the tech aiding its restoration.",
           "isoDate": "2026-04-04T01:00:00.000Z"
         },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-04-04T18:41:59.639Z"
+          "isoDate": "2026-04-05T02:29:44.174Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-04-04T18:41:58.754Z"
+          "isoDate": "2026-04-05T02:29:42.809Z"
         },
         {
           "title": "Video Friday: Digit Learns to Dance—Virtually Overnight",
@@ -329,6 +329,11 @@
           "summary": ""
         },
         {
+          "title": "ATL  1-2  BAR",
+          "link": "",
+          "summary": ""
+        },
+        {
           "title": "REA  0-0  ESP",
           "link": "",
           "summary": ""
@@ -374,11 +379,6 @@
           "summary": ""
         },
         {
-          "title": "LEV  4-2  REA",
-          "link": "",
-          "summary": ""
-        },
-        {
           "title": "CLASIFICACIÓN",
           "link": "",
           "summary": ""
@@ -389,7 +389,7 @@
           "summary": ""
         },
         {
-          "title": " 1  BAR  29  24  1  4  78  28  50  73",
+          "title": " 1  BAR  30  25  1  4  80  29  51  76",
           "link": "",
           "summary": ""
         },
@@ -404,7 +404,7 @@
           "summary": ""
         },
         {
-          "title": " 4  ATL  29  17  6  6  49  28  21  57",
+          "title": " 4  ATL  30  17  6  7  50  30  20  57",
           "link": "",
           "summary": ""
         },
