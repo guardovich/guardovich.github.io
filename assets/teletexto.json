@@ -1,10 +1,28 @@
 {
-  "generatedAt": "2026-04-05T07:06:10.207Z",
+  "generatedAt": "2026-04-05T12:57:14.861Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "How the Amazon Echo learned to talk — and listen",
+          "link": "https://www.theverge.com/podcast/907146/amazon-echo-alexa-version-history",
+          "summary": "A photo of a black speaker, the Amazon Echo, on a gray background. | Photo: Amelia Holowaty Krales / The Verge\t\n\nJeff Bezos badly wanted a voice computer. He had been saying so publicly since the very early days of Amazon, telling anyone who would listen about why voice might make it easier and more natural to interact with technology. (And to buy stuff from Jeff Bezos.) But when a team at Amazon set out to actually make the voice computer a reality, they encountered a seemingly endless series of hard problems. Eventually, though, they created two products, the Echo speaker and the Alexa voice assistant, that would help bring a new kind of computer to millions of people.\nOn this episode of Version History, we tell the story of the Echo's development i …\nRead the full story at The Verge.",
+          "isoDate": "2026-04-05T12:24:45.000Z"
+        },
+        {
+          "title": "Grammarly’s sloppelganger saga",
+          "link": "https://www.theverge.com/column/906606/grammarly-expert-review-ai-saga",
+          "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the ups and downs of AI, follow Stevie Bonifield. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. \nHow it started\nMost people probably know Grammarly for its browser extension that suggests how to spruce up your emails, but over the past few years, it's been eyeing bigger ambitions. In October, the company formerly known as Grammarly made a public pivot to rebrand as an AI company called Superhuman. The new name was adopted from Superhuman Mail, an AI email platform that Grammarly acquired i …\nRead the full story at The Verge.",
+          "isoDate": "2026-04-05T12:00:00.000Z"
+        },
+        {
+          "title": "CBP facility codes sure seem to have leaked via online flashcards",
+          "link": "https://arstechnica.com/security/2026/04/cbp-facility-codes-sure-seem-to-have-leaked-via-online-flashcards/",
+          "summary": "Quizlet flashcards seem to include sensitive information about gate security at CBP locations.",
+          "isoDate": "2026-04-05T11:07:27.000Z"
+        },
         {
           "title": "Artemis II is going so well that we're left to talk about frozen urine",
           "link": "https://arstechnica.com/space/2026/04/artemis-ii-is-going-so-well-that-were-left-to-talk-about-frozen-urine/",
@@ -46,24 +64,6 @@
           "link": "https://www.theverge.com/games/904202/super-meat-boy-3d-review",
           "summary": "The original Super Meat Boy is one of the best-known indie games of all time. Released in 2010, it's a brutally difficult 2D platformer, but so fun to play: The short levels almost feel like speedrunning puzzles, and even though they're filled with traps and buzzsaws, dying isn't so bad because you revive nearly instantly. Super Meat Boy 3D has much of the same spirit; it's just as infuriating, and just as satisfying.\nMoving around as Meat Boy in 3D feels very similar to 2D, particularly his really floaty jump. Wherever you run (and where you die) you leave blood splatters, which are helpful visual reminders of where to go (or where you die …\nRead the full story at The Verge.",
           "isoDate": "2026-04-04T12:00:00.000Z"
-        },
-        {
-          "title": "The app for tracking TV, movies, podcasts, and everything",
-          "link": "https://www.theverge.com/tech/906873/sofa-app-track-tv-movies-installer",
-          "summary": "Hi, friends! Welcome to Installer No. 122, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, go 'Zona, and also you can read all the old editions at the Installer homepage.) \nThis week, I've been reading about early Apple employees and weather apps and one-page productivity systems, watching Avatar: Fire and Ash on my phone in installments the way James Cameron intended, trying and failing to find a better Gmail address than the dumb one I picked 20 years ago, watching the Artemis II launch because space is awesome, buying a new mug that was too expensive but is extremely awesome, replacing my work soun …\nRead the full story at The Verge.",
-          "isoDate": "2026-04-04T12:00:00.000Z"
-        },
-        {
-          "title": "Anker’s Nebula P1 projector is the portable sound king",
-          "link": "https://www.theverge.com/reviews/906455/anker-nebula-p1-review-vanlife-sound-champ",
-          "summary": "The Nebula P1 goes anywhere you can find a power source.\t\n\nThe Soundcore Nebula P1 from Anker isn't the most portable Google TV projector I've ever reviewed, nor is it the brightest. It doesn't even have a built-in battery. Instead it's a decent video device that focuses on sound.\nThe Nebula P1's standout feature is a pair of speakers that detach to create true left- and right-channel separation. It sounds much better than typical all-in-ones like the supremely portable TCL PlayCube, Xgimi MoGo, or Anker's popular Capsule projectors.\nI've been testing the $799 (currently on sale for $639) Nebula P1 as I travel around the European countryside in my van. It's not my favorite portable projector, but  …\nRead the full story at The Verge.",
-          "isoDate": "2026-04-04T07:00:00.000Z"
-        },
-        {
-          "title": "Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban",
-          "summary": "Using OpenClaw with Claude AI is about to get a lot more expensive, thanks to Anthropic's new policy changes. Beginning April 4th at 3PM ET, users will \"no longer be able to use your Claude subscription limits for third-party harnesses including OpenClaw,\" according to an email sent to users on Friday evening. Instead, if users want to use OpenClaw with Claude, they'll have to use a \"pay-as-you-go option\" that will be billed separate from their Claude subscription. \nWith OpenClaw creator Peter Steinberger now employed by OpenAI, Anthropic may also be encouraging subscribers to use more of its own tools, like Claude Cowork, instead. Steinber …\nRead the full story at The Verge.",
-          "isoDate": "2026-04-03T23:52:49.000Z"
         }
       ]
     },
@@ -141,7 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-04-05T07:06:05.387Z"
+          "isoDate": "2026-04-05T12:57:09.089Z"
+        },
+        {
+          "title": "Apple at 50: Three products that changed how we live - and three that really didn't",
+          "link": "https://www.bbc.com/news/articles/ckgxdn9lyd2o?at_medium=RSS&at_campaign=rss",
+          "summary": "On the tech giant's 50th year, we ask analysts to give their top three Apple successes and misses",
+          "isoDate": "2026-04-04T23:56:55.000Z"
         },
         {
           "title": "Tech Now",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.com/news/articles/cm296jzzl9yo?at_medium=RSS&at_campaign=rss",
           "summary": "It is thought that thousands of people may have lost their jobs at Oracle, one of the world's largest tech companies.",
           "isoDate": "2026-04-01T07:09:46.000Z"
-        },
-        {
-          "title": "Tech Life",
-          "link": "https://www.bbc.co.uk/sounds/play/w3ct8jxn?at_medium=RSS&at_campaign=rss",
-          "summary": "Attribution science is becoming an increasingly important tool in climate lawsuits.",
-          "isoDate": "2026-03-31T20:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-04-05T07:06:07.814Z"
+          "isoDate": "2026-04-05T12:57:13.062Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-04-05T07:06:06.915Z"
+          "isoDate": "2026-04-05T12:57:10.425Z"
         },
         {
           "title": "Video Friday: Digit Learns to Dance—Virtually Overnight",
@@ -324,57 +324,12 @@
       "maxItems": 120,
       "items": [
         {
-          "title": "RESULTADOS (ÚLTIMOS)",
+          "title": "RESULTADOS (EN DIRECTO)",
           "link": "",
           "summary": ""
         },
         {
-          "title": "ATL  1-2  BAR",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "REA  0-0  ESP",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "MAL  2-1  REA",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "REA  2-0  LEV",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "RAY  1-0  ELC",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "REA  3-2  ATL",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "ATH  2-1  REA",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "CEL  3-4  ALA",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "BAR  1-0  RAY",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "SEV  0-2  VAL",
+          "title": "GET  1-0  ATH",
           "link": "",
           "summary": ""
         },
@@ -424,7 +379,7 @@
           "summary": ""
         },
         {
-          "title": " 8  GET  29  11  5 13  25  31  -6  38",
+          "title": " 8  GET  30  12  5 13  26  31  -5  41",
           "link": "",
           "summary": ""
         },
@@ -434,7 +389,7 @@
           "summary": ""
         },
         {
-          "title": "10  ATH  29  11  5 13  32  41  -9  38",
+          "title": "10  ATH  30  11  5 14  32  42 -10  38",
           "link": "",
           "summary": ""
         },
