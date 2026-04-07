@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-07T02:25:57.287Z",
+  "generatedAt": "2026-04-07T07:17:07.335Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
@@ -72,9 +72,15 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "Drought Parches Florida",
+          "link": "https://science.nasa.gov/earth/earth-observatory/drought-parches-florida/",
+          "summary": "The state was unusually dry for much of 2025, but the intensity of the drought has ratcheted up since January 2026.",
+          "isoDate": "2026-04-07T04:01:00.000Z"
+        },
+        {
           "title": "NASA’s Artemis II Crew Eclipses Record for Farthest Human Spaceflight",
           "link": "https://www.nasa.gov/news-release/nasas-artemis-ii-crew-eclipses-record-for-farthest-human-spaceflight/",
-          "summary": "Editor’s note: This release was updated at 7:28 p.m. EDT on April 6, 2026, to reflect Orion’s final closest approach to the lunar surface from about 4,070 miles to about 4,067 miles. NASA also updated the farthest distance Orion will travel. Four astronauts aboard NASA’s Artemis II test flight around the Moon made history at […]",
+          "summary": "Editor’s note: This release was updated at 7:28 p.m. EDT on April 6, 2026, to reflect Orion’s final closest approach to the lunar surface from about 4,070 miles to about 4,067 miles. NASA also updated the farthest distance Orion will travel. Finally, NASA also made changes at 10 p.m. to the statements about crew firsts. […]",
           "isoDate": "2026-04-06T19:46:20.000Z"
         },
         {
@@ -120,16 +126,10 @@
           "isoDate": "2026-04-06T00:00:00.000Z"
         },
         {
-          "title": "Moon fly-by live coverage: Artemis crew emerge from behind the Moon, see Earth ‘rising’",
+          "title": "Moon fly-by live coverage: Trump congratulates Artemis crew on successful mission so far",
           "link": "https://www.nature.com/articles/d41586-026-00989-9",
           "summary": "Nature, Published online: 06 April 2026; doi:10.1038/d41586-026-00989-9\nAstronauts are flying by the Moon’s far side and setting records. Nature is in Houston with the mission’s scientists.",
           "isoDate": "2026-04-06T00:00:00.000Z"
-        },
-        {
-          "title": "Thinking of You, Earth",
-          "link": "https://www.nasa.gov/image-article/thinking-of-you-earth/",
-          "summary": "On April 4, 2026, NASA astronaut and Artemis II Commander Reid Wiseman peers out of one of the Orion spacecraft’s main cabin windows, looking back at Earth, as the crew travels towards the Moon. The Artemis II astronauts – Wiseman and fellow NASA astronauts Christina Koch and Victor Glover, and CSA (Canadian Space Agency) astronaut […]",
-          "isoDate": "2026-04-05T14:04:33.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-04-07T02:25:53.715Z"
+          "isoDate": "2026-04-07T07:17:01.934Z"
         },
         {
           "title": "Businesses scramble to get noticed by AI search",
@@ -204,6 +204,12 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "Helping data centers deliver higher performance with less hardware",
+          "link": "https://news.mit.edu/2026/helping-data-centers-deliver-higher-performance-less-hardware-0407",
+          "summary": "Researchers developed a system that intelligently balances workloads to improve the efficiency of flash storage hardware in a data center.",
+          "isoDate": "2026-04-07T04:00:00.000Z"
+        },
+        {
           "title": "Announcing the OpenAI Safety Fellowship",
           "link": "https://openai.com/index/introducing-openai-safety-fellowship",
           "summary": "A pilot program to support independent safety and alignment research and develop the next generation of talent",
@@ -256,12 +262,6 @@
           "link": "https://openai.com/index/gradient-labs",
           "summary": "Gradient Labs uses GPT-4.1 and GPT-5.4 mini and nano to power AI agents that automate banking support workflows with low latency and high reliability.",
           "isoDate": "2026-04-01T02:00:00.000Z"
-        },
-        {
-          "title": "Accelerating the next phase of AI",
-          "link": "https://openai.com/index/accelerating-the-next-phase-ai",
-          "summary": "OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI.",
-          "isoDate": "2026-03-31T13:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-04-07T02:25:56.036Z"
+          "isoDate": "2026-04-07T07:17:05.790Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-04-07T02:25:55.084Z"
+          "isoDate": "2026-04-07T07:17:03.360Z"
         },
         {
           "title": "AI Is Insatiable",
