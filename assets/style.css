@@ -3,13 +3,15 @@
 /* Fuente Amstrad CPC */
 @font-face{
   font-family: 'AmstradCPC';
-  src: url('../fonts/amstrad_cpc.ttf') format('truetype');
+  src: url('./fonts/amstrad_cpc.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
 }
 
-html, body, button, input, textarea, select, a, div, span, p, h1, h2, h3, h4, h5, h6, li{
+/* Forzar tipografía en TODO */
+html, body, button, input, textarea, select,
+a, div, span, p, h1, h2, h3, h4, h5, h6, li {
   font-family: 'AmstradCPC', monospace !important;
 }
 
