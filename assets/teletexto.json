@@ -1,10 +1,52 @@
 {
-  "generatedAt": "2026-04-06T18:59:37.761Z",
+  "generatedAt": "2026-04-07T02:25:57.287Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "After court loss, RFK Jr. gives himself more power over CDC vaccine panel",
+          "link": "https://arstechnica.com/health/2026/04/after-court-loss-rfk-jr-gives-himself-more-power-over-cdc-vaccine-panel/",
+          "summary": "The charter renewal gives Kennedy broad authority to pick anyone for the panel.",
+          "isoDate": "2026-04-06T22:34:11.000Z"
+        },
+        {
+          "title": "From folding boxes to fixing vacuums, GEN-1 robotics model hits 99% reliability",
+          "link": "https://arstechnica.com/ai/2026/04/generalists-new-physical-robotics-ai-brings-production-level-success-rates/",
+          "summary": "New model can respond to disruptions and figure out moves it wasn't trained for.",
+          "isoDate": "2026-04-06T22:18:33.000Z"
+        },
+        {
+          "title": "Sports bets on prediction markets ruled to be \"swaps,\" exempt from state laws",
+          "link": "https://arstechnica.com/tech-policy/2026/04/sports-bets-on-prediction-markets-ruled-to-be-swaps-exempt-from-state-laws/",
+          "summary": "Court rules US preempts states from applying gambling laws to prediction markets.",
+          "isoDate": "2026-04-06T21:56:36.000Z"
+        },
+        {
+          "title": "Wisconsin governor says ‘no’ to age checks for porn",
+          "link": "https://www.theverge.com/policy/907761/wisconsin-governor-porn-age-verification-vetoed",
+          "summary": "Wisconsin Gov. Tony Evers vetoed a bill that would've required residents to verify their age before accessing porn sites, as reported earlier by 404 Media. In a letter to the members of the assembly last week, Evers writes that the bill \"imposes an intrusive burden on adults who are trying to access constitutionally protected materials.\"\nThe bill (AB 105) would've required sites with more than one-third of their total content deemed harmful to minors to impose a \"reasonable\" form of age verification, such as asking users to show their government-issued ID. More than two dozen states have already passed similar age check requirements for acc …\nRead the full story at The Verge.",
+          "isoDate": "2026-04-06T21:47:15.000Z"
+        },
+        {
+          "title": "Trump's next budget once again calls for massive cuts to science",
+          "link": "https://arstechnica.com/science/2026/04/trumps-next-budget-once-again-calls-for-massive-cuts-to-science/",
+          "summary": "Congress rejected huge cuts to science in 2026, but Trump is trying again.",
+          "isoDate": "2026-04-06T21:40:40.000Z"
+        },
+        {
+          "title": "“The problem is Sam Altman”: OpenAI Insiders don’t trust CEO",
+          "link": "https://arstechnica.com/tech-policy/2026/04/the-problem-is-sam-altman-openai-insiders-dont-trust-ceo/",
+          "summary": "OpenAI brainstorms ways AI can benefit humanity in effort to counter bad vibes.",
+          "isoDate": "2026-04-06T21:23:36.000Z"
+        },
+        {
+          "title": "Artemis II astronauts break a record, name a crater",
+          "link": "https://www.theverge.com/science/907682/nasa-artemis-ii-distance-record-crater-names",
+          "summary": "Artemis II is capturing images of the far side of the Moon, partially visible here, which can’t be seen from Earth. | Image: NASA\t\n\nA few minutes before 2PM ET on Monday, the crew of Artemis II broke a record set 56 years ago by the ill-fated Apollo 13 mission - at over 248,655 miles, they have now traveled farther from Earth than any humans before them. They marked the occasion with a crater naming ceremony that left the whole crew embracing each other in lunar orbit.\n\n\nTo commemorate the Artemis II mission, the astronauts announced their suggestion to rename certain features on the Moon to honor the Orion spacecraft, named Integrity, as well as commander Reid Wiseman's late wife, Carroll. pic.twitter.com/ejfhnItDo8\n- NASA (@NASA) April 6, 2026\n\nThe Artemis II crew prop …\nRead the full story at The Verge.",
+          "isoDate": "2026-04-06T20:40:11.000Z"
+        },
         {
           "title": "The best deals on MacBooks right now",
           "link": "https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals",
@@ -22,48 +64,6 @@
           "link": "https://arstechnica.com/space/2026/04/nasas-moon-ship-and-rocket-seem-to-be-working-well-so-what-about-the-landers/",
           "summary": "Lori Glaze: \"We have seen real commitment to try and do that... from both Blue and from SpaceX.\"",
           "isoDate": "2026-04-06T18:19:07.000Z"
-        },
-        {
-          "title": "Robotaxi companies won’t say how often remote operators intervene",
-          "link": "https://www.theverge.com/transportation/907478/robotaxi-remote-assistance-markey-investigation-waymo-tesla",
-          "summary": "Autonomous vehicle companies are refusing to disclose key details about their use of remote assistance teams, including how often these workers are forced to intervene to help their self-driving cars. \nSenator Ed Markey (D-MA) had asked robotaxi companies to disclose the information as part of an investigation by his office into the use of remote assistance operators (RAO). The senator's office sent letters to seven robotaxi companies - Aurora, May Mobility, Motional, Nuro, Tesla, Waymo, and Amazon's Zoox - seeking information about the use of remote workers to monitor the driverless vehicles and occasionally intervene when the vehicles nee …\nRead the full story at The Verge.",
-          "isoDate": "2026-04-06T18:15:51.000Z"
-        },
-        {
-          "title": "Teardown of unreleased LG Rollable shows why rollable phones aren't a thing",
-          "link": "https://arstechnica.com/gadgets/2026/04/teardown-of-unreleased-lg-rollable-shows-why-rollable-phones-arent-a-thing/",
-          "summary": "LG almost released a rollable smartphone in 2021, and this is what it looked like inside.",
-          "isoDate": "2026-04-06T17:39:07.000Z"
-        },
-        {
-          "title": "NASA’s Artemis II mission to fly around the far side of the Moon",
-          "link": "https://www.theverge.com/2019/7/19/20700565/nasa-artemis-moon-return-landing-trump-administration-jim-bridenstine",
-          "summary": "In this handout image provided by NASA, Orion snapped this high-resolution selfie in space with a camera mounted on one of its solar array wings during a routine external inspection of the spacecraft on the second day into the Artemis II mission on April 3rd, 2026. | Photo: NASA via Getty Images\t\n\nHumans haven’t stepped foot on the Moon since NASA’s Apollo 17 mission in 1972. Now, the space agency is racing to get back to the lunar surface under the umbrella of its Artemis program — a nod to the Greek goddess and twin sister of Apollo, whose name was given to NASA’s first program to send humans to the Moon. \nThe program has been plagued by years of delays, development mishaps, and billions of dollars in budget overruns, but the mission is unquestionably ambitious. The goal of Artemis is to create a sustainable presence near the Moon, instead of just sending humans to plant flags and make footprints. The agency also aims to send the first woman to the Moon through the Artemis program.\nArtemis I successfully completed its uncrewed mission in 2022. On April 2nd, 2026, Artemis II launched from Kennedy Space Center carrying four astronauts in its Orion capsule. The plan is to travel around the Moon before returning to Earth in 10 days’ time. They’ll test out the hardware and systems that could soon see humans standing on the Moon for the first time in more than 50 years in the Artemis IV mission scheduled for 2028.\nOn Monday, April 6th, NASA’s livestream is broadcasting on YouTube and on Netflix as the Artemis II astronauts break the record for the farthest distance humans have traveled away from Earth, and during a planned drop in communications as Orion passes behind the Moon. \n\n\n\n\t\t\t\t\t\nArtemis II crew sets the distance record.\n\t\t\t\nThe Artemis II astronauts will set a new distance record from Earth today\n\t\t\t\nToday’s Artemis II lunar flyby will be livestreamed on Netflix.\n\t\t\t\nThe far side of the Moon peeks out to say hi.\n\t\t\t\nYou can’t doomscroll 230,000 miles from Earth.\n\t\t\t\nArtemis II is more than halfway to the Moon.\n\t\t\t\nWhy the Artemis II crew is relying on decade old tech.\n\t\t\t\nNASA did eventually solve Artemis II’s Outlook glitch\n\t\t\t\nHey, that’s Earth!\n\t\t\t\n“With this burn to the moon, we do not leave Earth, we choose it.”\n\t\t\t\nArtemis II tech support checking in.\n\t\t\t\nA stunning look at the Artemis II liftoff.\n\t\t\t\nNASA launches four astronauts toward the Moon on the Artemis II mission\n\t\t\t\nThe Artemis Moon base project is legally dubious\n\t\t\t\nThe NASA countdown begins.\n\t\t\t\nNASA’s Moon mission delayed again.\n\t\t\t\nNASA’s now targeting March 6th as its earliest Artemis II launch attempt.\n\t\t\t\nArtemis II delayed.\n\t\t\t\nCold weather in Florida is pushing back the Artemis II launch\n\t\t\t\nSpaceX proposes a new plan for NASA’s Artemis III moon landing.\n\t\t\t\nNASA’s mission to return humans to the Moon has been delayed again until 2026\n\t\t\t\nNASA wants SpaceX and Blue Origin to deliver cargo to the moon\n\t\t\t\nNASA picks three companies to develop a Moon car for Artemis astronauts\n\t\t\t\nNASA’s Artemis mission to take humans back to the Moon has been delayed until 2025\n\t\t\t\nHow to watch NASA’s Artemis I SLS megarocket launch\n\t\t\t\nNASA moves next Artemis I rocket launch attempt to September 3rd\n\t\t\t\nNASA seeks to put first person of color on the Moon in Artemis mission\n\t\t\t\nNASA will fly Orion deep-space crew capsule ‘as is,’ despite failed component\n\t\t\t\nA Canadian astronaut will fly around the Moon on the first crewed mission of NASA’s new rocket\n\t\t\t\nAt his last Space Council meeting, Mike Pence announces new cadre of lunar astronauts\n\t\t\t\nComponent failure in NASA’s deep-space crew capsule could take months to fix\n\t\t\t\nSenate committee’s budget for lunar landers falls short of NASA request\n\t\t\t\nNASA administrator says he plans to leave position under Biden administration\n\t\t\t\nWater ice on the Moon may be easier to reach than we thought, new studies claim\n\t\t\t\nUS and seven other countries sign NASA’s Artemis Accords to set rules for exploring the Moon\n\t\t\t\nHead of Russian space program calls for more international cooperation in NASA’s Moon plans\n\t\t\t\nNASA wants to buy Moon rocks from private companies\n\t\t\t\nHouse budget bill denies major increases for NASA to fund ambitious Moon program\n\t\t\t\nNASA wants to hear your ideas for engineering the best toilet to use on the Moon\n\t\t\t\nNASA announces international Artemis Accords to standardize how to explore the Moon\n\t\t\t\nNASA picks SpaceX, Blue Origin, and Dynetics to create landers to take humans to the Moon\n\t\t\t\nThe Trump administration calls for big budget increases for NASA to fund Moon-to-Mars program\n\t\t\t\nNASA administrator on the year ahead: ‘A lot of things have to go right’\n\t\t\t\nNASA to help SpaceX, Blue Origin, and more develop technologies for Moon and Mars travel\n\t\t\t\nThis company says it has a lunar space suit that will be ready for NASA’s 2024 Moon mission\n\t\t\t\nTrump repeatedly asks NASA administrator why we can’t go straight to Mars\n\t\t\t\nNASA’s daunting to-do list for sending people back to the Moon\n\t\t\t\nNASA administrator on recent personnel shakeup: ‘There’s no turmoil at all’\n\t\t\t\nHead of NASA’s human exploration program demoted as agency pushes for Moon return\n\t\t\t\nNASA is testing how its new deep-space crew capsule handles a rocket emergency\n\t\t\t\nNASA’s future Moon rocket will probably be delayed and over budget yet again: audit\n\t\t\t\nNASA administrator says it will cost an extra $20 to $30 billion to send astronauts back to the Moon\n\t\t\t\nNASA administrator says ‘nothing has changed’ after Trump’s tweet about the Moon and Mars\n\t\t\t\nTrump tells NASA to stop talking about the Moon return his administration is pushing\n\t\t\t\nNASA administrator on new Moon plan: ‘We’re doing this in a way that’s never been done before’\n\t\t\t\nThe uphill battle NASA faces to sell its Moon plan to Congress\n\t\t\t\nNASA’s initiative to put a woman on the Moon is named Artemis, after Apollo’s twin sister\n\t\t\t\nWhite House wants $1.6 billion extra for NASA to accelerate astronaut return to the Moon\n\t\t\t\nNASA’s plan to get to the Moon by 2024 isn’t ready yet\n\t\t\t\nLockheed Martin unveils lunar lander design to get humans to the Moon by 2024\n\t\t\t\nNASA is figuring out how much money it needs to meet a faster lunar return\n\t\t\t\nMike Pence tells NASA to accelerate human missions to the Moon ‘by any means necessary’\n\t\t\t\nNASA’s planning to send people back to the Moon’s surface in about a decade",
-          "isoDate": "2026-04-06T17:24:46.000Z"
-        },
-        {
-          "title": "Netflix is launching a new app for kids games",
-          "link": "https://www.theverge.com/entertainment/907293/netflix-playground-kids-games-app",
-          "summary": "Netflix has made family-friendly titles a key part of its current games strategy, and now it's pushing a little harder with the launch of a new app. Called Netflix Playground, the app is focused on games aimed at kids aged eight and under, and, like the rest of Netflix's gaming lineup, Playground games are included as part of a Netflix subscription, and feature no ads or in-app purchases.\nPlayground is available now in the US, UK, Canada, Australia, the Philippines, and New Zealand, and will be rolling out to the rest of the world on April 28th. The launch lineup primarily consists of titles based on popular kids shows like Peppa Pig and Se …\nRead the full story at The Verge.",
-          "isoDate": "2026-04-06T17:00:00.000Z"
-        },
-        {
-          "title": "The one piece of data that could actually shed light on your job and AI",
-          "link": "https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/",
-          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Within Silicon Valley’s orbit, an AI-fueled jobs apocalypse is spoken about as a given. The mood is so grim that a societal impacts researcher at Anthropic, responding Wednesday to a call for…",
-          "isoDate": "2026-04-06T16:33:35.000Z"
-        },
-        {
-          "title": "Samsung&#8217;s Galaxy S27 &#8216;Pro&#8217; could squeeze in between the Ultra and Plus phones",
-          "link": "https://www.theverge.com/tech/907431/samsung-galaxy-s27-pro-privacy-display-rumor",
-          "summary": "The S27 Pro will reportedly have the Privacy Display first seen on the S26 Ultra. | Photo: Allison Johnson / The Verge\t\n\nSamsung's S27 lineup, expected next year, might include a new member, the Galaxy S27 Pro, which would be a second premium option between Samsung's Ultra and Plus models, as first reported by ETNews. \nThe new Pro model reportedly won't support the S Pen but will feature Samsung's Privacy Display, which is currently only available on the Galaxy S26 Ultra. The Privacy Display allows users to limit the viewing angle on their phone so that the content on the screen is only visible when they're looking directly at it. According to ET News' sources, Samsung is aiming to launch two phones with this premium display tech in its next-gen lineup, which …\nRead the full story at The Verge.",
-          "isoDate": "2026-04-06T16:03:14.000Z"
-        },
-        {
-          "title": "Iran threatens OpenAI’s Stargate data center in Abu Dhabi",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/907427/iran-openai-stargate-datacenter-uae-abu-dhabi-threat",
-          "summary": "An October 2025 image of OpenAI’s UAE Stargate data center under construction. | Image: G42\t\n\nIran's Islamic Revolutionary Guard Corps (IRGC) has published a video threatening OpenAI's planned Abu Dhabi data center if the US follows through on threats to attack the country's power plants, as reported earlier by Tom's Hardware. The video, which was published to an Iranian state-backed news outlet's X account on April 3rd, says the IRGC will carry out the \"complete and utter annihilation\" of US-linked energy and technology companies in the region, before showing an image of OpenAI's $30 billion in-progress Stargate facility in the United Arab Emirates.\nOpenAI's overarching $500 billion Stargate project includes investments from Oracle …\nRead the full story at The Verge.",
-          "isoDate": "2026-04-06T15:54:19.000Z"
         }
       ]
     },
@@ -71,6 +71,18 @@
       "header": "120  CIENCIA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "NASA’s Artemis II Crew Eclipses Record for Farthest Human Spaceflight",
+          "link": "https://www.nasa.gov/news-release/nasas-artemis-ii-crew-eclipses-record-for-farthest-human-spaceflight/",
+          "summary": "Editor’s note: This release was updated at 7:28 p.m. EDT on April 6, 2026, to reflect Orion’s final closest approach to the lunar surface from about 4,070 miles to about 4,067 miles. NASA also updated the farthest distance Orion will travel. Four astronauts aboard NASA’s Artemis II test flight around the Moon made history at […]",
+          "isoDate": "2026-04-06T19:46:20.000Z"
+        },
+        {
+          "title": "NASA’s Northrop Grumman CRS-24 Mission Overview ",
+          "link": "https://www.nasa.gov/missions/station/nasas-northrop-grumman-crs-24-mission-overview/",
+          "summary": "NASA’s Northrop Grumman Commercial Resupply Services 24 mission, or Northrop Grumman CRS-24, will deliver approximately 11,000 pounds of science and supplies to the International Space Station. This mission will be the second flight of the Cygnus XL, the larger, more cargo-capable version of the company’s solar-powered spacecraft.",
+          "isoDate": "2026-04-06T19:29:22.000Z"
+        },
         {
           "title": "Night Sky Network Celebrates Artemis II",
           "link": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/night-sky-network-celebrates-artemis-ii/",
@@ -108,9 +120,9 @@
           "isoDate": "2026-04-06T00:00:00.000Z"
         },
         {
-          "title": "Artemis II astronauts fly by the Moon today: follow along with <i>Nature</i> live",
+          "title": "Moon fly-by live coverage: Artemis crew emerge from behind the Moon, see Earth ‘rising’",
           "link": "https://www.nature.com/articles/d41586-026-00989-9",
-          "summary": "Nature, Published online: 06 April 2026; doi:10.1038/d41586-026-00989-9\nHumans are seeing parts of the Moon’s far side never observed by eye. Nature is in Houston with the mission’s scientists.",
+          "summary": "Nature, Published online: 06 April 2026; doi:10.1038/d41586-026-00989-9\nAstronauts are flying by the Moon’s far side and setting records. Nature is in Houston with the mission’s scientists.",
           "isoDate": "2026-04-06T00:00:00.000Z"
         },
         {
@@ -118,18 +130,6 @@
           "link": "https://www.nasa.gov/image-article/thinking-of-you-earth/",
           "summary": "On April 4, 2026, NASA astronaut and Artemis II Commander Reid Wiseman peers out of one of the Orion spacecraft’s main cabin windows, looking back at Earth, as the crew travels towards the Moon. The Artemis II astronauts – Wiseman and fellow NASA astronauts Christina Koch and Victor Glover, and CSA (Canadian Space Agency) astronaut […]",
           "isoDate": "2026-04-05T14:04:33.000Z"
-        },
-        {
-          "title": "NASA Answers Your Most Pressing Artemis II Questions",
-          "link": "https://www.nasa.gov/missions/nasa-answers-your-most-pressing-artemis-ii-questions/",
-          "summary": "Editor’s Note: This article was updated at 1:40 p.m. EDT on Sunday, April 5, 2026, to correct the time for the distance record, and adjust other times for lunar flyby activities. The first crewed test flight under NASA’s Artemis program is underway. Four Artemis II astronauts are flying aboard NASA’s Orion spacecraft around the Moon […]",
-          "isoDate": "2026-04-04T19:44:31.000Z"
-        },
-        {
-          "title": "Illuminated in Orion",
-          "link": "https://www.nasa.gov/image-article/illuminated-in-orion/",
-          "summary": "NASA astronaut Christina Koch reads on a tablet in the dimly lit Orion crew capsule in this April 3, 2026, photo. To the right of the image’s center, CSA (Canadian Space Agency) astronaut Jeremy Hansen is seen in profile peering out of one of Orion’s windows. Lights are turned off to avoid glare on the […]",
-          "isoDate": "2026-04-04T15:07:46.000Z"
         }
       ]
     },
@@ -141,7 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-04-06T18:59:32.740Z"
+          "isoDate": "2026-04-07T02:25:53.715Z"
+        },
+        {
+          "title": "Businesses scramble to get noticed by AI search",
+          "link": "https://www.bbc.com/news/articles/c70n2rjgxeyo?at_medium=RSS&at_campaign=rss",
+          "summary": "Firms are changing the way they present information on their websites, so they get noticed by AI.",
+          "isoDate": "2026-04-06T23:20:52.000Z"
         },
         {
           "title": "How China fell for a lobster: What an AI assistant tells us about Beijing's ambition",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.com/news/articles/ce8l2q5yq51o?at_medium=RSS&at_campaign=rss",
           "summary": "Anthropic, the company behind the AI coding assistant, said it was fixing a problem blocking users.",
           "isoDate": "2026-04-01T11:59:19.000Z"
-        },
-        {
-          "title": "Mass robotaxi malfunction halts traffic in Chinese city",
-          "link": "https://www.bbc.com/news/articles/cvge91r9j80o?at_medium=RSS&at_campaign=rss",
-          "summary": "Baidu has not responded to a request for comment about the outage, which affected at least 100 cars.",
-          "isoDate": "2026-04-01T11:34:31.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-04-06T18:59:36.561Z"
+          "isoDate": "2026-04-07T02:25:56.036Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-04-06T18:59:34.084Z"
+          "isoDate": "2026-04-07T02:25:55.084Z"
         },
         {
           "title": "AI Is Insatiable",
@@ -329,6 +329,11 @@
           "summary": ""
         },
         {
+          "title": "GIR  1-0  VIL",
+          "link": "",
+          "summary": ""
+        },
+        {
           "title": "ALA  2-2  OSA",
           "link": "",
           "summary": ""
@@ -374,11 +379,6 @@
           "summary": ""
         },
         {
-          "title": "REA  3-2  ATL",
-          "link": "",
-          "summary": ""
-        },
-        {
           "title": "CLASIFICACIÓN",
           "link": "",
           "summary": ""
@@ -399,7 +399,7 @@
           "summary": ""
         },
         {
-          "title": " 3  VIL  29  18  4  7  54  34  20  58",
+          "title": " 3  VIL  30  18  4  8  54  35  19  58",
           "link": "",
           "summary": ""
         },
@@ -444,17 +444,17 @@
           "summary": ""
         },
         {
-          "title": "12  RAY  30   8 11 11  29  35  -6  35",
+          "title": "12  GIR  30   9 10 11  32  44 -12  37",
           "link": "",
           "summary": ""
         },
         {
-          "title": "13  VAL  30   9  8 13  34  45 -11  35",
+          "title": "13  RAY  30   8 11 11  29  35  -6  35",
           "link": "",
           "summary": ""
         },
         {
-          "title": "14  GIR  29   8 10 11  31  44 -13  34",
+          "title": "14  VAL  30   9  8 13  34  45 -11  35",
           "link": "",
           "summary": ""
         },
