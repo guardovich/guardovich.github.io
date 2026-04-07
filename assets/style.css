@@ -40,10 +40,12 @@ a, div, span, p, h1, h2, h3, h4, h5, h6, li {
 html, body{
   margin:0;
   padding:0;
+  min-width: 1240px;
 }
 
 html{
   image-rendering: pixelated;
+  overflow-x: auto;
 }
 
 body{
@@ -64,6 +66,7 @@ body{
     radial-gradient(900px 540px at 50% 20%, rgba(0,255,0,0.08), transparent 60%);
   background-size: 36px 36px, 36px 36px, auto;
   background-attachment: fixed;
+  overflow-x: auto;
 }
 
 /* Scanlines CRT */
@@ -98,7 +101,9 @@ body::before{
 .wrap{
   position: relative;
   z-index: 1;
-  max-width: 1200px;
+  width: 1200px;
+  min-width: 1200px;
+  max-width: none;
   margin: 28px auto;
   padding: 0 18px;
   display:grid;
@@ -284,7 +289,8 @@ body::before{
 
 /* ===== INICIO (CV) ===== */
 .cv-inicio{
-  width: min(820px, 100%);
+  width: 820px;
+  min-width: 820px;
   margin: 0 auto;
 }
 
@@ -388,7 +394,8 @@ body::before{
 
 /* ===== POSTS ===== */
 .posts{
-  width: min(920px, 100%);
+  width: 920px;
+  min-width: 920px;
   margin: 0 auto;
 }
 
@@ -476,7 +483,8 @@ body::before{
 
 /* ===== POST PAGE ===== */
 .post{
-  width: min(920px, 100%);
+  width: 920px;
+  min-width: 920px;
   margin: 0 auto;
 }
 
@@ -510,69 +518,4 @@ body::before{
   width: 100%;
   max-width: 100%;
   border: 1px solid rgba(0,255,0,0.22);
-}
-
-/* Responsive */
-@media (max-width: 920px){
-  .wrap{
-    grid-template-columns: 1fr;
-    gap: 20px;
-  }
-
-  .sidebar{
-    padding-top: 0;
-  }
-
-  .avatar-frame{
-    width: 180px;
-    height: 180px;
-  }
-
-  .cv-title{
-    text-align: left;
-  }
-
-  .cv-item-head{
-    align-items: flex-start;
-  }
-
-  .cv-item-date{
-    align-self: flex-start;
-  }
-
-  .title{
-    font-size: 26px;
-  }
-}
-
-@media (max-width: 640px){
-  .wrap{
-    padding: 0 12px;
-  }
-
-  .panel{
-    padding: 16px;
-  }
-
-  .menu-item,
-  .chip,
-  .post-pill{
-    font-size: 11px;
-  }
-
-  body{
-    font-size: 15px;
-  }
-
-  .title{
-    font-size: 22px;
-  }
-
-  .sb-name{
-    font-size: 18px;
-  }
-
-  body::after{
-    opacity: 0.42;
-  }
 }
