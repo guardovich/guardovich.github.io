@@ -1,69 +1,69 @@
 {
-  "generatedAt": "2026-04-07T19:03:09.609Z",
+  "generatedAt": "2026-04-08T02:26:47.521Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
         {
+          "title": "Valve brings native Steam Link app to Apple's Vision Pro",
+          "link": "https://arstechnica.com/gaming/2026/04/valve-brings-native-steam-link-app-to-apples-vision-pro/",
+          "summary": "New app can replace third-party options that were jankier to use.",
+          "isoDate": "2026-04-07T22:21:21.000Z"
+        },
+        {
+          "title": "Nothing’s noise-canceling CMF Buds 2A are down to $19.99 for the rest of today",
+          "link": "https://www.theverge.com/gadgets/908409/nothing-cmf-buds-2a-earbuds-amazon-lightning-deal-sale",
+          "summary": "It’s not every day you find a decent pair of wireless earbuds with active noise cancellation, a transparency mode, and app support for less than $20, which is why the current lighting deal on the CMF Buds 2A stands out. Now through 11:15PM ET today, April 7th, Nothing’s budget earbuds are available on Amazon in all three colors for just $19.99 ($29 off), which matches their lowest price to date.\nNothing CMF Buds 2A\n\nWhere to Buy:\n\n $49 $19.99 at Amazon (black)\n $49 $19.99 at Amazon (white)\n $49 $19.99 at Amazon (orange)\n\nFor the price, the Buds 2A cover the basics and then some. They deliver decent (albeit somewhat tinny) sound and 42 decibels of noise cancellation, along with an IP54 rating and a useful transparency mode for staying aware of your surroundings. They also provide a commendable eight hours of battery life per charge with ANC disabled — or up to 35.5 with the included charging case — and feature four onboard mics that leverage Nothing’s noise reduction tech, which helps boost voice call quality. I wouldn’t say voice clarity is their strong suit, though, again, they’re a $20 pair of earbuds.\nLike the rest of Nothing’s entry-level earbuds, the 2A also work with the Nothing X app, adding a level of flexibility that’s hard to find at this price. With the app, you can tweak EQ settings, adjust the bass response, switch between ANC modes, or quickly enable multi-device pairing. There’s even a “find my earbuds” feature if you lose them, and you can assign a gesture to trigger your phone’s virtual assistant on the fly, whether that’s Siri or Google Assistant. On top of that, if you’re using a Nothing or CMF phone, you can use your voice to access ChatGPT directly through the earbuds.",
+          "isoDate": "2026-04-07T22:16:21.000Z"
+        },
+        {
+          "title": "Apple and Lenovo have the least repairable laptops, analysis finds",
+          "link": "https://arstechnica.com/gadgets/2026/04/apple-has-the-lowest-grades-in-laptop-phone-repairability-analysis/",
+          "summary": "The MacBook Neo is a step in the right direction, though.",
+          "isoDate": "2026-04-07T22:08:32.000Z"
+        },
+        {
+          "title": "Amazon is ending support for older Kindles and Kindle Fires",
+          "link": "https://www.theverge.com/tech/908302/amazon-ending-support-kindle-fire-tablet-e-reader-pre-2012-older",
+          "summary": "It’s finally the end of the line for the 1st generation Amazon Kindle. | Image: Amazon\t\n\nAmazon has announced that starting on May 20th, 2026, Kindle e-readers and Kindle Fire devices released in 2012 and earlier will \"no longer be able to purchase, borrow, or download new content via the Kindle Store,\" Amazon spokesperson Jackie Burke wrote in an email to The Verge. Users will still be able to read books already downloaded to their devices and can access their accounts and Kindle purchases through the Kindle mobile app, Kindle for Web, and newer devices. If the older devices are deregistered or factory reset, users won't be able to re-register them after the May deadline.\nThe complete list of affected devices goes all the way  …\nRead the full story at The Verge.",
+          "isoDate": "2026-04-07T21:44:20.000Z"
+        },
+        {
+          "title": "Spotify&#8217;s Prompted Playlists can help you find new podcasts to listen to",
+          "link": "https://www.theverge.com/entertainment/908339/spotify-prompted-playlists-podcasts",
+          "summary": "On Tuesday, Spotify expanded its Prompted Playlists feature to include podcasts, an update that could make it easier for Premium users to find new shows to listen to. Prompted Playlists were originally launched as a beta feature in December, but previously only worked for music. You can use the feature to effectively generate customized Discover Weekly playlists using text prompts to \"steer the algorithm\" toward specific genres or themes.  \nTuesday's update allows you to do the same thing with playlists of podcast episodes. The feature is still in beta, though, and is currently only available in English for Premium users in the U.S., Canada …\nRead the full story at The Verge.",
+          "isoDate": "2026-04-07T20:13:23.000Z"
+        },
+        {
+          "title": "What the heck is wrong with our AI overlords?",
+          "link": "https://arstechnica.com/tech-policy/2026/04/what-the-heck-is-wrong-with-our-ai-overlords/",
+          "summary": "New profile of Sam Altman shines a light on a whole industry.",
+          "isoDate": "2026-04-07T20:02:25.000Z"
+        },
+        {
+          "title": "Bluesky users are mastering the fine art of blaming everything on \"vibe coding\"",
+          "link": "https://arstechnica.com/ai/2026/04/bluesky-users-are-mastering-the-fine-art-of-blaming-everything-on-vibe-coding/",
+          "summary": "Use of AI coding tools has become a convenient boogeyman for any tech issues.",
+          "isoDate": "2026-04-07T19:09:44.000Z"
+        },
+        {
+          "title": "You can now turn 2D apps into 3D while using the Galaxy XR headset",
+          "link": "https://www.theverge.com/tech/908268/android-xr-samsung-galaxy-auto-spatialization-2d-3d",
+          "summary": "Android XR is getting a new feature that turns 2D apps, websites, images, and videos into \"3D experiences.\" The feature, which Google calls \"auto-spatialization,\" was initially announced last year, and it's launching on Tuesday as an experimental feature for Samsung Galaxy XR headsets.\nHere's a video from Google that gives you an idea about how auto-spatialization might look in practice:\n\nThere are a few caveats to auto-spatialization: it supports content up to 1080p or lower at 30fps, it \"uses slightly more battery power,\" and it only works \"on the app window currently in focus,\" Google says. But if you have a Galaxy XR device, it could be …\nRead the full story at The Verge.",
+          "isoDate": "2026-04-07T19:07:12.000Z"
+        },
+        {
+          "title": "I wish this selfie phone case was better for selfies",
+          "link": "https://www.theverge.com/tech/908251/dockcase-selfix-selfie-phone-case-hands-on",
+          "summary": "Making the case for better selfies.\t\n\nThe Selfix phone case is a classic example of a great idea in theory that falls apart in practice.\nIt's a case for the iPhone 17 Pro with a circular screen on the back. It mirrors the middle of your main phone screen, making it easier to frame up selfies using your phone's higher-quality rear cameras rather than the selfie camera. A nice concept! I wish it worked better.\nSelfie cameras have come a long way, and the updated sensor in the iPhone 17 series' front-facing camera is more than capable in good lighting. But there are still ways that the bigger sensors and lenses in your phone's rear cameras outperform them: They can do slow-motion …\nRead the full story at The Verge.",
+          "isoDate": "2026-04-07T19:05:00.000Z"
+        },
+        {
           "title": "Samsung’s Galaxy S26 Ultra is $200 off for the first time",
           "link": "https://www.theverge.com/gadgets/908196/samsung-galaxy-s26-ultra-privacy-display-deal-sale-unlocked",
           "summary": "Privacy Display ensures that onlookers can’t see what’s on the screen. | Photo: Allison Johnson / The Verge\t\n\nMy colleague Allison Johnson loved the Privacy Display in her review of the Samsung Galaxy S26 Ultra. The display feature, which blocks onlookers from getting a peep at what’s on the screen when viewed from the side, is worth getting the S26 Ultra for if you are serious about privacy during your commute or elsewhere. And thankfully, it’s not as expensive to buy the only device in Samsung’s latest smartphone lineup that has the unique mode. The cost of an unlocked S26 Ultra with 256GB of storage has dropped to $1,099.99 at Amazon, Samsung, and Best Buy, which is $200 off its original price — and now just $100 more than the S26 Plus that has fewer features.\nSamsung Galaxy S26 Ultra\n\nWhere to Buy:\n\n $1299.99 $1099.99 at Samsung (256GB)\n $1299.99 $1099.99 at Amazon (256GB)\n $1299.99 $1099.99 at Best Buy (256GB)\n\nIn addition to Privacy Display, the S26 Ultra is Samsung’s biggest, most capable phone yet. It has a 6.9-inch 3120 x 1440 OLED screen that can go up to a 120Hz refresh rate, and its dual telephoto lenses offer various optical zoom levels to help you find the right crop without digital noise being added. Also of note, this is Samsung’s only S26 phone that supports (and includes) an S Pen stylus.\nIt’s a flagship Android 16 phone that isn’t missing many features, unless magnet-based recharging matters to you. Unlike Google’s latest Pixel 10 phones, Samsung is still skipping on magnets even though they’ve become a popular way to recharge. Despite lacking magnets, the S26 Ultra is no slouch when it comes to boasting the latest wireless charging standard, with Qi2 speeds peaking at 25W with the right charger, which is faster than other phones in the series. You can always get a magnet-equipped case for the phone, and you won’t miss out on much.\nIf you aren’t swayed by the Privacy Display, the other S26 models got cheaper, too. The smaller S26 debuted at $899.99, and is now $799.99 for the 256GB model at Amazon and Best Buy. The S26 Plus, which offers a bigger, higher resolution screen and a bigger battery (plus slightly faster wireless charging at 20W versus 15W in the S26), is $999.99 at Amazon and Best Buy, down from its original price of $1,099.99 where the S26 Ultra currently sits.",
           "isoDate": "2026-04-07T18:16:52.000Z"
-        },
-        {
-          "title": "SCOTUS overturns 5th Circuit ruling that told ISP to kick pirates off Internet",
-          "link": "https://arstechnica.com/tech-policy/2026/04/scotus-overturns-5th-circuit-ruling-that-told-isp-to-kick-pirates-off-internet/",
-          "summary": "Supreme Court's precedent-setting Cox ruling helps Grande beat music piracy claims.",
-          "isoDate": "2026-04-07T18:00:20.000Z"
-        },
-        {
-          "title": "A new Anthropic model found security problems &#8216;in every major operating system and web browser&#8217;",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/908114/anthropic-project-glasswing-cybersecurity",
-          "summary": "Anthropic is debuting a new AI model as part of a cybersecurity partnership with Nvidia, Google, Amazon Web Services, Apple, Microsoft, and other companies. Project Glasswing, as it's called, is billed as a way for large companies, and potentially even the government, to flag vulnerabilities in their systems with virtually no human intervention.\nAnthropic is offering its launch partners access to Claude Mythos Preview, a new general-purpose model that it's not currently planning to publicly release due to security concerns. Newton Cheng, the cyber lead for Anthropic's frontier red team, told The Verge that the model will ideally give cyber  …\nRead the full story at The Verge.",
-          "isoDate": "2026-04-07T18:00:00.000Z"
-        },
-        {
-          "title": "The rugged Bose Soundlink Flex is 25 percent off right now",
-          "link": "https://www.theverge.com/gadgets/907744/bose-soundlink-flex-2nd-gen-google-nest-doorbell-deal-sale",
-          "summary": "We saw a host of excellent Bose discounts during Amazon’s so-called Big Spring Sale last month; however, none of them were quite as steep as the current price drop we’re seeing on the latest Bose Soundlink Flex. Right now, the portable speaker is on sale at Amazon, Walmart, and Best Buy for $119 ($40 off), nearly matching its best price to date.\nBose Soundlink Flex (second-gen)\n\nWhere to Buy:\n\n $159 $119 at Amazon\n $159 $119 at Walmart\n $159 $119 at Best Buy\n\nA few years back, we crowned the original Soundlink Flex the best portable Bluetooth speaker under $200. It was an impressive speaker with expansive sound and a surprising amount of low-end thump, not to mention a rugged, IP67-rated design that allowed you to take it pretty much anywhere. It was a real winner in many respects, particularly for its compact size, which is probably why Bose didn’t feel the need to completely reinvent the wheel with the second iteration. \nThe second-gen Flex is nearly identical to the first-gen model, only with a few subtle refinements. The travel-friendly speaker features a redesigned control strip with a new play / pause button and a power button that’s easier to locate — a welcome upgrade, given that the buttons on the original weren’t easy to use by feel alone. The 2nd Gen version also features adjustable EQ and support for higher-res AAC and aptX codecs, though you still get up to 12 hours of battery life, stereo pairing (if you own two), and weatherproofing, making the silicone-wrapped speaker a great picnic or poolside companion.\nMore deals and discounts\nLego’s adorable R2-D2 replica is currently on sale at Amazon, Walmart, and Target for $79.99 ($20 off), matching its lowest price to date. The 1,050-piece set is a nice, decor-worthy homage to everyone’s favorite R2-series astromech droid, complete with a 180-degree swiveling head, an attachable periscope, and a miniature Artoo that’s meant to sit alongside the included info plaque.\nIf Google’s premium subscriptions don’t scare you off, the third-gen Google Nest Doorbell is down to $139.99 ($40 off) — its second-best price to date — at Amazon, Walmart, and Best Buy. The new model supports 2K HDR video, a taller field of view than prior models, and a new sensor with a wider aperture lens for full-color low-light video. The wired video doorbell can also leverage Gemini for AI-generated text descriptions, assuming you’re willing to pay for Google’s Home Premium Advanced plan ($20 a month).\nI probably wouldn’t call Twelve South’s 4-foot PowerCord the God Cable we’ve been looking for, but it’s still a good option for charging a range of gadgets now that it’s on sale at Amazon for $14.15 (about $16 off), which is about $3 shy of its lowest price to date. The sleek, low-profile device combines a 30W fast charger with a USB-C cable, allowing you to top off your phone, tablet, and a host of other small electronics without the need for an extra wall adapter.",
-          "isoDate": "2026-04-07T17:02:25.000Z"
-        },
-        {
-          "title": "Vertical browser tabs are better and you should use them",
-          "link": "https://www.theverge.com/tech/907998/google-chrome-vertical-tabs",
-          "summary": "Just look at all that vertical space. | Image: Google\t\n\nGoogle's Chrome browser is getting a couple of new features, both of them extremely welcome and wildly overdue. The first is a reading mode, which does what it already does in most other browsers: strip out a lot of website cruft to make pages easier to read. Reading mode is good, you should use it, a lot of websites are bad. The second feature is the big one: vertical tabs. Instead of having all your tabs in a row across the top of your browser, you can now right-click on the tab bar and select \"Show Tabs Vertically\" to have them appear in a sidebar instead.\nVertical tabs are hardly a new idea about browsers - even the original Chrome team …\nRead the full story at The Verge.",
-          "isoDate": "2026-04-07T17:00:00.000Z"
-        },
-        {
-          "title": "Testing suggests Google's AI Overviews tell millions of lies per hour",
-          "link": "https://arstechnica.com/google/2026/04/analysis-finds-google-ai-overviews-is-wrong-10-percent-of-the-time/",
-          "summary": "Is 90 percent accuracy good enough for a search robot?",
-          "isoDate": "2026-04-07T16:53:55.000Z"
-        },
-        {
-          "title": "Linux kernel maintainers are following through on removing Intel 486 support",
-          "link": "https://arstechnica.com/gadgets/2026/04/linux-kernel-maintainers-are-following-through-on-removing-intel-486-support/",
-          "summary": "Linux devs think even one second spent on 486 support is a second too many.",
-          "isoDate": "2026-04-07T16:39:12.000Z"
-        },
-        {
-          "title": "Suno and major music labels reportedly clash over AI music sharing",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/908119/suno-sony-universal-music-ai-disagreement",
-          "summary": "The AI-powered musicmaker Suno is struggling to reach licensing deals with Universal Music Group and Sony Music Entertainment. That's according to a report from the Financial Times, which says both sides can't agree on whether users should be able to share the AI-generated songs they create.\n\"Universal wants AI-generated tracks to stay inside apps such as Suno and not spread freely across the internet. Suno, however, wants users to be able to share and distribute those songs more widely,\" the Financial Times reports. Suno, which lets users create AI-generated music with a text prompt, became the subject of a massive copyright lawsuit from U …\nRead the full story at The Verge.",
-          "isoDate": "2026-04-07T16:21:22.000Z"
-        },
-        {
-          "title": "Satechi’s 3-in-1 travel stand now wirelessly charges your phone at 25W",
-          "link": "https://www.theverge.com/tech/906126/satechi-3-in-1-foldable-travel-qi2-2-stand-wireless-charger-25w-pricing-availability",
-          "summary": "The WPC introduced the Qi2.2 standard in April 2025, but the rollout of faster wireless chargers has been relatively slow. Following companies like Nomad, Belkin, and Kuxiu, Satechi has announced a new charger that supports Qi2.2. The 3-in-1 Foldable Wireless Charging Stand is an updated version of an existing product; the new incarnation boosts wireless charging speeds up to 25W for devices that support it, including iPhone 16 and 17 models and the Pixel 10 Pro XL.\nAvailable now through Satechi's online store and Amazon for $129.99, the 3-in-1 charger is the same price as the older Qi2 version but features an updated design with corners an …\nRead the full story at The Verge.",
-          "isoDate": "2026-04-07T16:00:00.000Z"
-        },
-        {
-          "title": "Finally, Artemis delivers some exceptional, high-quality photos of the Moon",
-          "link": "https://arstechnica.com/space/2026/04/the-artemis-ii-mission-sends-back-stunning-images-of-the-far-side-of-the-moon/",
-          "summary": "The Moon, the Earth, and the Sun; oh what fun!",
-          "isoDate": "2026-04-07T15:54:54.000Z"
         }
       ]
     },
@@ -72,10 +72,34 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "ERROR cargando feed",
-          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
-          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-04-07T19:03:03.228Z"
+          "title": "NASA’s Artemis II Crew Beams Official Moon Flyby Photos to Earth",
+          "link": "https://www.nasa.gov/news-release/nasas-artemis-ii-crew-beams-official-moon-flyby-photos-to-earth/",
+          "summary": "The first flyby images of the Moon captured by NASA’s Artemis II astronauts during their historic test flight reveal some regions no human has seen, including a rare in-space solar eclipse. Released Tuesday, astronauts captured the images April 6 during the mission’s seven-hour flyby of the lunar far side, showing humanity’s return to the Moon’s […]",
+          "isoDate": "2026-04-07T20:44:05.000Z"
+        },
+        {
+          "title": "Earthset",
+          "link": "https://www.nasa.gov/image-article/earthset/",
+          "summary": "The Artemis II crew captured this view of Earth setting on April 6, 2026, as they flew around the Moon. As the astronauts flew over the Moon’s far side, the crew photographed and described terrain features including impact craters, ancient lava flows, and surface cracks and ridges formed as the Moon slowly evolved over time. […]",
+          "isoDate": "2026-04-07T18:54:50.000Z"
+        },
+        {
+          "title": "Experience the Rollout of SLS Hardware for Artemis III",
+          "link": "https://www.nasa.gov/general/experience-the-rollout-of-sls-hardware-for-artemis-iii/",
+          "summary": "Digital creators and social media users are invited to register to attend the rollout of the third SLS (Space Launch System) core stage as it is prepped to head from NASA’s Michoud Assembly Facility to NASA’s Kennedy Space Center. Are you passionate about social media and communications? Do you love to create content for an […]",
+          "isoDate": "2026-04-07T17:52:09.000Z"
+        },
+        {
+          "title": "NASA to Host Media Call with Artemis II Crew on Way Home from Moon",
+          "link": "https://www.nasa.gov/news-release/nasa-to-host-media-call-with-artemis-ii-crew-on-way-home-from-moon/",
+          "summary": "Media will have an opportunity at 9:45 p.m. EDT on Wednesday, April 8, to speak with NASA’s Artemis II crew members as they continue their journey toward Earth during their historic mission around the Moon. The 20-minute virtual news conference will take place with NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA […]",
+          "isoDate": "2026-04-07T16:38:04.000Z"
+        },
+        {
+          "title": "Drought Parches Florida",
+          "link": "https://science.nasa.gov/earth/earth-observatory/drought-parches-florida/",
+          "summary": "The state was unusually dry for much of 2025, but the intensity of the drought has ratcheted up since January 2026.",
+          "isoDate": "2026-04-07T04:01:00.000Z"
         },
         {
           "title": "AI and the human mind: only one is a black box",
@@ -102,33 +126,9 @@
           "isoDate": "2026-04-07T00:00:00.000Z"
         },
         {
-          "title": "First photos from Artemis II: see stunning 'Earthset' and more",
-          "link": "https://www.nature.com/articles/d41586-026-01118-2",
-          "summary": "Nature, Published online: 07 April 2026; doi:10.1038/d41586-026-01118-2\nImages snapped during a flyby capture a solar eclipse and unprecedented details of the far side of the Moon.",
-          "isoDate": "2026-04-07T00:00:00.000Z"
-        },
-        {
-          "title": "How DNA forensics is transforming studies of ancient manuscripts",
-          "link": "https://www.nature.com/articles/d41586-026-01029-2",
-          "summary": "Nature, Published online: 07 April 2026; doi:10.1038/d41586-026-01029-2\nScientists are exposing the biological information hidden in ancient parchments without leaving a mark.",
-          "isoDate": "2026-04-07T00:00:00.000Z"
-        },
-        {
-          "title": "This method to reverse cellular ageing is about to be tested in humans",
-          "link": "https://www.nature.com/articles/d41586-026-01024-7",
-          "summary": "Nature, Published online: 07 April 2026; doi:10.1038/d41586-026-01024-7\nA burgeoning field is launching its first clinical trial to find out whether dialling back cell development can safely refresh aged tissues and organs.",
-          "isoDate": "2026-04-07T00:00:00.000Z"
-        },
-        {
-          "title": "Your brain on drugs: different psychedelics work in surprisingly similar ways",
-          "link": "https://www.nature.com/articles/d41586-026-01053-2",
-          "summary": "Nature, Published online: 07 April 2026; doi:10.1038/d41586-026-01053-2\nHundreds of scans hint at how substances such as psilocybin, LSD and ayahuasca alter connections between key areas of the brain.",
-          "isoDate": "2026-04-07T00:00:00.000Z"
-        },
-        {
-          "title": "Scientists invented a fake disease. AI told people it was real",
-          "link": "https://www.nature.com/articles/d41586-026-01100-y",
-          "summary": "Nature, Published online: 07 April 2026; doi:10.1038/d41586-026-01100-y\nBixonimania doesn’t exist except in a clutch of obviously bogus academic papers. So why did AI chatbots warn people about this fictional illness?",
+          "title": "New drugs take aim at one of cancer’s deadliest mutations",
+          "link": "https://www.nature.com/articles/d41586-026-01016-7",
+          "summary": "Nature, Published online: 07 April 2026; doi:10.1038/d41586-026-01016-7\nMutations in the KRAS protein were once deemed ‘undruggable’. Today, various approaches are in the pipeline.",
           "isoDate": "2026-04-07T00:00:00.000Z"
         }
       ]
@@ -141,7 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-04-07T19:03:04.474Z"
+          "isoDate": "2026-04-08T02:26:44.138Z"
+        },
+        {
+          "title": "Tech Life",
+          "link": "https://www.bbc.co.uk/sounds/play/w3ct8jxp?at_medium=RSS&at_campaign=rss",
+          "summary": "Is there a way to fix AI's problem with trust?",
+          "isoDate": "2026-04-07T20:00:00.000Z"
         },
         {
           "title": "Ex-Meta worker investigated for downloading 30,000 private Facebook photos",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.com/news/articles/cj60r2kdnw1o?at_medium=RSS&at_campaign=rss",
           "summary": "It's been nominated for two Bafta Games Awards - but why have mundane job games like PowerWash Simulator 2 become so popular?",
           "isoDate": "2026-04-04T00:03:41.000Z"
-        },
-        {
-          "title": "Fewer UK adults posting on social media, Ofcom finds",
-          "link": "https://www.bbc.com/news/articles/cgqk718l4neo?at_medium=RSS&at_campaign=rss",
-          "summary": "Some experts believe it highlights a social media shift as platforms boost short video.",
-          "isoDate": "2026-04-02T14:38:24.000Z"
         }
       ]
     },
@@ -203,6 +203,12 @@
       "header": "160  INTELIGENCIA ARTIFICIAL",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Sixteen new START.nano companies are developing hard-tech solutions with the support of MIT.nano",
+          "link": "https://news.mit.edu/2026/sixteen-new-startnano-companies-developing-hard-tech-solutions-with-mitnano-0407",
+          "summary": "Startup accelerator program grows to over 30 companies, almost half of them with MIT pedigrees.",
+          "isoDate": "2026-04-07T20:40:00.000Z"
+        },
         {
           "title": "Helping data centers deliver higher performance with less hardware",
           "link": "https://news.mit.edu/2026/helping-data-centers-deliver-higher-performance-less-hardware-0407",
@@ -256,12 +262,6 @@
           "link": "https://news.mit.edu/2026/preview-tool-helps-makers-visualize-3d-printed-objects-0401",
           "summary": "By quickly generating aesthetically accurate previews of fabricated objects, the VisiPrint system could make prototyping faster and less wasteful.",
           "isoDate": "2026-04-01T04:00:00.000Z"
-        },
-        {
-          "title": "Gradient Labs gives every bank customer an AI account manager",
-          "link": "https://openai.com/index/gradient-labs",
-          "summary": "Gradient Labs uses GPT-4.1 and GPT-5.4 mini and nano to power AI agents that automate banking support workflows with low latency and high reliability.",
-          "isoDate": "2026-04-01T02:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-04-07T19:03:07.692Z"
+          "isoDate": "2026-04-08T02:26:46.153Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-04-07T19:03:05.949Z"
+          "isoDate": "2026-04-08T02:26:45.558Z"
         },
         {
           "title": "Temple University Student Highlights IEEE Membership Perks",
