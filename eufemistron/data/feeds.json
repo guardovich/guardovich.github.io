@@ -1,14 +1,20 @@
 [
   {
     "source": "RTVE",
-    "title": "El Gobierno anuncia nuevas medidas en vivienda",
-    "description": "El Ejecutivo presenta un paquete de actuaciones para responder al encarecimiento del alquiler.",
+    "title": "El Gobierno anuncia nuevas medidas para reforzar la vivienda pública",
+    "description": "El Ejecutivo presenta un paquete de actuaciones orientadas a facilitar el acceso al alquiler y contener los precios en zonas tensionadas.",
     "link": "https://www.rtve.es/"
   },
   {
     "source": "EL PAÍS",
-    "title": "La economía española acelera su crecimiento",
-    "description": "Los últimos indicadores apuntan a una mejora de la actividad y del consumo interno.",
+    "title": "La economía española mantiene el crecimiento en el inicio del año",
+    "description": "Los indicadores de consumo y actividad apuntan a una evolución positiva, aunque persisten incertidumbres en el contexto internacional.",
     "link": "https://elpais.com/"
+  },
+  {
+    "source": "Partido político",
+    "title": "La dirección del partido defiende una nueva hoja de ruta para el territorio",
+    "description": "La formación subraya la necesidad de avanzar en un marco de diálogo estable y una estrategia coordinada con los agentes sociales.",
+    "link": "https://www.psoe.es/"
   }
 ]
