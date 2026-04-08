@@ -3,11 +3,15 @@ const outputText = document.getElementById("outputText");
 const transformBtn = document.getElementById("transformBtn");
 const clearBtn = document.getElementById("clearBtn");
 const copyBtn = document.getElementById("copyBtn");
+const autoModeBtn = document.getElementById("autoModeBtn");
 const modeSelect = document.getElementById("mode");
 const intensitySelect = document.getElementById("intensity");
+const presetExample = document.getElementById("presetExample");
 const replacementsCount = document.getElementById("replacementsCount");
 const makeupLevel = document.getElementById("makeupLevel");
 const changesLog = document.getElementById("changesLog");
+
+let autoModeEnabled = false;
 
 function escapeHtml(str = "") {
   return String(str)
@@ -21,6 +25,52 @@ function escapeHtml(str = "") {
 function pick(arr) {
   return arr[Math.floor(Math.random() * arr.length)];
 }
+
+function isAllCaps(text) {
+  const letters = text.match(/[A-Za-zÁÉÍÓÚÜÑáéíóúüñ]/g);
+  if (!letters || !letters.length) return false;
+  return letters.every(ch => ch === ch.toUpperCase());
+}
+
+function isCapitalized(text) {
+  const first = text.charAt(0);
+  return first && first === first.toUpperCase() && first !== first.toLowerCase();
+}
+
+function preserveCase(original, replacement) {
+  if (!replacement) return replacement;
+
+  if (isAllCaps(original)) {
+    return replacement.toUpperCase();
+  }
+
+  if (isCapitalized(original)) {
+    return replacement.charAt(0).toUpperCase() + replacement.slice(1);
+  }
+
+  return replacement;
+}
+
+function formatReplacement(template, match, groups = []) {
+  let result = template;
+
+  groups.forEach((groupValue, index) => {
+    const value = groupValue ?? "";
+    result = result.replaceAll(`$${index + 1}`, value);
+  });
+
+  return preserveCase(match, result);
+}
+
+const examples = {
+  institucional: `El Gobierno anunció una hoja de ruta para impulsar medidas estructurales dentro del actual marco de diálogo. La propuesta busca reforzar la estabilidad institucional y avanzar en la colaboración público-privada mediante un ajuste presupuestario moderado.`,
+
+  economia: `El ministerio señaló que la desaceleración responde a un contexto internacional complejo, aunque subrayó que el crecimiento negativo será temporal gracias a un estímulo económico orientado a la recuperación.`,
+
+  politica: `Diversos agentes sociales defendieron la necesidad de una reforma que permita una mayor flexibilización laboral. El Ejecutivo garantiza que estas medidas mejorarán la competitividad y favorecen un consenso amplio.`,
+
+  guerra: `Fuentes oficiales señalaron que la operación causó daños colaterales en una zona sensible. La intervención fue presentada como una medida de estabilización dentro de un proceso de transición ecológica y reordenación del territorio.`
+};
 
 const dictionary = {
   frases: [
@@ -173,6 +223,157 @@ const dictionary = {
           salvaje: ["follón político con mapa de fondo"]
         }
       }
+    },
+
+    {
+      pattern: /\bajuste presupuestario\b/gi,
+      replacements: {
+        serio: {
+          suave: ["corrección presupuestaria"],
+          media: ["recorte presupuestario"],
+          salvaje: ["reducción forzada del gasto"]
+        },
+        gamberro: {
+          suave: ["recorte"],
+          media: ["hachazo al presupuesto"],
+          salvaje: ["tijeretazo en toda regla"]
+        }
+      }
+    },
+    {
+      pattern: /\bestabilidad institucional\b/gi,
+      replacements: {
+        serio: {
+          suave: ["continuidad institucional"],
+          media: ["control político estable"],
+          salvaje: ["mantenimiento del statu quo"]
+        },
+        gamberro: {
+          suave: ["que no se mueva nada"],
+          media: ["todo atado y bien atado"],
+          salvaje: ["que siga el mismo chiringuito"]
+        }
+      }
+    },
+    {
+      pattern: /\bmedidas estructurales\b/gi,
+      replacements: {
+        serio: {
+          suave: ["reformas de base"],
+          media: ["cambios estructurales"],
+          salvaje: ["reconfiguración del sistema"]
+        },
+        gamberro: {
+          suave: ["cambios gordos"],
+          media: ["toqueteo del sistema"],
+          salvaje: ["meter mano a lo grande"]
+        }
+      }
+    },
+    {
+      pattern: /\bproceso de diálogo\b/gi,
+      replacements: {
+        serio: {
+          suave: ["negociación"],
+          media: ["interlocución política"],
+          salvaje: ["proceso negociador prolongado"]
+        },
+        gamberro: {
+          suave: ["charla"],
+          media: ["reunión eterna"],
+          salvaje: ["marear la perdiz en mesa redonda"]
+        }
+      }
+    },
+    {
+      pattern: /\bconsenso amplio\b/gi,
+      replacements: {
+        serio: {
+          suave: ["acuerdo mayoritario"],
+          media: ["alineación política significativa"],
+          salvaje: ["acuerdo con escasa oposición visible"]
+        },
+        gamberro: {
+          suave: ["acuerdo"],
+          media: ["todos más o menos de acuerdo"],
+          salvaje: ["nadie quiere liarla aquí"]
+        }
+      }
+    },
+    {
+      pattern: /\btransición ecológica\b/gi,
+      replacements: {
+        serio: {
+          suave: ["adaptación ambiental"],
+          media: ["cambio hacia sostenibilidad"],
+          salvaje: ["reconfiguración ecológica del modelo"]
+        },
+        gamberro: {
+          suave: ["cambio verde"],
+          media: ["lavado verde"],
+          salvaje: ["pintarlo todo de verde para quedar bien"]
+        }
+      }
+    },
+    {
+      pattern: /\breordenación del territorio\b/gi,
+      replacements: {
+        serio: {
+          suave: ["planificación territorial"],
+          media: ["redistribución espacial"],
+          salvaje: ["reconfiguración territorial"]
+        },
+        gamberro: {
+          suave: ["cambiar cosas de sitio"],
+          media: ["mover piezas en el mapa"],
+          salvaje: ["redibujar el mapa a conveniencia"]
+        }
+      }
+    },
+    {
+      pattern: /\bmarco normativo\b/gi,
+      replacements: {
+        serio: {
+          suave: ["regulación vigente"],
+          media: ["conjunto normativo"],
+          salvaje: ["estructura legal establecida"]
+        },
+        gamberro: {
+          suave: ["normas"],
+          media: ["las reglas del juego"],
+          salvaje: ["papeles que mandan más que la realidad"]
+        }
+      }
+    },
+    {
+      pattern: /\bincremento moderado\b/gi,
+      replacements: {
+        serio: {
+          suave: ["aumento leve"],
+          media: ["subida controlada"],
+          salvaje: ["incremento limitado"]
+        },
+        gamberro: {
+          suave: ["subidita"],
+          media: ["subida con cuidado"],
+          salvaje: ["subida que quieren que no se note"]
+        }
+      }
+    },
+    {
+      pattern: /\bestímulo económico\b/gi,
+      replacements: {
+        serio: {
+          suave: ["impulso económico"],
+          media: ["incentivo económico"],
+          salvaje: ["inyección financiera"]
+        },
+        gamberro: {
+          suave: ["meter dinero"],
+          media: ["regar con pasta"],
+          salvaje: ["inyectar dinero para aguantar el tinglado"]
+        }
+      }
     }
   ],
 
@@ -294,6 +495,157 @@ const dictionary = {
           suave: ["mezcla de dinero público y negocio privado"],
           media: ["privatización con buenos modales"],
           salvaje: ["poner lo público a currar para la caja privada"]
+        }
+      }
+    },
+
+    {
+      pattern: /\breforma(s)?\b/gi,
+      replacements: {
+        serio: {
+          suave: ["cambio$1"],
+          media: ["modificación$1"],
+          salvaje: ["reconfiguración$1"]
+        },
+        gamberro: {
+          suave: ["cambio$1"],
+          media: ["parche$1"],
+          salvaje: ["remiendo$1"]
+        }
+      }
+    },
+    {
+      pattern: /\bmedida(s)?\b/gi,
+      replacements: {
+        serio: {
+          suave: ["acción$1"],
+          media: ["iniciativa$1"],
+          salvaje: ["intervención$1"]
+        },
+        gamberro: {
+          suave: ["cosa$1"],
+          media: ["movida$1"],
+          salvaje: ["apaño$1"]
+        }
+      }
+    },
+    {
+      pattern: /\bgestión\b/gi,
+      replacements: {
+        serio: {
+          suave: ["administración"],
+          media: ["dirección operativa"],
+          salvaje: ["control ejecutivo"]
+        },
+        gamberro: {
+          suave: ["llevarlo"],
+          media: ["manejarlo"],
+          salvaje: ["llevar el chiringuito"]
+        }
+      }
+    },
+    {
+      pattern: /\bcontexto\b/gi,
+      replacements: {
+        serio: {
+          suave: ["entorno"],
+          media: ["marco"],
+          salvaje: ["escenario"]
+        },
+        gamberro: {
+          suave: ["situación"],
+          media: ["panorama"],
+          salvaje: ["el percal"]
+        }
+      }
+    },
+    {
+      pattern: /\biniciativa\b/gi,
+      replacements: {
+        serio: {
+          suave: ["propuesta"],
+          media: ["acción inicial"],
+          salvaje: ["impulso estratégico"]
+        },
+        gamberro: {
+          suave: ["idea"],
+          media: ["movida"],
+          salvaje: ["invento"]
+        }
+      }
+    },
+    {
+      pattern: /\bsector(es)?\b/gi,
+      replacements: {
+        serio: {
+          suave: ["ámbito$1"],
+          media: ["segmento$1"],
+          salvaje: ["área$1 económica$1"]
+        },
+        gamberro: {
+          suave: ["campo$1"],
+          media: ["parte$1"],
+          salvaje: ["trozo$1 del negocio"]
+        }
+      }
+    },
+    {
+      pattern: /\bpropuesta(s)?\b/gi,
+      replacements: {
+        serio: {
+          suave: ["planteamiento$1"],
+          media: ["iniciativa$1"],
+          salvaje: ["propuesta$1 estratégica$1"]
+        },
+        gamberro: {
+          suave: ["idea$1"],
+          media: ["movida$1"],
+          salvaje: ["plan$1 improvisado$1"]
+        }
+      }
+    },
+    {
+      pattern: /\bobjetivo(s)?\b/gi,
+      replacements: {
+        serio: {
+          suave: ["meta$1"],
+          media: ["propósito$1"],
+          salvaje: ["finalidad$1 estratégica$1"]
+        },
+        gamberro: {
+          suave: ["meta$1"],
+          media: ["lo que quieren"],
+          salvaje: ["lo que buscan de verdad"]
+        }
+      }
+    },
+    {
+      pattern: /\bimpacto\b/gi,
+      replacements: {
+        serio: {
+          suave: ["efecto"],
+          media: ["consecuencia"],
+          salvaje: ["resultado medible"]
+        },
+        gamberro: {
+          suave: ["efecto"],
+          media: ["lo que pasa"],
+          salvaje: ["la hostia que pega"]
+        }
+      }
+    },
+    {
+      pattern: /\brecuperación\b/gi,
+      replacements: {
+        serio: {
+          suave: ["mejora"],
+          media: ["reactivación"],
+          salvaje: ["restablecimiento"]
+        },
+        gamberro: {
+          suave: ["mejoría"],
+          media: ["volver a tirar"],
+          salvaje: ["levantar el muerto"]
         }
       }
     }
@@ -464,6 +816,97 @@ const dictionary = {
           salvaje: ["te recalcó para que tragaras"]
         }
       }
+    },
+
+    {
+      pattern: /\banuncia\b/gi,
+      replacements: {
+        serio: {
+          suave: ["comunica"],
+          media: ["declara"],
+          salvaje: ["presenta oficialmente"]
+        },
+        gamberro: {
+          suave: ["dice"],
+          media: ["suelta"],
+          salvaje: ["lo vende en rueda de prensa"]
+        }
+      }
+    },
+    {
+      pattern: /\banunció\b/gi,
+      replacements: {
+        serio: {
+          suave: ["comunicó"],
+          media: ["declaró"],
+          salvaje: ["presentó oficialmente"]
+        },
+        gamberro: {
+          suave: ["dijo"],
+          media: ["soltó"],
+          salvaje: ["lo vendió en rueda de prensa"]
+        }
+      }
+    },
+    {
+      pattern: /\bpropone\b/gi,
+      replacements: {
+        serio: {
+          suave: ["plantea"],
+          media: ["sugiere"],
+          salvaje: ["formula una propuesta"]
+        },
+        gamberro: {
+          suave: ["dice"],
+          media: ["plantea por encima"],
+          salvaje: ["lanza a ver si cuela"]
+        }
+      }
+    },
+    {
+      pattern: /\bpropuso\b/gi,
+      replacements: {
+        serio: {
+          suave: ["planteó"],
+          media: ["sugirió"],
+          salvaje: ["formuló una propuesta"]
+        },
+        gamberro: {
+          suave: ["dijo"],
+          media: ["planteó por encima"],
+          salvaje: ["lo lanzó a ver si colaba"]
+        }
+      }
+    },
+    {
+      pattern: /\bmejora\b/gi,
+      replacements: {
+        serio: {
+          suave: ["optimiza"],
+          media: ["incrementa la calidad"],
+          salvaje: ["eleva el rendimiento"]
+        },
+        gamberro: {
+          suave: ["arregla"],
+          media: ["lo deja mejor"],
+          salvaje: ["lo maquilla para que parezca mejor"]
+        }
+      }
+    },
+    {
+      pattern: /\baumenta\b/gi,
+      replacements: {
+        serio: {
+          suave: ["incrementa"],
+          media: ["eleva"],
+          salvaje: ["intensifica"]
+        },
+        gamberro: {
+          suave: ["sube"],
+          media: ["lo sube"],
+          salvaje: ["le mete subida"]
+        }
+      }
     }
   ]
 };
@@ -479,16 +922,22 @@ function applyEntries(text, entries, mode, intensity, log) {
   let count = 0;
 
   entries.forEach((entry) => {
-    const replacement = getReplacement(entry, mode, intensity);
-    if (!replacement) return;
+    result = result.replace(entry.pattern, (...args) => {
+      const match = args[0];
+      const groups = args.slice(1, -2);
+      const replacementTemplate = getReplacement(entry, mode, intensity);
 
-    result = result.replace(entry.pattern, (match) => {
+      if (!replacementTemplate) return match;
+
+      const finalReplacement = formatReplacement(replacementTemplate, match, groups);
+
       count++;
       log.push({
         from: match,
-        to: replacement
+        to: finalReplacement
       });
-      return replacement;
+
+      return finalReplacement;
     });
   });
 
@@ -503,32 +952,31 @@ function calculateMakeupLevel(count) {
   return "EXTREMO";
 }
 
-function transformText() {
-  const original = inputText.value.trim();
-  const mode = modeSelect.value;
-  const intensity = intensitySelect.value;
-
-  if (!original) {
-    outputText.textContent = "Pega antes un texto para traducir.";
-    replacementsCount.textContent = "0";
-    makeupLevel.textContent = "NULO";
-    changesLog.textContent = "Sin cambios todavía.";
-    return;
+function buildHighlightedOutput(finalText, log) {
+  if (!log.length) {
+    return `<span class="output-placeholder">No se detectaron expresiones del diccionario en este texto.</span>`;
   }
 
-  const log = [];
+  let html = escapeHtml(finalText);
 
-  const frasesPass = applyEntries(original, dictionary.frases, mode, intensity, log);
-  const palabrasPass = applyEntries(frasesPass.result, dictionary.palabras, mode, intensity, log);
-  const verbosPass = applyEntries(palabrasPass.result, dictionary.verbos, mode, intensity, log);
+  log
+    .slice()
+    .sort((a, b) => b.to.length - a.to.length)
+    .forEach((item) => {
+      const safeTo = escapeHtml(item.to);
+      const marked = `<span class="mark mark-new">${safeTo}</span>`;
+      html = html.replace(safeTo, marked);
+    });
 
-  const finalText = verbosPass.result;
-  const totalCount = frasesPass.count + palabrasPass.count + verbosPass.count;
+  return `
+    <div class="block">${html}</div>
+    <div class="legend">
+      <span class="mark mark-new">Texto sustituido</span>
+    </div>
+  `;
+}
 
-  outputText.textContent = finalText;
-  replacementsCount.textContent = String(totalCount);
-  makeupLevel.textContent = calculateMakeupLevel(totalCount);
-
+function renderChangesLog(log) {
   if (!log.length) {
     changesLog.textContent = "No se detectaron expresiones del diccionario en este texto.";
     return;
@@ -547,16 +995,56 @@ function transformText() {
     .join("");
 }
 
+function getCurrentMode() {
+  if (autoModeEnabled) {
+    return { mode: "gamberro", intensity: "salvaje" };
+  }
+
+  return {
+    mode: modeSelect.value,
+    intensity: intensitySelect.value
+  };
+}
+
+function transformText() {
+  const original = inputText.value.trim();
+  const { mode, intensity } = getCurrentMode();
+
+  if (!original) {
+    outputText.innerHTML = `<span class="output-placeholder">Pega antes un texto para traducir.</span>`;
+    replacementsCount.textContent = "0";
+    makeupLevel.textContent = "NULO";
+    changesLog.textContent = "Sin cambios todavía.";
+    return;
+  }
+
+  const log = [];
+
+  const frasesPass = applyEntries(original, dictionary.frases, mode, intensity, log);
+  const palabrasPass = applyEntries(frasesPass.result, dictionary.palabras, mode, intensity, log);
+  const verbosPass = applyEntries(palabrasPass.result, dictionary.verbos, mode, intensity, log);
+
+  const finalText = verbosPass.result;
+  const totalCount = frasesPass.count + palabrasPass.count + verbosPass.count;
+
+  outputText.innerHTML = buildHighlightedOutput(finalText, log);
+  replacementsCount.textContent = String(totalCount);
+  makeupLevel.textContent = calculateMakeupLevel(totalCount);
+
+  renderChangesLog(log);
+}
+
 function clearAll() {
   inputText.value = "";
-  outputText.textContent = "Aquí aparecerá la versión reinterpretada.";
+  outputText.innerHTML = `<span class="output-placeholder">Aquí aparecerá la versión reinterpretada.</span>`;
   replacementsCount.textContent = "0";
   makeupLevel.textContent = "NULO";
   changesLog.textContent = "Sin cambios todavía.";
+  presetExample.value = "";
 }
 
 async function copyOutput() {
-  const text = outputText.textContent.trim();
+  const text = outputText.innerText.trim();
 
   if (!text || text === "Aquí aparecerá la versión reinterpretada.") {
     return;
@@ -576,9 +1064,23 @@ async function copyOutput() {
   }
 }
 
+function toggleAutoMode() {
+  autoModeEnabled = !autoModeEnabled;
+  autoModeBtn.classList.toggle("active-mode", autoModeEnabled);
+  autoModeBtn.textContent = autoModeEnabled ? "CAÑERO: ON" : "MODO CAÑERO";
+}
+
+function loadExample() {
+  const selected = presetExample.value;
+  if (!selected || !examples[selected]) return;
+  inputText.value = examples[selected];
+}
+
 transformBtn.addEventListener("click", transformText);
 clearBtn.addEventListener("click", clearAll);
 copyBtn.addEventListener("click", copyOutput);
+autoModeBtn.addEventListener("click", toggleAutoMode);
+presetExample.addEventListener("change", loadExample);
 
 inputText.addEventListener("keydown", (e) => {
   if ((e.ctrlKey || e.metaKey) && e.key === "Enter") {
