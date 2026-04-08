@@ -8,17 +8,21 @@
 </head>
 <body>
   <div class="scanlines"></div>
+  <div class="crt-flicker"></div>
 
   <main class="app">
-   <header class="hero">
-  <div class="hero-media">
-    <img src="./pedro.png" alt="Eufemistrón" />
-    <div class="hero-overlay"></div>
-  </div>
+    <header class="hero glitch-on-load">
+      <div class="hero-media">
+        <img id="heroImage" src="./pedro.png" alt="Eufemistrón" />
+        <div class="hero-glitch hero-glitch-1"></div>
+        <div class="hero-glitch hero-glitch-2"></div>
+        <div class="hero-overlay"></div>
+      </div>
 
-  <div class="hero-box">
+      <div class="hero-box">
         <p class="kicker">▦ GUARDOTECH INDUSTRIES /// ANÁLISIS DEL DISCURSO</p>
         <h1>Eufemistrón</h1>
+        <p class="tagline">▣ SISTEMA DE TRADUCCIÓN DISCURSIVA · MODO SATÍRICO ACTIVADO</p>
         <p class="subtitle">
           Artefacto satírico para desmontar eufemismos, maquillaje institucional
           y retórica política-mediática.
@@ -107,6 +111,36 @@
     </footer>
   </main>
 
+  <!-- Sonido de arranque -->
+  <audio id="bootSound" preload="auto">
+    <source src="./sfx/boot.mp3" type="audio/mpeg" />
+  </audio>
+
   <script src="./script.js"></script>
+
+  <script>
+    window.addEventListener("load", () => {
+      const hero = document.querySelector(".hero");
+      const bootSound = document.getElementById("bootSound");
+
+      if (hero) {
+        setTimeout(() => {
+          hero.classList.remove("glitch-on-load");
+        }, 2200);
+      }
+
+      if (bootSound) {
+        const playSound = () => {
+          bootSound.volume = 0.35;
+          bootSound.play().catch(() => {});
+          document.removeEventListener("click", playSound);
+          document.removeEventListener("keydown", playSound);
+        };
+
+        document.addEventListener("click", playSound, { once: true });
+        document.addEventListener("keydown", playSound, { once: true });
+      }
+    });
+  </script>
 </body>
 </html>
