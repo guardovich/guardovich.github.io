@@ -21,6 +21,7 @@ const headlineCountEl = document.getElementById("headlineCount");
 const lastUpdateEl = document.getElementById("lastUpdate");
 const geoTickerEl = document.getElementById("geoTicker");
 const marketBoardEl = document.getElementById("marketBoard");
+const retroTickerTrackEl = document.getElementById("retroTickerTrack");
 
 const clockMadridEl = document.getElementById("clockMadrid");
 const clockLondonEl = document.getElementById("clockLondon");
@@ -28,6 +29,13 @@ const clockNewYorkEl = document.getElementById("clockNewYork");
 const clockBeijingEl = document.getElementById("clockBeijing");
 const clockTokyoEl = document.getElementById("clockTokyo");
 const clockMoscowEl = document.getElementById("clockMoscow");
+
+/* RISK SIGNALS: estos IDs deben existir en el HTML */
+const tensionIndexEl = document.getElementById("tensionIndex");
+const mediaMoodEl = document.getElementById("mediaMood");
+const defconSignalEl = document.getElementById("defconSignal");
+const narrativeBiasEl = document.getElementById("narrativeBias");
+const hotspotsBoardEl = document.getElementById("hotspotsBoard");
 
 const gazetteer = {
   espana: { name: "España", center: [-3.7038, 40.4168], gl: "ES", hl: "es-ES", ceid: "ES:es" },
@@ -212,6 +220,25 @@ const mockMarkets = [
   { label: "BRENT", value: "82.31", change: "+1.12%" },
   { label: "ORO", value: "2,348", change: "+0.27%" },
   { label: "BTC", value: "68,420", change: "-0.54%" }
+];
+
+const tensionKeywords = [
+  "guerra", "crisis", "ataque", "misil", "amenaza", "escalada",
+  "sanción", "sanciones", "despliegue", "conflicto", "bloqueo",
+  "frontera", "incidente", "seguridad", "defensa", "otan",
+  "ejército", "bombardeo", "invasión", "riesgo"
+];
+
+const negativeKeywords = [
+  "crisis", "ataque", "guerra", "caída", "conflicto", "sanción",
+  "amenaza", "bloqueo", "muere", "herido", "accidente", "colapso",
+  "recesión", "desplome", "tensión", "violencia", "ciberataque"
+];
+
+const positiveKeywords = [
+  "acuerdo", "avance", "crece", "mejora", "récord", "éxito",
+  "estabilidad", "alivio", "alto el fuego", "recuperación",
+  "inversión", "cooperación", "reducción"
 ];
 
 const map = new maplibregl.Map({
@@ -571,13 +598,6 @@ function buildStructuredBriefing(topic, groups) {
   };
 }
 
-function updateDashboardStatus({ topic = "Sin tema", countries = 0, headlines = 0 } = {}) {
-  if (activeTopicEl) activeTopicEl.textContent = topic;
-  if (activeCountriesEl) activeCountriesEl.textContent = String(countries);
-  if (headlineCountEl) headlineCountEl.textContent = String(headlines);
-  if (lastUpdateEl) lastUpdateEl.textContent = getLocalTime("Europe/Madrid");
-}
-
 function getLocalTime(timeZone) {
   return new Intl.DateTimeFormat("es-ES", {
     hour: "2-digit",
@@ -585,6 +605,13 @@ function getLocalTime(timeZone) {
     hour12: false,
     timeZone
   }).format(new Date());
+}
+
+function updateDashboardStatus({ topic = "Sin tema", countries = 0, headlines = 0 } = {}) {
+  if (activeTopicEl) activeTopicEl.textContent = topic;
+  if (activeCountriesEl) activeCountriesEl.textContent = String(countries);
+  if (headlineCountEl) headlineCountEl.textContent = String(headlines);
+  if (lastUpdateEl) lastUpdateEl.textContent = getLocalTime("Europe/Madrid");
 }
 
 function updateWorldClocks() {
@@ -629,6 +656,140 @@ function updateGeoTicker(items = []) {
     .join("");
 }
 
+function updateRetroTicker(items = []) {
+  if (!retroTickerTrackEl) return;
+
+  const cleanItems = items
+    .filter(Boolean)
+    .map((item) => String(item).trim())
+    .filter(Boolean)
+    .slice(0, 12);
+
+  if (!cleanItems.length) {
+    retroTickerTrackEl.innerHTML = `
+      <span class="retro-ticker-item">SIN NOVEDADES EN FLUJO GLOBAL</span>
+      <span class="retro-ticker-item">GEONEWS MONITOR EN ESPERA</span>
+    `;
+    return;
+  }
+
+  const repeatedItems = [...cleanItems, ...cleanItems];
+
+  retroTickerTrackEl.innerHTML = repeatedItems
+    .map((item) => `<span class="retro-ticker-item">${escapeHtml(item)}</span>`)
+    .join("");
+}
+
+function scoreSentiment(items = []) {
+  let positive = 0;
+  let negative = 0;
+
+  const text = items
+    .map((item) => `${item.title || ""} ${item.summary || ""}`)
+    .join(" ")
+    .toLowerCase();
+
+  positiveKeywords.forEach((word) => {
+    if (text.includes(word)) positive += 1;
+  });
+
+  negativeKeywords.forEach((word) => {
+    if (text.includes(word)) negative += 1;
+  });
+
+  return { positive, negative, score: positive - negative };
+}
+
+function detectMediaMood(items = []) {
+  const { positive, negative } = scoreSentiment(items);
+
+  if (negative >= positive + 3) return "NEGATIVE";
+  if (positive >= negative + 3) return "POSITIVE";
+  return "MIXED / NEUTRAL";
+}
+
+function calculateTensionIndex(items = []) {
+  const text = items
+    .map((item) => `${item.title || ""} ${item.summary || ""}`)
+    .join(" ")
+    .toLowerCase();
+
+  let hits = 0;
+  tensionKeywords.forEach((word) => {
+    if (text.includes(word)) hits += 1;
+  });
+
+  const base = Math.min(100, hits * 8 + Math.min(items.length, 20) * 2);
+  return base;
+}
+
+function getDefconLikeSignal(tensionIndex) {
+  if (tensionIndex >= 80) return "RED";
+  if (tensionIndex >= 60) return "ORANGE";
+  if (tensionIndex >= 40) return "YELLOW";
+  if (tensionIndex >= 20) return "BLUE";
+  return "GREEN";
+}
+
+function detectNarrativeBias(groups = []) {
+  const themeCount = {
+    institucional: 0,
+    economico: 0,
+    seguridad: 0,
+    regulatorio: 0,
+    social: 0,
+    tecnologico: 0
+  };
+
+  groups.forEach((group) => {
+    const counters = detectThemesFromItems(group.items || []);
+    Object.keys(themeCount).forEach((key) => {
+      themeCount[key] += counters[key] || 0;
+    });
+  });
+
+  return topThemeFromCounters(themeCount).toUpperCase();
+}
+
+function buildHotspots(groups = []) {
+  return groups
+    .map((group) => ({
+      country: group.country,
+      count: group.items?.length || 0
+    }))
+    .filter((item) => item.count > 0)
+    .sort((a, b) => b.count - a.count)
+    .slice(0, 5);
+}
+
+function renderHotspots(hotspots = []) {
+  if (!hotspotsBoardEl) return;
+
+  if (!hotspots.length) {
+    hotspotsBoardEl.innerHTML = `<div class="hud-metric"><span class="hud-label">HOTSPOTS</span><span class="hud-value">Sin datos</span></div>`;
+    return;
+  }
+
+  hotspotsBoardEl.innerHTML = hotspots
+    .map(
+      (item) => `
+        <div class="hud-metric">
+          <span class="hud-label">${escapeHtml(item.country)}</span>
+          <span class="hud-value">${escapeHtml(String(item.count))} titulares</span>
+        </div>
+      `
+    )
+    .join("");
+}
+
+function updateRiskSignals({ tensionIndex = 0, mediaMood = "NEUTRAL", defcon = "GREEN", narrativeBias = "GENERAL", hotspots = [] } = {}) {
+  if (tensionIndexEl) tensionIndexEl.textContent = `${tensionIndex}/100`;
+  if (mediaMoodEl) mediaMoodEl.textContent = mediaMood;
+  if (defconSignalEl) defconSignalEl.textContent = defcon;
+  if (narrativeBiasEl) narrativeBiasEl.textContent = narrativeBias;
+  renderHotspots(hotspots);
+}
+
 async function fetchNewsForPlace(place, query = "") {
   const url = new URL(WORKER_URL);
   url.searchParams.set("place", place.name);
@@ -666,6 +827,8 @@ async function searchNews() {
     clearMapMarkers();
     updateDashboardStatus({ topic: "Sin tema", countries: 0, headlines: 0 });
     updateGeoTicker([]);
+    updateRetroTicker([]);
+    updateRiskSignals({ tensionIndex: 0, mediaMood: "NEUTRAL", defcon: "GREEN", narrativeBias: "GENERAL", hotspots: [] });
     return;
   }
 
@@ -676,6 +839,8 @@ async function searchNews() {
     clearMapMarkers();
     updateDashboardStatus({ topic: "Sin tema", countries: 0, headlines: 0 });
     updateGeoTicker([]);
+    updateRetroTicker([]);
+    updateRiskSignals({ tensionIndex: 0, mediaMood: "NEUTRAL", defcon: "GREEN", narrativeBias: "GENERAL", hotspots: [] });
     return;
   }
 
@@ -696,6 +861,21 @@ async function searchNews() {
     });
 
     updateGeoTicker(items.map((item) => item.title));
+    updateRetroTicker(items.map((item) => item.title));
+
+    const tensionIndex = calculateTensionIndex(items);
+    const mediaMood = detectMediaMood(items);
+    const defcon = getDefconLikeSignal(tensionIndex);
+    const narrativeBias = topThemeFromCounters(detectThemesFromItems(items)).toUpperCase();
+    const hotspots = [{ country: place.name, count: items.length }];
+
+    updateRiskSignals({
+      tensionIndex,
+      mediaMood,
+      defcon,
+      narrativeBias,
+      hotspots
+    });
 
     if (!items.length) {
       setStatus(`No llegaron noticias para ${place.name}. Prueba otro país o cambia el tema.`);
@@ -710,6 +890,8 @@ async function searchNews() {
     clearMapMarkers();
     updateDashboardStatus({ topic: "Error", countries: 0, headlines: 0 });
     updateGeoTicker([]);
+    updateRetroTicker([]);
+    updateRiskSignals({ tensionIndex: 0, mediaMood: "ERROR", defcon: "GREEN", narrativeBias: "GENERAL", hotspots: [] });
   }
 }
 
@@ -797,6 +979,27 @@ async function generateBriefing() {
     )
   );
 
+  updateRetroTicker(
+    groups.flatMap((group) =>
+      (group.items || []).slice(0, 2).map((item) => `${group.country} · ${item.title}`)
+    )
+  );
+
+  const allItems = groups.flatMap((group) => group.items || []);
+  const tensionIndex = calculateTensionIndex(allItems);
+  const mediaMood = detectMediaMood(allItems);
+  const defcon = getDefconLikeSignal(tensionIndex);
+  const narrativeBias = detectNarrativeBias(groups);
+  const hotspots = buildHotspots(groups);
+
+  updateRiskSignals({
+    tensionIndex,
+    mediaMood,
+    defcon,
+    narrativeBias,
+    hotspots
+  });
+
   setBriefStatus(`Briefing generado para ${countriesOk} país(es) sobre "${topic}".`);
 }
 
@@ -811,6 +1014,8 @@ function clearBriefing() {
   clearMapMarkers();
   updateDashboardStatus({ topic: "Sin tema", countries: 0, headlines: 0 });
   updateGeoTicker([]);
+  updateRetroTicker([]);
+  updateRiskSignals({ tensionIndex: 0, mediaMood: "NEUTRAL", defcon: "GREEN", narrativeBias: "GENERAL", hotspots: [] });
 }
 
 function startSpin() {
@@ -953,6 +1158,18 @@ function initDashboard() {
     "Mapa operativo.",
     "RSS geopolítico disponible."
   ]);
+  updateRetroTicker([
+    "GEONEWS MONITOR ONLINE",
+    "GLOBAL INTELLIGENCE DASHBOARD ACTIVO",
+    "ESPERANDO CONSULTAS Y BRIEFINGS"
+  ]);
+  updateRiskSignals({
+    tensionIndex: 0,
+    mediaMood: "NEUTRAL",
+    defcon: "GREEN",
+    narrativeBias: "GENERAL",
+    hotspots: []
+  });
 }
 
 initDashboard();
