@@ -24,6 +24,8 @@ body {
   min-height: 100vh;
 }
 
+/* SIDEBAR */
+
 .sidebar {
   background: linear-gradient(180deg, #0d1722 0%, #0b1420 100%);
   border-right: 1px solid rgba(255, 255, 255, 0.08);
@@ -122,6 +124,8 @@ button.secondary {
   line-height: 1.45;
 }
 
+/* CARDS / RESULTADOS */
+
 .results {
   display: grid;
   gap: 12px;
@@ -185,6 +189,8 @@ button.secondary {
   line-height: 1.4;
 }
 
+/* MAPA */
+
 .map-wrap {
   position: relative;
   min-width: 0;
@@ -202,7 +208,133 @@ button.secondary {
   height: 100%;
   transform: scale(1.02);
   transform-origin: center center;
+  z-index: 1;
 }
+
+/* DASHBOARD SUPERIOR */
+
+.top-dashboard {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 5;
+  padding: 14px 16px 10px;
+  pointer-events: none;
+}
+
+.hud-row {
+  display: grid;
+  grid-template-columns: 1.4fr 1.2fr 1fr;
+  gap: 12px;
+  margin-bottom: 10px;
+}
+
+.hud-card {
+  pointer-events: auto;
+  background: linear-gradient(180deg, rgba(10, 18, 30, 0.9) 0%, rgba(8, 14, 24, 0.88) 100%);
+  border: 1px solid rgba(120, 170, 255, 0.16);
+  border-radius: 16px;
+  padding: 12px;
+  box-shadow:
+    0 8px 24px rgba(0, 0, 0, 0.22),
+    inset 0 1px 0 rgba(255, 255, 255, 0.04);
+  backdrop-filter: blur(10px);
+}
+
+.hud-title {
+  display: inline-block;
+  margin-bottom: 10px;
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+  color: #8fc0ff;
+  text-transform: uppercase;
+}
+
+.hud-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 8px;
+}
+
+.hud-metric {
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  border-radius: 12px;
+  padding: 10px;
+  min-width: 0;
+}
+
+.hud-label {
+  display: block;
+  font-size: 11px;
+  color: #94a9c6;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  margin-bottom: 4px;
+}
+
+.hud-value {
+  display: block;
+  font-size: 16px;
+  font-weight: 700;
+  color: #edf5ff;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.hud-stack {
+  display: grid;
+  gap: 10px;
+}
+
+.hud-line {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  padding: 8px 0;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+.hud-line:last-child {
+  border-bottom: 0;
+  padding-bottom: 0;
+}
+
+.hud-ticker {
+  pointer-events: auto;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  background: linear-gradient(180deg, rgba(10, 18, 30, 0.9) 0%, rgba(8, 14, 24, 0.88) 100%);
+  border: 1px solid rgba(120, 170, 255, 0.16);
+  border-radius: 14px;
+  padding: 10px 12px;
+  box-shadow:
+    0 8px 24px rgba(0, 0, 0, 0.22),
+    inset 0 1px 0 rgba(255, 255, 255, 0.04);
+  backdrop-filter: blur(10px);
+  overflow: hidden;
+}
+
+.ticker-track {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  min-width: 0;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.ticker-item {
+  font-size: 13px;
+  color: #dbe8ff;
+}
+
+/* MARCADORES MAPA */
 
 .news-marker {
   transition: transform 0.15s ease, box-shadow 0.15s ease;
@@ -212,7 +344,8 @@ button.secondary {
   transform: scale(1.08);
 }
 
-/* escritorio grande: el mapa gana presencia visual */
+/* ESCRITORIO GRANDE */
+
 @media (min-width: 1400px) {
   .app {
     grid-template-columns: 400px 1fr;
@@ -221,9 +354,24 @@ button.secondary {
   #map {
     transform: scale(1.05);
   }
+
+  .top-dashboard {
+    padding: 18px 18px 12px;
+  }
 }
 
-/* escritorio medio */
+/* ESCRITORIO MEDIO */
+
+@media (max-width: 1280px) {
+  .hud-row {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .status-card {
+    grid-column: 1 / -1;
+  }
+}
+
 @media (max-width: 1100px) {
   .app {
     grid-template-columns: 340px 1fr;
@@ -236,9 +384,14 @@ button.secondary {
   h2 {
     font-size: 19px;
   }
+
+  .hud-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
 }
 
-/* móvil / tablet */
+/* MÓVIL / TABLET */
+
 @media (max-width: 900px) {
   body {
     overflow: auto;
@@ -262,6 +415,27 @@ button.secondary {
   .sidebar {
     border-right: 0;
     border-top: 1px solid rgba(255, 255, 255, 0.08);
+  }
+
+  .top-dashboard {
+    padding: 10px;
+  }
+
+  .hud-row {
+    grid-template-columns: 1fr;
+    gap: 10px;
+  }
+
+  .hud-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .hud-value {
+    font-size: 15px;
+  }
+
+  .ticker-item {
+    font-size: 12px;
   }
 
   h1 {
