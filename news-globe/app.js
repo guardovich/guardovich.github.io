@@ -65,11 +65,8 @@ const gazetteer = {
   japan: { name: "Japón", center: [139.6917, 35.6895], gl: "JP", hl: "ja", ceid: "JP:ja" },
 
   china: { name: "China", center: [116.4074, 39.9042], gl: "CN", hl: "zh-CN", ceid: "CN:zh-Hans" },
-
   india: { name: "India", center: [77.209, 28.6139], gl: "IN", hl: "en-IN", ceid: "IN:en" },
-
   australia: { name: "Australia", center: [151.2093, -33.8688], gl: "AU", hl: "en-AU", ceid: "AU:en" },
-
   canada: { name: "Canada", center: [-75.6972, 45.4215], gl: "CA", hl: "en-CA", ceid: "CA:en" },
 
   usa: { name: "United States", center: [-77.0369, 38.9072], gl: "US", hl: "en-US", ceid: "US:en" },
@@ -82,10 +79,9 @@ const gazetteer = {
 
   turquia: { name: "Türkiye", center: [32.8597, 39.9334], gl: "TR", hl: "tr", ceid: "TR:tr" },
   turquía: { name: "Türkiye", center: [32.8597, 39.9334], gl: "TR", hl: "tr", ceid: "TR:tr" },
-  turkey: { name: "Türkiye", center: [32.8597, 39.9334], gl: "TR", hl: "tr", ceid: "TR:tr" }
-    austria: { name: "Österreich", center: [16.3738, 48.2082], gl: "AT", hl: "de", ceid: "AT:de" },
-  austriaa: { name: "Österreich", center: [16.3738, 48.2082], gl: "AT", hl: "de", ceid: "AT:de" },
+  turkey: { name: "Türkiye", center: [32.8597, 39.9334], gl: "TR", hl: "tr", ceid: "TR:tr" },
 
+  austria: { name: "Österreich", center: [16.3738, 48.2082], gl: "AT", hl: "de", ceid: "AT:de" },
   suiza: { name: "Schweiz", center: [7.4474, 46.948], gl: "CH", hl: "de", ceid: "CH:de" },
   switzerland: { name: "Schweiz", center: [7.4474, 46.948], gl: "CH", hl: "de", ceid: "CH:de" },
 
@@ -105,7 +101,7 @@ const gazetteer = {
   poland: { name: "Polska", center: [21.0122, 52.2297], gl: "PL", hl: "pl", ceid: "PL:pl" },
 
   chequia: { name: "Česko", center: [14.4378, 50.0755], gl: "CZ", hl: "cs", ceid: "CZ:cs" },
-  republica checa: { name: "Česko", center: [14.4378, 50.0755], gl: "CZ", hl: "cs", ceid: "CZ:cs" },
+  "republica checa": { name: "Česko", center: [14.4378, 50.0755], gl: "CZ", hl: "cs", ceid: "CZ:cs" },
   "república checa": { name: "Česko", center: [14.4378, 50.0755], gl: "CZ", hl: "cs", ceid: "CZ:cs" },
   czechia: { name: "Česko", center: [14.4378, 50.0755], gl: "CZ", hl: "cs", ceid: "CZ:cs" },
 
@@ -155,22 +151,17 @@ const gazetteer = {
   túnez: { name: "تونس", center: [10.1815, 36.8065], gl: "TN", hl: "fr", ceid: "TN:fr" },
   tunisia: { name: "تونس", center: [10.1815, 36.8065], gl: "TN", hl: "fr", ceid: "TN:fr" },
 
-  arabia saudita: { name: "السعودية", center: [46.6753, 24.7136], gl: "SA", hl: "ar", ceid: "SA:ar" },
-  "arabia سعودی": { name: "السعودية", center: [46.6753, 24.7136], gl: "SA", hl: "ar", ceid: "SA:ar" },
+  "arabia saudita": { name: "السعودية", center: [46.6753, 24.7136], gl: "SA", hl: "ar", ceid: "SA:ar" },
   "saudi arabia": { name: "السعودية", center: [46.6753, 24.7136], gl: "SA", hl: "ar", ceid: "SA:ar" },
 
-  emiratos arabes unidos: { name: "الإمارات", center: [55.2708, 25.2048], gl: "AE", hl: "ar", ceid: "AE:ar" },
+  "emiratos arabes unidos": { name: "الإمارات", center: [55.2708, 25.2048], gl: "AE", hl: "ar", ceid: "AE:ar" },
   "emiratos árabes unidos": { name: "الإمارات", center: [55.2708, 25.2048], gl: "AE", hl: "ar", ceid: "AE:ar" },
   uae: { name: "الإمارات", center: [55.2708, 25.2048], gl: "AE", hl: "ar", ceid: "AE:ar" },
 
   qatar: { name: "قطر", center: [51.531, 25.2854], gl: "QA", hl: "ar", ceid: "QA:ar" },
-
   iran: { name: "Iran", center: [51.389, 35.6892], gl: "IR", hl: "fa", ceid: "IR:fa" },
-
   pakistan: { name: "Pakistan", center: [73.0479, 33.6844], gl: "PK", hl: "en-PK", ceid: "PK:en" },
-
   bangladesh: { name: "Bangladesh", center: [90.4125, 23.8103], gl: "BD", hl: "en-BD", ceid: "BD:en" },
-
   indonesia: { name: "Indonesia", center: [106.8456, -6.2088], gl: "ID", hl: "id", ceid: "ID:id" },
 
   malasia: { name: "Malaysia", center: [101.6869, 3.139], gl: "MY", hl: "en-MY", ceid: "MY:en" },
@@ -179,7 +170,6 @@ const gazetteer = {
   singapur: { name: "Singapore", center: [103.8198, 1.3521], gl: "SG", hl: "en-SG", ceid: "SG:en" },
   singapore: { name: "Singapore", center: [103.8198, 1.3521], gl: "SG", hl: "en-SG", ceid: "SG:en" },
 
-  corea del sur: { name: "대한민국", center: [126.978, 37.5665], gl: "KR", hl: "ko", ceid: "KR:ko" },
   "corea del sur": { name: "대한민국", center: [126.978, 37.5665], gl: "KR", hl: "ko", ceid: "KR:ko" },
   "south korea": { name: "대한민국", center: [126.978, 37.5665], gl: "KR", hl: "ko", ceid: "KR:ko" },
 
@@ -191,14 +181,15 @@ const gazetteer = {
   filipinas: { name: "Philippines", center: [120.9842, 14.5995], gl: "PH", hl: "en-PH", ceid: "PH:en" },
   philippines: { name: "Philippines", center: [120.9842, 14.5995], gl: "PH", hl: "en-PH", ceid: "PH:en" },
 
-  nueva zelanda: { name: "New Zealand", center: [174.7762, -41.2866], gl: "NZ", hl: "en-NZ", ceid: "NZ:en" },
+  "nueva zelanda": { name: "New Zealand", center: [174.7762, -41.2866], gl: "NZ", hl: "en-NZ", ceid: "NZ:en" },
   "new zealand": { name: "New Zealand", center: [174.7762, -41.2866], gl: "NZ", hl: "en-NZ", ceid: "NZ:en" },
 
-  mexico city: { name: "México", center: [-99.1332, 19.4326], gl: "MX", hl: "es-419", ceid: "MX:es-419" }
+  "mexico city": { name: "México", center: [-99.1332, 19.4326], gl: "MX", hl: "es-419", ceid: "MX:es-419" }
 };
 
 let spinning = false;
 let spinFrame = null;
+let activeMarkers = [];
 
 const map = new maplibregl.Map({
   container: "map",
@@ -244,6 +235,65 @@ function escapeHtml(str = "") {
     .replaceAll(">", "&gt;")
     .replaceAll('"', "&quot;")
     .replaceAll("'", "&#039;");
+}
+
+function clearMapMarkers() {
+  activeMarkers.forEach((marker) => marker.remove());
+  activeMarkers = [];
+}
+
+function addCountryMarker(place, itemCount = 0, topic = "") {
+  if (!place || !place.center) return;
+
+  const el = document.createElement("div");
+  el.className = "news-marker";
+
+  const size = itemCount >= 10 ? 22 : itemCount >= 5 ? 18 : 14;
+  el.style.width = `${size}px`;
+  el.style.height = `${size}px`;
+  el.style.borderRadius = "50%";
+  el.style.background = "rgba(59,130,246,0.9)";
+  el.style.border = "2px solid rgba(255,255,255,0.95)";
+  el.style.boxShadow = "0 0 0 6px rgba(59,130,246,0.18), 0 0 18px rgba(59,130,246,0.65)";
+  el.style.cursor = "pointer";
+
+  const popupHtml = `
+    <div style="min-width:180px;">
+      <strong>${escapeHtml(place.name)}</strong><br>
+      ${topic ? `<span style="color:#444;">Tema: ${escapeHtml(topic)}</span><br>` : ""}
+      <span style="color:#444;">Titulares: ${itemCount}</span>
+    </div>
+  `;
+
+  const marker = new maplibregl.Marker({ element: el })
+    .setLngLat(place.center)
+    .setPopup(new maplibregl.Popup({ offset: 18 }).setHTML(popupHtml))
+    .addTo(map);
+
+  activeMarkers.push(marker);
+}
+
+function fitMapToPlaces(places = []) {
+  const validPlaces = places.filter((place) => place && Array.isArray(place.center));
+  if (!validPlaces.length) return;
+
+  if (validPlaces.length === 1) {
+    map.flyTo({
+      center: validPlaces[0].center,
+      zoom: 2.8,
+      speed: 0.8
+    });
+    return;
+  }
+
+  const bounds = new maplibregl.LngLatBounds();
+  validPlaces.forEach((place) => bounds.extend(place.center));
+
+  map.fitBounds(bounds, {
+    padding: 80,
+    duration: 1200,
+    maxZoom: 3.5
+  });
 }
 
 function renderResults(items = []) {
@@ -428,6 +478,7 @@ async function searchNews() {
   if (!rawCountry) {
     setStatus("Escribe un país o zona.");
     renderResults([]);
+    clearMapMarkers();
     return;
   }
 
@@ -435,20 +486,19 @@ async function searchNews() {
   if (!place) {
     setStatus("País no encontrado todavía. Prueba con España, Francia, Japón, USA, Alemania, Italia, Portugal o México.");
     renderResults([]);
+    clearMapMarkers();
     return;
   }
-
-  map.flyTo({
-    center: place.center,
-    zoom: 2.8,
-    speed: 0.8
-  });
 
   setStatus(`Buscando noticias para ${place.name}...`);
 
   try {
     const items = await fetchNewsForPlace(place, query);
     renderResults(items);
+
+    clearMapMarkers();
+    addCountryMarker(place, items.length, query || place.name);
+    fitMapToPlaces([place]);
 
     if (!items.length) {
       setStatus(`No llegaron noticias para ${place.name}. Prueba otro país o cambia el tema.`);
@@ -460,6 +510,7 @@ async function searchNews() {
     console.error(err);
     setStatus(`Error cargando noticias: ${err.message}`);
     renderResults([]);
+    clearMapMarkers();
   }
 }
 
@@ -485,6 +536,7 @@ async function generateBriefing() {
   setBriefStatus("Generando briefing geopolítico...");
 
   const groups = [];
+  const placesToMap = [];
 
   for (const rawCountry of rawCountries) {
     const key = normalizeKey(rawCountry);
@@ -494,7 +546,8 @@ async function generateBriefing() {
       groups.push({
         country: rawCountry,
         analysis: "País no reconocido en esta versión.",
-        items: []
+        items: [],
+        place: null
       });
       continue;
     }
@@ -505,20 +558,30 @@ async function generateBriefing() {
       groups.push({
         country: place.name,
         analysis: inferCountryAnalysis(place.name, items, topic),
-        items
+        items,
+        place
       });
+
+      if (items.length) {
+        placesToMap.push({ place, count: items.length });
+      }
     } catch (err) {
       console.error(err);
       groups.push({
         country: place.name,
         analysis: `Error obteniendo noticias para ${place.name}.`,
-        items: []
+        items: [],
+        place
       });
     }
   }
 
   const summaryText = buildGeoPoliticalSummary(topic, groups);
   renderBriefing(groups, summaryText);
+
+  clearMapMarkers();
+  placesToMap.forEach(({ place, count }) => addCountryMarker(place, count, topic));
+  fitMapToPlaces(placesToMap.map((item) => item.place));
 
   const countriesOk = groups.filter((group) => group.items && group.items.length > 0).length;
   setBriefStatus(`Briefing generado para ${countriesOk} país(es) sobre "${topic}".`);
@@ -532,6 +595,7 @@ function clearBriefing() {
     </div>
   `;
   setBriefStatus("Introduce un tema y varios países separados por comas.");
+  clearMapMarkers();
 }
 
 function startSpin() {
@@ -572,35 +636,24 @@ briefBtn.addEventListener("click", generateBriefing);
 clearBriefBtn.addEventListener("click", clearBriefing);
 
 queryInput.addEventListener("keydown", (e) => {
-  if (e.key === "Enter") {
-    searchNews();
-  }
+  if (e.key === "Enter") searchNews();
 });
 
 countryInput.addEventListener("keydown", (e) => {
-  if (e.key === "Enter") {
-    searchNews();
-  }
+  if (e.key === "Enter") searchNews();
 });
 
 briefTopicInput.addEventListener("keydown", (e) => {
-  if (e.key === "Enter") {
-    generateBriefing();
-  }
+  if (e.key === "Enter") generateBriefing();
 });
 
 briefCountriesInput.addEventListener("keydown", (e) => {
-  if (e.key === "Enter") {
-    generateBriefing();
-  }
+  if (e.key === "Enter") generateBriefing();
 });
 
 spinBtn.addEventListener("click", () => {
-  if (spinning) {
-    stopSpin();
-  } else {
-    startSpin();
-  }
+  if (spinning) stopSpin();
+  else startSpin();
 });
 
 map.on("click", async (e) => {
