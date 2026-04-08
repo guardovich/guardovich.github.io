@@ -139,3 +139,25 @@ button.secondary {
     min-height: 430px;
   }
 }
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+.app {
+  display: flex;
+  height: 100vh;
+}
+
+.map-wrap {
+  flex: 1;
+  position: relative;
+}
+
+#map {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+}
