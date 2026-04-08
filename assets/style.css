@@ -61,7 +61,7 @@ body{
   background: var(--bg);
   line-height: 1.6;
   letter-spacing: 0.04em;
-  font-size: 18px;
+  font-size: 16px;
   text-shadow:
     0 0 1px rgba(0,255,102,0.40),
     0 0 3px rgba(0,255,102,0.10);
@@ -142,7 +142,7 @@ body::before{
 
 .sb-name{
   margin-top:14px;
-  font-size:28px;
+  font-size:22px;
   letter-spacing:0.06em;
   color:var(--title);
   text-shadow:
@@ -173,12 +173,12 @@ body::before{
 
 .menu-item{
   display:block;
-  padding:12px 14px;
+  padding:10px 12px;
   color:var(--text);
   text-decoration:none;
   border:1px solid transparent;
   background:#001200;
-  font-size:20px;
+  font-size:16px;
 }
 
 .menu-item:hover,
@@ -197,8 +197,8 @@ body::before{
 }
 
 .chip{
-  padding:8px 10px;
-  font-size:14px;
+  padding:7px 9px;
+  font-size:12px;
   letter-spacing:0.05em;
   text-transform:uppercase;
   text-decoration:none;
@@ -228,11 +228,11 @@ body::before{
 .prompt{
   color:var(--section);
   font-weight:700;
-  font-size:22px;
+  font-size:16px;
 }
 
 .title{
-  font-size:42px;
+  font-size:30px;
   letter-spacing:0.06em;
   color:var(--title);
   text-transform:uppercase;
@@ -243,7 +243,7 @@ body::before{
 .subhead{
   color:var(--muted);
   margin-bottom:18px;
-  font-size:20px;
+  font-size:16px;
 }
 
 /* Panel */
@@ -253,13 +253,13 @@ body::before{
   box-shadow:
     inset 0 0 0 1px rgba(0,255,102,0.05),
     0 0 0 1px rgba(0,255,102,0.03);
-  padding:24px;
+  padding:22px;
 }
 
 /* Markdown defaults */
 .panel h1{
   margin:0 0 14px 0;
-  font-size:24px;
+  font-size:20px;
   letter-spacing:0.06em;
   color:var(--title);
   text-transform:uppercase;
@@ -267,8 +267,8 @@ body::before{
 }
 
 .panel h2{
-  margin:20px 0 12px 0;
-  font-size:20px;
+  margin:18px 0 10px 0;
+  font-size:17px;
   letter-spacing:0.05em;
   color:var(--section);
   text-transform:uppercase;
@@ -305,10 +305,10 @@ body::before{
   width:100%;
   text-align:left;
   color:var(--title);
-  margin:28px 0 12px 0;
+  margin:24px 0 12px 0;
   letter-spacing:0.08em;
   text-transform:uppercase;
-  font-size:24px;
+  font-size:20px;
   text-shadow:0 0 1px rgba(214,255,214,0.30);
 }
 
@@ -319,23 +319,23 @@ body::before{
 }
 
 .cv-item{
-  margin:0 0 20px 0;
+  margin:0 0 18px 0;
 }
 
 .cv-item-title{
   font-weight:700;
   color:var(--section);
   letter-spacing:0.03em;
-  font-size:20px;
+  font-size:17px;
 }
 
 .cv-item-sub{
   color:var(--muted);
-  font-size:19px;
+  font-size:16px;
 }
 
 .cv-item-date{
-  font-size:16px;
+  font-size:14px;
   color:var(--link);
   margin-top:4px;
 }
@@ -401,7 +401,7 @@ body::before{
 .cv-item-body{
   text-align:left;
   color:var(--text);
-  font-size:19px;
+  font-size:16px;
 }
 
 /* ===== POSTS ===== */
@@ -433,7 +433,7 @@ body::before{
   margin:0 0 8px 0;
   letter-spacing:0.05em;
   text-transform:uppercase;
-  font-size:20px;
+  font-size:17px;
 }
 
 .post-title a{
@@ -449,7 +449,7 @@ body::before{
 
 .post-meta{
   color:var(--muted);
-  font-size:16px;
+  font-size:14px;
   display:flex;
   gap:10px;
   flex-wrap:wrap;
@@ -462,7 +462,7 @@ body::before{
   border:1px solid rgba(0,255,102,0.18);
   background:rgba(0,16,0,0.72);
   color:var(--title);
-  font-size:13px;
+  font-size:11px;
   text-transform:uppercase;
   letter-spacing:0.05em;
 }
@@ -476,20 +476,20 @@ body::before{
 
 .post-tag{
   color:var(--text);
-  font-size:14px;
+  font-size:12px;
   opacity:0.92;
 }
 
 .post-excerpt{
   margin:0 0 12px 0;
   color:var(--text);
-  font-size:19px;
+  font-size:16px;
 }
 
 .post-read{
   color:var(--link);
   text-decoration:none;
-  font-size:18px;
+  font-size:15px;
 }
 
 .post-read:hover{
@@ -503,14 +503,14 @@ body::before{
   color:var(--title);
   letter-spacing:0.06em;
   text-transform:uppercase;
-  font-size:26px;
+  font-size:22px;
 }
 
 .post-summary{
   color:var(--text);
   opacity:0.92;
   margin:10px 0 0 0;
-  font-size:19px;
+  font-size:16px;
 }
 
 .post-body{
