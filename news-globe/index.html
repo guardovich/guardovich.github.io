@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>🌍 News Globe · Guardovich</title>
+  <title>🌐 GEONEWS MONITOR · Guardovich</title>
 
   <link
     href="https://unpkg.com/maplibre-gl@5.3.0/dist/maplibre-gl.css"
@@ -18,15 +18,15 @@
     <aside class="sidebar">
 
       <div class="panel">
-        <h1>🌍 News Globe</h1>
-        <p class="muted">Explora noticias del mundo en tiempo real</p>
+        <h1>🌐 GEONEWS MONITOR</h1>
+        <p class="muted">Global intelligence dashboard · noticias, briefing geopolítico y señales globales</p>
 
         <div class="field">
           <label for="query">Buscar tema</label>
           <input
             id="query"
             type="text"
-            placeholder="IA, metal, Renfe, educación..."
+            placeholder="IA, OTAN, Renfe, energía, ciberseguridad..."
             autocomplete="off"
           />
         </div>
@@ -55,7 +55,7 @@
       <div class="panel">
         <h2>🧠 Briefing geopolítico</h2>
         <p class="muted">
-          Compara cómo se cubre un tema en varios países.
+          Compara cómo se cubre un tema en varios países y genera un análisis por bloques.
         </p>
 
         <div class="field">
@@ -205,6 +205,15 @@
           </div>
         </div>
       </section>
+
+      <div class="retro-ticker-wrap">
+        <div class="retro-ticker-label">LIVE FEED</div>
+        <div class="retro-ticker-window">
+          <div class="retro-ticker-track" id="retroTickerTrack">
+            <span class="retro-ticker-item">INICIALIZANDO GEONEWS MONITOR...</span>
+          </div>
+        </div>
+      </div>
 
       <div id="map"></div>
     </main>
