@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Eufemistrón</title>
+  <link rel="stylesheet" href="./style.css" />
+</head>
+<body>
+  <div class="scanlines"></div>
+
+  <main class="app">
+    <header class="hero">
+      <div class="hero-box">
+        <p class="kicker">▦ GUARDOVICH LABS /// ANÁLISIS DEL DISCURSO</p>
+        <h1>Eufemistrón</h1>
+        <p class="subtitle">
+          Artefacto satírico para desmontar eufemismos, maquillaje institucional
+          y retórica política-mediática.
+        </p>
+      </div>
+    </header>
+
+    <section class="controls">
+      <div class="control-group">
+        <label for="mode">Modo</label>
+        <select id="mode">
+          <option value="serio">Serio</option>
+          <option value="gamberro" selected>Gamberro</option>
+        </select>
+      </div>
+
+      <div class="control-group">
+        <label for="intensity">Intensidad</label>
+        <select id="intensity">
+          <option value="suave">Suave</option>
+          <option value="media" selected>Media</option>
+          <option value="salvaje">Salvaje</option>
+        </select>
+      </div>
+
+      <div class="buttons">
+        <button id="transformBtn">TRADUCIR</button>
+        <button id="clearBtn" class="secondary">LIMPIAR</button>
+        <button id="copyBtn" class="secondary">COPIAR</button>
+      </div>
+    </section>
+
+    <section class="workspace">
+      <div class="panel">
+        <div class="panel-title">TEXTO ORIGINAL</div>
+        <textarea
+          id="inputText"
+          placeholder="Pega aquí una noticia, nota institucional, discurso o texto periodístico..."
+        ></textarea>
+      </div>
+
+      <div class="panel">
+        <div class="panel-title">TEXTO TRADUCIDO</div>
+        <div id="outputText" class="output">
+          Aquí aparecerá la versión reinterpretada.
+        </div>
+      </div>
+    </section>
+
+    <section class="stats">
+      <div class="stat-box">
+        <span class="stat-label">Sustituciones detectadas</span>
+        <span id="replacementsCount" class="stat-value">0</span>
+      </div>
+
+      <div class="stat-box">
+        <span class="stat-label">Nivel de maquillaje</span>
+        <span id="makeupLevel" class="stat-value">NULO</span>
+      </div>
+    </section>
+
+    <section class="log-section">
+      <div class="panel-title">REGISTRO DE CAMBIOS</div>
+      <div id="changesLog" class="changes-log">
+        Sin cambios todavía.
+      </div>
+    </section>
+
+    <footer class="footer">
+      <p>
+        Proyecto satírico y experimental. No pretende sustituir el análisis
+        periodístico ni lingüístico profesional.
+      </p>
+    </footer>
+  </main>
+
+  <script src="./script.js"></script>
+</body>
+</html>
