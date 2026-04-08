@@ -83,6 +83,118 @@ const gazetteer = {
   turquia: { name: "Türkiye", center: [32.8597, 39.9334], gl: "TR", hl: "tr", ceid: "TR:tr" },
   turquía: { name: "Türkiye", center: [32.8597, 39.9334], gl: "TR", hl: "tr", ceid: "TR:tr" },
   turkey: { name: "Türkiye", center: [32.8597, 39.9334], gl: "TR", hl: "tr", ceid: "TR:tr" }
+    austria: { name: "Österreich", center: [16.3738, 48.2082], gl: "AT", hl: "de", ceid: "AT:de" },
+  austriaa: { name: "Österreich", center: [16.3738, 48.2082], gl: "AT", hl: "de", ceid: "AT:de" },
+
+  suiza: { name: "Schweiz", center: [7.4474, 46.948], gl: "CH", hl: "de", ceid: "CH:de" },
+  switzerland: { name: "Schweiz", center: [7.4474, 46.948], gl: "CH", hl: "de", ceid: "CH:de" },
+
+  suecia: { name: "Sverige", center: [18.0686, 59.3293], gl: "SE", hl: "sv", ceid: "SE:sv" },
+  sweden: { name: "Sverige", center: [18.0686, 59.3293], gl: "SE", hl: "sv", ceid: "SE:sv" },
+
+  noruega: { name: "Norge", center: [10.7522, 59.9139], gl: "NO", hl: "no", ceid: "NO:no" },
+  norway: { name: "Norge", center: [10.7522, 59.9139], gl: "NO", hl: "no", ceid: "NO:no" },
+
+  dinamarca: { name: "Danmark", center: [12.5683, 55.6761], gl: "DK", hl: "da", ceid: "DK:da" },
+  denmark: { name: "Danmark", center: [12.5683, 55.6761], gl: "DK", hl: "da", ceid: "DK:da" },
+
+  finlandia: { name: "Suomi", center: [24.9384, 60.1699], gl: "FI", hl: "fi", ceid: "FI:fi" },
+  finland: { name: "Suomi", center: [24.9384, 60.1699], gl: "FI", hl: "fi", ceid: "FI:fi" },
+
+  polonia: { name: "Polska", center: [21.0122, 52.2297], gl: "PL", hl: "pl", ceid: "PL:pl" },
+  poland: { name: "Polska", center: [21.0122, 52.2297], gl: "PL", hl: "pl", ceid: "PL:pl" },
+
+  chequia: { name: "Česko", center: [14.4378, 50.0755], gl: "CZ", hl: "cs", ceid: "CZ:cs" },
+  republica checa: { name: "Česko", center: [14.4378, 50.0755], gl: "CZ", hl: "cs", ceid: "CZ:cs" },
+  "república checa": { name: "Česko", center: [14.4378, 50.0755], gl: "CZ", hl: "cs", ceid: "CZ:cs" },
+  czechia: { name: "Česko", center: [14.4378, 50.0755], gl: "CZ", hl: "cs", ceid: "CZ:cs" },
+
+  eslovaquia: { name: "Slovensko", center: [17.1077, 48.1486], gl: "SK", hl: "sk", ceid: "SK:sk" },
+  slovakia: { name: "Slovensko", center: [17.1077, 48.1486], gl: "SK", hl: "sk", ceid: "SK:sk" },
+
+  hungria: { name: "Magyarország", center: [19.0402, 47.4979], gl: "HU", hl: "hu", ceid: "HU:hu" },
+  hungría: { name: "Magyarország", center: [19.0402, 47.4979], gl: "HU", hl: "hu", ceid: "HU:hu" },
+  hungary: { name: "Magyarország", center: [19.0402, 47.4979], gl: "HU", hl: "hu", ceid: "HU:hu" },
+
+  rumania: { name: "România", center: [26.1025, 44.4268], gl: "RO", hl: "ro", ceid: "RO:ro" },
+  rumanía: { name: "România", center: [26.1025, 44.4268], gl: "RO", hl: "ro", ceid: "RO:ro" },
+  romania: { name: "România", center: [26.1025, 44.4268], gl: "RO", hl: "ro", ceid: "RO:ro" },
+
+  bulgaria: { name: "България", center: [23.3219, 42.6977], gl: "BG", hl: "bg", ceid: "BG:bg" },
+
+  grecia: { name: "Ελλάδα", center: [23.7275, 37.9838], gl: "GR", hl: "el", ceid: "GR:el" },
+  greece: { name: "Ελλάδα", center: [23.7275, 37.9838], gl: "GR", hl: "el", ceid: "GR:el" },
+
+  irlanda: { name: "Ireland", center: [-6.2603, 53.3498], gl: "IE", hl: "en-IE", ceid: "IE:en" },
+  ireland: { name: "Ireland", center: [-6.2603, 53.3498], gl: "IE", hl: "en-IE", ceid: "IE:en" },
+
+  ucrania: { name: "Україна", center: [30.5234, 50.4501], gl: "UA", hl: "uk", ceid: "UA:uk" },
+  ukraine: { name: "Україна", center: [30.5234, 50.4501], gl: "UA", hl: "uk", ceid: "UA:uk" },
+
+  israel: { name: "Israel", center: [34.7818, 32.0853], gl: "IL", hl: "he", ceid: "IL:he" },
+
+  egipto: { name: "مصر", center: [31.2357, 30.0444], gl: "EG", hl: "ar", ceid: "EG:ar" },
+  egypt: { name: "مصر", center: [31.2357, 30.0444], gl: "EG", hl: "ar", ceid: "EG:ar" },
+
+  sudafrica: { name: "South Africa", center: [28.0473, -26.2041], gl: "ZA", hl: "en-ZA", ceid: "ZA:en" },
+  "sudáfrica": { name: "South Africa", center: [28.0473, -26.2041], gl: "ZA", hl: "en-ZA", ceid: "ZA:en" },
+  "south africa": { name: "South Africa", center: [28.0473, -26.2041], gl: "ZA", hl: "en-ZA", ceid: "ZA:en" },
+
+  nigeria: { name: "Nigeria", center: [7.3986, 9.0765], gl: "NG", hl: "en-NG", ceid: "NG:en" },
+
+  kenia: { name: "Kenya", center: [36.8219, -1.2921], gl: "KE", hl: "en-KE", ceid: "KE:en" },
+  kenya: { name: "Kenya", center: [36.8219, -1.2921], gl: "KE", hl: "en-KE", ceid: "KE:en" },
+
+  marruecos: { name: "المغرب", center: [-6.8498, 34.0209], gl: "MA", hl: "fr", ceid: "MA:fr" },
+  morocco: { name: "المغرب", center: [-6.8498, 34.0209], gl: "MA", hl: "fr", ceid: "MA:fr" },
+
+  argelia: { name: "الجزائر", center: [3.0588, 36.7538], gl: "DZ", hl: "fr", ceid: "DZ:fr" },
+  algeria: { name: "الجزائر", center: [3.0588, 36.7538], gl: "DZ", hl: "fr", ceid: "DZ:fr" },
+
+  tunez: { name: "تونس", center: [10.1815, 36.8065], gl: "TN", hl: "fr", ceid: "TN:fr" },
+  túnez: { name: "تونس", center: [10.1815, 36.8065], gl: "TN", hl: "fr", ceid: "TN:fr" },
+  tunisia: { name: "تونس", center: [10.1815, 36.8065], gl: "TN", hl: "fr", ceid: "TN:fr" },
+
+  arabia saudita: { name: "السعودية", center: [46.6753, 24.7136], gl: "SA", hl: "ar", ceid: "SA:ar" },
+  "arabia سعودی": { name: "السعودية", center: [46.6753, 24.7136], gl: "SA", hl: "ar", ceid: "SA:ar" },
+  "saudi arabia": { name: "السعودية", center: [46.6753, 24.7136], gl: "SA", hl: "ar", ceid: "SA:ar" },
+
+  emiratos arabes unidos: { name: "الإمارات", center: [55.2708, 25.2048], gl: "AE", hl: "ar", ceid: "AE:ar" },
+  "emiratos árabes unidos": { name: "الإمارات", center: [55.2708, 25.2048], gl: "AE", hl: "ar", ceid: "AE:ar" },
+  uae: { name: "الإمارات", center: [55.2708, 25.2048], gl: "AE", hl: "ar", ceid: "AE:ar" },
+
+  qatar: { name: "قطر", center: [51.531, 25.2854], gl: "QA", hl: "ar", ceid: "QA:ar" },
+
+  iran: { name: "Iran", center: [51.389, 35.6892], gl: "IR", hl: "fa", ceid: "IR:fa" },
+
+  pakistan: { name: "Pakistan", center: [73.0479, 33.6844], gl: "PK", hl: "en-PK", ceid: "PK:en" },
+
+  bangladesh: { name: "Bangladesh", center: [90.4125, 23.8103], gl: "BD", hl: "en-BD", ceid: "BD:en" },
+
+  indonesia: { name: "Indonesia", center: [106.8456, -6.2088], gl: "ID", hl: "id", ceid: "ID:id" },
+
+  malasia: { name: "Malaysia", center: [101.6869, 3.139], gl: "MY", hl: "en-MY", ceid: "MY:en" },
+  malaysia: { name: "Malaysia", center: [101.6869, 3.139], gl: "MY", hl: "en-MY", ceid: "MY:en" },
+
+  singapur: { name: "Singapore", center: [103.8198, 1.3521], gl: "SG", hl: "en-SG", ceid: "SG:en" },
+  singapore: { name: "Singapore", center: [103.8198, 1.3521], gl: "SG", hl: "en-SG", ceid: "SG:en" },
+
+  corea del sur: { name: "대한민국", center: [126.978, 37.5665], gl: "KR", hl: "ko", ceid: "KR:ko" },
+  "corea del sur": { name: "대한민국", center: [126.978, 37.5665], gl: "KR", hl: "ko", ceid: "KR:ko" },
+  "south korea": { name: "대한민국", center: [126.978, 37.5665], gl: "KR", hl: "ko", ceid: "KR:ko" },
+
+  tailandia: { name: "ไทย", center: [100.5018, 13.7563], gl: "TH", hl: "th", ceid: "TH:th" },
+  thailand: { name: "ไทย", center: [100.5018, 13.7563], gl: "TH", hl: "th", ceid: "TH:th" },
+
+  vietnam: { name: "Việt Nam", center: [105.8342, 21.0278], gl: "VN", hl: "vi", ceid: "VN:vi" },
+
+  filipinas: { name: "Philippines", center: [120.9842, 14.5995], gl: "PH", hl: "en-PH", ceid: "PH:en" },
+  philippines: { name: "Philippines", center: [120.9842, 14.5995], gl: "PH", hl: "en-PH", ceid: "PH:en" },
+
+  nueva zelanda: { name: "New Zealand", center: [174.7762, -41.2866], gl: "NZ", hl: "en-NZ", ceid: "NZ:en" },
+  "new zealand": { name: "New Zealand", center: [174.7762, -41.2866], gl: "NZ", hl: "en-NZ", ceid: "NZ:en" },
+
+  mexico city: { name: "México", center: [-99.1332, 19.4326], gl: "MX", hl: "es-419", ceid: "MX:es-419" }
 };
 
 let spinning = false;
