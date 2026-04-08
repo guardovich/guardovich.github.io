@@ -11,6 +11,10 @@ const replacementsCount = document.getElementById("replacementsCount");
 const makeupLevel = document.getElementById("makeupLevel");
 const changesLog = document.getElementById("changesLog");
 
+const loadFeedsBtn = document.getElementById("loadFeedsBtn");
+const clearFeedsBtn = document.getElementById("clearFeedsBtn");
+const rssFeedGrid = document.getElementById("rssFeedGrid");
+
 let autoModeEnabled = false;
 
 function escapeHtml(str = "") {
@@ -29,7 +33,7 @@ function pick(arr) {
 function isAllCaps(text) {
   const letters = text.match(/[A-Za-zÁÉÍÓÚÜÑáéíóúüñ]/g);
   if (!letters || !letters.length) return false;
-  return letters.every(ch => ch === ch.toUpperCase());
+  return letters.every((ch) => ch === ch.toUpperCase());
 }
 
 function isCapitalized(text) {
@@ -224,7 +228,6 @@ const dictionary = {
         }
       }
     },
-
     {
       pattern: /\bajuste presupuestario\b/gi,
       replacements: {
@@ -498,7 +501,6 @@ const dictionary = {
         }
       }
     },
-
     {
       pattern: /\breforma(s)?\b/gi,
       replacements: {
@@ -817,7 +819,6 @@ const dictionary = {
         }
       }
     },
-
     {
       pattern: /\banuncia\b/gi,
       replacements: {
@@ -952,6 +953,20 @@ function calculateMakeupLevel(count) {
   return "EXTREMO";
 }
 
+function transformWithMode(text, mode, intensity) {
+  const log = [];
+
+  const frasesPass = applyEntries(text, dictionary.frases, mode, intensity, log);
+  const palabrasPass = applyEntries(frasesPass.result, dictionary.palabras, mode, intensity, log);
+  const verbosPass = applyEntries(palabrasPass.result, dictionary.verbos, mode, intensity, log);
+
+  return {
+    finalText: verbosPass.result,
+    totalCount: frasesPass.count + palabrasPass.count + verbosPass.count,
+    log
+  };
+}
+
 function buildHighlightedOutput(finalText, log) {
   if (!log.length) {
     return `<span class="output-placeholder">No se detectaron expresiones del diccionario en este texto.</span>`;
@@ -983,7 +998,7 @@ function renderChangesLog(log) {
   }
 
   changesLog.innerHTML = log
-    .map(item => {
+    .map((item) => {
       return `
         <div class="change-item">
           <span class="original">${escapeHtml(item.from)}</span>
@@ -1018,20 +1033,13 @@ function transformText() {
     return;
   }
 
-  const log = [];
+  const result = transformWithMode(original, mode, intensity);
 
-  const frasesPass = applyEntries(original, dictionary.frases, mode, intensity, log);
-  const palabrasPass = applyEntries(frasesPass.result, dictionary.palabras, mode, intensity, log);
-  const verbosPass = applyEntries(palabrasPass.result, dictionary.verbos, mode, intensity, log);
+  outputText.innerHTML = buildHighlightedOutput(result.finalText, result.log);
+  replacementsCount.textContent = String(result.totalCount);
+  makeupLevel.textContent = calculateMakeupLevel(result.totalCount);
 
-  const finalText = verbosPass.result;
-  const totalCount = frasesPass.count + palabrasPass.count + verbosPass.count;
-
-  outputText.innerHTML = buildHighlightedOutput(finalText, log);
-  replacementsCount.textContent = String(totalCount);
-  makeupLevel.textContent = calculateMakeupLevel(totalCount);
-
-  renderChangesLog(log);
+  renderChangesLog(result.log);
 }
 
 function clearAll() {
@@ -1076,13 +1084,194 @@ function loadExample() {
   inputText.value = examples[selected];
 }
 
-transformBtn.addEventListener("click", transformText);
-clearBtn.addEventListener("click", clearAll);
-copyBtn.addEventListener("click", copyOutput);
-autoModeBtn.addEventListener("click", toggleAutoMode);
-presetExample.addEventListener("change", loadExample);
+/* =========================
+   RSS MONITOR
+========================= */
 
-inputText.addEventListener("keydown", (e) => {
+const RSS_FEEDS = [
+  {
+    source: "RTVE",
+    url: "https://api.allorigins.win/raw?url=" + encodeURIComponent("https://www.rtve.es/rss/television/portada.xml")
+  },
+  {
+    source: "RTVE Noticias",
+    url: "https://api.allorigins.win/raw?url=" + encodeURIComponent("https://www.rtve.es/rss/noticias.xml")
+  },
+  {
+    source: "EL PAÍS",
+    url: "https://api.allorigins.win/raw?url=" + encodeURIComponent("https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada")
+  }
+];
+
+function stripHtml(html = "") {
+  const tmp = document.createElement("div");
+  tmp.innerHTML = html;
+  return (tmp.textContent || tmp.innerText || "").replace(/\s+/g, " ").trim();
+}
+
+function truncateText(text = "", max = 240) {
+  const clean = text.replace(/\s+/g, " ").trim();
+  if (clean.length <= max) return clean;
+  return clean.slice(0, max).trim() + "…";
+}
+
+function decodeCData(text = "") {
+  return text
+    .replace(/^<!\[CDATA\[/, "")
+    .replace(/\]\]>$/, "")
+    .trim();
+}
+
+function getNodeText(parent, selectors = []) {
+  for (const selector of selectors) {
+    const node = parent.querySelector(selector);
+    const value = node?.textContent?.trim();
+    if (value) return decodeCData(value);
+  }
+  return "";
+}
+
+function parseRSS(xmlText, sourceName) {
+  const xml = new DOMParser().parseFromString(xmlText, "text/xml");
+
+  const parserError = xml.querySelector("parsererror");
+  if (parserError) {
+    return [];
+  }
+
+  const items = [...xml.querySelectorAll("item, entry")];
+
+  return items.slice(0, 6).map((item) => {
+    const title = getNodeText(item, ["title"]) || "Sin titular";
+    const descriptionRaw =
+      getNodeText(item, ["description", "summary", "content", "content\\:encoded"]) || "";
+    const description = truncateText(stripHtml(descriptionRaw), 260);
+
+    let link = "#";
+
+    const linkNode = item.querySelector("link");
+    if (linkNode) {
+      const href = linkNode.getAttribute("href");
+      if (href) {
+        link = href.trim();
+      } else if (linkNode.textContent?.trim()) {
+        link = linkNode.textContent.trim();
+      }
+    }
+
+    return {
+      source: sourceName,
+      title,
+      description,
+      link
+    };
+  });
+}
+
+function transformSnippet(text) {
+  const clean = (text || "").trim();
+
+  if (!clean) {
+    return {
+      text: "Sin texto traducible.",
+      count: 0,
+      level: "NULO"
+    };
+  }
+
+  const result = transformWithMode(clean, "gamberro", "salvaje");
+
+  return {
+    text: result.finalText,
+    count: result.totalCount,
+    level: calculateMakeupLevel(result.totalCount)
+  };
+}
+
+function renderRSSItems(items) {
+  if (!rssFeedGrid) return;
+
+  if (!items.length) {
+    rssFeedGrid.innerHTML = `<div class="rss-empty">No se pudo cargar ningún feed.</div>`;
+    return;
+  }
+
+  rssFeedGrid.innerHTML = items
+    .map((item) => {
+      const translatedTitle = transformSnippet(item.title);
+      const translatedDesc = transformSnippet(item.description);
+      const combinedCount = translatedTitle.count + translatedDesc.count;
+      const combinedLevel = calculateMakeupLevel(combinedCount);
+
+      return `
+        <article class="rss-card">
+          <div class="rss-meta">
+            <span class="rss-source">${escapeHtml(item.source)}</span>
+            <span class="rss-makeup">Maquillaje: ${escapeHtml(combinedLevel)}</span>
+          </div>
+
+          <h3 class="rss-title">${escapeHtml(item.title)}</h3>
+          <p class="rss-desc">${escapeHtml(item.description || "Sin entradilla disponible.")}</p>
+
+          <div class="rss-translated">
+            <div class="rss-translated-title">VERSIÓN EUFEMISTRÓN</div>
+            <p class="rss-desc">${escapeHtml(translatedTitle.text)}</p>
+            <p class="rss-desc">${escapeHtml(
+              item.description ? translatedDesc.text : "Sin texto traducible en la entradilla."
+            )}</p>
+          </div>
+
+          <a class="rss-link" href="${escapeHtml(item.link)}" target="_blank" rel="noopener noreferrer">
+            Ver noticia original
+          </a>
+        </article>
+      `;
+    })
+    .join("");
+}
+
+async function fetchSingleRSS(feed) {
+  try {
+    const response = await fetch(feed.url, { cache: "no-store" });
+    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+    const xmlText = await response.text();
+    return parseRSS(xmlText, feed.source);
+  } catch (error) {
+    console.error(`Error cargando feed ${feed.source}:`, error);
+    return [];
+  }
+}
+
+async function loadRSSFeeds() {
+  if (!rssFeedGrid) return;
+
+  rssFeedGrid.innerHTML = `<div class="rss-empty">Cargando feeds…</div>`;
+
+  const results = await Promise.all(RSS_FEEDS.map(fetchSingleRSS));
+  const items = results.flat();
+
+  renderRSSItems(items);
+}
+
+function clearRSSFeeds() {
+  if (!rssFeedGrid) return;
+  rssFeedGrid.innerHTML = `<div class="rss-empty">Pulsa “CARGAR RSS” para leer titulares y entradillas.</div>`;
+}
+
+/* =========================
+   EVENTOS
+========================= */
+
+transformBtn?.addEventListener("click", transformText);
+clearBtn?.addEventListener("click", clearAll);
+copyBtn?.addEventListener("click", copyOutput);
+autoModeBtn?.addEventListener("click", toggleAutoMode);
+presetExample?.addEventListener("change", loadExample);
+
+loadFeedsBtn?.addEventListener("click", loadRSSFeeds);
+clearFeedsBtn?.addEventListener("click", clearRSSFeeds);
+
+inputText?.addEventListener("keydown", (e) => {
   if ((e.ctrlKey || e.metaKey) && e.key === "Enter") {
     transformText();
   }
