@@ -194,8 +194,8 @@ let activeMarkers = [];
 const map = new maplibregl.Map({
   container: "map",
   style: "https://demotiles.maplibre.org/style.json",
-  center: [0, 15],
-  zoom: 1.35,
+  center: [8, 22],
+  zoom: 2.15,
   attributionControl: true
 });
 
@@ -280,7 +280,7 @@ function fitMapToPlaces(places = []) {
   if (validPlaces.length === 1) {
     map.flyTo({
       center: validPlaces[0].center,
-      zoom: 2.8,
+      zoom: 3.2,
       speed: 0.8
     });
     return;
@@ -292,7 +292,7 @@ function fitMapToPlaces(places = []) {
   map.fitBounds(bounds, {
     padding: 80,
     duration: 1200,
-    maxZoom: 3.5
+    maxZoom: 4.2
   });
 }
 
@@ -324,7 +324,7 @@ function renderResults(items = []) {
   }
 }
 
-function renderBriefing(groups = [], summaryText = "") {
+function renderBriefing(groups = [], analysis = null) {
   briefingResultsEl.innerHTML = "";
 
   if (!groups.length) {
@@ -332,14 +332,36 @@ function renderBriefing(groups = [], summaryText = "") {
     return;
   }
 
-  if (summaryText) {
-    const summaryCard = document.createElement("article");
-    summaryCard.className = "card";
-    summaryCard.innerHTML = `
-      <h3>🌐 Resumen geopolítico</h3>
-      <div class="summary">${escapeHtml(summaryText)}</div>
+  if (analysis) {
+    const analysisCard = document.createElement("article");
+    analysisCard.className = "card";
+    analysisCard.innerHTML = `
+      <h3>🌐 Resumen ejecutivo</h3>
+      <div class="summary">${escapeHtml(analysis.executiveSummary || "Sin resumen.")}</div>
+
+      <div class="brief-list">
+        <div class="brief-item">
+          <strong>Coincidencias</strong>
+          <div class="summary">${escapeHtml(analysis.commonPatterns || "Sin coincidencias claras.")}</div>
+        </div>
+
+        <div class="brief-item">
+          <strong>Diferencias por país</strong>
+          <div class="summary">${escapeHtml(analysis.countryDifferences || "Sin diferencias destacadas.")}</div>
+        </div>
+
+        <div class="brief-item">
+          <strong>Lectura geopolítica</strong>
+          <div class="summary">${escapeHtml(analysis.geopoliticalReading || "Sin lectura geopolítica suficiente.")}</div>
+        </div>
+
+        <div class="brief-item">
+          <strong>Riesgos o escenarios</strong>
+          <div class="summary">${escapeHtml(analysis.risks || "No se detectan riesgos claros con la muestra actual.")}</div>
+        </div>
+      </div>
     `;
-    briefingResultsEl.appendChild(summaryCard);
+    briefingResultsEl.appendChild(analysisCard);
   }
 
   groups.forEach((group) => {
@@ -433,15 +455,97 @@ function inferCountryAnalysis(country, items, topic) {
   return `En ${country}, el tema "${topic}" aparece con ${angle}, un ${tone} y énfasis en ${emphasis}.`;
 }
 
-function buildGeoPoliticalSummary(topic, groups) {
-  const withItems = groups.filter((group) => group.items && group.items.length > 0);
+function detectThemesFromItems(items = []) {
+  const text = items
+    .map((item) => `${item.title || ""} ${item.summary || ""}`)
+    .join(" ")
+    .toLowerCase();
 
-  if (!withItems.length) {
-    return `No hay base suficiente para elaborar un resumen geopolítico sobre "${topic}".`;
+  const counters = {
+    institucional: 0,
+    economico: 0,
+    seguridad: 0,
+    regulatorio: 0,
+    social: 0,
+    tecnologico: 0
+  };
+
+  const rules = {
+    institucional: ["gobierno", "ministerio", "presidente", "parlamento", "estado", "ejecutivo"],
+    economico: ["econom", "mercado", "banco", "empresa", "industr", "inflación", "bolsa", "finanza"],
+    seguridad: ["ejército", "defensa", "otan", "misil", "seguridad", "guerra", "frontera", "crisis"],
+    regulatorio: ["ley", "regul", "norma", "ue", "comisión", "tribunal", "decreto"],
+    social: ["migr", "mujer", "educ", "sanidad", "vivienda", "protesta", "empleo"],
+    tecnologico: ["ia", "inteligencia artificial", "chip", "tecnolog", "digital", "datos", "ciber", "software"]
+  };
+
+  for (const [theme, words] of Object.entries(rules)) {
+    for (const word of words) {
+      if (text.includes(word)) counters[theme]++;
+    }
   }
 
-  const countryNames = withItems.map((group) => group.country).join(", ");
-  return `El briefing sobre "${topic}" muestra diferencias claras entre ${countryNames}. La cobertura combina ángulos institucionales, económicos y estratégicos según el país. En conjunto, el tema se presenta como un asunto con dimensión internacional, impacto político y efectos sociales que varían según la agenda mediática nacional.`;
+  return counters;
+}
+
+function topThemeFromCounters(counters) {
+  const entries = Object.entries(counters).sort((a, b) => b[1] - a[1]);
+  return entries[0]?.[0] || "general";
+}
+
+function buildStructuredBriefing(topic, groups) {
+  const validGroups = groups.filter((group) => group.items && group.items.length > 0);
+
+  if (!validGroups.length) {
+    return {
+      executiveSummary: `No hay base suficiente para elaborar un briefing sólido sobre "${topic}".`,
+      commonPatterns: "La muestra es insuficiente.",
+      countryDifferences: "No se aprecian diferencias comparables.",
+      geopoliticalReading: "No se puede extraer una lectura geopolítica consistente.",
+      risks: "Sin datos suficientes para estimar escenarios."
+    };
+  }
+
+  const analyses = validGroups.map((group) => {
+    const counters = detectThemesFromItems(group.items);
+    const dominantTheme = topThemeFromCounters(counters);
+    return {
+      country: group.country,
+      dominantTheme,
+      counters,
+      itemCount: group.items.length
+    };
+  });
+
+  const dominantThemes = analyses.map((a) => a.dominantTheme);
+  const themeFrequency = {};
+
+  dominantThemes.forEach((theme) => {
+    themeFrequency[theme] = (themeFrequency[theme] || 0) + 1;
+  });
+
+  const mostCommonTheme =
+    Object.entries(themeFrequency).sort((a, b) => b[1] - a[1])[0]?.[0] || "general";
+
+  const executiveSummary = `El briefing sobre "${topic}" indica que la cobertura se concentra principalmente en un marco ${mostCommonTheme}. La muestra combina ${validGroups.length} países con enfoques distintos, aunque aparece una dimensión internacional compartida.`;
+
+  const commonPatterns = `Se observan patrones comunes en la forma de tratar "${topic}": varios países lo conectan con implicaciones políticas, efectos sociales y proyección internacional. El volumen agregado de titulares sugiere que no se trata de una cuestión aislada, sino de un asunto con múltiples capas.`;
+
+  const differencesText = analyses
+    .map((a) => `${a.country}: predominio ${a.dominantTheme}`)
+    .join("; ");
+
+  const geopoliticalReading = `La comparación sugiere que "${topic}" no se interpreta igual en todos los contextos nacionales. Algunos medios lo presentan desde marcos institucionales o regulatorios, mientras otros lo empujan hacia la seguridad, la economía o la tecnología. Esto apunta a agendas nacionales diferentes y a prioridades geopolíticas distintas según el país.`;
+
+  const risks = `Si la cobertura sigue evolucionando en esta línea, los principales escenarios pasan por una mayor politización del tema, más fricción regulatoria entre bloques y una posible intensificación del enfoque estratégico en los países que lo vinculan con seguridad o competencia internacional.`;
+
+  return {
+    executiveSummary,
+    commonPatterns,
+    countryDifferences: differencesText,
+    geopoliticalReading,
+    risks
+  };
 }
 
 async function fetchNewsForPlace(place, query = "") {
@@ -576,8 +680,8 @@ async function generateBriefing() {
     }
   }
 
-  const summaryText = buildGeoPoliticalSummary(topic, groups);
-  renderBriefing(groups, summaryText);
+  const structuredAnalysis = buildStructuredBriefing(topic, groups);
+  renderBriefing(groups, structuredAnalysis);
 
   clearMapMarkers();
   placesToMap.forEach(({ place, count }) => addCountryMarker(place, count, topic));
