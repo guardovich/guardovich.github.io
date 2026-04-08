@@ -1,3 +1,4 @@
+const geoBtn = document.getElementById("geoBtn");
 const WORKER_URL = "https://news-globe-worker.davidguardopuertas.workers.dev";
 
 const countryInput = document.getElementById("country");
@@ -235,4 +236,48 @@ map.on("click", async (e) => {
     console.error(err);
     setStatus("No pude resolver la zona del clic.");
   }
+});
+
+geoBtn.addEventListener("click", () => {
+  if (!navigator.geolocation) {
+    setStatus("Geolocalización no soportada.");
+    return;
+  }
+
+  setStatus("Obteniendo tu ubicación...");
+
+  navigator.geolocation.getCurrentPosition(
+    async (pos) => {
+      const lat = pos.coords.latitude;
+      const lon = pos.coords.longitude;
+
+      try {
+        const response = await fetch(
+          `https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=${lat}&lon=${lon}&zoom=3&accept-language=es`
+        );
+
+        const data = await response.json();
+
+        const country =
+          data?.address?.country ||
+          data?.name ||
+          "";
+
+        if (country) {
+          countryInput.value = country;
+          setStatus(`Ubicación detectada: ${country}. Buscando...`);
+          searchNews();
+        } else {
+          setStatus("No pude detectar tu país.");
+        }
+
+      } catch (err) {
+        console.error(err);
+        setStatus("Error obteniendo ubicación.");
+      }
+    },
+    () => {
+      setStatus("Permiso de ubicación denegado.");
+    }
+  );
 });
