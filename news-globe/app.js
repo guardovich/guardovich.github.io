@@ -15,6 +15,20 @@ const clearBriefBtn = document.getElementById("clearBriefBtn");
 const briefStatusEl = document.getElementById("briefStatus");
 const briefingResultsEl = document.getElementById("briefingResults");
 
+const activeTopicEl = document.getElementById("activeTopic");
+const activeCountriesEl = document.getElementById("activeCountries");
+const headlineCountEl = document.getElementById("headlineCount");
+const lastUpdateEl = document.getElementById("lastUpdate");
+const geoTickerEl = document.getElementById("geoTicker");
+const marketBoardEl = document.getElementById("marketBoard");
+
+const clockMadridEl = document.getElementById("clockMadrid");
+const clockLondonEl = document.getElementById("clockLondon");
+const clockNewYorkEl = document.getElementById("clockNewYork");
+const clockBeijingEl = document.getElementById("clockBeijing");
+const clockTokyoEl = document.getElementById("clockTokyo");
+const clockMoscowEl = document.getElementById("clockMoscow");
+
 const gazetteer = {
   espana: { name: "España", center: [-3.7038, 40.4168], gl: "ES", hl: "es-ES", ceid: "ES:es" },
   españa: { name: "España", center: [-3.7038, 40.4168], gl: "ES", hl: "es-ES", ceid: "ES:es" },
@@ -190,6 +204,15 @@ const gazetteer = {
 let spinning = false;
 let spinFrame = null;
 let activeMarkers = [];
+
+const mockMarkets = [
+  { label: "IBEX", value: "11,284", change: "+0.42%" },
+  { label: "S&P", value: "5,918", change: "-0.18%" },
+  { label: "NASDAQ", value: "18,442", change: "+0.63%" },
+  { label: "BRENT", value: "82.31", change: "+1.12%" },
+  { label: "ORO", value: "2,348", change: "+0.27%" },
+  { label: "BTC", value: "68,420", change: "-0.54%" }
+];
 
 const map = new maplibregl.Map({
   container: "map",
@@ -548,6 +571,64 @@ function buildStructuredBriefing(topic, groups) {
   };
 }
 
+function updateDashboardStatus({ topic = "Sin tema", countries = 0, headlines = 0 } = {}) {
+  if (activeTopicEl) activeTopicEl.textContent = topic;
+  if (activeCountriesEl) activeCountriesEl.textContent = String(countries);
+  if (headlineCountEl) headlineCountEl.textContent = String(headlines);
+  if (lastUpdateEl) lastUpdateEl.textContent = getLocalTime("Europe/Madrid");
+}
+
+function getLocalTime(timeZone) {
+  return new Intl.DateTimeFormat("es-ES", {
+    hour: "2-digit",
+    minute: "2-digit",
+    hour12: false,
+    timeZone
+  }).format(new Date());
+}
+
+function updateWorldClocks() {
+  if (clockMadridEl) clockMadridEl.textContent = getLocalTime("Europe/Madrid");
+  if (clockLondonEl) clockLondonEl.textContent = getLocalTime("Europe/London");
+  if (clockNewYorkEl) clockNewYorkEl.textContent = getLocalTime("America/New_York");
+  if (clockBeijingEl) clockBeijingEl.textContent = getLocalTime("Asia/Shanghai");
+  if (clockTokyoEl) clockTokyoEl.textContent = getLocalTime("Asia/Tokyo");
+  if (clockMoscowEl) clockMoscowEl.textContent = getLocalTime("Europe/Moscow");
+}
+
+function renderMarketBoard() {
+  if (!marketBoardEl) return;
+
+  marketBoardEl.innerHTML = mockMarkets
+    .map((item) => {
+      const isNegative = item.change.startsWith("-");
+      const color = isNegative ? "#ff8e8e" : "#86efac";
+      return `
+        <div class="hud-metric">
+          <span class="hud-label">${escapeHtml(item.label)}</span>
+          <span class="hud-value">${escapeHtml(item.value)}</span>
+          <span class="hud-change" style="color:${color};font-size:12px;font-weight:700;">${escapeHtml(item.change)}</span>
+        </div>
+      `;
+    })
+    .join("");
+}
+
+function updateGeoTicker(items = []) {
+  if (!geoTickerEl) return;
+
+  const cleanItems = items.filter(Boolean).slice(0, 8);
+
+  if (!cleanItems.length) {
+    geoTickerEl.innerHTML = `<span class="ticker-item">Sin flujo geopolítico disponible.</span>`;
+    return;
+  }
+
+  geoTickerEl.innerHTML = cleanItems
+    .map((item) => `<span class="ticker-item">${escapeHtml(item)}</span>`)
+    .join("");
+}
+
 async function fetchNewsForPlace(place, query = "") {
   const url = new URL(WORKER_URL);
   url.searchParams.set("place", place.name);
@@ -583,6 +664,8 @@ async function searchNews() {
     setStatus("Escribe un país o zona.");
     renderResults([]);
     clearMapMarkers();
+    updateDashboardStatus({ topic: "Sin tema", countries: 0, headlines: 0 });
+    updateGeoTicker([]);
     return;
   }
 
@@ -591,6 +674,8 @@ async function searchNews() {
     setStatus("País no encontrado todavía. Prueba con España, Francia, Japón, USA, Alemania, Italia, Portugal o México.");
     renderResults([]);
     clearMapMarkers();
+    updateDashboardStatus({ topic: "Sin tema", countries: 0, headlines: 0 });
+    updateGeoTicker([]);
     return;
   }
 
@@ -604,6 +689,14 @@ async function searchNews() {
     addCountryMarker(place, items.length, query || place.name);
     fitMapToPlaces([place]);
 
+    updateDashboardStatus({
+      topic: query || place.name,
+      countries: 1,
+      headlines: items.length
+    });
+
+    updateGeoTicker(items.map((item) => item.title));
+
     if (!items.length) {
       setStatus(`No llegaron noticias para ${place.name}. Prueba otro país o cambia el tema.`);
       return;
@@ -615,6 +708,8 @@ async function searchNews() {
     setStatus(`Error cargando noticias: ${err.message}`);
     renderResults([]);
     clearMapMarkers();
+    updateDashboardStatus({ topic: "Error", countries: 0, headlines: 0 });
+    updateGeoTicker([]);
   }
 }
 
@@ -688,6 +783,20 @@ async function generateBriefing() {
   fitMapToPlaces(placesToMap.map((item) => item.place));
 
   const countriesOk = groups.filter((group) => group.items && group.items.length > 0).length;
+  const totalHeadlines = groups.reduce((acc, group) => acc + (group.items?.length || 0), 0);
+
+  updateDashboardStatus({
+    topic,
+    countries: countriesOk,
+    headlines: totalHeadlines
+  });
+
+  updateGeoTicker(
+    groups.flatMap((group) =>
+      (group.items || []).slice(0, 2).map((item) => `${group.country}: ${item.title}`)
+    )
+  );
+
   setBriefStatus(`Briefing generado para ${countriesOk} país(es) sobre "${topic}".`);
 }
 
@@ -700,6 +809,8 @@ function clearBriefing() {
   `;
   setBriefStatus("Introduce un tema y varios países separados por comas.");
   clearMapMarkers();
+  updateDashboardStatus({ topic: "Sin tema", countries: 0, headlines: 0 });
+  updateGeoTicker([]);
 }
 
 function startSpin() {
@@ -831,3 +942,18 @@ geoBtn.addEventListener("click", () => {
     }
   );
 });
+
+function initDashboard() {
+  renderMarketBoard();
+  updateWorldClocks();
+  updateDashboardStatus({ topic: "Sin tema", countries: 0, headlines: 0 });
+  updateGeoTicker([
+    "Panel global iniciado.",
+    "Esperando tema para briefing.",
+    "Mapa operativo.",
+    "RSS geopolítico disponible."
+  ]);
+}
+
+initDashboard();
+setInterval(updateWorldClocks, 1000);
