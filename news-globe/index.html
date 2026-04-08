@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>News Globe</title>
+
+  <link
+    href="https://unpkg.com/maplibre-gl@5.3.0/dist/maplibre-gl.css"
+    rel="stylesheet"
+  />
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <div class="app">
+    <aside class="sidebar">
+      <div class="panel">
+        <h1>🌍 News Globe</h1>
+        <p class="muted">Explora noticias por país o búsqueda.</p>
+
+        <div class="field">
+          <label for="query">Buscar tema</label>
+          <input id="query" type="text" placeholder="IA, metal, Renfe, educación..." />
+        </div>
+
+        <div class="field">
+          <label for="country">País / zona</label>
+          <input id="country" type="text" placeholder="España, Chile, Japón..." />
+        </div>
+
+        <div class="buttons">
+          <button id="searchBtn">Buscar</button>
+          <button id="spinBtn" class="secondary">Girar globo</button>
+        </div>
+
+        <div class="status" id="status">Listo.</div>
+      </div>
+
+      <div class="panel results-panel">
+        <h2>Noticias</h2>
+        <div id="results" class="results"></div>
+      </div>
+    </aside>
+
+    <main class="map-wrap">
+      <div id="map"></div>
+    </main>
+  </div>
+
+  <script src="https://unpkg.com/maplibre-gl@5.3.0/dist/maplibre-gl.js"></script>
+  <script src="./app.js"></script>
+</body>
+</html>
