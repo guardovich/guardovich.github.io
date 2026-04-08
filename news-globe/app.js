@@ -164,7 +164,7 @@ async function searchNews() {
 
   const place = gazetteer[key];
   if (!place) {
-    setStatus("País no encontrado todavía. Prueba con España, Francia, Japón, USA, Alemania, Italia, Portugal, México...");
+    setStatus("País no encontrado todavía. Prueba con España, Francia, Japón, USA, Alemania, Italia, Portugal o México.");
     renderResults([]);
     return;
   }
@@ -286,7 +286,6 @@ map.on("click", async (e) => {
     );
 
     const data = await response.json();
-
     const country = data?.address?.country || data?.name || "";
 
     if (country) {
