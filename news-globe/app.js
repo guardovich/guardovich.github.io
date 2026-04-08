@@ -19,7 +19,6 @@ const gazetteer = {
 
   mexico: { name: "México", center: [-99.1332, 19.4326], gl: "MX", hl: "es-419", ceid: "MX:es-419" },
   méxico: { name: "México", center: [-99.1332, 19.4326], gl: "MX", hl: "es-419", ceid: "MX:es-419" },
-  mexicoo: { name: "México", center: [-99.1332, 19.4326], gl: "MX", hl: "es-419", ceid: "MX:es-419" },
 
   argentina: { name: "Argentina", center: [-58.3816, -34.6037], gl: "AR", hl: "es-419", ceid: "AR:es-419" },
 
@@ -31,7 +30,7 @@ const gazetteer = {
   brasil: { name: "Brasil", center: [-47.8825, -15.7942], gl: "BR", hl: "pt-BR", ceid: "BR:pt-419" },
   brazil: { name: "Brasil", center: [-47.8825, -15.7942], gl: "BR", hl: "pt-BR", ceid: "BR:pt-419" },
 
-  reino unido: { name: "United Kingdom", center: [-0.1276, 51.5072], gl: "GB", hl: "en-GB", ceid: "GB:en" },
+  "reino unido": { name: "United Kingdom", center: [-0.1276, 51.5072], gl: "GB", hl: "en-GB", ceid: "GB:en" },
   "united kingdom": { name: "United Kingdom", center: [-0.1276, 51.5072], gl: "GB", hl: "en-GB", ceid: "GB:en" },
   uk: { name: "United Kingdom", center: [-0.1276, 51.5072], gl: "GB", hl: "en-GB", ceid: "GB:en" },
 
@@ -49,7 +48,7 @@ const gazetteer = {
   bélgica: { name: "Belgique", center: [4.3517, 50.8503], gl: "BE", hl: "fr", ceid: "BE:fr" },
   belgium: { name: "Belgique", center: [4.3517, 50.8503], gl: "BE", hl: "fr", ceid: "BE:fr" },
 
-  paises bajos: { name: "Nederland", center: [4.9041, 52.3676], gl: "NL", hl: "nl", ceid: "NL:nl" },
+  "paises bajos": { name: "Nederland", center: [4.9041, 52.3676], gl: "NL", hl: "nl", ceid: "NL:nl" },
   "países bajos": { name: "Nederland", center: [4.9041, 52.3676], gl: "NL", hl: "nl", ceid: "NL:nl" },
   netherlands: { name: "Nederland", center: [4.9041, 52.3676], gl: "NL", hl: "nl", ceid: "NL:nl" },
   holland: { name: "Nederland", center: [4.9041, 52.3676], gl: "NL", hl: "nl", ceid: "NL:nl" },
@@ -65,8 +64,6 @@ const gazetteer = {
   australia: { name: "Australia", center: [151.2093, -33.8688], gl: "AU", hl: "en-AU", ceid: "AU:en" },
 
   canada: { name: "Canada", center: [-75.6972, 45.4215], gl: "CA", hl: "en-CA", ceid: "CA:en" },
-  canadà: { name: "Canada", center: [-75.6972, 45.4215], gl: "CA", hl: "en-CA", ceid: "CA:en" },
-  canadàa: { name: "Canada", center: [-75.6972, 45.4215], gl: "CA", hl: "en-CA", ceid: "CA:en" },
 
   usa: { name: "United States", center: [-77.0369, 38.9072], gl: "US", hl: "en-US", ceid: "US:en" },
   eeuu: { name: "United States", center: [-77.0369, 38.9072], gl: "US", hl: "en-US", ceid: "US:en" },
@@ -290,15 +287,11 @@ map.on("click", async (e) => {
 
     const data = await response.json();
 
-    const country =
-      data?.address?.country ||
-      data?.name ||
-      "";
+    const country = data?.address?.country || data?.name || "";
 
     if (country) {
       countryInput.value = country;
-      setStatus(`Zona detectada: ${country}. Buscando noticias...`);
-      searchNews();
+      setStatus(`Zona detectada: ${country}.`);
     } else {
       setStatus("No pude identificar ese país.");
     }
@@ -328,16 +321,11 @@ geoBtn.addEventListener("click", () => {
         );
 
         const data = await response.json();
-
-        const country =
-          data?.address?.country ||
-          data?.name ||
-          "";
+        const country = data?.address?.country || data?.name || "";
 
         if (country) {
           countryInput.value = country;
-          setStatus(`Ubicación detectada: ${country}. Buscando...`);
-          searchNews();
+          setStatus(`Ubicación detectada: ${country}.`);
         } else {
           setStatus("No pude detectar tu país.");
         }
