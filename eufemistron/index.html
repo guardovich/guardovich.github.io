@@ -30,6 +30,19 @@
       </div>
     </header>
 
+    <section class="rss-monitor panel">
+      <div class="panel-title">MONITOR RSS · MODO GAMBERRO SALVAJE</div>
+
+      <div class="rss-toolbar">
+        <button id="loadFeedsBtn">CARGAR RSS</button>
+        <button id="clearFeedsBtn" class="secondary">LIMPIAR FEEDS</button>
+      </div>
+
+      <div id="rssFeedGrid" class="rss-feed-grid">
+        <div class="rss-empty">Pulsa “CARGAR RSS” para leer titulares y entradillas.</div>
+      </div>
+    </section>
+
     <section class="controls">
       <div class="control-group">
         <label for="mode">Modo</label>
@@ -111,7 +124,6 @@
     </footer>
   </main>
 
-  <!-- Sonido de arranque -->
   <audio id="bootSound" preload="auto">
     <source src="./sfx/boot.mp3" type="audio/mpeg" />
   </audio>
