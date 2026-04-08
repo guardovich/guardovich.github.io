@@ -3,51 +3,87 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>News Globe</title>
+  <title>🌍 News Globe · Guardovich</title>
 
+  <!-- MapLibre -->
   <link
     href="https://unpkg.com/maplibre-gl@5.3.0/dist/maplibre-gl.css"
     rel="stylesheet"
   />
+
+  <!-- Estilos -->
   <link rel="stylesheet" href="./styles.css" />
 </head>
 <body>
   <div class="app">
+
+    <!-- SIDEBAR -->
     <aside class="sidebar">
+      
+      <!-- PANEL CONTROL -->
       <div class="panel">
         <h1>🌍 News Globe</h1>
-        <p class="muted">Explora noticias por país o búsqueda.</p>
+        <p class="muted">Explora noticias del mundo en tiempo real</p>
 
+        <!-- BUSCADOR -->
         <div class="field">
           <label for="query">Buscar tema</label>
-          <input id="query" type="text" placeholder="IA, metal, Renfe, educación..." />
+          <input 
+            id="query" 
+            type="text" 
+            placeholder="IA, metal, Renfe, educación..." 
+            autocomplete="off"
+          />
         </div>
 
+        <!-- PAÍS -->
         <div class="field">
           <label for="country">País / zona</label>
-          <input id="country" type="text" placeholder="España, Chile, Japón..." />
+          <input 
+            id="country" 
+            type="text" 
+            placeholder="España, Chile, Japón..." 
+            autocomplete="off"
+          />
         </div>
 
+        <!-- BOTONES -->
         <div class="buttons">
-          <button id="searchBtn">Buscar</button>
-          <button id="spinBtn" class="secondary">Girar globo</button>
+          <button id="searchBtn">🔎 Buscar</button>
+          <button id="spinBtn" class="secondary">🌍 Girar</button>
+          <button id="geoBtn" class="secondary">📍 Mi ubicación</button>
         </div>
 
-        <div class="status" id="status">Listo.</div>
+        <!-- ESTADO -->
+        <div class="status" id="status">
+          Haz clic en el mapa o busca un país.
+        </div>
       </div>
 
+      <!-- RESULTADOS -->
       <div class="panel results-panel">
-        <h2>Noticias</h2>
-        <div id="results" class="results"></div>
+        <h2>📰 Noticias</h2>
+        <div id="results" class="results">
+          <div class="card">
+            <div class="summary">Sin resultados aún.</div>
+          </div>
+        </div>
       </div>
+
     </aside>
 
+    <!-- MAPA -->
     <main class="map-wrap">
       <div id="map"></div>
     </main>
+
   </div>
 
+  <!-- LIBRERÍAS -->
   <script src="https://unpkg.com/maplibre-gl@5.3.0/dist/maplibre-gl.js"></script>
+
+  <!-- APP -->
   <script src="./app.js"></script>
+
 </body>
 </html>
