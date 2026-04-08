@@ -39,8 +39,20 @@
         </select>
       </div>
 
+      <div class="control-group">
+        <label for="presetExample">Ejemplo</label>
+        <select id="presetExample">
+          <option value="">Selecciona un ejemplo</option>
+          <option value="institucional">Nota institucional</option>
+          <option value="economia">Noticia económica</option>
+          <option value="politica">Crónica política</option>
+          <option value="guerra">Conflicto internacional</option>
+        </select>
+      </div>
+
       <div class="buttons">
         <button id="transformBtn">TRADUCIR</button>
+        <button id="autoModeBtn" class="secondary">MODO CAÑERO</button>
         <button id="clearBtn" class="secondary">LIMPIAR</button>
         <button id="copyBtn" class="secondary">COPIAR</button>
       </div>
@@ -58,7 +70,7 @@
       <div class="panel">
         <div class="panel-title">TEXTO TRADUCIDO</div>
         <div id="outputText" class="output">
-          Aquí aparecerá la versión reinterpretada.
+          <span class="output-placeholder">Aquí aparecerá la versión reinterpretada.</span>
         </div>
       </div>
     </section>
