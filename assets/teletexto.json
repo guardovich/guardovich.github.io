@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-08T02:26:47.521Z",
+  "generatedAt": "2026-04-08T07:19:44.829Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
@@ -72,6 +72,18 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "A Volcanic Medley Near Mammoth Lakes ",
+          "link": "https://science.nasa.gov/earth/earth-observatory/a-volcanic-medley-near-mammoth-lakes/",
+          "summary": "A massive, old caldera and more recently formed craters shape the landscape in the eastern Sierra Nevada.",
+          "isoDate": "2026-04-08T04:01:00.000Z"
+        },
+        {
+          "title": "Celestial Wonders in Leo",
+          "link": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/celestial-wonders-in-leo/",
+          "summary": "Leo is a prominent sight for stargazers in April. Its famous sickle, punctuated by the bright star Regulus, draws many a beginning stargazer’s eyes, inviting deeper looks into some of Leo’s celestial delights, including a great double star and a famous galactic trio. Leo’s distinctive forward sickle, or “reverse question mark,” is easy to spot […]",
+          "isoDate": "2026-04-08T03:01:24.000Z"
+        },
+        {
           "title": "NASA’s Artemis II Crew Beams Official Moon Flyby Photos to Earth",
           "link": "https://www.nasa.gov/news-release/nasas-artemis-ii-crew-beams-official-moon-flyby-photos-to-earth/",
           "summary": "The first flyby images of the Moon captured by NASA’s Artemis II astronauts during their historic test flight reveal some regions no human has seen, including a rare in-space solar eclipse. Released Tuesday, astronauts captured the images April 6 during the mission’s seven-hour flyby of the lunar far side, showing humanity’s return to the Moon’s […]",
@@ -118,18 +130,6 @@
           "link": "https://www.nature.com/articles/d41586-026-01095-6",
           "summary": "Nature, Published online: 07 April 2026; doi:10.1038/d41586-026-01095-6\nRepresentation without power in science isn’t equity",
           "isoDate": "2026-04-07T00:00:00.000Z"
-        },
-        {
-          "title": "Don’t rush use of lymphatic surgery in Alzheimer’s disease",
-          "link": "https://www.nature.com/articles/d41586-026-01093-8",
-          "summary": "Nature, Published online: 07 April 2026; doi:10.1038/d41586-026-01093-8\nDon’t rush use of lymphatic surgery in Alzheimer’s disease",
-          "isoDate": "2026-04-07T00:00:00.000Z"
-        },
-        {
-          "title": "New drugs take aim at one of cancer’s deadliest mutations",
-          "link": "https://www.nature.com/articles/d41586-026-01016-7",
-          "summary": "Nature, Published online: 07 April 2026; doi:10.1038/d41586-026-01016-7\nMutations in the KRAS protein were once deemed ‘undruggable’. Today, various approaches are in the pipeline.",
-          "isoDate": "2026-04-07T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-04-08T02:26:44.138Z"
+          "isoDate": "2026-04-08T07:19:40.070Z"
         },
         {
           "title": "Tech Life",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-04-08T02:26:46.153Z"
+          "isoDate": "2026-04-08T07:19:43.467Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-04-08T02:26:45.558Z"
+          "isoDate": "2026-04-08T07:19:41.324Z"
         },
         {
           "title": "Temple University Student Highlights IEEE Membership Perks",
