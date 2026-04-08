@@ -1,4 +1,4 @@
-const WORKER_URL = "https://TU-WORKER.TUCUENTA.workers.dev";
+const WORKER_URL = "https://news-globe-worker.davidguardopuertas.workers.dev";
 
 const countryInput = document.getElementById("country");
 const queryInput = document.getElementById("query");
@@ -10,13 +10,22 @@ const resultsEl = document.getElementById("results");
 const gazetteer = {
   espana: { name: "España", center: [-3.7038, 40.4168], gl: "ES", hl: "es-ES", ceid: "ES:es" },
   españa: { name: "España", center: [-3.7038, 40.4168], gl: "ES", hl: "es-ES", ceid: "ES:es" },
+  spain: { name: "España", center: [-3.7038, 40.4168], gl: "ES", hl: "es-ES", ceid: "ES:es" },
+
   chile: { name: "Chile", center: [-70.6693, -33.4489], gl: "CL", hl: "es-419", ceid: "CL:es-419" },
+
   mexico: { name: "México", center: [-99.1332, 19.4326], gl: "MX", hl: "es-419", ceid: "MX:es-419" },
   méxico: { name: "México", center: [-99.1332, 19.4326], gl: "MX", hl: "es-419", ceid: "MX:es-419" },
+
   argentina: { name: "Argentina", center: [-58.3816, -34.6037], gl: "AR", hl: "es-419", ceid: "AR:es-419" },
+
   japon: { name: "Japón", center: [139.6917, 35.6895], gl: "JP", hl: "ja", ceid: "JP:ja" },
   japón: { name: "Japón", center: [139.6917, 35.6895], gl: "JP", hl: "ja", ceid: "JP:ja" },
+  japan: { name: "Japón", center: [139.6917, 35.6895], gl: "JP", hl: "ja", ceid: "JP:ja" },
+
   usa: { name: "United States", center: [-77.0369, 38.9072], gl: "US", hl: "en-US", ceid: "US:en" },
+  "united states": { name: "United States", center: [-77.0369, 38.9072], gl: "US", hl: "en-US", ceid: "US:en" },
+
   france: { name: "France", center: [2.3522, 48.8566], gl: "FR", hl: "fr", ceid: "FR:fr" },
   francia: { name: "France", center: [2.3522, 48.8566], gl: "FR", hl: "fr", ceid: "FR:fr" }
 };
@@ -73,7 +82,7 @@ function renderResults(items = []) {
 
     card.innerHTML = `
       <h3><a href="${link}" target="_blank" rel="noopener noreferrer">${escapeHtml(title)}</a></h3>
-      <div class="meta">${escapeHtml(source)} ${pubDate ? "· " + escapeHtml(pubDate) : ""}</div>
+      <div class="meta">${escapeHtml(source)}${pubDate ? " · " + escapeHtml(pubDate) : ""}</div>
       <div class="summary">${escapeHtml(summary)}</div>
     `;
 
@@ -103,6 +112,7 @@ async function searchNews() {
   const place = gazetteer[key];
   if (!place) {
     setStatus("País no encontrado en esta versión mínima.");
+    renderResults([]);
     return;
   }
 
@@ -119,10 +129,14 @@ async function searchNews() {
   url.searchParams.set("gl", place.gl);
   url.searchParams.set("hl", place.hl);
   url.searchParams.set("ceid", place.ceid);
-  if (query) url.searchParams.set("q", query);
+
+  if (query) {
+    url.searchParams.set("q", query);
+  }
 
   try {
     const res = await fetch(url.toString());
+
     if (!res.ok) {
       throw new Error(`HTTP ${res.status}`);
     }
@@ -139,17 +153,21 @@ async function searchNews() {
 
 function startSpin() {
   if (spinning) return;
+
   spinning = true;
   spinBtn.textContent = "Parar giro";
 
   const step = () => {
     if (!spinning) return;
+
     const center = map.getCenter();
+
     map.easeTo({
       center: [center.lng + 0.08, center.lat],
       duration: 60,
-      easing: n => n
+      easing: (n) => n
     });
+
     spinFrame = requestAnimationFrame(step);
   };
 
@@ -159,22 +177,33 @@ function startSpin() {
 function stopSpin() {
   spinning = false;
   spinBtn.textContent = "Girar globo";
-  if (spinFrame) cancelAnimationFrame(spinFrame);
+
+  if (spinFrame) {
+    cancelAnimationFrame(spinFrame);
+    spinFrame = null;
+  }
 }
 
 searchBtn.addEventListener("click", searchNews);
 
 queryInput.addEventListener("keydown", (e) => {
-  if (e.key === "Enter") searchNews();
+  if (e.key === "Enter") {
+    searchNews();
+  }
 });
 
 countryInput.addEventListener("keydown", (e) => {
-  if (e.key === "Enter") searchNews();
+  if (e.key === "Enter") {
+    searchNews();
+  }
 });
 
 spinBtn.addEventListener("click", () => {
-  if (spinning) stopSpin();
-  else startSpin();
+  if (spinning) {
+    stopSpin();
+  } else {
+    startSpin();
+  }
 });
 
 map.on("click", async (e) => {
@@ -187,6 +216,7 @@ map.on("click", async (e) => {
     const response = await fetch(
       `https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=${lat}&lon=${lng}&zoom=3&accept-language=es`
     );
+
     const data = await response.json();
 
     const country =
@@ -196,7 +226,8 @@ map.on("click", async (e) => {
 
     if (country) {
       countryInput.value = country;
-      setStatus(`Zona detectada: ${country}. Pulsa Buscar.`);
+      setStatus(`Zona detectada: ${country}. Buscando noticias...`);
+      searchNews();
     } else {
       setStatus("No pude identificar ese país.");
     }
