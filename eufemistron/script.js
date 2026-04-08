@@ -1085,87 +1085,18 @@ function loadExample() {
 }
 
 /* =========================
-   RSS MONITOR
+   RSS MONITOR LOCAL
 ========================= */
 
-const RSS_FEEDS = [
-  {
-    source: "RTVE",
-    url: "https://api.allorigins.win/raw?url=" + encodeURIComponent("https://www.rtve.es/rss/television/portada.xml")
-  },
-  {
-    source: "RTVE Noticias",
-    url: "https://api.allorigins.win/raw?url=" + encodeURIComponent("https://www.rtve.es/rss/noticias.xml")
-  },
-  {
-    source: "EL PAÍS",
-    url: "https://api.allorigins.win/raw?url=" + encodeURIComponent("https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada")
-  }
-];
+const LOCAL_FEEDS_PATH = "./data/feeds.json";
 
-function stripHtml(html = "") {
-  const tmp = document.createElement("div");
-  tmp.innerHTML = html;
-  return (tmp.textContent || tmp.innerText || "").replace(/\s+/g, " ").trim();
-}
-
-function truncateText(text = "", max = 240) {
-  const clean = text.replace(/\s+/g, " ").trim();
-  if (clean.length <= max) return clean;
-  return clean.slice(0, max).trim() + "…";
-}
-
-function decodeCData(text = "") {
-  return text
-    .replace(/^<!\[CDATA\[/, "")
-    .replace(/\]\]>$/, "")
-    .trim();
-}
-
-function getNodeText(parent, selectors = []) {
-  for (const selector of selectors) {
-    const node = parent.querySelector(selector);
-    const value = node?.textContent?.trim();
-    if (value) return decodeCData(value);
-  }
-  return "";
-}
-
-function parseRSS(xmlText, sourceName) {
-  const xml = new DOMParser().parseFromString(xmlText, "text/xml");
-
-  const parserError = xml.querySelector("parsererror");
-  if (parserError) {
-    return [];
-  }
-
-  const items = [...xml.querySelectorAll("item, entry")];
-
-  return items.slice(0, 6).map((item) => {
-    const title = getNodeText(item, ["title"]) || "Sin titular";
-    const descriptionRaw =
-      getNodeText(item, ["description", "summary", "content", "content\\:encoded"]) || "";
-    const description = truncateText(stripHtml(descriptionRaw), 260);
-
-    let link = "#";
-
-    const linkNode = item.querySelector("link");
-    if (linkNode) {
-      const href = linkNode.getAttribute("href");
-      if (href) {
-        link = href.trim();
-      } else if (linkNode.textContent?.trim()) {
-        link = linkNode.textContent.trim();
-      }
-    }
-
-    return {
-      source: sourceName,
-      title,
-      description,
-      link
-    };
-  });
+function normalizeFeedItem(item = {}) {
+  return {
+    source: String(item.source || "Fuente desconocida").trim(),
+    title: String(item.title || "Sin titular").trim(),
+    description: String(item.description || "").trim(),
+    link: String(item.link || "#").trim()
+  };
 }
 
 function transformSnippet(text) {
@@ -1192,12 +1123,13 @@ function renderRSSItems(items) {
   if (!rssFeedGrid) return;
 
   if (!items.length) {
-    rssFeedGrid.innerHTML = `<div class="rss-empty">No se pudo cargar ningún feed.</div>`;
+    rssFeedGrid.innerHTML = `<div class="rss-empty">No hay elementos en feeds.json.</div>`;
     return;
   }
 
   rssFeedGrid.innerHTML = items
-    .map((item) => {
+    .map((rawItem) => {
+      const item = normalizeFeedItem(rawItem);
       const translatedTitle = transformSnippet(item.title);
       const translatedDesc = transformSnippet(item.description);
       const combinedCount = translatedTitle.count + translatedDesc.count;
@@ -1230,27 +1162,34 @@ function renderRSSItems(items) {
     .join("");
 }
 
-async function fetchSingleRSS(feed) {
-  try {
-    const response = await fetch(feed.url, { cache: "no-store" });
-    if (!response.ok) throw new Error(`HTTP ${response.status}`);
-    const xmlText = await response.text();
-    return parseRSS(xmlText, feed.source);
-  } catch (error) {
-    console.error(`Error cargando feed ${feed.source}:`, error);
-    return [];
-  }
-}
-
 async function loadRSSFeeds() {
   if (!rssFeedGrid) return;
 
-  rssFeedGrid.innerHTML = `<div class="rss-empty">Cargando feeds…</div>`;
+  rssFeedGrid.innerHTML = `<div class="rss-empty">Cargando feeds locales…</div>`;
 
-  const results = await Promise.all(RSS_FEEDS.map(fetchSingleRSS));
-  const items = results.flat();
+  try {
+    const response = await fetch(LOCAL_FEEDS_PATH, { cache: "no-store" });
 
-  renderRSSItems(items);
+    if (!response.ok) {
+      throw new Error(`HTTP ${response.status}`);
+    }
+
+    const items = await response.json();
+
+    if (!Array.isArray(items)) {
+      throw new Error("feeds.json no contiene un array válido");
+    }
+
+    renderRSSItems(items);
+  } catch (error) {
+    console.error("Error cargando feeds locales:", error);
+    rssFeedGrid.innerHTML = `
+      <div class="rss-empty">
+        No se pudo cargar <strong>./data/feeds.json</strong>.
+        Comprueba que el archivo existe y que contiene un array JSON válido.
+      </div>
+    `;
+  }
 }
 
 function clearRSSFeeds() {
