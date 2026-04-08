@@ -110,6 +110,102 @@
     </aside>
 
     <main class="map-wrap">
+
+      <section class="top-dashboard">
+        <div class="hud-row">
+
+          <div class="hud-card markets-card">
+            <div class="hud-title">MERCADOS</div>
+            <div class="hud-grid" id="marketBoard">
+              <div class="hud-metric">
+                <span class="hud-label">IBEX</span>
+                <span class="hud-value">--</span>
+              </div>
+              <div class="hud-metric">
+                <span class="hud-label">S&amp;P</span>
+                <span class="hud-value">--</span>
+              </div>
+              <div class="hud-metric">
+                <span class="hud-label">NASDAQ</span>
+                <span class="hud-value">--</span>
+              </div>
+              <div class="hud-metric">
+                <span class="hud-label">BRENT</span>
+                <span class="hud-value">--</span>
+              </div>
+              <div class="hud-metric">
+                <span class="hud-label">ORO</span>
+                <span class="hud-value">--</span>
+              </div>
+              <div class="hud-metric">
+                <span class="hud-label">BTC</span>
+                <span class="hud-value">--</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="hud-card clocks-card">
+            <div class="hud-title">HORA MUNDIAL</div>
+            <div class="hud-grid" id="worldClockBoard">
+              <div class="hud-metric">
+                <span class="hud-label">Madrid</span>
+                <span class="hud-value" id="clockMadrid">--:--</span>
+              </div>
+              <div class="hud-metric">
+                <span class="hud-label">Londres</span>
+                <span class="hud-value" id="clockLondon">--:--</span>
+              </div>
+              <div class="hud-metric">
+                <span class="hud-label">Nueva York</span>
+                <span class="hud-value" id="clockNewYork">--:--</span>
+              </div>
+              <div class="hud-metric">
+                <span class="hud-label">Pekín</span>
+                <span class="hud-value" id="clockBeijing">--:--</span>
+              </div>
+              <div class="hud-metric">
+                <span class="hud-label">Tokio</span>
+                <span class="hud-value" id="clockTokyo">--:--</span>
+              </div>
+              <div class="hud-metric">
+                <span class="hud-label">Moscú</span>
+                <span class="hud-value" id="clockMoscow">--:--</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="hud-card status-card">
+            <div class="hud-title">ESTADO GLOBAL</div>
+            <div class="hud-stack">
+              <div class="hud-line">
+                <span class="hud-label">Tema activo</span>
+                <span class="hud-value" id="activeTopic">Sin tema</span>
+              </div>
+              <div class="hud-line">
+                <span class="hud-label">Países briefing</span>
+                <span class="hud-value" id="activeCountries">0</span>
+              </div>
+              <div class="hud-line">
+                <span class="hud-label">Titulares analizados</span>
+                <span class="hud-value" id="headlineCount">0</span>
+              </div>
+              <div class="hud-line">
+                <span class="hud-label">Última actualización</span>
+                <span class="hud-value" id="lastUpdate">--:--</span>
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+        <div class="hud-ticker">
+          <span class="hud-title">FLUJO GEOPOLÍTICO</span>
+          <div class="ticker-track" id="geoTicker">
+            <span class="ticker-item">Cargando titulares globales...</span>
+          </div>
+        </div>
+      </section>
+
       <div id="map"></div>
     </main>
 
