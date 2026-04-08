@@ -8,6 +8,13 @@ const spinBtn = document.getElementById("spinBtn");
 const statusEl = document.getElementById("status");
 const resultsEl = document.getElementById("results");
 
+const briefTopicInput = document.getElementById("briefTopic");
+const briefCountriesInput = document.getElementById("briefCountries");
+const briefBtn = document.getElementById("briefBtn");
+const clearBriefBtn = document.getElementById("clearBriefBtn");
+const briefStatusEl = document.getElementById("briefStatus");
+const briefingResultsEl = document.getElementById("briefingResults");
+
 const gazetteer = {
   espana: { name: "España", center: [-3.7038, 40.4168], gl: "ES", hl: "es-ES", ceid: "ES:es" },
   españa: { name: "España", center: [-3.7038, 40.4168], gl: "ES", hl: "es-ES", ceid: "ES:es" },
@@ -106,12 +113,25 @@ function setStatus(text) {
   statusEl.textContent = text;
 }
 
+function setBriefStatus(text) {
+  briefStatusEl.textContent = text;
+}
+
 function normalizeKey(value = "") {
   return value
     .trim()
     .toLowerCase()
     .normalize("NFD")
     .replace(/[\u0300-\u036f]/g, "");
+}
+
+function escapeHtml(str = "") {
+  return String(str)
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;")
+    .replaceAll("'", "&#039;");
 }
 
 function renderResults(items = []) {
@@ -142,13 +162,150 @@ function renderResults(items = []) {
   }
 }
 
-function escapeHtml(str = "") {
-  return String(str)
-    .replaceAll("&", "&amp;")
-    .replaceAll("<", "&lt;")
-    .replaceAll(">", "&gt;")
-    .replaceAll('"', "&quot;")
-    .replaceAll("'", "&#039;");
+function renderBriefing(groups = [], summaryText = "") {
+  briefingResultsEl.innerHTML = "";
+
+  if (!groups.length) {
+    briefingResultsEl.innerHTML = `<div class="card"><div class="summary">Todavía no se ha generado ningún briefing.</div></div>`;
+    return;
+  }
+
+  if (summaryText) {
+    const summaryCard = document.createElement("article");
+    summaryCard.className = "card";
+    summaryCard.innerHTML = `
+      <h3>🌐 Resumen geopolítico</h3>
+      <div class="summary">${escapeHtml(summaryText)}</div>
+    `;
+    briefingResultsEl.appendChild(summaryCard);
+  }
+
+  groups.forEach((group) => {
+    const card = document.createElement("article");
+    card.className = "card";
+
+    const itemsHtml = group.items
+      .slice(0, 5)
+      .map((item) => {
+        const title = item.title || "Sin título";
+        const link = item.link || "#";
+        const source = item.source || "Google News";
+        return `
+          <div class="brief-item">
+            <a href="${link}" target="_blank" rel="noopener noreferrer">${escapeHtml(title)}</a>
+            <div class="meta">${escapeHtml(source)}</div>
+          </div>
+        `;
+      })
+      .join("");
+
+    card.innerHTML = `
+      <h3>${escapeHtml(group.country)}</h3>
+      <div class="summary">${escapeHtml(group.analysis)}</div>
+      <div class="brief-list">${itemsHtml || '<div class="summary">Sin titulares suficientes.</div>'}</div>
+    `;
+
+    briefingResultsEl.appendChild(card);
+  });
+}
+
+function inferCountryAnalysis(country, items, topic) {
+  if (!items || !items.length) {
+    return `No se han encontrado suficientes noticias sobre ${topic} en ${country}.`;
+  }
+
+  const joined = items
+    .map((item) => `${item.title || ""} ${item.summary || ""}`)
+    .join(" ")
+    .toLowerCase();
+
+  let angle = "cobertura general y diversa";
+  let tone = "enfoque informativo";
+  let emphasis = "impacto político y social";
+
+  if (joined.includes("gobierno") || joined.includes("ministerio") || joined.includes("presidente")) {
+    angle = "cobertura institucional";
+  }
+
+  if (
+    joined.includes("econom") ||
+    joined.includes("mercado") ||
+    joined.includes("empresa") ||
+    joined.includes("banco") ||
+    joined.includes("industr")
+  ) {
+    emphasis = "impacto económico";
+  }
+
+  if (
+    joined.includes("ejército") ||
+    joined.includes("defensa") ||
+    joined.includes("otan") ||
+    joined.includes("misil") ||
+    joined.includes("seguridad")
+  ) {
+    emphasis = "seguridad y estrategia";
+    tone = "marco estratégico";
+  }
+
+  if (
+    joined.includes("ley") ||
+    joined.includes("regul") ||
+    joined.includes("norma") ||
+    joined.includes("ue") ||
+    joined.includes("comisión")
+  ) {
+    angle = "cobertura regulatoria";
+  }
+
+  if (
+    joined.includes("china") ||
+    joined.includes("rusia") ||
+    joined.includes("eeuu") ||
+    joined.includes("estados unidos") ||
+    joined.includes("geopol")
+  ) {
+    tone = "lectura internacional";
+  }
+
+  return `En ${country}, el tema "${topic}" aparece con ${angle}, un ${tone} y énfasis en ${emphasis}.`;
+}
+
+function buildGeoPoliticalSummary(topic, groups) {
+  const withItems = groups.filter((group) => group.items && group.items.length > 0);
+
+  if (!withItems.length) {
+    return `No hay base suficiente para elaborar un resumen geopolítico sobre "${topic}".`;
+  }
+
+  const countryNames = withItems.map((group) => group.country).join(", ");
+  return `El briefing sobre "${topic}" muestra diferencias claras entre ${countryNames}. La cobertura combina ángulos institucionales, económicos y estratégicos según el país. En conjunto, el tema se presenta como un asunto con dimensión internacional, impacto político y efectos sociales que varían según la agenda mediática nacional.`;
+}
+
+async function fetchNewsForPlace(place, query = "") {
+  const url = new URL(WORKER_URL);
+  url.searchParams.set("place", place.name);
+  url.searchParams.set("gl", place.gl);
+  url.searchParams.set("hl", place.hl);
+  url.searchParams.set("ceid", place.ceid);
+
+  if (query) {
+    url.searchParams.set("q", query);
+  }
+
+  const res = await fetch(url.toString(), { cache: "no-store" });
+
+  if (!res.ok) {
+    throw new Error(`HTTP ${res.status}`);
+  }
+
+  const data = await res.json();
+
+  if (!data.ok) {
+    throw new Error("El Worker devolvió error.");
+  }
+
+  return Array.isArray(data.items) ? data.items : [];
 }
 
 async function searchNews() {
@@ -177,45 +334,92 @@ async function searchNews() {
 
   setStatus(`Buscando noticias para ${place.name}...`);
 
-  const url = new URL(WORKER_URL);
-  url.searchParams.set("place", place.name);
-  url.searchParams.set("gl", place.gl);
-  url.searchParams.set("hl", place.hl);
-  url.searchParams.set("ceid", place.ceid);
-
-  if (query) {
-    url.searchParams.set("q", query);
-  }
-
   try {
-    const res = await fetch(url.toString(), { cache: "no-store" });
+    const items = await fetchNewsForPlace(place, query);
+    renderResults(items);
 
-    if (!res.ok) {
-      throw new Error(`HTTP ${res.status}`);
-    }
-
-    const data = await res.json();
-    console.log("Respuesta Worker:", data);
-
-    if (!data.ok) {
-      setStatus("El Worker devolvió error.");
-      renderResults([]);
-      return;
-    }
-
-    renderResults(data.items || []);
-
-    if (!data.items || data.items.length === 0) {
+    if (!items.length) {
       setStatus(`No llegaron noticias para ${place.name}. Prueba otro país o cambia el tema.`);
       return;
     }
 
-    setStatus(`Mostrando ${data.items.length} noticias de ${place.name}.`);
+    setStatus(`Mostrando ${items.length} noticias de ${place.name}.`);
   } catch (err) {
     console.error(err);
     setStatus(`Error cargando noticias: ${err.message}`);
     renderResults([]);
   }
+}
+
+async function generateBriefing() {
+  const topic = briefTopicInput.value.trim();
+  const rawCountries = briefCountriesInput.value
+    .split(",")
+    .map((country) => country.trim())
+    .filter(Boolean);
+
+  if (!topic) {
+    setBriefStatus("Escribe un tema para generar el briefing.");
+    renderBriefing([]);
+    return;
+  }
+
+  if (!rawCountries.length) {
+    setBriefStatus("Escribe al menos un país.");
+    renderBriefing([]);
+    return;
+  }
+
+  setBriefStatus("Generando briefing geopolítico...");
+
+  const groups = [];
+
+  for (const rawCountry of rawCountries) {
+    const key = normalizeKey(rawCountry);
+    const place = gazetteer[key];
+
+    if (!place) {
+      groups.push({
+        country: rawCountry,
+        analysis: "País no reconocido en esta versión.",
+        items: []
+      });
+      continue;
+    }
+
+    try {
+      const items = await fetchNewsForPlace(place, topic);
+
+      groups.push({
+        country: place.name,
+        analysis: inferCountryAnalysis(place.name, items, topic),
+        items
+      });
+    } catch (err) {
+      console.error(err);
+      groups.push({
+        country: place.name,
+        analysis: `Error obteniendo noticias para ${place.name}.`,
+        items: []
+      });
+    }
+  }
+
+  const summaryText = buildGeoPoliticalSummary(topic, groups);
+  renderBriefing(groups, summaryText);
+
+  const countriesOk = groups.filter((group) => group.items && group.items.length > 0).length;
+  setBriefStatus(`Briefing generado para ${countriesOk} país(es) sobre "${topic}".`);
+}
+
+function clearBriefing() {
+  briefTopicInput.value = "";
+  briefingResultsEl.innerHTML = `
+    <div class="card">
+      <div class="summary">Todavía no se ha generado ningún briefing.</div>
+    </div>
+  `;
+  setBriefStatus("Introduce un tema y varios países separados por comas.");
 }
 
 function startSpin() {
@@ -252,6 +456,8 @@ function stopSpin() {
 }
 
 searchBtn.addEventListener("click", searchNews);
+briefBtn.addEventListener("click", generateBriefing);
+clearBriefBtn.addEventListener("click", clearBriefing);
 
 queryInput.addEventListener("keydown", (e) => {
   if (e.key === "Enter") {
@@ -262,6 +468,18 @@ queryInput.addEventListener("keydown", (e) => {
 countryInput.addEventListener("keydown", (e) => {
   if (e.key === "Enter") {
     searchNews();
+  }
+});
+
+briefTopicInput.addEventListener("keydown", (e) => {
+  if (e.key === "Enter") {
+    generateBriefing();
+  }
+});
+
+briefCountriesInput.addEventListener("keydown", (e) => {
+  if (e.key === "Enter") {
+    generateBriefing();
   }
 });
 
