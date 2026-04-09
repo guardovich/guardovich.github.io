@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-04-09T02:13:34.395Z",
+  "generatedAt": "2026-04-09T07:22:17.491Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "The Moon is already on Google Maps—did Artemis II really tell us anything new?",
+          "link": "https://arstechnica.com/space/2026/04/the-moon-is-already-on-google-maps-did-artemis-ii-really-tell-us-anything-new/",
+          "summary": "\"I think the biggest value here is the PR. I mean, it's getting the public excited.\"",
+          "isoDate": "2026-04-09T03:44:24.000Z"
+        },
         {
           "title": "Gemini gets notebooks to help you organize projects",
           "link": "https://www.theverge.com/tech/909031/google-gemini-notebooks-notebooklm",
@@ -58,12 +64,6 @@
           "link": "https://www.theverge.com/tech/908916/ssd-storage-shortages-price-increases",
           "summary": "I thought the WD Black SN850X 2TB SSD in my gaming PC was pricey when I bought it for $173 in 2024, but now that same SSD costs $649, more than what I paid for most of the parts in my PC combined. The price on my WD Black drive nearly quadrupled since November 2025, and consumer SSDs across the board are seeing similar increases, much like with RAM:\nThe 4TB version of the popular Samsung 990 Pro SSD previously cost $320, but will now run you nearly $1,000.\nExternal SanDisk SSDs saw a 200 percent price hike at the Apple Store in March.\nSony has announced that it's suspending orders for its SD and CFexpress cards. \nModular PC brand  …\n\nRead the full story at The Verge.",
           "isoDate": "2026-04-08T19:32:49.000Z"
-        },
-        {
-          "title": "How our digital devices are putting our right to privacy at risk",
-          "link": "https://arstechnica.com/culture/2026/04/how-our-digital-devices-are-putting-our-right-to-privacy-at-risk/",
-          "summary": "Law professor Andrew Guthrie Ferguson chats with Ars about his new book, Your Data Will Be Used Against You.",
-          "isoDate": "2026-04-08T19:17:30.000Z"
         }
       ]
     },
@@ -72,34 +72,16 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "ERROR cargando feed",
+          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
+          "isoDate": "2026-04-09T07:22:11.765Z"
+        },
+        {
           "title": "Liquid or solid? Oobleck droplets are both ",
           "link": "https://www.nature.com/articles/d41586-026-01109-3",
           "summary": "Nature, Published online: 09 April 2026; doi:10.1038/d41586-026-01109-3\nHigh-speed cameras can observe the strange behaviour of a cornstarch–water mixture.",
           "isoDate": "2026-04-09T00:00:00.000Z"
-        },
-        {
-          "title": "Twin NASA Control Rooms Support Artemis Safety, Success",
-          "link": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/twin-nasa-control-rooms-support-artemis-safety-success/",
-          "summary": "Twin control rooms at NASA’s Marshall Space Flight Center in Huntsville, Alabama, are actively supporting real-time mission operations in lunar orbit as part of the agency’s Artemis II mission, helping ensure astronaut safety and mission success as the crew prepares to return to Earth Friday, April 10. The LUCA (Lunar Utilization Control Area) and LESA […]",
-          "isoDate": "2026-04-08T18:13:42.000Z"
-        },
-        {
-          "title": "Solar Eclipse of the Heart",
-          "link": "https://www.nasa.gov/image-article/solar-eclipse-of-the-heart/",
-          "summary": "The Moon, seen here backlit by the Sun during a solar eclipse on April 6, 2026, is photographed by one of the cameras on the Orion spacecraft’s solar array wings. During lunar flyby, the Artemis II astronauts observed a solar eclipse that only they could see due to their unique position. See more photos from […]",
-          "isoDate": "2026-04-08T17:12:50.000Z"
-        },
-        {
-          "title": "A Volcanic Medley Near Mammoth Lakes ",
-          "link": "https://science.nasa.gov/earth/earth-observatory/a-volcanic-medley-near-mammoth-lakes/",
-          "summary": "A massive, old caldera and more recently formed craters shape the landscape in the eastern Sierra Nevada.",
-          "isoDate": "2026-04-08T04:01:00.000Z"
-        },
-        {
-          "title": "Celestial Wonders in Leo",
-          "link": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/celestial-wonders-in-leo/",
-          "summary": "Leo is a prominent sight for stargazers in April. Its famous sickle, punctuated by the bright star Regulus, draws many a beginning stargazer’s eyes, inviting deeper looks into some of Leo’s celestial delights, including a great double star and a famous galactic trio. Leo’s distinctive forward sickle, or “reverse question mark,” is easy to spot […]",
-          "isoDate": "2026-04-08T03:01:24.000Z"
         },
         {
           "title": "Author Correction: Foundation model of neural activity predicts response to new stimulus types",
@@ -130,6 +112,24 @@
           "link": "https://www.nature.com/articles/s41586-026-10346-5",
           "summary": "Nature, Published online: 08 April 2026; doi:10.1038/s41586-026-10346-5\nLesion-targeted immune modulation is a feasible strategy to control cardiac fibrosis, and engineered dendritic cells are a promising therapeutic platform for treating cardiac remodelling and heart failure.",
           "isoDate": "2026-04-08T00:00:00.000Z"
+        },
+        {
+          "title": "Biodiversity resilience in a tropical rainforest",
+          "link": "https://www.nature.com/articles/s41586-026-10365-2",
+          "summary": "Nature, Published online: 08 April 2026; doi:10.1038/s41586-026-10365-2\nAssessment of how 16 taxonomic groups in a lowland tropical forest resist and recover from anthropogenic disturbance shows the potential of protecting naturally regenerating secondary forests to reverse biodiversity losses.",
+          "isoDate": "2026-04-08T00:00:00.000Z"
+        },
+        {
+          "title": "Protected quantum gates using qubit doublons in dynamical optical lattices",
+          "link": "https://www.nature.com/articles/s41586-026-10285-1",
+          "summary": "Nature, Published online: 08 April 2026; doi:10.1038/s41586-026-10285-1\nA purely geometric two-qubit SWAP gate can be realized by transiently populating qubit doublon states of fermionic atoms in a dynamical optical lattice.",
+          "isoDate": "2026-04-08T00:00:00.000Z"
+        },
+        {
+          "title": "Saturation editing of <i>RNU4-2</i> reveals distinct dominant and recessive disorders",
+          "link": "https://www.nature.com/articles/s41586-026-10334-9",
+          "summary": "Nature, Published online: 08 April 2026; doi:10.1038/s41586-026-10334-9\nSaturation genome editing of RNU4-2 identifies the functional and clinical impact of variants across the entire gene and delineates variants that cause a new recessive neurodevelopmental disorder distinct from ReNU syndrome.",
+          "isoDate": "2026-04-08T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-04-09T02:13:29.145Z"
+          "isoDate": "2026-04-09T07:22:13.215Z"
         },
         {
           "title": "Greece to ban social media for under-15s from next year",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-04-09T02:13:33.231Z"
+          "isoDate": "2026-04-09T07:22:15.939Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-04-09T02:13:30.545Z"
+          "isoDate": "2026-04-09T07:22:14.857Z"
         },
         {
           "title": "Temple University Student Highlights IEEE Membership Perks",
