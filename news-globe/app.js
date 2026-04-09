@@ -36,6 +36,11 @@ const defconSignalEl = document.getElementById("defconSignal");
 const narrativeBiasEl = document.getElementById("narrativeBias");
 const hotspotsBoardEl = document.getElementById("hotspotsBoard");
 
+/* 
+  PEGA AQUÍ TU GAZETTEER COMPLETO
+  Puedes ampliar esta lista cuando quieras.
+*/
+
 const gazetteer = {
   espana: { name: "España", center: [-3.7038, 40.4168], gl: "ES", hl: "es-ES", ceid: "ES:es" },
   españa: { name: "España", center: [-3.7038, 40.4168], gl: "ES", hl: "es-ES", ceid: "ES:es" },
@@ -701,7 +706,7 @@ function detectThemesFromItems(items = []) {
 
   for (const [theme, words] of Object.entries(rules)) {
     for (const word of words) {
-      if (text.includes(word)) counters[theme]++;
+      if (text.includes(word)) counters[theme] += 1;
     }
   }
 
@@ -889,8 +894,7 @@ function calculateTensionIndex(items = []) {
     if (text.includes(word)) hits += 1;
   });
 
-  const base = Math.min(100, hits * 8 + Math.min(items.length, 20) * 2);
-  return base;
+  return Math.min(100, hits * 8 + Math.min(items.length, 20) * 2);
 }
 
 function getDefconLikeSignal(tensionIndex) {
@@ -1016,7 +1020,7 @@ async function searchNews() {
 
   const place = gazetteer[key];
   if (!place) {
-    setStatus("País no encontrado todavía. Prueba con España, Francia, Japón, USA, Alemania, Italia, Portugal o México.");
+    setStatus("País no encontrado todavía.");
     renderResults([]);
     clearMapMarkers();
     updateDashboardStatus({ topic: "Sin tema", countries: 0, headlines: 0 });
@@ -1066,7 +1070,7 @@ async function searchNews() {
     });
 
     if (!items.length) {
-      setStatus(`No llegaron noticias para ${place.name}. Prueba otro país o cambia el tema.`);
+      setStatus(`No llegaron noticias para ${place.name}.`);
       return;
     }
 
@@ -1352,17 +1356,20 @@ function initDashboard() {
   renderMarketBoard();
   updateWorldClocks();
   updateDashboardStatus({ topic: "Sin tema", countries: 0, headlines: 0 });
+
   updateGeoTicker([
     "Panel global iniciado.",
     "Esperando tema para briefing.",
     "Mapa operativo.",
     "RSS geopolítico disponible."
   ]);
+
   updateRetroTicker([
     "GEONEWS MONITOR ONLINE",
     "GLOBAL INTELLIGENCE DASHBOARD ACTIVO",
     "ESPERANDO CONSULTAS Y BRIEFINGS"
   ]);
+
   updateRiskSignals({
     tensionIndex: 0,
     mediaMood: "NEUTRAL",
