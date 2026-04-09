@@ -36,6 +36,7 @@ const defconSignalEl = document.getElementById("defconSignal");
 const narrativeBiasEl = document.getElementById("narrativeBias");
 const hotspotsBoardEl = document.getElementById("hotspotsBoard");
 
+
 /* 
   PEGA AQUÍ TU GAZETTEER COMPLETO
   Puedes ampliar esta lista cuando quieras.
@@ -213,10 +214,16 @@ const gazetteer = {
   "mexico city": { name: "México", center: [-99.1332, 19.4326], gl: "MX", hl: "es-419", ceid: "MX:es-419" }
 };
 
+/* =========================
+   ESTADO GLOBAL
+========================= */
 let spinning = false;
 let spinFrame = null;
 let activeMarkers = [];
 
+/* =========================
+   DATOS MOCK DASHBOARD
+========================= */
 const mockMarkets = [
   { label: "IBEX", value: "11,284", change: "+0.42%" },
   { label: "S&P", value: "5,918", change: "-0.18%" },
@@ -228,23 +235,26 @@ const mockMarkets = [
 
 const tensionKeywords = [
   "guerra", "crisis", "ataque", "misil", "amenaza", "escalada",
-  "sanción", "sanciones", "despliegue", "conflicto", "bloqueo",
+  "sancion", "sanción", "sanciones", "despliegue", "conflicto", "bloqueo",
   "frontera", "incidente", "seguridad", "defensa", "otan",
-  "ejército", "bombardeo", "invasión", "riesgo"
+  "ejercito", "ejército", "bombardeo", "invasion", "invasión", "riesgo"
 ];
 
 const negativeKeywords = [
-  "crisis", "ataque", "guerra", "caída", "conflicto", "sanción",
-  "amenaza", "bloqueo", "muere", "herido", "accidente", "colapso",
-  "recesión", "desplome", "tensión", "violencia", "ciberataque"
+  "crisis", "ataque", "guerra", "caida", "caída", "conflicto", "sancion",
+  "sanción", "amenaza", "bloqueo", "muere", "herido", "accidente", "colapso",
+  "recesion", "recesión", "desplome", "tension", "tensión", "violencia", "ciberataque"
 ];
 
 const positiveKeywords = [
-  "acuerdo", "avance", "crece", "mejora", "récord", "éxito",
-  "estabilidad", "alivio", "alto el fuego", "recuperación",
-  "inversión", "cooperación", "reducción"
+  "acuerdo", "avance", "crece", "mejora", "record", "récord", "exito", "éxito",
+  "estabilidad", "alivio", "alto el fuego", "recuperacion", "recuperación",
+  "inversion", "inversión", "cooperacion", "cooperación", "reduccion", "reducción"
 ];
 
+/* =========================
+   MAPA
+========================= */
 const map = new maplibregl.Map({
   container: "map",
   style: "https://demotiles.maplibre.org/style.json",
@@ -266,12 +276,15 @@ map.on("style.load", () => {
   });
 });
 
+/* =========================
+   HELPERS
+========================= */
 function setStatus(text) {
-  statusEl.textContent = text;
+  if (statusEl) statusEl.textContent = text;
 }
 
 function setBriefStatus(text) {
-  briefStatusEl.textContent = text;
+  if (briefStatusEl) briefStatusEl.textContent = text;
 }
 
 function normalizeKey(value = "") {
@@ -291,6 +304,101 @@ function escapeHtml(str = "") {
     .replaceAll("'", "&#039;");
 }
 
+function getLocalTime(timeZone) {
+  return new Intl.DateTimeFormat("es-ES", {
+    hour: "2-digit",
+    minute: "2-digit",
+    hour12: false,
+    timeZone
+  }).format(new Date());
+}
+
+function clampRadarValue(value) {
+  return Math.max(0, Math.min(100, Math.round(value || 0)));
+}
+
+/* =========================
+   DASHBOARD
+========================= */
+function updateDashboardStatus({ topic = "Sin tema", countries = 0, headlines = 0 } = {}) {
+  if (activeTopicEl) activeTopicEl.textContent = topic;
+  if (activeCountriesEl) activeCountriesEl.textContent = String(countries);
+  if (headlineCountEl) headlineCountEl.textContent = String(headlines);
+  if (lastUpdateEl) lastUpdateEl.textContent = getLocalTime("Europe/Madrid");
+}
+
+function updateWorldClocks() {
+  if (clockMadridEl) clockMadridEl.textContent = getLocalTime("Europe/Madrid");
+  if (clockLondonEl) clockLondonEl.textContent = getLocalTime("Europe/London");
+  if (clockNewYorkEl) clockNewYorkEl.textContent = getLocalTime("America/New_York");
+  if (clockBeijingEl) clockBeijingEl.textContent = getLocalTime("Asia/Shanghai");
+  if (clockTokyoEl) clockTokyoEl.textContent = getLocalTime("Asia/Tokyo");
+  if (clockMoscowEl) clockMoscowEl.textContent = getLocalTime("Europe/Moscow");
+}
+
+function renderMarketBoard() {
+  if (!marketBoardEl) return;
+
+  marketBoardEl.innerHTML = mockMarkets
+    .map((item) => {
+      const isNegative = item.change.startsWith("-");
+      const color = isNegative ? "#ff8e8e" : "#86efac";
+
+      return `
+        <div class="hud-metric">
+          <span class="hud-label">${escapeHtml(item.label)}</span>
+          <span class="hud-value">${escapeHtml(item.value)}</span>
+          <span class="hud-change" style="color:${color};font-size:12px;font-weight:700;">
+            ${escapeHtml(item.change)}
+          </span>
+        </div>
+      `;
+    })
+    .join("");
+}
+
+function updateGeoTicker(items = []) {
+  if (!geoTickerEl) return;
+
+  const cleanItems = items.filter(Boolean).slice(0, 8);
+
+  if (!cleanItems.length) {
+    geoTickerEl.innerHTML = `<span class="ticker-item">Sin flujo geopolítico disponible.</span>`;
+    return;
+  }
+
+  geoTickerEl.innerHTML = cleanItems
+    .map((item) => `<span class="ticker-item">${escapeHtml(item)}</span>`)
+    .join("");
+}
+
+function updateRetroTicker(items = []) {
+  if (!retroTickerTrackEl) return;
+
+  const cleanItems = items
+    .filter(Boolean)
+    .map((item) => String(item).trim())
+    .filter(Boolean)
+    .slice(0, 12);
+
+  if (!cleanItems.length) {
+    retroTickerTrackEl.innerHTML = `
+      <span class="retro-ticker-item">SIN NOVEDADES EN FLUJO GLOBAL</span>
+      <span class="retro-ticker-item">GEONEWS MONITOR EN ESPERA</span>
+    `;
+    return;
+  }
+
+  const repeatedItems = [...cleanItems, ...cleanItems];
+
+  retroTickerTrackEl.innerHTML = repeatedItems
+    .map((item) => `<span class="retro-ticker-item">${escapeHtml(item)}</span>`)
+    .join("");
+}
+
+/* =========================
+   MARCADORES MAPA
+========================= */
 function clearMapMarkers() {
   activeMarkers.forEach((marker) => marker.remove());
   activeMarkers = [];
@@ -350,6 +458,9 @@ function fitMapToPlaces(places = []) {
   });
 }
 
+/* =========================
+   RENDER NOTICIAS
+========================= */
 function renderResults(items = []) {
   resultsEl.innerHTML = "";
 
@@ -359,15 +470,14 @@ function renderResults(items = []) {
   }
 
   for (const item of items) {
-    const card = document.createElement("article");
-    card.className = "card";
-
     const title = item.title || "Sin título";
     const link = item.link || "#";
     const source = item.source || "Fuente desconocida";
     const pubDate = item.pubDate || "";
     const summary = item.summary || "";
 
+    const card = document.createElement("article");
+    card.className = "card";
     card.innerHTML = `
       <h3><a href="${link}" target="_blank" rel="noopener noreferrer">${escapeHtml(title)}</a></h3>
       <div class="meta">${escapeHtml(source)}${pubDate ? " · " + escapeHtml(pubDate) : ""}</div>
@@ -378,10 +488,170 @@ function renderResults(items = []) {
   }
 }
 
-function clampRadarValue(value) {
-  return Math.max(0, Math.min(100, Math.round(value || 0)));
+/* =========================
+   ANÁLISIS TEMÁTICO
+========================= */
+function detectThemesFromItems(items = []) {
+  const text = items
+    .map((item) => `${item.title || ""} ${item.summary || ""}`)
+    .join(" ")
+    .toLowerCase();
+
+  const counters = {
+    institucional: 0,
+    economico: 0,
+    seguridad: 0,
+    regulatorio: 0,
+    social: 0,
+    tecnologico: 0
+  };
+
+  const rules = {
+    institucional: ["gobierno", "ministerio", "presidente", "parlamento", "estado", "ejecutivo"],
+    economico: ["econom", "mercado", "banco", "empresa", "industr", "inflacion", "inflación", "bolsa", "finanza"],
+    seguridad: ["ejercito", "ejército", "defensa", "otan", "misil", "seguridad", "guerra", "frontera", "crisis"],
+    regulatorio: ["ley", "regul", "norma", "ue", "comision", "comisión", "tribunal", "decreto"],
+    social: ["migr", "mujer", "educ", "sanidad", "vivienda", "protesta", "empleo"],
+    tecnologico: ["ia", "inteligencia artificial", "chip", "tecnolog", "digital", "datos", "ciber", "software"]
+  };
+
+  for (const [theme, words] of Object.entries(rules)) {
+    for (const word of words) {
+      if (text.includes(word)) counters[theme] += 1;
+    }
+  }
+
+  return counters;
 }
 
+function topThemeFromCounters(counters) {
+  const entries = Object.entries(counters).sort((a, b) => b[1] - a[1]);
+  return entries[0]?.[0] || "general";
+}
+
+function inferCountryAnalysis(country, items, topic) {
+  if (!items || !items.length) {
+    return `No se han encontrado suficientes noticias sobre ${topic} en ${country}.`;
+  }
+
+  const joined = items
+    .map((item) => `${item.title || ""} ${item.summary || ""}`)
+    .join(" ")
+    .toLowerCase();
+
+  let angle = "cobertura general y diversa";
+  let tone = "enfoque informativo";
+  let emphasis = "impacto político y social";
+
+  if (joined.includes("gobierno") || joined.includes("ministerio") || joined.includes("presidente")) {
+    angle = "cobertura institucional";
+  }
+
+  if (
+    joined.includes("econom") ||
+    joined.includes("mercado") ||
+    joined.includes("empresa") ||
+    joined.includes("banco") ||
+    joined.includes("industr")
+  ) {
+    emphasis = "impacto económico";
+  }
+
+  if (
+    joined.includes("ejercito") ||
+    joined.includes("ejército") ||
+    joined.includes("defensa") ||
+    joined.includes("otan") ||
+    joined.includes("misil") ||
+    joined.includes("seguridad")
+  ) {
+    emphasis = "seguridad y estrategia";
+    tone = "marco estratégico";
+  }
+
+  if (
+    joined.includes("ley") ||
+    joined.includes("regul") ||
+    joined.includes("norma") ||
+    joined.includes("ue") ||
+    joined.includes("comision") ||
+    joined.includes("comisión")
+  ) {
+    angle = "cobertura regulatoria";
+  }
+
+  if (
+    joined.includes("china") ||
+    joined.includes("rusia") ||
+    joined.includes("eeuu") ||
+    joined.includes("estados unidos") ||
+    joined.includes("geopol")
+  ) {
+    tone = "lectura internacional";
+  }
+
+  return `En ${country}, el tema "${topic}" aparece con ${angle}, un ${tone} y énfasis en ${emphasis}.`;
+}
+
+function buildStructuredBriefing(topic, groups) {
+  const validGroups = groups.filter((group) => group.items && group.items.length > 0);
+
+  if (!validGroups.length) {
+    return {
+      executiveSummary: `No hay base suficiente para elaborar un briefing sólido sobre "${topic}".`,
+      commonPatterns: "La muestra es insuficiente.",
+      countryDifferences: "No se aprecian diferencias comparables.",
+      geopoliticalReading: "No se puede extraer una lectura geopolítica consistente.",
+      risks: "Sin datos suficientes para estimar escenarios."
+    };
+  }
+
+  const analyses = validGroups.map((group) => {
+    const counters = detectThemesFromItems(group.items);
+    const dominantTheme = topThemeFromCounters(counters);
+
+    return {
+      country: group.country,
+      dominantTheme,
+      counters,
+      itemCount: group.items.length
+    };
+  });
+
+  const dominantThemes = analyses.map((a) => a.dominantTheme);
+  const themeFrequency = {};
+
+  dominantThemes.forEach((theme) => {
+    themeFrequency[theme] = (themeFrequency[theme] || 0) + 1;
+  });
+
+  const mostCommonTheme =
+    Object.entries(themeFrequency).sort((a, b) => b[1] - a[1])[0]?.[0] || "general";
+
+  const executiveSummary = `El briefing sobre "${topic}" indica que la cobertura se concentra principalmente en un marco ${mostCommonTheme}. La muestra combina ${validGroups.length} países con enfoques distintos, aunque aparece una dimensión internacional compartida.`;
+
+  const commonPatterns = `Se observan patrones comunes en la forma de tratar "${topic}": varios países lo conectan con implicaciones políticas, efectos sociales y proyección internacional. El volumen agregado de titulares sugiere que no se trata de una cuestión aislada, sino de un asunto con múltiples capas.`;
+
+  const differencesText = analyses
+    .map((a) => `${a.country}: predominio ${a.dominantTheme}`)
+    .join("; ");
+
+  const geopoliticalReading = `La comparación sugiere que "${topic}" no se interpreta igual en todos los contextos nacionales. Algunos medios lo presentan desde marcos institucionales o regulatorios, mientras otros lo empujan hacia la seguridad, la economía o la tecnología. Esto apunta a agendas nacionales diferentes y a prioridades geopolíticas distintas según el país.`;
+
+  const risks = `Si la cobertura sigue evolucionando en esta línea, los principales escenarios pasan por una mayor politización del tema, más fricción regulatoria entre bloques y una posible intensificación del enfoque estratégico en los países que lo vinculan con seguridad o competencia internacional.`;
+
+  return {
+    executiveSummary,
+    commonPatterns,
+    countryDifferences: differencesText,
+    geopoliticalReading,
+    risks
+  };
+}
+
+/* =========================
+   RADAR
+========================= */
 function getRadarScores(groups = []) {
   const validGroups = groups.filter((group) => group.items && group.items.length > 0);
   const allItems = validGroups.flatMap((group) => group.items || []);
@@ -418,19 +688,14 @@ function getRadarScores(groups = []) {
   );
 
   const totalCoverageBase = validGroups.reduce((acc, group) => acc + (group.items?.length || 0), 0);
+
   const tension = calculateTensionIndex(allItems);
   const economy = clampRadarValue((allThemeCounters.economico * 10) + (allThemeCounters.regulatorio * 4));
   const social = clampRadarValue(allThemeCounters.social * 12);
   const security = clampRadarValue(allThemeCounters.seguridad * 12);
   const coverage = clampRadarValue(totalCoverageBase * 6);
 
-  return {
-    tension,
-    economy,
-    social,
-    security,
-    coverage
-  };
+  return { tension, economy, social, security, coverage };
 }
 
 function polarToCartesian(cx, cy, radius, angleDeg) {
@@ -535,6 +800,9 @@ function buildRadarLegend(scores) {
     .join("");
 }
 
+/* =========================
+   RENDER BRIEFING
+========================= */
 function renderBriefing(groups = [], analysis = null) {
   briefingResultsEl.innerHTML = "";
 
@@ -599,6 +867,7 @@ function renderBriefing(groups = [], analysis = null) {
         const title = item.title || "Sin título";
         const link = item.link || "#";
         const source = item.source || "Google News";
+
         return `
           <div class="brief-item">
             <a href="${link}" target="_blank" rel="noopener noreferrer">${escapeHtml(title)}</a>
@@ -618,243 +887,9 @@ function renderBriefing(groups = [], analysis = null) {
   });
 }
 
-function inferCountryAnalysis(country, items, topic) {
-  if (!items || !items.length) {
-    return `No se han encontrado suficientes noticias sobre ${topic} en ${country}.`;
-  }
-
-  const joined = items
-    .map((item) => `${item.title || ""} ${item.summary || ""}`)
-    .join(" ")
-    .toLowerCase();
-
-  let angle = "cobertura general y diversa";
-  let tone = "enfoque informativo";
-  let emphasis = "impacto político y social";
-
-  if (joined.includes("gobierno") || joined.includes("ministerio") || joined.includes("presidente")) {
-    angle = "cobertura institucional";
-  }
-
-  if (
-    joined.includes("econom") ||
-    joined.includes("mercado") ||
-    joined.includes("empresa") ||
-    joined.includes("banco") ||
-    joined.includes("industr")
-  ) {
-    emphasis = "impacto económico";
-  }
-
-  if (
-    joined.includes("ejército") ||
-    joined.includes("defensa") ||
-    joined.includes("otan") ||
-    joined.includes("misil") ||
-    joined.includes("seguridad")
-  ) {
-    emphasis = "seguridad y estrategia";
-    tone = "marco estratégico";
-  }
-
-  if (
-    joined.includes("ley") ||
-    joined.includes("regul") ||
-    joined.includes("norma") ||
-    joined.includes("ue") ||
-    joined.includes("comisión")
-  ) {
-    angle = "cobertura regulatoria";
-  }
-
-  if (
-    joined.includes("china") ||
-    joined.includes("rusia") ||
-    joined.includes("eeuu") ||
-    joined.includes("estados unidos") ||
-    joined.includes("geopol")
-  ) {
-    tone = "lectura internacional";
-  }
-
-  return `En ${country}, el tema "${topic}" aparece con ${angle}, un ${tone} y énfasis en ${emphasis}.`;
-}
-
-function detectThemesFromItems(items = []) {
-  const text = items
-    .map((item) => `${item.title || ""} ${item.summary || ""}`)
-    .join(" ")
-    .toLowerCase();
-
-  const counters = {
-    institucional: 0,
-    economico: 0,
-    seguridad: 0,
-    regulatorio: 0,
-    social: 0,
-    tecnologico: 0
-  };
-
-  const rules = {
-    institucional: ["gobierno", "ministerio", "presidente", "parlamento", "estado", "ejecutivo"],
-    economico: ["econom", "mercado", "banco", "empresa", "industr", "inflación", "bolsa", "finanza"],
-    seguridad: ["ejército", "defensa", "otan", "misil", "seguridad", "guerra", "frontera", "crisis"],
-    regulatorio: ["ley", "regul", "norma", "ue", "comisión", "tribunal", "decreto"],
-    social: ["migr", "mujer", "educ", "sanidad", "vivienda", "protesta", "empleo"],
-    tecnologico: ["ia", "inteligencia artificial", "chip", "tecnolog", "digital", "datos", "ciber", "software"]
-  };
-
-  for (const [theme, words] of Object.entries(rules)) {
-    for (const word of words) {
-      if (text.includes(word)) counters[theme] += 1;
-    }
-  }
-
-  return counters;
-}
-
-function topThemeFromCounters(counters) {
-  const entries = Object.entries(counters).sort((a, b) => b[1] - a[1]);
-  return entries[0]?.[0] || "general";
-}
-
-function buildStructuredBriefing(topic, groups) {
-  const validGroups = groups.filter((group) => group.items && group.items.length > 0);
-
-  if (!validGroups.length) {
-    return {
-      executiveSummary: `No hay base suficiente para elaborar un briefing sólido sobre "${topic}".`,
-      commonPatterns: "La muestra es insuficiente.",
-      countryDifferences: "No se aprecian diferencias comparables.",
-      geopoliticalReading: "No se puede extraer una lectura geopolítica consistente.",
-      risks: "Sin datos suficientes para estimar escenarios."
-    };
-  }
-
-  const analyses = validGroups.map((group) => {
-    const counters = detectThemesFromItems(group.items);
-    const dominantTheme = topThemeFromCounters(counters);
-    return {
-      country: group.country,
-      dominantTheme,
-      counters,
-      itemCount: group.items.length
-    };
-  });
-
-  const dominantThemes = analyses.map((a) => a.dominantTheme);
-  const themeFrequency = {};
-
-  dominantThemes.forEach((theme) => {
-    themeFrequency[theme] = (themeFrequency[theme] || 0) + 1;
-  });
-
-  const mostCommonTheme =
-    Object.entries(themeFrequency).sort((a, b) => b[1] - a[1])[0]?.[0] || "general";
-
-  const executiveSummary = `El briefing sobre "${topic}" indica que la cobertura se concentra principalmente en un marco ${mostCommonTheme}. La muestra combina ${validGroups.length} países con enfoques distintos, aunque aparece una dimensión internacional compartida.`;
-
-  const commonPatterns = `Se observan patrones comunes en la forma de tratar "${topic}": varios países lo conectan con implicaciones políticas, efectos sociales y proyección internacional. El volumen agregado de titulares sugiere que no se trata de una cuestión aislada, sino de un asunto con múltiples capas.`;
-
-  const differencesText = analyses
-    .map((a) => `${a.country}: predominio ${a.dominantTheme}`)
-    .join("; ");
-
-  const geopoliticalReading = `La comparación sugiere que "${topic}" no se interpreta igual en todos los contextos nacionales. Algunos medios lo presentan desde marcos institucionales o regulatorios, mientras otros lo empujan hacia la seguridad, la economía o la tecnología. Esto apunta a agendas nacionales diferentes y a prioridades geopolíticas distintas según el país.`;
-
-  const risks = `Si la cobertura sigue evolucionando en esta línea, los principales escenarios pasan por una mayor politización del tema, más fricción regulatoria entre bloques y una posible intensificación del enfoque estratégico en los países que lo vinculan con seguridad o competencia internacional.`;
-
-  return {
-    executiveSummary,
-    commonPatterns,
-    countryDifferences: differencesText,
-    geopoliticalReading,
-    risks
-  };
-}
-
-function getLocalTime(timeZone) {
-  return new Intl.DateTimeFormat("es-ES", {
-    hour: "2-digit",
-    minute: "2-digit",
-    hour12: false,
-    timeZone
-  }).format(new Date());
-}
-
-function updateDashboardStatus({ topic = "Sin tema", countries = 0, headlines = 0 } = {}) {
-  if (activeTopicEl) activeTopicEl.textContent = topic;
-  if (activeCountriesEl) activeCountriesEl.textContent = String(countries);
-  if (headlineCountEl) headlineCountEl.textContent = String(headlines);
-  if (lastUpdateEl) lastUpdateEl.textContent = getLocalTime("Europe/Madrid");
-}
-
-function updateWorldClocks() {
-  if (clockMadridEl) clockMadridEl.textContent = getLocalTime("Europe/Madrid");
-  if (clockLondonEl) clockLondonEl.textContent = getLocalTime("Europe/London");
-  if (clockNewYorkEl) clockNewYorkEl.textContent = getLocalTime("America/New_York");
-  if (clockBeijingEl) clockBeijingEl.textContent = getLocalTime("Asia/Shanghai");
-  if (clockTokyoEl) clockTokyoEl.textContent = getLocalTime("Asia/Tokyo");
-  if (clockMoscowEl) clockMoscowEl.textContent = getLocalTime("Europe/Moscow");
-}
-
-function renderMarketBoard() {
-  if (!marketBoardEl) return;
-
-  marketBoardEl.innerHTML = mockMarkets
-    .map((item) => {
-      const isNegative = item.change.startsWith("-");
-      const color = isNegative ? "#ff8e8e" : "#86efac";
-      return `
-        <div class="hud-metric">
-          <span class="hud-label">${escapeHtml(item.label)}</span>
-          <span class="hud-value">${escapeHtml(item.value)}</span>
-          <span class="hud-change" style="color:${color};font-size:12px;font-weight:700;">${escapeHtml(item.change)}</span>
-        </div>
-      `;
-    })
-    .join("");
-}
-
-function updateGeoTicker(items = []) {
-  if (!geoTickerEl) return;
-
-  const cleanItems = items.filter(Boolean).slice(0, 8);
-
-  if (!cleanItems.length) {
-    geoTickerEl.innerHTML = `<span class="ticker-item">Sin flujo geopolítico disponible.</span>`;
-    return;
-  }
-
-  geoTickerEl.innerHTML = cleanItems
-    .map((item) => `<span class="ticker-item">${escapeHtml(item)}</span>`)
-    .join("");
-}
-
-function updateRetroTicker(items = []) {
-  if (!retroTickerTrackEl) return;
-
-  const cleanItems = items
-    .filter(Boolean)
-    .map((item) => String(item).trim())
-    .filter(Boolean)
-    .slice(0, 12);
-
-  if (!cleanItems.length) {
-    retroTickerTrackEl.innerHTML = `
-      <span class="retro-ticker-item">SIN NOVEDADES EN FLUJO GLOBAL</span>
-      <span class="retro-ticker-item">GEONEWS MONITOR EN ESPERA</span>
-    `;
-    return;
-  }
-
-  const repeatedItems = [...cleanItems, ...cleanItems];
-
-  retroTickerTrackEl.innerHTML = repeatedItems
-    .map((item) => `<span class="retro-ticker-item">${escapeHtml(item)}</span>`)
-    .join("");
-}
-
+/* =========================
+   SENTIMIENTO Y RIESGO
+========================= */
 function scoreSentiment(items = []) {
   let positive = 0;
   let negative = 0;
@@ -940,7 +975,12 @@ function renderHotspots(hotspots = []) {
   if (!hotspotsBoardEl) return;
 
   if (!hotspots.length) {
-    hotspotsBoardEl.innerHTML = `<div class="hud-metric"><span class="hud-label">HOTSPOTS</span><span class="hud-value">Sin datos</span></div>`;
+    hotspotsBoardEl.innerHTML = `
+      <div class="hud-metric">
+        <span class="hud-label">HOTSPOTS</span>
+        <span class="hud-value">Sin datos</span>
+      </div>
+    `;
     return;
   }
 
@@ -970,6 +1010,9 @@ function updateRiskSignals({
   renderHotspots(hotspots);
 }
 
+/* =========================
+   FETCH WORKER ROBUSTO
+========================= */
 async function fetchNewsForPlace(place, query = "") {
   const url = new URL(WORKER_URL);
   url.searchParams.set("place", place.name);
@@ -981,21 +1024,47 @@ async function fetchNewsForPlace(place, query = "") {
     url.searchParams.set("q", query);
   }
 
-  const res = await fetch(url.toString(), { cache: "no-store" });
+  console.log("Consultando Worker:", url.toString());
+
+  let res;
+  try {
+    res = await fetch(url.toString(), {
+      method: "GET",
+      cache: "no-store"
+    });
+  } catch (fetchError) {
+    console.error("Fallo de red al llamar al Worker:", fetchError);
+    throw new Error("No se pudo conectar con el Worker");
+  }
+
+  console.log("Status Worker:", res.status);
 
   if (!res.ok) {
+    const text = await res.text().catch(() => "");
+    console.error("Respuesta no OK:", text);
     throw new Error(`HTTP ${res.status}`);
   }
 
-  const data = await res.json();
+  let data;
+  try {
+    data = await res.json();
+  } catch (jsonError) {
+    console.error("JSON inválido del Worker:", jsonError);
+    throw new Error("Respuesta JSON inválida del Worker");
+  }
+
+  console.log("Respuesta Worker:", data);
 
   if (!data.ok) {
-    throw new Error("El Worker devolvió error.");
+    throw new Error(data.error || "El Worker devolvió error");
   }
 
   return Array.isArray(data.items) ? data.items : [];
 }
 
+/* =========================
+   BÚSQUEDA SIMPLE
+========================= */
 async function searchNews() {
   const rawCountry = countryInput.value.trim();
   const query = queryInput.value.trim();
@@ -1070,7 +1139,7 @@ async function searchNews() {
     });
 
     if (!items.length) {
-      setStatus(`No llegaron noticias para ${place.name}.`);
+      setStatus(`No llegaron noticias para ${place.name}. Prueba otro país o cambia el tema.`);
       return;
     }
 
@@ -1093,6 +1162,9 @@ async function searchNews() {
   }
 }
 
+/* =========================
+   BRIEFING
+========================= */
 async function generateBriefing() {
   const topic = briefTopicInput.value.trim();
   const rawCountries = briefCountriesInput.value
@@ -1222,6 +1294,9 @@ function clearBriefing() {
   });
 }
 
+/* =========================
+   GIRO DEL GLOBO
+========================= */
 function startSpin() {
   if (spinning) return;
 
@@ -1255,6 +1330,9 @@ function stopSpin() {
   }
 }
 
+/* =========================
+   EVENTOS
+========================= */
 searchBtn.addEventListener("click", searchNews);
 briefBtn.addEventListener("click", generateBriefing);
 clearBriefBtn.addEventListener("click", clearBriefing);
@@ -1352,6 +1430,9 @@ geoBtn.addEventListener("click", () => {
   );
 });
 
+/* =========================
+   INIT
+========================= */
 function initDashboard() {
   renderMarketBoard();
   updateWorldClocks();
