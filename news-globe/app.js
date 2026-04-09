@@ -30,7 +30,6 @@ const clockBeijingEl = document.getElementById("clockBeijing");
 const clockTokyoEl = document.getElementById("clockTokyo");
 const clockMoscowEl = document.getElementById("clockMoscow");
 
-/* RISK SIGNALS: estos IDs deben existir en el HTML */
 const tensionIndexEl = document.getElementById("tensionIndex");
 const mediaMoodEl = document.getElementById("mediaMood");
 const defconSignalEl = document.getElementById("defconSignal");
@@ -374,6 +373,163 @@ function renderResults(items = []) {
   }
 }
 
+function clampRadarValue(value) {
+  return Math.max(0, Math.min(100, Math.round(value || 0)));
+}
+
+function getRadarScores(groups = []) {
+  const validGroups = groups.filter((group) => group.items && group.items.length > 0);
+  const allItems = validGroups.flatMap((group) => group.items || []);
+
+  if (!allItems.length) {
+    return {
+      tension: 0,
+      economy: 0,
+      social: 0,
+      security: 0,
+      coverage: 0
+    };
+  }
+
+  const allThemeCounters = validGroups.reduce(
+    (acc, group) => {
+      const counters = detectThemesFromItems(group.items || []);
+      acc.institucional += counters.institucional || 0;
+      acc.economico += counters.economico || 0;
+      acc.seguridad += counters.seguridad || 0;
+      acc.regulatorio += counters.regulatorio || 0;
+      acc.social += counters.social || 0;
+      acc.tecnologico += counters.tecnologico || 0;
+      return acc;
+    },
+    {
+      institucional: 0,
+      economico: 0,
+      seguridad: 0,
+      regulatorio: 0,
+      social: 0,
+      tecnologico: 0
+    }
+  );
+
+  const totalCoverageBase = validGroups.reduce((acc, group) => acc + (group.items?.length || 0), 0);
+  const tension = calculateTensionIndex(allItems);
+  const economy = clampRadarValue((allThemeCounters.economico * 10) + (allThemeCounters.regulatorio * 4));
+  const social = clampRadarValue(allThemeCounters.social * 12);
+  const security = clampRadarValue(allThemeCounters.seguridad * 12);
+  const coverage = clampRadarValue(totalCoverageBase * 6);
+
+  return {
+    tension,
+    economy,
+    social,
+    security,
+    coverage
+  };
+}
+
+function polarToCartesian(cx, cy, radius, angleDeg) {
+  const angleRad = ((angleDeg - 90) * Math.PI) / 180;
+  return {
+    x: cx + radius * Math.cos(angleRad),
+    y: cy + radius * Math.sin(angleRad)
+  };
+}
+
+function buildRadarSVG(scores) {
+  const size = 220;
+  const cx = 110;
+  const cy = 110;
+  const maxR = 76;
+
+  const axes = [
+    { key: "tension", label: "Tensión", angle: 0 },
+    { key: "economy", label: "Economía", angle: 72 },
+    { key: "social", label: "Social", angle: 144 },
+    { key: "security", label: "Seguridad", angle: 216 },
+    { key: "coverage", label: "Cobertura", angle: 288 }
+  ];
+
+  const rings = [20, 40, 60, 80, 100];
+
+  const ringPolygons = rings
+    .map((value) => {
+      const radius = (value / 100) * maxR;
+      const points = axes
+        .map((axis) => {
+          const p = polarToCartesian(cx, cy, radius, axis.angle);
+          return `${p.x},${p.y}`;
+        })
+        .join(" ");
+      return `<polygon points="${points}" fill="none" stroke="rgba(143,192,255,0.16)" stroke-width="1" />`;
+    })
+    .join("");
+
+  const axisLines = axes
+    .map((axis) => {
+      const p = polarToCartesian(cx, cy, maxR, axis.angle);
+      return `<line x1="${cx}" y1="${cy}" x2="${p.x}" y2="${p.y}" stroke="rgba(143,192,255,0.20)" stroke-width="1" />`;
+    })
+    .join("");
+
+  const labels = axes
+    .map((axis) => {
+      const p = polarToCartesian(cx, cy, maxR + 22, axis.angle);
+      return `<text x="${p.x}" y="${p.y}" fill="rgba(219,232,255,0.92)" font-size="11" text-anchor="middle" dominant-baseline="middle">${axis.label}</text>`;
+    })
+    .join("");
+
+  const scorePoints = axes
+    .map((axis) => {
+      const value = clampRadarValue(scores[axis.key]);
+      const radius = (value / 100) * maxR;
+      const p = polarToCartesian(cx, cy, radius, axis.angle);
+      return `${p.x},${p.y}`;
+    })
+    .join(" ");
+
+  const scoreDots = axes
+    .map((axis) => {
+      const value = clampRadarValue(scores[axis.key]);
+      const radius = (value / 100) * maxR;
+      const p = polarToCartesian(cx, cy, radius, axis.angle);
+      return `<circle cx="${p.x}" cy="${p.y}" r="3.5" fill="rgba(255,59,59,0.95)" stroke="rgba(255,255,255,0.8)" stroke-width="1" />`;
+    })
+    .join("");
+
+  return `
+    <svg class="radar-svg" viewBox="0 0 ${size} ${size}" xmlns="http://www.w3.org/2000/svg" aria-label="Signal Radar">
+      <circle cx="${cx}" cy="${cy}" r="${maxR + 8}" fill="rgba(255,255,255,0.015)" stroke="rgba(143,192,255,0.08)" stroke-width="1" />
+      ${ringPolygons}
+      ${axisLines}
+      <polygon points="${scorePoints}" fill="rgba(255,59,59,0.18)" stroke="rgba(255,90,90,0.95)" stroke-width="2" />
+      ${scoreDots}
+      ${labels}
+    </svg>
+  `;
+}
+
+function buildRadarLegend(scores) {
+  const items = [
+    ["Tensión", scores.tension],
+    ["Economía", scores.economy],
+    ["Social", scores.social],
+    ["Seguridad", scores.security],
+    ["Cobertura", scores.coverage]
+  ];
+
+  return items
+    .map(
+      ([label, value]) => `
+        <div class="radar-stat">
+          <span class="radar-stat-label">${escapeHtml(label)}</span>
+          <span class="radar-stat-value">${clampRadarValue(value)}/100</span>
+        </div>
+      `
+    )
+    .join("");
+}
+
 function renderBriefing(groups = [], analysis = null) {
   briefingResultsEl.innerHTML = "";
 
@@ -381,6 +537,10 @@ function renderBriefing(groups = [], analysis = null) {
     briefingResultsEl.innerHTML = `<div class="card"><div class="summary">Todavía no se ha generado ningún briefing.</div></div>`;
     return;
   }
+
+  const radarScores = getRadarScores(groups);
+  const radarSvg = buildRadarSVG(radarScores);
+  const radarLegend = buildRadarLegend(radarScores);
 
   if (analysis) {
     const analysisCard = document.createElement("article");
@@ -410,6 +570,16 @@ function renderBriefing(groups = [], analysis = null) {
           <div class="summary">${escapeHtml(analysis.risks || "No se detectan riesgos claros con la muestra actual.")}</div>
         </div>
       </div>
+
+      <div class="radar-wrap">
+        <div class="radar-title">Signal Radar</div>
+        <div class="radar-box">
+          ${radarSvg}
+          <div class="radar-meta">
+            ${radarLegend}
+          </div>
+        </div>
+      </div>
     `;
     briefingResultsEl.appendChild(analysisCard);
   }
@@ -418,7 +588,7 @@ function renderBriefing(groups = [], analysis = null) {
     const card = document.createElement("article");
     card.className = "card";
 
-    const itemsHtml = group.items
+    const itemsHtml = (group.items || [])
       .slice(0, 5)
       .map((item) => {
         const title = item.title || "Sin título";
@@ -782,7 +952,13 @@ function renderHotspots(hotspots = []) {
     .join("");
 }
 
-function updateRiskSignals({ tensionIndex = 0, mediaMood = "NEUTRAL", defcon = "GREEN", narrativeBias = "GENERAL", hotspots = [] } = {}) {
+function updateRiskSignals({
+  tensionIndex = 0,
+  mediaMood = "NEUTRAL",
+  defcon = "GREEN",
+  narrativeBias = "GENERAL",
+  hotspots = []
+} = {}) {
   if (tensionIndexEl) tensionIndexEl.textContent = `${tensionIndex}/100`;
   if (mediaMoodEl) mediaMoodEl.textContent = mediaMood;
   if (defconSignalEl) defconSignalEl.textContent = defcon;
@@ -828,7 +1004,13 @@ async function searchNews() {
     updateDashboardStatus({ topic: "Sin tema", countries: 0, headlines: 0 });
     updateGeoTicker([]);
     updateRetroTicker([]);
-    updateRiskSignals({ tensionIndex: 0, mediaMood: "NEUTRAL", defcon: "GREEN", narrativeBias: "GENERAL", hotspots: [] });
+    updateRiskSignals({
+      tensionIndex: 0,
+      mediaMood: "NEUTRAL",
+      defcon: "GREEN",
+      narrativeBias: "GENERAL",
+      hotspots: []
+    });
     return;
   }
 
@@ -840,7 +1022,13 @@ async function searchNews() {
     updateDashboardStatus({ topic: "Sin tema", countries: 0, headlines: 0 });
     updateGeoTicker([]);
     updateRetroTicker([]);
-    updateRiskSignals({ tensionIndex: 0, mediaMood: "NEUTRAL", defcon: "GREEN", narrativeBias: "GENERAL", hotspots: [] });
+    updateRiskSignals({
+      tensionIndex: 0,
+      mediaMood: "NEUTRAL",
+      defcon: "GREEN",
+      narrativeBias: "GENERAL",
+      hotspots: []
+    });
     return;
   }
 
@@ -891,7 +1079,13 @@ async function searchNews() {
     updateDashboardStatus({ topic: "Error", countries: 0, headlines: 0 });
     updateGeoTicker([]);
     updateRetroTicker([]);
-    updateRiskSignals({ tensionIndex: 0, mediaMood: "ERROR", defcon: "GREEN", narrativeBias: "GENERAL", hotspots: [] });
+    updateRiskSignals({
+      tensionIndex: 0,
+      mediaMood: "ERROR",
+      defcon: "GREEN",
+      narrativeBias: "GENERAL",
+      hotspots: []
+    });
   }
 }
 
@@ -1015,7 +1209,13 @@ function clearBriefing() {
   updateDashboardStatus({ topic: "Sin tema", countries: 0, headlines: 0 });
   updateGeoTicker([]);
   updateRetroTicker([]);
-  updateRiskSignals({ tensionIndex: 0, mediaMood: "NEUTRAL", defcon: "GREEN", narrativeBias: "GENERAL", hotspots: [] });
+  updateRiskSignals({
+    tensionIndex: 0,
+    mediaMood: "NEUTRAL",
+    defcon: "GREEN",
+    narrativeBias: "GENERAL",
+    hotspots: []
+  });
 }
 
 function startSpin() {
