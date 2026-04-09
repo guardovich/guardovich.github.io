@@ -1,3 +1,4 @@
+console.log("APP JS CARGADO OK");
 const geoBtn = document.getElementById("geoBtn");
 const WORKER_URL = "https://news-globe-worker.davidguardopuertas.workers.dev";
 
