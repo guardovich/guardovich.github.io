@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>🌐 GEONEWS MONITOR · Guardovich</title>
+  <title>GEONEWS MONITOR · Guardovich</title>
 
   <link
     href="https://unpkg.com/maplibre-gl@5.3.0/dist/maplibre-gl.css"
@@ -17,9 +17,16 @@
 
     <aside class="sidebar">
 
+      <!-- PANEL PRINCIPAL -->
       <div class="panel">
-        <h1>🌐 GEONEWS MONITOR</h1>
-        <p class="muted">Global intelligence dashboard · noticias, briefing geopolítico y señales globales</p>
+
+        <!-- LOGO -->
+        <img src="https://guardovich.github.io/news-globe/logogeonews.png" 
+             alt="GEONEWS MONITOR" 
+             style="width: 100%; max-width: 220px; margin-bottom: 10px;" />
+
+        <h1>GEONEWS MONITOR</h1>
+        <p class="muted">Global intelligence dashboard</p>
 
         <div class="field">
           <label for="query">Buscar tema</label>
@@ -52,8 +59,9 @@
         </div>
       </div>
 
+      <!-- BRIEFING -->
       <div class="panel">
-        <h2>🧠 Briefing geopolítico</h2>
+        <h2>Crear Briefing Geopolítico</h2>
         <p class="muted">
           Compara cómo se cubre un tema en varios países y genera un análisis por bloques.
         </p>
@@ -80,7 +88,7 @@
         </div>
 
         <div class="buttons">
-          <button id="briefBtn">🧠 Generar briefing</button>
+          <button id="briefBtn">Generar briefing</button>
           <button id="clearBriefBtn" class="secondary">✖ Limpiar</button>
         </div>
 
@@ -89,6 +97,7 @@
         </div>
       </div>
 
+      <!-- NOTICIAS -->
       <div class="panel results-panel">
         <h2>📰 Noticias</h2>
         <div id="results" class="results">
@@ -98,6 +107,7 @@
         </div>
       </div>
 
+      <!-- RESUMEN -->
       <div class="panel results-panel">
         <h2>🌐 Resumen geopolítico</h2>
         <div id="briefingResults" class="results">
@@ -109,115 +119,61 @@
 
     </aside>
 
+    <!-- MAPA -->
     <main class="map-wrap">
 
       <section class="top-dashboard">
         <div class="hud-row">
 
+          <!-- MERCADOS -->
           <div class="hud-card markets-card">
             <div class="hud-title">MERCADOS</div>
             <div class="hud-grid" id="marketBoard">
-              <div class="hud-metric">
-                <span class="hud-label">IBEX</span>
-                <span class="hud-value">--</span>
-              </div>
-              <div class="hud-metric">
-                <span class="hud-label">S&amp;P</span>
-                <span class="hud-value">--</span>
-              </div>
-              <div class="hud-metric">
-                <span class="hud-label">NASDAQ</span>
-                <span class="hud-value">--</span>
-              </div>
-              <div class="hud-metric">
-                <span class="hud-label">BRENT</span>
-                <span class="hud-value">--</span>
-              </div>
-              <div class="hud-metric">
-                <span class="hud-label">ORO</span>
-                <span class="hud-value">--</span>
-              </div>
-              <div class="hud-metric">
-                <span class="hud-label">BTC</span>
-                <span class="hud-value">--</span>
-              </div>
+              <div class="hud-metric"><span class="hud-label">IBEX</span><span class="hud-value">--</span></div>
+              <div class="hud-metric"><span class="hud-label">S&amp;P</span><span class="hud-value">--</span></div>
+              <div class="hud-metric"><span class="hud-label">NASDAQ</span><span class="hud-value">--</span></div>
+              <div class="hud-metric"><span class="hud-label">BRENT</span><span class="hud-value">--</span></div>
+              <div class="hud-metric"><span class="hud-label">ORO</span><span class="hud-value">--</span></div>
+              <div class="hud-metric"><span class="hud-label">BTC</span><span class="hud-value">--</span></div>
             </div>
           </div>
 
+          <!-- RELOJES -->
           <div class="hud-card clocks-card">
             <div class="hud-title">HORA MUNDIAL</div>
             <div class="hud-grid" id="worldClockBoard">
-              <div class="hud-metric">
-                <span class="hud-label">Madrid</span>
-                <span class="hud-value" id="clockMadrid">--:--</span>
-              </div>
-              <div class="hud-metric">
-                <span class="hud-label">Londres</span>
-                <span class="hud-value" id="clockLondon">--:--</span>
-              </div>
-              <div class="hud-metric">
-                <span class="hud-label">Nueva York</span>
-                <span class="hud-value" id="clockNewYork">--:--</span>
-              </div>
-              <div class="hud-metric">
-                <span class="hud-label">Pekín</span>
-                <span class="hud-value" id="clockBeijing">--:--</span>
-              </div>
-              <div class="hud-metric">
-                <span class="hud-label">Tokio</span>
-                <span class="hud-value" id="clockTokyo">--:--</span>
-              </div>
-              <div class="hud-metric">
-                <span class="hud-label">Moscú</span>
-                <span class="hud-value" id="clockMoscow">--:--</span>
-              </div>
+              <div class="hud-metric"><span class="hud-label">Madrid</span><span class="hud-value" id="clockMadrid">--:--</span></div>
+              <div class="hud-metric"><span class="hud-label">Londres</span><span class="hud-value" id="clockLondon">--:--</span></div>
+              <div class="hud-metric"><span class="hud-label">Nueva York</span><span class="hud-value" id="clockNewYork">--:--</span></div>
+              <div class="hud-metric"><span class="hud-label">Pekín</span><span class="hud-value" id="clockBeijing">--:--</span></div>
+              <div class="hud-metric"><span class="hud-label">Tokio</span><span class="hud-value" id="clockTokyo">--:--</span></div>
+              <div class="hud-metric"><span class="hud-label">Moscú</span><span class="hud-value" id="clockMoscow">--:--</span></div>
             </div>
           </div>
 
+          <!-- ESTADO -->
           <div class="hud-card status-card">
             <div class="hud-title">ESTADO GLOBAL</div>
             <div class="hud-stack">
-              <div class="hud-line">
-                <span class="hud-label">Tema activo</span>
-                <span class="hud-value" id="activeTopic">Sin tema</span>
-              </div>
-              <div class="hud-line">
-                <span class="hud-label">Países briefing</span>
-                <span class="hud-value" id="activeCountries">0</span>
-              </div>
-              <div class="hud-line">
-                <span class="hud-label">Titulares analizados</span>
-                <span class="hud-value" id="headlineCount">0</span>
-              </div>
-              <div class="hud-line">
-                <span class="hud-label">Última actualización</span>
-                <span class="hud-value" id="lastUpdate">--:--</span>
-              </div>
+              <div class="hud-line"><span class="hud-label">Tema activo</span><span class="hud-value" id="activeTopic">Sin tema</span></div>
+              <div class="hud-line"><span class="hud-label">Países briefing</span><span class="hud-value" id="activeCountries">0</span></div>
+              <div class="hud-line"><span class="hud-label">Titulares analizados</span><span class="hud-value" id="headlineCount">0</span></div>
+              <div class="hud-line"><span class="hud-label">Última actualización</span><span class="hud-value" id="lastUpdate">--:--</span></div>
             </div>
           </div>
 
+          <!-- RIESGO -->
           <div class="hud-card risk-card">
             <div class="hud-title">RISK SIGNALS</div>
             <div class="hud-grid">
-              <div class="hud-metric">
-                <span class="hud-label">TENSION INDEX</span>
-                <span class="hud-value" id="tensionIndex">0/100</span>
-              </div>
-              <div class="hud-metric">
-                <span class="hud-label">MEDIA MOOD</span>
-                <span class="hud-value" id="mediaMood">NEUTRAL</span>
-              </div>
-              <div class="hud-metric">
-                <span class="hud-label">DEFCON-LIKE</span>
-                <span class="hud-value" id="defconSignal">GREEN</span>
-              </div>
-              <div class="hud-metric">
-                <span class="hud-label">NARRATIVE BIAS</span>
-                <span class="hud-value" id="narrativeBias">GENERAL</span>
-              </div>
+              <div class="hud-metric"><span class="hud-label">TENSION INDEX</span><span class="hud-value" id="tensionIndex">0/100</span></div>
+              <div class="hud-metric"><span class="hud-label">MEDIA MOOD</span><span class="hud-value" id="mediaMood">NEUTRAL</span></div>
+              <div class="hud-metric"><span class="hud-label">DEFCON-LIKE</span><span class="hud-value" id="defconSignal">GREEN</span></div>
+              <div class="hud-metric"><span class="hud-label">NARRATIVE BIAS</span><span class="hud-value" id="narrativeBias">GENERAL</span></div>
             </div>
           </div>
 
+          <!-- HOTSPOTS -->
           <div class="hud-card hotspots-card">
             <div class="hud-title">REGIONAL HOTSPOTS</div>
             <div class="hud-grid" id="hotspotsBoard">
@@ -230,6 +186,7 @@
 
         </div>
 
+        <!-- TICKER SUPERIOR -->
         <div class="hud-ticker">
           <span class="hud-title">FLUJO GEOPOLÍTICO</span>
           <div class="ticker-track" id="geoTicker">
@@ -238,6 +195,7 @@
         </div>
       </section>
 
+      <!-- TICKER ROJO -->
       <div class="retro-ticker-wrap">
         <div class="retro-ticker-label">LIVE FEED</div>
         <div class="retro-ticker-window">
