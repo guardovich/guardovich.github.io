@@ -1,4 +1,5 @@
 console.log("APP JS CARGADO OK");
+
 const geoBtn = document.getElementById("geoBtn");
 const WORKER_URL = "https://news-globe-worker.davidguardopuertas.workers.dev";
 
@@ -36,7 +37,6 @@ const mediaMoodEl = document.getElementById("mediaMood");
 const defconSignalEl = document.getElementById("defconSignal");
 const narrativeBiasEl = document.getElementById("narrativeBias");
 const hotspotsBoardEl = document.getElementById("hotspotsBoard");
-
 
 /* 
   PEGA AQUÍ TU GAZETTEER COMPLETO
@@ -218,13 +218,11 @@ const gazetteer = {
 /* =========================
    ESTADO GLOBAL
 ========================= */
+
 let spinning = false;
 let spinFrame = null;
 let activeMarkers = [];
 
-/* =========================
-   DATOS MOCK DASHBOARD
-========================= */
 const mockMarkets = [
   { label: "IBEX", value: "11,284", change: "+0.42%" },
   { label: "S&P", value: "5,918", change: "-0.18%" },
@@ -267,14 +265,47 @@ const map = new maplibregl.Map({
 map.addControl(new maplibregl.NavigationControl(), "top-right");
 
 map.on("style.load", () => {
-  map.setProjection({ type: "globe" });
-  map.setFog({
-    range: [0.5, 10],
-    color: "rgba(20, 35, 70, 0.95)",
-    "high-color": "rgba(5, 10, 20, 0.9)",
-    "space-color": "rgba(2, 4, 10, 1)",
-    "horizon-blend": 0.08
-  });
+  if (typeof map.setProjection === "function") {
+    map.setProjection({ type: "globe" });
+  }
+
+  if (typeof map.setFog === "function") {
+    map.setFog({
+      range: [0.5, 10],
+      color: "rgba(20, 35, 70, 0.95)",
+      "high-color": "rgba(5, 10, 20, 0.9)",
+      "space-color": "rgba(2, 4, 10, 1)",
+      "horizon-blend": 0.08
+    });
+  } else {
+    console.warn("map.setFog no está disponible en esta versión de MapLibre");
+  }
+
+  setTimeout(() => {
+    try {
+      map.resize();
+    } catch (e) {
+      console.warn("No se pudo redimensionar el mapa tras style.load", e);
+    }
+  }, 80);
+});
+
+window.addEventListener("resize", () => {
+  try {
+    map.resize();
+  } catch (e) {
+    console.warn("No se pudo redimensionar el mapa", e);
+  }
+});
+
+window.addEventListener("orientationchange", () => {
+  setTimeout(() => {
+    try {
+      map.resize();
+    } catch (e) {
+      console.warn("No se pudo redimensionar tras orientación", e);
+    }
+  }, 250);
 });
 
 /* =========================
@@ -405,7 +436,60 @@ function clearMapMarkers() {
   activeMarkers = [];
 }
 
-function addCountryMarker(place, itemCount = 0, topic = "") {
+function buildCountryPopup(place, itemCount = 0, topic = "", items = []) {
+  const tensionIndex = calculateTensionIndex(items);
+  const mediaMood = detectMediaMood(items);
+  const defcon = getDefconLikeSignal(tensionIndex);
+  const themeCounters = detectThemesFromItems(items);
+  const narrativeBias = topThemeFromCounters(themeCounters).toUpperCase();
+
+  return `
+    <div class="country-popup">
+      <div class="country-popup-head">
+        <div class="country-popup-title">${escapeHtml(place.name)}</div>
+        <div class="country-popup-badge">${escapeHtml(place.gl || "GLOBAL")}</div>
+      </div>
+
+      <div class="country-popup-grid">
+        <div class="country-popup-metric">
+          <span class="country-popup-label">Titulares</span>
+          <span class="country-popup-value">${escapeHtml(String(itemCount))}</span>
+        </div>
+
+        <div class="country-popup-metric">
+          <span class="country-popup-label">Tensión</span>
+          <span class="country-popup-value">${escapeHtml(String(tensionIndex))}/100</span>
+        </div>
+
+        <div class="country-popup-metric">
+          <span class="country-popup-label">Mood</span>
+          <span class="country-popup-value">${escapeHtml(mediaMood)}</span>
+        </div>
+
+        <div class="country-popup-metric">
+          <span class="country-popup-label">Bias</span>
+          <span class="country-popup-value">${escapeHtml(narrativeBias)}</span>
+        </div>
+
+        <div class="country-popup-metric">
+          <span class="country-popup-label">Defcon-like</span>
+          <span class="country-popup-value">${escapeHtml(defcon)}</span>
+        </div>
+
+        <div class="country-popup-metric">
+          <span class="country-popup-label">Idioma feed</span>
+          <span class="country-popup-value">${escapeHtml(place.hl || "--")}</span>
+        </div>
+      </div>
+
+      <div class="country-popup-topic">
+        <strong>Tema activo:</strong> ${escapeHtml(topic || place.name)}
+      </div>
+    </div>
+  `;
+}
+
+function addCountryMarker(place, itemCount = 0, topic = "", items = []) {
   if (!place || !place.center) return;
 
   const el = document.createElement("div");
@@ -420,13 +504,7 @@ function addCountryMarker(place, itemCount = 0, topic = "") {
   el.style.boxShadow = "0 0 0 6px rgba(59,130,246,0.18), 0 0 18px rgba(59,130,246,0.65)";
   el.style.cursor = "pointer";
 
-  const popupHtml = `
-    <div style="min-width:180px;">
-      <strong>${escapeHtml(place.name)}</strong><br>
-      ${topic ? `<span style="color:#444;">Tema: ${escapeHtml(topic)}</span><br>` : ""}
-      <span style="color:#444;">Titulares: ${itemCount}</span>
-    </div>
-  `;
+  const popupHtml = buildCountryPopup(place, itemCount, topic, items);
 
   const marker = new maplibregl.Marker({ element: el })
     .setLngLat(place.center)
@@ -699,6 +777,28 @@ function getRadarScores(groups = []) {
   return { tension, economy, social, security, coverage };
 }
 
+function getSingleCountryRadarScores(items = []) {
+  if (!items.length) {
+    return {
+      tension: 0,
+      economy: 0,
+      social: 0,
+      security: 0,
+      coverage: 0
+    };
+  }
+
+  const counters = detectThemesFromItems(items);
+
+  return {
+    tension: calculateTensionIndex(items),
+    economy: clampRadarValue((counters.economico * 14) + (counters.regulatorio * 6)),
+    social: clampRadarValue(counters.social * 18),
+    security: clampRadarValue(counters.seguridad * 18),
+    coverage: clampRadarValue(items.length * 10)
+  };
+}
+
 function polarToCartesian(cx, cy, radius, angleDeg) {
   const angleRad = ((angleDeg - 90) * Math.PI) / 180;
   return {
@@ -707,11 +807,14 @@ function polarToCartesian(cx, cy, radius, angleDeg) {
   };
 }
 
-function buildRadarSVG(scores) {
-  const size = 220;
-  const cx = 110;
-  const cy = 110;
-  const maxR = 76;
+function buildRadarSVG(scores, options = {}) {
+  const size = options.size || 220;
+  const cx = size / 2;
+  const cy = size / 2;
+  const maxR = options.maxR || Math.round(size * 0.345);
+  const labelOffset = options.labelOffset || 22;
+  const labelSize = options.labelSize || 11;
+  const dotRadius = options.dotRadius || 3.5;
 
   const axes = [
     { key: "tension", label: "Tensión", angle: 0 },
@@ -745,8 +848,8 @@ function buildRadarSVG(scores) {
 
   const labels = axes
     .map((axis) => {
-      const p = polarToCartesian(cx, cy, maxR + 22, axis.angle);
-      return `<text x="${p.x}" y="${p.y}" fill="rgba(219,232,255,0.92)" font-size="11" text-anchor="middle" dominant-baseline="middle">${axis.label}</text>`;
+      const p = polarToCartesian(cx, cy, maxR + labelOffset, axis.angle);
+      return `<text x="${p.x}" y="${p.y}" fill="rgba(219,232,255,0.92)" font-size="${labelSize}" text-anchor="middle" dominant-baseline="middle">${axis.label}</text>`;
     })
     .join("");
 
@@ -764,7 +867,7 @@ function buildRadarSVG(scores) {
       const value = clampRadarValue(scores[axis.key]);
       const radius = (value / 100) * maxR;
       const p = polarToCartesian(cx, cy, radius, axis.angle);
-      return `<circle cx="${p.x}" cy="${p.y}" r="3.5" fill="rgba(255,59,59,0.95)" stroke="rgba(255,255,255,0.8)" stroke-width="1" />`;
+      return `<circle cx="${p.x}" cy="${p.y}" r="${dotRadius}" fill="rgba(255,59,59,0.95)" stroke="rgba(255,255,255,0.8)" stroke-width="1" />`;
     })
     .join("");
 
@@ -799,6 +902,58 @@ function buildRadarLegend(scores) {
       `
     )
     .join("");
+}
+
+function renderCountryRadarCard(group) {
+  const items = group.items || [];
+  const scores = getSingleCountryRadarScores(items);
+  const svg = buildRadarSVG(scores, {
+    size: 170,
+    maxR: 55,
+    labelOffset: 17,
+    labelSize: 9,
+    dotRadius: 2.8
+  });
+
+  const tension = calculateTensionIndex(items);
+  const mood = detectMediaMood(items);
+  const bias = topThemeFromCounters(detectThemesFromItems(items)).toUpperCase();
+
+  return `
+    <article class="country-radar-card">
+      <div class="country-radar-head">
+        <h4 class="country-radar-title">${escapeHtml(group.country)}</h4>
+        <div class="country-radar-meta">
+          ${escapeHtml(String(items.length))} titulares
+        </div>
+      </div>
+
+      <div class="country-radar-layout">
+        <div class="country-radar-visual">
+          ${svg}
+        </div>
+
+        <div class="country-radar-stats">
+          <div class="radar-stat">
+            <span class="radar-stat-label">Tensión</span>
+            <span class="radar-stat-value">${clampRadarValue(tension)}/100</span>
+          </div>
+          <div class="radar-stat">
+            <span class="radar-stat-label">Mood</span>
+            <span class="radar-stat-value">${escapeHtml(mood)}</span>
+          </div>
+          <div class="radar-stat">
+            <span class="radar-stat-label">Bias</span>
+            <span class="radar-stat-value">${escapeHtml(bias)}</span>
+          </div>
+          <div class="radar-stat">
+            <span class="radar-stat-label">Cobertura</span>
+            <span class="radar-stat-value">${clampRadarValue(scores.coverage)}/100</span>
+          </div>
+        </div>
+      </div>
+    </article>
+  `;
 }
 
 /* =========================
@@ -856,6 +1011,20 @@ function renderBriefing(groups = [], analysis = null) {
       </div>
     `;
     briefingResultsEl.appendChild(analysisCard);
+  }
+
+  const validCountryGroups = groups.filter((group) => (group.items || []).length > 0);
+  if (validCountryGroups.length) {
+    const comparisonCard = document.createElement("article");
+    comparisonCard.className = "card";
+    comparisonCard.innerHTML = `
+      <h3>📡 Radar comparado por país</h3>
+      <div class="summary">Perfil de cobertura por país en cinco ejes: tensión, economía, social, seguridad y cobertura.</div>
+      <div class="brief-list">
+        ${validCountryGroups.map((group) => renderCountryRadarCard(group)).join("")}
+      </div>
+    `;
+    briefingResultsEl.appendChild(comparisonCard);
   }
 
   groups.forEach((group) => {
@@ -1113,7 +1282,7 @@ async function searchNews() {
     renderResults(items);
 
     clearMapMarkers();
-    addCountryMarker(place, items.length, query || place.name);
+    addCountryMarker(place, items.length, query || place.name, items);
     fitMapToPlaces([place]);
 
     updateDashboardStatus({
@@ -1215,7 +1384,7 @@ async function generateBriefing() {
       });
 
       if (items.length) {
-        placesToMap.push({ place, count: items.length });
+        placesToMap.push({ place, count: items.length, items });
       }
     } catch (err) {
       console.error(err);
@@ -1232,7 +1401,7 @@ async function generateBriefing() {
   renderBriefing(groups, structuredAnalysis);
 
   clearMapMarkers();
-  placesToMap.forEach(({ place, count }) => addCountryMarker(place, count, topic));
+  placesToMap.forEach(({ place, count, items }) => addCountryMarker(place, count, topic, items));
   fitMapToPlaces(placesToMap.map((item) => item.place));
 
   const countriesOk = groups.filter((group) => group.items && group.items.length > 0).length;
@@ -1274,6 +1443,9 @@ async function generateBriefing() {
   setBriefStatus(`Briefing generado para ${countriesOk} país(es) sobre "${topic}".`);
 }
 
+/* =========================
+   LIMPIAR BRIEFING
+========================= */
 function clearBriefing() {
   briefTopicInput.value = "";
   briefingResultsEl.innerHTML = `
@@ -1459,6 +1631,14 @@ function initDashboard() {
     narrativeBias: "GENERAL",
     hotspots: []
   });
+
+  setTimeout(() => {
+    try {
+      map.resize();
+    } catch (e) {
+      console.warn("No se pudo redimensionar el mapa en init", e);
+    }
+  }, 120);
 }
 
 initDashboard();
