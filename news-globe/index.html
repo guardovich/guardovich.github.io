@@ -115,194 +115,200 @@
 
     </aside>
 
-    <main class="map-wrap">
+    <main class="main-panel">
 
-      <!-- LIVE FEED permanente arriba -->
-      <div class="retro-ticker-wrap retro-ticker-top">
-        <div class="retro-ticker-label">LIVE FEED</div>
-        <div class="retro-ticker-window">
-          <div class="retro-ticker-track" id="retroTickerTrack">
-            <span class="retro-ticker-item">INICIALIZANDO GEONEWS MONITOR...</span>
-          </div>
-        </div>
-      </div>
-
-      <section class="top-dashboard">
-        <div class="hud-row">
-
-          <div class="hud-card markets-card">
-            <div class="hud-title">MERCADOS</div>
-            <div class="hud-grid hud-grid-compact" id="marketBoard">
-              <div class="hud-metric">
-                <span class="hud-label">IBEX</span>
-                <span class="hud-value">--</span>
-              </div>
-              <div class="hud-metric">
-                <span class="hud-label">S&amp;P</span>
-                <span class="hud-value">--</span>
-              </div>
-              <div class="hud-metric">
-                <span class="hud-label">NASDAQ</span>
-                <span class="hud-value">--</span>
-              </div>
-              <div class="hud-metric">
-                <span class="hud-label">BRENT</span>
-                <span class="hud-value">--</span>
-              </div>
-              <div class="hud-metric">
-                <span class="hud-label">ORO</span>
-                <span class="hud-value">--</span>
-              </div>
-              <div class="hud-metric">
-                <span class="hud-label">BTC</span>
-                <span class="hud-value">--</span>
-              </div>
+      <section class="live-feed-section">
+        <div class="retro-ticker-wrap retro-ticker-top">
+          <div class="retro-ticker-label">LIVE FEED</div>
+          <div class="retro-ticker-window">
+            <div class="retro-ticker-track" id="retroTickerTrack">
+              <span class="retro-ticker-item">INICIALIZANDO GEONEWS MONITOR...</span>
             </div>
-          </div>
-
-          <div class="hud-card clocks-card">
-            <div class="hud-title">HORA MUNDIAL</div>
-            <div class="hud-grid hud-grid-compact" id="worldClockBoard">
-              <div class="hud-metric">
-                <span class="hud-label">Madrid</span>
-                <span class="hud-value" id="clockMadrid">--:--</span>
-              </div>
-              <div class="hud-metric">
-                <span class="hud-label">Londres</span>
-                <span class="hud-value" id="clockLondon">--:--</span>
-              </div>
-              <div class="hud-metric">
-                <span class="hud-label">Nueva York</span>
-                <span class="hud-value" id="clockNewYork">--:--</span>
-              </div>
-              <div class="hud-metric">
-                <span class="hud-label">Pekín</span>
-                <span class="hud-value" id="clockBeijing">--:--</span>
-              </div>
-              <div class="hud-metric">
-                <span class="hud-label">Tokio</span>
-                <span class="hud-value" id="clockTokyo">--:--</span>
-              </div>
-              <div class="hud-metric">
-                <span class="hud-label">Moscú</span>
-                <span class="hud-value" id="clockMoscow">--:--</span>
-              </div>
-            </div>
-          </div>
-
-          <div class="hud-card status-card">
-            <div class="hud-title">ESTADO GLOBAL</div>
-            <div class="hud-stack">
-              <div class="hud-line">
-                <span class="hud-label">Tema activo</span>
-                <span class="hud-value" id="activeTopic">Sin tema</span>
-              </div>
-              <div class="hud-line">
-                <span class="hud-label">Países briefing</span>
-                <span class="hud-value" id="activeCountries">0</span>
-              </div>
-              <div class="hud-line">
-                <span class="hud-label">Titulares analizados</span>
-                <span class="hud-value" id="headlineCount">0</span>
-              </div>
-              <div class="hud-line">
-                <span class="hud-label">Última actualización</span>
-                <span class="hud-value" id="lastUpdate">--:--</span>
-              </div>
-            </div>
-          </div>
-
-          <div class="hud-card risk-card">
-            <div class="hud-title">RISK SIGNALS</div>
-            <div class="hud-grid hud-grid-2">
-              <div class="hud-metric">
-                <span class="hud-label">TENSION INDEX</span>
-                <span class="hud-value" id="tensionIndex">0/100</span>
-              </div>
-              <div class="hud-metric">
-                <span class="hud-label">MEDIA MOOD</span>
-                <span class="hud-value" id="mediaMood">NEUTRAL</span>
-              </div>
-              <div class="hud-metric">
-                <span class="hud-label">DEFCON-LIKE</span>
-                <span class="hud-value" id="defconSignal">GREEN</span>
-              </div>
-              <div class="hud-metric">
-                <span class="hud-label">NARRATIVE BIAS</span>
-                <span class="hud-value" id="narrativeBias">GENERAL</span>
-              </div>
-            </div>
-          </div>
-
-          <div class="hud-card hotspots-card">
-            <div class="hud-title">REGIONAL HOTSPOTS</div>
-            <div class="hud-grid hud-grid-1" id="hotspotsBoard">
-              <div class="hud-metric">
-                <span class="hud-label">HOTSPOTS</span>
-                <span class="hud-value">Sin datos</span>
-              </div>
-            </div>
-          </div>
-
-        </div>
-
-        <div class="hud-ticker">
-          <span class="hud-title">FLUJO GEOPOLÍTICO</span>
-          <div class="ticker-track" id="geoTicker">
-            <span class="ticker-item">Cargando titulares globales...</span>
           </div>
         </div>
       </section>
 
-      <!-- plantilla para popup enriquecido -->
-      <template id="countryPopupTemplate">
-        <div class="country-popup">
-          <div class="country-popup-head">
-            <div class="country-popup-title">País</div>
-            <div class="country-popup-badge">LIVE</div>
-          </div>
+      <section class="map-section">
+        <div class="map-wrap">
+          <div id="map"></div>
 
-          <div class="country-popup-grid">
-            <div class="country-popup-metric">
-              <span class="country-popup-label">Titulares</span>
-              <span class="country-popup-value" data-popup-headlines>0</span>
-            </div>
-            <div class="country-popup-metric">
-              <span class="country-popup-label">Tensión</span>
-              <span class="country-popup-value" data-popup-tension>0/100</span>
-            </div>
-            <div class="country-popup-metric">
-              <span class="country-popup-label">Mood</span>
-              <span class="country-popup-value" data-popup-mood>Neutral</span>
-            </div>
-            <div class="country-popup-metric">
-              <span class="country-popup-label">Narrativa</span>
-              <span class="country-popup-value" data-popup-bias>General</span>
-            </div>
-          </div>
+          <template id="countryPopupTemplate">
+            <div class="country-popup">
+              <div class="country-popup-head">
+                <div class="country-popup-title">País</div>
+                <div class="country-popup-badge">LIVE</div>
+              </div>
 
-          <div class="country-popup-topic" data-popup-topic>
-            Sin tema activo
-          </div>
+              <div class="country-popup-grid">
+                <div class="country-popup-metric">
+                  <span class="country-popup-label">Titulares</span>
+                  <span class="country-popup-value" data-popup-headlines>0</span>
+                </div>
+                <div class="country-popup-metric">
+                  <span class="country-popup-label">Tensión</span>
+                  <span class="country-popup-value" data-popup-tension>0/100</span>
+                </div>
+                <div class="country-popup-metric">
+                  <span class="country-popup-label">Mood</span>
+                  <span class="country-popup-value" data-popup-mood>Neutral</span>
+                </div>
+                <div class="country-popup-metric">
+                  <span class="country-popup-label">Narrativa</span>
+                  <span class="country-popup-value" data-popup-bias>General</span>
+                </div>
+              </div>
+
+              <div class="country-popup-topic" data-popup-topic>
+                Sin tema activo
+              </div>
+            </div>
+          </template>
+
+          <template id="countryRadarTemplate">
+            <div class="country-radar-card">
+              <div class="country-radar-head">
+                <h3 class="country-radar-title">País</h3>
+                <div class="country-radar-meta">0 titulares</div>
+              </div>
+
+              <div class="country-radar-layout">
+                <div class="country-radar-visual" data-country-radar-svg></div>
+                <div class="country-radar-stats" data-country-radar-stats></div>
+              </div>
+            </div>
+          </template>
         </div>
-      </template>
+      </section>
 
-      <!-- plantilla para radar mini por país -->
-      <template id="countryRadarTemplate">
-        <div class="country-radar-card">
-          <div class="country-radar-head">
-            <h3 class="country-radar-title">País</h3>
-            <div class="country-radar-meta">0 titulares</div>
+      <section class="dashboard-section">
+        <section class="top-dashboard">
+          <div class="hud-row">
+
+            <div class="hud-card markets-card">
+              <div class="hud-title">MERCADOS</div>
+              <div class="hud-grid hud-grid-compact" id="marketBoard">
+                <div class="hud-metric">
+                  <span class="hud-label">IBEX</span>
+                  <span class="hud-value">--</span>
+                </div>
+                <div class="hud-metric">
+                  <span class="hud-label">S&amp;P</span>
+                  <span class="hud-value">--</span>
+                </div>
+                <div class="hud-metric">
+                  <span class="hud-label">NASDAQ</span>
+                  <span class="hud-value">--</span>
+                </div>
+                <div class="hud-metric">
+                  <span class="hud-label">BRENT</span>
+                  <span class="hud-value">--</span>
+                </div>
+                <div class="hud-metric">
+                  <span class="hud-label">ORO</span>
+                  <span class="hud-value">--</span>
+                </div>
+                <div class="hud-metric">
+                  <span class="hud-label">BTC</span>
+                  <span class="hud-value">--</span>
+                </div>
+              </div>
+            </div>
+
+            <div class="hud-card clocks-card">
+              <div class="hud-title">HORA MUNDIAL</div>
+              <div class="hud-grid hud-grid-compact" id="worldClockBoard">
+                <div class="hud-metric">
+                  <span class="hud-label">Madrid</span>
+                  <span class="hud-value" id="clockMadrid">--:--</span>
+                </div>
+                <div class="hud-metric">
+                  <span class="hud-label">Londres</span>
+                  <span class="hud-value" id="clockLondon">--:--</span>
+                </div>
+                <div class="hud-metric">
+                  <span class="hud-label">Nueva York</span>
+                  <span class="hud-value" id="clockNewYork">--:--</span>
+                </div>
+                <div class="hud-metric">
+                  <span class="hud-label">Pekín</span>
+                  <span class="hud-value" id="clockBeijing">--:--</span>
+                </div>
+                <div class="hud-metric">
+                  <span class="hud-label">Tokio</span>
+                  <span class="hud-value" id="clockTokyo">--:--</span>
+                </div>
+                <div class="hud-metric">
+                  <span class="hud-label">Moscú</span>
+                  <span class="hud-value" id="clockMoscow">--:--</span>
+                </div>
+              </div>
+            </div>
+
+            <div class="hud-card status-card">
+              <div class="hud-title">ESTADO GLOBAL</div>
+              <div class="hud-stack">
+                <div class="hud-line">
+                  <span class="hud-label">Tema activo</span>
+                  <span class="hud-value" id="activeTopic">Sin tema</span>
+                </div>
+                <div class="hud-line">
+                  <span class="hud-label">Países briefing</span>
+                  <span class="hud-value" id="activeCountries">0</span>
+                </div>
+                <div class="hud-line">
+                  <span class="hud-label">Titulares analizados</span>
+                  <span class="hud-value" id="headlineCount">0</span>
+                </div>
+                <div class="hud-line">
+                  <span class="hud-label">Última actualización</span>
+                  <span class="hud-value" id="lastUpdate">--:--</span>
+                </div>
+              </div>
+            </div>
+
+            <div class="hud-card risk-card">
+              <div class="hud-title">RISK SIGNALS</div>
+              <div class="hud-grid hud-grid-2">
+                <div class="hud-metric">
+                  <span class="hud-label">TENSION INDEX</span>
+                  <span class="hud-value" id="tensionIndex">0/100</span>
+                </div>
+                <div class="hud-metric">
+                  <span class="hud-label">MEDIA MOOD</span>
+                  <span class="hud-value" id="mediaMood">NEUTRAL</span>
+                </div>
+                <div class="hud-metric">
+                  <span class="hud-label">DEFCON-LIKE</span>
+                  <span class="hud-value" id="defconSignal">GREEN</span>
+                </div>
+                <div class="hud-metric">
+                  <span class="hud-label">NARRATIVE BIAS</span>
+                  <span class="hud-value" id="narrativeBias">GENERAL</span>
+                </div>
+              </div>
+            </div>
+
+            <div class="hud-card hotspots-card">
+              <div class="hud-title">REGIONAL HOTSPOTS</div>
+              <div class="hud-grid hud-grid-1" id="hotspotsBoard">
+                <div class="hud-metric">
+                  <span class="hud-label">HOTSPOTS</span>
+                  <span class="hud-value">Sin datos</span>
+                </div>
+              </div>
+            </div>
+
           </div>
 
-          <div class="country-radar-layout">
-            <div class="country-radar-visual" data-country-radar-svg></div>
-            <div class="country-radar-stats" data-country-radar-stats></div>
+          <div class="hud-ticker">
+            <span class="hud-title">FLUJO GEOPOLÍTICO</span>
+            <div class="ticker-track" id="geoTicker">
+              <span class="ticker-item">Cargando titulares globales...</span>
+            </div>
           </div>
-        </div>
-      </template>
+        </section>
+      </section>
 
-      <div id="map"></div>
     </main>
 
   </div>
