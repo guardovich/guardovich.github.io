@@ -219,6 +219,9 @@ const gazetteer = {
    ESTADO GLOBAL
 ========================= */
 
+/* =========================
+   ESTADO GLOBAL
+========================= */
 let spinning = false;
 let spinFrame = null;
 let activeMarkers = [];
@@ -262,13 +265,33 @@ const map = new maplibregl.Map({
   attributionControl: true
 });
 
-// 🔧 FIX RESPONSIVE MAP
+// FIX RESPONSIVE MAP
 window.addEventListener("load", () => {
-  setTimeout(() => map.resize(), 250);
+  setTimeout(() => {
+    try {
+      map.resize();
+    } catch (e) {
+      console.warn("No se pudo redimensionar el mapa en load", e);
+    }
+  }, 250);
 });
 
 window.addEventListener("resize", () => {
-  map.resize();
+  try {
+    map.resize();
+  } catch (e) {
+    console.warn("No se pudo redimensionar el mapa", e);
+  }
+});
+
+window.addEventListener("orientationchange", () => {
+  setTimeout(() => {
+    try {
+      map.resize();
+    } catch (e) {
+      console.warn("No se pudo redimensionar tras orientación", e);
+    }
+  }, 250);
 });
 
 map.addControl(new maplibregl.NavigationControl(), "top-right");
@@ -297,24 +320,6 @@ map.on("style.load", () => {
       console.warn("No se pudo redimensionar el mapa tras style.load", e);
     }
   }, 80);
-});
-
-window.addEventListener("resize", () => {
-  try {
-    map.resize();
-  } catch (e) {
-    console.warn("No se pudo redimensionar el mapa", e);
-  }
-});
-
-window.addEventListener("orientationchange", () => {
-  setTimeout(() => {
-    try {
-      map.resize();
-    } catch (e) {
-      console.warn("No se pudo redimensionar tras orientación", e);
-    }
-  }, 250);
 });
 
 /* =========================
@@ -1483,7 +1488,7 @@ function startSpin() {
   if (spinning) return;
 
   spinning = true;
-  spinBtn.textContent = "Parar giro";
+  if (spinBtn) spinBtn.textContent = "Parar giro";
 
   const step = () => {
     if (!spinning) return;
@@ -1504,7 +1509,7 @@ function startSpin() {
 
 function stopSpin() {
   spinning = false;
-  spinBtn.textContent = "Girar globo";
+  if (spinBtn) spinBtn.textContent = "Girar globo";
 
   if (spinFrame) {
     cancelAnimationFrame(spinFrame);
@@ -1515,30 +1520,40 @@ function stopSpin() {
 /* =========================
    EVENTOS
 ========================= */
-searchBtn.addEventListener("click", searchNews);
-briefBtn.addEventListener("click", generateBriefing);
-clearBriefBtn.addEventListener("click", clearBriefing);
+if (searchBtn) searchBtn.addEventListener("click", searchNews);
+if (briefBtn) briefBtn.addEventListener("click", generateBriefing);
+if (clearBriefBtn) clearBriefBtn.addEventListener("click", clearBriefing);
 
-queryInput.addEventListener("keydown", (e) => {
-  if (e.key === "Enter") searchNews();
-});
+if (queryInput) {
+  queryInput.addEventListener("keydown", (e) => {
+    if (e.key === "Enter") searchNews();
+  });
+}
 
-countryInput.addEventListener("keydown", (e) => {
-  if (e.key === "Enter") searchNews();
-});
+if (countryInput) {
+  countryInput.addEventListener("keydown", (e) => {
+    if (e.key === "Enter") searchNews();
+  });
+}
 
-briefTopicInput.addEventListener("keydown", (e) => {
-  if (e.key === "Enter") generateBriefing();
-});
+if (briefTopicInput) {
+  briefTopicInput.addEventListener("keydown", (e) => {
+    if (e.key === "Enter") generateBriefing();
+  });
+}
 
-briefCountriesInput.addEventListener("keydown", (e) => {
-  if (e.key === "Enter") generateBriefing();
-});
+if (briefCountriesInput) {
+  briefCountriesInput.addEventListener("keydown", (e) => {
+    if (e.key === "Enter") generateBriefing();
+  });
+}
 
-spinBtn.addEventListener("click", () => {
-  if (spinning) stopSpin();
-  else startSpin();
-});
+if (spinBtn) {
+  spinBtn.addEventListener("click", () => {
+    if (spinning) stopSpin();
+    else startSpin();
+  });
+}
 
 map.on("click", async (e) => {
   const lng = e.lngLat.lng;
@@ -1556,7 +1571,7 @@ map.on("click", async (e) => {
     const country = data?.address?.country || data?.name || "";
 
     if (country) {
-      countryInput.value = country;
+      if (countryInput) countryInput.value = country;
       setStatus(`Zona detectada: ${country}.`);
     } else {
       setStatus("No pude identificar ese país.");
@@ -1567,50 +1582,52 @@ map.on("click", async (e) => {
   }
 });
 
-geoBtn.addEventListener("click", () => {
-  if (!navigator.geolocation) {
-    setStatus("Geolocalización no soportada.");
-    return;
-  }
-
-  setStatus("Obteniendo tu ubicación...");
-
-  navigator.geolocation.getCurrentPosition(
-    async (pos) => {
-      const lat = pos.coords.latitude;
-      const lon = pos.coords.longitude;
-
-      try {
-        const response = await fetch(
-          `https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=${lat}&lon=${lon}&zoom=3&accept-language=es`,
-          { cache: "no-store" }
-        );
-
-        const data = await response.json();
-        const country = data?.address?.country || data?.name || "";
-
-        if (country) {
-          countryInput.value = country;
-          setStatus(`Ubicación detectada: ${country}.`);
-        } else {
-          setStatus("No pude detectar tu país.");
-        }
-      } catch (err) {
-        console.error(err);
-        setStatus("Error obteniendo ubicación.");
-      }
-    },
-    (error) => {
-      console.error(error);
-      setStatus("Permiso de ubicación denegado o no disponible.");
-    },
-    {
-      enableHighAccuracy: true,
-      timeout: 10000,
-      maximumAge: 0
+if (geoBtn) {
+  geoBtn.addEventListener("click", () => {
+    if (!navigator.geolocation) {
+      setStatus("Geolocalización no soportada.");
+      return;
     }
-  );
-});
+
+    setStatus("Obteniendo tu ubicación...");
+
+    navigator.geolocation.getCurrentPosition(
+      async (pos) => {
+        const lat = pos.coords.latitude;
+        const lon = pos.coords.longitude;
+
+        try {
+          const response = await fetch(
+            `https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=${lat}&lon=${lon}&zoom=3&accept-language=es`,
+            { cache: "no-store" }
+          );
+
+          const data = await response.json();
+          const country = data?.address?.country || data?.name || "";
+
+          if (country) {
+            if (countryInput) countryInput.value = country;
+            setStatus(`Ubicación detectada: ${country}.`);
+          } else {
+            setStatus("No pude detectar tu país.");
+          }
+        } catch (err) {
+          console.error(err);
+          setStatus("Error obteniendo ubicación.");
+        }
+      },
+      (error) => {
+        console.error(error);
+        setStatus("Permiso de ubicación denegado o no disponible.");
+      },
+      {
+        enableHighAccuracy: true,
+        timeout: 10000,
+        maximumAge: 0
+      }
+    );
+  });
+}
 
 /* =========================
    INIT
