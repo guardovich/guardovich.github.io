@@ -262,6 +262,15 @@ const map = new maplibregl.Map({
   attributionControl: true
 });
 
+// 🔧 FIX RESPONSIVE MAP
+window.addEventListener("load", () => {
+  setTimeout(() => map.resize(), 250);
+});
+
+window.addEventListener("resize", () => {
+  map.resize();
+});
+
 map.addControl(new maplibregl.NavigationControl(), "top-right");
 
 map.on("style.load", () => {
