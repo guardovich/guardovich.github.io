@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-10T02:32:30.464Z",
+  "generatedAt": "2026-04-10T07:27:28.508Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
@@ -75,7 +75,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
           "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-04-10T02:32:25.744Z"
+          "isoDate": "2026-04-10T07:27:23.868Z"
         },
         {
           "title": "Emergent predictability in microbial ecosystems",
@@ -141,7 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-04-10T02:32:27.111Z"
+          "isoDate": "2026-04-10T07:27:24.970Z"
+        },
+        {
+          "title": "White House staff told not to place bets on prediction markets",
+          "link": "https://www.bbc.com/news/articles/cgld65x396go?at_medium=RSS&at_campaign=rss",
+          "summary": "The gambling platforms have grown in popularity, with some users making wagers on conflicts.",
+          "isoDate": "2026-04-10T02:32:27.000Z"
         },
         {
           "title": "OpenAI pauses UK data centre deal over energy costs and regulation",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.com/news/articles/c145enxln0go?at_medium=RSS&at_campaign=rss",
           "summary": "Both sides don't want to let their rival dominate. And the competition may yet be transformed further.",
           "isoDate": "2026-04-07T05:13:12.000Z"
-        },
-        {
-          "title": "Businesses scramble to get noticed by AI search",
-          "link": "https://www.bbc.com/news/articles/c70n2rjgxeyo?at_medium=RSS&at_campaign=rss",
-          "summary": "Firms are changing the way they present information on their websites, so they get noticed by AI.",
-          "isoDate": "2026-04-06T23:20:52.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-04-10T02:32:29.144Z"
+          "isoDate": "2026-04-10T07:27:27.230Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-04-10T02:32:28.473Z"
+          "isoDate": "2026-04-10T07:27:26.361Z"
         },
         {
           "title": "Remembering Gus Gaynor: A Devoted IEEE Volunteer",
