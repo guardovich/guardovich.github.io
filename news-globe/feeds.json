@@ -1,0 +1,127 @@
+{
+  "version": 1,
+  "defaults": {
+    "maxFeedsPerRequest": 4,
+    "maxItemsPerFeed": 12,
+    "requestTimeoutMs": 7000
+  },
+  "alerts": {
+    "international_es": [
+      {
+        "name": "BBC Mundo",
+        "url": "PEGA_AQUI_RSS_ES_1",
+        "lang": "es",
+        "weight": 1
+      },
+      {
+        "name": "France 24 ES",
+        "url": "PEGA_AQUI_RSS_ES_2",
+        "lang": "es",
+        "weight": 1
+      }
+    ],
+    "international_en": [
+      {
+        "name": "BBC World",
+        "url": "PEGA_AQUI_RSS_EN_1",
+        "lang": "en",
+        "weight": 1
+      },
+      {
+        "name": "Reuters World",
+        "url": "PEGA_AQUI_RSS_EN_2",
+        "lang": "en",
+        "weight": 1
+      },
+      {
+        "name": "AP News",
+        "url": "PEGA_AQUI_RSS_EN_3",
+        "lang": "en",
+        "weight": 1
+      }
+    ]
+  },
+  "topics": {
+    "ia": ["ia", "inteligencia artificial", "artificial intelligence", "ai", "machine learning"],
+    "otan": ["otan", "nato"],
+    "energia": ["energía", "energy", "gas", "oil", "brent", "lng"],
+    "ciberseguridad": ["ciberseguridad", "cybersecurity", "cyber attack", "ciberataque"],
+    "taiwan": ["taiwán", "taiwan"],
+    "rusia_ucrania": ["rusia", "ukraine", "ucrania", "kremlin", "moscow", "kyiv"]
+  },
+  "countries": {
+    "spain": {
+      "label": "España",
+      "aliases": ["espana", "españa", "spain"],
+      "lang": "es",
+      "region": "europa",
+      "feeds": [
+        {
+          "name": "RTVE",
+          "url": "PEGA_AQUI_RSS_1",
+          "category": "general",
+          "lang": "es",
+          "weight": 1.0
+        },
+        {
+          "name": "El País",
+          "url": "PEGA_AQUI_RSS_2",
+          "category": "general",
+          "lang": "es",
+          "weight": 0.95
+        },
+        {
+          "name": "El Mundo",
+          "url": "PEGA_AQUI_RSS_3",
+          "category": "general",
+          "lang": "es",
+          "weight": 0.92
+        }
+      ]
+    },
+    "usa": {
+      "label": "United States",
+      "aliases": ["usa", "eeuu", "estados unidos", "united states"],
+      "lang": "en",
+      "region": "norteamerica",
+      "feeds": [
+        {
+          "name": "CNN",
+          "url": "PEGA_AQUI_RSS_1",
+          "category": "general",
+          "lang": "en",
+          "weight": 1.0
+        },
+        {
+          "name": "NYT",
+          "url": "PEGA_AQUI_RSS_2",
+          "category": "general",
+          "lang": "en",
+          "weight": 0.98
+        },
+        {
+          "name": "NPR",
+          "url": "PEGA_AQUI_RSS_3",
+          "category": "general",
+          "lang": "en",
+          "weight": 0.9
+        }
+      ]
+    },
+    "france": {
+      "label": "France",
+      "aliases": ["france", "francia"],
+      "lang": "fr",
+      "region": "europa",
+      "feeds": [
+        {
+          "name": "Le Monde",
+          "url": "PEGA_AQUI_RSS_1",
+          "category": "general",
+          "lang": "fr",
+          "weight": 1.0
+        }
+      ]
+    }
+  }
+}
