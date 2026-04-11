@@ -1,10 +1,58 @@
 {
-  "generatedAt": "2026-04-10T18:52:57.964Z",
+  "generatedAt": "2026-04-11T02:11:22.658Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Four astronauts are back home after a daring ride around the Moon",
+          "link": "https://arstechnica.com/space/2026/04/four-astronauts-are-back-home-after-a-daring-ride-around-the-moon/",
+          "summary": "\"I can't imagine a better crew that just completed a perfect mission right now.\"",
+          "isoDate": "2026-04-11T01:21:10.000Z"
+        },
+        {
+          "title": "Californians sue over AI tool that records doctor visits",
+          "link": "https://arstechnica.com/tech-policy/2026/04/californians-sue-over-ai-tool-that-records-doctor-visits/",
+          "summary": "Plaintiffs say transcription tool processed confidential chats offsite.",
+          "isoDate": "2026-04-10T21:43:33.000Z"
+        },
+        {
+          "title": "Now the FAA says gamers are the answer to its air traffic controller shortage",
+          "link": "https://www.theverge.com/games/910434/now-the-faa-says-gamers-are-the-answer-to-its-air-traffic-controller-shortage",
+          "summary": "The Federal Aviation Administration (FAA) has struggled for years to have enough air traffic controllers to address shortages, with the US Government Accountability Office (GAO) saying in January that the number of people in the job in the US has declined by around 6 percent \"in the last decade.\" Now the Trump administration is rolling out a recruiting campaign targeting gamers ahead of the opening of the annual air traffic control hiring window on April 17th.\nEven with the campaign, getting qualified individuals through training and into the role may still be a challenge: according to the Department of Transportation's Office of Inspector  …\nRead the full story at The Verge.",
+          "isoDate": "2026-04-10T20:50:51.000Z"
+        },
+        {
+          "title": "20-year-old man arrested for allegedly throwing a Molotov cocktail at Sam Altman’s house",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/910393/openai-sam-altman-house-molotov-cocktail",
+          "summary": "San Francisco police have arrested a 20-year-old man suspected of throwing a Molotov cocktail at OpenAI CEO Sam Altman's Russian Hill house early Friday morning, The San Francisco Standard reports. The incident was caught on surveillance cameras shortly before 7AM ET. Later that morning, someone matching the suspect's description was seen making threats outside OpenAI's Mission Bay offices, where he was arrested around 9AM ET. \nOpenAI spokesperson Jamie Radice confirmed the incident in a statement to The Verge, saying, \"Thankfully, no one was hurt. We deeply appreciate how quickly SFPD responded and the support from the city in helping keep …\nRead the full story at The Verge.",
+          "isoDate": "2026-04-10T20:16:57.000Z"
+        },
+        {
+          "title": "How to watch the Artemis II astronauts return to Earth",
+          "link": "https://www.theverge.com/news/910397/how-to-watch-the-artemis-ii-astronauts-return-to-earth",
+          "summary": "The Artemis II crew – (from left) Mission Specialist Christina Koch, Mission Specialist Jeremy Hansen, Pilot Victor Glover, and Commander Reid Wiseman – pause for a group photo inside the Orion spacecraft on their way home. (Photo by NASA via Getty Images) | NASA via Getty Images\t\n\nThe Orion capsule, carrying Artemis II commander Reid Wiseman, pilot Victor Glover, mission specialist Christina Koch, and Canadian astronaut Jeremy Hansen, is expected to land back to Earth after a nine-day mission that set a record for the farthest distance humans have ever traveled from our planet.\nAfter making a high-speed re-entry through the atmosphere, the capsule is expected to splash down in the Pacific Ocean near San Diego at approximately 5:07PM PT / 8:07PM ET. Navy recovery crews will bring the astronauts to the USS John P. Murtha for medical checks before they helicopter back to land.\nRe-entry is unquestionably the riskiest pa …\nRead the full story at The Verge.",
+          "isoDate": "2026-04-10T20:08:08.000Z"
+        },
+        {
+          "title": "New paper argues history, not mantle plume, powers Yellowstone",
+          "link": "https://arstechnica.com/science/2026/04/new-paper-argues-history-not-mantle-plume-powers-yellowstone/",
+          "summary": "A now-vanished plate under North America may open the crust below Yellowstone.",
+          "isoDate": "2026-04-10T20:06:39.000Z"
+        },
+        {
+          "title": "F1 moves a step closer to fixing its 2026 hybrid problem",
+          "link": "https://arstechnica.com/cars/2026/04/f1-moves-a-step-closer-to-fixing-its-2026-hybrid-problem/",
+          "summary": "Algorithms, not drivers, are deciding how hard to accelerate, and that's no good.",
+          "isoDate": "2026-04-10T19:07:46.000Z"
+        },
+        {
+          "title": "Report: US demands Reddit unmask ICE critic, summons firm to grand jury",
+          "link": "https://arstechnica.com/tech-policy/2026/04/trump-admin-hounds-reddit-to-reveal-identity-of-user-who-criticized-ice/",
+          "summary": "Trump admin reportedly gets grand jury involved in attempt to identify Redditor.",
+          "isoDate": "2026-04-10T18:43:25.000Z"
+        },
         {
           "title": "Microsoft's \"commitment to Windows quality\" starts with overhaul of beta program",
           "link": "https://arstechnica.com/gadgets/2026/04/microsoft-makes-it-easier-for-windows-insider-testers-to-actually-get-new-features/",
@@ -16,54 +64,6 @@
           "link": "https://www.theverge.com/news/909659/microsoft-windows-insider-changes-unlock-experimental-features-without-vivetool",
           "summary": "Microsoft is finally allowing Windows 11 testers to get access to experimental features without having to download a third-party app like ViVeTool. The changes are part of making the Windows Insider Program (WIP) less confusing, with Dev and Canary testing rings simplified into a new Experimental Channel alongside a refresh of the existing Beta Channel.\nMicrosoft has been using a technology called Controlled Feature Rollout (CFR) for years now, to gradually roll out new features to all Windows 11 users. While this is an industry standard, it's often frustrating to try and get access to experimental Windows 11 features and realize that Micro …\nRead the full story at The Verge.",
           "isoDate": "2026-04-10T18:00:00.000Z"
-        },
-        {
-          "title": "\"Oobleck\" still holds some surprises",
-          "link": "https://arstechnica.com/science/2026/04/oobleck-still-holds-some-surprises/",
-          "summary": "Dense drops of oobleck with high shear rates spread out like a liquid before stiffening into a solid.",
-          "isoDate": "2026-04-10T17:57:21.000Z"
-        },
-        {
-          "title": "My go-to electric screwdriver is on sale for over 50 percent off today",
-          "link": "https://www.theverge.com/gadgets/909546/fanttik-s1-pro-cordless-electric-screwdriver-iniu-20w-portable-charger-deal-sale",
-          "summary": "Fanttik, like Hoto, is quickly becoming a household name. The tool brand’s cordless wares are quiet, capable, and certainly more stylish than anything you’d find at your local Ace Hardware or neighborhood tool library. The S1 Pro electric screwdriver is a great example of the company’s penchant for attractive design, one you can currently grab on Amazon for an all-time low of $39.99 ($50 off) when you enter promo code YBRS9843 at checkout.\nFanttik S1 Pro Cordless Electric Screwdriver\n\nWhere to Buy:\n\n $89.99 $39.99 at Amazon (with code YBRS9843)\n\nUnsurprisingly, Fanttik’s TikTok-worthy screwdriver isn’t going to rival a dedicated drill when it comes to torque or comfort, even when talking about the smaller 12V variety. Still, it’s more efficient than a manual screwdriver when it comes to performing small- to medium-sized tasks around the home, whether that be assembling a bed or tightening the screws on your bicycle seat — two things I used it for just this week. It’s lightweight and sleek, with a 220RPM motor, three torque settings, a circular LED light, and a dedicated button for screwing in or out.\nIn addition to the S1 Pro itself, you get a magnetic case that also houses the screwdriver and the 16 S2 hardened steel bits, which encompass everything from flathead and Allen heads to Torx bits for opening up smaller electronics. It’s also equipped with a 2,000mAh battery, which, according to Fanttik, should be enough to operate up to 340 screws. I haven’t put that claim to the test myself, but so far, so good.\nMore ways to save\nNow through 10PM PT today, April 10th, Iniu’s 10,000mAh Portable Charger is on sale at Best Buy for just $15.99 ($13 off), which is the best price we’ve seen. I’ve become a big fan of Iniu’s compact charging banks in recent years, particularly the 2oW P61L-P1 on sale here, which comes with a built-in USB-C cable, a three-year warranty, and enough juice to charge an older smartphone model like the iPhone 15 to 65 capacity in just 25 minutes.\nIf you’re really looking to level up your newborn’s sleeping arrangements, enter the Cradlewise. The smart crib / bassinet — which is now available on Amazon for $1,709 ($90) thanks to an on-page coupon — combines a sound machine, an AI-enhanced baby monitor, and an automated rocker into a single device, with real-time notifications and sleep insights at the ready. It also easily converts from bassinet to crib, allowing you to eke out about 24 months of use, assuming you want to use it with your toddler.\nSpeaking of all-in-one devices, Mophie’s slick Juice Pack battery case is still on sale at Amazon starting at $49.93 (about $50 off), an all-time low. The MagSafe-compatible, lanyard-equipped case can provide both impact protection and an additional 50 percent of battery life to iPhone 16 and 17-series phones, including the iPhone 16 Pro, iPhone 17 Pro, and even the beefier 17 Pro Max.",
-          "isoDate": "2026-04-10T17:43:17.000Z"
-        },
-        {
-          "title": "Amazon Luna axes third-party game purchases",
-          "link": "https://www.theverge.com/tech/910025/amazon-luna-third-party-games-subscriptions",
-          "summary": "Amazon Luna announced a big change on Friday that will prevent players from purchasing third-party games and subscriptions. The cloud gaming service will remove previously purchased games on June 10th, 2026, though they'll still be available to play on other platforms through the EA, GOG, or Ubisoft accounts players used when purchasing the title.\nIn line with these changes, Amazon Luna will no longer support EA, Ubisoft, or GOG's third-party stores. It's also discontinuing subscriptions to Ubisoft Plus and Jackbox Games, and says it will cancel active subscriptions purchased through Luna at the end of the billing cycle. Amazon Luna is gett …\nRead the full story at The Verge.",
-          "isoDate": "2026-04-10T17:31:58.000Z"
-        },
-        {
-          "title": "The Iranian Lego AI video creators credit their virality to &#8216;heart&#8217;",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/909948/explosive-media-lego-iran-war-trump-netanyahu",
-          "summary": "Donald Trump has spun the recent rescue of a downed airman whose fighter jet was destroyed behind Iranian borders as a resounding success. But the story is very different in one of the many viral, AI-generated Lego videos that have been produced by Iranian content creation group Explosive Media in the weeks since the US and Israel began dropping bombs on the country. In Explosive Media's music video take on how things played out, the US military is a joke for losing multiple planes and helicopters, and spending \"$100 million just to save one guy.\" \nThe video's shots of Lego jets exploding into $100 bills and golden coins reinforce the idea  …\nRead the full story at The Verge.",
-          "isoDate": "2026-04-10T17:30:00.000Z"
-        },
-        {
-          "title": "YouTube increases Premium price again, says 90-second unskippable ads are a bug",
-          "link": "https://arstechnica.com/gadgets/2026/04/youtube-increases-premium-price-again-says-90-second-unskippable-ads-are-a-bug/",
-          "summary": "An individual plan now cost $15.99 per month, and the free tier comes with buggy ads.",
-          "isoDate": "2026-04-10T17:08:58.000Z"
-        },
-        {
-          "title": "Little Snitch&#8217;s software counter surveillance jumps from Mac to Linux",
-          "link": "https://www.theverge.com/tech/909975/little-snitch-linux-launch",
-          "summary": "The popular macOS app Little Snitch brought its network-monitoring tools over to Linux this week. In a blog post announcing the launch, one of the developers at Objective Development shared some early results from using the app on Linux: \"On Ubuntu, I found 9 system processes making internet connections over the course of one week. On macOS, we counted more than 100.\" \nWhile the Linux version of Little Snitch provides the same basic functionality for viewing and disabling unwanted connections, it's not exactly the same. Objective Development says it's \"not a security tool,\" unlike the macOS version. \nAccording to Objective Development, Lin …\nRead the full story at The Verge.",
-          "isoDate": "2026-04-10T16:57:55.000Z"
-        },
-        {
-          "title": "Oldest octopus fossil found to not be an octopus ",
-          "link": "https://arstechnica.com/science/2026/04/oldest-octopus-fossil-found-to-not-be-an-octopus/",
-          "summary": "Supposed “first octopus” was something else entirely.",
-          "isoDate": "2026-04-10T16:54:42.000Z"
-        },
-        {
-          "title": "What leaked \"SteamGPT\" files could mean for the PC gaming platform's use of AI",
-          "link": "https://arstechnica.com/gaming/2026/04/what-is-steamgpt-leaked-files-point-to-ai-powered-valve-security-review-system/",
-          "summary": "AI tools could help moderators sift through mountains of suspicious incidents",
-          "isoDate": "2026-04-10T16:32:25.000Z"
         }
       ]
     },
@@ -72,10 +72,16 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "ERROR cargando feed",
-          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
-          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-04-10T18:52:52.404Z"
+          "title": "New Perspective of Home",
+          "link": "https://www.nasa.gov/image-article/new-perspective-of-home/",
+          "summary": "Seen during Artemis II’s lunar flyby on April 6, 2026, the Moon and Earth align in the same frame, each partially illuminated by the Sun. The Moon’s surface appears in sharp detail in the foreground, while Earth sits much farther away, smaller and softly lit in the background. A faint reflection in the spacecraft window […]",
+          "isoDate": "2026-04-10T16:33:43.000Z"
+        },
+        {
+          "title": "Earthset From the Lunar Far Side",
+          "link": "https://science.nasa.gov/earth/earth-observatory/earthset-from-the-lunar-far-side/",
+          "summary": "The crew of NASA’s Artemis II mission captured extraordinary images of our home planet during their journey around the far side of the Moon.",
+          "isoDate": "2026-04-10T04:00:00.000Z"
         },
         {
           "title": "Author Correction: Multi-omic profiling reveals age-related immune dynamics in healthy adults",
@@ -108,28 +114,22 @@
           "isoDate": "2026-04-10T00:00:00.000Z"
         },
         {
-          "title": "Emergent predictability in microbial ecosystems",
-          "link": "https://www.science.org/doi/abs/10.1126/science.adr1440?af=R",
-          "summary": "Science, Volume 392, Issue 6794, April 2026.",
-          "isoDate": "2026-04-09T07:00:00.000Z"
+          "title": "Indoor Testing Facilities available at the NASA Unmanned Autonomy Research Complex (NUARC)",
+          "link": "https://www.nasa.gov/centers-and-facilities/ames/indoor-testing-facilities-available-at-the-nasa-unmanned-autonomy-research-complex-nuarc/",
+          "summary": "Windshaper A large WindShaper fan array is available for dynamic low-speed and hovering flight research.  The WindShaper is ideal for generating arbitrary wind gradients and wind gusts via a simple Python API.  A companion WindProbe is also available for quick surveys of flows.  The WindProbe utilizes the lab’s OptiTrack motion capture system to extract the […]",
+          "isoDate": "2026-04-09T21:54:19.000Z"
         },
         {
-          "title": "Species-specific oxygen sensing governs the initiation of vertebrate limb regeneration",
-          "link": "https://www.science.org/doi/abs/10.1126/science.adw8526?af=R",
-          "summary": "Science, Volume 392, Issue 6794, April 2026.",
-          "isoDate": "2026-04-09T07:00:00.000Z"
+          "title": "I Am Artemis: Dan Florez",
+          "link": "https://www.nasa.gov/missions/artemis/i-am-artemis-dan-florez/",
+          "summary": "Listen to this audio excerpt from Dan Florez, test director for NASA’s Exploration Ground Systems Program: At 1:47 a.m. EST November 16, 2022, as the Artemis I engines ignited, NASA astronaut Reid Wiseman and Dan Florez, NASA test director for the agency’s Exploration Ground Systems, watched from Kennedy’s Launch Control Center roof as the midnight […]",
+          "isoDate": "2026-04-09T21:45:57.000Z"
         },
         {
-          "title": "Tectonic origin of Yellowstone’s translithospheric magma plumbing system",
-          "link": "https://www.science.org/doi/abs/10.1126/science.ady2027?af=R",
-          "summary": "Science, Volume 392, Issue 6794, April 2026.",
-          "isoDate": "2026-04-09T07:00:00.000Z"
-        },
-        {
-          "title": "Sialylated CD43 forms a glyco-immune barrier that restrains antileukemic immunity",
-          "link": "https://www.science.org/doi/abs/10.1126/science.ady5196?af=R",
-          "summary": "Science, Volume 392, Issue 6794, April 2026.",
-          "isoDate": "2026-04-09T07:00:00.000Z"
+          "title": "Indoor Testing Facilities available at the NASA Unmanned Autonomy Research Complex (NUARC)",
+          "link": "https://www.nasa.gov/image-article/indoor-testing-facilities-available-at-the-nasa-unmanned-autonomy-research-complex-nuarc/",
+          "summary": "WindShaper A large WindShaper fan array is available for dynamic low-speed and hovering flight research.  The WindShaper is ideal for generating arbitrary wind gradients and wind gusts via a simple Python API.  A companion WindProbe is also available for quick surveys of flows.  The WindProbe utilizes the lab’s OptiTrack motion capture system to extract the […]",
+          "isoDate": "2026-04-09T21:21:53.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-04-10T18:52:53.833Z"
+          "isoDate": "2026-04-11T02:11:17.792Z"
         },
         {
           "title": "Meta pulls Facebook ads recruiting for social media addiction lawsuits",
@@ -204,51 +204,9 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "Using projects in ChatGPT",
-          "link": "https://openai.com/academy/projects",
-          "summary": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
-          "isoDate": "2026-04-10T00:00:00.000Z"
-        },
-        {
-          "title": "Prompting fundamentals",
-          "link": "https://openai.com/academy/prompting",
-          "summary": "Learn prompting fundamentals and how to write clear, effective prompts to get better, more useful responses from ChatGPT.",
-          "isoDate": "2026-04-10T00:00:00.000Z"
-        },
-        {
-          "title": "Using skills",
-          "link": "https://openai.com/academy/skills",
-          "summary": "Learn how to create and use ChatGPT skills to build reusable workflows, automate recurring tasks, and ensure consistent, high-quality outputs.",
-          "isoDate": "2026-04-10T00:00:00.000Z"
-        },
-        {
-          "title": "Analyzing data with ChatGPT",
-          "link": "https://openai.com/academy/data-analysis",
-          "summary": "Learn how to analyze data with ChatGPT by exploring datasets, generating insights, creating visualizations, and turning findings into actionable decisions.",
-          "isoDate": "2026-04-10T00:00:00.000Z"
-        },
-        {
-          "title": "Creating images with ChatGPT",
-          "link": "https://openai.com/academy/image-generation",
-          "summary": "Learn how to create and refine images with ChatGPT using clear prompts, iterate on designs, and generate high-quality visuals in minutes.",
-          "isoDate": "2026-04-10T00:00:00.000Z"
-        },
-        {
-          "title": "ChatGPT for marketing teams",
-          "link": "https://openai.com/academy/marketing",
-          "summary": "Learn how marketing teams use ChatGPT to plan campaigns, generate content, analyze performance, and move from ideas to execution faster.",
-          "isoDate": "2026-04-10T00:00:00.000Z"
-        },
-        {
-          "title": "AI fundamentals",
-          "link": "https://openai.com/academy/what-is-ai",
-          "summary": "Learn what AI is, how it works, and how tools like ChatGPT use large language models. A clear, beginner-friendly guide to understanding artificial intelligence.",
-          "isoDate": "2026-04-10T00:00:00.000Z"
-        },
-        {
-          "title": "Writing with ChatGPT",
-          "link": "https://openai.com/academy/writing",
-          "summary": "Learn how to use ChatGPT for writing to draft, revise, and refine content with clear structure, tone, and intent.",
+          "title": "Using custom GPTs",
+          "link": "https://openai.com/academy/custom-gpts",
+          "summary": "Learn how to build and use custom GPTs to automate workflows, maintain consistent outputs, and create purpose-built AI assistants.",
           "isoDate": "2026-04-10T00:00:00.000Z"
         },
         {
@@ -258,9 +216,51 @@
           "isoDate": "2026-04-10T00:00:00.000Z"
         },
         {
-          "title": "Healthcare",
-          "link": "https://openai.com/academy/healthcare",
-          "summary": "Explore how clinicians use ChatGPT to support diagnosis, documentation, and patient care with secure, HIPAA-compliant AI tools.",
+          "title": "Applications of AI at OpenAI",
+          "link": "https://openai.com/academy/applications-of-ai",
+          "summary": "Explore how OpenAI products like ChatGPT, Codex, and APIs bring AI into real-world use for work, development, and everyday tasks.",
+          "isoDate": "2026-04-10T00:00:00.000Z"
+        },
+        {
+          "title": "Research with ChatGPT",
+          "link": "https://openai.com/academy/search-and-deep-research",
+          "summary": "Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights.",
+          "isoDate": "2026-04-10T00:00:00.000Z"
+        },
+        {
+          "title": "Analyzing data with ChatGPT",
+          "link": "https://openai.com/academy/data-analysis",
+          "summary": "Learn how to analyze data with ChatGPT by exploring datasets, generating insights, creating visualizations, and turning findings into actionable decisions.",
+          "isoDate": "2026-04-10T00:00:00.000Z"
+        },
+        {
+          "title": "Financial services",
+          "link": "https://openai.com/academy/financial-services",
+          "summary": "Explore AI resources for financial services, including prompt packs, GPTs, guides, and tools to help institutions deploy and scale AI securely.",
+          "isoDate": "2026-04-10T00:00:00.000Z"
+        },
+        {
+          "title": "Responsible and safe use of AI ",
+          "link": "https://openai.com/academy/responsible-and-safe-use",
+          "summary": "Learn how to use AI responsibly with best practices for safety, accuracy, and transparency when using tools like ChatGPT.",
+          "isoDate": "2026-04-10T00:00:00.000Z"
+        },
+        {
+          "title": "Writing with ChatGPT",
+          "link": "https://openai.com/academy/writing",
+          "summary": "Learn how to use ChatGPT for writing to draft, revise, and refine content with clear structure, tone, and intent.",
+          "isoDate": "2026-04-10T00:00:00.000Z"
+        },
+        {
+          "title": "ChatGPT for research",
+          "link": "https://openai.com/academy/research",
+          "summary": "Learn how to use ChatGPT for research to gather sources, analyze information, and create structured, citation-backed insights.",
+          "isoDate": "2026-04-10T00:00:00.000Z"
+        },
+        {
+          "title": "Creating images with ChatGPT",
+          "link": "https://openai.com/academy/image-generation",
+          "summary": "Learn how to create and refine images with ChatGPT using clear prompts, iterate on designs, and generate high-quality visuals in minutes.",
           "isoDate": "2026-04-10T00:00:00.000Z"
         }
       ]
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-04-10T18:52:56.714Z"
+          "isoDate": "2026-04-11T02:11:21.060Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-04-10T18:52:55.540Z"
+          "isoDate": "2026-04-11T02:11:19.559Z"
         },
         {
           "title": "Working With More Experienced Engineers Can Fast-Track Career Growth",
@@ -329,6 +329,11 @@
           "summary": ""
         },
         {
+          "title": "REA  1-1  GIR",
+          "link": "",
+          "summary": ""
+        },
+        {
           "title": "GIR  1-0  VIL",
           "link": "",
           "summary": ""
@@ -374,11 +379,6 @@
           "summary": ""
         },
         {
-          "title": "RAY  1-0  ELC",
-          "link": "",
-          "summary": ""
-        },
-        {
           "title": "CLASIFICACIÓN",
           "link": "",
           "summary": ""
@@ -394,7 +394,7 @@
           "summary": ""
         },
         {
-          "title": " 2  REA  30  22  3  5  64  28  36  69",
+          "title": " 2  REA  31  22  4  5  65  29  36  70",
           "link": "",
           "summary": ""
         },
@@ -444,7 +444,7 @@
           "summary": ""
         },
         {
-          "title": "12  GIR  30   9 10 11  32  44 -12  37",
+          "title": "12  GIR  31   9 11 11  33  45 -12  38",
           "link": "",
           "summary": ""
         },
