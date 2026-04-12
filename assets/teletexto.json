@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-04-11T18:43:45.903Z",
+  "generatedAt": "2026-04-12T02:34:24.062Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "The Netherlands is the first European country to approve Tesla’s supervised Full Self-Driving",
+          "link": "https://www.theverge.com/transportation/910717/netherlands-tesla-supervised-full-self-driving",
+          "summary": "Dutch regulators, the RDW, announced that after over a year and a half of testing, it has officially approved Tesla's Full-Self Driving (FSD) Supervised. This makes the Netherlands the first European country to authorize the use of FSD on its roads. This could open the door to wider adoption throughout the EU. Tesla's European headquarters is located in Amsterdam, so it's only fitting that the country is the first to embrace the company's FSD.\nIn a statement announcing the approval, the RDW said that, \"Using driver assistance systems correctly makes a positive contribution to road safety because the driver is supported in their driving task …\nRead the full story at The Verge.",
+          "isoDate": "2026-04-11T23:22:15.000Z"
+        },
         {
           "title": "Google says Polymarket bets showing up in News was an ‘error’",
           "link": "https://www.theverge.com/tech/910691/google-news-polymarket-bets-error",
@@ -58,12 +64,6 @@
           "link": "https://www.theverge.com/tech/910422/audacity-artemis-maul-installer",
           "summary": "Hi, friends! Welcome to Installer No. 123, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, which Artemis photo did you make your wallpaper, and also you can read all the old editions at the Installer homepage.) \nThis week, I've been reading about Sam Altman and Satoshi Nakamoto and chess drama and Iranian shitposters, buying the stuff I need to mod an old iPod, making videos with the clever new DualShot Recorder, watching Crime 101 now that it's streaming, finally getting my Stream Deck Mini to control all my office lights, revisiting the incredible 17776 series from our friends at SB Nation, moving a …\nRead the full story at The Verge.",
           "isoDate": "2026-04-11T12:00:00.000Z"
-        },
-        {
-          "title": "AI models are terrible at betting on soccer—especially xAI Grok",
-          "link": "https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at-betting-on-soccer-especially-xai-grok/",
-          "summary": "Systems from Google, OpenAI, Anthropic, and xAI struggle with the Premier League.",
-          "isoDate": "2026-04-11T11:15:17.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-04-11T18:43:40.996Z"
+          "isoDate": "2026-04-12T02:34:20.258Z"
         },
         {
           "title": "Meta pulls Facebook ads recruiting for social media addiction lawsuits",
@@ -204,27 +204,15 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "Responsible and safe use of AI ",
-          "link": "https://openai.com/academy/responsible-and-safe-use",
-          "summary": "Learn how to use AI responsibly with best practices for safety, accuracy, and transparency when using tools like ChatGPT.",
-          "isoDate": "2026-04-10T00:00:00.000Z"
-        },
-        {
-          "title": "Analyzing data with ChatGPT",
-          "link": "https://openai.com/academy/data-analysis",
-          "summary": "Learn how to analyze data with ChatGPT by exploring datasets, generating insights, creating visualizations, and turning findings into actionable decisions.",
-          "isoDate": "2026-04-10T00:00:00.000Z"
-        },
-        {
           "title": "Getting started with ChatGPT",
           "link": "https://openai.com/academy/getting-started",
           "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
           "isoDate": "2026-04-10T00:00:00.000Z"
         },
         {
-          "title": "ChatGPT for operations teams",
-          "link": "https://openai.com/academy/operations",
-          "summary": "Learn how operations teams use ChatGPT to streamline workflows, improve coordination, standardize processes, and drive faster execution.",
+          "title": "Brainstorming with ChatGPT",
+          "link": "https://openai.com/academy/brainstorming",
+          "summary": "Learn how to use ChatGPT to brainstorm ideas, organize thinking, and turn rough concepts into structured, actionable plans.",
           "isoDate": "2026-04-10T00:00:00.000Z"
         },
         {
@@ -234,15 +222,27 @@
           "isoDate": "2026-04-10T00:00:00.000Z"
         },
         {
-          "title": "Applications of AI at OpenAI",
-          "link": "https://openai.com/academy/applications-of-ai",
-          "summary": "Explore how OpenAI products like ChatGPT, Codex, and APIs bring AI into real-world use for work, development, and everyday tasks.",
-          "isoDate": "2026-04-10T00:00:00.000Z"
-        },
-        {
           "title": "ChatGPT for research",
           "link": "https://openai.com/academy/research",
           "summary": "Learn how to use ChatGPT for research to gather sources, analyze information, and create structured, citation-backed insights.",
+          "isoDate": "2026-04-10T00:00:00.000Z"
+        },
+        {
+          "title": "Responsible and safe use of AI ",
+          "link": "https://openai.com/academy/responsible-and-safe-use",
+          "summary": "Learn how to use AI responsibly with best practices for safety, accuracy, and transparency when using tools like ChatGPT.",
+          "isoDate": "2026-04-10T00:00:00.000Z"
+        },
+        {
+          "title": "Prompting fundamentals",
+          "link": "https://openai.com/academy/prompting",
+          "summary": "Learn prompting fundamentals and how to write clear, effective prompts to get better, more useful responses from ChatGPT.",
+          "isoDate": "2026-04-10T00:00:00.000Z"
+        },
+        {
+          "title": "Research with ChatGPT",
+          "link": "https://openai.com/academy/search-and-deep-research",
+          "summary": "Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights.",
           "isoDate": "2026-04-10T00:00:00.000Z"
         },
         {
@@ -252,15 +252,15 @@
           "isoDate": "2026-04-10T00:00:00.000Z"
         },
         {
-          "title": "Using skills",
-          "link": "https://openai.com/academy/skills",
-          "summary": "Learn how to create and use ChatGPT skills to build reusable workflows, automate recurring tasks, and ensure consistent, high-quality outputs.",
+          "title": "ChatGPT for managers",
+          "link": "https://openai.com/academy/managers",
+          "summary": "Learn how managers use ChatGPT to prepare for conversations, write clear feedback, stay organized, and improve team effectiveness.",
           "isoDate": "2026-04-10T00:00:00.000Z"
         },
         {
-          "title": "ChatGPT for finance teams",
-          "link": "https://openai.com/academy/finance",
-          "summary": "Learn how finance teams use ChatGPT to streamline reporting, analyze data, improve forecasts, and communicate insights more clearly.",
+          "title": "Using projects in ChatGPT",
+          "link": "https://openai.com/academy/projects",
+          "summary": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
           "isoDate": "2026-04-10T00:00:00.000Z"
         }
       ]
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-04-11T18:43:44.368Z"
+          "isoDate": "2026-04-12T02:34:22.797Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-04-11T18:43:43.248Z"
+          "isoDate": "2026-04-12T02:34:21.709Z"
         },
         {
           "title": "Working With More Experienced Engineers Can Fast-Track Career Growth",
@@ -329,6 +329,11 @@
           "summary": ""
         },
         {
+          "title": "SEV  2-1  ATL",
+          "link": "",
+          "summary": ""
+        },
+        {
           "title": "BAR  4-1  ESP",
           "link": "",
           "summary": ""
@@ -374,11 +379,6 @@
           "summary": ""
         },
         {
-          "title": "ATL  1-2  BAR",
-          "link": "",
-          "summary": ""
-        },
-        {
           "title": "CLASIFICACIÓN",
           "link": "",
           "summary": ""
@@ -404,7 +404,7 @@
           "summary": ""
         },
         {
-          "title": " 4  ATL  30  17  6  7  50  30  20  57",
+          "title": " 4  ATL  31  17  6  8  51  32  19  57",
           "link": "",
           "summary": ""
         },
@@ -459,22 +459,22 @@
           "summary": ""
         },
         {
-          "title": "15  ALA  31   8  9 14  35  46 -11  33",
+          "title": "15  SEV  31   9  7 15  39  51 -12  34",
           "link": "",
           "summary": ""
         },
         {
-          "title": "16  ELC  31   7 11 13  39  47  -8  32",
+          "title": "16  ALA  31   8  9 14  35  46 -11  33",
           "link": "",
           "summary": ""
         },
         {
-          "title": "17  MAL  30   8  7 15  36  48 -12  31",
+          "title": "17  ELC  31   7 11 13  39  47  -8  32",
           "link": "",
           "summary": ""
         },
         {
-          "title": "18  SEV  30   8  7 15  37  50 -13  31",
+          "title": "18  MAL  30   8  7 15  36  48 -12  31",
           "link": "",
           "summary": ""
         },
