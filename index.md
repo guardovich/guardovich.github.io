@@ -8,10 +8,7 @@ title: Inicio
 <h2 class="cv-title">Perfil</h2>
 
 <p class="cv-text">
-Soy un profesional de la comunicación con un sólido perfil académico,
-corporativo y profesional. Cuento con 20 años de experiencia y una vocación
-marcada por la tecnología y la comunicación, habiendo trabajado en diversos
-países como <strong>Colombia, Inglaterra, Bélgica y España</strong>.
+  A lo largo de <strong>dos décadas</strong>, he evolucionado como profesional de la comunicación uniendo tres mundos: <strong>la academia, el sector corporativo y la innovación tecnológica</strong>. Mi trayectoria me ha llevado a trabajar en cuatro países —<strong>Colombia, Inglaterra, Bélgica y España</strong>—, lo que me permite aportar una <strong>perspectiva multicultural y adaptable</strong> a cualquier desafío comunicativo actual.
 </p>
 
 <hr>
