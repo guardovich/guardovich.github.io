@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-14T02:33:17.751Z",
+  "generatedAt": "2026-04-14T07:45:37.140Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
@@ -72,6 +72,12 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "Super Typhoon Sinlaku",
+          "link": "https://science.nasa.gov/earth/earth-observatory/super-typhoon-sinlaku/",
+          "summary": "The violent storm aimed at the U.S. Northern Mariana Islands and Guam in mid-April 2026.",
+          "isoDate": "2026-04-14T04:00:00.000Z"
+        },
+        {
           "title": "NASA Invites Media to Rollout Event for Artemis III Moon Rocket Stage",
           "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-rollout-event-for-artemis-iii-moon-rocket-stage/",
           "summary": "NASA will roll the largest section of the agency’s SLS (Space Launch System) rocket, which will launch the second crewed Artemis mission, out of the agency’s Michoud Assembly Facility in New Orleans on Monday, April 20. What’s called the top four-fifths of the SLS core stage – the section containing the liquid hydrogen tank, liquid […]",
@@ -124,12 +130,6 @@
           "link": "https://science.nasa.gov/missions/hubble/hubble-spies-an-active-spiral/",
           "summary": "A luminous swirl set against the deep black of space, the barred spiral galaxy IC 486 glows with a soft, ethereal light in this new NASA Hubble Space Telescope image. IC 486 lies right on the edge of the constellation Gemini (the Twins), around 380 million light-years from Earth. Classified as a barred spiral galaxy, […]",
           "isoDate": "2026-04-13T12:24:40.000Z"
-        },
-        {
-          "title": "Viruses allegedly stolen from high-security lab cause stir in Brazil",
-          "link": "https://www.nature.com/articles/d41586-026-01211-6",
-          "summary": "Nature, Published online: 13 April 2026; doi:10.1038/d41586-026-01211-6\nThe missing samples — reported to include chikungunya and dengue viruses — have been recovered, but questions linger over motive.",
-          "isoDate": "2026-04-13T00:00:00.000Z"
         }
       ]
     },
@@ -141,13 +141,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-04-14T02:33:13.654Z"
+          "isoDate": "2026-04-14T07:45:33.073Z"
         },
         {
-          "title": "Man faces attempted murder charges in attack on home of OpenAI's Sam Altman",
+          "title": "Man charged with attempted murder over attack on home of OpenAI's Sam Altman",
           "link": "https://www.bbc.com/news/articles/cq597n1pg6lo?at_medium=RSS&at_campaign=rss",
           "summary": "The Texas man, who also faces federal felony charges, allegedly had documents advocating for violence against AI executives.",
           "isoDate": "2026-04-14T01:05:54.000Z"
+        },
+        {
+          "title": "Quantum computing: A tech race Europe could win?",
+          "link": "https://www.bbc.com/news/articles/c20q4nv89yzo?at_medium=RSS&at_campaign=rss",
+          "summary": "With some promising computing companies in the field, could Europe be a leader in quantum tech?",
+          "isoDate": "2026-04-13T23:35:56.000Z"
         },
         {
           "title": "GTA-maker Rockstar Games hacked again but downplays impact",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.com/news/articles/cgld65x396go?at_medium=RSS&at_campaign=rss",
           "summary": "The gambling platforms have grown in popularity, with some users making wagers on conflicts.",
           "isoDate": "2026-04-10T02:32:27.000Z"
-        },
-        {
-          "title": "OpenAI pauses UK data centre deal over energy costs and regulation",
-          "link": "https://www.bbc.com/news/articles/clyd032ej70o?at_medium=RSS&at_campaign=rss",
-          "summary": "The project was part of a package of tech investment promising the UK could become an AI superpower.",
-          "isoDate": "2026-04-09T20:36:41.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-04-14T02:33:16.581Z"
+          "isoDate": "2026-04-14T07:45:35.865Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-04-14T02:33:15.666Z"
+          "isoDate": "2026-04-14T07:45:34.816Z"
         },
         {
           "title": "Squishy Photonic Switches Promise Fast Low Power Logic",
