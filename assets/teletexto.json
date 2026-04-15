@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-04-15T02:31:40.274Z",
+  "generatedAt": "2026-04-15T07:45:42.396Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Building trust in the AI era with privacy-led UX",
+          "link": "https://www.technologyreview.com/2026/04/15/1135530/building-trust-in-the-ai-era-with-privacy-led-ux/",
+          "summary": "The practice of privacy-led user experience (UX) is a design philosophy that treats transparency around data collection and usage as an integral part of the customer relationship. An undertapped opportunity in digital marketing, privacy-led UX treats user consent not as a tick-box compliance exercise, but rather as the first overture in an ongoing customer relationship.…",
+          "isoDate": "2026-04-15T06:00:00.000Z"
+        },
         {
           "title": "Godzilla Minus Zero stomps through New York in first teaser trailer",
           "link": "https://www.theverge.com/entertainment/912025/godzilla-minus-zero-teaser-trailer",
@@ -58,12 +64,6 @@
           "link": "https://www.theverge.com/gadgets/911806/4k-bluray-movie-three-for-33-amazon-deal-sale",
           "summary": "Amazon has switched on its semi-regular three for $33 sale for a large batch of 4K Blu-ray movies. As usual, there are too many to list individually, though it’s a comprehensive mix of old and new flicks that should keep physical media fans scrolling for a minute. The steps to get in on the deal are the same as ever: add three titles from the sale page to your cart, and each item will be price-adjusted at checkout for a total of $33. The deal also works if you add six eligible movies to your cart.\nThese sales are always a good opportunity to add a permanent addition to your movie library, as opposed to hoping they’ll always be available on your preferred streaming services. Movies on 4K Blu-ray will look and sound better than their streamed equivalent, assuming you have a 4K Blu-ray player and a 4K-ready TV.\nI’ve included a batch of personal favorites (some of which make for fantastic showcases on a high-end TV), as well as a mix of old classics and newer releases that I’m thinking of picking up soon. \nGodzilla Minus One\n\nWhere to Buy:\n\n $23.79 at Amazon (4K Blu-ray)\n\nBatman: Mask of the Phantasm\n\nWhere to Buy:\n\n $14.99 at Amazon (4K Blu-ray)\n\nDune: Part Two\n\nWhere to Buy:\n\n $18.47 at Amazon (4K Blu-ray)\n\nBlade Runner: The Final Cut\n\nWhere to Buy:\n\n $14.81 at Amazon (4K Blu-ray)\n\nHamnet\n\nWhere to Buy:\n\n $32.98 $26.99 at Amazon (4K Blu-ray)\n\nBarbie\n\nWhere to Buy:\n\n $14.99 at Amazon (4K Blu-ray)\n\nWeapons\n\nWhere to Buy:\n\n $32.98 $21.95 at Amazon (4K Blu-ray)\n\nMickey 17\n\nWhere to Buy:\n\n $34.99 $24.21 at Amazon (4K Blu-ray)\n\nFirst Man\n\nWhere to Buy:\n\n $14.99 at Amazon (4K Blu-ray)\n\nLast Night in Soho\n\nWhere to Buy:\n\n $13.99 at Amazon (4K Blu-ray)\n\nThe Wild Robot: Collectors Edition\n\nWhere to Buy:\n\n $23.69 at Amazon (4K Blu-ray)\n\nJurassic Park\n\nWhere to Buy:\n\n $18.07 at Amazon (4K Blu-ray)\n\nBlackkKlansman\n\nWhere to Buy:\n\n $29.98 $16.99 at Amazon (4K Blu-ray)\n\nA Minecraft Movie\n\nWhere to Buy:\n\n $34.98 $14.99 at Amazon (4K Blu-ray)\n\nGet Out\n\nWhere to Buy:\n\n $22.98 $14.24 at Amazon (4K Blu-ray)\n\nE.T. the Extra-Terrestrial\n\nWhere to Buy:\n\n $13.99 at Amazon (4K Blu-ray)",
           "isoDate": "2026-04-14T19:37:16.000Z"
-        },
-        {
-          "title": "UK gov's Mythos AI tests help separate cybersecurity threat from hype",
-          "link": "https://arstechnica.com/ai/2026/04/uk-govs-mythos-ai-tests-help-separate-cybersecurity-threat-from-hype/",
-          "summary": "New model is the first AI system to complete a difficult multistep infiltration challenge.",
-          "isoDate": "2026-04-14T19:11:25.000Z"
         }
       ]
     },
@@ -75,7 +75,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
           "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-04-15T02:31:33.024Z"
+          "isoDate": "2026-04-15T07:45:34.940Z"
         },
         {
           "title": "Imaging interface-controlled bulk oxygen spillover",
@@ -141,13 +141,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-04-15T02:31:34.683Z"
+          "isoDate": "2026-04-15T07:45:36.506Z"
         },
         {
           "title": "Tech Life",
           "link": "https://www.bbc.co.uk/sounds/play/w3ct8jxq?at_medium=RSS&at_campaign=rss",
           "summary": "Can pedestrians, runners and cyclists safely share the road with self-driving vehicles?",
           "isoDate": "2026-04-14T21:30:00.000Z"
+        },
+        {
+          "title": "Palantir defends its record as MPs demand more scrutiny of data use",
+          "link": "https://www.bbc.com/news/articles/c393w38lv3mo?at_medium=RSS&at_campaign=rss",
+          "summary": "NHS guidance that all hospitals should be using Palantir software from this month has sparked a backlash.",
+          "isoDate": "2026-04-14T18:57:51.000Z"
         },
         {
           "title": "Rolls-Royce launches new two-seater electric car",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.com/news/articles/czjw0zgz9zyo?at_medium=RSS&at_campaign=rss",
           "summary": "The Facebook owner recently lost a landmark social media addiction trial in California",
           "isoDate": "2026-04-10T15:44:12.000Z"
-        },
-        {
-          "title": "Mayor warns of London 'disinformation blizzard'",
-          "link": "https://www.bbc.com/news/articles/cp3l4kwer5ko?at_medium=RSS&at_campaign=rss",
-          "summary": "Sir Sadiq Khan claims London is being targeted with disinformation portraying it as a city \"in decline\".",
-          "isoDate": "2026-04-10T15:29:31.000Z"
         }
       ]
     },
@@ -234,15 +234,9 @@
           "isoDate": "2026-04-13T06:00:00.000Z"
         },
         {
-          "title": "Healthcare",
-          "link": "https://openai.com/academy/healthcare",
-          "summary": "Explore how clinicians use ChatGPT to support diagnosis, documentation, and patient care with secure, HIPAA-compliant AI tools.",
-          "isoDate": "2026-04-10T00:00:00.000Z"
-        },
-        {
-          "title": "Getting started with ChatGPT",
-          "link": "https://openai.com/academy/getting-started",
-          "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
+          "title": "ChatGPT for finance teams",
+          "link": "https://openai.com/academy/finance",
+          "summary": "Learn how finance teams use ChatGPT to streamline reporting, analyze data, improve forecasts, and communicate insights more clearly.",
           "isoDate": "2026-04-10T00:00:00.000Z"
         },
         {
@@ -252,15 +246,21 @@
           "isoDate": "2026-04-10T00:00:00.000Z"
         },
         {
-          "title": "Using custom GPTs",
-          "link": "https://openai.com/academy/custom-gpts",
-          "summary": "Learn how to build and use custom GPTs to automate workflows, maintain consistent outputs, and create purpose-built AI assistants.",
+          "title": "Getting started with ChatGPT",
+          "link": "https://openai.com/academy/getting-started",
+          "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
           "isoDate": "2026-04-10T00:00:00.000Z"
         },
         {
-          "title": "Working with files in ChatGPT",
-          "link": "https://openai.com/academy/working-with-files",
-          "summary": "Learn how to upload and work with files in ChatGPT to analyze data, summarize documents, and generate content from PDFs, spreadsheets, and more.",
+          "title": "Financial services",
+          "link": "https://openai.com/academy/financial-services",
+          "summary": "Explore AI resources for financial services, including prompt packs, GPTs, guides, and tools to help institutions deploy and scale AI securely.",
+          "isoDate": "2026-04-10T00:00:00.000Z"
+        },
+        {
+          "title": "Our response to the Axios developer tool compromise",
+          "link": "https://openai.com/index/axios-developer-tool-compromise",
+          "summary": "OpenAI responds to the Axios supply chain attack by rotating macOS code signing certificates, updating apps, and confirming no user data was compromised.",
           "isoDate": "2026-04-10T00:00:00.000Z"
         }
       ]
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-04-15T02:31:38.979Z"
+          "isoDate": "2026-04-15T07:45:40.559Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-04-15T02:31:35.953Z"
+          "isoDate": "2026-04-15T07:45:38.216Z"
         },
         {
           "title": "OpenAI Engineer Helps Companies Attract Buyers and Boost Sales",
