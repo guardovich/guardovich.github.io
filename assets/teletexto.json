@@ -1,69 +1,69 @@
 {
-  "generatedAt": "2026-04-16T07:46:14.086Z",
+  "generatedAt": "2026-04-16T13:43:37.629Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
         {
-          "title": "Florida surgeon charged with killing man after removing liver instead of spleen",
-          "link": "https://arstechnica.com/health/2026/04/florida-surgeon-charged-with-killing-man-after-removing-liver-instead-of-spleen/",
-          "summary": "It wasn't the first time the surgeon cut out the wrong organ.",
-          "isoDate": "2026-04-15T22:25:30.000Z"
+          "title": "Moft adds a tracker and shutter button to its magnetic tripod wallet",
+          "link": "https://www.theverge.com/tech/913062/moft-trackable-tripod-wallet-magsafe-magnetic-camera-shutter-button",
+          "summary": "Moft squeezes even more functionality into its folding MagSafe wallet. | Image: Moft\t\n\nMoft's MagSafe wallets have long been overachievers with folding designs that double as smartphone stands. Its latest creation, the Moft Trackable Tripod Wallet, does even more. It carries forward the same functionality as Moft's original magnetic wallet that unfolds into a miniature tripod, but adds built-in tracking capabilities through Apple's Find My network, and a wireless remote for your phone's shutter button, for just $10 more.\nThe Trackable Tripod Wallet is now available for preorder through Moft's online store for $59.99, with shipping expected to start in late April. At 10mm it's about a millimeter thicker than the previous versi …\nRead the full story at The Verge.",
+          "isoDate": "2026-04-16T13:30:18.000Z"
         },
         {
-          "title": "YouTube now lets you turn off Shorts",
-          "link": "https://www.theverge.com/streaming/912898/youtube-shorts-feed-limit-zero-minutes",
-          "summary": "YouTube's time management settings now have an option to put a zero-minute time limit on Shorts, effectively removing them from your app in Android and iOS. The option is an update to the Shorts timer YouTube originally announced in October; the lowest previous option was 15 minutes. \nThe feature was expanded in January to give parents some control over how long their kids spend scrolling through Shorts, with an option for zero minutes \"coming soon.\" According to YouTube spokesperson Makenzie Spiller, the option to set the timer to zero is now \"live for all parents, and is currently being rolled out to everyone,\" including users with regula …\nRead the full story at The Verge.",
-          "isoDate": "2026-04-15T22:18:36.000Z"
+          "title": "Canva’s AI 2.0 update goes all in on prompt-powered design tools",
+          "link": "https://www.theverge.com/tech/913068/canva-ai-2-update-prompt-based-editing-availability",
+          "summary": "Canva has overhauled its design and workspace suite as it attempts to become the ultimate centralized hub for AI-powered content creation. The platform announced its Canva AI 2.0 update today, introducing updated tools and new prompt-based editing capabilities that allow users to make or adjust their work by describing what they want to create to Canva's AI assistant in their own words.\nThe update includes a new orchestration layer for Canva's AI models that lets creatives and marketers access the platform's entire suite of tools from a single, unified conversational interface. That means users can ask the chatbot to perform actions like \"c …\nRead the full story at The Verge.",
+          "isoDate": "2026-04-16T13:07:09.000Z"
         },
         {
-          "title": "Jury finds Live Nation/Ticketmaster is illegal monopoly that overcharged fans",
-          "link": "https://arstechnica.com/tech-policy/2026/04/jury-finds-live-nation-ticketmaster-is-illegal-monopoly-that-overcharged-fans/",
-          "summary": "Trump administration dropped out of the trial, but 33 states kept fighting.",
-          "isoDate": "2026-04-15T22:06:23.000Z"
+          "title": "Making AI operational in constrained public sector environments",
+          "link": "https://www.technologyreview.com/2026/04/16/1135216/making-ai-operational-in-constrained-public-sector-environments/",
+          "summary": "The AI boom has hit across industries, and public sector organizations are facing pressure to accelerate adoption. At the same time, government institutions face distinct constraints around security, governance, and operations that set them apart from their business counterparts. For this reason, purpose-built small language models (SLMs) offer a promising path to operationalize AI in…",
+          "isoDate": "2026-04-16T13:00:00.000Z"
         },
         {
-          "title": "\"TotalRecall Reloaded\" tool finds a side entrance to Windows 11's Recall database",
-          "link": "https://arstechnica.com/gadgets/2026/04/totalrecall-reloaded-tool-finds-a-side-entrance-to-windows-11s-recall-database/",
-          "summary": "\"The vault is solid. The delivery truck is not.\"",
-          "isoDate": "2026-04-15T20:36:28.000Z"
+          "title": "Treating enterprise AI as an operating layer",
+          "link": "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/",
+          "summary": "There’s a fault line running through enterprise AI, and it’s not the one getting the most attention. The public conversation still tracks foundation models and benchmarks — GPT versus Gemini, reasoning scores, and marginal capability gains. But in practice, the more durable advantage is structural: who owns the operating layer where intelligence is applied, governed,…",
+          "isoDate": "2026-04-16T13:00:00.000Z"
         },
         {
-          "title": "Ford’s EV and software chief Doug Field is leaving the company",
-          "link": "https://www.theverge.com/transportation/912647/ford-doug-field-leaving-ev-software",
-          "summary": "Ford is shaking things up as it relates to its EV and software teams. Doug Field, who left Apple five years ago to helm Ford's multibillion-dollar bet on electric vehicles and software, is stepping down next month. Getting a promotion will be Alan Clarke, the ex-Tesla engineer who now leads Ford's California-based skunkworks lab. Clarke's new title will be vice president of advanced development projects, and he will continue to helm the effort to develop Ford's Universal Electric Vehicle (UEV) Platform.\nThe shake-up comes less five months after Ford announced a massive $19.5 billion writedown on its EV investment, as well as the discontinua …\nRead the full story at The Verge.",
-          "isoDate": "2026-04-15T20:05:00.000Z"
+          "title": "Meta blames RAM shortage for $100 Quest 3 price hike",
+          "link": "https://www.theverge.com/tech/912921/meta-quest-3-3s-vr-price-hike-ram-memory-shortage",
+          "summary": "Meta is the next tech company to hike up hardware prices due to the global memory shortage.\nBeginning April 19th, Meta's 128GB Quest 3S VR headset will cost $349.99, the 256GB Quest 3S will cost $449.99, and the Quest 3 will cost $599.99. Those are increases of $50 for both Quest 3S models and $100 for the Quest 3. \nRefurbished units will be getting a price hike, too. The refurbished 128GB and 256GB Quest 3S models are similarly getting a $50 bump to $319.99 and $409.99, while a refurbished Quest 3 will cost $549.99, a $170 increase. Accessories will keep their current prices. \n\"We're making this change because the cost of building high-p …\nRead the full story at The Verge.",
+          "isoDate": "2026-04-16T13:00:00.000Z"
         },
         {
-          "title": "Trump’s posting even more AI-generated Trump-Jesus fan art",
-          "link": "https://www.theverge.com/column/912627/trump-jesus-ai-whcd-penguin-meme",
-          "summary": "The version posted by @realdonaldtrump/Truth Social.\t\n\nHello and welcome to Regulator, a newsletter for Verge subscribers about Big Tech power plays in Washington and beyond. (And when I say beyond, I mean the great beyond, like Heaven, maybe.) If you've found your way to this newsletter from the wild, annual subscriptions are currently 50 percent off. That's $30 a year for access to an entire newsroom full of reporting about technology and how it's eating society alive - not just in politics!\n(I will also accept confidential tips at tina.nguyen+tips@theverge.com.)\nYou can't spell \"antichrist\" without \"AI\"\nOf all the things that would have fractured the religious right's alliance with Donald Tr …\nRead the full story at The Verge.",
-          "isoDate": "2026-04-15T19:50:31.000Z"
+          "title": "Intel&#8217;s cheaper Panther Lake chips are for budget-friendly laptops",
+          "link": "https://www.theverge.com/tech/913026/intel-core-series-3-panther-lake-18a-budget-chips-specs",
+          "summary": "Intel is announcing a family of cheaper Panther Lake laptop processors called the Core Series 3 line. They're built on the same Intel 18A process as the higher-end Core Ultra Series 3 family of chips, but they have less of just about everything spec-wise.\nThe Core Series 3 (non-Ultra) line encompasses six different chips, with the highest end being a six-core Intel Core 7 360 and the low-end model being a five-core Intel Core 3 304. Compared to their Ultra counterparts, the Core Series 3 across the board have fewer CPU cores, Xe graphics cores, and PCIe lanes. They're capable of less TOPS, a lower TDP wattage, and are limited to two Thunder …\nRead the full story at The Verge.",
+          "isoDate": "2026-04-16T13:00:00.000Z"
         },
         {
-          "title": "Google releases new apps for Windows and MacOS",
-          "link": "https://arstechnica.com/gadgets/2026/04/google-launches-search-app-for-windows-gemini-app-for-mac/",
-          "summary": "Google mostly creates products for the web, but it has some new desktop apps today.",
-          "isoDate": "2026-04-15T19:46:43.000Z"
+          "title": "The Download: cyberscammers’ banking bypasses, and carbon removal troubles",
+          "link": "https://www.technologyreview.com/2026/04/16/1136034/the-download-cyberscammers-banking-bypasses-microsoft-carbon-removal-troubles/",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Cyberscammers are bypassing banks’ security with illicit tools sold on Telegram  Inside a money-laundering center in Cambodia, an employee opens a banking app on his phone. It asks for a photo linked to the…",
+          "isoDate": "2026-04-16T12:10:00.000Z"
         },
         {
-          "title": "Boston Dynamics’ robot dog now reads gauges and thermometers with Google's AI",
-          "link": "https://arstechnica.com/ai/2026/04/robot-dogs-now-read-gauges-and-thermometers-using-google-gemini/",
-          "summary": "Google's AI enables robots to read gauges while inspecting industrial facilities.",
-          "isoDate": "2026-04-15T19:34:33.000Z"
+          "title": "Why having “humans in the loop” in an AI war is an illusion",
+          "link": "https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/",
+          "summary": "The availability of artificial intelligence for use in warfare is at the center of a legal battle between Anthropic and the Pentagon. This debate has become urgent, with AI playing a bigger role than ever before in the current conflict with Iran. AI is no longer just helping humans analyze intelligence. It is now an…",
+          "isoDate": "2026-04-16T12:00:00.000Z"
         },
         {
-          "title": "Prime Video shows “technical difficulties” sign instead of NBA game in overtime",
-          "link": "https://arstechnica.com/gadgets/2026/04/nba-fans-cry-foul-as-prime-video-cuts-out-during-overtime-fails-to-sync-audio/",
-          "summary": "\"Am I trippin??\" asks LeBron James.",
-          "isoDate": "2026-04-15T19:16:43.000Z"
+          "title": "DJI’s Osmo Pocket 4 camera is better at capturing slo-mo footage and photos",
+          "link": "https://www.theverge.com/tech/912381/dji-osmo-pocket-4-camera-stabilizied-gimbal-4k-slow-motion",
+          "summary": "The Osmo Pocket 4 is better at shooting in low light situations with an improved sensor and new fill light accessory. | Image: DJI\t\n\nFollowing months of leaks, DJI has announced the fourth version of its handheld stabilized vlogger camera. Unlike the Osmo Pocket 3 that debuted way back in September 2023 with major upgrades like a 1-inch sensor and a larger rotating touchscreen, the new Osmo Pocket 4 features similar hardware with upgraded capabilities including higher frame rates and built-in storage.\nAs with recently introduced DJI products like the Osmo Nano action cam, the Avata 360 drone, and the Osmo Mobile 8 stabilizer, the Osmo Pocket 4 won't launch in the US. \"The Osmo Pocket 4 will not be available in the US market as the application for authorization is still p …\nRead the full story at The Verge.",
+          "isoDate": "2026-04-16T12:00:00.000Z"
         },
         {
-          "title": "Ticketmaster is an illegal monopoly, jury finds",
-          "link": "https://www.theverge.com/policy/912689/live-nation-ticketmaster-antitrust-monopoly-trial-verdict",
-          "summary": "Live Nation-Ticketmaster is an illegal monopolist, a Manhattan jury found, according to Bloomberg. The jury found the company liable on three counts: illegally monopolizing the market for live event ticketing, amphitheaters, and tying its concert promotions business with the use of its venues, Bloomberg reported.\nThe verdict, reached after several days of deliberation, leaves the live entertainment giant open to a potential breakup - which was the stated goal of the lawsuit back when it was filed by the Biden administration's Department of Justice. Such an outcome would go far beyond the settlement that the Trump administration's DOJ reache …\nRead the full story at The Verge.",
-          "isoDate": "2026-04-15T19:09:17.000Z"
+          "title": "Govee’s new LED Lightwall comes with its own self-standing frame",
+          "link": "https://www.theverge.com/tech/912668/govee-lightwall-color-changing-led-aluminum-frame-smart-home",
+          "summary": "Govee has announced an upgraded version of its hanging Curtain Lights Pro that can instead be used nearly anywhere you have access to an outlet or large battery. At $449.99, Govee's new Lightwall is more than twice as expensive as the $199.99 Curtain Lights Pro, but comes with more LEDs in a denser array and a self-standing aluminum frame that can be assembled in 10 to 15 minutes without the need for any tools.\nWhen hung from its stand the Lightwall measures 7.9 feet wide and 5.3 feet tall and features 1,536 color-changing LEDs spaced about 1.96 inches apart in a 48 x 32 grid. It's water-resistant, and with the ability to refresh at up to 3 …\nRead the full story at The Verge.",
+          "isoDate": "2026-04-16T12:00:00.000Z"
         }
       ]
     },
@@ -76,6 +76,36 @@
           "link": "https://science.nasa.gov/earth/earth-observatory/eyeing-the-richat-structure/",
           "summary": "The circular geologic feature in northwestern Africa can be hard to recognize from the ground, but it is obvious when viewed from space.",
           "isoDate": "2026-04-16T04:00:00.000Z"
+        },
+        {
+          "title": "Venus’s impenetrable haze could be made of cosmic dust",
+          "link": "https://www.nature.com/articles/d41586-026-01212-5",
+          "summary": "Nature, Published online: 16 April 2026; doi:10.1038/d41586-026-01212-5\nModelling suggests that the layer beneath the planet’s acidic clouds is comprised of particles from outer space.",
+          "isoDate": "2026-04-16T00:00:00.000Z"
+        },
+        {
+          "title": "Graves reveal plague’s inequitable toll ",
+          "link": "https://www.nature.com/articles/d41586-026-01210-7",
+          "summary": "Nature, Published online: 16 April 2026; doi:10.1038/d41586-026-01210-7\nMost of the individuals in a seventeenth-century-Switzerland burial site had performed strenuous manual labour and died before the age of 20.",
+          "isoDate": "2026-04-16T00:00:00.000Z"
+        },
+        {
+          "title": "Ageing could prime women for autoimmune disorders",
+          "link": "https://www.nature.com/articles/d41586-026-01213-4",
+          "summary": "Nature, Published online: 16 April 2026; doi:10.1038/d41586-026-01213-4\nStudy of gene expression also finds age-related increases in men’s vulnerability to certain cancers.",
+          "isoDate": "2026-04-16T00:00:00.000Z"
+        },
+        {
+          "title": "The nine-to-five PhD: mere myth or an achievable goal?",
+          "link": "https://www.nature.com/articles/d41586-026-00509-9",
+          "summary": "Nature, Published online: 16 April 2026; doi:10.1038/d41586-026-00509-9\nCan you squeeze your graduate programme into a 40-hour working week? These 13 current and former PhD candidates reveal their top time-management tips.",
+          "isoDate": "2026-04-16T00:00:00.000Z"
+        },
+        {
+          "title": " Quantum computers take on health care: light-sensitive cancer drugs win US$2 million contest",
+          "link": "https://www.nature.com/articles/d41586-026-01236-x",
+          "summary": "Nature, Published online: 16 April 2026; doi:10.1038/d41586-026-01236-x\nQuantum machines are making inroads into biology, but have no ‘advantage’ over classical machines yet.",
+          "isoDate": "2026-04-16T00:00:00.000Z"
         },
         {
           "title": "I Am Artemis: Rebekah Tolatovicz",
@@ -100,36 +130,6 @@
           "link": "https://science.nasa.gov/earth/2026-nsta-hyperwall-schedule/",
           "summary": "NASA Science at NSTA Hyperwall Schedule, April 16-18, 2026 Join NASA in the Exhibit Hall (Booth #1265) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. THURSDAY, APRIL 16 11:00 AMTeaching Space Weather in the Artemis Mission EraChristina Milotte11:15 AM5E StoryMaps using NASA ResourcesTina HarteBallinger11:30 AMGrowing Beyond Earth: A Partnership BetweenFairchild Tropical Botanic Garden […]",
           "isoDate": "2026-04-15T15:59:44.000Z"
-        },
-        {
-          "title": "NASA’s SPHEREx Mission Maps Water Ice Throughout Cygnus X",
-          "link": "https://science.nasa.gov/photojournal/nasas-spherex-mission-maps-water-ice-throughout-cygnus-x/",
-          "summary": "Description An observation made by NASA’s SPHEREx (Spectro-Photometer for the History of the Universe, Epoch of Reionization, and Ices Explorer) shows the chemical signatures of water ice (shown in bright blue) and polycyclic aromatic hydrocarbons (orange) in Cygnus X, one of the most active and turbulent regions of star birth in our Milky Way galaxy. One […]",
-          "isoDate": "2026-04-15T15:04:38.000Z"
-        },
-        {
-          "title": "‘Interstellar Glaciers’: NASA’s SPHEREx Maps Vast Galactic Ice Regions",
-          "link": "https://www.nasa.gov/missions/spherex/interstellar-glaciers-nasas-spherex-maps-vast-galactic-ice-regions/",
-          "summary": "NASA’s SPHEREx (Spectro-Photometer for the History of the Universe, Epoch of Reionization, and Ices Explorer) mission has mapped interstellar ice at an unprecedented scale. Covering regions in our Milky Way galaxy more than 600 light-years across, the ice was found inside giant molecular clouds — vast regions of gas and dust where dense clumps of […]",
-          "isoDate": "2026-04-15T15:02:15.000Z"
-        },
-        {
-          "title": "Artemis II Crew Returns to Houston",
-          "link": "https://www.nasa.gov/image-article/artemis-ii-crew-returns-to-houston/",
-          "summary": "NASA’s Artemis II crew – NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen – smile at friends, family, and colleagues. They shared brief remarks with the crowd after landing at Ellington Airport near NASA’s Johnson Space Center in Houston on Saturday, April 11, 2026, after a […]",
-          "isoDate": "2026-04-15T14:37:38.000Z"
-        },
-        {
-          "title": "Honoring Alex Goetz, a Landsat Legend ",
-          "link": "https://science.nasa.gov/missions/landsat/honoring-alex-goetz-a-landsat-legend/",
-          "summary": "Dr. Alex Goetz, who passed away in 2025, was a member of the Landsat 7 Science Team and a key figure in the history of Landsat science.",
-          "isoDate": "2026-04-15T14:00:00.000Z"
-        },
-        {
-          "title": "Metrics",
-          "link": "https://www.nasa.gov/centers-and-facilities/nssc/metrics/",
-          "summary": "Services Catalog Click here to view the FY26 Services Catalog The catalogs provide service description, chargeback rate, unit of measure, and service level indicators for each NSSC service. Service Level Agreement (SLA) Click here to view the Service Level Agreement The SLA provides information about roles, responsibilities, rates, and service level indicators for all NASA […]",
-          "isoDate": "2026-04-15T13:29:12.000Z"
         }
       ]
     },
@@ -141,19 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-04-16T07:46:09.058Z"
+          "isoDate": "2026-04-16T13:43:34.400Z"
         },
         {
-          "title": "Social media leaders called to Downing Street over children's safety",
+          "title": "Things can't go on like this with online safety, Starmer tells tech bosses",
           "link": "https://www.bbc.com/news/articles/crl11ynjyn1o?at_medium=RSS&at_campaign=rss",
-          "summary": "Top executives from firms such as Meta and YouTube will be asked what they are doing to protect children.",
-          "isoDate": "2026-04-15T21:30:40.000Z"
-        },
-        {
-          "title": "Snapchat owner cuts 1,000 jobs as says AI will reduce repetitive work",
-          "link": "https://www.bbc.com/news/articles/cdxdd0z2w11o?at_medium=RSS&at_campaign=rss",
-          "summary": "The Snapchat owner is laying off around 16% of staff and withdrawn hundreds of open job roles.",
-          "isoDate": "2026-04-15T15:15:13.000Z"
+          "summary": "It comes as the government continues to consult on whether to ban under-16s from social media in the UK.",
+          "isoDate": "2026-04-16T09:20:36.000Z"
         },
         {
           "title": "Booking.com customers warned of 'reservation hijacking' after hack",
@@ -174,18 +168,6 @@
           "isoDate": "2026-04-14T21:30:00.000Z"
         },
         {
-          "title": "Palantir defends its record as MPs demand more scrutiny of data use",
-          "link": "https://www.bbc.com/news/articles/c393w38lv3mo?at_medium=RSS&at_campaign=rss",
-          "summary": "NHS guidance that all hospitals should be using Palantir software from this month has sparked a backlash.",
-          "isoDate": "2026-04-14T18:57:51.000Z"
-        },
-        {
-          "title": "Rolls-Royce launches new two-seater electric car",
-          "link": "https://www.bbc.com/news/articles/c1eqqlnzq7yo?at_medium=RSS&at_campaign=rss",
-          "summary": "The company says it will create only 100 of its Project Nightingale in its Goodwood headquarters.",
-          "isoDate": "2026-04-14T12:06:48.000Z"
-        },
-        {
           "title": "Man charged with attempted murder over attack on home of OpenAI's Sam Altman",
           "link": "https://www.bbc.com/news/articles/cq597n1pg6lo?at_medium=RSS&at_campaign=rss",
           "summary": "The Texas man, who also faces federal felony charges, allegedly had documents advocating for violence against AI executives.",
@@ -196,6 +178,24 @@
           "link": "https://www.bbc.com/news/articles/c20q4nv89yzo?at_medium=RSS&at_campaign=rss",
           "summary": "With some promising computing companies in the field, could Europe be a leader in quantum tech?",
           "isoDate": "2026-04-13T23:35:56.000Z"
+        },
+        {
+          "title": "GTA-maker Rockstar Games hacked again but downplays impact",
+          "link": "https://www.bbc.com/news/articles/cx2dg5g1le7o?at_medium=RSS&at_campaign=rss",
+          "summary": "The incident marks the second time the games giant has been hacked by young, English-speaking hackers.",
+          "isoDate": "2026-04-13T15:10:38.000Z"
+        },
+        {
+          "title": "Roblox defends expanded age‑checks after parents raise concerns over errors",
+          "link": "https://www.bbc.com/news/articles/cj94y9r0p10o?at_medium=RSS&at_campaign=rss",
+          "summary": "With 144m daily users, the gaming company is extending its tech to introduce two age‑specific accounts.",
+          "isoDate": "2026-04-13T12:19:13.000Z"
+        },
+        {
+          "title": "OpenAI boss Sam Altman's home targeted with Molotov cocktail",
+          "link": "https://www.bbc.com/news/articles/czx91rdxpyeo?at_medium=RSS&at_campaign=rss",
+          "summary": "San Francisco police have arrested a 20-year-old suspect after a perimeter gate was set alight.",
+          "isoDate": "2026-04-10T21:01:18.000Z"
         }
       ]
     },
@@ -203,6 +203,12 @@
       "header": "160  INTELIGENCIA ARTIFICIAL",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Accelerating the cyber defense ecosystem that protects us all",
+          "link": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
+          "summary": "Leading security firms and enterprises join OpenAI’s Trusted Access for Cyber, using GPT-5.4-Cyber and $10M in API grants to strengthen global cyber defense.",
+          "isoDate": "2026-04-16T00:00:00.000Z"
+        },
         {
           "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
           "link": "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/",
@@ -246,21 +252,15 @@
           "isoDate": "2026-04-13T06:00:00.000Z"
         },
         {
-          "title": "Prompting fundamentals",
-          "link": "https://openai.com/academy/prompting",
-          "summary": "Learn prompting fundamentals and how to write clear, effective prompts to get better, more useful responses from ChatGPT.",
+          "title": "Responsible and safe use of AI ",
+          "link": "https://openai.com/academy/responsible-and-safe-use",
+          "summary": "Learn how to use AI responsibly with best practices for safety, accuracy, and transparency when using tools like ChatGPT.",
           "isoDate": "2026-04-10T00:00:00.000Z"
         },
         {
-          "title": "Using projects in ChatGPT",
-          "link": "https://openai.com/academy/projects",
-          "summary": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
-          "isoDate": "2026-04-10T00:00:00.000Z"
-        },
-        {
-          "title": "ChatGPT for research",
-          "link": "https://openai.com/academy/research",
-          "summary": "Learn how to use ChatGPT for research to gather sources, analyze information, and create structured, citation-backed insights.",
+          "title": "Writing with ChatGPT",
+          "link": "https://openai.com/academy/writing",
+          "summary": "Learn how to use ChatGPT for writing to draft, revise, and refine content with clear structure, tone, and intent.",
           "isoDate": "2026-04-10T00:00:00.000Z"
         }
       ]
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-04-16T07:46:12.711Z"
+          "isoDate": "2026-04-16T13:43:36.415Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-04-16T07:46:10.499Z"
+          "isoDate": "2026-04-16T13:43:35.679Z"
         },
         {
           "title": "Stealth Signals Are Bypassing Iran’s Internet Blackout",
@@ -288,9 +288,9 @@
           "isoDate": "2026-04-15T13:00:02.000Z"
         },
         {
-          "title": "Crypto Faces Increased Threat from Quantum Attacks",
+          "title": "Crypto Faces Increased Threat From Quantum Attacks",
           "link": "https://spectrum.ieee.org/quantum-safe-crypto",
-          "summary": "The race to transition online security protocols to ones that can’t be cracked by a quantum computer is already on. The algorithms that are commonly used today to protect data online—RSA and elliptic curve cryptography—are uncrackable by supercomputers, but a large enough quantum computer would make quick work of them. There are algorithms secure enough to be out of reach for both classical and future quantum machines, called post-quantum cryptography, but transitioning to these is a work in progress. \nLate last month, the team at Google Quantum AI published a whitepaper that added significant urgency to this race. In it, the team showed that the size of a quantum computer that would pose a cryptographic threat is approximately twenty times smaller than previously thought. This is still far from accessible to the quantum computers that exist today: the largest machines currently consist of approximately 1,000 quantum bits, or qubits, and the whitepaper estimated that about 500 times as much is needed. Nonetheless, this shortens the timeline to switch over to post-quantum algorithms. \nThe news had a surprising beneficiary: obscure cryptocurrency Algorand jumped 44% in price in response. The whitepaper called out Algorand specifically for implementing post-quantum cryptography on their blockchain. We caught up with Algorand’s chief scientific officer and professor of computer science and engineering at the University of Michigan, Chris Peikert, to understand how this announcement is impacting cryptography, why cryptocurrencies are feeling the effects, and what the future might hold. Peikert’s early work on a particular type of algorithm known as lattice cryptography underlies most post-quantum security today.\nIEEE Spectrum: What is the significance of this Google Quantum AI whitepaper?\nPeikert: The upshot of this paper is that it shows that a quantum computer would be able to break some of the cryptography that is most widely used, especially in blockchains and cryptocurrencies, with much, much fewer resources than had previously been established. Those resources include the time that it would take to do so and the number of qubits (or quantum bits) that it would have to use.\nThis cryptography is very central to not just cryptocurrencies but more broadly, to cryptography on the internet. It is also used for secure web connections between web browsers and web servers. Versions of elliptic curve cryptography are used in national security systems and military encryption. It’s very prevalent and pervasive in all modern networks and protocols.\nAnd not only was this paper improving the algorithms, but there was also a concurrent paper showing that the hardware itself was substantially improved. The claim here was that the number of physical qubits needed to achieve a certain kind of logical qubit was also greatly reduced. These two kinds of improvements are compounding upon each other. It’s a kind of a win-win situation from the quantum computing perspective, but a lose-lose situation for cryptography.\nIEEE Spectrum: What do Google AI’s findings mean for cryptocurrencies and the broader cybersecurity ecosystem?\nPeikert: There’s always been this looming threat in the distance of quantum computers breaking a large fraction of the cryptography that’s used throughout the cryptocurrency ecosystem. And I think what this paper did was really the loudest alarm yet that these kinds of quantum attacks might not be as far off as some have suspected, or hoped, in recent years. It’s caused a re-evaluation across the industry, and a moving up of the timeline for when quantum computers might be capable of breaking this cryptography.\nWhen we think about the timelines and when it’s important to have completed these transitions [to post-quantum cryptography], we also need to factor in the unknown improvements that we should expect to see in the coming years. The science of quantum computing will not stay static, and there will be these further breakthroughs. We can’t say exactly what they will be or when they will come, but you can bet that they will be coming.\nIEEE Spectrum: What is your guess on if or when quantum computers will be able to break cryptography in the real world?\nPeikert: Instead of thinking about a specific date when we expect them to come, we have to think about the probabilities and the risks as time goes on. There have been huge breakthrough developments, including not only this paper, but also some last year. But even with these, I think that the chance of a cryptographic attack by quantum computers being successful in the next three years is extremely low, maybe less than a percent. But then, as you get out to several years, like 5, 6, or 10 years, one has to seriously consider a probability, maybe 5% or 10% or more. So it’s still rather small, but significant enough that we have to worry about the risk, because the value that is protected by this kind of cryptography is really enormous. \nThe US government has put 2035 as its target for migrating all of the national security systems to post quantum cryptography. That seems like a prudent date, given the timelines that it takes to upgrade cryptography. It’s a slow process. It has to be done very deliberately and carefully to make sure that you’re not introducing new vulnerabilities, that you’re not making mistakes, that everything still works properly. So, you know, given the outlook for quantum computers on the horizon, it’s really important that we prepare now, or ideally, yesterday, or a few years ago, for that kind of transition.\nIEEE Spectrum: Are there significant roadblocks you see to industrial adoption of post-quantum cryptography going forward?\nPeikert: Cryptography is very hard to change. We’ve only had one or maybe two major transitions in cryptography since the early 1980s or late 1970s when the field first was invented. We don’t really have a systematic way of transitioning cryptography. \nAn additional challenge is that the performance tradeoffs are very different in post-quantum cryptography than they are in the legacy systems. Keys and cipher texts and digital signatures are all significantly larger in post-quantum cryptography, but the computations are actually faster, typically. People have optimized cryptography for speed in the past, and we have very good fast speeds now for post-quantum cryptography, but the sizes of the keys are a challenge. \nEspecially in blockchain applications, like cryptocurrencies, space on the blockchain is at a premium. So it calls for a reevaluation in many applications of how we integrate the cryptography into the system, and that work is ongoing. And, the blockchain ecosystem uses a lot of advanced cryptography, exotic things like zero-knowledge proofs. In many cases, we have rudimentary constructions of these fancy cryptography tools from post-quantum type mathematics, but they’re not nearly as mature and industry ready as the legacy systems that have been deployed. It continues to be an important technical challenge to develop post-quantum versions of these very fancy cryptographic schemes that are used in cutting edge applications.\nIEEE Spectrum: As an academic cryptography researcher, what attracted you to work with a cryptocurrency, and Algorand in particular?\nPeikert: My former PhD advisor is Silvio Micali, the inventor of Algorand. The system is very elegant. It is a very high performing blockchain system and it uses very little energy, has fast transaction finalization, and a number of other great features. And Silvio appreciated that this quantum threat was real and was coming, and the team approached me about helping to improve the Algorand protocol at the basic levels to become more post-quantum secure in 2021. That was a very exciting opportunity, because it was a difficult engineering and scientific challenge to integrate post-quantum cryptography into all the different technical and cryptographic mechanisms that were underlying the protocol.\nIEEE Spectrum: What is the current status of post-quantum cryptography in Algorand, and blockchains in general? \nPeikert: We’ve identified some of the most pressing issues and worked our way through some of them, but it’s a many-faceted problem overall. We started with the integrity of the chain itself, which is the transaction history that everybody has to agree upon. \nOur first major project was developing a system that would add post-quantum security to the history of the chain. We developed a system called state proofs for that, which is a mixture of ordinary post-quantum cryptography and also some more fancy cryptography: It’s a way of taking a large number of signatures and digesting them down into a much smaller number of signatures, while still being confident that these large number of signatures actually exist and are properly formed. We also followed it with other papers and projects that are about adding post-quantum cryptography and security to other aspects of the blockchain in the Algorand ecosystem. \nIt’s not a complete project yet. We don’t claim to be fully post-quantum secure. That’s a very challenging target to hit, and there are aspects that we will continue to work on into the near future.\nIEEE Spectrum: In your view, will we adopt post-quantum cryptography before the risks actually catch up with us? \nPeikert: I tend to be an optimist about these things. I think that it’s a very good thing that more people in decision making roles are recognizing that this is an important topic, and that these kinds of migrations have to be done. I think that we can’t be complacent about it, and we can’t kick the can down the road much longer. But I do see that the focus is being put on this important problem, so I’m optimistic that most important systems will eventually have good either mitigations or full migrations in place. \nBut it’s also a point on the horizon that we don’t know exactly when it will come. So, there is the possibility that there is a huge breakthrough, and we have many fewer years than we might have hoped for, and that we don’t get all the systems upgraded that we would like to have fixed by the time quantum computers arrive.",
+          "summary": "The race to transition online security protocols to ones that can’t be cracked by a quantum computer is already on. The algorithms that are commonly used today to protect data online—RSA and elliptic curve cryptography—are uncrackable by supercomputers, but a large enough quantum computer would make quick work of them. There are algorithms secure enough to be out of reach for both classical and future quantum machines, called post-quantum cryptography, but transitioning to these is a work in progress. \nLate last month, the team at Google Quantum AI published a whitepaper that added significant urgency to this race. In it, the team showed that the size of a quantum computer that would pose a cryptographic threat is approximately 20 times smaller than previously thought. This is still far from accessible to the quantum computers that exist today: The largest machines currently consist of approximately 1,000 quantum bits, or qubits, and the whitepaper estimated that about 500 times as much is needed. Nonetheless, this shortens the timeline to switch over to post-quantum algorithms. \nThe news had a surprising beneficiary: Obscure cryptocurrency Algorand jumped 44% in price in response. The whitepaper called out Algorand specifically for implementing post-quantum cryptography on their blockchain. We caught up with Algorand’s chief scientific officer and professor of computer science and engineering at the University of Michigan, Chris Peikert, to understand how this announcement is impacting cryptography, why cryptocurrencies are feeling the effects, and what the future might hold. Peikert’s early work on a particular type of algorithm known as lattice cryptography underlies most post-quantum security today.\nIEEE Spectrum: What is the significance of this Google Quantum AI whitepaper?\nPeikert: The upshot of this paper is that it shows that a quantum computer would be able to break some of the cryptography that is most widely used, especially in blockchains and cryptocurrencies, with much, much fewer resources than had previously been established. Those resources include the time that it would take to do so and the number of qubits (or quantum bits) that it would have to use.\nThis cryptography is very central to not just cryptocurrencies, but more broadly to cryptography on the internet. It is also used for secure web connections between web browsers and web servers. Versions of elliptic curve cryptography are used in national security systems and military encryption. It’s very prevalent and pervasive in all modern networks and protocols.\nAnd not only was this paper improving the algorithms, but there was also a concurrent paper showing that the hardware itself was substantially improved. The claim here was that the number of physical qubits needed to achieve a certain kind of logical qubit was also greatly reduced. These two kinds of improvements are compounding upon each other. It’s a kind of a win-win situation from the quantum computing perspective, but a lose-lose situation for cryptography.\nIEEE Spectrum: What do Google AI’s findings mean for cryptocurrencies and the broader cybersecurity ecosystem?\nPeikert: There’s always been this looming threat in the distance of quantum computers breaking a large fraction of the cryptography that’s used throughout the cryptocurrency ecosystem. And I think what this paper did was really the loudest alarm yet that these kinds of quantum attacks might not be as far off as some have suspected, or hoped, in recent years. It’s caused a reevaluation across the industry, and a moving up of the timeline for when quantum computers might be capable of breaking this cryptography.\nWhen we think about the timelines and when it’s important to have completed these transitions [to post-quantum cryptography], we also need to factor in the unknown improvements that we should expect to see in the coming years. The science of quantum computing will not stay static, and there will be these further breakthroughs. We can’t say exactly what they will be or when they will come, but you can bet that they will be coming.\nIEEE Spectrum: What is your guess on if or when quantum computers will be able to break cryptography in the real world?\nPeikert: Instead of thinking about a specific date when we expect them to come, we have to think about the probabilities and the risks as time goes on. There have been huge breakthrough developments, including not only this paper, but also some last year. But even with these, I think that the chance of a cryptographic attack by quantum computers being successful in the next three years is extremely low, maybe less than a percent. But then, as you get out to several years, like five, six, or 10 years, one has to seriously consider a probability, maybe 5 percent or 10 percent or more. So it’s still rather small, but significant enough that we have to worry about the risk, because the value that is protected by this kind of cryptography is really enormous. \nThe U.S. government has put 2035 as its target for migrating all of the national security systems to post-quantum cryptography. That seems like a prudent date, given the timelines that it takes to upgrade cryptography. It’s a slow process. It has to be done very deliberately and carefully to make sure that you’re not introducing new vulnerabilities, that you’re not making mistakes, that everything still works properly. So, you know, given the outlook for quantum computers on the horizon, it’s really important that we prepare now, or ideally, yesterday, or a few years ago, for that kind of transition.\nIEEE Spectrum: Are there significant roadblocks you see to industrial adoption of post-quantum cryptography going forward?\nPeikert: Cryptography is very hard to change. We’ve only had one or maybe two major transitions in cryptography since the early 1980s or late 1970s, when the field first was invented. We don’t really have a systematic way of transitioning cryptography. \nAn additional challenge is that the performance trade-offs are very different in post-quantum cryptography than they are in the legacy systems. Keys and cipher texts and digital signatures are all significantly larger in post-quantum cryptography, but the computations are actually faster, typically. People have optimized cryptography for speed in the past, and we have very good fast speeds now for post-quantum cryptography, but the sizes of the keys are a challenge. \nEspecially in blockchain applications, like cryptocurrencies, space on the blockchain is at a premium. So it calls for a reevaluation in many applications of how we integrate the cryptography into the system, and that work is ongoing. And, the blockchain ecosystem uses a lot of advanced cryptography, exotic things like zero-knowledge proofs. In many cases, we have rudimentary constructions of these fancy cryptography tools from post-quantum-type mathematics, but they’re not nearly as mature and industry-ready as the legacy systems that have been deployed. It continues to be an important technical challenge to develop post-quantum versions of these very fancy cryptographic schemes that are used in cutting-edge applications.\nIEEE Spectrum: As an academic cryptography researcher, what attracted you to work with a cryptocurrency, and Algorand in particular?\nPeikert: My former Ph.D. advisor is Silvio Micali, the inventor of Algorand. The system is very elegant. It is a very high-performing blockchain system, and it uses very little energy, has fast transaction finalization, and a number of other great features. And Silvio appreciated that this quantum threat was real and was coming, and the team approached me about helping to improve the Algorand protocol at the basic levels to become more post-quantum secure in 2021. That was a very exciting opportunity, because it was a difficult engineering and scientific challenge to integrate post-quantum cryptography into all the different technical and cryptographic mechanisms that were underlying the protocol.\nIEEE Spectrum: What is the current status of post-quantum cryptography in Algorand, and blockchains in general? \nPeikert: We’ve identified some of the most pressing issues and worked our way through some of them, but it’s a many-faceted problem overall. We started with the integrity of the chain itself, which is the transaction history that everybody has to agree upon. \nOur first major project was developing a system that would add post-quantum security to the history of the chain. We developed a system called state proofs for that, which is a mixture of ordinary post-quantum cryptography and also some more fancy cryptography: It’s a way of taking a large number of signatures and digesting them down into a much smaller number of signatures, while still being confident that these large number of signatures actually exist and are properly formed. We also followed it with other papers and projects that are about adding post-quantum cryptography and security to other aspects of the blockchain in the Algorand ecosystem. \nIt’s not a complete project yet. We don’t claim to be fully post-quantum secure. That’s a very challenging target to hit, and there are aspects that we will continue to work on into the near future.\nIEEE Spectrum: In your view, will we adopt post-quantum cryptography before the risks actually catch up with us? \nPeikert: I tend to be an optimist about these things. I think that it’s a very good thing that more people in decision-making roles are recognizing that this is an important topic, and that these kinds of migrations have to be done. I think that we can’t be complacent about it, and we can’t kick the can down the road much longer. But I do see that the focus is being put on this important problem, so I’m optimistic that most important systems will eventually have good either mitigations or full migrations in place. \nBut it’s also a point on the horizon that we don’t know exactly when it will come. So, there is the possibility that there is a huge breakthrough, and we have many fewer years than we might have hoped for, and that we don’t get all the systems upgraded that we would like to have fixed by the time quantum computers arrive.",
           "isoDate": "2026-04-15T13:00:01.000Z"
         },
         {
