@@ -1,14 +1,50 @@
 {
-  "generatedAt": "2026-04-17T07:46:40.231Z",
+  "generatedAt": "2026-04-17T13:19:33.954Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
         {
+          "title": "The creative software industry has declared war on Adobe",
+          "link": "https://www.theverge.com/tech/913765/adobe-rivals-free-creative-software-app-updates",
+          "summary": "Fire intensifies: “This is fine.” | Illustration by Alex Castro / The Verge\t\n\nAll empires eventually fall, and it seems the creative software industry has collectively decided that Adobe's time has come. The Creative Cloud provider's suite of design tools have been considered the industry standard for decades - despite unpopular decisions to fully embrace generative AI and abandon software licenses in favor of expensive, complicated subscriptions. \nPricing in particular has given competitors an opening to attack. Some of the best alternatives aren't just undercutting Adobe's price - they're available for free. People love free.\nOne example that was announced this week is Autograph, motion design software akin to Ado …\nRead the full story at The Verge.",
+          "isoDate": "2026-04-17T12:51:16.000Z"
+        },
+        {
+          "title": "The Download: bad news for inner Neanderthals, and AI warfare’s human illusion",
+          "link": "https://www.technologyreview.com/2026/04/17/1136112/the-download-inner-neanderthal-ai-war-human-in-the-loop/",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The problem with thinking you’re part Neanderthal There’s a theory that many of us have an “inner Neanderthal.” The idea is that Homo sapiens and a cousin species once bred, leaving…",
+          "isoDate": "2026-04-17T12:10:00.000Z"
+        },
+        {
+          "title": "A giant cell tower is going to space this weekend",
+          "link": "https://www.theverge.com/tech/913752/blue-origin-reusable-rocket-test-ast-sapcemobile",
+          "summary": "This weekend's scheduled Blue Origin rocket launch is rather momentous. Success would signal an end to SpaceX's monopoly on reusable orbital launch vehicles, and set up a three-way race to make that \"No Service\" indicator on your phone disappear forever.\nOn Sunday morning, Jeff Bezos' massive New Glenn rocket is scheduled to launch with the first-stage booster that launched and landed on the program's second mission last November. It's a critical test, because cost-effective booster reuse is what's made SpaceX's Falcon 9 so dominant.\nAmazon desperately needs a reusable rocket of its own to accelerate its Leo launches. Without one, it's onl …\nRead the full story at The Verge.",
+          "isoDate": "2026-04-17T11:25:37.000Z"
+        },
+        {
+          "title": "Recent advances push Big Tech closer to the Q-Day danger zone",
+          "link": "https://arstechnica.com/security/2026/04/while-some-big-tech-players-accelerate-pqc-readiness-others-stay-the-course/",
+          "summary": "Here's which players are winning the race to transition to post-quantum crypto.",
+          "isoDate": "2026-04-17T11:00:50.000Z"
+        },
+        {
+          "title": "The case for fixing everything",
+          "link": "https://www.technologyreview.com/2026/04/17/1135408/book-review-stewart-brand-fixing-everything-maintenance/",
+          "summary": "The handsome new book Maintenance: Of Everything, Part One, by the tech industry legend Stewart Brand, promises to be the first in a series offering “a comprehensive overview of the civilizational importance of maintenance.” One of Brand’s several biographers described him as a mainstay of both counterculture and cyberculture, and with Maintenance, Brand wants us…",
+          "isoDate": "2026-04-17T10:00:00.000Z"
+        },
+        {
+          "title": "How robots learn: A brief, contemporary history",
+          "link": "https://www.technologyreview.com/2026/04/17/1135416/how-robots-learn-brief-contemporary-history/",
+          "summary": "Roboticists used to dream big but build small. They’d hope to match or exceed the extraordinary complexity of the human body, and then they’d spend their career refining robotic arms for auto plants. Aim for C-3P0; end up with the Roomba.  The real ambition for many of these researchers was the robot of science fiction—one…",
+          "isoDate": "2026-04-17T10:00:00.000Z"
+        },
+        {
           "title": "After a saga of broken promises, a European rover finally has a ride to Mars",
           "link": "https://arstechnica.com/space/2026/04/after-a-saga-of-broken-promises-a-european-rover-finally-has-a-ride-to-mars/",
-          "summary": "Europe's first Mars rover mission is now on its fourth rocket: SpaceX's Falcon Heavy.",
+          "summary": "Europe's first Mars rover mission is now on its fourth rocket: SpaceX's Falcon Heavy",
           "isoDate": "2026-04-17T03:15:54.000Z"
         },
         {
@@ -28,42 +64,6 @@
           "link": "https://arstechnica.com/gadgets/2026/04/intels-non-ultra-core-cpus-are-new-silicon-this-year-for-a-change/",
           "summary": "For the first time in a while, the benefits of new Intel tech will trickle down.",
           "isoDate": "2026-04-16T21:33:33.000Z"
-        },
-        {
-          "title": "OpenAI starts offering a biology-tuned LLM",
-          "link": "https://arstechnica.com/science/2026/04/openai-starts-offering-a-biology-tuned-llm/",
-          "summary": "GPT-Rosalind is an LLM trained on biology workflows, available in closed access.",
-          "isoDate": "2026-04-16T21:17:47.000Z"
-        },
-        {
-          "title": "As they got close to the Moon, Artemis II astronauts were eager to land",
-          "link": "https://arstechnica.com/space/2026/04/artemis-ii-astronauts-say-landing-on-the-moon-is-absolutely-doable-soon/",
-          "summary": "\"If you had given us the keys to the lander, we would have taken it down.\"",
-          "isoDate": "2026-04-16T21:00:38.000Z"
-        },
-        {
-          "title": "Mozilla launches Thunderbolt AI client with focus on self-hosted infrastructure",
-          "link": "https://arstechnica.com/ai/2026/04/mozilla-launches-thunderbolt-ai-client-with-focus-on-self-hosted-infrastructure/",
-          "summary": "New tool builds on deepset’s Haystack toward a “decentralized open source AI ecosystem.”",
-          "isoDate": "2026-04-16T20:43:46.000Z"
-        },
-        {
-          "title": "Gucci-branded Google smart glasses are coming next year",
-          "link": "https://www.theverge.com/gadgets/913523/google-gucci-ai-smart-glasses-2027",
-          "summary": "Google’s “Project Aura” will be its first Android XR glasses, expected later this year. | Image: Google, Xreal\t\n\nGoogle is reportedly partnering with Gucci to make a pair of AI smart glasses stylish enough people might actually want to wear them. According to Reuters, Gucci parent company Kering is planning to launch the glasses sometime in 2027. \nGoogle's first pair of Android XR glasses, \"Project Aura,\" are expected to launch this year. They feature essentially the same look as Meta's Ray-Ban glasses, with chunky, black plastic frames. They'll usher in Google's second attempt at smart glasses, after Google Glass infamously failed to catch on over a decade ago. \nLast year, Google also announced glasses partnerships with Warby Parker and Gentle Monst …\nRead the full story at The Verge.",
-          "isoDate": "2026-04-16T20:31:31.000Z"
-        },
-        {
-          "title": "Ballmer gives $80 million to NPR, with strings attached",
-          "link": "https://www.theverge.com/news/913518/ballmer-gives-80-million-to-npr-with-strings-attached",
-          "summary": "Connie Ballmer, wife of former Microsoft CEO Steve Ballmer and co-founder of the Ballmer Group, has given $80 million to NPR. That's roughly seven years' worth of government funding ($11.2m) after Trump and Congress cut funds for public media, but only a fraction of NPR's full annual budget of $300 million. NPR may still cut jobs because the money has strings attached.\nThe money is specifically \"to support the digital innovation that is essential to meeting the needs and serving the interests of public media audiences wherever they are and whenever they seek information,\" according to a press release. NPR journalist David Folkenflik writes  …\nRead the full story at The Verge.",
-          "isoDate": "2026-04-16T20:30:55.000Z"
-        },
-        {
-          "title": "Netflix embraces vertical video with major mobile app update",
-          "link": "https://www.theverge.com/streaming/913539/netflix-mobile-app-update-vertical-video",
-          "summary": "Netflix announced on Thursday that it will be launching a redesigned mobile app, which will include a vertical video feed, at the end of April. \"This redesign will better reflect our expanding entertainment offering and make it easier for members to engage how and when they want,\" the company said in its Q1 2026 earnings letter to shareholders.\nIn Thursday's letter, the company said that the lines between \"entertainment on TV and mobile devices are blurring,\" noting that video podcasts \"over-index\" on mobile. Co-CEO Greg Peters said in January that the company was planning to revamp its mobile UI as a way to \"better serve the expansion of o …\nRead the full story at The Verge.",
-          "isoDate": "2026-04-16T20:29:56.000Z"
         }
       ]
     },
@@ -72,22 +72,16 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "Spring Rains Saturate Michigan",
-          "link": "https://science.nasa.gov/earth/earth-observatory/spring-rains-saturate-michigan/",
-          "summary": "Above-normal precipitation has swollen rivers and damaged infrastructure statewide.",
-          "isoDate": "2026-04-17T04:01:00.000Z"
+          "title": "ERROR cargando feed",
+          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
+          "isoDate": "2026-04-17T13:19:28.139Z"
         },
         {
-          "title": "NASA Invites Media to Latvia Artemis Accords Signing Ceremony",
-          "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-latvia-artemis-accords-signing-ceremony/",
-          "summary": "The Republic of Latvia will sign the Artemis Accords during a ceremony at 9 a.m. EDT Monday, April 20, at NASA Headquarters in Washington. NASA Administrator Jared Isaacman will host Dace Melbārde, Latvia’s minister for education and science; Jānis Beķeris, chargé d’affaires at the Embassy of the Republic of Latvia to the United States; and […]",
-          "isoDate": "2026-04-16T16:41:00.000Z"
-        },
-        {
-          "title": "At the Edge of Light",
-          "link": "https://www.nasa.gov/image-article/at-the-edge-of-light/",
-          "summary": "In this photo taken on April 6, 2026, a portion of the Moon’s far side is seen along the terminator—the boundary between lunar day and night—where low-angle sunlight casts long shadows across the surface. A section of Orientale Basin is visible along the upper right portion of the lunar disk, its structure subtly revealed under […]",
-          "isoDate": "2026-04-16T14:38:02.000Z"
+          "title": "New year, old me",
+          "link": "https://www.nature.com/articles/d41586-026-01067-w",
+          "summary": "Nature, Published online: 17 April 2026; doi:10.1038/d41586-026-01067-w\nA welcome change.",
+          "isoDate": "2026-04-17T00:00:00.000Z"
         },
         {
           "title": "Stem cell control in the lung by an autocrine injury-activated Igf complex",
@@ -130,6 +124,12 @@
           "link": "https://www.science.org/doi/abs/10.1126/science.aea6343?af=R",
           "summary": "Science, Volume 392, Issue 6795, April 2026.",
           "isoDate": "2026-04-16T07:00:00.000Z"
+        },
+        {
+          "title": "Today’s robots walk, swim, fly, and manipulate objects on the go—and they’re just getting started",
+          "link": "https://www.science.org/doi/abs/10.1126/science.aeg9576?af=R",
+          "summary": "Science, Volume 392, Issue 6795, April 2026.",
+          "isoDate": "2026-04-16T07:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-04-17T07:46:34.472Z"
+          "isoDate": "2026-04-17T13:19:29.230Z"
         },
         {
           "title": "Could a digital twin make you into a 'superworker'?",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-04-17T07:46:38.580Z"
+          "isoDate": "2026-04-17T13:19:32.004Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-04-17T07:46:36.180Z"
+          "isoDate": "2026-04-17T13:19:30.928Z"
         },
         {
           "title": "IEEE Entrepreneurship Connects Hardware Startups With Investors",
@@ -334,7 +334,7 @@
           "summary": ""
         },
         {
-          "title": "ATH  1-3  VIL",
+          "title": "ATH  1-2  VIL",
           "link": "",
           "summary": ""
         },
