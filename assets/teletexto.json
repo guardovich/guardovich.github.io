@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-04-17T02:34:10.755Z",
+  "generatedAt": "2026-04-17T07:46:40.231Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "After a saga of broken promises, a European rover finally has a ride to Mars",
+          "link": "https://arstechnica.com/space/2026/04/after-a-saga-of-broken-promises-a-european-rover-finally-has-a-ride-to-mars/",
+          "summary": "Europe's first Mars rover mission is now on its fourth rocket: SpaceX's Falcon Heavy.",
+          "isoDate": "2026-04-17T03:15:54.000Z"
+        },
         {
           "title": "YouTube’s mobile app finally lets you share timestamped videos",
           "link": "https://www.theverge.com/streaming/913611/youtube-mobile-app-share-at-timestamp-clips",
@@ -58,12 +64,6 @@
           "link": "https://www.theverge.com/streaming/913539/netflix-mobile-app-update-vertical-video",
           "summary": "Netflix announced on Thursday that it will be launching a redesigned mobile app, which will include a vertical video feed, at the end of April. \"This redesign will better reflect our expanding entertainment offering and make it easier for members to engage how and when they want,\" the company said in its Q1 2026 earnings letter to shareholders.\nIn Thursday's letter, the company said that the lines between \"entertainment on TV and mobile devices are blurring,\" noting that video podcasts \"over-index\" on mobile. Co-CEO Greg Peters said in January that the company was planning to revamp its mobile UI as a way to \"better serve the expansion of o …\nRead the full story at The Verge.",
           "isoDate": "2026-04-16T20:29:56.000Z"
-        },
-        {
-          "title": "Netflix cofounder Reed Hastings is officially leaving the company",
-          "link": "https://www.theverge.com/streaming/913201/netflix-reed-hastings-earnings-q1-2026",
-          "summary": "Netflix cofounder and chairman Reed Hastings plans to leave the company after nearly 30 years. The news comes as part of Netflix's Q1 2026 earnings results released on Thursday, which says Hastings \"will not stand for re-election to our Board when his current term expires at the Annual Meeting in June.\"\nAfter co-founding Netflix in 1997, Hastings served as CEO from 1999 to 2023, when he stepped down and took on the role of chairman. \"My real contribution at Netflix wasn't a single decision; it was a focus on member joy, building a culture that others could inherit and improve, and building a company that could be both beloved by members and …\nRead the full story at The Verge.",
-          "isoDate": "2026-04-16T20:23:00.000Z"
         }
       ]
     },
@@ -71,6 +71,12 @@
       "header": "120  CIENCIA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Spring Rains Saturate Michigan",
+          "link": "https://science.nasa.gov/earth/earth-observatory/spring-rains-saturate-michigan/",
+          "summary": "Above-normal precipitation has swollen rivers and damaged infrastructure statewide.",
+          "isoDate": "2026-04-17T04:01:00.000Z"
+        },
         {
           "title": "NASA Invites Media to Latvia Artemis Accords Signing Ceremony",
           "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-latvia-artemis-accords-signing-ceremony/",
@@ -124,12 +130,6 @@
           "link": "https://www.science.org/doi/abs/10.1126/science.aea6343?af=R",
           "summary": "Science, Volume 392, Issue 6795, April 2026.",
           "isoDate": "2026-04-16T07:00:00.000Z"
-        },
-        {
-          "title": "Today’s robots walk, swim, fly, and manipulate objects on the go—and they’re just getting started",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aeg9576?af=R",
-          "summary": "Science, Volume 392, Issue 6795, April 2026.",
-          "isoDate": "2026-04-16T07:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-04-17T02:34:05.280Z"
+          "isoDate": "2026-04-17T07:46:34.472Z"
         },
         {
           "title": "Could a digital twin make you into a 'superworker'?",
@@ -204,6 +204,12 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "Bringing AI-driven protein-design tools to biologists everywhere",
+          "link": "https://news.mit.edu/2026/bringing-ai-driven-protein-design-tools-everywhere-0417",
+          "summary": "Founded by Tristan Bepler PhD ’20 and former MIT professor Tim Lu PhD ’07, OpenProtein.AI offers researchers open-source models and other tools for protein engineering.",
+          "isoDate": "2026-04-17T04:00:00.000Z"
+        },
+        {
           "title": "Codex for (almost) everything",
           "link": "https://openai.com/index/codex-for-almost-everything",
           "summary": "The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows.",
@@ -256,12 +262,6 @@
           "link": "https://deepmind.google/blog/gemini-robotics-er-1-6/",
           "summary": "Gemini Robotics ER 1.6: Enhancing spatial reasoning and multi-view understanding for autonomous robotics.",
           "isoDate": "2026-04-13T15:52:13.000Z"
-        },
-        {
-          "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
-          "link": "https://openai.com/index/cloudflare-openai-agent-cloud",
-          "summary": "Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security.",
-          "isoDate": "2026-04-13T06:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-04-17T02:34:09.526Z"
+          "isoDate": "2026-04-17T07:46:38.580Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-04-17T02:34:07.134Z"
+          "isoDate": "2026-04-17T07:46:36.180Z"
         },
         {
           "title": "IEEE Entrepreneurship Connects Hardware Startups With Investors",
@@ -334,7 +334,7 @@
           "summary": ""
         },
         {
-          "title": "ATH  1-2  VIL",
+          "title": "ATH  1-3  VIL",
           "link": "",
           "summary": ""
         },
