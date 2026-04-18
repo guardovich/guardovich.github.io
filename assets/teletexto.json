@@ -1,10 +1,46 @@
 {
-  "generatedAt": "2026-04-17T19:00:19.674Z",
+  "generatedAt": "2026-04-18T02:24:58.322Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "US-sanctioned currency exchange says $15 million heist done by \"unfriendly states\"",
+          "link": "https://arstechnica.com/security/2026/04/russia-friendly-exchange-says-western-special-service-behind-15-million-cyberattack/",
+          "summary": "Grinex says needed hacking resources \"available exclusively to ... unfriendly states.\"",
+          "isoDate": "2026-04-17T21:28:35.000Z"
+        },
+        {
+          "title": "OpenAI’s former Sora boss is leaving",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing",
+          "summary": "Last month, OpenAI gave up on its Sora video generation tool, and on Friday, the Sora team's leader, Bill Peebles, announced that he is leaving the company. OpenAI has been shifting its priorities as part of an effort to avoid \"side quests,\" and Peebles' departure is just one of many recent changes as the company moves to focus more on coding and enterprise use.\nAs part of a note Peebles posted on X, he said:\nI am immensely grateful to Sam, Mark, Aditya and Jakub for fostering a research environment that allowed us to pursue ideas off-the-beaten path from the company's mainline roadmap. It's tempting in life to mode collapse to the most i …\n\nRead the full story at The Verge.",
+          "isoDate": "2026-04-17T21:13:25.000Z"
+        },
+        {
+          "title": "Should you stare into Sam Altman&#8217;s orb before your next date?",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/914385/world-id-tinder-identity-verifying-orb",
+          "summary": "Tinder users who prove they're a real person by visiting an identity-verifying orb will soon be able to get five free boosts in the app - and it's just the latest service to embrace the orb. World, which was co-founded by OpenAI CEO Sam Altman, initially tested Tinder verification using its facial scanning orbs through a pilot program in Japan last year. It's now expanding the service to \"select markets, including Japan and the United States.\" \nTo verify that they're not a bot or an AI agent, users have to physically visit one of World's orbs in person. According to World, the orb \"takes pictures of your face and eyes, then encrypts and sto …\nRead the full story at The Verge.",
+          "isoDate": "2026-04-17T20:42:47.000Z"
+        },
+        {
+          "title": "Anthropic’s new cybersecurity model could get it back in the government’s good graces",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview",
+          "summary": "The Trump administration has spent nearly two months fighting with AI company Anthropic. It's dubbed the company a \"RADICAL LEFT, WOKE COMPANY\" full of \"Leftwing nut jobs\" and a menace to national security. But some of the ice may reportedly be melting between the two, thanks to Anthropic's buzzy new cybersecurity-focused model: Claude Mythos Preview.\nAnthropic's relationship with the Pentagon soured quickly in late February after the company refused to budge on two red lines: using its technology for domestic mass surveillance or lethal fully autonomous weapons with no human in the loop. Anthropic's tech has in the past been used heavily b …\nRead the full story at The Verge.",
+          "isoDate": "2026-04-17T20:14:21.000Z"
+        },
+        {
+          "title": "Man with @ihackedthegovernment Instagram account tells judge, “I made a mistake\"",
+          "link": "https://arstechnica.com/tech-policy/2026/04/man-with-ihackedthegovernment-instagram-account-tells-judge-i-made-a-mistake/",
+          "summary": "Probation for man who used stolen logins and posted private info on social media.",
+          "isoDate": "2026-04-17T19:31:48.000Z"
+        },
+        {
+          "title": "Trump picks qualified, normal health leader to head CDC; experts still cautious",
+          "link": "https://arstechnica.com/health/2026/04/trump-picks-qualified-normal-health-leader-to-head-cdc-experts-still-cautious/",
+          "summary": "She's well qualified but will need to navigate RFK Jr.'s anti-vaccine agenda.",
+          "isoDate": "2026-04-17T19:19:47.000Z"
+        },
         {
           "title": "$25,000 buys plenty of used EVs: Here are some options",
           "link": "https://arstechnica.com/cars/2026/04/25000-buys-plenty-of-used-evs-here-are-some-options/",
@@ -28,42 +64,6 @@
           "link": "https://arstechnica.com/gadgets/2026/04/amazon-wont-release-fire-sticks-that-support-sideloading-anymore/",
           "summary": "The two newest Fire Sticks block apps from outside of Amazon's store.",
           "isoDate": "2026-04-17T17:42:42.000Z"
-        },
-        {
-          "title": "Ridley Scott's post-apocalyptic The Dog Stars drops first trailer",
-          "link": "https://arstechnica.com/culture/2026/04/ridley-scotts-post-apocalyptic-the-dog-stars-drops-first-trailer/",
-          "summary": "\"The world that was, doesn't exist. It's just us, trying to hold onto what was.\"",
-          "isoDate": "2026-04-17T17:32:55.000Z"
-        },
-        {
-          "title": "This charming gadget writes bad AI poetry",
-          "link": "https://www.theverge.com/gadgets/913981/poetry-camera-ai-hands-on",
-          "summary": "I kind of wish it just took pictures.\t\n\nI've never been as charmed and frustrated by one gadget as I have with the Poetry Camera.\nIt's a delightful object. White and cherry red with a color-matched woven strap, it looks playful and adorably lo-fi. If I saw it on a store shelf, I'd absolutely pick it up. \nBut aside from obviously appealing, I'm not exactly sure what it is. I mean, I know what it is. It's a camera that makes AI poems instead of photos. You take a picture, and instead of printing a photo, you get an AI-generated poem inspired by the scene, printed on thermal receipt paper. But after printing dozens of poems, I can only report feeling frustrated instead of inspired.\n …\nRead the full story at The Verge.",
-          "isoDate": "2026-04-17T17:30:00.000Z"
-        },
-        {
-          "title": "Artemis II pilot talks about what it was really like to fly and land in Orion",
-          "link": "https://arstechnica.com/space/2026/04/artemis-ii-pilot-describes-landing-in-orion-from-intense-to-pure-elation/",
-          "summary": "\"I've been thinking about reentry for three straight years.\"",
-          "isoDate": "2026-04-17T16:59:44.000Z"
-        },
-        {
-          "title": "Meta's AI spending spree is helping make its Quest headsets more expensive",
-          "link": "https://arstechnica.com/ai/2026/04/metas-ai-spending-spree-is-helping-make-its-quest-headsets-more-expensive/",
-          "summary": "Prices for \"critical components\" are surging because of massive data center investments.",
-          "isoDate": "2026-04-17T16:23:20.000Z"
-        },
-        {
-          "title": "Our new favorite budget phones",
-          "link": "https://www.theverge.com/tech/912286/our-new-favorite-budget-phones",
-          "summary": "The iPhone 17E is the best cheap iPhone, no surprises there. | Photo: Allison Johnson / The Verge\t\n\nOver the last few months, every phone maker under the sun has refreshed its lineups, especially at the affordable end, with no major budget phone launches now expected until next year. That made it the perfect time to go back and reassess The Verge's recommendations for the best budget phones you can buy right now.\nYou won't be too surprised to hear that the iPhone 17E is now our recommendation for the best cheap iPhone, not least because it's the only cheap iPhone. Still, this year's addition of MagSafe charging makes it a much more well-rounded package than last year's 16E, and with the same A19 chip as the flagship iPhone 17, you won't f …\nRead the full story at The Verge.",
-          "isoDate": "2026-04-17T15:58:07.000Z"
-        },
-        {
-          "title": "The best budget smartphones you can buy",
-          "link": "https://www.theverge.com/gadgets/912271/best-budget-smartphones-cheap-iphone-android-phones",
-          "summary": "Some of us take a kind of “eat to live” rather than a “live to eat” approach to gadgets. They’re tools that help you get things done, not something you want to invest a lot of time or money in. If that’s you — and there’s no judgment here from a certifiable gadget nerd — then you can probably think of more worthwhile ways to spend $1,000 than on a phone.\nBudget phones to the rescue. These devices are roughly $600 or under, and they’re more capable than ever. You won’t get all the bells and whistles, but you will save a little money to spend on, I don’t know, actual bells and whistles. It’s your world.\nWhat compromises can you expect from a budget phone? Some combination of the following: slower processors, less storage, and worse cameras than flagship phones, almost across the board. Many have lower-resolution screens, most skip wireless charging, and water resistance is often less robust than on a pricier phone.\nThe best cheap iPhone\nApple iPhone 17E\n\n\nScore: 7\n\nProsCons\n\n\nNow with magnets!\nHealthy 256GB of storage in the base model\nCapable, if basic, camera system\nBasically the same processor as iPhone 17\n\nNo always-on display\nScreen limited to 60Hz\nNo ultrawide camera or upgraded selfie cam\n\n\n\nWhere to Buy:\n\n $599 at Apple (256GB)\n $599.99 at Best Buy (256GB)\n $599.99 at T-Mobile (256GB)\n\nScreen: 6.1-inch, 1170p, 60Hz OLED / Processor: A19 / Cameras: 48-megapixel f/1.6 with OIS, 12-megapixel selfie / Battery: 4,005mAh / Charging: 20W wired, 15W MagSafe wireless / Weather-resistance rating: IP68\nThe iPhone 17E is the minimum viable iPhone — and I mean that in a good way. It has the same speedy A19 chipset as the standard iPhone 17, starts with a decent 256GB of storage, and offers a full day of battery life. It also comes with MagSafe, unlike last year’s 16E, opening up faster magnetic wireless charging and a world of grips and accessories.\nStill, there are a few big omissions in Apple’s cheapest iPhone. The most obvious is that it’s limited to a single 48-megapixel rear camera, lacking even an ultrawide. That’s something plenty of buyers are likely to find limiting. Fewer people are likely to be bothered by the phone’s lack of an always-on display, its 60Hz refresh rate, or the fact that it doesn’t support Apple’s Dynamic Island, which is a handy way to keep track of Live Activities.\nFor some, those will be good reasons to spend $200 more on the iPhone 17. For others, they won’t — my mom had never even noticed her old iPhone 12 had a second rear camera, so I don’t think she’ll miss it on her new 17E. Android alternatives at this price will also get you extra lenses, smoother displays, and faster charging. But if you want an iPhone, and $600 is where your budget stops, the 17E is the best you’ve got without shopping pre-owned.\nRead our full iPhone 17E review.\nThe best cheap Android phone\nGoogle Pixel 10A\n\n\nScore: 7\n\nProsCons\n\n\nThe flush camera looks and feels great\nSeven years of software updates\nSatellite SOS support\n\nIt’s the Pixel 9A again\nThe Pixel 9A is cheaper\nYou should just buy the Pixel 9A\n\n\n\nWhere to Buy:\n\n $499 $449 at Amazon (128GB)\n $499 $449 at Best Buy (128GB)\n $599 $549 at Amazon (256GB)\n\nScreen: 6.3-inch, 1080p, 120Hz OLED / Processor: Tensor G4 / Cameras: 48-megapixel f/1.7 with OIS, 13-megapixel ultrawide, 13-megapixel selfie / Battery: 5,100mAh / Charging: 30W wired, 10W wireless / Weather-resistance rating: IP68\nYou couldn’t call the Pixel 10A an ambitious phone; it’s essentially a carbon copy of last year’s Pixel 9A with a slightly flatter camera bump. Still, Google’s competition hasn’t advanced much either, which means the 10A remains the best cheap Android phone you can buy, short of picking up a discounted 9A while it’s still on sale (well, at least in the US — buyers elsewhere should look to Poco and Realme for some stiff competition).\nThe 10A is powered by the same Tensor G4 chip as last year, though its 6.3-inch OLED screen is slightly brighter. The battery is the same size, but Google says it should last a little longer thanks to optimization, and the 30W wired and 10W wireless charging is a fraction faster, too. The biggest addition over the 9A is satellite connectivity, which is useful if you regularly find yourself off the grid.\nThe 10A’s cameras remain one of its biggest strengths, with the 48-megapixel main camera (the same as in the regular Pixel 10) joined by an ultrawide. You won’t find many phones with better cameras at this price, though you will find some with more lenses.\nRead our full Google Pixel 10A review.\nThe budget phone with a big, beautiful screen\nNothing Phone 4A Pro\n\n\nScore: 6\n\nProsCons\n\n\nSlim, metal body\nUnique (and fun!) design\nBig and brilliant display\n\nCamera quality is mixed\nOnly three years of OS updates\nNo wireless charging\n\n\n\nWhere to Buy:\n\n $499 at Nothing (8GB RAM + 128GB)\n $499 at Amazon (8GB RAM + 128GB)\n $599 at Amazon (12GB RAM + 256GB)\n\nScreen: 6.83-inch, 1260p, 144Hz OLED / Processor: Snapdragon 7 Gen 4 / Cameras: 50-megapixel f/1.9 with OIS, 50-megapixel 3.5x telephoto, 8-megapixel ultrawide, 32-megapixel selfie / Battery: 5,080mAh / Charging: 50W wired / Weather-resistance rating: IP65\nThe Phone 4A Pro is one of the few Nothing phones to get a true US release. In a way, it’s also one of the brand’s most conservative designs, with its transparent plastic mostly giving way to opaque metal, outside of the chunky camera module (which has the boon of a 3.5x telephoto lens but mixed performance otherwise). The metal design also means there’s no wireless charging, though fast 50W wired charging helps make up for that.\nThe 4A Pro will mostly appeal for its large 6.83-inch display, which is brighter than rivals and features a faster 144Hz refresh rate. That pairs nicely with Nothing’s eye-catching software design, which makes the 4A Pro a looker in just about every respect. That said, while the software may look good, Nothing only promises three OS updates, meaning the company’s latest handset won’t suit anyone looking for a phone for the long run.\nRead our full Nothing Phone 4A Pro review.\nOther budget phones to consider\nThe 2026 Motorola Moto G Power offers a lot despite its starting price of $299.99. It features a 6.8-inch LCD display, a 5,200mAh battery, and a 3.5mm headphone jack, which is increasingly rare in 2026. Additionally, the device combines both IP68 and IP69 ratings, meaning it’s rated for both submersion in water and exposure to high-pressure water jets and steam, in addition to full protection from dust. Our biggest concern with Motorola’s budget phones is how much bloatware they come with — be prepared to opt out and uninstall a bunch of stuff you never asked for. \nThe Samsung Galaxy S25 FE is another perfectly capable phone that doesn’t quite earn a recommendation here. It’s a little outside the scope of this guide at $649 anyway (although you can sometimes pick it up at a discount), but you do get a telephoto lens and a nice, big screen for that price. Still, you’re better off saving a bunch and picking up the Pixel 10A or trying to score a trade-in promo for the newer Galaxy S26.\nThe Samsung Galaxy A57 recently launched in the US with a starting price of $549, up $50 from the year before. The device has all the makings of a solid midrange phone, including a 6.7-inch OLED display, a 50-megapixel main camera, an Exynos 1680 chip, and a 5,000mAh battery with 45W wired charging. It’s thinner than its A56 predecessor and has been upgraded to IP68 protection, too. Although we haven’t tested it yet, it faces stiff competition from the Pixel 10A, which starts at $499.\nThe Samsung Galaxy A37 5G is another great choice that’s available in the US for $449. The device sports a big OLED display, an Exynos 1480 processor, and an IP68 rating for water and dust resistance. Samsung is promising six years of OS and security updates, which is a lot for a phone in this price range. While we haven’t tested the A37 5G, its predecessor offered a good balance of hardware and price, and the latest release sounds just as compelling.\nTCL’s Nxtpaper 70 Pro recently went on sale in the US, though it’s exclusive to T-Mobile and Metro. Its main selling point is its 6.9-inch Nxtpaper 4.0 matte LCD screen, which is supposed to be easier on your eyes than a traditional LCD. It also features a “Max Ink Mode,” which turns the screen monochrome and silences notifications, plus somewhat higher specs than its predecessor.\nSenior reviewer Allison Johnson also contributed to this post.",
-          "isoDate": "2026-04-17T15:55:00.000Z"
         }
       ]
     },
@@ -72,10 +72,52 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "ERROR cargando feed",
-          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
-          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-04-17T19:00:09.686Z"
+          "title": "CSDA Quality Assessment Report Evaluates Satellogic NewSat Data",
+          "link": "https://science.nasa.gov/uncategorized/csda-quality-assessment-report-evaluates-satellogic-newsat-data/",
+          "summary": "The report adds to the growing documentation on commercial data’s contributions to Earth science research and applications.",
+          "isoDate": "2026-04-17T21:21:02.000Z"
+        },
+        {
+          "title": "Webinar 4/29: NASA CSDA Program Vendor Focus- MDA Space",
+          "link": "https://science.nasa.gov/science-research/earth-science/webinar-4-29-nasa-csda-program-vendor-focus-mda-space/",
+          "summary": "Join us April 29 at 2:00 p.m. EDT to learn more about CSDA program vendor MDA Space.",
+          "isoDate": "2026-04-17T20:33:51.000Z"
+        },
+        {
+          "title": "NASA Artemis II Human Research Data Methodology Challenge",
+          "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-artemis-ii-human-research-data-methodology-challenge/",
+          "summary": "NASA’s Human Research Program (HRP) uses research to develop methods to protect the health and performance of astronauts in space. In support of NASA’s goals for long-term missions on the surface of the Moon and human exploration of Mars, HRP is using ground research facilities, the International Space Station, and analog environments to monitor human health in deep space.  NASA’s Artemis II mission was the first […]",
+          "isoDate": "2026-04-17T18:41:35.000Z"
+        },
+        {
+          "title": "NASA, OPM Announce New NASA Force Website, Open Job Applications ",
+          "link": "https://www.nasa.gov/news-release/nasa-opm-announce-new-nasa-force-website-open-job-applications/",
+          "summary": "NASA and the U.S. Office of Personnel Management (OPM) launched the NASA Force website on Friday, opening applications for roles aimed at recruiting the nation’s top engineers and technologists to support America’s air and space program.  NASA Force, a new hiring initiative developed in partnership with OPM, will recruit and place high-impact technical talent into mission-critical roles supporting NASA’s exploration, research, and advanced technology priorities, […]",
+          "isoDate": "2026-04-17T17:04:51.000Z"
+        },
+        {
+          "title": "Quality Assessment Report Evaluates Tomorrow.io Precipitation Radar Data",
+          "link": "https://science.nasa.gov/science-research/earth-science/quality-assessment-report-evaluates-tomorrow-io-precipitation-radar-data/",
+          "summary": "The report adds to the growing documentation on commercial data’s contributions to Earth science research and applications.",
+          "isoDate": "2026-04-17T15:06:11.000Z"
+        },
+        {
+          "title": "Volunteers Discover Rare Space Weather Events Using Their Ears",
+          "link": "https://science.nasa.gov/get-involved/citizen-science/volunteers-discover-rare-space-weather-events-using-their-ears/",
+          "summary": "Scientists are working to understand exactly how these waves behave, and the team behind NASA’s Heliophysics Audified: Resonances in Plasmas (HARP) citizen science project approaches this in a unique way: they compare the Earth’s magnetic field to a giant harp in space.",
+          "isoDate": "2026-04-17T15:04:32.000Z"
+        },
+        {
+          "title": "NASA’s SPHEREx Observatory Maps Interstellar Ice in Milky Way",
+          "link": "https://www.nasa.gov/image-article/nasas-spherex-observatory-maps-interstellar-ice-in-milky-way/",
+          "summary": "An observation made by NASA’s SPHEREx (Spectro-Photometer for the History of the Universe, Epoch of Reionization, and Ices Explorer) shows the chemical signatures of water ice (shown in bright blue) and polycyclic aromatic hydrocarbons (orange) in Cygnus X, one of the most active and turbulent regions of star birth in our Milky Way galaxy. The […]",
+          "isoDate": "2026-04-17T14:14:33.000Z"
+        },
+        {
+          "title": "Spring Rains Saturate Michigan",
+          "link": "https://science.nasa.gov/earth/earth-observatory/spring-rains-saturate-michigan/",
+          "summary": "Above-normal precipitation has swollen rivers and damaged infrastructure statewide.",
+          "isoDate": "2026-04-17T04:01:00.000Z"
         },
         {
           "title": "Briefing Chat: Penguins pick up PFAS pollution",
@@ -88,48 +130,6 @@
           "link": "https://www.nature.com/articles/d41586-026-01245-w",
           "summary": "Nature, Published online: 17 April 2026; doi:10.1038/d41586-026-01245-w\nStudy in mice suggests that B cells help regulate muscle performance.",
           "isoDate": "2026-04-17T00:00:00.000Z"
-        },
-        {
-          "title": "New year, old me",
-          "link": "https://www.nature.com/articles/d41586-026-01067-w",
-          "summary": "Nature, Published online: 17 April 2026; doi:10.1038/d41586-026-01067-w\nA welcome change.",
-          "isoDate": "2026-04-17T00:00:00.000Z"
-        },
-        {
-          "title": "US lawmakers intensify scrutiny of scientific-publishing practices",
-          "link": "https://www.nature.com/articles/d41586-026-01251-y",
-          "summary": "Nature, Published online: 17 April 2026; doi:10.1038/d41586-026-01251-y\nA congressional hearing covered the rise of paper mills and the costs of open-access publishing — but there was little agreement on what reform would entail.",
-          "isoDate": "2026-04-17T00:00:00.000Z"
-        },
-        {
-          "title": "Stem cell control in the lung by an autocrine injury-activated Igf complex",
-          "link": "https://www.science.org/doi/abs/10.1126/science.adt1310?af=R",
-          "summary": "Science, Volume 392, Issue 6795, April 2026.",
-          "isoDate": "2026-04-16T07:00:00.000Z"
-        },
-        {
-          "title": "B lymphocyte protein factories produced by hematopoietic stem cell gene editing",
-          "link": "https://www.science.org/doi/abs/10.1126/science.adz8994?af=R",
-          "summary": "Science, Volume 392, Issue 6795, April 2026.",
-          "isoDate": "2026-04-16T07:00:00.000Z"
-        },
-        {
-          "title": "An opposing molecular gradient axis underlies primate cortical organization",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aea2673?af=R",
-          "summary": "Science, Volume 392, Issue 6795, April 2026.",
-          "isoDate": "2026-04-16T07:00:00.000Z"
-        },
-        {
-          "title": "HNF1B integrates signals in a feed-forward loop driving kidney disease progression",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aea3219?af=R",
-          "summary": "Science, Volume 392, Issue 6795, April 2026.",
-          "isoDate": "2026-04-16T07:00:00.000Z"
-        },
-        {
-          "title": "Sex effects on gene expression across the human cerebral cortex at cell type resolution",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aea9063?af=R",
-          "summary": "Science, Volume 392, Issue 6795, April 2026.",
-          "isoDate": "2026-04-16T07:00:00.000Z"
         }
       ]
     },
@@ -141,13 +141,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-04-17T19:00:11.990Z"
+          "isoDate": "2026-04-18T02:24:53.813Z"
+        },
+        {
+          "title": "White House and Anthropic hold 'productive' meeting amid fears over Mythos model",
+          "link": "https://www.bbc.com/news/articles/cyv10e1d13po?at_medium=RSS&at_campaign=rss",
+          "summary": "The discussion is a sign the AI firm's technology may be too critical for even the US government to do without.",
+          "isoDate": "2026-04-18T00:37:06.000Z"
         },
         {
           "title": "Tinder and Zoom offer 'proof of humanity' eye-scans to combat AI",
           "link": "https://www.bbc.com/news/articles/cp9vppem4evo?at_medium=RSS&at_campaign=rss",
           "summary": "The tech aims to identify people's irises and stop the rise of fake accounts and malicious scams.",
-          "isoDate": "2026-04-17T17:15:09.000Z"
+          "isoDate": "2026-04-17T19:05:43.000Z"
         },
         {
           "title": "What is Claude Mythos and what risks does it pose?",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.com/news/articles/cq597n1pg6lo?at_medium=RSS&at_campaign=rss",
           "summary": "The Texas man, who also faces federal felony charges, allegedly had documents advocating for violence against AI executives.",
           "isoDate": "2026-04-14T01:05:54.000Z"
-        },
-        {
-          "title": "Quantum computing: A tech race Europe could win?",
-          "link": "https://www.bbc.com/news/articles/c20q4nv89yzo?at_medium=RSS&at_campaign=rss",
-          "summary": "With some promising computing companies in the field, could Europe be a leader in quantum tech?",
-          "isoDate": "2026-04-13T23:35:56.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-04-17T19:00:15.682Z"
+          "isoDate": "2026-04-18T02:24:56.970Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-04-17T19:00:13.724Z"
+          "isoDate": "2026-04-18T02:24:55.706Z"
         },
         {
           "title": "Designing Broadband LPDA-Fed Reflector Antennas With Full-Wave EM Simulation",
