@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-04-18T18:51:28.125Z",
+  "generatedAt": "2026-04-19T02:39:51.430Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "The RAM shortage could last years",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
+          "summary": "According to Nikkei Asia, even as suppliers ramp up DRAM production, manufacturers are only expected to meet 60 percent of demand by the end of 2027. SK Group chairman has even said that shortages could last until 2030.\nThe world's largest memory makers - Samsung, SK Hynix, and Micron - are all working to add new fabrication capacity, but almost none of it will be online until at least 2027, if not 2028. SK opened a fab in Cheongju in February, but that is the only increase in production among the three for 2026.\nNikkei says that production would need to increase by 12 percent a year in 2026 and 2027 to meet demand. But according to Counte …\nRead the full story at The Verge.",
+          "isoDate": "2026-04-18T21:08:45.000Z"
+        },
         {
           "title": "Judge rules Trump administration violated the First Amendment in fight against ICE-tracking",
           "link": "https://www.theverge.com/policy/914619/trump-administration-violated-first-amendment-ice-tracking",
@@ -58,12 +64,6 @@
           "link": "https://www.theverge.com/ai-artificial-intelligence/914385/world-id-tinder-identity-verifying-orb",
           "summary": "Tinder users who prove they're a real person by visiting an identity-verifying orb will soon be able to get five free boosts in the app - and it's just the latest service to embrace the orb. World, which was co-founded by OpenAI CEO Sam Altman, initially tested Tinder verification using its facial scanning orbs through a pilot program in Japan last year. It's now expanding the service to \"select markets, including Japan and the United States.\" \nTo verify that they're not a bot or an AI agent, users have to physically visit one of World's orbs in person. According to World, the orb \"takes pictures of your face and eyes, then encrypts and sto …\nRead the full story at The Verge.",
           "isoDate": "2026-04-17T20:42:47.000Z"
-        },
-        {
-          "title": "Anthropic’s new cybersecurity model could get it back in the government’s good graces",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview",
-          "summary": "The Trump administration has spent nearly two months fighting with AI company Anthropic. It's dubbed the company a \"RADICAL LEFT, WOKE COMPANY\" full of \"Leftwing nut jobs\" and a menace to national security. But some of the ice may reportedly be melting between the two, thanks to Anthropic's buzzy new cybersecurity-focused model: Claude Mythos Preview.\nAnthropic's relationship with the Pentagon soured quickly in late February after the company refused to budge on two red lines: using its technology for domestic mass surveillance or lethal fully autonomous weapons with no human in the loop. Anthropic's tech has in the past been used heavily b …\nRead the full story at The Verge.",
-          "isoDate": "2026-04-17T20:14:21.000Z"
         }
       ]
     },
@@ -72,64 +72,64 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "ERROR cargando feed",
-          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
-          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-04-18T18:51:22.759Z"
+          "title": "Magnetic muon measurements and gene-therapy advances win US$3 million Breakthrough prizes",
+          "link": "https://www.nature.com/articles/d41586-026-01014-9",
+          "summary": "Nature, Published online: 18 April 2026; doi:10.1038/d41586-026-01014-9\nThis year’s winners include hundreds of physicists across more than 30 institutions.",
+          "isoDate": "2026-04-18T00:00:00.000Z"
+        },
+        {
+          "title": "CSDA Quality Assessment Report Evaluates Satellogic NewSat Data",
+          "link": "https://science.nasa.gov/uncategorized/csda-quality-assessment-report-evaluates-satellogic-newsat-data/",
+          "summary": "The report adds to the growing documentation on commercial data’s contributions to Earth science research and applications.",
+          "isoDate": "2026-04-17T21:21:02.000Z"
+        },
+        {
+          "title": "Webinar 4/29: NASA CSDA Program Vendor Focus- MDA Space",
+          "link": "https://science.nasa.gov/science-research/earth-science/webinar-4-29-nasa-csda-program-vendor-focus-mda-space/",
+          "summary": "Join us April 29 at 2:00 p.m. EDT to learn more about CSDA program vendor MDA Space.",
+          "isoDate": "2026-04-17T20:33:51.000Z"
+        },
+        {
+          "title": "NASA Artemis II Human Research Data Methodology Challenge",
+          "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-artemis-ii-human-research-data-methodology-challenge/",
+          "summary": "NASA’s Human Research Program (HRP) uses research to develop methods to protect the health and performance of astronauts in space. In support of NASA’s goals for long-term missions on the surface of the Moon and human exploration of Mars, HRP is using ground research facilities, the International Space Station, and analog environments to monitor human health in deep space.  NASA’s Artemis II mission was the first […]",
+          "isoDate": "2026-04-17T18:41:35.000Z"
+        },
+        {
+          "title": "NASA, OPM Announce New NASA Force Website, Open Job Applications ",
+          "link": "https://www.nasa.gov/news-release/nasa-opm-announce-new-nasa-force-website-open-job-applications/",
+          "summary": "NASA and the U.S. Office of Personnel Management (OPM) launched the NASA Force website on Friday, opening applications for roles aimed at recruiting the nation’s top engineers and technologists to support America’s air and space program.  NASA Force, a new hiring initiative developed in partnership with OPM, will recruit and place high-impact technical talent into mission-critical roles supporting NASA’s exploration, research, and advanced technology priorities, […]",
+          "isoDate": "2026-04-17T17:04:51.000Z"
+        },
+        {
+          "title": "Quality Assessment Report Evaluates Tomorrow.io Precipitation Radar Data",
+          "link": "https://science.nasa.gov/science-research/earth-science/quality-assessment-report-evaluates-tomorrow-io-precipitation-radar-data/",
+          "summary": "The report adds to the growing documentation on commercial data’s contributions to Earth science research and applications.",
+          "isoDate": "2026-04-17T15:06:11.000Z"
+        },
+        {
+          "title": "Volunteers Discover Rare Space Weather Events Using Their Ears",
+          "link": "https://science.nasa.gov/get-involved/citizen-science/volunteers-discover-rare-space-weather-events-using-their-ears/",
+          "summary": "Scientists are working to understand exactly how these waves behave, and the team behind NASA’s Heliophysics Audified: Resonances in Plasmas (HARP) citizen science project approaches this in a unique way: they compare the Earth’s magnetic field to a giant harp in space.",
+          "isoDate": "2026-04-17T15:04:32.000Z"
+        },
+        {
+          "title": "NASA’s SPHEREx Observatory Maps Interstellar Ice in Milky Way",
+          "link": "https://www.nasa.gov/image-article/nasas-spherex-observatory-maps-interstellar-ice-in-milky-way/",
+          "summary": "An observation made by NASA’s SPHEREx (Spectro-Photometer for the History of the Universe, Epoch of Reionization, and Ices Explorer) shows the chemical signatures of water ice (shown in bright blue) and polycyclic aromatic hydrocarbons (orange) in Cygnus X, one of the most active and turbulent regions of star birth in our Milky Way galaxy. The […]",
+          "isoDate": "2026-04-17T14:14:33.000Z"
+        },
+        {
+          "title": "Spring Rains Saturate Michigan",
+          "link": "https://science.nasa.gov/earth/earth-observatory/spring-rains-saturate-michigan/",
+          "summary": "Above-normal precipitation has swollen rivers and damaged infrastructure statewide.",
+          "isoDate": "2026-04-17T04:01:00.000Z"
         },
         {
           "title": "Briefing Chat: Penguins pick up PFAS pollution",
           "link": "https://www.nature.com/articles/d41586-026-01263-8",
           "summary": "Nature, Published online: 17 April 2026; doi:10.1038/d41586-026-01263-8\nNature staff discuss some of the week's top science news.",
           "isoDate": "2026-04-17T00:00:00.000Z"
-        },
-        {
-          "title": "Immune cells have a surprising role in exercise endurance",
-          "link": "https://www.nature.com/articles/d41586-026-01245-w",
-          "summary": "Nature, Published online: 17 April 2026; doi:10.1038/d41586-026-01245-w\nStudy in mice suggests that B cells help regulate muscle performance.",
-          "isoDate": "2026-04-17T00:00:00.000Z"
-        },
-        {
-          "title": "New year, old me",
-          "link": "https://www.nature.com/articles/d41586-026-01067-w",
-          "summary": "Nature, Published online: 17 April 2026; doi:10.1038/d41586-026-01067-w\nA welcome change.",
-          "isoDate": "2026-04-17T00:00:00.000Z"
-        },
-        {
-          "title": "US lawmakers intensify scrutiny of scientific-publishing practices",
-          "link": "https://www.nature.com/articles/d41586-026-01251-y",
-          "summary": "Nature, Published online: 17 April 2026; doi:10.1038/d41586-026-01251-y\nA congressional hearing covered the rise of paper mills and the costs of open-access publishing — but there was little agreement on what reform would entail.",
-          "isoDate": "2026-04-17T00:00:00.000Z"
-        },
-        {
-          "title": "Stem cell control in the lung by an autocrine injury-activated Igf complex",
-          "link": "https://www.science.org/doi/abs/10.1126/science.adt1310?af=R",
-          "summary": "Science, Volume 392, Issue 6795, April 2026.",
-          "isoDate": "2026-04-16T07:00:00.000Z"
-        },
-        {
-          "title": "B lymphocyte protein factories produced by hematopoietic stem cell gene editing",
-          "link": "https://www.science.org/doi/abs/10.1126/science.adz8994?af=R",
-          "summary": "Science, Volume 392, Issue 6795, April 2026.",
-          "isoDate": "2026-04-16T07:00:00.000Z"
-        },
-        {
-          "title": "An opposing molecular gradient axis underlies primate cortical organization",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aea2673?af=R",
-          "summary": "Science, Volume 392, Issue 6795, April 2026.",
-          "isoDate": "2026-04-16T07:00:00.000Z"
-        },
-        {
-          "title": "HNF1B integrates signals in a feed-forward loop driving kidney disease progression",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aea3219?af=R",
-          "summary": "Science, Volume 392, Issue 6795, April 2026.",
-          "isoDate": "2026-04-16T07:00:00.000Z"
-        },
-        {
-          "title": "Sex effects on gene expression across the human cerebral cortex at cell type resolution",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aea9063?af=R",
-          "summary": "Science, Volume 392, Issue 6795, April 2026.",
-          "isoDate": "2026-04-16T07:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-04-18T18:51:24.127Z"
+          "isoDate": "2026-04-19T02:39:44.981Z"
         },
         {
           "title": "White House and Anthropic hold 'productive' meeting amid fears over Mythos model",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-04-18T18:51:26.791Z"
+          "isoDate": "2026-04-19T02:39:49.615Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-04-18T18:51:25.635Z"
+          "isoDate": "2026-04-19T02:39:46.854Z"
         },
         {
           "title": "Designing Broadband LPDA-Fed Reflector Antennas With Full-Wave EM Simulation",
