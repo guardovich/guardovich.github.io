@@ -1,10 +1,46 @@
 {
-  "generatedAt": "2026-04-23T07:52:29.721Z",
+  "generatedAt": "2026-04-23T13:28:53.579Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "The Download: introducing the Nature issue",
+          "link": "https://www.technologyreview.com/2026/04/23/1136346/the-download-introducing-nature-issue/",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the Nature issue When we talk about “nature,” we usually mean something untouched by humans. But little of that world exists today.  From microplastics in rainforest wildlife to artificial light…",
+          "isoDate": "2026-04-23T12:10:00.000Z"
+        },
+        {
+          "title": "Tim Cook’s departure is the start of a new era at Apple",
+          "link": "https://www.theverge.com/tech/916585/tim-cook-apple-new-era",
+          "summary": "Apple is about to become a very different company. This September, Apple CEO Tim Cook is stepping down and will be replaced by John Ternus, the current head of hardware. But the shift is bigger than just a CEO transition - it's the most significant move yet into a world where Apple's executive team isn't handpicked by Steve Jobs.\nWith the departure of Cook, who became CEO in 2011, the list of leaders who were in Jobs' inner circle is dwindling. There's still Apple's senior vice president of services, Eddy Cue, who joined in 1989, and has said that Jobs was like a \"family member\" to him. There's also longtime marketing exec Phil Schiller, wh …\nRead the full story at The Verge.",
+          "isoDate": "2026-04-23T12:00:00.000Z"
+        },
+        {
+          "title": "Govee’s new colorful outdoor lights are its first with solar power",
+          "link": "https://www.theverge.com/tech/916707/govee-outdoor-solar-string-lights-battery-rechargeable-pricing-availability",
+          "summary": "Eight bulbs are powered by a rechargeable battery built into a 6W solar panel. | Image: Govee\t\n\nGovee announced its first solar-powered lights today. They include a 6W panel with an integrated 4,800mAh battery that can be recharged with a single full day of sunlight (though if the weather's looking a little overcast, you can still charge it over USB-C). The Govee Outdoor Solar String Lights are available now through the company's online store and Amazon for $99.99 and feature eight color-changing bulbs on a 34-foot cable.\nOn a full charge the bulbs will run for up to 13 hours, Govee claims, but that's with their brightness limited to just 10 lumens. The bulbs have a maximum brightness of up to 50 lumens, but you can expect the battery …\nRead the full story at The Verge.",
+          "isoDate": "2026-04-23T12:00:00.000Z"
+        },
+        {
+          "title": "Microsoft launches ‘vibe working’ in Word, Excel, and PowerPoint",
+          "link": "https://www.theverge.com/news/917328/microsoft-agent-mode-vibe-working-office-word-excel-powerpoint",
+          "summary": "Microsoft is rolling out a new Agent Mode inside Office apps like Word, Excel, and PowerPoint this week. Previously described by Microsoft as \"vibe working,\" the Agent Mode is a more powerful version of the Copilot experience in Office that Microsoft has been trying to sell to businesses.\n\"When we first shipped Copilot, foundation models were not powerful enough to use Copilot to command the applications,\" admits Sumit Chauhan, corporate vice president of Microsoft's Office Product Group. \"This meant Copilot was a passive partner in documents: it could answer questions but missed the mark when it was asked to take action on the canvas direc …\nRead the full story at The Verge.",
+          "isoDate": "2026-04-23T11:34:18.000Z"
+        },
+        {
+          "title": "Will fusion power get cheap? Don’t count on it.",
+          "link": "https://www.technologyreview.com/2026/04/23/1136329/fusion-power-cost/",
+          "summary": "Fusion power could provide a steady, zero-emissions source of electricity in the future—if companies can get plants built and running. But a new study suggests that even if that future arrives, it might not come cheap. Technologies tend to get less expensive over time. Lithium-ion batteries are now about 90% cheaper than they were in…",
+          "isoDate": "2026-04-23T10:00:00.000Z"
+        },
+        {
+          "title": "Honor’s new phones look like iPhones for Android",
+          "link": "https://www.theverge.com/gadgets/917301/honors-new-phones-look-like-iphones-for-android",
+          "summary": "Honor has announced the 600 and 600 Pro, which it calls \"accessible flagships,\" and they look… familiar. Especially in that orange.\nThe Pro makes the iPhone comparison especially obvious thanks to its triple rear camera - it even has the same flash layout - while the 600 is just a hair subtler because it drops the Pro's 3.5x telephoto lens. Honor actually pulled the same move with last year's iPhone Air-inspired Honor 500, but that phone only launched in Asia.\nBoth phones have IP69K water-resistance ratings (a tougher rating that covers testing with water jets closer to the phone), midsize 6.57-inch OLED displays, and big 6,400mAh batterie …\nRead the full story at The Verge.",
+          "isoDate": "2026-04-23T08:00:57.000Z"
+        },
         {
           "title": "The Iranian women Trump &#8216;saved&#8217; from execution are simultaneously real and AI-manipulated",
           "link": "https://www.theverge.com/policy/917180/trump-iran-ai-women-bita-hemmati",
@@ -28,42 +64,6 @@
           "link": "https://arstechnica.com/cars/2026/04/tesla-reports-q1-2026-earnings-still-profitable/",
           "summary": "Car sales are up, battery sales and emissions credits are down.",
           "isoDate": "2026-04-22T21:16:05.000Z"
-        },
-        {
-          "title": "X is going to let Grok curate your timeline",
-          "link": "https://www.theverge.com/tech/917113/x-ai-grok-timeline-curation",
-          "summary": "X is putting its AI chatbot, Grok, in charge of your timeline. In an announcement on Wednesday, X product head Nikita Bier says Premium subscribers on iOS can get early access to a feature that allows users to pin specific topics to their home tab, which Grok will then use to curate the posts you see across each feed.\n\"It's powered by Grok's understanding of every post with the algorithm's personalization - meaning every timeline is made just for you,\" Bier writes. \"And it works even better when it's a topic you already engage with.\"\nBier says early access to the Grok-powered timeline is coming to Android users \"very soon.\" Along with this …\nRead the full story at The Verge.",
-          "isoDate": "2026-04-22T20:49:38.000Z"
-        },
-        {
-          "title": "Our newsroom AI policy",
-          "link": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
-          "summary": "How Ars Technica uses, and doesn't use, generative AI.",
-          "isoDate": "2026-04-22T20:40:59.000Z"
-        },
-        {
-          "title": "Tesla&#8217;s revenue rises again as it prepares for more AI and robotics",
-          "link": "https://www.theverge.com/transportation/915217/tesla-q1-2026-earnings-profit-revenue",
-          "summary": "Tesla released its 2026 first-quarter financial earnings today, providing another look at the progress of Elon Musk's $1 trillion bet to transform his company into a leader of AI and robotics.\nTesla said it earned $477 million in net income on $22.4 billion in revenue in the quarter that ended in April 2026. That's a 16 percent increase in revenue and a 17 percent increase in profits over the first quarter of 2025, when the company earned $409 million in net income on $19.3 billion in revenue. Tesla missed revenue expectations from Wall Street, which assumed approximately $22.64 billion in revenue.\nAs part of the earnings update deck, Tesl …\nRead the full story at The Verge.",
-          "isoDate": "2026-04-22T20:36:17.000Z"
-        },
-        {
-          "title": "AI failure could trigger the next financial crisis, warns Elizabeth Warren",
-          "link": "https://www.theverge.com/policy/917026/ai-economy-bubble-elizabeth-warren",
-          "summary": "\"I know a bubble when I see one.\"\nThat's what Sen. Elizabeth Warren (D-MA), who led the push to create a new consumer financial regulator in the wake of the 2008 recession, told a crowd at a Vanderbilt Policy Accelerator event in Washington, DC on Wednesday. Warren warned of what she called \"striking\" parallels to that crisis in the AI industry. While she believes the technology has \"enormous potential,\" she warned that AI companies' massive spending and borrowing practices are creating a tinderbox and Congress should step in.\nThough the AI industry has grown rapidly, Warren said the pace isn't keeping up with their spending, requiring the …\nRead the full story at The Verge.",
-          "isoDate": "2026-04-22T20:29:05.000Z"
-        },
-        {
-          "title": "Lawsuit: Nintendo is getting tariff refunds—its customers should get them instead",
-          "link": "https://arstechnica.com/tech-policy/2026/04/lawsuit-nintendo-is-getting-tariff-refunds-its-customers-should-get-them-instead/",
-          "summary": "Lawsuit demands Nintendo pass Trump tariff refunds on to its customers.",
-          "isoDate": "2026-04-22T20:27:24.000Z"
-        },
-        {
-          "title": "OpenAI now lets teams make custom bots that can do work on their own",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/917065/openai-chatgpt-workspace-agents-custom-teams-bots",
-          "summary": "OpenAI is giving users of its Business, Enterprise, Edu, and Teachers plans access to cloud-based \"workspace\" agents available in ChatGPT that can perform business tasks. In its blog post, OpenAI gives examples of agents like one that finds product feedback on the web and sends a report in Slack and a sales agent that can draft follow-up emails in Gmail.\nThese new agents follow increasing interest in agents across the AI landscape, especially after OpenClaw - the AI agent formerly known as Clawdbot and Moltbot that touts itself as the \"AI that actually does things\" - went viral. OpenClaw founder Peter Steinberger now works for OpenAI. OpenA …\nRead the full story at The Verge.",
-          "isoDate": "2026-04-22T20:09:02.000Z"
         }
       ]
     },
@@ -72,64 +72,64 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "Smoke Shrouds Northern Thailand",
-          "link": "https://science.nasa.gov/earth/earth-observatory/smoke-shrouds-northern-thailand/",
-          "summary": "Seasonal fires have darkened skies over Southeast Asia.",
-          "isoDate": "2026-04-23T04:01:00.000Z"
+          "title": "ERROR cargando feed",
+          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
+          "isoDate": "2026-04-23T13:28:46.842Z"
         },
         {
-          "title": "NASA SBIR/STTR Phase I and II BAA, 2026 Appendix A and B are now live! Offers due May 21, 2026, 5:00PM EDT",
-          "link": "https://www.nasa.gov/general/nasa-sbir-sttr-phase-i-and-ii/",
-          "summary": "https://www.nasa.gov/sbir_sttr/nasa-sbir-sttr-program-program-year-2026-information-hub",
-          "isoDate": "2026-04-22T22:19:18.000Z"
+          "title": "Author Correction: Rewiring an E3 ligase enhances cold resilience and phosphate use in maize",
+          "link": "https://www.nature.com/articles/s41586-026-10560-1",
+          "summary": "Nature, Published online: 23 April 2026; doi:10.1038/s41586-026-10560-1\nAuthor Correction: Rewiring an E3 ligase enhances cold resilience and phosphate use in maize",
+          "isoDate": "2026-04-23T00:00:00.000Z"
         },
         {
-          "title": "NASA’s 777 Aircraft Returns Home with Science Flights on the Horizon",
-          "link": "https://www.nasa.gov/centers-and-facilities/langley/nasas-777-aircraft-returns-home-with-science-flights-on-the-horizon/",
-          "summary": "NASA’s Boeing 777 has returned to the agency’s fleet after undergoing heavy structural modifications as it transforms from a giant passenger plane into the agency’s next-generation airborne science laboratory. After a check flight and a three-hour transit from Waco, the aircraft returned to NASA’s Langley Research Center in Hampton, Virginia, on April 22. Since January […]",
-          "isoDate": "2026-04-22T20:29:26.000Z"
+          "title": "What 6,000 researchers think about the future of science",
+          "link": "https://www.nature.com/articles/d41586-026-01061-2",
+          "summary": "Nature, Published online: 23 April 2026; doi:10.1038/d41586-026-01061-2\nFunding worries and publishing trends loom large in the minds of scientists surveyed by Nature Index.",
+          "isoDate": "2026-04-23T00:00:00.000Z"
         },
         {
-          "title": "NASA Targets Early September for Roman Space Telescope Launch",
-          "link": "https://www.nasa.gov/image-article/nasa-targets-early-september-for-roman-space-telescope-launch/",
-          "summary": "NASA’s Nancy Grace Roman Space Telescope team now is targeting as soon as early September 2026 for launch, ahead of the agency’s commitment to flight no later than May 2027. “Roman’s accelerated development is a true success story of what we can achieve when public investment, institutional expertise, and private enterprise come together to take […]",
-          "isoDate": "2026-04-22T17:46:38.000Z"
+          "title": "Evaluating large language models for accuracy incentivizes hallucinations",
+          "link": "https://www.nature.com/articles/s41586-026-10549-w",
+          "summary": "Nature, Published online: 22 April 2026; doi:10.1038/s41586-026-10549-w\nEvaluating large language models for accuracy incentivizes hallucinations",
+          "isoDate": "2026-04-22T00:00:00.000Z"
         },
         {
-          "title": "NASA Astronaut Anil Menon to Discuss Upcoming Launch, Mission",
-          "link": "https://www.nasa.gov/news-release/nasa-astronaut-anil-menon-to-discuss-upcoming-launch-mission/",
-          "summary": "NASA will host a news conference at 1:45 p.m. EDT Wednesday, April 29, from the agency’s Johnson Space Center in Houston to preview astronaut Anil Menon’s upcoming mission to the International Space Station. Watch the news conference live on NASA’s YouTube channel. Learn how to watch NASA content through a variety of online platforms, including […]",
-          "isoDate": "2026-04-22T16:29:30.000Z"
+          "title": "Ubiquitination of glycogen and metabolites in cells and tissues",
+          "link": "https://www.nature.com/articles/s41586-026-10548-x",
+          "summary": "Nature, Published online: 22 April 2026; doi:10.1038/s41586-026-10548-x\nUbiquitination of glycogen and metabolites in cells and tissues",
+          "isoDate": "2026-04-22T00:00:00.000Z"
         },
         {
-          "title": "Night and (Earth) Day",
-          "link": "https://www.nasa.gov/image-article/night-and-earth-day/",
-          "summary": "This image, released in celebration of Earth Day, shows the terminator – the line between night and day – on Earth. The Artemis II astronauts captured this view on April 2, 2026, during their journey to the Moon. NASA science improves life on Earth every day. The agency provides insights on our home planet that […]",
-          "isoDate": "2026-04-22T15:14:52.000Z"
+          "title": "Author Correction: Robust cytoplasmic partitioning by solving a cytoskeletal instability",
+          "link": "https://www.nature.com/articles/s41586-026-10390-1",
+          "summary": "Nature, Published online: 22 April 2026; doi:10.1038/s41586-026-10390-1\nAuthor Correction: Robust cytoplasmic partitioning by solving a cytoskeletal instability",
+          "isoDate": "2026-04-22T00:00:00.000Z"
         },
         {
-          "title": "Advancing Earth Observation at NASA Since Release of Earthrise Photo",
-          "link": "https://science.nasa.gov/earth/advancing-earth-observation-at-nasa-since-release-of-earthrise-photo/",
-          "summary": "From cameras pressed against spacecraft windows to the most powerful radar ever flown, imaging technology has taken giant leaps since 1968, but the drive to understand our home in the cosmos has remained.",
-          "isoDate": "2026-04-22T13:38:53.000Z"
+          "title": "This robot can beat you at table tennis",
+          "link": "https://www.nature.com/articles/d41586-026-01343-9",
+          "summary": "Nature, Published online: 22 April 2026; doi:10.1038/d41586-026-01343-9\nThe AI-powered arm learnt the sport from scratch and can now beat top players.",
+          "isoDate": "2026-04-22T00:00:00.000Z"
         },
         {
-          "title": "Belts of Green in the Washington Suburbs",
-          "link": "https://science.nasa.gov/earth/earth-observatory/belts-of-green-in-the-washington-suburbs/",
-          "summary": "Along the northeast side of the Capital Beltway in Maryland, green spaces weave through the developed landscape.",
-          "isoDate": "2026-04-22T04:01:00.000Z"
+          "title": "Meet Ace, the table-tennis robot that can beat elite players",
+          "link": "https://www.nature.com/articles/d41586-026-01341-x",
+          "summary": "Nature, Published online: 22 April 2026; doi:10.1038/d41586-026-01341-x\nA high-speed perception system allows the robot to predict complex ball movements — plus, the decade-long experiment measuring the strength of Big G.",
+          "isoDate": "2026-04-22T00:00:00.000Z"
         },
         {
-          "title": "Artemis II Mission Milestones: An Image and Video Recap",
-          "link": "https://www.nasa.gov/centers-and-facilities/johnson/artemis-ii-mission-milestones-an-image-and-video-recap/",
-          "summary": "On April 1, 2026, Artemis II launched on a nearly 10-day voyage around the Moon, marking the first crewed flight of NASA’s Orion spacecraft. NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, along with CSA (Canadian Space Agency) astronaut Jeremy Hansen, splashed down on April 10 in the Pacific Ocean off the coast of San Diego.  At their farthest […]",
-          "isoDate": "2026-04-22T01:55:09.000Z"
+          "title": "Little ants groom big ones in a desert spa",
+          "link": "https://www.nature.com/articles/d41586-026-01237-w",
+          "summary": "Nature, Published online: 22 April 2026; doi:10.1038/d41586-026-01237-w\nArizona ‘cleaner’ ant nibbles and licks the workers of a different ant species.",
+          "isoDate": "2026-04-22T00:00:00.000Z"
         },
         {
-          "title": "Curiosity Blog, Sols 4867-4872: Sand Fill In Antofagasta Crater and Finding Our Next Drill Target",
-          "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4867-4872-sand-fill-in-antofagasta-crater-and-finding-our-next-drill-target/",
-          "summary": "Written by Lucy Lim, Planetary Scientist at NASA’s Goddard Space Flight Center Earth planning date: Friday, April 17, 2026 At the beginning of the week, Curiosity arrived right on target on the rim of the 10-meter (33 feet) “Antofagasta” crater.   The crater looked fresh and deep as we had hoped with a nice well-defined […]",
-          "isoDate": "2026-04-22T00:33:49.000Z"
+          "title": "Caspase&#xa0;5c amplifies Wnt via APC cleavage to promote intestinal homeostasis",
+          "link": "https://www.nature.com/articles/s41586-026-10343-8",
+          "summary": "Nature, Published online: 22 April 2026; doi:10.1038/s41586-026-10343-8\nCASP5 expression is restricted to the human intestinal epithelium, and the CASP5C isoform has a key role in promoting Wnt signalling, which is required for epithelial homeostasis, through binding to dishevelled and cleavage of APC to regulate β-catenin turnover.",
+          "isoDate": "2026-04-22T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-04-23T07:52:24.549Z"
+          "isoDate": "2026-04-23T13:28:47.572Z"
+        },
+        {
+          "title": "UK Biobank health data listed for sale in China, government confirms",
+          "link": "https://www.bbc.com/news/articles/cpvxgl3n138o?at_medium=RSS&at_campaign=rss",
+          "summary": "The government said medical data of 500,000 people was affected but no personally identifiable information had been made available.",
+          "isoDate": "2026-04-23T11:45:41.000Z"
         },
         {
           "title": "Xbox cuts prices for Game Pass but ends day-one Call of Duty access",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.com/news/articles/c1kr19lry18o?at_medium=RSS&at_campaign=rss",
           "summary": "Ternus will take over running the technology giant in September as Cook steps up to become executive chairman.",
           "isoDate": "2026-04-21T05:57:56.000Z"
-        },
-        {
-          "title": "The 'dumb machine' promising a clean energy breakthrough",
-          "link": "https://www.bbc.com/news/articles/c5yvm11xrn6o?at_medium=RSS&at_campaign=rss",
-          "summary": "A stellarator is difficult to build, but could it be the best way to make fusion energy work?",
-          "isoDate": "2026-04-20T23:09:41.000Z"
         }
       ]
     },
@@ -216,6 +216,12 @@
           "isoDate": "2026-04-22T15:00:00.000Z"
         },
         {
+          "title": "Workspace agents",
+          "link": "https://openai.com/academy/workspace-agents",
+          "summary": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations.",
+          "isoDate": "2026-04-22T10:00:00.000Z"
+        },
+        {
           "title": "Introducing workspace agents in ChatGPT",
           "link": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
           "summary": "Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely.",
@@ -225,12 +231,6 @@
           "title": "Speeding up agentic workflows with WebSockets in the Responses API",
           "link": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
           "summary": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
-          "isoDate": "2026-04-22T10:00:00.000Z"
-        },
-        {
-          "title": "Workspace agents",
-          "link": "https://openai.com/academy/workspace-agents",
-          "summary": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations.",
           "isoDate": "2026-04-22T10:00:00.000Z"
         },
         {
@@ -273,13 +273,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-04-23T07:52:28.363Z"
+          "isoDate": "2026-04-23T13:28:51.892Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-04-23T07:52:25.725Z"
+          "isoDate": "2026-04-23T13:28:48.809Z"
+        },
+        {
+          "title": "This Roboticist-Turned-Teacher Built a Life-Size Replica of ENIAC",
+          "link": "https://spectrum.ieee.org/roboticist-turned-teacher-eniac-replica",
+          "summary": "Tom Burick has always considered himself a builder. Over the years he’s designed robots, constructed a vintage teardrop trailer, and most recently, led a group of students in building a full-scale replica of a pivotal 1940s computer. \nBurick is a technology instructor at PS Academy in Gilbert, Ariz., a middle and high school for students with autism and other specialized learning needs. At the start of the 2025–26 school year, he began a project with his students to build a full-scale replica of the Electronic Numerical Integrator and Computer, or ENIAC, for the 80th anniversary of the historic computer’s construction. ENIAC was one of the world’s first programmable electronic computers. When it was built, it was about one thousand times as fast as other machines.\nBefore becoming a teacher, Burick owned a robotics company for a decade in the 2000s. But when a financial downturn forced him to close the business, he turned to teaching. “I had so many amazing people help me when I was young [who] really gave me their time and resources, and really changed the trajectory of my life,” Burick says. “I thought I need to pay that forward.”\nBecoming a Roboticist\nAs a young child in Latrobe, Pa., Burick watched the television show Lost in Space, which includes a robot character who protects the family. “He was the young boy’s best friend, and I was so captivated by that. I remember thinking to myself, I want that in my life. And that started that lifelong love affair with robotics and technology.”\nHe started building toy robots out of anything he could find, and in junior high school, he began adding electronics. “By early high school, I was building full-fledged autonomous, microprocessor-controlled machines,” he says. At age 15, he built a 150-pound steel firefighting robot, for which he won awards from IEEE and other organizations. \nBurick kept building robots and reached out for help from local colleges and universities. He first got in touch with a student at Carnegie Mellon University, who invited him to visit campus. “My parents drove me down the next weekend, and he gave me a tour of the robotics lab. I was mesmerized. He sent me home with college textbooks and piles of metal and gears and wires,” Burick says. He would read the textbook a page at a time, reading it again and again until he felt he had an understanding of it. Then, to help fill gaps in his understanding, he got in touch with a robotics instructor at Saint Vincent College, in his hometown of Latrobe, who let him sit in on classes. Each of these adults, he says, “helped change the trajectory of my life.” \nToward the end of high school, Burick realized that college wouldn’t be the right environment for him. “I was drawn to real-world problem-solving rather than structured coursework and I chose to continue along that path,” he says. Additionally, Burick has dyscalculia, which makes traditional mathematics more challenging for him. “It pushed me to develop alternative methods of engineering.”\n  The ENIAC replica Burick’s students built precisely matches what the original computer would have looked like before it was disassembled in the 1950s. Robert Gamboa\nWhen he graduated, he worked in several tech jobs before starting his own company. In 2000, he opened a computer retail store and adjacent robotics business, White Box Robotics. The idea for the company came when Burick was building a “white box” PC from standard, off-the-shelf components, and realized there was no comparable product for robotics. \nSo, he started developing a modular, general-purpose platform that applied white box PC standards to mobile robots. “The robot’s chassis was like a box of Legos,” he says. You could click together two torsos to double its payload, switch out the drive system, or swap its head for a different set of sensors. He filed utility and design patents for the platform, called the 914 PC-Bot, and after merging with a Canadian defense robotics company called Frontline Robotics, started production. They sold about 200 robots in 17 countries, Burick says. \nThen the 2008 financial crisis hit. White Box Robotics held on for a couple of years, shuttering in late 2010. “I got to live my life’s dream for 10 years,” he says. After closing White Box, “there was some soul searching” about what to do next. He recalled the impact his own mentors had, and decided to pay it forward by teaching. \nNeurodiversity as a Superpower\n In 2013, Burick started working in a vocational training program for young adults living with autism. The program didn’t have a technical arm, so he started one and ran it until 2019, when he was hired to be a technology instructor at PS Academy Arizona. \n  Burick and one of his students assemble the base for one of ENIAC’s three portable function tables, which contained banks of switches that stored numerical constants. Bri Mason\n Burick feels he can connect with his students, because he is also neurodivergent. Throughout his childhood, he was told what he wasn’t able to do because of his dyscalculia diagnosis. “People tell you what it takes, but they never tell you what it gives,” Burick says. \nIn adulthood, he realized that some of his strengths are linked to dyscalculia, too, like strong 3D spatial reasoning. “I have this CAD program that runs in my head 24 hours a day,” he says. “I think the reason I was successful in robotics, truly, was because of the dyscalculia…. To me, [it] has always been a superpower.” \nWhenever his students say something disparaging about living with autism, he shares his own experience. “You need to have maybe just a bit more tenacity than others, because there are parts of it you do have to fight through, but you come through with gifts and strengths,” he tells them. \nAnd Burick’s classes aim to play to those strengths. “I didn’t want my technology program to feel like craft hour,” he says. Instead, through projects like the ENIAC replica, students can leverage traits many of them share, like the abilities to hyperfocus and to precisely repeat tasks. \nRecreating ENIAC\n Burick has taught his students about ENIAC for several years. While reading about it, he learned that the massive, 27-tonne computer was dismantled and partially destroyed after being decommissioned in 1955. Although a few of ENIAC’s 40 original panels are on display at museums, “there was no hope of ever seeing it together again. We wanted to give the world that experience,” Burick says. \n He and his students started by learning about ENIAC, and even Burick was surprised by how complex the 80-year-old computer was. They built a one-twelfth scale model to help the students better understand what it looked like. Seeing the students light up, Burick became confident in their ability to move onto the full-scale model, and he started ordering supplies. \n ENIAC was composed of 40 large metal panels arranged in a U-shape that housed its many vacuum tubes, resistors, capacitors, and switches. Twenty of the panels were accumulators with the same design, so the students started with these, then worked through smaller groupings of panels. The repeating panels brought symmetry to ENIAC, Burick says, but it was also one of the main challenges of recreating it. If one part was slightly out of place, the next one would be too and the mistake would compound. \n  The students installed 500 simulated vacuum tubes in each of the panels here, for a total of 18,000 vacuum tubes.Robert Gamboa\n Once they constructed the panels, they added ENIAC’s three function tables, which stored numerical constants in banks of switches, then two punch-card machines. Finally, they installed 18,000 simulated vacuum tubes. In total, the project used nearly 300 square meters of thick-ream cardboard, 1,600 hot-glue-gun sticks, and 7 gallons of black paint. \n The scale of the machine—and his students’ work—left Burick in awe. “By the time we were done, I felt like I was in a room full of scientists,” he says.\n Previously, Burick’s students built an 8-foot-long drivable Tesla Cybertruck (“complete with a 400-watt stereo system and a subwoofer”) and he plans to keep the momentum with another recreation—maybe from the Apollo moon missions. \n“I go to work every day, and I feel passionate about robotics [and] technology. I get to share that passion with the students,” Burick says. “I get to feel what it’s like to be in the position of the people that helped me. It closes that loop, and I find that really rewarding.”",
+          "isoDate": "2026-04-23T13:00:01.000Z"
         },
         {
           "title": "Reviving Teletext for Ham Radio",
@@ -310,12 +316,6 @@
           "link": "https://spectrum.ieee.org/socially-assistive-robotics",
           "summary": "When the robotics engineering field that Maja Matarić wanted to work in didn’t exist, she helped create it. In 2005 she helped define the new area of socially assistive robotics.\nAs an associate professor of computer science, neuroscience, and pediatrics at the University of Southern California, in Los Angeles, she developed robots to provide personalized therapy and care through social interactions.\nMaja Matarić\n\nEmployer \nUniversity of Southern California, Los Angeles\nJob Title \nProfessor of computer science, neuroscience, and pediatrics\nMember grade\nFellow\nAlma maters \nUniversity of Kansas and MIT\nThe robots could have conversations, play games, and respond to emotions.\nToday the IEEE Fellow is a professor at USC. She studies how robots can help students with anxiety and depression undergo cognitive behavioral therapy. CBT focuses on changing a person’s negative thought patterns, behaviors, and emotional responses.\nFor her work, she received a 2025 Robotics Medal from MassRobotics, which recognizes female researchers advancing robotics. The Boston-based nonprofit provides robotics startups with a workspace, prototyping facilities, mentorship, and networking opportunities.\nWhen receiving the award at the ceremony in Boston, Matarić was overcome with joy, she says.\n“I’ve been very fortunate to be honored with several awards, which I am grateful for. But there was something very special about getting the MassRobotics medal, because I knew at least half the people in the room,” she says. “Everyone was just smiling, and there was a great sense of love.”\nSeeing herself as an engineer\nMatarić grew up in Belgrade, Serbia. Her father was an engineer, and her mother was a writer. After her father died when she was 16, Matarić and her mother moved to the United States.\nShe credits her father for igniting her interest in engineering, and her uncle who worked as an aerospace engineer for introducing her to computer science.\nMatarić says she didn’t consider herself an engineer until she joined USC’s faculty, since she always had worked in computer science.\n“In retrospect, I’ve always been an engineer,” Matarić says. “But I didn’t set out specifically thinking of myself as one—which is just one of the many things I like to convey to young people: You don’t always have to know exactly everything in advance.”\n  Maja Matarić and her lab are exploring how socially assistive robots can help improve the communication skills of children with autism spectrum disorder. National Science Foundation News \nWhile pursuing her bachelor’s degree in computer science at the University of Kansas in Lawrence, she was introduced to industrial robotics through a textbook. After earning her degree in 1987, she had an opportunity to continue her education as a graduate student at MIT’s AI Lab (now the Computer Science and Artificial Intelligence Lab). During her first year, she explored the different research projects being conducted by faculty members, she said in a 2010 oral history conducted by the IEEE History Center. She met IEEE Life Fellow Rodney Brooks, who was working on novel reactive and behavior-based robotic systems. His work so excited her that she joined his lab and conducted her master’s thesis under his tutelage.\nInspired by the way animals use landmarks to navigate, Matarić developed Toto, the first navigating behavior-based robot. Toto used distributed models to map the AI Lab building where Matarić worked and plan its path to different rooms. Toto used sonar to detect walls, doors, and furniture, according to Matarić’s paper, “The Robotics Primer.”\nAfter earning her master’s degree in AI and robotics in 1990, she continued to work under Brooks as a doctoral student, pioneering distributed algorithms that allowed a team of up to 20 robots to execute complex tasks in tandem, including searching for objects and exploring their environment.\nMatarić earned her Ph.D. in AI and robotics in 1994 and joined Brandeis University, in Waltham, Mass., as an assistant professor of computer science. There she founded the Interaction Lab, where she developed autonomous robots that work together to accomplish tasks.\nThree years later, she relocated to California and joined USC’s Viterbi School of Engineering as an assistant professor in computer science and neuroscience.\nIn 2002 she helped to found the Center for Robotics and Embedded Systems (now the Robotics and Autonomous Systems Center). The RASC focuses on research into human-centric and scalable robotic systems and promotes interdisciplinary partnerships across USC.\nMatarić’s shift in her research came after she gave birth to her first child in 1998. When her daughter was a bit older and asked Matarić why she worked with robots, she wanted to be able to “say something better than ‘I publish a lot of research papers,’ or ‘it’s well-recognized,’” she says.\n“In academia, you can be in a leadership role and still do research. It’s a wonderful and important opportunity that lets academics be on top of our field and also train the next generation of students and help the next generation of faculty colleagues.”\n“Kids don’t consider those good answers, and they’re probably right,” she says. “This made me realize I was in a position to do something different. And I really wanted the answer to my daughter’s future question to be, ‘Mommy’s robots help people.’”\nMatarić and her doctoral student David Feil-Seifer presented a paper defining socially assistive robotics at the 2005 International Conference on Rehabilitation Robotics. It was the only paper that talked about helping people complete tasks and learn skills by speaking with them rather than by performing physical jobs, she says.\nFeil-Seifer is now a professor of computer science and engineering at the University of Nevada in Reno.\nAt the same time, she founded the Interaction Lab at USC and made its focus creating robots that provide social, rather than physical, support.\n“At this point in my career journey, I’ve matured to a place where I don’t want to do just curiosity-driven research alone,” she says. “Plenty of what my team and I do today is still driven by curiosity, but it is answering the question: ‘How can we help someone live a better life?’”\nIn 2006 she was promoted to full professor and made the senior associate dean for research in USC’s Viterbi School of Engineering. In 2012 she became vice dean for research.\n“In academia, you can be in a leadership role and still do research,” she says. “It’s a wonderful and important opportunity that lets academics be on top of our field and also train the next generation of students and help the next generation of faculty colleagues.”\nResearch in socially assistive robotics\nOne of the longest research projects Matarić has led at her Interaction Lab is exploring how socially assistive robots can help improve the communication skills of children with autism spectrum disorder. ASD is a lifelong neurological condition that affects the way people interact with others, and the way they learn. Children with ASD often struggle with social behaviors such as reading nonverbal cues, playing with others, and making eye contact.\nMatarić and her team developed a robot, Bandit, that can play games with a child and give the youngster words of affirmation. Bandit is 56 centimeters tall and has a humanlike head, torso, and arms. Its head can pan and tilt. The robot uses two FireWire cameras as its eyes, and it has a movable mouth and eyebrows, allowing it to exhibit a variety of facial expressions, according to the IEEE Spectrum’s robots guide. Its torso is attached to a wheeled base.\nThe study showed that when interacting with Bandit, children with ASD exhibited social behaviors that were out of the ordinary for them, such as initiating play and imitating the robot.\nMatarić and her team also studied how the robot could serve as a social and cognitive aid for elderly people and stroke patients. Bandit was programmed to instruct and motivate users to perform daily movement exercises such as seated aerobics.\n  Maja Matarić and doctoral student Amy O’Connell testing Blossom, which is being used to study how it can aid students with anxiety or depression.University of Southern California\nOver the years, Matarić’s lab developed other robots including Kiwi and Blossom. Kiwi, which looked like an owl, helped children with ASD learn social and cognitive skills, helped motivate elderly people living alone to be more physically active, and mediated discussions among family members. Blossom, originally developed at Cornell, was adapted by the Interaction Lab to make it less expensive and personalizable for individuals. The robot is being used to study how it can aid students with anxiety or depression to practice cognitive behavioral therapy.\nMatarić’s line of research began when she learned that large language model (LLM) chatbots were being promoted to help people with mental health struggles, she said in an episode of the AMA Medical News podcast.\n“It is generally not easy to get [an appointment with a] therapist, or there might not be insurance coverage,” she said. “These, combined with the rates of anxiety and depression, created a real need.”\nThat made the chatbot idea appealing, she says, but she was interested to see if they were effective compared with a friendly robot such as Blossom.\nMatarić and her team used the same LLMs to power CBT practice with a chatbot and with Blossom. They ran a two-week study in the USC dorms, where students were randomly assigned to complete CBT exercises daily with either a chatbot or the robot. Participants filled out a clinical assessment to measure their psychiatric distress before and after each session.\nThe study showed that students who interacted with the robot experienced a significant decrease in their mental state, Matarić said in the podcast, and students who interacted with the chatbot did not.\n“Joining an [IEEE] society has an impact, and it can be personal. That’s why I recommend my students join the organization—because it’s important to get out there and get connected.”\nShe and her team also reviewed transcripts of conversations between the students and the robot to evaluate how well the LLM responded to the participants. They found the robot was more effective than the chatbot, even though both were using the same model.\nBased on those findings, in 2024 Matarić received a grant from the U.S. National Institute of Mental Health to conduct a six-week clinical trial to explore how effective a socially assistive robot could be at delivering CBT practice. The trial, currently underway, also is expected to study how Blossom can be personalized to adapt to each user’s preferences and progress, including the way the robot moves, which exercises it recommends, and what feedback it gives.\nDuring the trial, the 120 students participating are wearing Fitbits to study their physiologic responses. The participants fill out a clinical assessment to measure their psychiatric distress before and after each session.\nData including the participants’ feelings of relating to the robot, intrinsic motivation, engagement, and adherence will be assessed by the research team, Matarić says.\nShe says she’s proud of the graduate students working on this project, and seeing them grow as engineers is one of the most rewarding parts of working in academia.\n“Engineers generally don’t anticipate having to work with human study participants and needing to understand psychology in addition to the hardcore engineering,” she says. “So the students who choose to do this research are just wonderful, caring people.”\nFinding a community at IEEE\nMatarić joined IEEE as a graduate student in 1992, the year she published her first paper in IEEE Transactions on Robotics and Automation. The paper, “Integration of Representation Into Goal-Driven Behavior-Based Robots,” described her work on Toto.\nAs a member of the IEEE Robotics and Automation Society, she says she has gained a community of like-minded people. She enjoys attending conferences including the IEEE International Conference on Robotics and Automation, the IEEE/RSJ International Conference on Intelligent Robots and Systems, and the ACM/IEEE International Conference on Human-Robot Interaction, which is closest to her field of research.\nMatarić credits IEEE Life Fellow George Bekey, the founding editor in chief of the IEEE Transactions on Robotics, for recruiting her for the USC engineering faculty position. He knew of her work through her graduate advisor Brooks, who published a paper in the journal that introduced reactive control and the subsumption architecture, which became the foundation of a new way to control robots. It is his most cited paper. Bekey, who was editor in chief at the time, helped guide Brooks through the challenging review process. Matarić joined Brooks’s lab at MIT two years after its publication, and her work on Toto built on that foundation.\n“Joining a society has an impact, and it can be personal,” she says. “That’s why I recommend my students join the organization—because it’s important to get out there and get connected.”",
           "isoDate": "2026-04-20T18:00:02.000Z"
-        },
-        {
-          "title": "How Engineers Kick-Started the Scientific Method",
-          "link": "https://spectrum.ieee.org/francis-bacon-scientific-method",
-          "summary": "In 1627, a year after the death of the philosopher and statesman Francis Bacon, a short, evocative tale of his was published. The New Atlantis describes how a ship blown off course arrives at an unknown island called Bensalem. At its heart stands Salomon’s House, an institution devoted to “the knowledge of causes, and secret motions of things” and to “the effecting of all things possible.” The novel captured Bacon’s vision of a science built on skepticism and empiricism and his belief that understanding and creating were one and the same pursuit. \nNo mere scholar’s study filled with curiosities, Salomon’s House had deep-sunk caves for refrigeration, towering structures for astronomy, sound-houses for acoustics, engine-houses, and optical perspective-houses. Its inhabitants bore titles that still sound futuristic: Merchants of Light, Pioneers, Compilers, and Interpreters of Nature.\n  Francis Bacon wrote The Advancement and Proficience of Learning.Public Domain\nBacon didn’t conjure his story from nothing. Engineers he likely had met or observed firsthand gave him reason to believe such an institution could actually exist. Two in particular stand out: the Dutch engineer Cornelis Drebbel and the French engineer Salomon de Caus. Their bold creations suggested that disciplined making and testing could transform what we know.\nEngineers show the way\nDrebbel came to England around 1604 at the invitation of King James I. His audacious inventions quickly drew notice. By the early 1620s, he unveiled a contraption that bordered on fantasy: a boat that could dive beneath the Thames and resurface hours later, ferrying passengers from Westminster to Greenwich. Contemporary descriptions mention tubes reaching the surface to supply air, while later accounts claim Drebbel had found chemical means to replenish it. He refined the underwater craft through iterative builds, each informed by test dives and adjustments. His other creations included a perpetual-motion device driven by heat and air-pressure changes, a mercury regulator for egg incubation, and advanced microscopes.\nDe Caus, who arrived in England around 1611, created ingenious fountains that transformed royal gardens into animated spectacles. Visitors marveled as statues moved and birds sang in water-driven automatons, while hidden pipes and pumps powered elaborate fountains and mythic scenes. In 1615, de Caus published The Reasons for Moving Forces, an illustrated manual on water- and air-driven devices like spouts, hydraulic organs, and mechanical figures. What set him apart was scale and spectacle: He pressed ancient physical principles into the service of courtly theater.\nDrebbel’s airtight submersibles and methodical trials echo in the motion studies and environmental chambers of Salomon’s House. De Caus’s melodic fountains and hidden mechanisms parallel its acoustic trials and optical illusions. From such hands-on workshops, Bacon drew the lesson that trustworthy knowledge comes from working within material constraints, through gritty making and testing. On the island of Bensalem, he imagines an entire society organized around it.\nBeyond inspiring Bacon’s fiction, figures like Drebbel and de Caus honed his emerging philosophy. In 1620, Bacon published Novum Organum, which critiqued traditional philosophical methods and advocated a fresh way to investigate nature. He pointed to printing, gunpowder, and the compass as practical inventions that had transformed the world far more than abstract debates ever could. Nature reveals its secrets, Bacon argued, when probed through ingenious tools and stringent tests. Novum Organum laid out the rationale, while New Atlantis gave it a vivid setting. \nA final legacy to science\n  Francis Bacon also wrote Novum Organum.Public Domain\nThat devotion to inquiry followed Bacon to the roadside one day in March 1626. In a biting late-winter chill, he halted his carriage for an impromptu trial. He bought a hen and helped pack its gutted body with fresh snow to test whether freezing alone could prevent decay. Unfortunately, the cold seeped through Bacon’s own body, and within weeks pneumonia claimed him. Bacon’s life ended with an experiment—and set in motion a larger one. In 1660, a group of London thinkers hailed Bacon as their inspiration in founding the Royal Society. Their motto, Nullius in verba (“take no one’s word for it”), committed them to evidence over authority, and their ambition was nothing less than to create a Salomon’s House for England.\nThe Royal Society and its successors realized fragments of Bacon’s dream, institutionalizing experimental inquiry. Over the following centuries, though, a distorting story took root: Scientists discover nature’s truths, and the rest is just engineering. Nineteenth-century “men of science” pressed for greater recognition and invented the title of “scientist,” creating a new professional hierarchy. Across the Atlantic, U.S. engineers adopted the rigorous science-based curricula of French and German technical schools and recast engineering as “applied science” to gain institutional legitimacy. \nWe still call engineering “applied science,” a label that retrofits and reverses history. Alongside it stands “technology,” a catchall word that obscures as much as it describes. And we speak of “development” as if ideas cascade neatly from theory to practice. But creation and comprehension have been partners from the start. Yes, theory does equip engineers with tools to push for further insights. But knowing often follows making, arising from things that someone made work.\nBacon’s imaginary academy offered only fleeting glimpses of its inventions and methods. Yet he had seen the real thing: engineers like Drebbel and de Caus who tested, erred, iterated, and pushed their contraptions past the edge of known theory. From his observations of those muddy, noisy endeavors, Bacon forged his blueprint for organized inquiry. Later generations of scientists would reduce Bacon’s ideas to the clean, orderly “scientific method.” But in the process, they lost sight of its inventive roots.",
-          "isoDate": "2026-04-19T13:00:02.000Z"
         }
       ]
     },
