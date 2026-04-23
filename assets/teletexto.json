@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-23T02:37:05.767Z",
+  "generatedAt": "2026-04-23T07:52:29.721Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
@@ -72,6 +72,12 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "Smoke Shrouds Northern Thailand",
+          "link": "https://science.nasa.gov/earth/earth-observatory/smoke-shrouds-northern-thailand/",
+          "summary": "Seasonal fires have darkened skies over Southeast Asia.",
+          "isoDate": "2026-04-23T04:01:00.000Z"
+        },
+        {
           "title": "NASA SBIR/STTR Phase I and II BAA, 2026 Appendix A and B are now live! Offers due May 21, 2026, 5:00PM EDT",
           "link": "https://www.nasa.gov/general/nasa-sbir-sttr-phase-i-and-ii/",
           "summary": "https://www.nasa.gov/sbir_sttr/nasa-sbir-sttr-program-program-year-2026-information-hub",
@@ -124,12 +130,6 @@
           "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4867-4872-sand-fill-in-antofagasta-crater-and-finding-our-next-drill-target/",
           "summary": "Written by Lucy Lim, Planetary Scientist at NASA’s Goddard Space Flight Center Earth planning date: Friday, April 17, 2026 At the beginning of the week, Curiosity arrived right on target on the rim of the 10-meter (33 feet) “Antofagasta” crater.   The crater looked fresh and deep as we had hoped with a nice well-defined […]",
           "isoDate": "2026-04-22T00:33:49.000Z"
-        },
-        {
-          "title": "Evaluating large language models for accuracy incentivizes hallucinations",
-          "link": "https://www.nature.com/articles/s41586-026-10549-w",
-          "summary": "Nature, Published online: 22 April 2026; doi:10.1038/s41586-026-10549-w\nEvaluating large language models for accuracy incentivizes hallucinations",
-          "isoDate": "2026-04-22T00:00:00.000Z"
         }
       ]
     },
@@ -141,13 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-04-23T02:37:00.907Z"
-        },
-        {
-          "title": "AI is flattening the jobs market for young people, says Sunak",
-          "link": "https://www.bbc.com/news/articles/cvg07x4rejdo?at_medium=RSS&at_campaign=rss",
-          "summary": "The former prime minister said graduates' concerns about getting entry-level jobs are justified.",
-          "isoDate": "2026-04-22T23:01:09.000Z"
+          "isoDate": "2026-04-23T07:52:24.549Z"
         },
         {
           "title": "Xbox cuts prices for Game Pass but ends day-one Call of Duty access",
@@ -196,6 +190,12 @@
           "link": "https://www.bbc.com/news/articles/c1kr19lry18o?at_medium=RSS&at_campaign=rss",
           "summary": "Ternus will take over running the technology giant in September as Cook steps up to become executive chairman.",
           "isoDate": "2026-04-21T05:57:56.000Z"
+        },
+        {
+          "title": "The 'dumb machine' promising a clean energy breakthrough",
+          "link": "https://www.bbc.com/news/articles/c5yvm11xrn6o?at_medium=RSS&at_campaign=rss",
+          "summary": "A stellarator is difficult to build, but could it be the best way to make fusion energy work?",
+          "isoDate": "2026-04-20T23:09:41.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-04-23T02:37:03.580Z"
+          "isoDate": "2026-04-23T07:52:28.363Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-04-23T02:37:02.500Z"
+          "isoDate": "2026-04-23T07:52:25.725Z"
         },
         {
           "title": "Reviving Teletext for Ham Radio",
