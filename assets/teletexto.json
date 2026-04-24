@@ -1,10 +1,58 @@
 {
-  "generatedAt": "2026-04-24T08:03:28.412Z",
+  "generatedAt": "2026-04-24T13:23:33.322Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "A new Republican privacy bill could be ‘worse than no standard at all’",
+          "link": "https://www.theverge.com/policy/917828/data-privacy-bill-secure-act-house-state-laws",
+          "summary": "It would add protections for many states, but also likely strip some from others. | Image: The Verge, Getty Images\t\n\nCongress is once again attempting to pass a national data privacy law. But while it would introduce new protections in some states, it would weaken privacy rights in others - and it's missing several elements that privacy advocates deem necessary.\nThe SECURE Data Act is the product of a Republican data privacy working group led by Rep. John Joyce (R-PA), who introduced the bill alongside House Energy and Commerce Committee Chair Brett Guthrie (R-KY). The proposal would require companies to collect only the user data they really need to perform the tasks they promise, let users see what information websites have on them and request its delet …\nRead the full story at The Verge.",
+          "isoDate": "2026-04-24T13:00:00.000Z"
+        },
+        {
+          "title": "The Download: supercharged scams and studying AI healthcare",
+          "link": "https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We’re in a new era of AI-driven scams When ChatGPT was released in late 2022, it showed how easily generative AI could create human-like text. This quickly caught the eye of…",
+          "isoDate": "2026-04-24T12:10:00.000Z"
+        },
+        {
+          "title": "Elon Musk and Sam Altman’s court showdown will dish the dirt",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip",
+          "summary": "Might as well jump, as the poet David Lee Roth once said. | Image: Cath Virginia / The Verge\t\n\nElon Musk cofounded OpenAI, and then flounced off in a huff when he wasn't anointed CEO, leaving Sam Altman as the last power-hungry man standing. Now, Musk is back with a lawsuit, and a trial is scheduled to start in Oakland, California, on April 27th. Theoretically, it's a legal case about whether OpenAI defrauded Musk. But that's not really what we're all doing here. This is about mess. \nOver the past couple of years, Musk's legal theories for punishing OpenAI have run the gamut from breach of contract to unfair business practices to false advertising. Now, he and Altman will be getting called to the stand at a particularly delicate time …\nRead the full story at The Verge.",
+          "isoDate": "2026-04-24T12:00:00.000Z"
+        },
+        {
+          "title": "Instagram has launched another Snapchat clone",
+          "link": "https://www.theverge.com/tech/918061/instagram-instants-app-launch-snapchat-bereal",
+          "summary": "Instagram is testing a new dedicated app that's focused around Snapchat-like photo sharing features. The app, called \"Instants,\" was launched in Italy and Spain yesterday, Business Insider reports, and allows users to send each other disappearing photos that are available for 24 hours and can be viewed only once during that window.\nThe app is currently available on both iOS and Android. Meta hasn't announced if a desktop version will follow, or whether Instants will be launched in other regions, including the US. It resembles the \"Shots\" instant photo sharing feature that is already baked into Instagram messages (and was later rebranded to  …\nRead the full story at The Verge.",
+          "isoDate": "2026-04-24T11:37:10.000Z"
+        },
+        {
+          "title": "Rocket Report: Artemis III rocket getting ready; SpaceX is now an AI company",
+          "link": "https://arstechnica.com/space/2026/04/rocket-report-some-canadians-dont-want-a-spaceport-falcon-hits-600-landings/",
+          "summary": "\"If it doesn’t rely on a solid, there’s no reason why we can’t launch.\"",
+          "isoDate": "2026-04-24T11:00:36.000Z"
+        },
+        {
+          "title": "China’s DeepSeek previews new AI model a year after jolting US rivals ",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/918035/deepseek-preview-v4-ai-model",
+          "summary": "Chinese AI company DeepSeek released a preview of its hotly anticipated next-generation AI model V4 on Friday, saying that the open-source model can compete with leading closed-source systems from US rivals including Anthropic, Google, and OpenAI.\nDeepSeek says V4 marks a major improvement over prior models, especially in coding, a capability that has become central to AI agents and helped drive the success of tools like ChatGPT Codex and Claude Code. The release is also a milestone for China's chip industry, with DeepSeek explicitly highlighting compatibility with domestic Huawei technology.\n  \nThe release comes a year after DeepSeek rattl …\nRead the full story at The Verge.",
+          "isoDate": "2026-04-24T09:45:30.000Z"
+        },
+        {
+          "title": "Prestigious photo contest answers ‘what is a photo?’",
+          "link": "https://www.theverge.com/gadgets/918016/prestigious-photo-contest-answers-what-is-a-photo",
+          "summary": "The three finalists for the World Press Photo of the year. | Image: World Press Photo\t\n\nWe love to muse over how \"real\" photography is defined here at The Verge now that generative AI is so prolific, and the World Press Photo competition might have the answer. The prestigious award celebrates the best of photojournalism, where capturing reality is paramount. \nThe winning entry for 2026 - \"Separated by ICE,\" captured by photojournalist Carol Guzy - was announced yesterday. The harrowing photograph shows children clinging to their father after an immigration hearing. The photo had to abide by specific rules around the use of AI tools to be eligible for the competition, with the independent, nonprofit organization behind the awar …\nRead the full story at The Verge.",
+          "isoDate": "2026-04-24T09:40:07.000Z"
+        },
+        {
+          "title": "Health-care AI is here. We don’t know if it actually helps patients.",
+          "link": "https://www.technologyreview.com/2026/04/24/1136352/health-care-ai-dont-know-actually-helps-patients/",
+          "summary": "I don’t need to tell you that AI is everywhere. Or that it is being used, increasingly, in hospitals. Doctors are using AI to help them with notetaking. AI-based tools are trawling through patient records, flagging people who may require certain support or treatments. They are also used to interpret medical exam results and X-rays. A…",
+          "isoDate": "2026-04-24T09:00:00.000Z"
+        },
         {
           "title": "Saros is pure action nirvana",
           "link": "https://www.theverge.com/entertainment/917462/saros-review-ps5",
@@ -16,54 +64,6 @@
           "link": "https://www.theverge.com/policy/917910/polymarket-maduro-bets-arrest-van-dyke",
           "summary": "Nicolas Maduro is seen in handcuffs after landing at a Manhattan helipad on January 5, 2026 in New York City.\t\n\nWe knew someone made over $400,000 on suspicious Polymarket bets around the US operation to capture Venezuelan president Nicolas Maduro, but now we have a name: Gannon Ken Van Dyke. The US Attorney for the Southern District of New York announced Thursday that Van Dyke is in custody, on several charges, including using confidential government information for personal gain.\nAs described in the indictment, prosecutors allege Van Dyke was directly involved in the planning and execution of \"Operation Absolute Resolve\" to capture Maduro, and in the days before the capture, made several transactions purchasing \"$33,934 worth of 'YES' shares on Mad …\nRead the full story at The Verge.",
           "isoDate": "2026-04-23T22:49:11.000Z"
-        },
-        {
-          "title": "Leak reveals new Xbox Game Pass ‘Starter Edition’ that’s part of Discord Nitro",
-          "link": "https://www.theverge.com/news/917880/xbox-game-pass-starter-edition-discord-nitro-bundle",
-          "summary": "Microsoft started teasing a mysterious Discord and Xbox Game Pass partnership yesterday, and a new leak appears to have detailed exactly what's coming. Discord Previews has uncovered a new Xbox Game Pass \"Starter Edition\" that is bundled with Discord Nitro.\nThe Starter Edition reportedly includes \"access to over 50 games from the Game Pass library,\" as well as 10 hours a month of Xbox Cloud Gaming streaming and the ability to earn Xbox Rewards points while playing games. It's not clear which games will be part of the more than 50 titles available, but the leaked images suggest that Stardew Valley, Grounded, and Fallout 4 will be included.\n …\nRead the full story at The Verge.",
-          "isoDate": "2026-04-23T22:36:39.000Z"
-        },
-        {
-          "title": "Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors",
-          "summary": "Claude users can access more apps with Anthropic's AI now thanks to new connectors for everything from hiking to grocery shopping. Anthropic already supported connecting numerous work-related apps to Claude, like Microsoft apps, but this expansion focuses on personal apps like Audible, Spotify, Uber, AllTrails, TripAdvisor, Instacart, TurboTax, and others. \nSome of these apps, such as Spotify, already have similar connectors in OpenAI's ChatGPT. Once an app is connected, Claude will suggest relevant connected apps directly in your conversations, like using AllTrails for hike recommendations. Anthropic notes in its blog post announcing the n …\nRead the full story at The Verge.",
-          "isoDate": "2026-04-23T22:27:11.000Z"
-        },
-        {
-          "title": "Visitors to this private space station won't be wearing shorts and T-shirts",
-          "link": "https://arstechnica.com/space/2026/04/vast-reveals-flight-suit-tests-timepiece-for-commercial-space-station/",
-          "summary": "Can you wear white after Labor Day if your destination is Earth orbit?",
-          "isoDate": "2026-04-23T22:14:16.000Z"
-        },
-        {
-          "title": "US accuses China of “industrial-scale” AI theft. China says it’s “slander.”",
-          "link": "https://arstechnica.com/tech-policy/2026/04/us-accuses-china-of-industrial-scale-ai-theft-china-says-its-slander/",
-          "summary": "Trump-Xi summit may be rocked by US mulling huge sanctions.",
-          "isoDate": "2026-04-23T21:45:10.000Z"
-        },
-        {
-          "title": "Brendan Carr’s war on wokeness targets inclusive children&#8217;s television",
-          "link": "https://www.theverge.com/entertainment/917810/brendan-carr-fcc-transgender-nonbinary-childrens-programming",
-          "summary": "Under the guidance of consummate bully / chairman Brendan Carr, the FCC is taking steps towards cracking down on children's entertainment that in any way explores the complexities of gender identity.\nOn Wednesday, the FCC's Media Bureau announced that it is soliciting comments from the public about whether the TV ratings system has made sound decisions regarding children's programming with transgender or non-binary characters. In a statement about the commenting period the FCC said that it was soliciting feedback due to an alleged uptick in \"significant concerns\" about whether \"controversial gender identity issues are being included or prom …\nRead the full story at The Verge.",
-          "isoDate": "2026-04-23T21:36:46.000Z"
-        },
-        {
-          "title": "Carbon nanotube wiring gets closer to competing with copper",
-          "link": "https://arstechnica.com/science/2026/04/researchers-get-carbon-nanotube-wiring-to-conduct-more-like-copper/",
-          "summary": "While this material degrades over time, it could point to better ones.",
-          "isoDate": "2026-04-23T21:22:09.000Z"
-        },
-        {
-          "title": "We still don't have a more precise value for \"Big G\"",
-          "link": "https://arstechnica.com/science/2026/04/we-still-dont-have-a-more-precise-value-for-big-g/",
-          "summary": "Such experiments bring \"order to the universe, whether or not the number agrees with the expected value.”",
-          "isoDate": "2026-04-23T20:57:35.000Z"
-        },
-        {
-          "title": "In a first, a ransomware family is confirmed to be quantum-safe",
-          "link": "https://arstechnica.com/security/2026/04/now-even-ransomware-is-using-post-quantum-cryptography/",
-          "summary": "Technically speaking, there's no practical benefit to use PQC. So why is it being used?",
-          "isoDate": "2026-04-23T20:41:23.000Z"
         }
       ]
     },
@@ -72,10 +72,46 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "NASA Celebrates Decade of University Innovation in Aeronautics ",
+          "link": "https://www.nasa.gov/aeronautics/university-innovation-uli-at-10/",
+          "summary": "For 10 years, a NASA initiative has helped the agency produce breakthrough aeronautical innovations while fostering the aviation workforce of tomorrow – and the University Leadership Initiative (ULI) is still flying high, making awards with the potential to change 21st century air travel.  Through ULI, NASA has supported more than 1,100 students at 100 schools, allowing them […]",
+          "isoDate": "2026-04-24T13:04:54.000Z"
+        },
+        {
           "title": "An Agricultural Mosaic in Taiwan",
           "link": "https://science.nasa.gov/earth/human-dimensions/agriculture/an-agricultural-mosaic-in-taiwan/",
           "summary": "Diversity reigns across the farmland of Yunlin County in southwestern Taiwan—a region that produces an array of crops on small farms.",
           "isoDate": "2026-04-24T04:01:00.000Z"
+        },
+        {
+          "title": "Author Correction: Commensal yeast promotes <i>Salmonella</i> Typhimurium virulence",
+          "link": "https://www.nature.com/articles/s41586-026-10518-3",
+          "summary": "Nature, Published online: 24 April 2026; doi:10.1038/s41586-026-10518-3\nAuthor Correction: Commensal yeast promotes Salmonella Typhimurium virulence",
+          "isoDate": "2026-04-24T00:00:00.000Z"
+        },
+        {
+          "title": "From bats at dusk to asteroid quests: Books in brief",
+          "link": "https://www.nature.com/articles/d41586-026-01304-2",
+          "summary": "Nature, Published online: 24 April 2026; doi:10.1038/d41586-026-01304-2\nAndrew Robinson reviews five of the best science picks.",
+          "isoDate": "2026-04-24T00:00:00.000Z"
+        },
+        {
+          "title": "Brain tissue near tumours is loaded with plastic",
+          "link": "https://www.nature.com/articles/d41586-026-01281-6",
+          "summary": "Nature, Published online: 24 April 2026; doi:10.1038/d41586-026-01281-6\nRelatively high levels of micro- and nanoplastics around brain tumours might indicate breakdown of the blood–brain barrier.",
+          "isoDate": "2026-04-24T00:00:00.000Z"
+        },
+        {
+          "title": "Hit a glitch in your research? Some ‘night science’ thinking could move it forward",
+          "link": "https://www.nature.com/articles/d41586-026-01294-1",
+          "summary": "Nature, Published online: 24 April 2026; doi:10.1038/d41586-026-01294-1\nItai Yanai and Martin Lercher outline a creative thinking strategy to liberate you from the daily grind of the lab.",
+          "isoDate": "2026-04-24T00:00:00.000Z"
+        },
+        {
+          "title": "The memory dealer of Old Jeddah",
+          "link": "https://www.nature.com/articles/d41586-026-01071-0",
+          "summary": "Nature, Published online: 24 April 2026; doi:10.1038/d41586-026-01071-0\nA taste of freedom.",
+          "isoDate": "2026-04-24T00:00:00.000Z"
         },
         {
           "title": "Closure of China’s influential journal ranking leaves academics reeling — what will take its place?",
@@ -94,42 +130,6 @@
           "link": "https://www.nasa.gov/news-release/nasa-shares-spacex-crew-13-assignments-for-space-station-mission/",
           "summary": "As part of NASA’s SpaceX Crew-13 mission, four crew members from three space agencies will launch no earlier than mid-September to the International Space Station for a long-duration science expedition. NASA astronauts Jessica Watkins and Luke Delaney will serve as spacecraft commander and pilot, respectively. They will be joined by CSA (Canadian Space Agency) astronaut […]",
           "isoDate": "2026-04-23T21:15:32.000Z"
-        },
-        {
-          "title": "NASA Kennedy Prepares Facility for Roman Space Telescope Arrival",
-          "link": "https://www.nasa.gov/centers-and-facilities/kennedy/nasa-kennedy-prepares-facility-for-roman-space-telescope-arrival/",
-          "summary": "Preparations are underway for launch of NASA’s Nancy Grace Roman Space Telescope as soon as early September on a SpaceX Falcon Heavy rocket from Launch Complex 39A at NASA’s Kennedy Space Center in Florida. The Roman space telescope will provide deep, panoramic views of the cosmos, generating never-before-seen pictures that will revolutionize our understanding of […]",
-          "isoDate": "2026-04-23T20:14:56.000Z"
-        },
-        {
-          "title": "NASA Welcomes Jordan as 63rd Artemis Accords Signatory  ",
-          "link": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-jordan-as-63rd-artemis-accords-signatory/",
-          "summary": "The Hashemite Kingdom of Jordan signed the Artemis Accords Thursday during a ceremony hosted by NASA at the agency’s headquarters in Washington, becoming the latest nation to commit to responsible space exploration to benefit humanity.  “It is my privilege to welcome Jordan as the newest signatory to the Artemis Accords,” said NASA Administrator Jared Isaacman. “By signing the accords today, Jordan brings […]",
-          "isoDate": "2026-04-23T17:32:34.000Z"
-        },
-        {
-          "title": "Liquid Lifeline: NASA Tech Could Create IV Fluid In Space",
-          "link": "https://www.nasa.gov/general/iv-fluid-in-space/",
-          "summary": "On every crewed mission, NASA packs pouches of a potentially life-saving liquid in its cargo, known as IV (or intravenous) fluid. A simple mix of sodium chloride and purified water, it can treat up to 30% of medical conditions in flight, resolving things like dehydration, burns, and more. Crewed missions beyond low Earth orbit into […]",
-          "isoDate": "2026-04-23T16:30:00.000Z"
-        },
-        {
-          "title": "NASA Releases Powerful LAVA Software to US Aerospace Industry",
-          "link": "https://www.nasa.gov/aeronautics/nasa-releases-powerful-lava-software-to-us-aerospace-industry/",
-          "summary": "For years, NASA engineers have turned to a tool called the Launch, Ascent, and Vehicle Aerodynamics (LAVA) framework to solve airflow challenges that could mean the difference between mission success or failure. When engineers need to know how a spacecraft will navigate re-entry or whether a new aircraft wing design will create enough lift, they […]",
-          "isoDate": "2026-04-23T16:07:30.000Z"
-        },
-        {
-          "title": "NASA’s Chandra Finds Young Stars Dim Quickly",
-          "link": "https://www.nasa.gov/image-article/nasas-chandra-finds-young-stars-dim-quickly/",
-          "summary": "These images, released on April 14, 2026, show two open star clusters, Trumpler 3 (left) and NGC 2353 (right). They represent a recent study from NASA’s Chandra X-ray Observatory that shows how young Sun-like stars are dimmer in X-rays than previously thought. This latest study looked at eight clusters of stars between the ages of […]",
-          "isoDate": "2026-04-23T15:01:38.000Z"
-        },
-        {
-          "title": "Mechanical load inhibits cancer growth in mouse and human hearts",
-          "link": "https://www.science.org/doi/abs/10.1126/science.ads9412?af=R",
-          "summary": "Science, Volume 392, Issue 6796, April 2026.",
-          "isoDate": "2026-04-23T07:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-04-24T08:03:24.451Z"
+          "isoDate": "2026-04-24T13:23:29.692Z"
+        },
+        {
+          "title": "Biobank data incident caused by 'a few bad apples', boss says",
+          "link": "https://www.bbc.com/news/articles/clyedyn6pz7o?at_medium=RSS&at_campaign=rss",
+          "summary": "Professor Sir Rory Collins said he was \"angry\" and \"upset\" about the incident, as both the bank's boss and a participant.",
+          "isoDate": "2026-04-24T10:00:42.000Z"
         },
         {
           "title": "Meta to cut one in 10 jobs after spending billions on AI",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.com/news/articles/cvglyklz49jo?at_medium=RSS&at_campaign=rss",
           "summary": "The firm will take data from the way employees work for its artificial intelligence models.",
           "isoDate": "2026-04-21T22:47:56.000Z"
-        },
-        {
-          "title": "Tech Life",
-          "link": "https://www.bbc.co.uk/sounds/play/w3ct8jxr?at_medium=RSS&at_campaign=rss",
-          "summary": "How to say goodbye and pay tribute to a loved one - with a hologram.",
-          "isoDate": "2026-04-21T20:15:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-04-24T08:03:27.208Z"
+          "isoDate": "2026-04-24T13:23:31.988Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-04-24T08:03:25.638Z"
+          "isoDate": "2026-04-24T13:23:30.896Z"
         },
         {
           "title": "What Anthropic’s Mythos Means for the Future of Cybersecurity",
