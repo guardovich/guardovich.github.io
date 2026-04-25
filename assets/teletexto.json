@@ -1,69 +1,69 @@
 {
-  "generatedAt": "2026-04-24T18:52:11.519Z",
+  "generatedAt": "2026-04-25T02:27:09.454Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
         {
+          "title": "Google will invest as much as $40 billion in Anthropic",
+          "link": "https://arstechnica.com/ai/2026/04/google-will-invest-as-much-as-40-billion-in-anthropic/",
+          "summary": "This follows a similar, but smaller, investment by Amazon just days ago.",
+          "isoDate": "2026-04-24T22:05:45.000Z"
+        },
+        {
+          "title": "Three reasons why DeepSeek’s new model matters",
+          "link": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
+          "summary": "On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of text more efficiently. Like DeepSeek’s previous models, V4 is open source, meaning it is available…",
+          "isoDate": "2026-04-24T21:40:58.000Z"
+        },
+        {
+          "title": "Europe—not US—first to authorize Moderna's combo mRNA flu-COVID vaccine",
+          "link": "https://arstechnica.com/health/2026/04/europe-not-us-first-to-authorize-modernas-combo-mrna-flu-covid-vaccine/",
+          "summary": "Amid RFK Jr.'s anti-vaccine agenda, Moderna withdrew its FDA application last year.",
+          "isoDate": "2026-04-24T21:11:43.000Z"
+        },
+        {
+          "title": "Microsoft will let you pause Windows Updates indefinitely, 35 days at a time",
+          "link": "https://www.theverge.com/tech/918572/microsoft-windows-updates-pause-35-days",
+          "summary": "Windows users will no longer be forced to run automatic updates in the middle of a game or a busy day. Microsoft is rolling out some long-awaited changes to Windows Update to users on its Dev and Experimental Windows Insider channels, including the ability to indefinitely delay updates up to 35 days at a time. \nLast month, Microsoft announced a slew of upcoming changes to improve Windows 11 and address some of users' most common complaints about the platform. Chief among the company's planned fixes was making updates less disruptive. In its blog post on Friday, Microsoft says you'll be able to \"extend the pause end date as many times as you …\nRead the full story at The Verge.",
+          "isoDate": "2026-04-24T20:45:58.000Z"
+        },
+        {
+          "title": "Alex Jones has uncovered another massive conspiracy",
+          "link": "https://www.theverge.com/news/918527/alex-jones-infowars-takeover-the-onion-tim-heidecker",
+          "summary": "Alex Jones is onto something. | Photo by Joe Buglewicz / Getty Images\t\n\nAlex Jones may soon lose Infowars, the digital perch that he's used for decades to traffic in conspiracy theories, to The Onion, the satirical newspaper. But not before he's uncovered something truly dastardly: comedian Tim Heidecker's past (publicly available) work.\n\"The Onion newspaper has been rocked by the discovery that their new creative director, produced pro pedo/child kidnapping, torture and murder programs,\" Jones wrote on X on Friday. \"Below is an actual mug shot of the creep..\" he continued. Included in the post is a fake mugshot of Heidecker taken from a 2017 Adult Swim courtroom series, in which he's standing trial for 20 coun …\nRead the full story at The Verge.",
+          "isoDate": "2026-04-24T20:10:00.000Z"
+        },
+        {
+          "title": "The person who allegedly leaked Paramount’s new Avatar movie has been arrested",
+          "link": "https://www.theverge.com/entertainment/918250/avatar-aang-the-last-airbender-leaks-arrest-paramount-plus",
+          "summary": "Following Paramount Skydance's move to launch an investigation into how its upcoming Avatar Aang: The Last Airbender animated feature leaked onto the internet, a suspect has been taken into custody by police.\nThe Straits Times reports Singaporean police have arrested a 26-year-old man who is alleged to have uploaded the new Avatar movie (previously titled The Legend of Aang: The Last Airbender) online after accessing a server where the project was being held ahead of its scheduled October 9th premiere on Paramount Plus. According to the authorities, a copy of the entire movie was found on the suspect's electronic devices. If he is ultimatel …\nRead the full story at The Verge.",
+          "isoDate": "2026-04-24T19:45:01.000Z"
+        },
+        {
+          "title": "FCC: Router ban includes portable hotspots, but not phones with hotspot features",
+          "link": "https://arstechnica.com/tech-policy/2026/04/fcc-says-ban-on-foreign-made-routers-includes-portable-wi-fi-hotspots/",
+          "summary": "FCC defines consumer routers expansively, updates FAQ to include Wi-Fi hotspots.",
+          "isoDate": "2026-04-24T19:30:14.000Z"
+        },
+        {
+          "title": "Why are top university websites serving porn? It comes down to shoddy housekeeping.",
+          "link": "https://arstechnica.com/security/2026/04/why-are-top-university-websites-serving-porn-it-comes-down-to-shoddy-housekeeping/",
+          "summary": "Hundreds of subdomains from dozens of universities have been hijacked by scammers.",
+          "isoDate": "2026-04-24T19:00:39.000Z"
+        },
+        {
+          "title": "In rare chickenpox case, itchy blisters mushroom into large, rubbery nodules",
+          "link": "https://arstechnica.com/health/2026/04/in-rare-chickenpox-case-itchy-blisters-mushroom-into-large-rubbery-nodules/",
+          "summary": "Treatment options are tricky. The teen opted to live with the masses.",
+          "isoDate": "2026-04-24T18:44:53.000Z"
+        },
+        {
           "title": "Soldier won $410K in Polymarket bets on timing of Maduro capture, US alleges",
           "link": "https://arstechnica.com/tech-policy/2026/04/soldier-won-410k-in-polymarket-bets-on-timing-of-maduro-capture-us-alleges/",
           "summary": "It's like \"Pete Rose betting on his own team,\" Trump says of arrested soldier.",
           "isoDate": "2026-04-24T17:41:43.000Z"
-        },
-        {
-          "title": "BMW is one step closer to selling you a color-changing car",
-          "link": "https://www.theverge.com/tech/918216/bmw-ix3-flow-edition-concept-car-2026-beijing-auto-show-e-ink-color-changing",
-          "summary": "It’s not quite the color-changing car that’s been teased, but BMW’s new BMW iX3 Flow Edition brings us closer. | Image: BMW\t\n\nAt CES 2022, BMW debuted its BMW iX Flow concept car that could dynamically change its appearance using the same grayscale E Ink panels found in e-readers like the Kindle. It was followed by the BMW i Vision Dee concept and the BMW i5 Flow Nostokana that were both upgraded with color E Ink panels. Its latest concept, the BMW iX3 Flow Edition announced at the 2026 Beijing Auto Show, might look slightly less ambitious but it takes a new approach, pushing color-changing cars closer to actual production.\nBMW's previous concepts wrapped the entire vehicle in a patchwork of E Ink panels that were all custom-sized and shaped to match its contours. …\nRead the full story at The Verge.",
-          "isoDate": "2026-04-24T17:31:44.000Z"
-        },
-        {
-          "title": "Google’s handsome Pixel Watch 4 is on sale for $40 off in both size configurations",
-          "link": "https://www.theverge.com/gadgets/917924/google-pixel-watch-4-apple-airpods-deal-sale",
-          "summary": "Spring has sprung, as they say, and to mark the occasion, Google is running a spring-centric promo until Sunday, April 26th. The limited-time discounts apply to a number of Google’s first-party devices, from the Pixel 10 Pro to the Pixel Buds Pro 2, as well as the wearables like the Pixel Watch 4. In fact, Google’s latest watch is on sale at Amazon, Best Buy, and the Google Store in its 41mm / Wi-Fi configuration starting at $309.99 ($40 off) — or in the 45mm config for $359.99 ($40 off) — which is one of the better prices we’ve seen in recent months.\nGoogle Pixel Watch 4\n\nWhere to Buy:\n\n $349.99 $309.99 at Amazon (41mm, Wi-Fi)\n $349.99 $309.99 at Google (41mm, Wi-Fi)\n $399.99 $359.99 at Amazon (45mm, Wi-Fi)\n\nWe’ve said it before, and we’ll say it again: the Pixel Watch 4 is the Android watch to beat. Google’s newest wearable still works best for Pixel phone owners, though its overall performance, attractive 3,000-nit domed display, and host of upgrades over the third-gen model make it a suitable option for pretty much everyone. You still get a wide range of health and fitness tools, allowing you to track everything from your blood oxygen levels to your heart rate, along with the ability to automatically record certain cardio activities for at least 15 minutes. It also features emergency satellite SOS (in the case of an emergency) and dual-frequency GPS, the latter of which provides improved navigation in challenging environments such as cities and dense forests.\nUnsurprisingly, the Pixel Watch 4 integrates well with Google’s slate of services — Google Maps, Google Wallet, Google Assistant, etc., etc. — and works with Gemini, now quickly accessible from your wrist using a convenient raise-to-talk gesture. It also benefits from a new speaker, a bigger battery, and a power-efficient processor, which, in our initial testing, allowed us to eke out a commendable 45 hours of battery life with the 45mm model. Much of the watch is now repairable, too, so should you ever break the glass or damage the battery, you don’t need to shell out for an entirely new watch. That’s a welcome design change, one we wish more wearable manufacturers would adopt.\nRead our full Pixel Watch 4 review.\nMore ways to save today\nVerge readers can pick up the third-gen Theragun Mini at Wellbots for $159.99 ($60 off) with code VERGETHERA60, which drops it to its lowest price to date. As someone who routinely uses the three-speed massage gun to soothe minor aches and pains, I can tell you it delivers a surprising amount of pressure for its pint-sized stature. It also comes with a trio of attachments, including a thumb add-on that’s ideal for areas that require more precise pressure.\nNow through May 21st, you can grab Dreo’s Tower Fan Nomad One on Amazon in either black or white for $59.88 (about $20 off), an all-time low. The four-speed, oscillating fan isn’t particularly fancy (sorry, no Matter support), but with summer right around the corner, the staff favorite is a practical pickup that can blow air up to 34 feet away. The bladeless fan has even found its way into our upcoming graduation gift guide, if you need more convincing.\nIt’s not a new deal, per se, but you can still grab AirPods 4 at Amazon and Walmart for $99 ($30 off), which is a great price for Apple’s entry-level earbuds. The standard model sounds just as good as the step-up version with active noise cancellation, and because they’re outfitted with Apple’s H2 chip, those with a Mac or iPhone can leverage all sorts of ecosystem tricks, from automatic device switching to hands-free Siri commands. Read our review.",
-          "isoDate": "2026-04-24T17:25:49.000Z"
-        },
-        {
-          "title": "Meet the 19-meter Cretaceous kraken that swam with mosasaurs",
-          "link": "https://arstechnica.com/science/2026/04/meet-the-19-meter-cretaceous-kraken-that-swam-with-mosasaurs/",
-          "summary": "Layer by layer, researchers revealed the jaws of an ancient predator.",
-          "isoDate": "2026-04-24T17:23:49.000Z"
-        },
-        {
-          "title": "The RAM shortage could get even worse if Samsung labor protests cut production",
-          "link": "https://www.theverge.com/tech/918301/samsung-south-korea-union-protests",
-          "summary": "Samsung employees in South Korea are protesting for more competitive wages. | Photo: Seong Joon Cho / Bloomberg via Getty Images\t\n\nThe RAM shortage caused by demand from AI datacenters is already driving up prices on phones, PS5s, and Raspberry Pis, but it could be about to get even worse. Samsung is facing employee protests over demands for wages that are more competitive with rival chip manufacturer SK Hynix, including removing Samsung's cap on bonus pay, allocating more money for bonuses, and raising base salaries. According to AP News, an estimated 40,000 union members attended a rally on Thursday outside Samsung's Pyeongtaek, South Korea chip manufacturing facility.\nIf the union and management can't come to an agreement, the union is planning an 18-day strike begi …\nRead the full story at The Verge.",
-          "isoDate": "2026-04-24T17:11:33.000Z"
-        },
-        {
-          "title": "How Project Maven taught the military to love AI",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/917996/project-maven-military-ai-katrina-manson",
-          "summary": "In the first 24 hours of the assault on Iran, the US military struck more than 1,000 targets, nearly double the scale of the \"shock and awe\" attack on Iraq over two decades ago. This acceleration was made possible by AI systems that speed up the targeting process. Chief among them is the Maven Smart System.\nIn her new book, Project Maven: A Marine Colonel, His Team, and the Dawn of AI Warfare, journalist Katrina Manson investigates the development of Maven from its inception in 2017 as an experiment in applying computer vision to drone footage. The project spurred employee protests at Google, the military's initial contractor, prompting the …\nRead the full story at The Verge.",
-          "isoDate": "2026-04-24T17:00:00.000Z"
-        },
-        {
-          "title": "Report: Samsung execs worried company could lose money on smartphones for the first time",
-          "link": "https://arstechnica.com/gadgets/2026/04/samsung-may-be-bracing-for-first-ever-annual-loss-in-smartphone-business/",
-          "summary": "The AI-driven memory shortage is hitting Samsung's bottom line.",
-          "isoDate": "2026-04-24T16:58:45.000Z"
-        },
-        {
-          "title": "Xreal’s best AR glasses are $599 for good now",
-          "link": "https://www.theverge.com/gadgets/918169/xreal-one-pro-ar-glasses-price-cut-deal-sale",
-          "summary": "Vee looks better than I do wearing the One Pro, but anyone’s going to look a little silly. | Photo by Amelia Holowaty Krales / The Verge\t\n\nThe Xreal One Pro are the company’s best AR glasses, touting thin optics that keep out reflections so you can enjoy a crisp, contrast-rich image of whatever content you’re watching. Xreal has permanently cut their price from $649 to $599, making them $150 more than its entry-level (but still good) 1S glasses that debuted shortly after CES 2026. You can find the One Pro in stock at Amazon, Best Buy, and from Xreal itself.\nThe 1S and One Pro share a well-built design in common, not to mention some identical features. Both have the X1 chip, allowing for three degrees of freedom (3DoF) that lets you anchor your content in virtual space, and both support Real 3D, which applies a surprisingly good 3D effect to 2D content.\nXreal One Pro\nThe Xreal One Pro project a huge virtual display that feels like a 171-inch screen, using micro-OLED panels, a 57-degree field of view, and a 120Hz refresh rate. Powered by Xreal’s X1 chip, the smart glasses offer low-latency tracking with optional 6DoF spatial anchoring so your screen stays fixed in place. They also feature built-in speakers and work with a wide range of USB-C devices.\n\nWhere to Buy:\n\n $599 at Amazon\n $599 at Best Buy\n $599 at Xreal\n\nIf you’re tempted by the idea of having a big, private screen to watch movies, TV shows, and video games on, I recently published a piece that compares the One Pro to Xreal’s cheaper 1S, as well as to Viture’s similarly-priced Beast glasses. The One Pro are most similar to the Beast glasses in terms of visual fidelity, but for a multitude of reasons I get into in the piece, there’s no perfect pair of glasses yet. However, it’s nice that Xreal’s best AR glasses just got a little cheaper.",
-          "isoDate": "2026-04-24T16:33:30.000Z"
-        },
-        {
-          "title": "360-degree cameras have a new superpower",
-          "link": "https://www.theverge.com/tech/914730/splatica-gaussian-splats-insta360-antigravity",
-          "summary": "Imagine Google Street View, except you can walk around like it's a video game. Now imagine you don't need to wait for Google to come film because it's completely DIY. Insta360, the leading maker of 360-degree cameras, is now partnered with a 12-person UK startup called Splatica to help creators do just that.\nLast January, we wrote about Gaussian splatting, the tech that promises to someday let anyone digitally re-create chunks of the real world in photorealistic 3D. But Splatica is making it surprisingly easy to harness splats today - with nothing more than an off-the-shelf consumer 360-degree camera and a subscription service that handles  …\nRead the full story at The Verge.",
-          "isoDate": "2026-04-24T15:30:00.000Z"
-        },
-        {
-          "title": "Tesla’s Cybercab goes into production — so why is Musk tapping the brakes?",
-          "link": "https://www.theverge.com/transportation/918106/tesla-cybercab-production-robotaxi-elon-musk-earnings",
-          "summary": "Tesla's Cybercab is now in production at the company's Gigafactory in Austin, Texas, but Elon Musk is sounding unusually cautious about the rollout. \nThe robotaxi's start of production was announced Thursday on X, with Tesla posting a video shot from inside a steering wheel-less Cybercab as it drove out of the factory with the caption, \"Purpose built for autonomy.\" The company made a few initial Cybercabs back in February, but continuous production only started this month. \nBut with the company's robotaxi plans creeping along much slower than expected, many Tesla watchers are left scratching their heads about the future - especially as Mus …\nRead the full story at The Verge.",
-          "isoDate": "2026-04-24T15:17:27.000Z"
         }
       ]
     },
@@ -72,10 +72,34 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "ERROR cargando feed",
-          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
-          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-04-24T18:52:06.610Z"
+          "title": "I Am Artemis: Peter Rossoni",
+          "link": "https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-peter-rossoni/",
+          "summary": "Listen to this audio excerpt from Peter Rossoni, Orion Artemis II Optical Communications System flight manager: As a child, Peter Rossoni watched the Apollo missions launch with his family. In April 2026, he became a part of NASA’s Artemis II mission, helping enable communications as astronauts journeyed around the Moon. Rossoni’s path to NASA began […]",
+          "isoDate": "2026-04-24T16:33:35.000Z"
+        },
+        {
+          "title": "The Day of the Trifid Nebula",
+          "link": "https://www.nasa.gov/image-article/the-day-of-the-trifid-nebula/",
+          "summary": "This shimmering region of star-formation, a close-up of the Trifid Nebula about 5,000 light-years from Earth, was captured in intricate detail by NASA’s Hubble Space Telescope in an image released on April 20, 2026. The colors in Hubble’s visible light image, which marks the 36th anniversary of the mission’s launch on April 24, are reminiscent of an underwater […]",
+          "isoDate": "2026-04-24T14:56:35.000Z"
+        },
+        {
+          "title": "NASA Astronauts to Answer Questions from Missouri Students",
+          "link": "https://www.nasa.gov/news-release/nasa-astronauts-to-answer-questions-from-missouri-students/",
+          "summary": "Students in Missouri will hear from NASA astronauts Jessica Meir and Jack Hathaway as they answer prerecorded science, technology, engineering, and mathematics (STEM) questions while aboard the International Space Station. The Earth-to-space call will begin at 10:50 a.m. EDT Thursday, April 30, and will stream live on the agency’s Learn With NASA YouTube channel. This […]",
+          "isoDate": "2026-04-24T14:47:12.000Z"
+        },
+        {
+          "title": "NASA Celebrates Decade of University Innovation in Aeronautics ",
+          "link": "https://www.nasa.gov/aeronautics/university-innovation-uli-at-10/",
+          "summary": "For 10 years, a NASA initiative has helped the agency produce breakthrough aeronautical innovations while fostering the aviation workforce of tomorrow – and the University Leadership Initiative (ULI) is still flying high, making awards with the potential to change 21st century air travel.  Through ULI, NASA has supported more than 1,100 students at 100 schools, allowing them […]",
+          "isoDate": "2026-04-24T13:04:54.000Z"
+        },
+        {
+          "title": "An Agricultural Mosaic in Taiwan",
+          "link": "https://science.nasa.gov/earth/human-dimensions/agriculture/an-agricultural-mosaic-in-taiwan/",
+          "summary": "Diversity reigns across the farmland of Yunlin County in southwestern Taiwan—a region that produces an array of crops on small farms.",
+          "isoDate": "2026-04-24T04:01:00.000Z"
         },
         {
           "title": "Author Correction: Commensal yeast promotes <i>Salmonella</i> Typhimurium virulence",
@@ -106,30 +130,6 @@
           "link": "https://www.nature.com/articles/d41586-026-01359-1",
           "summary": "Nature, Published online: 24 April 2026; doi:10.1038/d41586-026-01359-1\nNature's Helen Pearson joins us to talk about her book Beyond Belief.",
           "isoDate": "2026-04-24T00:00:00.000Z"
-        },
-        {
-          "title": "Brain tissue near tumours is loaded with plastic",
-          "link": "https://www.nature.com/articles/d41586-026-01281-6",
-          "summary": "Nature, Published online: 24 April 2026; doi:10.1038/d41586-026-01281-6\nRelatively high levels of micro- and nanoplastics around brain tumours might indicate breakdown of the blood–brain barrier.",
-          "isoDate": "2026-04-24T00:00:00.000Z"
-        },
-        {
-          "title": "Hit a glitch in your research? Some ‘night science’ thinking could move it forward",
-          "link": "https://www.nature.com/articles/d41586-026-01294-1",
-          "summary": "Nature, Published online: 24 April 2026; doi:10.1038/d41586-026-01294-1\nItai Yanai and Martin Lercher outline a creative thinking strategy to liberate you from the daily grind of the lab.",
-          "isoDate": "2026-04-24T00:00:00.000Z"
-        },
-        {
-          "title": "The memory dealer of Old Jeddah",
-          "link": "https://www.nature.com/articles/d41586-026-01071-0",
-          "summary": "Nature, Published online: 24 April 2026; doi:10.1038/d41586-026-01071-0\nA taste of freedom.",
-          "isoDate": "2026-04-24T00:00:00.000Z"
-        },
-        {
-          "title": "Closure of China’s influential journal ranking leaves academics reeling — what will take its place?",
-          "link": "https://www.nature.com/articles/d41586-026-01277-2",
-          "summary": "Nature, Published online: 24 April 2026; doi:10.1038/d41586-026-01277-2\nSeveral other lists have been launched in the past year, but some scholars want research evaluation to take new forms.",
-          "isoDate": "2026-04-24T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,25 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-04-24T18:52:07.622Z"
+          "isoDate": "2026-04-25T02:27:04.284Z"
+        },
+        {
+          "title": "The viral manifesto of 'anti-woke' tech boss with NHS and defence contracts",
+          "link": "https://www.bbc.com/news/articles/c4gjkj7975po?at_medium=RSS&at_campaign=rss",
+          "summary": "The boss of the controversial tech company with UK government contracts published a 22-point plan on the future of the West.",
+          "isoDate": "2026-04-25T01:18:33.000Z"
+        },
+        {
+          "title": "Tech Now",
+          "link": "https://www.bbc.co.uk/iplayer/episode/m002vtqb?at_medium=RSS&at_campaign=rss",
+          "summary": "Alasdair Keane visits the underground insect farm turning food waste into animal feed.",
+          "isoDate": "2026-04-25T01:00:00.000Z"
+        },
+        {
+          "title": "OpenAI boss 'deeply sorry' for not telling police of mass shooting suspect's account",
+          "link": "https://www.bbc.com/news/articles/cq6je7e80r7o?at_medium=RSS&at_campaign=rss",
+          "summary": "Sam Altman on Thursday wrote a brief letter of apology to the people of Tumbler Ridge, Canada in the wake of a January mass shooting.",
+          "isoDate": "2026-04-24T22:45:28.000Z"
         },
         {
           "title": "UK cyber chiefs say it's time to ditch passwords for passkeys - what are they?",
@@ -178,24 +196,6 @@
           "link": "https://www.bbc.com/news/articles/cpvxgl3n138o?at_medium=RSS&at_campaign=rss",
           "summary": "The government said medical data of 500,000 people was affected but no personally identifiable information had been made available.",
           "isoDate": "2026-04-23T11:45:41.000Z"
-        },
-        {
-          "title": "Xbox cuts prices for Game Pass but ends day-one Call of Duty access",
-          "link": "https://www.bbc.com/news/articles/cgrlvvrn409o?at_medium=RSS&at_campaign=rss",
-          "summary": "New Call of Duty games will be added to the subscription service \"about a year\" after release, Microsoft said.",
-          "isoDate": "2026-04-22T12:03:10.000Z"
-        },
-        {
-          "title": "Anthropic investigating claim of unauthorised access to Mythos AI tool",
-          "link": "https://www.bbc.com/news/articles/cy41zejp9pko?at_medium=RSS&at_campaign=rss",
-          "summary": "The AI company has said the model is too dangerous to release publicly because of its hacking capabilities.",
-          "isoDate": "2026-04-22T10:13:35.000Z"
-        },
-        {
-          "title": "UK gaming icon Peter Molyneux on AI, his final creation and a changing industry",
-          "link": "https://www.bbc.com/news/articles/c4glw5nyrggo?at_medium=RSS&at_campaign=rss",
-          "summary": "The creator of iconic series such as Fable says Masters of Albion will be the last game he makes.",
-          "isoDate": "2026-04-21T23:00:24.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-04-24T18:52:10.291Z"
+          "isoDate": "2026-04-25T02:27:07.965Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-04-24T18:52:08.895Z"
+          "isoDate": "2026-04-25T02:27:05.702Z"
         },
         {
           "title": "Yong Wang Turns Information Into Insights",
@@ -329,6 +329,11 @@
           "summary": ""
         },
         {
+          "title": "REA  1-1  REA",
+          "link": "",
+          "summary": ""
+        },
+        {
           "title": "REA  1-1  VIL",
           "link": "",
           "summary": ""
@@ -374,11 +379,6 @@
           "summary": ""
         },
         {
-          "title": "MAL  1-1  VAL",
-          "link": "",
-          "summary": ""
-        },
-        {
           "title": "CLASIFICACIÓN",
           "link": "",
           "summary": ""
@@ -394,7 +394,7 @@
           "summary": ""
         },
         {
-          "title": " 2  REA  32  23  4  5  67  30  37  73",
+          "title": " 2  REA  33  23  5  5  68  31  37  74",
           "link": "",
           "summary": ""
         },
@@ -409,7 +409,7 @@
           "summary": ""
         },
         {
-          "title": " 5  REA  32  12 13  7  48  40   8  49",
+          "title": " 5  REA  33  12 14  7  49  41   8  50",
           "link": "",
           "summary": ""
         },
