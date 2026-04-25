@@ -1,10 +1,34 @@
 {
-  "generatedAt": "2026-04-25T13:04:09.191Z",
+  "generatedAt": "2026-04-25T18:52:52.557Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "An influx of used EVs could drive down prices",
+          "link": "https://www.theverge.com/tech/918765/an-influx-of-used-evs-could-drive-down-prices",
+          "summary": "Part of what has held back electric cars has been the cost. But an influx of used vehicles over the next three years could bring prices down dramatically. In 2025, just 123,000 leases on EVs expired. That is expected to more than double to 300,000 in 2026, and double again to 600,000 in 2027 and 660,000 in 2028, according to Cox Automotive. \nMost leased vehicles end up entering the used market. This means more than a million used EVs could become available over the next few years, making them far more accessible. The vast majority of cars sold in the US are used - some 76 percent as of 2024, according to Consumer Affairs. A large part of th …\nRead the full story at The Verge.",
+          "isoDate": "2026-04-25T18:25:23.000Z"
+        },
+        {
+          "title": "Researchers say we’re talking less than ever",
+          "link": "https://www.theverge.com/science/918753/researchers-talking-less",
+          "summary": "Nobody is talking. | Image: Metrograph Pictures\t\n\nResearchers at the University of Missouri-Kansas City and the University of Arizona say that between 2005 and 2019, the number of words we speak out loud to another human being fell by nearly 28 percent. And that has likely only gotten worse following the pandemic.\nThe researchers actually counted the number of words we were speaking on average (16,632 in 2005). They looked at data from 22 studies in which over 2,000 people recorded audio of their daily lives. Over time, as ordering through apps became the norm, texting increased, and our lives became increasingly online, they found that number had dropped dramatically. By 2019, we were onl …\nRead the full story at The Verge.",
+          "isoDate": "2026-04-25T15:03:53.000Z"
+        },
+        {
+          "title": "Sharge’s fast Qi2.2 MagSafe battery is down to $70 with a free USB-C cable",
+          "link": "https://www.theverge.com/gadgets/918410/sharge-icemag-3-qi2-usb-c-wireless-power-bank-battery-deal-sale",
+          "summary": "The Icemag 3’s kickstand allows you to prop up your phone as it recharges. | Image: Cameron Faulkner / The Verge\t\n\nI’ve been testing compact, magnetic Qi2 power banks that can snap onto your phone for an upcoming buying guide. They make recharging much easier than bringing along a huge battery that weighs down your bag. One of my favorites so far is the Sharge Icemag 3, a 10,000mAh model that can wirelessly output 25W to iPhone 16-series phones and newer models. It also offers a built-in kickstand and a 35W USB-C cable that doubles as a lanyard, plus a USB-C port for passthrough charging.\nFor a limited time, Amazon Prime subscribers can get it in either white or black for $69.90 ($10 off), and Sharge will include a basic 60W USB-C cable for free when you add both items to your cart. Alternatively, you can get the Icemag 3 for $2 less (sans the free cable) through Sharge’s own storefront. Using code ICE15 will knock it down to $67.92.\nSharge Icemag 3 Power Bank\n\nWhere to Buy:\n\n $79.9 $69.9 at Amazon (black, with Prime)\n $79.9 $69.9 at Amazon (white, with Prime)\n $79.9 $67.92 at Sharge (with code ICE15)\n\nI’ll save my detailed charging speed test results for a later date, but I’m impressed so far with the Icemag 3. While it’s thicker than some other Qi2 power banks, the build quality is stellar, and it’s speedy when it comes to both wired and wireless charging. I also adore its see-through window, which showcases an LED-packed fan that keeps the battery cool while it recharges my gear. Plus, a free USB-C cable is a nice little gift.",
+          "isoDate": "2026-04-25T15:00:00.000Z"
+        },
+        {
+          "title": "The Govee smart lamp brightened up my room, and then my life",
+          "link": "https://www.theverge.com/gadgets/913854/govee-uplighter-floor-lamps-caregiving-parkinsons-disease",
+          "summary": "I knew things were not quite right when I had to throw a towel over a broken Ikea lamp to block out its light. How did I get here? I cover fancy and capable tech for a living, and yet, it took me two years to get rid of a pair of old, broken Ikea lamps in my bedroom. Then I got some floor lamps from Govee that changed everything.\nThose Ikea lamps were around for two years after I moved from Orange County to Los Angeles. Soon after that move, my mom's Parkinson's disease - a neurodegenerative condition with no cure - progressed quickly, my mental health took a hit, and most of my own to-do list quietly slid to the back burner as she lost mob …\nRead the full story at The Verge.",
+          "isoDate": "2026-04-25T13:30:00.000Z"
+        },
         {
           "title": "Xbox’s weirdest studio is on a roll",
           "link": "https://www.theverge.com/games/918200/kiln-review-double-fine-xbox-ps5-steam",
@@ -40,30 +64,6 @@
           "link": "https://arstechnica.com/tech-policy/2026/04/palantir-employees-are-talking-about-companys-descent-into-fascism/",
           "summary": "Slack messages, interviews with current and former works paint picture of company in turmoil.",
           "isoDate": "2026-04-25T10:49:52.000Z"
-        },
-        {
-          "title": "This is who's developing Golden Dome's orbital interceptors—if they're ever built",
-          "link": "https://arstechnica.com/space/2026/04/this-is-whos-developing-golden-domes-orbital-interceptors-if-theyre-ever-built/",
-          "summary": "\"If boost-phase intercept from space is not affordable and scalable, we will not produce it.\"",
-          "isoDate": "2026-04-25T02:52:37.000Z"
-        },
-        {
-          "title": "Google will invest as much as $40 billion in Anthropic",
-          "link": "https://arstechnica.com/ai/2026/04/google-will-invest-as-much-as-40-billion-in-anthropic/",
-          "summary": "This follows a similar, but smaller, investment by Amazon just days ago.",
-          "isoDate": "2026-04-24T22:05:45.000Z"
-        },
-        {
-          "title": "Three reasons why DeepSeek’s new model matters",
-          "link": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
-          "summary": "On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of text more efficiently. Like DeepSeek’s previous models, V4 is open source, meaning it is available…",
-          "isoDate": "2026-04-24T21:40:58.000Z"
-        },
-        {
-          "title": "Europe—not US—first to authorize Moderna's combo mRNA flu-COVID vaccine",
-          "link": "https://arstechnica.com/health/2026/04/europe-not-us-first-to-authorize-modernas-combo-mrna-flu-covid-vaccine/",
-          "summary": "Amid RFK Jr.'s anti-vaccine agenda, Moderna withdrew its FDA application last year.",
-          "isoDate": "2026-04-24T21:11:43.000Z"
         }
       ]
     },
@@ -72,34 +72,10 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "I Am Artemis: Peter Rossoni",
-          "link": "https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-peter-rossoni/",
-          "summary": "Listen to this audio excerpt from Peter Rossoni, Orion Artemis II Optical Communications System flight manager: As a child, Peter Rossoni watched the Apollo missions launch with his family. In April 2026, he became a part of NASA’s Artemis II mission, helping enable communications as astronauts journeyed around the Moon. Rossoni’s path to NASA began […]",
-          "isoDate": "2026-04-24T16:33:35.000Z"
-        },
-        {
-          "title": "The Day of the Trifid Nebula",
-          "link": "https://www.nasa.gov/image-article/the-day-of-the-trifid-nebula/",
-          "summary": "This shimmering region of star-formation, a close-up of the Trifid Nebula about 5,000 light-years from Earth, was captured in intricate detail by NASA’s Hubble Space Telescope in an image released on April 20, 2026. The colors in Hubble’s visible light image, which marks the 36th anniversary of the mission’s launch on April 24, are reminiscent of an underwater […]",
-          "isoDate": "2026-04-24T14:56:35.000Z"
-        },
-        {
-          "title": "NASA Astronauts to Answer Questions from Missouri Students",
-          "link": "https://www.nasa.gov/news-release/nasa-astronauts-to-answer-questions-from-missouri-students/",
-          "summary": "Students in Missouri will hear from NASA astronauts Jessica Meir and Jack Hathaway as they answer prerecorded science, technology, engineering, and mathematics (STEM) questions while aboard the International Space Station. The Earth-to-space call will begin at 10:50 a.m. EDT Thursday, April 30, and will stream live on the agency’s Learn With NASA YouTube channel. This […]",
-          "isoDate": "2026-04-24T14:47:12.000Z"
-        },
-        {
-          "title": "NASA Celebrates Decade of University Innovation in Aeronautics ",
-          "link": "https://www.nasa.gov/aeronautics/university-innovation-uli-at-10/",
-          "summary": "For 10 years, a NASA initiative has helped the agency produce breakthrough aeronautical innovations while fostering the aviation workforce of tomorrow – and the University Leadership Initiative (ULI) is still flying high, making awards with the potential to change 21st century air travel.  Through ULI, NASA has supported more than 1,100 students at 100 schools, allowing them […]",
-          "isoDate": "2026-04-24T13:04:54.000Z"
-        },
-        {
-          "title": "An Agricultural Mosaic in Taiwan",
-          "link": "https://science.nasa.gov/earth/human-dimensions/agriculture/an-agricultural-mosaic-in-taiwan/",
-          "summary": "Diversity reigns across the farmland of Yunlin County in southwestern Taiwan—a region that produces an array of crops on small farms.",
-          "isoDate": "2026-04-24T04:01:00.000Z"
+          "title": "ERROR cargando feed",
+          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
+          "isoDate": "2026-04-25T18:52:46.974Z"
         },
         {
           "title": "Author Correction: Commensal yeast promotes <i>Salmonella</i> Typhimurium virulence",
@@ -130,6 +106,30 @@
           "link": "https://www.nature.com/articles/d41586-026-01359-1",
           "summary": "Nature, Published online: 24 April 2026; doi:10.1038/d41586-026-01359-1\nNature's Helen Pearson joins us to talk about her book Beyond Belief.",
           "isoDate": "2026-04-24T00:00:00.000Z"
+        },
+        {
+          "title": "Brain tissue near tumours is loaded with plastic",
+          "link": "https://www.nature.com/articles/d41586-026-01281-6",
+          "summary": "Nature, Published online: 24 April 2026; doi:10.1038/d41586-026-01281-6\nRelatively high levels of micro- and nanoplastics around brain tumours might indicate breakdown of the blood–brain barrier.",
+          "isoDate": "2026-04-24T00:00:00.000Z"
+        },
+        {
+          "title": "Hit a glitch in your research? Some ‘night science’ thinking could move it forward",
+          "link": "https://www.nature.com/articles/d41586-026-01294-1",
+          "summary": "Nature, Published online: 24 April 2026; doi:10.1038/d41586-026-01294-1\nItai Yanai and Martin Lercher outline a creative thinking strategy to liberate you from the daily grind of the lab.",
+          "isoDate": "2026-04-24T00:00:00.000Z"
+        },
+        {
+          "title": "The memory dealer of Old Jeddah",
+          "link": "https://www.nature.com/articles/d41586-026-01071-0",
+          "summary": "Nature, Published online: 24 April 2026; doi:10.1038/d41586-026-01071-0\nA taste of freedom.",
+          "isoDate": "2026-04-24T00:00:00.000Z"
+        },
+        {
+          "title": "Closure of China’s influential journal ranking leaves academics reeling — what will take its place?",
+          "link": "https://www.nature.com/articles/d41586-026-01277-2",
+          "summary": "Nature, Published online: 24 April 2026; doi:10.1038/d41586-026-01277-2\nSeveral other lists have been launched in the past year, but some scholars want research evaluation to take new forms.",
+          "isoDate": "2026-04-24T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-04-25T13:04:04.855Z"
+          "isoDate": "2026-04-25T18:52:47.490Z"
         },
         {
           "title": "The viral manifesto of 'anti-woke' tech boss with NHS and defence contracts",
@@ -151,7 +151,7 @@
         },
         {
           "title": "Tech Now",
-          "link": "https://www.bbc.co.uk/iplayer/episode/m002vtqb?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/iplayer/live/bbcnews?at_medium=RSS&at_campaign=rss",
           "summary": "Alasdair Keane visits the underground insect farm turning food waste into animal feed.",
           "isoDate": "2026-04-25T01:00:00.000Z"
         },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-04-25T13:04:07.913Z"
+          "isoDate": "2026-04-25T18:52:50.797Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-04-25T13:04:06.321Z"
+          "isoDate": "2026-04-25T18:52:48.728Z"
         },
         {
           "title": "Yong Wang Turns Information Into Insights",
@@ -324,12 +324,57 @@
       "maxItems": 120,
       "items": [
         {
-          "title": "RESULTADOS (EN DIRECTO)",
+          "title": "RESULTADOS (ÚLTIMOS)",
           "link": "",
           "summary": ""
         },
         {
-          "title": "ALA  0-1  MAL",
+          "title": "VAL  2-1  GIR",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "GET  0-2  BAR",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "ALA  2-1  MAL",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "REA  1-1  REA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "REA  1-1  VIL",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "RAY  1-0  ESP",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "LEV  2-0  SEV",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "BAR  1-0  CEL",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "REA  0-1  GET",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "ELC  3-2  ATL",
           "link": "",
           "summary": ""
         },
@@ -344,7 +389,7 @@
           "summary": ""
         },
         {
-          "title": " 1  BAR  32  27  1  4  85  30  55  82",
+          "title": " 1  BAR  33  28  1  4  87  30  57  85",
           "link": "",
           "summary": ""
         },
@@ -369,7 +414,7 @@
           "summary": ""
         },
         {
-          "title": " 6  GET  32  13  5 14  28  32  -4  44",
+          "title": " 6  GET  33  13  5 15  28  34  -6  44",
           "link": "",
           "summary": ""
         },
@@ -394,17 +439,17 @@
           "summary": ""
         },
         {
-          "title": "11  GIR  32   9 11 12  35  48 -13  38",
+          "title": "11  VAL  33  10  9 14  37  48 -11  39",
           "link": "",
           "summary": ""
         },
         {
-          "title": "12  ESP  32  10  8 14  37  49 -12  38",
+          "title": "12  GIR  33   9 11 13  36  50 -14  38",
           "link": "",
           "summary": ""
         },
         {
-          "title": "13  MAL  33  10  8 15  41  49  -8  38",
+          "title": "13  ESP  32  10  8 14  37  49 -12  38",
           "link": "",
           "summary": ""
         },
@@ -414,22 +459,22 @@
           "summary": ""
         },
         {
-          "title": "15  VAL  32   9  9 14  35  47 -12  36",
+          "title": "15  ALA  33   9  9 15  38  49 -11  36",
           "link": "",
           "summary": ""
         },
         {
-          "title": "16  ELC  32   8 11 13  42  49  -7  35",
+          "title": "16  MAL  33   9  8 16  41  51 -10  35",
           "link": "",
           "summary": ""
         },
         {
-          "title": "17  SEV  32   9  7 16  39  53 -14  34",
+          "title": "17  ELC  32   8 11 13  42  49  -7  35",
           "link": "",
           "summary": ""
         },
         {
-          "title": "18  ALA  33   8  9 16  36  49 -13  33",
+          "title": "18  SEV  32   9  7 16  39  53 -14  34",
           "link": "",
           "summary": ""
         },
