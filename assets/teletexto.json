@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-04-26T18:54:33.647Z",
+  "generatedAt": "2026-04-27T02:45:12.407Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Strange New Worlds S4 teaser strikes a more serious tone",
+          "link": "https://arstechnica.com/culture/2026/04/strange-new-worlds-s4-teaser-strikes-a-more-serious-tone/",
+          "summary": "\"I have ever been prone to seek adventure and to investigate where wiser men would have left well enough alone.\"",
+          "isoDate": "2026-04-26T19:52:22.000Z"
+        },
         {
           "title": "Google’s new gradient icon design is coming to more apps",
           "link": "https://www.theverge.com/tech/918852/googles-new-gradient-icon-design-is-coming-to-more-apps",
@@ -58,12 +64,6 @@
           "link": "https://www.theverge.com/science/918769/trump-fires-the-entire-national-science-board",
           "summary": "Multiple sources are reporting that the Trump administration has dismissed the entire National Science Board (NSB). The NSB advises the president and Congress on the National Science Foundation (NSF), which has already been funding research at historically low levels and has seen significant delays in doling out that funding. The NSF has been fundamental in helping develop technology used in MRIs, cellphones, and it even helped get Duolingo get off the ground.\n In a statement, Zoe Lofgren, the ranking Democrat on the House Science, Space, and Technology Committee, said:\n\"This is the latest stupid move made by a president who continues to  …\n\nRead the full story at The Verge.",
           "isoDate": "2026-04-25T19:20:15.000Z"
-        },
-        {
-          "title": "An influx of used EVs could drive down prices",
-          "link": "https://www.theverge.com/tech/918765/an-influx-of-used-evs-could-drive-down-prices",
-          "summary": "Part of what has held back electric cars has been the cost. But an influx of used vehicles over the next three years could bring prices down dramatically. In 2025, just 123,000 leases on EVs expired. That is expected to more than double to 300,000 in 2026, and double again to 600,000 in 2027 and 660,000 in 2028, according to Cox Automotive. \nMost leased vehicles end up entering the used market. This means more than a million used EVs could become available over the next few years, making them far more accessible. The vast majority of cars sold in the US are used - some 76 percent as of 2024, according to Consumer Affairs. A large part of th …\nRead the full story at The Verge.",
-          "isoDate": "2026-04-25T18:25:23.000Z"
         }
       ]
     },
@@ -71,6 +71,12 @@
       "header": "120  CIENCIA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Entire NSF science advisory board fired by Trump administration ",
+          "link": "https://www.nature.com/articles/d41586-026-01361-7",
+          "summary": "Nature, Published online: 26 April 2026; doi:10.1038/d41586-026-01361-7\nMembers of the National Science Board, which the US Congress founded in 1950, were given no explanation for their termination.",
+          "isoDate": "2026-04-26T00:00:00.000Z"
+        },
         {
           "title": "I Am Artemis: Peter Rossoni",
           "link": "https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-peter-rossoni/",
@@ -124,12 +130,6 @@
           "link": "https://www.nature.com/articles/d41586-026-01304-2",
           "summary": "Nature, Published online: 24 April 2026; doi:10.1038/d41586-026-01304-2\nAndrew Robinson reviews five of the best science picks.",
           "isoDate": "2026-04-24T00:00:00.000Z"
-        },
-        {
-          "title": "Inside the evidence revolution — how decision-making became data driven",
-          "link": "https://www.nature.com/articles/d41586-026-01359-1",
-          "summary": "Nature, Published online: 24 April 2026; doi:10.1038/d41586-026-01359-1\nNature's Helen Pearson joins us to talk about her book Beyond Belief.",
-          "isoDate": "2026-04-24T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-04-26T18:54:30.445Z"
+          "isoDate": "2026-04-27T02:45:06.506Z"
         },
         {
           "title": "I brought my husband back for his funeral as a hologram",
@@ -204,16 +204,16 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "Our principles",
+          "link": "https://openai.com/index/our-principles",
+          "summary": "Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work.",
+          "isoDate": "2026-04-26T16:00:00.000Z"
+        },
+        {
           "title": "MIT scientists build the world’s largest collection of Olympiad-level math problems, and open it to everyone",
           "link": "https://news.mit.edu/2026/mit-scientists-build-worlds-largest-collection-olympiad-level-math-problems-open-0424",
           "summary": "New dataset of 30,000-plus competition math problems from 47 countries gives AI researchers a harder test — and students worldwide a better training ground.",
           "isoDate": "2026-04-24T17:00:00.000Z"
-        },
-        {
-          "title": "Introducing GPT-5.5",
-          "link": "https://openai.com/index/introducing-gpt-5-5",
-          "summary": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
-          "isoDate": "2026-04-23T11:00:00.000Z"
         },
         {
           "title": "GPT-5.5 System Card",
@@ -222,10 +222,10 @@
           "isoDate": "2026-04-23T11:00:00.000Z"
         },
         {
-          "title": "Automations",
-          "link": "https://openai.com/academy/codex-automations",
-          "summary": "Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort.",
-          "isoDate": "2026-04-23T10:00:00.000Z"
+          "title": "Introducing GPT-5.5",
+          "link": "https://openai.com/index/introducing-gpt-5-5",
+          "summary": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
+          "isoDate": "2026-04-23T11:00:00.000Z"
         },
         {
           "title": "Top 10 uses for Codex at work",
@@ -234,21 +234,9 @@
           "isoDate": "2026-04-23T10:00:00.000Z"
         },
         {
-          "title": "Plugins and skills",
-          "link": "https://openai.com/academy/codex-plugins-and-skills",
-          "summary": "Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results.",
-          "isoDate": "2026-04-23T10:00:00.000Z"
-        },
-        {
-          "title": "Working with Codex",
-          "link": "https://openai.com/academy/working-with-codex",
-          "summary": "Learn how to set up your Codex workspace, create threads and projects, manage files, and start completing tasks with step-by-step guidance.",
-          "isoDate": "2026-04-23T10:00:00.000Z"
-        },
-        {
-          "title": "Codex settings",
-          "link": "https://openai.com/academy/codex-settings",
-          "summary": "Learn how to configure Codex settings, including personalization, detail level, and permissions, to run tasks smoothly and customize your workflow.",
+          "title": "How to get started with Codex",
+          "link": "https://openai.com/academy/codex-how-to-start",
+          "summary": "Learn how to get started with Codex by setting up projects, creating threads, and completing your first tasks with step-by-step guidance.",
           "isoDate": "2026-04-23T10:00:00.000Z"
         },
         {
@@ -258,9 +246,21 @@
           "isoDate": "2026-04-23T10:00:00.000Z"
         },
         {
-          "title": "How to get started with Codex",
-          "link": "https://openai.com/academy/codex-how-to-start",
-          "summary": "Learn how to get started with Codex by setting up projects, creating threads, and completing your first tasks with step-by-step guidance.",
+          "title": "Automations",
+          "link": "https://openai.com/academy/codex-automations",
+          "summary": "Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort.",
+          "isoDate": "2026-04-23T10:00:00.000Z"
+        },
+        {
+          "title": "Codex settings",
+          "link": "https://openai.com/academy/codex-settings",
+          "summary": "Learn how to configure Codex settings, including personalization, detail level, and permissions, to run tasks smoothly and customize your workflow.",
+          "isoDate": "2026-04-23T10:00:00.000Z"
+        },
+        {
+          "title": "Working with Codex",
+          "link": "https://openai.com/academy/working-with-codex",
+          "summary": "Learn how to set up your Codex workspace, create threads and projects, manage files, and start completing tasks with step-by-step guidance.",
           "isoDate": "2026-04-23T10:00:00.000Z"
         }
       ]
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-04-26T18:54:32.371Z"
+          "isoDate": "2026-04-27T02:45:11.070Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-04-26T18:54:31.773Z"
+          "isoDate": "2026-04-27T02:45:08.590Z"
         },
         {
           "title": "Yong Wang Turns Information Into Insights",
@@ -290,7 +290,7 @@
         {
           "title": "What Anthropic’s Mythos Means for the Future of Cybersecurity",
           "link": "https://spectrum.ieee.org/ai-cybersecurity-mythos",
-          "summary": "Two weeks ago, Anthropic announced that its new model, Claude Mythos Preview, can autonomously find and weaponize software vulnerabilities, turning them into working exploits without expert guidance. These were vulnerabilities in key software like operating systems and internet infrastructure that thousands of software developers working on those systems failed to find. This capability will have major security implications, compromising the devices and services we use every day. As a result, Anthropic is not releasing the model to the general public, but instead to a limited number of companies.\n\nThe news rocked the internet security community. There were few details in Anthropic’s announcement, angering many observers. Some speculate that Anthropic doesn’t have the GPUs to run the thing, and that cybersecurity was the excuse to limit its release. Others argue Anthropic is holding to their AI safety mission. There’s hype and counter-hype, reality and marketing. It’s a lot to sort out, even if you’re an expert.\nWe see Mythos as a real but incremental step, one in a long line of incremental steps. But even incremental steps can be important when we look at the big picture.\nHow AI Is Changing Cybersecurity\nWe’ve written about Shifting Baseline Syndrome, a phenomenon that leads people—the public and experts alike—to discount massive long-term changes that are hidden in incremental steps. It has happened with online privacy, and it’s happening with AI. Even if the vulnerabilities found by Mythos could have been found using AI models from last month or last year, they couldn’t have been found by AI models from five years ago.\nThe Mythos announcement reminds us that AI has come a long way in just a few years: The baseline really has shifted. Finding vulnerabilities in source code is the type of task that today’s large language models excel at. Regardless of whether it happened last year or will happen next year, it’s been clear for a while this kind of capability was coming soon. The question is how we adapt to it.\nWe don’t believe that an AI that can hack autonomously will create permanent asymmetry between offense and defense; it’s likely to be more nuanced than that. Some vulnerabilities can be found, verified, and patched automatically. Some vulnerabilities will be hard to find, but easy to verify and patch—consider generic cloud-hosted web applications built on standard software stacks, where updates can be deployed quickly. Still others will be easy to find (even without powerful AI) and relatively easy to verify, but harder or impossible to patch, such as IoT appliances and industrial equipment that are rarely updated or can’t be easily modified.\nThen there are systems whose vulnerabilities will be easy to find in code but difficult to verify in practice. For example, complex distributed systems and cloud platforms can be composed of thousands of interacting services running in parallel, making it difficult to distinguish real vulnerabilities from false positives and to reliably reproduce them.\nSo we must separate the patchable from the unpatchable, and the easy to verify from the hard to verify. This taxonomy also provides us guidance for how to protect such systems in an era of powerful AI vulnerability-finding tools.\nUnpatchable or hard to verify systems should be protected by wrapping them in more restrictive, tightly controlled layers. You want your fridge or thermostat or industrial control system behind a restrictive and constantly-updated firewall, not freely talking to the internet.\nDistributed systems that are fundamentally interconnected should be traceable and should follow the principle of least privilege, where each component has only the access it needs. These are bog standard security ideas that we might have been tempted to throw out in the era of AI, but they’re still as relevant as ever.\nRethinking Software Security Practices\nThis also raises the salience of best practices in software engineering. Automated, thorough, and continuous testing was always important. Now we can take this practice a step further and use defensive AI agents to test exploits against a real stack, over and over, until the false positives have been weeded out and the real vulnerabilities and fixes are confirmed. This kind of VulnOps is likely to become a standard part of the development process.\nDocumentation becomes more valuable, as it can guide an AI agent on a bug finding mission just as it does developers. And following standard practices and using standard tools and libraries allows AI and engineers alike to recognize patterns more effectively, even in a world of individual and ephemeral instant software—code that can be generated and deployed on demand.\nWill this favor offense or defense? The defense eventually, probably, especially in systems that are easy to patch and verify. Fortunately, that includes our phones, web browsers, and major internet services. But today’s cars, electrical transformers, fridges, and lampposts are connected to the internet. Legacy banking and airline systems are networked.\nNot all of those are going to get patched as fast as needed, and we may see a few years of constant hacks until we arrive at a new normal: where verification is paramount and software is patched continuously.",
+          "summary": "Two weeks ago, Anthropic announced that its new model, Claude Mythos Preview, can autonomously find and weaponize software vulnerabilities, turning them into working exploits without expert guidance. These were vulnerabilities in key software like operating systems and internet infrastructure that thousands of software developers working on those systems failed to find. This capability will have major security implications, compromising the devices and services we use every day. As a result, Anthropic is not releasing the model to the general public, but instead to a limited number of companies.\n\nThe news rocked the internet security community. There were few details in Anthropic’s announcement, angering many observers. Some speculate that Anthropic doesn’t have the GPUs to run the thing, and that cybersecurity was the excuse to limit its release. Others argue Anthropic is holding to its AI safety mission. There’s hype and counterhype, reality and marketing. It’s a lot to sort out, even if you’re an expert.\nWe see Mythos as a real but incremental step, one in a long line of incremental steps. But even incremental steps can be important when we look at the big picture.\nHow AI Is Changing Cybersecurity\nWe’ve written about shifting baseline syndrome, a phenomenon that leads people—the public and experts alike—to discount massive long-term changes that are hidden in incremental steps. It has happened with online privacy, and it’s happening with AI. Even if the vulnerabilities found by Mythos could have been found using AI models from last month or last year, they couldn’t have been found by AI models from five years ago.\nThe Mythos announcement reminds us that AI has come a long way in just a few years: The baseline really has shifted. Finding vulnerabilities in source code is the type of task that today’s large language models excel at. Regardless of whether it happened last year or will happen next year, it’s been clear for a while this kind of capability was coming soon. The question is how we adapt to it.\nWe don’t believe that an AI that can hack autonomously will create permanent asymmetry between offense and defense; it’s likely to be more nuanced than that. Some vulnerabilities can be found, verified, and patched automatically. Some vulnerabilities will be hard to find but easy to verify and patch—consider generic cloud-hosted web applications built on standard software stacks, where updates can be deployed quickly. Still others will be easy to find (even without powerful AI) and relatively easy to verify, but harder or impossible to patch, such as IoT appliances and industrial equipment that are rarely updated or can’t be easily modified.\nThen there are systems whose vulnerabilities will be easy to find in code but difficult to verify in practice. For example, complex distributed systems and cloud platforms can be composed of thousands of interacting services running in parallel, making it difficult to distinguish real vulnerabilities from false positives and to reliably reproduce them.\nSo we must separate the patchable from the unpatchable, and the easy to verify from the hard to verify. This taxonomy also provides us guidance for how to protect such systems in an era of powerful AI vulnerability-finding tools.\nUnpatchable or hard to verify systems should be protected by wrapping them in more restrictive, tightly controlled layers. You want your fridge or thermostat or industrial control system behind a restrictive and constantly updated firewall, not freely talking to the internet.\nDistributed systems that are fundamentally interconnected should be traceable and should follow the principle of least privilege, where each component has only the access it needs. These are bog-standard security ideas that we might have been tempted to throw out in the era of AI, but they’re still as relevant as ever.\nRethinking Software Security Practices\nThis also raises the salience of best practices in software engineering. Automated, thorough, and continuous testing was always important. Now we can take this practice a step further and use defensive AI agents to test exploits against a real stack, over and over, until the false positives have been weeded out and the real vulnerabilities and fixes are confirmed. This kind of VulnOps is likely to become a standard part of the development process.\nDocumentation becomes more valuable, as it can guide an AI agent on a bug-finding mission just as it does developers. And following standard practices and using standard tools and libraries allows AI and engineers alike to recognize patterns more effectively, even in a world of individual and ephemeral instant software—code that can be generated and deployed on demand.\nWill this favor offense or defense? The defense eventually, probably, especially in systems that are easy to patch and verify. Fortunately, that includes our phones, web browsers, and major internet services. But today’s cars, electrical transformers, fridges, and lampposts are connected to the internet. Legacy banking and airline systems are networked.\nNot all of those are going to get patched as fast as needed, and we may see a few years of constant hacks until we arrive at a new normal: where verification is paramount and software is patched continuously.",
           "isoDate": "2026-04-23T14:00:01.000Z"
         },
         {
@@ -325,6 +325,11 @@
       "items": [
         {
           "title": "RESULTADOS (ÚLTIMOS)",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "VIL  2-1  CEL",
           "link": "",
           "summary": ""
         },
@@ -374,11 +379,6 @@
           "summary": ""
         },
         {
-          "title": "RAY  1-0  ESP",
-          "link": "",
-          "summary": ""
-        },
-        {
           "title": "CLASIFICACIÓN",
           "link": "",
           "summary": ""
@@ -399,7 +399,7 @@
           "summary": ""
         },
         {
-          "title": " 3  VIL  32  19  5  8  57  37  20  62",
+          "title": " 3  VIL  33  20  5  8  59  38  21  65",
           "link": "",
           "summary": ""
         },
@@ -419,7 +419,7 @@
           "summary": ""
         },
         {
-          "title": " 7  CEL  32  11 11 10  44  41   3  44",
+          "title": " 7  CEL  33  11 11 11  45  43   2  44",
           "link": "",
           "summary": ""
         },
@@ -439,27 +439,27 @@
           "summary": ""
         },
         {
-          "title": "11  VAL  33  10  9 14  37  48 -11  39",
+          "title": "11  RAY  33   9 12 12  33  41  -8  39",
           "link": "",
           "summary": ""
         },
         {
-          "title": "12  RAY  33   9 12 12  33  41  -8  39",
+          "title": "12  VAL  33  10  9 14  37  48 -11  39",
           "link": "",
           "summary": ""
         },
         {
-          "title": "13  ESP  32  10  8 14  37  49 -12  38",
+          "title": "13  ELC  33   9 11 13  44  50  -6  38",
           "link": "",
           "summary": ""
         },
         {
-          "title": "14  GIR  33   9 11 13  36  50 -14  38",
+          "title": "14  ESP  32  10  8 14  37  49 -12  38",
           "link": "",
           "summary": ""
         },
         {
-          "title": "15  ELC  33   9 11 13  44  50  -6  38",
+          "title": "15  GIR  33   9 11 13  36  50 -14  38",
           "link": "",
           "summary": ""
         },
