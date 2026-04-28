@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-04-28T02:52:48.594Z",
+  "generatedAt": "2026-04-28T08:25:05.589Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Microsoft Office can now be controlled with Logitech’s MX Creative Console",
+          "link": "https://www.theverge.com/tech/919165/logitech-mx-ecosystem-creative-console-productivity-plugins-microsoft-office-slack-notion",
+          "summary": "Logitech’s Creative Console and other MX accessories are now compatible with several productivity apps. | Image: Logitech\t\n\nLogitech has announced a new suite of Productivity Plugins for its entire MX line of accessories, including its Stream Deck alternative, the MX Creative Console. Since the console launched in September 2024, Logitech has been expanding its capabilities with plug-ins that support creativity-focused apps such as Final Cut Pro, Adobe Lightroom, and Figma. That is now expanding to include productivity apps, such as Microsoft Office's Word, Excel, and PowerPoint, as well as Slack and Notion.\nShortcuts, actions, and specific tools in those apps can be quickly accessed using Logitech's Actions Ring menus, which are supported by accessories like th …\nRead the full story at The Verge.",
+          "isoDate": "2026-04-28T07:01:00.000Z"
+        },
+        {
+          "title": "Jury selection in Musk v. Altman: ‘People don’t like him’",
+          "link": "https://www.theverge.com/tech/919469/elon-musk-dont-like",
+          "summary": "On Monday, the courtroom battle between Elon Musk and Sam Altman over alleged broken promises at OpenAI started, as usual, with jury selection. The only tricky part? A lot of the prospective jurors already have an opinion about Elon Musk, and it's not a good one.\nThe Verge reporter Elizabeth Lopatto, who was there at the courthouse, quoted statements from some of the juror questionnaires: \n\"Elon Musk is a greedy, racist, homophobic piece of garbage.\"\n\"Elon Musk is a world-class jerk.\"\n\"I very much dislike Tesla. As a woman of color, I am very aware of the damaging statements and actions Elon Musk has enacted and been a part of.\"\nM …\nRead the full story at The Verge.",
+          "isoDate": "2026-04-28T03:39:33.000Z"
+        },
         {
           "title": "Put it in pencil: NASA's Artemis III mission will launch no earlier than late 2027",
           "link": "https://arstechnica.com/space/2026/04/put-it-in-pencil-nasas-artemis-iii-mission-will-launch-no-earlier-than-late-2027/",
@@ -52,18 +64,6 @@
           "link": "https://arstechnica.com/ai/2026/04/europe-could-force-google-to-open-android-to-other-ai-assistants/",
           "summary": "Gemini gets preferential treatment on Android, but maybe not for long (in Europe).",
           "isoDate": "2026-04-27T20:03:49.000Z"
-        },
-        {
-          "title": "With new patch design, the Crew-13 astronauts clearly aren't superstitious",
-          "link": "https://arstechnica.com/space/2026/04/nasas-spacex-crew-13-pays-homage-to-apollo-13-on-mission-patch/",
-          "summary": "Houston, we have another \"13.\"",
-          "isoDate": "2026-04-27T19:45:06.000Z"
-        },
-        {
-          "title": "\"Super ZSNES\" is a stab at a modern SNES emulator from the original developers",
-          "link": "https://arstechnica.com/gadgets/2026/04/super-zsnes-is-a-stab-at-a-modern-snes-emulator-from-the-original-developers/",
-          "summary": "Upgrades to SNES graphics and sound go way beyond the typical screen filtering.",
-          "isoDate": "2026-04-27T18:30:14.000Z"
         }
       ]
     },
@@ -71,6 +71,12 @@
       "header": "120  CIENCIA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Fiery Fall Color in Southern Chile",
+          "link": "https://science.nasa.gov/earth/earth-observatory/fiery-fall-color-in-southern-chile/",
+          "summary": "The beech forests of southern Patagonia put on vibrant autumn displays.",
+          "isoDate": "2026-04-28T04:01:00.000Z"
+        },
         {
           "title": "China’s latest push to commercialize research: match 680,000 innovators with companies",
           "link": "https://www.nature.com/articles/d41586-026-01202-7",
@@ -124,12 +130,6 @@
           "link": "https://www.nature.com/articles/d41586-026-01297-y",
           "summary": "Nature, Published online: 27 April 2026; doi:10.1038/d41586-026-01297-y\nFunders must take action before an increase in submission of high-quality proposals written using AI models makes it impossible to sort the wheat from the chaff.",
           "isoDate": "2026-04-27T00:00:00.000Z"
-        },
-        {
-          "title": "Mitochondria can spawn new ‘organelles’ — hinting at how modern cells evolved",
-          "link": "https://www.nature.com/articles/d41586-026-01295-0",
-          "summary": "Nature, Published online: 27 April 2026; doi:10.1038/d41586-026-01295-0\nDiscovery bolsters theory that ancient mitochondria formed brand-new, specialized ‘sacs’ in cells by shedding their outer membranes.",
-          "isoDate": "2026-04-27T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-04-28T02:52:43.414Z"
+          "isoDate": "2026-04-28T08:24:59.129Z"
         },
         {
           "title": "Why Spotify has no button to filter out AI music",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-04-28T02:52:47.184Z"
+          "isoDate": "2026-04-28T08:25:04.140Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-04-28T02:52:44.689Z"
+          "isoDate": "2026-04-28T08:25:01.298Z"
         },
         {
           "title": "What Makes eVTOL Motors Different Than EV Motors?",
