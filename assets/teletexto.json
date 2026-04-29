@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-29T02:51:09.225Z",
+  "generatedAt": "2026-04-29T08:18:13.018Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
@@ -72,6 +72,12 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "Fires Rage in Georgia",
+          "link": "https://science.nasa.gov/earth/earth-observatory/fires-rage-in-georgia/",
+          "summary": "Firefighters are battling two destructive blazes in the southern part of the state as drought grips the U.S. Southeast.",
+          "isoDate": "2026-04-29T04:01:00.000Z"
+        },
+        {
           "title": "NASA Connects Little Red Dots with Chandra, Webb",
           "link": "https://science.nasa.gov/missions/chandra/nasa-connects-little-red-dots-with-chandra-webb/",
           "summary": "A newly discovered object may be a key to unlocking the true nature of a mysterious class of sources that astronomers have found in the early universe in recent years. A “X-ray dot” found by NASA’s Chandra X-ray Observatory could explain what the hundreds or potentially thousands of these objects are. A paper describing the […]",
@@ -124,12 +130,6 @@
           "link": "https://science.nasa.gov/earth/earth-observatory/fiery-fall-color-in-southern-chile/",
           "summary": "The beech forests of southern Patagonia put on vibrant autumn displays.",
           "isoDate": "2026-04-28T04:01:00.000Z"
-        },
-        {
-          "title": "Author Correction: Quantum error correction below the surface code threshold",
-          "link": "https://www.nature.com/articles/s41586-026-10559-8",
-          "summary": "Nature, Published online: 28 April 2026; doi:10.1038/s41586-026-10559-8\nAuthor Correction: Quantum error correction below the surface code threshold",
-          "isoDate": "2026-04-28T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-04-29T02:51:05.410Z"
+          "isoDate": "2026-04-29T08:18:07.635Z"
         },
         {
           "title": "Musk says basis of charitable giving at stake in OpenAI lawsuit",
@@ -204,15 +204,21 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "Our commitment to community safety",
-          "link": "https://openai.com/index/our-commitment-to-community-safety",
-          "summary": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
-          "isoDate": "2026-04-28T00:00:00.000Z"
+          "title": "Enabling privacy-preserving AI training on everyday devices",
+          "link": "https://news.mit.edu/2026/enabling-privacy-preserving-ai-training-everyday-devices-0429",
+          "summary": "A new method could bring more accurate and efficient AI models to high-stakes applications like health care and finance, even in under-resourced settings.",
+          "isoDate": "2026-04-29T04:00:00.000Z"
         },
         {
           "title": "OpenAI models, Codex, and Managed Agents come to AWS",
           "link": "https://openai.com/index/openai-on-aws",
           "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
+          "isoDate": "2026-04-28T00:00:00.000Z"
+        },
+        {
+          "title": "Our commitment to community safety",
+          "link": "https://openai.com/index/our-commitment-to-community-safety",
+          "summary": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
           "isoDate": "2026-04-28T00:00:00.000Z"
         },
         {
@@ -256,12 +262,6 @@
           "link": "https://openai.com/index/our-principles",
           "summary": "Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work.",
           "isoDate": "2026-04-26T16:00:00.000Z"
-        },
-        {
-          "title": "MIT scientists build the world’s largest collection of Olympiad-level math problems, and open it to everyone",
-          "link": "https://news.mit.edu/2026/mit-scientists-build-worlds-largest-collection-olympiad-level-math-problems-open-0424",
-          "summary": "New dataset of 30,000-plus competition math problems from 47 countries gives AI researchers a harder test — and students worldwide a better training ground.",
-          "isoDate": "2026-04-24T17:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-04-29T02:51:07.795Z"
+          "isoDate": "2026-04-29T08:18:11.326Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-04-29T02:51:06.818Z"
+          "isoDate": "2026-04-29T08:18:09.091Z"
         },
         {
           "title": "Better Hardware Could Turn Zeros into AI Heroes",
