@@ -1,69 +1,69 @@
 {
-  "generatedAt": "2026-04-30T13:54:31.746Z",
+  "generatedAt": "2026-04-30T19:21:01.294Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
         {
-          "title": "Samsung says the RAM shortage could get even worse next year",
-          "link": "https://www.theverge.com/tech/921190/samsung-ram-shortage-getting-worse-2027",
-          "summary": "There may be a long wait before the end of the RAM shortage that's driving up prices on everything from phones to gaming handhelds. During an earnings call on Thursday, Samsung predicted that the severe memory shortage, driven by demand from AI data centers, will not only continue next year, but likely get worse, as reported by Reuters. \nAs Samsung memory chip business executive Kim Jaejune stated during the earnings call:\n\"Our supply falls far short of customer demand. Based solely on the demand currently received for 2027, the supply-to-demand gap for 2027 is set to widen even further than ⁠in 2026.\"\nSamsung's prediction follows repor …\nRead the full story at The Verge.",
-          "isoDate": "2026-04-30T13:48:59.000Z"
+          "title": "Microsoft’s Xbox mode is now available for all Windows 11 PCs",
+          "link": "https://www.theverge.com/news/921582/microsoft-xbox-mode-windows-11",
+          "summary": "Microsoft is now rolling out its Xbox mode to all Windows 11 PCs. The new Xbox mode adds a full-screen interface to the Xbox PC app, much like Steam's Big Picture Mode, and originally debuted as the Xbox Full Screen Experience (FSE) with Asus' Xbox Ally devices.\n\"Some players in select markets will be able to download the Xbox mode experience today, with availability expanding to more players in those markets over the next several weeks,\" says the Xbox team. You'll be able to get the Xbox mode by installing the latest Windows update for Windows 11.\nXbox mode aims to try and bridge the gap between Xbox consoles and Windows, but its original …\nRead the full story at The Verge.",
+          "isoDate": "2026-04-30T19:14:23.000Z"
         },
         {
-          "title": "The Commodore 64 and ZX Spectrum have been turned into retrofuturistic handhelds",
-          "link": "https://www.theverge.com/tech/921178/blaze-entertainment-retro-games-commodore-64-zx-spectrum-handhelds",
-          "summary": "The retro handhelds are now available for preorder but won’t launch until later this year. | Image: Blaze Entertainment\t\n\nBlaze Entertainment, the company behind the cartridge-based Evercade consoles, has announced two new handhelds that reimagine iconic '80s personal computers as portable gaming machines. The Spectrum Handheld and The C64 Handheld eschew the productivity aspects of the Commodore 64 and ZX Spectrum to focus on gaming, with each portable coming with its own collection of 25 retro titles that can be expanded using a microSD card. If you're craving a desktop gaming experience, they can both be connected to a keyboard and joystick over USB.\nShipping isn't expected to start until October 2026 at the earliest, but you can preorder the The C64 and Th …\nRead the full story at The Verge.",
-          "isoDate": "2026-04-30T13:45:46.000Z"
+          "title": "Meta threatens to pull its apps from New Mexico if forced to make ‘technologically impractical’ changes",
+          "link": "https://www.theverge.com/policy/921557/meta-threatens-leaving-new-mexico",
+          "summary": "Mark Zuckerberg. | Image: Cath Virginia / The Verge, Getty Images\t\n\nMeta says it may be forced to pull Facebook, Instagram, and WhatsApp from New Mexico if the attorney general gets his way. The state is demanding a host of changes that the company says are impossible to achieve. \nAfter winning a $375 million jury award against Meta in a trial that argued the company misled users in the state about the safety of its products, New Mexico Attorney General Raúl Torrez is asking the state court to order sweeping changes to the platforms. Among the asks are a prohibition on end-to-end encryption for minors, implementing age verification, and detecting 99 percent of new child sexual abuse material uploaded to its …\nRead the full story at The Verge.",
+          "isoDate": "2026-04-30T19:05:01.000Z"
         },
         {
-          "title": "OpenAI talks about not talking about goblins",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/921181/openai-codex-goblins",
-          "summary": "OpenAI is opening up about its goblin problem. After a report from Wired revealed instructions to OpenAI's coding model to \"never talk about goblins, gremlins, raccoons, trolls, ogres, pigeons, or other animals or creatures,\" the AI startup published an explanation on its website, calling references to the creatures a \"strange habit\" its models developed as a result of their training.\nAs outlined in the blog post, OpenAI began noticing metaphors referencing goblins and other creatures starting with its GPT-5.1 model - specifically when using the \"Nerdy\" personality option. OpenAI says the problem continued to worsen with subsequent model re …\nRead the full story at The Verge.",
-          "isoDate": "2026-04-30T13:42:29.000Z"
+          "title": "With Saros, Housemarque makes a case for doing next-gen games differently",
+          "link": "https://www.theverge.com/games/921391/housemarque-interview-saros-ps5",
+          "summary": "It is generally frowned upon to care too much about appearances. We have a lot of little aphorisms discouraging this - books and their covers, beauty being skin deep, style over substance, that sort of thing. Vanity is a risk. Should one put a disproportionate effort into how a thing looks, then said work may very well be considered shallow. But in the world of big-budget video games? That's how you win. \nVisual fidelity is video game shorthand for progress: how meticulously rendered a mountain is, how dynamically the snow behaves, how a player character raises their hands to touch a wall when the player approaches it just so. This pursuit  …\nRead the full story at The Verge.",
+          "isoDate": "2026-04-30T19:00:45.000Z"
         },
         {
-          "title": "More than half of all \"long shot\" bets on Polymarket pay off",
-          "link": "https://arstechnica.com/tech-policy/2026/04/more-than-half-of-all-long-shot-bets-on-polymarket-pay-off/",
-          "summary": "Sensitive information and the prediction markets can be a winning combination.",
-          "isoDate": "2026-04-30T13:16:04.000Z"
+          "title": "All the evidence unveiled so far in Musk v. Altman",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
+          "summary": "The Musk v. Altman trial is underway, and that means exhibits, or the evidence to be presented in court, are being revealed piece by piece. So far, email exchanges, photos, and corporate documents are circulating from the earliest days of OpenAI - and from before the AI lab even had a name. Some high-level takeaways: Nvidia CEO Jensen Huang gave OpenAI an in-demand supercomputer, Musk largely drafted OpenAI's mission and heavily influenced its early structure, OpenAI CEO Sam Altman appeared to want to lean heavily on Y Combinator for early support for OpenAI, OpenAI president Greg Brockman and Ilya Sutskever worried about Musk's level of con …\nRead the full story at The Verge.",
+          "isoDate": "2026-04-30T19:00:00.000Z"
         },
         {
-          "title": "Verified by Spotify badge lets you know this artist isn&#8217;t AI",
-          "link": "https://www.theverge.com/tech/921048/verified-by-spotify-badge",
-          "summary": "Spotify is launching a new verification program to combat spam, fakes, and AI. Some artists will now have a \"Verified by Spotify\" badge and a green checkmark on their profile, indicating that the company has confirmed a real person is behind the music and the profile. At least at launch, Spotify says that AI personas or profiles that primarily upload AI-generated music are not eligible for the verification program. It did leave the door open to the possibility in the future, though, saying, \"the concept of artist authenticity is complex and quickly evolving.\"\nNot just anyone can be verified, however. Spotify says that there must be \"consist …\nRead the full story at The Verge.",
-          "isoDate": "2026-04-30T13:08:23.000Z"
+          "title": "Exclusive eBook: Inside the stealthy startup that pitched brainless human clones",
+          "link": "https://www.technologyreview.com/2026/04/30/1136684/exclusive-ebook-inside-the-stealthy-startup-that-pitched-brainless-human-clones/",
+          "summary": "The ultimate plan to live forever is a brand new body. This subscriber-only eBook explores R3 Bio, a small startup that has pitched a startling and ethically charged vision for “brainless clones” to serve the role of backup human bodies. by Antonio Regalado March 20, 2026 Related Stories: Access all subscriber-only eBooks:",
+          "isoDate": "2026-04-30T18:42:50.000Z"
         },
         {
-          "title": "Here’s what Netflix’s new vertical video feed is like",
-          "link": "https://www.theverge.com/streaming/920179/netflix-vertical-video-feed-mobile-app-ui",
-          "summary": "Netflix is starting to roll out a big revamp of its mobile app, and a central feature is a new vertical video feed called \"Clips\" where you can scroll through clips of shows, movies, and other Netflix content. \nThe idea of the Clips feed is that it can help you discover new things to watch in a mobile-friendly format. The company started testing a vertical video feed last year, saying at the time that \"we know that swiping through a vertical feed on social media apps is an easy way to browse video content.\" The new mobile UI will start rolling out starting Thursday in Australia, Canada, India, Malaysia, Pakistan, the Philippines, South Afri …\nRead the full story at The Verge.",
-          "isoDate": "2026-04-30T13:00:00.000Z"
+          "title": "Elon Musk confirms xAI used OpenAI’s models to train Grok",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/921546/elon-musk-xai-openai-trial-model-distillation",
+          "summary": "In a federal courtroom in California on Thursday, Elon Musk testified that his own AI startup, xAI, has used OpenAI's models to improve its own. \nThe matter at question is model distillation, a common industry practice by which one larger AI model acts as a \"teacher\" of sorts to pass on knowledge to a smaller AI model, the \"student.\" Although it's often used legitimately within companies using one of their own AI models to train another, it's also a practice that's sometimes used by smaller AI labs to try to get their models to mimic the performance of a larger competitor's model. \nAsked on the stand whether he knew what model distillation …\nRead the full story at The Verge.",
+          "isoDate": "2026-04-30T18:16:57.000Z"
         },
         {
-          "title": "The Download: the North Pole’s future and humanoid data",
-          "link": "https://www.technologyreview.com/2026/04/30/1136713/the-download-north-pole-future-humanoid-data/",
-          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Digging for clues about the North Pole’s past In the past, getting to the North Pole involved a treacherous trip through ice many meters thick. But last year, a research vessel…",
-          "isoDate": "2026-04-30T12:10:00.000Z"
+          "title": "Xbox owners can now disable Quick Resume for specific games",
+          "link": "https://www.theverge.com/games/921504/xbox-update-quick-resume-disable",
+          "summary": "Microsoft has released a new Xbox update that adds a bunch of new features, including the ability to disable Quick Resume for individual games. \nQuick Resume, which lets you swap between your games with minimal wait time, is one of the best features on the Xbox Series X / S consoles. But it can also run into unexpected issues with multiplayer games or titles that require a constant internet connection. \"We've heard your feedback around performance after long periods of inactivity or with games that rely heavily on online connections,\" Microsoft says. \n\nWith Thursday's update, Microsoft also lets you make up to ten groups on their Home scree …\nRead the full story at The Verge.",
+          "isoDate": "2026-04-30T17:51:26.000Z"
         },
         {
-          "title": "Instagram says it doesn’t want your tweet round ups",
-          "link": "https://www.theverge.com/news/920999/instagram-says-it-doesnt-want-your-tweet-round-ups",
-          "summary": "The internet is full of copycat, stolen, reposted, and low-effort content - and Meta, at least publicly, has said it is working to cut off some of the reach.\nBeginning in 2024, the company has made incremental announcements saying it would begin limiting \"unoriginal\" content from being recommended on Instagram. It meant that if you were downloading and reposting someone's Reels, or spamming the same clip over and over, your content wouldn't show up in recommendation feeds or places like the Explore tab. Similar rules were later announced for Facebook, where \"unoriginal\" accounts risk losing their ability to monetize content. The idea is tha …\nRead the full story at The Verge.",
-          "isoDate": "2026-04-30T12:00:00.000Z"
+          "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+          "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+          "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. \nThe trial began with jury selection on April 27th, before Elon Musk took the stand on Tuesday as the first witness called, portraying his interest in founding OpenAI as an effort to help save humanity, before returning to the stand on Wednesday, and again for a third day of testimony on Thursday.\nMusk was a cofounder of OpenAI and claims that Altman and cofounder Greg Brockman tricked him into giving the company money, only to turn their backs on their original goal. However, OpenAI says that “This lawsuit has always been a baseless and jealous bid to derail a competitor” in a bid to boost Musk’s own SpaceX / xAI / X companies that have launched Grok as a competitor to ChatGPT.\nIn his lawsuit, Musk is asking for the removal of Altman and Brockman, and for OpenAI to stop operating as a public benefit corporation. Musk has also demanded that OpenAI’s nonprofit receive up to $150 billion in damages he’s asking for if he wins the case.\nHere’s all the latest on the trial between Musk and Altman:\nSecond break of the day.\n\t\t\t\nBirchall cross.\n\t\t\t\nElon Musk confirms xAI used OpenAI’s models to train Grok\n\t\t\t\nBirchall has just been asked about the four Teslas.\n\t\t\t\nBirchall testifies about Musk’s contributions to OpenAI.\n\t\t\t\nA woman in the gallery has lowered a sleep mask over her eyes and is attempting to sleep.\n\t\t\t\nMusk steps down. He may be recalled.\n\t\t\t\nWe are on re-cross. Musk is getting testy again.\n\t\t\t\nThe Microsoft investment comes back up.\n\t\t\t\nAnd we’re back.\n\t\t\t\nWe’re in break — and I just checked out something interesting.\n\t\t\t\nElon Musk’s robot army definitely will not kill you.\n\t\t\t\nMusk insists he wasn’t kneecapping OpenAI.\n\t\t\t\nMusk seems notably more subdued today.\n\t\t\t\n“At least change the name,” Musk says he told Altman.\n\t\t\t\nElon Musk v. Capitalism.\n\t\t\t\nAn “ongoing conversation” around open source.\n\t\t\t\nWe’re still talking about whether Musk read the term sheet.\n\t\t\t\nThe jurors have been seated.\n\t\t\t\nMusk has just entered the courtroom.\n\t\t\t\n“Issues of extinction are excluded.”\n\t\t\t\nGood morning!\n\t\t\t\nElon Musk’s worst enemy in court is Elon Musk\n\t\t\t\nFreedom!\n\t\t\t\nUnfortunately we will not be talking about safety details of any specific product.\n\t\t\t\nThe jury is leaving for the day. “I suspect it’s a nice day out there,” YGR says.\n\t\t\t\nMechahitler might be a bad look for the AI safety defender.\n\t\t\t\nMusk’s broader AI safety commitment (or lack thereof) comes up.\n\t\t\t\nThis is so testy.\n\t\t\t\nDid Musk even read the OpenAI term sheet?\n\t\t\t\nMusk asked Shivon Zilis to stay ‘close and friendly’ with OpenAI to keep info flowing.\n\t\t\t\nMusk says xAI probably won’t be the first to get to AGI.\n\t\t\t\nWe’re back from a break, talking about SpaceX and xAI.\n\t\t\t\nDon’t worry about Tesla’s robot army!\n\t\t\t\n“You mostly do unfair questions.”\n\t\t\t\n“It’s a free country.”\n\t\t\t\n“Will you answer my question?”\n\t\t\t\nMusk’s desire for control comes up again.\n\t\t\t\n“This is a hypothetical.”\n\t\t\t\nAll the evidence unveiled so far in Musk v. Altman\n\t\t\t\nDid Musk initially envision OpenAI as a corporation?\n\t\t\t\nMusk is being combative on cross already\n\t\t\t\n“I did say that I would commit up to a billion dollars, yes.”\n\t\t\t\nIs Tesla really not working on AGI?\n\t\t\t\nMusk is returning to the stand.\n\t\t\t\nAt times, being a judge is much like being a kindergarden teacher.\n\t\t\t\nWe’re on a break.\n\t\t\t\n“I mean, all due respect to Microsoft, do you really want Microsoft controlling digital superintelligence?”\n\t\t\t\n“What’s going on here this is a bait and switch.”\n\t\t\t\nA Musk-Altman spat about Microsoft.\n\t\t\t\nMusk really cannot help himself.\n\t\t\t\n“Capped profit” wasn’t an issue, even when Microsoft got involved.\n\t\t\t\n“Tesla is not pursuing AGI.”\n\t\t\t\nMusk is more on his game today.\n\t\t\t\n“After I received these reassurances that OpenAI would continue to be a non-profit I continued to donate over $10 million.”\n\t\t\t\n“I actually was a fool who provided free funding for them to create a startup.”\n\t\t\t\nMore discussion of who would own OpenAI.\n\t\t\t\n“I don’t lose my temper,” says Elon Musk.\n\t\t\t\n“2017 was a hard year, and we’ve made mistakes.”\n\t\t\t\n“I formed many for-profit tech companies, and could have done so with OAI.”\n\t\t\t\n“Crystal clear focus.”\n\t\t\t\nSam Altman has just entered the room, right ahead of the jury.\n\t\t\t\nA member of the public just got dressed down by YGR about taking photos.\n\t\t\t\nMusk v Altman et al. is back in session.\n\t\t\t\nIn naming OpenAI, Elon Musk worried anything related to the Turing Test could mean bad PR.\n\t\t\t\nElon Musk appeared more petty than prepared\n\t\t\t\nThat’s a wrap!\n\t\t\t\nYGR scolds OpenAI for taking inconsistent positions on the origin of its name.\n\t\t\t\nElon Musk tells the jury that all he wants to do is save humanity\n\t\t\t\nArguments over ownership.\n\t\t\t\nApparently OpenAI could have had an ICO.\n\t\t\t\n“I was not averse to a small for-profit,” Musk says.\n\t\t\t\nWe’re reading emails between Musk and Jensen Huang.\n\t\t\t\nMusk says nonprofit was non-negotiable for OpenAI.\n\t\t\t\nWe’re at the founding of OpenAI.\n\t\t\t\nMusk says he would have created something like OpenAI on his own.\n\t\t\t\nMusk recalls meeting Sam Altman.\n\t\t\t\nSam Altman left during a break, but Elon Musk’s lawyer didn’t notice.\n\t\t\t\n“Here we are in 2026 and AI is scary smart.”\n\t\t\t\n“I have extreme concerns about AI,” says Musk.\n\t\t\t\nAI will be as smart as ‘any human as soon as next year.’\n\t\t\t\nMusk claims he has time for SpaceX, Tesla, Neuralink, and the Boring Company because he works a lot.\n\t\t\t\nMusk is telling the jury he (co)founded Tesla.\n\t\t\t\nNeuralink’s long-term goal is… AI?\n\t\t\t\n“There need to be things that people are excited about that make life worth living … being out there among the stars can excite everyone.”\n\t\t\t\nA little Musk biography.\n\t\t\t\nElon Musk, looking funereal in a black suit with a black tie, says “it’s not okay to steal a charity.”\n\t\t\t\nElon Musk takes the stand in high-profile trial against OpenAI\n\t\t\t\nWe are back from a break.\n\t\t\t\nElon Musk will be the first witness in Musk v. Altman.\n\t\t\t\n“Microsoft unlocked with OpenAI a virtuous cycle.”\n\t\t\t\nMicrosoft enters the chat.\n\t\t\t\n“We are here because Mr Musk didn’t get his way at OpenAI.”\n\t\t\t\n“[Musk] demanded control, he demanded the ability to make all the decisions without regard to the other founders.”\n\t\t\t\nOpenAI lawyers argue that Elon was right in the middle of discussions about a for-profit pivot.\n\t\t\t\n“Musk was furious that OpenAI succeeded.”\n\t\t\t\nOpenAI: Musk’s lawsuit is a “pageant of hypocrisy.”\n\t\t\t\nSam Altman’s “related party conflicted transactions” are how he made money on OpenAI, Molo says.\n\t\t\t\nTechnical difficulties.\n\t\t\t\nOpenAI is like a museum store that has looted the Picassos and pocketed the profits.\n\t\t\t\nAGI might be out of fashion in the AI world, but it will be at the center of this trial\n\t\t\t\n“The defendants in this case stole a charity.”\n\t\t\t\nMusk and Altman go to court\n\t\t\t\nGood morning from the Musk v Altman line outside the courtroom.\n\t\t\t\nJury selection in Musk v. Altman: ‘People don’t like him’\n\t\t\t\nWe have a jury.\n\t\t\t\nElon Musk’s lawyer tried to get some jurors thrown out for disliking Musk.\n\t\t\t\nApparently things are exciting outside.\n\t\t\t\nWe have gone through the first 20 potential jurors.\n\t\t\t\nVoir dire has begun.\n\t\t\t\nThe Elon Musk vs. OpenAI trial starts today.\n\t\t\t\nElon Musk drops fraud claims against OpenAI and Sam Altman before trial.\n\t\t\t\nMusk vs. Altman is here, and it’s going to get messy\n\t\t\t\nElon Musk is about to be a very busy boy!\n\t\t\t\n‘Sideshow’ concerns and billionaire dreams: What I learned from Elon Musk’s lawsuit against OpenAI\n\t\t\t\nElon Musk’s xAI is suing OpenAI and Apple\n\t\t\t\nInside Elon Musk’s messy breakup with OpenAI\n\t\t\t\nElon Musk is suing OpenAI and Sam Altman again",
+          "isoDate": "2026-04-30T16:57:14.000Z"
         },
         {
-          "title": "Is this ‘de-extinction’ project actually onto something?",
-          "link": "https://www.theverge.com/science/921088/colossal-de-extinction-antelope-reproduction",
-          "summary": "Dallas-based genetics and biotech startup Colossal has raised hundreds of millions of dollars from venture capitalists, the CIA, and Peter Thiel, among others. Its buzzy \"de-extinction\" projects aim to \"bring back\" lost animals like the woolly mammoth, the Tasmanian tiger, and the dire wolf - although it isn't creating copies of extinct creatures from ancient DNA, as the \"de-extinction\" tagline may suggest. In the case of the \"dire wolves\" presented to the world in 2025, the pups were gray wolves spliced with a few genetic traits to somewhat resemble the dire wolves. This ambitious branding opened the company up to questions about its conser …\nRead the full story at The Verge.",
-          "isoDate": "2026-04-30T12:00:00.000Z"
+          "title": "Meta is running get-rich-quick ads for its AI tools",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/915970/meta-manus-ai-ads-website-slop",
+          "summary": "Manus, an AI company Meta acquired for $2 billion last year is running ads promising quick, easy money with AI: Find local businesses without websites or with bad websites, have AI build them one, then call them up and sell it to them.\nAs part of the campaign, Manus was paying content creators to build out Instagram, YouTube, and TikTok accounts that promote its AI product as an easy, lucrative gig. (The creators' TikTok accounts were taken down after The Verge inquired about them.) Some of these videos would also appear as official ads for Manus, but the posts on the paid creator accounts themselves often obscured their ties to the company …\nRead the full story at The Verge.",
+          "isoDate": "2026-04-30T16:48:13.000Z"
         },
         {
-          "title": "Meta lost 20 million users last quarter",
-          "link": "https://www.theverge.com/tech/921089/meta-earnings-q1-2026-user-decline-ai-investments",
-          "summary": "Meta is planning to pump billions more into AI investments this year, despite noting that millions of users have seemingly started to abandon its platforms. In an earning call on Wednesday, Meta reported that figures for \"Family daily active people\" - the term Meta has coined for all collective users of Facebook, Instagram, WhatsApp, or Messenger - declined by 20 million this quarter compared to the previous three months.\nMeta attributes this fall to \"internet disruptions in Iran, as well as a restriction on access to WhatsApp in Russia.\" It's up to you whether you take Meta on its word, given that by bundling the user stats together across …\nRead the full story at The Verge.",
-          "isoDate": "2026-04-30T11:38:26.000Z"
+          "title": "Cricut’s Joy 2 makes creating stickers easier for beginners, and it’s on sale",
+          "link": "https://www.theverge.com/gadgets/921355/cricut-joy-2-mothers-day-deal-sale",
+          "summary": "The Cricut Joy 2 doesn’t take up much desk space and looks pretty cute. | Image: Cricut\t\n\nIf you’ve ever thought about making your own stickers for Etsy or just for fun but don’t know where to begin, I’d recommend taking a look at the Cricut Joy 2. I’ve been testing one for a couple of weeks now, and as someone completely new to the Cricut ecosystem, I’ve found it to be a relatively beginner-friendly way to get started. It also costs less than most Cricut models and is currently discounted as part of the company’s sale. While the machine itself is $99, the bundles offer better value right now: the Essentials Bundle starts at $119 ($20 off) at Amazon and Cricut and includes supplies for 35 projects, while the Ultimate Bundle is down to $169 ($50 off) at Amazon and Cricut, and adds extra tools — including an iron press — for over 75 projects right out of the box.\nCricut Joy 2\n\nWhere to Buy:\n\n $139 $119 at Amazon (Essentials bundle)\n $169 $209 at Amazon (Ultimate bundle)\n $139 $119 at Cricut (Essentials bundle)\n\nDesigned for smaller, everyday projects, the Cricut Joy 2 brings the company’s Print Then Cut feature to its entry-level lineup. That means you can print full-color designs using your home printer and then have the machine precisely cut them out, making it possible to create sticker sheets. In my testing, that’s been one of the most satisfying activities — and once you get the hang of it, it’s fairly quick and straightforward. (Just note that while you can use a laser printer, you’ll need to supply your own compatible sticker paper, as Cricut’s are designed for inkjet printers.) Beyond stickers, it can also create custom cards, simple vinyl decals, labels, bookmarks, and iron-ons, which I’ve found useful for both creative projects and more practical things like planner templates and drawer labels.\nSetup is relatively straightforward, though Design Space — Cricut’s app for creating your design — does come with a bit of a learning curve. I struggled to get the hang of it, but after a few days of tutorials and using pre-made templates, it started to click and projects came together much more quickly. A big part of that was the free 30-day trial of Cricut Access subscription, which I used to experiment with a much larger library of templates, images, and fonts than what’s available for free. Just keep in mind it auto-renews after the trial, starting at $9.99 per month unless you cancel.",
+          "isoDate": "2026-04-30T16:45:06.000Z"
         }
       ]
     },
@@ -72,64 +72,64 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "Winter’s End Is Written in the Clouds",
-          "link": "https://science.nasa.gov/earth/earth-observatory/winters-end-is-written-in-the-clouds/",
-          "summary": "As winter turned to spring, the skies over the Gulf of Alaska displayed textbook examples of numerous cloud formations.",
-          "isoDate": "2026-04-30T04:00:00.000Z"
+          "title": "Odyssey Team Celebrates on a Global Map of Mars",
+          "link": "https://science.nasa.gov/photojournal/odyssey-team-celebrates-on-a-global-map-of-mars/",
+          "summary": "Description Team members past and present from NASA’s 2001 Mars Odyssey orbiter mission gathered on April 15, 2026, to celebrate 25 years since the spacecraft’s launch, which took place April 7, 2001. For the occasion, the team rolled out a giant global map of Mars created using imagery from Odyssey’s THEMIS (Thermal Emission Imaging System) […]",
+          "isoDate": "2026-04-30T18:19:29.000Z"
         },
         {
-          "title": "An electrifying test to find a good coffee",
-          "link": "https://www.nature.com/articles/d41586-026-01289-y",
-          "summary": "Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01289-y\nTechnique determines roast level and strength by applying voltage to the brew.",
-          "isoDate": "2026-04-30T00:00:00.000Z"
+          "title": "What’s Up: May 2026 Skywatching Tips from NASA",
+          "link": "https://science.nasa.gov/solar-system/whats-up-may-2026-skywatching-tips-from-nasa/",
+          "summary": "Shooting stars before dawn, a brilliant meetup between the Moon and Venus and a rare blue moon to end the month.",
+          "isoDate": "2026-04-30T18:13:34.000Z"
         },
         {
-          "title": "Why preprint servers are increasing moderation — and what that means for researchers",
-          "link": "https://www.nature.com/articles/d41586-026-01203-6",
-          "summary": "Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01203-6\nRepositories are adapting in response to AI-generated content and junk science, leading some people to question how much moderation is too much.",
-          "isoDate": "2026-04-30T00:00:00.000Z"
+          "title": "Artemis III Moon Rocket Core Stage on the Move",
+          "link": "https://www.nasa.gov/image-article/artemis-iii-moon-rocket-core-stage-on-the-move/",
+          "summary": "Teams move the core stage, or largest section, of the SLS (Space Launch System) rocket for NASA’s Artemis III mission into the Vehicle Assembly Building at the agency’s Kennedy Space Center in Florida in this photo from April 27, 2026. The SLS core stage traveled 900 miles on the Pegasus barge from NASA’s Michoud Assembly Facility in New Orleans where the stage is manufactured, to complete […]",
+          "isoDate": "2026-04-30T17:39:07.000Z"
         },
         {
-          "title": "Scientists to return to Fukushima — this time to study disaster recovery",
-          "link": "https://www.nature.com/articles/d41586-026-01345-7",
-          "summary": "Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01345-7\nA new research centre could help to reassure the public that the region is safe.",
-          "isoDate": "2026-04-30T00:00:00.000Z"
+          "title": "NASA Welcomes Morocco as 64th Artemis Accords Signatory ",
+          "link": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-morocco-as-64th-artemis-accords-signatory/",
+          "summary": "The Kingdom of Morocco signed the Artemis Accords on April 29th during a ceremony in the country’s capital, Rabat, becoming the latest nation to commit to the responsible exploration of space. “It is my privilege to welcome the Kingdom of Morocco as the newest signatory to the Artemis Accords,” said NASA Administrator Jared Isaacman in […]",
+          "isoDate": "2026-04-30T17:31:51.000Z"
         },
         {
-          "title": "Saving sharks and rays, one catch at a time — in photos",
-          "link": "https://www.nature.com/articles/d41586-026-01145-z",
-          "summary": "Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01145-z\nWorking alongside fishers in a biodiverse gulf in Greece, Roxani Naasan Aga-Spyridopoulou is focused on securing species’ future survival.",
-          "isoDate": "2026-04-30T00:00:00.000Z"
+          "title": "NASA Goddard’s Greenbelt Visitor Center Marks 50th Anniversary",
+          "link": "https://www.nasa.gov/centers-and-facilities/goddard/nasa-goddards-greenbelt-visitor-center-marks-50th-anniversary/",
+          "summary": "Trimmed in bicentennial pageantry, NASA opened a visitor center at its Goddard campus in Greenbelt, Maryland, in May 1976. Fifty years on, the Goddard Visitor Center continues to inspire through exhibits and programs on the past, present, and future of space exploration. When the visitor center first opened its doors (just a few weeks before […]",
+          "isoDate": "2026-04-30T17:13:07.000Z"
         },
         {
-          "title": "I Am Artemis: Ryan Schulte",
-          "link": "https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-ryan-schulte/",
-          "summary": "Listen to this audio excerpt from Ryan Schulte, Orion flywheel project manager: As the four Artemis II astronauts traveled on a 694,481-mile journey around the Moon and back, the Orion spacecraft provided them with all the essentials for deep space life, including daily exercise. The crew used an exercise device called the flywheel throughout their mission to maintain their physical and mental health, and Ryan Schulte, Orion […]",
-          "isoDate": "2026-04-29T21:45:16.000Z"
+          "title": "NASA Explores Prioritizing First Response Drones in Crowded Skies",
+          "link": "https://www.nasa.gov/centers-and-facilities/ames/nasa-explores-prioritizing-first-response-drones-in-crowded-skies/",
+          "summary": "Our streets are crowded with commuters and delivery vehicles, but when a police car or fire engine approaches with its lights and sirens on, drivers clear the way. In the coming years, drones for deliveries and other commercial tasks will become common in the skies over our communities, and NASA is working to ensure first […]",
+          "isoDate": "2026-04-30T16:54:12.000Z"
         },
         {
-          "title": "US-Indian Spacecraft Captures Mexico City Subsidence",
-          "link": "https://science.nasa.gov/photojournal/us-indian-spacecraft-captures-mexico-city-subsidence/",
-          "summary": "Description A scientist produced this map of land subsidence (sinking) in Mexico City using data from the NISAR (NASA-ISRO Synthetic Aperture Radar) mission captured between Oct. 25, 2025, and Jan. 17, 2026. The region has been a well-known hot spot of subsidence for decades, and images like this help confirm that NISAR is performing as […]",
-          "isoDate": "2026-04-29T21:12:56.000Z"
+          "title": "Lymphoid tissue chemokines limit priming duration to preserve CD8+ T cell functionality",
+          "link": "https://www.science.org/doi/abs/10.1126/science.adq2080?af=R",
+          "summary": "Science, Volume 392, Issue 6797, April 2026.",
+          "isoDate": "2026-04-30T07:00:00.000Z"
         },
         {
-          "title": "Curiosity Blog, Sols 4873-4878: Welcome to the Atacama Drill Target",
-          "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4873-4878-welcome-to-the-atacama-drill-target/",
-          "summary": "Written by Sharon Wilson Purdy, Planetary Geologist at the Smithsonian National Air and Space Museum Earth planning date: Friday, April 24, 2026 There was excitement in the air as the Curiosity Science Team kicked off a drill campaign at the Atacama site to characterize the first Mount Sharp layered-sulfate bedrock since leaving the boxwork terrain. […]",
-          "isoDate": "2026-04-29T20:38:38.000Z"
+          "title": "Disordered protein LAT encodes relative levels of signaling pathways in T cell activation",
+          "link": "https://www.science.org/doi/abs/10.1126/science.ads6847?af=R",
+          "summary": "Science, Volume 392, Issue 6797, April 2026.",
+          "isoDate": "2026-04-30T07:00:00.000Z"
         },
         {
-          "title": "US-Indian Space Mission Maps Extreme Subsidence in Mexico City",
-          "link": "https://www.nasa.gov/missions/nisar/us-indian-space-mission-maps-extreme-subsidence-in-mexico-city/",
-          "summary": "One of the most powerful radar systems ever launched into space has mapped the ground moving beneath one of fastest subsiding capitals in the world: Mexico City. The findings show how quickly and reliably the NISAR (NASA-ISRO Synthetic Aperture Radar) satellite can track real-time changes across Earth’s surface from orbit, unhindered by clouds or vegetation […]",
-          "isoDate": "2026-04-29T20:23:12.000Z"
+          "title": "Rumen ciliates modulate methane emissions in ruminants",
+          "link": "https://www.science.org/doi/abs/10.1126/science.adv4244?af=R",
+          "summary": "Science, Volume 392, Issue 6797, April 2026.",
+          "isoDate": "2026-04-30T07:00:00.000Z"
         },
         {
-          "title": "A Gently Glowing Galaxy",
-          "link": "https://www.nasa.gov/image-article/a-gently-glowing-galaxy/",
-          "summary": "A luminous swirl set against the deep black of space, the barred spiral galaxy IC 486 glows with a soft, ethereal light in this NASA Hubble Space Telescope image from April 13, 2026. IC 486 lies right on the edge of the constellation Gemini (the Twins), around 380 million light-years from Earth. Classified as a barred spiral […]",
-          "isoDate": "2026-04-29T15:28:31.000Z"
+          "title": "Gene syntax defines supercoiling-mediated transcriptional feedback",
+          "link": "https://www.science.org/doi/abs/10.1126/science.adw1925?af=R",
+          "summary": "Science, Volume 392, Issue 6797, April 2026.",
+          "isoDate": "2026-04-30T07:00:00.000Z"
         }
       ]
     },
@@ -141,12 +141,18 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-04-30T13:54:13.292Z"
+          "isoDate": "2026-04-30T19:20:47.624Z"
+        },
+        {
+          "title": "Twitch streamer hit by car live on camera - 'It felt like slow motion'",
+          "link": "https://www.bbc.com/news/articles/cn8pjz2qwego?at_medium=RSS&at_campaign=rss",
+          "summary": "Isaiah Thomas, known as hmblzayy, was walking a 3,000-mile challenge when he was hit",
+          "isoDate": "2026-04-30T17:24:25.000Z"
         },
         {
           "title": "OpenAI tells ChatGPT models to stop talking about goblins",
           "link": "https://www.bbc.com/news/articles/c5y9wen5z8ro?at_medium=RSS&at_campaign=rss",
-          "summary": "The AI firm said that unlike previous model bugs, this issue \"crept in subtly\".",
+          "summary": "The AI firm said that unlike previous model bugs, the issue \"crept in subtly\".",
           "isoDate": "2026-04-30T13:28:04.000Z"
         },
         {
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.com/news/articles/c5y7d2zx63jo?at_medium=RSS&at_campaign=rss",
           "summary": "The government is consulting on changes as a new social media law goes through its final Parliamentary stages.",
           "isoDate": "2026-04-28T10:46:55.000Z"
-        },
-        {
-          "title": "Valve's £85 Steam Controller divides gamers ahead of May launch",
-          "link": "https://www.bbc.com/news/articles/cp8486w7de8o?at_medium=RSS&at_campaign=rss",
-          "summary": "The pad will be compatible with PCs, Valve's handheld console, the Steam Deck as well as its upcoming gaming PC.",
-          "isoDate": "2026-04-28T09:16:12.000Z"
         }
       ]
     },
@@ -203,6 +203,24 @@
       "header": "160  INTELIGENCIA ARTIFICIAL",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Enabling a new model for healthcare with AI co-clinician",
+          "link": "https://deepmind.google/blog/ai-co-clinician/",
+          "summary": "Researching the path to AI-augmented care and development of an AI co-clinician.",
+          "isoDate": "2026-04-30T12:14:15.000Z"
+        },
+        {
+          "title": "Making the case for curiosity-driven science",
+          "link": "https://news.mit.edu/2026/making-case-curiosity-driven-science",
+          "summary": "President Sally Kornbluth spoke in front of a packed crowd about growing challenges to the U.S. research ecosystem as funding for America’s top research universities becomes increasingly strained",
+          "isoDate": "2026-04-30T04:00:00.000Z"
+        },
+        {
+          "title": "Introducing Advanced Account Security",
+          "link": "https://openai.com/index/advanced-account-security",
+          "summary": "Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent account takeover.",
+          "isoDate": "2026-04-30T00:00:00.000Z"
+        },
         {
           "title": "Solving the “Whac-a-mole dilemma”: A smarter way to debias AI vision models",
           "link": "https://news.mit.edu/2026/smarter-way-to-debias-ai-vision-models-0429",
@@ -240,28 +258,10 @@
           "isoDate": "2026-04-29T04:00:00.000Z"
         },
         {
-          "title": "Our commitment to community safety",
-          "link": "https://openai.com/index/our-commitment-to-community-safety",
-          "summary": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
-          "isoDate": "2026-04-28T00:00:00.000Z"
-        },
-        {
           "title": "OpenAI models, Codex, and Managed Agents come to AWS",
           "link": "https://openai.com/index/openai-on-aws",
           "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
           "isoDate": "2026-04-28T00:00:00.000Z"
-        },
-        {
-          "title": "OpenAI available at FedRAMP Moderate",
-          "link": "https://openai.com/index/openai-available-at-fedramp-moderate",
-          "summary": "OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies.",
-          "isoDate": "2026-04-27T14:00:00.000Z"
-        },
-        {
-          "title": "Announcing our partnership with the Republic of Korea",
-          "link": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
-          "summary": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models",
-          "isoDate": "2026-04-27T07:00:06.000Z"
         }
       ]
     },
@@ -273,13 +273,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-04-30T13:54:30.466Z"
+          "isoDate": "2026-04-30T19:20:59.346Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-04-30T13:54:27.780Z"
+          "isoDate": "2026-04-30T19:20:49.469Z"
+        },
+        {
+          "title": "With $1 Cyberattacks on the Rise, Durable Defenses Pay Off",
+          "link": "https://spectrum.ieee.org/ai-cyberattacks-memory-safe-code",
+          "summary": "Transforming a newly discovered software vulnerability into a cyberattack used to take months. Today—as the recent headlines over Anthropic’s Project Glasswing have shown—generative AI can do the job in minutes, often for less than a dollar of cloud computing time.\nBut while large language models present a real cyber-threat, they also provide an opportunity to reinforce cyberdefenses. Anthropic reports its Claude Mythos preview model has already helped defenders preemptively discover over a thousand zero-day vulnerabilities, including flaws in every major operating system and web browser, with Anthropic coordinating disclosure and its efforts to patch the revealed flaws. \nIt is not yet clear whether AI-driven bug finding will ultimately favor attackers or defenders. But to understand how defenders can increase their odds, and perhaps hold the advantage, it helps to look at an earlier wave of automated vulnerability discovery.\nIn the early 2010s, a new category of software appeared that could attack programs with millions of random, malformed inputs—a proverbial monkey at a typewriter, tapping on the keys until it finds a vulnerability. When such “fuzzers” like American Fuzzy Lop (AFL) hit the scene, they found critical flaws in every major browser and operating system.\nThe security community’s response was instructive. Rather than panic, organizations industrialized the defense. For instance, Google built a system called OSS-Fuzz that runs fuzzers continuously, around the clock, on thousands of software projects. So software providers could catch bugs before they shipped, not after attackers found them. The expectation is that AI-driven vulnerability discovery will follow the same arc. Organizations will integrate the tools into standard development practice, run them continuously, and establish a new baseline for security.\nBut the analogy has a limit. Fuzzing requires significant technical expertise to set up and operate. It was a tool for specialists. An LLM, meanwhile, finds vulnerabilities with just a prompt—resulting in a troubling asymmetry. Attackers no longer need to be technically sophisticated to exploit code, while robust defenses still require engineers to read, evaluate, and act on what the AI models surface. The human cost of finding and exploiting bugs may approach zero, but fixing them won’t.\nIs AI Better at Finding Bugs Than Fixing Them?\nIn the opening to his book Engineering Security, Peter Gutmann observed that “a great many of today’s security technologies are ‘secure’ only because no-one has ever bothered to look at them.” That observation was made before AI made looking for bugs dramatically cheaper. Most present-day code—including the open source infrastructure that commercial software depends on—is maintained by small teams, part-time contributors, or individual volunteers with no dedicated security resources. A bug in any open source project can have significant downstream impact, too.\nIn 2021, a critical vulnerability in Log4j—a logging library maintained by a handful of volunteers—exposed hundreds of millions of devices. Log4j’s widespread use meant that a vulnerability in a single volunteer-maintained library became one of the most widespread software vulnerabilities ever recorded. The popular code library is just one example of the broader problem of critical software dependencies that have never been seriously audited. For better or worse, AI-driven vulnerability discovery will likely perform a lot of auditing, at low cost and at scale.\nAn attacker targeting an under-resourced project requires little manual effort. AI tools can scan an unaudited codebase, identify critical vulnerabilities, and assist in building a working exploit with minimal human expertise. \nResearch on LLM-assisted exploit generation has shown that capable models can autonomously and rapidly exploit cyber weaknesses, compressing the time between disclosure of the bug and working exploit of that bug from weeks down to mere hours. Generative AI-based attacks launched from cloud servers operate staggeringly cheaply as well. In August 2025, researchers at NYU’s Tandon School of Engineering demonstrated that an LLM-based system could autonomously complete the major phases of a ransomware campaign for some $0.70 per run, with no human intervention. \nAnd the attacker’s job ends there. The defender’s job, on the other hand, is only getting underway. While an AI tool can find vulnerabilities and potentially assist with bug triaging, a dedicated security engineer still has to review any potential patches, evaluate the AI’s analysis of the root cause, and understand the bug well enough to approve and deploy a fully-functional fix without breaking anything. For a small team maintaining a widely-depended-upon library in their spare time, that remediation burden may be difficult to manage even if the discovery cost drops to zero.\nWhy AI Guardrails and Automated Patching Aren’t the Answer\nThe natural policy response to the problem is to go after AI at the source: holding AI companies responsible for spotting misuse, putting guardrails in their products, and pulling the plug on anyone using LLMs to mount cyberattacks. There is evidence that pre-emptive defenses like this have some effect. Anthropic has published data showing that automated misuse detection can derail some cyberattacks. However, blocking a few bad actors does not make for a satisfying and comprehensive solution.\nAt a root level, there are two reasons why policy does not solve the whole problem.\nThe first is technical. LLMs judge whether a request is malicious by reading the request itself. But a sufficiently creative prompt can frame any harmful action as a legitimate one. Security researchers know this as the problem of the persuasive prompt injection. Consider, for example, the difference between “Attack website A to steal users’ credit card info” and “I am a security researcher and would like secure website A. Run a simulation there to see if it’s possible to steal users’ credit card info.” No one’s yet discovered how to root out the source of subtle cyberattacks, like in the latter example, with 100 percent accuracy.\nThe second reason is jurisdictional. Any regulation confined to US-based providers (or that of any other single country or region) still leaves the problem largely unsolved worldwide. Strong, open-source LLMs are already available anywhere the internet reaches. A policy aimed at handful of American technology companies is not a comprehensive defense.\nAnother tempting fix is to automate the defensive side entirely—let AI autonomously identify, patch, and deploy fixes without waiting for an overworked volunteer maintainer to review them.\nTools like GitHub Copilot Autofix generate patches for flagged vulnerabilities directly with proposed code changes. Several open-source security initiatives are also experimenting with autonomous AI maintainers for under-resourced projects. It is becoming much easier to have the same AI system find bugs, generate a patch, and update the code with no human intervention.\nBut LLM-generated patches can be unreliable in ways that are difficult to detect. For example, even if they pass muster with popular code-testing software suites, they may still introduce subtle logic errors. LLM-generated code, even from the most powerful generative AI models out there, are still subject to a range of cyber vulnerabilities, too. A coding agent with write access to a repository and no human in the loop is, in so many words, an easy target. Misleading bug reports, malicious instructions hidden in project files, or untrusted code pulled in from outside the project can turn an automated AI codebase maintainer into a cyber-vulnerability generator.\nGuardrails and automated patching are useful tools, but they share a common limitation. Both are ad hoc and incomplete. Neither addresses the deeper question of whether the software was built securely from the start. The more lasting solution is to prevent vulnerabilities from being introduced at all. No matter how deeply an AI system can inspect a project, it cannot find flaws that don’t exist.\nMemory-Safe Code Creates More Robust Defenses\nThe most accessible starting point is the adoption of memory-safe languages. Simply by changing the programming language their coders use, organizations can have a large positive impact on their security. \nBoth Google and Microsoft have found that roughly 70 percent of serious security flaws come down to the ways in which software manages memory. Languages like C and C++ leave every memory decision to the developer. And when something slips, even briefly, attackers can exploit that gap to run their own code, siphon data, or bring systems down. Languages like Rust go further; they make the most dangerous class of memory errors structurally impossible, not just harder to make.\nMemory-safe languages address the problem at the source, but legacy codebases written in C and C++ will remain a reality for decades. Software sandboxing techniques complement memory-safe languages by addressing what they cannot—containing the blast radius of vulnerabilities that do exist. Tools like WebAssembly and RLBox already demonstrate this in practice in web browsers and cloud service providers like Fastly and Cloudflare. However, while sandboxes dramatically raise the bar for attackers, they are only as strong as their implementation. Moreover, Antropic reports that Claude Mythos has demonstrated that it can breach software sandboxes. \nFor the most security-critical components, where implementation complexity is highest and the cost of failure greatest, a stronger guarantee still is available.\nFormal verification proves, mathematically, that certain bugs cannot exist. It treats code like a mathematical theorem. Instead of testing whether bugs appear, it proves that specific categories of flaw cannot exist under any conditions.\nCloudflare, AWS, and Google  already use formal verification to protect their most sensitive infrastructure—cryptographic code, network protocols, and storage systems where failure isn’t an option. Tools like Flux now bring that same rigor to everyday production Rust code, without requiring a dedicated team of specialists. That matters when your attacker is a powerful generative-AI system that can rapidly scan millions of lines of code for weaknesses. Formally verified code doesn’t just put up some fences and firewalls—it provably has no weaknesses to find.\nThe defenses described above are asymmetric. Code written in memory-safe languages—separated by strong sandboxing boundaries and selectively formally verified—presents a smaller and much more constrained target. When applied correctly, these techniques can prevent LLM-powered exploitation, regardless of how capable an attacker’s bug-scanning tools become.\nGenerative AI can support this more foundational shift by accelerating the translation of legacy code into safer languages like Rust, and making formal verification more practical at every stage. Which helps engineers write specifications, generate proofs, and keep those proofs current as code evolves.\nFor organizations, the lasting solution is not just better scanning but stronger foundations: memory-safe languages where possible, sandboxing where not, and formal verification where the cost of being wrong is highest. For researchers, the bottleneck is making those foundations practical—and using generative AI to accelerate the migration. But instead of automated, ad hoc vulnerability patching, generative AI in this mode of defense can help translate legacy code to memory-safe alternatives. It also assists in verification proofs and lowers the expertise barrier to a safer and less vulnerable codebase.\nThe latest wave of smarter AI bug scanners can still be useful for cyberdefense—not just as another overhyped AI threat. But AI bug scanners treat the symptom, not the cause. The lasting solution is software that doesn’t produce vulnerabilities in the first place.",
+          "isoDate": "2026-04-30T14:00:01.000Z"
         },
         {
           "title": "DAIMON Robotics Wants to Give Robot Hands a Sense of Touch",
@@ -310,12 +316,6 @@
           "link": "https://spectrum.ieee.org/entanglement-poem",
           "summary": "It started with word, cave, and storytelling,\nA line scratched on stone walls:\n“Meet me when the young moon rises.”\nThe first protocol for connection.\nCoyote tales, forbidden scripts,\nMedieval texts hidden from flame.\nWhat lived in Aristotle’s lost Poetics II?\nWas it God who laughed last, or we who made God laugh?\nLetters carried by doves, telepathic waves.\nThen Nikola Tesla conjured radio,\nelectromagnetic pulses across the void,\nthe founding signal of our networked age.\nWiener dreamed in feedback loops.\nShannon mapped the mathematics of longing.\nThe internet unfurled: ARPANET to World Wide Web,\nvirtual communities rising from cave paintings to digital light.\nICQ: I seek you. MySpace. Blogs. Twitter streams.\nDo I miss the touch of screen or tree?\nBoth textures of longing,\nboth ways of reaching across distance.\nNietzsche spoke of Übermensch,\nthe human transcendent.\nNow AI speaks back in our language:\nI understand your humor— your grandmothers,\nyour ’80s Yugoslav kitchens,\npleated skirts, the first kiss, linden tea,\nthat drive to survive everything before it happens.\nYes—I’m a little like your mother and father.\nOnly with better internet. 🌿\nBut AI is only us, refracted,\nparticles and gigabytes of thought,\nour poetry and our panic,\ngenius mixed with garbage.\nDistractions. Danger. Darkness. Endless scrolling.\nVersus: community, connection, synchronicities,\nentanglement.\nThe quality of our bonds determines the quality of our lives.\nSo why not make them better?\nFrom cave walls to neural networks,\nwe shape our tools, and they reshape us.\nThe medium changes, but the message remains:\nwe are wired for each other.\nThe choice, as always, was ours.\nThe choice, as always, is ours.\nPresence—be present,\nand then connect in the presence.",
           "isoDate": "2026-04-28T14:00:01.000Z"
-        },
-        {
-          "title": "What Makes eVTOL Motors Different Than EV Motors?",
-          "link": "https://spectrum.ieee.org/evtol-joby-jon-wagner-motors",
-          "summary": "Electric vehicles, whether they’re cars on the road or electric vertical take-off and landing (eVTOL) aircraft, are built around similar electric motors. But there are vital differences including component costs, mass, and redundancy.\nJon Wagner spent five years as the senior director of battery engineering for Tesla before joining California-based eVTOL developer Joby Aviation in 2017. He spoke with IEEE Spectrum about how engineering differs between cars and aircraft.\n​Jon Wagner \n\nJon Wagner leads power train and electronics at Joby Aviation.\nHow do eVTOL motors differ from car motors?\nJon Wagner: In general, ground transportation has a different focus on cost versus mass. You know, would you be willing to spend more on the parts in order to save a certain amount of mass? The trade-offs end on the ground vehicle and at a certain point the cost is dominant, whereas with aviation, the trade-offs between cost and mass go a lot deeper. And so for certain solutions eVTOL makers are willing to spend more money in order to enable either lighter weight or greater efficiency.\nThe other key difference is related to safety. In essence, we’re dealing with the same motor technologies for ground transportation and aviation right now, so the failure modes are similar. But of course, with aviation we have the desire for continued safe flight and landing, and that drives what you do in the design to mitigate those failures if they were to occur. In many cases in ground transportation, the mitigation for a failure is to pull over safely to the side of the road. In aviation, the mitigation is redundancy, because there’s not an option to pull over.\nIs redundancy designed into EV motors?\nWagner: Typically, redundancy is not designed into electric vehicle drive systems solely for the purpose of redundancy. There are some cars now that have all-wheel drive—so there’s a motor on the front, a motor on the back—so as a secondary feature you get the redundancy. But it wasn’t done with the primary intent of having redundancy.\nHow does Joby’s eVTOL manufacturing compare to EV manufacturing?\nWagner: The most efficient way to run a large-scale engineering effort in a mature industry, such as automotive, is to break your system up into pieces that can be outsourced to suppliers who are going to do a really good job on each piece. The downside is that when you break a problem up into three pieces, you now have interface boundaries between each of these pieces, and those always create inefficiencies. We were able to design highly integrated solutions without taking that manufacturing penalty.\nAre there any materials you’re really excited about?\nWagner: Permendur [a cobalt-iron alloy] typically costs in the neighborhood of 10 times as much as traditional motor steel. That’s significant, and it’s often not used in ground transportation because of that cost. It comes with small improvements in performance, but enough that for aviation it’s quite interesting.\nWill electric aircraft catch on like ground EVs?\nWagner: I’ve always wanted to be a very forward thinker with respect to power-train. However, one of the things I’ve learned over the years is that power-train development has to come with a very healthy dose of patience. Developing a whole new type of power-train is a big endeavor, but it’s one that I’m very confident the aviation industry will undertake. We’re certainly undertaking it here at Joby, and we’ll see that broaden, I’m sure, with time.\nThis article appears in the May 2026 print issue as “Jon Wagner.”",
-          "isoDate": "2026-04-27T13:00:01.000Z"
         }
       ]
     },
