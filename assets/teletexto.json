@@ -1,69 +1,69 @@
 {
-  "generatedAt": "2026-05-01T08:11:06.904Z",
+  "generatedAt": "2026-05-01T13:17:43.210Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
         {
+          "title": "Oura adds birth control support to its period tracker",
+          "link": "https://www.theverge.com/tech/921955/oura-hormonal-birth-control-tracking-update",
+          "summary": "Here’s an example of what the new Hormonal Birth Control support will look like when it rolls out on May 6th. | Image: Oura\t\n\nOura is launching a new reproductive health feature that takes hormonal contraception into consideration when tracking period cycles. The smart ring maker describes the Hormonal Birth Control update as a \"first-of-its-kind experience\" inside Oura's existing Cycle Insights feature, allowing users to see how over 20 combinations of hormonal birth control methods - including pills, patches, IUDs, and implants - can affect their overall biometric data.\nThe feature will begin rolling out globally on May 6th. It's designed to show the impact that hormonal contraception may have on temperature patterns, sleep, and recovery, and can help users to t …\nRead the full story at The Verge.",
+          "isoDate": "2026-05-01T13:00:00.000Z"
+        },
+        {
+          "title": "The Download: a new Christian phone network, and debugging LLMs",
+          "link": "https://www.technologyreview.com/2026/05/01/1136762/the-download-christian-phone-network-debugging-llms/",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A new US phone network for Christians aims to block porn and gender-related content A new US-wide cell phone network marketed to Christians is set to launch next week. It blocks…",
+          "isoDate": "2026-05-01T12:10:00.000Z"
+        },
+        {
+          "title": "Microsoft wants lawyers to trust its new AI agent in Word documents",
+          "link": "https://www.theverge.com/news/921944/microsoft-word-legal-agent-ai",
+          "summary": "Microsoft is launching a new AI agent inside Word that's specifically designed for legal teams. Legal Agent handles document edits, negotiation history, and complex documents to help legal teams handle tasks like reviewing contracts.\n\"Instead of relying on general AI models to interpret commands, the agent follows structured workflows shaped by real legal practice, managing clearly defined, repeatable tasks like reviewing contracts clause by clause against a playbook,\" explains Sumit Chauhan, corporate vice president of Microsoft's Office Product Group. \nThe Legal Agent can work with existing documents that have tracked changes, and analyz …\nRead the full story at The Verge.",
+          "isoDate": "2026-05-01T11:18:54.000Z"
+        },
+        {
+          "title": "There's a lot of hype about Chinese EVs—is any of it true?",
+          "link": "https://arstechnica.com/cars/2026/05/theres-a-lot-of-hype-about-chinese-evs-is-any-of-it-true/",
+          "summary": "In addition to being full of screens, China now wants its cars to be packed with AI.",
+          "isoDate": "2026-05-01T11:00:15.000Z"
+        },
+        {
+          "title": "Dyson finally made a better robot, but a worse vacuum",
+          "link": "https://www.theverge.com/tech/921136/dyson-spot-scrub-ai-wet-dry-robot-vacuum-cleaner-review",
+          "summary": "The Dyson Spot + Scrub Ai is Dyson’s first combination robot vacuum and mop. | Photo by Jennifer Pattison Tuohy / The Verge\t\n\nI'm deeply conflicted about the Dyson Spot + Scrub Ai robot vacuum and mop. It's the company's best robotic floor cleaner to date, with excellent mopping performance, good navigation and obstacle detection, and a multifunction dock that takes much of the busywork off your hands. But Dyson's first attempt at a vacuum-and-mop combo is a worse vacuum than its predecessors, and that's because there's no Dyson motor in this vacuum.\nYou read that right. For $1,200, the Spot + Scrub doesn't get you a Dyson vacuum; instead, you're getting a third-party motor and brush system. \"It's not one of our V10 motors, it's one of our partner technologies,\" N …\nRead the full story at The Verge.",
+          "isoDate": "2026-05-01T11:00:00.000Z"
+        },
+        {
+          "title": "Dyson put someone else’s motor in its robot vacuum",
+          "link": "https://www.theverge.com/tech/921432/dyson-robot-vacuum-motor-picea",
+          "summary": "Dyson’s newest robot vacuum adds mopping capabilities but takes away the Dyson motor of its predecessor. | Photo by Jennifer Pattison Tuohy / The Verge\t\n\nDyson, a company built on engineering high-speed motors, has confirmed to The Verge that its newest robot vacuum doesn't use a Dyson motor. The recently launched Spot & Scrub Ai robot vacuum and mop was \"co-engineered,\" Nathan Lawson McLean, senior design manager at Dyson, told The Verge. \nAccording to Lawson McLean, the device merges \"new and already existing Dyson technologies with other platforms.\" Specifically, the new lidar-based navigation tech and the robot's vacuum motor were developed by a third party. \"It's not one of our V10 motors; it's one of our partner technologies,\" said Lawson McLean.\n\n\"It's not one of our V10 motors, it's  …\n\nRead the full story at The Verge.",
+          "isoDate": "2026-05-01T11:00:00.000Z"
+        },
+        {
+          "title": "Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining",
+          "link": "https://www.technologyreview.com/2026/05/01/1136734/inexpensive-seafloor-hopping-submersibles-could-stoke-deep-sea-science-and-mining/",
+          "summary": "Smack dab between Australia and South America, the US National Oceanic and Atmospheric Administration (NOAA) research vessel Rainier is currently on a mission to map more than 8,000 square nautical miles of the Pacific seafloor in search of critical mineral deposits. But it isn’t doing it alone; for a month starting this week, it will…",
+          "isoDate": "2026-05-01T10:00:00.000Z"
+        },
+        {
+          "title": "Trump’s mass firing just dealt another blow to American science",
+          "link": "https://www.technologyreview.com/2026/05/01/1136722/mass-firing-trump-fresh-blow-american-science-nsf-nsb/",
+          "summary": "This past week delivered another gut punch for science in the US. This time, the target was the National Science Foundation—a federal agency that funds major research projects to the tune of around $9 billion. The foundation’s efforts were overseen by a board of 22 prominent scientists. On Friday last week, they were all fired.…",
+          "isoDate": "2026-05-01T09:00:00.000Z"
+        },
+        {
+          "title": "A new US phone network for Christians aims to block porn and gender-related content",
+          "link": "https://www.technologyreview.com/2026/05/01/1136739/a-new-t-mobile-network-for-christians-aims-to-block-porn-and-gender-related-content/",
+          "summary": "A new US-wide cell phone network marketed to Christians is set to launch next week. It blocks porn, which experts in network security say marks the first time a US cell plan has used network-level blocking for such content that can’t be turned off even by adult account owners. It’s also rolling out a filter…",
+          "isoDate": "2026-05-01T09:00:00.000Z"
+        },
+        {
           "title": "The craziest part of Musk v. Altman happened while the jury was out of the room",
           "link": "https://www.theverge.com/ai-artificial-intelligence/921713/musk-v-altman-jared-birchall-screw-up-xai",
           "summary": "Okay, I am not a lawyer so I only understood about half of what just happened. But I am fairly sure, given the context, that Elon Musk's lawyers may have just fucked up big.\nJared \"James Brickhouse\" Birchall, Musk's finance guy and all-around fixer, took the stand after Musk today. Most of his testimony was dull and seemed to exist primarily to get some documents read into the record, which sucks but is a normal part of sitting through trials. But at the very end of his boring testimony something interesting happened. I believe we all got a surprise, something that rarely happens in courtrooms.\nThe lawyer conducting his direct examination  …\nRead the full story at The Verge.",
           "isoDate": "2026-04-30T22:59:51.000Z"
-        },
-        {
-          "title": "Trump nominates Fox News doctor to be the next surgeon general",
-          "link": "https://arstechnica.com/health/2026/04/trump-nominates-fox-news-doctor-to-be-the-next-surgeon-general/",
-          "summary": "Trump lashes out at Cassidy while announcing his new nomination.",
-          "isoDate": "2026-04-30T22:09:36.000Z"
-        },
-        {
-          "title": "US falls below Ukraine in press freedom as global autocracy takes hold",
-          "link": "https://arstechnica.com/tech-policy/2026/04/us-falls-below-ukraine-in-press-freedom-as-global-autocracy-takes-hold/",
-          "summary": "\"In 25 years, the average score... has never been so low.\"",
-          "isoDate": "2026-04-30T21:53:48.000Z"
-        },
-        {
-          "title": "Russia cloaks launch schedule after spaceport falls in Ukraine's sights",
-          "link": "https://arstechnica.com/space/2026/04/russian-cloaks-launch-schedule-after-spaceport-falls-in-ukraines-sights/",
-          "summary": "\"We had serious inbound attempts to the cosmodrome that day.\"",
-          "isoDate": "2026-04-30T21:35:02.000Z"
-        },
-        {
-          "title": "Roblox’s daily users continue to drop as age checks slow growth",
-          "link": "https://www.theverge.com/games/921694/roblox-q1-2026-132-million-dau",
-          "summary": "Roblox's daily active users continued to slip last quarter due in part to its rollout of age checks on its platform. According to its latest earnings report, Roblox currently has 132 million daily active users globally, down from 144 million at the end of last year, which was a drop from 152 million in Q3 2025. In the US and Canada, the number of active users dropped by one million from the previous quarter, while Roblox's revenue still grew to $1.4 billion.\nRoblox says Q1 growth was \"tempered by greater-than-expected headwinds\" due to the rollout of its age-check features, which \"slowed new user acquisition.\" Russia's December 2025 ban on  …\nRead the full story at The Verge.",
-          "isoDate": "2026-04-30T21:25:15.000Z"
-        },
-        {
-          "title": "Elon Musk's 7 biggest stumbles on the stand at OpenAI trial",
-          "link": "https://arstechnica.com/tech-policy/2026/04/elon-musks-7-biggest-stumbles-on-the-stand-at-openai-trial/",
-          "summary": "Elon Musk spent three days testifying as the first witness in his trial against OpenAI.",
-          "isoDate": "2026-04-30T21:11:51.000Z"
-        },
-        {
-          "title": "Congress keeps kicking surveillance reform down the road",
-          "link": "https://www.theverge.com/policy/921652/congress-fisa-section-702-45-day-extension",
-          "summary": "Congress has reauthorized Section 702 of the Foreign Intelligence Surveillance Act - but only for another 45 days. The extension is meant to give legislators more time to negotiate reforms to the controversial wiretapping bill. If the past few weeks are any indication of how future debates will go, however, we're in for a bumpy ride.\nThe House renewed Section 702 with minor reforms on Wednesday evening. The bill didn't include the hotly debated warrant requirement, but it did feature a provision prohibiting the Federal Reserve from issuing Central Bank Digital Currencies, which Senate Majority Leader John Thune (R-SD) described as a nonstar …\nRead the full story at The Verge.",
-          "isoDate": "2026-04-30T20:59:58.000Z"
-        },
-        {
-          "title": "Apple&#8217;s iPhone revenue jumps to $57 billion despite chip shortages",
-          "link": "https://www.theverge.com/tech/921527/apple-iphone-revenue-q2-2026-earnings",
-          "summary": "Apple's iPhone revenue jumped 22 percent to $57 billion over the past few months, despite supply chain issues impacting the device's processor. In an interview with Reuters, Apple CEO Tim Cook said iPhone \"demand was off the charts,\" but there's \"a little less flexibility at the moment for getting more parts.\" Cook added during an earnings call that supply constraints could come for Mac, too, \"given the continued high levels of demand that we're seeing.\"\nApple earned $111.2 billion in revenue during the second quarter of 2026, its \"best March quarter ever,\" according to Cook. This latest earnings report comes a little over a week after the  …\nRead the full story at The Verge.",
-          "isoDate": "2026-04-30T20:58:22.000Z"
-        },
-        {
-          "title": "The most severe Linux threat to surface in years catches the world flat-footed",
-          "link": "https://arstechnica.com/security/2026/04/as-the-most-severe-linux-threat-in-years-surfaces-the-world-scrambles/",
-          "summary": "CopyFail threatens multi-tenant servers, CI/CD work flows, Kubernetes containers, and more.",
-          "isoDate": "2026-04-30T20:20:48.000Z"
-        },
-        {
-          "title": "Rivian’s revenue is up as R2 production kicks into gear",
-          "link": "https://www.theverge.com/transportation/921295/rivian-q1-2026-earnings-revenue-profit-r2",
-          "summary": "Rivian reported its first quarter earnings of 2026, providing us a closer look at the company's financial health as it kicks off production for the crucial R2 electric vehicle. \nWe've already got Rivian's production and delivery statement from the first three months of the year. The company sold 10,365 vehicles in Q1, representing 20 percent increase year over year. And it produced 10,236 vehicles at its factory in Normal, Illinois, which represents a 30 percent increase compared to the same period last year. The company also reaffirmed its prediction that it will sell 62,000-67,000 vehicles this year.\nIn terms of earnings, Rivian said it  …\nRead the full story at The Verge.",
-          "isoDate": "2026-04-30T20:05:00.000Z"
         }
       ]
     },
@@ -72,10 +72,40 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "Hubble Spots a Starry Spiral",
+          "link": "https://science.nasa.gov/missions/hubble/hubble-spots-a-starry-spiral/",
+          "summary": "In this new picture from NASA’s Hubble Space Telescope, a spiral galaxy glittering with star clusters is the center of attention. NGC 3137 is located 53 million light-years away in the constellation Antlia (the Air Pump). As a nearby spiral galaxy, this target offers astronomers an excellent opportunity to study the cycle of stellar birth and death, […]",
+          "isoDate": "2026-05-01T11:48:55.000Z"
+        },
+        {
           "title": "Cyclone Rains Spur Papua New Guinea Landslides",
           "link": "https://science.nasa.gov/earth/earth-observatory/cyclone-rains-spur-papua-new-guinea-landslides/",
           "summary": "Heavy rains from Tropical Cyclone Maila triggered a deadly landslide in the mountains of East New Britain.",
           "isoDate": "2026-05-01T04:01:00.000Z"
+        },
+        {
+          "title": "The imperfect legacy",
+          "link": "https://www.nature.com/articles/d41586-026-01075-w",
+          "summary": "Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01075-w\nNot a bug, but a feature.",
+          "isoDate": "2026-05-01T00:00:00.000Z"
+        },
+        {
+          "title": "US faculty members report high levels of anxiety",
+          "link": "https://www.nature.com/articles/d41586-026-01252-x",
+          "summary": "Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01252-x\nSurveys show the importance of social, familial and structural support in lowering anxiety, particularly for people in health professions.",
+          "isoDate": "2026-05-01T00:00:00.000Z"
+        },
+        {
+          "title": "The exotic particles that could finally break the Standard Model",
+          "link": "https://www.nature.com/articles/d41586-026-01387-x",
+          "summary": "Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01387-x\n‘Penguin’ decays from CERN’s latest Large Hadron Collider experiment hint at weird new physics.",
+          "isoDate": "2026-05-01T00:00:00.000Z"
+        },
+        {
+          "title": "The news is not all bad: five inspiring science stories to lift your mood",
+          "link": "https://www.nature.com/articles/d41586-026-01290-5",
+          "summary": "Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01290-5\nSpecies recovery, cancer-preventing vaccines and progress in developing renewable-energy sources are just some of the positive developments that have happened this year so far.",
+          "isoDate": "2026-05-01T00:00:00.000Z"
         },
         {
           "title": "This organoid can menstruate — and shows how tissue can repair itself",
@@ -100,36 +130,6 @@
           "link": "https://science.nasa.gov/solar-system/whats-up-may-2026-skywatching-tips-from-nasa/",
           "summary": "Shooting stars before dawn, a brilliant meetup between the Moon and Venus and a rare blue moon to end the month.",
           "isoDate": "2026-04-30T18:13:34.000Z"
-        },
-        {
-          "title": "Artemis III Moon Rocket Core Stage on the Move",
-          "link": "https://www.nasa.gov/image-article/artemis-iii-moon-rocket-core-stage-on-the-move/",
-          "summary": "Teams move the core stage, or largest section, of the SLS (Space Launch System) rocket for NASA’s Artemis III mission into the Vehicle Assembly Building at the agency’s Kennedy Space Center in Florida in this photo from April 27, 2026. The SLS core stage traveled 900 miles on the Pegasus barge from NASA’s Michoud Assembly Facility in New Orleans where the stage is manufactured, to complete […]",
-          "isoDate": "2026-04-30T17:39:07.000Z"
-        },
-        {
-          "title": "NASA Welcomes Morocco as 64th Artemis Accords Signatory ",
-          "link": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-morocco-as-64th-artemis-accords-signatory/",
-          "summary": "The Kingdom of Morocco signed the Artemis Accords on April 29th during a ceremony in the country’s capital, Rabat, becoming the latest nation to commit to the responsible exploration of space. “It is my privilege to welcome the Kingdom of Morocco as the newest signatory to the Artemis Accords,” said NASA Administrator Jared Isaacman in […]",
-          "isoDate": "2026-04-30T17:31:51.000Z"
-        },
-        {
-          "title": "NASA Goddard’s Greenbelt Visitor Center Marks 50th Anniversary",
-          "link": "https://www.nasa.gov/centers-and-facilities/goddard/nasa-goddards-greenbelt-visitor-center-marks-50th-anniversary/",
-          "summary": "Trimmed in bicentennial pageantry, NASA opened a visitor center at its Goddard campus in Greenbelt, Maryland, in May 1976. Fifty years on, the Goddard Visitor Center continues to inspire through exhibits and programs on the past, present, and future of space exploration. “NASA’s 1958 charter tasks us with sharing our work as broadly as we […]",
-          "isoDate": "2026-04-30T17:13:07.000Z"
-        },
-        {
-          "title": "NASA Explores Prioritizing First Response Drones in Crowded Skies",
-          "link": "https://www.nasa.gov/centers-and-facilities/ames/nasa-explores-prioritizing-first-response-drones-in-crowded-skies/",
-          "summary": "Our streets are crowded with commuters and delivery vehicles, but when a police car or fire engine approaches with its lights and sirens on, drivers clear the way. In the coming years, drones for deliveries and other commercial tasks will become common in the skies over our communities, and NASA is working to ensure first […]",
-          "isoDate": "2026-04-30T16:54:12.000Z"
-        },
-        {
-          "title": "Lymphoid tissue chemokines limit priming duration to preserve CD8+ T cell functionality",
-          "link": "https://www.science.org/doi/abs/10.1126/science.adq2080?af=R",
-          "summary": "Science, Volume 392, Issue 6797, April 2026.",
-          "isoDate": "2026-04-30T07:00:00.000Z"
         }
       ]
     },
@@ -141,19 +141,25 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-05-01T08:11:02.572Z"
+          "isoDate": "2026-05-01T13:17:36.864Z"
+        },
+        {
+          "title": "Spotify adds 'Verified' badges to distinguish human artists from AI",
+          "link": "https://www.bbc.com/news/articles/c5yerr4m1yno?at_medium=RSS&at_campaign=rss",
+          "summary": "The music streaming platform will review criteria such as artists' live dates and social media presence.",
+          "isoDate": "2026-05-01T11:29:35.000Z"
+        },
+        {
+          "title": "Apple says iPhone 17 'most popular ever' as sales soar",
+          "link": "https://www.bbc.com/news/articles/ce8pdk3l4d2o?at_medium=RSS&at_campaign=rss",
+          "summary": "The record results come as boss Tim Cook is preparing to bow out after 15 years at the helm.",
+          "isoDate": "2026-05-01T09:33:43.000Z"
         },
         {
           "title": "Will AI lead to more accurate opinion polls?",
           "link": "https://www.bbc.com/news/articles/cwyw6rylzepo?at_medium=RSS&at_campaign=rss",
           "summary": "It's cheaper and faster to collect people's opinions using AI, but will it make polls more accurate?",
           "isoDate": "2026-04-30T23:11:37.000Z"
-        },
-        {
-          "title": "Apple hails 'extraordinary' iPhone demand as boss Tim Cook heads out",
-          "link": "https://www.bbc.com/news/articles/ce8pdk3l4d2o?at_medium=RSS&at_campaign=rss",
-          "summary": "Cook is preparing to bow out after 15 years at the helm and hand over to John Ternus.",
-          "isoDate": "2026-04-30T23:04:43.000Z"
         },
         {
           "title": "Twitch streamer hit by car live on camera - 'It felt like slow motion'",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.com/news/articles/cz027nyz529o?at_medium=RSS&at_campaign=rss",
           "summary": "The case over OpenAI's history and public commitments could have major implications for the future of AI.",
           "isoDate": "2026-04-29T10:12:46.000Z"
-        },
-        {
-          "title": "Tech Life",
-          "link": "https://www.bbc.co.uk/sounds/play/w3ct8jxs?at_medium=RSS&at_campaign=rss",
-          "summary": "Workers train AI to identify everyday objects by labelling items in photos and videos.",
-          "isoDate": "2026-04-28T19:32:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-05-01T08:11:05.416Z"
+          "isoDate": "2026-05-01T13:17:41.767Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-05-01T08:11:04.480Z"
+          "isoDate": "2026-05-01T13:17:38.761Z"
         },
         {
           "title": "With $1 Cyberattacks on the Rise, Durable Defenses Pay Off",
