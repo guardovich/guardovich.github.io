@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T03:22:16.477Z",
+  "generatedAt": "2026-05-01T08:11:06.904Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
@@ -72,6 +72,12 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "Cyclone Rains Spur Papua New Guinea Landslides",
+          "link": "https://science.nasa.gov/earth/earth-observatory/cyclone-rains-spur-papua-new-guinea-landslides/",
+          "summary": "Heavy rains from Tropical Cyclone Maila triggered a deadly landslide in the mountains of East New Britain.",
+          "isoDate": "2026-05-01T04:01:00.000Z"
+        },
+        {
           "title": "This organoid can menstruate — and shows how tissue can repair itself",
           "link": "https://www.nature.com/articles/d41586-026-01428-5",
           "summary": "Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01428-5\nMini models of the uterus lining give insight into mystery of how it is shed without scarring.",
@@ -124,12 +130,6 @@
           "link": "https://www.science.org/doi/abs/10.1126/science.adq2080?af=R",
           "summary": "Science, Volume 392, Issue 6797, April 2026.",
           "isoDate": "2026-04-30T07:00:00.000Z"
-        },
-        {
-          "title": "Disordered protein LAT encodes relative levels of signaling pathways in T cell activation",
-          "link": "https://www.science.org/doi/abs/10.1126/science.ads6847?af=R",
-          "summary": "Science, Volume 392, Issue 6797, April 2026.",
-          "isoDate": "2026-04-30T07:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-05-01T03:22:12.976Z"
+          "isoDate": "2026-05-01T08:11:02.572Z"
         },
         {
           "title": "Will AI lead to more accurate opinion polls?",
@@ -204,6 +204,18 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "Beacon Biosignals is mapping the brain during sleep",
+          "link": "https://news.mit.edu/2026/beacon-biosignals-maps-brain-during-sleep-0501",
+          "summary": "Founded by Jake Donoghue PhD ’19 and former MIT researcher Jarrett Revels, the company is creating an AI-driven platform to help diagnose and treat disease.",
+          "isoDate": "2026-05-01T04:00:00.000Z"
+        },
+        {
+          "title": "Improving understanding with language ",
+          "link": "https://news.mit.edu/2026/improving-understanding-language-olivia-honeycutt-0501",
+          "summary": "MIT senior Olivia Honeycutt investigates how the ways we communicate can shape our views of the world.",
+          "isoDate": "2026-05-01T04:00:00.000Z"
+        },
+        {
           "title": "Enabling a new model for healthcare with AI co-clinician",
           "link": "https://deepmind.google/blog/ai-co-clinician/",
           "summary": "Researching the path to AI-augmented care and development of an AI co-clinician.",
@@ -250,18 +262,6 @@
           "link": "https://news.mit.edu/2026/enabling-privacy-preserving-ai-training-everyday-devices-0429",
           "summary": "A new method could bring more accurate and efficient AI models to high-stakes applications like health care and finance, even in under-resourced settings.",
           "isoDate": "2026-04-29T04:00:00.000Z"
-        },
-        {
-          "title": "Cybersecurity in the Intelligence Age",
-          "link": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
-          "summary": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems.",
-          "isoDate": "2026-04-29T04:00:00.000Z"
-        },
-        {
-          "title": "OpenAI models, Codex, and Managed Agents come to AWS",
-          "link": "https://openai.com/index/openai-on-aws",
-          "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
-          "isoDate": "2026-04-28T00:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-05-01T03:22:15.083Z"
+          "isoDate": "2026-05-01T08:11:05.416Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-05-01T03:22:14.446Z"
+          "isoDate": "2026-05-01T08:11:04.480Z"
         },
         {
           "title": "With $1 Cyberattacks on the Rise, Durable Defenses Pay Off",
