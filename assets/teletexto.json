@@ -1,69 +1,69 @@
 {
-  "generatedAt": "2026-04-30T19:21:01.294Z",
+  "generatedAt": "2026-05-01T03:22:16.477Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
         {
-          "title": "Microsoft’s Xbox mode is now available for all Windows 11 PCs",
-          "link": "https://www.theverge.com/news/921582/microsoft-xbox-mode-windows-11",
-          "summary": "Microsoft is now rolling out its Xbox mode to all Windows 11 PCs. The new Xbox mode adds a full-screen interface to the Xbox PC app, much like Steam's Big Picture Mode, and originally debuted as the Xbox Full Screen Experience (FSE) with Asus' Xbox Ally devices.\n\"Some players in select markets will be able to download the Xbox mode experience today, with availability expanding to more players in those markets over the next several weeks,\" says the Xbox team. You'll be able to get the Xbox mode by installing the latest Windows update for Windows 11.\nXbox mode aims to try and bridge the gap between Xbox consoles and Windows, but its original …\nRead the full story at The Verge.",
-          "isoDate": "2026-04-30T19:14:23.000Z"
+          "title": "The craziest part of Musk v. Altman happened while the jury was out of the room",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/921713/musk-v-altman-jared-birchall-screw-up-xai",
+          "summary": "Okay, I am not a lawyer so I only understood about half of what just happened. But I am fairly sure, given the context, that Elon Musk's lawyers may have just fucked up big.\nJared \"James Brickhouse\" Birchall, Musk's finance guy and all-around fixer, took the stand after Musk today. Most of his testimony was dull and seemed to exist primarily to get some documents read into the record, which sucks but is a normal part of sitting through trials. But at the very end of his boring testimony something interesting happened. I believe we all got a surprise, something that rarely happens in courtrooms.\nThe lawyer conducting his direct examination  …\nRead the full story at The Verge.",
+          "isoDate": "2026-04-30T22:59:51.000Z"
         },
         {
-          "title": "Meta threatens to pull its apps from New Mexico if forced to make ‘technologically impractical’ changes",
-          "link": "https://www.theverge.com/policy/921557/meta-threatens-leaving-new-mexico",
-          "summary": "Mark Zuckerberg. | Image: Cath Virginia / The Verge, Getty Images\t\n\nMeta says it may be forced to pull Facebook, Instagram, and WhatsApp from New Mexico if the attorney general gets his way. The state is demanding a host of changes that the company says are impossible to achieve. \nAfter winning a $375 million jury award against Meta in a trial that argued the company misled users in the state about the safety of its products, New Mexico Attorney General Raúl Torrez is asking the state court to order sweeping changes to the platforms. Among the asks are a prohibition on end-to-end encryption for minors, implementing age verification, and detecting 99 percent of new child sexual abuse material uploaded to its …\nRead the full story at The Verge.",
-          "isoDate": "2026-04-30T19:05:01.000Z"
+          "title": "Trump nominates Fox News doctor to be the next surgeon general",
+          "link": "https://arstechnica.com/health/2026/04/trump-nominates-fox-news-doctor-to-be-the-next-surgeon-general/",
+          "summary": "Trump lashes out at Cassidy while announcing his new nomination.",
+          "isoDate": "2026-04-30T22:09:36.000Z"
         },
         {
-          "title": "With Saros, Housemarque makes a case for doing next-gen games differently",
-          "link": "https://www.theverge.com/games/921391/housemarque-interview-saros-ps5",
-          "summary": "It is generally frowned upon to care too much about appearances. We have a lot of little aphorisms discouraging this - books and their covers, beauty being skin deep, style over substance, that sort of thing. Vanity is a risk. Should one put a disproportionate effort into how a thing looks, then said work may very well be considered shallow. But in the world of big-budget video games? That's how you win. \nVisual fidelity is video game shorthand for progress: how meticulously rendered a mountain is, how dynamically the snow behaves, how a player character raises their hands to touch a wall when the player approaches it just so. This pursuit  …\nRead the full story at The Verge.",
-          "isoDate": "2026-04-30T19:00:45.000Z"
+          "title": "US falls below Ukraine in press freedom as global autocracy takes hold",
+          "link": "https://arstechnica.com/tech-policy/2026/04/us-falls-below-ukraine-in-press-freedom-as-global-autocracy-takes-hold/",
+          "summary": "\"In 25 years, the average score... has never been so low.\"",
+          "isoDate": "2026-04-30T21:53:48.000Z"
         },
         {
-          "title": "All the evidence unveiled so far in Musk v. Altman",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
-          "summary": "The Musk v. Altman trial is underway, and that means exhibits, or the evidence to be presented in court, are being revealed piece by piece. So far, email exchanges, photos, and corporate documents are circulating from the earliest days of OpenAI - and from before the AI lab even had a name. Some high-level takeaways: Nvidia CEO Jensen Huang gave OpenAI an in-demand supercomputer, Musk largely drafted OpenAI's mission and heavily influenced its early structure, OpenAI CEO Sam Altman appeared to want to lean heavily on Y Combinator for early support for OpenAI, OpenAI president Greg Brockman and Ilya Sutskever worried about Musk's level of con …\nRead the full story at The Verge.",
-          "isoDate": "2026-04-30T19:00:00.000Z"
+          "title": "Russia cloaks launch schedule after spaceport falls in Ukraine's sights",
+          "link": "https://arstechnica.com/space/2026/04/russian-cloaks-launch-schedule-after-spaceport-falls-in-ukraines-sights/",
+          "summary": "\"We had serious inbound attempts to the cosmodrome that day.\"",
+          "isoDate": "2026-04-30T21:35:02.000Z"
         },
         {
-          "title": "Exclusive eBook: Inside the stealthy startup that pitched brainless human clones",
-          "link": "https://www.technologyreview.com/2026/04/30/1136684/exclusive-ebook-inside-the-stealthy-startup-that-pitched-brainless-human-clones/",
-          "summary": "The ultimate plan to live forever is a brand new body. This subscriber-only eBook explores R3 Bio, a small startup that has pitched a startling and ethically charged vision for “brainless clones” to serve the role of backup human bodies. by Antonio Regalado March 20, 2026 Related Stories: Access all subscriber-only eBooks:",
-          "isoDate": "2026-04-30T18:42:50.000Z"
+          "title": "Roblox’s daily users continue to drop as age checks slow growth",
+          "link": "https://www.theverge.com/games/921694/roblox-q1-2026-132-million-dau",
+          "summary": "Roblox's daily active users continued to slip last quarter due in part to its rollout of age checks on its platform. According to its latest earnings report, Roblox currently has 132 million daily active users globally, down from 144 million at the end of last year, which was a drop from 152 million in Q3 2025. In the US and Canada, the number of active users dropped by one million from the previous quarter, while Roblox's revenue still grew to $1.4 billion.\nRoblox says Q1 growth was \"tempered by greater-than-expected headwinds\" due to the rollout of its age-check features, which \"slowed new user acquisition.\" Russia's December 2025 ban on  …\nRead the full story at The Verge.",
+          "isoDate": "2026-04-30T21:25:15.000Z"
         },
         {
-          "title": "Elon Musk confirms xAI used OpenAI’s models to train Grok",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/921546/elon-musk-xai-openai-trial-model-distillation",
-          "summary": "In a federal courtroom in California on Thursday, Elon Musk testified that his own AI startup, xAI, has used OpenAI's models to improve its own. \nThe matter at question is model distillation, a common industry practice by which one larger AI model acts as a \"teacher\" of sorts to pass on knowledge to a smaller AI model, the \"student.\" Although it's often used legitimately within companies using one of their own AI models to train another, it's also a practice that's sometimes used by smaller AI labs to try to get their models to mimic the performance of a larger competitor's model. \nAsked on the stand whether he knew what model distillation …\nRead the full story at The Verge.",
-          "isoDate": "2026-04-30T18:16:57.000Z"
+          "title": "Elon Musk's 7 biggest stumbles on the stand at OpenAI trial",
+          "link": "https://arstechnica.com/tech-policy/2026/04/elon-musks-7-biggest-stumbles-on-the-stand-at-openai-trial/",
+          "summary": "Elon Musk spent three days testifying as the first witness in his trial against OpenAI.",
+          "isoDate": "2026-04-30T21:11:51.000Z"
         },
         {
-          "title": "Xbox owners can now disable Quick Resume for specific games",
-          "link": "https://www.theverge.com/games/921504/xbox-update-quick-resume-disable",
-          "summary": "Microsoft has released a new Xbox update that adds a bunch of new features, including the ability to disable Quick Resume for individual games. \nQuick Resume, which lets you swap between your games with minimal wait time, is one of the best features on the Xbox Series X / S consoles. But it can also run into unexpected issues with multiplayer games or titles that require a constant internet connection. \"We've heard your feedback around performance after long periods of inactivity or with games that rely heavily on online connections,\" Microsoft says. \n\nWith Thursday's update, Microsoft also lets you make up to ten groups on their Home scree …\nRead the full story at The Verge.",
-          "isoDate": "2026-04-30T17:51:26.000Z"
+          "title": "Congress keeps kicking surveillance reform down the road",
+          "link": "https://www.theverge.com/policy/921652/congress-fisa-section-702-45-day-extension",
+          "summary": "Congress has reauthorized Section 702 of the Foreign Intelligence Surveillance Act - but only for another 45 days. The extension is meant to give legislators more time to negotiate reforms to the controversial wiretapping bill. If the past few weeks are any indication of how future debates will go, however, we're in for a bumpy ride.\nThe House renewed Section 702 with minor reforms on Wednesday evening. The bill didn't include the hotly debated warrant requirement, but it did feature a provision prohibiting the Federal Reserve from issuing Central Bank Digital Currencies, which Senate Majority Leader John Thune (R-SD) described as a nonstar …\nRead the full story at The Verge.",
+          "isoDate": "2026-04-30T20:59:58.000Z"
         },
         {
-          "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-          "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-          "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. \nThe trial began with jury selection on April 27th, before Elon Musk took the stand on Tuesday as the first witness called, portraying his interest in founding OpenAI as an effort to help save humanity, before returning to the stand on Wednesday, and again for a third day of testimony on Thursday.\nMusk was a cofounder of OpenAI and claims that Altman and cofounder Greg Brockman tricked him into giving the company money, only to turn their backs on their original goal. However, OpenAI says that “This lawsuit has always been a baseless and jealous bid to derail a competitor” in a bid to boost Musk’s own SpaceX / xAI / X companies that have launched Grok as a competitor to ChatGPT.\nIn his lawsuit, Musk is asking for the removal of Altman and Brockman, and for OpenAI to stop operating as a public benefit corporation. Musk has also demanded that OpenAI’s nonprofit receive up to $150 billion in damages he’s asking for if he wins the case.\nHere’s all the latest on the trial between Musk and Altman:\nSecond break of the day.\n\t\t\t\nBirchall cross.\n\t\t\t\nElon Musk confirms xAI used OpenAI’s models to train Grok\n\t\t\t\nBirchall has just been asked about the four Teslas.\n\t\t\t\nBirchall testifies about Musk’s contributions to OpenAI.\n\t\t\t\nA woman in the gallery has lowered a sleep mask over her eyes and is attempting to sleep.\n\t\t\t\nMusk steps down. He may be recalled.\n\t\t\t\nWe are on re-cross. Musk is getting testy again.\n\t\t\t\nThe Microsoft investment comes back up.\n\t\t\t\nAnd we’re back.\n\t\t\t\nWe’re in break — and I just checked out something interesting.\n\t\t\t\nElon Musk’s robot army definitely will not kill you.\n\t\t\t\nMusk insists he wasn’t kneecapping OpenAI.\n\t\t\t\nMusk seems notably more subdued today.\n\t\t\t\n“At least change the name,” Musk says he told Altman.\n\t\t\t\nElon Musk v. Capitalism.\n\t\t\t\nAn “ongoing conversation” around open source.\n\t\t\t\nWe’re still talking about whether Musk read the term sheet.\n\t\t\t\nThe jurors have been seated.\n\t\t\t\nMusk has just entered the courtroom.\n\t\t\t\n“Issues of extinction are excluded.”\n\t\t\t\nGood morning!\n\t\t\t\nElon Musk’s worst enemy in court is Elon Musk\n\t\t\t\nFreedom!\n\t\t\t\nUnfortunately we will not be talking about safety details of any specific product.\n\t\t\t\nThe jury is leaving for the day. “I suspect it’s a nice day out there,” YGR says.\n\t\t\t\nMechahitler might be a bad look for the AI safety defender.\n\t\t\t\nMusk’s broader AI safety commitment (or lack thereof) comes up.\n\t\t\t\nThis is so testy.\n\t\t\t\nDid Musk even read the OpenAI term sheet?\n\t\t\t\nMusk asked Shivon Zilis to stay ‘close and friendly’ with OpenAI to keep info flowing.\n\t\t\t\nMusk says xAI probably won’t be the first to get to AGI.\n\t\t\t\nWe’re back from a break, talking about SpaceX and xAI.\n\t\t\t\nDon’t worry about Tesla’s robot army!\n\t\t\t\n“You mostly do unfair questions.”\n\t\t\t\n“It’s a free country.”\n\t\t\t\n“Will you answer my question?”\n\t\t\t\nMusk’s desire for control comes up again.\n\t\t\t\n“This is a hypothetical.”\n\t\t\t\nAll the evidence unveiled so far in Musk v. Altman\n\t\t\t\nDid Musk initially envision OpenAI as a corporation?\n\t\t\t\nMusk is being combative on cross already\n\t\t\t\n“I did say that I would commit up to a billion dollars, yes.”\n\t\t\t\nIs Tesla really not working on AGI?\n\t\t\t\nMusk is returning to the stand.\n\t\t\t\nAt times, being a judge is much like being a kindergarden teacher.\n\t\t\t\nWe’re on a break.\n\t\t\t\n“I mean, all due respect to Microsoft, do you really want Microsoft controlling digital superintelligence?”\n\t\t\t\n“What’s going on here this is a bait and switch.”\n\t\t\t\nA Musk-Altman spat about Microsoft.\n\t\t\t\nMusk really cannot help himself.\n\t\t\t\n“Capped profit” wasn’t an issue, even when Microsoft got involved.\n\t\t\t\n“Tesla is not pursuing AGI.”\n\t\t\t\nMusk is more on his game today.\n\t\t\t\n“After I received these reassurances that OpenAI would continue to be a non-profit I continued to donate over $10 million.”\n\t\t\t\n“I actually was a fool who provided free funding for them to create a startup.”\n\t\t\t\nMore discussion of who would own OpenAI.\n\t\t\t\n“I don’t lose my temper,” says Elon Musk.\n\t\t\t\n“2017 was a hard year, and we’ve made mistakes.”\n\t\t\t\n“I formed many for-profit tech companies, and could have done so with OAI.”\n\t\t\t\n“Crystal clear focus.”\n\t\t\t\nSam Altman has just entered the room, right ahead of the jury.\n\t\t\t\nA member of the public just got dressed down by YGR about taking photos.\n\t\t\t\nMusk v Altman et al. is back in session.\n\t\t\t\nIn naming OpenAI, Elon Musk worried anything related to the Turing Test could mean bad PR.\n\t\t\t\nElon Musk appeared more petty than prepared\n\t\t\t\nThat’s a wrap!\n\t\t\t\nYGR scolds OpenAI for taking inconsistent positions on the origin of its name.\n\t\t\t\nElon Musk tells the jury that all he wants to do is save humanity\n\t\t\t\nArguments over ownership.\n\t\t\t\nApparently OpenAI could have had an ICO.\n\t\t\t\n“I was not averse to a small for-profit,” Musk says.\n\t\t\t\nWe’re reading emails between Musk and Jensen Huang.\n\t\t\t\nMusk says nonprofit was non-negotiable for OpenAI.\n\t\t\t\nWe’re at the founding of OpenAI.\n\t\t\t\nMusk says he would have created something like OpenAI on his own.\n\t\t\t\nMusk recalls meeting Sam Altman.\n\t\t\t\nSam Altman left during a break, but Elon Musk’s lawyer didn’t notice.\n\t\t\t\n“Here we are in 2026 and AI is scary smart.”\n\t\t\t\n“I have extreme concerns about AI,” says Musk.\n\t\t\t\nAI will be as smart as ‘any human as soon as next year.’\n\t\t\t\nMusk claims he has time for SpaceX, Tesla, Neuralink, and the Boring Company because he works a lot.\n\t\t\t\nMusk is telling the jury he (co)founded Tesla.\n\t\t\t\nNeuralink’s long-term goal is… AI?\n\t\t\t\n“There need to be things that people are excited about that make life worth living … being out there among the stars can excite everyone.”\n\t\t\t\nA little Musk biography.\n\t\t\t\nElon Musk, looking funereal in a black suit with a black tie, says “it’s not okay to steal a charity.”\n\t\t\t\nElon Musk takes the stand in high-profile trial against OpenAI\n\t\t\t\nWe are back from a break.\n\t\t\t\nElon Musk will be the first witness in Musk v. Altman.\n\t\t\t\n“Microsoft unlocked with OpenAI a virtuous cycle.”\n\t\t\t\nMicrosoft enters the chat.\n\t\t\t\n“We are here because Mr Musk didn’t get his way at OpenAI.”\n\t\t\t\n“[Musk] demanded control, he demanded the ability to make all the decisions without regard to the other founders.”\n\t\t\t\nOpenAI lawyers argue that Elon was right in the middle of discussions about a for-profit pivot.\n\t\t\t\n“Musk was furious that OpenAI succeeded.”\n\t\t\t\nOpenAI: Musk’s lawsuit is a “pageant of hypocrisy.”\n\t\t\t\nSam Altman’s “related party conflicted transactions” are how he made money on OpenAI, Molo says.\n\t\t\t\nTechnical difficulties.\n\t\t\t\nOpenAI is like a museum store that has looted the Picassos and pocketed the profits.\n\t\t\t\nAGI might be out of fashion in the AI world, but it will be at the center of this trial\n\t\t\t\n“The defendants in this case stole a charity.”\n\t\t\t\nMusk and Altman go to court\n\t\t\t\nGood morning from the Musk v Altman line outside the courtroom.\n\t\t\t\nJury selection in Musk v. Altman: ‘People don’t like him’\n\t\t\t\nWe have a jury.\n\t\t\t\nElon Musk’s lawyer tried to get some jurors thrown out for disliking Musk.\n\t\t\t\nApparently things are exciting outside.\n\t\t\t\nWe have gone through the first 20 potential jurors.\n\t\t\t\nVoir dire has begun.\n\t\t\t\nThe Elon Musk vs. OpenAI trial starts today.\n\t\t\t\nElon Musk drops fraud claims against OpenAI and Sam Altman before trial.\n\t\t\t\nMusk vs. Altman is here, and it’s going to get messy\n\t\t\t\nElon Musk is about to be a very busy boy!\n\t\t\t\n‘Sideshow’ concerns and billionaire dreams: What I learned from Elon Musk’s lawsuit against OpenAI\n\t\t\t\nElon Musk’s xAI is suing OpenAI and Apple\n\t\t\t\nInside Elon Musk’s messy breakup with OpenAI\n\t\t\t\nElon Musk is suing OpenAI and Sam Altman again",
-          "isoDate": "2026-04-30T16:57:14.000Z"
+          "title": "Apple&#8217;s iPhone revenue jumps to $57 billion despite chip shortages",
+          "link": "https://www.theverge.com/tech/921527/apple-iphone-revenue-q2-2026-earnings",
+          "summary": "Apple's iPhone revenue jumped 22 percent to $57 billion over the past few months, despite supply chain issues impacting the device's processor. In an interview with Reuters, Apple CEO Tim Cook said iPhone \"demand was off the charts,\" but there's \"a little less flexibility at the moment for getting more parts.\" Cook added during an earnings call that supply constraints could come for Mac, too, \"given the continued high levels of demand that we're seeing.\"\nApple earned $111.2 billion in revenue during the second quarter of 2026, its \"best March quarter ever,\" according to Cook. This latest earnings report comes a little over a week after the  …\nRead the full story at The Verge.",
+          "isoDate": "2026-04-30T20:58:22.000Z"
         },
         {
-          "title": "Meta is running get-rich-quick ads for its AI tools",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/915970/meta-manus-ai-ads-website-slop",
-          "summary": "Manus, an AI company Meta acquired for $2 billion last year is running ads promising quick, easy money with AI: Find local businesses without websites or with bad websites, have AI build them one, then call them up and sell it to them.\nAs part of the campaign, Manus was paying content creators to build out Instagram, YouTube, and TikTok accounts that promote its AI product as an easy, lucrative gig. (The creators' TikTok accounts were taken down after The Verge inquired about them.) Some of these videos would also appear as official ads for Manus, but the posts on the paid creator accounts themselves often obscured their ties to the company …\nRead the full story at The Verge.",
-          "isoDate": "2026-04-30T16:48:13.000Z"
+          "title": "The most severe Linux threat to surface in years catches the world flat-footed",
+          "link": "https://arstechnica.com/security/2026/04/as-the-most-severe-linux-threat-in-years-surfaces-the-world-scrambles/",
+          "summary": "CopyFail threatens multi-tenant servers, CI/CD work flows, Kubernetes containers, and more.",
+          "isoDate": "2026-04-30T20:20:48.000Z"
         },
         {
-          "title": "Cricut’s Joy 2 makes creating stickers easier for beginners, and it’s on sale",
-          "link": "https://www.theverge.com/gadgets/921355/cricut-joy-2-mothers-day-deal-sale",
-          "summary": "The Cricut Joy 2 doesn’t take up much desk space and looks pretty cute. | Image: Cricut\t\n\nIf you’ve ever thought about making your own stickers for Etsy or just for fun but don’t know where to begin, I’d recommend taking a look at the Cricut Joy 2. I’ve been testing one for a couple of weeks now, and as someone completely new to the Cricut ecosystem, I’ve found it to be a relatively beginner-friendly way to get started. It also costs less than most Cricut models and is currently discounted as part of the company’s sale. While the machine itself is $99, the bundles offer better value right now: the Essentials Bundle starts at $119 ($20 off) at Amazon and Cricut and includes supplies for 35 projects, while the Ultimate Bundle is down to $169 ($50 off) at Amazon and Cricut, and adds extra tools — including an iron press — for over 75 projects right out of the box.\nCricut Joy 2\n\nWhere to Buy:\n\n $139 $119 at Amazon (Essentials bundle)\n $169 $209 at Amazon (Ultimate bundle)\n $139 $119 at Cricut (Essentials bundle)\n\nDesigned for smaller, everyday projects, the Cricut Joy 2 brings the company’s Print Then Cut feature to its entry-level lineup. That means you can print full-color designs using your home printer and then have the machine precisely cut them out, making it possible to create sticker sheets. In my testing, that’s been one of the most satisfying activities — and once you get the hang of it, it’s fairly quick and straightforward. (Just note that while you can use a laser printer, you’ll need to supply your own compatible sticker paper, as Cricut’s are designed for inkjet printers.) Beyond stickers, it can also create custom cards, simple vinyl decals, labels, bookmarks, and iron-ons, which I’ve found useful for both creative projects and more practical things like planner templates and drawer labels.\nSetup is relatively straightforward, though Design Space — Cricut’s app for creating your design — does come with a bit of a learning curve. I struggled to get the hang of it, but after a few days of tutorials and using pre-made templates, it started to click and projects came together much more quickly. A big part of that was the free 30-day trial of Cricut Access subscription, which I used to experiment with a much larger library of templates, images, and fonts than what’s available for free. Just keep in mind it auto-renews after the trial, starting at $9.99 per month unless you cancel.",
-          "isoDate": "2026-04-30T16:45:06.000Z"
+          "title": "Rivian’s revenue is up as R2 production kicks into gear",
+          "link": "https://www.theverge.com/transportation/921295/rivian-q1-2026-earnings-revenue-profit-r2",
+          "summary": "Rivian reported its first quarter earnings of 2026, providing us a closer look at the company's financial health as it kicks off production for the crucial R2 electric vehicle. \nWe've already got Rivian's production and delivery statement from the first three months of the year. The company sold 10,365 vehicles in Q1, representing 20 percent increase year over year. And it produced 10,236 vehicles at its factory in Normal, Illinois, which represents a 30 percent increase compared to the same period last year. The company also reaffirmed its prediction that it will sell 62,000-67,000 vehicles this year.\nIn terms of earnings, Rivian said it  …\nRead the full story at The Verge.",
+          "isoDate": "2026-04-30T20:05:00.000Z"
         }
       ]
     },
@@ -71,6 +71,18 @@
       "header": "120  CIENCIA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "This organoid can menstruate — and shows how tissue can repair itself",
+          "link": "https://www.nature.com/articles/d41586-026-01428-5",
+          "summary": "Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01428-5\nMini models of the uterus lining give insight into mystery of how it is shed without scarring.",
+          "isoDate": "2026-05-01T00:00:00.000Z"
+        },
+        {
+          "title": "NASA Invites Media to Ireland Artemis Accords Signing",
+          "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-ireland-artemis-accords-signing/",
+          "summary": "Ireland will sign the Artemis Accords during a ceremony at 3 p.m. EDT Monday, May 4, at NASA Headquarters in Washington. NASA Administrator Jared Isaacman will host Ambassador of Ireland to the United States of America Geraldine Byrne Nason; Minister for Enterprise, Tourism and Employment Peter Burke, T.D., of Ireland; and U.S. Department of State […]",
+          "isoDate": "2026-04-30T20:45:59.000Z"
+        },
         {
           "title": "Odyssey Team Celebrates on a Global Map of Mars",
           "link": "https://science.nasa.gov/photojournal/odyssey-team-celebrates-on-a-global-map-of-mars/",
@@ -98,7 +110,7 @@
         {
           "title": "NASA Goddard’s Greenbelt Visitor Center Marks 50th Anniversary",
           "link": "https://www.nasa.gov/centers-and-facilities/goddard/nasa-goddards-greenbelt-visitor-center-marks-50th-anniversary/",
-          "summary": "Trimmed in bicentennial pageantry, NASA opened a visitor center at its Goddard campus in Greenbelt, Maryland, in May 1976. Fifty years on, the Goddard Visitor Center continues to inspire through exhibits and programs on the past, present, and future of space exploration. When the visitor center first opened its doors (just a few weeks before […]",
+          "summary": "Trimmed in bicentennial pageantry, NASA opened a visitor center at its Goddard campus in Greenbelt, Maryland, in May 1976. Fifty years on, the Goddard Visitor Center continues to inspire through exhibits and programs on the past, present, and future of space exploration. “NASA’s 1958 charter tasks us with sharing our work as broadly as we […]",
           "isoDate": "2026-04-30T17:13:07.000Z"
         },
         {
@@ -118,18 +130,6 @@
           "link": "https://www.science.org/doi/abs/10.1126/science.ads6847?af=R",
           "summary": "Science, Volume 392, Issue 6797, April 2026.",
           "isoDate": "2026-04-30T07:00:00.000Z"
-        },
-        {
-          "title": "Rumen ciliates modulate methane emissions in ruminants",
-          "link": "https://www.science.org/doi/abs/10.1126/science.adv4244?af=R",
-          "summary": "Science, Volume 392, Issue 6797, April 2026.",
-          "isoDate": "2026-04-30T07:00:00.000Z"
-        },
-        {
-          "title": "Gene syntax defines supercoiling-mediated transcriptional feedback",
-          "link": "https://www.science.org/doi/abs/10.1126/science.adw1925?af=R",
-          "summary": "Science, Volume 392, Issue 6797, April 2026.",
-          "isoDate": "2026-04-30T07:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-04-30T19:20:47.624Z"
+          "isoDate": "2026-05-01T03:22:12.976Z"
+        },
+        {
+          "title": "Will AI lead to more accurate opinion polls?",
+          "link": "https://www.bbc.com/news/articles/cwyw6rylzepo?at_medium=RSS&at_campaign=rss",
+          "summary": "It's cheaper and faster to collect people's opinions using AI, but will it make polls more accurate?",
+          "isoDate": "2026-04-30T23:11:37.000Z"
+        },
+        {
+          "title": "Apple hails 'extraordinary' iPhone demand as boss Tim Cook heads out",
+          "link": "https://www.bbc.com/news/articles/ce8pdk3l4d2o?at_medium=RSS&at_campaign=rss",
+          "summary": "Cook is preparing to bow out after 15 years at the helm and hand over to John Ternus.",
+          "isoDate": "2026-04-30T23:04:43.000Z"
         },
         {
           "title": "Twitch streamer hit by car live on camera - 'It felt like slow motion'",
@@ -184,18 +196,6 @@
           "link": "https://www.bbc.co.uk/sounds/play/w3ct8jxs?at_medium=RSS&at_campaign=rss",
           "summary": "Workers train AI to identify everyday objects by labelling items in photos and videos.",
           "isoDate": "2026-04-28T19:32:00.000Z"
-        },
-        {
-          "title": "Why Sam Altman and his former hero Elon Musk are taking their toxic feud to court",
-          "link": "https://www.bbc.com/news/articles/cn8dedv8w8xo?at_medium=RSS&at_campaign=rss",
-          "summary": "The battle between the AI big hitters has largely played out on social media. Now it is coming to the courtroom.",
-          "isoDate": "2026-04-28T15:38:09.000Z"
-        },
-        {
-          "title": "Social media restrictions for under-16s even if no ban, minister says",
-          "link": "https://www.bbc.com/news/articles/c5y7d2zx63jo?at_medium=RSS&at_campaign=rss",
-          "summary": "The government is consulting on changes as a new social media law goes through its final Parliamentary stages.",
-          "isoDate": "2026-04-28T10:46:55.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-04-30T19:20:59.346Z"
+          "isoDate": "2026-05-01T03:22:15.083Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-04-30T19:20:49.469Z"
+          "isoDate": "2026-05-01T03:22:14.446Z"
         },
         {
           "title": "With $1 Cyberattacks on the Rise, Durable Defenses Pay Off",
