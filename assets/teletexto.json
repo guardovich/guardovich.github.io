@@ -1,69 +1,69 @@
 {
-  "generatedAt": "2026-05-01T19:11:21.101Z",
+  "generatedAt": "2026-05-02T02:40:32.246Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
         {
+          "title": "Splatoon Raiders preorders for the Switch 2 are nearly 20 percent off",
+          "link": "https://www.theverge.com/gadgets/920848/splatoon-raiders-physical-edition-preorder-switch-2-walmart-deal-sale",
+          "summary": "Nintendo recently announced a new pricing policy, which knocks $10 off the cost of digital versions of future first-party titles exclusive to the Nintendo Switch 2. Splatoon Raiders, for instance, is available for preorder ahead of its July 23rd release for $49.99 digitally or $59.99 for the physical edition. However, Amazon and Walmart are the exception in how they’re pricing preorders for the cartridge version. Right now, you can reserve the upcoming title at both retailers for $49.94, which is a few cents cheaper than the digital version. Raiders isn’t a sequel to Splatoon 3, but rather a spinoff that has similar third-person, paint-splatting gameplay set in new locales.\nSplatoon Raiders\n\nWhere to Buy:\n\n $59.99 $49.94 at Walmart (physical)\n $59.99 $49.94 at Amazon (physical)\n\nThe same $10 discount is in effect for Yoshi and the Mysterious Book, a side-scrolling adventure with a gorgeous storybook art style that comes out on May 21st. The price of the physical version is $69.99, but Amazon and Walmart are currently offering it for $59.88, which is similar to the digital edition’s price. Given that prices on many tech and gaming-related products are increasing, it’s nice to see notable discounts on physical Switch 2 games. If you’re looking for other gaming deals, we’ve pulled together the best discounts from Amazon’s weeklong Gaming Week sale.\nYoshi and the Mysterious Book\n\nWhere to Buy:\n\n $69.99 $59.88 at Walmart (physical)\n $69.99 $59.88 at Amazon (physical)\n\nUpdate, May 1st: Updated price and availability to reflect the fact that Amazon is now matching Walmart’s preorder promotion on both Switch 2 titles.",
+          "isoDate": "2026-05-01T22:31:00.000Z"
+        },
+        {
+          "title": "Study: AI models that consider user's feeling are more likely to make errors",
+          "link": "https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/",
+          "summary": "Overtuning can cause models to \"prioritize user satisfaction over truthfulness.”",
+          "isoDate": "2026-05-01T22:23:36.000Z"
+        },
+        {
+          "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
+          "link": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
+          "summary": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into bankrolling the company. Along the way, he warned that AI could destroy us all and sat through…",
+          "isoDate": "2026-05-01T22:08:19.000Z"
+        },
+        {
+          "title": "Microsoft tests redesigned Windows 11 Run menu with dark mode and more",
+          "link": "https://www.theverge.com/tech/922531/microsoft-windows-11-run-menu-redesign-test",
+          "summary": "Microsoft is testing its much-needed refresh for the Windows 11 Run menu, offering a modern interface that the company says is faster and comes with support for dark mode. The redesign is rolling out now to Windows 11 Insiders in the new Experimental Channel.\nIn a blog post explaining the changes, Microsoft says it decided to drop the Run menu's \"Browse\" button - a shortcut to user files - after finding \"very low usage.\" Instead, Microsoft added support for a new \"~\\\" command, which leads to your user directory.\nMicrosoft says it built the new Run menu using code from Command Palette, a utility available through PowerToys that allows you t …\nRead the full story at The Verge.",
+          "isoDate": "2026-05-01T22:01:53.000Z"
+        },
+        {
+          "title": "The RAMpocalypse has bought Microsoft valuable time in the fight against SteamOS",
+          "link": "https://arstechnica.com/gaming/2026/05/the-rampocalypse-has-bought-microsoft-valuable-time-in-the-fight-against-steamos/",
+          "summary": "Op-ed: Valve has made a dent in Windows' gaming share, but can it keep going?",
+          "isoDate": "2026-05-01T22:00:59.000Z"
+        },
+        {
+          "title": "Apple raises the Mac Mini&#8217;s starting price",
+          "link": "https://www.theverge.com/tech/922572/apple-mac-mini-256-model",
+          "summary": "Apple's Mac Mini now starts at $799 after the company pulled the $599 option with 256GB of storage from its online store, as spotted earlier by MacRumors. The model's discontinuation comes just one day after Apple CEO Tim Cook said during an earnings call that a chip shortage will impact its Mac products in the coming months.\n\"If you look forward to June, the majority of our supply constraints will be on several Mac models,\" Cook said. \"We think looking forward that the Mac Mini and the Mac Studio may take several months to reach supply-demand balance.\" He added that both devices saw \"higher-than-expected demand\" as well, with many people b …\nRead the full story at The Verge.",
+          "isoDate": "2026-05-01T21:52:09.000Z"
+        },
+        {
+          "title": "Man dies covered in necrotic lesions after amoebas eat him alive",
+          "link": "https://arstechnica.com/health/2026/05/amoebas-eat-man-alive-over-months-in-puzzling-ultra-rare-cautionary-tale/",
+          "summary": "Doctors suspect three factors, each unremarkable on its own, contributed to his fate.",
+          "isoDate": "2026-05-01T21:05:37.000Z"
+        },
+        {
+          "title": "All the evidence revealed so far in Musk v. Altman",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
+          "summary": "The Musk v. Altman trial is underway, and that means exhibits, or the evidence to be presented in court, are being revealed piece by piece. So far, email exchanges, photos, and corporate documents are circulating from the earliest days of OpenAI - and from before the AI lab even had a name. Some high-level takeaways: Nvidia CEO Jensen Huang gave OpenAI an in-demand supercomputer, Musk largely drafted OpenAI's mission and heavily influenced its early structure, OpenAI CEO Sam Altman appeared to want to lean heavily on Y Combinator for early support for OpenAI, OpenAI president Greg Brockman and Ilya Sutskever worried about Musk's level of con …\nRead the full story at The Verge.",
+          "isoDate": "2026-05-01T19:14:51.000Z"
+        },
+        {
+          "title": "Ubuntu infrastructure has been down for more than a day",
+          "link": "https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/",
+          "summary": "The outage has hampered communication concerning a critical vulnerability that gives root.",
+          "isoDate": "2026-05-01T19:12:26.000Z"
+        },
+        {
           "title": "Birdfy’s smart bird feeder is down to its best-ever price for Mother’s Day",
           "link": "https://www.theverge.com/gadgets/922165/netvue-birdfy-smart-bird-feeder-bath-mothers-day-deal-sale",
           "summary": "From crafting machines to smart calendars, a number of unique gifts are already on sale in the run-up to Mother’s Day, May 10th. Birdfy smart feeders are another discounted option to consider, particularly the new Birdfy Feeder Metal 2 (4K), which is on sale for $259.99 ($50 off). If you’re looking to spend less, you can also grab the basic Birdfy Feeder for just $99.99 ($100 off) from Amazon or Birdfy, with the latter retailer throwing in a free botanical gift bag and greeting card.\nBirdfy Feeder\n\nWhere to Buy:\n\n $229.99 $99.99 at Amazon\n $229.99 $99.99 at Birdfy (with free gift bag and card)\n\nBirdfy’s standard bird feeder uses a 1080p camera with a 155-degree field of view and color night vision to capture birds in clear detail as they stop by. It then sends real-time alerts to the Birdfy mobile app for Android and iOS, where you can watch live feeds or browse recorded clips, whether you’re at home or away. Birdfy saves 20-second clips in the cloud for free for up to 30 days, too, so you can revisit old footage or share your newfound observations with friends later.\nThe app also includes a handful of AI-powered features, which are free for a week, after which they require a premium Birdfy subscription ($4.99 a month or $69.99 for lifetime access). The tools allow you to identify more than 6,000 bird species, share fun facts, and receive daily highlights and monthly summaries. You can also set alerts for specific bird species, just in case you’re trying to capture that elusive summer tanager or the occasional gray flycatcher that happens to pass by.\nWhat’s more, the Feeder is relatively easy to set up and maintain, given that it comes with a flip-up roof and all the mounting attachments you need for affixing it to a pole, wall, or tree. It offers an IP65 weather-resistant rating and features a large 50-ounce seed container, so you don’t need to refill it as often as some other models. It also runs on a 5,200mAh rechargeable battery that can last up to three months, or indefinitely with the optional solar panel, which starts at $29.99.\nBirdfy Feeder Metal 2 (4K)\n\nWhere to Buy:\n\n $259.99 $309.99 at Birdfy\n $259.99 $309.99 at Walmart\n\nIf you’re willing to spend more, the higher-end Birdfy Feeder Metal 2 (4K) takes things a step further with a sharper 4K camera and a more durable metal design. It also comes with a built-in solar cell and AI bird recognition, so you don’t need to pay extra for a subscription. It’s one of the first models to support Birdfy’s forthcoming advanced OrniSense AI system, too, which will provide additional information about visiting birds, including health insights and details such as gender.\nOther Birdfy Mother’s Day deals\nBirdfy Bath Pro with Stand\nThe Birdfy Bath Pro is a solar-powered smart birdbath with a built-in fountain and dual-lens camera system. It features a 1080p wide-angle lens, a 2K portrait lens, and AI-powered recognition software that can identify more than 6,000 species. Additional features include color night vision, two-way audio, and an IP66 waterproof rating.\n\nWhere to Buy:\n\n $349.99 $259.99 at Amazon\n $349.99 $259.99 at Birdfy\n\n\nBirdfy Feeder Rookie\nThe Birdfy Feeder Rookie is an entry-level feeder with a built-in 1080p camera that sends real-time alerts to your phone and displays live feeds. It can capture HD video in slow motion with color night vision, while a paid subscription lets you identify visiting bird species via AI. The feeder also holds up to 1.3 liters of seed and offers an IP66 rating.\n\nWhere to Buy:\n\n $119.99 $49.99 at Amazon (without solar)\n $159.99 $79.99 at Birdfy (with solar)\n $159.99 $69.99 at Amazon (with solar)",
           "isoDate": "2026-05-01T18:42:24.000Z"
-        },
-        {
-          "title": "Amazon&#8217;s built-in AI price history expands to show the entire last year",
-          "link": "https://www.theverge.com/tech/922302/amazon-price-tracker-year",
-          "summary": "Amazon's built-in price tracking feature now allows you to see how much a product's price has changed over the past year. To use the feature, open the Amazon app and select the \"Price history\" button next to the item's price, or ask Amazon's AI assistant Rufus.\nThe expansion comes just weeks ahead of Amazon's annual Prime Day event, which California Attorney General mentioned in his \"price fixing\" lawsuit against the retail giant. In the lawsuit, Bonta accuses Amazon of pushing other companies to raise the price of their products at other retailers in the days leading up to its annual deals event. Bonta also claims Amazon \"bullied vendors t …\nRead the full story at The Verge.",
-          "isoDate": "2026-05-01T17:55:22.000Z"
-        },
-        {
-          "title": "Dreame — the vacuum company — just ‘launched’ its own phones",
-          "link": "https://www.theverge.com/gadgets/922246/dreame-next-smartphones-aurora-lux-nex-modular",
-          "summary": "This is just one of 29 different Aurora Lux designs. | Photo by Kelsey McClellan / The Verge\t\n\nDreame, a Chinese manufacturer best known for its robot vacuums but with ambitions to do much more, says it's making smartphones now. I'm not sure I believe it.\nThe company showed off two phones at its own Next event, which took place in California this week, though both had previously been revealed in China in March. Neither phone has actually launched though - in China, the US, or elsewhere - and the company has revealed only a handful of specs about either.\nAurora Nex LS1 is the more interesting of the two, but also the less plausible. It's a modular smartphone with a magnetic attachment point where the rear camera would normally be. Dr …\nRead the full story at The Verge.",
-          "isoDate": "2026-05-01T17:55:08.000Z"
-        },
-        {
-          "title": "Senators ban themselves from prediction markets after candidates bet on own races",
-          "link": "https://arstechnica.com/tech-policy/2026/05/senators-ban-themselves-from-prediction-markets-after-candidates-bet-on-own-races/",
-          "summary": "Senator decries \"blatant, brazen corruption,\" wants to target Trump admin next.",
-          "isoDate": "2026-05-01T17:51:24.000Z"
-        },
-        {
-          "title": "Minnesota passes ban on fake AI nudes; app makers risk $500K fines",
-          "link": "https://arstechnica.com/tech-policy/2026/05/minnesota-set-to-be-first-state-to-ban-nudification-apps/",
-          "summary": "More evidence of Grok CSAM seen as Minnesota passes nudifying app ban.",
-          "isoDate": "2026-05-01T17:36:29.000Z"
-        },
-        {
-          "title": "Amazon stuck with months of repairs after drone strikes on data centers",
-          "link": "https://arstechnica.com/gadgets/2026/05/amazon-stuck-with-months-of-repairs-after-drone-strikes-on-data-centers/",
-          "summary": "AWS stops billing Middle East cloud customers as repairs to war damage drag on.",
-          "isoDate": "2026-05-01T17:09:59.000Z"
-        },
-        {
-          "title": "This accessory can snap a Steam Controller to your phone — or almost anything else",
-          "link": "https://www.theverge.com/games/921823/valve-steam-controller-mechanism-mounts-basegrip-dock",
-          "summary": "Valve's new Steam Controller goes on sale on Monday for $99, and accessories-maker Mechanism will be ready. As far as we know, Mechanism's new Basegrip is the very first way to attach a Steam Controller to your phone - as well as Mechanism's lineup of accessories, including mounts for hanging handhelds and gamepads on the Ikea Skadis pegboard or just about anywhere else. The Steam Controller mount will go on sale the same day as the controller, since Valve gave Mechanism early access to the design.\nWhen the Basegrip is paired with Mechanism's phone mount, the company suggests that you can use the Steam Controller to remote-control your PC u …\nRead the full story at The Verge.",
-          "isoDate": "2026-05-01T17:00:00.000Z"
-        },
-        {
-          "title": "Players from the NBA, NFL, and MLB call for a ban on betting &#8216;unders&#8217;",
-          "link": "https://www.theverge.com/entertainment/922244/nba-nfl-mlb-prediction-market-unders-bets",
-          "summary": "The unions backing professional NBA, NFL, MLB, NHL, and MLS players are calling on the Commodity Futures Trading Commission (CFTC) to ban prediction market platforms from allowing users to bet on a player's underperformance or injury, Sports Business Journal reports. In their letter, the unions cite the need for \"appropriate regulations\" to protect athletes and their families from \"abusive and harassing behavior.\"\nThe unions wrote the letter in response to the CFTC's request for comment on the regulation of prediction markets, such as those operated by Kalshi and Polymarket. In addition to asking for a ban on \"under\" bets, the unions also w …\nRead the full story at The Verge.",
-          "isoDate": "2026-05-01T16:57:27.000Z"
-        },
-        {
-          "title": "Severe Linux Copy Fail security flaw uncovered using AI scanning help",
-          "link": "https://www.theverge.com/tech/922243/linux-cve-2026-3141-copy-fail-exploit",
-          "summary": "Nearly every Linux distribution released since 2017 is currently vulnerable to a security bug called \"Copy Fail\" that allows any user to give themselves administrator privileges.  The exploit, publicly disclosed as CVE-2026-31431 on Wednesday, uses a Python script that works across all of the vulnerable Linux distributions, requiring \"no per-distro offsets, no version checks, no recompilation,\" according to Theori, the security firm that uncovered it. \nArs Technica points out this blog post where DevOps engineer Jorijn Schrijvershof explains that what makes Copy Fail \"unusually nasty\" is the likelihood for it to go unnoticed by monitoring t …\nRead the full story at The Verge.",
-          "isoDate": "2026-05-01T16:55:16.000Z"
-        },
-        {
-          "title": "Dreame’s rocket-powered car can do 0–60 in 0.9 seconds because you can just say things now",
-          "link": "https://www.theverge.com/transportation/921204/dreame-ev-car-rocket-boosted-zero-sixty-reality",
-          "summary": "The NEXT 01 JET Edition Car at the Dreame NEXT event during the Silicon Valley Summit at the Palace of Fine Arts on April 29, 2026 in San Francisco, CA. | Photo by Kelsey McClellan / The Verge\t\n\nWhen I first heard that a vacuum company had released a rocket-powered electric vehicle with physically impossible-sounding performance specs, I immediately thought James Dyson was up to his old tricks again.\nFortunately, I was wrong. This time the household appliance company trying its hand at super car design is Dreame (pronounced like \"dreamy\"), a little-known Chinese firm that has grand ambitions to become a global consumer electronics giant. The company held an expo of sorts in San Francisco this week that resulted in a flurry of product announcements. And because we live in an attention economy, and one of the best ways to grab people …\nRead the full story at The Verge.",
-          "isoDate": "2026-05-01T16:33:46.000Z"
         }
       ]
     },
@@ -72,46 +72,10 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "NASA Kennedy Center Director Announces Plans to Retire",
-          "link": "https://www.nasa.gov/news-release/nasa-kennedy-center-director-announces-plans-to-retire/",
-          "summary": "NASA announced Friday Janet Petro, center director for the agency’s Kennedy Space Center in Florida, is retiring. Prior to joining NASA, Petro worked in a variety of military and industry positions, ultimately beginning her career at the agency in 2007 and working her way up to center director, as well as serving as acting administrator […]",
-          "isoDate": "2026-05-01T17:01:48.000Z"
-        },
-        {
-          "title": "NASA Artemis II Crew Rings Nasdaq Closing Bell",
-          "link": "https://www.nasa.gov/image-article/nasa-artemis-ii-crew-rings-nasdaq-closing-bell/",
-          "summary": "Nasdaq Chair and Chief Executive Officer Adena T. Friedman, left, and NASA’s Artemis II crewmembers CSA (Canadian Space Agency) astronaut Jeremy Hansen, and NASA astronauts Christina Koch, Victor Glover, and Reid Wiseman, right, ring the closing bell of the Nasdaq market session, Thursday, April 30, 2026. NASA’s Artemis II mission took Wiseman, Glover, Koch, and […]",
-          "isoDate": "2026-05-01T16:08:05.000Z"
-        },
-        {
-          "title": "Key Support Equipment Arrives at Kennedy for Roman Space Telescope",
-          "link": "https://www.nasa.gov/image-article/key-support-equipment-arrives-at-kennedy-for-roman-space-telescope/",
-          "summary": "Technicians at NASA’s Payload Hazardous Servicing Facility (PHSF) at the agency’s Kennedy Space Center in Florida offloaded eight high-efficiency particulate air (HEPA) wall modules and other ground support equipment on April 27. The equipment will support launch processing of the agency’s Nancy Grace Roman Space Telescope. Each 1,800-pound module enhances the PHSF’s clean room systems, helping meet […]",
-          "isoDate": "2026-05-01T15:44:03.000Z"
-        },
-        {
-          "title": "NASA’s STORIE Mission to Tell Tale of Earth’s Ring Current",
-          "link": "https://science.nasa.gov/science-research/heliophysics/nasas-storie-mission-to-tell-tale-of-earths-ring-current/",
-          "summary": "Earth’s magnetic field is like a powerful trap. It lures electrically charged particles in space, near our planet, and snares them in an invisible, doughnut-shaped pen around Earth known as the ring current. This captive swarm of charged particles plays an important role in how Earth reacts to changing conditions in space, called space weather, which […]",
-          "isoDate": "2026-05-01T15:31:08.000Z"
-        },
-        {
-          "title": "Space Out This Summer with Variety of NASA STEM Activities",
-          "link": "https://www.nasa.gov/learning-resources/space-out-this-summer-with-variety-of-nasa-stem-activities/",
-          "summary": "Summer is “Go” for launch, and NASA has a universe of ways to help you to jump in, explore, and create! Whether you prefer to spend this season fueling your creativity, going outdoors into nature, or daydreaming about your future, NASA offers ways to take your interests to the next level.  Here are some opportunities […]",
-          "isoDate": "2026-05-01T14:03:30.000Z"
-        },
-        {
-          "title": "Hubble Spots a Starry Spiral",
-          "link": "https://science.nasa.gov/missions/hubble/hubble-spots-a-starry-spiral/",
-          "summary": "In this new picture from NASA’s Hubble Space Telescope, a spiral galaxy glittering with star clusters is the center of attention. NGC 3137 is located 53 million light-years away in the constellation Antlia (the Air Pump). As a nearby spiral galaxy, this target offers astronomers an excellent opportunity to study the cycle of stellar birth and death, […]",
-          "isoDate": "2026-05-01T11:48:55.000Z"
-        },
-        {
-          "title": "Cyclone Rains Spur Papua New Guinea Landslides",
-          "link": "https://science.nasa.gov/earth/earth-observatory/cyclone-rains-spur-papua-new-guinea-landslides/",
-          "summary": "Heavy rains from Tropical Cyclone Maila triggered a deadly landslide in the mountains of East New Britain.",
-          "isoDate": "2026-05-01T04:01:00.000Z"
+          "title": "ERROR cargando feed",
+          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
+          "isoDate": "2026-05-02T02:40:25.702Z"
         },
         {
           "title": "Author Correction: Titration of RAS alters senescent state and influences tumour initiation",
@@ -130,6 +94,42 @@
           "link": "https://www.nature.com/articles/d41586-026-01075-w",
           "summary": "Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01075-w\nNot a bug, but a feature.",
           "isoDate": "2026-05-01T00:00:00.000Z"
+        },
+        {
+          "title": "US faculty members report high levels of anxiety",
+          "link": "https://www.nature.com/articles/d41586-026-01252-x",
+          "summary": "Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01252-x\nSurveys show the importance of social, familial and structural support in lowering anxiety, particularly for people in health professions.",
+          "isoDate": "2026-05-01T00:00:00.000Z"
+        },
+        {
+          "title": "The exotic particles that could finally break the Standard Model",
+          "link": "https://www.nature.com/articles/d41586-026-01387-x",
+          "summary": "Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01387-x\n‘Penguin’ decays from CERN’s latest Large Hadron Collider experiment hint at weird new physics.",
+          "isoDate": "2026-05-01T00:00:00.000Z"
+        },
+        {
+          "title": "The news is not all bad: five inspiring science stories to lift your mood",
+          "link": "https://www.nature.com/articles/d41586-026-01290-5",
+          "summary": "Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01290-5\nSpecies recovery, cancer-preventing vaccines and progress in developing renewable-energy sources are just some of the positive developments that have happened this year so far.",
+          "isoDate": "2026-05-01T00:00:00.000Z"
+        },
+        {
+          "title": "European funder must increase capacity to meet the ambition of scientists",
+          "link": "https://www.nature.com/articles/d41586-026-01411-0",
+          "summary": "Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01411-0\nTo avoid sabotaging science, the European Research Council needs more funding and structural change.",
+          "isoDate": "2026-05-01T00:00:00.000Z"
+        },
+        {
+          "title": "This organoid can menstruate — and shows how tissue can repair itself",
+          "link": "https://www.nature.com/articles/d41586-026-01428-5",
+          "summary": "Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01428-5\nMini models of the uterus lining give insight into mystery of how it is shed without scarring.",
+          "isoDate": "2026-05-01T00:00:00.000Z"
+        },
+        {
+          "title": "Prestigious European science funder scraps stricter rules after researcher backlash",
+          "link": "https://www.nature.com/articles/d41586-026-01435-6",
+          "summary": "Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01435-6\nThe tough new policy was introduced to curb submissions, but drew criticism from researchers.",
+          "isoDate": "2026-05-01T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,31 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-05-01T19:11:15.237Z"
+          "isoDate": "2026-05-02T02:40:26.801Z"
+        },
+        {
+          "title": "Tech Now",
+          "link": "https://www.bbc.co.uk/iplayer/episode/m002w3sl?at_medium=RSS&at_campaign=rss",
+          "summary": "Harriet Bradshaw finds out how AI is being used to help solve an art history mystery.",
+          "isoDate": "2026-05-02T01:00:00.000Z"
+        },
+        {
+          "title": "Oscars says AI actors, writing cannot win awards",
+          "link": "https://www.bbc.com/news/articles/cx21dl3v7d3o?at_medium=RSS&at_campaign=rss",
+          "summary": "The academy that controls the Oscars on Friday issued new award eligibility requirements around the use of artificial intelligence in film.",
+          "isoDate": "2026-05-01T22:30:59.000Z"
+        },
+        {
+          "title": "Bright idea? UK firm pioneers data centres using lampposts",
+          "link": "https://www.bbc.com/news/articles/c98r4e594p7o?at_medium=RSS&at_campaign=rss",
+          "summary": "The solar-powered iLamps will have a built-in Nvidia chip but there are questions over their security and scalability.",
+          "isoDate": "2026-05-01T21:23:33.000Z"
+        },
+        {
+          "title": "Pentagon says US military to be an 'AI-first' fighting force",
+          "link": "https://www.bbc.com/news/articles/cy02gjq2987o?at_medium=RSS&at_campaign=rss",
+          "summary": "The US military has agreed eight new contracts with big tech firms as it expands its artificial intelligence capabilities.",
+          "isoDate": "2026-05-01T21:09:52.000Z"
         },
         {
           "title": "Elon Musk's latest Tesla pay valued at $158bn - but he can't pocket it",
@@ -172,30 +196,6 @@
           "link": "https://www.bbc.com/news/articles/cn8pjz2qwego?at_medium=RSS&at_campaign=rss",
           "summary": "Isaiah Thomas, known as hmblzayy, was walking a 3,000-mile challenge when he was hit",
           "isoDate": "2026-04-30T17:24:25.000Z"
-        },
-        {
-          "title": "OpenAI tells ChatGPT models to stop talking about goblins",
-          "link": "https://www.bbc.com/news/articles/c5y9wen5z8ro?at_medium=RSS&at_campaign=rss",
-          "summary": "The AI firm said that unlike previous model bugs, the issue \"crept in subtly\".",
-          "isoDate": "2026-04-30T13:28:04.000Z"
-        },
-        {
-          "title": "Meta in row after workers who say they saw smart glasses users having sex lose jobs",
-          "link": "https://www.bbc.com/news/articles/c5y7yvgy0w6o?at_medium=RSS&at_campaign=rss",
-          "summary": "Meta and its subcontractor disagree over why over 1000 Kenya-based workers were made redundant.",
-          "isoDate": "2026-04-30T08:59:35.000Z"
-        },
-        {
-          "title": "Musk accuses OpenAI lawyer of trying to 'trick' him in combative testimony",
-          "link": "https://www.bbc.com/news/articles/czj29yygyzgo?at_medium=RSS&at_campaign=rss",
-          "summary": "Elon Musk was cross-examined on the third day of the trial over his lawsuit against Sam Altman and OpenAI.",
-          "isoDate": "2026-04-29T23:18:08.000Z"
-        },
-        {
-          "title": "Why friendly AI chatbots might be less trustworthy",
-          "link": "https://www.bbc.com/news/articles/cd9pdjgvxj8o?at_medium=RSS&at_campaign=rss",
-          "summary": "Researchers found adjusting AI systems to be more warm and friendly to users would result in an \"accuracy trade-off\".",
-          "isoDate": "2026-04-29T15:00:06.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-05-01T19:11:19.579Z"
+          "isoDate": "2026-05-02T02:40:30.445Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-05-01T19:11:16.810Z"
+          "isoDate": "2026-05-02T02:40:28.042Z"
         },
         {
           "title": "With $1 Cyberattacks on the Rise, Durable Defenses Pay Off",
@@ -324,12 +324,57 @@
       "maxItems": 120,
       "items": [
         {
-          "title": "RESULTADOS (EN DIRECTO)",
+          "title": "RESULTADOS (ÚLTIMOS)",
           "link": "",
           "summary": ""
         },
         {
-          "title": "GIR  0-0  MAL",
+          "title": "GIR  0-1  MAL",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "ESP  0-0  LEV",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "VIL  2-1  CEL",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "OSA  2-1  SEV",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "REA  1-2  ELC",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "RAY  3-3  REA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "ATL  3-2  ATH",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "VAL  2-1  GIR",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "GET  0-2  BAR",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "ALA  2-1  MAL",
           "link": "",
           "summary": ""
         },
@@ -409,17 +454,17 @@
           "summary": ""
         },
         {
-          "title": "14  GIR  34   9 12 13  36  50 -14  39",
+          "title": "14  ELC  33   9 11 13  44  50  -6  38",
           "link": "",
           "summary": ""
         },
         {
-          "title": "15  ELC  33   9 11 13  44  50  -6  38",
+          "title": "15  MAL  34  10  8 16  42  51  -9  38",
           "link": "",
           "summary": ""
         },
         {
-          "title": "16  MAL  34   9  9 16  41  51 -10  36",
+          "title": "16  GIR  34   9 11 14  36  51 -15  38",
           "link": "",
           "summary": ""
         },
