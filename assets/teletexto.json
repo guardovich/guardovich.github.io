@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T18:59:24.753Z",
+  "generatedAt": "2026-05-04T02:50:34.726Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
@@ -72,46 +72,10 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "NASA Kennedy Center Director Announces Plans to Retire",
-          "link": "https://www.nasa.gov/news-release/nasa-kennedy-center-director-announces-plans-to-retire/",
-          "summary": "NASA announced Friday Janet Petro, center director for the agency’s Kennedy Space Center in Florida, is retiring. Prior to joining NASA, Petro worked in a variety of military and industry positions, ultimately beginning her career at the agency in 2007 and working her way up to center director, as well as serving as acting administrator […]",
-          "isoDate": "2026-05-01T17:01:48.000Z"
-        },
-        {
-          "title": "NASA Artemis II Crew Rings Nasdaq Closing Bell",
-          "link": "https://www.nasa.gov/image-article/nasa-artemis-ii-crew-rings-nasdaq-closing-bell/",
-          "summary": "Nasdaq Chair and Chief Executive Officer Adena T. Friedman, left, and NASA’s Artemis II crewmembers CSA (Canadian Space Agency) astronaut Jeremy Hansen, and NASA astronauts Christina Koch, Victor Glover, and Reid Wiseman, right, ring the closing bell of the Nasdaq market session, Thursday, April 30, 2026. NASA’s Artemis II mission took Wiseman, Glover, Koch, and […]",
-          "isoDate": "2026-05-01T16:08:05.000Z"
-        },
-        {
-          "title": "Key Support Equipment Arrives at Kennedy for Roman Space Telescope",
-          "link": "https://www.nasa.gov/image-article/key-support-equipment-arrives-at-kennedy-for-roman-space-telescope/",
-          "summary": "Technicians at NASA’s Payload Hazardous Servicing Facility (PHSF) at the agency’s Kennedy Space Center in Florida offloaded eight high-efficiency particulate air (HEPA) wall modules and other ground support equipment on April 27. The equipment will support launch processing of the agency’s Nancy Grace Roman Space Telescope. Each 1,800-pound module enhances the PHSF’s clean room systems, helping meet […]",
-          "isoDate": "2026-05-01T15:44:03.000Z"
-        },
-        {
-          "title": "NASA’s STORIE Mission to Tell Tale of Earth’s Ring Current",
-          "link": "https://science.nasa.gov/science-research/heliophysics/nasas-storie-mission-to-tell-tale-of-earths-ring-current/",
-          "summary": "Earth’s magnetic field is like a powerful trap. It lures electrically charged particles in space, near our planet, and snares them in an invisible, doughnut-shaped pen around Earth known as the ring current. This captive swarm of charged particles plays an important role in how Earth reacts to changing conditions in space, called space weather, which […]",
-          "isoDate": "2026-05-01T15:31:08.000Z"
-        },
-        {
-          "title": "Space Out This Summer with Variety of NASA STEM Activities",
-          "link": "https://www.nasa.gov/learning-resources/space-out-this-summer-with-variety-of-nasa-stem-activities/",
-          "summary": "Summer is “Go” for launch, and NASA has a universe of ways to help you to jump in, explore, and create! Whether you prefer to spend this season fueling your creativity, going outdoors into nature, or daydreaming about your future, NASA offers ways to take your interests to the next level.  Here are some opportunities […]",
-          "isoDate": "2026-05-01T14:03:30.000Z"
-        },
-        {
-          "title": "Hubble Spots a Starry Spiral",
-          "link": "https://science.nasa.gov/missions/hubble/hubble-spots-a-starry-spiral/",
-          "summary": "In this new picture from NASA’s Hubble Space Telescope, a spiral galaxy glittering with star clusters is the center of attention. NGC 3137 is located 53 million light-years away in the constellation Antlia (the Air Pump). As a nearby spiral galaxy, this target offers astronomers an excellent opportunity to study the cycle of stellar birth and death, […]",
-          "isoDate": "2026-05-01T11:48:55.000Z"
-        },
-        {
-          "title": "Cyclone Rains Spur Papua New Guinea Landslides",
-          "link": "https://science.nasa.gov/earth/earth-observatory/cyclone-rains-spur-papua-new-guinea-landslides/",
-          "summary": "Heavy rains from Tropical Cyclone Maila triggered a deadly landslide in the mountains of East New Britain.",
-          "isoDate": "2026-05-01T04:01:00.000Z"
+          "title": "ERROR cargando feed",
+          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
+          "isoDate": "2026-05-04T02:50:29.962Z"
         },
         {
           "title": "Author Correction: Titration of RAS alters senescent state and influences tumour initiation",
@@ -130,6 +94,42 @@
           "link": "https://www.nature.com/articles/d41586-026-01075-w",
           "summary": "Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01075-w\nNot a bug, but a feature.",
           "isoDate": "2026-05-01T00:00:00.000Z"
+        },
+        {
+          "title": "US faculty members report high levels of anxiety",
+          "link": "https://www.nature.com/articles/d41586-026-01252-x",
+          "summary": "Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01252-x\nSurveys show the importance of social, familial and structural support in lowering anxiety, particularly for people in health professions.",
+          "isoDate": "2026-05-01T00:00:00.000Z"
+        },
+        {
+          "title": "The exotic particles that could finally break the Standard Model",
+          "link": "https://www.nature.com/articles/d41586-026-01387-x",
+          "summary": "Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01387-x\n‘Penguin’ decays from CERN’s latest Large Hadron Collider experiment hint at weird new physics.",
+          "isoDate": "2026-05-01T00:00:00.000Z"
+        },
+        {
+          "title": "The news is not all bad: five inspiring science stories to lift your mood",
+          "link": "https://www.nature.com/articles/d41586-026-01290-5",
+          "summary": "Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01290-5\nSpecies recovery, cancer-preventing vaccines and progress in developing renewable-energy sources are just some of the positive developments that have happened this year so far.",
+          "isoDate": "2026-05-01T00:00:00.000Z"
+        },
+        {
+          "title": "European funder must increase capacity to meet the ambition of scientists",
+          "link": "https://www.nature.com/articles/d41586-026-01411-0",
+          "summary": "Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01411-0\nTo avoid sabotaging science, the European Research Council needs more funding and structural change.",
+          "isoDate": "2026-05-01T00:00:00.000Z"
+        },
+        {
+          "title": "This organoid can menstruate — and shows how tissue can repair itself",
+          "link": "https://www.nature.com/articles/d41586-026-01428-5",
+          "summary": "Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01428-5\nMini models of the uterus lining give insight into mystery of how it is shed without scarring.",
+          "isoDate": "2026-05-01T00:00:00.000Z"
+        },
+        {
+          "title": "Prestigious European science funder scraps stricter rules after researcher backlash",
+          "link": "https://www.nature.com/articles/d41586-026-01435-6",
+          "summary": "Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01435-6\nThe tough new policy was introduced to curb submissions, but drew criticism from researchers.",
+          "isoDate": "2026-05-01T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-05-03T18:59:19.319Z"
+          "isoDate": "2026-05-04T02:50:31.031Z"
         },
         {
           "title": "Tech Now",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-05-03T18:59:23.077Z"
+          "isoDate": "2026-05-04T02:50:33.411Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-05-03T18:59:20.753Z"
+          "isoDate": "2026-05-04T02:50:32.258Z"
         },
         {
           "title": "With $1 Cyberattacks on the Rise, Durable Defenses Pay Off",
@@ -329,6 +329,11 @@
           "summary": ""
         },
         {
+          "title": "ESP  0-2  REA",
+          "link": "",
+          "summary": ""
+        },
+        {
           "title": "REA  3-0  REA",
           "link": "",
           "summary": ""
@@ -374,11 +379,6 @@
           "summary": ""
         },
         {
-          "title": "VIL  2-1  CEL",
-          "link": "",
-          "summary": ""
-        },
-        {
           "title": "CLASIFICACIÓN",
           "link": "",
           "summary": ""
@@ -394,7 +394,7 @@
           "summary": ""
         },
         {
-          "title": " 2  REA  33  23  5  5  68  31  37  74",
+          "title": " 2  REA  34  24  5  5  70  31  39  77",
           "link": "",
           "summary": ""
         },
@@ -444,12 +444,12 @@
           "summary": ""
         },
         {
-          "title": "12  ESP  33  10  9 14  37  49 -12  39",
+          "title": "12  VAL  34  10  9 15  37  50 -13  39",
           "link": "",
           "summary": ""
         },
         {
-          "title": "13  VAL  34  10  9 15  37  50 -13  39",
+          "title": "13  ESP  34  10  9 15  37  51 -14  39",
           "link": "",
           "summary": ""
         },
