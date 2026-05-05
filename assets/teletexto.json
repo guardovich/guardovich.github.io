@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-05T02:42:29.955Z",
+  "generatedAt": "2026-05-05T08:09:05.265Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
@@ -72,6 +72,12 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "Ahuachapán and Its Restive Neighbors",
+          "link": "https://science.nasa.gov/earth/earth-observatory/ahuachapan-and-its-restive-neighbors/",
+          "summary": "From a geothermal hotspot to the one-time “Lighthouse of the Pacific,” the heat is on beneath the volcanic landscape of western El Salvador.",
+          "isoDate": "2026-05-05T04:01:00.000Z"
+        },
+        {
           "title": "NASA Welcomes Ireland as Newest Artemis Accords Signatory",
           "link": "https://www.nasa.gov/missions/artemis/nasa-welcomes-ireland-as-newest-artemis-accords-signatory/",
           "summary": "Ireland signed the Artemis Accords Monday during a signing ceremony hosted by NASA, becoming the latest nation to commit to the responsible exploration of space for all humanity. Ireland, a longstanding member of ESA (European Space Agency) and a valued international partner for NASA, now joins all 23 ESA member states as a signatory of […]",
@@ -124,12 +130,6 @@
           "link": "https://science.nasa.gov/earth/earth-observatory/record-setting-retreat-of-hektoria-glacier/",
           "summary": "Scientists relied on satellite data to understand how the Antarctic glacier lost so much ice so rapidly.",
           "isoDate": "2026-05-04T04:01:00.000Z"
-        },
-        {
-          "title": "Powerful tools are revealing the ‘control knobs’ of the genome",
-          "link": "https://www.nature.com/articles/d41586-026-01410-1",
-          "summary": "Nature, Published online: 04 May 2026; doi:10.1038/d41586-026-01410-1\nBy accelerating the identification of DNA sequences that control gene expression, assays are revealing the hidden grammar of the regulatory genome — and giving scientists the means to rewrite it",
-          "isoDate": "2026-05-04T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-05-05T02:42:26.194Z"
+          "isoDate": "2026-05-05T08:08:59.122Z"
         },
         {
           "title": "Tech Now",
@@ -204,6 +204,12 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
+          "link": "https://openai.com/index/openai-pwc-finance-collaboration",
+          "summary": "OpenAI and PwC are partnering to help enterprises use AI agents to automate finance workflows, improve forecasting, strengthen controls, and modernize the CFO function.",
+          "isoDate": "2026-05-04T21:00:00.000Z"
+        },
+        {
           "title": "How OpenAI delivers low-latency voice AI at scale",
           "link": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
           "summary": "How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.",
@@ -256,12 +262,6 @@
           "link": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
           "summary": "OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand.",
           "isoDate": "2026-04-29T15:00:00.000Z"
-        },
-        {
-          "title": "The MIT-IBM Computing Research Lab launches to shape the future of AI and quantum computing",
-          "link": "https://news.mit.edu/2026/mit-ibm-computing-research-lab-launches-0429",
-          "summary": "Building on a long-standing MIT–IBM collaboration, the new lab will chart the convergence of AI, algorithms, and quantum computing.",
-          "isoDate": "2026-04-29T10:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-05-05T02:42:28.691Z"
+          "isoDate": "2026-05-05T08:09:03.623Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-05-05T02:42:27.602Z"
+          "isoDate": "2026-05-05T08:09:01.114Z"
         },
         {
           "title": "IEEE Smart Village Is Helping to Electrify Rural Cameroon",
