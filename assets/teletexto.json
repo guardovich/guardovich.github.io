@@ -1,10 +1,34 @@
 {
-  "generatedAt": "2026-05-09T07:55:56.340Z",
+  "generatedAt": "2026-05-09T13:16:56.431Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Let it snow",
+          "link": "https://www.theverge.com/entertainment/926911/snow-video-games-moomins-froggy",
+          "summary": "Water gets all the credit. When gaming companies want to show off new graphics technology, things tend to get wet; splashing waves that are only possible with the latest physics engine, or puddles that can reflect the world around them thanks to ray tracing. But there's something special about snow. It might not be as technically impressive as water, but when it comes to creating a mood in a game, snow can be very powerful. And two recent releases - Moomintroll: Winter's Warmth and Froggy Hates Snow - really capture just what snow is capable of.\nLet's start with the Moomins. Winter's Warmth is the second game based on the iconic Finnish fai …\nRead the full story at The Verge.",
+          "isoDate": "2026-05-09T13:00:00.000Z"
+        },
+        {
+          "title": "The game that makes me actually want to exercise",
+          "link": "https://www.theverge.com/tech/927177/zombies-run-boox-billie-eilish-installer",
+          "summary": "Hi, friends! Welcome to Installer No. 127, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, my Scorpion challenges your Sub-Zero to a duel, and also you can read all the old editions at the Installer homepage.) \nThis week, I've been reading about Hasan Piker and lines and David Sacks and sleep learning, catching up on Andor (for me) and Young Jedi Adventures (for my toddler), poring over thousands of new Artemis II photos, listening to many hours of possibly the longest YouTube video ever, taking more walks thanks to Pedometer++ 8.0, losing my mind during every second of every Arsenal match, and spendi …\nRead the full story at The Verge.",
+          "isoDate": "2026-05-09T12:00:00.000Z"
+        },
+        {
+          "title": "Quantum dot TVs beat RGB LED TVs, says the company that makes QDs for TVs",
+          "link": "https://www.theverge.com/tech/927442/nanosys-sqd-vs-rgb-led",
+          "summary": "RGB LED technology might be everyone’s focus for TV tech in 2026, but quantum-dot TVs still might be the better choice. | Photo by John Higgins / The Verge\t\n\nAt the Los Angeles Convention Center, two 85-inch TVs sat side by side inside the Nanosys meeting room at Display Week - a yearly business-to-business convention focusing on the technology that goes into displays of all types. One TV was a mini-LED panel with super quantum dots, and the other was an RGB LED - this year's hottest TV trend. Both TVs were showing the same content at the same time to highlight the differences between the two technologies - or more specifically, to show the potential failings of RGB LED backlights when compared to super quantum dot (SQD), which uses blue LEDs for the backlight.\nI should probably mention that Nan …\nRead the full story at The Verge.",
+          "isoDate": "2026-05-09T12:00:00.000Z"
+        },
+        {
+          "title": "The new Wild West of AI kids’ toys",
+          "link": "https://arstechnica.com/ai/2026/05/the-new-wild-west-of-ai-kids-toys/",
+          "summary": "These connected companions could disrupt everything from make-believe to bedtime stories. No wonder some lawmakers want them banned.",
+          "isoDate": "2026-05-09T11:00:51.000Z"
+        },
         {
           "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
           "link": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
@@ -40,30 +64,6 @@
           "link": "https://arstechnica.com/health/2026/05/everything-you-need-to-know-about-the-hantavirus-cruise-ship-outbreak/",
           "summary": "\"This is not COVID,\" and other reasons why risk to the public is currently low.",
           "isoDate": "2026-05-08T20:42:35.000Z"
-        },
-        {
-          "title": "Asus chases Elgato with its own secondary touchscreen display",
-          "link": "https://www.theverge.com/games/927333/asus-rog-strix-xg129c-secondary-display",
-          "summary": "Asus's latest gaming monitor is a little smaller than usual. The ROG Strix XG129C, announced on Friday, is a 12.3-inch touchscreen IPS display that's intended to be a sidekick for a larger main monitor, similar to the 14.1-inch secondary display in the 2020 Asus ROG Zephyrus Duo 15. It's a slightly smaller competitor to Corsair's Xeneon Edge, which has a 14.5-inch display, but the same 720p resolution. \nAsus says the XG129C covers 125 percent of the sRGB color gamut and 90 percent of the DCI-P3 color gamut. It also comes with a one-year subscription for the hardware monitoring tool AIDA64 Extreme, which would usually cost $65. Besides actin …\nRead the full story at The Verge.",
-          "isoDate": "2026-05-08T20:34:24.000Z"
-        },
-        {
-          "title": "Amazon is adding a vertical video feed to Prime Video",
-          "link": "https://www.theverge.com/streaming/927327/amazon-prime-video-vertical-video-feed",
-          "summary": "Amazon Prime Video is joining Netflix and Disney Plus in adding a vertical feed of videos to its streaming app. The new \"Clips\" feed will offer a stream of short-form videos from shows and movies, with options to jump into the full title, rent, or buy it.\nPrime Video previously offered a TikTok-style feed with NBA game highlights, but now you can see snippets from titles offered on the platform by scrolling down to the Clips carousel on the app's homepage. \"Every time you visit the experience, you'll see something new based on your viewing history,\" Prime Video says.\nYou can also add shows and movies to your watchlist from the Clips feed a …\nRead the full story at The Verge.",
-          "isoDate": "2026-05-08T20:19:57.000Z"
-        },
-        {
-          "title": "Course correction: Google to link more sources in AI Overviews",
-          "link": "https://arstechnica.com/google/2026/05/google-will-put-more-links-to-websites-in-ai-overviews/",
-          "summary": "Google's AI search will start citing its sources in several new ways.",
-          "isoDate": "2026-05-08T19:43:47.000Z"
-        },
-        {
-          "title": "Court rules Trump's 10% tariff is just as illegal as the tariff it replaced",
-          "link": "https://arstechnica.com/tech-policy/2026/05/trumps-10-global-tariff-is-illegal-court-rules/",
-          "summary": "Trump's vow to impose tariffs a \"different way\" already has the tech industry on edge.",
-          "isoDate": "2026-05-08T19:25:30.000Z"
         }
       ]
     },
@@ -141,7 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-05-09T07:55:52.802Z"
+          "isoDate": "2026-05-09T13:16:52.670Z"
+        },
+        {
+          "title": "How sunburn inspired a new way to store energy",
+          "link": "https://www.bbc.com/news/articles/c62l9gnx775o?at_medium=RSS&at_campaign=rss",
+          "summary": "Molecules that can capture heat could be a useful technology to decarbonise heating.",
+          "isoDate": "2026-05-09T08:28:23.000Z"
         },
         {
           "title": "Tech Now",
@@ -160,12 +166,6 @@
           "link": "https://www.bbc.com/news/articles/clypzxl3lvqo?at_medium=RSS&at_campaign=rss",
           "summary": "The platform said it would remove end-to-end encrypted messages, a major U‑turn by parent company Meta.",
           "isoDate": "2026-05-08T01:31:55.000Z"
-        },
-        {
-          "title": "How sunburn inspired a new way to store energy",
-          "link": "https://www.bbc.com/news/articles/c62l9gnx775o?at_medium=RSS&at_campaign=rss",
-          "summary": "Molecules that can capture heat could be a useful technology to decarbonise heating.",
-          "isoDate": "2026-05-07T23:03:04.000Z"
         },
         {
           "title": "Meta brings High Court challenge over Ofcom fees",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-05-09T07:55:54.976Z"
+          "isoDate": "2026-05-09T13:16:54.952Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-05-09T07:55:54.249Z"
+          "isoDate": "2026-05-09T13:16:53.991Z"
         },
         {
           "title": "Ana Inês Inácio Designs the Future of Wireless",
@@ -324,57 +324,12 @@
       "maxItems": 120,
       "items": [
         {
-          "title": "RESULTADOS (ÚLTIMOS)",
+          "title": "RESULTADOS (EN DIRECTO)",
           "link": "",
           "summary": ""
         },
         {
-          "title": "LEV  3-2  OSA",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "SEV  1-0  REA",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "ESP  0-2  REA",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "REA  3-0  REA",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "GET  0-2  RAY",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "CEL  3-1  ELC",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "OSA  1-2  BAR",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "ALA  2-4  ATH",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "VAL  0-2  ATL",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "VIL  5-1  LEV",
+          "title": "ELC  0-1  ALA",
           "link": "",
           "summary": ""
         },
@@ -444,17 +399,17 @@
           "summary": ""
         },
         {
-          "title": "12  VAL  34  10  9 15  37  50 -13  39",
+          "title": "12  ELC  35   9 12 14  45  53  -8  39",
           "link": "",
           "summary": ""
         },
         {
-          "title": "13  ESP  34  10  9 15  37  51 -14  39",
+          "title": "13  VAL  34  10  9 15  37  50 -13  39",
           "link": "",
           "summary": ""
         },
         {
-          "title": "14  ELC  34   9 11 14  45  53  -8  38",
+          "title": "14  ESP  34  10  9 15  37  51 -14  39",
           "link": "",
           "summary": ""
         },
@@ -469,12 +424,12 @@
           "summary": ""
         },
         {
-          "title": "17  SEV  34  10  7 17  41  55 -14  37",
+          "title": "17  ALA  35   9 10 16  40  53 -13  37",
           "link": "",
           "summary": ""
         },
         {
-          "title": "18  ALA  34   9  9 16  40  53 -13  36",
+          "title": "18  SEV  34  10  7 17  41  55 -14  37",
           "link": "",
           "summary": ""
         },
