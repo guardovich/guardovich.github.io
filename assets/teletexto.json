@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-09T19:01:05.353Z",
+  "generatedAt": "2026-05-10T02:54:36.777Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-05-09T19:00:59.113Z"
+          "isoDate": "2026-05-10T02:54:31.911Z"
         },
         {
           "title": "How sunburn inspired a new way to store energy",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-05-09T19:01:03.316Z"
+          "isoDate": "2026-05-10T02:54:34.987Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-05-09T19:01:00.849Z"
+          "isoDate": "2026-05-10T02:54:33.243Z"
         },
         {
           "title": "Ana Inês Inácio Designs the Future of Wireless",
@@ -324,57 +324,12 @@
       "maxItems": 120,
       "items": [
         {
-          "title": "RESULTADOS (ÚLTIMOS)",
+          "title": "RESULTADOS (EN DIRECTO)",
           "link": "",
           "summary": ""
         },
         {
-          "title": "LEV  3-2  OSA",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "SEV  1-0  REA",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "ESP  0-2  REA",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "REA  3-0  REA",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "GET  0-2  RAY",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "CEL  3-1  ELC",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "OSA  1-2  BAR",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "ALA  2-4  ATH",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "VAL  0-2  ATL",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "VIL  5-1  LEV",
+          "title": "REA  0-1  REA",
           "link": "",
           "summary": ""
         },
@@ -409,7 +364,7 @@
           "summary": ""
         },
         {
-          "title": " 5  REA  35  13 15  7  52  41  11  54",
+          "title": " 5  REA  35  13 15  7  54  43  11  54",
           "link": "",
           "summary": ""
         },
@@ -419,12 +374,12 @@
           "summary": ""
         },
         {
-          "title": " 7  REA  35  11 11 13  52  53  -1  44",
+          "title": " 7  GET  34  13  5 16  28  36  -8  44",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 8  GET  34  13  5 16  28  36  -8  44",
+          "title": " 8  REA  35  11 11 13  54  55  -1  44",
           "link": "",
           "summary": ""
         },
