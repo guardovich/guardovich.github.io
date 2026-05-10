@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T02:54:36.777Z",
+  "generatedAt": "2026-05-10T08:07:14.102Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-05-10T02:54:31.911Z"
+          "isoDate": "2026-05-10T08:07:10.357Z"
         },
         {
           "title": "How sunburn inspired a new way to store energy",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-05-10T02:54:34.987Z"
+          "isoDate": "2026-05-10T08:07:12.474Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-05-10T02:54:33.243Z"
+          "isoDate": "2026-05-10T08:07:11.759Z"
         },
         {
           "title": "Ana Inês Inácio Designs the Future of Wireless",
@@ -324,12 +324,57 @@
       "maxItems": 120,
       "items": [
         {
-          "title": "RESULTADOS (EN DIRECTO)",
+          "title": "RESULTADOS (ÚLTIMOS)",
           "link": "",
           "summary": ""
         },
         {
-          "title": "REA  0-1  REA",
+          "title": "REA  2-2  REA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "ATL  0-1  CEL",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "SEV  2-1  ESP",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "ELC  1-1  ALA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "LEV  3-2  OSA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "SEV  1-0  REA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "ESP  0-2  REA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "REA  3-0  REA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "GET  0-2  RAY",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "CEL  3-1  ELC",
           "link": "",
           "summary": ""
         },
