@@ -1,69 +1,69 @@
 {
-  "generatedAt": "2026-05-12T14:24:44.663Z",
+  "generatedAt": "2026-05-12T19:51:10.886Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
         {
-          "title": "Amazon’s ultrafast 30-minute deliveries are now available in more cities",
-          "link": "https://www.theverge.com/tech/928473/amazons-ultrafast-30-minute-deliveries-are-now-available-in-more-cities",
-          "summary": "Items like groceries, medicines, and electronics are now available in less than an hour. | Image: Amazon\t\n\nFollowing a limited test run in parts of Seattle and Philadelphia that started last December, Amazon Now is officially available to millions of Amazon shoppers across the United States. In addition to Seattle and Philadelphia, the 30-minute delivery service is now also widely available in Atlanta and Dallas-Fort Worth, but will soon be expanding to more cities including Austin, Houston, Minneapolis, Orlando, Phoenix, Denver, and Oklahoma City.\nThere are currently thousands of items eligible for 30-minute deliveries including fresh milk and produce, over-the-counter medicines, household essentials like laundry detergent, and even small elect …\nRead the full story at The Verge.",
-          "isoDate": "2026-05-12T13:34:12.000Z"
+          "title": "“Will I be OK?” Teen died after ChatGPT pushed deadly mix of drugs, lawsuit says",
+          "link": "https://arstechnica.com/tech-policy/2026/05/will-i-be-ok-teen-died-after-chatgpt-pushed-deadly-mix-of-drugs-lawsuit-says/",
+          "summary": "Teen trusted ChatGPT to help him “safely” experiment with drugs, logs show.",
+          "isoDate": "2026-05-12T19:00:25.000Z"
         },
         {
-          "title": "Amazon employees are \"tokenmaxxing\" due to pressure to use AI tools",
-          "link": "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/",
-          "summary": "Workers are using an internal AI tool to automate non-essential tasks.",
-          "isoDate": "2026-05-12T13:33:05.000Z"
+          "title": "Microsoft will lean on your CPU to speed up Windows 11's apps and animations",
+          "link": "https://arstechnica.com/gadgets/2026/05/speed-boosting-low-latency-profile-is-one-of-the-improvements-coming-to-windows-11/",
+          "summary": "\"All modern operating systems do this, including macOS and Linux.\"",
+          "isoDate": "2026-05-12T17:49:21.000Z"
         },
         {
-          "title": "Waymo recalls robotaxis for driving on flooded roads",
-          "link": "https://www.theverge.com/transportation/928480/waymo-recall-flooded-roads-robotaxi",
-          "summary": "A Waymo drives across Congress Avenue on 8th Street in front of the Capitol Building as rain arrives in the Austin area on Friday, Jan. 23, 2025 ahead of anticipated drops in temperature and freezing rain over the weekend. (Sara Diggins/The Austin American-Statesman via Getty Images) | Image: Getty\t\n\nWaymo is recalling its autonomous driving software that allowed its vehicles to drive on flooded roads. The recall affects 3,791 vehicles that operate using Waymo's fifth and sixth generation systems. \nIn documents filed with the National Highway Traffic Safety Administration, the Alphabet-owned company said that an unoccupied Waymo robotaxi \"encountered an untraversable flooded section of a roadway that has a 40 mph speed limit.\" Despite detecting the flooded road, the vehicle \"proceeded at reduced speed.\" Waymo said it was currently working on a remedy. In the interim, the company has updated its vehicles to \"increase weather-related cons …\nRead the full story at The Verge.",
-          "isoDate": "2026-05-12T13:32:39.000Z"
+          "title": "Sam Altman says Elon Musk’s mind games were damaging OpenAI",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/928861/openai-sam-altman-elon-musk-damage",
+          "summary": "OpenAI CEO Sam Altman says Elon Musk did \"huge damage\" to the culture of the AI startup. During testimony as part of Musk's lawsuit against OpenAI, Altman said Musk required OpenAI president Greg Brockman and former chief scientist Ilya Sutskever to rank researchers by their accomplishments and \"take a chainsaw through a bunch.\"\nAltman conceded that this was the management style the Tesla CEO was known for, but that it was incompatible with his startup. \"I don't think Mr. Musk understood how to run a good research lab,\" Altman testified when his lawyer, William Savitt, asked about the impact of Musk's departure from OpenAI on morale. \"For a …\nRead the full story at The Verge.",
+          "isoDate": "2026-05-12T17:34:09.000Z"
         },
         {
-          "title": "Canvas owner reaches &#8216;agreement&#8217; with hackers to secure stolen data",
-          "link": "https://www.theverge.com/tech/928470/instructure-canvas-hack-shinyhunters-ransom-agreement",
-          "summary": "Instructure, the company behind the Canvas learning management platform, says it has \"reached an agreement\" with hackers that breached its systems last week to prevent stolen data from being leaked online. \nThe ShinyHunters hacking group claimed responsibility for the attack before Canvas was briefly taken offline. The group threatened to publish 3.5 terabytes of student data if ransom demands for a \"settlement\" weren't met. Now, Instructure says the stolen data has been returned as part of its unspecified \"agreement\" with the hackers, alongside a promise that \"no Instructure customers will be extorted as a result of this incident.\"\n\"We un …\nRead the full story at The Verge.",
-          "isoDate": "2026-05-12T13:23:10.000Z"
+          "title": "eBay rejects GameStop's $56B offer: \"Your proposal is neither credible nor attractive\"",
+          "link": "https://arstechnica.com/tech-policy/2026/05/ebay-rejects-gamestops-56b-offer-your-proposal-is-neither-credible-nor-attractive/",
+          "summary": "eBay board doubts GameStop's ability to buy and operate the much larger firm.",
+          "isoDate": "2026-05-12T17:18:04.000Z"
         },
         {
-          "title": "Spotify’s latest ‘Wrapped’ covers your entire music history",
-          "link": "https://www.theverge.com/entertainment/928395/spotify-20th-anniversary-wrapped-recap",
-          "summary": "Its like a “Wrapped” but for your entire Spotify listening history. | Image by Spotify / The Verge\t\n\nSpotify is celebrating its 20th anniversary by giving listeners a \"fully personalized look at their entire music history.\" Starting today, Spotify mobile app users can access a new Wrapped-like experience that features \"never-before-shared data\" going back to when they first joined the service.\nThe \"Spotify 20: Your Party of the Year(s)\" experience will allow users to look back on their first day on Spotify, the first song they streamed, their most-listened to artist, and the total number of unique songs listened to since creating their account. Spotify is also putting together an All-Time Top Songs Playlist that includes the top 120 tracks …\nRead the full story at The Verge.",
-          "isoDate": "2026-05-12T12:15:00.000Z"
+          "title": "Google's Android-powered laptops are called Googlebooks, and they're coming this year",
+          "link": "https://arstechnica.com/gadgets/2026/05/googles-android-powered-laptops-are-called-googlebooks-and-theyre-coming-this-year/",
+          "summary": "Google has revealed its vision for the AI laptop of tomorrow.",
+          "isoDate": "2026-05-12T17:00:49.000Z"
         },
         {
-          "title": "The Download: a Nobel winner on AI, and the case for fixing everything",
-          "link": "https://www.technologyreview.com/2026/05/12/1137103/the-download-nobel-winner-ai-maintenance-of-everything/",
-          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Three things in AI to watch, according to a Nobel-winning economist A few months before he won the Nobel Prize in economics in 2024, Daron Acemoglu published a paper that earned…",
-          "isoDate": "2026-05-12T12:10:00.000Z"
+          "title": "Android is getting a big AI overhaul in 2026",
+          "link": "https://arstechnica.com/gadgets/2026/05/google-says-android-is-getting-a-big-ai-overhaul-in-2026/",
+          "summary": "Google has big plans for Android in 2026, and most of it is AI.",
+          "isoDate": "2026-05-12T17:00:41.000Z"
         },
         {
-          "title": "Once again, SpaceX has set a new record for the tallest rocket ever built",
-          "link": "https://arstechnica.com/space/2026/05/spacex-completes-fueling-test-setting-stage-for-first-launch-of-starship-v3/",
-          "summary": "SpaceX cleared an important milestone Monday on the road to launching a new version of Starship.",
-          "isoDate": "2026-05-12T11:00:34.000Z"
+          "title": "Android Auto is now one (screen) size fits all",
+          "link": "https://www.theverge.com/tech/927759/android-auto-is-now-one-screen-size-fits-all",
+          "summary": "This week at I/O, Google rolled out a series of major updates for Android Auto that include better sizing for unconventionally shaped screens, video streaming through YouTube, widget support, and of course, more AI-powered Gemini features. The company also announced some updates for cars that run on Google's built-in native software, including the ability to ask Gemini questions that are specific to the car you're driving.\nFirst off, it's screen size. It used to be that in-car screens all came in the same basic shape. But now the standard rectangle has evolved into a variety of curved, panoramic, swooping, and even circular displays. Google …\nRead the full story at The Verge.",
+          "isoDate": "2026-05-12T17:00:00.000Z"
         },
         {
-          "title": "How to watch Google’s Android Show: I/O Edition today",
-          "link": "https://www.theverge.com/tech/928276/google-android-show-io-edition-2026-how-to-watch",
-          "summary": "Google I/O is still a week away, but Google's big announcements kick off today with the \"Android Show: I/O Edition,\" where it's expected to announce the major Android ecosystem highlights coming to its annual developer conference.\nWhen the Android Show will happen and where you can watch it\nAndroid Show: I/O Edition will be streaming live on YouTube and the Android website on Tuesday, May 12th at 10AM PT / 1PM ET. Based on last year's Android Show, we can expect the highlights to include a look at the next major Android update along with announcements about Gemini features on Android and potentially teases of some more forward-facing proje …\nRead the full story at The Verge.",
-          "isoDate": "2026-05-12T11:00:00.000Z"
+          "title": "Google announces its Chromebook successor: the Googlebook",
+          "link": "https://www.theverge.com/tech/928479/google-googlebook-laptops-android-tease-aluminium-chromebook",
+          "summary": "Google is announcing a new line of laptops coming in the fall called Googlebooks. Details are sparse for now, as the tease is just a small part of various Android announcements during Google's Android Show. But we do know this is a major new initiative in the laptop space for Google, seemingly designed to succeed Chromebooks with something more capable: a platform running a long-rumored new operating system based on a fusion of Android and ChromeOS.\nThat operating system, through various leaks, has been referred to as Aluminium OS. Google isn't announcing the OS's real name or giving many details about it just yet. \"We'll have more to share …\nRead the full story at The Verge.",
+          "isoDate": "2026-05-12T17:00:00.000Z"
         },
         {
-          "title": "eBay rejects GameStop’s $56 billion acquisition bid",
-          "link": "https://www.theverge.com/games/928436/ebay-rejects-gamestop-acquisition-bid",
-          "summary": "No thank you, we’re good. | Photo by Brandon Bell/Getty Images\t\n\neBay has officially rejected GameStop's offer to buy the online marketplace for $56 billion, citing concerns around \"operational risks\" and how the acquisition will be financed. In a letter to GameStop CEO Ryan Cohen on Tuesday, eBay's board of directors said it has \"concluded that your proposal is neither credible nor attractive.\"\n\"We have taken into account such factors as 1) eBay's standalone prospects, 2) the uncertainty regarding your financing proposal, 3) the impact of your proposal on eBay's long-term growth and profitability, 4) the leverage, operational risks, and leadership structure of a combined entity, 5) the resulting implic …\n\nRead the full story at The Verge.",
-          "isoDate": "2026-05-12T10:55:02.000Z"
+          "title": "The 9 biggest new features in Android 17",
+          "link": "https://www.theverge.com/tech/928653/google-android-17-9-biggest-new-features-android-show-io",
+          "summary": "AI-generated widgets are among the features coming to Android this year. | Screenshot: Google\t\n\nWould it shock you to hear that Android 17 is filled with new AI-enabled features, like improved dictation and vibe-coded widgets? Fortunately, that's not all. The platform is getting non-AI updates too, from an emoji overhaul to a new screentime tool that helps you avoid distracting apps.\nGoogle has just revealed the biggest changes coming in its next OS update as part of its dedicated Android Show, ahead of next week's big I/O developer conference. The Android software updates came alongside a tease of upcoming Android-powered Googlebook laptops and a host of Android Auto updates. Here are all the new updates that matter and when you can  …\nRead the full story at The Verge.",
+          "isoDate": "2026-05-12T17:00:00.000Z"
         },
         {
-          "title": "These new Roombas are smaller and cheaper",
-          "link": "https://www.theverge.com/tech/928373/irobot-roomba-robot-vacuums-price-specs-release-date",
-          "summary": "iRobot upgrades its lidar-based robot vacuum line with eight new models. | Image: iRobot\t\n\niRobot has announced a new line of Roombas, a year after it debuted its first lidar-based robot vacuums. This week, it introduced eight robot vacuums that improve on its current lineup and feature lower prices, some up to £200 (about $270) cheaper. Key changes include higher suction power, a smaller overall size to better navigate your home, more models with roller mops, and the introduction of \"hot spot mopping.\" \niRobot filed for bankruptcy late last year, underwent a reboot, and is now owned by Shenzhen Picea Robotics, a Chinese original design manufacturer of robotic vacuums. The company says its new lineup is up to 25 percent smaller f …\nRead the full story at The Verge.",
-          "isoDate": "2026-05-12T09:02:25.000Z"
+          "title": "Gemini&#8217;s latest updates are all about controlling your phone",
+          "link": "https://www.theverge.com/tech/928724/gemini-intelligence-android-io-autofill",
+          "summary": "Gemini Intelligence comes with a Liquid Glass-ish visual treatment. | Image: Google\t\n\nIt is, once again, Gemini season. Google is announcing a host of new Gemini features during its pre-I/O Android showcase, many of which aim to help use your phone for you. You'll find Gemini in more places, like Chrome on Android, in your autofill suggestions, and all up in your apps - if you want.\nGoogle also has a new name for us to remember, because it just can't help itself: Gemini Intelligence. It \"brings the very best of Gemini to our most advanced Android devices,\" according to Google's director of Android experiences, Ben Greenwood. Google is bundling some existing and new Gemini features under this name, and seems to be reserving t …\nRead the full story at The Verge.",
+          "isoDate": "2026-05-12T17:00:00.000Z"
         }
       ]
     },
@@ -71,6 +71,48 @@
       "header": "120  CIENCIA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "NASA Langley Engineer Attends FAA Training",
+          "link": "https://www.nasa.gov/general/nasa-langley-engineer-attends-faa-training/",
+          "summary": "At a busy airport, every aircraft in the area shares just a handful of radio frequencies. Spectrum and time are constrained and if multiple people speak at once, both messages can get lost. Communications like “clearance delivery,” which require long transmissions and readbacks, are challenging in high-traffic areas, particularly when weather or other factors require […]",
+          "isoDate": "2026-05-12T18:57:31.000Z"
+        },
+        {
+          "title": "Perseverance Stuns in New Selfie",
+          "link": "https://www.nasa.gov/image-article/perseverance-stuns-in-new-selfie/",
+          "summary": "NASA’s Perseverance rover recently took a self-portrait against a sweeping backdrop of ancient Martian terrain at a location the science team calls “Lac de Charmes.” Assembled from 61 individual images, the selfie shows Perseverance training its mast on a rocky outcrop in the foreground after creating a circular abrasion patch, with the western rim of […]",
+          "isoDate": "2026-05-12T17:22:51.000Z"
+        },
+        {
+          "title": "NASA’s Perseverance Rover Snaps Selfie in Mars’ Western Frontier ",
+          "link": "https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-snaps-selfie-in-mars-western-frontier/",
+          "summary": "NASA’s Perseverance Mars rover recently took a self-portrait against a sweeping backdrop of ancient Martian terrain at a location the science team calls “Lac de Charmes.” Assembled from 61 individual images, the selfie shows Perseverance training its mast on a rocky outcrop on which it had just made a circular abrasion patch, with the western […]",
+          "isoDate": "2026-05-12T16:48:31.000Z"
+        },
+        {
+          "title": "NASA’s Perseverance Captures Panorama at ‘Arbot’",
+          "link": "https://science.nasa.gov/photojournal/nasas-perseverance-captures-panorama-at-arbot/",
+          "summary": "Description NASA’s Perseverance Mars rover used its Mastcam-Z camera to capture this panorama of an area nicknamed “Arbot” on April 5, 2026, the 1,882nd Martian day, or sol, of the mission, during the rover’s deepest push west beyond Jezero Crater. Made of 46 images, the panorama offers one of the richest geological vistas of the […]",
+          "isoDate": "2026-05-12T16:46:56.000Z"
+        },
+        {
+          "title": "NASA’s Perseverance Rover Snaps Westernmost Selfie",
+          "link": "https://science.nasa.gov/photojournal/nasas-perseverance-rover-snaps-westernmost-selfie/",
+          "summary": "Description NASA’s Perseverance Mars rover took this selfie on March 11, 2026, the 1,797th Martian day, or sol, of the mission, during the rover’s deepest push west beyond Jezero Crater. Assembled from 61 individual images, the selfie shows Perseverance training its mast on the “Arethusa” rocky outcrop after creating a whitish circular abrasion patch. The […]",
+          "isoDate": "2026-05-12T16:45:58.000Z"
+        },
+        {
+          "title": "Hello Universe: NASA’s Next-Gen Space Processor Undergoes Testing",
+          "link": "https://www.nasa.gov/technology/hello-universe-nasas-next-gen-space-processor-undergoes-testing/",
+          "summary": "NASA’s High Performance Spaceflight Computing project aims to dramatically improve the computing power of spacecraft. Missions need processors that can withstand the harsh space environment, so they use chips developed years ago that are hardy and reliable. But upgraded chips are needed to enable the development of autonomous spacecraft, accelerate the rate of scientific discovery […]",
+          "isoDate": "2026-05-12T15:02:47.000Z"
+        },
+        {
+          "title": "I Am Artemis: Kathleen Harmon",
+          "link": "https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-kathleen-harmon/",
+          "summary": "Listen to this audio excerpt from Kathleen Harmon, the Artemis II Mission Interface Manager for NASA’s Deep Space Network: Captivated by Apollo launches on her television as a child, Kathleen Harmon now plays a key role in NASA’s Artemis program. Harmon serves as the Artemis II mission interface manager for NASA’s Deep Space Network, an […]",
+          "isoDate": "2026-05-12T14:40:56.000Z"
+        },
         {
           "title": "Australia’s Cloudy Beauty",
           "link": "https://science.nasa.gov/earth/earth-observatory/australias-cloudy-beauty/",
@@ -88,48 +130,6 @@
           "link": "https://science.nasa.gov/photojournal/nasas-curiosity-takes-close-look-at-rock-that-got-stuck-on-drill/",
           "summary": "Description NASA’s Curiosity Mars rover used its Mast Camera, or Mastcam, to capture this view of a rock nicknamed “Atacama” on May 6, 2026, the 4,877th Martian day, or sol, of the mission. The rock had gotten stuck to the drill on the end of Curiosity’s robotic arm on April 25. Engineers spent several days […]",
           "isoDate": "2026-05-12T00:09:41.000Z"
-        },
-        {
-          "title": "Author Correction: Predictive coding of reward in the hippocampus",
-          "link": "https://www.nature.com/articles/s41586-026-10615-3",
-          "summary": "Nature, Published online: 12 May 2026; doi:10.1038/s41586-026-10615-3\nAuthor Correction: Predictive coding of reward in the hippocampus",
-          "isoDate": "2026-05-12T00:00:00.000Z"
-        },
-        {
-          "title": "Author Correction: A mechanical ratchet drives unilateral cytokinesis",
-          "link": "https://www.nature.com/articles/s41586-026-10618-0",
-          "summary": "Nature, Published online: 12 May 2026; doi:10.1038/s41586-026-10618-0\nAuthor Correction: A mechanical ratchet drives unilateral cytokinesis",
-          "isoDate": "2026-05-12T00:00:00.000Z"
-        },
-        {
-          "title": "Cruise-ship hantavirus cluster exposes a wider preparedness gap",
-          "link": "https://www.nature.com/articles/d41586-026-01518-4",
-          "summary": "Nature, Published online: 12 May 2026; doi:10.1038/d41586-026-01518-4\nCruise-ship hantavirus cluster exposes a wider preparedness gap",
-          "isoDate": "2026-05-12T00:00:00.000Z"
-        },
-        {
-          "title": "Charles Darwin reports a squirrel surprise",
-          "link": "https://www.nature.com/articles/d41586-026-01334-w",
-          "summary": "Nature, Published online: 12 May 2026; doi:10.1038/d41586-026-01334-w\nAn unexpected creature munches on cherry blossom flowers, and the value of drawing art is considered in this week’s pick from the Nature archive.",
-          "isoDate": "2026-05-12T00:00:00.000Z"
-        },
-        {
-          "title": "UK Biobank breach prompts the field of genomics to rethink open science",
-          "link": "https://www.nature.com/articles/d41586-026-01520-w",
-          "summary": "Nature, Published online: 12 May 2026; doi:10.1038/d41586-026-01520-w\nUK Biobank breach prompts the field of genomics to rethink open science",
-          "isoDate": "2026-05-12T00:00:00.000Z"
-        },
-        {
-          "title": "Ice core reveals longest-ever continuous record of Earth’s climate",
-          "link": "https://www.nature.com/articles/d41586-026-01523-7",
-          "summary": "Nature, Published online: 12 May 2026; doi:10.1038/d41586-026-01523-7\nData from Antarctica could help to solve the mystery of why ice ages were so brutal.",
-          "isoDate": "2026-05-12T00:00:00.000Z"
-        },
-        {
-          "title": "Animal-testing alternatives will require a cultural change in research institutions",
-          "link": "https://www.nature.com/articles/d41586-026-01519-3",
-          "summary": "Nature, Published online: 12 May 2026; doi:10.1038/d41586-026-01519-3\nAnimal-testing alternatives will require a cultural change in research institutions",
-          "isoDate": "2026-05-12T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-05-12T14:24:40.507Z"
+          "isoDate": "2026-05-12T19:51:06.248Z"
+        },
+        {
+          "title": "Tech Life",
+          "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
+          "summary": "Cameras, vehicles and AI technology - can our roads be made safer?",
+          "isoDate": "2026-05-12T19:45:00.000Z"
+        },
+        {
+          "title": "Sam Altman: Elon Musk said control of OpenAI should go to his children",
+          "link": "https://www.bbc.com/news/articles/czj2k2exdzlo?at_medium=RSS&at_campaign=rss",
+          "summary": "Sam Altman said Elon Musk tried many times for total control of OpenAI, which he's now suing.",
+          "isoDate": "2026-05-12T18:51:56.000Z"
         },
         {
           "title": "Canvas hack: Company pays criminals to delete students' stolen data",
@@ -184,18 +196,6 @@
           "link": "https://www.bbc.co.uk/iplayer/episode/m002wcyp?at_medium=RSS&at_campaign=rss",
           "summary": "Andrew Rogers explores new tech trials helping people stay underwater for longer.",
           "isoDate": "2026-05-09T01:00:00.000Z"
-        },
-        {
-          "title": "TikTok scales back AI-generated video descriptions after absurd errors",
-          "link": "https://www.bbc.com/news/articles/c5yerd05n01o?at_medium=RSS&at_campaign=rss",
-          "summary": "While only rolled out to some users, the feature's bizarre AI-generated descriptions were shared widely.",
-          "isoDate": "2026-05-08T09:20:40.000Z"
-        },
-        {
-          "title": "Instagram privacy tech is turned off today - what does this mean for your DMs?",
-          "link": "https://www.bbc.com/news/articles/clypzxl3lvqo?at_medium=RSS&at_campaign=rss",
-          "summary": "The platform said it would remove end-to-end encrypted messages, a major U‑turn by parent company Meta.",
-          "isoDate": "2026-05-08T01:31:55.000Z"
         }
       ]
     },
@@ -204,21 +204,39 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "Q&A: Expanding MIT’s global reach through Universal Learning",
+          "link": "https://news.mit.edu/2026/qa-expanding-mit-global-reach-through-universal-learning-0512",
+          "summary": "Dimitris Bertsimas and Megan Mitchell discuss the motivation behind Universal Learning, and what sets the new MIT Open Learning educational initiative apart.",
+          "isoDate": "2026-05-12T15:00:00.000Z"
+        },
+        {
+          "title": "Universal AI is “a pathway to AI fluency that’s accessible and approachable to anyone, anywhere”",
+          "link": "https://news.mit.edu/2026/universal-ai-pathway-to-ai-fluency-accessible-to-anyone-0512",
+          "summary": "New AI education program from MIT Open Learning debuts with AI-powered personalization and a free introductory course for learners everywhere.",
+          "isoDate": "2026-05-12T15:00:00.000Z"
+        },
+        {
+          "title": "What Parameter Golf taught us about AI-assisted research",
+          "link": "https://openai.com/index/what-parameter-golf-taught-us",
+          "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
+          "isoDate": "2026-05-12T00:00:00.000Z"
+        },
+        {
           "title": "How ChatGPT adoption broadened in early 2026",
           "link": "https://openai.com/signals/research/2026q1-update",
           "summary": "ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption.",
           "isoDate": "2026-05-11T15:00:00.000Z"
         },
         {
-          "title": "OpenAI Campus Network: Student club interest form",
-          "link": "https://openai.com/index/openai-campus-network-student-club-interest-form",
-          "summary": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
-          "isoDate": "2026-05-11T10:00:00.000Z"
-        },
-        {
           "title": "How enterprises are scaling AI",
           "link": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
           "summary": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
+          "isoDate": "2026-05-11T10:00:00.000Z"
+        },
+        {
+          "title": "OpenAI Campus Network: Student club interest form",
+          "link": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+          "summary": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
           "isoDate": "2026-05-11T10:00:00.000Z"
         },
         {
@@ -244,24 +262,6 @@
           "link": "https://openai.com/index/parloa",
           "summary": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions.",
           "isoDate": "2026-05-07T11:00:00.000Z"
-        },
-        {
-          "title": "Advancing voice intelligence with new models in the API",
-          "link": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
-          "summary": "Explore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences.",
-          "isoDate": "2026-05-07T10:00:00.000Z"
-        },
-        {
-          "title": "Study: Firms often use automation to control certain workers’ wages",
-          "link": "https://news.mit.edu/2026/study-firms-often-use-automation-control-certain-workers-wages-0507",
-          "summary": "MIT economists found US companies tend to target employees earning a “wage premium,” which increases inequality but not necessarily productivity.",
-          "isoDate": "2026-05-07T04:00:00.000Z"
-        },
-        {
-          "title": "Introducing Trusted Contact in ChatGPT",
-          "link": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
-          "summary": "Introducing Trusted Contact in ChatGPT, an optional safety feature that notifies someone you trust if serious self-harm concerns are detected.",
-          "isoDate": "2026-05-07T00:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,25 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-05-12T14:24:43.338Z"
+          "isoDate": "2026-05-12T19:51:09.296Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-05-12T14:24:42.443Z"
+          "isoDate": "2026-05-12T19:51:07.693Z"
+        },
+        {
+          "title": "IEEE Program Aims to Connect the Billions Who Are Still Offline",
+          "link": "https://spectrum.ieee.org/ieee-connect-the-unconnected",
+          "summary": "Given how integral the Internet has become to everyday tasks such as shopping, paying bills, and holding virtual meetings, it’s interesting that nearly 30 percent of the global population still has no access to it. More than 2 billion people are still offline, according to a report released in November by the International Telecommunication Union.\nMore and more people are being connected, though, thanks to IEEE Future Networks’ Connecting the Unconnected (CTU) and similar programs. Since 2021, the technical community has been working to accelerate the development, standardization, and deployment of 5G, 6G, and future generations.\nEvery year, CTU holds a worldwide competition to seek out innovators who are in the early stages of developing technologies or applications to provide greater access. It also holds an annual summit that brings together experts, community leaders, and other interested parties to discuss strategies to expand access and foster digital inclusion.\nCTU expanded in several ways last year. It launched regional summits to focus on local connectivity issues, organized community-focused events, and established an expanded mentorship program to further support contest winners and the next generation of technological innovators impacting humanity. The program also partners with the IEEE Standards Association (IEEE SA) to develop guidelines for some of the submitted innovations.\n“IEEE Future Networks has created a community to bring all these initiatives working on digital connectivity together in a single platform and leverage the IEEE brand to help raise the visibility of their work,” says IEEE Life Fellow Sudhir Dixit, a CTU cochair and a Basic Internet Foundation cofounder, which also works to expand Internet access.\nA contest for new connectivity methods\nThe CTU challenge, launched in 2021, typically receives 200 to 300 submissions each year, Dixit says. Last year 245 projects from 52 countries were submitted. Participants include academics, nonprofit organizations, startups, and students.\nProjects can be entered into one of three categories. The Technology Applications category is for new connectivity methods or innovations that broaden broadband access. Those who improve the affordability of Internet services can enter the Business Model category. The Community Enablement category is for strategies that promote public broadband adoption.\nAfter selecting a category, entrants choose between two tracks based on their project’s maturity. The proof-of-concept route is for early-stage but functional technology that has already produced results. The conceptual path is for projects in the theoretical phase that have not undergone full testing.\n“IEEE Future Networks has created a community to bring all these initiatives working on digital connectivity together in a single platform and leverage the IEEE brand to help raise the visibility of their work.” —Sudhir Dixit, Connecting the Unconnected cochair\nLast year’s challenge submission period was from March to June, with judging phases from June through November. The 20 winners presented their solutions in December at a virtual Winners Summit. Fourteen projects received prize money, ranging from US $500 to $2,500. Six finalists earned an honorable mention at the summit.\nThe awards amounts have varied over the years, based on the sponsorship.\nAmong the winners were a solar-powered community broadband network in Tanzania, a low-cost method for accessing the Internet that uses FM radio and a short message service (SMS), and a strategy for utilizing India’s rural broadband infrastructure to deliver medical services to people living in isolated, tribal, and other underserved regions.\n“Our job is to help further develop the technology, look for gaps, and see if it is good enough to be applied to rural villages, like those in Africa and India,” says IEEE Fellow Ashutosh Dutta, who is a CTU cochair and a professor at Johns Hopkins University, in Baltimore. “The idea behind the contest is to make sure the technology actually gets implemented at the grassroots level and is being used by the local community.”\nThis year’s challenge submission period runs until 19 June, with judging phases from July through October.\n The finalists of the 2025 IEEE Connect the Unconnected challenge describe their projects.IEEE Future Networks\nLocal connectivity discussions\nThe CTU program hosted three regional summits last year. The North American event was held in September in Washington, D.C. In November, the Global/Asia-Pacific meeting took place in Bangalore, India; it was co-located with the IEEE Future Networks World Forum. The Europe, Middle East, and Africa summit also was held in November, in Abuja, Nigeria.\nTopics discussed at the summits included infrastructure solutions for universal connectivity; sustainable business models; scaling homegrown technologies; and policy, regulation, and financing issues.\nAs of press time, the dates for this year’s regional summits had not been announced.\nCommunity-focused events\nTo help bridge the gap between ideas and their deployment, the Connect a Community event was established to demonstrate how some new technologies might benefit people. The inaugural event was held in November in Bengaluru, India. During the daylong program, 10 of the challenge winners demonstrated their connectivity solutions to villagers from seven rural communities.\nDutta credits IEEE Life Fellow Rakesh Kumar with devising the event. Kumar chairs IEEE Future Directions, which was where Future Networks got its start in 2017 as the 5G Initiative.\n“Kumar wants to ensure the winning technologies are going to be useful for the community,” Dutta says.\nProviding entrepreneurs with business skills\nDixit says the Future Networks team believed that simply conducting a competition and distributing prizes wasn’t enough.\n“We wanted to follow up with the winners, monitor their progress, and help them turn their ideas into a business,” he says.\nTo accomplish that, IEEE launched the Empowerment Through Mentorship program, in which budding entrepreneurs are paired with industry leaders and experienced mentors who provide them with 1,000 days of guidance, coaching them on scaling up their business.\n“We launched the mentorship program to further the cause,” Dixit says. “These people may be good at developing technology, but they don’t know the marketing challenges, how to raise money, and other factors.”\nThe Lemelson Foundation, an organization in Portland, Ore., that partners with IEEE, collaborated on the mentorship program. The foundation’s philanthropic strategy is to cultivate a robust ecosystem for entrepreneurs in East Africa, India, and the United States. It does so by providing the entrepreneurs with tools including financing options and access to communities that share their passion.\nThe foundation chose to partner with IEEE “because of its powerful international network and focus on electrical engineering, which is a critical element of communications and energy infrastructure globally,” says Kory Murphy, Lemelson’s program officer for U.S. invention and entrepreneurship.\n“Other factors include IEEE’s focus on nontraditional or disadvantaged areas in India,” Murphy says, “and its recognition that mentorship is critical for the successful deployment of new technologies.”\nIEEE began an early pilot project in 2023 with support of a grant from the Lemelson Foundation, to determine if a sustained entrepreneurship mentorship program was valuable and necessary, he says. It then conducted a survey through 2024 to collect information to better understand the needs of stakeholders, mentors, and entrepreneurs in hard-to-reach areas in India. While the early pilot program was restricted to that country, its intent was to learn from the experience and share the findings globally, he says.\n“Our job is to help further develop the technology, look for gaps, and see if it is good enough to be applied to rural villages, like those in Africa and India.” —Ashutosh Dutta, Connecting the Unconnected cochair \n“The foundation’s involvement was aimed at testing certain activities, partnership strategies, and understanding the budgetary requirements for a prepilot program,” he says. “The primary goal of the foundation is to enable conditions for innovation to occur within regional systems, especially addressing the opportunity for sustained, systematic, and relational mentorship in technology innovation.”\nThe Empowerment Through Mentorship program is structured into three tiers. One focuses on individuals and their needs, the program/technical level focuses on the invention, and the venture level guides participants from the initial concept through product testing and validation. Within each track, participants engage in activities such as networking, securing financial support, and pitching their innovations, Murphy says.\n“The 1,000-day approach reflects the belief that it requires a long period of time to coach and support those who traditionally are excluded,” he says.\nCTU mentors can be IEEE members or nonmembers who are successful entrepreneurs and own small or large companies, Dixit says. They also can work in academia.\n“They need to be passionate about training and mentoring other people,” Dixit says. “We have created a curriculum that covers topics such as ways to get financing from investors and how to turn ideas into a profitable business. It’s not the technology that will make the product successful; it’s everything else that goes into it.”\nRural broadband architecture standards\nTo determine whether any of the challenge’s submitted projects have the potential to become a standard, the CTU working group collaborates with the IEEE SA Industry Connections program’s 6G Rural Connectivity and Intelligent Village activity. Projects considered for standards do not have to be winners. Any project that has successfully passed the first phase, completed the second-phase requirements, and requested a review may be considered.\nTypically, about half of the submitted projects are reviewed for possible standard implications, Dutta says.\n“We selected about 60 submissions that could be potentially standardized,” he says. “Out of those, we work with IEEE SA’s rapid reactive standards activity group to narrow them down to five or 10 that can be potentially standardized.\n“The CTU program is not only about developing a technology or implementing it, but also standardizing it so that people around the world can use the standard.”\nOne such project led to the development of IEEE P1962, “Standard for Providing Broadband Connectivity to Rural Infrastructure by Utilizing Solar Panels as Optical Communication Receivers.” It specifies an architecture for an optical receiver that uses solar panels and associated circuitry to provide energy-efficient, affordable, and high-speed optical wireless communication.\n“CTU has created a platform for the world to bring their ideas to one single place where people can talk to each other about them,” Dixit says. “We are a unifying force.\nWe bring these many dimensions together to connect the unconnected.”\nCTU Challenge Winner: Community Radio Bolo\n\nThe Connecting the Unconnected program offers contestants benefits that extend beyond the recognition and rewards. One participant who benefited is Ritu Srivastava, a telecommunications engineer and IEEE member. She placed first in the 2022 technical concept category for her project, Community Radio Bolo (CR Bolo). The verb bolo means speak in Hindi.\nInternet services in India’s rural areas are either unavailable or have spotty coverage. People there rely on community radio stations to get news about local events and issues. There are about 300 such stations in India, Srivastava says.\nTo provide broadband Internet access in the Bhadrak district of Odisha, India, she developed a cost-effective hybrid network that uses an online and offline wireless mesh network installed on the tower of community radio station Radio Bulbul. Several transceiver locations, known as access points, are located at schools and community centers that are within a 5- to 7-kilometer radius, connecting them with Radio Bulbul.\nCR Bolo includes a plug-and-play interactive voice response system that is coupled with the hybrid wireless network. The automated telephony technology routes callers using voice commands or a telephone’s keypad to the appropriate department. The system also has a direct-to-consumer platform where manufacturers sell their products through websites or mobile apps.\n“CR Bolo is a unique method of leveraging rural traditional technologies and infrastructure combined with modern technology to provide meaningful access to communities,” Srivastava says, “improving livelihood opportunities and creating social and economic viability for CR stations.”\nShe says she plans to expand the project to other rural communities in India. She will incorporate a large language model and offer a learning management system to deliver training programs and educational courses, she says.\nWinning CTU inspired her to become a more active IEEE volunteer, she says. She is working with the IEEE Standards Association to develop guidelines for the architecture of broadband technology used in rural areas.\nBecause of her entrepreneurial experience, CTU hired her in 2023 to assist with the challenge and the Empowerment Through Mentorship program.\nSrivastava is a director at Jadeite Solutions in New Delhi. The consulting company offers nonprofit organizations that are developing socioeconomic programs with project evaluation, impact assessment, financial reviews, and similar services.\nShe credits CTU with giving her and her community-centered model more exposure: “The CTU challenge has given me a lot of other opportunities in terms of networking, funding resources, publishing my research in IEEE journals, and presenting at national and international conferences.”",
+          "isoDate": "2026-05-12T18:00:02.000Z"
+        },
+        {
+          "title": "Neutralizing the Gigascale Problem: How to Solve the Physical Power Paradox of Extreme AI Training Loads",
+          "link": "https://spectrum.ieee.org/gigascale-ai-datacenter-power",
+          "summary": "This sponsored article is brought to you by Ampace.\nAs AI workloads grow to gigascale levels, the global data center industry has hit a hidden physical wall. The real bottleneck is no longer just the thermal limit of the chip or the capacity of the cooling system — it is the dynamic resilience of the power chain.\nModern AI computing clusters, driven by massive GPU clusters, generate high-frequency, abrupt, and synchronized spikey pulse loads. As rack densities soar beyond 100 kW, these fluctuations are amplified into a “power paradox”: while the digital logic of AI is moving faster than ever, the physical infrastructure supporting it remains tethered to legacy response capabilities.\nThe power usage of these gigascale sites and their drastic, high frequency, abrupt load surges from the AI GPU clusters can trigger transient voltage events and frequency instability, risking the entire local grid. The grid itself is not robust enough to support these loads. This leads to the infrastructure gap: The utility is not robust enough and traditional backup sources, such as diesel generators and gas turbines, simply cannot react to millisecond-level power spikes in output. This will often force operators into a cycle of costly infrastructure over sizing just to buffer the volatility.\nAI infrastructure requires energy systems capable of instantaneous response while safeguarding continuity and reliability.\nThe industry has explored various mitigations — from rack-level BBUs to 800V DC architectures — yet the mature, high volume, traditional UPS system remains the most viable and scalable foundation for gigawatt-level facilities. Consequently, the UPS-integrated battery system has emerged as the critical “physical buffer” to neutralize these pulses at the source.\nAt Data Center World 2026 in Washington, D.C., Ampace led a pivotal technical dialogue with Eaton during the session “Powering Giga-scale AI.” Their exchange unveiled a fundamental paradigm shift: To bridge the AI power gap, energy storage must evolve from a passive insurance policy into an active, high-speed stabilizer. By aligning Ampace’s semi-solid-state battery innovation with Eaton’s proven system intelligence, we are moving beyond simple backup to solve the physical paradox of the AI era.\n  To move beyond simple backup and solve the physical paradox of the AI era, Ampace is aligning its semi-solid-state battery innovation with Eaton’s proven system intelligence.Ampace\nThe “Shock Absorber” physics: semi-solid chemistry for AI pulses\nConventional power systems were designed for steady-state loads, not the rapid heartbeat of a massive AI GPU cluster. When thousands of GPUs synchronize their computing cycles, they generate high-frequency, abrupt pulse loads that can lead to voltage sags, frequency oscillations, and potential interruptions of critical AI training.\nAmpace’s PU Series semi-solid and low-electrolyte cells address this challenge by acting as high-speed “shock absorbers.” Leveraging ultra-low internal resistance (DCR) and high cycle capability, these batteries neutralize millisecond-level power spikes at the source, stabilizing the local power loop before disturbances propagate upstream to the grid or on-site generators. These high-rate cells enable 100 kW+ racks to maintain peak performance without transmitting instability across the power chain.\nThis capability aligns closely with Eaton’s matured UPS architectures, such as double-conversion topologies and advanced power electronics upgrades, which have long prioritized rapid load responsiveness and high system stability.\nTogether, these approaches embody a shared industry philosophy: AI infrastructure requires energy systems capable of instantaneous response while safeguarding continuity and reliability.\n  Ampace’s semi-solid state chemistry minimizes liquid electrolyte, greatly reducing the risk of leakage and thermal runaway under continuous AI high-load conditions.Ampace\nAlgorithmic intelligence: synchronizing energy and control\nHardware alone cannot solve the AI power paradox; the system also requires intelligent coordination between energy storage and power management. Sophisticated battery management systems (BMS) like Ampace’s high-precision design track state-of-charge (SOC) with high-speed sampling, even during rapid, shallow cycling typical in AI workloads.\nComplementary algorithmic approaches in modern UPS platforms — such as ramp-rate control and average power management — effectively suppress sub-synchronous oscillations and optimize load smoothing. In large-scale AI training environments, where thousands of GPUs can trigger millisecond-level power pulses, these intelligent layers ensure that batteries buffer high-frequency fluctuations without compromising the mandatory emergency backup reserves.\nBy transforming energy storage from passive “standby insurance” into active, schedulable assets, the system simultaneously safeguards continuous AI training and maintains the long-term health of the data center infrastructure. In practical terms, this means that even during peak compute bursts, the infrastructure remains stable, training cycles continue uninterrupted, and operators avoid costly oversizing or grid stress.\nEaton’s dual-layer algorithms serve as a valuable benchmark in this space, demonstrating how advanced control logic can achieve similar objectives, reinforcing Ampace’s approach and philosophy within the broader data center power ecosystem.\nEconomic scalability: optimizing AI infrastructure efficiently\nOne of the largest costs in deploying AI infrastructure is “oversizing”: procuring transformers, generators, and UPS systems to handle brief peak spikes. This traditional approach inflates the Total Cost of Ownership (TCO) and leads to wasted capital on underutilized hardware.\nAmpace’s turn-key cabinet design developed by its independent R&D is engineered for seamless compatibility with mature, high volume UPS systems. By leveraging Eaton’s double-conversion UPS topologies alongside intelligent ramp-rate and average power management algorithms, AI data centers can scale dynamically without requiring costly infrastructure redesigns. This approach allows the UPS and batteries to act as active load-shapers, smoothing AI-driven pulses while strictly maintaining mandatory emergency backup capacity.\nBy utilizing energy storage as an active, schedulable asset, operators can right-size their infrastructure, avoid unnecessary grid upgrades, and deploy gigascale AI clusters with unprecedented efficiency.\nSafety First: Protecting AI Infrastructure While Enabling Innovation\nIn high-density AI facilities, safety is non-negotiable. Ampace’s semi-solid state chemistry minimizes liquid electrolyte, greatly reducing the risk of leakage and thermal runaway under continuous AI high-load conditions.\n  Ampace’s turn-key cabinet design developed by its independent R&D is engineered for seamless compatibility with mature, high volume UPS systems. Ampace\nAt the same time, Eaton’s UPS design emphasizes system-level energy scheduling that never sacrifices mandatory emergency backup reserves, ensuring thermal safety and uninterrupted operation.\nThis “safety-first” approach ensures that infrastructure can sustain aggressive performance targets without compromising the physical integrity of the facility. Coupled with over a decade of proven high-cycle life operation and design under shallow pulse conditions, these systems can extend operational lifespan, reduce replacement requirements, and provide operators with confidence that safety and reliability remain uncompromised as compute density continues to grow.\nTo remain the scalable backbone of AI data centers\nAs AI computing scales over the next two to three years, the industry will face stricter grid requirements and even more demanding pulse load characteristics. This evolution demands a forward-looking design philosophy that harmonizes UPS, battery, and grid compatibility.\nAmpace views current low-electrolyte semi-solid technologies as the optimal transitional step toward a fully solid-state future — one that promises ultimate safety and performance.\nAmpace remains committed to this long-term technological roadmap. We view current low-electrolyte semi-solid technologies as the optimal transitional step toward a fully solid-state future — one that promises ultimate safety and performance. Whether through rack-level BBU, integrated UPS systems, or containerized storage, the universal core of the AI era remains constant: high-speed response, long shallow-cycle life, and refined energy management.\nBy engaging in deep technical exchanges with Eaton and leading energy innovators, Ampace ensures that its solutions not only meet today’s AI pulse challenges but also harmonize with broader infrastructure strategies and shared industry best practices.\nUltimately, as traditional diesel generators gradually give way to diversified alternatives, the integrated UPS-plus-energy-storage system will become the fundamental infrastructure standard.\nThe dialogue has just begun. Ampace will continue to engage in strategic exchanges with global industrial automation leaders and digital energy pioneers, co-authoring the playbook for a safer, more efficient, and more resilient AI-ready world.",
+          "isoDate": "2026-05-12T17:15:15.000Z"
         },
         {
           "title": "Why Mastering EVM Is Essential for Next-Generation Wireless Systems",
@@ -304,18 +316,6 @@
           "link": "https://spectrum.ieee.org/ieee-guide-cybersecurity-consultant",
           "summary": "Cybersecurity consultants have never been more in demand. Information security analyst roles are projected to grow nearly 30 percent between now and 2034, according to the U.S. Bureau of Labor Statistics. More than 15 million cybercrime incidents occurred worldwide in 2024, Statista reported.\nData breaches are costly and pose direct safety risks. Statista reported that more than US $10 trillion is spent annually repairing the damage caused by cybercrime, most commonly phishing, spoofing, extortion, and data breaches. In one example in the United States, breathalyzer devices installed in vehicles became disabled, leaving hundreds of drivers stranded, as detailed in an IEEE Spectrum article.\nTo help you acquire the skills you need to distinguish yourself from other cybersecurity job candidates, the IEEE Computer Society offers a “What Makes a Great Cybersecurity Consultant” guide. The 23-page PDF includes hard and soft skills you need, a list of certifications to pursue, and key IEEE cybersecurity conferences for staying updated on developments in the field.\nThe guide includes advice from two cybersecurity experts. John D. Johnson, an IEEE senior member, is the founder and CEO of Aligned Security in Bettendorf, Iowa. Ricardo J. Rodriguez is an associate professor of computer science and systems engineering at the Universidad de Zaragoza, in Spain, who researches digital forensics and other cybersecurity topics.\n“Technology, remote work, and a shortage of skilled workers make this the ideal time to consider becoming a cybersecurity consultant,” Johnson says in the guide. “Consulting can give you the flexibility, variety, and control over where you want your career to go.”\nHard and soft skills\nAt a minimum, cybersecurity professionals should have a general understanding of IT including operating systems, communication protocols, network architecture, and programming languages such as C++, Java, and Python. They also should be well-versed in security auditing, firewall management, penetration testing, and encryption technologies.\nThe principles of ethical hacking and coding would be handy as well.\n“To be able to defend a system well, you first have to know how to attack it,” Rodriguez says.\nThe guide explains that there are now more technologies available to help cybersecurity consultants monitor threats and protect systems. They include security orchestration, automation, and response (SOAR) platforms, which automate workflows to collect security data, streamline incident response, and automate repetitive tasks.\nRodriguez points to advances in domain name system security extensions (DNSSEC), which uses digital signatures based on public-key cryptography to strengthen the authentication of the domain name system. By validating data authenticity, DNSSEC safeguards against attacks such as DNS spoofing and guarantees that users connect to the correct IP address.\nTechnologies such as artificial intelligence, blockchain, and quantum computing will increasingly be used to help thwart cyberattacks, the guide suggests. AI is expected to enhance the quality of data analysis, Rodriguez says.\nAlthough hard skills are important, soft skills are just as crucial, according to the guide. Critical thinking, project management, flexibility, teamwork, and organizational and presentation skills are essential.\nIt’s not enough to be good at analyzing security vulnerabilities; you also need to clearly describe the situation and explain possible solutions.\n“Soft skills are important to achieve good team cohesion,” Rodriguez says, “because consultants often lead diverse teams from within their client’s organization.”\n“It’s essential,” Johnson adds, “that you demonstrate to clients you’re a team player and a capable communicator, and that you meet your commitments.”\nSecurity certifications\nPossessing security-specific credentials is a valuable way to demonstrate your expertise to potential clients, according to the guide. Because hundreds of certifications are available, Johnson says, pinpointing the most relevant ones can be challenging. Some people focus on theoretical knowledge, while others want to cover practical applications of technology.\n“Survey the industry and compare it to your skills,” Johnson recommends. “Decide what you want to do, and identify where you have gaps in your skills and experience.”\nHere are four of the nine certifications listed in the guide that are frequently cited as being important. All the providers are cybersecurity organizations.\n\nCertified information security manager. This globally recognized certification from the ISACA is for professionals managing enterprise information security.\nCertified cloud security professional. Offered by ISC2, this credential validates advanced technical skills in designing, managing, and securing cloud infrastructure.\nCertified ethical hacker. This certification from the International Council of E-Commerce Consultants (C-Council) confirms proficiency in using methods commonly employed by malicious hackers to detect vulnerabilities.\nOffensive security certified professional. A hands-on, 24-hour certification exam offered by OffSec covers practical testing skills.\n\nAdditional industry-specific certifications might be required for organizations in finance, government, health care, or manufacturing.\nSound general knowledge—backed by experience, training, and certification—is an essential foundation for being a specialist, Johnson says.\nConferences and networking opportunities\nEvents sponsored by the IEEE Computer Society can help you learn about the latest research and advancements in cybersecurity:\n\nIEEE Symposium on Security and Privacy, from 18 to 21 May in San Francisco.\n\nIEEE European Symposium on Security and Privacy, from 6 to 10 July in Lisbon.\n\nIEEE International Conference on Cyber Security and Resilience, from 3 to 5 August in Lisbon.\n\nIEEE Secure Development Conference, from 14 to 16 October in Indianapolis.\n\nConferences can give you insight into the field and let you do some networking, but it’s important to network elsewhere as well, experts say. Consider joining the IEEE Technical Community on Security and Privacy, which connects experts and professionals advancing research in areas such as encryption, operating system security, and data privacy.\nLearning and meeting people keeps your knowledge sharp and can lead to mentorship opportunities with established cybersecurity consultants, Johnson says.\nOther IEEE resources\nThe IEEE Computer Society’s cybersecurity resources page offers a wealth of information including fundamentals, possible career paths, and standards development. To keep you updated on trends, the society publishes IEEE Transactions on Privacy and the IEEE Security and Privacy magazine.\nIn addition to the guide, the IEEE Learning Network offers nearly 30 courses on cybersecurity. And you can find research papers in the IEEE Xplore Digital Library.",
           "isoDate": "2026-05-06T18:00:01.000Z"
-        },
-        {
-          "title": "Ten Technology Enablers Shaping the Future of 6G Wireless",
-          "link": "https://content.knowledgehub.wiley.com/ten-key-enablers-for-6g-wireless-communications/",
-          "summary": "A guide to ten technological components — from THz communications and AI/ML to reconfigurable intelligent surfaces — poised to define 6G wireless networks.\nWhat Attendees will Learn\n\nWhich frequencies 6G will use — Understand why THz bands (above 100 GHz) and the7–24 GHz range are under consideration, what challenges CMOS technology faces at sub-THz frequencies, and how new semiconductor approaches aim to close the output-power gap for future link budgets.\nHow AI/ML and joint communications and sensing reshape the air interface — how auto encoder-based end-to-end learning can replace traditional signal-processing blocks, and how a single waveform may serve both data transmission and radar-like environmental sensing.\nWhat reconfigurable intelligent surfaces and photonics bring to the radio environment— Explore how programmable metamaterial panels can steer and shape electromagnetic waves, and how visible light communications and all-photonics networks extend capacity and lower latency.\nHow ultra-massive MIMO, full-duplex, and new network topologies enable a true 3D“network of networks” — Understand how antenna arrays with vastly more elements, simultaneously transmit/receive on the same frequency, and non-terrestrial nodes converge to deliver ubiquitous, high-capacity 6G coverage.\n\nDownload this free whitepaper now!",
-          "isoDate": "2026-05-06T10:00:02.000Z"
-        },
-        {
-          "title": "Bionic Tech Must Prove Itself Beyond the Lab",
-          "link": "https://spectrum.ieee.org/assistive-technology",
-          "summary": "I first met Robert Woo in 2011, during his third time walking in a powered exoskeleton. The architect had been paralyzed in a construction accident four years earlier, but he was determined to get back on his feet. Watching him clunk across a rehab room in an exoskeleton prototype, the technology felt astonishing. I had the same reaction when reporting on early brain-computer interfaces (BCIs), which enabled paralyzed people to move robotic arms or communicate by thought alone. Both types of bionic technology seemed to verge on magic.\nBut that initial sense of awe, I’ve learned over many years of reporting on these technologies, is only a starting point. What matters is not what these systems can do in a carefully staged demo but how they perform in the real world. Do they work reliably? Can people with disabilities use them for their intended purposes? And what does it actually cost—in time, effort, and trade-offs—to do so? The question isn’t whether the technology looks impressive the first time but whether it holds up on the hundredth.\n The special report in this issue, “Cyborg Tech From the Inside” takes that perspective seriously. In my feature article on Woo, an exoskeleton super-user who has spent 15 years testing these systems, the story of the technology is inseparable from the story of its use. Woo’s relentless feedback has driven steady, incremental improvements. In Edd Gent’s reporting on the pioneers testing the earliest BCIs, the experience of these extraordinary technologies likewise resolves into something more complex. As one trial participant notes, these early adopters are like the first astronauts, who barely reached space before coming back down to Earth. Together, these stories reframe these individuals not as passive medical patients but as the ultimate beta testers and co-engineers of the bionic age.\nI saw the gap between demonstration and daily use firsthand when I interviewed Woo in a Manhattan showroom recently, where he was testing a new self-balancing exoskeleton from Wandercraft. The device is a striking advance that kept him upright without crutches, but it also revealed the friction of the real world. As Woo tried to walk out the door, barely an inch of slope on the Park Avenue sidewalk was enough to trigger the machine’s safety sensors and halt his progress. It was a stark reminder of how far these systems must evolve before they fit seamlessly into everyday life.\n For the people who use them, that seamless integration is the ultimate goal. Getting there will depend not just on technical breakthroughs but on how well these systems hold up outside controlled environments, over time, and under real conditions. Looking from the inside doesn’t make these technologies any less remarkable, but it does change how we judge them—not by what they can do once for a photo but by what they can sustain over a lifetime. That’s the standard their users have been applying all along.\n Our commitment to evaluating technology from the user’s perspective extends beyond this special report. To provide a necessary corrective to the “techno-solutionism” that often dominates coverage of assistive devices, IEEE Spectrum created the Taenzer Fellowship for Disability-Engaged Journalism, under which six writers with disabilities are contributing articles about the devices they rely on daily. As Special Projects Director Stephen Cass notes, these journalists “aren’t afraid to ask clear-eyed questions about the tech and are deeply aware of how it impacts humans.” You can read the fellows’ work at spectrum.ieee.org/tag/taenzer-fellowship.",
-          "isoDate": "2026-05-05T15:45:33.000Z"
         }
       ]
     },
@@ -324,57 +324,17 @@
       "maxItems": 120,
       "items": [
         {
-          "title": "RESULTADOS (ÚLTIMOS)",
+          "title": "RESULTADOS (EN DIRECTO)",
           "link": "",
           "summary": ""
         },
         {
-          "title": "RAY  1-1  GIR",
+          "title": "REA  2-1  ELC",
           "link": "",
           "summary": ""
         },
         {
-          "title": "BAR  2-0  REA",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "REA  0-0  GET",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "ATH  0-1  VAL",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "MAL  1-1  VIL",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "REA  2-2  REA",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "ATL  0-1  CEL",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "SEV  2-1  ESP",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "ELC  1-1  ALA",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "LEV  3-2  OSA",
+          "title": "OSA  0-1  ATL",
           "link": "",
           "summary": ""
         },
@@ -404,17 +364,17 @@
           "summary": ""
         },
         {
-          "title": " 4  ATL  35  19  6 10  58  38  20  63",
+          "title": " 4  ATL  36  19  7 10  58  38  20  64",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 5  REA  35  13 15  7  54  43  11  54",
+          "title": " 5  REA  36  13 16  7  55  44  11  55",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 6  CEL  35  13 11 11  49  44   5  50",
+          "title": " 6  CEL  36  13 11 12  51  47   4  50",
           "link": "",
           "summary": ""
         },
@@ -434,12 +394,12 @@
           "summary": ""
         },
         {
-          "title": "10  RAY  35  10 13 12  36  42  -6  43",
+          "title": "10  OSA  36  11 10 15  42  45  -3  43",
           "link": "",
           "summary": ""
         },
         {
-          "title": "11  OSA  35  11  9 15  42  45  -3  42",
+          "title": "11  RAY  35  10 13 12  36  42  -6  43",
           "link": "",
           "summary": ""
         },
@@ -449,12 +409,12 @@
           "summary": ""
         },
         {
-          "title": "13  SEV  35  11  7 17  43  56 -13  40",
+          "title": "13  ELC  36   9 13 14  47  55  -8  40",
           "link": "",
           "summary": ""
         },
         {
-          "title": "14  ELC  35   9 12 14  46  54  -8  39",
+          "title": "14  SEV  35  11  7 17  43  56 -13  40",
           "link": "",
           "summary": ""
         },
@@ -464,22 +424,22 @@
           "summary": ""
         },
         {
-          "title": "16  GIR  35   9 12 14  37  52 -15  39",
+          "title": "16  LEV  36  10  9 17  44  59 -15  39",
           "link": "",
           "summary": ""
         },
         {
-          "title": "17  ESP  35  10  9 16  38  53 -15  39",
+          "title": "17  GIR  35   9 12 14  37  52 -15  39",
           "link": "",
           "summary": ""
         },
         {
-          "title": "18  ALA  35   9 10 16  41  54 -13  37",
+          "title": "18  ESP  35  10  9 16  38  53 -15  39",
           "link": "",
           "summary": ""
         },
         {
-          "title": "19  LEV  35   9  9 17  41  57 -16  36",
+          "title": "19  ALA  35   9 10 16  41  54 -13  37",
           "link": "",
           "summary": ""
         },
