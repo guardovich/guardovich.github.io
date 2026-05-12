@@ -1,10 +1,58 @@
 {
-  "generatedAt": "2026-05-11T19:46:02.894Z",
+  "generatedAt": "2026-05-12T02:55:26.663Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "OpenAI just released its answer to Claude Mythos",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
+          "summary": "OpenAI is launching Daybreak, an AI initiative focused on detecting and patching vulnerabilities before attackers find them. Daybreak uses the Codex Security AI agent that launched in March to create a threat model based on an organization's code and focus on possible attack paths, validate likely vulnerabilities, and then automate the detection of the higher risk ones.\nIts launch comes just over a month after rival Anthropic announced Claude Mythos, a security-focused AI model it claimed was too dangerous to publicly release and only shared privately as a part of its own initiative, dubbed Project Glasswing. Still, that didn't stop at leas …\nRead the full story at The Verge.",
+          "isoDate": "2026-05-11T23:05:01.000Z"
+        },
+        {
+          "title": "Yarbo says it will remove the intentional backdoor from its robot lawn mower",
+          "link": "https://www.theverge.com/tech/928289/yarbo-remove-robot-lawn-mower-backdoor",
+          "summary": "The company behind the robot lawn mower that ran me over has changed its tune. Yarbo now plans to completely remove the remote backdoor access that could have let bad actors reprogram the robot over the internet. Yarbo customers will be able to decide whether that feature even gets installed in the first place, co-founder Kenneth Kohlmann pledges to The Verge.\nYarbo had already promised on Friday that it would tackle many security issues head-on, closing the holes that let security researcher Andreas Makris easily hijack any of the bladed robots from the other side of the globe, while also exposing email addresses and GPS locations. But whe …\nRead the full story at The Verge.",
+          "isoDate": "2026-05-11T22:40:20.000Z"
+        },
+        {
+          "title": "Linux bitten by second severe vulnerability in as many weeks",
+          "link": "https://arstechnica.com/security/2026/05/linux-bitten-by-second-severe-vulnerability-in-as-many-weeks/",
+          "summary": "Production-version patches are coming online and should be installed pronto.",
+          "isoDate": "2026-05-11T22:28:19.000Z"
+        },
+        {
+          "title": "Here&#8217;s what Mira Murati&#8217;s AI company is up to",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model",
+          "summary": "Thinking Machines, the AI company founded by former OpenAI CTO Mira Murati, announced Monday that it's working on something called \"interaction models.\" The idea behind interaction models, according to Thinking Machines, is that they will let people \"collaborate with AI the way we naturally collaborate with each other - they continuously take in audio, video, and text, and think, respond, and act in real time.\"\nAs explained by Thinking Machines:\nToday's models experience reality in a single thread. Until the user finishes typing or speaking, the model waits with no perception of what the user is doing or how the user is doing it. Until th …\n\nRead the full story at The Verge.",
+          "isoDate": "2026-05-11T22:19:15.000Z"
+        },
+        {
+          "title": "Audi has a new Q9 flagship coming soon: Here's its interior",
+          "link": "https://arstechnica.com/cars/2026/05/take-a-look-inside-audis-new-big-three-row-q9-suv/",
+          "summary": "Audi made sure to consult American tastes for its first full-size SUV.",
+          "isoDate": "2026-05-11T22:01:57.000Z"
+        },
+        {
+          "title": "After banning foreign routers, FCC says existing ones can get updates until 2029",
+          "link": "https://arstechnica.com/tech-policy/2026/05/fcc-slightly-relaxes-foreign-router-ban-allows-software-updates-until-2029/",
+          "summary": "FCC extends waiver allowing routers and drones to get patches for two more years.",
+          "isoDate": "2026-05-11T20:48:33.000Z"
+        },
+        {
+          "title": "Data center guzzled 30 million gallons of water and nobody noticed for months",
+          "link": "https://arstechnica.com/tech-policy/2026/05/data-center-used-30-million-gallons-of-water-without-initially-paying/",
+          "summary": "Can AI save us from the AI industry’s endless thirst for water? Outlook not so good.",
+          "isoDate": "2026-05-11T20:37:00.000Z"
+        },
+        {
+          "title": "Govee’s new portable smart lamp is on sale for the first time ",
+          "link": "https://www.theverge.com/gadgets/928249/govee-table-lamp-classic-deal-sale",
+          "summary": "If you’ve always liked the idea of the Philips Hue Go portable lamp but couldn’t justify the $100+ price tag, Govee recently released a much cheaper alternative, the Govee Table Lamp Classic, and it’s already receiving its first discount. Right now, you can pick the rechargeable smart lamp up at Amazon for $63.99 ($16 off), which makes it less than half the price of Philips’ portable smart lamp.\nGovee Table Lamp Classic\n\nWhere to Buy:\n\n $79.99 at Amazon\n\nThe cordless lamp features a built-in 4,800mAh battery, which can last up to 30 hours with colored lighting enabled, though that drops to around five hours when using brighter white lighting. That’s not quite as long as the Philips Hue Go, which Philips says can last up to 48 hours on a charge, but on the flip side the Govee is brighter, delivering up to 500 lumens of brightness. It’s also lightweight enough to easily carry from room to room or bring outside, though you’ll want to be careful outdoors since it lacks the Philips Hue Go’s IP54 weather resistance rating for protection against rain and splashes.\nIn addition, the Govee supports adjustable color temperatures ranging from a warm 2700K to a cooler 6500K, and like with many of its smart lighting products, offers a slew of fun, colorful lights effects. You can have it sync to music while you’re hosting people, or switch between different preset scenes to set the mood, many of which are organized around specific moods and themes like “romance,” holidays, and more. Through Govee’s app, you can even type in prompts describing the vibe you want and the lamp will generate matching lighting effects for you. The lamp also supports Matter, meaning you can control it through major smart home platforms.",
+          "isoDate": "2026-05-11T19:56:28.000Z"
+        },
         {
           "title": "Palantir&#8217;s true believers are wearing this jacket",
           "link": "https://www.theverge.com/report/928026/palantir-chore-coat",
@@ -16,54 +64,6 @@
           "link": "https://arstechnica.com/health/2026/05/passengers-from-hantavirus-ship-arrive-in-us-3-people-in-biocontainment/",
           "summary": "A US passenger tested \"mildly positive,\" but WHO is calling it \"inconclusive\" for now.",
           "isoDate": "2026-05-11T18:12:43.000Z"
-        },
-        {
-          "title": "Apple brings encrypted RCS chats to iPhone",
-          "link": "https://www.theverge.com/tech/928141/apple-ios-26-5-rcs-messages-iphone-google-android",
-          "summary": "Apple now lets you have encrypted RCS conversations with Android users through the Messages app on iOS. As part of iOS 26.5, which was released on Monday, Apple added support for end-to-end encrypted RCS messaging in beta, meaning that Apple and Google can't see your messages while they're sent. \nWith iOS 26.5, you'll see a lock icon and a small \"Encrypted\" message at the top of the chat to note when you're having an encrypted conversation with an Android user and are on a carrier that supports the feature. Apple says that encryption will be on by default and \"will be automatically enabled over time for new and existing RCS conversations.\"  …\nRead the full story at The Verge.",
-          "isoDate": "2026-05-11T17:57:56.000Z"
-        },
-        {
-          "title": "Starlink shuts down its GPS-style cheat code. Researchers may unlock it anyway.",
-          "link": "https://arstechnica.com/gadgets/2026/05/starlink-blocks-access-to-its-gps-alternative-ahead-of-spacex-ipo/",
-          "summary": "Shutdown of Starlink location feature won’t dampen interest in GPS alternatives.",
-          "isoDate": "2026-05-11T17:55:34.000Z"
-        },
-        {
-          "title": "Three things in AI to watch, according to a Nobel-winning economist",
-          "link": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
-          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. A few months before he was awarded the Nobel Prize in economics in 2024, Daron Acemoglu published a paper that earned him few fans in Silicon Valley. Contrary to what Big Tech…",
-          "isoDate": "2026-05-11T17:35:12.000Z"
-        },
-        {
-          "title": "iOS, macOS, and iPadOS 26.5 updates arrive with encrypted RCS messaging and more",
-          "link": "https://arstechnica.com/gadgets/2026/05/ios-macos-and-ipados-26-5-updates-arrive-with-encrypted-rcs-messaging-and-more/",
-          "summary": "Probably the last big updates we'll see before the next versions appear at WWDC.",
-          "isoDate": "2026-05-11T17:20:39.000Z"
-        },
-        {
-          "title": "Samsung made a “mockery” of Dua Lipa by putting her picture on TV boxes, lawsuit says",
-          "link": "https://arstechnica.com/gadgets/2026/05/singer-dua-lipa-sues-samsung-for-15-million-for-using-her-image-on-tv-boxes/",
-          "summary": "Lipa says her picture contributed to Samsung's \"enormous revenue.\"",
-          "isoDate": "2026-05-11T17:15:16.000Z"
-        },
-        {
-          "title": "Texas sues Netflix for advertising &#8216;bait and switch&#8217; and spying",
-          "link": "https://www.theverge.com/streaming/928071/texas-netflix-lawsuit-privacy",
-          "summary": "Texas Attorney General Ken Paxton has filed a lawsuit against Netflix, accusing the company of turning its back on its promise to remain ad-free and safe for kids. The lawsuit, filed on Monday, claims Netflix has \"opened Texans' data for inspection by the same Big Ad Tech community it once criticized for exploiting users in this same way.\"\nIn the lawsuit, Paxton claims Netflix drove up subscriptions by promoting its platform as an \"escape from Big Tech surveillance.\" But that changed when Netflix introduced an ad-supported streaming plan in 2022, something co-founder Reed Hastings promised not to do. Its move into digital advertising allowe …\nRead the full story at The Verge.",
-          "isoDate": "2026-05-11T17:04:22.000Z"
-        },
-        {
-          "title": "Google stopped a zero-day hack that it says was developed with AI",
-          "link": "https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped",
-          "summary": "For the first time, Google says it has spotted and stopped a zero-day exploit developed with AI. According to a report from Google Threat Intelligence Group (GTIG), \"prominent cyber crime threat actors\" were planning to use the vulnerability for a \"mass exploitation event\" that would have allowed them to bypass two-factor authentication on an unnamed \"open-source, web-based system administration tool.\" \nGoogle's researchers found hints in the Python script used for the exploit that indicated help from AI, like a \"hallucinated CVSS score\" and \"structured, textbook\" formatting consistent with LLM training data. The exploit takes advantage of  …\nRead the full story at The Verge.",
-          "isoDate": "2026-05-11T16:09:42.000Z"
-        },
-        {
-          "title": "A million baby monitors and security cameras were easily viewable by hackers",
-          "link": "https://www.theverge.com/tech/926487/meari-technology-hack-baby-monitor-security-camera",
-          "summary": "If your baby monitor looks something like this, it’s probably a Meari. | Image: Meari\t\n\nA baby's eyes peer directly into the camera lens. A kid with a striped shirt looks up, then away. A boy in a policeman's costume, a gold star on his chest. A messy bedroom that reminds me of my own daughters, with an unmade bunk bed, a little girl's hat and headband, and Hello Kitty plastered on the wall.\nOne thought repeats in my mind: I shouldn't be seeing this. No stranger should. \nBut bad actors could've easily spied on all these locations - and a million more - because many of Meari Technology's Wi-Fi baby monitors and security cameras were absurdly insecure. If you had access to one of those cameras, you theoretically had access to t …\nRead the full story at The Verge.",
-          "isoDate": "2026-05-11T16:00:00.000Z"
         }
       ]
     },
@@ -71,6 +71,30 @@
       "header": "120  CIENCIA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Curiosity Blog, Sols 4886-4892: Ingenuity and Perseverance, Curiosity Style",
+          "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4886-4892-ingenuity-and-perseverance-curiosity-style/",
+          "summary": "Written by Michelle Minitti, MAHLI Deputy Principal Investigator Earth planning date: Friday, May 8, 2026 While we know the monikers Ingenuity and Perseverance are attached to our sister helicopter and rover on the Mars 2020 mission, those characteristics were in full force with Curiosity over the past week. The science we achieved this week was […]",
+          "isoDate": "2026-05-12T01:38:30.000Z"
+        },
+        {
+          "title": "NASA’s Curiosity Takes Close Look at Rock That Got Stuck on Drill",
+          "link": "https://science.nasa.gov/photojournal/nasas-curiosity-takes-close-look-at-rock-that-got-stuck-on-drill/",
+          "summary": "Description NASA’s Curiosity Mars rover used its Mast Camera, or Mastcam, to capture this view of a rock nicknamed “Atacama” on May 6, 2026, the 4,877th Martian day, or sol, of the mission. The rock had gotten stuck to the drill on the end of Curiosity’s robotic arm on April 25. Engineers spent several days […]",
+          "isoDate": "2026-05-12T00:09:41.000Z"
+        },
+        {
+          "title": "May 2026 Satellite Puzzler",
+          "link": "https://science.nasa.gov/earth/earth-observatory/may-2026-satellite-puzzler/",
+          "summary": "Your challenge is to tell us the location of the satellite image and why it is interesting.",
+          "isoDate": "2026-05-11T22:11:35.000Z"
+        },
+        {
+          "title": "Nicholas Houghton: Engineering Crew Safety for NASA’s Artemis Missions",
+          "link": "https://www.nasa.gov/centers-and-facilities/johnson/nicholas-houghton-engineering-crew-safety-for-artemis-ii/",
+          "summary": "Nicholas Houghton always dreamed of working at NASA and one day becoming an astronaut. Today, he helps design systems that keep crews safe during missions aboard NASA’s Orion spacecraft, including the successful Artemis II mission around the Moon. After joining NASA as a Pathways intern, Houghton later became a full-time engineer on the Orion Crew Survival Systems (OCSS) […]",
+          "isoDate": "2026-05-11T20:51:53.000Z"
+        },
         {
           "title": "NASA Invites Media to Annual Lunabotics Robotics Competition ",
           "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-annual-lunabotics-robotics-competition/",
@@ -106,30 +130,6 @@
           "link": "https://www.nature.com/articles/d41586-026-01522-8",
           "summary": "Nature, Published online: 11 May 2026; doi:10.1038/d41586-026-01522-8\nFloating genetic material could give insights into ecosystem health, the presence of invasive species, and help researchers identify pathogens before they cause harm.",
           "isoDate": "2026-05-11T00:00:00.000Z"
-        },
-        {
-          "title": "The sleep paradox: why do humans sleep so little when we need it so much?",
-          "link": "https://www.nature.com/articles/d41586-026-01478-9",
-          "summary": "Nature, Published online: 11 May 2026; doi:10.1038/d41586-026-01478-9\nA new book brings together ethnography, neurobiology and primatology to argue that how much our species sleeps is an evolutionary trade-off, with lessons for how each of us can sleep better.",
-          "isoDate": "2026-05-11T00:00:00.000Z"
-        },
-        {
-          "title": "Elsevier vs Meta: first science publisher sues over scraped research papers",
-          "link": "https://www.nature.com/articles/d41586-026-01481-0",
-          "summary": "Nature, Published online: 11 May 2026; doi:10.1038/d41586-026-01481-0\nScience publishing giant Elsevier has joined a class-action lawsuit against Meta that alleges the reproduction of copyrighted works in developing the Llama AI model.",
-          "isoDate": "2026-05-11T00:00:00.000Z"
-        },
-        {
-          "title": "Best. Day. Ever. What does a good day in science look like?",
-          "link": "https://www.nature.com/articles/d41586-026-01479-8",
-          "summary": "Nature, Published online: 11 May 2026; doi:10.1038/d41586-026-01479-8\nStruggling to remember why you picked a career in science? Here are some heart-warming tales to jog your memory.",
-          "isoDate": "2026-05-11T00:00:00.000Z"
-        },
-        {
-          "title": "Hantavirus outbreak exposes uncertainty about how disease spreads",
-          "link": "https://www.nature.com/articles/d41586-026-01512-w",
-          "summary": "Nature, Published online: 11 May 2026; doi:10.1038/d41586-026-01512-w\nPassengers who were on the cruise ship MV Hondius will quarantine in their home countries.",
-          "isoDate": "2026-05-11T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-05-11T19:45:57.482Z"
+          "isoDate": "2026-05-12T02:55:21.057Z"
+        },
+        {
+          "title": "Not so dusty: How tech is changing woodworking",
+          "link": "https://www.bbc.com/news/articles/c747n11933eo?at_medium=RSS&at_campaign=rss",
+          "summary": "Woodworking shops have been transformed by tech to make tools safer and more precise.",
+          "isoDate": "2026-05-11T23:23:48.000Z"
         },
         {
           "title": "TikTok launches £3.99 subscription for no ads in UK ",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.com/news/videos/c0l21992z75o?at_medium=RSS&at_campaign=rss",
           "summary": "The tech giant says it hopes to slowly expand the service as the demand for ultra-fast deliveries grows.",
           "isoDate": "2026-05-07T07:54:50.000Z"
-        },
-        {
-          "title": "The no-nonsense judge calling the shots in Musk v Altman trial",
-          "link": "https://www.bbc.com/news/articles/cx214rnlpn7o?at_medium=RSS&at_campaign=rss",
-          "summary": "The feud has fuelled a costly showdown between two tech titans.",
-          "isoDate": "2026-05-06T23:52:48.000Z"
         }
       ]
     },
@@ -203,6 +203,12 @@
       "header": "160  INTELIGENCIA ARTIFICIAL",
       "maxItems": 10,
       "items": [
+        {
+          "title": "How ChatGPT adoption broadened in early 2026",
+          "link": "https://openai.com/signals/research/2026q1-update",
+          "summary": "ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption.",
+          "isoDate": "2026-05-11T15:00:00.000Z"
+        },
         {
           "title": "How enterprises are scaling AI",
           "link": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
@@ -252,12 +258,6 @@
           "isoDate": "2026-05-07T04:00:00.000Z"
         },
         {
-          "title": "Testing ads in ChatGPT",
-          "link": "https://openai.com/index/testing-ads-in-chatgpt",
-          "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-          "isoDate": "2026-05-07T00:00:00.000Z"
-        },
-        {
           "title": "Introducing Trusted Contact in ChatGPT",
           "link": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
           "summary": "Introducing Trusted Contact in ChatGPT, an optional safety feature that notifies someone you trust if serious self-harm concerns are detected.",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-05-11T19:46:00.656Z"
+          "isoDate": "2026-05-12T02:55:25.244Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-05-11T19:45:58.634Z"
+          "isoDate": "2026-05-12T02:55:22.993Z"
         },
         {
           "title": "Why Mastering EVM Is Essential for Next-Generation Wireless Systems",
@@ -324,12 +324,57 @@
       "maxItems": 120,
       "items": [
         {
-          "title": "RESULTADOS (EN DIRECTO)",
+          "title": "RESULTADOS (ÚLTIMOS)",
           "link": "",
           "summary": ""
         },
         {
-          "title": "RAY  0-0  GIR",
+          "title": "RAY  1-1  GIR",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "BAR  2-0  REA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "REA  0-0  GET",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "ATH  0-1  VAL",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "MAL  1-1  VIL",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "REA  2-2  REA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "ATL  0-1  CEL",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "SEV  2-1  ESP",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "ELC  1-1  ALA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "LEV  3-2  OSA",
           "link": "",
           "summary": ""
         },
@@ -389,7 +434,7 @@
           "summary": ""
         },
         {
-          "title": "10  RAY  35  10 13 12  35  41  -6  43",
+          "title": "10  RAY  35  10 13 12  36  42  -6  43",
           "link": "",
           "summary": ""
         },
@@ -409,7 +454,7 @@
           "summary": ""
         },
         {
-          "title": "14  ESP  35  10  9 16  38  53 -15  39",
+          "title": "14  ELC  35   9 12 14  46  54  -8  39",
           "link": "",
           "summary": ""
         },
@@ -419,12 +464,12 @@
           "summary": ""
         },
         {
-          "title": "16  ELC  35   9 12 14  46  54  -8  39",
+          "title": "16  GIR  35   9 12 14  37  52 -15  39",
           "link": "",
           "summary": ""
         },
         {
-          "title": "17  GIR  35   9 12 14  36  51 -15  39",
+          "title": "17  ESP  35  10  9 16  38  53 -15  39",
           "link": "",
           "summary": ""
         },
