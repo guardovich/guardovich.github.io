@@ -1,69 +1,69 @@
 {
-  "generatedAt": "2026-05-12T08:39:04.926Z",
+  "generatedAt": "2026-05-12T14:24:44.663Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
         {
-          "title": "Sony upgraded its wearable AC so it’s cooler and better at hugging your neck",
-          "link": "https://www.theverge.com/tech/928220/sony-reon-pocket-pro-plus-personal-wearable-air-conditioner",
-          "summary": "The Reon Pocket Pro Plus delivers a 20 percent improvement in cooling performance over last year’s model. | Image: Sony\t\n\nSony has announced a new version of the wearable personal air conditioner the company first revealed in 2019 ahead of the 2020 Tokyo Olympics. The latest version is an upgrade to last year's Pro model, and while the new Reon Pocket Pro Plus isn't a complete overhaul of the hardware, it comes with performance upgrades and design updates making it easier to wear discreetly under many kinds of shirts. It's launching in Europe and other markets today for €229/£199, or around $270. As with all the previous versions, Sony hasn't mentioned plans to bring it to the US.\nInstead of simply blasting you with air like the Dyson HushJet Mini Cool, the Re …\nRead the full story at The Verge.",
-          "isoDate": "2026-05-12T06:00:00.000Z"
+          "title": "Amazon’s ultrafast 30-minute deliveries are now available in more cities",
+          "link": "https://www.theverge.com/tech/928473/amazons-ultrafast-30-minute-deliveries-are-now-available-in-more-cities",
+          "summary": "Items like groceries, medicines, and electronics are now available in less than an hour. | Image: Amazon\t\n\nFollowing a limited test run in parts of Seattle and Philadelphia that started last December, Amazon Now is officially available to millions of Amazon shoppers across the United States. In addition to Seattle and Philadelphia, the 30-minute delivery service is now also widely available in Atlanta and Dallas-Fort Worth, but will soon be expanding to more cities including Austin, Houston, Minneapolis, Orlando, Phoenix, Denver, and Oklahoma City.\nThere are currently thousands of items eligible for 30-minute deliveries including fresh milk and produce, over-the-counter medicines, household essentials like laundry detergent, and even small elect …\nRead the full story at The Verge.",
+          "isoDate": "2026-05-12T13:34:12.000Z"
         },
         {
-          "title": "OpenAI just released its answer to Claude Mythos",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
-          "summary": "OpenAI is launching Daybreak, an AI initiative focused on detecting and patching vulnerabilities before attackers find them. Daybreak uses the Codex Security AI agent that launched in March to create a threat model based on an organization's code and focus on possible attack paths, validate likely vulnerabilities, and then automate the detection of the higher risk ones.\nIts launch comes just over a month after rival Anthropic announced Claude Mythos, a security-focused AI model it claimed was too dangerous to publicly release and only shared privately as a part of its own initiative, dubbed Project Glasswing. Still, that didn't stop at leas …\nRead the full story at The Verge.",
-          "isoDate": "2026-05-11T23:05:01.000Z"
+          "title": "Amazon employees are \"tokenmaxxing\" due to pressure to use AI tools",
+          "link": "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/",
+          "summary": "Workers are using an internal AI tool to automate non-essential tasks.",
+          "isoDate": "2026-05-12T13:33:05.000Z"
         },
         {
-          "title": "Yarbo says it will remove the intentional backdoor from its robot lawn mower",
-          "link": "https://www.theverge.com/tech/928289/yarbo-remove-robot-lawn-mower-backdoor",
-          "summary": "The company behind the robot lawn mower that ran me over has changed its tune. Yarbo now plans to completely remove the remote backdoor access that could have let bad actors reprogram the robot over the internet. Yarbo customers will be able to decide whether that feature even gets installed in the first place, co-founder Kenneth Kohlmann pledges to The Verge.\nYarbo had already promised on Friday that it would tackle many security issues head-on, closing the holes that let security researcher Andreas Makris easily hijack any of the bladed robots from the other side of the globe, while also exposing email addresses and GPS locations. But whe …\nRead the full story at The Verge.",
-          "isoDate": "2026-05-11T22:40:20.000Z"
+          "title": "Waymo recalls robotaxis for driving on flooded roads",
+          "link": "https://www.theverge.com/transportation/928480/waymo-recall-flooded-roads-robotaxi",
+          "summary": "A Waymo drives across Congress Avenue on 8th Street in front of the Capitol Building as rain arrives in the Austin area on Friday, Jan. 23, 2025 ahead of anticipated drops in temperature and freezing rain over the weekend. (Sara Diggins/The Austin American-Statesman via Getty Images) | Image: Getty\t\n\nWaymo is recalling its autonomous driving software that allowed its vehicles to drive on flooded roads. The recall affects 3,791 vehicles that operate using Waymo's fifth and sixth generation systems. \nIn documents filed with the National Highway Traffic Safety Administration, the Alphabet-owned company said that an unoccupied Waymo robotaxi \"encountered an untraversable flooded section of a roadway that has a 40 mph speed limit.\" Despite detecting the flooded road, the vehicle \"proceeded at reduced speed.\" Waymo said it was currently working on a remedy. In the interim, the company has updated its vehicles to \"increase weather-related cons …\nRead the full story at The Verge.",
+          "isoDate": "2026-05-12T13:32:39.000Z"
         },
         {
-          "title": "Linux bitten by second severe vulnerability in as many weeks",
-          "link": "https://arstechnica.com/security/2026/05/linux-bitten-by-second-severe-vulnerability-in-as-many-weeks/",
-          "summary": "Production-version patches are coming online and should be installed pronto.",
-          "isoDate": "2026-05-11T22:28:19.000Z"
+          "title": "Canvas owner reaches &#8216;agreement&#8217; with hackers to secure stolen data",
+          "link": "https://www.theverge.com/tech/928470/instructure-canvas-hack-shinyhunters-ransom-agreement",
+          "summary": "Instructure, the company behind the Canvas learning management platform, says it has \"reached an agreement\" with hackers that breached its systems last week to prevent stolen data from being leaked online. \nThe ShinyHunters hacking group claimed responsibility for the attack before Canvas was briefly taken offline. The group threatened to publish 3.5 terabytes of student data if ransom demands for a \"settlement\" weren't met. Now, Instructure says the stolen data has been returned as part of its unspecified \"agreement\" with the hackers, alongside a promise that \"no Instructure customers will be extorted as a result of this incident.\"\n\"We un …\nRead the full story at The Verge.",
+          "isoDate": "2026-05-12T13:23:10.000Z"
         },
         {
-          "title": "Here&#8217;s what Mira Murati&#8217;s AI company is up to",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model",
-          "summary": "Thinking Machines, the AI company founded by former OpenAI CTO Mira Murati, announced Monday that it's working on something called \"interaction models.\" The idea behind interaction models, according to Thinking Machines, is that they will let people \"collaborate with AI the way we naturally collaborate with each other - they continuously take in audio, video, and text, and think, respond, and act in real time.\"\nAs explained by Thinking Machines:\nToday's models experience reality in a single thread. Until the user finishes typing or speaking, the model waits with no perception of what the user is doing or how the user is doing it. Until th …\n\nRead the full story at The Verge.",
-          "isoDate": "2026-05-11T22:19:15.000Z"
+          "title": "Spotify’s latest ‘Wrapped’ covers your entire music history",
+          "link": "https://www.theverge.com/entertainment/928395/spotify-20th-anniversary-wrapped-recap",
+          "summary": "Its like a “Wrapped” but for your entire Spotify listening history. | Image by Spotify / The Verge\t\n\nSpotify is celebrating its 20th anniversary by giving listeners a \"fully personalized look at their entire music history.\" Starting today, Spotify mobile app users can access a new Wrapped-like experience that features \"never-before-shared data\" going back to when they first joined the service.\nThe \"Spotify 20: Your Party of the Year(s)\" experience will allow users to look back on their first day on Spotify, the first song they streamed, their most-listened to artist, and the total number of unique songs listened to since creating their account. Spotify is also putting together an All-Time Top Songs Playlist that includes the top 120 tracks …\nRead the full story at The Verge.",
+          "isoDate": "2026-05-12T12:15:00.000Z"
         },
         {
-          "title": "Audi has a new Q9 flagship coming soon: Here's its interior",
-          "link": "https://arstechnica.com/cars/2026/05/take-a-look-inside-audis-new-big-three-row-q9-suv/",
-          "summary": "Audi made sure to consult American tastes for its first full-size SUV.",
-          "isoDate": "2026-05-11T22:01:57.000Z"
+          "title": "The Download: a Nobel winner on AI, and the case for fixing everything",
+          "link": "https://www.technologyreview.com/2026/05/12/1137103/the-download-nobel-winner-ai-maintenance-of-everything/",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Three things in AI to watch, according to a Nobel-winning economist A few months before he won the Nobel Prize in economics in 2024, Daron Acemoglu published a paper that earned…",
+          "isoDate": "2026-05-12T12:10:00.000Z"
         },
         {
-          "title": "After banning foreign routers, FCC says existing ones can get updates until 2029",
-          "link": "https://arstechnica.com/tech-policy/2026/05/fcc-slightly-relaxes-foreign-router-ban-allows-software-updates-until-2029/",
-          "summary": "FCC extends waiver allowing routers and drones to get patches for two more years.",
-          "isoDate": "2026-05-11T20:48:33.000Z"
+          "title": "Once again, SpaceX has set a new record for the tallest rocket ever built",
+          "link": "https://arstechnica.com/space/2026/05/spacex-completes-fueling-test-setting-stage-for-first-launch-of-starship-v3/",
+          "summary": "SpaceX cleared an important milestone Monday on the road to launching a new version of Starship.",
+          "isoDate": "2026-05-12T11:00:34.000Z"
         },
         {
-          "title": "Data center guzzled 30 million gallons of water and nobody noticed for months",
-          "link": "https://arstechnica.com/tech-policy/2026/05/data-center-used-30-million-gallons-of-water-without-initially-paying/",
-          "summary": "Can AI save us from the AI industry’s endless thirst for water? Outlook not so good.",
-          "isoDate": "2026-05-11T20:37:00.000Z"
+          "title": "How to watch Google’s Android Show: I/O Edition today",
+          "link": "https://www.theverge.com/tech/928276/google-android-show-io-edition-2026-how-to-watch",
+          "summary": "Google I/O is still a week away, but Google's big announcements kick off today with the \"Android Show: I/O Edition,\" where it's expected to announce the major Android ecosystem highlights coming to its annual developer conference.\nWhen the Android Show will happen and where you can watch it\nAndroid Show: I/O Edition will be streaming live on YouTube and the Android website on Tuesday, May 12th at 10AM PT / 1PM ET. Based on last year's Android Show, we can expect the highlights to include a look at the next major Android update along with announcements about Gemini features on Android and potentially teases of some more forward-facing proje …\nRead the full story at The Verge.",
+          "isoDate": "2026-05-12T11:00:00.000Z"
         },
         {
-          "title": "Govee’s new portable smart lamp is on sale for the first time ",
-          "link": "https://www.theverge.com/gadgets/928249/govee-table-lamp-classic-deal-sale",
-          "summary": "If you’ve always liked the idea of the Philips Hue Go portable lamp but couldn’t justify the $100+ price tag, Govee recently released a much cheaper alternative, the Govee Table Lamp Classic, and it’s already receiving its first discount. Right now, you can pick the rechargeable smart lamp up at Amazon for $63.99 ($16 off), which makes it less than half the price of Philips’ portable smart lamp.\nGovee Table Lamp Classic\n\nWhere to Buy:\n\n $79.99 at Amazon\n\nThe cordless lamp features a built-in 4,800mAh battery, which can last up to 30 hours with colored lighting enabled, though that drops to around five hours when using brighter white lighting. That’s not quite as long as the Philips Hue Go, which Philips says can last up to 48 hours on a charge, but on the flip side the Govee is brighter, delivering up to 500 lumens of brightness. It’s also lightweight enough to easily carry from room to room or bring outside, though you’ll want to be careful outdoors since it lacks the Philips Hue Go’s IP54 weather resistance rating for protection against rain and splashes.\nIn addition, the Govee supports adjustable color temperatures ranging from a warm 2700K to a cooler 6500K, and like with many of its smart lighting products, offers a slew of fun, colorful lights effects. You can have it sync to music while you’re hosting people, or switch between different preset scenes to set the mood, many of which are organized around specific moods and themes like “romance,” holidays, and more. Through Govee’s app, you can even type in prompts describing the vibe you want and the lamp will generate matching lighting effects for you. The lamp also supports Matter, meaning you can control it through major smart home platforms.",
-          "isoDate": "2026-05-11T19:56:28.000Z"
+          "title": "eBay rejects GameStop’s $56 billion acquisition bid",
+          "link": "https://www.theverge.com/games/928436/ebay-rejects-gamestop-acquisition-bid",
+          "summary": "No thank you, we’re good. | Photo by Brandon Bell/Getty Images\t\n\neBay has officially rejected GameStop's offer to buy the online marketplace for $56 billion, citing concerns around \"operational risks\" and how the acquisition will be financed. In a letter to GameStop CEO Ryan Cohen on Tuesday, eBay's board of directors said it has \"concluded that your proposal is neither credible nor attractive.\"\n\"We have taken into account such factors as 1) eBay's standalone prospects, 2) the uncertainty regarding your financing proposal, 3) the impact of your proposal on eBay's long-term growth and profitability, 4) the leverage, operational risks, and leadership structure of a combined entity, 5) the resulting implic …\n\nRead the full story at The Verge.",
+          "isoDate": "2026-05-12T10:55:02.000Z"
         },
         {
-          "title": "Palantir&#8217;s true believers are wearing this jacket",
-          "link": "https://www.theverge.com/report/928026/palantir-chore-coat",
-          "summary": "In late April, Palantir - the software company that, in recent years, has perhaps become best known for its defense industry contracts and work with Immigration and Customs Enforcement - announced that it would be adding new products to its merch store. The latest offering was a cotton chore coat. \nAt $239 and in bright blue and black options, the jacket looks like a standard offering that has, by way of photographer Bill Cunningham, trickled down into mainstream menswear for years. This jacket is a pastiche of 19th century French workwear that was worn by people actually doing physical labor; the only noticeable difference is that a dainty …\nRead the full story at The Verge.",
-          "isoDate": "2026-05-11T18:26:04.000Z"
+          "title": "These new Roombas are smaller and cheaper",
+          "link": "https://www.theverge.com/tech/928373/irobot-roomba-robot-vacuums-price-specs-release-date",
+          "summary": "iRobot upgrades its lidar-based robot vacuum line with eight new models. | Image: iRobot\t\n\niRobot has announced a new line of Roombas, a year after it debuted its first lidar-based robot vacuums. This week, it introduced eight robot vacuums that improve on its current lineup and feature lower prices, some up to £200 (about $270) cheaper. Key changes include higher suction power, a smaller overall size to better navigate your home, more models with roller mops, and the introduction of \"hot spot mopping.\" \niRobot filed for bankruptcy late last year, underwent a reboot, and is now owned by Shenzhen Picea Robotics, a Chinese original design manufacturer of robotic vacuums. The company says its new lineup is up to 25 percent smaller f …\nRead the full story at The Verge.",
+          "isoDate": "2026-05-12T09:02:25.000Z"
         }
       ]
     },
@@ -90,46 +90,46 @@
           "isoDate": "2026-05-12T00:09:41.000Z"
         },
         {
-          "title": "May 2026 Satellite Puzzler",
-          "link": "https://science.nasa.gov/earth/earth-observatory/may-2026-satellite-puzzler/",
-          "summary": "Your challenge is to tell us the location of the satellite image and why it is interesting.",
-          "isoDate": "2026-05-11T22:11:35.000Z"
+          "title": "Author Correction: Predictive coding of reward in the hippocampus",
+          "link": "https://www.nature.com/articles/s41586-026-10615-3",
+          "summary": "Nature, Published online: 12 May 2026; doi:10.1038/s41586-026-10615-3\nAuthor Correction: Predictive coding of reward in the hippocampus",
+          "isoDate": "2026-05-12T00:00:00.000Z"
         },
         {
-          "title": "Nicholas Houghton: Engineering Crew Safety for NASA’s Artemis Missions",
-          "link": "https://www.nasa.gov/centers-and-facilities/johnson/nicholas-houghton-engineering-crew-safety-for-artemis-ii/",
-          "summary": "Nicholas Houghton always dreamed of working at NASA and one day becoming an astronaut. Today, he helps design systems that keep crews safe during missions aboard NASA’s Orion spacecraft, including the successful Artemis II mission around the Moon. After joining NASA as a Pathways intern, Houghton later became a full-time engineer on the Orion Crew Survival Systems (OCSS) […]",
-          "isoDate": "2026-05-11T20:51:53.000Z"
+          "title": "Author Correction: A mechanical ratchet drives unilateral cytokinesis",
+          "link": "https://www.nature.com/articles/s41586-026-10618-0",
+          "summary": "Nature, Published online: 12 May 2026; doi:10.1038/s41586-026-10618-0\nAuthor Correction: A mechanical ratchet drives unilateral cytokinesis",
+          "isoDate": "2026-05-12T00:00:00.000Z"
         },
         {
-          "title": "NASA Invites Media to Annual Lunabotics Robotics Competition ",
-          "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-annual-lunabotics-robotics-competition/",
-          "summary": "NASA will hold its 2026 Lunabotics Challenge Tuesday, May 19, to Thursday, May 21, at the Astronauts Memorial Foundation’s Center for Space Education at the Kennedy Space Center Visitor Complex in Florida.   Links to view the Lunabotics competition live can be found on the agency’s Lunabotics page. The competition is slated to run between 8 a.m. and 6 p.m. each day.    Media are invited to attend the […]",
-          "isoDate": "2026-05-11T19:11:57.000Z"
+          "title": "Cruise-ship hantavirus cluster exposes a wider preparedness gap",
+          "link": "https://www.nature.com/articles/d41586-026-01518-4",
+          "summary": "Nature, Published online: 12 May 2026; doi:10.1038/d41586-026-01518-4\nCruise-ship hantavirus cluster exposes a wider preparedness gap",
+          "isoDate": "2026-05-12T00:00:00.000Z"
         },
         {
-          "title": "Joint Earth Observation Mission Quality Assessment Framework – Optical Guidelines Documents Released",
-          "link": "https://science.nasa.gov/science-research/earth-science/joint-earth-observation-mission-quality-assessment-framework-optical-guidelines-documents-released/",
-          "summary": "The Optical Guidelines document provides standardized, transparent, and repeatable process for assessing the quality of optical data from commercial Earth Observation missions.",
-          "isoDate": "2026-05-11T18:34:33.000Z"
+          "title": "Charles Darwin reports a squirrel surprise",
+          "link": "https://www.nature.com/articles/d41586-026-01334-w",
+          "summary": "Nature, Published online: 12 May 2026; doi:10.1038/d41586-026-01334-w\nAn unexpected creature munches on cherry blossom flowers, and the value of drawing art is considered in this week’s pick from the Nature archive.",
+          "isoDate": "2026-05-12T00:00:00.000Z"
         },
         {
-          "title": "Hubble Survey Sets Up Roman’s Future Look Near Milky Way’s Center",
-          "link": "https://science.nasa.gov/missions/roman-space-telescope/hubble-survey-sets-up-romans-future-look-near-milky-ways-center/",
-          "summary": "The Milky Way’s galactic bulge, the bulbous region that surrounds the galactic center, contains a dense collection of stars, planets, and other free-floating objects. This region has been studied for decades with numerous ground-based and space-based telescopes, including NASA’s Hubble and James Webb space telescopes. Soon, NASA’s Nancy Grace Roman Space Telescope will be the […]",
-          "isoDate": "2026-05-11T14:00:39.000Z"
+          "title": "UK Biobank breach prompts the field of genomics to rethink open science",
+          "link": "https://www.nature.com/articles/d41586-026-01520-w",
+          "summary": "Nature, Published online: 12 May 2026; doi:10.1038/d41586-026-01520-w\nUK Biobank breach prompts the field of genomics to rethink open science",
+          "isoDate": "2026-05-12T00:00:00.000Z"
         },
         {
-          "title": "NASA Astronaut Jessica Meir",
-          "link": "https://www.nasa.gov/image-article/nasa-astronaut-jessica-meir-2/",
-          "summary": "NASA Astronaut Jessica Meir sits for a portrait at NASA’s Johnson Space Center in Houston on Sept. 23, 2025. This photo was chosen as one of the 2025 NASA Photographer of the Year finalists. Meir launched on NASA’s SpaceX Crew-12 mission to the International Space Station in February 2026 with fellow NASA astronaut Jack Hathaway, […]",
-          "isoDate": "2026-05-11T13:58:09.000Z"
+          "title": "Ice core reveals longest-ever continuous record of Earth’s climate",
+          "link": "https://www.nature.com/articles/d41586-026-01523-7",
+          "summary": "Nature, Published online: 12 May 2026; doi:10.1038/d41586-026-01523-7\nData from Antarctica could help to solve the mystery of why ice ages were so brutal.",
+          "isoDate": "2026-05-12T00:00:00.000Z"
         },
         {
-          "title": "Publisher Correction: Presymptomatic training mitigates functional deficits in a mouse model of Rett syndrome",
-          "link": "https://www.nature.com/articles/s41586-026-10578-5",
-          "summary": "Nature, Published online: 11 May 2026; doi:10.1038/s41586-026-10578-5\nPublisher Correction: Presymptomatic training mitigates functional deficits in a mouse model of Rett syndrome",
-          "isoDate": "2026-05-11T00:00:00.000Z"
+          "title": "Animal-testing alternatives will require a cultural change in research institutions",
+          "link": "https://www.nature.com/articles/d41586-026-01519-3",
+          "summary": "Nature, Published online: 12 May 2026; doi:10.1038/d41586-026-01519-3\nAnimal-testing alternatives will require a cultural change in research institutions",
+          "isoDate": "2026-05-12T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-05-12T08:39:01.064Z"
+          "isoDate": "2026-05-12T14:24:40.507Z"
+        },
+        {
+          "title": "Canvas hack: Company pays criminals to delete students' stolen data",
+          "link": "https://www.bbc.com/news/articles/cdepzg83x87o?at_medium=RSS&at_campaign=rss",
+          "summary": "The company behind Canvas says it has \"reached an agreement\" with the hackers who disrupted thousands of colleges and universities.",
+          "isoDate": "2026-05-12T10:31:23.000Z"
+        },
+        {
+          "title": "Texas accuses Netflix of spying on users, including children",
+          "link": "https://www.bbc.com/news/articles/c072dvv1rmro?at_medium=RSS&at_campaign=rss",
+          "summary": "The lawsuit comes amid increased scrutiny over platform features like auto-play that deliver endless content to users.",
+          "isoDate": "2026-05-12T10:01:54.000Z"
         },
         {
           "title": "Not so dusty: How tech is changing woodworking",
@@ -184,18 +196,6 @@
           "link": "https://www.bbc.com/news/articles/clypzxl3lvqo?at_medium=RSS&at_campaign=rss",
           "summary": "The platform said it would remove end-to-end encrypted messages, a major U‑turn by parent company Meta.",
           "isoDate": "2026-05-08T01:31:55.000Z"
-        },
-        {
-          "title": "Meta brings High Court challenge over Ofcom fees",
-          "link": "https://www.bbc.com/news/articles/cj0pqpgvvn2o?at_medium=RSS&at_campaign=rss",
-          "summary": "Meta said Ofcom's calculations were \"disproportionate\"; the regulator said it would defend its position.",
-          "isoDate": "2026-05-07T16:30:55.000Z"
-        },
-        {
-          "title": "Watch: Drone delivers first Amazon parcels in UK",
-          "link": "https://www.bbc.com/news/videos/c0l21992z75o?at_medium=RSS&at_campaign=rss",
-          "summary": "The tech giant says it hopes to slowly expand the service as the demand for ultra-fast deliveries grows.",
-          "isoDate": "2026-05-07T07:54:50.000Z"
         }
       ]
     },
@@ -210,15 +210,15 @@
           "isoDate": "2026-05-11T15:00:00.000Z"
         },
         {
-          "title": "How enterprises are scaling AI",
-          "link": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
-          "summary": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
-          "isoDate": "2026-05-11T10:00:00.000Z"
-        },
-        {
           "title": "OpenAI Campus Network: Student club interest form",
           "link": "https://openai.com/index/openai-campus-network-student-club-interest-form",
           "summary": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
+          "isoDate": "2026-05-11T10:00:00.000Z"
+        },
+        {
+          "title": "How enterprises are scaling AI",
+          "link": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+          "summary": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
           "isoDate": "2026-05-11T10:00:00.000Z"
         },
         {
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-05-12T08:39:03.533Z"
+          "isoDate": "2026-05-12T14:24:43.338Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-05-12T08:39:02.681Z"
+          "isoDate": "2026-05-12T14:24:42.443Z"
         },
         {
           "title": "Why Mastering EVM Is Essential for Next-Generation Wireless Systems",
