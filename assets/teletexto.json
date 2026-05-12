@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-05-12T02:55:26.663Z",
+  "generatedAt": "2026-05-12T08:39:04.926Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Sony upgraded its wearable AC so it’s cooler and better at hugging your neck",
+          "link": "https://www.theverge.com/tech/928220/sony-reon-pocket-pro-plus-personal-wearable-air-conditioner",
+          "summary": "The Reon Pocket Pro Plus delivers a 20 percent improvement in cooling performance over last year’s model. | Image: Sony\t\n\nSony has announced a new version of the wearable personal air conditioner the company first revealed in 2019 ahead of the 2020 Tokyo Olympics. The latest version is an upgrade to last year's Pro model, and while the new Reon Pocket Pro Plus isn't a complete overhaul of the hardware, it comes with performance upgrades and design updates making it easier to wear discreetly under many kinds of shirts. It's launching in Europe and other markets today for €229/£199, or around $270. As with all the previous versions, Sony hasn't mentioned plans to bring it to the US.\nInstead of simply blasting you with air like the Dyson HushJet Mini Cool, the Re …\nRead the full story at The Verge.",
+          "isoDate": "2026-05-12T06:00:00.000Z"
+        },
         {
           "title": "OpenAI just released its answer to Claude Mythos",
           "link": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
@@ -58,12 +64,6 @@
           "link": "https://www.theverge.com/report/928026/palantir-chore-coat",
           "summary": "In late April, Palantir - the software company that, in recent years, has perhaps become best known for its defense industry contracts and work with Immigration and Customs Enforcement - announced that it would be adding new products to its merch store. The latest offering was a cotton chore coat. \nAt $239 and in bright blue and black options, the jacket looks like a standard offering that has, by way of photographer Bill Cunningham, trickled down into mainstream menswear for years. This jacket is a pastiche of 19th century French workwear that was worn by people actually doing physical labor; the only noticeable difference is that a dainty …\nRead the full story at The Verge.",
           "isoDate": "2026-05-11T18:26:04.000Z"
-        },
-        {
-          "title": "Passengers from hantavirus ship arrive in US; 3 people in biocontainment",
-          "link": "https://arstechnica.com/health/2026/05/passengers-from-hantavirus-ship-arrive-in-us-3-people-in-biocontainment/",
-          "summary": "A US passenger tested \"mildly positive,\" but WHO is calling it \"inconclusive\" for now.",
-          "isoDate": "2026-05-11T18:12:43.000Z"
         }
       ]
     },
@@ -71,6 +71,12 @@
       "header": "120  CIENCIA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Australia’s Cloudy Beauty",
+          "link": "https://science.nasa.gov/earth/earth-observatory/australias-cloudy-beauty/",
+          "summary": "Valley fog gathered in the Victorian Alps while an arch-shaped cloud drifted across Port Phillip Bay.",
+          "isoDate": "2026-05-12T04:01:00.000Z"
+        },
         {
           "title": "Curiosity Blog, Sols 4886-4892: Ingenuity and Perseverance, Curiosity Style",
           "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4886-4892-ingenuity-and-perseverance-curiosity-style/",
@@ -124,12 +130,6 @@
           "link": "https://www.nature.com/articles/s41586-026-10578-5",
           "summary": "Nature, Published online: 11 May 2026; doi:10.1038/s41586-026-10578-5\nPublisher Correction: Presymptomatic training mitigates functional deficits in a mouse model of Rett syndrome",
           "isoDate": "2026-05-11T00:00:00.000Z"
-        },
-        {
-          "title": "Audio long read: The air is full of DNA — here’s what scientists are using it for",
-          "link": "https://www.nature.com/articles/d41586-026-01522-8",
-          "summary": "Nature, Published online: 11 May 2026; doi:10.1038/d41586-026-01522-8\nFloating genetic material could give insights into ecosystem health, the presence of invasive species, and help researchers identify pathogens before they cause harm.",
-          "isoDate": "2026-05-11T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-05-12T02:55:21.057Z"
+          "isoDate": "2026-05-12T08:39:01.064Z"
         },
         {
           "title": "Not so dusty: How tech is changing woodworking",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-05-12T02:55:25.244Z"
+          "isoDate": "2026-05-12T08:39:03.533Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-05-12T02:55:22.993Z"
+          "isoDate": "2026-05-12T08:39:02.681Z"
         },
         {
           "title": "Why Mastering EVM Is Essential for Next-Generation Wireless Systems",
