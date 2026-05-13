@@ -1,10 +1,58 @@
 {
-  "generatedAt": "2026-05-12T19:51:10.886Z",
+  "generatedAt": "2026-05-13T03:23:56.224Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Sony’s new Xperia phone gets an overdue redesign",
+          "link": "https://www.theverge.com/tech/927928/sony-xperia-viii-release-date-price-specs",
+          "summary": "Sony’s new flagship doesn’t look much like its predecessors. | Image: Sony / The Verge\t\n\nSony's Xperia 1 flagships have looked more or less the same since 2020, but that's finally changing with the Xperia 1 VIII, which moves to a chunky square camera island. The phone also boasts what should be a substantially improved telephoto camera, along with an AI camera assistant that looks like an improved version of Google's Camera Coach.\nWhile every previous Xperia 1 phone has had three vertical cameras, and the last six have positioned them in the same top-left corner spot, the 1 VIII mixes things up. The three lenses are now laid out in a square block, together with the flash and a Sony logo, that's raised from the phone but slopes  …\nRead the full story at The Verge.",
+          "isoDate": "2026-05-13T02:00:00.000Z"
+        },
+        {
+          "title": "Sam Altman was winning on the stand, but it might not be enough",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/929129/sam-altman-testimony-elon-musk-openai-trial",
+          "summary": "Who, me? | Image: The Verge; Getty Images\t\n\nAfter two weeks of hearing from assorted witnesses that he was a lying snake, the jury finally heard from the lying snake himself: Sam Altman. At the end of the testimony, his lawyer William Savitt asked him how it felt to be accused of stealing a charity.\n\"We created, through a ton of hard work, this extremely large charity, and I agree you can't steal it,\" Altman said. \"Mr. Musk did try to kill it, I guess. Twice.\" \nAltman was fully in \"nice kid from St. Louis\" mode, and did a passable impression of a man who was bewildered at what was happening to him. When he stepped down from the stand holding a stack of evidence binders, he even look …\nRead the full story at The Verge.",
+          "isoDate": "2026-05-12T23:23:14.000Z"
+        },
+        {
+          "title": "The newest AI boom pitch: Host a mini data center at your home",
+          "link": "https://arstechnica.com/ai/2026/05/the-newest-ai-boom-pitch-host-a-mini-data-center-at-your-home/",
+          "summary": "The plan aims to speed up AI compute deployment while compensating residents.",
+          "isoDate": "2026-05-12T21:59:03.000Z"
+        },
+        {
+          "title": "iOS 27 might add a lot more customization to the Camera app",
+          "link": "https://www.theverge.com/tech/929152/apple-ios-27-camera-app-customization",
+          "summary": "Apple's next iOS update could include something phone photographers have been waiting for: a lot more control over the Camera app. According to Bloomberg's Mark Gurman, the Camera app will be \"fully customizable\" in iOS 27 and users will be able to \"pick their own set of controls - called widgets - that run along the top of the interface.\"\nGurman notes that the Camera app will keep the current set of default widgets, but starting with iOS 27, you will \"be able to switch over to an 'advanced' array of options or choose their own items.\" From there, you'll reportedly be able to select from a new \"Add Widgets\" tray, with widgets split into thr …\nRead the full story at The Verge.",
+          "isoDate": "2026-05-12T21:36:11.000Z"
+        },
+        {
+          "title": "FDA chief resigns after Trump admin forced approval of fruity e-cigs",
+          "link": "https://arstechnica.com/health/2026/05/fda-chief-resigns-after-trump-admin-forced-approval-of-fruity-e-cigs/",
+          "summary": "Makary reportedly spent his year bucking Trump admin and making industry enemies.",
+          "isoDate": "2026-05-12T21:26:47.000Z"
+        },
+        {
+          "title": "Meta won’t let you block its AI account on Threads",
+          "link": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
+          "summary": "Meta announced on Tuesday that it's testing a Threads feature that lets users tag a Meta AI account to get answers to questions or context about a conversation on the platform. If you've spent any time looking at replies on X as of late, this new feature sounds a lot like Meta's take on people tagging xAI's Grok. But, as reported by Engadget, Threads users quickly discovered that you can't block the new Meta AI account, and they aren't happy about it.\nMeta has invested heavily in AI as it works to catch up to rivals like OpenAI and Google, spending billions to hire AI talent. It launched a new AI model called Muse Spark in April, which it s …\nRead the full story at The Verge.",
+          "isoDate": "2026-05-12T20:35:23.000Z"
+        },
+        {
+          "title": "Meta will tell parents when their teens add new interests to their Instagram algorithm",
+          "link": "https://www.theverge.com/tech/929009/meta-teen-accounts-algorithm-parental-controls",
+          "summary": "Starting Tuesday, parents can get more details about what their teens are up to on Instagram. Meta is adding a feature to its Teen Accounts that shows parents the \"general topics their teens engage with,\" like \"basketball\" or \"fashion.\" Meta also says it will soon start notifying parents when their teen adds a new interest to their algorithm.\nIn December, Meta announced its \"Your Algorithm\" feature, which lets users choose topics they want to see more or less of in Instagram. Meta noted in its Tuesday blog post that users with Teen Accounts are already limited in what topics they can add to their algorithm - content shown to users with teen …\nRead the full story at The Verge.",
+          "isoDate": "2026-05-12T19:56:50.000Z"
+        },
+        {
+          "title": "Twin brothers wipe 96 gov't databases minutes after being fired",
+          "link": "https://arstechnica.com/tech-policy/2026/05/drop-database-what-not-to-do-after-losing-an-it-job/",
+          "summary": "A case study in why credentials are revoked before firings.",
+          "isoDate": "2026-05-12T19:12:07.000Z"
+        },
         {
           "title": "“Will I be OK?” Teen died after ChatGPT pushed deadly mix of drugs, lawsuit says",
           "link": "https://arstechnica.com/tech-policy/2026/05/will-i-be-ok-teen-died-after-chatgpt-pushed-deadly-mix-of-drugs-lawsuit-says/",
@@ -16,54 +64,6 @@
           "link": "https://arstechnica.com/gadgets/2026/05/speed-boosting-low-latency-profile-is-one-of-the-improvements-coming-to-windows-11/",
           "summary": "\"All modern operating systems do this, including macOS and Linux.\"",
           "isoDate": "2026-05-12T17:49:21.000Z"
-        },
-        {
-          "title": "Sam Altman says Elon Musk’s mind games were damaging OpenAI",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/928861/openai-sam-altman-elon-musk-damage",
-          "summary": "OpenAI CEO Sam Altman says Elon Musk did \"huge damage\" to the culture of the AI startup. During testimony as part of Musk's lawsuit against OpenAI, Altman said Musk required OpenAI president Greg Brockman and former chief scientist Ilya Sutskever to rank researchers by their accomplishments and \"take a chainsaw through a bunch.\"\nAltman conceded that this was the management style the Tesla CEO was known for, but that it was incompatible with his startup. \"I don't think Mr. Musk understood how to run a good research lab,\" Altman testified when his lawyer, William Savitt, asked about the impact of Musk's departure from OpenAI on morale. \"For a …\nRead the full story at The Verge.",
-          "isoDate": "2026-05-12T17:34:09.000Z"
-        },
-        {
-          "title": "eBay rejects GameStop's $56B offer: \"Your proposal is neither credible nor attractive\"",
-          "link": "https://arstechnica.com/tech-policy/2026/05/ebay-rejects-gamestops-56b-offer-your-proposal-is-neither-credible-nor-attractive/",
-          "summary": "eBay board doubts GameStop's ability to buy and operate the much larger firm.",
-          "isoDate": "2026-05-12T17:18:04.000Z"
-        },
-        {
-          "title": "Google's Android-powered laptops are called Googlebooks, and they're coming this year",
-          "link": "https://arstechnica.com/gadgets/2026/05/googles-android-powered-laptops-are-called-googlebooks-and-theyre-coming-this-year/",
-          "summary": "Google has revealed its vision for the AI laptop of tomorrow.",
-          "isoDate": "2026-05-12T17:00:49.000Z"
-        },
-        {
-          "title": "Android is getting a big AI overhaul in 2026",
-          "link": "https://arstechnica.com/gadgets/2026/05/google-says-android-is-getting-a-big-ai-overhaul-in-2026/",
-          "summary": "Google has big plans for Android in 2026, and most of it is AI.",
-          "isoDate": "2026-05-12T17:00:41.000Z"
-        },
-        {
-          "title": "Android Auto is now one (screen) size fits all",
-          "link": "https://www.theverge.com/tech/927759/android-auto-is-now-one-screen-size-fits-all",
-          "summary": "This week at I/O, Google rolled out a series of major updates for Android Auto that include better sizing for unconventionally shaped screens, video streaming through YouTube, widget support, and of course, more AI-powered Gemini features. The company also announced some updates for cars that run on Google's built-in native software, including the ability to ask Gemini questions that are specific to the car you're driving.\nFirst off, it's screen size. It used to be that in-car screens all came in the same basic shape. But now the standard rectangle has evolved into a variety of curved, panoramic, swooping, and even circular displays. Google …\nRead the full story at The Verge.",
-          "isoDate": "2026-05-12T17:00:00.000Z"
-        },
-        {
-          "title": "Google announces its Chromebook successor: the Googlebook",
-          "link": "https://www.theverge.com/tech/928479/google-googlebook-laptops-android-tease-aluminium-chromebook",
-          "summary": "Google is announcing a new line of laptops coming in the fall called Googlebooks. Details are sparse for now, as the tease is just a small part of various Android announcements during Google's Android Show. But we do know this is a major new initiative in the laptop space for Google, seemingly designed to succeed Chromebooks with something more capable: a platform running a long-rumored new operating system based on a fusion of Android and ChromeOS.\nThat operating system, through various leaks, has been referred to as Aluminium OS. Google isn't announcing the OS's real name or giving many details about it just yet. \"We'll have more to share …\nRead the full story at The Verge.",
-          "isoDate": "2026-05-12T17:00:00.000Z"
-        },
-        {
-          "title": "The 9 biggest new features in Android 17",
-          "link": "https://www.theverge.com/tech/928653/google-android-17-9-biggest-new-features-android-show-io",
-          "summary": "AI-generated widgets are among the features coming to Android this year. | Screenshot: Google\t\n\nWould it shock you to hear that Android 17 is filled with new AI-enabled features, like improved dictation and vibe-coded widgets? Fortunately, that's not all. The platform is getting non-AI updates too, from an emoji overhaul to a new screentime tool that helps you avoid distracting apps.\nGoogle has just revealed the biggest changes coming in its next OS update as part of its dedicated Android Show, ahead of next week's big I/O developer conference. The Android software updates came alongside a tease of upcoming Android-powered Googlebook laptops and a host of Android Auto updates. Here are all the new updates that matter and when you can  …\nRead the full story at The Verge.",
-          "isoDate": "2026-05-12T17:00:00.000Z"
-        },
-        {
-          "title": "Gemini&#8217;s latest updates are all about controlling your phone",
-          "link": "https://www.theverge.com/tech/928724/gemini-intelligence-android-io-autofill",
-          "summary": "Gemini Intelligence comes with a Liquid Glass-ish visual treatment. | Image: Google\t\n\nIt is, once again, Gemini season. Google is announcing a host of new Gemini features during its pre-I/O Android showcase, many of which aim to help use your phone for you. You'll find Gemini in more places, like Chrome on Android, in your autofill suggestions, and all up in your apps - if you want.\nGoogle also has a new name for us to remember, because it just can't help itself: Gemini Intelligence. It \"brings the very best of Gemini to our most advanced Android devices,\" according to Google's director of Android experiences, Ben Greenwood. Google is bundling some existing and new Gemini features under this name, and seems to be reserving t …\nRead the full story at The Verge.",
-          "isoDate": "2026-05-12T17:00:00.000Z"
         }
       ]
     },
@@ -72,64 +72,64 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "NASA Langley Engineer Attends FAA Training",
-          "link": "https://www.nasa.gov/general/nasa-langley-engineer-attends-faa-training/",
-          "summary": "At a busy airport, every aircraft in the area shares just a handful of radio frequencies. Spectrum and time are constrained and if multiple people speak at once, both messages can get lost. Communications like “clearance delivery,” which require long transmissions and readbacks, are challenging in high-traffic areas, particularly when weather or other factors require […]",
-          "isoDate": "2026-05-12T18:57:31.000Z"
+          "title": "ERROR cargando feed",
+          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
+          "isoDate": "2026-05-13T03:23:49.743Z"
         },
         {
-          "title": "Perseverance Stuns in New Selfie",
-          "link": "https://www.nasa.gov/image-article/perseverance-stuns-in-new-selfie/",
-          "summary": "NASA’s Perseverance rover recently took a self-portrait against a sweeping backdrop of ancient Martian terrain at a location the science team calls “Lac de Charmes.” Assembled from 61 individual images, the selfie shows Perseverance training its mast on a rocky outcrop in the foreground after creating a circular abrasion patch, with the western rim of […]",
-          "isoDate": "2026-05-12T17:22:51.000Z"
+          "title": "Author Correction: Predictive coding of reward in the hippocampus",
+          "link": "https://www.nature.com/articles/s41586-026-10615-3",
+          "summary": "Nature, Published online: 12 May 2026; doi:10.1038/s41586-026-10615-3\nAuthor Correction: Predictive coding of reward in the hippocampus",
+          "isoDate": "2026-05-12T00:00:00.000Z"
         },
         {
-          "title": "NASA’s Perseverance Rover Snaps Selfie in Mars’ Western Frontier ",
-          "link": "https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-snaps-selfie-in-mars-western-frontier/",
-          "summary": "NASA’s Perseverance Mars rover recently took a self-portrait against a sweeping backdrop of ancient Martian terrain at a location the science team calls “Lac de Charmes.” Assembled from 61 individual images, the selfie shows Perseverance training its mast on a rocky outcrop on which it had just made a circular abrasion patch, with the western […]",
-          "isoDate": "2026-05-12T16:48:31.000Z"
+          "title": "Author Correction: A mechanical ratchet drives unilateral cytokinesis",
+          "link": "https://www.nature.com/articles/s41586-026-10618-0",
+          "summary": "Nature, Published online: 12 May 2026; doi:10.1038/s41586-026-10618-0\nAuthor Correction: A mechanical ratchet drives unilateral cytokinesis",
+          "isoDate": "2026-05-12T00:00:00.000Z"
         },
         {
-          "title": "NASA’s Perseverance Captures Panorama at ‘Arbot’",
-          "link": "https://science.nasa.gov/photojournal/nasas-perseverance-captures-panorama-at-arbot/",
-          "summary": "Description NASA’s Perseverance Mars rover used its Mastcam-Z camera to capture this panorama of an area nicknamed “Arbot” on April 5, 2026, the 1,882nd Martian day, or sol, of the mission, during the rover’s deepest push west beyond Jezero Crater. Made of 46 images, the panorama offers one of the richest geological vistas of the […]",
-          "isoDate": "2026-05-12T16:46:56.000Z"
+          "title": "Cruise-ship hantavirus cluster exposes a wider preparedness gap",
+          "link": "https://www.nature.com/articles/d41586-026-01518-4",
+          "summary": "Nature, Published online: 12 May 2026; doi:10.1038/d41586-026-01518-4\nCruise-ship hantavirus cluster exposes a wider preparedness gap",
+          "isoDate": "2026-05-12T00:00:00.000Z"
         },
         {
-          "title": "NASA’s Perseverance Rover Snaps Westernmost Selfie",
-          "link": "https://science.nasa.gov/photojournal/nasas-perseverance-rover-snaps-westernmost-selfie/",
-          "summary": "Description NASA’s Perseverance Mars rover took this selfie on March 11, 2026, the 1,797th Martian day, or sol, of the mission, during the rover’s deepest push west beyond Jezero Crater. Assembled from 61 individual images, the selfie shows Perseverance training its mast on the “Arethusa” rocky outcrop after creating a whitish circular abrasion patch. The […]",
-          "isoDate": "2026-05-12T16:45:58.000Z"
+          "title": "Charles Darwin reports a squirrel surprise",
+          "link": "https://www.nature.com/articles/d41586-026-01334-w",
+          "summary": "Nature, Published online: 12 May 2026; doi:10.1038/d41586-026-01334-w\nAn unexpected creature munches on cherry blossom flowers, and the value of drawing art is considered in this week’s pick from the Nature archive.",
+          "isoDate": "2026-05-12T00:00:00.000Z"
         },
         {
-          "title": "Hello Universe: NASA’s Next-Gen Space Processor Undergoes Testing",
-          "link": "https://www.nasa.gov/technology/hello-universe-nasas-next-gen-space-processor-undergoes-testing/",
-          "summary": "NASA’s High Performance Spaceflight Computing project aims to dramatically improve the computing power of spacecraft. Missions need processors that can withstand the harsh space environment, so they use chips developed years ago that are hardy and reliable. But upgraded chips are needed to enable the development of autonomous spacecraft, accelerate the rate of scientific discovery […]",
-          "isoDate": "2026-05-12T15:02:47.000Z"
+          "title": "UK Biobank breach prompts the field of genomics to rethink open science",
+          "link": "https://www.nature.com/articles/d41586-026-01520-w",
+          "summary": "Nature, Published online: 12 May 2026; doi:10.1038/d41586-026-01520-w\nUK Biobank breach prompts the field of genomics to rethink open science",
+          "isoDate": "2026-05-12T00:00:00.000Z"
         },
         {
-          "title": "I Am Artemis: Kathleen Harmon",
-          "link": "https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-kathleen-harmon/",
-          "summary": "Listen to this audio excerpt from Kathleen Harmon, the Artemis II Mission Interface Manager for NASA’s Deep Space Network: Captivated by Apollo launches on her television as a child, Kathleen Harmon now plays a key role in NASA’s Artemis program. Harmon serves as the Artemis II mission interface manager for NASA’s Deep Space Network, an […]",
-          "isoDate": "2026-05-12T14:40:56.000Z"
+          "title": "Ice core reveals longest-ever continuous record of Earth’s climate",
+          "link": "https://www.nature.com/articles/d41586-026-01523-7",
+          "summary": "Nature, Published online: 12 May 2026; doi:10.1038/d41586-026-01523-7\nData from Antarctica could help to solve the mystery of why ice ages were so brutal.",
+          "isoDate": "2026-05-12T00:00:00.000Z"
         },
         {
-          "title": "Australia’s Cloudy Beauty",
-          "link": "https://science.nasa.gov/earth/earth-observatory/australias-cloudy-beauty/",
-          "summary": "Valley fog gathered in the Victorian Alps while an arch-shaped cloud drifted across Port Phillip Bay.",
-          "isoDate": "2026-05-12T04:01:00.000Z"
+          "title": "Animal-testing alternatives will require a cultural change in research institutions",
+          "link": "https://www.nature.com/articles/d41586-026-01519-3",
+          "summary": "Nature, Published online: 12 May 2026; doi:10.1038/d41586-026-01519-3\nAnimal-testing alternatives will require a cultural change in research institutions",
+          "isoDate": "2026-05-12T00:00:00.000Z"
         },
         {
-          "title": "Curiosity Blog, Sols 4886-4892: Ingenuity and Perseverance, Curiosity Style",
-          "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4886-4892-ingenuity-and-perseverance-curiosity-style/",
-          "summary": "Written by Michelle Minitti, MAHLI Deputy Principal Investigator Earth planning date: Friday, May 8, 2026 While we know the monikers Ingenuity and Perseverance are attached to our sister helicopter and rover on the Mars 2020 mission, those characteristics were in full force with Curiosity over the past week. The science we achieved this week was […]",
-          "isoDate": "2026-05-12T01:38:30.000Z"
+          "title": "Chemistry in the AI era",
+          "link": "https://www.nature.com/articles/d41586-026-01521-9",
+          "summary": "Nature, Published online: 12 May 2026; doi:10.1038/d41586-026-01521-9\nChemistry in the AI era",
+          "isoDate": "2026-05-12T00:00:00.000Z"
         },
         {
-          "title": "NASA’s Curiosity Takes Close Look at Rock That Got Stuck on Drill",
-          "link": "https://science.nasa.gov/photojournal/nasas-curiosity-takes-close-look-at-rock-that-got-stuck-on-drill/",
-          "summary": "Description NASA’s Curiosity Mars rover used its Mast Camera, or Mastcam, to capture this view of a rock nicknamed “Atacama” on May 6, 2026, the 4,877th Martian day, or sol, of the mission. The rock had gotten stuck to the drill on the end of Curiosity’s robotic arm on April 25. Engineers spent several days […]",
-          "isoDate": "2026-05-12T00:09:41.000Z"
+          "title": "Bacterial−viral conflicts shape cholera evolution",
+          "link": "https://www.nature.com/articles/d41586-026-01156-w",
+          "summary": "Nature, Published online: 12 May 2026; doi:10.1038/d41586-026-01156-w\nGenomics and experimental data suggest that an evolutionary arms race between cholera-causing bacteria and their viral predators shapes the disease in humans.",
+          "isoDate": "2026-05-12T00:00:00.000Z"
         }
       ]
     },
@@ -141,16 +141,16 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-05-12T19:51:06.248Z"
+          "isoDate": "2026-05-13T03:23:52.200Z"
         },
         {
           "title": "Tech Life",
-          "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
-          "summary": "Cameras, vehicles and AI technology - can our roads be made safer?",
+          "link": "https://www.bbc.co.uk/sounds/play/w3ct8jxv?at_medium=RSS&at_campaign=rss",
+          "summary": "Crumbling roads and other hazards - can AI make our streets safer?",
           "isoDate": "2026-05-12T19:45:00.000Z"
         },
         {
-          "title": "Sam Altman: Elon Musk said control of OpenAI should go to his children",
+          "title": "Elon Musk said control of OpenAI should go to his children, Sam Altman tells jury",
           "link": "https://www.bbc.com/news/articles/czj2k2exdzlo?at_medium=RSS&at_campaign=rss",
           "summary": "Sam Altman said Elon Musk tried many times for total control of OpenAI, which he's now suing.",
           "isoDate": "2026-05-12T18:51:56.000Z"
@@ -216,9 +216,27 @@
           "isoDate": "2026-05-12T15:00:00.000Z"
         },
         {
+          "title": "How finance teams use Codex",
+          "link": "https://openai.com/academy/how-finance-teams-use-codex",
+          "summary": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.",
+          "isoDate": "2026-05-12T15:00:00.000Z"
+        },
+        {
+          "title": "How NVIDIA engineers and researchers build with Codex",
+          "link": "https://openai.com/index/nvidia",
+          "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
+          "isoDate": "2026-05-12T00:00:00.000Z"
+        },
+        {
           "title": "What Parameter Golf taught us about AI-assisted research",
           "link": "https://openai.com/index/what-parameter-golf-taught-us",
           "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
+          "isoDate": "2026-05-12T00:00:00.000Z"
+        },
+        {
+          "title": "AutoScout24 scales engineering with AI-powered workflows",
+          "link": "https://openai.com/index/autoscout24",
+          "summary": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
           "isoDate": "2026-05-12T00:00:00.000Z"
         },
         {
@@ -244,24 +262,6 @@
           "link": "https://openai.com/index/openai-launches-the-deployment-company",
           "summary": "OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact.",
           "isoDate": "2026-05-11T06:00:00.000Z"
-        },
-        {
-          "title": "Running Codex safely at OpenAI",
-          "link": "https://openai.com/index/running-codex-safely",
-          "summary": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
-          "isoDate": "2026-05-08T12:30:00.000Z"
-        },
-        {
-          "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
-          "link": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
-          "summary": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure.",
-          "isoDate": "2026-05-07T13:00:00.000Z"
-        },
-        {
-          "title": "Parloa builds service agents customers want to talk to",
-          "link": "https://openai.com/index/parloa",
-          "summary": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions.",
-          "isoDate": "2026-05-07T11:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-05-12T19:51:09.296Z"
+          "isoDate": "2026-05-13T03:23:54.697Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-05-12T19:51:07.693Z"
+          "isoDate": "2026-05-13T03:23:53.379Z"
         },
         {
           "title": "IEEE Program Aims to Connect the Billions Who Are Still Offline",
@@ -324,7 +324,12 @@
       "maxItems": 120,
       "items": [
         {
-          "title": "RESULTADOS (EN DIRECTO)",
+          "title": "RESULTADOS (ÚLTIMOS)",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "OSA  1-2  ATL",
           "link": "",
           "summary": ""
         },
@@ -334,7 +339,42 @@
           "summary": ""
         },
         {
-          "title": "OSA  0-1  ATL",
+          "title": "CEL  2-3  LEV",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "RAY  1-1  GIR",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "BAR  2-0  REA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "REA  0-0  GET",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "ATH  0-1  VAL",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "MAL  1-1  VIL",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "REA  2-2  REA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "ATL  0-1  CEL",
           "link": "",
           "summary": ""
         },
@@ -364,12 +404,12 @@
           "summary": ""
         },
         {
-          "title": " 4  ATL  36  19  7 10  58  38  20  64",
+          "title": " 4  ATL  36  20  6 10  60  39  21  66",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 5  REA  36  13 16  7  55  44  11  55",
+          "title": " 5  REA  36  14 15  7  56  44  12  57",
           "link": "",
           "summary": ""
         },
@@ -394,12 +434,12 @@
           "summary": ""
         },
         {
-          "title": "10  OSA  36  11 10 15  42  45  -3  43",
+          "title": "10  RAY  35  10 13 12  36  42  -6  43",
           "link": "",
           "summary": ""
         },
         {
-          "title": "11  RAY  35  10 13 12  36  42  -6  43",
+          "title": "11  OSA  36  11  9 16  43  47  -4  42",
           "link": "",
           "summary": ""
         },
@@ -409,17 +449,17 @@
           "summary": ""
         },
         {
-          "title": "13  ELC  36   9 13 14  47  55  -8  40",
+          "title": "13  SEV  35  11  7 17  43  56 -13  40",
           "link": "",
           "summary": ""
         },
         {
-          "title": "14  SEV  35  11  7 17  43  56 -13  40",
+          "title": "14  MAL  35  10  9 16  43  52  -9  39",
           "link": "",
           "summary": ""
         },
         {
-          "title": "15  MAL  35  10  9 16  43  52  -9  39",
+          "title": "15  ELC  36   9 12 15  47  56  -9  39",
           "link": "",
           "summary": ""
         },
