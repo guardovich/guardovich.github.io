@@ -1,69 +1,69 @@
 {
-  "generatedAt": "2026-05-14T14:10:50.562Z",
+  "generatedAt": "2026-05-14T19:44:55.475Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
         {
-          "title": "AMD’s FSR 4.1 upscaling tech is coming to older graphics cards",
-          "link": "https://www.theverge.com/tech/930376/amd-fsr-4-expansion",
-          "summary": "Assassin’s Creed Shadows is just one of the games that supports FSR 4.1. | Image: Ubisoft\t\n\nAMD is bringing its FSR 4.1 upscaling tech to older graphics cards. In an announcement on X, Jack Huynh, AMD's head of computing and graphics, says FSR 4.1 will roll out to RDNA 3 GPUs in July, followed by a launch on RDNA 2 chips in early 2027.\nThis summer's update will allow Radeon RX 7000-series chip owners to access AMD's upscaling tech across more than 300 supported games, including Cyberpunk 2077, Battlefield 6, and Assassin's Creed Shadows. FSR 4.1's broader expansion next year will allow the tech to expand to more devices running RDNA 2 architecture, like the Steam Deck.\nAMD launched its FSR 4.1 update for Radeon RX 9000-series gra …\nRead the full story at The Verge.",
-          "isoDate": "2026-05-14T14:06:48.000Z"
+          "title": "Meta’s summer sale drops Ray-Ban’s new smart glasses to record-low prices",
+          "link": "https://www.theverge.com/gadgets/930785/meta-smart-glasses-gen-1-2-deal-sale",
+          "summary": "You can save over $50 on the latest pair of Ray-Ban Meta glasses, which offer improved video quality and battery life. | Photo: Photo by Colt Bradley / The Verge\t\n\nIf you’ve been curious about Ray-Ban’s Meta smart glasses, right now they’re on sale in Meta’s biggest deal event outside Black Friday. As part of the company’s Summer Sale event, which runs through May 26th, the original model is on sale starting at $224.25 ($74 off) at Amazon, Best Buy, and directly from Meta, matching its best price to date. The newer, second-gen glasses are also discounted, and you can grab a pair for $322.25 ($57 off), which is a new low price, at Amazon, Best Buy, and from Meta.\nRay-Ban Meta (Gen 1) smart glasses\n\nWhere to Buy:\n\n $299 $224.25 at Amazon\n $299 $224.25 at Best Buy\n $299.99 $224.99 at Target \n\n\nRay-Ban Meta Gen 2\n\nWhere to Buy:\n\n $379 $322.15 at Amazon\n $379 $322.15 at Best Buy\n $379 $322.15 at Ray-Ban\n\nNo matter which model you buy, you’re getting largely the same core experience. As far as smart glasses go, both are pretty stylish and look like a normal pair of Ray-Bans. They also offer the same feature set, letting you snap hands-free 1080p photos and short videos as well as livestream straight to Instagram or Facebook. Both glasses also double as surprisingly capable open-ear headphones, with speaker quality that’s great for listening to music while letting you stay aware of your surroundings. You can also take calls through a five-mic array that does a good job of keeping your voice sounding clear.\nYou also get access to all of Meta’s AI assistant features. If you’re planning to travel this summer, for example, the assistant can translate supported languages like Spanish, French, and Italian in real time, and answer questions about landmarks you’re looking at. They can also come in handy in everyday life, helping you brainstorm recipes based on whatever ingredients you already have in your fridge, reminding you about upcoming appointments, scanning QR codes, and more.\nThe main difference is that the newer model shoots sharper 3K video at 30fps, up from 1440 x 1920 at 30fps, which translates to slightly sharper video and improved image quality. The Gen 2 also can last up to eight hours with heavy use, which is twice that of the original pair’s, and means you can likely comfortably wear them all day before recharging.\nRead our first-gen and second-gen Ray-Ban Meta glasses reviews.",
+          "isoDate": "2026-05-14T19:44:17.000Z"
         },
         {
-          "title": "Dyson put a camera on its purifier so fresh air can follow you around the room",
-          "link": "https://www.theverge.com/tech/930348/dyson-find-follow-air-purifier-cool-ai-tracking-camera-privacy",
-          "summary": "Dyson’s new air purifier can target multiple people. | Image: Dyson\t\n\nDyson has announced a new air purifying bladeless fan that's its first to incorporate an AI-powered camera for tracking the location of people in a room. Dyson already uses a mix of cameras and AI in its robovacs, but since the new Find+Follow Purifier Cool is stationary and not at risk of running into abandoned socks, here it's used to direct fresh air towards you and to conserve power by automatically turning the fan off when a room is empty.\nThe Dyson Find+Follow Purifier Cool is now available from its online and retail stores for $894.99 and is capable of capturing and trapping 99.97 percent of ultrafine particles as small as 0.3 micron …\nRead the full story at The Verge.",
-          "isoDate": "2026-05-14T13:35:41.000Z"
+          "title": "Microsoft starts canceling Claude Code licenses",
+          "link": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
+          "summary": "Microsoft first started opening up access to Claude Code in December, inviting thousands of its own developers to use Anthropic's AI coding tool daily. It was part of an effort to get project managers, designers, and other employees to experiment with coding for the first time, and sources tell me that Claude Code has proved very popular inside Microsoft over the past six months. Perhaps a little too popular, as Microsoft is now preparing to walk back its Claude Code push.\nI understand that Microsoft is planning to remove most of its Claude Code licenses and push many of its developers to use Copilot CLI instead. While Claude Code has been  …\nRead the full story at The Verge.",
+          "isoDate": "2026-05-14T19:00:00.000Z"
         },
         {
-          "title": "Data readiness for agentic AI in financial services",
-          "link": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
-          "summary": "Financial services companies have unique needs when it comes to business AI. They operate in one of the most highly regulated sectors while responding to external events that are updated by the second. As a result, the success of agentic AI in financial services depends less on the sophistication of the system and more on…",
-          "isoDate": "2026-05-14T13:00:00.000Z"
+          "title": "Linux devs are fighting the new age-gated internet",
+          "link": "https://www.theverge.com/tech/930573/age-verification-bills-linux-open-source",
+          "summary": "In January, Colorado lawmakers introduced a proposal to make operating systems collect users' ages and pass them to app developers. The bill, SB26-051, had clearly been designed for commercial platforms like iOS and Android - one of numerous plans to age-gate the internet through users' devices. It was intended to provide information that would let developers disable age-inappropriate experiences for kids. But as it made the rounds online, Linux laptop maker Carl Richell read the proposal with dismay. \nCarl Richell is the founder and CEO of Dever-based System76, which also develops the Pop!_OS Linux distribution. The law, he realized, would …\nRead the full story at The Verge.",
+          "isoDate": "2026-05-14T18:58:00.000Z"
         },
         {
-          "title": "Establishing AI and data sovereignty in the age of autonomous systems",
-          "link": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
-          "summary": "When generative AI first moved from research labs into real-world business applications, enterprises made a tacit bargain: “Capability now, control later.” Feed your proprietary data into third-party AI models, and you will get powerful results. But your data passes through systems you do not own, under governance you do not set. The protections you rely…",
-          "isoDate": "2026-05-14T13:00:00.000Z"
+          "title": "AMD promises to bring improved, hardware-backed FSR 4 upscaling to older Radeon GPUs",
+          "link": "https://arstechnica.com/gadgets/2026/05/amd-promises-to-bring-improved-hardware-backed-fsr-4-upscaling-to-older-radeon-gpus/",
+          "summary": "FSR 4.1 running on RDNA3 or RDNA2 GPUs may take a bigger performance hit.",
+          "isoDate": "2026-05-14T18:55:54.000Z"
         },
         {
-          "title": "Dell and RAMageddon are watering down the Alienware brand",
-          "link": "https://www.theverge.com/tech/929160/dell-alienware-15-laptop-price-release-date-branding",
-          "summary": "I remember a time when Alienware refused to make a thinner laptop - the company didn't want to compromise on its builds. But today, Dell is slapping the Alienware name on a piece of hardware that sounds utterly watered down. It's partly RAMageddon's fault. \nThe new five-pound Alienware 15 is supposedly an entry-level gaming laptop, one designed to invite those with less cash into the fold. That's an admirable goal at a time when all kinds of gaming hardware suddenly costs more. But unlike Alienware's affordable $350 OLED monitor, the laptop does not sound like good value for the money.\nEven with a last-gen, entry-level Nvidia RTX 4050 grap …\nRead the full story at The Verge.",
-          "isoDate": "2026-05-14T13:00:00.000Z"
+          "title": "Judge probes whether Musk settlement with Trump admin is tainted by corruption",
+          "link": "https://arstechnica.com/tech-policy/2026/05/judge-probes-whether-musk-settlement-with-trump-admin-is-tainted-by-corruption/",
+          "summary": "Trump admin wants to let Musk pay $1.5M fine to settle $150 million Twitter suit.",
+          "isoDate": "2026-05-14T18:45:01.000Z"
         },
         {
-          "title": "The Razr Fold is stuck in the middle",
-          "link": "https://www.theverge.com/tech/930246/motorola-razr-fold-review-battery",
-          "summary": "Can’t beat Moto on style.\t\n\nFor a phone that gets a lot right, the Motorola Razr Fold is frustratingly hard to recommend.\nThe Razr Fold is the company's first book-style foldable, and it enters the US market with something not currently available on the competition: truly excellent battery life that rivals the best slab-style phones. No need to worry if you spend a long session gaming or working in a Google doc on the inner screen. The Razr Fold is going to easily get you through your day and then some. Samsung and Google's foldables are much more likely to generate battery anxiety on a day of heavy use.\nAlso, the Razr Fold looks nice. The rounded corners, soft touch …\nRead the full story at The Verge.",
-          "isoDate": "2026-05-14T13:00:00.000Z"
+          "title": "Zero-day exploit completely defeats default Windows 11 BitLocker protections",
+          "link": "https://arstechnica.com/security/2026/05/zero-day-exploit-completely-defeats-default-windows-11-bitlocker-protections/",
+          "summary": "It's not entirely clear how the exploit works. Microsoft says it's investigating.",
+          "isoDate": "2026-05-14T18:32:01.000Z"
         },
         {
-          "title": "AT&#038;T, T-Mobile, and Verizon team up to eliminate coverage dead zones",
-          "link": "https://www.theverge.com/tech/930336/att-tmobile-verizon-joint-venture-agreement-satellite-coverage",
-          "summary": "AT&T, T-Mobile, and Verizon have agreed to work together under a new joint venture that aims to end wireless dead zones in the US. The partnership was announced today as an \"agreement in principle,\" but if finalized would see the three carrier companies pooling their ground-based spectrum resources together to increase coverage in rural areas.\nThe goal is to create the \"best and most diverse ecosystem for wireless and satellite products and services,\" though details on how this will actually be achieved are fairly vague. There's mention of the venture developing a unified technical standard for customers and satellite network operators, and …\nRead the full story at The Verge.",
-          "isoDate": "2026-05-14T12:48:49.000Z"
+          "title": "Use this map to find the data centers in your backyard",
+          "link": "https://www.theverge.com/policy/930629/data-center-policy-map-interactive",
+          "summary": "An interactive map tracking data center construction and AI policy, built by Isabelle Reksopuro.\t\n\nWhen Oregon resident Isabelle Reksopuro heard Google was gobbling up public land to fuel its data centers in her home state, she didn't initially know what to believe. \"There's a lot of misinformation about data centers,\" she said. \"Google has denied taking that land.\" \nTechnically, she explains, The Dalles, a city near the Washington state border, sought to reclaim that land, \"and Google is just a big, unnamed power user.\" The city had in fact asked for ownership of a 150-acre portion of Mount Hood National Forest, claiming it needs access to Mount Hood's watershed to meet municipal needs as its population - 16,010 as of the 2020 census -  …\nRead the full story at The Verge.",
+          "isoDate": "2026-05-14T17:40:00.000Z"
         },
         {
-          "title": "The Download: deepfake porn’s stolen bodies and AI sharing private numbers",
-          "link": "https://www.technologyreview.com/2026/05/14/1137257/the-download-deepfake-porn-bodies-ai-exposing-phone-numbers/",
-          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The shock of seeing your body used in deepfake porn When Jennifer got a research job in 2023, she ran her new professional headshot through a facial recognition program. She wanted…",
-          "isoDate": "2026-05-14T12:10:00.000Z"
+          "title": "Your doctor’s AI notetaker may be making things up, Ontario audit finds",
+          "link": "https://arstechnica.com/health/2026/05/your-doctors-ai-notetaker-may-be-making-things-up-ontario-audit-finds/",
+          "summary": "Made-up therapy referrals, incorrect prescriptions among the common mistakes.",
+          "isoDate": "2026-05-14T17:28:43.000Z"
         },
         {
-          "title": "Insta360’s new viewfinder turns the action cam into a retro shooter",
-          "link": "https://www.theverge.com/tech/929125/insta360-360-go-3s-retro-bundle-viewfinder-accessory",
-          "summary": "There’s certainly some retro appeal to Insta360’s new action camera accessory.\t\n\nThe pill-shaped Insta360 Go 3S 4K action camera launched in June 2024 as an updated version of the 2.7K Go 3 that debuted a year prior. While last year’s Go Ultra introduced a redesign with a larger sensor and higher frame rates, the Go 3S has stuck around as a smaller but still very capable alternative. To broaden its appeal, the action cam is now available with a new optical viewfinder accessory for framing shots when using it as a handheld camera, but you may be better off splurging on Insta360’s more expensive dock that adds an LCD screen.\nThe Retro Viewfinder accessory is available today through Insta360’s online store on its own for $47.99, or as part of a new Go 3S Retro Bundle starting at $299.99 that includes the 64GB version of the action cam. That’s cheaper than the $349.99 Standard Bundle that pairs the same version of the Go 3S with Insta360’s Action Pod dock.\nInsta360 GO 3S Retro Bundle\n\nWhere to Buy:\n\n $299.99 at Insta360 (64GB)\n $319.99 at Insta360 (128GB)\n\nAs with most tiny action cameras, the Insta360 Go 3S lacks a screen of its own. You can connect it to a smartphone app to see live previews and adjust camera settings, but the Go 3S is designed to be mounted where you wouldn’t be able to see a screen (like atop a helmet) where it captures nearly all the action in front of you using a wide-angle lens.\nThe new Retro Viewfinder is an attempt to repurpose the action cam as a handheld shooter that lets you frame subjects like a classic camera. It works similar to the Insta360’s Action Pod where the Go 3S slots into the front of the accessory. There’s no spring-loaded latches to keep it securely attached, but a strong magnet kept the camera in place during a vigorous shake test.\n\n\n\n\nInstead of holding the accessory up to your eye to frame shots, you hold it at chest level and look down into the viewfinder. The front panel of the Go 3S functions as your shutter button, snapping photos with a single press and starting and stopping video recording with a double press. It was designed this way to create a “vintage shooting experience inspired by classic film cameras,” according to Insta360.  And while framing and snapping photos this way does have some novelty (at one point I felt a little like Ansel Adams as I framed a row of community mailboxes instead of mountains), Insta360’s execution comes with some frustrations. \nThe viewing angle is extremely limited, and tilting the Retro Viewfinder just 15 to 20 degrees front, back, or side to side results in you seeing nothing at all. The image in the viewfinder is also flipped horizontally. Even after a week of practice, I struggled to intuitively know how to move or adjust the angle of the camera to position a subject exactly where I want them in frame, or to just ensure a shot is level. The process still feels like trial-and-error.\n\n\n\n\nThe Go 3S is an excellent camera, but its wide field of view doesn’t help the Retro Viewfinder. As a result, the accessory doesn’t provide an accurate preview of the photos and videos you’re capturing. Walking around my neighborhood one evening, I tried to snap photos that focused on tree lines and a beautiful cloudy sky but ended up with images that included random people, houses, and cars that I deliberately tried to keep out of frame. It’s easy to fix with a quick crop in the Insta360 app, but it feels counterintuitive for an accessory designed to make framing more deliberate. There’s still an element of shoot and see what you get.\n\n\n\n\nFraming is more accurate when capturing selfies with the Retro Viewfinder, but still tricky. You can use the front lens as a selfie mirror, but it’s difficult to frame photos because of dark reflections — especially indoors. \n\n\n\n\nBattery life is limited, even with an included clunky clip-on battery pack/charger that more than doubles the Go 3S’ battery life from 310mAH to over 700mAh. I was able to grab about 150 photos during an hour walk before the camera completely died. Capturing 4K video will drain it even faster, as does connecting it to the Insta360 mobile app.\nChanging any settings, including selecting film-emulating filters or different color profiles, requires a direct Wi-Fi connection to your smartphone. The Retro Viewfinder includes a hidden NFC tag that streamlines launching and connecting to the app with a tap (the process still takes about 15 to 20 seconds to fully connect), but it’s still far less convenient than pairing the action camera with Insta360’s Action Pod whose touchscreen provides on-device access to most settings.\nTurning the Insta360 Go 3S into a pocketable handheld camera is a clever idea given how popular tiny retro cameras like Kodak’s Charmera still are. But the execution here isn’t ideal. The Retro Viewfinder succeeds in making the Go 3S easier to hold, but its other functionality is often frustrating. On its own, the accessory is cheap enough to consider if you already own the Go 3S, but spending an extra $50 for a bundle with Insta360’s Action Pod will serve you better in the long run no matter how you plan to use the camera.\nPhotography by Andrew Liszewski / The Verge",
-          "isoDate": "2026-05-14T12:00:00.000Z"
+          "title": "Vaporware or not? Aptera assembles its first five validation models.",
+          "link": "https://arstechnica.com/cars/2026/05/vaporware-or-not-aptera-assembles-its-first-five-validation-models/",
+          "summary": "The three-wheel, two-seat EV has been in development since 2006.",
+          "isoDate": "2026-05-14T17:06:23.000Z"
         },
         {
-          "title": "I’m obsessed with Forza Horizon 6, and I’ve barely even raced",
-          "link": "https://www.theverge.com/entertainment/929816/forza-horizon-6-review-xbox-pc",
-          "summary": "For the last week, I've spent every evening unwinding by speeding through the Japanese countryside, blaring Babymetal as I take in the sights. Forza Horizon 6 is ostensibly a racing game, one in which you play an up-and-coming driver intent on making a name for themselves. But, like the rest of the series, it's also an open world, one in which you can spend as much - or, in my case, substantially more - time exploring as you do racing. And it's that element that's substantially improved in Horizon 6. It's a combination of structure and setting: The fictional take on Japan isn't just the largest map in a Horizon game, but it's also incredibly …\nRead the full story at The Verge.",
-          "isoDate": "2026-05-14T12:00:00.000Z"
+          "title": "Cisco announces record revenue and 4,000 layoffs in the same day",
+          "link": "https://arstechnica.com/information-technology/2026/05/cisco-announces-record-revenue-and-4000-layoffs-in-the-same-day/",
+          "summary": "Layoffs are \"not a savings-driven restructure,\" CFO says.",
+          "isoDate": "2026-05-14T16:47:43.000Z"
         }
       ]
     },
@@ -72,64 +72,64 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "ERROR cargando feed",
-          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
-          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-05-14T14:10:44.094Z"
+          "title": "NASA, Industry Prepare Cryogenic Fuel Technology Demo",
+          "link": "https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/cryogenic-fluid-management-cfm/nasa-industry-prepare-cryogenic-fuel-technology-demo/",
+          "summary": "NASA is collaborating with Eta Space of Rockledge, Florida, on an in‑orbit technology demonstration to advance a key capability for future deep space missions. The Liquid Oxygen Flight Demonstration, or LOXSAT, will test cryogenic fluid management technologies necessary for creating in-space propellant depots, essentially gas stations in space, that could support long-term exploration. During a […]",
+          "isoDate": "2026-05-14T16:32:09.000Z"
         },
         {
-          "title": "Mental-health research is too often invisible — it is time to change that",
-          "link": "https://www.nature.com/articles/d41586-026-01550-4",
-          "summary": "Nature, Published online: 14 May 2026; doi:10.1038/d41586-026-01550-4\nMental illness needs visibility more urgently than almost any other area of medicine and health care. A new award from Wellcome and Nature aims to raise its prominence.",
-          "isoDate": "2026-05-14T00:00:00.000Z"
+          "title": "Fresh Food Delivery for Space Station",
+          "link": "https://www.nasa.gov/image-article/fresh-food-delivery-for-space-station/",
+          "summary": "NASA astronauts Jack Hathaway (bottom left), Jessica Meir (middle left), and Chris Williams (bottom right), and ESA (European Space Agency) astronaut Sophie Adenot (top right) have some fun with food and microgravity in this April 19, 2026, photo. Northrop Grumman’s Cygnus XL cargo spacecraft delivered a shipment of fresh food, including oranges, apples, onions, and […]",
+          "isoDate": "2026-05-14T14:55:08.000Z"
         },
         {
-          "title": "Stereoelectronic manipulation of ligands for perovskite solar cells",
-          "link": "https://www.nature.com/articles/s41586-026-10626-0",
-          "summary": "Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10626-0\nStereoelectronic manipulation of ligands for perovskite solar cells",
-          "isoDate": "2026-05-13T00:00:00.000Z"
+          "title": "Accelerated Himalayan river meandering and dynamics due to climate change",
+          "link": "https://www.science.org/doi/abs/10.1126/science.adg8401?af=R",
+          "summary": "Science, Volume 392, Issue 6799, May 2026.",
+          "isoDate": "2026-05-14T07:00:00.000Z"
         },
         {
-          "title": "The hunt for the next antibiotics",
-          "link": "https://www.nature.com/articles/d41586-026-01424-9",
-          "summary": "Nature, Published online: 13 May 2026; doi:10.1038/d41586-026-01424-9\nTo battle antibiotic resistance, researchers are leaving no stone unturned, looking at folk traditions and harnessing AI to find new antibiotics.",
-          "isoDate": "2026-05-13T00:00:00.000Z"
+          "title": "Microtubule dynamics control the direction of cardiomyocyte growth",
+          "link": "https://www.science.org/doi/abs/10.1126/science.adz1970?af=R",
+          "summary": "Science, Volume 392, Issue 6799, May 2026.",
+          "isoDate": "2026-05-14T07:00:00.000Z"
         },
         {
-          "title": "Red-light therapy is all the rage — does it work?",
-          "link": "https://www.nature.com/articles/d41586-026-01547-z",
-          "summary": "Nature, Published online: 13 May 2026; doi:10.1038/d41586-026-01547-z\nThere are a multitude of red-light emitting consumer goods, but do they really do anything for your health? We look at the science behind the hype — plus, the increasing levels of obesity in lower-income countries.",
-          "isoDate": "2026-05-13T00:00:00.000Z"
+          "title": "Decoding collective dynamics and complexity in nanoparticle assemblies using graph theory",
+          "link": "https://www.science.org/doi/abs/10.1126/science.aeb5134?af=R",
+          "summary": "Science, Volume 392, Issue 6799, May 2026.",
+          "isoDate": "2026-05-14T07:00:00.000Z"
         },
         {
-          "title": "Pristine Antarctic ice records the Solar System’s travels",
-          "link": "https://www.nature.com/articles/d41586-026-01505-9",
-          "summary": "Nature, Published online: 13 May 2026; doi:10.1038/d41586-026-01505-9\nRare isotopes hint at when the Solar System entered the Local Interstellar Cloud.",
-          "isoDate": "2026-05-13T00:00:00.000Z"
+          "title": "A unified platform for nucleoside analog synthesis",
+          "link": "https://www.science.org/doi/abs/10.1126/science.aed6880?af=R",
+          "summary": "Science, Volume 392, Issue 6799, May 2026.",
+          "isoDate": "2026-05-14T07:00:00.000Z"
         },
         {
-          "title": "An ultra-faint, chemically primitive galaxy forming in the reionization era",
-          "link": "https://www.nature.com/articles/s41586-026-10374-1",
-          "summary": "Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10374-1\nLAP1-B—an ultra-faint and tiny galaxy that formed in the reionization era and is strongly magnified by gravitational lensing—is chemically primitive and hosts very few stars in an otherwise dominant dark matter halo.",
-          "isoDate": "2026-05-13T00:00:00.000Z"
+          "title": "Aiding peace or conflict? The impact of USAID cuts on violence",
+          "link": "https://www.science.org/doi/abs/10.1126/science.aed6802?af=R",
+          "summary": "Science, Volume 392, Issue 6799, May 2026.",
+          "isoDate": "2026-05-14T07:00:00.000Z"
         },
         {
-          "title": "More concentrated precipitation decreases terrestrial water storage",
-          "link": "https://www.nature.com/articles/s41586-026-10487-7",
-          "summary": "Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10487-7\nConcentration of precipitation in large events decreases land water availability, and this effect will further increase with a future warming climate.",
-          "isoDate": "2026-05-13T00:00:00.000Z"
+          "title": "Rewiring STAT signaling from the cell surface with Trikine immunotherapeutics",
+          "link": "https://www.science.org/doi/abs/10.1126/science.adx9954?af=R",
+          "summary": "Science, Volume 392, Issue 6799, May 2026.",
+          "isoDate": "2026-05-14T07:00:00.000Z"
         },
         {
-          "title": "Efficient robot navigation inspired by honeybee learning flights",
-          "link": "https://www.nature.com/articles/s41586-026-10461-3",
-          "summary": "Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10461-3\nA highly efficient navigation strategy taking inspiration from the visual learning flights of honeybees is described, which enables drones to quickly return from longer flights by means of path integration and uses a neural network as a view memory to reach the home location.",
-          "isoDate": "2026-05-13T00:00:00.000Z"
+          "title": "Erratum for the Research Article “Matching sounds to shapes: Evidence of the bouba-kiki effect in naïve baby chicks”",
+          "link": "https://www.science.org/doi/abs/10.1126/science.aei3078?af=R",
+          "summary": "Science, Volume 392, Issue 6799, May 2026.",
+          "isoDate": "2026-05-14T07:00:00.000Z"
         },
         {
-          "title": "Sustaining microglial reparative function enhances stroke recovery",
-          "link": "https://www.nature.com/articles/s41586-026-10480-0",
-          "summary": "Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10480-0\nReparative microglia persist in the brain after stroke but become dysfunctional through ZFP384-mediated mechanisms; however, this process can be mitigated by targeting Zfp384 using therapeutic antisense oligonucleotides.",
-          "isoDate": "2026-05-13T00:00:00.000Z"
+          "title": "A civic grammar for AI rights",
+          "link": "https://www.science.org/doi/abs/10.1126/science.aeh7153?af=R",
+          "summary": "Science, Volume 392, Issue 6799, May 2026.",
+          "isoDate": "2026-05-14T07:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-05-14T14:10:45.310Z"
+          "isoDate": "2026-05-14T19:44:49.769Z"
         },
         {
           "title": "HMRC to use AI from British tech firm to spot fraud and tax return errors",
@@ -204,6 +204,12 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "Helping ChatGPT better recognize context in sensitive conversations",
+          "link": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
+          "summary": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely.",
+          "isoDate": "2026-05-14T00:00:00.000Z"
+        },
+        {
           "title": "Building a safe, effective sandbox to enable Codex on Windows",
           "link": "https://openai.com/index/building-codex-windows-sandbox",
           "summary": "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions.",
@@ -234,15 +240,15 @@
           "isoDate": "2026-05-12T15:00:00.000Z"
         },
         {
-          "title": "How NVIDIA engineers and researchers build with Codex",
-          "link": "https://openai.com/index/nvidia",
-          "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
-          "isoDate": "2026-05-12T00:00:00.000Z"
-        },
-        {
           "title": "AutoScout24 scales engineering with AI-powered workflows",
           "link": "https://openai.com/index/autoscout24",
           "summary": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
+          "isoDate": "2026-05-12T00:00:00.000Z"
+        },
+        {
+          "title": "How NVIDIA engineers and researchers build with Codex",
+          "link": "https://openai.com/index/nvidia",
+          "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
           "isoDate": "2026-05-12T00:00:00.000Z"
         },
         {
@@ -256,12 +262,6 @@
           "link": "https://openai.com/signals/research/2026q1-update",
           "summary": "ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption.",
           "isoDate": "2026-05-11T15:00:00.000Z"
-        },
-        {
-          "title": "OpenAI Campus Network: Student club interest form",
-          "link": "https://openai.com/index/openai-campus-network-student-club-interest-form",
-          "summary": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
-          "isoDate": "2026-05-11T10:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-05-14T14:10:48.989Z"
+          "isoDate": "2026-05-14T19:44:54.064Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-05-14T14:10:46.929Z"
+          "isoDate": "2026-05-14T19:44:51.282Z"
+        },
+        {
+          "title": "IEEE Society Helps Researchers Meet Their Next Corporate Backer",
+          "link": "https://spectrum.ieee.org/ieee-society-pitch-sessions",
+          "summary": "The IEEE Communications Society (ComSoc)’s Research Collaboration Pitch Session initiative is proving to be a catalyst for meaningful engagement between academic researchers and industry innovators. Launched last year, the program connects promising researchers with industry leaders who can offer them funding, mentorship, and connections to bring interesting ideas closer to real-world deployment.\nRather than relying on chance encounters at conferences, the pitch sessions create a focused environment. Five academic presenters share their work with five industry representatives, known as “innovation scouts”: senior leaders primarily chosen from ComSoc’s Corporate Program partner companies such as Ericsson, Intel, Keysight, and Nokia. The curated format ensures that each idea receives dedicated attention from professionals who are seeking new concepts aligned with their organization’s priorities.\nThe initiative was launched in November at the IEEE Middle East Conference on Communications and Networking (MECOM) in Cairo and appeared in December at the IEEE Global Communications Conference (GLOBECOM) in Taipei, Taiwan.\nAI-driven communication network\nOne of the most compelling outcomes came from the inaugural session in Cairo. Angela Waithaka, a student member and biomedical engineering student at Kenyatta University, in Nairobi, Kenya, presented her “AI-Driven Predictive Communication Networks for Enhanced Performance in Resource-Constrained Environments” paper. You can view her presentation along with others on IEEE.tv.\nWaithaka’s research tackles a critical challenge: Next-generation communication systems increasingly rely on artificial intelligence and machine learning, yet most existing architectures consume abundant computational and energy resources, which are not always present in developing regions.\nWaithaka proposed lightweight, adaptive AI/machine learning models capable of delivering predictive, reliable communication performance even under tight resource constraints.\nHer vision resonated with Ruiqi “Richie” Liu, a master researcher at ZTE in China. ZTE is a global leader in integrated information and communication technology solutions. Liu says he recognized the relevance Waithaka’s proposal had to his company’s work with the International Telecommunication Union. He invited her to establish an ITU account so she could participate in the organization’s meetings discussing global telecommunications standardization projects—which would elevate her work to an international stage.\nSimplifying data center protocols\nThe momentum continued at GLOBECOM. Among the presenters was Nirmala Shenoy, a professor at the Rochester Institute of Technology, in New York. Shenoy, an IEEE member, spoke on the topic of simplifying data center network protocols. She highlighted the growing complexity of the critical networks, which underpin cloud services, enterprise IT, and emerging AI workloads.\nShenoy’s focus on reducing protocol complexity while maintaining scalability, resilience, and low latency caught the attention of an innovation scout from Nokia, who heads its eXtended Reality Lab in Madrid. He found the key person at Nokia for Shenoy to connect with to discuss her research, and it led her to record a video for the company detailing her approach and its potential applications.\nA model for accelerating innovation\nThe early success stories demonstrate the power of intentional, structured engagement. By bringing researchers and industry leaders together in a format designed for discovery, ComSoc is helping accelerate innovation and expand opportunities for collaboration. The pitch sessions are not merely conference events; they are becoming a bridge between academic creativity and industry implementation.\nThis year sessions will be held during the IEEE International Conference on Communications in Glasgow from 24 to 28 May, and more are scheduled during the IEEE International Mediterranean Conference on Communications and Networking in Sardinia from 6 to 9 July, and at GLOBECOM in Macau from 7 to 11 December.\nAs the program continues to grow, it could become a signature ComSoc initiative, one that strengthens the research ecosystem, supports emerging talent, and ensures that promising ideas find pathways to real-world impact.",
+          "isoDate": "2026-05-14T18:00:02.000Z"
         },
         {
           "title": "Why RF Coexistence Testing Is Critical for Shared Spectrum",
@@ -310,12 +316,6 @@
           "link": "https://content.knowledgehub.wiley.com/understanding-evm-error-vector-magnitude-in-modern-wireless-communications/",
           "summary": "A comprehensive guide to error vector magnitude (EVM), the primary metric for quantifying modulation accuracy in Wi-Fi, LTE, and 5G NR systems.\nWhat Attendees will Learn\n\nWhat error vector magnitude is and how it is calculated — Understand EVM as the distance between ideal and measured constellation points, learn the difference between peak and RMS normalization, and see how EVM is expressed in both percentage and decibel formats.\nHow digital modulation works and why it matters — Explore the fundamentals of ASK, FSK, PSK, APSK, and QAM modulation schemes, and understand why higher modulation orders increase throughput, while also demanding greater accuracy in signal transmission and reception.\nWhat causes degraded EVM in real-world systems — Examine the four main categories of EVM contributors: amplitude effects (compression, noise, frequency response), phase effects (phase noise), I/Q imperfections (gain imbalance, quadrature error), and configuration issues.\nHow to diagnose modulation impairments using constellation diagrams — Learn how visual inspection of constellation diagrams can identify phase noise, amplifier compression, noise, in-band spurious signals, and I/Q modulator imperfections as root causes of degraded EVM.\n\nDownload this free whitepaper now!",
           "isoDate": "2026-05-11T10:00:01.000Z"
-        },
-        {
-          "title": "Ana Inês Inácio Designs the Future of Wireless",
-          "link": "https://spectrum.ieee.org/ana-ines-inacio-wireless",
-          "summary": "When Ana Inês Inácio goes to work at the Netherlands Organization for Applied Scientific Research (TNO) in The Hague, she thinks about signals most people never notice: radio waves moving between satellites, sensors, and future wireless networks.\nThe integrated circuits the research scientist designs lay the foundation for next-generation RF sensor systems critical to advancing radar technologies.\nAna Inês Inácio\n\nEMPLOYER \nNetherlands Organization for Applied Scientific Research, TNO\nTITLE \nScientist\nIEEE MEMBER GRADE \nSenior member\nALMA MATER \nUniversity of Aveiro, in Portugal\nThose invisible RF signals are only part of what earned the IEEE senior member her global recognition.\nInácio recently received the IEEE–Eta Kappa Nu Outstanding Young Professional Award for “leadership in IEEE Young Professionals, fostering innovation and inclusivity, and pioneering advancements in RF sensor systems, bridging technical excellence with impactful community engagement.”\nThe recognition from IEEE’s honor society reflects a career built along two parallel paths: advancing RF circuit design while helping engineers worldwide build professional communities.\n“I’ve always liked building things,” Inácio says. “Sometimes that means circuits; sometimes it means helping people connect and grow together.”\nThat blend of technical innovation and global leadership gives her work impact far beyond the laboratory.\nEE lessons at the kitchen table\nInácio grew up in Vales do Rio, a rural village near Covilhã in central Portugal.\nThe region was known for farming and textiles, she says. Many residents worked in the textile industry, including her grandfather, who repaired machinery such as industrial looms. He became her first engineering teacher without ever holding the formal title.\nThrough correspondence courses delivered by mail, he taught himself electrical systems. At home, he explained electricity to his granddaughter while he repaired the household’s appliances and wiring.\n“He would show me why something broke and how we could fix it,” she recalls. It sparked her curiosity.\nHer mother was a tailor who later managed other tailors. Her father left his factory job to attend culinary school and now cooks at an elder-care facility. Curiosity was a trait that ran through the family.\nBy high school, Inácio was drawn equally to mathematics and physics and to biology and geology, she says. Encouragement from teachers and an uncle, an engineer, ultimately steered her toward electronics engineering.\nConducting research on integrated circuits\nIn 2008 she enrolled in an integrated master’s degree program in electrical and telecommunications engineering at the Universidade de Aveiro in Portugal, a five-year degree that combined undergraduate and graduate studies.\nAn opportunity to study abroad changed her path. In 2012 she moved to the Netherlands to study at Eindhoven University of Technology (TU/e) through a six-month European exchange program with UAveiro.\nA professor encouraged her to stay on, so she completed her final year of masters in the Netherlands. She focused on techniques to improve the linearization of RF power amplifiers at Thales. The company, based in Hengelo, Netherlands, designs and produces electronics for defense and security.\nShe earned her master’s degree from UAveiro in 2013. After graduating, she joined the integrated circuit design group at the University of Twente, in The Netherlands, conducting collaborative research as part of a nationally funded program on linearization techniques for RF front-end systems. The experience introduced her to international research culture and persuaded her to pursue a career abroad, she says.\nEngineering the future of wireless\nInácio joined TNO in 2018 as a junior scientist and innovator: her first professional industry job. Today she designs integrated RF front-end systems—the circuits that allow devices to transmit and receive wireless signals.\nThe components sit at the core of modern communications, enabling sensor networks, satellite links, and emerging 6G technologies.\nHer work aims to tackle a central challenge: getting greater performance from smaller chips.\n“As communication evolves, we need more bandwidth to transfer more data at higher speeds,” she says. “The question is how much complexity you can integrate into one system while keeping it efficient.”\nUnlike commercial lab environments, which reuse established designs, research projects often start from scratch. Each transmit-receive chain—the signal path that converts digital data to radio waves and back again—is tailored to specific requirements.\nHer work focuses on improving key circuit characteristics including linearity (ensuring that the signals that go out of the antenna are not distorted) as well as noise reduction (so design blocks can be optimized). Advanced design techniques help devices communicate more reliably while consuming less energy, a critical need for large sensor networks such as the Internet of Things, she says.\nArtificial intelligence is beginning to influence her field, she says: “AI is already helping us work faster. The real challenge is learning how to use it to make better designs, not just quicker ones.”\nA parallel vocation with IEEE\nWhile her technical career flourished in research labs, an additional journey unfolded through IEEE.\nInácio joined the organization in 2009 as a student after discovering UAveiro’s student branch. What began as curiosity evolved into a long-term leadership path.\nShe advanced through roles within Region 8—covering Europe, Africa, and the Middle East—one of the organization’s most culturally diverse regions. She was the student branch’s vice chair, and the region’s student representative for more than 22,000 IEEE members. She also served as the Young Professionals Affinity Group chair for the IEEE Benelux Section, which encompasses Belgium, the Netherlands, and Luxembourg.\nCurrently, she serves as the immediate past chair of the Region 8 Young Professionals Committee, and vice chair and IEEE Member and Geographical Activities representative on the IEEE Young Professionals Committee. In those roles, she represents close to 135,000 IEEE members.\nIn addition, she is an active member of the IEEE Microwave Theory and Technology Society, currently serving as its Young Professionals liaison.\nHer involvement with IEEE has boosted her professional confidence, she says.\n“IEEE didn’t directly give me promotions at my day job, but it gave me leadership skills, networking opportunities, and the ability to work with people from everywhere,” she says.\nThose experiences now shape her collaborations at TNO, where international teamwork is essential.\nThe IEEE-HKN Outstanding Young Professional Award recognizes that combination of technical excellence and community impact, she says.\nLooking back, Inácio sees a clear thread connecting her childhood curiosity, her international career, and her IEEE leadership: Engineering, she says, is ultimately about people as much as it is about technology.",
-          "isoDate": "2026-05-08T18:00:01.000Z"
         }
       ]
     },
@@ -324,57 +324,17 @@
       "maxItems": 120,
       "items": [
         {
-          "title": "RESULTADOS (ÚLTIMOS)",
+          "title": "RESULTADOS (EN DIRECTO)",
           "link": "",
           "summary": ""
         },
         {
-          "title": "ALA  1-0  BAR",
+          "title": "GIR  1-1  REA",
           "link": "",
           "summary": ""
         },
         {
-          "title": "GET  3-1  MAL",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "ESP  2-0  ATH",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "VIL  2-3  SEV",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "OSA  1-2  ATL",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "REA  2-1  ELC",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "CEL  2-3  LEV",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "RAY  1-1  GIR",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "BAR  2-0  REA",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "REA  0-0  GET",
+          "title": "REA  0-0  REA",
           "link": "",
           "summary": ""
         },
@@ -394,7 +354,7 @@
           "summary": ""
         },
         {
-          "title": " 2  REA  35  24  5  6  70  33  37  77",
+          "title": " 2  REA  36  24  6  6  70  33  37  78",
           "link": "",
           "summary": ""
         },
@@ -424,7 +384,7 @@
           "summary": ""
         },
         {
-          "title": " 8  REA  35  11 11 13  54  55  -1  44",
+          "title": " 8  REA  36  11 12 13  55  56  -1  45",
           "link": "",
           "summary": ""
         },
@@ -434,22 +394,22 @@
           "summary": ""
         },
         {
-          "title": "10  SEV  36  12  7 17  46  58 -12  43",
+          "title": "10  RAY  36  10 14 12  37  43  -6  44",
           "link": "",
           "summary": ""
         },
         {
-          "title": "11  RAY  35  10 13 12  36  42  -6  43",
+          "title": "11  VAL  36  11 10 15  39  51 -12  43",
           "link": "",
           "summary": ""
         },
         {
-          "title": "12  OSA  36  11  9 16  43  47  -4  42",
+          "title": "12  SEV  36  12  7 17  46  58 -12  43",
           "link": "",
           "summary": ""
         },
         {
-          "title": "13  VAL  35  11  9 15  38  50 -12  42",
+          "title": "13  OSA  36  11  9 16  43  47  -4  42",
           "link": "",
           "summary": ""
         },
@@ -464,27 +424,27 @@
           "summary": ""
         },
         {
-          "title": "16  ELC  36   9 12 15  47  56  -9  39",
+          "title": "16  GIR  36   9 13 14  38  53 -15  40",
           "link": "",
           "summary": ""
         },
         {
-          "title": "17  MAL  36  10  9 17  44  55 -11  39",
+          "title": "17  ELC  36   9 12 15  47  56  -9  39",
           "link": "",
           "summary": ""
         },
         {
-          "title": "18  LEV  36  10  9 17  44  59 -15  39",
+          "title": "18  MAL  36  10  9 17  44  55 -11  39",
           "link": "",
           "summary": ""
         },
         {
-          "title": "19  GIR  35   9 12 14  37  52 -15  39",
+          "title": "19  LEV  36  10  9 17  44  59 -15  39",
           "link": "",
           "summary": ""
         },
         {
-          "title": "20  REA  35   6 11 18  26  54 -28  29",
+          "title": "20  REA  36   6 12 18  26  54 -28  30",
           "link": "",
           "summary": ""
         }
