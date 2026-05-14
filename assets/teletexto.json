@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T03:25:03.045Z",
+  "generatedAt": "2026-05-14T08:36:48.836Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
@@ -72,40 +72,10 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "NASA-Supported Space Tech Advances Earthly Construction",
-          "link": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-supported-space-tech-advances-earthly-construction/",
-          "summary": "An innovative 3D printing process that advanced NASA’s approach to outfitting a lunar habitat is making buildings on Earth beautiful, efficient, and strong.  Instead of building structures layer by layer, Branch Technology Inc. of Chattanooga, Tennessee, has developed a process the company calls Freeform 3D Printing, which creates shapes with lightweight lattice structures that can be filled or covered. The company uses the technique to manufacture […]",
-          "isoDate": "2026-05-13T19:47:08.000Z"
-        },
-        {
-          "title": "Rise Goes to Washington",
-          "link": "https://www.nasa.gov/image-article/rise-goes-to-washington/",
-          "summary": "“Rise,” the Artemis II zero gravity indicator, is seen sitting on the dais as NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen speak with congressional staff, Tuesday, May 12, 2026, in Washington. NASA’s Artemis II mission took Wiseman, Glover, Koch, and Hansen on a nearly 10-day […]",
-          "isoDate": "2026-05-13T19:17:12.000Z"
-        },
-        {
-          "title": "NASA Outlines Preliminary Artemis III Mission Plans",
-          "link": "https://www.nasa.gov/missions/artemis/artemis-3/nasa-outlines-preliminary-artemis-iii-mission-plans/",
-          "summary": "NASA is moving quickly to define next year’s Artemis III mission in Earth orbit, a crewed flight that will test rendezvous and docking capabilities between the agency’s Orion spacecraft and commercial landers from Blue Origin and SpaceX. Since a February announcement adding an Artemis mission ahead of crewed landing missions to the Moon’s South Pole region, […]",
-          "isoDate": "2026-05-13T15:33:56.000Z"
-        },
-        {
-          "title": "Studying Pneumonia in Space for Heart Health on Earth",
-          "link": "https://www.nasa.gov/missions/station/iss-research/studying-pneumonia-in-space-for-heart-health-on-earth/",
-          "summary": "Expedition 74 astronauts aboard the International Space Station are uncovering how bacteria that causes pneumonia can lead to long-term damage in the heart. Researchers are leveraging the space environment to observe how stem cell derived heart tissues respond to bacterial infections, to discover new methods to manage cardiovascular health and infectious diseases. In space, bacteria […]",
-          "isoDate": "2026-05-13T14:45:00.000Z"
-        },
-        {
-          "title": "NASA’s Planet-Hunting TESS Reveals Dazzling Night Sky",
-          "link": "https://science.nasa.gov/missions/tess/nasas-planet-hunting-tess-reveals-dazzling-night-sky/",
-          "summary": "NASA’s TESS has released its most complete view of the starry sky to date",
-          "isoDate": "2026-05-13T14:15:23.000Z"
-        },
-        {
-          "title": "America’s Emerald Isle",
-          "link": "https://science.nasa.gov/earth/earth-observatory/americas-emerald-isle/",
-          "summary": "Beaver Island is one in a string of verdant and scenic jewels in a northern Lake Michigan archipelago.",
-          "isoDate": "2026-05-13T04:00:00.000Z"
+          "title": "ERROR cargando feed",
+          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
+          "isoDate": "2026-05-14T08:36:43.446Z"
         },
         {
           "title": "Stereoelectronic manipulation of ligands for perovskite solar cells",
@@ -130,6 +100,36 @@
           "link": "https://www.nature.com/articles/d41586-026-01505-9",
           "summary": "Nature, Published online: 13 May 2026; doi:10.1038/d41586-026-01505-9\nRare isotopes hint at when the Solar System entered the Local Interstellar Cloud.",
           "isoDate": "2026-05-13T00:00:00.000Z"
+        },
+        {
+          "title": "An ultra-faint, chemically primitive galaxy forming in the reionization era",
+          "link": "https://www.nature.com/articles/s41586-026-10374-1",
+          "summary": "Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10374-1\nLAP1-B—an ultra-faint and tiny galaxy that formed in the reionization era and is strongly magnified by gravitational lensing—is chemically primitive and hosts very few stars in an otherwise dominant dark matter halo.",
+          "isoDate": "2026-05-13T00:00:00.000Z"
+        },
+        {
+          "title": "More concentrated precipitation decreases terrestrial water storage",
+          "link": "https://www.nature.com/articles/s41586-026-10487-7",
+          "summary": "Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10487-7\nConcentration of precipitation in large events decreases land water availability, and this effect will further increase with a future warming climate.",
+          "isoDate": "2026-05-13T00:00:00.000Z"
+        },
+        {
+          "title": "Efficient robot navigation inspired by honeybee learning flights",
+          "link": "https://www.nature.com/articles/s41586-026-10461-3",
+          "summary": "Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10461-3\nA highly efficient navigation strategy taking inspiration from the visual learning flights of honeybees is described, which enables drones to quickly return from longer flights by means of path integration and uses a neural network as a view memory to reach the home location.",
+          "isoDate": "2026-05-13T00:00:00.000Z"
+        },
+        {
+          "title": "Sustaining microglial reparative function enhances stroke recovery",
+          "link": "https://www.nature.com/articles/s41586-026-10480-0",
+          "summary": "Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10480-0\nReparative microglia persist in the brain after stroke but become dysfunctional through ZFP384-mediated mechanisms; however, this process can be mitigated by targeting Zfp384 using therapeutic antisense oligonucleotides.",
+          "isoDate": "2026-05-13T00:00:00.000Z"
+        },
+        {
+          "title": "Adaptive cellular evolution in the intestine of hyperdiverse cichlid fishes",
+          "link": "https://www.nature.com/articles/s41586-026-10494-8",
+          "summary": "Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10494-8\nSingle-cell transcriptomics combined with morphological and ecological data show that the rapid evolutionary radiation of cichlid fishes in Lake Tanganyika was accompanied by dietary specialization across multiple layers of biological organization.",
+          "isoDate": "2026-05-13T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-05-14T03:24:58.473Z"
+          "isoDate": "2026-05-14T08:36:43.987Z"
+        },
+        {
+          "title": "HMRC to use AI from British tech firm to spot fraud and tax return errors",
+          "link": "https://www.bbc.com/news/articles/c7v9ld262n4o?at_medium=RSS&at_campaign=rss",
+          "summary": "Quantexa, a financial data platform, won the £175m contract to spot fraud and tax return errors.",
+          "isoDate": "2026-05-14T05:10:45.000Z"
         },
         {
           "title": "Why big tech is betting on cute mascots",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.com/news/articles/czj2k2exdzlo?at_medium=RSS&at_campaign=rss",
           "summary": "Sam Altman said Elon Musk tried many times for total control of OpenAI, which he's now suing.",
           "isoDate": "2026-05-12T18:51:56.000Z"
-        },
-        {
-          "title": "Canvas hack: Company pays criminals to delete students' stolen data",
-          "link": "https://www.bbc.com/news/articles/cdepzg83x87o?at_medium=RSS&at_campaign=rss",
-          "summary": "The company behind Canvas says it has \"reached an agreement\" with the hackers who disrupted thousands of colleges and universities.",
-          "isoDate": "2026-05-12T10:31:23.000Z"
         }
       ]
     },
@@ -208,6 +208,12 @@
           "link": "https://openai.com/index/building-codex-windows-sandbox",
           "summary": "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions.",
           "isoDate": "2026-05-13T11:00:00.000Z"
+        },
+        {
+          "title": "Our response to the TanStack npm supply chain attack",
+          "link": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
+          "summary": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2026. Learn what happened, what was affected, and how OpenAI is strengthening defenses against evolving software supply chain threats.",
+          "isoDate": "2026-05-13T00:00:00.000Z"
         },
         {
           "title": "Q&A: Expanding MIT’s global reach through Universal Learning",
@@ -228,9 +234,9 @@
           "isoDate": "2026-05-12T15:00:00.000Z"
         },
         {
-          "title": "How NVIDIA engineers and researchers build with Codex",
-          "link": "https://openai.com/index/nvidia",
-          "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
+          "title": "AutoScout24 scales engineering with AI-powered workflows",
+          "link": "https://openai.com/index/autoscout24",
+          "summary": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
           "isoDate": "2026-05-12T00:00:00.000Z"
         },
         {
@@ -240,9 +246,9 @@
           "isoDate": "2026-05-12T00:00:00.000Z"
         },
         {
-          "title": "AutoScout24 scales engineering with AI-powered workflows",
-          "link": "https://openai.com/index/autoscout24",
-          "summary": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
+          "title": "How NVIDIA engineers and researchers build with Codex",
+          "link": "https://openai.com/index/nvidia",
+          "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
           "isoDate": "2026-05-12T00:00:00.000Z"
         },
         {
@@ -250,12 +256,6 @@
           "link": "https://openai.com/signals/research/2026q1-update",
           "summary": "ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption.",
           "isoDate": "2026-05-11T15:00:00.000Z"
-        },
-        {
-          "title": "OpenAI Campus Network: Student club interest form",
-          "link": "https://openai.com/index/openai-campus-network-student-club-interest-form",
-          "summary": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
-          "isoDate": "2026-05-11T10:00:00.000Z"
         },
         {
           "title": "How enterprises are scaling AI",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-05-14T03:25:00.831Z"
+          "isoDate": "2026-05-14T08:36:47.480Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-05-14T03:24:59.898Z"
+          "isoDate": "2026-05-14T08:36:45.479Z"
         },
         {
           "title": "IEEE Program Aims to Connect the Billions Who Are Still Offline",
