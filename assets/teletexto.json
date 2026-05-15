@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T03:28:57.935Z",
+  "generatedAt": "2026-05-15T08:48:36.579Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
@@ -72,22 +72,16 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "NASA Draws on Industry for Mars Telecommunications Network",
-          "link": "https://www.nasa.gov/directorates/esdmd/nasa-draws-on-industry-for-mars-telecommunications-network/",
-          "summary": "On Thursday, NASA issued a Request for Proposal (RFP), seeking industry collaboration for the Mars Telecommunications Network. Reliable, high bandwidth communications is necessary to relay science data, high-definition imagery, and critical information during Mars missions. The network will use high-performance Mars telecommunications orbiters at the Red Planet to support future surface, orbital, and human exploration. […]",
-          "isoDate": "2026-05-14T20:53:24.000Z"
+          "title": "ERROR cargando feed",
+          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
+          "isoDate": "2026-05-15T08:48:30.666Z"
         },
         {
-          "title": "NASA, Industry Prepare Cryogenic Fuel Technology Demo",
-          "link": "https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/cryogenic-fluid-management-cfm/nasa-industry-prepare-cryogenic-fuel-technology-demo/",
-          "summary": "NASA is collaborating with Eta Space of Rockledge, Florida, on an in‑orbit technology demonstration to advance a key capability for future deep space missions. The Liquid Oxygen Flight Demonstration, or LOXSAT, will test cryogenic fluid management technologies necessary for creating in-space propellant depots, essentially gas stations in space, that could support long-term exploration. During a […]",
-          "isoDate": "2026-05-14T16:32:09.000Z"
-        },
-        {
-          "title": "Fresh Food Delivery for Space Station",
-          "link": "https://www.nasa.gov/image-article/fresh-food-delivery-for-space-station/",
-          "summary": "NASA astronauts Jack Hathaway (bottom left), Jessica Meir (middle left), and Chris Williams (bottom right), and ESA (European Space Agency) astronaut Sophie Adenot (top right) have some fun with food and microgravity in this April 19, 2026, photo. Northrop Grumman’s Cygnus XL cargo spacecraft delivered a shipment of fresh food, including oranges, apples, onions, and […]",
-          "isoDate": "2026-05-14T14:55:08.000Z"
+          "title": "Genetic survey exposes flaws in widely used mouse models",
+          "link": "https://www.nature.com/articles/d41586-026-01534-4",
+          "summary": "Nature, Published online: 15 May 2026; doi:10.1038/d41586-026-01534-4\nA survey of more than 300 mouse strains has found widespread discrepancies between how mutant mice are reported and their actual genetic make-up.",
+          "isoDate": "2026-05-15T00:00:00.000Z"
         },
         {
           "title": "Accelerated Himalayan river meandering and dynamics due to climate change",
@@ -130,6 +124,12 @@
           "link": "https://www.science.org/doi/abs/10.1126/science.aei3078?af=R",
           "summary": "Science, Volume 392, Issue 6799, May 2026.",
           "isoDate": "2026-05-14T07:00:00.000Z"
+        },
+        {
+          "title": "A civic grammar for AI rights",
+          "link": "https://www.science.org/doi/abs/10.1126/science.aeh7153?af=R",
+          "summary": "Science, Volume 392, Issue 6799, May 2026.",
+          "isoDate": "2026-05-14T07:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-05-15T03:28:53.311Z"
+          "isoDate": "2026-05-15T08:48:31.301Z"
+        },
+        {
+          "title": "Claim, counter-claim and tech's seedy side exposed: Five things we learned in the Musk-Altman trial",
+          "link": "https://www.bbc.com/news/articles/cg7pj8p5mv4o?at_medium=RSS&at_campaign=rss",
+          "summary": "As the jury deliberates, this is what we found out during the weeks-long trial with two tech titans at its heart.",
+          "isoDate": "2026-05-15T05:03:31.000Z"
         },
         {
           "title": "Inside the secretive and lucrative world of orchid breeding",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.com/news/articles/cze2y02jw1ko?at_medium=RSS&at_campaign=rss",
           "summary": "The messages highlight the illegality of what people are searching for online and direct them towards help.",
           "isoDate": "2026-05-13T06:04:14.000Z"
-        },
-        {
-          "title": "Smart glasses are 'an invasion of privacy' - Meta's are selling better than ever",
-          "link": "https://www.bbc.com/news/articles/cj37z8357e5o?at_medium=RSS&at_campaign=rss",
-          "summary": "The biggest tech firms are set to sell millions of smart glasses despite growing privacy concerns.",
-          "isoDate": "2026-05-13T05:01:07.000Z"
         }
       ]
     },
@@ -208,6 +208,12 @@
           "link": "https://news.mit.edu/2026/knight-hennessy-scholars-0514",
           "summary": "The prestigious fellowship funds graduate studies at Stanford University.",
           "isoDate": "2026-05-14T20:55:00.000Z"
+        },
+        {
+          "title": "Sea's View on the Future of Agentic Software Development with Codex",
+          "link": "https://openai.com/index/sea-david-chen",
+          "summary": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
+          "isoDate": "2026-05-14T20:30:00.000Z"
         },
         {
           "title": "Work with Codex from anywhere",
@@ -252,15 +258,9 @@
           "isoDate": "2026-05-12T15:00:00.000Z"
         },
         {
-          "title": "How NVIDIA engineers and researchers build with Codex",
-          "link": "https://openai.com/index/nvidia",
-          "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
-          "isoDate": "2026-05-12T00:00:00.000Z"
-        },
-        {
-          "title": "What Parameter Golf taught us about AI-assisted research",
-          "link": "https://openai.com/index/what-parameter-golf-taught-us",
-          "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
+          "title": "AutoScout24 scales engineering with AI-powered workflows",
+          "link": "https://openai.com/index/autoscout24",
+          "summary": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
           "isoDate": "2026-05-12T00:00:00.000Z"
         }
       ]
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-05-15T03:28:56.521Z"
+          "isoDate": "2026-05-15T08:48:34.960Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-05-15T03:28:54.897Z"
+          "isoDate": "2026-05-15T08:48:32.599Z"
         },
         {
           "title": "IEEE Society Helps Researchers Meet Their Next Corporate Backer",
