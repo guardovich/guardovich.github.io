@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T02:51:55.908Z",
+  "generatedAt": "2026-05-16T08:04:19.839Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-05-16T02:51:51.416Z"
+          "isoDate": "2026-05-16T08:04:14.753Z"
         },
         {
           "title": "Tech Now",
@@ -204,15 +204,33 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "A new personal finance experience in ChatGPT",
-          "link": "https://openai.com/index/personal-finance-chatgpt",
-          "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
+          "title": "How sales teams use Codex",
+          "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+          "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+          "isoDate": "2026-05-15T00:00:00.000Z"
+        },
+        {
+          "title": "How business operations teams use Codex",
+          "link": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+          "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
+          "isoDate": "2026-05-15T00:00:00.000Z"
+        },
+        {
+          "title": "How data science teams use Codex",
+          "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+          "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
           "isoDate": "2026-05-15T00:00:00.000Z"
         },
         {
           "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
           "link": "https://openai.com/index/databricks",
           "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
+          "isoDate": "2026-05-15T00:00:00.000Z"
+        },
+        {
+          "title": "A new personal finance experience in ChatGPT",
+          "link": "https://openai.com/index/personal-finance-chatgpt",
+          "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
           "isoDate": "2026-05-15T00:00:00.000Z"
         },
         {
@@ -244,24 +262,6 @@
           "link": "https://openai.com/index/building-codex-windows-sandbox",
           "summary": "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions.",
           "isoDate": "2026-05-13T11:00:00.000Z"
-        },
-        {
-          "title": "Our response to the TanStack npm supply chain attack",
-          "link": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
-          "summary": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2026. Learn what happened, what was affected, and how OpenAI is strengthening defenses against evolving software supply chain threats.",
-          "isoDate": "2026-05-13T00:00:00.000Z"
-        },
-        {
-          "title": "Q&A: Expanding MIT’s global reach through Universal Learning",
-          "link": "https://news.mit.edu/2026/qa-expanding-mit-global-reach-through-universal-learning-0512",
-          "summary": "Dimitris Bertsimas and Megan Mitchell discuss the motivation behind Universal Learning, and what sets the new MIT Open Learning educational initiative apart.",
-          "isoDate": "2026-05-12T15:00:00.000Z"
-        },
-        {
-          "title": "Universal AI is “a pathway to AI fluency that’s accessible and approachable to anyone, anywhere”",
-          "link": "https://news.mit.edu/2026/universal-ai-pathway-to-ai-fluency-accessible-to-anyone-0512",
-          "summary": "New AI education program from MIT Open Learning debuts with AI-powered personalization and a free introductory course for learners everywhere.",
-          "isoDate": "2026-05-12T15:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-05-16T02:51:54.394Z"
+          "isoDate": "2026-05-16T08:04:18.300Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-05-16T02:51:52.661Z"
+          "isoDate": "2026-05-16T08:04:16.104Z"
         },
         {
           "title": "Striking New Views of the First Atomic Bomb Test",
