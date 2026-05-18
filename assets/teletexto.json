@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-05-17T19:08:57.832Z",
+  "generatedAt": "2026-05-18T03:39:01.571Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Microsoft is retiring Teams’ Together Mode",
+          "link": "https://www.theverge.com/tech/932215/microsoft-teams-together-mode",
+          "summary": "Microsoft launched Teams' Together Mode during the pandemic to give the illusion of a bunch of people sitting in a conference room together, even if they were really sitting at home without pants on. But times have changed, and it's now being retired in favor of a more simplified Teams experience. The feature used AI to cut your head and shoulds out, and place you in a virtual space with others in the meeting. It could definitely feel gimmicky - especially when you'd tap co-workers on the shoulder, or give virtual high fives - but it did limit visual distractions. \nThe changes are being rolled out gradually, but as they are, the Together Mo …\nRead the full story at The Verge.",
+          "isoDate": "2026-05-17T21:15:28.000Z"
+        },
         {
           "title": "Revamped Siri will reportedly offer auto-deleting chats",
           "link": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats",
@@ -58,12 +64,6 @@
           "link": "https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant",
           "summary": "The variety of terrible is impressive.\t\n\nAfter Sony drew some unwanted attention for a post demonstrating its AI Camera Assistant on the Xperia 1 XIII, it's trying to clarify how the feature works. The company says it doesn't edit photos, but makes suggestions based on lighting, depth, and subject. Point the camera at something, and it will give you four options for changing exposure, color, and background blur. \nIn its product video, Sony says that the AI Camera Assistant will also suggest \"the most photogenic angle.\" Though the clip only shows it suggesting that someone zoom in, which is not the same as suggesting a camera angle. \n\nThe examples that Sony posted on X, while bette …\nRead the full story at The Verge.",
           "isoDate": "2026-05-16T15:37:05.000Z"
-        },
-        {
-          "title": "NPR’s Manoush Zomorodi talks about living with too much tech",
-          "link": "https://www.theverge.com/report/930171/manoush-zomorodi-body-electric-npr-questionnaire",
-          "summary": "Manoush Zomorodi tackled tech’s effect on our brains, now she’s looking at our bodies. | Image: Tory WIlliams\t\n\nManoush Zamorodi is an accomplished reporter, podcast host, and author. Her new book, Body Electric, takes a comprehensive look at how technology is impacting our physical health. It's a collaboration between NPR and Columbia University Medical Center that picks up where her first title, Bored and Brilliant, left off. That book looked at how technology was hampering our mental health. I highly recommend it to anyone who feels like being constantly attached to a device is sapping their energy and creativity. \nBoth books grew out of her extensive podcasting work. After heading up WNYC's Note To Self, Zamorodi went on to host NPR's TED Radio H …\nRead the full story at The Verge.",
-          "isoDate": "2026-05-16T15:00:00.000Z"
         }
       ]
     },
@@ -72,10 +72,28 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "ERROR cargando feed",
-          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
-          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-05-17T19:08:51.243Z"
+          "title": "NASA Science, Cargo Launch on 34th SpaceX Resupply Mission to Station",
+          "link": "https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-34th-spacex-resupply-mission-to-station/",
+          "summary": "The 34th SpaceX commercial resupply mission under contract with NASA is headed to the International Space Station with new scientific experiments after lifting off at 6:05 p.m. EDT Friday on a Falcon 9 rocket from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida. The SpaceX spacecraft, loaded with nearly 6,500 pounds […]",
+          "isoDate": "2026-05-15T22:52:14.000Z"
+        },
+        {
+          "title": "Curiosity Shakes Loose a Pesky Rock",
+          "link": "https://www.nasa.gov/image-article/curiosity-shakes-loose-a-pesky-rock/",
+          "summary": "After NASA’s Curiosity Mars rover drilled a sample from this rock on April 25, 2026, it withdrew its robotic arm and pulled the entire rock off the surface with it. Engineers spent several days repositioning the arm and vibrating the drill to try and get the rock loose. When it finally detached on May 1, […]",
+          "isoDate": "2026-05-15T14:45:52.000Z"
+        },
+        {
+          "title": "Hubble Sights Galaxy in Transition",
+          "link": "https://science.nasa.gov/missions/hubble/hubble-sights-galaxy-in-transition/",
+          "summary": "This NASA Hubble Space Telescope image reveals an enigmatic galaxy with a bright center and a face that hints at spiral structure, yet it holds no obvious spiral arms. Reddish-brown clumps and filaments of dust partially obscure the galaxy’s full face, while red, blue, and orange light from distant galaxies shines through its diffuse outer […]",
+          "isoDate": "2026-05-15T12:01:37.000Z"
+        },
+        {
+          "title": "Picturing Earth in a New Light",
+          "link": "https://science.nasa.gov/earth/earth-observatory/picturing-earth-in-a-new-light/",
+          "summary": "A recent analysis revealed where artificial light at night has intensified, as well as where it has diminished.",
+          "isoDate": "2026-05-15T04:00:00.000Z"
         },
         {
           "title": "Even mild blows to the head disrupt the microbiome",
@@ -112,24 +130,6 @@
           "link": "https://www.nature.com/articles/d41586-026-01559-9",
           "summary": "Nature, Published online: 15 May 2026; doi:10.1038/d41586-026-01559-9\nCould spinach extracts be the next treatment for dry-eye disease?",
           "isoDate": "2026-05-15T00:00:00.000Z"
-        },
-        {
-          "title": "Serebral",
-          "link": "https://www.nature.com/articles/d41586-026-01083-w",
-          "summary": "Nature, Published online: 15 May 2026; doi:10.1038/d41586-026-01083-w\nForging connections.",
-          "isoDate": "2026-05-15T00:00:00.000Z"
-        },
-        {
-          "title": "US biology lab locked down for more than a week amid smuggling inquiry",
-          "link": "https://www.nature.com/articles/d41586-026-01590-w",
-          "summary": "Nature, Published online: 15 May 2026; doi:10.1038/d41586-026-01590-w\nThe Trump administration has spent months investigating the lab after a Chinese postdoc was charged with smuggling biological material into the country.",
-          "isoDate": "2026-05-15T00:00:00.000Z"
-        },
-        {
-          "title": "Genetic survey exposes flaws in widely used mouse models",
-          "link": "https://www.nature.com/articles/d41586-026-01534-4",
-          "summary": "Nature, Published online: 15 May 2026; doi:10.1038/d41586-026-01534-4\nA survey of more than 300 mouse strains has found widespread discrepancies between how mutant mice are reported and their actual genetic make-up.",
-          "isoDate": "2026-05-15T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-05-17T19:08:52.497Z"
+          "isoDate": "2026-05-18T03:38:50.928Z"
         },
         {
           "title": "Tech Now",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-05-17T19:08:56.204Z"
+          "isoDate": "2026-05-18T03:38:59.649Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-05-17T19:08:53.877Z"
+          "isoDate": "2026-05-18T03:38:57.462Z"
         },
         {
           "title": "Striking New Views of the First Atomic Bomb Test",
@@ -329,6 +329,11 @@
           "summary": ""
         },
         {
+          "title": "BAR  3-1  REA",
+          "link": "",
+          "summary": ""
+        },
+        {
           "title": "ATH  1-1  CEL",
           "link": "",
           "summary": ""
@@ -374,11 +379,6 @@
           "summary": ""
         },
         {
-          "title": "REA  2-0  REA",
-          "link": "",
-          "summary": ""
-        },
-        {
           "title": "CLASIFICACIÓN",
           "link": "",
           "summary": ""
@@ -389,7 +389,7 @@
           "summary": ""
         },
         {
-          "title": " 1  BAR  36  30  1  5  91  32  59  91",
+          "title": " 1  BAR  37  31  1  5  94  33  61  94",
           "link": "",
           "summary": ""
         },
@@ -409,7 +409,7 @@
           "summary": ""
         },
         {
-          "title": " 5  REA  36  14 15  7  56  44  12  57",
+          "title": " 5  REA  37  14 15  8  57  47  10  57",
           "link": "",
           "summary": ""
         },
@@ -459,17 +459,17 @@
           "summary": ""
         },
         {
-          "title": "15  OSA  37  11  9 17  44  49  -5  42",
+          "title": "15  LEV  37  11  9 17  46  59 -13  42",
           "link": "",
           "summary": ""
         },
         {
-          "title": "16  ELC  37  10 12 15  48  56  -8  42",
+          "title": "16  OSA  37  11  9 17  44  49  -5  42",
           "link": "",
           "summary": ""
         },
         {
-          "title": "17  LEV  37  11  9 17  46  59 -13  42",
+          "title": "17  ELC  37  10 12 15  48  56  -8  42",
           "link": "",
           "summary": ""
         },
