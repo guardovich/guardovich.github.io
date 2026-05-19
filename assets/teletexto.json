@@ -1,69 +1,69 @@
 {
-  "generatedAt": "2026-05-19T15:20:33.342Z",
+  "generatedAt": "2026-05-19T19:51:15.947Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
         {
-          "title": "America’s dangerous, messy deepfakes crackdown is here",
-          "link": "https://www.theverge.com/policy/933518/take-it-down-act-notice-removal-social-media-deepfake",
-          "summary": "A law requiring social networks to quickly remove sexual deepfakes and other nonconsensual imagery is now fully in force. But experts warn the policy could do little to help victims - and at worst could facilitate censorship online. \nLast May, President Donald Trump signed the Take It Down Act, a law addressing nonconsensual intimate imagery (NCII). The law immediately criminalized distributing NCII, whether in the form of real or AI-generated material, something many states at least partially do already. But its namesake takedown provision is more sweeping. Taking effect a year after the law's passage - on May 19th of 2026 - it requires on …\nRead the full story at The Verge.",
-          "isoDate": "2026-05-19T14:58:19.000Z"
+          "title": "Ugreen’s new soccer ball-shaped tracker has up to 7 years of battery life",
+          "link": "https://www.theverge.com/tech/934101/ugreen-finetrack-2-mini-tracker-apple-find-my-soccer-ball",
+          "summary": "The FineTrack 2 isn’t as discreet as an AirTag. | Image: Ugreen\t\n\nUgreen has announced a new Apple Find My-compatible tracker with a novel design that limits where you can hide it, but greatly benefits battery life. Inspired by \"major football tournaments\" the company doesn't call out by name, the Ugreen FineTrack 2 is shaped like a soccer ball and is designed to be used hanging off your keys or bags. It's much larger than an Apple AirTag or credit card-sized trackers, but still small enough to bury in a suitcase or stick in your car's glove compartment.\nThe waterproof FineTrack 2 is available now for $19.99 and comes with a 600mAh CR2450 battery good for around five to seven years of use with Apple's Fin …\nRead the full story at The Verge.",
+          "isoDate": "2026-05-19T19:49:11.000Z"
         },
         {
-          "title": "Apple’s accessibility features add more AI-powered processing",
-          "link": "https://www.theverge.com/tech/933420/apple-iphone-mac-vision-pro-accessibility-2026-apple-intelligence",
-          "summary": "Apple's annual update about accessibility features on its platforms has new additions for the iPhone, Mac, and especially Vision Pro, with a focus on how on-device AI processing is being used in features like VoiceOver, Magnifier, Voice Control, and Accessibility Reader. \nOne addition that jumped out to me is the ability to use on-device speech recognition for uncaptioned videos, which will be available on iPhone, iPad, Mac, Apple TV, and Apple Vision Pro.\nOther changes coming later this year will use AI to add more details to VoiceOver's Image Explorer in descriptions of images (with a warning that they should not be relied on in any numb …\nRead the full story at The Verge.",
-          "isoDate": "2026-05-19T14:58:12.000Z"
+          "title": "Two AI-based science assistants succeed with drug-retargeting tasks",
+          "link": "https://arstechnica.com/science/2026/05/two-ai-based-science-assistants-succeed-with-drug-retargeting-tasks/",
+          "summary": "Both tools generate hypotheses; one goes on to analyze some of the data.",
+          "isoDate": "2026-05-19T18:55:56.000Z"
         },
         {
-          "title": "Anker fixes the two worst things about power stations",
-          "link": "https://www.theverge.com/tech/928420/anker-solix-s2000-power-station",
-          "summary": "Anker's Solix S2000 solves two major pain points with power stations: idle power draw that can leave a battery unexpectedly dead, and the large footprint required to hold so much energy. Impressively, it achieves this at an incredibly low introductory price that works out to just $0.29 per Wh.\nUnlike most other power stations in the 2kWh range, Anker says the S2000 won't suddenly die after a few days due to phantom power draw if you accidentally leave the AC output running. It's also much smaller than most competing mid-range systems designed for vanlifers, job sites, or home backup where a power station can keep AC devices like a fridge or …\nRead the full story at The Verge.",
-          "isoDate": "2026-05-19T13:56:47.000Z"
+          "title": "Google's SynthID AI watermarking tech is being adopted by OpenAI, Nvidia, and more",
+          "link": "https://arstechnica.com/google/2026/05/googles-synthid-ai-watermarking-tech-is-being-adopted-by-openai-nvidia-and-more/",
+          "summary": "AI content is getting good, but SynthID might be able to help tell truth from fiction.",
+          "isoDate": "2026-05-19T18:37:02.000Z"
         },
         {
-          "title": "In addition to space stations, Vast says it will now build high-power satellites",
-          "link": "https://arstechnica.com/space/2026/05/vast-space-seeks-to-diversify-by-building-satellites-as-well-as-space-stations/",
-          "summary": "\"Every single successful space company is diversified in its products.\"",
-          "isoDate": "2026-05-19T13:00:45.000Z"
+          "title": "Kickstarter just killed its new mature content rules",
+          "link": "https://www.theverge.com/tech/933844/kickstarter-just-killed-its-new-mature-content-rules",
+          "summary": "Last week, we noted Kickstarter's new content guidelines, which had some pretty weird new additions, including a prohibition on \"sexual wellness products that are not designed for insertion or penetration and are not marketed primarily for sexual gratification.\" Those rules have now been eliminated and the company has restored an earlier version of its guidelines.\nIn an apology letter issued today from COO Sean Leow, Kickstarter confirmed that the new rules were influenced by the payment processor Stripe:\nThe updates to the rules were primarily driven by requirements from our payments processor, Stripe. Stripe operates under its own legal …\n\nRead the full story at The Verge.",
+          "isoDate": "2026-05-19T18:30:43.000Z"
         },
         {
-          "title": "Understanding the modern cybercrime landscape",
-          "link": "https://www.technologyreview.com/2026/05/19/1136925/understanding-the-modern-cybercrime-landscape/",
-          "summary": "Throughout 2025, HPE observed significant changes in how cybercriminals operate. Analyzing real-world threats, our HPE Threat Labs highlighted an industrialization of the cyber criminals’ methods in its new In the Wild Report, enabling greater scale, speed and structure in their campaigns. They typically use automation and AI to exploit longstanding vulnerabilities, and many have adopted…",
-          "isoDate": "2026-05-19T13:00:00.000Z"
+          "title": "In stunning display of stupid, secret CISA credentials found in public GitHub repo",
+          "link": "https://arstechnica.com/information-technology/2026/05/in-stunning-display-of-stupid-secret-cisa-credentials-found-in-public-github-repo/",
+          "summary": "SSH keys, plaintext passwords, other sensitive data had been up since November 2025.",
+          "isoDate": "2026-05-19T18:27:08.000Z"
         },
         {
-          "title": "Nintendo keeps finding new ways to reinvent platformers",
-          "link": "https://www.theverge.com/entertainment/931663/yoshi-and-the-mysterious-book-review-nintendo-switch-2",
-          "summary": "In most platforming games, you're fighting against the world around you. You're trying to beat a level, nail a seemingly impossible series of jumps, or defeat a powerful boss. But even though Yoshi and the Mysterious Book uses familiar gameplay - you traverse the world by jumping, climbing, and, uh, eating - it reframes your goal to focus on exploration instead of competition. And in doing so it reimagines the classic side-scrolling platformer as something that feels refreshingly new: laid-back, playful, and bursting with ideas.\nThe new Yoshi game looks like a storybook, and that's because it takes place inside of one. Early on you meet a s …\nRead the full story at The Verge.",
-          "isoDate": "2026-05-19T13:00:00.000Z"
+          "title": "RFK Jr. forced to withdraw charter that opened CDC panel to anti-vaccine quacks",
+          "link": "https://arstechnica.com/health/2026/05/rfk-jr-forced-to-withdraw-charter-that-opened-cdc-panel-to-anti-vaccine-quacks/",
+          "summary": "Charter would have expanded member eligibility and focused on alleged injuries.",
+          "isoDate": "2026-05-19T18:17:54.000Z"
         },
         {
-          "title": "Microsoft launches Surface Pro 12 and Surface Laptop 8 with Intel chips",
-          "link": "https://www.theverge.com/news/933269/microsoft-surface-pro-12-surface-laptop-8-specs-pricing-release-date",
-          "summary": "The new Surface Laptop 8 and Surface Pro 12 models. | Image: Microsoft\t\n\nAlmost exactly two years ago, Microsoft introduced Arm-powered versions of the Surface Pro 11 and Surface Laptop 7, with Intel models not ready until more than six months later. This time around Microsoft is refreshing its Surface Pro and Surface Laptop models with Intel's latest Core Ultra Series 3 processors first, ahead of similar models with Qualcomm's new Snapdragon X2 processors later this year.\nThe new Surface Pro 12, or as Microsoft calls it the Surface Pro for Business 13-inch (12th Edition), will be available for businesses today, starting at an eye-watering $1,949.99. The base model will include an Intel Core Ultra 5 processor, 1 …\nRead the full story at The Verge.",
-          "isoDate": "2026-05-19T13:00:00.000Z"
+          "title": "Gemini 3.5 Flash might be fast enough for gen AI to make sense",
+          "link": "https://arstechnica.com/google/2026/05/google-announces-agent-optimized-gemini-3-5-flash-and-a-do-anything-model-called-omni/",
+          "summary": "Google says its more efficient Gemini 3.5 Flash is the key to your agentic AI future.",
+          "isoDate": "2026-05-19T18:11:50.000Z"
         },
         {
-          "title": "The Mandalorian and Grogu should have been a season of TV",
-          "link": "https://www.theverge.com/entertainment/933409/the-mandalorian-and-grogu-review",
-          "summary": "When The Mandalorian first debuted on Disney Plus, it was a refreshing reminder of how fascinating Star Wars stories can be when they aren't focused on the same handful of well-established characters. Especially in its first season, the series felt like a sign that Disney was shifting gears after disappointing fans with its last trilogy of big budget features. But as The Mandalorian went on, it became overstuffed with supporting characters and haphazardly introduced lore that did little to make the show feel like must-see TV.\nThe relative weakness of The Mandalorian's most recent season is part of what made it so surprising when Lucasfilm a …\nRead the full story at The Verge.",
-          "isoDate": "2026-05-19T13:00:00.000Z"
+          "title": "Gemini will use Volvo’s external cameras to interpret parking signs",
+          "link": "https://www.theverge.com/transportation/933556/google-io-gemini-volvo-ex60-camera-ai-parking",
+          "summary": "Gemini is gaining the power of sight and mobility. Today at the I/O conference, Google and Volvo announced that the AI-powered assistant will be able to access external cameras in the upcoming EX60 SUV to help explain and interpret its surroundings to vehicle owners. The upgrade is possible thanks to Volvo's use of Google's embedded Android Automotive as its vehicle operating system.\nGoogle posits that the first use case will be to ask Gemini to translate difficult-to-understand parking signs, though the company obviously sees other future applications as possible as well. Google envisions a camera-enabled Gemini recalling a road sign, inte …\nRead the full story at The Verge.",
+          "isoDate": "2026-05-19T18:00:00.000Z"
         },
         {
-          "title": "The Download: Musk v. Altman, smart glasses for warfare, and Google I/O",
-          "link": "https://www.technologyreview.com/2026/05/19/1137505/the-download-musk-altman-trial-smart-glasses-warfare-google-i-o/",
-          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Here’s why Elon Musk lost his suit against OpenAI Elon Musk has lost his lawsuit against OpenAI, which centered on whether the company breached its founding contract as a nonprofit. A…",
-          "isoDate": "2026-05-19T12:10:00.000Z"
+          "title": "The 13 biggest announcements at Google I/O 2026",
+          "link": "https://www.theverge.com/tech/933415/google-io-2026-biggest-announcements-ai-gemini",
+          "summary": "Google CEO Sundar Pichai on stage at I/O 2026. | Screenshot: YouTube\t\n\nGoogle's I/O 2026 keynote today was once again full of AI-related announcements including a new family of Gemini 3.5 AI models, new features for Search and Gmail, and updates about its Project Aura smart glasses.\nIf you weren't able to tune into the event's livestream today or follow along with our live blog, you can catch up on everything you missed in our roundup below.\nGemini 3.5\nGoogle launched updated AI models at I/O, starting with Gemini 3.5 Flash, with Gemini 3.5 Pro following next month. Starting today, Gemini 3.5 Flash will be the default model for the Gemini app and AI Mode in Search. Google says the new model is significantly  …\nRead the full story at The Verge.",
+          "isoDate": "2026-05-19T17:54:33.000Z"
         },
         {
-          "title": "Colossal Biosciences is growing chickens in a 3D-printed artificial eggshell",
-          "link": "https://www.technologyreview.com/2026/05/19/1137471/colossal-biosciences-is-growing-chickens-in-a-3d-printed-container/",
-          "summary": "The baby chicks were shifting and starting to pip—or trying to hatch. But not from an egg.  Instead, these chickens were growing inside transparent 3D-printed plastic cups at the Dallas headquarters of Colossal Biosciences. The biotech company today claimed it has developed a “fully artificial egg” as part of its effort to resurrect extinct avian…",
-          "isoDate": "2026-05-19T12:00:00.000Z"
+          "title": "Google wants to compete with Anthropic’s Mythos",
+          "link": "https://www.theverge.com/tech/933921/google-wants-to-compete-with-anthropics-mythos",
+          "summary": "Google is making a big push into cybersecurity. At I/O, the company announced that it was inviting select groups of experts to test the API for CodeMender, an \"AI agent for code security\" it debuted last October. The difference is that Google is now making the tool more widely available externally - and marketing it as a way to, as Google DeepMind CTO Koray Kavukcuoglu put it, \"help secure the world's code bases\" by both flagging and fixing vulnerabilities. \nAnthropic's surprise Claude Mythos Preview announcement seemed to shock the AI world - and a ton of others, like top banks and the Federal Reserve chair. So, led by Anthropic's news, a  …\nRead the full story at The Verge.",
+          "isoDate": "2026-05-19T17:48:22.000Z"
         }
       ]
     },
@@ -72,10 +72,52 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "ERROR cargando feed",
-          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
-          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-05-19T15:20:27.185Z"
+          "title": "Moon-Venus Conjunction",
+          "link": "https://www.nasa.gov/image-article/moon-venus-conjunction/",
+          "summary": "The Moon and Venus, center, are seen in conjunction above the Washington Monument, Monday, May 18, 2026, as viewed from the Mary W. Jackson NASA Headquarters Building in Washington. The Moon and Venus look close together because they line up from our point of view on Earth. In reality, they are separated by millions of […]",
+          "isoDate": "2026-05-19T17:07:23.000Z"
+        },
+        {
+          "title": "Johnson’s Cindy Evans Prepares Artemis Teams for Lunar Science",
+          "link": "https://www.nasa.gov/centers-and-facilities/johnson/johnsons-cindy-evans-prepares-artemis-teams-for-lunar-science/",
+          "summary": "NASA’s Artemis II crew had many technical and operational responsibilities during their historic mission to the Moon, but they also served an important role as scientific ambassadors to Earth’s nearest neighbor. On their 10-day journey, the crew flew by the far side of the Moon, analyzing and photographing geologic features such as impact craters and […]",
+          "isoDate": "2026-05-19T15:00:00.000Z"
+        },
+        {
+          "title": "NASA’s New Shock Detectives Project Invites Volunteers to Help Study Solar Wind",
+          "link": "https://science.nasa.gov/get-involved/citizen-science/nasas-new-shock-detectives-project-invites-volunteers-to-help-study-solar-wind/",
+          "summary": "NASA’s Magnetospheric Multiscale (MMS) mission has collected more than ten years of data from this zone – more than scientists can analyze alone. As Shock Detectives, you’ll help sort the chaotic from peaceful regions of the data, giving researchers a crucial set of clues.",
+          "isoDate": "2026-05-19T13:05:00.000Z"
+        },
+        {
+          "title": "Farming in Ancient Lake Agassiz",
+          "link": "https://science.nasa.gov/earth/earth-observatory/farming-in-ancient-lake-agassiz/",
+          "summary": "The glacial lake left a layer of silt and clay in southeastern Manitoba, creating fertile farmland that was divided during 19th-century land surveys and is still farmed today.",
+          "isoDate": "2026-05-19T04:01:00.000Z"
+        },
+        {
+          "title": "Curiosity Blog, Sols 4893-4899: Drilling at Campo Marte and a Visit From the Psyche Spacecraft",
+          "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4893-4899-drilling-at-campo-marte-and-a-visit-from-the-psyche-spacecraft/",
+          "summary": "Written by Lucy Lim, Planetary Scientist at NASA Goddard Space Flight Center Earth planning date: Friday, May 15, 2026 After freeing the rover’s arm from the “Atacama” block, we are ready to drill again! The new drill target will represent the same geologic stratum as Atacama, which is the layered sulfate unit above the boxwork […]",
+          "isoDate": "2026-05-19T00:33:45.000Z"
+        },
+        {
+          "title": "A multi-agent system for automating scientific discovery",
+          "link": "https://www.nature.com/articles/s41586-026-10652-y",
+          "summary": "Nature, Published online: 19 May 2026; doi:10.1038/s41586-026-10652-y\nA multi-agent system for automating scientific discovery",
+          "isoDate": "2026-05-19T00:00:00.000Z"
+        },
+        {
+          "title": "An AI system to help scientists write expert-level empirical software",
+          "link": "https://www.nature.com/articles/s41586-026-10658-6",
+          "summary": "Nature, Published online: 19 May 2026; doi:10.1038/s41586-026-10658-6\nAn AI system to help scientists write expert-level empirical software",
+          "isoDate": "2026-05-19T00:00:00.000Z"
+        },
+        {
+          "title": "Accelerating scientific discovery with Co-Scientist",
+          "link": "https://www.nature.com/articles/s41586-026-10644-y",
+          "summary": "Nature, Published online: 19 May 2026; doi:10.1038/s41586-026-10644-y\nAccelerating scientific discovery with Co-Scientist",
+          "isoDate": "2026-05-19T00:00:00.000Z"
         },
         {
           "title": "AI might jeopardize the uncertainty required in science",
@@ -88,48 +130,6 @@
           "link": "https://www.nature.com/articles/d41586-026-01603-8",
           "summary": "Nature, Published online: 19 May 2026; doi:10.1038/d41586-026-01603-8\nSupport academic institutions under attack",
           "isoDate": "2026-05-19T00:00:00.000Z"
-        },
-        {
-          "title": "France’s research-primate project goes against its own ethics panel",
-          "link": "https://www.nature.com/articles/d41586-026-01606-5",
-          "summary": "Nature, Published online: 19 May 2026; doi:10.1038/d41586-026-01606-5\nFrance’s research-primate project goes against its own ethics panel",
-          "isoDate": "2026-05-19T00:00:00.000Z"
-        },
-        {
-          "title": "On the right track in the design of an early typewriter",
-          "link": "https://www.nature.com/articles/d41586-026-01335-9",
-          "summary": "Nature, Published online: 19 May 2026; doi:10.1038/d41586-026-01335-9\nA beautiful and ingenious machine hit the headlines 150 years ago, and a book explores bird migration in this week’s pick from the Nature archive.",
-          "isoDate": "2026-05-19T00:00:00.000Z"
-        },
-        {
-          "title": "Airborne DNA can yield insights with the right techniques",
-          "link": "https://www.nature.com/articles/d41586-026-01604-7",
-          "summary": "Nature, Published online: 19 May 2026; doi:10.1038/d41586-026-01604-7\nAirborne DNA can yield insights with the right techniques",
-          "isoDate": "2026-05-19T00:00:00.000Z"
-        },
-        {
-          "title": "Could this synthetic egg bring back extinct birds? Researchers urge caution",
-          "link": "https://www.nature.com/articles/d41586-026-01535-3",
-          "summary": "Nature, Published online: 19 May 2026; doi:10.1038/d41586-026-01535-3\nColossal Biosciences says its artificial egg has de-extinction and conservation potential.",
-          "isoDate": "2026-05-19T00:00:00.000Z"
-        },
-        {
-          "title": "The uncritical adoption of AI in science is alarming — we urgently need guard rails",
-          "link": "https://www.nature.com/articles/d41586-026-01557-x",
-          "summary": "Nature, Published online: 19 May 2026; doi:10.1038/d41586-026-01557-x\nArtificial intelligence is rapidly accelerating scientific output, but risks narrowing inquiry, weakening judgement and undermining how scientists are trained.",
-          "isoDate": "2026-05-19T00:00:00.000Z"
-        },
-        {
-          "title": "China moves AI brain implants from trials towards real-world use",
-          "link": "https://www.nature.com/articles/d41586-026-01468-x",
-          "summary": "Nature, Published online: 19 May 2026; doi:10.1038/d41586-026-01468-x\nChinese start-up firms are supercharging their efforts to develop algorithms for brain–computer interfaces that help people to walk and talk.",
-          "isoDate": "2026-05-19T00:00:00.000Z"
-        },
-        {
-          "title": "DNA-folding changes block production of self-directed antibodies",
-          "link": "https://www.nature.com/articles/d41586-026-01329-7",
-          "summary": "Nature, Published online: 19 May 2026; doi:10.1038/d41586-026-01329-7\nDNA rearrangements in immune-system B cells generate diverse antibody-encoding genes and help to avoid producing antibodies that target the body’s own tissues.",
-          "isoDate": "2026-05-19T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-05-19T15:20:28.035Z"
+          "isoDate": "2026-05-19T19:51:12.043Z"
         },
         {
           "title": "Zoe Kleinman: Why the AI industry is the real winner of the Musk-Altman trial",
@@ -204,64 +204,64 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
+          "link": "https://openai.com/index/advancing-content-provenance",
+          "summary": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.",
+          "isoDate": "2026-05-19T10:45:00.000Z"
+        },
+        {
+          "title": "Fast-tracking genetic leads to reverse cellular aging",
+          "link": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+          "summary": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
+          "isoDate": "2026-05-18T18:21:39.000Z"
+        },
+        {
           "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
           "link": "https://openai.com/index/dell-codex-enterprise-partnership",
           "summary": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
           "isoDate": "2026-05-18T10:00:00.000Z"
         },
         {
-          "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
-          "link": "https://openai.com/index/malta-chatgpt-plus-partnership",
-          "summary": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.",
-          "isoDate": "2026-05-16T00:00:00.000Z"
+          "title": "Simulate real-world places with Project Genie and Street View",
+          "link": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
+          "summary": "We’re expanding access to Google AI Ultra subscribers globally and introducing a new capability powered by Street View.",
+          "isoDate": "2026-05-17T19:53:18.000Z"
         },
         {
-          "title": "A new personal finance experience in ChatGPT",
-          "link": "https://openai.com/index/personal-finance-chatgpt",
-          "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
-          "isoDate": "2026-05-15T00:00:00.000Z"
+          "title": "Introducing Gemini Omni",
+          "link": "https://deepmind.google/blog/introducing-gemini-omni/",
+          "summary": "",
+          "isoDate": "2026-05-17T19:50:57.000Z"
         },
         {
-          "title": "How sales teams use Codex",
-          "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-          "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
-          "isoDate": "2026-05-15T00:00:00.000Z"
+          "title": "Introducing Google Antigravity 2.0",
+          "link": "https://deepmind.google/blog/introducing-google-antigravity-2-0/",
+          "summary": "",
+          "isoDate": "2026-05-17T19:43:45.000Z"
         },
         {
-          "title": "How business operations teams use Codex",
-          "link": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
-          "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
-          "isoDate": "2026-05-15T00:00:00.000Z"
+          "title": "Gemini for Science: AI experiments and tools for a new era of discovery",
+          "link": "https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/",
+          "summary": "A collection of science tools and experiments to expand the scale and precision of scientific exploration.",
+          "isoDate": "2026-05-17T13:50:34.000Z"
         },
         {
-          "title": "How data science teams use Codex",
-          "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-          "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-          "isoDate": "2026-05-15T00:00:00.000Z"
+          "title": "Making it easier to understand how content was created and edited",
+          "link": "https://deepmind.google/blog/making-it-easier-to-understand-how-content-was-created-and-edited/",
+          "summary": "We're expanding our tools to help you understand how content was created and edited across the web.",
+          "isoDate": "2026-05-17T13:43:50.000Z"
         },
         {
-          "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-          "link": "https://openai.com/index/databricks",
-          "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
-          "isoDate": "2026-05-15T00:00:00.000Z"
+          "title": "Finding the molecular switches behind new infectious diseases",
+          "link": "https://deepmind.google/blog/finding-the-molecular-switches-behind-new-infectious-diseases/",
+          "summary": "Clare Bryant uses Co-Scientist to identify genetic triggers in emerging infectious diseases.",
+          "isoDate": "2026-05-16T08:16:06.000Z"
         },
         {
-          "title": "Two from MIT named 2026 Knight-Hennessy Scholars",
-          "link": "https://news.mit.edu/2026/knight-hennessy-scholars-0514",
-          "summary": "The prestigious fellowship funds graduate studies at Stanford University.",
-          "isoDate": "2026-05-14T20:55:00.000Z"
-        },
-        {
-          "title": "Sea's View on the Future of Agentic Software Development with Codex",
-          "link": "https://openai.com/index/sea-david-chen",
-          "summary": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
-          "isoDate": "2026-05-14T20:30:00.000Z"
-        },
-        {
-          "title": "Work with Codex from anywhere",
-          "link": "https://openai.com/index/work-with-codex-from-anywhere",
-          "summary": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.",
-          "isoDate": "2026-05-14T13:00:00.000Z"
+          "title": "Opening new paths in aging research",
+          "link": "https://deepmind.google/blog/opening-new-paths-in-aging-research/",
+          "summary": "Calico Life Sciences uses Co-Scientist to connect scattered findings and generate new leads in aging research.",
+          "isoDate": "2026-05-16T08:08:44.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-05-19T15:20:31.842Z"
+          "isoDate": "2026-05-19T19:51:14.666Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-05-19T15:20:29.315Z"
+          "isoDate": "2026-05-19T19:51:13.325Z"
         },
         {
           "title": "Manchester Code Made Bits Behave",
