@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-19T03:32:30.277Z",
+  "generatedAt": "2026-05-19T09:41:06.635Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
@@ -72,10 +72,46 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "Farming in Ancient Lake Agassiz",
+          "link": "https://science.nasa.gov/earth/earth-observatory/farming-in-ancient-lake-agassiz/",
+          "summary": "The glacial lake left a layer of silt and clay in southeastern Manitoba, creating fertile farmland that was divided during 19th-century land surveys and is still farmed today.",
+          "isoDate": "2026-05-19T04:01:00.000Z"
+        },
+        {
           "title": "Curiosity Blog, Sols 4893-4899: Drilling at Campo Marte and a Visit From the Psyche Spacecraft",
           "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4893-4899-drilling-at-campo-marte-and-a-visit-from-the-psyche-spacecraft/",
           "summary": "Written by Lucy Lim, Planetary Scientist at NASA Goddard Space Flight Center Earth planning date: Friday, May 15, 2026 After freeing the rover’s arm from the “Atacama” block, we are ready to drill again! The new drill target will represent the same geologic stratum as Atacama, which is the layered sulfate unit above the boxwork […]",
           "isoDate": "2026-05-19T00:33:45.000Z"
+        },
+        {
+          "title": "AI might jeopardize the uncertainty required in science",
+          "link": "https://www.nature.com/articles/d41586-026-01605-6",
+          "summary": "Nature, Published online: 19 May 2026; doi:10.1038/d41586-026-01605-6\nAI might jeopardize the uncertainty required in science",
+          "isoDate": "2026-05-19T00:00:00.000Z"
+        },
+        {
+          "title": "Support academic institutions under attack",
+          "link": "https://www.nature.com/articles/d41586-026-01603-8",
+          "summary": "Nature, Published online: 19 May 2026; doi:10.1038/d41586-026-01603-8\nSupport academic institutions under attack",
+          "isoDate": "2026-05-19T00:00:00.000Z"
+        },
+        {
+          "title": "France’s research-primate project goes against its own ethics panel",
+          "link": "https://www.nature.com/articles/d41586-026-01606-5",
+          "summary": "Nature, Published online: 19 May 2026; doi:10.1038/d41586-026-01606-5\nFrance’s research-primate project goes against its own ethics panel",
+          "isoDate": "2026-05-19T00:00:00.000Z"
+        },
+        {
+          "title": "Airborne DNA can yield insights with the right techniques",
+          "link": "https://www.nature.com/articles/d41586-026-01604-7",
+          "summary": "Nature, Published online: 19 May 2026; doi:10.1038/d41586-026-01604-7\nAirborne DNA can yield insights with the right techniques",
+          "isoDate": "2026-05-19T00:00:00.000Z"
+        },
+        {
+          "title": "The uncritical adoption of AI in science is alarming — we urgently need guard rails",
+          "link": "https://www.nature.com/articles/d41586-026-01557-x",
+          "summary": "Nature, Published online: 19 May 2026; doi:10.1038/d41586-026-01557-x\nArtificial intelligence is rapidly accelerating scientific output, but risks narrowing inquiry, weakening judgement and undermining how scientists are trained.",
+          "isoDate": "2026-05-19T00:00:00.000Z"
         },
         {
           "title": "China moves AI brain implants from trials towards real-world use",
@@ -84,52 +120,16 @@
           "isoDate": "2026-05-19T00:00:00.000Z"
         },
         {
+          "title": "DNA-folding changes block production of self-directed antibodies",
+          "link": "https://www.nature.com/articles/d41586-026-01329-7",
+          "summary": "Nature, Published online: 19 May 2026; doi:10.1038/d41586-026-01329-7\nDNA rearrangements in immune-system B cells generate diverse antibody-encoding genes and help to avoid producing antibodies that target the body’s own tissues.",
+          "isoDate": "2026-05-19T00:00:00.000Z"
+        },
+        {
           "title": "Johnson Photographers Honored for Award-Winning Portraits ",
           "link": "https://www.nasa.gov/centers-and-facilities/johnson/johnson-photographers-honored-for-award-winning-portraits/",
           "summary": "Three photographers at NASA’s Johnson Space Center who inspire the world through visual storytelling earned top honors in the portrait category at the 2025 NASA Imagery Experts Program Annual Awards.  “Congratulations to all three on this impressive achievement and for capturing such breathtaking imagery,” said Johnson Director Vanessa Wyche. “Their work represents the collaboration, precision, […]",
           "isoDate": "2026-05-18T21:28:32.000Z"
-        },
-        {
-          "title": "NASA’s MAVEN Makes 1st Discovery of Atmospheric Effect at Mars",
-          "link": "https://science.nasa.gov/missions/maven/nasas-maven-makes-1st-discovery-of-atmospheric-effect-at-mars/",
-          "summary": "In December 2023, scientists looking at Mars data stumbled across something completely unexpected — observations of an atmospheric effect never before seen in the Red Planet’s atmosphere. Using instruments aboard NASA’s MAVEN (Mars Atmosphere and Volatile Evolution) mission, scientists identified a phenomenon known to occur in Earth’s magnetosphere, where charged particles are squeezed like toothpaste […]",
-          "isoDate": "2026-05-18T17:09:43.000Z"
-        },
-        {
-          "title": "NASA Selects Next Class of Space Health Postdoctoral Fellows",
-          "link": "https://www.nasa.gov/news-release/nasa-selects-next-class-of-space-health-postdoctoral-fellows/",
-          "summary": "The NASA-funded Translational Research Institute for Space Health (TRISH) has selected two early‑career scientists for its next class of postdoctoral fellows. The new fellows will begin their projects in May, focusing on space food systems and astronaut eye health. The TRISH Postdoctoral Fellowship Program supports independent research that advances biomedical, behavioral, and technological approaches relevant […]",
-          "isoDate": "2026-05-18T17:00:17.000Z"
-        },
-        {
-          "title": "Beacon of Light",
-          "link": "https://www.nasa.gov/image-article/beacon-of-light/",
-          "summary": "The heart of galaxy M77 shines brightly in this May 7, 2026, image from NASA’s James Webb Space Telescope. The intense glow is due to gas being pulled by the strong gravity of the central black hole into a tight and rapid orbit around it. The motion of the gas causes it to heat up, […]",
-          "isoDate": "2026-05-18T15:31:45.000Z"
-        },
-        {
-          "title": "Publisher Correction: Microbiota-induced T cell plasticity enables immune-mediated tumour control",
-          "link": "https://www.nature.com/articles/s41586-026-10649-7",
-          "summary": "Nature, Published online: 18 May 2026; doi:10.1038/s41586-026-10649-7\nPublisher Correction: Microbiota-induced T cell plasticity enables immune-mediated tumour control",
-          "isoDate": "2026-05-18T00:00:00.000Z"
-        },
-        {
-          "title": "Publisher Correction: GLP-1R–GIPR–PPARα/γ/δ quintuple agonism corrects obesity and diabetes in mice",
-          "link": "https://www.nature.com/articles/s41586-026-10619-z",
-          "summary": "Nature, Published online: 18 May 2026; doi:10.1038/s41586-026-10619-z\nPublisher Correction: GLP-1R–GIPR–PPARα/γ/δ quintuple agonism corrects obesity and diabetes in mice",
-          "isoDate": "2026-05-18T00:00:00.000Z"
-        },
-        {
-          "title": "Do you hate or love AI? Take <i>Nature's </i>poll",
-          "link": "https://www.nature.com/articles/d41586-026-01563-z",
-          "summary": "Nature, Published online: 18 May 2026; doi:10.1038/d41586-026-01563-z\nThe backlash against artificial intelligence is growing. Nature wants to know what its readers think about the impact on science.",
-          "isoDate": "2026-05-18T00:00:00.000Z"
-        },
-        {
-          "title": "A step-by-step guide for scientists who hate conference networking",
-          "link": "https://www.nature.com/articles/d41586-026-00525-9",
-          "summary": "Nature, Published online: 18 May 2026; doi:10.1038/d41586-026-00525-9\nIf the thought of ‘working’ a room packed with strangers fills you with dread, academic careers coach Caroline Dunne has some advice.",
-          "isoDate": "2026-05-18T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-05-19T03:32:24.486Z"
+          "isoDate": "2026-05-19T09:41:02.578Z"
+        },
+        {
+          "title": "Elon Musk has lost yet another legal battle. Why he'll still keep fighting",
+          "link": "https://www.bbc.com/news/articles/cqlpz4w6v13o?at_medium=RSS&at_campaign=rss",
+          "summary": "Musk has lost his high-profile lawsuit against OpenAI, but is not likely to change his aggressive style.",
+          "isoDate": "2026-05-19T08:45:23.000Z"
         },
         {
           "title": "Robo-top: The machines that could make your next t-shirt",
@@ -160,12 +166,6 @@
           "link": "https://www.bbc.com/news/articles/cewpyv79pw1o?at_medium=RSS&at_campaign=rss",
           "summary": "Jurors spent weeks hearing about Musk's claim that Altman had \"stolen a charity.\"",
           "isoDate": "2026-05-18T22:08:37.000Z"
-        },
-        {
-          "title": "Elon Musk just lost another lawsuit. Will he keep fighting?",
-          "link": "https://www.bbc.com/news/articles/cqlpz4w6v13o?at_medium=RSS&at_campaign=rss",
-          "summary": "Musk's loss against OpenAI is the latest in a string of courtroom defeats.",
-          "isoDate": "2026-05-18T20:44:57.000Z"
         },
         {
           "title": "Instant AI answers can trivialise human intelligence, warns Royal Observatory",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 76\nColumn: 559\nChar:  ",
-          "isoDate": "2026-05-19T03:32:28.893Z"
+          "isoDate": "2026-05-19T09:41:05.117Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-05-19T03:32:25.832Z"
+          "isoDate": "2026-05-19T09:41:04.038Z"
         },
         {
           "title": "Manchester Code Made Bits Behave",
