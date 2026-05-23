@@ -1,10 +1,40 @@
 {
-  "generatedAt": "2026-05-23T08:18:59.617Z",
+  "generatedAt": "2026-05-23T13:24:09.511Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Hanging out in my favorite virtual coffee shop in Tokyo",
+          "link": "https://www.theverge.com/entertainment/936278/coffee-talk-tokyo-review-switch-xbox-ps5-steam",
+          "summary": "Finding a cafe that fits you can be a revelatory experience. For me at least, there are few places outside of my house that I can truly feel comfortable in. I'm lucky enough to have two options in walking distance: a coffee shop that's bright, airy, and full of art, and another that doubles as a plant shop so that I'm surrounded by greenery while I write. They're third places that have become central to my life. But in the virtual realm I have an option as well - and while it's not a place for getting work done, it's just as relaxing.\nThe Coffee Talk series kicked off in 2020, with a direct sequel three years later, and the title really say …\nRead the full story at The Verge.",
+          "isoDate": "2026-05-23T13:00:00.000Z"
+        },
+        {
+          "title": "I have a new go-to browser",
+          "link": "https://www.theverge.com/tech/936395/vivaldi-8-review-mandalorian-installer",
+          "summary": "Hi, friends! Welcome to Installer No. 129, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, come on you Gunners, and also you can read all the old editions at the Installer homepage.) \nThis week, I've mostly been sick, which has meant nearly a full rewatch of Parks and Recreation while alternately napping and feeling bad for myself. But I've also been reading about Nick Fuentes and clowns, listening to old episodes of Short History Of, testing the NextSense Smartbuds while I sleep, writing in the Outerline Markdown app beta, and eagerly looking for things to do with the upcoming Flipper One.   \nToday' …\nRead the full story at The Verge.",
+          "isoDate": "2026-05-23T12:00:00.000Z"
+        },
+        {
+          "title": "Two space shuttle-era spacewalkers enter Astronaut Hall of Fame",
+          "link": "https://arstechnica.com/space/2026/05/two-space-shuttle-era-spacewalkers-enter-astronaut-hall-of-fame/",
+          "summary": "\"Two astronauts whose careers embody excellence, leadership, and service.\"",
+          "isoDate": "2026-05-23T11:30:35.000Z"
+        },
+        {
+          "title": "China’s shark finning could lead to US seafood sanctions",
+          "link": "https://arstechnica.com/tech-policy/2026/05/chinas-shark-finning-could-lead-to-us-seafood-sanctions/",
+          "summary": "A formal petition to the US government calls for sanctions on Chinese seafood imports.",
+          "isoDate": "2026-05-23T11:00:25.000Z"
+        },
+        {
+          "title": "Google’s new anything-to-anything AI model is wild",
+          "link": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
+          "summary": "Just a stuffed deer having the time of his life. | Image: Gemini / The Verge\t\n\nLast year I deepfaked my kid's stuffed animal to make it look like his plush deer was on vacation.\nIt was an experiment to see if I could re-create the events depicted in a Gemini ad Google was running, and I never showed the videos of Buddy the deer on his adventures to my four-year-old. But it was a revealing exercise that made me think a lot about the difference between some harmless fun with generative AI and full-on slop. Maybe that Venn diagram is a perfect circle! Maybe not. But what I know for sure is that the tools to make realistic videos are surprisingly good, requiring surprisingly little effort and know-how. And that trend is c …\nRead the full story at The Verge.",
+          "isoDate": "2026-05-23T11:00:00.000Z"
+        },
         {
           "title": "Four Russian satellites are now within striking distance of an ICEYE radarsat",
           "link": "https://arstechnica.com/space/2026/05/a-satellite-company-supporting-ukraine-appears-to-be-in-russias-crosshairs/",
@@ -34,36 +64,6 @@
           "link": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
           "summary": "Google's AI Overviews are running into an interesting problem right now. Earlier on Friday, if you searched for the term \"disregard,\" the AI Overview section would include a response like what you'd see from a more traditional AI chatbot instead of the typical AI summary, as spotted on X. As you can see in the image at the top of this story, I got an AI Overview response that said, \"Got it. If you need anything else or have a new question later, just let me know!\"\nAs of Friday afternoon, however, Google isn't showing an AI Overview for the term \"disregard\" at all - instead, it shows a list of news stories about the issue first. Google hasn' …\nRead the full story at The Verge.",
           "isoDate": "2026-05-22T20:39:54.000Z"
-        },
-        {
-          "title": "US scrambles to stop Internet users re-creating dead pilots’ voices",
-          "link": "https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs/",
-          "summary": "Workaround flouts law that bans NTSB disclosures of cockpit audio recordings.",
-          "isoDate": "2026-05-22T19:39:04.000Z"
-        },
-        {
-          "title": "The Boys is dead. Long live Vought Rising.",
-          "link": "https://arstechnica.com/culture/2026/05/the-boys-is-dead-long-live-vought-rising/",
-          "summary": "\"There's a brighter future. All we need to do is take it.\"",
-          "isoDate": "2026-05-22T19:02:48.000Z"
-        },
-        {
-          "title": "Police boast of hacking VPN where criminals \"believed themselves to be safe\"",
-          "link": "https://arstechnica.com/tech-policy/2026/05/police-boast-of-hacking-vpn-where-criminals-believed-themselves-to-be-safe/",
-          "summary": "Law enforcement intercepted VPN traffic, seized domains, and arrested its operator.",
-          "isoDate": "2026-05-22T18:43:54.000Z"
-        },
-        {
-          "title": "Review: The Mandalorian and Grogu is ... fine",
-          "link": "https://arstechnica.com/culture/2026/05/review-the-mandalorian-and-grogu-is-average-star-wars-no-more-no-less/",
-          "summary": "The plot is predictable, the fight scenes are meh, but you can't beat the charm of that little green Grogu.",
-          "isoDate": "2026-05-22T18:30:06.000Z"
-        },
-        {
-          "title": "Texas AG sues Meta over claims that WhatsApp doesn't provide end-to-end encryption",
-          "link": "https://arstechnica.com/security/2026/05/texas-ag-sues-meta-over-claims-that-whatsapp-doesnt-provide-end-to-end-encryption/",
-          "summary": "Critics note a lack of factual support in lawsuit filed by US Senate candidate.",
-          "isoDate": "2026-05-22T18:13:05.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-05-23T08:18:56.568Z"
+          "isoDate": "2026-05-23T13:24:04.649Z"
         },
         {
           "title": "Tech Now",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 77\nColumn: 559\nChar:  ",
-          "isoDate": "2026-05-23T08:18:58.586Z"
+          "isoDate": "2026-05-23T13:24:07.824Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-05-23T08:18:57.713Z"
+          "isoDate": "2026-05-23T13:24:05.853Z"
         },
         {
           "title": "Developers: Get Your Medical Mobile App Verified By IEEE",
