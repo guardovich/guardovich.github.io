@@ -1,10 +1,52 @@
 {
-  "generatedAt": "2026-05-22T19:43:56.269Z",
+  "generatedAt": "2026-05-23T02:54:37.474Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Four Russian satellites are now within striking distance of an ICEYE radarsat",
+          "link": "https://arstechnica.com/space/2026/05/a-satellite-company-supporting-ukraine-appears-to-be-in-russias-crosshairs/",
+          "summary": "\"This capability is not common for satellites conducting typical missions.\"",
+          "isoDate": "2026-05-22T22:50:23.000Z"
+        },
+        {
+          "title": "Ebola outbreak now third largest recorded and \"spreading rapidly\"",
+          "link": "https://arstechnica.com/health/2026/05/ebola-outbreak-now-third-largest-recorded-and-spreading-rapidly/",
+          "summary": "Ebola outbreak risk level increased as deaths reach 177 with nearly 750 cases.",
+          "isoDate": "2026-05-22T22:24:03.000Z"
+        },
+        {
+          "title": "First-generation Chromecast users stressed by devices suddenly failing",
+          "link": "https://arstechnica.com/gadgets/2026/05/original-chromecast-lives-devices-back-on-after-mysteriously-breaking-this-week/",
+          "summary": "Google tells Ars it fixed the first-gen Chromecast bug.",
+          "isoDate": "2026-05-22T21:42:59.000Z"
+        },
+        {
+          "title": "Trump FCC asks public to comment on whether ABC's The View is a news show",
+          "link": "https://arstechnica.com/tech-policy/2026/05/trump-fcc-asks-public-to-comment-on-whether-abcs-the-view-is-a-news-show/",
+          "summary": "FCC seeks opinions on whether ABC show's decisions are \"based on newsworthiness.\"",
+          "isoDate": "2026-05-22T21:10:46.000Z"
+        },
+        {
+          "title": "Google&#8217;s AI search is so broken it can &#8216;disregard&#8217; what you&#8217;re looking for",
+          "link": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
+          "summary": "Google's AI Overviews are running into an interesting problem right now. Earlier on Friday, if you searched for the term \"disregard,\" the AI Overview section would include a response like what you'd see from a more traditional AI chatbot instead of the typical AI summary, as spotted on X. As you can see in the image at the top of this story, I got an AI Overview response that said, \"Got it. If you need anything else or have a new question later, just let me know!\"\nAs of Friday afternoon, however, Google isn't showing an AI Overview for the term \"disregard\" at all - instead, it shows a list of news stories about the issue first. Google hasn' …\nRead the full story at The Verge.",
+          "isoDate": "2026-05-22T20:39:54.000Z"
+        },
+        {
+          "title": "US scrambles to stop Internet users re-creating dead pilots’ voices",
+          "link": "https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs/",
+          "summary": "Workaround flouts law that bans NTSB disclosures of cockpit audio recordings.",
+          "isoDate": "2026-05-22T19:39:04.000Z"
+        },
+        {
+          "title": "The Boys is dead. Long live Vought Rising.",
+          "link": "https://arstechnica.com/culture/2026/05/the-boys-is-dead-long-live-vought-rising/",
+          "summary": "\"There's a brighter future. All we need to do is take it.\"",
+          "isoDate": "2026-05-22T19:02:48.000Z"
+        },
         {
           "title": "Police boast of hacking VPN where criminals \"believed themselves to be safe\"",
           "link": "https://arstechnica.com/tech-policy/2026/05/police-boast-of-hacking-vpn-where-criminals-believed-themselves-to-be-safe/",
@@ -22,48 +64,6 @@
           "link": "https://arstechnica.com/security/2026/05/texas-ag-sues-meta-over-claims-that-whatsapp-doesnt-provide-end-to-end-encryption/",
           "summary": "Critics note a lack of factual support in lawsuit filed by US Senate candidate.",
           "isoDate": "2026-05-22T18:13:05.000Z"
-        },
-        {
-          "title": "Twelve South’s AirFly Pro 2 has hit one of its best prices ahead of summer travel",
-          "link": "https://www.theverge.com/gadgets/936200/twelve-south-airfly-pro-2-memorial-day-deal-sale",
-          "summary": "Twelve South’s AirFly Pro 2 let you connect wireless headphones to in-flight entertainment systems as well as the Nintendo Switch. | Image: Twelve South\t\n\nWith Memorial day weekend kicking off the travel season, we’re seeing a lot of deals pop up on travel gadgets, from portable power banks to noise-canceling headphones. One of the best right now is Twelve South’s AirFly Pro 2 Bluetooth adapter, which lets you use your wireless headphones with in-flight entertainment systems so you can enjoy your flight a little more. It’s currently down to $49.99 ($10 off) at Amazon and directly from Twelve South, which is one of its best prices to date.\nTwelve South AirFly Pro 2\n\nWhere to Buy:\n\n $59.99 $49.99 at Amazon\n $59.99 $49.99 at Twelve South\n\nThe Bluetooth transmitter lets you ditch the airline’s wired earbuds in favor of your own Bluetooth headphones or earbuds, which makes for a much better in-flight listening experience. All you need to do is plug the AirFly Pro 2 into the headphone jack on a seatback entertainment system, pair your headphones, and you’re set. It also supports two pairs of headphones at once, so you can watch movies or listen to podcasts with a travel companion. \nAs Twelve South’s premium AirFly model, the Pro 2 also adds a few welcome improvements that make it even easier to use. That includes the cheaper AirFly SE’s dedicated onboard volume controls as well as an upgraded processor, which enables faster pairing and improved sound quality with less background noise. Its battery should also last up to 25 hours on a single charge, which should comfortably last you through even the longest flights.\nThe AirFly Pro 2 remains useful long after you land, too. As it works with any standard audio jack, you can also use it to connect your wireless headphones to devices like a Nintendo Switch , older car stereos, and even compatible gym equipment like treadmills.",
-          "isoDate": "2026-05-22T18:00:00.000Z"
-        },
-        {
-          "title": "Before it comes down, what should be saved from the International Space Station?",
-          "link": "https://arstechnica.com/space/2026/05/before-it-comes-down-what-should-be-saved-from-the-international-space-station/",
-          "summary": "What went up cannot all come down (for museum display).",
-          "isoDate": "2026-05-22T17:59:29.000Z"
-        },
-        {
-          "title": "Marketer that claimed it could tap devices for ad targeting will pay $880K settlement",
-          "link": "https://arstechnica.com/tech-policy/2026/05/marketer-that-claimed-it-could-tap-devices-for-ad-targeting-will-pay-880k-settlement/",
-          "summary": "Two additional marketing companies will also pay $25,000 each.",
-          "isoDate": "2026-05-22T17:48:03.000Z"
-        },
-        {
-          "title": "Meta’s Forum is part Reddit, part Facebook, and part Google AI Overview",
-          "link": "https://www.theverge.com/tech/936290/meta-forum-facebook-groups-app-hands-on",
-          "summary": "Meta's new Forum app for iPhones takes Facebook Groups and moves them to a dedicated app with a dedicated AI chatbot to go with it, like an AI revamp of the ill-fated Groups app Facebook shut down in 2017. \nRather than going to ChatGPT or tacking \"Reddit\" onto the end of a Google search, Forum users can view, search for, and post advice directly in their Facebook groups, with optional help from Meta's AI. \nAfter logging in with my Facebook account, Forum automatically pulled in the groups I was part of on Facebook and populated my feed with posts from those groups, along with suggestions from groups I'm not part of, similar to my Reddit fe …\nRead the full story at The Verge.",
-          "isoDate": "2026-05-22T17:27:08.000Z"
-        },
-        {
-          "title": "Soaring solar and a surge in hydro push more coal off the US grid",
-          "link": "https://arstechnica.com/science/2026/05/soaring-solar-and-a-surge-in-hydro-push-more-coal-off-the-us-grid/",
-          "summary": "The first data from 2026 seem to indicate that last year was an oddity.",
-          "isoDate": "2026-05-22T17:22:42.000Z"
-        },
-        {
-          "title": "Elon, stop trying to make Grok happen",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen",
-          "summary": "There is a harsh truth about Elon Musk's \"truth-seeking\" AI chatbot Grok: It's not very good, and not many people are using it. That's the takeaway of a new Reuters report, which found that Grok barely appears in federal records of how the US government used AI last year. It's not the only sign xAI's signature chatbot is in trouble, even as Musk puts it at the heart of what could be the biggest IPO in history.\nReuters reviewed more than 400 examples of government AI use where specific vendors were named. Grok or xAI, it found, appeared in only three - each of those for basic uses like document drafting or social media management, and always …\nRead the full story at The Verge.",
-          "isoDate": "2026-05-22T17:17:06.000Z"
-        },
-        {
-          "title": "Trump abruptly cancels EO signing event after top AI firm CEOs declined to go",
-          "link": "https://arstechnica.com/tech-policy/2026/05/trump-canceled-ai-safety-testing-eo-after-snub-from-tech-ceos/",
-          "summary": "Trump delays AI safety testing EO, claiming it would be an innovation “blocker.”",
-          "isoDate": "2026-05-22T16:51:40.000Z"
         }
       ]
     },
@@ -72,64 +72,64 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "ERROR cargando feed",
-          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
-          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-05-22T19:43:51.003Z"
+          "title": "Call for Creatives: NASA Seeks Help Illuminating Mission Storytelling",
+          "link": "https://www.nasa.gov/news-release/call-for-creatives-nasa-seeks-help-illuminating-mission-storytelling/",
+          "summary": "As NASA pushes the boundaries of exploration and innovation for the benefit of humanity, the agency is looking for partners to share mission stories covering Artemis Moon missions, nuclear propulsion, aeronautics, and more. NASA published an Announcement for Proposals on May 21 asking filmmakers, documentarians, songwriters, storytellers, poets, and others to submit proposals to partner […]",
+          "isoDate": "2026-05-22T22:12:40.000Z"
+        },
+        {
+          "title": "NASA Sets Coverage for Roscosmos Spacewalk Outside Space Station",
+          "link": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-roscosmos-spacewalk-outside-space-station-2/",
+          "summary": "NASA will provide live coverage on Wednesday, May 27, as two Roscosmos cosmonauts conduct a spacewalk outside the International Space Station. The spacewalk is scheduled to begin at approximately 10:15 a.m. EDT and last roughly five hours. Watch NASA’s live coverage beginning at 9:45 a.m. on NASA+, Amazon Prime, and the agency’s YouTube channel. Learn […]",
+          "isoDate": "2026-05-22T19:43:57.000Z"
+        },
+        {
+          "title": "Webb Studies Star Clusters",
+          "link": "https://www.nasa.gov/image-article/webb-studies-star-clusters/",
+          "summary": "This near-infrared image released on May 6, 2026, shows a section of one of the spiral arms of Messier 51 (M51). M51 is one of four nearby galaxies observed by NASA’s James Webb Space Telescope in a study of nearly 9,000 star clusters. Data from the study shows that more massive star clusters emerge more […]",
+          "isoDate": "2026-05-22T18:23:38.000Z"
+        },
+        {
+          "title": "Keeping NASA Flying: Ground Crews Ensure Aircraft Readiness",
+          "link": "https://www.nasa.gov/centers-and-facilities/armstrong/keeping-nasa-flying-ground-crews-ensure-aircraft-readiness/",
+          "summary": "From high‑speed research flights to high‑altitude science campaigns, NASA depends on aircraft that perform at their best and the ground crews who keep them mission ready. At NASA’s Armstrong Flight Research Center in Edwards, California, specially trained maintenance crews are essential to keeping the agency’s aircraft flying safely and reliably. This year, NASA added two […]",
+          "isoDate": "2026-05-22T15:45:38.000Z"
+        },
+        {
+          "title": "NASA to Compete Contract for Jet Propulsion Laboratory Management",
+          "link": "https://www.nasa.gov/news-release/nasa-to-compete-contract-for-jet-propulsion-laboratory-management/",
+          "summary": "NASA announced plans Friday to compete the next contract for managing and operating the agency’s federally funded research and development center (FFRDC) in Southern California at the Jet Propulsion Laboratory (JPL), to ensure continued accountability and strong value for U.S. taxpayers. The California Institute of Technology (Caltech) has managed the laboratory since its inception in […]",
+          "isoDate": "2026-05-22T14:34:04.000Z"
+        },
+        {
+          "title": "NASA Announces Realignment to Accelerate Mission Delivery",
+          "link": "https://www.nasa.gov/news-release/nasa-announces-realignment-to-accelerate-mission-delivery/",
+          "summary": "Editor’s Note: This advisory was updated May 22, 2026 to include a retirement. NASA announced Friday an agencywide realignment to increase mission focus and move out on the National Space Policy. These changes position the agency to better deliver on the nation’s highest‑priority objectives with speed and efficiency. During the Ignition event in late March, […]",
+          "isoDate": "2026-05-22T14:01:35.000Z"
+        },
+        {
+          "title": "New Material Could Help NASA Melt Moon Rocks, Harness Lunar Resources",
+          "link": "https://www.nasa.gov/general/new-material-melt-moon-rocks/",
+          "summary": "A material recently discovered and tested at NASA’s Glenn Research Center in Cleveland could help astronauts pack lighter for future missions to the Moon. NASA is researching ways explorers could “live off the land” by harnessing lunar resources, including melting Moon rocks to extract metals for building infrastructure and oxygen for fuel and life support. […]",
+          "isoDate": "2026-05-22T14:00:00.000Z"
+        },
+        {
+          "title": "Hubble Captures Galaxy Cluster",
+          "link": "https://science.nasa.gov/missions/hubble/hubble-captures-galaxy-cluster/",
+          "summary": "Look closely at this image from NASA’s Hubble Space Telescope and you’ll see galaxies of various shapes and sizes clustered together toward the center-left of the image. A few foreground stars shine brightly and are easily distinguished by the spikes that appear to extend outward from each star. These spikes, called diffraction spikes, are the […]",
+          "isoDate": "2026-05-22T11:37:42.000Z"
+        },
+        {
+          "title": "Tornado Draws a Jagged Line in Mississippi",
+          "link": "https://science.nasa.gov/earth/earth-observatory/tornado-draws-a-jagged-line-in-mississippi/",
+          "summary": "The strongest of several twisters to touch down in the southern part of the state in early May 2026 left a visible path of damaged vegetation.",
+          "isoDate": "2026-05-22T04:01:00.000Z"
         },
         {
           "title": "Vanishing tongues and life on Mars: Books in brief",
           "link": "https://www.nature.com/articles/d41586-026-01655-w",
           "summary": "Nature, Published online: 22 May 2026; doi:10.1038/d41586-026-01655-w\nAndrew Robinson reviews five of the best science picks.",
           "isoDate": "2026-05-22T00:00:00.000Z"
-        },
-        {
-          "title": "Major Ebola outbreak is escalating: what happens next",
-          "link": "https://www.nature.com/articles/d41586-026-01660-z",
-          "summary": "Nature, Published online: 22 May 2026; doi:10.1038/d41586-026-01660-z\nNature staff discuss ongoing efforts to curb the Bundibugyo virus outbreak.",
-          "isoDate": "2026-05-22T00:00:00.000Z"
-        },
-        {
-          "title": "Neuroflix",
-          "link": "https://www.nature.com/articles/d41586-026-01087-6",
-          "summary": "Nature, Published online: 22 May 2026; doi:10.1038/d41586-026-01087-6\nIt’s just a game — isn’t it?",
-          "isoDate": "2026-05-22T00:00:00.000Z"
-        },
-        {
-          "title": "AI cracks 80-year-old mathematics challenge — researchers are astonished",
-          "link": "https://www.nature.com/articles/d41586-026-01651-0",
-          "summary": "Nature, Published online: 22 May 2026; doi:10.1038/d41586-026-01651-0\nThe late Hungarian mathematician Paul Erdős thought he had the last word on a geometry problem. Now an OpenAI chatbot has proved him wrong.",
-          "isoDate": "2026-05-22T00:00:00.000Z"
-        },
-        {
-          "title": "Hit a lab project glitch? Thinking about your thesis title like a storyteller can help you focus",
-          "link": "https://www.nature.com/articles/d41586-026-01392-0",
-          "summary": "Nature, Published online: 22 May 2026; doi:10.1038/d41586-026-01392-0\nCell biologist and crime novelist Frances Brodsky says writing fiction has taught her perseverance and improved her manuscripts.",
-          "isoDate": "2026-05-22T00:00:00.000Z"
-        },
-        {
-          "title": "Stress impairs your brain’s ability to link memories — dampening insight",
-          "link": "https://www.nature.com/articles/d41586-026-01644-z",
-          "summary": "Nature, Published online: 22 May 2026; doi:10.1038/d41586-026-01644-z\nImaging suggests why the ability to make inferences declines after an episode of acute stress, such as a job interview.",
-          "isoDate": "2026-05-22T00:00:00.000Z"
-        },
-        {
-          "title": "Complex interplay of neuronal and hormonal gut-brain responses to essential amino acid deficit",
-          "link": "https://www.science.org/doi/abs/10.1126/science.adv3355?af=R",
-          "summary": "Science, Volume 392, Issue 6800, May 2026.",
-          "isoDate": "2026-05-21T07:00:00.000Z"
-        },
-        {
-          "title": "Role of tectonic rock damage in erosional processes: A global analysis",
-          "link": "https://www.science.org/doi/abs/10.1126/science.ady9857?af=R",
-          "summary": "Science, Volume 392, Issue 6800, May 2026.",
-          "isoDate": "2026-05-21T07:00:00.000Z"
-        },
-        {
-          "title": "Reward magnitude determines reinforcement learning efficiency",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aeb0813?af=R",
-          "summary": "Science, Volume 392, Issue 6800, May 2026.",
-          "isoDate": "2026-05-21T07:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-05-22T19:43:52.085Z"
+          "isoDate": "2026-05-23T02:54:32.570Z"
+        },
+        {
+          "title": "Tech Now",
+          "link": "https://www.bbc.co.uk/iplayer/episode/m002x058?at_medium=RSS&at_campaign=rss",
+          "summary": "Shiona McCallum meets a medical expert testing out the future of prosthetics.",
+          "isoDate": "2026-05-23T01:00:00.000Z"
+        },
+        {
+          "title": "From decades to years - AI could speed search for brain drugs hiding in plain sight",
+          "link": "https://www.bbc.com/news/articles/cdrp3zzzp71o?at_medium=RSS&at_campaign=rss",
+          "summary": "Researchers hope the work will help identify affordable, effective drugs to treat conditions like MND.",
+          "isoDate": "2026-05-22T21:30:06.000Z"
         },
         {
           "title": "Waymo pauses robotaxis in five US cities after cars drive into flooded roads",
@@ -184,18 +196,6 @@
           "link": "https://www.bbc.com/news/articles/cn0pky4zpxxo?at_medium=RSS&at_campaign=rss",
           "summary": "YouTube said it worked with experts to provide appropriate experiences. TikTok said it was disappointed Ofcom had not acknowledged its safety features.",
           "isoDate": "2026-05-21T07:10:42.000Z"
-        },
-        {
-          "title": "SpaceX files for stock market debut that could make Elon Musk a trillionaire",
-          "link": "https://www.bbc.com/news/articles/cg4pe2953q1o?at_medium=RSS&at_campaign=rss",
-          "summary": "Musk's rocket-maker and satellite internet provider will trade under the ticker SPCX",
-          "isoDate": "2026-05-21T06:00:32.000Z"
-        },
-        {
-          "title": "US groups urge investigation into child safety and spending on Roblox",
-          "link": "https://www.bbc.com/news/articles/cgqpz809e7lo?at_medium=RSS&at_campaign=rss",
-          "summary": "Roblox said it had \"clear policies\" banning actual and simulated gambling, as well as rules governing paid random items.",
-          "isoDate": "2026-05-20T10:27:50.000Z"
         }
       ]
     },
@@ -207,6 +207,12 @@
           "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
           "link": "https://openai.com/index/gartner-2026-agentic-coding-leader",
           "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+          "isoDate": "2026-05-22T00:00:00.000Z"
+        },
+        {
+          "title": "How Virgin Atlantic ships faster with Codex",
+          "link": "https://openai.com/index/virgin-atlantic",
+          "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
           "isoDate": "2026-05-22T00:00:00.000Z"
         },
         {
@@ -234,12 +240,6 @@
           "isoDate": "2026-05-20T04:00:00.000Z"
         },
         {
-          "title": "How Ramp engineers accelerate code review with Codex",
-          "link": "https://openai.com/index/ramp",
-          "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
-          "isoDate": "2026-05-20T00:00:00.000Z"
-        },
-        {
           "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
           "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
           "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
@@ -252,16 +252,16 @@
           "isoDate": "2026-05-20T00:00:00.000Z"
         },
         {
+          "title": "How Ramp engineers accelerate code review with Codex",
+          "link": "https://openai.com/index/ramp",
+          "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
+          "isoDate": "2026-05-20T00:00:00.000Z"
+        },
+        {
           "title": "Justin Solomon appointed associate dean of engineering education",
           "link": "https://news.mit.edu/2026/justin-solomon-appointed-associate-dean-engineering-education-0519",
           "summary": "MIT faculty member in electrical engineering and computer science to focus on innovation in engineering education and new pedagogical approaches.",
           "isoDate": "2026-05-19T21:10:00.000Z"
-        },
-        {
-          "title": "Introducing OpenAI for Singapore",
-          "link": "https://openai.com/index/introducing-openai-for-singapore",
-          "summary": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
-          "isoDate": "2026-05-19T20:30:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 77\nColumn: 559\nChar:  ",
-          "isoDate": "2026-05-22T19:43:54.893Z"
+          "isoDate": "2026-05-23T02:54:35.817Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-05-22T19:43:53.436Z"
+          "isoDate": "2026-05-23T02:54:33.975Z"
         },
         {
           "title": "Developers: Get Your Medical Mobile App Verified By IEEE",
