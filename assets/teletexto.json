@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-05-23T19:09:24.254Z",
+  "generatedAt": "2026-05-24T03:34:27.742Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Record Club is trying to be Letterboxd for music nerds",
+          "link": "https://www.theverge.com/entertainment/936829/record-club-letterboxd-for-music-nerds",
+          "summary": "Look at those cute little guys. | Image: Record Club\t\n\nThere isn't really a solid equivalent to Goodreads or Letterboxd for music lovers, but Record Club is aiming to change that. Yes, we have Rate Your Music, but its interface is crowded, and it feels more geared towards longer-form reviews than cataloging your listening habits and connecting with other fans. Record Club is clean and modern, with a streamlined interface that's quite similar to Letterboxd. \nThe basic features you'd expect from such a site are all there. You can rate and review records or mark them as listened to. You can also see what your friends are listening to and see what albums are trending with other users.    There's a  …\nRead the full story at The Verge.",
+          "isoDate": "2026-05-23T22:41:11.000Z"
+        },
         {
           "title": "SpaceX's Starship V3—still a work in progress—mostly successful on first flight",
           "link": "https://arstechnica.com/space/2026/05/spacexs-starship-v3-still-a-work-in-progress-mostly-successful-on-first-flight/",
@@ -58,12 +64,6 @@
           "link": "https://arstechnica.com/space/2026/05/a-satellite-company-supporting-ukraine-appears-to-be-in-russias-crosshairs/",
           "summary": "\"This capability is not common for satellites conducting typical missions.\"",
           "isoDate": "2026-05-22T22:50:23.000Z"
-        },
-        {
-          "title": "Ebola outbreak now third largest recorded and \"spreading rapidly\"",
-          "link": "https://arstechnica.com/health/2026/05/ebola-outbreak-now-third-largest-recorded-and-spreading-rapidly/",
-          "summary": "Ebola outbreak risk level increased as deaths reach 177 with nearly 750 cases.",
-          "isoDate": "2026-05-22T22:24:03.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-05-23T19:09:19.495Z"
+          "isoDate": "2026-05-24T03:34:22.663Z"
         },
         {
           "title": "Tech Now",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 77\nColumn: 559\nChar:  ",
-          "isoDate": "2026-05-23T19:09:23.183Z"
+          "isoDate": "2026-05-24T03:34:26.357Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-05-23T19:09:21.039Z"
+          "isoDate": "2026-05-24T03:34:25.636Z"
         },
         {
           "title": "Developers: Get Your Medical Mobile App Verified By IEEE",
@@ -324,52 +324,57 @@
       "maxItems": 120,
       "items": [
         {
-          "title": "RESULTADOS (EN DIRECTO)",
+          "title": "RESULTADOS (ÚLTIMOS)",
           "link": "",
           "summary": ""
         },
         {
-          "title": "ALA  0-0  RAY",
+          "title": "ALA  1-2  RAY",
           "link": "",
           "summary": ""
         },
         {
-          "title": "REA  0-0  LEV",
+          "title": "REA  2-1  LEV",
           "link": "",
           "summary": ""
         },
         {
-          "title": "CEL  0-0  SEV",
+          "title": "CEL  1-0  SEV",
           "link": "",
           "summary": ""
         },
         {
-          "title": "ESP  0-0  REA",
+          "title": "ESP  1-1  REA",
           "link": "",
           "summary": ""
         },
         {
-          "title": "GET  0-0  OSA",
+          "title": "GET  1-0  OSA",
           "link": "",
           "summary": ""
         },
         {
-          "title": "MAL  0-0  REA",
+          "title": "MAL  3-0  REA",
           "link": "",
           "summary": ""
         },
         {
-          "title": "REA  0-0  ATH",
+          "title": "REA  4-2  ATH",
           "link": "",
           "summary": ""
         },
         {
-          "title": "VAL  0-0  BAR",
+          "title": "VAL  3-1  BAR",
           "link": "",
           "summary": ""
         },
         {
-          "title": "GIR  0-0  ELC",
+          "title": "GIR  1-1  ELC",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "BAR  3-1  REA",
           "link": "",
           "summary": ""
         },
@@ -384,12 +389,12 @@
           "summary": ""
         },
         {
-          "title": " 1  BAR  38  31  2  5  94  33  61  95",
+          "title": " 1  BAR  38  31  1  6  95  36  59  94",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 2  REA  38  26  6  6  73  33  40  84",
+          "title": " 2  REA  38  27  5  6  77  35  42  86",
           "link": "",
           "summary": ""
         },
@@ -404,82 +409,82 @@
           "summary": ""
         },
         {
-          "title": " 5  REA  38  14 16  8  57  47  10  58",
+          "title": " 5  REA  38  15 15  8  59  48  11  60",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 6  CEL  38  13 13 12  52  48   4  52",
+          "title": " 6  CEL  38  14 12 12  53  48   5  54",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 7  GET  38  14  7 17  31  38  -7  49",
+          "title": " 7  GET  38  15  6 17  32  38  -6  51",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 8  RAY  38  11 15 12  39  43  -4  48",
+          "title": " 8  RAY  38  12 14 12  41  44  -3  50",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 9  VAL  38  12 11 15  43  54 -11  47",
+          "title": " 9  VAL  38  13 10 15  46  55  -9  49",
           "link": "",
           "summary": ""
         },
         {
-          "title": "10  REA  38  11 13 14  58  60  -2  46",
+          "title": "10  REA  38  11 13 14  59  61  -2  46",
           "link": "",
           "summary": ""
         },
         {
-          "title": "11  ESP  38  12 10 16  42  54 -12  46",
+          "title": "11  ESP  38  12 10 16  43  55 -12  46",
           "link": "",
           "summary": ""
         },
         {
-          "title": "12  ATH  38  13  7 18  41  54 -13  46",
+          "title": "12  ATH  38  13  6 19  43  58 -15  45",
           "link": "",
           "summary": ""
         },
         {
-          "title": "13  SEV  38  12  8 18  46  59 -13  44",
+          "title": "13  SEV  38  12  7 19  46  60 -14  43",
           "link": "",
           "summary": ""
         },
         {
-          "title": "14  ALA  38  11 11 16  43  54 -11  44",
+          "title": "14  ALA  38  11 10 17  44  56 -12  43",
           "link": "",
           "summary": ""
         },
         {
-          "title": "15  LEV  38  11 10 17  46  59 -13  43",
+          "title": "15  ELC  38  10 13 15  49  57  -8  43",
           "link": "",
           "summary": ""
         },
         {
-          "title": "16  OSA  38  11 10 17  44  49  -5  43",
+          "title": "16  LEV  38  11  9 18  47  61 -14  42",
           "link": "",
           "summary": ""
         },
         {
-          "title": "17  ELC  38  10 13 15  48  56  -8  43",
+          "title": "17  OSA  38  11  9 18  44  50  -6  42",
           "link": "",
           "summary": ""
         },
         {
-          "title": "18  GIR  38   9 14 15  38  54 -16  41",
+          "title": "18  MAL  38  11  9 18  47  57 -10  42",
           "link": "",
           "summary": ""
         },
         {
-          "title": "19  MAL  38  10 10 18  44  57 -13  40",
+          "title": "19  GIR  38   9 14 15  39  55 -16  41",
           "link": "",
           "summary": ""
         },
         {
-          "title": "20  REA  38   6 12 20  26  57 -31  30",
+          "title": "20  REA  38   6 11 21  26  60 -34  29",
           "link": "",
           "summary": ""
         }
