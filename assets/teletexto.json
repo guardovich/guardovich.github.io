@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T19:16:17.328Z",
+  "generatedAt": "2026-05-25T03:47:18.774Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-05-24T19:16:13.256Z"
+          "isoDate": "2026-05-25T03:47:12.168Z"
         },
         {
           "title": "Tech Now",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 77\nColumn: 559\nChar:  ",
-          "isoDate": "2026-05-24T19:16:16.094Z"
+          "isoDate": "2026-05-25T03:47:16.596Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-05-24T19:16:15.187Z"
+          "isoDate": "2026-05-25T03:47:13.830Z"
         },
         {
           "title": "Developers: Get Your Medical Mobile App Verified By IEEE",
@@ -324,12 +324,57 @@
       "maxItems": 120,
       "items": [
         {
-          "title": "RESULTADOS (EN DIRECTO)",
+          "title": "RESULTADOS (ÚLTIMOS)",
           "link": "",
           "summary": ""
         },
         {
-          "title": "VIL  0-0  ATL",
+          "title": "VIL  5-1  ATL",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "ALA  1-2  RAY",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "REA  2-1  LEV",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "CEL  1-0  SEV",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "ESP  1-1  REA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "GET  1-0  OSA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "MAL  3-0  REA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "REA  4-2  ATH",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "VAL  3-1  BAR",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "GIR  1-1  ELC",
           "link": "",
           "summary": ""
         },
@@ -354,12 +399,12 @@
           "summary": ""
         },
         {
-          "title": " 3  VIL  38  21  7 10  67  45  22  70",
+          "title": " 3  VIL  38  22  6 10  72  46  26  72",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 4  ATL  38  21  7 10  61  39  22  70",
+          "title": " 4  ATL  38  21  6 11  62  44  18  69",
           "link": "",
           "summary": ""
         },
