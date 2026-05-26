@@ -1,10 +1,28 @@
 {
-  "generatedAt": "2026-05-25T19:38:36.908Z",
+  "generatedAt": "2026-05-26T03:31:06.889Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Sennheiser’s new Momentum 5 headphones have upgraded ANC and a replaceable battery",
+          "link": "https://www.theverge.com/tech/936127/sennheiser-momentum-5-wireless-headphones-anc-lossless-bluetooth",
+          "summary": "Sennheiser is sticking with the redesign it introduced with the Momentum 4 Wireless. | Image: Sennheiser\t\n\nNearly four years after the last version of Sennheiser's Momentum headphones debuted with a redesign that traded a retro aesthetic for a more contemporary and comfortable design, the company has announced its Momentum 5 Wireless headphones. They look very similar to their predecessors, the Momentum 4, with large ear cups and a design that doesn't quite stand out from the competition. But under the hood there are welcome upgrades, including improved ANC and, for the first time, a user-replaceable battery to extend their life.\nThe Momentum 5 Wireless will be available starting on June 30th for $399.99, a $50 price bump over the Momentum 4. Th …\nRead the full story at The Verge.",
+          "isoDate": "2026-05-25T22:00:00.000Z"
+        },
+        {
+          "title": "Ferrari reveals its first EV, with design help from Jony Ive",
+          "link": "https://www.theverge.com/transportation/937066/ferrari-luce-ev-jony-ive-marc-newson-lovefrom",
+          "summary": "The Ferrari Luce will start at €550,000 in Italy, but US pricing hasn’t been announced. | Image: Ferrari\t\n\nAfter months of teasers, Ferrari is offering the first full view of its Luce electric vehicle. The Luce is notable not just for being Ferrari's first EV, but for being designed in collaboration with Jony Ive and Mark Newson at their collective LoveFrom. It's also going to be Ferrari's second four-door car and its first five-seat one.\nWe already knew Ive and Newson were working on the Luce's interiors, which were shown off earlier this year. Now Ferrari says LoveFrom was allowed to \"define the design direction of the project from the outset,\" inside and out.\nTim Stevens reporting for Engadget offers a few firsthand impression …\nRead the full story at The Verge.",
+          "isoDate": "2026-05-25T21:33:12.000Z"
+        },
+        {
+          "title": "Citing Gandalf, Pope Leo says we must \"disarm\" AI",
+          "link": "https://arstechnica.com/tech-policy/2026/05/citing-gandalf-pope-leo-says-we-must-disarm-ai/",
+          "summary": "In an age of AI, Pope looks for \"artisans of hope.\"",
+          "isoDate": "2026-05-25T21:07:42.000Z"
+        },
         {
           "title": "Cox Media fined after bragging it spied on users through their phones",
           "link": "https://www.theverge.com/policy/937027/cox-media-marketing-ai-powered-phone-spying-ads-ftc-fine",
@@ -46,24 +64,6 @@
           "link": "https://www.theverge.com/entertainment/936860/robert-moor-on-trails-book-review",
           "summary": "Hiking is one of life's great joys. Turning off the screens and stepping out into nature for an extended period of time, perhaps even several days, is rejuvenating. Unfortunately, as someone with two young kids and a bad back, I'm not really able to go backpacking anymore. So I often find myself trying to live vicariously through others who write about their lengthy travails along the Appalachian or the PCT. That's what I thought I was signing up for when I picked up On Trails: An Exploration by Robert Moor. But it turned out to be so much more.\nThe prologue starts with Moor talking about his decision to thru-hike the Appalachian Trail. And …\nRead the full story at The Verge.",
           "isoDate": "2026-05-24T15:15:00.000Z"
-        },
-        {
-          "title": "Apple’s latest MacBook Air is $200 off in both sizes for Memorial Day",
-          "link": "https://www.theverge.com/gadgets/936610/apple-macbook-air-m5-memorial-day-2026-deal-sale",
-          "summary": "If you’re looking for a laptop that’ll still perform well several years from now, Apple’s latest MacBook Air is hard to beat. Now, in particular, is a good time to pick one up, as you can currently buy the 13-inch MacBook Air at Amazon in the run-up to Memorial Day with an M5 chip, 16GB of RAM, and a 512GB SSD for $899.99 ($200 off), which is a new low price. The 15-inch model, meanwhile, is also on sale at Amazon for $1,099.99 ($200 off) in select colors, or at Best Buy for $1,149.\nApple 13-inch MacBook Air (M5)\n\nWhere to Buy:\n\n $1099 $899.99 at Amazon \n $1099 $949 at Best Buy\n\n\nApple MacBook Air 15 (M5)\n\nWhere to Buy:\n\n $1299 $1099.99 at Amazon\n $1299 $1149 at Best Buy\n\nUnless you need a laptop for intensive gaming or demanding workloads like 3D modeling, the M5 Air is the laptop we recommend to most people. Apple’s latest model is faster and better at handling everyday workloads than the new MacBook Neo, whether that means juggling dozens of tabs or tackling some light video editing. The 2026 iteration is an even better value than before, as it boasts double the base storage, allowing for more apps and files. Storage performance is also impressive, with read and write speeds that rival the M5 MacBook Pro, so transferring files and multitasking feel much faster. \nApple’s mid-tier laptop excels in other ways, too. Its sharp, vibrant display makes everything from spreadsheets to Netflix shine, and it’s both slim and light enough that it’s easy to tote around in a backpack. It also lasts around 13 hours on a single charge — more than enough for a full day of use — while its 12-megapixel Center Stage webcam offers best-in-class performance. Sure, none of it is a huge step up from prior models, but given how good the MacBook Air has become in recent years, sometimes a few subtle refinements are all you need.\nRead our full 2026 MacBook Air review.",
-          "isoDate": "2026-05-24T15:00:00.000Z"
-        },
-        {
-          "title": "Hackers are learning to exploit chatbot &#8216;personalities&#8217;",
-          "link": "https://www.theverge.com/column/935545/hackers-ai-chatbots",
-          "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI mischief, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.\nHow it started\nHacking the first generation of AI chatbots was a laughably simple affair. You didn't need any technical know-how, backdoor access, or even a basic understanding of what a large language model was. You didn't need to code. To get an AI system that had cost billions to build to abandon its safety instructions, sometimes all you had to do was ask.\nThese attacks, known as jailbreaks, had the quality …\nRead the full story at The Verge.",
-          "isoDate": "2026-05-24T12:00:00.000Z"
-        },
-        {
-          "title": "Whatever the mirror test tells us, beluga whales pass it",
-          "link": "https://arstechnica.com/science/2026/05/belugas-may-pass-the-mirror-test-but-does-the-mirror-test-still-pass/",
-          "summary": "The white whales join the short, contested list of animals that see themselves.",
-          "isoDate": "2026-05-24T11:15:38.000Z"
         }
       ]
     },
@@ -71,6 +71,12 @@
       "header": "120  CIENCIA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Jaclyn Kagey Shapes Humanity’s Return to the Moon ",
+          "link": "https://www.nasa.gov/centers-and-facilities/johnson/jaclyn-kagey-shapes-humanitys-return-to-the-moon/",
+          "summary": "For Jaclyn Kagey, preparing astronauts to put boots on the Moon is part of her daily work.  As the Artemis extravehicular activity lead in NASA’s Flight Operations Directorate, Kagey plays a central role in preparing astronauts to safely explore the lunar surface.  During Artemis missions, astronauts will explore the Moon’s South Pole, a region never visited by humans, paving the way for future deep space exploration.   Kagey helps define […]",
+          "isoDate": "2026-05-26T03:09:55.000Z"
+        },
         {
           "title": "How I eavesdrop on frog conversations",
           "link": "https://www.nature.com/articles/d41586-026-01621-6",
@@ -124,12 +130,6 @@
           "link": "https://www.nasa.gov/general/new-material-melt-moon-rocks/",
           "summary": "A material recently discovered and tested at NASA’s Glenn Research Center in Cleveland could help astronauts pack lighter for future missions to the Moon. NASA is researching ways explorers could “live off the land” by harnessing lunar resources, including melting Moon rocks to extract metals for building infrastructure and oxygen for fuel and life support. […]",
           "isoDate": "2026-05-22T14:00:00.000Z"
-        },
-        {
-          "title": "Hubble Captures Galaxy Cluster",
-          "link": "https://science.nasa.gov/missions/hubble/hubble-captures-galaxy-cluster/",
-          "summary": "Look closely at this image from NASA’s Hubble Space Telescope and you’ll see galaxies of various shapes and sizes clustered together toward the center-left of the image. A few foreground stars shine brightly and are easily distinguished by the spikes that appear to extend outward from each star. These spikes, called diffraction spikes, are the […]",
-          "isoDate": "2026-05-22T11:37:42.000Z"
         }
       ]
     },
@@ -141,7 +141,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-05-25T19:38:31.994Z"
+          "isoDate": "2026-05-26T03:31:02.072Z"
+        },
+        {
+          "title": "Social media as bad for young people as smoking, top doctors say ",
+          "link": "https://www.bbc.com/news/articles/c5y7r9gqp6jo?at_medium=RSS&at_campaign=rss",
+          "summary": "The Academy of Medical Royal Colleges says doctors should routinely check on screen time and social media use when seeing younger patients.",
+          "isoDate": "2026-05-26T01:13:57.000Z"
+        },
+        {
+          "title": "The rise of the fruit that tastes like custard",
+          "link": "https://www.bbc.com/news/articles/ce8pmrp0m47o?at_medium=RSS&at_campaign=rss",
+          "summary": "Custard apple plants are prized for their hardiness but exporting their delicate fruit is difficult.",
+          "isoDate": "2026-05-25T23:27:04.000Z"
         },
         {
           "title": "Tech Now",
@@ -184,18 +196,6 @@
           "link": "https://www.bbc.com/news/articles/c4gv0qg2levo?at_medium=RSS&at_campaign=rss",
           "summary": "The NCA and NPCC say children should be blocked from accessing sites which do not stop them seeing nudes or being contacted by strangers.",
           "isoDate": "2026-05-21T23:07:54.000Z"
-        },
-        {
-          "title": "Meta settles social media addiction case with US school district",
-          "link": "https://www.bbc.com/news/articles/cgepze483pqo?at_medium=RSS&at_campaign=rss",
-          "summary": "The trial had been set as a test case for 1200 other school districts making similar claims.",
-          "isoDate": "2026-05-21T20:34:59.000Z"
-        },
-        {
-          "title": "TikTok and YouTube 'not safe enough' for kids, says Ofcom",
-          "link": "https://www.bbc.com/news/articles/cn0pky4zpxxo?at_medium=RSS&at_campaign=rss",
-          "summary": "YouTube said it worked with experts to provide appropriate experiences. TikTok said it was disappointed Ofcom had not acknowledged its safety features.",
-          "isoDate": "2026-05-21T07:10:42.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 77\nColumn: 559\nChar:  ",
-          "isoDate": "2026-05-25T19:38:35.707Z"
+          "isoDate": "2026-05-26T03:31:05.683Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-05-25T19:38:33.837Z"
+          "isoDate": "2026-05-26T03:31:03.571Z"
         },
         {
           "title": "IEEE TryEngineering OnCampus Program Expands to 7 Universities",
