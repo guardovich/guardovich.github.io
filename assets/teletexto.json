@@ -1,10 +1,52 @@
 {
-  "generatedAt": "2026-05-26T20:08:10.323Z",
+  "generatedAt": "2026-05-27T03:46:35.334Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Did the Pope use AI to write about the dangers of AI?",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
+          "summary": "It's possible that AI was used to write parts of Pope Leo XIV's latest encyclical about AI's impact on humanity. An analysis by Linch Zhang posted on the forum LessWrong found certain paragraphs of Magnifica Humanitas to be between 40 percent and 100 percent written by AI, according to the popular AI detector Pangram.\nThe document includes known traits that appear in AI-generated writing, such as a higher use of the word \"genuinely\" - which crops up in writing by Anthropic's Claude - than previous encyclicals, Zhang says. Another person ran the text of the document section by section through Pangram, finding that 62 percent of its first cha …\nRead the full story at The Verge.",
+          "isoDate": "2026-05-27T00:38:11.000Z"
+        },
+        {
+          "title": "Is Peter Thiel the target of Pope Leo's Gandalf quote? An investigation.",
+          "link": "https://arstechnica.com/tech-policy/2026/05/is-peter-thiel-the-target-of-pope-leos-gandalf-quote-an-investigation/",
+          "summary": "Parsing a papal proclamation.",
+          "isoDate": "2026-05-26T22:27:32.000Z"
+        },
+        {
+          "title": "NASA&#8217;s permanent Moon base plans start with three missions this year",
+          "link": "https://www.theverge.com/science/937775/nasa-moon-base-moonfall-updates",
+          "summary": "On Tuesday, NASA announced several upcoming lunar missions to the Moon's South Pole region. These missions will pave the way for the crewed Artemis landing slated for 2028, starting with three Moon Base missions NASA says are \"the first of more than a dozen missions that will be announced this year.\"\nMoon Base I, launching \"no earlier than fall 2026,\" will use Blue Origin's Blue Moon Mark 1 Endurance lander to bring NASA payloads to the Moon, including the Stereo Camera for Lunar Plume-Surface Studies instrument and the Laser Retroreflective Array. NASA will use these \"to study how thrusters interact with the Moon's surface\" and help \"orbi …\n\nRead the full story at The Verge.",
+          "isoDate": "2026-05-26T22:24:53.000Z"
+        },
+        {
+          "title": "Musk says US military suicide drones used Starlink in violation of SpaceX rules",
+          "link": "https://arstechnica.com/tech-policy/2026/05/musk-says-us-military-suicide-drones-used-starlink-in-violation-of-spacex-rules/",
+          "summary": "Musk says drones used Starlink instead of Starshield, blames military contractor.",
+          "isoDate": "2026-05-26T21:23:56.000Z"
+        },
+        {
+          "title": "NASA takes steps toward building Moon Base, including discussing a \"perimeter\"",
+          "link": "https://arstechnica.com/space/2026/05/nasa-takes-steps-toward-building-moon-base-including-discussing-a-perimeter/",
+          "summary": "\"We also obviously want to be very mindful of the Outer Space Treaty.\"",
+          "isoDate": "2026-05-26T21:03:03.000Z"
+        },
+        {
+          "title": "We're starting to see some PC makers respond to Apple's MacBook Neo",
+          "link": "https://arstechnica.com/gadgets/2026/05/were-starting-to-see-some-pc-makers-respond-to-apples-macbook-neo/",
+          "summary": "Sub-$600 laptops have existed for years, but consistently good ones remain rare.",
+          "isoDate": "2026-05-26T20:47:31.000Z"
+        },
+        {
+          "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
+          "link": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
+          "summary": "\"BadHost\" was found in Starlette, a package with 325 million weekly downloads.",
+          "isoDate": "2026-05-26T19:50:33.000Z"
+        },
         {
           "title": "Google Health is here, but a lot of people want their Fitbit app back instead",
           "link": "https://www.theverge.com/gadgets/937534/google-health-fitbit-app-ai",
@@ -22,48 +64,6 @@
           "link": "https://arstechnica.com/science/2026/05/the-oxygenation-of-earths-air-might-owe-a-lot-to-plate-tectonics/",
           "summary": "Getting carbon and sulfur into Earth’s interior may be part of oxygen’s story.",
           "isoDate": "2026-05-26T18:30:58.000Z"
-        },
-        {
-          "title": "FBI agent explains how easy it is to ID people posting AI porn without consent",
-          "link": "https://arstechnica.com/tech-policy/2026/05/fbi-easily-nabs-man-selling-sexy-deepfakes-who-used-his-own-photo-in-profile/",
-          "summary": "A creepy saved post on Instagram linked man to AI porn account, FBI says.",
-          "isoDate": "2026-05-26T17:46:01.000Z"
-        },
-        {
-          "title": "3D-printable humanoid legs let robotics experiments run wild",
-          "link": "https://arstechnica.com/ai/2026/05/3d-printable-humanoid-legs-let-robotics-experiments-run-wild/",
-          "summary": "Hugging Face debuts $2,500 bipedal robot project for builders and researchers.",
-          "isoDate": "2026-05-26T17:16:07.000Z"
-        },
-        {
-          "title": "Sony’s sloppy Spider-Man universe gets even messier with Spider-Noir",
-          "link": "https://www.theverge.com/entertainment/936358/amazon-spider-noir-review",
-          "summary": "After years of it seeming like the Spider-Man film rights might be better off in Marvel's hands alone, Into the Spider-Verse came along and proved that Sony was still capable of telling phenomenal stories featuring everyone's favorite webhead. Into the Spider-Verse's sumptuous visuals and focus on a different web-slinging New Yorker made it unlike any other Spider-Man adaptation. And it was genuinely shocking to see Sony follow the film up with a bigger, bolder, more imaginative sequel just a few years later.\nPart of what made the first two Spider-Verse features so much fun to watch was the way they cleverly incorporated many of the lesser- …\nRead the full story at The Verge.",
-          "isoDate": "2026-05-26T16:30:00.000Z"
-        },
-        {
-          "title": "Windows' classic 3D Space Cadet pinball is getting a physical re-creation",
-          "link": "https://arstechnica.com/gaming/2026/05/windows-classic-3d-space-cadet-pinball-is-getting-a-physical-re-creation/",
-          "summary": "But there are some real-world constraints that virtual pinball could easily ignore.",
-          "isoDate": "2026-05-26T16:24:02.000Z"
-        },
-        {
-          "title": "The best Memorial Day sales you can still shop",
-          "link": "https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026",
-          "summary": "You can still save $200 on the new MacBook Air. | Photo: Antonio G. Di Benedetto / The Verge\t\n\nThe long weekend is over, but many of the best Memorial Day deals are still available. Many of our favorite portable speakers are discounted, as are other outdoorsy products we like, including a set of solar lights. You can also find deals on everything from 4K OLED TVs and noise-canceling earbuds to laptops, and plenty of our favorite everyday essentials.\nTo give you more options, we’ve also included a selection of deals from retailers that weren’t officially running Memorial Day sales but are still matching many of the same prices. \nSavings are savings, after all.\n\n\n\n\n\n\n\nEarbuds and headphones \nNothing Headphone A\nNothing’s second over-ear headphones may not offer everything found on the pricier Nothing Headphone 1, but you do get physical controls, good sound, and more than five days of battery life per charge. Their design is also a bit more discreet, for better or worse. Read our review.\n\nWhere to Buy:\n\n $199 $169 at Amazon\n $199 $169 at Nothing\n\n\nBose QuietComfort Ultra Earbuds (2nd Gen)\nThe second-gen QuietComfort Ultra Earbuds have dynamic, rich sound and the best noise cancellation currently available in a pair of true wireless earbuds. They’re a terrific pick if you want to listen to your music in peace. Read our review.\n\nWhere to Buy:\n\n $299 $249 at Amazon\n $299 $249 at Walmart\n $299 $249 at Best Buy\n\nSamsung’s Galaxy Buds 3 Pro are on sale for $149.99 ($100 off) at Best Buy, which matches their all-time low price. The wireless earbuds are our top pick for Samsung Galaxy phone device owners, thanks to their comfortable AirPods-inspired design, terrific sound quality, and good noise cancellation. They also offer helpful voice controls that let you adjust volume or playback without a wake word, while delivering excellent voice call quality. Read our review.\nIf you’re an Apple user, there’s no better pair of starter buds than the open-style AirPods 4, which have fallen to $99 ($30 off) at Walmart. The latest model sounds significantly better than the third-gen pair, particularly for voice calls. More importantly, they offer robust integration with the rest of the Apple ecosystem, letting you take advantage of audio sharing, automatic device switching, hands-free “Hey Siri” commands, Apple TV integration, and more. Read our review.\nNothing Ear (a)\nNothing’s Ear (a) earbuds have the same general design as the company’s previous earbuds — but you can get these in a snazzy yellow. They include ANC, more than decent sound quality, and other features like multipoint for just under $100. Read our impressions.\n\nWhere to Buy:\n\n $99 $58.99 at Amazon\n $99 $59 at Nothing\n\nSennheiser’s Momentum True Wireless 4 earbuds are down to around $199.95 ($100 off) at Amazon and Best Buy, which is $20 shy of their best price to date. If sound quality matters most, they’re an easy recommendation, delivering rich, detailed audio with EQ customization to fine-tune the listening experience. Optional wing tips are included to help keep them secure and comfortable. Read our review.\nWalmart‘s selling the last-gen AirPods Max (USB-C) for around $449 ($100 off), which is $50 shy of their all-time low. Apple’s luxe over-ear headphones offer a premium design and work especially well with other Apple devices. They still deliver great sound quality and effective noise cancellation, even if the newer model has a slight edge. Read our review.\nCMF Buds Pro 2\nThe Buds Pro 2 offer a surprisingly robust set of features for the price, including ANC and a transparency mode that lets you tune into your surroundings. Their included charging case also features a smart dial that lets you adjust the volume, while multipoint Bluetooth support lets them connect to two devices simultaneously.\n\nWhere to Buy:\n\n $69 $43 at Amazon\n $69 $43 at Nothing\n\n\nSony WH-1000XM5\nDespite being a last-gen model, these headphones still offer impressive sound quality and top-notch noise cancellation. They’re comfortable to wear for hours, can last up to 40 hours on a charge, and support extras like audio sharing and Gemini Live. Read our review.\n\nWhere to Buy:\n\n $399.99 $248 at Amazon\n $399.99 $248 at Best Buy\n $399.99 $249.99 at Target\n\nSpeakers\nSonos Move 2\nWith double the battery life of its predecessor and better-sounding stereo audio, the Sonos Move 2’s improvements don’t stop there. It supports line-in audio, can stream Bluetooth audio to other Sonos speakers, and more. Read our review.\n\nWhere to Buy:\n\n $499 $399 at Amazon\n $499 $399 at Sonos\n $499 $399 at Best Buy\n\nJBL’s Flip 7 speaker is on sale for $99.95 ($50 off) at Amazon and Best Buy,  which matches its best price to date. The portable Bluetooth speaker builds on the Flip 6 with more durable IP68 dust and water resistance and improved sound that can reach higher volumes without sounding harsh. JBL’s new PushLock system also lets you easily swap in accessories, like the included wrist strap.\nBose’s SoundLink Plus is down to $209 ($50 off) at Amazon, Best Buy, and directly from Bose, which is its second-best price this year and $30 shy of its all-time low. In his review, The Verge’s John Higgins called it a “great beach speaker,” as it offers impressively loud sound for its size, up to 20 hours of battery life, and a durable IP67-rated design that can handle pool days. Read our review.\nJBL Charge 6\nThe Charge 6 is a robust, IP68-rated portable speaker with up to 28 hours of battery life and support for lossless audio over USB-C. Like the JBL Flip 7, it can also analyze your audio to deliver clearer, louder sound and reduce distortion at higher volumes.\n\nWhere to Buy:\n\n $199.95 $149.95 at Amazon\n $199.95 $159.95 at Best Buy\n $199.95 $159.99 at REI\n\nBose’s SoundLink Micro is on sale for $99 ($30 off) at Amazon and Best Buy , matching its all-time low price. It’s a good pick if you want something more portable than the larger SoundLink Plus. It won’t deliver the same room-filling sound, but it’s pocket-friendly, features a rugged IP67 design, and offers up to 12 hours of battery life, making it easier to take on the go.\nThe portable Beats Pill speaker is on sale for $99.99 ($50 off) at Amazon, Best Buy, and Walmart. The pill-shaped speaker improves on its predecessor with up to 24 hours of battery life on a single charge, while adding two-way USB-C charging and lossless audio support. It also introduces an IP67-rated design and native Find My support on both Android and iOS if it goes missing. Read our review.\nSonos Roam 2\nThe Sonos Roam 2 is a compact and travel-friendly Bluetooth speaker that easily syncs up with Sonos’ home audio ecosystem via Wi-Fi. While it looks much like the original, the Roam 2 has some small quality-of-life improvements, like a separate button for Bluetooth connections.\n\nWhere to Buy:\n\n $179 $134 at Amazon\n $179 $134 at Sonos\n $179 $134 at Best Buy\n\nTVs and streaming devices\nLG B5 OLED TV\nLG’s B5 TV is a great way to get OLED picture quality for less. It features support for both Dolby Vision and Dolby Atmos, along with a 120Hz panel and four HDMI 2.1 ports for hooking up the latest gaming consoles. It also runs LG’s webOS platform, supports Amazon Alexa, and provides easy access to a wide range of popular streaming apps.\n\nWhere to Buy:\n\n $2999.99 $1499.99 at Best Buy (77-inch)\n\n\nLG C5 OLED TV\nLG’s C5 features a 120Hz panel, along with four HDMI 2.1 ports and support for both AMD FreeSync Premium and Nvidia G-Sync. The gamer-friendly TV also packs all the hallmarks of a modern OLED, including deep black levels and sublime contrast.\n\nWhere to Buy:\n\n $2699.99 $1299.99 at Amazon (65-inch)\n $1999.99 $1299.99 at Best Buy (65-inch)\n\nMultiple configurations of Sony’s Bravia 8 II TV are on sale, with the 65-inch on sale for around $2,598 at Amazon, Best Buy, and directly from Sony — its second-best price so far this year. Crowned the “king of TV” in Value Electronics’ 2025 shootout, the exceptionally bright OLED TV boasts excellent color accuracy and a snappy 120Hz refresh rate. It also runs on Google TV and supports both Apple AirPlay 2 and Google Cast. Read our review.\nThe latest Amazon Fire TV Cube is on sale at Amazon and Best Buy for $109.99 ($30 off), which is its second-best price of the year but $30 more than its all-time low. Amazon’s latest Fire TV Cube combines a 4K streaming box with an Echo speaker, letting you play music, stream content in Dolby Vision, HDR, and Dolby Atmos, and control your TV and other smart home devices with hands-free Alexa voice commands. It also supports Wi-Fi 6E for faster, more reliable connectivity.\nAmazon Fire TV Stick 4K Plus\nAmazon’s latest Fire TV Stick 4K features support for Wi-Fi 6, Dolby Atmos / Vision, and HDR10 Plus. It also runs on Fire TV’s updated OS, which offers personalized recommendations, quicker access to favorite apps, and Alexa Plus support.\n\nWhere to Buy:\n\n $49.99 $29.99 at Amazon\n $49.99 $29.99 at Best Buy\n $49.99 $29.99 at Target\n\nIf you want a little more speed and storage than Amazon’s Fire TV Stick 4K Plus offers, its 4K Max is on sale for $39.99 ($20 off) at Amazon, Best Buy, and Target, which is $5 shy of its all-time low. It, too, runs on the new and improved Fire TV OS and supports Dolby Vision, HDR10 Plus, and Dolby Atmos. However, it adds faster performance, double the storage (16GB), and Wi-Fi 6E support. It also comes with a more capable remote, the Alexa Voice Remote Enhanced, which adds a button for live TV channel listings. Read our review.\nHisense CanvasTV\nThe last-gen 4K TV features an anti-glare matte screen that makes the artwork it displays while idle look like an actual painting. The S7N also has a QLED panel with a 144Hz refresh rate and four HDMI ports, while offering access to more than 1,000 free art pieces.\n\nWhere to Buy:\n\n $1297.99 $847.99 at Amazon\n $1299.99 $847.99 at Best Buy\n\n\nSamsung S95F\nSamsung S95F is a premium 4K OLED TV with a little something for everyone. Its glare-resistant screen makes it a good choice for rooms with a lot of light. Gamers will appreciate the TV’s 120Hz refresh rate, four HDMI ports, and support for both AMD FreeSync and Nvidia’s G-Sync technologies, which reduce graphical abnormalities like screen tearing or blurriness when playing fast-paced games. \nIn a TV Shootout whose judges included The Verge’s Nilay Patel, the TV’s HDR performance was second only to Sony’s Bravia 8 II. The S95F also has Amazon Alexa built in, so it can be integrated easily into a home with Echo speakers and similarly-compatible smart home accessories.\n\nWhere to Buy:\n\n $3299.99 $2199.99 at Best Buy (65-inch)\n $2997.99 $2197.99 at Amazon (65-inch)\n\nSmart home \nSwitchBot Bot Rechargeable\nDo you ever wish you could turn on your coffee maker or hit the light switch without getting up? The SwitchBot Bot lets you do that. All you need to do is stick the inexpensive contraption on a standard button or rocker switch, which will allow you to control or schedule your pet feeder, garage door, and a wide range of other devices from your smartphone.\n\nWhere to Buy:\n\n $33.99 $29.99 at Amazon (with on-page coupon)\n $33.99 $27.19 at SwitchBot (with code SUMMER20)\n\n\nDyson PencilWash\n\nWhere to Buy:\n\n $349.99 $249.99 at Amazon\n $349.99 $249.99 at Target\n $349.99 $249.99 at Dyson\n\n\nRing Battery Doorbell Plus (second-gen)\nRing’s latest Battery Doorbell Plus offers sharper 2K video and improved 6x zoom over the previous model, while retaining a head-to-toe view, night vision, motion alerts, and two-way talk. Optional AI-powered features, including activity summaries and facial recognition, are free for a month then cost $19.99 monthly afterward.\n\nWhere to Buy:\n\n $179.99 $119.99 at Amazon\n $179.99 $119.99 at Best Buy\n $179.99 $119.99 at Ring\n\nEcobee’s Smart Thermostat Premium is on sale for $229.99 ($30 off) at Amazon and directly from Ecobee, which is within $30 of its lowest price to date. The high-end smart thermostat can adjust temperatures based on where you are in your home, send alerts if your home gets too hot or cold while you’re away, and even track basic indoor air quality metrics like humidity, VOCs, and carbon dioxide. It also works well with Alexa, Siri, Apple Home, Google Home, SmartThings, and IFTTT, while doubling as a decent smart speaker. Read our review.\nIf you don’t need all the features offered by Ecobee’s top-tier model, Ecobee’s Smart Thermostat Enhanced is on sale for $169.99 ($30 off) at Amazon and directly from Ecobee, which is one of its better prices so far this year. It also adjusts temperatures based on whether anyone’s home and works with Alexa, Apple Home, Google Home, and SmartThings. Compared to the Premium model, though, you can’t use it as a doorbell, and it lacks indoor air quality monitoring and built-in voice control.\nBirdfy Feeder\nBirdfy’s entry-level smart feeder features a 1080p camera and an app that lets you view birds up close as they munch on seeds. If you fork out $4 per month for the premium subscription, you also get access to Birdfy’s AI, which identifies bird species and lets you set custom alerts for your favorites.\n\nWhere to Buy:\n\n $229.99 $99.99 at Amazon (non-solar)\n $229.99 $109.99 at Birdfy (with free gift bag and card)\n $259.99 $119.99 at Amazon (solar)\n\n\nEcovacs Deebot X9 Pro Omni\nThe Ecovacs Deebot X9 Pro Omni features an extendable mop that can clean itself, just like its predecessor. However, it also features Ecovacs’ Boosted Large-Airflow Suction Technology, which optimizes the airflow path from intake to exhaust, rather than relying solely on suction power. \n\nWhere to Buy:\n\n $1299.99 $599 at Best Buy\n $1299.99 $599 at Ecovacs\n\n\nCoway Airmega AP-1512HH Mighty air purifier\nCoway’s surprisingly efficient Airmega AP-1512HH Mighty is compact enough to fit in any corner of your home and offers a three-stage filtration system, including a true HEPA filter.\n\nWhere to Buy:\n\n $239.99 $159.99 at Amazon\n $239.99 $159.99 at Walmart\n\nEcobee’s Smart Thermostat Essential is on sale for $119.99 ($20 off) at Amazon and directly from Ecobee, which is also one of its better prices in recent months. The company’s most affordable thermostat covers the basics, letting you control your home’s temperature, create schedules in the app, and use Alexa, Apple Home, or Google Assistant. It also sends intruder alerts, but unlike Ecobee’s pricier models, it can’t automatically adjust temperatures based on activity in your home.\nRing Floodlight Cam Wired Pro\nThe Ring Floodlight Cam Wired Pro delivers high-quality video with adjustable, accurate radar-powered motion detection, 2,000 lumens of light, and a good digital zoom. It offers smart alerts for people or motion, and works with Amazon Alexa or Samsung SmartThings.\n\nWhere to Buy:\n\n $249.99 $169.99 at Amazon\n $249.99 $169.99 at Best Buy\n $249.99 $169.99 at The Home Depot\n\n\nEcobee Smart Doorbell Camera\nThis is a great wired doorbell camera, and the only one that can use an Ecobee thermostat as a video intercom, making it a no-brainer for Ecobee households, as long as you can hook it to your doorbell wiring.\n\nWhere to Buy:\n\n $159.99 $129.99 at Amazon\n $159.99 $129.99 at Ecobee\n\n\nEve Energy Smart Plug\nNot only does this smart plug offer the most detailed energy monitoring of any we have ever tested but it also works with Matter-over-Thread and is an especially good choice for Apple Home users.\n\nWhere to Buy:\n\n $39.95 $34.45 at Amazon\n $39.99 $34.99 at Best Buy\n $39.95 $34.45 at The Home Depot\n\nGaming\nNintendo Switch 2 “Choose Your Game” bundle\nChoose between Donkey Kong Bananza, Mario Kart World, and Pokémon Pokopia.\n\nWhere to Buy:\n\n $529.99 $499.99 at Amazon\n $529.99 $499.99 at Best Buy\n $529.99 $499.99 at GameStop\n\n\nMetroid Prime 4: Beyond\nMetroid Prime 4 is still a first-person adventure game like prior entries in the series, but this time around, bounty hunter Samus Aran is armed with a motorcycle and a slate of psychic powers. Not all of the new gameplay elements work, but Beyond is a fitting follow-up to what came before, with a lore-heavy story, great combat, and plenty of eerie exploration.\n\nWhere to Buy:\n\n $59.99 $39.99 at Best Buy (Nintendo Switch)\n\nYou can save $100 when you spend over $400 on select Logitech products at Best Buy. The limited-time promo includes Logitech’s $179.99 Pro X2 Superstrike gaming mouse, which uses haptics-based buttons instead of mechanical ones, along with Logitech’s G923 racing wheel and its A50 Lightspeed gaming headset. The promo details are located under the pricing on each landing page, nested within the “Special Offers” section. From there, you can build your bundle.\nStar Wars Outlaws\nStar Wars Outlaws is an original open-world adventure set in the vast universe of the iconic film series. It stars Kay Vess, a protagonist looking to steal from criminal overlords to gain her freedom. Read our review.\n\nWhere to Buy:\n\n $59.99 $35.97 at Amazon (Nintendo Switch 2)\n $69.99 $19.93 at Walmart (PlayStation 5)\n\n\nXbox Wireless Controller\nMicrosoft’s official Xbox Wireless Controller features a dedicated button for saving clips and screenshots, as well as sharing them online. It also offers Bluetooth support and a USB-C port for charging Microsoft’s play-and-charge rechargeable battery.\n\nWhere to Buy:\n\n $64.99 $44.99 at Amazon\n $64.99 $44.99 at Walmart\n $64.99 $44.99 at Best Buy\n\nLaptops and tablets\niPad (2025)\nApple’s entry-level iPad is an excellent tablet for casual use, even if it is getting a little long in the tooth. Its high-res screen is great for watching video, and its A16 processor is still fast enough to handle light games and productivity apps. Read our review.\n\nWhere to Buy:\n\n $349 $299 at Amazon (128GB, Wi-Fi)\n $449 $399 at Amazon (256GB, Wi-Fi)\n $649 $597 at Amazon (512GB, Wi-Fi)\n\nThe latest 11-inch iPad Pro with 256GB of storage is down to $899 ($100 off) at Amazon, which is $100 shy of its all-time low. If you prefer a bigger screen, the 13-inch / Wi-Fi model with 256GB of storage is also on sale at Amazon for around $1,195 ($105 off). Apple’s newest iPad Pro is its fastest tablet yet, packing the M5 chip along with faster storage speeds, quicker charging, and a new N1 chip that handles wireless connectivity like Wi-Fi, Bluetooth, and Thread. Read our review.\nTCL’s Note A1 Nxtpaper is a tablet primarily for note-taking, akin to Remarkable’s Paper Pure and Amazon’s Kindle Scribe, but with a much better screen. You can currently snag the 11.5-inch tablet with a keyboard cover for $499.99 (originally $599.99) directly from TCL’s online storefront. The tablet features a 120Hz color panel that feels natural to draw or write on with its included stylus; it also offers a slew of built-in AI tools, allowing you to convert handwriting to text, make your handwriting more legible, and carry out other actions.\nMacBook Air (M5)\nPowered by Apple’s new M5 chip, the latest MacBook Airs are more powerful than prior models and offer double the base storage (512GB). They also support faster wireless standards, specifically Wi-Fi 7 and Bluetooth 6. Read our review.\n\nWhere to Buy:\n\n $1099 $899.99 at Amazon \n $1099 $949 at Best Buy\n\nChargers and power banks \nAnker Laptop Power Bank\nAnker’s 25,000mAh power bank sports two built-in USB-C cables (one of which is retractable), plus one USB-C and USB-A port. It tops out at 165W when charging two devices simultaneously, or 130W when charging three or four.\n\nWhere to Buy:\n\n $119.99 $95.99 at Amazon\n $119.99 $95.99 at Walmart\n $119.99 $95.99 at Best Buy\n\n\nAnker Nano Charger (45W, Smart Display, 180° Foldable)\nAnker’s latest single-port USB-C charger offers up to 45W of power, foldable prongs, and a front-facing “smart display” that lets you see the charge level, power flow, and other useful information at a glance.\n\nWhere to Buy:\n\n $39.99 $27.99 at Amazon\n $39.99 $27.99 at Anker (with code WS7DV2UPQ7JH)\n\nSatechi’s 3-in-1 Foldable Wireless Charging Stand with Qi2 25W is on sale for $116.99 ($13 off) at Amazon, which is a new low price. The adjustable, foldable stand can wirelessly deliver up to 25W to compatible iPhones while simultaneously fast charging an Apple Watch and topping up your AirPods, but it also works with a range of Qi, Qi2, and Qi2.2-compatible Android phones and wireless earbuds. Satechi also includes a 45W USB-C adapter along with three international adapters, making it a useful travel companion.\nJackery Explorer 500\nThe Jackery Explorer 500 is small but mighty, delivering 500W of power in a package that features seven output ports and weighs just 13 pounds.\n\nWhere to Buy:\n\n $499 $319 at Amazon\n $499 $329 at Jackery\n\nGoal Zero is taking 25 percent off a range of portable power stations, including the Yeti 700, which is currently $524.89 ($175 off). The portable power station can power up to nine devices at once through its AC, USB-C, USB-A, and 12V ports. Compared to the smaller Yeti 300 (on sale for $262.89) and Yeti 500 (on sale for $374.89), the higher-end model offers greater battery capacity and power output, making it a better fit for running multiple laptops, phones, lights, and even small appliances simultaneously.\nShargeek 170 Power Bank\nA see-through case protects a 24,000mAh battery, 170W maximum output, and the ability to charge three devices simultaneously via a pair of 140W USB-C ports and a single USB-A port.\n\nWhere to Buy:\n\n $199 $119 at Amazon\n $199 $109.99 at Scharge (with code S170)\n\nMiscellaneous Verge favorites\nGarmin inReach Mini 2\nGarmin’s palm-sized inReach Mini 2 satellite communicator offers off-the-grid two-way messaging, built-in navigation capabilities, and powerful mapping features, including the ability to set waypoints when paired with Garmin’s Explore app. A subscription plan is required to access the Iridium network, though, with prices starting at $7.99 a month.\n\nWhere to Buy:\n\n $399.99 $249.99 at Amazon\n $399.99 $249.99 at Garmin\n\nThe Insta360 Link 2 Pro is down to $229.99 ($20 off) at Amazon, Best Buy, and directly from Insta360. The premium 4K webcam uses a large 1/1.3-inch sensor for sharper image quality and better low-light performance than its predecessor, though its resolution still maxes out at 4K/30fps or 1080p at up to 60fps. It features a two-axis gimbal and dual microphones with AI noise cancellation, while retaining features like AI tracking to help keep you centered if you move around.\nRay-Ban Meta (Gen 1) smart glasses\nDeveloped in partnership with Ray-Ban, Meta’s last-gen smart glasses can perform a range of tasks. They can capture 1080p video and play music, and thanks to a suite of AI-based features, you can even use them to translate from a myriad of languages in real time. Read our review.\n\nWhere to Buy:\n\n $299 $224 at Amazon\n $299 $224 at Best Buy\n $299.99 $224 at Meta\n\nYou can buy the Insta360 X5 at Amazon, Best Buy, and directly from Insta360’s online storefront for an all-time low of $464.99 ($85 off), with Insta360 throwing in a free lens kit. The 360-degree action cam delivers sharper, more detailed images than its predecessor and improved low-light performance. Specifically, it now allows you to capture 4K footage at up to 120fps, 8K video at up to 30fps, or 5.7K at 60fps, while offering support for user-replaceable lenses. Read our review.\nKelty Low Loveseat\nThe Kelty Low Loveseat is a sturdy, low-profile camp chair built for two. It features a steel frame, a padded seat, and extra-large cup holders for your drinks or gear. It also includes a padded roll-tote storage bag, making it easy to transport when it’s folded down.\n\nWhere to Buy:\n\n $149.95 $112.46 at Backcountry\n\nThe Dyson Airwrap i.d. is available for $499.99 ($150 off) from Amazon, Best Buy and Dyson. The dryer can automatically adjust heat, airflow, and timing according to your styling preferences, with the app letting you set up a profile based on factors like your hair type, length, and skill level. From there, it can guide you through a more customized curling routine. Dyson also includes three attachments, including a conical barrel, a diffuser designed for waves and curls, and a blade concentrator.\nThe Amazfit Active 2 is on sale for $89.99 ($10 off) at Amazon, which is $10 shy of its lowest price to date. It’s a surprisingly capable budget fitness tracker, with features like continuous heart rate and blood oxygen monitoring, offline navigation, and battery life that can last up to nine days. Read our review.\nBioLite Site Lights\nBioLite’s ultra-versatile Site Light kit comes with six weatherproof bulbs, which can illuminate up to 1,000 square feet when hung or properly staked. You don’t need to bring a charger, either, as the included carrying case doubles as a solar charger for the lights.\n\nWhere to Buy:\n\n $99.95 $74.89 at Amazon\n $99.95 $74.89 at  BioLite\n\n\nBioLite FirePit Plus\nBioLite’s portable FirePit Plus cuts back on unwanted smoke, functions either as a charcoal or wood-fueled grill, and fans the flames via a large battery pack and built-in fan.\n\nWhere to Buy:\n\n $599.95 $359.89 at BioLite (with free carry bag)\n $599.95 $359.89 at Backcountry\n\nUpdate, May 26th: Updated to reflect current pricing / availability. Brandon Widder and Cameron Faulkner also contributed to this post.",
-          "isoDate": "2026-05-26T16:10:06.000Z"
-        },
-        {
-          "title": "American Airlines is getting Starlink Wi-Fi",
-          "link": "https://www.theverge.com/transportation/937439/american-airlines-starlink-wifi-speed",
-          "summary": "SAN FRANCISCO, CALIFORNIA - MAY 12: American Airlines plane are takeoff and lands at San Francisco International Airport (SFO) in San Francisco, California, United States on May 12, 2026. (Photo by Tayfun Coskun/Anadolu via Getty Images) | Anadolu via Getty Images\t\n\nAmerican Airlines is planning to install SpaceX's Starlink Wi-Fi in hundreds of its airplanes, the airline announced today. \nAmerican says the deployment will start in the first quarter of 2027, and will span more than 500 aircraft, including its new A321XLR and A321neo planes from Airbus. Starlink will join Viastat and SES (previously known as Intelstat) as among the airline's Wi-Fi providers. \nAmerican is the latest air carrier to turn to Elon Musk's Starlink for its Wi-Fi needs. Others include United Airlines, Southwest Airlines, Lufthansa Group, British Airways, Qatar Airways, Alaska Airlines, and Hawaiian Airlines. Meanwhile, Delta Ai …\nRead the full story at The Verge.",
-          "isoDate": "2026-05-26T16:07:39.000Z"
-        },
-        {
-          "title": "Memory V re-creates the Memorymoog without the massive headaches or price tag",
-          "link": "https://www.theverge.com/entertainment/937054/arturia-memory-v-memorymoog-synthesizer",
-          "summary": "The Memorymoog is legendary for being an absolutely massive-sounding synth and being incredibly unreliable. But now you can enjoy its classic Moog sound without the headaches or the sky-high vintage price, thanks to Arturia's Memory V emulator. \nThe Memorymoog was only made between 1982 and 1985, and was the last polyphonic synth made by Moog before it declared bankruptcy in 1987. People loved its sound, which was described as being six Minimoogs in a box, and the Memorymoog+ was among the first synths to adopt MIDI. It also came out right as the synth industry was shifting from analog to digital.\nIt was also notorious for being rushed to  …\nRead the full story at The Verge.",
-          "isoDate": "2026-05-26T16:00:00.000Z"
         }
       ]
     },
@@ -71,6 +71,18 @@
       "header": "120  CIENCIA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "NASA to Announce Artemis III Crew, Provide Mission Progress Update",
+          "link": "https://www.nasa.gov/news-release/nasa-to-announce-artemis-iii-crew-provide-mission-progress-update/",
+          "summary": "NASA will provide an update on the agency’s Artemis III mission and announce the astronauts assigned to the test flight during a live event at 11 a.m. EDT on Tuesday, June 9, at the agency’s Johnson Space Center in Houston. The event will stream on NASA+ and on the agency’s YouTube channel. Learn how to […]",
+          "isoDate": "2026-05-26T21:33:04.000Z"
+        },
+        {
+          "title": "NASA Astronauts to Answer Questions from Students in New York",
+          "link": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-students-in-new-york/",
+          "summary": "Students in New York will hear from NASA astronaut Jessica Meir as she answers their prerecorded science, technology, engineering, and mathematics (STEM) questions while aboard the International Space Station. The Earth-to-space call will begin at 11:05 p.m. EDT Thursday, May 28, and will stream live on the agency’s Learn With NASA YouTube channel. This event […]",
+          "isoDate": "2026-05-26T21:05:04.000Z"
+        },
         {
           "title": "NASA Provides Update on Moon Base Rovers, Landers, Missions",
           "link": "https://www.nasa.gov/news-release/nasa-provides-update-on-moon-base-rovers-landers-missions/",
@@ -118,18 +130,6 @@
           "link": "https://www.nature.com/articles/d41586-026-01664-9",
           "summary": "Nature, Published online: 26 May 2026; doi:10.1038/d41586-026-01664-9\nPoland’s economy is thriving, but its science is dying",
           "isoDate": "2026-05-26T00:00:00.000Z"
-        },
-        {
-          "title": "Conservation gains should not be at the mercy of political changes",
-          "link": "https://www.nature.com/articles/d41586-026-01665-8",
-          "summary": "Nature, Published online: 26 May 2026; doi:10.1038/d41586-026-01665-8\nConservation gains should not be at the mercy of political changes",
-          "isoDate": "2026-05-26T00:00:00.000Z"
-        },
-        {
-          "title": "A cautious voice on the closure of China’s journal ranking list",
-          "link": "https://www.nature.com/articles/d41586-026-01663-w",
-          "summary": "Nature, Published online: 26 May 2026; doi:10.1038/d41586-026-01663-w\nA cautious voice on the closure of China’s journal ranking list",
-          "isoDate": "2026-05-26T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-05-26T20:08:04.894Z"
+          "isoDate": "2026-05-27T03:46:29.347Z"
+        },
+        {
+          "title": "Champion ethical hacker warns AI tools like Mythos could put her out of business",
+          "link": "https://www.bbc.com/news/articles/c3r2zjpryzro?at_medium=RSS&at_campaign=rss",
+          "summary": "Chompie, one of the world's tops ethical hackers, says AI like Claude Mythos will make it harder for people like her to compete.",
+          "isoDate": "2026-05-27T00:43:55.000Z"
+        },
+        {
+          "title": "Instagram betting ads featuring Kane and Haaland banned",
+          "link": "https://www.bbc.com/news/articles/c3w220y2l8xo?at_medium=RSS&at_campaign=rss",
+          "summary": "The advertising watchdog said the adverts featuring top footballers had a strong appeal to under-18s.",
+          "isoDate": "2026-05-26T23:33:40.000Z"
         },
         {
           "title": "Tech Life",
@@ -184,18 +196,6 @@
           "link": "https://www.bbc.com/news/articles/c1728w58dyqo?at_medium=RSS&at_campaign=rss",
           "summary": "Bungie said the online shooter will get its final update on 9 June but will still be playable.",
           "isoDate": "2026-05-22T12:16:35.000Z"
-        },
-        {
-          "title": "Musk's SpaceX postpones Starship launch as mega share sale looms",
-          "link": "https://www.bbc.com/news/articles/cy42w782ejvo?at_medium=RSS&at_campaign=rss",
-          "summary": "It comes just a day after the firm revealed plans for a record-breaking stock market debut.",
-          "isoDate": "2026-05-22T02:57:12.000Z"
-        },
-        {
-          "title": "Love factually: Dating start-ups promise to cut the cheats",
-          "link": "https://www.bbc.com/news/articles/cnvpme6811do?at_medium=RSS&at_campaign=rss",
-          "summary": "Frustration with fake dating profiles has spurred new dating services with different approaches.",
-          "isoDate": "2026-05-21T23:14:18.000Z"
         }
       ]
     },
@@ -246,6 +246,12 @@
           "isoDate": "2026-05-20T04:00:00.000Z"
         },
         {
+          "title": "The next phase of OpenAI’s Education for Countries",
+          "link": "https://openai.com/index/the-next-phase-of-education-for-countries",
+          "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
+          "isoDate": "2026-05-20T00:00:00.000Z"
+        },
+        {
           "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
           "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
           "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
@@ -255,12 +261,6 @@
           "title": "How Ramp engineers accelerate code review with Codex",
           "link": "https://openai.com/index/ramp",
           "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
-          "isoDate": "2026-05-20T00:00:00.000Z"
-        },
-        {
-          "title": "The next phase of OpenAI’s Education for Countries",
-          "link": "https://openai.com/index/the-next-phase-of-education-for-countries",
-          "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
           "isoDate": "2026-05-20T00:00:00.000Z"
         }
       ]
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 77\nColumn: 559\nChar:  ",
-          "isoDate": "2026-05-26T20:08:08.891Z"
+          "isoDate": "2026-05-27T03:46:33.522Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-05-26T20:08:06.344Z"
+          "isoDate": "2026-05-27T03:46:31.063Z"
         },
         {
           "title": "What It Takes to Preserve Floppy Disks",
