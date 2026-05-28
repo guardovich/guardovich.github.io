@@ -1,10 +1,52 @@
 {
-  "generatedAt": "2026-05-27T20:16:17.532Z",
+  "generatedAt": "2026-05-28T03:34:06.658Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "A Google employee allegedly used inside information to win $1.2 million on Polymarket ",
+          "link": "https://www.theverge.com/tech/938635/google-polymarket-insider-trading-prediction-market-bets",
+          "summary": "Federal prosecutors charged a Google employee with fraud after he allegedly made $1.2 million on Polymarket bets related to Search-related trends in 2025, as reported earlier by ABC News. In their now-unsealed complaint, prosecutors allege that Michele Spagnuolo \"knew the outcome of these wagers before the trading public did because he had accessed Google's confidential, commercially valuable internal data.\" Spagnuolo was arrested in New York on Wednesday but released on a $2.25 million bond, ABC News reports. He is charged with commodities fraud, wire fraud, and money laundering.\nSpagnuolo made bets on Polymarket under the username AlphaRa …\nRead the full story at The Verge.",
+          "isoDate": "2026-05-27T22:30:02.000Z"
+        },
+        {
+          "title": "California defeats Tesla's attempt to throw out racial discrimination lawsuit",
+          "link": "https://arstechnica.com/tech-policy/2026/05/california-defeats-teslas-attempt-to-throw-out-racial-discrimination-lawsuit/",
+          "summary": "California civil rights agency hails win over Tesla, anticipates trial in July.",
+          "isoDate": "2026-05-27T21:08:51.000Z"
+        },
+        {
+          "title": "Apple’s newest iPad Air is up to $100 off for the first time",
+          "link": "https://www.theverge.com/gadgets/938519/apple-ipad-air-m4-deal-sale",
+          "summary": "If you want an iPad that’s more powerful than the entry-level model but less expensive than the iPad Pro, the latest iPad Air is the one to buy, and it’s down to one its best prices to date. The 11-inch Air with 128GB of storage and Wi-Fi connectivity is available at Amazon starting at $519.99 ($79 off). If you want a larger screen, the base 13-inch Air has dropped to a new low price of $699 ($100 off), also at Amazon.\n13-inch iPad Air M4 \n\nWhere to Buy:\n\n $799 $699.99 at Amazon (128GB, Wi-Fi)\n $899 $789.99 at Amazon (256GB, Wi-Fi)\n $1099 $1019 at Amazon (512GB, Wi-Fi)\n\n\n11-inch iPad Air (2026)\n\nWhere to Buy:\n\n $599 $519.99 at Amazon (128GB, Wi-Fi)\n $699 $609.99 at Amazon (256GB, Wi-Fi)\n $899 $839 at Amazon (512GB, Wi-Fi)\n\nNo matter which size you choose, the new iPad Air is noticeably faster than the base iPad thanks to its M4 processor and a bump up to 12GB of RAM. While it falls short of the M5-powered iPad Pros in terms of raw performance and its super-thin design, the Air is sufficient for lighter creative work and some gaming. This model also boasts Apple Intelligence and support for the latest Apple Pencil Pro. \nApple also made a handful of smaller upgrades in the now-discounted iPad Air, like the N1 wireless networking chip that supports Wi-Fi 7 and Bluetooth 6. It’s also compatible with Thread, making it easier to control smart lights, locks, and other compatible smart home devices directly from your tablet. It was already a good value, and now it’s a better one at this price if you’re shopping for a new iPad.\nRead our M4-powered iPad Air review.",
+          "isoDate": "2026-05-27T21:08:41.000Z"
+        },
+        {
+          "title": "Websites have a new way to spy on visitors: analyzing their SSD activity",
+          "link": "https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/",
+          "summary": "Telltale SSD activity can be measured in the browser using simple JavaScript.",
+          "isoDate": "2026-05-27T20:56:03.000Z"
+        },
+        {
+          "title": "Mystery GPS jammer in Iran becomes test for NASA satellites’ capabilities",
+          "link": "https://arstechnica.com/gadgets/2026/05/nasa-satellites-can-spot-gps-jammers-on-earth/",
+          "summary": "NASA science satellites show dual use in locating sources of GPS interference.",
+          "isoDate": "2026-05-27T20:43:54.000Z"
+        },
+        {
+          "title": "All the news about Ferrari&#8217;s polarizing Luce EV",
+          "link": "https://www.theverge.com/transportation/938513/ferrari-luce-ev",
+          "summary": "Ferrari fans don’t like the design of the new Luce EV, an electric four-door sedan that just doesn’t look like the Ferraris of old.\nIt was designed with help from Jony Ive’s LoveFrom, but what worked for Ive at Apple isn’t working for Ferrari. The Luce’s launch immediately preceded a stock drop that even an appearance by the Pope hasn’t been able to turn around so far.\n\n\n\t\t\t\t\t\nLamborghini CEO talks EVs vs. hybrids after the Ferrari Luce launch.\n\t\t\t\nThis Ferrari should have been a Volkswagen\n\t\t\t\nLuce x Leo.\n\t\t\t\n‘If I were to say what I think, I would be hurting Ferrari.’\n\t\t\t\nFerrari’s stock plummets after disappointing Luce unveil.\n\t\t\t\nJony Ive’s Ferrari looks nothing like a Ferrari\n\t\t\t\nFerrari reveals its first EV, with design help from Jony Ive\n\t\t\t\nHere’s what the Ferrari Luce’s buttons, switches, and knobs sound like.\n\t\t\t\nFerrari’s first EV will have an interior designed by Jony Ive\n\t\t\t\nFerrari exposes the guts of its upcoming 1000hp EV\n\t\t\t\nFerrari’s first EV spotted making fake Ferrari sounds.",
+          "isoDate": "2026-05-27T20:22:57.000Z"
+        },
+        {
+          "title": "Mina the Hollower is the best old-school action adventure I've played in a while",
+          "link": "https://arstechnica.com/gaming/2026/05/mina-the-hollower-is-the-best-old-school-action-adventure-ive-played-in-a-while/",
+          "summary": "Smooth movement, compelling combat, and tons of secrets make for an innovative throwback.",
+          "isoDate": "2026-05-27T20:22:04.000Z"
+        },
         {
           "title": "The new Halide camera app launches with film looks and an upgraded photo editor",
           "link": "https://www.theverge.com/tech/938339/lux-optics-halide-mark-iii-ios-iphone-camera-app-looks-editor-raw-files-now-available",
@@ -18,52 +60,10 @@
           "isoDate": "2026-05-27T20:03:42.000Z"
         },
         {
-          "title": "Roku OS’s home screen now features a large, permanent ad",
-          "link": "https://arstechnica.com/gadgets/2026/05/roku-oss-home-screen-now-features-a-large-permanent-ad/",
-          "summary": "“I don't want recommendations! I know what I want to watch.\"",
-          "isoDate": "2026-05-27T19:12:59.000Z"
-        },
-        {
-          "title": "Roids were all the rage at the Enhanced Games",
-          "link": "https://www.theverge.com/features/937620/enhanced-games-performance-enhancing-drugs-science-health-sports",
-          "summary": "Cody Miller just after winning $250,000 at the Enhanced Games.\t\n\nIn Las Vegas, the blazing sun beats down on a makeshift Olympic-length pool. Cody Miller stands on the starting block of lane one. His arms are raised in victory. MC Hammer's \"U Can't Touch This\" thumps over the loudspeakers as he rips off his swimming cap, throwing it to the ground. Miller lets out a guttural scream, muscles and veins bulging. He's just won the men's 50m breaststroke at the inaugural Enhanced Games. Miller's wallet is $250,000 fatter than it was 26.55 seconds ago - a new personal best time for the two-time Olympic medalist.\nIs Miller's win thanks to his polyurethane swimsuit, which was banned after the 2008 Olympics as a f …\nRead the full story at The Verge.",
-          "isoDate": "2026-05-27T19:08:31.000Z"
-        },
-        {
-          "title": "Valve's Steam Deck is back in stock after months, but you won't like it",
-          "link": "https://arstechnica.com/gadgets/2026/05/valves-steam-deck-is-back-in-stock-after-months-but-you-wont-like-it/",
-          "summary": "Four-year-old handheld is saddled with an unfortunately modern price tag.",
-          "isoDate": "2026-05-27T19:02:21.000Z"
-        },
-        {
-          "title": "Trump admin to block Ebola-exposed Americans from US, move them to Kenya",
-          "link": "https://arstechnica.com/health/2026/05/us-walls-itself-off-from-ebola-beefed-up-travel-ban-no-citizen-repatriation/",
-          "summary": "Trump official asked CDC staff to volunteer to screen travelers at airports.",
-          "isoDate": "2026-05-27T18:52:45.000Z"
-        },
-        {
-          "title": "\"Little red dot\" in early Universe is a naked supermassive black hole",
-          "link": "https://arstechnica.com/science/2026/05/little-red-dot-in-early-universe-is-a-naked-supermassive-black-hole/",
-          "summary": "The black hole accounts for over two-thirds the mass of the object it inhabits.",
-          "isoDate": "2026-05-27T18:37:57.000Z"
-        },
-        {
-          "title": "US Space Force confirms SpaceX will build sensor-to-shooter targeting network",
-          "link": "https://arstechnica.com/space/2026/05/us-space-force-confirms-spacex-will-build-sensor-to-shooter-targeting-network/",
-          "summary": "\"We aren’t trading speed for scale; we are demanding both,\" says the military's program manager.",
-          "isoDate": "2026-05-27T18:19:51.000Z"
-        },
-        {
-          "title": "Disclosure Day final trailer features Spielberg himself",
-          "link": "https://arstechnica.com/culture/2026/05/disclosure-day-final-trailer-features-spielberg-himself/",
-          "summary": "Director describes how his views on existence of aliens have changed, interspersed with footage from film.",
-          "isoDate": "2026-05-27T17:51:07.000Z"
-        },
-        {
-          "title": "YouTube to begin automatically labeling AI videos",
-          "link": "https://arstechnica.com/google/2026/05/youtube-to-begin-automatically-labeling-ai-videos/",
-          "summary": "AI videos that are animated, unrealistic, or only have a little AI may still hide their origins, though.",
-          "isoDate": "2026-05-27T17:36:10.000Z"
+          "title": "Nvidia bets $150B on Taiwan as Trump's plan to make US an AI hub backfires",
+          "link": "https://arstechnica.com/tech-policy/2026/05/nvidia-ceo-wants-taiwan-to-be-center-of-ai-revolution-not-us/",
+          "summary": "Nvidia will invest $150 billion a year to make Taiwan an AI “epicenter.”",
+          "isoDate": "2026-05-27T19:59:40.000Z"
         }
       ]
     },
@@ -72,64 +72,64 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "La NASA ofrece información actualizada sobre rovers, módulos de alunizaje y misiones de Base Lunar",
-          "link": "https://www.nasa.gov/news-release/la-nasa-ofrece-informacion-actualizada-sobre-rovers-modulos-de-alunizaje-y-misiones-de-base-lunar/",
-          "summary": "Durante una sesión informativa sobre el programa Base Lunar, celebrada en la sede de la NASA en Washington, la agencia anunció nuevos contratos para el desarrollo de vehículos lunares con capacidad para transportar tripulación y módulos de aterrizaje de carga no tripulados con destino a la Luna. Directivos de la NASA también dieron a conocer […]",
-          "isoDate": "2026-05-27T19:17:19.000Z"
+          "title": "ERROR cargando feed",
+          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
+          "isoDate": "2026-05-28T03:34:01.025Z"
         },
         {
-          "title": "Girl Scouts Event Brings Space Science to the Next Generation",
-          "link": "https://science.nasa.gov/learning-resources/science-activation/girl-scouts-event-brings-space-science-to-the-next-generation/",
-          "summary": "In early May 2026, NASA employees, contractors, and volunteers helped to bring Heliophysics to girls of all ages in a fun-filled weekend of hands-on science activities and experiments.",
-          "isoDate": "2026-05-27T18:27:07.000Z"
+          "title": "Author Correction: Modelling late gastrulation in stem cell-derived monkey embryo models",
+          "link": "https://www.nature.com/articles/s41586-026-10700-7",
+          "summary": "Nature, Published online: 27 May 2026; doi:10.1038/s41586-026-10700-7\nAuthor Correction: Modelling late gastrulation in stem cell-derived monkey embryo models",
+          "isoDate": "2026-05-27T00:00:00.000Z"
         },
         {
-          "title": "La NASA anunciará la tripulación de Artemis III e informará sobre el progreso de la misión",
-          "link": "https://www.nasa.gov/news-release/la-nasa-anunciara-la-tripulacion-de-artemis-iii-e-informara-sobre-el-progreso-de-la-mision/",
-          "summary": "La NASA informará sobre los avances de la misión Artemis III de la agencia y anunciará los astronautas asignados a este vuelo de prueba durante un evento en vivo a las 11 a.m. EDT (hora del este) del martes 9 de junio en el Centro Espacial Johnson de la agencia en Houston. Siga la rueda […]",
-          "isoDate": "2026-05-27T16:01:10.000Z"
+          "title": "Author Correction: Satellite megaconstellations will threaten space-based astronomy",
+          "link": "https://www.nature.com/articles/s41586-026-10553-0",
+          "summary": "Nature, Published online: 27 May 2026; doi:10.1038/s41586-026-10553-0\nAuthor Correction: Satellite megaconstellations will threaten space-based astronomy",
+          "isoDate": "2026-05-27T00:00:00.000Z"
         },
         {
-          "title": "Students Build Moon Robots for NASA’s 2026 Lunabotics Challenge",
-          "link": "https://www.nasa.gov/image-article/students-build-moon-robots-for-nasas-2026-lunabotics-challenge/",
-          "summary": "Katherine Rauscher of Michigan Technological University prepares her team’s prototype lunar robot for its turn during the finals for NASA’s 2026 Lunabotics Challenge competition on Tuesday, May 19, 2026, at the Kennedy Space Center Visitor Complex in Florida. Forty-seven teams from around the U.S. designed and built remote-controlled robots capable of traversing challenging lunar terrain while […]",
-          "isoDate": "2026-05-27T15:42:44.000Z"
+          "title": "Could a pill prevent the world’s deadliest cancer?",
+          "link": "https://www.nature.com/articles/d41586-026-01382-2",
+          "summary": "Nature, Published online: 27 May 2026; doi:10.1038/d41586-026-01382-2\n‘Interception’ drug trials hope to stop lung cancer before it starts.",
+          "isoDate": "2026-05-27T00:00:00.000Z"
         },
         {
-          "title": "NASA-European Sea Level Mission Homes in on El Niño",
-          "link": "https://www.nasa.gov/missions/jason-cs-sentinel-6/sentinel-6-michael-freilich/nasa-european-sea-level-mission-homes-in-on-el-nino/",
-          "summary": "Sea level data from a satellite launched by NASA and European partners shows that a swell of warm water hundreds of miles wide has arrived in the Pacific Ocean off the coast of South America, a sign that El Niño will likely emerge later in the year. Because water expands as it warms, a rise […]",
-          "isoDate": "2026-05-27T15:34:59.000Z"
+          "title": "Bohmian mechanics remains unchallenged by tunnelling experiment",
+          "link": "https://www.nature.com/articles/s41586-026-10450-6",
+          "summary": "Nature, Published online: 27 May 2026; doi:10.1038/s41586-026-10450-6\nBohmian mechanics remains unchallenged by tunnelling experiment",
+          "isoDate": "2026-05-27T00:00:00.000Z"
         },
         {
-          "title": "Webinar 6/17: Discover, Access, and Task Commercial Data with NASA’s Satellite Data Explorer",
-          "link": "https://science.nasa.gov/science-research/earth-science/webinar-6-17-discover-access-and-task-commercial-data-with-nasas-satellite-data-explorer/",
-          "summary": "Learn how to use the Satellite Data Explorer to search, access, and task commercial Earth Observation data.",
-          "isoDate": "2026-05-27T15:21:52.000Z"
+          "title": "β-Arrestin condensates regulate G-protein-coupled receptor function",
+          "link": "https://www.nature.com/articles/s41586-026-10539-y",
+          "summary": "Nature, Published online: 27 May 2026; doi:10.1038/s41586-026-10539-y\nβ-Arrestins, multifunctional adaptor proteins that regulate G-protein-coupled receptors (GPCRs), form phase-separated condensates, suggesting that β-arrestin liquid–liquid phase separation organizes and diversifies GPCR signalling functions.",
+          "isoDate": "2026-05-27T00:00:00.000Z"
         },
         {
-          "title": "NASA’s Webb Reveals Black Hole That Formed Before Its Galaxy",
-          "link": "https://science.nasa.gov/missions/webb/nasas-webb-reveals-black-hole-that-formed-before-its-galaxy/",
-          "summary": "Which comes first, the galaxy or the black hole? We don’t know, but scientists have long thought it could be the galaxy: Large stars within an existing galaxy consume their fuel and collapse to form black holes, which can gobble up surrounding material and merge over time to form more massive entities. But it’s hard […]",
-          "isoDate": "2026-05-27T15:00:00.000Z"
+          "title": "Human haematopoietic stem cells remember inflammatory stress",
+          "link": "https://www.nature.com/articles/s41586-026-10522-7",
+          "summary": "Nature, Published online: 27 May 2026; doi:10.1038/s41586-026-10522-7\nUsing xenograft inflammation–recovery models and single-cell multiomics, a haematopoietic stem cell population after inflammatory stress is identified.",
+          "isoDate": "2026-05-27T00:00:00.000Z"
         },
         {
-          "title": "National Institutes of Health Nutrition Education Challenge",
-          "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/national-institutes-of-health-nutrition-education-challenge/",
-          "summary": "NASA’s Center of Excellence for Collaborative Innovation (CoECI) assists in the use of crowdsourcing across the federal government. CoECI’s NASA Tournament Lab offers the contract capability to run external crowdsourced challenges on behalf of NASA and other agencies. The National Institutes of Health (NIH) Office of Nutrition Research (ONR) invites U.S.-based, accredited, non-profit academic institutions […]",
-          "isoDate": "2026-05-27T14:09:20.000Z"
+          "title": "Darkness and body size shaped end-Cretaceous marine extinction patterns",
+          "link": "https://www.nature.com/articles/s41586-026-10541-4",
+          "summary": "Nature, Published online: 27 May 2026; doi:10.1038/s41586-026-10541-4\nTrait-based ecosystem modelling shows that impact-driven darkness and body-size-dependent extinction thresholds, rather than carbon-dioxide increase or acidification, drove most of the observed end-Cretaceous marine extinction patterns.",
+          "isoDate": "2026-05-27T00:00:00.000Z"
         },
         {
-          "title": "NASA’s 2026 Lunabotics: Winning Student Teams Engineering Lunar Future",
-          "link": "https://www.nasa.gov/centers-and-facilities/kennedy/nasas-2026-lunabotics-winning-student-teams-engineering-lunar-future/",
-          "summary": "Editor’s Note: This article was updated at 2:45 p.m. EDT on Wednesday, May 27, 2026, to correct the recipient of the Systems Engineering Leaps and Bounds Award. Resilient. Efficient. Autonomous. These are qualities NASA demands of its hardware, especially as the agency accelerates plans for a permanent Moon Base. NASA’s 2026 Lunabotics Challenge put those […]",
-          "isoDate": "2026-05-27T13:02:09.000Z"
+          "title": "Sparse-to-dense coding transformation between hippocampal areas CA3 and CA1",
+          "link": "https://www.nature.com/articles/s41586-026-10537-0",
+          "summary": "Nature, Published online: 27 May 2026; doi:10.1038/s41586-026-10537-0\nThe hippocampus exhibits a CA3-to-CA1 coding transformation that combines fast learning with an efficient, compressed neural code.",
+          "isoDate": "2026-05-27T00:00:00.000Z"
         },
         {
-          "title": "Hubble Spies Faint Irregular Galaxy",
-          "link": "https://science.nasa.gov/missions/hubble/hubble-spies-faint-irregular-galaxy/",
-          "summary": "This NASA Hubble Space Telescope image features the dwarf irregular galaxy ESO 490-017, roughly 12,000 light-years in diameter and some 23 million light-years away in the constellation Canis Major. The galaxy’s low surface brightness makes it appear as a faint, starry swarm behind brighter foreground stars that are easily recognized by their diffraction spikes. Numerous red, […]",
-          "isoDate": "2026-05-27T12:09:59.000Z"
+          "title": "Technology mediation in child sexual exploitation and abuse in Africa and Asia",
+          "link": "https://www.nature.com/articles/s41586-026-10525-4",
+          "summary": "Nature, Published online: 27 May 2026; doi:10.1038/s41586-026-10525-4\nEnabling parental mediation of online activities and children’s knowledge of where to seek help after sexual harassment or assault is associated with higher rates of disclosure of technology-facilitated CSEA.",
+          "isoDate": "2026-05-27T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-05-27T20:16:13.190Z"
+          "isoDate": "2026-05-28T03:34:02.269Z"
+        },
+        {
+          "title": "Google worker charged with using internal data to make $1.2m on bets",
+          "link": "https://www.bbc.com/news/articles/c052yv259jvo?at_medium=RSS&at_campaign=rss",
+          "summary": "The longtime Google employee was charged in New York for allegedly breaking insider trading laws.",
+          "isoDate": "2026-05-28T02:14:19.000Z"
         },
         {
           "title": "The rise of the fruit that tastes like custard",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.com/news/articles/cdrp3zzzp71o?at_medium=RSS&at_campaign=rss",
           "summary": "Researchers hope the work will help identify affordable, effective drugs to treat conditions like MND.",
           "isoDate": "2026-05-22T21:30:06.000Z"
-        },
-        {
-          "title": "Waymo pauses robotaxis in five US cities after cars drive into flooded roads",
-          "link": "https://www.bbc.com/news/articles/ckgplyxxl75o?at_medium=RSS&at_campaign=rss",
-          "summary": "A Waymo spokesperson said it had expanded the temporary pause \"out of an abundance of caution\".",
-          "isoDate": "2026-05-22T16:10:21.000Z"
         }
       ]
     },
@@ -204,21 +204,27 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
+          "link": "https://openai.com/index/cisco",
+          "summary": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
+          "isoDate": "2026-05-27T11:00:00.000Z"
+        },
+        {
           "title": "Building self-improving tax agents with Codex",
           "link": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
           "summary": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
           "isoDate": "2026-05-27T07:00:00.000Z"
         },
         {
-          "title": "Warp’s big bet on building open source with GPT-5.5",
-          "link": "https://openai.com/index/warp",
-          "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
-          "isoDate": "2026-05-27T00:00:00.000Z"
-        },
-        {
           "title": "Election information and safeguards in 2026",
           "link": "https://openai.com/index/election-safeguards-2026",
           "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
+          "isoDate": "2026-05-27T00:00:00.000Z"
+        },
+        {
+          "title": "Warp’s big bet on building open source with GPT-5.5",
+          "link": "https://openai.com/index/warp",
+          "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
           "isoDate": "2026-05-27T00:00:00.000Z"
         },
         {
@@ -228,15 +234,15 @@
           "isoDate": "2026-05-25T00:00:00.000Z"
         },
         {
-          "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
-          "link": "https://openai.com/index/gartner-2026-agentic-coding-leader",
-          "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
-          "isoDate": "2026-05-22T00:00:00.000Z"
-        },
-        {
           "title": "How Virgin Atlantic ships faster with Codex",
           "link": "https://openai.com/index/virgin-atlantic",
           "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+          "isoDate": "2026-05-22T00:00:00.000Z"
+        },
+        {
+          "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+          "link": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+          "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
           "isoDate": "2026-05-22T00:00:00.000Z"
         },
         {
@@ -256,12 +262,6 @@
           "link": "https://news.mit.edu/2026/technology-creates-jobs-young-skilled-workers-ai-0521",
           "summary": "A new study of the postwar U.S. shows which kinds of workers historically filled new tech-enabled jobs.",
           "isoDate": "2026-05-21T04:00:00.000Z"
-        },
-        {
-          "title": "Building AI models that understand chemical principles",
-          "link": "https://news.mit.edu/2026/building-ai-models-with-chemical-principles-connor-coley-0520",
-          "summary": "Connor Coley works at the interface of chemistry and machine learning, to discover and design new drug compounds.",
-          "isoDate": "2026-05-20T04:00:00.000Z"
         }
       ]
     },
@@ -273,18 +273,18 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 77\nColumn: 559\nChar:  ",
-          "isoDate": "2026-05-27T20:16:16.141Z"
+          "isoDate": "2026-05-28T03:34:04.969Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-05-27T20:16:14.366Z"
+          "isoDate": "2026-05-28T03:34:04.142Z"
         },
         {
           "title": "South Africa Has AI Leverage. Its Draft Policy Leaves It Unused",
           "link": "https://spectrum.ieee.org/south-africa-ai-policy",
-          "summary": "This article is adapted by the author with permission from Tech Policy Press. Read the original article.\nSouth Africa is not just another developing country struggling to govern artificial intelligence (AI); it is the exception with leverage, and the window to act on it is closing. It holds approximately 88% of global platinum-group metal reserves, critical inputs to parts of the semiconductor and data center supply chains that make AI infrastructure possible. It hosts the largest data center market on the continent. Its existing hyperscaler relationships give it procurement leverage that most African states will never have. And a major geopolitical contest over AI infrastructure is being fought on its soil right now, between Chinese and American technology companies competing for control of the systems that will underpin an entire continent’s public sector.\nIn physics, leverage requires three things: a fulcrum, a lever arm and the ability to apply force. The Bushveld Complex, the world’s largest platinum-group metal deposit, is the fulcrum: a mineral endowment that gives South Africa a position in the semiconductor supply chain that no other African state holds. The since-withdrawn draft policy is the lever arm. The unresolved “OPTION” provisions in the policy are where force would be applied. Without a policy that specifies what South Africa wants in return for market access, the lever arm sits unused, and the weight of two of the world’s largest technology ecosystems settles exactly where those ecosystems want it to settle.\nThis makes South Africa a global test case. Not because its proposed means of governance is exemplary, but because it is the one developing country with enough structural leverage to negotiate genuinely different terms, and the one that is choosing, through inaction, not to. The recent announcement of a new panel to update the draft policy is an important opportunity. But the deeper failure is not that an AI policy contained bad references. It is that no verification process caught them before the document entered the public domain. That is a systems problem, not merely a political one. It points to a missing layer in how governments are adopting AI.\nThe contest already underway\nLast year, Huawei, pitched an emerging product bundle to tech executives across the continent. Huawei was now bundling access to the DeepSeek’s large language model with its own cloud and storage infrastructure. The price differential was stark: in some cases by more than 90%.\nAt the same time, Microsoft announced plans to spend ZAR 5.4 billion ($300 million) by the end of 2027 on cloud and AI infrastructure in South Africa, building on a prior ZAR 20.4 billion investment. Google, AWS and Oracle already have cloud regions in the country. According to one analysis, the country’s data center market was valued at $2.16 billion in 2024, the largest in Africa.\nThese are not commercially neutral investments. Huawei’s infrastructure reach has been explicitly linked to Chinese strategic objectives, including a documented track record of providing governments with surveillance infrastructure through its Safe Cities network. US hyperscaler investment comes with its own dependency structure: closed models, pricing set unilaterally and terms of access that no African government has meaningfully shaped. South Africa is being asked to choose between these dependency models without a policy that specifies what it wants in return.\nThe leverage it has\nThere is a particular irony in South Africa’s position. The country whose mines supply platinum-group metals essential to semiconductor manufacturing, and through them to AI compute, has drafted a policy that treats it as a consumer of AI systems rather than a stakeholder in their governance. South Africa digs up the minerals that make AI possible. It has no say over the AI built from them.\nThe AI triad framework covers algorithms, compute, and data. South Africa has no frontier model development capacity. South Africa holds significant data assets in financial services, healthcare and agriculture, with no clear framework for their sovereign management. South Africa possesses PGM leverage of global significance on the compute axis, currently being transferred without meaningful condition. It also has exceptionally high solar irradiance and significant renewable energy potential. A country that can offer both critical mineral inputs and the energy to power the infrastructure those minerals help build occupies a negotiating position of unusual strength.\nThe Draft Policy proposes no minimum terms for hyperscaler investment, no data sovereignty requirements, no technology transfer conditions and no compute visibility mechanism. Multiple provisions are explicitly left unresolved, marked “OPTION”, including the most consequential choices about how governance will function. Infrastructure decisions made now determine what is renegotiable later, and the answer is: very little.\nThree futures, one default\nThe three infrastructure futures on offer each create a structurally different form of dependency, and only one creates sovereign capability. The Huawei-hosted DeepSeek integration offers low cost and open-source weights, but with data stored on infrastructure potentially accessible under Chinese legal frameworks, creating surveillance dependency in a pattern already documented across Africa. The second is US closed-model dependency: higher capability, more reliable data protection, but complete API dependency on developers abroad. The third is locally hosted open-weight infrastructure: models governed under South African data sovereignty rules, on infrastructure subject to minimum terms, developed with South African data. As Nathan Lambert at Interconnects has observed, open-weight models are likely the only realistic way to get sovereign AI off the ground as a real effort, enabling local communities and economies to integrate meaningfully with the technology. But this requires procurement conditions, not goodwill.\nWhat binding governance looks like\nThe GovAI “Governing Through the Cloud” framework identifies four roles compute providers should accept as conditions of operating at scale: securers (protecting model weights and training data), record keepers (maintaining infrastructure usage logs), verifiers (confirming customer compliance with safety standards) and enforcers (restricting access when violations occur). These are operational requirements, not theoretical categories — specific, enforceable, and well within the bargaining power of a market of South Africa’s size and mineral position.\nA detailed policy analysis submitted to the Department of Communications and Digital Technologies (DCDT) identifies the specific provisions the final policy must contain: mandatory minimum terms for foreign compute infrastructure investments above ZAR 500 million (~$30 million); a compute reporting threshold; a National AI Safety Institute mandate covering defensive monitoring of AI capability accumulation; and National AI Champion Sector designations to create data assets for domestic model development. Each provision converts a structural advantage into a governance instrument before that advantage is foreclosed by market reality. Just as modern software security increasingly depends on knowing what components are inside a system—model provider, training data, compute environment, evaluation methods, update cadence, human review points, and failure-reporting procedures—public-sector AI governance requires a clear account of the stack before deployment, not after a problem surfaces. A public institution that cannot verify the sources in its own AI policy is unlikely to be ready to verify the AI systems it procures, deploys, or regulates.\nWhy this is the continental test case\nSouth Africa’s choices will establish a regional precedent for what is commercially negotiable in AI infrastructure. If South Africa negotiates data sovereignty guarantees and technology transfer conditions as requirements for hyperscaler investment, it creates a replicable model. If Microsoft’s $300 million investment and Huawei’s infrastructure expansion proceed on standard commercial terms, as they are currently, it normalizes extractive AI infrastructure across the continent. The lesson is not specific to Africa. Governments everywhere are producing AI strategies while lacking AI assurance infrastructure. South Africa is an early warning, not an isolated case.\nThe public comment period closed when the policy was withdrawn. But a parallel process remains live: the National Treasury’s Draft General Public Procurement Regulations—the legal instrument that will govern every government AI contract—closes for comment on June 15. Those regulations contain no AI-specific provisions.\nSouth Africa has more AI leverage than any country on the continent. Some argue, with force, that governance requirements risk deterring the infrastructure investment South Africa urgently needs: compute capacity, reliable energy, venture capital, and talent retention. That concern deserves a direct answer. Minimum procurement terms, compute reporting thresholds, and technology transfer conditions are not barriers to investment. They are the conditions under which investment serves the host country rather than extracting from it. Infrastructure built without minimum terms produces dependency. Infrastructure built with them produces leverage. To serve the public interest, its AI policy must use it.\nWhen late last month News24 reported AI-hallucinated references in the draft AI policy, Minister of Communications and Digital Technologies Solly Malatsi withdrew the draft policy. That was a mistake that could cost South Africa and the rest of the continent the initiative on this urgent issue. His more recent constitution of an independent panel is a belated step in the right direction, if it can turn South Africa’s leverage into policy. The panel—chaired by Prof Benjamin Rosman of the Wits Machine Intelligence and Neural Discovery Institute, and including Profs Vukosi Marivate and Alison Gillwald of Research ICT Africa, and Dr Jabu Mtsweni of the CSIR—has the technical and governance credibility to produce a stronger document. What it has not yet produced is a timeline. No revised draft has been scheduled. South Africa remains without a formal AI governance framework in the interim.",
+          "summary": "This article is adapted by the author with permission from Tech Policy Press. Read the original article.\nSouth Africa is not just another developing country struggling to govern artificial intelligence; it is the exception with leverage, and the window to act on it is closing. It holds approximately 88 percent of global platinum-group metal reserves, critical inputs to parts of the semiconductor and data-center supply chains that make AI infrastructure possible. It hosts the largest data-center market on the continent. Its existing hyperscaler relationships give it procurement leverage that most African states will never have. And a major geopolitical contest over AI infrastructure is being fought on its soil right now, between Chinese and American technology companies competing for control of the systems that will underpin an entire continent’s public sector.\nIn physics, leverage requires three things: a fulcrum, a lever arm, and the ability to apply force. The Bushveld Complex, the world’s largest platinum-group metal deposit, is the fulcrum: a mineral endowment that gives South Africa a position in the semiconductor supply chain that no other African state holds. The since-withdrawn draft policy is the lever arm. The unresolved “OPTION” provisions in the policy are where force would be applied. Without a policy that specifies what South Africa wants in return for market access, the lever arm sits unused, and the weight of two of the world’s largest technology ecosystems settles exactly where those ecosystems want it to settle.\nThis makes South Africa a global test case. Not because its proposed means of governance is exemplary, but because it is the one developing country with enough structural leverage to negotiate genuinely different terms, and the one that is choosing, through inaction, not to. The recent announcement of a new panel to update the draft policy is an important opportunity. But the deeper failure is not that an AI policy contained bad references. It is that no verification process caught them before the document entered the public domain. That is a systems problem, not merely a political one. It points to a missing layer in how governments are adopting AI.\nThe contest already underway\nLast year, Huawei pitched an emerging-product bundle to tech executives across the continent. Huawei was now bundling access to DeepSeek’s large language model with its own cloud and storage infrastructure. The price differential was stark—in some cases by more than 90 percent.\nAt the same time, Microsoft announced plans to spend ZAR 5.4 billion ($300 million) by the end of 2027 on cloud and AI infrastructure in South Africa, building on a prior ZAR 20.4 billion investment. Google, Amazon Web Services, and Oracle already have cloud regions in the country. According to one analysis, the country’s data-center market was valued at US $2.16 billion in 2024, the largest in Africa.\nThese are not commercially neutral investments. Huawei’s infrastructure reach has been explicitly linked to Chinese strategic objectives, including a documented track record of providing governments with surveillance infrastructure through its Safe Cities network. U.S. hyperscaler investment comes with its own dependency structure: closed models, pricing set unilaterally, and terms of access that no African government has meaningfully shaped. South Africa is being asked to choose between these dependency models without a policy that specifies what it wants in return.\nThe leverage it has\nThere is a particular irony in South Africa’s position. The country whose mines supply platinum-group metals essential to semiconductor manufacturing, and through them to AI compute, has drafted a policy that treats it as a consumer of AI systems rather than a stakeholder in their governance. South Africa digs up the minerals that make AI possible. It has no say over the AI built from them.\nThe AI triad framework covers algorithms, compute, and data. South Africa has no frontier model development capacity. South Africa holds significant data assets in financial services, health care, and agriculture, with no clear framework for their sovereign management. South Africa possesses PGM (Platinum Group Metals) leverage of global significance on the compute axis, currently being transferred without meaningful condition. It also has exceptionally high solar irradiance and significant renewable-energy potential. A country that can offer both critical mineral inputs and the energy to power the infrastructure those minerals help build occupies a negotiating position of unusual strength.\nThe Draft Policy proposes no minimum terms for hyperscaler investment, no data sovereignty requirements, no technology transfer conditions and no compute visibility mechanism. Multiple provisions are explicitly left unresolved, marked “OPTION,” including the most consequential choices about how governance will function. Infrastructure decisions made now determine what is renegotiable later, and the answer is: very little.\nThree futures, one default\nThe three infrastructure futures on offer each create a structurally different form of dependency, and only one creates sovereign capability. The Huawei-hosted DeepSeek integration offers low cost and open-source weights, but with data stored on infrastructure potentially accessible under Chinese legal frameworks, creating surveillance dependency in a pattern already documented across Africa. The second is U.S. closed-model dependency: higher capability, more reliable data protection, but complete API dependency on developers abroad. The third is locally hosted open-weight infrastructure: models governed under South African data-sovereignty rules, on infrastructure subject to minimum terms, developed with South African data. As Nathan Lambert at Interconnects has observed, open-weight models are likely the only realistic way to get sovereign AI off the ground as a real effort, enabling local communities and economies to integrate meaningfully with the technology. But this requires procurement conditions, not goodwill.\nWhat binding governance looks like\nThe GovAI “Governing Through the Cloud” framework identifies four roles compute providers should accept as conditions of operating at scale: securers (protecting model weights and training data), record keepers (maintaining infrastructure usage logs), verifiers (confirming customer compliance with safety standards) and enforcers (restricting access when violations occur). These are operational requirements, not theoretical categories—specific, enforceable, and well within the bargaining power of a market of South Africa’s size and mineral position.\nA detailed policy analysis submitted to the Department of Communications and Digital Technologies (DCDT) identifies the specific provisions the final policy must contain: mandatory minimum terms for foreign compute infrastructure investments above ZAR 500 million (~$30 million); a compute reporting threshold; a National AI Safety Institute mandate covering defensive monitoring of AI capability accumulation; and National AI Champion Sector designations to create data assets for domestic model development. Each provision converts a structural advantage into a governance instrument before that advantage is foreclosed by market reality. Just as modern software security increasingly depends on knowing what components are inside a system—model provider, training data, compute environment, evaluation methods, update cadence, human review points, and failure-reporting procedures—public-sector AI governance requires a clear account of the stack before deployment, not after a problem surfaces. A public institution that cannot verify the sources in its own AI policy is unlikely to be ready to verify the AI systems it procures, deploys, or regulates.\nWhy this is the continental test case\nSouth Africa’s choices will establish a regional precedent for what is commercially negotiable in AI infrastructure. If South Africa negotiates data-sovereignty guarantees and technology-transfer conditions as requirements for hyperscaler investment, it creates a replicable model. If Microsoft’s $300 million investment and Huawei’s infrastructure expansion proceed on standard commercial terms, as they are currently, it normalizes extractive AI infrastructure across the continent. The lesson is not specific to Africa. Governments everywhere are producing AI strategies while lacking AI assurance infrastructure. South Africa is an early warning, not an isolated case.\nThe public comment period closed when the policy was withdrawn. But a parallel process remains live: the National Treasury’s Draft General Public Procurement Regulations—the legal instrument that will govern every government AI contract—closes for comment on June 15. Those regulations contain no AI-specific provisions.\nSouth Africa has more AI leverage than any country on the continent. Some argue, with force, that governance requirements risk deterring the infrastructure investment South Africa urgently needs: compute capacity, reliable energy, venture capital, and talent retention. That concern deserves a direct answer. Minimum procurement terms, compute reporting thresholds, and technology transfer conditions are not barriers to investment. They are the conditions under which investment serves the host country rather than extracting from it. Infrastructure built without minimum terms produces dependency. Infrastructure built with them produces leverage. To serve the public interest, its AI policy must use it.\nWhen late last month News24 reported AI-hallucinated references in the draft AI policy, Minister of Communications and Digital Technologies Solly Malatsi withdrew the draft policy. That was a mistake that could cost South Africa and the rest of the continent the initiative on this urgent issue. His more recent constitution of an independent panel is a belated step in the right direction, if it can turn South Africa’s leverage into policy. The panel—chaired by Professor Benjamin Rosman of the Wits Machine Intelligence and Neural Discovery Institute, and including Professors Vukosi Marivate and Alison Gillwald of Research ICT Africa and Dr. Jabu Mtsweni of the Council for Scientific and Industrial Research—has the technical and governance credibility to produce a stronger document. What it has not yet produced is a timeline. No revised draft has been scheduled. South Africa remains without a formal AI governance framework in the interim.",
           "isoDate": "2026-05-27T13:00:01.000Z"
         },
         {
