@@ -1,14 +1,38 @@
 {
-  "generatedAt": "2026-06-01T04:01:52.710Z",
+  "generatedAt": "2026-06-01T11:32:41.645Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
         {
+          "title": "These are the first Nvidia RTX Spark laptops",
+          "link": "https://www.theverge.com/gadgets/940794/first-nvidia-rtx-spark-laptops-roundup-computex-2026",
+          "summary": "A lot of details are still under wraps, but at least we know what the new Nvidia Spark laptops look like. | Image: Nvidia\t\n\nNvidia has officially entered the world of consumer laptop chips with the RTX Spark, and several device makers already have hardware lined up for it. Microsoft, Asus, HP, MSI, Lenovo, and Dell are expected to launch RTX Spark laptops sometime this fall, and some of those partner companies have shared details about what we can expect.\nThe common feature shared by all of the upcoming launches is that Arm-based Nvidia RTX Spark superchip, though several variations are in the pipeline. The flagship version unveiled by Nvidia at Computex includes 20 CPU cores, 6,144 GPU cores and 128GB of LPDDR5X memory - making it near identical to the GB10 chi …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-01T11:29:52.000Z"
+        },
+        {
+          "title": "Asus just announced the OLED Xbox Ally X of my dreams",
+          "link": "https://www.theverge.com/games/940722/asus-xbox-ally-x20-special-edition-oled-screen",
+          "summary": "The Xbox Ally X20, and the glasses you’ll have to buy with it. | Image: Asus\t\n\nIf you asked me what I'd change about the Xbox Ally X handheld - aside from fixing Windows, I mean - I'd tell you two key things. \nFirst, give me a bigger, better screen. Even a little bit bigger, so games feel less claustrophobic and with less ugly bezel. Second, get rid of the \"Library\" button. I am so tired of an accidental press booting me out of my game and into the Xbox library without a simple way to get back.\nWith the just-announced ROG Xbox Ally X20, Asus did both - and then some. It's now a slick translucent handheld with drift-resistant GuliKit TMR joysticks, a transforming D-pad that goes from 8-way to 4-way by dropping its cor …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-01T10:00:00.000Z"
+        },
+        {
+          "title": "This is the Microsoft Surface Laptop Ultra with Nvidia RTX Spark",
+          "link": "https://www.theverge.com/tech/940584/microsoft-surface-laptop-ultra-nvidia-rtx-spark-pictures",
+          "summary": "This shadowy render is the best glimpse Microsoft is giving us so far. | Image: Microsoft\t\n\nOnce upon a time, Microsoft had to write off $900 million betting an Arm-based Nvidia chip could power its first flagship Windows portable, the original Microsoft Surface. But today, it's trying again. Microsoft and Nvidia have just announced the Surface Laptop Ultra, a computer with a new Arm-based Nvidia chip at its core. \nThere's a lot we don't know about the 15-inch Surface Laptop Ultra, such as its final specs or the foggiest idea of what it might cost. But Microsoft is promising it's the most powerful Surface, period: \"This is the most powerful thing we've ever made,\" Microsoft Surface boss Andrew Hill replies, when we ask how it stac …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-01T04:36:41.000Z"
+        },
+        {
+          "title": "Nvidia announces RTX Spark as ‘the most efficient PC chip ever built’",
+          "link": "https://www.theverge.com/tech/940589/nvidia-rtx-spark-n1-n1x-laptop-desktop-pc-cpu-gpu-ai-release-date",
+          "summary": "This fall, Nvidia will officially become a consumer PC chipmaker like Intel, AMD, Apple, and Qualcomm, putting a complete computing chip - not just graphics - into the very heart of laptops and mini-PCs. After many months of leaks, it's finally announcing the RTX Spark, the first in a family of chips that will meet or beat the most powerful thin-and-light Windows machines ever, it claims.\n\"This is the most efficient PC chip ever built,\" says Nvidia senior director of product management Mark Aevermann - without sharing so much as a single statistic or chart to back that up. \nThe RTX Spark is effectively the same GB10 chip that's in the DGX  …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-01T04:28:53.000Z"
+        },
+        {
           "title": "AMD’s new pitch: our old tech is so good you should just keep using it",
           "link": "https://www.theverge.com/tech/940524/amd-computex-am5-promise-2029-rx9070gre-7700x3d-5800x3d",
-          "summary": "AMD CEO Lisa Su holds a Ryzen chip. | Image: AMD\t\n\nComputex 2026 is underway in Taiwan, and we're expecting all manner of flashy computers with jaw-dropping prices (or no prices at all) as the entire industry navigates RAMageddon. \nBut for desktop PC gamers, AMD has a different pitch. It's relaunching three old components alongside a big new promise: you won't need to buy a new motherboard until 2030. \nToday, AMD is promising it will keep supporting its AM5 desktop motherboard socket with new Ryzen processors through 2029, which likely means you can keep upgrading to newer CPUs till the end of the decade without changing your board.\nEven if you're still on the older AM4 socket, you may ha …\nRead the full story at The Verge.",
+          "summary": "AMD CEO Lisa Su holds a Ryzen chip. | Image: AMD\t\n\nComputex 2026 is underway in Taiwan, and we're expecting all manner of flashy computers with jaw-dropping prices (or no prices at all) as the entire industry navigates RAMageddon. \nBut for desktop PC gamers, AMD has a different pitch. It's relaunching three old components alongside a big new promise: You won't need to buy a new motherboard until 2030.\nToday, AMD is promising it will keep supporting its AM5 desktop motherboard socket with new Ryzen processors through 2029, which likely means you can keep upgrading to newer CPUs till the end of the decade without changing your board.\nEven if you're still on the older AM4 socket, you may hav …\nRead the full story at The Verge.",
           "isoDate": "2026-06-01T00:00:00.000Z"
         },
         {
@@ -40,30 +64,6 @@
           "link": "https://www.theverge.com/entertainment/940523/minecraft-movie-squared-sequel-kirsten-dunst-alex",
           "summary": "Squared. Get it? | Image: Mojang\t\n\nThe A Minecraft Movie sequel officially has a title: A Minecraft Movie Squared. What's more, we now know that Kirsten Dunst will star as Alex, the game's female character option, and that Matt Berry is set to play an even bigger role in this film. He voiced Nitwit in the first movie, but in this one, he'll be playing a human character. Who exactly he'll be hasn't been revealed yet, but in the clip below, he can be heard dismissing a costume choice because \"Steve would not be wearing that,\" suggesting he might be playing the Herobrine, a creepy pasta evil counterpart to Jack Black's Steve.\n\nThe director, Jared Hess, and Mojang Chief Creative  …\nRead the full story at The Verge.",
           "isoDate": "2026-05-31T19:28:11.000Z"
-        },
-        {
-          "title": "Feeble Little Horse leans into digital weirdness on bitknot",
-          "link": "https://www.theverge.com/entertainment/940449/feeble-little-horse-bitknot-music-album-review",
-          "summary": "Even the cover revels in a low-bit digital aesthetic. | Image: Saddle Creek / Feeble Little Horse\t\n\nFrom the opening moments of bitknot, it's obvious that Feeble Little Horse has found an entirely new gear. Where on Girl with Fish the blown-out textures were more '90s indie rock and shoegaze, on their latest LP, there's a more modern edge to the distortion and the riffs cut cleaner. Similarly, where the digital glitchiness was mostly relegated to window dressing on their sophomore record, on bitknot it's integral to the arrangements and a core part of their emerging, distinct sound. \nWe got a preview of this new direction on the one-off single, and one of my favorite songs of 2025, \"This Is Real.\" It blended blast beats, Sonic Youth-esque …\nRead the full story at The Verge.",
-          "isoDate": "2026-05-31T16:00:00.000Z"
-        },
-        {
-          "title": "United flight forced to turn around because of a Bluetooth speaker name",
-          "link": "https://www.theverge.com/transportation/940486/united-flight-236-bluetooth-speaker-name-bomb",
-          "summary": "An hour in flight UA236 returned to Newark. | Screenshot: The Verge\t\n\nUnited flight 236 from Newark to Palma de Mallorca on Saturday night was forced to turn around just an hour after takeoff due to security concerns around a Bluetooth signal. Multiple Redditors claimed to be on the flight and reported that the crew repeatedly requested passengers to turn off their Bluetooth. According to one poster, the crew issued a one-minute warning, saying that two devices were still active. \nOne Redditor reported flight attendants making comments like, \"This little joke is ruining it for everyone.\"\nAn archived recording from Air Traffic Control (embedded below) confirms that the root of the issue was the name of a disc …\nRead the full story at The Verge.",
-          "isoDate": "2026-05-31T15:50:02.000Z"
-        },
-        {
-          "title": "This extravagant gaming laptop could ruin other screens for you",
-          "link": "https://www.theverge.com/tech/940221/asus-rog-strix-scar-18-elmb-gaming-laptop-motion-blur-handson-impressions",
-          "summary": "A speedy 18-inch Mini LED that needs to be seen to be believed. | Photo: Antonio G. Di Benedetto / The Verge\t\n\nMy eyes have seen the PC gaming promised land, and it's a beautifully bright world without a shred of blurriness. It's warm, it looks lovely, and it's impeccably sharp. Also, it's expensive as hell.\nI've dipped my toe in this world by testing a pre-production version of the upcoming Asus ROG Strix Scar 18, which was recently announced ahead of Computex 2026. It's a gigantic 18-inch gaming laptop that comes with a top-of-the-line 24-core Intel Core Ultra 9 290HX CPU and can be fully kitted out with an RTX 5090 Laptop GPU and 128GB of RAM. Asus sent me a model to test that's maxed out on all specs except storage (it's got \"just\" 4TB). And of  …\nRead the full story at The Verge.",
-          "isoDate": "2026-05-31T15:00:00.000Z"
-        },
-        {
-          "title": "007 First Light is already discounted for the PS5 and Steam",
-          "link": "https://www.theverge.com/gadgets/940126/007-first-light-ps5-pc-steam-deal-sale",
-          "summary": "IO Interactive’s 007 First Light is here, and it’s just as stunning a James Bond mov — err, video game — as we hoped it would be. Pardon the confusion, the title’s engaging tutorial really feels like you’re watching a great Bond movie at times. Whether you’re a longtime Hitman fan who’s been eagerly waiting for the studio’s latest game or not, there are deals to be had on both the PlayStation 5 and Steam PC versions.\n007 First Light\n\nWhere to Buy:\n\n $69.99 $62.99 at Costco (PS5, Standard)\n $69.99 $60.89 at Fanatical (Steam, Standard)\n $79.99 $69.59 at Fanatical (Steam, Deluxe)\n\nCostco members, for instance, can already take advantage of an online-only deal on the disc-based PS5 version, which knocks it down to $62.99 (originally $69.99). It’s not a big discount, but it’s currently the best out there across major retailers. If you have a desktop PC or handheld gaming PC powerful enough to run the game, the Steam version is a little cheaper at Fanatical. The standard digital edition is going for $60.89, while the deluxe digital edition, which includes in-game cosmetics, is down to $69.59 (about $10 off).\nFirst Light is similar in a sense to recent Hitman games. It’s a third-person stealth sandbox game, after all, but it has a little more in common with Naughty Dog’s Uncharted series thanks to its hand-to-hand combat system, quippy protagonist, and wide variety of missions that either have you on foot using fun gadgets or behind the wheel of a muscle car.\nRead our full 007 First Light review.",
-          "isoDate": "2026-05-31T14:00:00.000Z"
         }
       ]
     },
@@ -72,64 +72,64 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "ERROR cargando feed",
-          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
-          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-06-01T04:01:47.446Z"
+          "title": "How long can humans live? We simply don’t know",
+          "link": "https://www.nature.com/articles/d41586-026-01728-w",
+          "summary": "Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01728-w\nClaims about the upper limits to human lifespan are characterized by hype, deficient data and shoddy science, says longevity researcher Saul Newman.",
+          "isoDate": "2026-06-01T00:00:00.000Z"
         },
         {
-          "title": "Author Correction: Hidden states and dynamics of fractional fillings in twisted MoTe<sub>2</sub> bilayers",
-          "link": "https://www.nature.com/articles/s41586-026-10717-y",
-          "summary": "Nature, Published online: 29 May 2026; doi:10.1038/s41586-026-10717-y\nAuthor Correction: Hidden states and dynamics of fractional fillings in twisted MoTe2 bilayers",
-          "isoDate": "2026-05-29T00:00:00.000Z"
+          "title": "Science fiction: nine lab-life novels for your holiday reading",
+          "link": "https://www.nature.com/articles/d41586-026-01730-2",
+          "summary": "Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01730-2\nWith a summer break looming for many researchers, Nature’s careers team suggests science-themed page-turners.",
+          "isoDate": "2026-06-01T00:00:00.000Z"
         },
         {
-          "title": "Author Correction: US oil and gas system emissions from nearly one million aerial site measurements",
-          "link": "https://www.nature.com/articles/s41586-026-10605-5",
-          "summary": "Nature, Published online: 29 May 2026; doi:10.1038/s41586-026-10605-5\nAuthor Correction: US oil and gas system emissions from nearly one million aerial site measurements",
-          "isoDate": "2026-05-29T00:00:00.000Z"
+          "title": "Why it’s time to bin recommendation letters in science job applications",
+          "link": "https://www.nature.com/articles/d41586-026-00507-x",
+          "summary": "Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-00507-x\nIf hiring organizations must ask for references, they should do so closer to the end of the process, argues Bibek Aryal.",
+          "isoDate": "2026-06-01T00:00:00.000Z"
         },
         {
-          "title": "Author Correction: Attenuated fusogenicity and pathogenicity of SARS-CoV-2 Omicron variant",
-          "link": "https://www.nature.com/articles/s41586-026-10665-7",
-          "summary": "Nature, Published online: 29 May 2026; doi:10.1038/s41586-026-10665-7\nAuthor Correction: Attenuated fusogenicity and pathogenicity of SARS-CoV-2 Omicron variant",
-          "isoDate": "2026-05-29T00:00:00.000Z"
+          "title": "Obesity doesn’t equate to ill health: why the ‘disease’ label doesn’t always fit",
+          "link": "https://www.nature.com/articles/d41586-026-01729-9",
+          "summary": "Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01729-9\nExcess body weight affects individuals’ health differently. Taking this variation into account is crucial for effective health care, policy and research.",
+          "isoDate": "2026-06-01T00:00:00.000Z"
         },
         {
-          "title": "Surgeons in imperial China used anaesthetics — in careful doses",
-          "link": "https://www.nature.com/articles/d41586-026-01669-4",
-          "summary": "Nature, Published online: 29 May 2026; doi:10.1038/d41586-026-01669-4\nTraces on tweezers and surgical scissors suggest liquid medication was applied to the skin of patients.",
-          "isoDate": "2026-05-29T00:00:00.000Z"
+          "title": "NASA Awards Contract for Johnson Space Center Infrastructure",
+          "link": "https://www.nasa.gov/news-release/nasa-awards-contract-for-johnson-space-center-infrastructure/",
+          "summary": "NASA has selected seven companies to provide construction, revitalization, and infrastructure improvements at the agency’s Johnson Space Center in Houston. The Johnson Space Center Multiple Award Construction Contract supports up to $300 million in upgrades to mission‑support facilities, utilities, and equipment across the NASA Johnson campus. All funds must be obligated by Sept. 30, 2026. […]",
+          "isoDate": "2026-05-29T21:24:11.000Z"
         },
         {
-          "title": "Gold keeps glittering courtesy of surface chemistry",
-          "link": "https://www.nature.com/articles/d41586-026-01671-w",
-          "summary": "Nature, Published online: 29 May 2026; doi:10.1038/d41586-026-01671-w\nHexagonal patterns on the surface of gold crystals are an unfavourable environment for reactions.",
-          "isoDate": "2026-05-29T00:00:00.000Z"
+          "title": "NASA Hosts SpaceX Crew-11 Astronauts for Public Event at Headquarters",
+          "link": "https://www.nasa.gov/news-release/nasa-hosts-spacex-crew-11-astronauts-for-public-event-at-headquarters/",
+          "summary": "NASA will host a public event featuring three crew members from the agency’s SpaceX Crew-11 mission at 11 a.m. EDT Monday, June 1. The event, which takes place during the crew’s standard postflight visit, will be held in the Webb Auditorium at NASA Headquarters in the Mary W. Jackson building, 300 E. Street SW in […]",
+          "isoDate": "2026-05-29T20:49:43.000Z"
         },
         {
-          "title": "Briefing Chat: When to trust eyewitness memory — according to science",
-          "link": "https://www.nature.com/articles/d41586-026-01736-w",
-          "summary": "Nature, Published online: 29 May 2026; doi:10.1038/d41586-026-01736-w\nNature staff discuss memory in the legal system plus the benefits of Registered Reports.",
-          "isoDate": "2026-05-29T00:00:00.000Z"
+          "title": "NASA’s Roman Space Telescope Primary Mirror Gets Last Look",
+          "link": "https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-space-telescope-primary-mirror-gets-last-look/",
+          "summary": "Engineers at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, have completed their final inspection of a key element for the agency’s Nancy Grace Roman Space Telescope: the primary mirror. This 7.9-foot (2.4-meter) mirror will collect and focus light from cosmic objects near and far, helping Roman capture stunning panoramas of space. “The Roman engineering […]",
+          "isoDate": "2026-05-29T16:33:00.000Z"
         },
         {
-          "title": "How common bacteria fasten their armour",
-          "link": "https://www.nature.com/articles/d41586-026-01668-5",
-          "summary": "Nature, Published online: 29 May 2026; doi:10.1038/d41586-026-01668-5\nAnalysis reveals the enzyme that allows some microorganisms to anchor their outer membrane to their cell wall.",
-          "isoDate": "2026-05-29T00:00:00.000Z"
+          "title": "Hubble Spies Faint Irregular Galaxy",
+          "link": "https://www.nasa.gov/image-article/hubble-spies-faint-irregular-galaxy/",
+          "summary": "This NASA Hubble Space Telescope image released on May 27, 2026, features the dwarf irregular galaxy ESO 490-017, roughly 12,000 light-years in diameter and some 23 million light-years away in the constellation Canis Major. The galaxy’s low surface brightness makes it appear as a faint, starry swarm behind brighter foreground stars that are easily recognized by their diffraction spikes. […]",
+          "isoDate": "2026-05-29T16:14:26.000Z"
         },
         {
-          "title": "Bespoke immune cells stave off ravages of cirrhosis",
-          "link": "https://www.nature.com/articles/d41586-026-01670-x",
-          "summary": "Nature, Published online: 29 May 2026; doi:10.1038/d41586-026-01670-x\nDeath and the need for liver transplant were delayed in people with cirrhosis who received macrophage therapy.",
-          "isoDate": "2026-05-29T00:00:00.000Z"
+          "title": "Hubble Captures M88 on Journey to Center of Virgo Cluster",
+          "link": "https://science.nasa.gov/missions/hubble/hubble-captures-m88-on-journey-to-center-of-virgo-cluster/",
+          "summary": "This NASA Hubble Space Telescope image features the active spiral galaxy Messier 88 (M88), located about 63 million light-years away.",
+          "isoDate": "2026-05-29T11:29:09.000Z"
         },
         {
-          "title": "Sarcophagus",
-          "link": "https://www.nature.com/articles/d41586-026-01091-w",
-          "summary": "Nature, Published online: 29 May 2026; doi:10.1038/d41586-026-01091-w\nSafety measures.",
-          "isoDate": "2026-05-29T00:00:00.000Z"
+          "title": "Painting the Growing Season in the Maize Triangle",
+          "link": "https://science.nasa.gov/earth/earth-observatory/painting-the-growing-season-in-the-maize-triangle/",
+          "summary": "Radar data from an agricultural area in South Africa, shown in a vivid color palette, reveal crop types and how they changed during the Southern Hemisphere’s growing season.",
+          "isoDate": "2026-05-29T04:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-06-01T04:01:48.917Z"
+          "isoDate": "2026-06-01T11:32:35.764Z"
         },
         {
           "title": "Tech Now",
@@ -273,13 +273,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 77\nColumn: 559\nChar:  ",
-          "isoDate": "2026-06-01T04:01:51.200Z"
+          "isoDate": "2026-06-01T11:32:39.920Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-06-01T04:01:50.428Z"
+          "isoDate": "2026-06-01T11:32:37.435Z"
+        },
+        {
+          "title": "Why Sardinians Are Fighting the Renewable Energy Transition",
+          "link": "https://spectrum.ieee.org/renewable-energy-resistance",
+          "summary": "“Not in my backyard” is the rallying cry of citizens everywhere resisting projects proposed for their locality. Whether it’s affordable housing, a waste treatment plant, or a new data center, they may recognize the benefit of the activity. They just don’t want it near them. And the roots of that resistance differ from place to place. When it comes to the ongoing transition from fossil fuels to renewables, companies and policymakers need to know where, exactly, people are coming from.\nThe Italian island of Sardinia is a textbook example. As IEEE Spectrum’s power and energy editor Emily Waltz discovered when she traveled there last October, Sardinian opposition to wind and solar projects runs deep. It spurred a quarter of the voting population to queue up in public squares in 2024 to sign a petition banning all construction of renewable energy. \nWaltz was surprised. She went there to see a promising new grid-scale energy storage system that uses domes inflated with carbon dioxide. While reporting on that project, she interviewed residents, engineers, activists, and professors about their attitudes toward climate change and the Italian government’s grand plans for renewable energy on the island. And Waltz soon learned of Sardinians’ profound antipathy toward renewable energy and its deep ties to a history of invasion, occupation, and exploitation stretching back 2,700 years. \nIt started with the Phoenicians and then extended through the Romans, the Byzantines, and the Iberians. Sardinia was absorbed into a newly unified Italy in 1861, and it became an autonomous region of Italy in 1948. The island’s population is justifiably suspicious of outsiders, including the Italian government. “When you’re in Sardinia, the weight of history—you can feel it like in the air,” Waltz told me. “And it gets passed down from one generation to the next.”\nNow, Italy needs Sardinia to produce even more power to meet the country’s climate goals—something that Sardinians see as Rome’s problem, not theirs. “Sardinia already exports about 30 percent of its electricity. It’s not like they need more,” Waltz says. “So it’s hard to make the case to build, build, build.”\nThe result of Waltz’s old-fashioned shoe leather reporting is this month’s cover story. She notes that the Sardinians she talked to aren’t climate-change deniers, and they don’t object to renewables per se. They just don’t like the way corporations and Italian policymakers are trying to plug into Sardinia like it’s one giant battery rather than the home of an ancient and proud people.\n“I think Sardinians would be more receptive to renewable projects if it was more of a ground-up, grassroots approach,” Waltz says. Indeed, this homegrown approach is already working in some places in Sardinia. She knows of more than 50 projects, called energy communities, where the residents are deploying renewables themselves. The idea also holds promise for other places struggling to get locals to buy into the renewable-energy transition. \nThe Sardinian experience is both a cautionary tale and a blueprint. Ignore the weight of history that communities carry and your project risks failure. Meet the people where they are and you might just get somewhere. The same lesson applies whether you’re in Sulawesi or sub-Saharan Africa. You just have to show up to learn it.",
+          "isoDate": "2026-06-01T11:06:01.000Z"
         },
         {
           "title": "This DIY Bipedal Robot Used Pneumatic “Air-Muscles” Instead of Motors",
@@ -310,12 +316,6 @@
           "link": "https://content.knowledgehub.wiley.com/understanding-phase-noise-fundamentals/",
           "summary": "A practical introduction to phase noise concepts, explaining how oscillator instability affects RF systems and how phase noise is measured, analyzed, and reported.\nWhat Attendees will Learn\n\nWhat phase noise is and why it matters — Learn how real-world oscillators differ from ideal ones, why short-term frequency instability arises, and why phase variations typically have a much greater impact than amplitude variations on system performance.\nHow phase noise degrades system performance — Understand the most common effects of excessive phase noise: spectral regrowth, reciprocal mixing, and constellation rotation in digital communications.\nHow phase noise is measured and reported — Explore the spectrum analyzer method and the cross-correlation technique, understand single sideband (SSB) phase noise plots and spot noise tables.\nWhat advanced phase noise measurements look like in practice — Discover additional measurement types including integrated phase noise, additive (residual) phase noise, pulsed signal phase noise, and amplitude noise.\n\nDownload this free whitepaper now!",
           "isoDate": "2026-05-28T10:00:01.000Z"
-        },
-        {
-          "title": "South Africa Has AI Leverage. Its Draft Policy Leaves It Unused",
-          "link": "https://spectrum.ieee.org/south-africa-ai-policy",
-          "summary": "This article is adapted by the author with permission from Tech Policy Press. Read the original article.\nSouth Africa is not just another developing country struggling to govern artificial intelligence; it is the exception with leverage, and the window to act on it is closing. It holds approximately 88 percent of global platinum-group metal reserves, critical inputs to parts of the semiconductor and data-center supply chains that make AI infrastructure possible. It hosts the largest data-center market on the continent. Its existing hyperscaler relationships give it procurement leverage that most African states will never have. And a major geopolitical contest over AI infrastructure is being fought on its soil right now, between Chinese and American technology companies competing for control of the systems that will underpin an entire continent’s public sector.\nIn physics, leverage requires three things: a fulcrum, a lever arm, and the ability to apply force. The Bushveld Complex, the world’s largest platinum-group metal deposit, is the fulcrum: a mineral endowment that gives South Africa a position in the semiconductor supply chain that no other African state holds. The since-withdrawn draft policy is the lever arm. The unresolved “OPTION” provisions in the policy are where force would be applied. Without a policy that specifies what South Africa wants in return for market access, the lever arm sits unused, and the weight of two of the world’s largest technology ecosystems settles exactly where those ecosystems want it to settle.\nThis makes South Africa a global test case. Not because its proposed means of governance is exemplary, but because it is the one developing country with enough structural leverage to negotiate genuinely different terms, and the one that is choosing, through inaction, not to. The recent announcement of a new panel to update the draft policy by January 2027 is an important opportunity. But the deeper failure is not that an AI policy contained bad references. It is that no verification process caught them before the document entered the public domain. That is a systems problem, not merely a political one. It points to a missing layer in how governments are adopting AI.\nThe contest already underway\nLast year, Huawei pitched an emerging-product bundle to tech executives across the continent. Huawei was now bundling access to DeepSeek’s large language model with its own cloud and storage infrastructure. The price differential was stark—in some cases by more than 90 percent.\nAt the same time, Microsoft announced plans to spend ZAR 5.4 billion ($300 million) by the end of 2027 on cloud and AI infrastructure in South Africa, building on a prior ZAR 20.4 billion investment. Google, Amazon Web Services, and Oracle already have cloud regions in the country. According to one analysis, the country’s data-center market was valued at US $2.16 billion in 2024, the largest in Africa.\nThese are not commercially neutral investments. Huawei’s infrastructure reach has been explicitly linked to Chinese strategic objectives, including a documented track record of providing governments with surveillance infrastructure through its Safe Cities network. U.S. hyperscaler investment comes with its own dependency structure: closed models, pricing set unilaterally, and terms of access that no African government has meaningfully shaped. South Africa is being asked to choose between these dependency models without a policy that specifies what it wants in return.\nThe leverage it has\nThere is a particular irony in South Africa’s position. The country whose mines supply platinum-group metals essential to semiconductor manufacturing, and through them to AI compute, has drafted a policy that treats it as a consumer of AI systems rather than a stakeholder in their governance. South Africa digs up the minerals that make AI possible. It has no say over the AI built from them.\nThe AI triad framework covers algorithms, compute, and data. South Africa has no frontier model development capacity. South Africa holds significant data assets in financial services, health care, and agriculture, with no clear framework for their sovereign management. South Africa possesses PGM (Platinum Group Metals) leverage of global significance on the compute axis, currently being transferred without meaningful condition. It also has exceptionally high solar irradiance and significant renewable-energy potential. A country that can offer both critical mineral inputs and the energy to power the infrastructure those minerals help build occupies a negotiating position of unusual strength.\nThe Draft Policy proposes no minimum terms for hyperscaler investment, no data sovereignty requirements, no technology transfer conditions and no compute visibility mechanism. Multiple provisions are explicitly left unresolved, marked “OPTION,” including the most consequential choices about how governance will function. Infrastructure decisions made now determine what is renegotiable later, and the answer is: very little.\nThree futures, one default\nThe three infrastructure futures on offer each create a structurally different form of dependency, and only one creates sovereign capability. The Huawei-hosted DeepSeek integration offers low cost and open-source weights, but with data stored on infrastructure potentially accessible under Chinese legal frameworks, creating surveillance dependency in a pattern already documented across Africa. The second is U.S. closed-model dependency: higher capability, more reliable data protection, but complete API dependency on developers abroad. The third is locally hosted open-weight infrastructure: models governed under South African data-sovereignty rules, on infrastructure subject to minimum terms, developed with South African data. As Nathan Lambert at Interconnects has observed, open-weight models are likely the only realistic way to get sovereign AI off the ground as a real effort, enabling local communities and economies to integrate meaningfully with the technology. But this requires procurement conditions, not goodwill.\nWhat binding governance looks like\nThe GovAI “Governing Through the Cloud” framework identifies four roles compute providers should accept as conditions of operating at scale: securers (protecting model weights and training data), record keepers (maintaining infrastructure usage logs), verifiers (confirming customer compliance with safety standards) and enforcers (restricting access when violations occur). These are operational requirements, not theoretical categories—specific, enforceable, and well within the bargaining power of a market of South Africa’s size and mineral position.\nA detailed policy analysis submitted to the Department of Communications and Digital Technologies (DCDT) identifies the specific provisions the final policy must contain: mandatory minimum terms for foreign compute infrastructure investments above ZAR 500 million (~$30 million); a compute reporting threshold; a National AI Safety Institute mandate covering defensive monitoring of AI capability accumulation; and National AI Champion Sector designations to create data assets for domestic model development. Each provision converts a structural advantage into a governance instrument before that advantage is foreclosed by market reality. Just as modern software security increasingly depends on knowing what components are inside a system—model provider, training data, compute environment, evaluation methods, update cadence, human review points, and failure-reporting procedures—public-sector AI governance requires a clear account of the stack before deployment, not after a problem surfaces. A public institution that cannot verify the sources in its own AI policy is unlikely to be ready to verify the AI systems it procures, deploys, or regulates.\nWhy this is the continental test case\nSouth Africa’s choices will establish a regional precedent for what is commercially negotiable in AI infrastructure. If South Africa negotiates data-sovereignty guarantees and technology-transfer conditions as requirements for hyperscaler investment, it creates a replicable model. If Microsoft’s $300 million investment and Huawei’s infrastructure expansion proceed on standard commercial terms, as they are currently, it normalizes extractive AI infrastructure across the continent. The lesson is not specific to Africa. Governments everywhere are producing AI strategies while lacking AI assurance infrastructure. South Africa is an early warning, not an isolated case.\nThe public comment period closed when the policy was withdrawn. But a parallel process remains live: the National Treasury’s Draft General Public Procurement Regulations—the legal instrument that will govern every government AI contract—closes for comment on June 15. Those regulations contain no AI-specific provisions.\nSouth Africa has more AI leverage than any country on the continent. Some argue, with force, that governance requirements risk deterring the infrastructure investment South Africa urgently needs: compute capacity, reliable energy, venture capital, and talent retention. That concern deserves a direct answer. Minimum procurement terms, compute reporting thresholds, and technology transfer conditions are not barriers to investment. They are the conditions under which investment serves the host country rather than extracting from it. Infrastructure built without minimum terms produces dependency. Infrastructure built with them produces leverage. To serve the public interest, its AI policy must use it.\nWhen late last month News24 reported AI-hallucinated references in the draft AI policy, Minister of Communications and Digital Technologies Solly Malatsi withdrew the draft policy. That was a mistake that could cost South Africa and the rest of the continent the initiative on this urgent issue. His more recent constitution of an independent panel is a belated step in the right direction, if it can turn South Africa’s leverage into policy. The panel—chaired by Professor Benjamin Rosman of the Wits Machine Intelligence and Neural Discovery Institute, and including Professors Vukosi Marivate and Alison Gillwald of Research ICT Africa and Dr. Jabu Mtsweni of the Council for Scientific and Industrial Research—has the technical and governance credibility to produce a stronger document. A revised draft is due to be ready for public comment by January 2027. South Africa remains without a formal AI governance framework in the interim.",
-          "isoDate": "2026-05-27T13:00:01.000Z"
         }
       ]
     },
