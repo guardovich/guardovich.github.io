@@ -1,69 +1,69 @@
 {
-  "generatedAt": "2026-06-01T11:32:41.645Z",
+  "generatedAt": "2026-06-01T17:37:24.017Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
         {
-          "title": "These are the first Nvidia RTX Spark laptops",
-          "link": "https://www.theverge.com/gadgets/940794/first-nvidia-rtx-spark-laptops-roundup-computex-2026",
-          "summary": "A lot of details are still under wraps, but at least we know what the new Nvidia Spark laptops look like. | Image: Nvidia\t\n\nNvidia has officially entered the world of consumer laptop chips with the RTX Spark, and several device makers already have hardware lined up for it. Microsoft, Asus, HP, MSI, Lenovo, and Dell are expected to launch RTX Spark laptops sometime this fall, and some of those partner companies have shared details about what we can expect.\nThe common feature shared by all of the upcoming launches is that Arm-based Nvidia RTX Spark superchip, though several variations are in the pipeline. The flagship version unveiled by Nvidia at Computex includes 20 CPU cores, 6,144 GPU cores and 128GB of LPDDR5X memory - making it near identical to the GB10 chi …\nRead the full story at The Verge.",
-          "isoDate": "2026-06-01T11:29:52.000Z"
+          "title": "AMD extends Socket AM5 support through at least 2029; AM4 refuses to die",
+          "link": "https://arstechnica.com/gadgets/2026/06/amd-extends-socket-am5-support-through-at-least-2029-am4-refuses-to-die/",
+          "summary": "The 5800X3D returns at $349, while the 7700X3D debuts at $329.",
+          "isoDate": "2026-06-01T17:02:22.000Z"
         },
         {
-          "title": "Asus just announced the OLED Xbox Ally X of my dreams",
-          "link": "https://www.theverge.com/games/940722/asus-xbox-ally-x20-special-edition-oled-screen",
-          "summary": "The Xbox Ally X20, and the glasses you’ll have to buy with it. | Image: Asus\t\n\nIf you asked me what I'd change about the Xbox Ally X handheld - aside from fixing Windows, I mean - I'd tell you two key things. \nFirst, give me a bigger, better screen. Even a little bit bigger, so games feel less claustrophobic and with less ugly bezel. Second, get rid of the \"Library\" button. I am so tired of an accidental press booting me out of my game and into the Xbox library without a simple way to get back.\nWith the just-announced ROG Xbox Ally X20, Asus did both - and then some. It's now a slick translucent handheld with drift-resistant GuliKit TMR joysticks, a transforming D-pad that goes from 8-way to 4-way by dropping its cor …\nRead the full story at The Verge.",
-          "isoDate": "2026-06-01T10:00:00.000Z"
+          "title": "Anthropic has officially filed to go public",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/941016/anthropic-has-officially-filed-to-go-public",
+          "summary": "After months of speculation about whether OpenAI or Anthropic would be first in their race to IPO, Anthropic on Monday reached a key milestone: filing to kick off the process with the U.S. Securities and Exchange Commission.\nThe filing sets the stage for what's sure to be a massive IPO. As of its fundraise last week, Anthropic is being called the world's most valuable startup, with a post-money valuation of $965 billion. That tops the $852 billion post-money valuation of OpenAI, which is its biggest rival. \nAnthropic chose to submit its draft registration statement to the SEC confidentially, according to a blog post from the company, meani …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-01T16:40:38.000Z"
         },
         {
-          "title": "This is the Microsoft Surface Laptop Ultra with Nvidia RTX Spark",
-          "link": "https://www.theverge.com/tech/940584/microsoft-surface-laptop-ultra-nvidia-rtx-spark-pictures",
-          "summary": "This shadowy render is the best glimpse Microsoft is giving us so far. | Image: Microsoft\t\n\nOnce upon a time, Microsoft had to write off $900 million betting an Arm-based Nvidia chip could power its first flagship Windows portable, the original Microsoft Surface. But today, it's trying again. Microsoft and Nvidia have just announced the Surface Laptop Ultra, a computer with a new Arm-based Nvidia chip at its core. \nThere's a lot we don't know about the 15-inch Surface Laptop Ultra, such as its final specs or the foggiest idea of what it might cost. But Microsoft is promising it's the most powerful Surface, period: \"This is the most powerful thing we've ever made,\" Microsoft Surface boss Andrew Hill replies, when we ask how it stac …\nRead the full story at The Verge.",
-          "isoDate": "2026-06-01T04:36:41.000Z"
+          "title": "Sony’s new fight stick and gaming monitor launch in August",
+          "link": "https://www.theverge.com/games/941031/sony-playstation-flexstrike-fight-stick-gaming-monitor-pulse-elevate-speakers-launch-date-price",
+          "summary": "Sony is sharing new details about some of its upcoming gaming-focused hardware, including pricing and August launch dates for its FlexStrike fight stick and its 27-inch monitor.\nThe FlexStrike fight stick will be available starting August 6th - the same day as the new PlayStation-published fighting game Marvel Tōkon: Fighting Souls - and will cost $199.99. Preorders begin on June 12th at 10AM ET. Initially, the FlexStrike will work just on PS5, but Sony says that PC support will be rolled out sometime after launch. The stick will come with a sling carry case and a built-in rechargeable battery.\nSony goes into more detail about the fight st …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-01T16:36:18.000Z"
         },
         {
-          "title": "Nvidia announces RTX Spark as ‘the most efficient PC chip ever built’",
-          "link": "https://www.theverge.com/tech/940589/nvidia-rtx-spark-n1-n1x-laptop-desktop-pc-cpu-gpu-ai-release-date",
-          "summary": "This fall, Nvidia will officially become a consumer PC chipmaker like Intel, AMD, Apple, and Qualcomm, putting a complete computing chip - not just graphics - into the very heart of laptops and mini-PCs. After many months of leaks, it's finally announcing the RTX Spark, the first in a family of chips that will meet or beat the most powerful thin-and-light Windows machines ever, it claims.\n\"This is the most efficient PC chip ever built,\" says Nvidia senior director of product management Mark Aevermann - without sharing so much as a single statistic or chart to back that up. \nThe RTX Spark is effectively the same GB10 chip that's in the DGX  …\nRead the full story at The Verge.",
-          "isoDate": "2026-06-01T04:28:53.000Z"
+          "title": "ROG Xbox Ally X20 adds OLED screen, control upgrades",
+          "link": "https://arstechnica.com/gaming/2026/06/asus-gives-the-rox-xbox-ally-the-oled-screen-it-deserves/",
+          "summary": "But the hardware refresh is tethered to a bundle with pricey AR glasses.",
+          "isoDate": "2026-06-01T16:04:45.000Z"
         },
         {
-          "title": "AMD’s new pitch: our old tech is so good you should just keep using it",
-          "link": "https://www.theverge.com/tech/940524/amd-computex-am5-promise-2029-rx9070gre-7700x3d-5800x3d",
-          "summary": "AMD CEO Lisa Su holds a Ryzen chip. | Image: AMD\t\n\nComputex 2026 is underway in Taiwan, and we're expecting all manner of flashy computers with jaw-dropping prices (or no prices at all) as the entire industry navigates RAMageddon. \nBut for desktop PC gamers, AMD has a different pitch. It's relaunching three old components alongside a big new promise: You won't need to buy a new motherboard until 2030.\nToday, AMD is promising it will keep supporting its AM5 desktop motherboard socket with new Ryzen processors through 2029, which likely means you can keep upgrading to newer CPUs till the end of the decade without changing your board.\nEven if you're still on the older AM4 socket, you may hav …\nRead the full story at The Verge.",
-          "isoDate": "2026-06-01T00:00:00.000Z"
+          "title": "Summer Game Fest 2026: All the news from gaming&#8217;s busiest week",
+          "link": "https://www.theverge.com/games/939206/summer-game-fest-playstation-xbox-gaming-events-2026",
+          "summary": "Get ready for some gaming news. It’s officially June, which means splashy new events from PlayStation, Xbox, and gaming hype man Geoff Keighley. But this season doesn’t just feature the big tentpole shows; there will be a bunch of smaller events, too, and they might feature some promising games as well.\nBut this year’s events are taking place at a difficult time for the industry. The prices of consoles and gaming hardware have skyrocketed, with all of the three major console players announcing price hikes and PC handheld makers jacking up hardware costs as well.\nGame companies also have to work around the looming giant that is Grand Theft Auto VI, which is set to launch on November 19th. That time of year is usually a very busy one as studios launch their games to get ahead of the holiday shopping season, but we could see some of the industry’s biggest games give GTA VI a wide berth.\nWe’ll be tracking the biggest news of the June gaming events season right here.\nYour guide to June’s biggest gaming events\n\t\t\t\nXbox and PlayStation have a lot to prove\n\t\t\t\nThere won’t be Project Helix news at the Xbox Games Showcase.\n\t\t\t\nMicrosoft delays Fable (again) to avoid GTA VI\n\t\t\t\nLots of games to think about.",
+          "isoDate": "2026-06-01T15:30:00.000Z"
         },
         {
-          "title": "The QD-OLED gaming monitor that started it all got a big upgrade",
-          "link": "https://www.theverge.com/games/938956/alienware-computex-tandem-qd-oled-penta-rgb-stripe-gaming-monitors-specs",
-          "summary": "The AW3426DW familiar specs, updated design language, and a bunch of QD-OLED enhancements. | Image: Alienware\t\n\nAlienware is taking to this year's Computex 2026 in Taipei to announce some cool gaming monitors, most notably two exciting OLED options that are coming at different points this year. First off, the company is debuting the successor to its very first QD-OLED gaming monitor from 2022 with a refreshed design and high-end specs that's coming in July (price hasn't yet been shared).\nThe AW3426DW is a 34-inch curved 3,440 x 1,440 resolution with an 1800R curve, just like its predecessor. But the new model has the latest QD-OLED Penta Tandem screen tech that boosts the peak brightness to 1,300 nits from 1,000 nit in the previous version. Its refre …\nRead the full story at The Verge.",
-          "isoDate": "2026-05-31T23:00:00.000Z"
+          "title": "An affordable, long-lasting AirTag alternative is $15 right now",
+          "link": "https://www.theverge.com/gadgets/940830/find-my-bluetooth-tracker-bose-qc-ultra-google-pixel-buds-deal-sale",
+          "summary": "Gaze into the orb. | Image: The Verge\t\n\nThere are many solid Bluetooth trackers for iPhones that tap into Apple’s expansive Find My network. Some are thin, some are a bit chunkier. And, evidently, some look like tiny soccer balls. Ugreen’s FineTrack 2 glows in the dark, and it has a loud 110-decibel alarm when you need to find it. It’s just $14.99 at Amazon for Prime members (originally $19.99). Ugreen also sells it for $14.99 through its site.\nUgreen FineTrack 2 Bluetooth tracker\n\nWhere to Buy:\n\n $19.99 $14.99 at Amazon (for Prime members)\n $19.99 $14.99 at Ugreen\n\nInstead of offering replaceable coin batteries, like many trackers do at this point, the FineTrack 2 has a built-in, non-rechargeable battery that can live for up to seven years. Some may consider that a flaw, but it’ll be nice not to have to worry about replacing its battery for a long while. The ball-shaped tracker also features IP68 water and dust resistance, and includes both a short and long lanyard you can swap out at your leisure. \nOther deals to consider\nGoogle’s Pixel Buds 2A, its latest entry-level wireless earbuds, are down to $109 at Amazon, B&H Photo, and Best Buy, which is their second-best price to date. They’re stacked with more features than their 2021 predecessor (not to mention cooler colors), including active noise cancellation, transparency mode, and spatial audio. That’d be enough to make them worth the sale price, but they also feature IP54 protection against sweat, and up to 20 hours of total battery life with the charging case. At $80 more, the pricier Pixel Buds Pro 2 deliver slightly longer battery life, a wireless charging-ready case, and loud noise protection. Read our review.\nHere’s another deal on headphones: Bose’s first-gen QuietComfort Ultra over-ear wireless headphones are available refurbished in black for $188 (originally $449, but regularly $329 new) at eBay. Notably, Bose is the seller here, and it claims the headphones are in “pristine, like-new condition,” and will arrive in new packaging complete with all accessories. The first-gen QC Ultra headphone are still spectacular when it comes to sound quality, comfort, and for canceling out sounds. The highlight improvements of the $399.99 QC Ultra (Gen 2) include slightly more battery life per charge, lossless audio over USB-C, and an improved transparency mode. Read our review of the first-generation model.\nSamsung recently debuted a fleet of gaming monitors, and it’s offering perks for early adopters. One of the most affordable options is the $899.99 27-inch Odyssey G8 G80HF 5K model. If you buy it now through Samsung, you can choose either a $200 Samsung gift card to use on a future purchase, a Music Studio 5 Wi-Fi and Bluetooth speaker, or the Galaxy Buds 4 Pro wireless earbuds as your free gift. Its specs are unique compared to other 5K monitors in that it can support 5K at up to 180Hz, or swap to 1440p at 360Hz (most 5K models top out at 60Hz). Plus, its 218 pixel density matches that of the Apple Studio Display and other 5K monitors. Oddly, though, the G80HF lacks a USB-C port for easily connecting a MacBook. Read our 2026 Apple Studio Display review.",
+          "isoDate": "2026-06-01T15:24:32.000Z"
         },
         {
-          "title": "Dell is bringing back the XPS 13 as a MacBook Neo competitor — with a temporary discount to $599",
-          "link": "https://www.theverge.com/tech/940498/dell-xps-13-student-laptop-intel-wildcat-panther-lake-computex-price",
-          "summary": "Dell is aiming for students like Apple did with the MacBook Neo. | Image: Dell\t\n\nDell is making good on its tease from CES and finally announcing a new XPS 13. The XPS 13 returns as a budget-friendly option, launching in July at a promotional student price of $599 - though that introductory deal only runs until September for back-to-school shopping; it'll start at $699 for everyone else. The $599 promo exactly matches up with the MacBook Neo's starting price, but students can actually get Apple's budget laptop for $100 less. That means Dell has its work cut out proving that the XPS 13 is worth the extra money.\nThis will be Dell's thinnest and lightest XPS to date, measuring 0.5 inches / 12.7mm thick and weighing just 2. …\nRead the full story at The Verge.",
-          "isoDate": "2026-05-31T23:00:00.000Z"
+          "title": "The next big career move for young Hollywood? Reading audio smut",
+          "link": "https://www.theverge.com/entertainment/940869/quinn-erotica-rent-free-ember-and-ice-heated-rivalry-off-campus",
+          "summary": "Though Gen Z has developed a reputation for being so disinterested in sex that they don't even want to see it on TV, the popularity of series like Heated Rivalry and The Summer I Turned Pretty has made it very clear that more than a few young people do, in fact, like their entertainment a little steamy. However prudish you might think today's twentysomethings are, they've helped turn these sexually charged shows into breakout hits by participating in rabid fandoms. And women-focused audio erotica platform Quinn is trying to channel some of that intense fan energy into success for itself.\nFounded back in 2019 by Caroline Spiegel (sister to S …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-01T15:00:12.000Z"
         },
         {
-          "title": "Apple’s strategy for smart glasses is the same as smart watches",
-          "link": "https://www.theverge.com/tech/940572/apples-strategy-smart-glasses-smart-watches",
-          "summary": "Apple isn't just looking to take on Meta in the smart glasses market; it's looking to upend eyewear as a whole, according to Bloomberg's Mark Gurman. When the Apple Watch launched, it wasn't simply competing against the Pebbles and the Motorolas of the world. The company also had Swatch, Fossil, and Seiko in its crosshairs. Similarly, Apple's smart glasses will be positioned not just against Meta and Samsung, but against Oakley, Ray-Ban, and Warby Parker in the $200-$500 range.\nApple Watch generates an estimated $17 billion annually, but eyewear is a potentially even bigger prize. Where the watch market is worth an estimated $132 billion, a …\nRead the full story at The Verge.",
-          "isoDate": "2026-05-31T21:33:11.000Z"
+          "title": "Your guide to June’s biggest gaming events",
+          "link": "https://www.theverge.com/games/939238/video-game-gaming-events-summer-game-fest-schedule-2026",
+          "summary": "It's early June, which means it's video game event season once again. Now that E3 has been gone for a few years, a bunch of showcases and presentations have started to fill the void, including big productions like Summer Game Fest Live and smaller affairs like Wholesome Games Direct.\nIf you love following gaming news, it's a good time of year. There will be a lot to take in that will set the stage for the rest of the year's gaming releases. But without a big centralized conference like E3, it can be difficult to keep track of the many different events that will be happening over the next several days. \nWe've put together a list of the bigg …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-01T15:00:00.000Z"
         },
         {
-          "title": "How to watch Nvidia&#8217;s Computex keynote",
-          "link": "https://www.theverge.com/tech/940540/how-to-watch-nvidias-computex-keynote",
-          "summary": "Watch the stream below. | Image: NVIDIA\t\n\nNVIDIA's CEO Jensen Huang is set to take the stage for his GTC Taipei keynote at 8PM PT / 11PM ET. You can watch all the announcements here and embedded below. Rumors have been flying about what to expect from today's presentation, but the big one is the possibility of a partnership with Microsoft and a renewed Windows on ARM push. Microsoft has been teasing a \"new era of PC\" for its Surface lineup, and expectations are that new ARM processors from NVIDIA, dubbed the N1 and N1X, will be powering these yet-to-be-announced computers.\n\nMicrosoft actually tapped NVIDIA's Tegra ARM CPUs for the Surface RT way back in 2012. But that machine was la …\nRead the full story at The Verge.",
-          "isoDate": "2026-05-31T20:20:35.000Z"
+          "title": "Nvidia RTX Spark comes to Windows PCs with Arm CPU, RTX GPU, and unified memory",
+          "link": "https://arstechnica.com/gadgets/2026/06/nvidia-gets-into-the-arm-pc-business-with-new-high-end-rtx-spark-processor/",
+          "summary": "Nvidia's new chips will power laptop workstations and mini desktop PCs at first.",
+          "isoDate": "2026-06-01T14:47:22.000Z"
         },
         {
-          "title": "Here’s your first look at ‘A Minecraft Movie Squared’ with Kirsten Dunst as Alex",
-          "link": "https://www.theverge.com/entertainment/940523/minecraft-movie-squared-sequel-kirsten-dunst-alex",
-          "summary": "Squared. Get it? | Image: Mojang\t\n\nThe A Minecraft Movie sequel officially has a title: A Minecraft Movie Squared. What's more, we now know that Kirsten Dunst will star as Alex, the game's female character option, and that Matt Berry is set to play an even bigger role in this film. He voiced Nitwit in the first movie, but in this one, he'll be playing a human character. Who exactly he'll be hasn't been revealed yet, but in the clip below, he can be heard dismissing a costume choice because \"Steve would not be wearing that,\" suggesting he might be playing the Herobrine, a creepy pasta evil counterpart to Jack Black's Steve.\n\nThe director, Jared Hess, and Mojang Chief Creative  …\nRead the full story at The Verge.",
-          "isoDate": "2026-05-31T19:28:11.000Z"
+          "title": "Microsoft to unveil new AI models and Windows improvements at Build",
+          "link": "https://www.theverge.com/report/940861/microsoft-build-ai-models-windows-dev-mode-what-to-expect",
+          "summary": "Microsoft is heading to San Francisco this week in a bid to win back developers at its Build conference. I've been attending Build since the days when Microsoft called it the Professional Developers Conference, and I can't remember a more pivotal moment. As Microsoft continues to reshuffle its entire business around AI, it's moving Build into a smaller, more intimate venue. Trust in Windows and GitHub is at an all-time low, and this is Microsoft's chance to reconnect with developers and outline the future.\nSources tell me that we'll hear about new AI models in Windows, a new reasoning model from Microsoft AI, and a Copilot \"super app.\" But  …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-01T14:39:03.000Z"
         }
       ]
     },
@@ -71,6 +71,42 @@
       "header": "120  CIENCIA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Pretty in Pink",
+          "link": "https://www.nasa.gov/image-article/pretty-in-pink-2/",
+          "summary": "This image of Westerlund 2 released on March 19, 2026, features Chandra X-ray Observatory data (pink) and infrared data from NASA’S James Webb Space Telescope (red, orange, green, cyan, and blue). Scores of gleaming stars ringed in neon pink stretch across the frame, highlighting a cluster where stars are between one and three million years […]",
+          "isoDate": "2026-06-01T14:30:17.000Z"
+        },
+        {
+          "title": "Space Out This Summer with Variety of NASA STEM Activities",
+          "link": "https://www.nasa.gov/learning-resources/space-out-this-summer-with-variety-of-nasa-stem-activities/",
+          "summary": "Summer is “Go” for launch, and NASA has a universe of ways to help you to jump in, explore, and create! Whether you prefer to spend this season fueling your creativity, going outdoors into nature, or daydreaming about your future, NASA offers ways to take your interests to the next level.  Here are some opportunities […]",
+          "isoDate": "2026-06-01T12:03:00.000Z"
+        },
+        {
+          "title": "Gravity Waves From Super Typhoon Sinlaku",
+          "link": "https://science.nasa.gov/earth/earth-observatory/gravity-waves-from-super-typhoon-sinlaku/",
+          "summary": "Satellites observed striking upper-atmosphere phenomena generated by an intensifying tropical cyclone.",
+          "isoDate": "2026-06-01T04:01:00.000Z"
+        },
+        {
+          "title": "Enantioselective hydrogen atom relay via non-covalent catalyst assembly",
+          "link": "https://www.nature.com/articles/s41586-026-10692-4",
+          "summary": "Nature, Published online: 01 June 2026; doi:10.1038/s41586-026-10692-4\nEnantioselective hydrogen atom relay via non-covalent catalyst assembly",
+          "isoDate": "2026-06-01T00:00:00.000Z"
+        },
+        {
+          "title": "Passive heart-rate monitoring during smartphone use in everyday life",
+          "link": "https://www.nature.com/articles/s41586-026-10507-6",
+          "summary": "Nature, Published online: 01 June 2026; doi:10.1038/s41586-026-10507-6\nA machine-learning model that uses smartphone cameras to measure heart rate in the background during normal daily phone use and subsequently estimate resting heart rate could make it easier for people to monitor heart health.",
+          "isoDate": "2026-06-01T00:00:00.000Z"
+        },
+        {
+          "title": "Can Polymarket predict the progress of science, or are subject-experts better?",
+          "link": "https://www.nature.com/articles/d41586-026-01688-1",
+          "summary": "Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01688-1\nOnline prediction markets are taking bets on everything from climate change to quantum computing. But researchers question their accuracy.",
+          "isoDate": "2026-06-01T00:00:00.000Z"
+        },
         {
           "title": "How long can humans live? We simply don’t know",
           "link": "https://www.nature.com/articles/d41586-026-01728-w",
@@ -90,46 +126,10 @@
           "isoDate": "2026-06-01T00:00:00.000Z"
         },
         {
-          "title": "Obesity doesn’t equate to ill health: why the ‘disease’ label doesn’t always fit",
-          "link": "https://www.nature.com/articles/d41586-026-01729-9",
-          "summary": "Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01729-9\nExcess body weight affects individuals’ health differently. Taking this variation into account is crucial for effective health care, policy and research.",
+          "title": "Robust projections of risks to the Amazon rainforest",
+          "link": "https://www.nature.com/articles/d41586-026-01158-8",
+          "summary": "Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01158-8\nAmazonian deforestation is altering atmospheric moisture transport; as a result, even low levels of global warming could trigger dieback of most of the remaining forest.",
           "isoDate": "2026-06-01T00:00:00.000Z"
-        },
-        {
-          "title": "NASA Awards Contract for Johnson Space Center Infrastructure",
-          "link": "https://www.nasa.gov/news-release/nasa-awards-contract-for-johnson-space-center-infrastructure/",
-          "summary": "NASA has selected seven companies to provide construction, revitalization, and infrastructure improvements at the agency’s Johnson Space Center in Houston. The Johnson Space Center Multiple Award Construction Contract supports up to $300 million in upgrades to mission‑support facilities, utilities, and equipment across the NASA Johnson campus. All funds must be obligated by Sept. 30, 2026. […]",
-          "isoDate": "2026-05-29T21:24:11.000Z"
-        },
-        {
-          "title": "NASA Hosts SpaceX Crew-11 Astronauts for Public Event at Headquarters",
-          "link": "https://www.nasa.gov/news-release/nasa-hosts-spacex-crew-11-astronauts-for-public-event-at-headquarters/",
-          "summary": "NASA will host a public event featuring three crew members from the agency’s SpaceX Crew-11 mission at 11 a.m. EDT Monday, June 1. The event, which takes place during the crew’s standard postflight visit, will be held in the Webb Auditorium at NASA Headquarters in the Mary W. Jackson building, 300 E. Street SW in […]",
-          "isoDate": "2026-05-29T20:49:43.000Z"
-        },
-        {
-          "title": "NASA’s Roman Space Telescope Primary Mirror Gets Last Look",
-          "link": "https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-space-telescope-primary-mirror-gets-last-look/",
-          "summary": "Engineers at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, have completed their final inspection of a key element for the agency’s Nancy Grace Roman Space Telescope: the primary mirror. This 7.9-foot (2.4-meter) mirror will collect and focus light from cosmic objects near and far, helping Roman capture stunning panoramas of space. “The Roman engineering […]",
-          "isoDate": "2026-05-29T16:33:00.000Z"
-        },
-        {
-          "title": "Hubble Spies Faint Irregular Galaxy",
-          "link": "https://www.nasa.gov/image-article/hubble-spies-faint-irregular-galaxy/",
-          "summary": "This NASA Hubble Space Telescope image released on May 27, 2026, features the dwarf irregular galaxy ESO 490-017, roughly 12,000 light-years in diameter and some 23 million light-years away in the constellation Canis Major. The galaxy’s low surface brightness makes it appear as a faint, starry swarm behind brighter foreground stars that are easily recognized by their diffraction spikes. […]",
-          "isoDate": "2026-05-29T16:14:26.000Z"
-        },
-        {
-          "title": "Hubble Captures M88 on Journey to Center of Virgo Cluster",
-          "link": "https://science.nasa.gov/missions/hubble/hubble-captures-m88-on-journey-to-center-of-virgo-cluster/",
-          "summary": "This NASA Hubble Space Telescope image features the active spiral galaxy Messier 88 (M88), located about 63 million light-years away.",
-          "isoDate": "2026-05-29T11:29:09.000Z"
-        },
-        {
-          "title": "Painting the Growing Season in the Maize Triangle",
-          "link": "https://science.nasa.gov/earth/earth-observatory/painting-the-growing-season-in-the-maize-triangle/",
-          "summary": "Radar data from an agricultural area in South Africa, shown in a vivid color palette, reveal crop types and how they changed during the Southern Hemisphere’s growing season.",
-          "isoDate": "2026-05-29T04:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-06-01T11:32:35.764Z"
+          "isoDate": "2026-06-01T17:37:19.364Z"
+        },
+        {
+          "title": "UK banks blocked from cyber AI tool Mythos get offer from rival OpenAI",
+          "link": "https://www.bbc.com/news/articles/cm2p3j6lvn7o?at_medium=RSS&at_campaign=rss",
+          "summary": "Nine banks have been offered access to GPT 5.5 Cyber, as fierce rival Anthropic has blocked previews of its tool.",
+          "isoDate": "2026-06-01T17:07:20.000Z"
         },
         {
           "title": "Tech Now",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.com/news/articles/c052yv259jvo?at_medium=RSS&at_campaign=rss",
           "summary": "The longtime Google employee was charged in New York for allegedly breaking insider trading laws.",
           "isoDate": "2026-05-28T02:14:19.000Z"
-        },
-        {
-          "title": "The rise of the fruit that tastes like custard",
-          "link": "https://www.bbc.com/news/articles/ce8pmrp0m47o?at_medium=RSS&at_campaign=rss",
-          "summary": "Custard apple plants are prized for their hardiness but exporting their delicate fruit is difficult.",
-          "isoDate": "2026-05-27T10:58:45.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 77\nColumn: 559\nChar:  ",
-          "isoDate": "2026-06-01T11:32:39.920Z"
+          "isoDate": "2026-06-01T17:37:22.302Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-06-01T11:32:37.435Z"
+          "isoDate": "2026-06-01T17:37:21.384Z"
         },
         {
           "title": "Why Sardinians Are Fighting the Renewable Energy Transition",
