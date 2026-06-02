@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-06-02T03:56:45.443Z",
+  "generatedAt": "2026-06-02T10:22:41.843Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "How small businesses can leverage AI",
+          "link": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
+          "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,sign up here. From accounting to design to market research and product development, there’s a staggering breadth of skills needed to run a business. A large company can hire experts to…",
+          "isoDate": "2026-06-02T09:00:00.000Z"
+        },
         {
           "title": "AI costs how much? GitHub Copilot users react to new usage-based pricing system.",
           "link": "https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/",
@@ -58,12 +64,6 @@
           "link": "https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on",
           "summary": "Google's new \"24/7\" AI agent, Gemini Spark, can be shockingly good at doing things on your behalf. But I'm not sure it's worth the financial cost and potential privacy tradeoffs.\nThe company gave me access to Spark last week. Google advertises Spark as an AI agent that can take on tasks and work on them in the background - even tasks that have multiple steps - allowing you to put your phone down or walk away from your computer. It also advertises at the very top of the Spark website that it's \"always under your direction,\" that \"you choose to turn it on,\" and that \"it's designed to check with you before taking major actions.\" Given the moun …\nRead the full story at The Verge.",
           "isoDate": "2026-06-01T20:00:00.000Z"
-        },
-        {
-          "title": "Dozens of Red Hat packages backdoored through its official NPM channel",
-          "link": "https://arstechnica.com/security/2026/06/dozens-of-red-hat-packages-backdoored-through-its-offical-npm-channel/",
-          "summary": "Anyone who has downloaded affected Red Hat packages should investigate immediately.",
-          "isoDate": "2026-06-01T19:49:09.000Z"
         }
       ]
     },
@@ -71,6 +71,48 @@
       "header": "120  CIENCIA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Spacewalking With Scott Wray, Artemis EVA Training Lead",
+          "link": "https://www.nasa.gov/centers-and-facilities/johnson/spacewalking-with-scott-wray-artemis-eva-training-lead/",
+          "summary": "Scott Wray’s experience with spacewalks started when he was about 6 years old. A tent resembling a lunar lander provided the perfect imaginary spacecraft. “I would lie on my back with my feet propped up on a pillow as I imagined going through a launch countdown sequence,” he said. “Then I would exit the tent […]",
+          "isoDate": "2026-06-02T09:00:00.000Z"
+        },
+        {
+          "title": "Fire’s Footprint on Santa Rosa Island",
+          "link": "https://science.nasa.gov/earth/earth-observatory/fires-footprint-on-santa-rosa-island/",
+          "summary": "A wildland fire charred grassland, coastal sage scrub, and chaparral across one-third of the island, the second largest of the Channel Islands.",
+          "isoDate": "2026-06-02T04:01:00.000Z"
+        },
+        {
+          "title": "Global plastics treaty must be built on a foundation of monitoring",
+          "link": "https://www.nature.com/articles/d41586-026-01775-3",
+          "summary": "Nature, Published online: 02 June 2026; doi:10.1038/d41586-026-01775-3\nGlobal plastics treaty must be built on a foundation of monitoring",
+          "isoDate": "2026-06-02T00:00:00.000Z"
+        },
+        {
+          "title": "Natural capital accounting needs a way to assess uncertainty",
+          "link": "https://www.nature.com/articles/d41586-026-01778-0",
+          "summary": "Nature, Published online: 02 June 2026; doi:10.1038/d41586-026-01778-0\nNatural capital accounting needs a way to assess uncertainty",
+          "isoDate": "2026-06-02T00:00:00.000Z"
+        },
+        {
+          "title": "Power imbalances in adviser–student relationships need safeguarding",
+          "link": "https://www.nature.com/articles/d41586-026-01776-2",
+          "summary": "Nature, Published online: 02 June 2026; doi:10.1038/d41586-026-01776-2\nPower imbalances in adviser–student relationships need safeguarding",
+          "isoDate": "2026-06-02T00:00:00.000Z"
+        },
+        {
+          "title": "Is it time to ‘cap and trade’ credits for research-funding proposals?",
+          "link": "https://www.nature.com/articles/d41586-026-01777-1",
+          "summary": "Nature, Published online: 02 June 2026; doi:10.1038/d41586-026-01777-1\nIs it time to ‘cap and trade’ credits for research-funding proposals?",
+          "isoDate": "2026-06-02T00:00:00.000Z"
+        },
+        {
+          "title": "Will AI ruin the social sciences — or revolutionize them?",
+          "link": "https://www.nature.com/articles/d41586-026-01726-y",
+          "summary": "Nature, Published online: 02 June 2026; doi:10.1038/d41586-026-01726-y\nThe technology can whip up spurious findings and pollute survey responses, but it could also make research more rigorous.",
+          "isoDate": "2026-06-02T00:00:00.000Z"
+        },
         {
           "title": "NASA Awards Modification Contract for Reduced Gravity Test Aircraft",
           "link": "https://www.nasa.gov/news-release/nasa-awards-modification-contract-for-reduced-gravity-test-aircraft/",
@@ -88,48 +130,6 @@
           "link": "https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-near-houston/",
           "summary": "Five research aircraft will support a Student Airborne Research Program (SARP) mission out of Ellington Field in Houston. Flights are expected from Wednesday, June 3 to Saturday, June 13. During the mission, select maneuvers will be conducted at low altitudes over the Houston area.  Pilots will fly remote sensing payloads in raster patterns, or parallel back-and-forth lines. The instruments flown could help […]",
           "isoDate": "2026-06-01T18:29:50.000Z"
-        },
-        {
-          "title": "What’s Up: June 2026 Skywatching Tips from NASA",
-          "link": "https://science.nasa.gov/solar-system/whats-up-june-2026-skywatching-tips-from-nasa/",
-          "summary": "Venus and Jupiter meet after sunset, the Moon passes in front of Venus, summer begins, and deep-sky treasures rise into view.",
-          "isoDate": "2026-06-01T18:13:46.000Z"
-        },
-        {
-          "title": "Pretty in Pink",
-          "link": "https://www.nasa.gov/image-article/pretty-in-pink-2/",
-          "summary": "This image of Westerlund 2 released on March 19, 2026, features Chandra X-ray Observatory data (pink) and infrared data from NASA’S James Webb Space Telescope (red, orange, green, cyan, and blue). Scores of gleaming stars ringed in neon pink stretch across the frame, highlighting a cluster where stars are between one and three million years […]",
-          "isoDate": "2026-06-01T14:30:17.000Z"
-        },
-        {
-          "title": "Space Out This Summer with Variety of NASA STEM Activities",
-          "link": "https://www.nasa.gov/learning-resources/space-out-this-summer-with-variety-of-nasa-stem-activities/",
-          "summary": "Summer is “Go” for launch, and NASA has a universe of ways to help you to jump in, explore, and create! Whether you prefer to spend this season fueling your creativity, going outdoors into nature, or daydreaming about your future, NASA offers ways to take your interests to the next level.  Here are some opportunities […]",
-          "isoDate": "2026-06-01T12:03:00.000Z"
-        },
-        {
-          "title": "Gravity Waves From Super Typhoon Sinlaku",
-          "link": "https://science.nasa.gov/earth/earth-observatory/gravity-waves-from-super-typhoon-sinlaku/",
-          "summary": "Satellites observed striking upper-atmosphere phenomena generated by an intensifying tropical cyclone.",
-          "isoDate": "2026-06-01T04:01:00.000Z"
-        },
-        {
-          "title": "Enantioselective hydrogen atom relay via non-covalent catalyst assembly",
-          "link": "https://www.nature.com/articles/s41586-026-10692-4",
-          "summary": "Nature, Published online: 01 June 2026; doi:10.1038/s41586-026-10692-4\nEnantioselective hydrogen atom relay via non-covalent catalyst assembly",
-          "isoDate": "2026-06-01T00:00:00.000Z"
-        },
-        {
-          "title": "Passive heart-rate monitoring during smartphone use in everyday life",
-          "link": "https://www.nature.com/articles/s41586-026-10507-6",
-          "summary": "Nature, Published online: 01 June 2026; doi:10.1038/s41586-026-10507-6\nA machine-learning model that uses smartphone cameras to measure heart rate in the background during normal daily phone use and subsequently estimate resting heart rate could make it easier for people to monitor heart health.",
-          "isoDate": "2026-06-01T00:00:00.000Z"
-        },
-        {
-          "title": "Can Polymarket predict the progress of science, or are subject-experts better?",
-          "link": "https://www.nature.com/articles/d41586-026-01688-1",
-          "summary": "Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01688-1\nOnline prediction markets are taking bets on everything from climate change to quantum computing. But researchers question their accuracy.",
-          "isoDate": "2026-06-01T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-06-02T03:56:40.988Z"
+          "isoDate": "2026-06-02T10:22:35.907Z"
         },
         {
           "title": "How 'confused' AI rollout hurts firms and baffles staff",
@@ -204,6 +204,12 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "Codex is becoming a productivity tool for everyone",
+          "link": "https://openai.com/index/codex-for-knowledge-work",
+          "summary": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation.",
+          "isoDate": "2026-06-02T02:00:00.000Z"
+        },
+        {
           "title": "Our views on AI policy and political advocacy",
           "link": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
           "summary": "Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on the company’s behalf.",
@@ -256,12 +262,6 @@
           "link": "https://openai.com/index/endava",
           "summary": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
           "isoDate": "2026-05-28T12:00:00.000Z"
-        },
-        {
-          "title": "MUFG aims to become AI-native with OpenAI",
-          "link": "https://openai.com/index/mufg",
-          "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-          "isoDate": "2026-05-28T00:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 77\nColumn: 559\nChar:  ",
-          "isoDate": "2026-06-02T03:56:43.914Z"
+          "isoDate": "2026-06-02T10:22:40.303Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-06-02T03:56:42.868Z"
+          "isoDate": "2026-06-02T10:22:38.078Z"
+        },
+        {
+          "title": "Direct-to-Cell Technology: Enabling Satellite Connectivity for Legacy Devices",
+          "link": "https://content.knowledgehub.wiley.com/direct-to-cell-technology-enabling-satellite-connectivity-for-legacy-devices/",
+          "summary": "Direct-to-cell technology uses LEO satellites as spaceborne cell towers. It delivers LTE services to existing smartphones without hardware changes, bridging global coverage gaps.\nWhat Attendees will Learn\n\nHow DTC works as a spaceborne cell tower — LEO satellites carry LTE eNodeB payloads in regenerative mode. How they serve unmodified phones using quasi-earth-fixed multi-beam antennas. How the satellite compensates for Doppler shift and time delay on thenetwork side.\nWhy Doppler shift and round-trip time are critical challenges — A LEO satellite’s high velocity causes carrier frequency offsets in OFDMA systems. Pre-compensation at a reference point helps, but cell-edge users still face residual Doppler.\nHow spectrum sharing and regulation shape DTC deployment — DTC has no dedicated spectrum allocation. It relies on spectrum sharing between terrestrial and satellite operators or re-farmed MSS bands. How national regulations like the FCC SCS framework govern access.\nWhere DTC fits in the evolution toward 5G NTN and 6G — DTC is an interim technology offering fast time-to-market satellite services. It bridges the gap until 3GPP NR-NTN matures. How NR-NTN will bring purpose-built NTN features and international spectrum frameworks.\n\nDownload this free whitepaper now!",
+          "isoDate": "2026-06-02T10:00:02.000Z"
         },
         {
           "title": "IEEE President’s Note: Designing a Safer Digital World for Kids",
@@ -310,12 +316,6 @@
           "link": "https://spectrum.ieee.org/soft-robotics-2676960499",
           "summary": "Electrons are great. We use them to move vehicles, illuminate cities, and, of course, compute. But computation is not confined to the world of electronics. And shifting to alternative nonelectronic realms can unlock unique advantages: Photonic chips, for instance, process information with light while generating little heat. Another compelling alternative is fluidics, which uses pressurized gases or liquids to build logic circuits. Pioneered in the 1960s but sidelined by microchips, the field reemerged in the 1990s as “microfluidics.” This approach aims to shrink laboratories onto a single chip by creating microscopic fluid channels with integrated micropneumatic control systems.\nToday, there is a second fluidic revival, this time in the domain of soft robotics. Scaling microfluidic designs up to the millimeter-scale range (millifluidics) enables the higher flow rates necessary to drive robotic actuators. These robots exploit the nonlinear behaviors of soft materials to create lifelike motion and safer interactions, often utilizing pressurized air.\nBy building systems that “think” with the same air that powers them, we can drastically reduce the need for bulky electronic-to-pneumatic interfaces. This is the focus of my Soiboi Studio robotics lab. With millifluidic logic, I have steadily scaled the complexity of my designs. What began with a simple oscillator has most recently evolved into a clock featuring a soft, four-digit, seven-segment display.\nWhat Is Millifluidics?\nBuilding on microfluidics research from the early 2000s and recent developments from the Grover Lab at the University of California, Riverside, I’ve developed millifluidic devices using standard 3D printing and silicone casting. The basic architecture is simple: A flexible membrane is sandwiched between rigid layers embedded with networks of air channels.\nJust as electronics rely on differing voltage potentials, these fluidic circuits operate on the pressure difference between atmospheric pressure (logical 0) and a near-vacuum at around −60 kilopascals of relative pressure (logical 1). Using negative pressure means the membrane is pulled into openings. This creates robust seals that allow me to replicate electronic building blocks.\n  A cast silicone membrane forms the face of the clock [top], while behind it sits 3D-printed millifluidic blocks [middle rows]. An Arduino Uno controls driver boards that operate solenoids, which are connected to valves that are attached to a vacuum pump [bottom row].James Provost\nWhile fluidic resistors are easily realized by adjusting the channel geometry, the heart of the system is a valve that mimics a metal-oxide-semiconductor field-effect transistor, or MOSFET. This vacuum “transistor” features a flow layer with two chambers (the source and drain) divided by a central valve seat and a control layer containing a cavity (the gate). A membrane runs between the control and flow layers and normally prevents airflow between the source and drain chambers. To switch the transistor on, a vacuum is applied to the gate chamber, sucking the membrane into the cavity and lifting it off the seat. This opens a path for airflow, equivalent to closing an electric circuit. By adding a small aperture to the membrane, I created a check valve—the fluidic equivalent of a diode. By combining transistors and resistive “pull-down” channels, I can build a full suite of logic gates.\nThe original microfluidic designs that inspired me were fabricated from etched glass and milled acrylic. Adapting them for a standard 3D printer required reengineering the logic elements and mastering two critical fabrication techniques.\nFirst, I need airtight prints, yet printed plastic is notoriously porous. By printing at elevated temperatures, slow speeds, and slight overextrusion, I was able to fill microscopic gaps. When you’re using transparent filament, there’s a handy visual indicator: The more transparent the plastic appears, the lower its porosity.\nSecond, I used glass for my print bed. By printing the upper and lower chambers directly against this bed, I got the interface surface to become mirror smooth. This finish is essential for creating reliable, airtight seals. A 0.3-millimeter silicone membrane is placed between the layers and secured with screws. \nHow Does the Soft Clock Work?\nThe clockface is a cast silicone membrane. Each digit segment is formed by a small underlying cavity. When air is evacuated from this cavity, the membrane is sucked inward to create a concave hollow; when atmospheric pressure is restored, the silicone pops back flush with the surface. The result is a mesmerizing, organic motion.\nThe “brain” of the clock is an Arduino Uno, while the fluidics significantly reduce the hardware footprint. A four-digit, seven-segment display with two separator dots would require 29 solenoid valves to control directly. My clock needs just 11 valves.\n  A pneumatic transistor is off when its upper control chamber is at atmospheric pressure [top]. When air is removed from the control chamber, it lifts a membrane, which allows air to flow between lower flow chambers and turns the transistor on [bottom]. James Provost\nTo understand how it works, consider a standard electronic four-digit, seven-segment LED display. This also uses 11 pins to drive its digits. (In clockface displays, an additional pin is required to drive the separator dots.) Every digit is connected to a shared data bus with seven lines, one per segment. The four control lines select individual digits. Only one digit is illuminated at time, and strobing the digits at least 50 times per second creates the illusion that all four are simultaneously illuminated.\nSuch high-speed switching is not possible with air. Instead, I rely on memory. Each segment acts like a capacitor: By evacuating its cavity (logic 1), you “charge” the segment; by restoring atmospheric pressure (logic 0), you discharge it. Hence, each digit acts as an independent 7-bit memory. If the system is sufficiently airtight, the segments maintain their state for several seconds.\nLike the electronic display, the system utilizes a seven-line data bus. Each line connects to a solenoid valve that provides either vacuum or atmospheric pressure. To selectively address the individual digits, I placed a fluidic transistor between each segment and its data line. All the transistors’ control inputs for a given digit are combined into one “write enable” line connected to its own solenoid valve. Activating this valve allows me to write data into the corresponding digit’s memory.\nThe clock updates one digit per second, meaning a full cycle across the face takes 4 seconds. This cycle also drives the separator dots: A set of fluidic diodes connects the enable lines to the dots’ cavities. Consequently, as each digit is addressed, the dots pulse automatically.\nThis display is more than a clock; it is a soft robot that happens to tell time. By offloading computation to the same air that powers movement, the clock approaches a new class of machines that are simpler, lighter, and more integrated. I’m now developing a guide for getting started with vacuum-powered logic and may release a refined version of this clock in the future. Watching the silicone skin morph serves as a fascinating reminder that not all logic needs silicon; sometimes, all you need is flexible silicone and a flow of air. \nThis article appears in the June 2026 print issue as “The Soft Clock.”",
           "isoDate": "2026-05-29T13:00:01.000Z"
-        },
-        {
-          "title": "Finding Success in Industry as a Chip Designer",
-          "link": "https://spectrum.ieee.org/chip-design-academic-vs-industry",
-          "summary": "I have been an application-specific IC (ASIC) designer for almost three decades. Over that time, I’ve moved through the full academic trajectory, from graduate student to full professor; later, I transitioned to industry after an unsuccessful stint at entrepreneurship. When I made the switch to the private sector in 2019, I began focusing on a critically important aspect of the electronic industry: silicon intellectual property. \nAs much as 80 percent of the physical area in today’s most advanced chips is occupied by blocks that aren’t made for specific products or even designed by the consumer-facing companies that built them. Instead, chipmakers draw heavily on established silicon IP from companies like Arm, Cadence, Rambus, Synopsys, and the company I work for, Silicon Creations. \nThroughout my career, I’ve designed chips for very different purposes, including enabling the research program in my academic lab and expanding the IP portfolio of my company. When I joined Silicon Creations, I had no idea how differently the industry approaches IC design and encountered a steep learning curve. Initially, it seemed that much of my two decades of academic research and training did not directly translate to the role. I had to learn new skills and adopt a new mindset.\nToday, demand for ASICs is rapidly growing, driven by the need for specialized chips in the automotive sector, AI applications, and more. By one market estimate, the ASIC market is expected to grow from US $23.4 billion to $38.8 billion by 2033, and the semiconductor industry as a whole is projected to hit $1 trillion by 2030. The industry needs more chip designers—but if you’re coming from an academic background as I did, there are a few things you’ll need to know.\nDifferent goals lead to different strategies\nThe differences between industry and academe begin with a divergence in purpose. In academia, my primary objective was to generate new knowledge: to propose a novel circuit technique, validate an unconventional architecture, or explore the limits of performance in a given domain. A successful chip is one that demonstrates a concept. In industry, it is not nearly enough to prove that something can work. The goal is to ensure that it works reliably, repeatedly, and at scale. Success is measured not by novelty but by whether the silicon meets specifications, yields as expected in production, and supports a competitive product delivered on schedule.\nThis leads to a stark contrast in risk tolerance. Academic designs often deliberately push into unproven territory, where even partial success can yield valuable insight. In industry, however, we systematically minimize risk. The cost of failure makes first-time silicon success a central requirement—especially at advanced technology nodes, where the lithography masks used to transfer circuit designs onto silicon wafers alone can cost tens of millions of dollars. As a result, industry design flows are built around eliminating uncertainty through conservative margins, extensive validation, and careful reuse of proven solutions. \n“Academia explores the design space, asking what is possible, while industry exploits it, determining what is viable at scale.”\nThis paradigm has existed since the 1970s, when application-specific chip design was established. However, the gulf between academia and industry has expanded since the mid-2010s, when FinFET technology, a 3D architecture using vertical “fins” of silicon, was widely adopted in industry. System designs are also becoming increasingly modular with the advent of chiplets. This fundamentally altered the economics and complexity of ASIC development, with design costs rising by almost an order of magnitude. Initiatives like Taiwan Semiconductor Manufacturing Co.’s University FinFET Program and new government-funded chip-design hubs now let some well-resourced universities design for more advanced architectures, but the technology is still out of reach for many academics. \nWhat the industry-academia split means in practice\nConsider a startup developing an ASIC. Its engineering team may have deep expertise in a particular algorithm, sensor interface, or system architecture, the features that define its competitive advantage. But it is unlikely to possess world-class expertise in every supporting function. Developing each of these blocks internally would require significant time, capital, and specialized talent. Doing so could delay market entry beyond the startup’s viability.\nEven large semiconductor companies face similar constraints. Advanced-node development demands intense focus. Allocating a team to redesign a standard interface block that has already been implemented elsewhere may be difficult to justify when differentiation lies at the system level, such as an inference chip’s ability to speed up neural network computations. The time it takes to move a new chip from conception to market and risk mitigation, not self-sufficiency, govern most decisions about in-house development versus outsourcing.\nThe economics of advanced IC manufacturing reinforce this reality. When the development cost of a leading-edge chip reaches hundreds of millions of dollars, minimizing risk becomes a central design imperative.\nIn this context, silicon IP emerged as a practical solution. Similar to how software developers rely on preexisting libraries rather than writing every function from scratch, ASIC designers license predesigned, preverified silicon blocks—such as processor cores, memory interfaces, and security engines—from highly specialized IP vendors. These blocks can then be integrated into larger, increasingly complex systems. \nDesign scope, verification, and time horizons\nWith the use of silicon IP, industry is able to widen the scope of its designs. Academic efforts tend to focus on block-level innovation: a new analog-to-digital converter architecture or an ultralow-noise amplifier, for instance. These designs typically abstract away many of the complexities of bringing a chip to market, such as packaging constraints, long-term reliability, and manufacturing yield.\nIn industry, the focus shifts to system-level integration. Modern systems on chips, or SoCs, incorporate dozens or even hundreds of functional blocks. Managing signal integrity, timing, firmware interaction, and system-level validation becomes as critical as the design of any individual block. \nVerification philosophy also diverges sharply. In academia, the goal of verification is to demonstrate that the concept works under nominal conditions, which may not always reflect how it would perform in real applications. Even if only a fraction of fabricated chips from a multiproject wafer operates correctly, the design may still be considered a success if it validates the underlying idea. \nAt my academic lab for instance, we used to receive 40 chips from a TSMC prototyping service and started testing them in batches of five. If the first five or 10 chips proved functional, we had already collected more than enough data for a publication. If some of them failed, we weren’t required to mention this when publishing the results. \nIn industry, verification is exhaustive, critical, and often dominates the development schedule. Failures are measured in parts per million, and even rare anomalies are carefully analyzed and documented to identify root causes and prevent recurrence. When I started at Silicon Creations, I was surprised by the level of detail and scrutiny designs face.\nDifferences in time horizons and economic constraints reinforce each of these contrasts. Academic projects operate on flexible timelines aligned with research and funding cycles. If I missed a deadline, I just had to wait for the next cycle. Industry projects are driven by fixed product schedules and market windows, frequently targeting costly leading-edge nodes to achieve competitive performance, power, and area efficiency. Missing a deadline can negate the value of an entire design and may have major financial consequences along the entire supply chain.\nIn essence, academia explores the design space, asking what is possible, while industry exploits it, determining what is viable at scale. Both are indispensable, but they operate under fundamentally different definitions of success. As ASIC complexity continues to grow, understanding both perspectives will be essential for the next generation of engineers navigating the evolving semiconductor landscape.\nThis article appears in the June 2026 print issue.",
-          "isoDate": "2026-05-28T13:00:01.000Z"
         }
       ]
     },
