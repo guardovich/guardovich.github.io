@@ -1,21 +1,51 @@
 {
-  "generatedAt": "2026-06-01T21:32:12.128Z",
+  "generatedAt": "2026-06-02T03:56:45.443Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
         {
-          "title": "The Pixel Watch 5 may have been spoiled by… the creator of Borderlands",
+          "title": "AI costs how much? GitHub Copilot users react to new usage-based pricing system.",
+          "link": "https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/",
+          "summary": "Some report burning through their whole monthly \"AI credit\" allotment in a single day.",
+          "isoDate": "2026-06-01T22:18:09.000Z"
+        },
+        {
+          "title": "Why cats prefer silver vine to catnip and other May highlights",
+          "link": "https://arstechnica.com/science/2026/06/research-roundup-7-cool-science-stories-we-almost-missed-4/",
+          "summary": "Prehistoric mining in the Pyrenees, a new species of tiny blue octopus, slapstick acoustics, and more.",
+          "isoDate": "2026-06-01T21:38:55.000Z"
+        },
+        {
+          "title": "The Google Pixel Watch 5 may have been spoiled by… the creator of Borderlands",
           "link": "https://www.theverge.com/tech/941293/google-pixel-watch-5-randy-pitchford-borderlands",
-          "summary": "We may just have gotten an early look at the Pixel Watch 5 - and from an unusual source. Randy Pitchford, the creator of the Borderlands game franchise, posted a pair of images of a watch on X, saying that his friend found it underwater, while scuba diving near Saint Martin, as reported earlier by Kotaku.\n\"He noted that the reverse of the watch indicates that it is a Google Pixel 5, which has not yet been announced, let alone released,\" Pitchford writes. \"It seems to be fine. The face indicates an empty battery, but seems to have enough reserve power to display the correct time.\" After putting out a call to find its owner, Pitchford said so …\nRead the full story at The Verge.",
+          "summary": "We may just have gotten an early look at the Google Pixel Watch 5 - and from an unusual source. Randy Pitchford, the creator of the Borderlands game franchise, posted a pair of images of a watch on X, saying that his friend found it underwater while scuba diving near Saint Martin, as reported earlier by Kotaku.\n\"He noted that the reverse of the watch indicates that it is a Google Pixel 5, which has not yet been announced, let alone released,\" Pitchford writes. \"It seems to be fine. The face indicates an empty battery, but seems to have enough reserve power to display the correct time.\" After putting out a call to find its owner, Pitchford s …\nRead the full story at The Verge.",
           "isoDate": "2026-06-01T20:59:14.000Z"
+        },
+        {
+          "title": "Moderna gets $50 million to develop mRNA Ebola vaccine against Bundibugyo",
+          "link": "https://arstechnica.com/health/2026/06/moderna-gets-50-million-to-develop-mrna-ebola-vaccine-against-bundibugyo/",
+          "summary": "Amid a raging Ebola outbreak, officials \"urgently accelerate development\" of vaccines.",
+          "isoDate": "2026-06-01T20:58:34.000Z"
+        },
+        {
+          "title": "Hackers duped Meta AI support chatbot to steal celebrity Instagram accounts",
+          "link": "https://arstechnica.com/ai/2026/06/meta-ai-support-chatbot-gave-hackers-access-to-notable-instagram-accounts/",
+          "summary": "Pricey Instagram handles were stolen and resold before Meta patched the exploit.",
+          "isoDate": "2026-06-01T20:44:37.000Z"
         },
         {
           "title": "Pebblebee&#8217;s Halo can help track lost items and keep you safe, and it&#8217;s on sale for $50",
           "link": "https://www.theverge.com/gadgets/941273/pebblebee-halo-bluetooth-tracker-personal-safety-deal-sale",
           "summary": "If you’re planning to travel this summer, both a Bluetooth tracker and a personal safety device can come in handy, especially if you’ll be exploring on your own. The Pebblebee Halo combines those two gadgets into one, and it’s currently on sale for $49.99 ($10 off) at Amazon, which is the best price we’ve seen. Amazon is also throwing in a fourth Halo for free when you buy three as a part of a limited time promotion.\nPebblebee Halo\n\nWhere to Buy:\n\n $59.99 $49.99 at Amazon\n\nWhether you’re touring a new city or heading back to your hotel after a night out, the Halo can help in a variety of situations. Like the Pebblebee Clip 5 — our favorite AirTag and Tile alternative — the rechargeable, water-resistant tracker does a good job of accurately helping you keep tabs of bags, wallets, keys, and other valuables. It offers up to 500 feet of Bluetooth range and taps into both Apple’s Find My network and Google’s Find Hub, so you can locate items even further away.\nWhat really sets it apart is that it’s also a personal safety device. With a quick pull, you can trigger off a piercingly loud 130dB siren, bright strobe lights, and automatic location sharing with one trusted contact. If you’d like to send your real-time location to multiple contacts at once, you’ll need Pebblebee’s Alert Live subscription (which costs $24.99 a year), but the good news is the service is included free for the first year, making the Halo an even better value at this price.\nRead our hands-on impressions of the Pebblebee Halo.",
           "isoDate": "2026-06-01T20:30:06.000Z"
+        },
+        {
+          "title": "Microsoft's Surface Laptop Ultra looks like its first true MacBook Pro competitor",
+          "link": "https://arstechnica.com/gadgets/2026/06/microsoft-surface-laptop-ultra-will-be-among-the-first-nvidia-rtx-spark-arm-pcs/",
+          "summary": "It's Microsoft's least-weird attempt at a high-end mobile workstation.",
+          "isoDate": "2026-06-01T20:13:09.000Z"
         },
         {
           "title": "This could be Windows’ M1 moment — but expect it to cost a ton",
@@ -30,40 +60,10 @@
           "isoDate": "2026-06-01T20:00:00.000Z"
         },
         {
-          "title": "Meta&#8217;s own AI was exploited to hijack Instagram accounts",
-          "link": "https://www.theverge.com/tech/941179/meta-instagram-ai-support-chatbot-exploit-hacked",
-          "summary": "Meta's AI support chatbot helped hackers hijack Instagram accounts, as reported earlier by 404 Media. In a video shared on Telegram, a hacker shows how they could take over an account by asking Meta's chatbot to switch the email associated with someone else's profile and then reset the password.\nThe issue, which Meta says has since been patched, cropped up around the same time Barack Obama's White House account on Instagram was hacked. On Sunday, users noticed that the @obamawhitehouse account began posting images containing Iranian propaganda. Hackers appeared to have hijacked the Instagram accounts belonging to the US Space Force Chief Ma …\nRead the full story at The Verge.",
-          "isoDate": "2026-06-01T19:20:47.000Z"
-        },
-        {
-          "title": "Doctors blast Trump for doubling down on vaccine policy modeled after Denmark",
-          "link": "https://arstechnica.com/health/2026/06/doctors-blast-trump-for-doubling-down-on-vaccine-policy-modeled-after-denmark/",
-          "summary": "Even Danish researchers think it's bizarre.",
-          "isoDate": "2026-06-01T19:07:58.000Z"
-        },
-        {
-          "title": "Casey Neistat’s guide to posting every day",
-          "link": "https://www.theverge.com/podcast/941140/casey-neistat-daily-vergecast",
-          "summary": "Some news: The Vergecast is now a daily podcast! Starting today, we'll be posting every weekday, with even more gadgets and rankings and conversations and feelings and podcasts-within-podcasts. We're excited for all the ways this new schedule lets us tell new kinds of stories, experiment with new tech and new formats, and involve you even more in the show. \n(The other immediate change to know about: We'll be publishing the show in the afternoons going forward, so we can include the day's biggest news in our 90 Seconds on The Verge segment. The goal is to always be live before 4PM ET. Often well before.)\nAs we've been preparing for our new  …\nRead the full story at The Verge.",
-          "isoDate": "2026-06-01T19:07:03.000Z"
-        },
-        {
-          "title": "Florida sues OpenAI, Sam Altman after multiple ChatGPT-linked murders",
-          "link": "https://arstechnica.com/tech-policy/2026/06/florida-sues-openai-sam-altman-after-multiple-chatgpt-linked-murders/",
-          "summary": "Altman has an \"utter disregard\" for human lives, Florida AG says.",
-          "isoDate": "2026-06-01T18:52:19.000Z"
-        },
-        {
-          "title": "From 15 hours to one minute: How AI/ML is speeding up GM's development",
-          "link": "https://arstechnica.com/cars/2026/06/from-15-hours-to-one-minute-how-ai-ml-is-speeding-up-gms-development/",
-          "summary": "From CFD and FEA to digital twins, carmaking now involves a lot of virtualization.",
-          "isoDate": "2026-06-01T17:41:47.000Z"
-        },
-        {
-          "title": "Allegedly trashing Airbnbs to test robots puts startup in legal trouble",
-          "link": "https://arstechnica.com/ai/2026/06/allegedly-trashing-airbnbs-to-test-robots-puts-startup-in-legal-trouble/",
-          "summary": "Lawsuit seeks $12,000 from startup that allegedly damaged home in robot tests.",
-          "isoDate": "2026-06-01T17:17:55.000Z"
+          "title": "Dozens of Red Hat packages backdoored through its official NPM channel",
+          "link": "https://arstechnica.com/security/2026/06/dozens-of-red-hat-packages-backdoored-through-its-offical-npm-channel/",
+          "summary": "Anyone who has downloaded affected Red Hat packages should investigate immediately.",
+          "isoDate": "2026-06-01T19:49:09.000Z"
         }
       ]
     },
@@ -71,6 +71,12 @@
       "header": "120  CIENCIA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "NASA Awards Modification Contract for Reduced Gravity Test Aircraft",
+          "link": "https://www.nasa.gov/news-release/nasa-awards-modification-contract-for-reduced-gravity-test-aircraft/",
+          "summary": "NASA selected Denmar Technical Services of Nevada to provide aircraft modifications, maintenance, and testing services to the Human Spaceflight Mission Directorate at NASA’s Armstrong Flight Research Center in Edwards, California, and Johnson Space Center in Houston. The award is a firm-fixed-price contract and will be time and material for any over and above and unforeseen […]",
+          "isoDate": "2026-06-01T23:45:59.000Z"
+        },
         {
           "title": "NASA Invites Media to See Roman Space Telescope Arrive at Kennedy",
           "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-see-roman-space-telescope-arrive-at-kennedy/",
@@ -124,12 +130,6 @@
           "link": "https://www.nature.com/articles/d41586-026-01688-1",
           "summary": "Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01688-1\nOnline prediction markets are taking bets on everything from climate change to quantum computing. But researchers question their accuracy.",
           "isoDate": "2026-06-01T00:00:00.000Z"
-        },
-        {
-          "title": "How long can humans live? We simply don’t know",
-          "link": "https://www.nature.com/articles/d41586-026-01728-w",
-          "summary": "Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01728-w\nClaims about the upper limits to human lifespan are characterized by hype, deficient data and shoddy science, says longevity researcher Saul Newman.",
-          "isoDate": "2026-06-01T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-06-01T21:32:08.505Z"
+          "isoDate": "2026-06-02T03:56:40.988Z"
+        },
+        {
+          "title": "How 'confused' AI rollout hurts firms and baffles staff",
+          "link": "https://www.bbc.com/news/articles/c74d1ydv01eo?at_medium=RSS&at_campaign=rss",
+          "summary": "Some firms are putting pressure on staff to use AI, but have not thought through their AI rollout.",
+          "isoDate": "2026-06-01T23:05:11.000Z"
         },
         {
           "title": "OpenAI let ChatGPT aid and abet mass shooters, Florida lawsuit claims",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.com/news/articles/cd7pwezyze1o?at_medium=RSS&at_campaign=rss",
           "summary": "King's College London researchers hope the chip will help answer previously unanswerable questions about the most important natural processes.",
           "isoDate": "2026-05-28T08:41:28.000Z"
-        },
-        {
-          "title": "Meta repeatedly snubs EU body over Facebook and Instagram user bans",
-          "link": "https://www.bbc.com/news/articles/c152yvwjwkko?at_medium=RSS&at_campaign=rss",
-          "summary": "The BBC has been contacted by hundreds of users who claimed they had been wrongly banned from the sites.",
-          "isoDate": "2026-05-28T08:28:43.000Z"
         }
       ]
     },
@@ -204,10 +204,22 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "Our views on AI policy and political advocacy",
+          "link": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
+          "summary": "Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on the company’s behalf.",
+          "isoDate": "2026-06-01T17:00:00.000Z"
+        },
+        {
           "title": "Building the infrastructure for the Intelligence Age in Michigan",
           "link": "https://openai.com/index/stargate-michigan-data-center",
           "summary": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
           "isoDate": "2026-06-01T12:00:00.000Z"
+        },
+        {
+          "title": "OpenAI frontier models and Codex are now available on AWS",
+          "link": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+          "summary": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with OpenAI on AWS and move faster from evaluation to production.",
+          "isoDate": "2026-06-01T10:00:00.000Z"
         },
         {
           "title": "Boston Children’s uses AI to unlock new diagnoses",
@@ -250,18 +262,6 @@
           "link": "https://openai.com/index/mufg",
           "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
           "isoDate": "2026-05-28T00:00:00.000Z"
-        },
-        {
-          "title": "OpenAI’s Frontier Governance Framework",
-          "link": "https://openai.com/index/openai-frontier-governance-framework",
-          "summary": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
-          "isoDate": "2026-05-28T00:00:00.000Z"
-        },
-        {
-          "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
-          "link": "https://openai.com/index/cisco",
-          "summary": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
-          "isoDate": "2026-05-27T11:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 77\nColumn: 559\nChar:  ",
-          "isoDate": "2026-06-01T21:32:10.510Z"
+          "isoDate": "2026-06-02T03:56:43.914Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-06-01T21:32:09.706Z"
+          "isoDate": "2026-06-02T03:56:42.868Z"
         },
         {
           "title": "IEEE President’s Note: Designing a Safer Digital World for Kids",
