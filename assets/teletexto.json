@@ -1,12 +1,30 @@
 {
-  "generatedAt": "2026-06-03T04:04:03.629Z",
+  "generatedAt": "2026-06-03T10:58:11.408Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
         {
-          "title": "Male bowerbirds hope to dazzle females with bright human-made items",
+          "title": "How long will it take to rebuild Blue Origin's launch pad? We asked some SpaceX vets.",
+          "link": "https://arstechnica.com/space/2026/06/how-long-will-it-take-to-rebuild-blue-origins-launch-pad-we-asked-some-spacex-vets/",
+          "summary": "\"Everyone is in a place where it’s no fun to be there.\"",
+          "isoDate": "2026-06-03T10:00:07.000Z"
+        },
+        {
+          "title": "AI has a water problem. Google thinks it has a fix",
+          "link": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers",
+          "summary": "In the face of widespread backlash to the AI data center buildout throughout the US, Google is touting its efforts to minimize the environmental impact by actually increasing water for local communities. \nThe company laid out five commitments around water use in a new blog post published Wednesday, including a goal to replenish more water than it uses at its data centers by 2030. Google also said it will invest in local water infrastructure, identify alternative water sources to power its facilities, and be transparent about its water use overall. \n\"We're just one of dozens of players in the space,\" Google's global head of infrastructure a …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-03T09:00:00.000Z"
+        },
+        {
+          "title": "Google must let publishers opt out of AI Search features, rules UK",
+          "link": "https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out",
+          "summary": "Online publishers are getting more control over whether their websites appear in Google's AI Search features, thanks to a UK regulatory ruling. The new conduct rule imposed by the Competition and Markets Authority (CMA) requires Google to let website owners keep their content out of features like AI Overviews and prevent it from being used for the \"fine-tuning\" of Google's AI models. \n\"In a world first, publishers will now have effective tools to prevent their content being used to power AI features in search, such as AI Overviews,\" the CMA announced. \"This will put publishers, like news organizations, in a stronger position to negotiate co …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-03T08:45:48.000Z"
+        },
+        {
+          "title": "Male bowerbirds prefer to dazzle females with bright human-made items",
           "link": "https://arstechnica.com/science/2026/06/male-bowerbirds-prefer-colorful-human-items-to-decorate-bowers/",
           "summary": "\"It’s a reminder of how human activity is changing the natural world in unanticipated ways.”",
           "isoDate": "2026-06-02T23:05:31.000Z"
@@ -46,24 +64,6 @@
           "link": "https://www.theverge.com/entertainment/940913/playstation-state-of-play-june-2026-news-trailers",
           "summary": "While the majority of Summer Game Fest takes place over the weekend, Sony is getting a jump on things with its next State of Play showcase, which airs on June 2nd at 5PM ET. It’s coming at a pivotal time for the PlayStation brand: The PS5 keeps getting more expensive and Sony’s big bet on live-service games has largely fallen flat. A good showing at SGF won’t fix everything, but it could help show that PlayStation is on the right path moving forward.\nFor its part, Sony says its latest State of Play will feature “more than 60 minutes of updates, announcements, and gameplay reveals from top studios around the world.” The only confirmed part of the event’s lineup is Wolverine, from Spider-Man developer Insomniac, which is slated to launch in September. But given the length of the stream, there’ll be plenty more detailed. Maybe we’ll see the just-announced third expansion for The Witcher 3, or the long-awaited final installment of the Final Fantasy VII remake trilogy, or some more of Intergalactic, the next big project from The Last of Us developer Naughty Dog. It’s also likely the event will provide some insight into the uncertain future of Marathon.\nWhatever Sony shows, you can watch along on YouTube or Twitch, or follow along with the latest developments right here.\nAnd for everything announced at the rest of Summer Game Fest, be sure to check out our event hub.\n\n\n\t\t\t\t\t\nGod of War Laufey is coming to the PS5\n\t\t\t\nRemedy’s Control sequel launches in September\n\t\t\t\nUntil Dawn gets a little sun.\n\t\t\t\nMarathon season 2 kicks off.\n\t\t\t\nAce Combat 8 release date: October 2nd.\n\t\t\t\nA different take on Silent Hill.\n\t\t\t\nOnimusha: Way of the Sword launches in September — and a demo is launching today.\n\t\t\t\nArrakis on console.\n\t\t\t\nDino crisis.\n\t\t\t\nThe Tomb Raider reboot is getting a small delay.\n\t\t\t\nYokai-slaying fun.\n\t\t\t\nDave the Diver is getting a prequel game.\n\t\t\t\nRayman reimagined, revealed.\n\t\t\t\nA little more Marvel.\n\t\t\t\nHere’s seven bloody minutes of Wolverine on the PS5\n\t\t\t\nPlayStation’s next big State of Play kicks off soon.\n\t\t\t\nSummer Game Fest is getting off to an early start.",
           "isoDate": "2026-06-02T20:40:00.000Z"
-        },
-        {
-          "title": "Amazon-owned Ring should pay Americans for scanning their faces, lawsuit says",
-          "link": "https://arstechnica.com/tech-policy/2026/06/amazon-owned-ring-should-pay-americans-for-scanning-their-faces-lawsuit-says/",
-          "summary": "Lawsuit: Ring cameras scan guests and passersby and use AI to identify faces.",
-          "isoDate": "2026-06-02T20:17:41.000Z"
-        },
-        {
-          "title": "I held the next-gen handheld",
-          "link": "https://www.theverge.com/games/941360/intel-arc-g3-extreme-msi-claw-next-gen-handheld-preview",
-          "summary": "The new MSI Claw with Intel Arc G3 Extreme. | Photo by Sean Hollister / The Verge\t\n\nIntel couldn't catch a break. Layoffs. Shakedowns. Crashing CPUs torpedoing its reputation, sending desktop gamers fleeing to AMD. Apple and Qualcomm pushing Intel out of multiple flagship laptops. A gaming graphics card going MIA. But its Panther Lake laptop chip, the first on its all-important 18A process, turned out excellent - and a handheld version might make Intel the leader in portable gaming chips.\nOn Monday, I spent two hours with an MSI Claw 8 EX AI Plus handheld atop Intel's new Arc G3 Extreme. I walked away thinking that next-gen handhelds have finally arrived. The true leap in performance and battery life we've been waiting for …\nRead the full story at The Verge.",
-          "isoDate": "2026-06-02T19:56:02.000Z"
-        },
-        {
-          "title": "If I had a hammer... it might actually be a rhino tooth",
-          "link": "https://arstechnica.com/science/2026/06/experiments-reveal-that-neanderthals-used-rhino-teeth-as-hammers/",
-          "summary": "Neanderthals had some wild stuff in their toolkits.",
-          "isoDate": "2026-06-02T19:54:14.000Z"
         }
       ]
     },
@@ -72,63 +72,63 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "ERROR cargando feed",
-          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
-          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-06-03T04:03:56.653Z"
+          "title": "Typhoon Jangmi",
+          "link": "https://science.nasa.gov/earth/earth-observatory/typhoon-jangmi/",
+          "summary": "The sprawling storm promised to deliver torrential rain across a wide swath of southern Japan.",
+          "isoDate": "2026-06-03T04:00:00.000Z"
+        },
+        {
+          "title": "Why a synthetic human genome is still worth building",
+          "link": "https://www.nature.com/articles/d41586-026-01725-z",
+          "summary": "Nature, Published online: 03 June 2026; doi:10.1038/d41586-026-01725-z\nA decade on from the launch of an ambitious project, it’s time to revisit the reasons for constructing a human genome from scratch.",
+          "isoDate": "2026-06-03T00:00:00.000Z"
+        },
+        {
+          "title": "Can an army of babies and dogs rescue psychology from its reproducibility crisis?",
+          "link": "https://www.nature.com/articles/d41586-026-01727-x",
+          "summary": "Nature, Published online: 03 June 2026; doi:10.1038/d41586-026-01727-x\nLabs are teaming up to run a host of huge projects that aim to bring rigour to cognitive science.",
+          "isoDate": "2026-06-03T00:00:00.000Z"
+        },
+        {
+          "title": "NASA Space Roboticist Challenge",
+          "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-space-roboticist-challenge/",
+          "summary": "The Fly Foundational Robots (FFR) mission will launch a robotic arm, with seven degrees of freedom, to low Earth orbit. NASA is opening access to the robotic arm to a select group of U.S. researchers — principal investigators, post-doctoral researchers, professors, and highly qualified graduate students — who have a compelling experiment and the capability […]",
+          "isoDate": "2026-06-02T20:56:53.000Z"
+        },
+        {
+          "title": "Look Up!",
+          "link": "https://www.nasa.gov/image-article/look-up/",
+          "summary": "Astronauts Sophie Adenot of ESA (European Space Agency) and Jack Hathaway of NASA, both Expedition 74 flight engineers, look out a window in the cupola, monitoring the automated approach and docking of the SpaceX Dragon cargo spacecraft to the International Space Station on May 17, 2026. The orbital outpost was soaring 259 miles above the […]",
+          "isoDate": "2026-06-02T16:06:20.000Z"
+        },
+        {
+          "title": "NASA Testing Wastewater Treatment Facility for Future Moon Base      ",
+          "link": "https://www.nasa.gov/centers-and-facilities/kennedy/nasa-testing-wastewater-treatment-facility-for-future-moon-base/",
+          "summary": "A mobile wastewater treatment system built at NASA’s Kennedy Space Center in Florida that can help prepare for long-duration missions on the Moon and Mars departed the spaceport and arrived at the University of North Dakota in Grand Forks. Graduate students at the university will test the technology under conditions designed to closely mimic the […]",
+          "isoDate": "2026-06-02T14:31:18.000Z"
+        },
+        {
+          "title": "Be a Clump Scout and Help Reveal Secrets of Stellar Nurseries",
+          "link": "https://science.nasa.gov/get-involved/citizen-science/help-galaxy-zoo-clump-scout-ii-project/",
+          "summary": "Help identify star-forming clumps in galaxy images, and help train machines to do the same.",
+          "isoDate": "2026-06-02T13:19:54.000Z"
+        },
+        {
+          "title": "Spacewalking With Scott Wray, Artemis EVA Training Lead",
+          "link": "https://www.nasa.gov/centers-and-facilities/johnson/spacewalking-with-scott-wray-artemis-eva-training-lead/",
+          "summary": "Scott Wray’s experience with spacewalks started when he was about 6 years old. A tent resembling a lunar lander provided the perfect imaginary spacecraft. “I would lie on my back with my feet propped up on a pillow as I imagined going through a launch countdown sequence,” he said. “Then I would exit the tent […]",
+          "isoDate": "2026-06-02T09:00:00.000Z"
+        },
+        {
+          "title": "Fire’s Footprint on Santa Rosa Island",
+          "link": "https://science.nasa.gov/earth/earth-observatory/fires-footprint-on-santa-rosa-island/",
+          "summary": "A wildland fire charred grassland, coastal sage scrub, and chaparral across one-third of the island, the second largest of the Channel Islands.",
+          "isoDate": "2026-06-02T04:01:00.000Z"
         },
         {
           "title": "Author Correction: CHIT1-positive microglia drive motor neuron ageing in the primate spinal cord",
           "link": "https://www.nature.com/articles/s41586-026-10728-9",
           "summary": "Nature, Published online: 02 June 2026; doi:10.1038/s41586-026-10728-9\nAuthor Correction: CHIT1-positive microglia drive motor neuron ageing in the primate spinal cord",
-          "isoDate": "2026-06-02T00:00:00.000Z"
-        },
-        {
-          "title": "Publisher Correction: White matter micro- and macrostructure brain charts for the human lifespan",
-          "link": "https://www.nature.com/articles/s41586-026-10693-3",
-          "summary": "Nature, Published online: 02 June 2026; doi:10.1038/s41586-026-10693-3\nPublisher Correction: White matter micro- and macrostructure brain charts for the human lifespan",
-          "isoDate": "2026-06-02T00:00:00.000Z"
-        },
-        {
-          "title": "Global plastics treaty must be built on a foundation of monitoring",
-          "link": "https://www.nature.com/articles/d41586-026-01775-3",
-          "summary": "Nature, Published online: 02 June 2026; doi:10.1038/d41586-026-01775-3\nGlobal plastics treaty must be built on a foundation of monitoring",
-          "isoDate": "2026-06-02T00:00:00.000Z"
-        },
-        {
-          "title": "Chemicals meant to be eco-friendly accumulate aloft",
-          "link": "https://www.nature.com/articles/d41586-026-01763-7",
-          "summary": "Nature, Published online: 02 June 2026; doi:10.1038/d41586-026-01763-7\nLarge-scale measurements of atmospheric hydrofluoroolefins show that their levels are rising, but the implications are unclear.",
-          "isoDate": "2026-06-02T00:00:00.000Z"
-        },
-        {
-          "title": "Natural capital accounting needs a way to assess uncertainty",
-          "link": "https://www.nature.com/articles/d41586-026-01778-0",
-          "summary": "Nature, Published online: 02 June 2026; doi:10.1038/d41586-026-01778-0\nNatural capital accounting needs a way to assess uncertainty",
-          "isoDate": "2026-06-02T00:00:00.000Z"
-        },
-        {
-          "title": "Remembering inventor and activist Hertha Ayrton",
-          "link": "https://www.nature.com/articles/d41586-026-01337-7",
-          "summary": "Nature, Published online: 02 June 2026; doi:10.1038/d41586-026-01337-7\nThe biography of a pioneering scientist and suffragist, and a call for researchers to write about themselves, in our weekly dip into Nature’s archive.",
-          "isoDate": "2026-06-02T00:00:00.000Z"
-        },
-        {
-          "title": "Power imbalances in adviser–student relationships need safeguarding",
-          "link": "https://www.nature.com/articles/d41586-026-01776-2",
-          "summary": "Nature, Published online: 02 June 2026; doi:10.1038/d41586-026-01776-2\nPower imbalances in adviser–student relationships need safeguarding",
-          "isoDate": "2026-06-02T00:00:00.000Z"
-        },
-        {
-          "title": "Is it time to ‘cap and trade’ credits for research-funding proposals?",
-          "link": "https://www.nature.com/articles/d41586-026-01777-1",
-          "summary": "Nature, Published online: 02 June 2026; doi:10.1038/d41586-026-01777-1\nIs it time to ‘cap and trade’ credits for research-funding proposals?",
-          "isoDate": "2026-06-02T00:00:00.000Z"
-        },
-        {
-          "title": "The future of science communication is not an article like this",
-          "link": "https://www.nature.com/articles/d41586-026-01723-1",
-          "summary": "Nature, Published online: 02 June 2026; doi:10.1038/d41586-026-01723-1\nResearchers and science publishers need to seize the opportunity offered by the drastic shifts in the way news is produced — one reason Nature has joined TikTok.",
           "isoDate": "2026-06-02T00:00:00.000Z"
         }
       ]
@@ -141,7 +141,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-06-03T04:03:57.726Z"
+          "isoDate": "2026-06-03T10:58:05.738Z"
+        },
+        {
+          "title": "Meta won't track its workers' clicks - but only for half an hour at a time",
+          "link": "https://www.bbc.com/news/articles/c93x0k194yno?at_medium=RSS&at_campaign=rss",
+          "summary": "According to an internal memo, new controls will allow employees to pause the data collection for \"up to 30 minutes at a time\".",
+          "isoDate": "2026-06-03T10:46:30.000Z"
+        },
+        {
+          "title": "Publishers in UK can opt out of Google AI search results",
+          "link": "https://www.bbc.com/news/articles/c775pp26yz5o?at_medium=RSS&at_campaign=rss",
+          "summary": "The Competition and Markets Authority says it would put publishers \"in a stronger position to negotiate content deals with Google\".",
+          "isoDate": "2026-06-03T05:18:00.000Z"
         },
         {
           "title": "Do you find yourself aimlessly scrolling? You're not alone",
@@ -184,18 +196,6 @@
           "link": "https://www.bbc.com/news/articles/czx2j0v8d2xo?at_medium=RSS&at_campaign=rss",
           "summary": "Florida Attorney General James Uthmeier alleges OpenAI and boss Sam Altman built a 'web of deceit'",
           "isoDate": "2026-06-01T18:58:26.000Z"
-        },
-        {
-          "title": "UK banks blocked from cyber AI tool Mythos get offer from rival OpenAI",
-          "link": "https://www.bbc.com/news/articles/cm2p3j6lvn7o?at_medium=RSS&at_campaign=rss",
-          "summary": "Nine banks have been offered access to GPT 5.5 Cyber, as fierce rival Anthropic has blocked previews of its tool.",
-          "isoDate": "2026-06-01T17:07:20.000Z"
-        },
-        {
-          "title": "Tech Now",
-          "link": "https://www.bbc.co.uk/iplayer/episode/m002xbvq?at_medium=RSS&at_campaign=rss",
-          "summary": "Shiona McCallum visits Fifa HQ in Zurich to see new tech being used in the World Cup.",
-          "isoDate": "2026-05-30T01:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 77\nColumn: 559\nChar:  ",
-          "isoDate": "2026-06-03T04:03:59.652Z"
+          "isoDate": "2026-06-03T10:58:09.703Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-06-03T04:03:58.906Z"
+          "isoDate": "2026-06-03T10:58:07.359Z"
         },
         {
           "title": "Direct-to-Cell Technology: Enabling Satellite Connectivity for Legacy Devices",
