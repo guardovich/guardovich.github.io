@@ -1,10 +1,46 @@
 {
-  "generatedAt": "2026-06-03T20:54:54.977Z",
+  "generatedAt": "2026-06-04T03:58:34.118Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Flesh-eating screwworm infection confirmed in South Texas, USDA says",
+          "link": "https://arstechnica.com/health/2026/06/flesh-eating-screwworm-infection-detected-in-south-texas-usda-says/",
+          "summary": "With the case confirmed, it is the fly's first breach of the US-Mexico border.",
+          "isoDate": "2026-06-04T02:46:35.000Z"
+        },
+        {
+          "title": "Nintendo confirms it will sell a new Switch 2 with replaceable battery in the EU",
+          "link": "https://www.theverge.com/games/942808/nintendo-switch-2-replaceable-battery-eu",
+          "summary": "Nintendo is planning to launch versions of Switch 2 hardware in the EU that will let users easily replace the battery. To meet its obligations from a new EU regulation that's set to go into effect on February 18th, 2027, Nintendo says on its website that it is \"implementing measures to comply with these requirements by preparing versions of products to meet the Regulation.\"\nThanks to EU regulations, gadgets with user-replaceable batteries are making a comeback, as my colleague Dominic Preston wrote recently. Starting on that February 2027 date, EU rules mandate that many types of gadgets, including portable game consoles, must allow users t …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-04T00:04:04.000Z"
+        },
+        {
+          "title": "Microsoft, Atom Computing, EeroQ update their quantum computing progress",
+          "link": "https://arstechnica.com/science/2026/06/microsoft-atom-computing-eeroq-update-their-quantum-computing-progress/",
+          "summary": "Some quantum computing companies we've covered have done recent progress updates.",
+          "isoDate": "2026-06-03T22:09:41.000Z"
+        },
+        {
+          "title": "Apple is bringing age verification to Texas this week",
+          "link": "https://www.theverge.com/tech/942761/apple-texas-age-verification-app-store",
+          "summary": "Apple will introduce age verification in the App Store for users in Texas starting on Thursday, June 4th. The move, as spotted by MacRumors, comes just days after a federal appeals court allowed Texas' App Store Accountability Act to go into effect while a lawsuit against it proceeds.\nPeople in Texas who are creating a new Apple account will need to verify they're over 18 using a credit card or government ID. Apple may also automatically verify users' age using the age of their account and whether they have a credit card on file.\nMeanwhile, users under 18 must join a Family Sharing group, where a parent or guardian will need to provide con …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-03T21:49:51.000Z"
+        },
+        {
+          "title": "WiiM expands its whole-home ecosystem with a new soundbar",
+          "link": "https://www.theverge.com/tech/942748/wiim-releases-first-soundbar",
+          "summary": "The $479 WiiM Bar includes a 2.1-inch touchscreen on its front. | Image: WiiM\t\n\nWiiM, the audio company that's challenged the idea that audiophile-level performance requires a small loan, is expanding its whole-home ecosystem with the WiiM Bar, which releases in July. Much like its other speakers and audio components, the WiiM Bar supports a bunch of streaming options and expandability at an affordable price - in this case, $479.\nThe company's first soundbar has a 3.0.2 Atmos configuration with a total of eight drivers - three front mid-woofers, three front tweeters, and two up-firing full-range height drivers - paired with four passive radiators. That configuration can be expanded to 3.1.2 with the addition of a WiiM  …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-03T21:12:51.000Z"
+        },
+        {
+          "title": "Google ordered to put clearer links in AI search and let UK publishers opt out",
+          "link": "https://arstechnica.com/tech-policy/2026/06/google-ordered-to-put-clearer-links-in-ai-search-and-let-uk-publishers-opt-out/",
+          "summary": "Google must change AI Overviews after claiming users don't want \"lots of sources.\"",
+          "isoDate": "2026-06-03T20:26:51.000Z"
+        },
         {
           "title": "Nvidia is already planning N2X and N3X chips — the goal is the Star Trek computer",
           "link": "https://www.theverge.com/tech/942588/nvidia-rtx-spark-n2x-n3x-r2-d2-star-trek-star-wars-plan",
@@ -12,58 +48,22 @@
           "isoDate": "2026-06-03T20:03:50.000Z"
         },
         {
+          "title": "Can't make sense of Dashlane's vault theft notification? You're not alone.",
+          "link": "https://arstechnica.com/security/2026/06/dashlane-issues-opaque-advisory-warning-20-encrypted-vaults-were-stolen/",
+          "summary": "Security advisory leaves out key details. Dashlane maintains complete silence.",
+          "isoDate": "2026-06-03T19:53:14.000Z"
+        },
+        {
+          "title": "Google's new Gemma 4 12B model is designed to run on any laptop with 16GB of RAM",
+          "link": "https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/",
+          "summary": "Gemma 4 12B uses a new encoding scheme and token prediction to punch above its weight.",
+          "isoDate": "2026-06-03T19:10:03.000Z"
+        },
+        {
           "title": "The best Bluetooth trackers for Apple and Android phones",
           "link": "https://www.theverge.com/23769840/best-bluetooth-trackers",
           "summary": "Some people rarely lose things. Wallets are always exactly where they’re supposed to be, keys never go missing, and remotes never slip between the couch cushions. And then there’s the rest of us — the folks who can’t ever seem to find the thing that was right there a few seconds ago. For us, Bluetooth trackers can help.\nBluetooth trackers have been around for a long time, and they all generally work the same way. You attach the tracker to an object (a key ring, tote, in your wallet, etc), pair it with your phone, and then, if you lose said object, you can go into an app and ring the tracker. These days, Bluetooth trackers can do a lot more. Some have ultra-wideband chips that enable precision tracking, so you can find exactly where in a room your item is without having to sound an alarm. Most trackers tap into large networks — like Apple’s Find My and Google’s Find Hub — making it easier to locate lost items outside the home. Many will notify you if they detect you’ve left the device behind or come with QR codes that link to your contact information so people can easily return lost items.\nThese features are incredibly handy but also have the potential for misuse. For example, when Apple launched the AirTag, it seems the company hadn’t anticipated they might be used to track people or stolen items — but that’s exactly what happened. It’s since beefed up its anti-stalking features, and companies like Tile have also followed suit. Apple and Google have launched a standard that enables unwanted tracking alerts across both Android and iOS devices, and major players like Tile, Samsung, and Chipolo have supported the initiative. Still, it’s worth making yourself aware of each tracker’s approach to safety when deciding the best option for you.\nAs consummate Losers of Things, we have tested a fair share of Bluetooth trackers on wallets, keys, and luggage. Here’s what we’d recommend if you, too, have a hard time finding things.\n\n\n\n\n\nThe best tracker for iPhone users\nApple AirTag (second-gen)\nApple’s latest AirTags features an upgraded ultra-wideband chip for more precise location tracking, a noticeably louder speaker, and an expanded Bluetooth range. \n\nWhere to Buy:\n\n $29 at Amazon\n $29 at Best Buy\n $128.99 $99.99 at Costco (pack of five)\n\nIf you’re an iPhone owner, Apple’s second-gen AirTag offers a level of precision that rival trackers simply cannot match. The updated model leverages the company’s latest ultra wideband (UWB) chip for its nifty Precision Finding feature, which, in turn, can lead you to your lost item with an on-screen arrow in the Find My app. Plus, because AirTags can tap into Apple’s vast Find My network, a lost tracker can anonymously ping its location to Apple’s iCloud servers whenever it’s near another Apple device, extending its range beyond Bluetooth’s limitations.\nThat level of precision proved incredibly useful during testing. Apple’s newest coin-shaped tracker consistently guided us to our misplaced items, including a spare mailroom key hidden in a closet. None of the other Bluetooth trackers we tested — including those from Tile and other third-party, Find My-compatible offerings — worked quite as well. The extended range on the latest AirTags also makes it much easier to reliably locate items in multi-story homes, while a series of iOS updates has made it possible to share a temporary map with a host of airlines (including Delta and United), which can help if your luggage should ever go missing.\nThere are downsides, though. Although their replaceable CR2032 battery helps you save money in the long run, AirTags aren’t truly $29 for most people, since you’ll likely want to buy a separate holder to attach one to your keys or luggage. They’ve also faced criticism for being misused for unwanted tracking purposes (you can read our original testing in full here). That being said, Apple is aware of the issue and has since improved unwanted tracking alerts by shortening the time before you’re notified an unknown AirTag is in your vicinity, making chimes louder, and creating a separate app that lets Android users scan for unknown AirTags. \nRead our second-generation AirTags review.\nThe best tracker for Android users\nTile Pro\nThe Tile Pro is the company’s loudest Bluetooth tracker and has the widest range at 500 feet. It also has a user-replaceable battery, unlike other Tiles.\n\nWhere to Buy:\n\n $34.99 at Amazon\n $34.99 at Life360\n\nMore trackers these days offer support for both Google’s and Apple’s Find My networks, but Tile’s trackers remain our top recommendation for both Android users and those in mixed iOS / Android households. What’s more, Tile currently offers four form factors to suit different needs: the card-shaped Tile Slim ($29.99), the square-ish Tile ($24.99), the self-adhesive Tile Sticker ($24.99), and the Tile Pro ($34.99). The keyfob-shaped Tile Pro is our personal favorite; it’s larger than the Tile, offers the longest Bluetooth range at 500 feet, and has the loudest ring. Of the four, it’s also the only one that has a replaceable one-year CR2032 battery.\nA note about Google’s Find Hub network\nIn 2024,  Google finally launched its Find My Device network, which was later renamed Find Hub. It works similarly to Apple’s Find My network: you’ll be able to share trackers with family members, and there are also unwanted tracking alerts.\nInitially, the network lagged behind Apple’s, but it’s catching up. After several weeks of testing Find Hub-compatible trackers — specifically the Chipolo Pop, Pebblebee Clip 5, and Motorola’s Moto Tag — in 2025, we found the network had improved significantly, especially in busy areas. Still, it’s clear Google prioritized privacy over precision.\nGoogle is making some progress, though. In 2024, it also rolled out satellite connectivity to Pixel 9 phones and newer devices, followed by UWB support for more precise tracking with Moto Tags and other compatible phones and trackers. More recently, the company added support for an iPhone-like feature that lets you share tracker locations with a growing number of airlines. So far, the list doesn’t include any US-based carriers, but it does include Lufthansa, Air India, China Airlines, Saudia, and more.\nAll Tile trackers work similarly to AirTags. Like Apple’s, Tile’s platform-agnostic trackers can tap into a larger network — in this case, the Tile Network and Amazon Sidewalk, neither of which is as expansive as Apple’s or Google’s. However, when we tested Google’s Find Hub-compatible trackers, including the Chipolo Pop and Moto Tag, we found that Tile still did better at tracking items outside the home. The biggest downside is that Tile trackers lack ultra-wideband support, which means they can’t guide you to a nearby item using distance and directional cues like an AirTag. The company did announce a tracker that supports UWB in 2021, but it’s yet to ship, likely because Apple is effectively blocking UWB compatibility for third parties in iOS and Tile’s priorities shifted after it was acquired by Life360.\nThat being said, Tile trackers do have an edge over AirTags when it comes to recovering stolen items and safety features. That’s largely due to Tile’s anti-theft feature, which makes trackers invisible to tracking detection if your item is stolen. Using it requires identity verification and carries strict penalties, including a $1 million fine for misuse. Tile also offers a “Scan and Secure” tool for detecting unknown Tile devices nearby, though potential victims still have to proactively scan their surroundings. \nTo round things out, Tile users can manage their trackers directly within the Life360 app and send SOS alerts to emergency contacts with the push of a button (or several). New Tile users are also eligible for up to $100 in reimbursement for lost items and free replacements for damaged trackers, as well as access to 30 days of location history and unlimited sharing within their first year. After that, Tile owners will have to pay the $29.99 annual premium subscription fee to continue enjoying those perks, though every Tile user gets two days of location history for free.\nThe best AirTag and Tile alternative\nPebblebee Clip 5\nThe Pebblebee Clip 5 supports Apple’s Find My and Google’s Find Hub networks, but also has a 500-foot Bluetooth range, LEDs that flash to help you locate it, and a rechargeable battery that lasts up to 12 months on a single charge.\n\nWhere to Buy:\n\n $34.99 at Amazon\n $34.99 at Pebblebee\n\nIf you’re looking for an AirTag or Tile alternative, the $34.99 Pebblebee Clip 5 is an excellent choice. It’s one of a growing number of trackers that support both Apple’s Find My and Google’s Find Hub networks, which is a major improvement over its predecessor. Setup is seamless for iOS and Android users, but because Pebblebee’s app doesn’t handle tracking, features like geofencing and safe locations depend on which network you choose. Apple’s Find My, for instance, supports “left behind” alerts and safe locations; Google’s Find Hub still lacks an equivalent.\nThe thing we like best about the Pebblebee Clip 5 is its rechargeable battery. It can last up to a year on a single charge, though you may get longer than that depending on your usage. It features a USB-C port, and Pebblebee advertises a Bluetooth range of up to 500 feet. Additionally, the Clip 5 features a blinking LED strip that’s noticeably brighter than prior models and a significantly louder ringtone, making lost items easier to find, even in dark or noisy environments.\nYou can still use Pebblebee’s app to set voice tags, ask Amazon Alexa or Google Assistant for help, or double-tap the tracker to ring your phone. While the Clip 5 is larger than an AirTag, it also includes a snap-on key ring, so you don’t need to pay for an extra accessory just to attach it to your belongings. It’s also rated IP66 for dust and water resistance, making it slightly more durable than earlier Pebblebee trackers. \nThe best AirTag alternative for wallets\nPebblebee Card 5\nThe Pebblebee Card 5 has a rechargeable battery that lasts up to 18 months and supports wireless charging. It works with Apple’s Find My and Google’s Find Hub, but you can also use the Pebblebee app for voice tagging.\n\nWhere to Buy:\n\n $34.99 at Amazon\n $34.99 at Pebblebee\n\nYou could try stuffing an AirTag into a bifold wallet and hope it stays put — or opt for a Find My–compatible alternative that’s actually designed for wallets, like the $34.99 Pebblebee Card 5. It plays nicely with both Apple’s Find My and Google’s Find Hub networks, giving you cross-platform flexibility and the benefits of each, all with a super loud ringtone. It doesn’t offer precision tracking because it lacks UWB, but it makes up for it with said ringtones. It also supports unwanted tracking alerts as part of the Find My network.\nThe Card 5 stands out for its sleek design and wireless charging support. At just 1.8mm thick, it’s one of the thinnest trackers you can buy and measures about the size of a credit card, meaning you can easily slip it into an overstuffed wallet packed to the brim with receipts, gift cards, and cash. The same can’t always be said of Tile’s wallet tracker, which is nearly twice as thick. What’s more, the Card 5 lasts up to 18 months on a single charge and supports wireless charging, so you don’t have to worry about replacing any batteries.\nUnsurprisingly, the Card 5 shares many of the same strengths as the Pebblebee Clip 5, including support for the Pebblebee app and voice tagging. You also get a range of up to 500 feet, an IP66 rating for dust and water resistance, and a built-in button you can press to help locate your phone. \nOther Bluetooth trackers to consider\nChipolo Pop and Chipolo Loop\nThe $29 Chipolo Pop offers a similar form factor to Apple’s AirTag in a lighter, more colorful package with a hole for a keychain or lanyard, a louder beep, and compatibility with both Apple’s Find My and Google’s Find Hub networks (though only one at a time). You can even use the Pop as a remote camera shutter and press the built-in button twice to find your lost phone. Unlike Chipolo’s other trackers, it boasts a wider 300-foot Bluetooth range, a more robust IP55 rating for water and dust resistance, and includes a user-replaceable battery that can last up to a year.\nIn our testing, tracking was accurate on both Apple’s and Google’s networks in most cases, Google’s struggled to track items outside of the home as reliably as the Tile. And without UWB, the Pop couldn’t match the AirTag’s pinpoint precision. Still, the Chipolo app provides Android users with reliable out-of-range alerts and left-behind notifications — something Pebblebee and Moto Tag’s trackers lack —which, in our experience, trigger even faster than the Tile.\nIf you’re willing to spend an extra $10, the $39 Chipolo Loop is very similar to the Chipolo Pop, with many of the same strengths and weaknesses. However, it charges via USB-C and includes a built-in silicone ring that’s easy to attach to keys, bags, and other items. You also get a more durable IP67 rating and an extra 100 feet of Bluetooth range — up to 400 feet total. Just note you’ll have to supply your own USB-C cable. \nSamsung SmartTag2\nIf you’re a Samsung Galaxy phone user, the $29.99 Samsung SmartTag2 gets you UWB tracking and can tap into the Galaxy Find network, which operates similarly to Apple’s Find My network. It’s a great AirTag alternative, but it isn’t our overall pick for Android because it’s limited to Samsung Galaxy users. That said, the latest SmartTag2 includes an improved Compass View, longer battery life, and a better app experience. It also has a newer, oblong design with a larger key ring than the original SmartTag.\nMoto Tag\nMotorola’s $29.99 Moto Tag is the first tracker on Google’s Find Hub network to offer ultra wideband for locating lost items on phones equipped with a UWB chip, which is a feature Google enabled via a firmware update after releasing the device. Like Apple’s AirTag, it can guide you directly to your missing item via directional cues in the Find Hub app. It worked well in our testing, though Apple’s AirTag was occasionally more precise when tracking objects farther away or through walls. The Moto Tag was also less effective than Tile’s trackers at locating items outside of the home.\nStill, if you want a tracker to find things around the house, the Moto Tag is a solid pick. It also fits most AirTag accessories, carries an IP67 rating for dust and water resistance, and uses a replaceable CR2032 battery that lasts up to a year. It can ring your misplaced phone, too, and doubles as a remote shutter for Motorola phones. Just know that Motorola recently announced the Moto Tag 2, which can last more than 500 days on a user-replaceable CR2032 coin cell battery and offers improved dust and water resistance. The company hasn’t specified an exact US release date (yet).\nChipolo Card\nThe rechargeable Chipolo Card is also a good, thin tracker for wallets. Priced at $39, it works with either Apple’s Find My or Google’s Find Hub network and carries an IP67 rating for dust and water resistance. It supports Qi wireless charging, unlike the Chipolo Loop, and features a slim design that slips neatly into your wallet. It also offers a 400-foot Bluetooth range — a bit less than the Pebblebee Card 5 — and lasts about six months per charge. Overall, it’s a solid choice if you want something simple, even if it lacks the QR code found on some competing trackers.\nEufy Security SmartTrack Card E30\nEufy’s rechargeable $34.99 SmartTrack Card E30 is another good option for wallets, one that can also tap into Apple’s Find My network like the aforementioned Pebblebee Card 5. On the back, there’s also a QR code — similar to the ones Tile uses — that helps good Samaritans return your item to you. Like the Pebblebee’s newest offerings, you can also share it with multiple people if you set it up via the Eufy Security app.\nThe bummer here is that the E30 doesn’t work with Android and lacks UWB. However, the upcoming Eufy SmartTrack Card E40 will add support for Google’s Find Hub network while continuing to support Apple’s aforementioned Find My feature. It can also recharge via any Qi-compatible wireless charger and features a louder, 100dB alarm. \nUpdate, June 3rd: Adjusted pricing and availability, and updated references to the Tile Mate to reflect its new name, Tile.",
           "isoDate": "2026-06-03T19:00:00.000Z"
-        },
-        {
-          "title": "The best Qi2 batteries for iPhone and Pixel",
-          "link": "https://www.theverge.com/gadgets/939362/best-magsafe-qi2-2-batteries-power-banks",
-          "summary": "Compact power banks have gotten a lot faster in the past year — and it’s not just their USB-C charging speeds that have received a boost. The newest Qi2.2-certified models can wirelessly charge an iPhone 16 or later at up to 25W. Combine that with their ability to magnetically snap on via MagSafe, and you’ve got yourself an essential add-on that’s easy to take on the go.\nQi2 is a magnetic wireless charging standard that’s based on Apple’s MagSafe tech, so almost all modern iPhones support it. While the latest iPhones offer the fastest charging rates, older models (dating back to the iPhone 12) support 15W Qi2 charging speeds, which is still suitably quick. (The iPhone 17E also maxes out at 15W, and the 16E doesn’t have wireless charging at all.)\nOn the other hand, Android phones are a mixed bag, with very few models supporting Qi2, let alone Qi2.2. Google’s Pixel 10, 10 Pro, and 10 Pro Fold support Qi2 charging at up to 15W; the 10 Pro XL supports Qi 2.2 at up to 25W. Samsung’s Galaxy 26 lineup is “Qi2 Ready,” which means they can use Qi2 chargers at up to 15W if they have a magnet case. And that’s pretty much it.\nWe know you want the best, whichever phone you have. Some of you may be willing to pay a lot for it, while others may simply want the best possible model for the least amount of money. Of the seven we tested — which vary in features, design, and charging speed — we landed on two picks that should satisfy most people’s needs. \nThe Qi2.2 battery with the fastest wireless charging speeds\nBaseus PicoGo AM52 Qi2.2 Magnetic Power Bank\n\nWhere to Buy:\n\n $79.99 $63.99 at Amazon (with Prime, with built-in cable)\n $79.99 $59.99 at Amazon (no built-in cable)\n $79.99 $69.99 at Baseus\n\nDimensions: 2.6 x 4 x 0.6 inches, 196 grams / Wireless charging speed: Qi2.2 25W, Qi2 15W / Wired charging speed: Advertised as 45W, but a bit slower / Passthrough charging: Yes / Ports: One USB-C port / Built-in cable: Yes, non-removable / Advertised battery capacity: 10,000mAh, 36Wh\nThe Baseus PicoGo AM52 is about as no-frills as power banks come, both in design and features. The all-black battery pack has a sleek aluminum case, with soft-touch silicone on the magnetic side to prevent it from scratching your phone while charging. It can charge devices via Qi2.2 and USB-C simultaneously, but using both requires you to press the power button (and there’s a steep speed penalty as it splits the power).\n\n\n\n\n\n\n\n\nThe AM52 consistently offered the fastest wireless charging speeds of any power bank I tested, and it’s often the most affordable of the bunch. It wirelessly charged an iPhone 17 Pro Max to 65 percent in one hour and the Pixel 10 Pro XL to 50 percent, which is on par with the slightly pricier Sharge Icemag 3. The Iniu SnapGo Air slightly outperformed the AM52 in some wireless tests, but lagged behind in others. Baseus’s model lacks a built-in display — meaning you can’t see the remaining charge — but two of the four LED indicators were still full after an hour of wireless charging, indicating it still had some juice left.\nI tested the version with a built-in USB-C cable, which usually retails for $64 at Amazon if you’re a Prime member ($4 more than the cordless version). Sometimes, it drops to $40 or so with a coupon, and in terms of wired charging speeds, it was also among the fastest of the seven batteries I tested. It charged both the iPhone and Pixel to about 90 percent capacity within an hour, though it’s not necessarily hard to find a battery that supports fast wired charging.\n\niPhone 17 Pro MaxiPhone 17 Pro MaxGoogle Pixel 10 Pro XLGoogle Pixel 10 Pro XL\n\nAfter one hour of wireless chargingAfter one hour of wired USB-C chargingAfter one hour of wireless chargingAfter one hour of wired USB-C charging\nBaseus PicoGo AM5265 percent89 percent50 percent90 percent\nSharge Icemag 364 percent85 percent49 percent70 percent\nIniu SnapGo Air60 percent89 percent34 percent88 percent\n\n\n\nThe Baseus AM52 advertises a top speed of 45W via USB-C, though it didn’t reach those speeds with any of the devices I tested. It topped out at about 38W while connected to the iPhone 17 Pro Max and 33W while attached to the Pixel 10 Pro XL, both of which advertise higher wired speeds (the Iniu SnapGo Air topped out at 39W). The Baseus also topped out at 39.1W while plugged into my M2 MacBook Air, which isn’t far from its advertised rating, while the Iniu reached 43W. In other words, get the Iniu if you value fast wired speeds and the Baseus if you want fast wireless charging.\n\n\n\n\nThe other Qi2.2 batteries I tested\nSharge’s Icemag 3 (39.1Wh) is the coolest battery of the seven that I tested, and it delivers great wireless and wired charging speeds (25W and 30W, respectively). No issues here, but it usually costs a fair amount more than the Baseus or Iniu model.\nIniu’s SnapGo Air (39.2Wh) came close to being our top pick thanks to its fast wired charging, relatively low price, and LED display that shows remaining charge. But its wireless charging performance was inconsistent.\nThe Qi2 battery with the most power for the least money\niWalk PowerHybrid magnetic charger\n\nWhere to Buy:\n\n $49.99 $33.99 at Amazon\n $49.99 $32.99 at iWalk\n\nDimensions: 2.6 x 5.8 x 0.8 inches, 215 grams / Wireless charging speed: Qi2 15W / Wired charging speed: 30W / Passthrough charging support: Yes / Ports: One USB-C port / Built-in cable: Yes, removable / Advertised battery capacity: 10,000mAh, 38.5Wh\nI wasn’t expecting one of the best-performing batteries to be the least expensive model I called in. The iWalk PowerHybrid is a 15W Qi2 charger that’s bulkier than our top pick, and honestly, pretty cheap-looking. But I can’t argue with its charging speeds, or the fact that it’s commonly available for about $35 — half the typical cost of the Baseus AM52. The PowerHybrid also includes a USB-C cable fashioned into a lanyard; however, this one is fully detachable, unlike Baseus’s.\n\n\n\n\n\n\n\n\nThe iWalk charged the iPhone 17 Pro Max to 55 percent in an hour via Qi2 wireless charging. It performed similarly to our Qi2.2 pick while charging the Pixel 10 Pro XL, too, delivering 46 percent of the phone’s total charge in an hour (with 59 percent of the power bank’s battery remaining). Yes, that’s slower than the AM52, but ask yourself: Is a 10 percent speed boost worth nearly twice the price? No judgment if your answer is yes, but those shaking their heads are my kind of people.\n\niPhone 17 Pro MaxiPhone 17 Pro MaxGoogle Pixel 10 Pro XLGoogle Pixel 10 Pro XL\n\nAfter one hour of wireless chargingAfter one hour of wired USB-C chargingAfter one hour of wireless chargingAfter one hour of wired USB-C charging\niWalk Power Hybrid battery ($50)55 percent90 percent46 percent85 percent\nAnker MagGo Power Bank ($90)57 percent86 percent46 percent72 percent\nAulumu M10 battery ($90)58 percent90 percent12 percent84 percent\nStatik SmartCharge Gen 2 ($70)25 percent32 percent18 percent36 percent\n\n\n\nThe PowerHybrid’s wired charging speeds were in line with other models I tested, allowing me to take the iPhone 17 Pro Max and the Pixel 10 Pro XL to 90 percent and 85 percent in an hour, respectively. It also didn’t have any issues reaching its peak 30W charging speeds across multiple devices, which, again, was the case with the AM52.\nThe iWalk battery has a pretty big quirk, however: It doesn’t automatically turn on when you place a device on its magnetic surface. For Qi2 charging to work, its display (which shows the remaining charge) must be illuminated, which requires you to either press the power button or charge something via its USB-C port. It’s not a big deal, but it might be annoying to some.\n\n\n\n\nThe other Qi2 batteries I tested\nThe Anker MagGo Power Bank (38.5Wh) is hefty and deluxe, with a durable kickstand and a slick display that shows remaining charge and time to charge. But it’s slow considering its high $90 price, managing 15W Qi2 and 27W USB-C charging.\nNo other battery I tested looks as quirky and futuristic as Aulumu’s M10 (36Wh). It supports Apple Watch charging, plus USB-C charging and Qi2 15W speeds, but it’s costly at $90 and delivers inconsistent wireless charging speeds.\nStatik’s SmartCharge Gen 2 (38.5Wh) delivers what a lot of people are likely looking for: a power bank that can plug directly into an outlet, with two built-in USB-C cables, a few ports, not to mention Apple Watch charging. It’s cool and not terribly expensive at $70, but it’s very slow to charge devices.\nPhotography by Cameron Faulkner / The Verge\nA note on efficiency and capacity\nBattery packs are convenient, but slower and less efficient than wired power adapters. All the batteries I tested claim 10,000mAh capacity. Milli-Ampere-hours, unlike Watt-hours, depend on battery voltage, so they can be misleading. For example, the Anker MagGo 10K battery I tested is advertised as having 10,000mAh capacity at 3.85V, or 38.5Wh total energy. The Baseus battery I tested is advertised as having 10,000mAh capacity. Fine print on its label reveals that its actual rating is 5,000mAh at 7.2V, or 36Wh. That doesn’t mean it can deliver only half the energy of the Anker; it’s actually only a little bit less. The Watt-hours are what to look for. And none of that has anything to do with the output voltage from the Qi2 charger, anyway.\nWireless charging is also much less efficient than wired. Qi2 is the least bad, but still loses about a quarter of the battery’s energy compared to charging over USB-C. If you want to squeeze the most charge out of your battery, it’s wired all the way. And finally, claimed charging speeds are typically measured in ideal lab conditions; in my tests, charging speeds were rarely as fast as advertised.",
-          "isoDate": "2026-06-03T18:00:00.000Z"
-        },
-        {
-          "title": "As AI gets better, it reveals an empty promise",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise",
-          "summary": "This week we've got tandem hands-ons with Google's new Gemini AI agent - Spark - from my colleagues David Pierce and Jay Peters. Their takeaways are similar: It's so effective that it's scary. Spark knew that David's dog is named Frida and knew the first name of Jay's wife, even though neither of them explicitly provided this information to Google. But what's scary to me is how all of this stuff seems geared toward a future of \"productivity\" that completely misses what needs to be fixed in our world.\n\"Productivity\" is often pitched as a panacea for what befalls us in our personal lives, even going so far as to implicate our moral worthiness …\nRead the full story at The Verge.",
-          "isoDate": "2026-06-03T17:45:35.000Z"
-        },
-        {
-          "title": "How virtual power plants could provide energy for data centers",
-          "link": "https://www.technologyreview.com/2026/06/03/1138350/virtual-power-plants-data-centers/",
-          "summary": "Would you take a payment to ramp down your electricity use? Would it change anything if you were doing so to help power a local data center? Google just signed a new deal to help pay for a virtual power plant (VPP) in the largest power grid in the US. The agreement is with Voltus,…",
-          "isoDate": "2026-06-03T16:51:38.000Z"
-        },
-        {
-          "title": "Amazon&#8217;s search bar will invent AI-generated products you can&#8217;t buy",
-          "link": "https://www.theverge.com/tech/942547/amazon-search-bar-ai-images",
-          "summary": "Amazon's updated search bar will now show you AI-generated images of products as you describe them. For now, the in-app feature only surfaces AI images of clothing and home goods, allowing you to tap on the image that best matches what you're looking for and search for similar-looking items.\nIn a blog post, Amazon positions the feature as a way to help you  search for items if you can't remember the name of a specific texture or style, like describing a \"shirt with a draped collar\" if you can't think of \"cowl neck.\" The feature seems like it might come in handy in these kinds of scenarios, but it doesn't really add much if you're just searc …\nRead the full story at The Verge.",
-          "isoDate": "2026-06-03T16:07:31.000Z"
-        },
-        {
-          "title": "PlayStation is getting back to what it’s good at",
-          "link": "https://www.theverge.com/games/942520/playstation-wolverine-god-of-war-laufey-state-of-play-june-2026",
-          "summary": "PlayStation used its most recent State of Play showcase to make it clear where its focus is. After a series of costly live-service stumbles, it's getting back to focusing on premium, narrative-driven, single-player games. That statement was made clear with how it started and ended the hourlong show.\nThe showcase began with an extended look at gameplay from Marvel's Wolverine, the new superhero title from Insomniac Games. Over seven minutes of bloody action, Logan sliced and diced his way through a bunch of baddies as he tried to rescue some captured mutants, briefly teaming up with Jean Grey for some help taking them down. Insomniac is well …\nRead the full story at The Verge.",
-          "isoDate": "2026-06-03T15:30:15.000Z"
-        },
-        {
-          "title": "Supernatural isn’t dead after all",
-          "link": "https://www.theverge.com/news/941816/supernatural-health-meta-quest-vr",
-          "summary": "DeeDee Henry works out using VR at her home in Ventura, California. | Photo by Maggie Shannon / The Verge\t\n\nA few months ago, Meta effectively handed Supernatural, a popular VR fitness game on the Meta Quest, a death sentence. As part of overarching VR layoffs, the company announced the game would no longer get any new content, enraging its tightly knit, devoted community. Now it looks like Supernatural is getting a second chance. Today, Meta announced in a community post that the game is being spun off into an independent company later this year.\nThe new entity will be called Supernatural Health, and will launch as a separate app on the Meta Horizon Store. While Meta did not comment on who would be the CEO of Supernatural Health, Meta spokespers …\nRead the full story at The Verge.",
-          "isoDate": "2026-06-03T15:00:00.000Z"
-        },
-        {
-          "title": "Dreame&#8217;s L20 Ultra robovac is an unbeatable deal for $280",
-          "link": "https://www.theverge.com/gadgets/942184/dreame-l20-ultra-audible-bose-soundlink-flex-deal-sale",
-          "summary": "Dreame’s L20 Ultra robot vacuum can clean itself. | Image: The Verge\t\n\nThe Dreame L20 Ultra isn’t the company’s newest model, but it’s still a great robovac / mop hybrid that offers strong performance while requiring very little day-to-day maintenance thanks to its included trash bin and AI obstacle avoidance. Verge readers can get for its best-ever price right now. Originally $1,400 when it launched in 2023, it’s down to $279 from Wellbots with code L20VERGE.\nDreame L20 Ultra\n\nWhere to Buy:\n\n $1399.99 $279.99 at Wellbots (with code L20VERGE)\n\nWhat makes the L20 Ultra so great at this price is that it can do a lot on its own — so much more than other robovacs at this price point. The included base station automatically empties the vacuum’s dustbin, washes and dries the mop pads, and refills the robot’s water tank between cleaning sessions. The L20 Ultra also offers reliable AI-powered obstacle avoidance and can quickly map your home’s layout, meaning you don’t need to babysit it as it cleans. Thanks to its large dust bin, you can ignore it for up to 75 days without having to empty it yourself. \nThe robovac does a good job of cleaning up carpets and hardwood floors alike, thanks to its 7,000Pa of suction power. What’s more, its dual oscillating mop pads extend when needed to clean along baseboards and in corners. It can lift the mop pads over carpets, or return to its base station to have them removed. \nOf course, being a three-year-old robot vacuum, it lacks some of the upgrades found on newer models. For example, the $1,349.99 ($150 off) Dreame X60 — currently one of our favorite robovacs — offers a whopping 35,000Pa of suction, two rubber brushes, and a motorized swing arm that can climb over taller thresholds between rooms. Even without them, the L20 Ultra still offers a lot of premium features that aren’t typically offered at this price.\n\n\n  window.HYPE_DESK_CONFIG = {\n    productImageUrl: \"https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/corsairddr5.jpg\",\n    productImageAlt: \"Corsair DDR5 Memory\",\n    productTitle: \"Corsair DDR5 Memory\",\n    shortDescription: \"The upgrade your PC has been waiting for.\",\n    longDescription:\n      \"If your computer has been feeling sluggish lately, your memory might be the culprit. Whether you are gaming, editing, or just someone who has too many browser tabs open at once Corsair’s DDR5 RAM is one of the easiest ways to get noticeably more out of a machine you already own. Faster load times, smoother multitasking, less waiting around while your computer catches up with you. Use code MEMORY15 for 15% off through June 15.\",\n    purchaseUrl: \"https://go.corsair.com/c/482924/490888/8513?subId1=VergeHypedesk&subId2=Corsair&subId3=Article2&u=https%3A%2F%2Fwww.corsair.com%2Fus%2Fen%2Fc%2Fmemory&partnerpropertyid=7032191\",\n    purchaseLinkText: \"Get The Deal At Corsair\"\n  };\n\n\n\n\n\nThree more ways to save\nThrough July 16th at 2:59AM ET, Prime members who are new to Audible can get three months of Audible Standard for free, a savings of roughly $27 compared to paying the regular $8.99 monthly price. The plan gives you one credit to purchase a new audiobook each month from Audible’s vast library, which includes bestsellers and classics, and they’re yours to keep forever, even if you end the subscription. You’ll be renewed at the regular $8.99 per month price unless you cancel at the end of the promotional period.\nWoot is selling the last-gen Bose Soundlink Flex portable Bluetooth speaker in refurbished condition for $69.99 with a one-year Bose warranty. That’s $80 less than its original retail price. The portable Bluetooth speaker isn’t all that different from the newer model, and can deliver surprisingly expansive sound quality for its size. It also boasts a rugged IP67-rated design for dust and water resistance, and it lasts up to 12 hours on a single charge. Its controls aren’t the most intuitive we’ve used, and it lacks support for higher-res AAC and aptX codecs, but we think those flaws are easy to overlook at this price.\nYou can buy two Ring Cam Indoor cameras for $49.98 (normally $99.98), making the second camera free, at Amazon. The wired 1080p cameras sport physical privacy covers that turn off audio and video recording. They also include an adjustable mount, a built-in siren, color night vision, and two-way talk. If you subscribe to a Ring Protect Plan, which starts at $4.99 a month per device, you’ll get notifications for people, packages, and vehicles, as well as access to recorded video history.",
-          "isoDate": "2026-06-03T14:53:10.000Z"
-        },
-        {
-          "title": "Microsoft and OpenAI broke up — now they’re ready to fight",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition",
-          "summary": "At Microsoft's annual Build conference on Tuesday, the company announced a slew of new or expanded AI initiatives, including a super app, in-house reasoning models, a cybersecurity tool, and OpenClaw-esque AI agents. All this news added up to a clear message: Microsoft is positioned to be one of the biggest players in AI, and it's finally acting like it. \nFor years, Microsoft's AI business leaned hard on its early and exclusive partnership with OpenAI. But the drama-filled marriage slowly devolved into a situationship, and the pair effectively separated in late April (though Microsoft is still OpenAI's primary cloud partner - for now). This …\nRead the full story at The Verge.",
-          "isoDate": "2026-06-03T14:04:00.000Z"
         }
       ]
     },
@@ -72,40 +72,10 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "NASA Finds New Way Earth May Have Received Elements Needed for Life",
-          "link": "https://science.nasa.gov/science-research/planetary-science/astrobiology/nasa-finds-new-way-earth-may-have-received-elements-needed-for-life/",
-          "summary": "NASA-supported scientists have provided new information about how the early Earth may have acquired some elements necessary for the planet to become habitable. They also suggest a new role for Jupiter in the distribution of these elements throughout the young solar system. The study, published today in Science Advances, examines this history by looking at […]",
-          "isoDate": "2026-06-03T18:01:00.000Z"
-        },
-        {
-          "title": "International Sea Level Satellite Observes El Niño Precursor",
-          "link": "https://science.nasa.gov/photojournal/international-sea-level-satellite-observes-el-nino-precursor/",
-          "summary": "Description Sea level height data from the international Sentinel-6 Michael Freilich satellite collected from March to May 2026 show higher, warmer water moving from the western Pacific Ocean to just off the coast of Colombia, Ecuador, and Peru. This phenomenon is known as a warm Kelvin wave, signified in this animation of the data by […]",
-          "isoDate": "2026-06-03T17:27:22.000Z"
-        },
-        {
-          "title": "Journey to the Center of the Virgo Cluster",
-          "link": "https://www.nasa.gov/image-article/journey-to-the-center-of-the-virgo-cluster/",
-          "summary": "The focus of this NASA/ESA Hubble Space Telescope image released on May 29, 2026, is an active spiral galaxy on a journey lasting hundreds of millions of years. The galaxy Messier 88 (M88), also known as NGC 4501, is located about 63 million light-years away in the constellation Coma Berenices (Berenice’s Hair). M88 is an active galaxy, which means that its center harbors […]",
-          "isoDate": "2026-06-03T15:48:44.000Z"
-        },
-        {
-          "title": "NASA Drains 66-Million-Gallon Reservoir to Upgrade Critical Water System",
-          "link": "https://www.nasa.gov/centers-and-facilities/stennis/reservoir-drained-to-upgrade-water-system/",
-          "summary": "A powerful but mostly unseen water system at work during rocket engine tests at NASA’s Stennis Space Center near Bay St. Louis, Mississippi, underwent an upgrade in May. Crews brought the High Pressure Industrial Water Facility’s 66-million-gallon reservoir to its lowest level since construction in the 1960s by pumping out about 40 million gallons of […]",
-          "isoDate": "2026-06-03T13:50:10.000Z"
-        },
-        {
-          "title": "NASA Says Farewell to MAVEN Mars Mission, Hosts Media Call Today",
-          "link": "https://www.nasa.gov/news-release/nasa-says-farewell-to-maven-mars-mission-hosts-media-call-today/",
-          "summary": "The first mission devoted to observing the Martian atmosphere and its evolution, NASA’s MAVEN (Mars Atmosphere and Volatile Evolution), has ended after more than 11 years in orbit at Mars and a decade beyond its primary, one-year mission. The spacecraft was heard last on Dec. 6, when it experienced an unexpected loss of signal after […]",
-          "isoDate": "2026-06-03T13:12:05.000Z"
-        },
-        {
-          "title": "Typhoon Jangmi",
-          "link": "https://science.nasa.gov/earth/earth-observatory/typhoon-jangmi/",
-          "summary": "The sprawling storm promised to deliver torrential rain across a wide swath of southern Japan.",
-          "isoDate": "2026-06-03T04:00:00.000Z"
+          "title": "ERROR cargando feed",
+          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
+          "isoDate": "2026-06-04T03:58:27.586Z"
         },
         {
           "title": "Editorial Expression of Concern: Functional proteomic identification of DNA replication proteins by induced proteolysis <i>in vivo</i>",
@@ -130,6 +100,36 @@
           "link": "https://www.nature.com/articles/s41586-026-10561-0",
           "summary": "Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10561-0\nReply to: The size of tropical vegetation gross primary production",
           "isoDate": "2026-06-03T00:00:00.000Z"
+        },
+        {
+          "title": "The size of tropical vegetation gross primary production",
+          "link": "https://www.nature.com/articles/s41586-026-10562-z",
+          "summary": "Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10562-z\nThe size of tropical vegetation gross primary production",
+          "isoDate": "2026-06-03T00:00:00.000Z"
+        },
+        {
+          "title": "A natural depsipeptide antibiotic binds the E-site of the bacterial ribosome",
+          "link": "https://www.nature.com/articles/s41586-026-10589-2",
+          "summary": "Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10589-2\nImproved fractionation strategies can identify antibiotics with previously unseen scaffolds and mechanisms, exemplified by manikomycin from Streptomyces rimosus, which acts by targeting the E-site of the bacterial large ribosomal subunit.",
+          "isoDate": "2026-06-03T00:00:00.000Z"
+        },
+        {
+          "title": "Earth’s east–west albedo symmetry",
+          "link": "https://www.nature.com/articles/s41586-026-10624-2",
+          "summary": "Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10624-2\nAnalysis of a 25-year satellite record shows that Earth has a persistent east–west albedo symmetry split at 27° E, with clear-sky albedo, cloud radiative effect and open-ocean fraction exhibiting a triple symmetry around this meridian.",
+          "isoDate": "2026-06-03T00:00:00.000Z"
+        },
+        {
+          "title": "Relativistic electron acceleration at the bow shock of Jupiter and beyond",
+          "link": "https://www.nature.com/articles/s41586-026-10473-z",
+          "summary": "Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10473-z\nNASA’s Juno observations show relativistic electron acceleration at the bow shock of Jupiter and establish a universal scaling law linking shock size to maximum cosmic ray energy.",
+          "isoDate": "2026-06-03T00:00:00.000Z"
+        },
+        {
+          "title": "Acquired genetic and cell-state changes in IDH-mutant glioma progression",
+          "link": "https://www.nature.com/articles/s41586-026-10612-6",
+          "summary": "Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10612-6\nLongitudinal transcriptomic, chromatin and genomic analyses of the two types of IDH-mutant glioma reveal in detail how disease progression is influenced by interdependent genetic, epigenetic and microenvironmental factors.",
+          "isoDate": "2026-06-03T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-06-03T20:54:48.338Z"
+          "isoDate": "2026-06-04T03:58:28.554Z"
         },
         {
           "title": "Phone signal on trains not good enough most of the time, research says",
@@ -204,10 +204,28 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "Teaching AI agents to ask better questions by playing “Battleship”",
+          "link": "https://news.mit.edu/2026/teaching-ai-agents-ask-better-questions-playing-battleship-0603",
+          "summary": "MIT researchers use the classic game as a test bed for AI agents, finding a small AI model can outperform the biggest ones at 1 percent of the cost.",
+          "isoDate": "2026-06-03T21:00:00.000Z"
+        },
+        {
+          "title": "Tod Machover receives George Peabody Medal for contributions to music and technology",
+          "link": "https://news.mit.edu/2026/tod-machover-receives-george-peabody-medal-0603",
+          "summary": "The George Peabody Medal is the highest honor bestowed by the Peabody Institute of the Johns Hopkins University.",
+          "isoDate": "2026-06-03T20:50:00.000Z"
+        },
+        {
           "title": "Introducing new capabilities to GPT-Rosalind",
           "link": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
           "summary": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
           "isoDate": "2026-06-03T13:15:00.000Z"
+        },
+        {
+          "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
+          "link": "https://openai.com/index/wasmer",
+          "summary": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
+          "isoDate": "2026-06-03T12:00:00.000Z"
         },
         {
           "title": "A blueprint for democratic governance of frontier AI",
@@ -244,24 +262,6 @@
           "link": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
           "summary": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.",
           "isoDate": "2026-06-02T07:00:00.000Z"
-        },
-        {
-          "title": "Codex is becoming a productivity tool for everyone",
-          "link": "https://openai.com/index/codex-for-knowledge-work",
-          "summary": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation.",
-          "isoDate": "2026-06-02T02:00:00.000Z"
-        },
-        {
-          "title": "Our views on AI policy and political advocacy",
-          "link": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
-          "summary": "Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on the company’s behalf.",
-          "isoDate": "2026-06-01T17:00:00.000Z"
-        },
-        {
-          "title": "Building the infrastructure for the Intelligence Age in Michigan",
-          "link": "https://openai.com/index/stargate-michigan-data-center",
-          "summary": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
-          "isoDate": "2026-06-01T12:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 77\nColumn: 559\nChar:  ",
-          "isoDate": "2026-06-03T20:54:53.368Z"
+          "isoDate": "2026-06-04T03:58:32.790Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-06-03T20:54:50.314Z"
+          "isoDate": "2026-06-04T03:58:29.830Z"
         },
         {
           "title": "7 Ways New Engineers Can Flourish in the Age of AI",
