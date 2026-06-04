@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-06-04T03:58:34.118Z",
+  "generatedAt": "2026-06-04T09:55:01.477Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Amazon develops a warehouse robot workers can speak to",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus",
+          "summary": "The design hasn’t changed much from the original Proteus, which was announced in 2022. | Image: Amazon\t\n\nAmazon has announced a new version of its fully autonomous warehouse robot, Proteus, that will can interact using language instead of code. The expanded capabilities come as part of a growing pivot towards automation as the e-commerce giant replaces its human workers with robots. \nAmazon says the AI-powered upgrade means its human employees can assign the robot tasks in the same way they'd communicate with colleagues. Previously, workers would need to use specialized software to direct the floor-level, tortoise-like systems, which are designed for heavy lifting and moving large carts throughout Amazon's warehouses. \"You tell it what needs t …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-04T09:31:14.000Z"
+        },
+        {
+          "title": "Shokz upgraded its open earbuds with better sound and a lighter design",
+          "link": "https://www.theverge.com/tech/942054/shokz-clip-on-opendots-2-air-earbuds-wireless-headphones",
+          "summary": "The OpenDots 2 are designed to be more comfortable than traditional wireless earbuds that sit inside the ear. | Image: Shokz\t\n\nShokz has announced two new versions of its open earbuds. Like the original OpenDots One that launched in May 2025, the new Shokz OpenDots 2 and OpenDots Air are both designed to be worn clipped to the back of your ear with their drivers positioned to project sound toward your ear canals without blocking them. It's a design that potentially offers more comfort and environmental awareness than traditional wireless earbuds, while the two new versions cater to specific needs.\nThe OpenDots Air are an entry-level version available in black or daybreak purple color options for $129.95 which is over $70 cheaper than the original. They feature Shok …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-04T07:00:00.000Z"
+        },
         {
           "title": "Flesh-eating screwworm infection confirmed in South Texas, USDA says",
           "link": "https://arstechnica.com/health/2026/06/flesh-eating-screwworm-infection-detected-in-south-texas-usda-says/",
@@ -52,18 +64,6 @@
           "link": "https://arstechnica.com/security/2026/06/dashlane-issues-opaque-advisory-warning-20-encrypted-vaults-were-stolen/",
           "summary": "Security advisory leaves out key details. Dashlane maintains complete silence.",
           "isoDate": "2026-06-03T19:53:14.000Z"
-        },
-        {
-          "title": "Google's new Gemma 4 12B model is designed to run on any laptop with 16GB of RAM",
-          "link": "https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/",
-          "summary": "Gemma 4 12B uses a new encoding scheme and token prediction to punch above its weight.",
-          "isoDate": "2026-06-03T19:10:03.000Z"
-        },
-        {
-          "title": "The best Bluetooth trackers for Apple and Android phones",
-          "link": "https://www.theverge.com/23769840/best-bluetooth-trackers",
-          "summary": "Some people rarely lose things. Wallets are always exactly where they’re supposed to be, keys never go missing, and remotes never slip between the couch cushions. And then there’s the rest of us — the folks who can’t ever seem to find the thing that was right there a few seconds ago. For us, Bluetooth trackers can help.\nBluetooth trackers have been around for a long time, and they all generally work the same way. You attach the tracker to an object (a key ring, tote, in your wallet, etc), pair it with your phone, and then, if you lose said object, you can go into an app and ring the tracker. These days, Bluetooth trackers can do a lot more. Some have ultra-wideband chips that enable precision tracking, so you can find exactly where in a room your item is without having to sound an alarm. Most trackers tap into large networks — like Apple’s Find My and Google’s Find Hub — making it easier to locate lost items outside the home. Many will notify you if they detect you’ve left the device behind or come with QR codes that link to your contact information so people can easily return lost items.\nThese features are incredibly handy but also have the potential for misuse. For example, when Apple launched the AirTag, it seems the company hadn’t anticipated they might be used to track people or stolen items — but that’s exactly what happened. It’s since beefed up its anti-stalking features, and companies like Tile have also followed suit. Apple and Google have launched a standard that enables unwanted tracking alerts across both Android and iOS devices, and major players like Tile, Samsung, and Chipolo have supported the initiative. Still, it’s worth making yourself aware of each tracker’s approach to safety when deciding the best option for you.\nAs consummate Losers of Things, we have tested a fair share of Bluetooth trackers on wallets, keys, and luggage. Here’s what we’d recommend if you, too, have a hard time finding things.\n\n\n\n\n\nThe best tracker for iPhone users\nApple AirTag (second-gen)\nApple’s latest AirTags features an upgraded ultra-wideband chip for more precise location tracking, a noticeably louder speaker, and an expanded Bluetooth range. \n\nWhere to Buy:\n\n $29 at Amazon\n $29 at Best Buy\n $128.99 $99.99 at Costco (pack of five)\n\nIf you’re an iPhone owner, Apple’s second-gen AirTag offers a level of precision that rival trackers simply cannot match. The updated model leverages the company’s latest ultra wideband (UWB) chip for its nifty Precision Finding feature, which, in turn, can lead you to your lost item with an on-screen arrow in the Find My app. Plus, because AirTags can tap into Apple’s vast Find My network, a lost tracker can anonymously ping its location to Apple’s iCloud servers whenever it’s near another Apple device, extending its range beyond Bluetooth’s limitations.\nThat level of precision proved incredibly useful during testing. Apple’s newest coin-shaped tracker consistently guided us to our misplaced items, including a spare mailroom key hidden in a closet. None of the other Bluetooth trackers we tested — including those from Tile and other third-party, Find My-compatible offerings — worked quite as well. The extended range on the latest AirTags also makes it much easier to reliably locate items in multi-story homes, while a series of iOS updates has made it possible to share a temporary map with a host of airlines (including Delta and United), which can help if your luggage should ever go missing.\nThere are downsides, though. Although their replaceable CR2032 battery helps you save money in the long run, AirTags aren’t truly $29 for most people, since you’ll likely want to buy a separate holder to attach one to your keys or luggage. They’ve also faced criticism for being misused for unwanted tracking purposes (you can read our original testing in full here). That being said, Apple is aware of the issue and has since improved unwanted tracking alerts by shortening the time before you’re notified an unknown AirTag is in your vicinity, making chimes louder, and creating a separate app that lets Android users scan for unknown AirTags. \nRead our second-generation AirTags review.\nThe best tracker for Android users\nTile Pro\nThe Tile Pro is the company’s loudest Bluetooth tracker and has the widest range at 500 feet. It also has a user-replaceable battery, unlike other Tiles.\n\nWhere to Buy:\n\n $34.99 at Amazon\n $34.99 at Life360\n\nMore trackers these days offer support for both Google’s and Apple’s Find My networks, but Tile’s trackers remain our top recommendation for both Android users and those in mixed iOS / Android households. What’s more, Tile currently offers four form factors to suit different needs: the card-shaped Tile Slim ($29.99), the square-ish Tile ($24.99), the self-adhesive Tile Sticker ($24.99), and the Tile Pro ($34.99). The keyfob-shaped Tile Pro is our personal favorite; it’s larger than the Tile, offers the longest Bluetooth range at 500 feet, and has the loudest ring. Of the four, it’s also the only one that has a replaceable one-year CR2032 battery.\nA note about Google’s Find Hub network\nIn 2024,  Google finally launched its Find My Device network, which was later renamed Find Hub. It works similarly to Apple’s Find My network: you’ll be able to share trackers with family members, and there are also unwanted tracking alerts.\nInitially, the network lagged behind Apple’s, but it’s catching up. After several weeks of testing Find Hub-compatible trackers — specifically the Chipolo Pop, Pebblebee Clip 5, and Motorola’s Moto Tag — in 2025, we found the network had improved significantly, especially in busy areas. Still, it’s clear Google prioritized privacy over precision.\nGoogle is making some progress, though. In 2024, it also rolled out satellite connectivity to Pixel 9 phones and newer devices, followed by UWB support for more precise tracking with Moto Tags and other compatible phones and trackers. More recently, the company added support for an iPhone-like feature that lets you share tracker locations with a growing number of airlines. So far, the list doesn’t include any US-based carriers, but it does include Lufthansa, Air India, China Airlines, Saudia, and more.\nAll Tile trackers work similarly to AirTags. Like Apple’s, Tile’s platform-agnostic trackers can tap into a larger network — in this case, the Tile Network and Amazon Sidewalk, neither of which is as expansive as Apple’s or Google’s. However, when we tested Google’s Find Hub-compatible trackers, including the Chipolo Pop and Moto Tag, we found that Tile still did better at tracking items outside the home. The biggest downside is that Tile trackers lack ultra-wideband support, which means they can’t guide you to a nearby item using distance and directional cues like an AirTag. The company did announce a tracker that supports UWB in 2021, but it’s yet to ship, likely because Apple is effectively blocking UWB compatibility for third parties in iOS and Tile’s priorities shifted after it was acquired by Life360.\nThat being said, Tile trackers do have an edge over AirTags when it comes to recovering stolen items and safety features. That’s largely due to Tile’s anti-theft feature, which makes trackers invisible to tracking detection if your item is stolen. Using it requires identity verification and carries strict penalties, including a $1 million fine for misuse. Tile also offers a “Scan and Secure” tool for detecting unknown Tile devices nearby, though potential victims still have to proactively scan their surroundings. \nTo round things out, Tile users can manage their trackers directly within the Life360 app and send SOS alerts to emergency contacts with the push of a button (or several). New Tile users are also eligible for up to $100 in reimbursement for lost items and free replacements for damaged trackers, as well as access to 30 days of location history and unlimited sharing within their first year. After that, Tile owners will have to pay the $29.99 annual premium subscription fee to continue enjoying those perks, though every Tile user gets two days of location history for free.\nThe best AirTag and Tile alternative\nPebblebee Clip 5\nThe Pebblebee Clip 5 supports Apple’s Find My and Google’s Find Hub networks, but also has a 500-foot Bluetooth range, LEDs that flash to help you locate it, and a rechargeable battery that lasts up to 12 months on a single charge.\n\nWhere to Buy:\n\n $34.99 at Amazon\n $34.99 at Pebblebee\n\nIf you’re looking for an AirTag or Tile alternative, the $34.99 Pebblebee Clip 5 is an excellent choice. It’s one of a growing number of trackers that support both Apple’s Find My and Google’s Find Hub networks, which is a major improvement over its predecessor. Setup is seamless for iOS and Android users, but because Pebblebee’s app doesn’t handle tracking, features like geofencing and safe locations depend on which network you choose. Apple’s Find My, for instance, supports “left behind” alerts and safe locations; Google’s Find Hub still lacks an equivalent.\nThe thing we like best about the Pebblebee Clip 5 is its rechargeable battery. It can last up to a year on a single charge, though you may get longer than that depending on your usage. It features a USB-C port, and Pebblebee advertises a Bluetooth range of up to 500 feet. Additionally, the Clip 5 features a blinking LED strip that’s noticeably brighter than prior models and a significantly louder ringtone, making lost items easier to find, even in dark or noisy environments.\nYou can still use Pebblebee’s app to set voice tags, ask Amazon Alexa or Google Assistant for help, or double-tap the tracker to ring your phone. While the Clip 5 is larger than an AirTag, it also includes a snap-on key ring, so you don’t need to pay for an extra accessory just to attach it to your belongings. It’s also rated IP66 for dust and water resistance, making it slightly more durable than earlier Pebblebee trackers. \nThe best AirTag alternative for wallets\nPebblebee Card 5\nThe Pebblebee Card 5 has a rechargeable battery that lasts up to 18 months and supports wireless charging. It works with Apple’s Find My and Google’s Find Hub, but you can also use the Pebblebee app for voice tagging.\n\nWhere to Buy:\n\n $34.99 at Amazon\n $34.99 at Pebblebee\n\nYou could try stuffing an AirTag into a bifold wallet and hope it stays put — or opt for a Find My–compatible alternative that’s actually designed for wallets, like the $34.99 Pebblebee Card 5. It plays nicely with both Apple’s Find My and Google’s Find Hub networks, giving you cross-platform flexibility and the benefits of each, all with a super loud ringtone. It doesn’t offer precision tracking because it lacks UWB, but it makes up for it with said ringtones. It also supports unwanted tracking alerts as part of the Find My network.\nThe Card 5 stands out for its sleek design and wireless charging support. At just 1.8mm thick, it’s one of the thinnest trackers you can buy and measures about the size of a credit card, meaning you can easily slip it into an overstuffed wallet packed to the brim with receipts, gift cards, and cash. The same can’t always be said of Tile’s wallet tracker, which is nearly twice as thick. What’s more, the Card 5 lasts up to 18 months on a single charge and supports wireless charging, so you don’t have to worry about replacing any batteries.\nUnsurprisingly, the Card 5 shares many of the same strengths as the Pebblebee Clip 5, including support for the Pebblebee app and voice tagging. You also get a range of up to 500 feet, an IP66 rating for dust and water resistance, and a built-in button you can press to help locate your phone. \nOther Bluetooth trackers to consider\nChipolo Pop and Chipolo Loop\nThe $29 Chipolo Pop offers a similar form factor to Apple’s AirTag in a lighter, more colorful package with a hole for a keychain or lanyard, a louder beep, and compatibility with both Apple’s Find My and Google’s Find Hub networks (though only one at a time). You can even use the Pop as a remote camera shutter and press the built-in button twice to find your lost phone. Unlike Chipolo’s other trackers, it boasts a wider 300-foot Bluetooth range, a more robust IP55 rating for water and dust resistance, and includes a user-replaceable battery that can last up to a year.\nIn our testing, tracking was accurate on both Apple’s and Google’s networks in most cases, Google’s struggled to track items outside of the home as reliably as the Tile. And without UWB, the Pop couldn’t match the AirTag’s pinpoint precision. Still, the Chipolo app provides Android users with reliable out-of-range alerts and left-behind notifications — something Pebblebee and Moto Tag’s trackers lack —which, in our experience, trigger even faster than the Tile.\nIf you’re willing to spend an extra $10, the $39 Chipolo Loop is very similar to the Chipolo Pop, with many of the same strengths and weaknesses. However, it charges via USB-C and includes a built-in silicone ring that’s easy to attach to keys, bags, and other items. You also get a more durable IP67 rating and an extra 100 feet of Bluetooth range — up to 400 feet total. Just note you’ll have to supply your own USB-C cable. \nSamsung SmartTag2\nIf you’re a Samsung Galaxy phone user, the $29.99 Samsung SmartTag2 gets you UWB tracking and can tap into the Galaxy Find network, which operates similarly to Apple’s Find My network. It’s a great AirTag alternative, but it isn’t our overall pick for Android because it’s limited to Samsung Galaxy users. That said, the latest SmartTag2 includes an improved Compass View, longer battery life, and a better app experience. It also has a newer, oblong design with a larger key ring than the original SmartTag.\nMoto Tag\nMotorola’s $29.99 Moto Tag is the first tracker on Google’s Find Hub network to offer ultra wideband for locating lost items on phones equipped with a UWB chip, which is a feature Google enabled via a firmware update after releasing the device. Like Apple’s AirTag, it can guide you directly to your missing item via directional cues in the Find Hub app. It worked well in our testing, though Apple’s AirTag was occasionally more precise when tracking objects farther away or through walls. The Moto Tag was also less effective than Tile’s trackers at locating items outside of the home.\nStill, if you want a tracker to find things around the house, the Moto Tag is a solid pick. It also fits most AirTag accessories, carries an IP67 rating for dust and water resistance, and uses a replaceable CR2032 battery that lasts up to a year. It can ring your misplaced phone, too, and doubles as a remote shutter for Motorola phones. Just know that Motorola recently announced the Moto Tag 2, which can last more than 500 days on a user-replaceable CR2032 coin cell battery and offers improved dust and water resistance. The company hasn’t specified an exact US release date (yet).\nChipolo Card\nThe rechargeable Chipolo Card is also a good, thin tracker for wallets. Priced at $39, it works with either Apple’s Find My or Google’s Find Hub network and carries an IP67 rating for dust and water resistance. It supports Qi wireless charging, unlike the Chipolo Loop, and features a slim design that slips neatly into your wallet. It also offers a 400-foot Bluetooth range — a bit less than the Pebblebee Card 5 — and lasts about six months per charge. Overall, it’s a solid choice if you want something simple, even if it lacks the QR code found on some competing trackers.\nEufy Security SmartTrack Card E30\nEufy’s rechargeable $34.99 SmartTrack Card E30 is another good option for wallets, one that can also tap into Apple’s Find My network like the aforementioned Pebblebee Card 5. On the back, there’s also a QR code — similar to the ones Tile uses — that helps good Samaritans return your item to you. Like the Pebblebee’s newest offerings, you can also share it with multiple people if you set it up via the Eufy Security app.\nThe bummer here is that the E30 doesn’t work with Android and lacks UWB. However, the upcoming Eufy SmartTrack Card E40 will add support for Google’s Find Hub network while continuing to support Apple’s aforementioned Find My feature. It can also recharge via any Qi-compatible wireless charger and features a louder, 100dB alarm. \nUpdate, June 3rd: Adjusted pricing and availability, and updated references to the Tile Mate to reflect its new name, Tile.",
-          "isoDate": "2026-06-03T19:00:00.000Z"
         }
       ]
     },
@@ -72,64 +72,64 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "ERROR cargando feed",
-          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
-          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-06-04T03:58:27.586Z"
+          "title": "A Moonlit Earth as Seen From Artemis II",
+          "link": "https://science.nasa.gov/earth/earth-observatory/a-moonlit-earth-as-seen-from-artemis-ii/",
+          "summary": "An astronaut’s photo, taken en route to the Moon, reveals our planet and its place in space in a novel way.",
+          "isoDate": "2026-06-04T04:01:00.000Z"
         },
         {
-          "title": "Editorial Expression of Concern: Functional proteomic identification of DNA replication proteins by induced proteolysis <i>in vivo</i>",
-          "link": "https://www.nature.com/articles/s41586-026-10727-w",
-          "summary": "Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10727-w\nEditorial Expression of Concern: Functional proteomic identification of DNA replication proteins by induced proteolysis in vivo",
-          "isoDate": "2026-06-03T00:00:00.000Z"
+          "title": "Curiosity Blog, Sols 4908-4912: Goodbye Campo Marte, It’s Been Fun!",
+          "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4908-4912-goodbye-campo-marte-its-been-fun/",
+          "summary": "By Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Friday, May 29, 2026 Drilling always keeps the rover in place for a little while, and our 47th successful drill, “Campo Marte,” was no exception. The team used the time wisely and on top of the drilling, we also […]",
+          "isoDate": "2026-06-04T01:28:11.000Z"
         },
         {
-          "title": "AI in science recruitment: friend or foe? Join our free webinar",
-          "link": "https://www.nature.com/articles/d41586-026-01774-4",
-          "summary": "Nature, Published online: 03 June 2026; doi:10.1038/d41586-026-01774-4\nDiscover the strengths, limitations and risks associated with using artificial intelligence in your science job applications.",
-          "isoDate": "2026-06-03T00:00:00.000Z"
+          "title": "This mysterious lung disease affects millions of people – a drug tested in mice shows promise",
+          "link": "https://www.nature.com/articles/d41586-026-01789-x",
+          "summary": "Nature, Published online: 04 June 2026; doi:10.1038/d41586-026-01789-x\nThe therapy activates a protein that could stop pulmonary fibrosis from progressing.",
+          "isoDate": "2026-06-04T00:00:00.000Z"
         },
         {
-          "title": "Your phone can use tiny skin-colour changes to measure your heart rate",
-          "link": "https://www.nature.com/articles/d41586-026-01793-1",
-          "summary": "Nature, Published online: 03 June 2026; doi:10.1038/d41586-026-01793-1\nPassive heart-rate monitoring during regular phone use could provide early warning of health issues — plus, testing Richard Feynman’s solution to the ‘restaurant dilemma’ problem.",
-          "isoDate": "2026-06-03T00:00:00.000Z"
+          "title": "What’s behind China’s historically high counts of corresponding authors?",
+          "link": "https://www.nature.com/articles/d41586-026-01623-4",
+          "summary": "Nature, Published online: 04 June 2026; doi:10.1038/d41586-026-01623-4\nFrom 2016 to 2020, almost one-third of papers by authors in China had multiple corresponding authors — but policy reforms are expected to have dampened the trend.",
+          "isoDate": "2026-06-04T00:00:00.000Z"
         },
         {
-          "title": "Reply to: The size of tropical vegetation gross primary production",
-          "link": "https://www.nature.com/articles/s41586-026-10561-0",
-          "summary": "Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10561-0\nReply to: The size of tropical vegetation gross primary production",
-          "isoDate": "2026-06-03T00:00:00.000Z"
+          "title": "NASA Finds New Way Earth May Have Received Elements Needed for Life",
+          "link": "https://science.nasa.gov/science-research/planetary-science/astrobiology/nasa-finds-new-way-earth-may-have-received-elements-needed-for-life/",
+          "summary": "NASA-supported scientists have provided new information about how the early Earth may have acquired some elements necessary for the planet to become habitable. They also suggest a new role for Jupiter in the distribution of these elements throughout the young solar system. The study, published today in Science Advances, examines this history by looking at […]",
+          "isoDate": "2026-06-03T18:01:00.000Z"
         },
         {
-          "title": "The size of tropical vegetation gross primary production",
-          "link": "https://www.nature.com/articles/s41586-026-10562-z",
-          "summary": "Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10562-z\nThe size of tropical vegetation gross primary production",
-          "isoDate": "2026-06-03T00:00:00.000Z"
+          "title": "International Sea Level Satellite Observes El Niño Precursor",
+          "link": "https://science.nasa.gov/photojournal/international-sea-level-satellite-observes-el-nino-precursor/",
+          "summary": "Description Sea level height data from the international Sentinel-6 Michael Freilich satellite collected from March to May 2026 show higher, warmer water moving from the western Pacific Ocean to just off the coast of Colombia, Ecuador, and Peru. This phenomenon is known as a warm Kelvin wave, signified in this animation of the data by […]",
+          "isoDate": "2026-06-03T17:27:22.000Z"
         },
         {
-          "title": "A natural depsipeptide antibiotic binds the E-site of the bacterial ribosome",
-          "link": "https://www.nature.com/articles/s41586-026-10589-2",
-          "summary": "Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10589-2\nImproved fractionation strategies can identify antibiotics with previously unseen scaffolds and mechanisms, exemplified by manikomycin from Streptomyces rimosus, which acts by targeting the E-site of the bacterial large ribosomal subunit.",
-          "isoDate": "2026-06-03T00:00:00.000Z"
+          "title": "Journey to the Center of the Virgo Cluster",
+          "link": "https://www.nasa.gov/image-article/journey-to-the-center-of-the-virgo-cluster/",
+          "summary": "The focus of this NASA/ESA Hubble Space Telescope image released on May 29, 2026, is an active spiral galaxy on a journey lasting hundreds of millions of years. The galaxy Messier 88 (M88), also known as NGC 4501, is located about 63 million light-years away in the constellation Coma Berenices (Berenice’s Hair). M88 is an active galaxy, which means that its center harbors […]",
+          "isoDate": "2026-06-03T15:48:44.000Z"
         },
         {
-          "title": "Earth’s east–west albedo symmetry",
-          "link": "https://www.nature.com/articles/s41586-026-10624-2",
-          "summary": "Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10624-2\nAnalysis of a 25-year satellite record shows that Earth has a persistent east–west albedo symmetry split at 27° E, with clear-sky albedo, cloud radiative effect and open-ocean fraction exhibiting a triple symmetry around this meridian.",
-          "isoDate": "2026-06-03T00:00:00.000Z"
+          "title": "NASA Drains 66-Million-Gallon Reservoir to Upgrade Critical Water System",
+          "link": "https://www.nasa.gov/centers-and-facilities/stennis/reservoir-drained-to-upgrade-water-system/",
+          "summary": "A powerful but mostly unseen water system at work during rocket engine tests at NASA’s Stennis Space Center near Bay St. Louis, Mississippi, underwent an upgrade in May. Crews brought the High Pressure Industrial Water Facility’s 66-million-gallon reservoir to its lowest level since construction in the 1960s by pumping out about 40 million gallons of […]",
+          "isoDate": "2026-06-03T13:50:10.000Z"
         },
         {
-          "title": "Relativistic electron acceleration at the bow shock of Jupiter and beyond",
-          "link": "https://www.nature.com/articles/s41586-026-10473-z",
-          "summary": "Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10473-z\nNASA’s Juno observations show relativistic electron acceleration at the bow shock of Jupiter and establish a universal scaling law linking shock size to maximum cosmic ray energy.",
-          "isoDate": "2026-06-03T00:00:00.000Z"
+          "title": "NASA Says Farewell to MAVEN Mars Mission, Hosts Media Call Today",
+          "link": "https://www.nasa.gov/news-release/nasa-says-farewell-to-maven-mars-mission-hosts-media-call-today/",
+          "summary": "The first mission devoted to observing the Martian atmosphere and its evolution, NASA’s MAVEN (Mars Atmosphere and Volatile Evolution), has ended after more than 11 years in orbit at Mars and a decade beyond its primary, one-year mission. The spacecraft was heard last on Dec. 6, when it experienced an unexpected loss of signal after […]",
+          "isoDate": "2026-06-03T13:12:05.000Z"
         },
         {
-          "title": "Acquired genetic and cell-state changes in IDH-mutant glioma progression",
-          "link": "https://www.nature.com/articles/s41586-026-10612-6",
-          "summary": "Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10612-6\nLongitudinal transcriptomic, chromatin and genomic analyses of the two types of IDH-mutant glioma reveal in detail how disease progression is influenced by interdependent genetic, epigenetic and microenvironmental factors.",
-          "isoDate": "2026-06-03T00:00:00.000Z"
+          "title": "Typhoon Jangmi",
+          "link": "https://science.nasa.gov/earth/earth-observatory/typhoon-jangmi/",
+          "summary": "The sprawling storm promised to deliver torrential rain across a wide swath of southern Japan.",
+          "isoDate": "2026-06-03T04:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-06-04T03:58:28.554Z"
+          "isoDate": "2026-06-04T09:54:55.691Z"
+        },
+        {
+          "title": "Who is Elon Musk and what is his net worth?",
+          "link": "https://www.bbc.com/news/articles/c0r1975ded7o?at_medium=RSS&at_campaign=rss",
+          "summary": "The boss of X, Tesla and SpaceX is the world's richest person and has used his platform to make his views known on a vast array of topics.",
+          "isoDate": "2026-06-04T08:35:54.000Z"
         },
         {
           "title": "Phone signal on trains not good enough most of the time, research says",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.com/news/articles/cj4p7gyvp52o?at_medium=RSS&at_campaign=rss",
           "summary": "The tech giant predicts it will have a quantum computer that can solve commercially useful problems by the end of the decade.",
           "isoDate": "2026-06-02T19:24:31.000Z"
-        },
-        {
-          "title": "Instagram AI chatbot tricked by hackers to give access to others' accounts",
-          "link": "https://www.bbc.com/news/articles/c98rzr72dpyo?at_medium=RSS&at_campaign=rss",
-          "summary": "Some reports have linked the incident to recent cases of high-profile Instagram accounts being hijacked.",
-          "isoDate": "2026-06-02T11:40:02.000Z"
         }
       ]
     },
@@ -203,6 +203,12 @@
       "header": "160  INTELIGENCIA ARTIFICIAL",
       "maxItems": 10,
       "items": [
+        {
+          "title": "How Endava is redesigning software delivery around AI agents",
+          "link": "https://openai.com/index/endava-frontiers",
+          "summary": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
+          "isoDate": "2026-06-04T12:00:00.000Z"
+        },
         {
           "title": "Teaching AI agents to ask better questions by playing “Battleship”",
           "link": "https://news.mit.edu/2026/teaching-ai-agents-ask-better-questions-playing-battleship-0603",
@@ -228,15 +234,15 @@
           "isoDate": "2026-06-03T12:00:00.000Z"
         },
         {
-          "title": "A blueprint for democratic governance of frontier AI",
-          "link": "https://openai.com/index/frontier-safety-blueprint",
-          "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
-          "isoDate": "2026-06-03T10:00:00.000Z"
-        },
-        {
           "title": "OpenAI public policy agenda",
           "link": "https://openai.com/index/public-policy-agenda",
           "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
+          "isoDate": "2026-06-03T10:00:00.000Z"
+        },
+        {
+          "title": "A blueprint for democratic governance of frontier AI",
+          "link": "https://openai.com/index/frontier-safety-blueprint",
+          "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
           "isoDate": "2026-06-03T10:00:00.000Z"
         },
         {
@@ -256,12 +262,6 @@
           "link": "https://openai.com/index/codex-for-every-role-tool-workflow",
           "summary": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
           "isoDate": "2026-06-02T09:00:00.000Z"
-        },
-        {
-          "title": "Advancing youth safety and opportunity through global leadership",
-          "link": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
-          "summary": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.",
-          "isoDate": "2026-06-02T07:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 77\nColumn: 559\nChar:  ",
-          "isoDate": "2026-06-04T03:58:32.790Z"
+          "isoDate": "2026-06-04T09:54:58.889Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-06-04T03:58:29.830Z"
+          "isoDate": "2026-06-04T09:54:57.910Z"
         },
         {
           "title": "7 Ways New Engineers Can Flourish in the Age of AI",
