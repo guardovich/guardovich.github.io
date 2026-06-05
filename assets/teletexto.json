@@ -1,10 +1,46 @@
 {
-  "generatedAt": "2026-06-04T20:05:14.706Z",
+  "generatedAt": "2026-06-05T03:42:08.153Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Valve says it&#8217;s ready to launch the Steam Machine this summer",
+          "link": "https://www.theverge.com/games/943657/valve-steam-machine-frame-summer-launch-verified",
+          "summary": "Valve now says that the delayed Steam Machine PC and Steam Frame VR headset are set to launch sometime this summer. In a Thursday blog post detailing its Verified programs for both pieces of hardware, Valve concludes by saying that \"We're excited for players to try your titles on the new Steam hardware once they launch this summer.\"\nWhen the company originally announced the Machine and Frame alongside its new Steam Controller late last year, it said that it would start shipping the new gadgets in early 2026. But in February, the company announced that the ongoing memory and storage crunch had forced it to revisit its pricing and shipping pl …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-04T22:48:53.000Z"
+        },
+        {
+          "title": "The skeptic’s guide to humanoid robots going viral on the Internet",
+          "link": "https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet/",
+          "summary": "Robot demonstrations can distort public perceptions of robotic capabilities.",
+          "isoDate": "2026-06-04T22:23:36.000Z"
+        },
+        {
+          "title": "AT&T and Verizon lose Supreme Court case over fines for selling location data",
+          "link": "https://arstechnica.com/tech-policy/2026/06/att-and-verizon-lose-supreme-court-case-over-fines-for-selling-location-data/",
+          "summary": "FCC did not violate carriers' right to jury trial, court says in 8-1 ruling.",
+          "isoDate": "2026-06-04T21:25:19.000Z"
+        },
+        {
+          "title": "These LLMs are the best at resisting Russian propaganda",
+          "link": "https://arstechnica.com/ai/2026/06/these-llms-are-the-best-at-resisting-russian-propaganda/",
+          "summary": "Estonian government benchmark shows how dozens of models combat Russia's \"strategic narratives.\"",
+          "isoDate": "2026-06-04T20:44:31.000Z"
+        },
+        {
+          "title": "Cyberdecks used to look like little laptops, but now they&#8217;re getting more personal",
+          "link": "https://www.theverge.com/tech/943445/cyberdeck-tiktok",
+          "summary": "DIYer and TikTok user Annike Tan, who goes by @ubeboobey, can carry her cyberdeck around without anyone noticing because it doesn't look like a computer at all. Tan, who has been featured in The Cut and Wired, went viral earlier this year with a mermaid-themed cyberdeck she made inside an old purse. She has since upgraded it and built an MP3 player and a solar-powered cyberdeck. \nTan and countless other DIYers are attracting millions of views showing off the personal computers they've built inside purses, jewelry boxes, toys, and old tech, hiding Raspberry Pi boards inside art projects.\n\n \n @ubeboobey \nReplying to @D493 I wear it as a bag! # …\n\n\nRead the full story at The Verge.",
+          "isoDate": "2026-06-04T20:07:31.000Z"
+        },
+        {
+          "title": "Dashlane explains how attackers managed to download encrypted password vaults",
+          "link": "https://arstechnica.com/security/2026/06/dashlane-explains-how-attackers-managed-to-download-encrypted-password-vaults/",
+          "summary": "By targeting large numbers of users, attackers increased their chances of success.",
+          "isoDate": "2026-06-04T20:02:04.000Z"
+        },
         {
           "title": "Elon Musk tries again to escape FTC audits of X data handling",
           "link": "https://arstechnica.com/tech-policy/2026/06/elon-musk-tries-again-to-escape-ftc-audits-of-x-data-handling/",
@@ -28,42 +64,6 @@
           "link": "https://www.theverge.com/tech/943233/google-search-profiles-custom-page",
           "summary": "Google now lets big creators and publishers in the US claim dedicated profiles in Search to highlight things like videos, articles, and their other profiles online. But this feature won't be available to most people or organizations; Google is limiting it to people with at least 100,000 YouTube subscribers, 100,000 followers on Instagram or X, or 300,000 followers on TikTok. You'll need to meet the minimum on one of those platforms and be at least 18 years old to make a Search profile.\nIn demo videos, Google shows how a Search profile can feature links to websites and other platforms, a short summary of the person or brand, pinned media fro …\nRead the full story at The Verge.",
           "isoDate": "2026-06-04T18:32:23.000Z"
-        },
-        {
-          "title": "Bumblebees can spontaneously solve problems, study finds",
-          "link": "https://arstechnica.com/science/2026/06/bumblebees-can-spontaneously-solve-problems-study-finds/",
-          "summary": "Scientists in Finland found bees could solve an insect version of the classic \"box-and-banana\" problem.",
-          "isoDate": "2026-06-04T18:00:35.000Z"
-        },
-        {
-          "title": "Amazon’s new plan for games: James Bond and AI Snoop Dogg",
-          "link": "https://www.theverge.com/games/943147/amazon-gaming-strategy-james-bond-snoop-dogg-luna",
-          "summary": "Amazon's gaming strategy has never really been clear. It's been very active in the space: acquiring Twitch, launching its Luna cloud gaming service nearly six years ago, investing heavily in MMOs during the peak of live-service wave, and having access to a huge slate of franchises through Prime Video and the MGM Studios library. Late last year, the company announced a major pivot, relaunching Luna with a focus on party games you can play with just your phone as a controller - including an AI-powered game starring Snoop Dogg as a judge - and basically jumping ship on MMOs.\nAt the time, it looked like a retreat, but Amazon says that isn't the …\nRead the full story at The Verge.",
-          "isoDate": "2026-06-04T17:01:15.000Z"
-        },
-        {
-          "title": "After 11 years at Mars, NASA's MAVEN spacecraft went out with a whisper",
-          "link": "https://arstechnica.com/space/2026/06/after-11-years-at-mars-nasas-maven-spacecraft-went-out-with-a-whisper/",
-          "summary": "“I think the team has really experienced the loss of a loved one with the end of the mission.”",
-          "isoDate": "2026-06-04T16:21:06.000Z"
-        },
-        {
-          "title": "Belkin’s new Joy-Con grips also boost the Switch 2’s battery life",
-          "link": "https://www.theverge.com/tech/942617/belkin-gaming-charging-grip-nintendo-switch-2-joy-con-controller",
-          "summary": "Most of Belkin's Switch 2 accessories are designed to either protect or power up Nintendo's latest handheld, like its Charging Case Pro that actually does both at the same time. Its new multitasking Charging Grip can also add three or four more hours of playtime through an included 10,000mAh battery pack, while improving the Switch 2's ergonomics with beefier nonslip grips for the Joy-Con controllers.\nBelkin's Charging Grip is now available through the company's online store in black, lilac, and olive green color options for $99.99. The magnetic 10,000mAh battery sticks to the back of the Switch 2, but since the handheld doesn't support mag …\nRead the full story at The Verge.",
-          "isoDate": "2026-06-04T16:00:00.000Z"
-        },
-        {
-          "title": "Cash App made a magic wand for contactless payments",
-          "link": "https://www.theverge.com/tech/942897/cash-app-tags-magic-wand-contactless-payments-price-launch",
-          "summary": "The Cash App Wand is a novel way to pay for your next coffee. | Image: Cash App\t\n\nThe convenience of contactless payments can already feel magical, but Cash App is really leaning into that with its latest accessory. The mobile payment service is launching the Cash App Wand: an NFC-enabled, iridescent, star-topped wand that allows users to make on-the-go payments without pulling out their phone or card.\nThis plays on a popular DIY trend that's already circulating on social media platforms, in which people are 3D printing (or otherwise constructing) their own creative \"cases\" for contactless payment cards. Magic wands seem to be the most popular design, likely because the extra reach makes them convenient for drive-thru pa …\nRead the full story at The Verge.",
-          "isoDate": "2026-06-04T16:00:00.000Z"
-        },
-        {
-          "title": "Windows is back on the Microsoft menu",
-          "link": "https://www.theverge.com/tech/943108/microsoft-build-2026-windows-love-notepad",
-          "summary": "I can't remember the last time Microsoft kicked off a Build keynote with Windows front and center, but that's exactly what CEO Satya Nadella did this week. Nadella didn't address the issues Microsoft is trying to fix in Windows 11 but chose to woo the audience with Microsoft's slick Surface RTX Spark Dev Kit instead, calling it a \"dream machine.\"\nNadella unveiled the new Surface hardware just days after Nvidia officially returned to Windows on Arm with its new RTX Spark chips. Both companies are talking up these chips as some kind of new beginning for PCs, and it's clear that RTX Spark will drive local AI workloads in a way that Microsoft's …\nRead the full story at The Verge.",
-          "isoDate": "2026-06-04T16:00:00.000Z"
         }
       ]
     },
@@ -72,16 +72,10 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "NASA-Funded Study Shows Wildfire Smoke’s Hidden Ozone Toll",
-          "link": "https://science.nasa.gov/earth/nasa-funded-study-shows-wildfire-smokes-hidden-ozone-toll/",
-          "summary": "Over the last decade, wildfires have worsened ground-level ozone pollution across much of the contiguous United States, creating unhealthy air far from active flames.",
-          "isoDate": "2026-06-04T18:01:59.000Z"
-        },
-        {
-          "title": "Colorful, Chaotic Jupiter",
-          "link": "https://www.nasa.gov/image-article/colorful-chaotic-jupiter/",
-          "summary": "NASA’s Juno spacecraft captured this color-enhanced view of Jupiter’s northern hemisphere during its 61st close flyby of the giant planet on May 12, 2024. Citizen scientist Gary Eason made this image using raw data from the JunoCam instrument, applying digital processing techniques to enhance color and clarity. It provides a detailed view of chaotic clouds […]",
-          "isoDate": "2026-06-04T15:58:03.000Z"
+          "title": "ERROR cargando feed",
+          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
+          "isoDate": "2026-06-05T03:42:01.879Z"
         },
         {
           "title": "Competition enables rapid adaptation to a warming range edge in a model plant community",
@@ -130,6 +124,12 @@
           "link": "https://www.science.org/doi/abs/10.1126/science.aej0456?af=R",
           "summary": "Science, Volume 392, Issue 6802, June 2026.",
           "isoDate": "2026-06-04T07:00:00.000Z"
+        },
+        {
+          "title": "Erratum for the Research Article “Preventing hypocontractility-induced fibro-blast expansion alleviates dilated cardiomyopathy”",
+          "link": "https://www.science.org/doi/abs/10.1126/science.aej2323?af=R",
+          "summary": "Science, Volume 392, Issue 6802, June 2026.",
+          "isoDate": "2026-06-04T07:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,25 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-06-04T20:05:10.511Z"
+          "isoDate": "2026-06-05T03:42:03.132Z"
+        },
+        {
+          "title": "The ancient trick making food waste useful and tasty",
+          "link": "https://www.bbc.com/news/articles/c78kmj2kyklo?at_medium=RSS&at_campaign=rss",
+          "summary": "Instead of throwing away byproducts of food processing, fermentation is making them valuable.",
+          "isoDate": "2026-06-04T23:10:26.000Z"
+        },
+        {
+          "title": "Mark Zuckerberg's longest-serving employee on AI, jobs - and her boss",
+          "link": "https://www.bbc.com/news/articles/c5y71106g07o?at_medium=RSS&at_campaign=rss",
+          "summary": "Naomi Gleit has weathered many controversies at Meta, but remains in what she tells the BBC is her \"dream job\".",
+          "isoDate": "2026-06-04T23:05:39.000Z"
+        },
+        {
+          "title": "AI needs a 'brake pedal', warns Anthropic co-founder",
+          "link": "https://www.bbc.com/news/articles/cx2124z7g45o?at_medium=RSS&at_campaign=rss",
+          "summary": "Jack Clark tells BBC's Newsnight AI could get to the point where it develops without human input.",
+          "isoDate": "2026-06-04T21:53:25.000Z"
         },
         {
           "title": "Who is Elon Musk and what is his net worth?",
@@ -178,24 +196,6 @@
           "link": "https://www.bbc.com/news/articles/c775pp26yz5o?at_medium=RSS&at_campaign=rss",
           "summary": "The Competition and Markets Authority says it would put publishers \"in a stronger position to negotiate content deals with Google\".",
           "isoDate": "2026-06-03T05:18:00.000Z"
-        },
-        {
-          "title": "Do you find yourself aimlessly scrolling? You're not alone",
-          "link": "https://www.bbc.com/news/articles/czd2mq505dpo?at_medium=RSS&at_campaign=rss",
-          "summary": "A Virgin Media O2 report suggests an average of 36% of time spent on phones is without a clear purpose.",
-          "isoDate": "2026-06-02T23:01:27.000Z"
-        },
-        {
-          "title": "Microsoft testing wearable AI gadget aimed at office workers",
-          "link": "https://www.bbc.com/news/articles/cwy25x97wrxo?at_medium=RSS&at_campaign=rss",
-          "summary": "The company said its own workers are testing a \"wearable access badge\" and a desktop device.",
-          "isoDate": "2026-06-02T21:47:42.000Z"
-        },
-        {
-          "title": "Tech Life",
-          "link": "https://www.bbc.co.uk/sounds/play/w3ct8jxy?at_medium=RSS&at_campaign=rss",
-          "summary": "The tech company announces its new Majorana 2 chip.",
-          "isoDate": "2026-06-02T19:30:00.000Z"
         }
       ]
     },
@@ -228,6 +228,12 @@
           "isoDate": "2026-06-04T09:00:00.000Z"
         },
         {
+          "title": "Biodefense in the Intelligence Age",
+          "link": "https://openai.com/index/biodefense-in-the-intelligence-age",
+          "summary": "An action plan for AI-powered biological resilience",
+          "isoDate": "2026-06-04T00:00:00.000Z"
+        },
+        {
           "title": "Teaching AI agents to ask better questions by playing “Battleship”",
           "link": "https://news.mit.edu/2026/teaching-ai-agents-ask-better-questions-playing-battleship-0603",
           "summary": "MIT researchers use the classic game as a test bed for AI agents, finding a small AI model can outperform the biggest ones at 1 percent of the cost.",
@@ -252,12 +258,6 @@
           "isoDate": "2026-06-03T12:00:00.000Z"
         },
         {
-          "title": "OpenAI public policy agenda",
-          "link": "https://openai.com/index/public-policy-agenda",
-          "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
-          "isoDate": "2026-06-03T10:00:00.000Z"
-        },
-        {
           "title": "A blueprint for democratic governance of frontier AI",
           "link": "https://openai.com/index/frontier-safety-blueprint",
           "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 77\nColumn: 559\nChar:  ",
-          "isoDate": "2026-06-04T20:05:13.352Z"
+          "isoDate": "2026-06-05T03:42:06.926Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-06-04T20:05:12.257Z"
+          "isoDate": "2026-06-05T03:42:04.582Z"
         },
         {
           "title": "7 Ways New Engineers Can Flourish in the Age of AI",
