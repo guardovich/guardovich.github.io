@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-06-08T03:58:48.148Z",
+  "generatedAt": "2026-06-08T10:53:13.339Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Why this year’s World Cup ball may not fly as far",
+          "link": "https://www.technologyreview.com/2026/06/08/1138470/why-this-years-world-cup-ball-may-not-fly-as-far/",
+          "summary": "Much is new about this month’s upcoming FIFA World Cup tournament, which will be held in the US, Canada, and Mexico. It hosts more teams than ever before. It’s the first to occur in three different host countries. And, like predecessor cups for over half a century, it will employ a soccer ball with a…",
+          "isoDate": "2026-06-08T09:00:00.000Z"
+        },
         {
           "title": "NASA will wear high-tech Prada long johns to the Moon",
           "link": "https://www.theverge.com/design/945540/nasa-axiom-space-prada-lcvg-spacesuit-moon-artemis",
@@ -58,12 +64,6 @@
           "link": "https://www.theverge.com/entertainment/945269/gears-of-war-e-day-ps5-launch",
           "summary": "Apparently, the \"return of Xbox\" means a retreat from other platforms. At its Xbox Games Showcase today, Microsoft revealed that Gears of War: E-Day - which was previously rumored for a PS5 launch in addition to Xbox and PC - will not be coming to PlayStation. It'll be an Xbox console exclusive and is launching on October 6th.\nThe announcement was preceded by a trailer, which opened with a street-level view of an alien attack, with the extraterrestrial invaders being fought off in an urban landscape, including an electronics store and grocery shop. It looked like familiar Gears gameplay: lots of blood and lots of cover. It also may have bee …\nRead the full story at The Verge.",
           "isoDate": "2026-06-07T17:08:56.000Z"
-        },
-        {
-          "title": "The Verge Weekend Questionnaire",
-          "link": "https://www.theverge.com/entertainment/943285/the-verge-weekend-questionnaire",
-          "summary": "Have you ever wondered what the most indispensable app is for your favorite musician or how the world’s tech CEOs stay focused? Well, that’s the sort of thing we aim to uncover in our Verge Weekend Questionnaire. Think of it as a spiritual successor to Five Minutes on the Verge.\nEvery Saturday, a different guest submits to our rapid-fire menu of questions, and we bring you their unfiltered answers. Subjects come from a variety of worlds. We talk to content creators, authors, politicians, developers… basically anyone interesting. We want to know how they get their work done, how they unplug, and, of course, what GIFs and memes they’re sending to their friends and loved ones.\nWant to know what legendary designer insists on only opening one browser tab at a time and who holds the Game Boy up as their favorite gadget of all time? Check back each week for all that and more.\n\n\n\t\t\t\t\t\nBenn Jordan longs for the days of tech that didn’t spy on you\n\t\t\t\nWelcome to Night Vale host Cecil Baldwin shares his tech pet peeves\n\t\t\t\nThe man behind the legendary MPC, Roger Linn, stays focused with a single browser tab\n\t\t\t\nNPR’s Manoush Zomorodi talks about living with too much tech",
-          "isoDate": "2026-06-07T17:00:00.000Z"
         }
       ]
     },
@@ -72,64 +72,64 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "ERROR cargando feed",
-          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
-          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-06-08T03:58:42.242Z"
+          "title": "Why are so many young people getting cancer? What researchers do and don't know",
+          "link": "https://www.nature.com/articles/d41586-026-01780-6",
+          "summary": "Nature, Published online: 08 June 2026; doi:10.1038/d41586-026-01780-6\nCandidates for the trend are emerging, but are likely to vary from one type of tumor to another.",
+          "isoDate": "2026-06-08T00:00:00.000Z"
+        },
+        {
+          "title": "AI is taking on antibiotic resistance — here’s how",
+          "link": "https://www.nature.com/articles/d41586-026-01818-9",
+          "summary": "Nature, Published online: 08 June 2026; doi:10.1038/d41586-026-01818-9\nA suite of artificial-intelligence tools is helping to speed up the process of discovering new antibiotics.",
+          "isoDate": "2026-06-08T00:00:00.000Z"
+        },
+        {
+          "title": "Sustainability or dystopia? What past patterns tell us about where society is heading",
+          "link": "https://www.nature.com/articles/d41586-026-01821-0",
+          "summary": "Nature, Published online: 08 June 2026; doi:10.1038/d41586-026-01821-0\nA new book applies principles of environmental tipping points to past societal transformations — and attempts to draw lessons about what the future holds today.",
+          "isoDate": "2026-06-08T00:00:00.000Z"
+        },
+        {
+          "title": "NASA’s X-59 Aircraft Flies Supersonic for First Time",
+          "link": "https://www.nasa.gov/aeronautics/x-59-first-supersonic-flight/",
+          "summary": "NASA’s experimental X-59 aircraft marked a major milestone Friday, June 5, when it flew faster than the speed of sound for the first time, setting the stage for demonstrating its quiet supersonic capabilities later this year.  NASA test pilot Jim “Clue” Less took off and landed at Edwards Air Force Base in California, reaching a top speed of approximately Mach 1.1 (713 mph) and altitude of 43,400 feet. The X-59’s flight began at 11:08 a.m. PDT and lasted 81 minutes, with the team focusing on flying qualities at both subsonic and then […]",
+          "isoDate": "2026-06-05T20:44:57.000Z"
+        },
+        {
+          "title": "NASA Announces Winners of 2026 University Innovation Competition ",
+          "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-announces-winners-of-2026-university-innovation-competition/",
+          "summary": "NASA announced the Massachusetts Institute of Technology project, Exploration-Class Lunar Integrated Power SystEm, as the first place winner for the 2026 Revolutionary Aerospace Systems Concepts – Academic Linkage (RASC-AL) competition, which challenges students to bridge gaps in aerospace technology by innovating new system concepts and prototypes.  Another team from the same university won second place overall for their project, Mars Exploration Layered Infrastructure for Operations, Research, and Advancement, while Virginia Polytechnic Institute and State University took third place with the Mars […]",
+          "isoDate": "2026-06-05T20:17:11.000Z"
+        },
+        {
+          "title": "NASA’s Artemis II Moon Mission Research Continues on Earth",
+          "link": "https://science.nasa.gov/uncategorized/nasas-artemis-ii-moon-mission-research-continues-on-earth/",
+          "summary": "Since NASA’s Artemis II crew members safely splashed down in the Pacific Ocean on April 10 after their record-setting mission around the Moon, science teams have been busy collecting more data and combing through observations collected on the test flight. Results from these science investigations will help support safe human exploration of deep space and […]",
+          "isoDate": "2026-06-05T19:16:48.000Z"
+        },
+        {
+          "title": "NASA Concludes Antenna Mishap Investigation, Releases Report",
+          "link": "https://www.nasa.gov/directorates/somd/space-communications-navigation-program/nasa-concludes-antenna-mishap-investigation-releases-report/",
+          "summary": "NASA has completed the investigation into the damage sustained last year at its 70-meter radio-frequency antenna, known as the Deep Space Station 14 (DSS-14), at the Goldstone Deep Space Communications Complex near Barstow, California. The agency has classified the event as a Type A mishap based on the total cost of damages. The antenna will […]",
+          "isoDate": "2026-06-05T17:00:00.000Z"
+        },
+        {
+          "title": "First Steps: America’s Grueling Second Spacewalk",
+          "link": "https://www.nasa.gov/image-article/first-steps-americas-grueling-second-spacewalk/",
+          "summary": "One year after Gemini IV astronaut Edward H. White completed NASA’s first spacewalk the agency prepared for a demanding second excursion. Originally scheduled for Gemini VIII, the extravehicular activity (EVA) was reassigned to Gemini IX-A after that mission ended early, with Gene Cernan taking on the task. On June 5, 1966—the mission’s third day—Cernan exited […]",
+          "isoDate": "2026-06-05T15:47:27.000Z"
+        },
+        {
+          "title": "Fighting Fire With Fire",
+          "link": "https://science.nasa.gov/earth/earth-observatory/fighting-fire-with-fire/",
+          "summary": "In fire-prone ecosystems in Australia’s Northern Territory, prescribed burns are lit to minimize the severity of fires later in the season.",
+          "isoDate": "2026-06-05T04:01:00.000Z"
         },
         {
           "title": "Briefing chat: Spinosaurs with salt glands could have lived in marine environments",
           "link": "https://www.nature.com/articles/d41586-026-01831-y",
           "summary": "Nature, Published online: 05 June 2026; doi:10.1038/d41586-026-01831-y\nNature staff discuss some of the week’s top science news.",
           "isoDate": "2026-06-05T00:00:00.000Z"
-        },
-        {
-          "title": "First precise genome editing of human embryos triggers praise and alarm",
-          "link": "https://www.nature.com/articles/d41586-026-01827-8",
-          "summary": "Nature, Published online: 05 June 2026; doi:10.1038/d41586-026-01827-8\nThe ‘base editing’ technique that researchers used is far from ready for the clinic, but critics worry it will spur a rush to commercialization.",
-          "isoDate": "2026-06-05T00:00:00.000Z"
-        },
-        {
-          "title": "Europe is ditching US tech — what does this mean for researchers?",
-          "link": "https://www.nature.com/articles/d41586-026-01610-9",
-          "summary": "Nature, Published online: 05 June 2026; doi:10.1038/d41586-026-01610-9\nEuropean governments are choosing European digital tools — and some universities and researchers are doing the same.",
-          "isoDate": "2026-06-05T00:00:00.000Z"
-        },
-        {
-          "title": "See a helicopter destined for Mars and a spectacular flowery frame for the Milky Way — May’s best science images",
-          "link": "https://www.nature.com/articles/d41586-026-01609-2",
-          "summary": "Nature, Published online: 05 June 2026; doi:10.1038/d41586-026-01609-2\nThe month’s sharpest science shots, selected by Nature’s photo team.",
-          "isoDate": "2026-06-05T00:00:00.000Z"
-        },
-        {
-          "title": "Electric vehicles cut pollution in China – and prevent 260,000 premature deaths",
-          "link": "https://www.nature.com/articles/d41586-026-01781-5",
-          "summary": "Nature, Published online: 05 June 2026; doi:10.1038/d41586-026-01781-5\nHaving fewer fossil-fuel powered cars on the road is reducing some pollutants, but not others.",
-          "isoDate": "2026-06-05T00:00:00.000Z"
-        },
-        {
-          "title": "Competition enables rapid adaptation to a warming range edge in a model plant community",
-          "link": "https://www.science.org/doi/abs/10.1126/science.ads4664?af=R",
-          "summary": "Science, Volume 392, Issue 6802, June 2026.",
-          "isoDate": "2026-06-04T07:00:00.000Z"
-        },
-        {
-          "title": "Severe obesity in human HFpEF alters contractile protein function and organization",
-          "link": "https://www.science.org/doi/abs/10.1126/science.adz7118?af=R",
-          "summary": "Science, Volume 392, Issue 6802, June 2026.",
-          "isoDate": "2026-06-04T07:00:00.000Z"
-        },
-        {
-          "title": "Global extent and drivers of tree cover loss quantified with high-resolution satellite data",
-          "link": "https://www.science.org/doi/abs/10.1126/science.adz9042?af=R",
-          "summary": "Science, Volume 392, Issue 6802, June 2026.",
-          "isoDate": "2026-06-04T07:00:00.000Z"
-        },
-        {
-          "title": "Home alone: Remote work, isolation, and mental health",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aec7671?af=R",
-          "summary": "Science, Volume 392, Issue 6802, June 2026.",
-          "isoDate": "2026-06-04T07:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-06-08T03:58:43.499Z"
+          "isoDate": "2026-06-08T10:53:07.091Z"
         },
         {
           "title": "The gamers taking on the industry to stop it switching off games",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 77\nColumn: 559\nChar:  ",
-          "isoDate": "2026-06-08T03:58:46.241Z"
+          "isoDate": "2026-06-08T10:53:11.705Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-06-08T03:58:45.132Z"
+          "isoDate": "2026-06-08T10:53:08.444Z"
         },
         {
           "title": "50 Years of The Institute",
