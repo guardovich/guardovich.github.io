@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-06-09T03:29:00.730Z",
+  "generatedAt": "2026-06-09T09:42:01.899Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Donut Lab’s solid-state battery claim debunked by Ziroth",
+          "link": "https://www.theverge.com/science/946608/donut-labs-debunk-solid-state-battery",
+          "summary": "The devil’s in the details. | Image: Cath Virginia / The Verge, Donut Labs\t\n\nDonut Lab's solid-state battery claims have been thoroughly debunked by Ryan Inis Hughes on his popular Ziroth YouTube channel. According to Hughes, Donut Lab has engaged in deliberate, calculated deception by claiming to have a solid-state battery ready for mass production. In reality, it's nothing more than a standard lithium-ion design. \nHughes' investigation got an assist from whistleblower Lauri Peltola, the former Chief Commercial Officer (CCO) of Nordic Nano Group - the company supposedly partnered with Donut Lab to manufacture the batteries. Hughes says he also turned to \"over 20 independent battery experts,\" including Julian Zahnow …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-09T08:40:51.000Z"
+        },
         {
           "title": "FCC lifts looming deadline for Amazon Leo satellite broadband constellation",
           "link": "https://arstechnica.com/space/2026/06/fcc-lifts-looming-deadline-for-amazon-leo-satellite-broadband-constellation/",
@@ -58,12 +64,6 @@
           "link": "https://www.theverge.com/ai-artificial-intelligence/946335/openai-ipo-s-1-confidential",
           "summary": "OpenAI on Monday checked off a preliminary step in the IPO race that it and rival Anthropic have been competing in for the better part of a year: The company announced it has confidentially submitted a Form S-1 with the US Securities and Exchange Commission, following Anthropic's decision to do the same on June 1st. \nThe confidential filing means that certain details normally available through the form - such as executive compensation figures, potential risks to a company's business, and more financials - aren't yet public. \nAs of Anthropic's most recent fundraise, it's being called the world's most valuable startup, with a post-money valu …\nRead the full story at The Verge.",
           "isoDate": "2026-06-08T21:38:29.000Z"
-        },
-        {
-          "title": "macOS 27 requires Apple Silicon, as Apple draws down the Intel Mac era",
-          "link": "https://arstechnica.com/gadgets/2026/06/macos-27-requires-apple-silicon-as-apple-draws-down-the-intel-mac-era/",
-          "summary": "You'll need an M1 or better to run the next release of macOS.",
-          "isoDate": "2026-06-08T21:03:56.000Z"
         }
       ]
     },
@@ -71,6 +71,12 @@
       "header": "120  CIENCIA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "San Francisco’s Metropolitan Mosaic",
+          "link": "https://science.nasa.gov/missions/station/san-franciscos-metropolitan-mosaic/",
+          "summary": "Urban development, green spaces, and maritime activity converge in this Northern California city.",
+          "isoDate": "2026-06-09T04:00:00.000Z"
+        },
         {
           "title": "How NASA Science and Artemis Are Shaping the 2026 FIFA World Cup ",
           "link": "https://www.nasa.gov/centers-and-facilities/johnson/how-nasa-science-and-artemis-are-shaping-the-2026-fifa-world-cup/",
@@ -124,12 +130,6 @@
           "link": "https://www.nature.com/articles/d41586-026-01820-1",
           "summary": "Nature, Published online: 08 June 2026; doi:10.1038/d41586-026-01820-1\nArtificial intelligence is not replacing human intuition in these fields, but reimagining how questions are asked, explored and understood.",
           "isoDate": "2026-06-08T00:00:00.000Z"
-        },
-        {
-          "title": "Why are so many young people getting cancer? What researchers do and don't know",
-          "link": "https://www.nature.com/articles/d41586-026-01780-6",
-          "summary": "Nature, Published online: 08 June 2026; doi:10.1038/d41586-026-01780-6\nCandidates for the trend are emerging, but are likely to vary from one type of tumor to another.",
-          "isoDate": "2026-06-08T00:00:00.000Z"
         }
       ]
     },
@@ -141,13 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-06-09T03:28:52.764Z"
+          "isoDate": "2026-06-09T09:41:56.082Z"
         },
         {
-          "title": "OpenAI plans to go public, intensifying investment race with Anthropic",
+          "title": "AI giants' race to raise funds heats up as ChatGPT-owner plans stock market debut",
           "link": "https://www.bbc.com/news/articles/cd958eqg1n5o?at_medium=RSS&at_campaign=rss",
-          "summary": "The company behind ChatGPT filed its plans one week after Anthropic did the same.",
-          "isoDate": "2026-06-08T23:37:21.000Z"
+          "summary": "The company behind ChatGPT files its plans one week after Anthropic did the same.",
+          "isoDate": "2026-06-09T08:02:43.000Z"
         },
         {
           "title": "Could humanoid robots be heading for the battlefield?",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 77\nColumn: 559\nChar:  ",
-          "isoDate": "2026-06-09T03:28:55.838Z"
+          "isoDate": "2026-06-09T09:41:59.992Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-06-09T03:28:54.731Z"
+          "isoDate": "2026-06-09T09:41:57.738Z"
         },
         {
           "title": "IEEE Celebrates Technology’s Brightest Minds at Annual Event",
@@ -325,56 +325,6 @@
       "items": [
         {
           "title": "RESULTADOS (ÚLTIMOS)",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "VIL  5-1  ATL",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "ALA  1-2  RAY",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "REA  2-1  LEV",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "CEL  1-0  SEV",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "ESP  1-1  REA",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "GET  1-0  OSA",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "MAL  3-0  REA",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "REA  4-2  ATH",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "VAL  3-1  BAR",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "GIR  1-1  ELC",
           "link": "",
           "summary": ""
         },
