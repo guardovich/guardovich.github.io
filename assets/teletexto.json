@@ -1,69 +1,69 @@
 {
-  "generatedAt": "2026-06-08T20:14:18.845Z",
+  "generatedAt": "2026-06-09T03:29:00.730Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
         {
-          "title": "Apple drops support for a long list of iPads and Apple Watches with latest OS updates",
-          "link": "https://www.theverge.com/news/946147/apple-watchos-27-ipados-27-supported-devices-dropped",
-          "summary": "Pour one out for the Apple Watch Series 9. | Photo by Dan Seifert / The Verge\t\n\nI hope you have a modern Apple Watch or iPad, because otherwise watchOS 27 and iPadOS 27 won't run on your device. Apple often drops support for older devices with its latest software updates, but this year it's culling even more device generations than ever before.\nApple is dropping support for four generations of Apple Watch models in watchOS 27. The latest watchOS update will only be available on Apple Watch Series 10 devices and above, Apple Watch Ultra 2 and above, and Apple Watch SE 3. That means if you have a barely three-year-old Apple Watch Series 9 model then you're out of luck. Likewise, if you purchased the original Apple Watch  …\nRead the full story at The Verge.",
-          "isoDate": "2026-06-08T19:45:00.000Z"
+          "title": "FCC lifts looming deadline for Amazon Leo satellite broadband constellation",
+          "link": "https://arstechnica.com/space/2026/06/fcc-lifts-looming-deadline-for-amazon-leo-satellite-broadband-constellation/",
+          "summary": "The waiver \"serves the public interest by promoting a second large satellite broadband constellation.\"",
+          "isoDate": "2026-06-09T00:59:40.000Z"
         },
         {
-          "title": "Artemis II crew flew fast, earned new patch: Astronauts' Mach 39 emblem",
-          "link": "https://arstechnica.com/space/2026/06/artemis-ii-crew-flew-fast-earned-new-patch-astronauts-mach-39-emblem/",
-          "summary": "\"It is actually challenging how you measure [Mach] from space.\"",
-          "isoDate": "2026-06-08T19:40:05.000Z"
+          "title": "Instagram is finally letting everyone reorganize their profile grid",
+          "link": "https://www.theverge.com/tech/946458/instagram-is-finally-letting-everyone-reorganize-their-grid",
+          "summary": "Nearly a year after it was announced, Instagram says it's delivering the ability to rearrange the posts in your profile grid. It had been available to some people in test groups, but as of June 8th, it's rolling out widely via the Android and iPhone mobile apps. \nUntil now, the posts on your Instagram profile have been locked in chronological order beyond the ability to pin three posts at the top, but once the feature is live on your account, you can long-press and drag posts freely, no matter how old they are. Any posts that are pinned will remain at the top.\n\n\n  \n \n  \n \n\n\n \n\n View this post on Instagram\n\n \n \n \n \n\n \n \n\n \n \n \n\n \n \n \n\n\n\nInstagram boss Adam Mosseri a …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-08T23:58:30.000Z"
         },
         {
-          "title": "Apple announces watchOS 27, now with Siri AI",
-          "link": "https://www.theverge.com/tech/943145/apple-watch-watchos-27-wwdc-2026",
-          "summary": "Apple just announced watchOS 27, the next version of its Apple Watch operating system, introducing support for Siri AI, a redesigned \"dynamic\" app grid, and improvements to health and fitness tracking. The watchOS 27 update will be available \"this fall,\" according to Apple, though support is notably limited - the new OS will only be available for Apple Watch Series 10 models or newer, including the Ultra 2, Ultra 3, and SE 3.\nThe biggest update coming to supported Apple Watch models is Siri AI - the next generation of Apple's virtual assistant, powered by Apple Intelligence. This comes with a new, dedicated Siri app that \"brings together al …\nRead the full story at The Verge.",
-          "isoDate": "2026-06-08T19:34:10.000Z"
+          "title": "Apple’s Screen Time updates are too little, too late",
+          "link": "https://www.theverge.com/tech/946446/apples-screen-time-updates-are-too-little-too-late",
+          "summary": "Ask to Browse is one of the new features coming to Screen Time. | Screenshot The Verge\t\n\nApple spending a big chunk of its WWDC keynote on parental controls was surprising for several reasons. But the biggest is that, despite all the airtime, it didn't announce much new beyond a redesigned interface. Almost all the features touted already exist or are upgrades to current options. Why Apple chose to do this isn't a mystery. You can trace the threads from the recent landmark social media trials against Meta and Google to the protesters outside the Cupertino HQ today: Apple is trying to show the world it's being responsible when it comes to your children.\nOnly it's really not. Screen Time sucks. As a mother of two whose children h …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-08T23:41:00.000Z"
         },
         {
-          "title": "Say hi to \"Siri AI\"—Apple announces new, more \"conversational\" voice assistant",
-          "link": "https://arstechnica.com/apple/2026/06/say-hi-to-siri-ai-apple-announces-new-more-conversational-voice-assistant/",
-          "summary": "New features coming this fall alongside two-tiered, Google-powered AI model overhaul.",
-          "isoDate": "2026-06-08T19:30:05.000Z"
+          "title": "5 things I already love from the iOS 27 beta",
+          "link": "https://www.theverge.com/tech/946391/apple-ios-27-developer-beta-1-wwdc-2026-5-things",
+          "summary": "Some app icons have a little more glass, but it gives them more identity.\t\n\niOS 27 has only been out for a few hours, and I've been messing around with the developer beta on my iPhone 16 Pro. I was most interested in trying out the new Siri AI, but unfortunately, I'm still on Apple's waitlist for that. In the meantime, I've been poking around a bunch of features that aren't about AI and found a lot that I'm happy with - even though this doesn't seem to be as big of an update as in previous years, the fit and finish throughout the operating system is already great to see.\nHere are a few neat things that have jumped out at me.\nThe Liquid Glass opacity slider should have been there from the start\nI've always thought …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-08T23:30:00.000Z"
         },
         {
-          "title": "Gemini 3.5 and Antigravity come to Google NotebookLM",
-          "link": "https://arstechnica.com/ai/2026/06/gemini-3-5-and-antigravity-come-to-google-notebooklm/",
-          "summary": "NotebookLM is getting a big upgrade, but it's only for AI Ultra and enterprise accounts right now.",
-          "isoDate": "2026-06-08T19:00:30.000Z"
+          "title": "Apple is using AI to fix Safari’s extension problem",
+          "link": "https://www.theverge.com/tech/946345/apple-safari-ai-update-extensions",
+          "summary": "Apple is trying to solve one of Safari's biggest weaknesses with AI. Safari has long lacked the robust library of extensions that its rivals have, mainly due to the stringent development requirements from Apple. But now, Apple is inviting users to essentially vibe-code their own extensions.\nIn a demo shared by Apple, the company showed how you can ask Safari to create an extension by describing it. \"Save and track cooking recipes from around the web,\" the prompt said. \"Click the toolbar button to see your saved recipes and add notes to each.\" From there, Safari used Apple Intelligence to generate a \"Recipe Keeper\" extension that's supposed  …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-08T22:14:17.000Z"
         },
         {
-          "title": "Your empty cuppa could capture carbon",
-          "link": "https://arstechnica.com/science/2026/06/your-empty-cuppa-could-capture-carbon/",
-          "summary": "Polystyrene can be upcycled into carbon sponge material.",
-          "isoDate": "2026-06-08T18:50:10.000Z"
+          "title": "Where was tvOS 27 at WWDC?",
+          "link": "https://www.theverge.com/tech/946329/tvos-27-absent-wwdc",
+          "summary": "For a new tvOS, we really need a new Apple TV. | Photo by Chris Welch / The Verge\t\n\nEvery year, Apple's Worldwide Developers Conference gives us a first look at what's coming next to the company's many operating systems. But missing from today's keynote, apart from a single graphic listing all current Apple OSes next to a big \"27,\" was any mention of tvOS.\nThe whole structure of this year's WWDC was different, with features delineating the presentation structure instead of sections for each OS update. But there were still major mentions for macOS 27, iOS 27, and iPadOS 27. They're getting Siri AI, customizable transparency options for Liquid Glass, and some new child safety features. Even visionOS was included with new Sir …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-08T22:04:42.000Z"
         },
         {
-          "title": "Apple WWDC 2026: The 7 biggest announcements",
-          "link": "https://www.theverge.com/tech/945693/apple-wwdc-2026-biggest-announcements-ios-27",
-          "summary": "Apple's keynote at this year's Worldwide Developers Conference was a big one. After months of delays, Apple reintroduced us to its AI-upgraded Siri, which will go beyond what the existing voice assistant can do by offering more personalized help. We also got a look at many other updates coming across the operating systems powering the iPhone, iPad, and Mac.\nYou can catch up with all the biggest news in the roundup below.\nSiri's big AI revamp\nSiri is getting a bunch of AI features powered by the latest version of Apple Intelligence, which Apple worked with Google to build. Apple is calling the upgraded voice assistant Siri AI, offering the …\nRead the full story at The Verge.",
-          "isoDate": "2026-06-08T18:43:56.000Z"
+          "title": "Tests suggest Russian satellites can jam GPS on a continental scale",
+          "link": "https://arstechnica.com/space/2026/06/tests-suggest-russian-satellites-can-jam-gps-on-a-continental-scale/",
+          "summary": "Mystery of GPS interference across Europe raises questions about Russian motives.",
+          "isoDate": "2026-06-08T21:56:28.000Z"
         },
         {
-          "title": "WWDC 2026 bonus live blog: Tech Talk with Craig Federighi",
-          "link": "https://www.theverge.com/tech/946046/wwdc-2026-live-blog-tech-talk-with-craig-federighi",
-          "summary": "One of the funnier parts of the keynote.\t\n\nFresh off the WWDC keynote presentation, The Verge has been invited to an \"on-the-record technical deep dive into the bold new architecture enabling Apple Intelligence capabilities.\" Apple SVP of Software Engineering Craig Federighi and his team will be there, and so will we. \nThe revamped Apple Intelligence is at the heart of nearly every update Apple announced across all its operating systems today, Liquid Glass corner radii notwithstanding. \nThe discussion will begin at 12PM PT / 3PM ET. Nilay and Vee will be liveblogging below; Allison will be quickposting.\n(function(n){function c(t,i){n[e](h,function(n){var r,u;if(n&&(r=n[n.message?\"message\":\"data\"]+\"\",r&&r.substr&&r.substr(0,3)===\"nc:\")&&(u=r.split(\":\"),u[1]===i))switch(u[2]){case\"h\":t.style.height=u[3]+\"px\";return;case\"scrolltotop\":t.scrollIntoView();return}},!1)}for(var t,u,f,i,s,e=n.addEventListener?\"addEventListener\":\"attachEvent\",h=e===\"attachEvent\"?\"onmessage\":\"message\",o=n.document.querySelectorAll(\".live-center-embed\"),r=0;r<o.length;r++)(t=o[r],t.getAttribute(\"data-rendered\"))||(u=t.getAttribute(\"data-src\"),u&&(t.setAttribute(\"data-rendered\",\"true\"),f=n.ncVizCounter||1e3,n.ncVizCounter=f+1,i=f+\"\",s=\"nc-frame-c-\"+i,t.innerHTML='\n\n',c(t.firstChild,i)))})(window);\nRead the full story at The Verge.",
-          "isoDate": "2026-06-08T18:42:53.000Z"
+          "title": "Apple’s new parental controls are for keeping Apple out of trouble",
+          "link": "https://www.theverge.com/policy/946331/apple-parental-controls-child-accounts-wwdc",
+          "summary": "When Apple put child safety front and center at WWDC on Monday, its stated goal was helping parents fine-tune their kids' online experiences and avoid excessive screen time. But amid a global debate over internet regulation, its latest updates also looked like a defensive move in a brewing fight against Meta and other app developers.\nApple announced an expanded toolkit for parents through its child accounts at WWDC, including a greater ability to customize kids' allotted screen time and the ability to block gory or violent images in messages before kids see them. Raja Bose, Apple's director of trust, safety, and values product marketing, to …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-08T21:48:08.000Z"
         },
         {
-          "title": "Cameras get an Apple Intelligence boost in Apple Home",
-          "link": "https://www.theverge.com/tech/946032/apple-home-ai-camera-descriptions-search-4k",
-          "summary": "Cameras connected to Apple’s HomeKit Secure Video will be able to generate AI-powered video descriptions. | Screenshot by Jennifer Pattison Tuohy / The Verge\t\n\nApple Intelligence is coming to cameras connected to Apple Home. At WWDC, Apple announced that with iOS27, its HomeKit Secure Video service will use Apple Intelligence to analyze footage and generate descriptions summarizing what the camera saw. You can also search footage with natural language to find clips from across connected cameras, such as when a package was delivered. \nThe Home app will also use Apple Intelligence to connect relevant clips together to give you a picture of what's happening across your home and surface \"noteworthy clips\" on the search page to quickly show you videos that might be important.\nThis AI bo …\nRead the full story at The Verge.",
-          "isoDate": "2026-06-08T18:37:31.000Z"
+          "title": "OpenAI files for IPO, following Anthropic",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/946335/openai-ipo-s-1-confidential",
+          "summary": "OpenAI on Monday checked off a preliminary step in the IPO race that it and rival Anthropic have been competing in for the better part of a year: The company announced it has confidentially submitted a Form S-1 with the US Securities and Exchange Commission, following Anthropic's decision to do the same on June 1st. \nThe confidential filing means that certain details normally available through the form - such as executive compensation figures, potential risks to a company's business, and more financials - aren't yet public. \nAs of Anthropic's most recent fundraise, it's being called the world's most valuable startup, with a post-money valu …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-08T21:38:29.000Z"
         },
         {
-          "title": "For the 2nd time in weeks, Microsoft packages laced with credential stealer",
-          "link": "https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/",
-          "summary": "73 packages run self-replicating stealer as soon as they're opened by an AI agent.",
-          "isoDate": "2026-06-08T18:34:23.000Z"
+          "title": "macOS 27 requires Apple Silicon, as Apple draws down the Intel Mac era",
+          "link": "https://arstechnica.com/gadgets/2026/06/macos-27-requires-apple-silicon-as-apple-draws-down-the-intel-mac-era/",
+          "summary": "You'll need an M1 or better to run the next release of macOS.",
+          "isoDate": "2026-06-08T21:03:56.000Z"
         }
       ]
     },
@@ -72,10 +72,28 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "ERROR cargando feed",
-          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
-          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-06-08T20:14:13.310Z"
+          "title": "How NASA Science and Artemis Are Shaping the 2026 FIFA World Cup ",
+          "link": "https://www.nasa.gov/centers-and-facilities/johnson/how-nasa-science-and-artemis-are-shaping-the-2026-fifa-world-cup/",
+          "summary": "As the FIFA World Cup approaches, NASA is bringing space science and engineering to soccer fans worldwide. From June 11 to July 19, 2026, NASA will host an exhibit at FIFA Fan Festival™ Houston where visitors can learn how research aboard the International Space Station benefits life on Earth and experience missions in low Earth orbit, the Moon, and beyond through the Artemis program.  On June 11, as the FIFA World Cup begins, NASA’s exhibit […]",
+          "isoDate": "2026-06-08T19:36:08.000Z"
+        },
+        {
+          "title": "Supersonic!",
+          "link": "https://www.nasa.gov/image-article/supersonic/",
+          "summary": "On June 5, 2026, NASA’s experimental X-59 aircraft flew faster than the speed of sound for the first time, setting the stage for demonstrating its quiet supersonic capabilities later this year. NASA test pilot Jim “Clue” Less took off and landed at Edwards Air Force Base in California, reaching a top speed of approximately Mach 1.1 (713 mph). The flight lasted 81 minutes, with the team focusing on flying qualities at both […]",
+          "isoDate": "2026-06-08T15:28:10.000Z"
+        },
+        {
+          "title": "NASA’s INCUS Satellites Progress Toward Launch",
+          "link": "https://science.nasa.gov/photojournal/nasas-incus-satellites-progress-toward-launch/",
+          "summary": "Description One of the three satellites that make up NASA’s INCUS (Investigation of Convective Updrafts) mission sits on a fixture at the facilities of Blue Canyon Technologies in Lafayette, Colorado. The satellite completed testing in preparation for launch in late May 2026. The mission will make the first space-based survey of the dynamics of tropical […]",
+          "isoDate": "2026-06-08T15:22:07.000Z"
+        },
+        {
+          "title": "Digging Back in Time in the UAE",
+          "link": "https://science.nasa.gov/earth/earth-observatory/digging-back-in-time-in-the-uae/",
+          "summary": "Once below a shallow sea, Jabal al Fāyah now stands above the desert in the United Arab Emirates as a reminder of a watery past and early human survival.",
+          "isoDate": "2026-06-08T04:01:00.000Z"
         },
         {
           "title": "GPR15-guided CD8<sup>+</sup> T regulatory cells control intestinal inflammation",
@@ -112,24 +130,6 @@
           "link": "https://www.nature.com/articles/d41586-026-01780-6",
           "summary": "Nature, Published online: 08 June 2026; doi:10.1038/d41586-026-01780-6\nCandidates for the trend are emerging, but are likely to vary from one type of tumor to another.",
           "isoDate": "2026-06-08T00:00:00.000Z"
-        },
-        {
-          "title": "Bots are scraping open data — how should researchers respond?",
-          "link": "https://www.nature.com/articles/d41586-026-01689-0",
-          "summary": "Nature, Published online: 08 June 2026; doi:10.1038/d41586-026-01689-0\nThe snowballing ability of artificial intelligence to trawl open data sets has some scientists worried about losing control of their information.",
-          "isoDate": "2026-06-08T00:00:00.000Z"
-        },
-        {
-          "title": "AI is taking on antibiotic resistance — here’s how",
-          "link": "https://www.nature.com/articles/d41586-026-01818-9",
-          "summary": "Nature, Published online: 08 June 2026; doi:10.1038/d41586-026-01818-9\nA suite of artificial-intelligence tools is helping to speed up the process of discovering new antibiotics.",
-          "isoDate": "2026-06-08T00:00:00.000Z"
-        },
-        {
-          "title": "Nuclear-fusion firm says plant will deliver electricity to grid – but big questions remain",
-          "link": "https://www.nature.com/articles/d41586-026-01795-z",
-          "summary": "Nature, Published online: 08 June 2026; doi:10.1038/d41586-026-01795-z\nCommonwealth Fusion Systems published several papers detailing the design of its ARC fusion power plant.",
-          "isoDate": "2026-06-08T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,25 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Unexpected close tag\nLine: 36\nColumn: 169\nChar: >",
-          "isoDate": "2026-06-08T20:14:14.878Z"
+          "isoDate": "2026-06-09T03:28:52.764Z"
+        },
+        {
+          "title": "OpenAI plans to go public, intensifying investment race with Anthropic",
+          "link": "https://www.bbc.com/news/articles/cd958eqg1n5o?at_medium=RSS&at_campaign=rss",
+          "summary": "The company behind ChatGPT filed its plans one week after Anthropic did the same.",
+          "isoDate": "2026-06-08T23:37:21.000Z"
+        },
+        {
+          "title": "Could humanoid robots be heading for the battlefield?",
+          "link": "https://www.bbc.com/news/articles/cedpxwe26l1o?at_medium=RSS&at_campaign=rss",
+          "summary": "Armed forces are experimenting with humanoid robots, but battlefield deployment is some way off.",
+          "isoDate": "2026-06-08T23:06:30.000Z"
+        },
+        {
+          "title": "Apple unveils Siri AI makeover as Tim Cook bids farewell",
+          "link": "https://www.bbc.com/news/articles/cnv9dr996v8o?at_medium=RSS&at_campaign=rss",
+          "summary": "The technology giant also revealed a series of new child safety features amid widespread scrutiny over \"nudification\" apps.",
+          "isoDate": "2026-06-08T21:08:49.000Z"
         },
         {
           "title": "Jailed crypto founder Sam Bankman-Fried seeks Trump pardon",
@@ -178,24 +196,6 @@
           "link": "https://www.bbc.com/news/articles/cy5w2k5k5ylo?at_medium=RSS&at_campaign=rss",
           "summary": "As the price of Bitcoin sinks once more, here's a guide to some of the trickiest crypto terms.",
           "isoDate": "2026-06-05T09:56:27.000Z"
-        },
-        {
-          "title": "We need to stop AI developing without humans, says Anthropic co-founder",
-          "link": "https://www.bbc.com/news/articles/cx2124z7g45o?at_medium=RSS&at_campaign=rss",
-          "summary": "Jack Clark tells BBC's Newsnight AI could get to the point where it develops without human input.",
-          "isoDate": "2026-06-05T07:17:39.000Z"
-        },
-        {
-          "title": "The ancient trick making food waste useful and tasty",
-          "link": "https://www.bbc.com/news/articles/c78kmj2kyklo?at_medium=RSS&at_campaign=rss",
-          "summary": "Instead of throwing away byproducts of food processing, fermentation is making them valuable.",
-          "isoDate": "2026-06-04T23:10:26.000Z"
-        },
-        {
-          "title": "Mark Zuckerberg's longest-serving employee on AI, jobs - and her boss",
-          "link": "https://www.bbc.com/news/articles/c5y71106g07o?at_medium=RSS&at_campaign=rss",
-          "summary": "Naomi Gleit has weathered many controversies at Meta, but remains in what she tells the BBC is her \"dream job\".",
-          "isoDate": "2026-06-04T23:05:39.000Z"
         }
       ]
     },
@@ -203,6 +203,18 @@
       "header": "160  INTELIGENCIA ARTIFICIAL",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Confidential submission of draft S-1 to the SEC",
+          "link": "https://openai.com/index/openai-submits-confidential-s-1",
+          "summary": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
+          "isoDate": "2026-06-08T14:00:00.000Z"
+        },
+        {
+          "title": "Built to benefit everyone: our plan",
+          "link": "https://openai.com/index/built-to-benefit-everyone-our-plan",
+          "summary": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.",
+          "isoDate": "2026-06-08T01:30:00.000Z"
+        },
         {
           "title": "Introducing the OpenAI Economic Research Exchange",
           "link": "https://openai.com/index/economic-research-exchange",
@@ -250,18 +262,6 @@
           "link": "https://news.mit.edu/2026/teaching-ai-agents-ask-better-questions-playing-battleship-0603",
           "summary": "MIT researchers use the classic game as a test bed for AI agents, finding a small AI model can outperform the biggest ones at 1 percent of the cost.",
           "isoDate": "2026-06-03T21:00:00.000Z"
-        },
-        {
-          "title": "Tod Machover receives George Peabody Medal for contributions to music and technology",
-          "link": "https://news.mit.edu/2026/tod-machover-receives-george-peabody-medal-0603",
-          "summary": "The George Peabody Medal is the highest honor bestowed by the Peabody Institute of the Johns Hopkins University.",
-          "isoDate": "2026-06-03T20:50:00.000Z"
-        },
-        {
-          "title": "Introducing new capabilities to GPT-Rosalind",
-          "link": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
-          "summary": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
-          "isoDate": "2026-06-03T13:15:00.000Z"
         }
       ]
     },
@@ -273,13 +273,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 77\nColumn: 559\nChar:  ",
-          "isoDate": "2026-06-08T20:14:17.490Z"
+          "isoDate": "2026-06-09T03:28:55.838Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-06-08T20:14:16.131Z"
+          "isoDate": "2026-06-09T03:28:54.731Z"
+        },
+        {
+          "title": "IEEE Celebrates Technology’s Brightest Minds at Annual Event",
+          "link": "https://spectrum.ieee.org/ieee-celebrates-honors-ceremony-2026",
+          "summary": "New York City was the backdrop of this year’s IEEE Honors Ceremony, held on 24 April.\nThe event celebrates engineering pioneers who have developed technologies that have changed how people connect and learn about the world. This year’s celebrants included the engineers behind innovations such as text-to-donate technology, AI-powered diagnostic tools, and the graphics processing unit, among many others.\nPrior to the Honors Ceremony, IEEE hosted a forum on 23 April for a select group of early-career achievers to exchange ideas and experiences with laureates and awardees, speakers, and IEEE leaders. Attendees from around the world, working in a variety of technical areas, shared their journeys and explored the intersections of technologies, disciplines, and missions. \nThe event culminated in Friday evening’s black tie Honors Ceremony, where IEEE celebrated medal laureates, including Jensen Huang, who received IEEE’s highest recognition, the IEEE Medal of Honor. Huang is a cofounder of Nvidia and its chief executive. \n“IEEE has always been a home to those who see the future before others see it,” Mary Ellen Randall, IEEE president and CEO, said in her welcome speech. \nVideo highlights and photos from the event are available on the IEEE Awards website.\nExploring mission-driven tech and AI in art\nFriday morning began with a conversation between Randall and Marian Croak, the recipient of this year’s IEEE Founders Medal. Croak was honored for “leadership in communication networks, including acceleration of digital equity, responsible artificial intelligence, and the promotion of diversity and inclusion.”\nCroak, who serves as vice president of engineering at Google, headquartered in Mountain View, Calif., pioneered Voice over Internet Protocol (VoIP) technologies. When a person speaks into a telephone, VoIP converts their voice into digital signals that are transmitted over the Internet rather than traditional phone lines. Her work enabled audio and video conferencing. She also developed text-to-donate technology to raise money for those affected by Hurricane Katrina, which devastated New Orleans in 2005. The technology enables customers to donate money to a charity via their mobile service provider, which then bills them. \n“Empathy has always been a driving force in the engineering that I’ve done,” she said.\nShe shared advice on how to stay creative: “Get out of the office. Go to an art museum, exercise, or play with children.” Croak said her grandchildren inspire her.\nAn inside look at microchips\n\nDuring Friday evening’s Honors Ceremony cocktail hour, attendees explored the history of microchips at the IEEE Global Museum’s Microchips That Shook the World exhibit. The Global Museum, an IEEE History and Heritage program, develops traveling and digital exhibits focused on the history of technology. The museum’s mission is to promote awareness of how technological progress unfolds over generations and how engineers and researchers build on past achievements to benefit humanity.\nDrawing from IEEE Spectrum’s Chip Hall of Fame, the Microchips That Shook the World exhibit conveys the roles integrated circuits play in fields such as signal processing, audio engineering, and telecommunications.\nCo-curators Stephen Cass, Spectrum’s special projects editor, and Daniel Mitchell, the IEEE senior historian, served as onsite docents for guests. The Commodore 64, one of the artifacts on display, brought up many treasured childhood memories for guests who used the home computer. The exhibit also featured a preview of IEEE’s immersive video project “Inside the Microchip,” which delves beneath the silicon surface of the Nvidia NV20 microchip thanks to forensic photography and sophisticated computer-generated renders. The video, which will be released later this year, aims to teach preuniversity students about the technology.\nMicrochips that Shook the World is possible thanks to donations from semiconductor company ASML, the Bill and Dianne Mensch Foundation, and the IEEE Electron Devices and IEEE Electronics Packaging societies\nThe daytime program also spotlighted AI’s use in the visual arts. Kathleen Kramer, the 2025 IEEE president, interviewed artist Refik Anadol, who is scheduled to open an AI art museum on 20 June in Los Angeles. Dataland’s exhibits are powered by an open-access model developed by Anadol’s studio.\nFor the museum’s first exhibition, “Machine Dreams: Rainforest,” the model collected visual data about the natural world from the Smithsonian National Museum of Natural History, London’s Natural History Museum, and the Cornell Lab of Ornithology, with their permission. The information, including up to a half billion images, will form the basis for a variety of AI-produced art, Anadol said.\nAnadol said he was inspired to mix AI with art by the movie Blade Runner. He said he believes “machines can become collaborators,” as “data is a form of pigment.”\nData also plays an important role in the work of artist and author Giorgia Lupi. The artist is a partner at design firm Pentagram.\nLupi said she uses data to tell stories, including chronicling her struggles with a chronic illness.\n“Data is an abstraction of our reality,” she said.\nOne of her recent projects, “A Data Love Letter to the Subway,” was shown last year in the Dey Street Passageway in New York City. The video was made using data from the Metropolitan Transportation Authority about each train line, including timetables, ridership, and people’s travel habits. Based on the information Lupi gathered, she documented how commuters traveling on different subway lines encountered one another without realizing it.\nBy exploring data on this year’s IEEE award recipients, she collaborated with IEEE to create an animated video illustrating the shared pathways and collaborations among the honorees. It debuted at the Honors Ceremony.\nHonoring engineering giants\nThe Honors Ceremony, held at Cipriani 42nd Street, recognized more than 20 laureates and innovators.\nMore than 92 million selfies are taken worldwide every day, PhotoAiD estimates. A selfie wouldn’t be possible without Eric Fossum’s invention of the CMOS image sensor. Developed at NASA’s Jet Propulsion Laboratory, in Pasadena, Calif., the “camera on a chip” was intended for use in space, but it is now found in smartphones, medical devices, and vehicles. Fossum, an IEEE Life Fellow, received the IEEE Jun-ichi Nishizawa Medal, which recognizes outstanding contributions to materials and device science and technology.\n“Engineering is a pursuit of what must be possible. [IEEE is] the spirit, the conscience, of our profession.” —Jensen Huang, founder and CEO of Nvidia\nThe medal, he said, “is at the top of the IEEE staircase of being recognized by your peers.”\nThe IEEE Holonyak Medal for Semiconductor Optoelectronic Technologies went to Steven P. DenBaars, a professor of materials and electrical and computer engineering at the University of California, Santa Barbara. DenBaars was honored for his work in semiconductors, which laid the foundation for high-resolution LED and laser displays, modern solid-state lighting, and more.\n“This work has always been a team effort...I’m excited and curious about the role gallium nitride micro LEDs will play in optical communications,” he said in his acceptance speech.\nThe ceremony ended with the Medal of Honor presentation to Huang, who received a standing ovation. He was recognized for his “leadership in the development of graphics processing units and their application to scientific computing and artificial intelligence.”\nThe IEEE honorary member donated his cash prize to IEEE TryEngineering, which provides teachers with a library of lesson plans and offers educational summer camps. The Jen-Hsun and Lori Huang Foundation matched his gift, and the additional donation is destined to fund scholarships for new graduates. \n“Engineering is a pursuit of what must be possible. [IEEE is] the spirit, the conscience, of our profession,” Huang said.",
+          "isoDate": "2026-06-08T18:00:02.000Z"
         },
         {
           "title": "50 Years of The Institute",
@@ -310,12 +316,6 @@
           "link": "https://spectrum.ieee.org/ieee-presidents-note-june-2026",
           "summary": "Children born after 2013 are the first generation to grow up fully immersed in digital systems, which weren’t designed with them in mind. One‑third of the world’s Internet users are younger than 18, according to UNICEF, yet these systems shaping their daily lives were built for adults. They were optimized for engagement and designed long before people understood how profoundly digital environments influence children.\nFor engineers and technical professionals, online safety is not an abstract policy debate. It is a design challenge that demands rigor, systems thinking, and ethical foresight.\nGovernments around the world are also beginning to recognize the problem. Policymakers from across Australia, Brazil, the European Union, Indonesia, and the United States are responding to risks engineers have long understood: Addictive features, inappropriate content, opaque data practices, and algorithmic systems shape user behavior in ways that their creators did not fully predict. For years, technology moved faster than governance. Now governance is trying to catch up.\nGlobal Shift Toward Design Reform\nSupporting National Digital Ambitions\n\nIn Athens this year I met with senior leaders of Greek government agencies and key national research institutions. Greece is moving quickly on digital transformation and responsible technology governance, and our discussions reinforced IEEE’s role as a trusted, neutral collaborator.\nWe focused on supporting Greece’s ambitions in digital modernization and public‑sector innovation. We also discussed responsible AI and age-appropriate digital design in Europe and elsewhere. These engagements, grounded in shared values and long‑term commitment, strengthened IEEE’s presence within the European ecosystem and opened new pathways for collaboration on trustworthy AI and child‑focused digital well‑being.\nThe European Union and the United Kingdom have been among the first to act, embedding age‑appropriate digital design into their broader children’s rights agenda. Drawing on IEEE expertise and global best practices, Indonesia is the first country in Asia, and Brazil is the first country in Latin America, to adopt age-appropriate design regulation. Australia is aiming to limit access to harmful content and addictive design features through age restrictions on certain platforms. And in the United States, in addition to federal efforts, states including California, New York, and Utah are enacting approaches including age-appropriate design principles.\nAcross these efforts, a shared realization is emerging. Protecting children online is not simply about filtering content or adding parental controls. It requires rethinking the architecture of digital systems regarding how data is collected, how algorithms make decisions, how interfaces influence attention, and how AI interacts with the developing minds of young users.\nEngineers and technical professionals understand that design choices are never neutral. They encode values, incentives, and assumptions. When the user is a child, those choices carry greater weight.\nThis is where IEEE’s work becomes more essential.\n Protecting Children Online\nFor more than a decade, IEEE has been building technical and ethical foundations for safer digital experiences. The first IEEE standard on age-appropriate design in 2021 marked a turning point. It offers a structured, principled approach to designing with children’s rights in mind. The Institute’s 2022 article “Use a New IEEE Standard to Design a Safer Digital World for Kids” highlights how the standard helps translate those principles into engineering practice.\nToday the IEEE Standards Association’s (SA) Trustworthy Digital Experiences portfolio provides a practical, technically grounded framework for governments and industry. Spanning ethical design, data governance, algorithmic transparency, and child‑focused digital well‑being, it has already initiated discussions with government stakeholders around the world. This work helps bridge the gap between engineering realities and policy ambitions.\nNo single country can solve these challenges alone. Many policymakers lack access to the combined expertise in technology, governance, and children’s rights needed to act quickly and effectively. This collaborative effort helps close that gap.\nThe stakes are high. Without coordinated action, public policy will continue to lag behind technology, leaving children exposed to risks that could have been mitigated through thoughtful design. But with the right frameworks, governments can ensure digital systems respect children’s rights, support healthy development, and promote well‑being.\nIEEE’s emerging standards and collaborative technology policy work offer a path forward. By grounding national efforts in evidence‑based, rights-aligned design principles, IEEE is helping governments move from reactive regulation to proactive, coherent, and globally informed strategies for protecting children online.\nSafeguarding childhood in the digital age is both a moral imperative and an engineering challenge. And IEEE is helping to lead the way.\n—Mary Ellen Randall\nIEEE president and CEO\nPlease share your thoughts with me: president@ieee.org.\nThis article appears in the June 2026 print issue.",
           "isoDate": "2026-06-01T18:00:02.000Z"
-        },
-        {
-          "title": "Why Sardinians Are Fighting the Renewable Energy Transition",
-          "link": "https://spectrum.ieee.org/renewable-energy-resistance",
-          "summary": "“Not in my backyard” is the rallying cry of citizens everywhere resisting projects proposed for their locality. Whether it’s affordable housing, a waste treatment plant, or a new data center, they may recognize the benefit of the activity. They just don’t want it near them. And the roots of that resistance differ from place to place. When it comes to the ongoing transition from fossil fuels to renewables, companies and policymakers need to know where, exactly, people are coming from.\nThe Italian island of Sardinia is a textbook example. As IEEE Spectrum’s power and energy editor Emily Waltz discovered when she traveled there last October, Sardinian opposition to wind and solar projects runs deep. It spurred a quarter of the voting population to queue up in public squares in 2024 to sign a petition banning all construction of renewable energy. \nWaltz was surprised. She went there to see a promising new grid-scale energy storage system that uses domes inflated with carbon dioxide. While reporting on that project, she interviewed residents, engineers, activists, and professors about their attitudes toward climate change and the Italian government’s grand plans for renewable energy on the island. And Waltz soon learned of Sardinians’ profound antipathy toward renewable energy and its deep ties to a history of invasion, occupation, and exploitation stretching back 2,700 years. \nIt started with the Phoenicians and then extended through the Romans, the Byzantines, and the Iberians. Sardinia was absorbed into a newly unified Italy in 1861, and it became an autonomous region of Italy in 1948. The island’s population is justifiably suspicious of outsiders, including the Italian government. “When you’re in Sardinia, the weight of history—you can feel it like in the air,” Waltz told me. “And it gets passed down from one generation to the next.”\nNow, Italy needs Sardinia to produce even more power to meet the country’s climate goals—something that Sardinians see as Rome’s problem, not theirs. “Sardinia already exports about 30 percent of its electricity. It’s not like they need more,” Waltz says. “So it’s hard to make the case to build, build, build.”\nThe result of Waltz’s old-fashioned shoe leather reporting is this month’s cover story. She notes that the Sardinians she talked to aren’t climate-change deniers, and they don’t object to renewables per se. They just don’t like the way corporations and Italian policymakers are trying to plug into Sardinia like it’s one giant battery rather than the home of an ancient and proud people.\n“I think Sardinians would be more receptive to renewable projects if it was more of a ground-up, grassroots approach,” Waltz says. Indeed, this homegrown approach is already working in some places in Sardinia. She knows of more than 50 projects, called energy communities, where the residents are deploying renewables themselves. The idea also holds promise for other places struggling to get locals to buy into the renewable-energy transition. \nThe Sardinian experience is both a cautionary tale and a blueprint. Ignore the weight of history that communities carry and your project risks failure. Meet the people where they are and you might just get somewhere. The same lesson applies whether you’re in Sulawesi or sub-Saharan Africa. You just have to show up to learn it.",
-          "isoDate": "2026-06-01T11:06:01.000Z"
         }
       ]
     },
