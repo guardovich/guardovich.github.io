@@ -1,10 +1,52 @@
 {
-  "generatedAt": "2026-06-13T08:57:27.901Z",
+  "generatedAt": "2026-06-13T13:58:54.236Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "My yard is dying, so I made an app for that",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
+          "summary": "When I returned to my computer five minutes after giving Gemini a lengthy prompt, I had two things: a functional app in a preview window, and a message about a bug.\n\"~ Channel is unrecoverably broken and will be disposed!\" Sounded bad! But right below it was a button to fix the bug. Pretty weird that I just instructed a computer to build a whole app for me with a single prompt, but it needed me to click a button to fix a bug. I did anyway, and in 233 seconds Gemini reported back that it had succeeded, using words like \"blockages\" and \"race conditions.\" I didn't understand a bit of it. It was thrilling.\nThis was my second or third attempt a …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-13T13:00:00.000Z"
+        },
+        {
+          "title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
+          "summary": "On Friday evening, the government ordered Anthropic to block access to Fable 5 and Mythos 5 for all foreign nations, both inside and outside the US, due to national security concerns. That order included employees of Anthropic. To meet those demands, the company has completely cut off access to the models for all customers.\nIn a statement, Anthropic said that while it was complying with the order, the government \"did not provide specific details of its national security concern.\" Instead, it claims that any evidence of potential jailbreak was provided verbally, and that the vulnerabilities discovered were minor and available via other model …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-13T12:55:49.000Z"
+        },
+        {
+          "title": "Echo Isle is a pint-sized adventure inspired by classic Zelda",
+          "link": "https://www.theverge.com/games/947136/echo-isle-review-pc",
+          "summary": "Echo Isle is heavily inspired by The Legend of Zelda, and it's not afraid to show it: The retro graphics bear a striking resemblance to Link's Awakening, the main character wears a blue tunic and wields a sword, and he navigates dungeons to collect items and keys to fight bosses and gather magical MacGuffins. But where Echo Isle shines is how it takes the best parts of a Zelda adventure and shrinks them down to their essence - I finished the game in a little more than an hour. \nThe game starts with the main character falling from the sky onto Echo Isle, an island protected by a magical lighthouse that has mysteriously gone dark. While you d …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-13T12:00:00.000Z"
+        },
+        {
+          "title": "Apple’s new AI photo editing tools mostly work, for better and worse",
+          "link": "https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on",
+          "summary": "iPhone owners are getting real, native AI photo editing for the first time.\t\n\nThe most popular camera in the world just got its first set of serious AI photo editing features, and I don't think any of us are ready.\nAs far as AI photo editing goes, the new features in iOS 27 are pretty tame compared to what you can do on, say, Google's Pixel phones. But for the iPhone, they represent a tipping point in what the native photos app allows you to do to your photos. I mean memories. I mean, I don't know anymore.\nThese new features are part of the iOS 27 developer beta right now, so bear in mind that Apple may continue making tweaks to them before they're released to the general public. There are three, or maybe two and a  …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-13T12:00:00.000Z"
+        },
+        {
+          "title": "A better way to manage all your screenshots",
+          "link": "https://www.theverge.com/tech/949465/pool-screenshots-app-disclosure-day-installer",
+          "summary": "Hi, friends! Welcome to Installer No. 132, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy soccer, and also you can read all the old editions at the Installer homepage.)\nThis week, I've been preparing for a month of getting absolutely nothing done during the World Cup. I've also been reading about Steven Spielberg and wearables and the Boeing 747, overloading on computer nostalgia thanks to The Virtual OS Museum, watching that Knicks game winner over and over and over, listening to the fabulous new This Was SportsCenter podcast and the fabulous old The Renner Files podcast, and trying to tame my …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-13T12:00:00.000Z"
+        },
+        {
+          "title": "Threads of underground fungal networks are long enough to reach beyond the Solar System",
+          "link": "https://arstechnica.com/science/2026/06/threads-of-underground-fungal-networks-are-long-enough-to-reach-beyond-the-solar-system/",
+          "summary": "Researchers have quantified the length and mass of arbuscular mycorrhizal fungal networks globally.",
+          "isoDate": "2026-06-13T11:18:42.000Z"
+        },
+        {
+          "title": "The future of Hollywood isn’t feeding prompts into vanilla gen AI models ",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/948425/tribeca-2026-dear-upstairs-neighbors-google-deepmind-openai",
+          "summary": "Concept art from Dear Upstairs Neighbors that used to train custom builds of Google’s Veo and Imagen models. | Image: Google DeepMind\t\n\nFor all the noise that's been made about how generative AI is poised to revolutionize the filmmaking industry, there haven't really been any projects created with the technology that felt like the sort of entertainment people would pay to see. Most AI firms' video models are still only capable of churning out short bursts of visually inconsistent footage. And some of Hollywood's biggest AI partnerships have suddenly evaporated in ways that make it seem like studios might not be able to rely on the new technology coming out of Silicon Valley. For the most part, short-form video slop appears to be the only thing that major production houses ar …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-13T11:00:00.000Z"
+        },
         {
           "title": "Anthropic shuts down Fable, Mythos models following Trump admin directive",
           "link": "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/",
@@ -22,48 +64,6 @@
           "link": "https://arstechnica.com/space/2026/06/spacex-is-now-a-public-company-valued-for-its-ai-potential-so-what-comes-next/",
           "summary": "As of today, SpaceX is owned by investors who will want to see it make money.",
           "isoDate": "2026-06-12T22:20:06.000Z"
-        },
-        {
-          "title": "Nothing CEO says phone prices are going to keep going up",
-          "link": "https://www.theverge.com/gadgets/949403/nothing-carl-pei-ram-phone-prices",
-          "summary": "Nothing Phone 4A Pro | Photo: Dominic Preston / The Verge\t\n\nIf you're thinking about upgrading your phone, \"the best time was yesterday,\" according to Nothing CEO and co-founder Carl Pei, echoing a message we heard during MWC. As Android Authority reports, Pei said in a post on X that the RAM shortage has already impacted Nothing's less expensive mid-range phone: \"For Phone 4A , memory costs doubled between when we decided to build the device and when it launched. They've doubled again since.\" He warned that \"Phone prices are going up, and they'll keep going up into next year.\" \nPei says RAM can now account for over 50 percent of the cost of a new phone. Nothing's just the latest phone maker to warn …\nRead the full story at The Verge.",
-          "isoDate": "2026-06-12T20:02:48.000Z"
-        },
-        {
-          "title": "PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data",
-          "link": "https://arstechnica.com/security/2026/06/peoplesoft-0-day-affecting-hundreds-of-organizations-steals-gigabytes-of-data/",
-          "summary": "Vulnerability in the Oracle-owned PeopleSoft software is about as critical as they come.",
-          "isoDate": "2026-06-12T19:26:47.000Z"
-        },
-        {
-          "title": "Controversial FISA spying law expires tonight. The spying will continue.",
-          "link": "https://arstechnica.com/tech-policy/2026/06/controversial-fisa-spying-law-expires-tonight-the-spying-will-continue/",
-          "summary": "Section 702 of FISA to expire tonight, but certification lasts until March 2027.",
-          "isoDate": "2026-06-12T18:57:51.000Z"
-        },
-        {
-          "title": "The world’s first trillionaire is a killer",
-          "link": "https://www.theverge.com/tech/949259/the-worlds-first-trillionaire-is-a-killer",
-          "summary": "Hm! | Photo: Kristen Radtke / The Verge; Getty Images\t\n\nElon Musk's SpaceX IPO will probably make him the richest person to ever walk the planet. And while his mountain of horrible personal conduct could fill multiple books, one fact in particular stands out: A year ago, Musk's actions directly led to the deaths of hundreds of thousands of people. He did it knowingly. And, worse - gleefully.\nThis is not a serious person, but his abuse of the world is deadly serious. In the first months of President Donald Trump's second term, the Musk-led Department of Government Efficiency (DOGE) destroyed the US Agency for International Development, whose mission was a boon to public health around the globe. M …\nRead the full story at The Verge.",
-          "isoDate": "2026-06-12T18:46:40.000Z"
-        },
-        {
-          "title": "Here's what Jeff Bezos' new startup Prometheus will do",
-          "link": "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/",
-          "summary": "It isn't the only startup tackling physical AI, but it's one of the best-funded.",
-          "isoDate": "2026-06-12T18:45:40.000Z"
-        },
-        {
-          "title": "Have politics finally come for the National Academies of Science?",
-          "link": "https://arstechnica.com/science/2026/06/have-politics-finally-come-for-the-national-academies-of-science/",
-          "summary": "A pending report on climate attribution may be setting the stage for conflict.",
-          "isoDate": "2026-06-12T18:31:36.000Z"
-        },
-        {
-          "title": "Ukraine's one-time test used fully autonomous drones to kill Russian soldiers",
-          "link": "https://arstechnica.com/ai/2026/06/ukraines-one-time-test-used-fully-autonomous-drones-to-kill-russian-soldiers/",
-          "summary": "Full autonomy is rare, but Ukraine is installing AI modules on drones and robots.",
-          "isoDate": "2026-06-12T18:03:29.000Z"
         }
       ]
     },
@@ -72,28 +72,10 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "NASA to Cover 34th SpaceX Resupply Mission Space Station Departure",
-          "link": "https://www.nasa.gov/news-release/nasa-to-cover-34th-spacex-resupply-mission-space-station-departure/",
-          "summary": "NASA and its international partners are set to receive scientific research samples and hardware as a SpaceX Dragon spacecraft is scheduled to depart the International Space Station on Tuesday, June 16, for its return to Earth. Watch NASA’s live undocking coverage beginning at 11:45 a.m. EDT on NASA+, Amazon Prime, and the agency’s YouTube channel. […]",
-          "isoDate": "2026-06-12T15:32:54.000Z"
-        },
-        {
-          "title": "Black Eye Galaxy",
-          "link": "https://www.nasa.gov/image-article/black-eye-galaxy/",
-          "summary": "This March 20, 2026, image of Messier 64, or the Black Eye Galaxy, is a composite view from NASA’s Hubble Space Telescope and James Webb Space Telescope. It shows Messier 64 captured at near- and mid-infrared wavelengths by Webb, while Hubble’s image shows the galaxy in ultraviolet, visible, and near-infrared light. Messier 64 is characterized […]",
-          "isoDate": "2026-06-12T13:59:55.000Z"
-        },
-        {
-          "title": "Hubble Sees Swarm of Galaxies",
-          "link": "https://science.nasa.gov/missions/hubble/hubble-sees-swarm-of-galaxies/",
-          "summary": "Looking somewhat like a swarm of bees returning to their hive, this NASA Hubble Space Telescope image features the galaxy cluster MACS0329-0211.",
-          "isoDate": "2026-06-12T11:34:50.000Z"
-        },
-        {
-          "title": "World Cup Fever in Guadalajara",
-          "link": "https://science.nasa.gov/earth/earth-observatory/world-cup-fever-in-guadalajara/",
-          "summary": "The city’s metro area has pushed westward since it last hosted World Cup matches in 1986, expanding across a landscape shaped by ancient volcanoes.",
-          "isoDate": "2026-06-12T04:01:00.000Z"
+          "title": "ERROR cargando feed",
+          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
+          "isoDate": "2026-06-13T13:58:46.894Z"
         },
         {
           "title": "Why we seek to fly: Books in brief",
@@ -130,6 +112,24 @@
           "link": "https://www.nature.com/articles/d41586-026-01858-1",
           "summary": "Nature, Published online: 12 June 2026; doi:10.1038/d41586-026-01858-1\nAfter years of effort, two research teams have developed ‘laser phase plate’ systems that could help cryo-electron-microscopy users to generate high-quality structures for a broad range of proteins.",
           "isoDate": "2026-06-12T00:00:00.000Z"
+        },
+        {
+          "title": "Long-term isolation and archaic introgression shape functional genetic variation in Near Oceania",
+          "link": "https://www.science.org/doi/abs/10.1126/science.adr6749?af=R",
+          "summary": "Science, Volume 392, Issue 6803, June 2026.",
+          "isoDate": "2026-06-11T07:00:00.000Z"
+        },
+        {
+          "title": "An all-optical signal processor enabling terabit-per-second real-time equalization",
+          "link": "https://www.science.org/doi/abs/10.1126/science.ady5344?af=R",
+          "summary": "Science, Volume 392, Issue 6803, June 2026.",
+          "isoDate": "2026-06-11T07:00:00.000Z"
+        },
+        {
+          "title": "The air pollution benefits of low-severity fire",
+          "link": "https://www.science.org/doi/abs/10.1126/science.aea2490?af=R",
+          "summary": "Science, Volume 392, Issue 6803, June 2026.",
+          "isoDate": "2026-06-11T07:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 69\nColumn: 41\nChar: &",
-          "isoDate": "2026-06-13T08:57:22.741Z"
+          "isoDate": "2026-06-13T13:58:49.448Z"
         },
         {
           "title": "Elon Musk's stratospheric rise to trillionaire status - in charts",
@@ -169,7 +169,7 @@
         },
         {
           "title": "Tech Life",
-          "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_americas?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/sounds/play/w3ct8jxz?at_medium=RSS&at_campaign=rss",
           "summary": "Check before check-in. What's behind a new safety campaign about power banks on aircraft?",
           "isoDate": "2026-06-09T20:00:00.000Z"
         },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 84\nColumn: 559\nChar:  ",
-          "isoDate": "2026-06-13T08:57:26.729Z"
+          "isoDate": "2026-06-13T13:58:52.771Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-06-13T08:57:24.503Z"
+          "isoDate": "2026-06-13T13:58:51.004Z"
         },
         {
           "title": "Award-Winning Researcher Trains Robots to Make Educated Guesses",
