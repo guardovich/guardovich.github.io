@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-06-13T03:41:03.603Z",
+  "generatedAt": "2026-06-13T08:57:27.901Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Anthropic shuts down Fable, Mythos models following Trump admin directive",
+          "link": "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/",
+          "summary": "Commerce dept. worries that a Fable 5 \"jailbreak\" could be a national security threat.",
+          "isoDate": "2026-06-13T03:00:34.000Z"
+        },
         {
           "title": "Valve just imported 13 tons of VR headsets in one day",
           "link": "https://www.theverge.com/news/949517/valve-vr-headset-import-records-steam-frame-steam-machine-game-console",
@@ -58,12 +64,6 @@
           "link": "https://arstechnica.com/ai/2026/06/ukraines-one-time-test-used-fully-autonomous-drones-to-kill-russian-soldiers/",
           "summary": "Full autonomy is rare, but Ukraine is installing AI modules on drones and robots.",
           "isoDate": "2026-06-12T18:03:29.000Z"
-        },
-        {
-          "title": "$130 billion in data center projects blocked by protests so far this year",
-          "link": "https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year/",
-          "summary": "Winning fight against AI data centers gives people a \"taste of political power.\"",
-          "isoDate": "2026-06-12T17:18:49.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 69\nColumn: 41\nChar: &",
-          "isoDate": "2026-06-13T03:40:59.106Z"
+          "isoDate": "2026-06-13T08:57:22.741Z"
         },
         {
           "title": "Elon Musk's stratospheric rise to trillionaire status - in charts",
@@ -169,7 +169,7 @@
         },
         {
           "title": "Tech Life",
-          "link": "https://www.bbc.co.uk/sounds/play/w3ct8jxz?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_americas?at_medium=RSS&at_campaign=rss",
           "summary": "Check before check-in. What's behind a new safety campaign about power banks on aircraft?",
           "isoDate": "2026-06-09T20:00:00.000Z"
         },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 84\nColumn: 559\nChar:  ",
-          "isoDate": "2026-06-13T03:41:02.350Z"
+          "isoDate": "2026-06-13T08:57:26.729Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-06-13T03:41:00.726Z"
+          "isoDate": "2026-06-13T08:57:24.503Z"
         },
         {
           "title": "Award-Winning Researcher Trains Robots to Make Educated Guesses",
