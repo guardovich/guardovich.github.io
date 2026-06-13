@@ -1,10 +1,28 @@
 {
-  "generatedAt": "2026-06-12T20:10:23.139Z",
+  "generatedAt": "2026-06-13T03:41:03.603Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Valve just imported 13 tons of VR headsets in one day",
+          "link": "https://www.theverge.com/news/949517/valve-vr-headset-import-records-steam-frame-steam-machine-game-console",
+          "summary": "On June 10th, the German container ship Posen docked in Los Angeles after a two-week voyage from Shanghai. As Valve watcher Brad Lynch notes, it was almost certainly carrying the first mass production shipments of the Steam Frame, Valve's new gaming headset. \nImport records show that Valve's distribution partner Ceva offloaded nearly 32 metric tons of \"Virtual Reality Devices\" on Valve's behalf - or roughly 13 tons of actual product, after you subtract the roughly 3,700 kilogram weight of five 40-foot shipping containers. \nThat's the same math we used to estimate that Valve imported 50 tons of game consoles in two days last month - and sin …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-13T01:32:18.000Z"
+        },
+        {
+          "title": "SpaceX is now a public company valued for its AI potential, so what comes next?",
+          "link": "https://arstechnica.com/space/2026/06/spacex-is-now-a-public-company-valued-for-its-ai-potential-so-what-comes-next/",
+          "summary": "As of today, SpaceX is owned by investors who will want to see it make money.",
+          "isoDate": "2026-06-12T22:20:06.000Z"
+        },
+        {
+          "title": "Nothing CEO says phone prices are going to keep going up",
+          "link": "https://www.theverge.com/gadgets/949403/nothing-carl-pei-ram-phone-prices",
+          "summary": "Nothing Phone 4A Pro | Photo: Dominic Preston / The Verge\t\n\nIf you're thinking about upgrading your phone, \"the best time was yesterday,\" according to Nothing CEO and co-founder Carl Pei, echoing a message we heard during MWC. As Android Authority reports, Pei said in a post on X that the RAM shortage has already impacted Nothing's less expensive mid-range phone: \"For Phone 4A , memory costs doubled between when we decided to build the device and when it launched. They've doubled again since.\" He warned that \"Phone prices are going up, and they'll keep going up into next year.\" \nPei says RAM can now account for over 50 percent of the cost of a new phone. Nothing's just the latest phone maker to warn …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-12T20:02:48.000Z"
+        },
         {
           "title": "PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data",
           "link": "https://arstechnica.com/security/2026/06/peoplesoft-0-day-affecting-hundreds-of-organizations-steals-gigabytes-of-data/",
@@ -46,24 +64,6 @@
           "link": "https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year/",
           "summary": "Winning fight against AI data centers gives people a \"taste of political power.\"",
           "isoDate": "2026-06-12T17:18:49.000Z"
-        },
-        {
-          "title": "Siri is good now??",
-          "link": "https://www.theverge.com/podcast/949079/siri-ai-good-vergecast",
-          "summary": "You'd be forgiven for thinking this day would never come. Siri has spent a decade and half somewhere between \"sort of useful at a few things\" and \"utterly disastrous, why did I even try, can it honestly not even set a timer.\" But the wildest thing just happened: Apple put out a new version of Siri, and it actually seems to be pretty good.\nOn this episode of The Vergecast, David and Nilay talk about their early experiences with Siri AI, and what it means for users, and the rest of the AI industry, for the iPhone's built-in assistant to be good enough at most things. There's very little about Siri AI that feels bleeding edge or brand new, but …\nRead the full story at The Verge.",
-          "isoDate": "2026-06-12T17:17:04.000Z"
-        },
-        {
-          "title": "When it comes to total water use, AI data centers are a drop in the bucket",
-          "link": "https://arstechnica.com/ai/2026/06/when-it-comes-to-total-water-use-ai-data-centers-are-a-drop-in-the-bucket/",
-          "summary": "Even moderately sized data centers can have an outsized local impact.",
-          "isoDate": "2026-06-12T16:51:38.000Z"
-        },
-        {
-          "title": "Google sues Chinese cybercrime network that used Gemini to automate scams",
-          "link": "https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams/",
-          "summary": "The fraudsters allegedly targeted hundreds of thousands of people with Gemini-coded scams sites.",
-          "isoDate": "2026-06-12T16:34:36.000Z"
         }
       ]
     },
@@ -141,7 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 69\nColumn: 41\nChar: &",
-          "isoDate": "2026-06-12T20:10:18.092Z"
+          "isoDate": "2026-06-13T03:40:59.106Z"
+        },
+        {
+          "title": "Elon Musk's stratospheric rise to trillionaire status - in charts",
+          "link": "https://www.bbc.com/news/articles/c4gyp523ly8o?at_medium=RSS&at_campaign=rss",
+          "summary": "The BBC breaks down how the tech mogul's fortune has grown.",
+          "isoDate": "2026-06-12T23:05:39.000Z"
         },
         {
           "title": "Who is Elon Musk and what is his net worth?",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.com/news/articles/cd958eqg1n5o?at_medium=RSS&at_campaign=rss",
           "summary": "The company behind ChatGPT files its plans one week after Anthropic did the same.",
           "isoDate": "2026-06-09T08:02:43.000Z"
-        },
-        {
-          "title": "Could humanoid robots be heading for the battlefield?",
-          "link": "https://www.bbc.com/news/articles/cedpxwe26l1o?at_medium=RSS&at_campaign=rss",
-          "summary": "Armed forces are experimenting with humanoid robots, but battlefield deployment is some way off.",
-          "isoDate": "2026-06-08T23:06:30.000Z"
         }
       ]
     },
@@ -234,15 +234,9 @@
           "isoDate": "2026-06-11T17:30:00.000Z"
         },
         {
-          "title": "OpenAI to acquire Ona",
-          "link": "https://openai.com/index/openai-to-acquire-ona",
-          "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
-          "isoDate": "2026-06-11T00:00:00.000Z"
-        },
-        {
-          "title": "How an astrophysicist uses Codex to help simulate black holes",
-          "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
-          "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+          "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem ",
+          "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+          "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
           "isoDate": "2026-06-11T00:00:00.000Z"
         },
         {
@@ -252,9 +246,15 @@
           "isoDate": "2026-06-11T00:00:00.000Z"
         },
         {
-          "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem ",
-          "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-          "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+          "title": "OpenAI to acquire Ona",
+          "link": "https://openai.com/index/openai-to-acquire-ona",
+          "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+          "isoDate": "2026-06-11T00:00:00.000Z"
+        },
+        {
+          "title": "How an astrophysicist uses Codex to help simulate black holes",
+          "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
+          "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
           "isoDate": "2026-06-11T00:00:00.000Z"
         },
         {
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 84\nColumn: 559\nChar:  ",
-          "isoDate": "2026-06-12T20:10:21.891Z"
+          "isoDate": "2026-06-13T03:41:02.350Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-06-12T20:10:19.673Z"
+          "isoDate": "2026-06-13T03:41:00.726Z"
         },
         {
           "title": "Award-Winning Researcher Trains Robots to Make Educated Guesses",
