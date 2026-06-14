@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-06-13T19:24:40.574Z",
+  "generatedAt": "2026-06-14T04:02:23.735Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
+          "summary": "According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House. According to the report, the paper from Amazon claims that, through a series of prompts, it was able to get Fable 5 to serve up information that could be used in cyberattacks. Amazon has yet to respond to a request for comment.\nShortly after Jassy shared the company's findings with the government, it made the call to block its use by foreign nationals. Complicating this issue is that many of …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-13T21:39:26.000Z"
+        },
+        {
+          "title": "X-Men ’97 has what Master of the Universe is missing",
+          "link": "https://www.theverge.com/entertainment/947064/xmen-97-season-2-disney-plus-marvel-masters-of-the-universe-mattel",
+          "summary": "In 2026, Marvel and Mattel are both releasing projects designed to capitalize on people's love for iconic animated heroes from their childhoods. Masters of the Universe has put a live-action He-Man on the big screen, and the second season of X-Men '97 is about to fling some of Charles Xavier's mutants into an apocalyptic future. Both projects were clearly made by people who love the source material, and they are similarly filled with nerdy Easter eggs meant to get hardcore fans hyped up. X-Men '97 and Masters of the Universe are both nostalgia plays, but the biggest difference between the two - and arguably the reason one of them hasn't been …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-13T20:00:00.000Z"
+        },
         {
           "title": "Sealed Super Mario Bros. sells for a record $3 million",
           "link": "https://www.theverge.com/games/949593/super-mario-bros-3-million-auction",
@@ -52,18 +64,6 @@
           "link": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
           "summary": "On Friday evening, the government ordered Anthropic to block access to Fable 5 and Mythos 5 for all foreign nations, both inside and outside the US, due to national security concerns. That order included employees of Anthropic. To meet those demands, the company has completely cut off access to the models for all customers.\nIn a statement, Anthropic said that while it was complying with the order, the government \"did not provide specific details of its national security concern.\" Instead, it claims that any evidence of potential jailbreak was provided verbally, and that the vulnerabilities discovered were minor and available via other model …\nRead the full story at The Verge.",
           "isoDate": "2026-06-13T12:55:49.000Z"
-        },
-        {
-          "title": "Echo Isle is a pint-sized adventure inspired by classic Zelda",
-          "link": "https://www.theverge.com/games/947136/echo-isle-review-pc",
-          "summary": "Echo Isle is heavily inspired by The Legend of Zelda, and it's not afraid to show it: The retro graphics bear a striking resemblance to Link's Awakening, the main character wears a blue tunic and wields a sword, and he navigates dungeons to collect items and keys to fight bosses and gather magical MacGuffins. But where Echo Isle shines is how it takes the best parts of a Zelda adventure and shrinks them down to their essence - I finished the game in a little more than an hour. \nThe game starts with the main character falling from the sky onto Echo Isle, an island protected by a magical lighthouse that has mysteriously gone dark. While you d …\nRead the full story at The Verge.",
-          "isoDate": "2026-06-13T12:00:00.000Z"
-        },
-        {
-          "title": "Apple’s new AI photo editing tools mostly work, for better and worse",
-          "link": "https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on",
-          "summary": "iPhone owners are getting real, native AI photo editing for the first time.\t\n\nThe most popular camera in the world just got its first set of serious AI photo editing features, and I don't think any of us are ready.\nAs far as AI photo editing goes, the new features in iOS 27 are pretty tame compared to what you can do on, say, Google's Pixel phones. But for the iPhone, they represent a tipping point in what the native photos app allows you to do to your photos. I mean memories. I mean, I don't know anymore.\nThese new features are part of the iOS 27 developer beta right now, so bear in mind that Apple may continue making tweaks to them before they're released to the general public. There are three, or maybe two and a  …\nRead the full story at The Verge.",
-          "isoDate": "2026-06-13T12:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 69\nColumn: 41\nChar: &",
-          "isoDate": "2026-06-13T19:24:35.978Z"
+          "isoDate": "2026-06-14T04:02:18.987Z"
         },
         {
           "title": "Elon Musk's stratospheric rise to trillionaire status - in charts",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 84\nColumn: 559\nChar:  ",
-          "isoDate": "2026-06-13T19:24:39.074Z"
+          "isoDate": "2026-06-14T04:02:22.365Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-06-13T19:24:37.395Z"
+          "isoDate": "2026-06-14T04:02:20.866Z"
         },
         {
           "title": "Award-Winning Researcher Trains Robots to Make Educated Guesses",
