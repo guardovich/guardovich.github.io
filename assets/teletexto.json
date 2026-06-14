@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-06-14T09:33:23.548Z",
+  "generatedAt": "2026-06-14T14:01:31.760Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "The impossible dream of the universal remote",
+          "link": "https://www.theverge.com/podcast/949620/harmony-universal-remote-version-history",
+          "summary": "You don't really ever have to explain why a universal remote is a good idea. You have a bunch of stuff that needs controlling; this thing controls them all. Many companies have set out to build a product worthy of this idea, and one product came much closer than most. It was called the Harmony, and for many years it was the best universal remote on the market. Maybe the only one that mattered. And still, even the Harmony couldn't make it work.\nOn this episode of Version History, we tell the story of the Harmony. The Verge's David Pierce, Nilay Patel, and John Higgins are joined by Matt Rogers, the CEO of Mill and former co-founder of Nest,  …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-14T13:42:07.000Z"
+        },
+        {
+          "title": "Solid-state batteries still aren’t ready, but gels are",
+          "link": "https://www.theverge.com/column/948594/solid-state-batteries-semi-solid-state",
+          "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on e-bikes, power stations, and how to work anywhere, follow Thomas Ricker. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.\nHow it started\nLithium-ion batteries are everywhere as we enter the second quarter of the 21st century, and that's a problem. From exploding e-bikes in stairwells to lithium-ion power banks combusting midflight, the volatile nature of traditional liquid electrolytes has become an undeniable public safety hazard. \nIn 2025, the US Consumer Product Safety Commission (CPSC) i …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-14T12:00:00.000Z"
+        },
         {
           "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
           "link": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
@@ -52,18 +64,6 @@
           "link": "https://www.theverge.com/report/949073/mike-rugnetta-youtube-never-post-podcast-questionnaire",
           "summary": "Mike Rugnetta is a writer, podcast host, producer, audio engineer, educator, musician, sound designer, and father. In short, the man wears a lot of hats. He's the cocreator and host of the award-winning Never Post, an absolutely must-listen podcast about the internet, as well as Fun City, a TTRPG podcast where he's the GM. He's also hosted two different Crash Course series and PBS's Idea Channel. \nIf you're thinking that sounds like a lot, you're not wrong. It made us want to know how Mike stays focused with so much on his plate, and what tools are most indispensable to him with his hectic schedule. But, what we got was so much more than th …\nRead the full story at The Verge.",
           "isoDate": "2026-06-13T14:00:00.000Z"
-        },
-        {
-          "title": "My yard is dying, so I made an app for that",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
-          "summary": "When I returned to my computer five minutes after giving Gemini a lengthy prompt, I had two things: a functional app in a preview window, and a message about a bug.\n\"~ Channel is unrecoverably broken and will be disposed!\" Sounded bad! But right below it was a button to fix the bug. Pretty weird that I just instructed a computer to build a whole app for me with a single prompt, but it needed me to click a button to fix a bug. I did anyway, and in 233 seconds Gemini reported back that it had succeeded, using words like \"blockages\" and \"race conditions.\" I didn't understand a bit of it. It was thrilling.\nThis was my second or third attempt a …\nRead the full story at The Verge.",
-          "isoDate": "2026-06-13T13:00:00.000Z"
-        },
-        {
-          "title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
-          "summary": "On Friday evening, the government ordered Anthropic to block access to Fable 5 and Mythos 5 for all foreign nations, both inside and outside the US, due to national security concerns. That order included employees of Anthropic. To meet those demands, the company has completely cut off access to the models for all customers.\nIn a statement, Anthropic said that while it was complying with the order, the government \"did not provide specific details of its national security concern.\" Instead, it claims that any evidence of potential jailbreak was provided verbally, and that the vulnerabilities discovered were minor and available via other model …\nRead the full story at The Verge.",
-          "isoDate": "2026-06-13T12:55:49.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 69\nColumn: 41\nChar: &",
-          "isoDate": "2026-06-14T09:33:18.260Z"
+          "isoDate": "2026-06-14T14:01:27.552Z"
         },
         {
           "title": "Elon Musk's stratospheric rise to trillionaire status - in charts",
@@ -234,27 +234,27 @@
           "isoDate": "2026-06-11T17:30:00.000Z"
         },
         {
-          "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem ",
-          "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-          "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
-          "isoDate": "2026-06-11T00:00:00.000Z"
-        },
-        {
-          "title": "BBVA puts AI at the core of banking with OpenAI",
-          "link": "https://openai.com/index/bbva",
-          "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
-          "isoDate": "2026-06-11T00:00:00.000Z"
-        },
-        {
           "title": "OpenAI to acquire Ona",
           "link": "https://openai.com/index/openai-to-acquire-ona",
           "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
           "isoDate": "2026-06-11T00:00:00.000Z"
         },
         {
+          "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem ",
+          "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+          "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+          "isoDate": "2026-06-11T00:00:00.000Z"
+        },
+        {
           "title": "How an astrophysicist uses Codex to help simulate black holes",
           "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
           "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+          "isoDate": "2026-06-11T00:00:00.000Z"
+        },
+        {
+          "title": "BBVA puts AI at the core of banking with OpenAI",
+          "link": "https://openai.com/index/bbva",
+          "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
           "isoDate": "2026-06-11T00:00:00.000Z"
         },
         {
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 84\nColumn: 559\nChar:  ",
-          "isoDate": "2026-06-14T09:33:22.150Z"
+          "isoDate": "2026-06-14T14:01:30.226Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-06-14T09:33:20.305Z"
+          "isoDate": "2026-06-14T14:01:28.812Z"
         },
         {
           "title": "Award-Winning Researcher Trains Robots to Make Educated Guesses",
