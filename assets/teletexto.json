@@ -1,20 +1,50 @@
 {
-  "generatedAt": "2026-06-15T04:15:05.351Z",
+  "generatedAt": "2026-06-15T12:12:28.225Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
         {
+          "title": "Fox is buying Roku",
+          "link": "https://www.theverge.com/business/949727/fox-roku-acquisition-22-billion",
+          "summary": "Fox has announced that it's acquiring Roku outright, in a deal that values the streaming company at $22 billion.\nThe deal will see Fox's TV networks and Tubi streamer combine with Roku's network of streaming devices, smart TV software, and The Roku Channel. The companies say in a statement that by combining they'll become the third-largest player in the US TV industry by viewing share.\nIt doesn't sound like the plan is to build Roku and Fox into a walled ecosystem. The two companies are \"committed\" to keeping Roku an open-platform that works with other content providers, and to the \"continued ubiquitous distribution\" of Fox's own content.\nRead the full story at The Verge.",
+          "isoDate": "2026-06-15T11:44:08.000Z"
+        },
+        {
+          "title": "All the gear a 20-year gadget blogging veteran packs when traveling",
+          "link": "https://www.theverge.com/gadgets/947310/gadget-veteran-travel-gear",
+          "summary": "Through more than two decades of travel for both work and leisure, my packing list has evolved from a random assortment of gadgets and accessories thrown together at the last minute into a refined checklist of gear honed by trial and error. The right packing list, I've found, can be the difference between a good trip and a great one. Or at least the difference between hectic trips to the local Best Buy and some extra time by the pool.\nMy family's summer vacation this year will involve lots of hiking and exploring the great outdoors, but it will by no means be an attempt to disconnect from our favorite devices. Convenience, comfort, and peac …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-15T11:30:00.000Z"
+        },
+        {
+          "title": "Honor’s Magic V6 sets three foldable firsts",
+          "link": "https://www.theverge.com/tech/948919/honor-magic-v6-foldable-review",
+          "summary": "The crease isn’t quite invisible, but otherwise this feels like the complete foldable package — on the hardware side at least.\t\n\nOn paper, the Honor Magic V6 sounds like a tremendous leap forward for foldable phones: It's the thinnest one yet, with the biggest battery, and the best water-resistance ever. In practice, only the bigger battery feels like a meaningful improvement. The other upgrades are only fractionally superior to what came before.\nThis isn't entirely Honor's fault. It's getting harder to make a foldable phone stand out; even last year's offerings felt like complete flagship phones. Huawei's Pura X Max stood out for its odd new aspect ratio, which we're expecting to see both Samsung and Apple replicate later this year. Then there are the trifolds, whic …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-15T11:00:00.000Z"
+        },
+        {
+          "title": "These new solid-state ACs promise a cool future. Scientists aren’t so sure.",
+          "link": "https://www.technologyreview.com/2026/06/15/1138552/solid-state-acs-promise-cool-future/",
+          "summary": "After three years of record-­breaking heat, this one is set to be yet another scorcher. Air-conditioning? Not going anywhere. The International Energy Agency projects that the number of AC units will triple by 2050. That’s good for health—one Lancet study estimated that AC prevented nearly 200,000 premature deaths in 2019 alone—but bad for the planet.…",
+          "isoDate": "2026-06-15T09:00:00.000Z"
+        },
+        {
+          "title": "Under-16 social media ban announced by UK government",
+          "link": "https://www.theverge.com/policy/949679/uk-under-16-social-media-ban-announcement",
+          "summary": "The UK is the latest country to follow Australia in implementing a total social media ban for children under 16, Prime Minister Keir Starmer has announced. The ban, which could take effect from early next year, will be joined by wider measures that will also prevent children from talking to strangers in online games, livestreaming, or using sexual or romantic chatbots.\n\"Do we truly believe that social media creates a happy environment for our children? Do we truly believe that it's a place where they can feel safe?\" Starmer asked during a press conference announcing the policy. \"I don't think I even need to answer those questions, do I?\"\n\" …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-15T08:19:09.000Z"
+        },
+        {
           "title": "The FBI built a small town to simulate cyberattacks",
           "link": "https://www.theverge.com/tech/949648/fbi-fake-town-cyberattacks-kinetic-cyber-range",
-          "summary": "There’s also a fake power company to jack up prices thanks to the fake data center. | Image: FBI\t\n\nLast year, the FBI opened a Cyber Range in Huntsville, Alabama, for simulating cyberattacks. Think of it sort of like the famous Hogan's Alley, but for modern digital crime training. It's a massive 22,000 square-foot replica of an entire town, complete with a convenience store, gas station, hospital, and even fully furnished houses.\nIt's a training facility where the bureau can recreate real-world scenarios for training and research purposes. All of the various buildings and facilities are hooked up the way they would be in a real town. There's even a small data center with over 200 servers that can be hacked, infected with malware, and stu …\nRead the full story at The Verge.",
+          "summary": "There’s also a fake power company to jack up prices thanks to the fake data center. | Image: FBI\t\n\nLast year, the FBI opened a Cyber Range in Huntsville, Alabama, for simulating cyberattacks. Think of it sort of like the famous Hogan's Alley, but for modern digital crime training. It's a massive 22,000-square-foot replica of an entire town, complete with a convenience store, gas station, hospital, and even fully furnished houses.\nIt's a training facility where the bureau can re-create real-world scenarios for training and research purposes. All of the various buildings and facilities are hooked up the way they would be in a real town. There's even a small data center with over 200 servers that can be hacked, infected with malware, and st …\nRead the full story at The Verge.",
           "isoDate": "2026-06-14T20:35:41.000Z"
         },
         {
           "title": "China may have accessed Mythos",
           "link": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
-          "summary": "According to a new report from Semafor, the White House's decision to impose export restrictions on Anthropic's Mythos was driven in part by fears that it had been accessed by a group linked to China. If the Chinese government actually had access to Mythos 5 or Fable 5, it would present a serious national security risk. The government could also attempt to reverse engineer the model through distillation, a method in which a \"student\" AI is trained on a more advanced model to replicate its behavior.\nThe White House has not confirmed this report, and a post on X by Trump advisor David Sacks did not mention China. Instead, Sacks focused on a r …\nRead the full story at The Verge.",
+          "summary": "According to a new report from Semafor, the White House's decision to impose export restrictions on Anthropic's Mythos was driven in part by fears that it had been accessed by a group linked to China. If the Chinese government actually had access to Mythos 5 or Fable 5, it would present a serious national security risk. The government could also attempt to reverse engineer the model through distillation, a method in which a \"student\" AI is trained on a more advanced model to replicate its behavior.\nThe White House has not confirmed this report, and a post on X by Trump adviser David Sacks did not mention China. Instead, Sacks focused on a r …\nRead the full story at The Verge.",
           "isoDate": "2026-06-14T18:27:55.000Z"
         },
         {
@@ -34,36 +64,6 @@
           "link": "https://www.theverge.com/gadgets/948871/world-cup-streaming-free-trial-deal-sale",
           "summary": "GUADALAJARA, MEXICO - JUNE 11: In-Beom Hwang #6 of Korea Republic scores his team's first goal past Matej Kovar #1 of Czechia during the FIFA World Cup 2026 Group A match between Korea Republic and Czechia at Guadalajara Stadium on June 11, 2026 in Guadalajara, Mexico. (Photo by Lars Baron/Getty Images) | Getty Images\t\n\nHoping to catch some World Cup matches while spending as little money as possible? You have a few options for finding a few days of free streaming, although you may choose to eventually pony up some money. That, or get creative by combining multiple offers to make it through the whole tournament. \nWe found a handful of streaming services that are showing all of the World Cup matches. Most of these free trials require you to be a new subscriber, though you might just be able to use a different email address than before.\nFuboTV\nAll FuboTV plans can stream every World Cup match, and each includes a five-day free trial for new members. The least expensive plan is $9.99 for the first month after the trial period, then $19.99 per month after that. Paying for one month after the trial should cover you through all (or most) of the finals, and is likely the least expensive way to watch every match.\nMy Best Buy Plus and Total members can claim an extended 30-day free trial, as long as they’re new to FuboTV.\nFuboTV\n\nWhere to Buy:\n\n $19.99 at FuboTV (five-day free trial)\n\nPeacock\nThere’s a Peacock Premium Plus trial offer if you sign up using your Amazon account that will grant you seven days of free access before you’re charged $15.99 per month. I was able to access the offer on an Amazon account without Prime, but your mileage may vary.\nWe also found multiple ways to potentially claim free Peacock through other paid subscriptions. Some Xfinity Internet plans include Peacock Premium, which you can learn more about on the company’s support page. Walmart Plus members can claim either Peacock Premium or Paramount Plus Essential, but only one at a time, with a 90-day cooldown between switching.\nPeacock Premium Plus\n\nWhere to Buy:\n\n $16.99 at Amazon (seven-day free trial)\n\nYouTube TV\nNew YouTube TV subscribers can access a 10-day trial for the Sports plan, which includes Fox and 35 other networks. After the trial, the membership will renew for $54.99 per month for the first year, a $10 per month discount from the normal membership.\nYouTube TV\n\nWhere to Buy:\n\n $64.99 at YouTube (10-day free trial)\n\nFox One\nThe Fox One streaming service includes World Cup matches, and new subscribers can access a three-day free trial when signing up. After that, the plan costs $19.99 per month to continue watching, and includes both live and on-demand content from Fox.\nFox One\n\nWhere to Buy:\n\n $19.99 at Fox One (three-day free trial)",
           "isoDate": "2026-06-14T16:00:00.000Z"
-        },
-        {
-          "title": "The impossible dream of the universal remote",
-          "link": "https://www.theverge.com/podcast/949620/harmony-universal-remote-version-history",
-          "summary": "You don't really ever have to explain why a universal remote is a good idea. You have a bunch of stuff that needs controlling; this thing controls them all. Many companies have set out to build a product worthy of this idea, and one product came much closer than most. It was called the Harmony, and for many years it was the best universal remote on the market. Maybe the only one that mattered. And still, even the Harmony couldn't make it work.\nOn this episode of Version History, we tell the story of the Harmony. The Verge's David Pierce, Nilay Patel, and John Higgins are joined by Matt Rogers, the CEO of Mill and former co-founder of Nest,  …\nRead the full story at The Verge.",
-          "isoDate": "2026-06-14T13:42:07.000Z"
-        },
-        {
-          "title": "Solid-state batteries still aren’t ready, but gels are",
-          "link": "https://www.theverge.com/column/948594/solid-state-batteries-semi-solid-state",
-          "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on e-bikes, power stations, and how to work anywhere, follow Thomas Ricker. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.\nHow it started\nLithium-ion batteries are everywhere as we enter the second quarter of the 21st century, and that's a problem. From exploding e-bikes in stairwells to lithium-ion power banks combusting midflight, the volatile nature of traditional liquid electrolytes has become an undeniable public safety hazard. \nIn 2025, the US Consumer Product Safety Commission (CPSC) i …\nRead the full story at The Verge.",
-          "isoDate": "2026-06-14T12:00:00.000Z"
-        },
-        {
-          "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
-          "summary": "According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House. According to the report, the paper from Amazon claims that, through a series of prompts, it was able to get Fable 5 to serve up information that could be used in cyberattacks. Amazon has yet to respond to a request for comment.\nShortly after Jassy shared the company's findings with the government, it made the call to block its use by foreign nationals. Complicating this issue is that many of …\nRead the full story at The Verge.",
-          "isoDate": "2026-06-13T21:39:26.000Z"
-        },
-        {
-          "title": "X-Men ’97 has what Master of the Universe is missing",
-          "link": "https://www.theverge.com/entertainment/947064/xmen-97-season-2-disney-plus-marvel-masters-of-the-universe-mattel",
-          "summary": "In 2026, Marvel and Mattel are both releasing projects designed to capitalize on people's love for iconic animated heroes from their childhoods. Masters of the Universe has put a live-action He-Man on the big screen, and the second season of X-Men '97 is about to fling some of Charles Xavier's mutants into an apocalyptic future. Both projects were clearly made by people who love the source material, and they are similarly filled with nerdy Easter eggs meant to get hardcore fans hyped up. X-Men '97 and Masters of the Universe are both nostalgia plays, but the biggest difference between the two - and arguably the reason one of them hasn't been …\nRead the full story at The Verge.",
-          "isoDate": "2026-06-13T20:00:00.000Z"
-        },
-        {
-          "title": "Sealed Super Mario Bros. sells for a record $3 million",
-          "link": "https://www.theverge.com/games/949593/super-mario-bros-3-million-auction",
-          "summary": "You know this came for free bundle with the console for $150, right? | Image: Heritage Auctions\t\n\nA copy of Super Mario Bros., still in the box and sealed with its original sticker, just sold at Heritage Auctions for $3 million. That absolutely crushes the previous record of $2 million, also for a copy of Super Mario Bros., in 2021. That sale also came hot on the heels of a controversial auction of Super Mario 64 for $1.56 million.\nPart of what drove the price of this particular copy so high is that, according to Heritage Auctions, instead of shrink wrap, this 19895 second run was sealed with a glossy sticker, which was discontinued shortly after. The site claims it's the earliest known sealed copy of the game in existence. It's also gr …\nRead the full story at The Verge.",
-          "isoDate": "2026-06-13T18:37:21.000Z"
         }
       ]
     },
@@ -72,64 +72,64 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "ERROR cargando feed",
-          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
-          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-06-15T04:14:57.818Z"
-        },
-        {
           "title": "Bones of Iron Age skeleton were whittled into tools",
           "link": "https://www.nature.com/articles/d41586-026-01833-w",
           "summary": "Nature, Published online: 15 June 2026; doi:10.1038/d41586-026-01833-w\nThe female individual’s brain was removed after her death, but her remains were carefully reassembled for her interment.",
           "isoDate": "2026-06-15T00:00:00.000Z"
         },
         {
-          "title": "Huge study hints at risks of switching from tobacco cigarettes to vapes ",
+          "title": "Why people should work together to shape the economy",
+          "link": "https://www.nature.com/articles/d41586-026-01889-8",
+          "summary": "Nature, Published online: 15 June 2026; doi:10.1038/d41586-026-01889-8\nAn economist sets out how communities can direct economic decisions and not just endure their consequences.",
+          "isoDate": "2026-06-15T00:00:00.000Z"
+        },
+        {
+          "title": "How AI is revealing the secret lives of animals from hummingbirds to pumas",
+          "link": "https://www.nature.com/articles/d41586-026-01887-w",
+          "summary": "Nature, Published online: 15 June 2026; doi:10.1038/d41586-026-01887-w\nAdvances in machine learning and other technologies are helping researchers to trace the movements, landmarks and social practices of wildlife.",
+          "isoDate": "2026-06-15T00:00:00.000Z"
+        },
+        {
+          "title": "In the field — and sometimes in the lab — the simplest tool is best",
+          "link": "https://www.nature.com/articles/d41586-026-01885-y",
+          "summary": "Nature, Published online: 15 June 2026; doi:10.1038/d41586-026-01885-y\nTechnology has led to unprecedented innovation, but common household items can help make research more reproducible — and accessible.",
+          "isoDate": "2026-06-15T00:00:00.000Z"
+        },
+        {
+          "title": "Huge study hints at risks of switching from tobacco cigarettes to vapes",
           "link": "https://www.nature.com/articles/d41586-026-01834-9",
           "summary": "Nature, Published online: 14 June 2026; doi:10.1038/d41586-026-01834-9\nLung cancer risk was higher in people who took up electronic cigarettes than in those who quit smoking completely.",
           "isoDate": "2026-06-14T00:00:00.000Z"
+        },
+        {
+          "title": "NASA to Cover 34th SpaceX Resupply Mission Space Station Departure",
+          "link": "https://www.nasa.gov/news-release/nasa-to-cover-34th-spacex-resupply-mission-space-station-departure/",
+          "summary": "NASA and its international partners are set to receive scientific research samples and hardware as a SpaceX Dragon spacecraft is scheduled to depart the International Space Station on Tuesday, June 16, for its return to Earth. Watch NASA’s live undocking coverage beginning at 11:45 a.m. EDT on NASA+, Amazon Prime, and the agency’s YouTube channel. […]",
+          "isoDate": "2026-06-12T15:32:54.000Z"
+        },
+        {
+          "title": "Black Eye Galaxy",
+          "link": "https://www.nasa.gov/image-article/black-eye-galaxy/",
+          "summary": "This March 20, 2026, image of Messier 64, or the Black Eye Galaxy, is a composite view from NASA’s Hubble Space Telescope and James Webb Space Telescope. It shows Messier 64 captured at near- and mid-infrared wavelengths by Webb, while Hubble’s image shows the galaxy in ultraviolet, visible, and near-infrared light. Messier 64 is characterized […]",
+          "isoDate": "2026-06-12T13:59:55.000Z"
+        },
+        {
+          "title": "Hubble Sees Swarm of Galaxies",
+          "link": "https://science.nasa.gov/missions/hubble/hubble-sees-swarm-of-galaxies/",
+          "summary": "Looking somewhat like a swarm of bees returning to their hive, this NASA Hubble Space Telescope image features the galaxy cluster MACS0329-0211.",
+          "isoDate": "2026-06-12T11:34:50.000Z"
+        },
+        {
+          "title": "World Cup Fever in Guadalajara",
+          "link": "https://science.nasa.gov/earth/earth-observatory/world-cup-fever-in-guadalajara/",
+          "summary": "The city’s metro area has pushed westward since it last hosted World Cup matches in 1986, expanding across a landscape shaped by ancient volcanoes.",
+          "isoDate": "2026-06-12T04:01:00.000Z"
         },
         {
           "title": "Why we seek to fly: Books in brief",
           "link": "https://www.nature.com/articles/d41586-026-01911-z",
           "summary": "Nature, Published online: 12 June 2026; doi:10.1038/d41586-026-01911-z\nAndrew Robinson reviews five of the best science picks.",
           "isoDate": "2026-06-12T00:00:00.000Z"
-        },
-        {
-          "title": "Briefing Chat: The epic journey of Stonehenge’s central stone",
-          "link": "https://www.nature.com/articles/d41586-026-01912-y",
-          "summary": "Nature, Published online: 12 June 2026; doi:10.1038/d41586-026-01912-y\nNature staff discuss some of the week’s top science news.",
-          "isoDate": "2026-06-12T00:00:00.000Z"
-        },
-        {
-          "title": "I advise the Vatican and the UN on AI — don’t dismiss the Pope’s message as theology",
-          "link": "https://www.nature.com/articles/d41586-026-01876-z",
-          "summary": "Nature, Published online: 12 June 2026; doi:10.1038/d41586-026-01876-z\nThe papal letter goes beyond a religious document and diagnoses a failure in AI governance that the scientific community should heed.",
-          "isoDate": "2026-06-12T00:00:00.000Z"
-        },
-        {
-          "title": "‘Student Geng’ ignites research-integrity scandal in China after calling out senior academics<b> </b>",
-          "link": "https://www.nature.com/articles/d41586-026-01902-0",
-          "summary": "Nature, Published online: 12 June 2026; doi:10.1038/d41586-026-01902-0\nVideo blogger’s viral accusations of data manipulation in Nature journals have sparked intense debate and speedy institutional investigations.",
-          "isoDate": "2026-06-12T00:00:00.000Z"
-        },
-        {
-          "title": "Humans outperform AI at this highly rigorous mathematics test",
-          "link": "https://www.nature.com/articles/d41586-026-01888-9",
-          "summary": "Nature, Published online: 12 June 2026; doi:10.1038/d41586-026-01888-9\nA new benchmark pitting AI against previously unseen maths problems shows systems still fall short of top human expertise.",
-          "isoDate": "2026-06-12T00:00:00.000Z"
-        },
-        {
-          "title": "An innovative technology boosts image quality for protein structures",
-          "link": "https://www.nature.com/articles/d41586-026-01858-1",
-          "summary": "Nature, Published online: 12 June 2026; doi:10.1038/d41586-026-01858-1\nAfter years of effort, two research teams have developed ‘laser phase plate’ systems that could help cryo-electron-microscopy users to generate high-quality structures for a broad range of proteins.",
-          "isoDate": "2026-06-12T00:00:00.000Z"
-        },
-        {
-          "title": "Long-term isolation and archaic introgression shape functional genetic variation in Near Oceania",
-          "link": "https://www.science.org/doi/abs/10.1126/science.adr6749?af=R",
-          "summary": "Science, Volume 392, Issue 6803, June 2026.",
-          "isoDate": "2026-06-11T07:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 69\nColumn: 41\nChar: &",
-          "isoDate": "2026-06-15T04:14:59.224Z"
+          "isoDate": "2026-06-15T12:12:22.503Z"
+        },
+        {
+          "title": "When will social media ban start, and which apps will be affected?",
+          "link": "https://www.bbc.com/news/articles/ceqdny4l3jdo?at_medium=RSS&at_campaign=rss",
+          "summary": "The measures will see apps including TikTok and Snapchat banned for UK teens early in 2027.",
+          "isoDate": "2026-06-15T11:09:42.000Z"
         },
         {
           "title": "Elon Musk's stratospheric rise to trillionaire status - in charts",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.com/news/articles/cn8qj8wjgxwo?at_medium=RSS&at_campaign=rss",
           "summary": "Meta has accused the EU of \"regulatory overreach\" and says its decision will allow tech giants like OpenAI free access to WhatsApp.",
           "isoDate": "2026-06-09T16:16:12.000Z"
-        },
-        {
-          "title": "AI giants' race to raise funds heats up as ChatGPT-owner plans stock market debut",
-          "link": "https://www.bbc.com/news/articles/cd958eqg1n5o?at_medium=RSS&at_campaign=rss",
-          "summary": "The company behind ChatGPT files its plans one week after Anthropic did the same.",
-          "isoDate": "2026-06-09T08:02:43.000Z"
         }
       ]
     },
@@ -252,15 +252,15 @@
           "isoDate": "2026-06-11T00:00:00.000Z"
         },
         {
-          "title": "How an astrophysicist uses Codex to help simulate black holes",
-          "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
-          "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
-          "isoDate": "2026-06-11T00:00:00.000Z"
-        },
-        {
           "title": "OpenAI to acquire Ona",
           "link": "https://openai.com/index/openai-to-acquire-ona",
           "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+          "isoDate": "2026-06-11T00:00:00.000Z"
+        },
+        {
+          "title": "How an astrophysicist uses Codex to help simulate black holes",
+          "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
+          "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
           "isoDate": "2026-06-11T00:00:00.000Z"
         }
       ]
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 84\nColumn: 559\nChar:  ",
-          "isoDate": "2026-06-15T04:15:03.216Z"
+          "isoDate": "2026-06-15T12:12:26.997Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-06-15T04:15:00.953Z"
+          "isoDate": "2026-06-15T12:12:23.929Z"
         },
         {
           "title": "Award-Winning Researcher Trains Robots to Make Educated Guesses",
