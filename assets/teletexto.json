@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-06-14T19:26:17.230Z",
+  "generatedAt": "2026-06-15T04:15:05.351Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "The FBI built a small town to simulate cyberattacks",
+          "link": "https://www.theverge.com/tech/949648/fbi-fake-town-cyberattacks-kinetic-cyber-range",
+          "summary": "There’s also a fake power company to jack up prices thanks to the fake data center. | Image: FBI\t\n\nLast year, the FBI opened a Cyber Range in Huntsville, Alabama, for simulating cyberattacks. Think of it sort of like the famous Hogan's Alley, but for modern digital crime training. It's a massive 22,000 square-foot replica of an entire town, complete with a convenience store, gas station, hospital, and even fully furnished houses.\nIt's a training facility where the bureau can recreate real-world scenarios for training and research purposes. All of the various buildings and facilities are hooked up the way they would be in a real town. There's even a small data center with over 200 servers that can be hacked, infected with malware, and stu …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-14T20:35:41.000Z"
+        },
         {
           "title": "China may have accessed Mythos",
           "link": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
@@ -58,12 +64,6 @@
           "link": "https://www.theverge.com/games/949593/super-mario-bros-3-million-auction",
           "summary": "You know this came for free bundle with the console for $150, right? | Image: Heritage Auctions\t\n\nA copy of Super Mario Bros., still in the box and sealed with its original sticker, just sold at Heritage Auctions for $3 million. That absolutely crushes the previous record of $2 million, also for a copy of Super Mario Bros., in 2021. That sale also came hot on the heels of a controversial auction of Super Mario 64 for $1.56 million.\nPart of what drove the price of this particular copy so high is that, according to Heritage Auctions, instead of shrink wrap, this 19895 second run was sealed with a glossy sticker, which was discontinued shortly after. The site claims it's the earliest known sealed copy of the game in existence. It's also gr …\nRead the full story at The Verge.",
           "isoDate": "2026-06-13T18:37:21.000Z"
-        },
-        {
-          "title": "Review: Disclosure Day is big on action, light on ideas",
-          "link": "https://arstechnica.com/culture/2026/06/review-disclosure-day-is-big-on-action-light-on-ideas/",
-          "summary": "There's nothing new or surprising, but it's still an entertaining film from one of our greatest directors.",
-          "isoDate": "2026-06-13T17:17:44.000Z"
         }
       ]
     },
@@ -72,28 +72,22 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "NASA to Cover 34th SpaceX Resupply Mission Space Station Departure",
-          "link": "https://www.nasa.gov/news-release/nasa-to-cover-34th-spacex-resupply-mission-space-station-departure/",
-          "summary": "NASA and its international partners are set to receive scientific research samples and hardware as a SpaceX Dragon spacecraft is scheduled to depart the International Space Station on Tuesday, June 16, for its return to Earth. Watch NASA’s live undocking coverage beginning at 11:45 a.m. EDT on NASA+, Amazon Prime, and the agency’s YouTube channel. […]",
-          "isoDate": "2026-06-12T15:32:54.000Z"
+          "title": "ERROR cargando feed",
+          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
+          "isoDate": "2026-06-15T04:14:57.818Z"
         },
         {
-          "title": "Black Eye Galaxy",
-          "link": "https://www.nasa.gov/image-article/black-eye-galaxy/",
-          "summary": "This March 20, 2026, image of Messier 64, or the Black Eye Galaxy, is a composite view from NASA’s Hubble Space Telescope and James Webb Space Telescope. It shows Messier 64 captured at near- and mid-infrared wavelengths by Webb, while Hubble’s image shows the galaxy in ultraviolet, visible, and near-infrared light. Messier 64 is characterized […]",
-          "isoDate": "2026-06-12T13:59:55.000Z"
+          "title": "Bones of Iron Age skeleton were whittled into tools",
+          "link": "https://www.nature.com/articles/d41586-026-01833-w",
+          "summary": "Nature, Published online: 15 June 2026; doi:10.1038/d41586-026-01833-w\nThe female individual’s brain was removed after her death, but her remains were carefully reassembled for her interment.",
+          "isoDate": "2026-06-15T00:00:00.000Z"
         },
         {
-          "title": "Hubble Sees Swarm of Galaxies",
-          "link": "https://science.nasa.gov/missions/hubble/hubble-sees-swarm-of-galaxies/",
-          "summary": "Looking somewhat like a swarm of bees returning to their hive, this NASA Hubble Space Telescope image features the galaxy cluster MACS0329-0211.",
-          "isoDate": "2026-06-12T11:34:50.000Z"
-        },
-        {
-          "title": "World Cup Fever in Guadalajara",
-          "link": "https://science.nasa.gov/earth/earth-observatory/world-cup-fever-in-guadalajara/",
-          "summary": "The city’s metro area has pushed westward since it last hosted World Cup matches in 1986, expanding across a landscape shaped by ancient volcanoes.",
-          "isoDate": "2026-06-12T04:01:00.000Z"
+          "title": "Huge study hints at risks of switching from tobacco cigarettes to vapes ",
+          "link": "https://www.nature.com/articles/d41586-026-01834-9",
+          "summary": "Nature, Published online: 14 June 2026; doi:10.1038/d41586-026-01834-9\nLung cancer risk was higher in people who took up electronic cigarettes than in those who quit smoking completely.",
+          "isoDate": "2026-06-14T00:00:00.000Z"
         },
         {
           "title": "Why we seek to fly: Books in brief",
@@ -130,6 +124,12 @@
           "link": "https://www.nature.com/articles/d41586-026-01858-1",
           "summary": "Nature, Published online: 12 June 2026; doi:10.1038/d41586-026-01858-1\nAfter years of effort, two research teams have developed ‘laser phase plate’ systems that could help cryo-electron-microscopy users to generate high-quality structures for a broad range of proteins.",
           "isoDate": "2026-06-12T00:00:00.000Z"
+        },
+        {
+          "title": "Long-term isolation and archaic introgression shape functional genetic variation in Near Oceania",
+          "link": "https://www.science.org/doi/abs/10.1126/science.adr6749?af=R",
+          "summary": "Science, Volume 392, Issue 6803, June 2026.",
+          "isoDate": "2026-06-11T07:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 69\nColumn: 41\nChar: &",
-          "isoDate": "2026-06-14T19:26:13.335Z"
+          "isoDate": "2026-06-15T04:14:59.224Z"
         },
         {
           "title": "Elon Musk's stratospheric rise to trillionaire status - in charts",
@@ -204,6 +204,12 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "Introducing the OpenAI Partner Network",
+          "link": "https://openai.com/index/introducing-openai-partner-network",
+          "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+          "isoDate": "2026-06-14T17:00:00.000Z"
+        },
+        {
           "title": "New OpenAI Academy courses for the next era of work",
           "link": "https://openai.com/index/academy-courses-applying-ai-at-work",
           "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
@@ -240,15 +246,15 @@
           "isoDate": "2026-06-11T00:00:00.000Z"
         },
         {
-          "title": "How an astrophysicist uses Codex to help simulate black holes",
-          "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
-          "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
-          "isoDate": "2026-06-11T00:00:00.000Z"
-        },
-        {
           "title": "BBVA puts AI at the core of banking with OpenAI",
           "link": "https://openai.com/index/bbva",
           "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+          "isoDate": "2026-06-11T00:00:00.000Z"
+        },
+        {
+          "title": "How an astrophysicist uses Codex to help simulate black holes",
+          "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
+          "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
           "isoDate": "2026-06-11T00:00:00.000Z"
         },
         {
@@ -256,12 +262,6 @@
           "link": "https://openai.com/index/openai-to-acquire-ona",
           "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
           "isoDate": "2026-06-11T00:00:00.000Z"
-        },
-        {
-          "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
-          "link": "https://openai.com/index/openai-on-oracle-cloud",
-          "summary": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
-          "isoDate": "2026-06-10T20:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 84\nColumn: 559\nChar:  ",
-          "isoDate": "2026-06-14T19:26:15.768Z"
+          "isoDate": "2026-06-15T04:15:03.216Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-06-14T19:26:14.915Z"
+          "isoDate": "2026-06-15T04:15:00.953Z"
         },
         {
           "title": "Award-Winning Researcher Trains Robots to Make Educated Guesses",
