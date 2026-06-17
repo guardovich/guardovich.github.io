@@ -1,10 +1,46 @@
 {
-  "generatedAt": "2026-06-16T20:49:37.887Z",
+  "generatedAt": "2026-06-17T04:05:24.537Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Trump admin tries to block Clean Air Act lawsuit over xAI's gas turbines",
+          "link": "https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/",
+          "summary": "NAACP lawsuit says xAI uses gas turbines without permits for Grok data center.",
+          "isoDate": "2026-06-16T22:22:44.000Z"
+        },
+        {
+          "title": "Year of free HPE software a “step in the correct direction” in VMware rivalry",
+          "link": "https://arstechnica.com/information-technology/2026/06/hpe-tempts-vmware-users-partners-with-year-of-free-virtualization-software/",
+          "summary": "Partner tells Ars that HPE should be giving out more free VM Essentials licenses.",
+          "isoDate": "2026-06-16T22:11:15.000Z"
+        },
+        {
+          "title": "Cockroaches scurry around with thousands of pieces of bacterial genomes",
+          "link": "https://arstechnica.com/science/2026/06/cockroaches-scurry-around-with-thousands-of-pieces-of-bacterial-genomes/",
+          "summary": "Transferring genes across species doesn't just happen in microbes.",
+          "isoDate": "2026-06-16T21:54:41.000Z"
+        },
+        {
+          "title": "Among the large new rockets Amazon was counting on, only Europe has delivered",
+          "link": "https://arstechnica.com/space/2026/06/amid-launch-bottleneck-amazon-has-hundreds-of-satellites-waiting-to-fly/",
+          "summary": "\"As for Arianespace, they have definitely stepped up.\"",
+          "isoDate": "2026-06-16T21:14:08.000Z"
+        },
+        {
+          "title": "Anthropic \"pauses\" token-based billing for its Claude Agent SDK",
+          "link": "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
+          "summary": "Move originally planned for Monday would have heavily increased power users' costs.",
+          "isoDate": "2026-06-16T21:00:35.000Z"
+        },
+        {
+          "title": "Exclusive eBook: How AI is becoming the next military advisor",
+          "link": "https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/",
+          "summary": "A collection of stories about how militaries are using AI models to make decisions. This subscriber-only eBook is a package of six stories that were originally published in MIT Technology Review between April 11, 2025, and April 21, 2026, and have been updated to reflect recent developments. by James O’Donnell Choose which file format to…",
+          "isoDate": "2026-06-16T20:35:02.000Z"
+        },
         {
           "title": "The Complete Calvin and Hobbes is a great last-minute Father’s Day gift",
           "link": "https://www.theverge.com/gadgets/950958/calvin-and-hobbes-fathers-day-gift-idea-deal-sale",
@@ -28,42 +64,6 @@
           "link": "https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/",
           "summary": "Pentagon also claims 1.5 million personnel are using generative AI tools.",
           "isoDate": "2026-06-16T18:11:05.000Z"
-        },
-        {
-          "title": "Android 17 starts hitting Pixel phones and watches today",
-          "link": "https://arstechnica.com/gadgets/2026/06/android-17-starts-hitting-pixel-phones-and-watches-today/",
-          "summary": "Pixels will get their OTA in the coming weeks, but don't expect monumental changes.",
-          "isoDate": "2026-06-16T18:00:08.000Z"
-        },
-        {
-          "title": "Android 17 arrives on Pixel phones today",
-          "link": "https://www.theverge.com/tech/950651/android-17-release-pixel-drop-google-bubble-screen-reaction",
-          "summary": "Floating Bubble windows are among the biggest changes in the OS update. | Image: Google\t\n\nFollowing its official debut last month, Google is now rolling out Android 17 to compatible Pixel phones, alongside additional exclusive features as part of the June Pixel Drop. Not every feature announced alongside the OS at the pre-I/O Android Show is available today, though.\nAndroid 17 itself is arriving on Pixel phones today, and Google says other manufacturers will be issuing the update throughout 2026. The biggest user interface update is the introduction of Bubbles, floating app windows that you can open with a long press - similar floating windows are already found in many Android skins, but are now an official part of 17. Google is …\nRead the full story at The Verge.",
-          "isoDate": "2026-06-16T18:00:00.000Z"
-        },
-        {
-          "title": "Google launches Wear OS 7 with Live Updates and a battery life boost",
-          "link": "https://www.theverge.com/gadgets/950671/wear-os-7-pixel-watches-launch",
-          "summary": "Google's Wear OS 7 update is starting to roll out today for the Pixel Watch 2, 3, and 4 , adding a new Live Updates feature that tracks live events from your Android smart watch. Live Updates will now sync with Wear OS devices, so updates like sports scores or an ongoing meal delivery will show up on both your watch and your phone. \nYou might also notice your watch lasting a little longer - Google claims Wear OS 7 offers up to 10 percent more battery life than Wear OS 6. \nWear OS 7 will also introduce some new Gemini Intelligence features, but Google says these aren't launching until \"later this year.\" They'll include Create My Widget, whi …\nRead the full story at The Verge.",
-          "isoDate": "2026-06-16T18:00:00.000Z"
-        },
-        {
-          "title": "Verizon&#8217;s &#8216;Simplicity&#8217; flat-rate plan starts at $30 per month for new customers",
-          "link": "https://www.theverge.com/tech/950881/verizon-simplicity-plan-launch",
-          "summary": "Verizon is launching a new Simplicity plan that starts at $30 / month for new customers, or $45 / month for existing ones. In its announcement, Verizon says the plan drops activation and upgrade fees, while offering one flat price for each line.\nThe $30 price for new customers is an \"initial promotional offer\" that applies after enabling autopay and taking advantage of a discount for switching carriers, according to Verizon. But before customers can ditch Verizon's $40 fee to activate or upgrade a device, they'll need to opt in to the carrier's new loyalty program through the My Verizon app. The loyalty program comes with a new Verizon Doll …\nRead the full story at The Verge.",
-          "isoDate": "2026-06-16T17:19:35.000Z"
-        },
-        {
-          "title": "Apple 2027 rumors: AirPods with cameras for AI and the second folding iPhone",
-          "link": "https://www.theverge.com/tech/950826/apple-airpod-camera-ai-foldable-iphone-rumor",
-          "summary": "AirPods Pro 3 shown with an iPhone and live translation features. | Photo by Amelia Holowaty Krales / The Verge\t\n\nNow that we're clear of WWDC and all of the new AI-powered features coming to Apple's platforms, Bloomberg reporter Mark Gurman has more details about rumored new hardware, like the camera-equipped AirPods he'd previously written about. He says they are currently on schedule for a late 2027 launch, and that while we're checking out beta releases for this fall's iOS 27 update, the new earbuds are internally being tested with next year's update, iOS 28.\n With cameras mounted in their stems and lights to indicate when data is being uploaded to the cloud, they could give the upgraded version of Siri \"visual context\"  about your surroundings, be …\nRead the full story at The Verge.",
-          "isoDate": "2026-06-16T17:04:05.000Z"
-        },
-        {
-          "title": "Qualcomm’s latest chip hints that more powerful smart glasses could be on the way",
-          "link": "https://www.theverge.com/gadgets/950229/qualcomm-snapdragon-reality-elite-xr-smart-glasses-wearables",
-          "summary": "Smart glasses are still a nascent category, but chipmaker Qualcomm is hard at work upgrading the silicon to power the next wave of XR devices: the Snapdragon Reality Elite.\nAlthough Qualcomm is announcing the chip today at Augmented World Expo, we've technically already gotten a hands-on with a device powered by the new chip at last month's Google I/O: the forthcoming Aura glasses for Android XR. At the time, Xreal and Google were coy about the processor upgrades to the long-awaited spectacles. Turns out, it was the Reality Elite.\nSpec-wise, the new chip focuses on across-the-board performance upgrades. The GPU gets a 60 percent bump, the  …\nRead the full story at The Verge.",
-          "isoDate": "2026-06-16T17:00:00.000Z"
         }
       ]
     },
@@ -75,7 +75,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
           "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-06-16T20:49:32.064Z"
+          "isoDate": "2026-06-17T04:05:19.762Z"
+        },
+        {
+          "title": "Should nicotine be regulated like a narcotic? A Pacific nation makes the case",
+          "link": "https://www.nature.com/articles/d41586-026-01903-z",
+          "summary": "Nature, Published online: 17 June 2026; doi:10.1038/d41586-026-01903-z\nExisting global efforts to reduce harms caused by smoking have targeted tobacco smoking, but vapes containing nicotine are also harmful.",
+          "isoDate": "2026-06-17T00:00:00.000Z"
         },
         {
           "title": "Author Correction: Ontogeny and transcriptional regulation of Thetis cells",
@@ -124,12 +130,6 @@
           "link": "https://www.nature.com/articles/s41586-026-10768-1",
           "summary": "Nature, Published online: 15 June 2026; doi:10.1038/s41586-026-10768-1\nNanocrystal-tailored recombination for all-perovskite tandem solar modules",
           "isoDate": "2026-06-15T00:00:00.000Z"
-        },
-        {
-          "title": "Bones of Iron Age skeleton were whittled into tools",
-          "link": "https://www.nature.com/articles/d41586-026-01833-w",
-          "summary": "Nature, Published online: 15 June 2026; doi:10.1038/d41586-026-01833-w\nThe female individual’s brain was removed after her death, but her remains were carefully reassembled for her interment.",
-          "isoDate": "2026-06-15T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 69\nColumn: 41\nChar: &",
-          "isoDate": "2026-06-16T20:49:32.886Z"
+          "isoDate": "2026-06-17T04:05:21.005Z"
         },
         {
           "title": "Tech Life",
@@ -204,6 +204,18 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "Could AI tell you where you left your keys?",
+          "link": "https://news.mit.edu/2026/could-ai-tell-you-where-you-left-your-keys-0617",
+          "summary": "A new spatial memory system for robots efficiently captures details about the objects they see while exploring their environment.",
+          "isoDate": "2026-06-17T04:00:00.000Z"
+        },
+        {
+          "title": "Unlocking UK house-building with AI-accelerated planning",
+          "link": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+          "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
+          "isoDate": "2026-06-16T21:29:50.000Z"
+        },
+        {
           "title": "MIT’s Initiative for New Manufacturing builds momentum",
           "link": "https://news.mit.edu/2026/mit-initiative-for-new-manufacturing-builds-momentum-0616",
           "summary": "In its first year, INM has worked across research, workforce development, and industry engagement to help accelerate new manufacturing technologies and their real-world deployment.",
@@ -250,18 +262,6 @@
           "link": "https://news.mit.edu/2026/hertz-foundation-fellowships-0611",
           "summary": "The fellowships in applied sciences, engineering, and mathematics recognize doctoral students who are pursuing solutions to the most pressing challenges in science and technology.",
           "isoDate": "2026-06-11T17:30:00.000Z"
-        },
-        {
-          "title": "How an astrophysicist uses Codex to help simulate black holes",
-          "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
-          "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
-          "isoDate": "2026-06-11T00:00:00.000Z"
-        },
-        {
-          "title": "OpenAI to acquire Ona",
-          "link": "https://openai.com/index/openai-to-acquire-ona",
-          "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
-          "isoDate": "2026-06-11T00:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 84\nColumn: 559\nChar:  ",
-          "isoDate": "2026-06-16T20:49:36.320Z"
+          "isoDate": "2026-06-17T04:05:23.312Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-06-16T20:49:34.025Z"
+          "isoDate": "2026-06-17T04:05:22.129Z"
         },
         {
           "title": "Engineering Is Critical to Boosting Food Security",
