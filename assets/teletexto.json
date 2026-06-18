@@ -1,14 +1,62 @@
 {
-  "generatedAt": "2026-06-17T20:11:14.778Z",
+  "generatedAt": "2026-06-18T03:56:24.653Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
         {
-          "title": "AI coding agents can autonomously direct robot training",
+          "title": "Midjourney Medical goes from generating ‘cat images’ to full-body ultrasound scans",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
+          "summary": "“A scan of an imaging phantom, segmented to validate how cleanly structures separate under controlled conditions.“ | Image: Midjourney Medical\t\n\nMidjourney CEO David Holz just showed off the company's first hardware product and plans to build a San Francisco spa, which he admitted is a bit different from the \"cat pictures\" produced by its AI image generator. Dubbed The Midjourney Scanner, it's an ultrasound-based full-body scanner that uses a ring of sensors to capture vertical slices of the inside of your body, looking at the composition of your muscle, fat, bone, and organs to start. Holz said ideally, you could do this once a year or every single day, as it \"aims for image quality comparable to MRI in many ways.\"\nHe mentioned that one way he'd like to use it would be to see how h …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-18T03:12:31.000Z"
+        },
+        {
+          "title": "Second carcass-eating fly species cleared by FDA for maggot wound therapy",
+          "link": "https://arstechnica.com/health/2026/06/second-carcass-eating-fly-species-cleared-by-fda-for-maggot-wound-therapy/",
+          "summary": "Maggot therapy lacks robust data, but it has fans and a fail-safe \"bacon therapy.\"",
+          "isoDate": "2026-06-17T22:11:20.000Z"
+        },
+        {
+          "title": "Tim Cook says RAM expenses are &#8216;unsustainable&#8217; and Apple is going to raise prices",
+          "link": "https://www.theverge.com/tech/951948/apple-tim-cook-price-increases-ram",
+          "summary": "Apple is planning to raise prices in response to the ongoing memory shortage. In an interview with The Wall Street Journal, Apple CEO Tim Cook says \"price increases are unavoidable:\"\n We're doing our best to mitigate the huge increases that are being passed to us, and we've been trying to shield our customers from the increases, but the situation has become unsustainable.\nCook doesn't say when Apple plans on raising prices or which products will be affected. The company has already stopped selling the Mac Studio with 512GB of RAM in March and later raised the starting price of the Mac Mini to $799 after dropping the cheaper $599 option f …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-17T21:42:21.000Z"
+        },
+        {
+          "title": "Sooner than expected? Useful quantum error correction promised for 2028.",
+          "link": "https://arstechnica.com/science/2026/06/amazon-quera-promise-useful-quantum-error-correction-by-2028/",
+          "summary": "Elsewhere, beyond-classical quantum hardware, plus classical computing fires back.",
+          "isoDate": "2026-06-17T20:44:32.000Z"
+        },
+        {
+          "title": "VSCO launches Studio Pro mobile photo editing app and plans $500 per year subscription",
+          "link": "https://www.theverge.com/tech/951863/vsco-studio-pro-vsco-one-subscription",
+          "summary": "VSCO is taking on Adobe with a new Studio Pro editing app rolling out today on iOS and coming to macOS later this year, as Bloomberg reports. At launch, the app offers tools for batch editing, style matching from a reference image, and sharing images through VSCO Galleries. VSCO says more features are coming later, including support for RAW images, advanced export options, and additional advanced editing tools like adjusting image aspect ratios. \nA press release says the app is made for managing high-volume editing projects, like  \"weddings, portraits, events, sports, school photography, and other large-scale photoshoots.\" \nThe $500 per ye …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-17T20:43:28.000Z"
+        },
+        {
+          "title": "California says AT&T lied to FCC in attempt to shut off old phone network",
+          "link": "https://arstechnica.com/tech-policy/2026/06/california-says-att-lied-to-fcc-in-attempt-to-shut-off-old-phone-network/",
+          "summary": "FCC considers AT&T petitions to preempt state rules and discontinue phone service.",
+          "isoDate": "2026-06-17T20:07:40.000Z"
+        },
+        {
+          "title": "Massive breach spills credentials for thousands of sensitive networks",
+          "link": "https://arstechnica.com/security/2026/06/massive-breach-spills-credentials-for-thousands-of-sensitive-networks/",
+          "summary": "The affected include Oracle, Lenovo, FedEx, a NATO contractor, and Fortinet.",
+          "isoDate": "2026-06-17T19:54:31.000Z"
+        },
+        {
+          "title": "Tesco moving 40,000 server workloads off VMware amid Broadcom's “abusive conduct”",
+          "link": "https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/",
+          "summary": "Tesco claimed Broadcom hiked its VMware prices by about 175 percent in UK court filings.",
+          "isoDate": "2026-06-17T19:43:13.000Z"
+        },
+        {
+          "title": "AI coding agents taught robots how to install GPUs and cut zip ties",
           "link": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/",
-          "summary": "NVIDIA’s self-improvement program for robots enlists teams of AI coding agents.",
+          "summary": "Nvidia's self-improvement program for robots enlists teams of AI coding agents.",
           "isoDate": "2026-06-17T19:25:19.000Z"
         },
         {
@@ -16,54 +64,6 @@
           "link": "https://www.theverge.com/games/951785/epic-games-fortnite-unreal-fest-2026-unreal-engine-6-ai-metaverse",
           "summary": "Epic Games has been touting the potential of an interoperable metaverse for years, though that vision hasn't yet become a reality. But with Unreal Engine 6, the next major version of its game development engine, Epic plans to take a big step toward that theoretical future: it will let developers make games that can use a player's Fortnite skins and will let developers build skins of their own that work with Fortnite.\n\"We're tackling this problem first because we want to prove things out with a system that's complex enough to be a meaningful existence proof of the idea, and one that inherently comes with a ton of player value by respecting t …\nRead the full story at The Verge.",
           "isoDate": "2026-06-17T19:09:00.000Z"
-        },
-        {
-          "title": "Anthropic got hit by export rules nobody understands",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls",
-          "summary": "Anthropic has spent much of this week fighting to get its newest AI models back online after the Trump administration abruptly ordered the company to cut access for all foreign nationals, including users inside the US and its own employees, forcing Anthropic to block access to Fable 5 and Mythos 5 for everyone. \n\n\"To my knowledge, this is the first time US export controls have been used to control access to an AI model in this way.\"\n\nThe Trump administration has not publicly explained the legal basis for the order, but in a statement on its website, Anthropic said the government cited \"national security authorities\" to justify \"an export con …\nRead the full story at The Verge.",
-          "isoDate": "2026-06-17T18:28:50.000Z"
-        },
-        {
-          "title": "The Slate Truck's price may have leaked, starts at $24,950",
-          "link": "https://arstechnica.com/cars/2026/06/the-slate-trucks-price-may-have-leaked-starts-at-24950/",
-          "summary": "The official launch takes place next week.",
-          "isoDate": "2026-06-17T18:23:21.000Z"
-        },
-        {
-          "title": "\"Dangerous\" AI models are coming no matter what",
-          "link": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/",
-          "summary": "AI models with advanced hacking capabilities will soon be the norm.",
-          "isoDate": "2026-06-17T17:50:46.000Z"
-        },
-        {
-          "title": "Two-thirds of Americans think AI is advancing too quickly",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly",
-          "summary": "According to the latest Pew Research poll, 49 percent of Americans report using chatbots at least occasionally, but 63 percent think the tech is advancing too quickly. Overall, use of AI chatbots has increased dramatically since 2024, when only 33 percent reported using them. Specifically, ChatGPT's usage has doubled since 2023, with 44 percent of respondents saying they've used it. But opinions remain negative, with only 16 percent saying that AI will have a positive impact on society.\nInterestingly, it's the younger generations who both report using AI more and who are inclined to have a more pessimistic view. 66 percent of Americans betw …\nRead the full story at The Verge.",
-          "isoDate": "2026-06-17T17:20:24.000Z"
-        },
-        {
-          "title": "The Echo Dot Max is cheaper than ever in an early Prime Day sale",
-          "link": "https://www.theverge.com/gadgets/951602/amazon-echo-dot-max-early-prime-day-deal-sale",
-          "summary": "The Echo Dot Max comes in a variety of fun colors, including purple. | Photo by Jennifer Pattison Tuohy / The Verge\t\n\nWe’re seeing good early Prime Day deals ahead of the event next week, and unsurprisingly, some of the best deals are on Amazon’s own devices. Several Echo speakers have dropped to new low prices, including the Echo Dot Max, which is on sale for $64.99 ($35 off) at Amazon.\nEcho Dot Max\n\nWhere to Buy:\n\n $99.99 $64.99 at Amazon\n $99.99 at Best Buy\n $99.99 at Target\n\nOur smart home reviewer Jennifer Pattison Tuohy named the Echo Max her top pick among Alexa speakers, calling it “Amazon’s best all-around smart speaker.” The elegant, fabric-wrapped speaker delivers plenty of bass, and comes with its own dedicated tweeter and woofer that provide crisper sound than its predecessor. It’s also faster and more responsive, with Amazon’s AZ3 Neural Edge processor helping it hear voice commands more accurately, even if you’re speaking from across the room or over background noise.\nThe Echo Max also doubles as a capable smart home hub with support for Zigbee, Matter, and Thread, allowing you to connect and control a wide range of compatible smart home devices from brands beyond Amazon. It also supports Alexa Plus, Amazon’s more context-aware AI-powered voice assistant, which can handle multiple requests at once. That means you can do things like dim the lights and lock the doors without having to issue separate commands. In our reviewer’s testing, Alexa was even able to turn off the hallway lights, adjust the upstairs thermostat, and start a robot vacuum in the kitchen all at once.\nRead our Echo Dot Max review.",
-          "isoDate": "2026-06-17T16:47:43.000Z"
-        },
-        {
-          "title": "Vibe-decoding the White House-Anthropic fight over Fable",
-          "link": "https://www.theverge.com/column/951516/trump-anthropic-feud-mythos-fable-white-house",
-          "summary": "CEO of Anthropic Dario Amodei attends a working lunch with G7 leaders, G7 outreach partners, and global tech CEOs on innovation and AI, during the G7 Summit on June 17th, 2026, in Evian-les-Bains, France. | Photo: Anna Moneymaker / Getty Images\t\n\nHello and welcome to Regulator, an email for Verge subscribers about technology, politics, and what happens when science crashes headlong into self-interest. Not a subscriber? Sign up here today! Got the scoop on a petty feud that's going to somehow fundamentally reshape the entire field of frontier AI development? Send 'em over to tina.nguyen+tips@theverge.com.\nBack when I was covering Donald Trump's first presidency, it was incredibly common to read three different versions of the same story. His administration had split into several factions, all of which had different interests, and all of which hated each other. There was the Reince Pr …\nRead the full story at The Verge.",
-          "isoDate": "2026-06-17T16:27:00.000Z"
-        },
-        {
-          "title": "Can anyone look cool wearing Snap’s $2,000 glasses?",
-          "link": "https://www.theverge.com/report/951481/snap-specs-wearables-smart-glasses-fashion",
-          "summary": "Snap CEO Evan Spiegel wearing the Snap Specs. They’re not the worst on him, but bold fashion rarely makes for mainstream success. | Screenshot: CNBC\t\n\nYesterday, Snap debuted its new $2,195 Specs glasses. In an interview with CNBC, Snap CEO Evan Spiegel described the Specs as something the company had been working on for more than 12 years, an attempt to \"bring computing into the world\" and \"make it more human.\" He positioned them as a device to help people stay more connected to the world around them instead of looking down at their phones. People, he said, are tired of screens. \nWhile Spiegel was speaking, I was struck by how, whenever his head moved, the light caught the lenses just so, revealing the hidden outline of the Specs' display. It was ironic that Spiegel was talking about scr …\nRead the full story at The Verge.",
-          "isoDate": "2026-06-17T16:13:34.000Z"
-        },
-        {
-          "title": "Ten months later, the $100 Google Home Speaker is finally available for preorder",
-          "link": "https://arstechnica.com/google/2026/06/the-gemini-powered-google-home-speaker-arrives-on-june-25-for-100/",
-          "summary": "Google's new smart speaker is more about Gemini than audio quality.",
-          "isoDate": "2026-06-17T15:57:14.000Z"
         }
       ]
     },
@@ -71,6 +71,18 @@
       "header": "120  CIENCIA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "NASA Announces Public-Private Partnership to Advance Mars Science",
+          "link": "https://www.nasa.gov/news-release/nasa-announces-public-private-partnership-to-advance-mars-science/",
+          "summary": "NASA Wednesday announced a new public‑private partnership to advance Mars science by combining the agency’s scientific leadership with commercial innovation. Under this model, NASA will provide the Aeolus atmospheric‑science instrument payload suite, while Relativity Space supplies the spacecraft, rocket, and cruise operations necessary to deliver the instruments to Mars. This partnership reflects NASA’s growing commitment […]",
+          "isoDate": "2026-06-17T22:29:09.000Z"
+        },
+        {
+          "title": "Search for Hidden Cosmic Companions in Sun’s Backyard",
+          "link": "https://science.nasa.gov/get-involved/citizen-science/search-for-hidden-cosmic-companions-in-suns-backyard/",
+          "summary": "Some stars have planets. Others are orbited by brown dwarfs, balls of gas too massive to be planets, but too low-mass to be stars. Astronomers love these brown dwarf-star pairs because being paired with a star helps reveal a brown dwarf’s age. Ages of astronomical objects are often hard to measure, but essential for understanding […]",
+          "isoDate": "2026-06-17T19:40:03.000Z"
+        },
         {
           "title": "Hubble Sees Swarm of Galaxies",
           "link": "https://www.nasa.gov/image-article/hubble-sees-swarm-of-galaxies/",
@@ -90,9 +102,9 @@
           "isoDate": "2026-06-17T00:00:00.000Z"
         },
         {
-          "title": "Freezing brain damage in its tracks: cooling drugs limit stroke injury in mice",
-          "link": "https://www.nature.com/articles/d41586-026-01923-9",
-          "summary": "Nature, Published online: 17 June 2026; doi:10.1038/d41586-026-01923-9\nA two-drug combination induces hypothermia in mice by lowering metabolism and dilating blood vessels.",
+          "title": "Fiery data hint that controlled forest fires benefit human health",
+          "link": "https://www.nature.com/articles/d41586-026-01868-z",
+          "summary": "Nature, Published online: 17 June 2026; doi:10.1038/d41586-026-01868-z\nAnalysis of wildfire in California suggests a net reduction in exposure to blaze-related air pollution.",
           "isoDate": "2026-06-17T00:00:00.000Z"
         },
         {
@@ -118,18 +130,6 @@
           "link": "https://www.nature.com/articles/s41586-026-10586-5",
           "summary": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10586-5\nAnalysis of long-term radial velocity data and transit time variations, induced by a super-Earth, a warm Jupiter and a brown dwarf in a coplanar orbit around the relatively young star TOI201.",
           "isoDate": "2026-06-17T00:00:00.000Z"
-        },
-        {
-          "title": "Probing picometre-scale interlayer deformations via hyperbolic polaritons",
-          "link": "https://www.nature.com/articles/s41586-026-10638-w",
-          "summary": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10638-w\nA new polaritonic optical method that uses the mid-infrared out-of-plane hyperbolic polaritons mode is described and experimentally validated to allow the examination of picometre-scale interlayer deformations, providing a bridge between nanomechanics and photonics.",
-          "isoDate": "2026-06-17T00:00:00.000Z"
-        },
-        {
-          "title": "Optical fibre gripper for high-performance 3D micromanipulation",
-          "link": "https://www.nature.com/articles/s41586-026-10673-7",
-          "summary": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10673-7\nA miniature three-dimensional optical fibre gripper enables powerful, precise micromanipulation of particles and single cells in confined spaces, bridging the gap between optical and mechanical tweezers.",
-          "isoDate": "2026-06-17T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 69\nColumn: 41\nChar: &",
-          "isoDate": "2026-06-17T20:11:11.120Z"
+          "isoDate": "2026-06-18T03:56:20.074Z"
         },
         {
           "title": "AI will create more jobs for humans, not replace them, Amazon founder Bezos says",
@@ -222,6 +222,12 @@
           "isoDate": "2026-06-17T04:00:00.000Z"
         },
         {
+          "title": "Introducing LifeSciBench",
+          "link": "https://openai.com/index/introducing-life-sci-bench",
+          "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
+          "isoDate": "2026-06-17T00:00:00.000Z"
+        },
+        {
           "title": "Unlocking UK house-building with AI-accelerated planning",
           "link": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
           "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
@@ -256,12 +262,6 @@
           "link": "https://openai.com/index/preply",
           "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
           "isoDate": "2026-06-12T00:00:00.000Z"
-        },
-        {
-          "title": "Jinhua Zhao named head of the Department of Urban Studies and Planning",
-          "link": "https://news.mit.edu/2026/jinhua-zhao-named-head-department-urban-studies-planning-0611",
-          "summary": "An expert in behavioral science and transportation, Zhao combines these studies with AI and public policy to address some of the most urgent challenges facing cities.",
-          "isoDate": "2026-06-11T20:20:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 84\nColumn: 559\nChar:  ",
-          "isoDate": "2026-06-17T20:11:13.424Z"
+          "isoDate": "2026-06-18T03:56:23.081Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-06-17T20:11:12.397Z"
+          "isoDate": "2026-06-18T03:56:21.724Z"
         },
         {
           "title": "IEEE’s 2026 Education Week Events Emphasized Lifelong Learning",
