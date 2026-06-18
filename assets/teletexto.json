@@ -1,12 +1,30 @@
 {
-  "generatedAt": "2026-06-18T03:56:24.653Z",
+  "generatedAt": "2026-06-18T10:19:53.683Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
         {
-          "title": "Midjourney Medical goes from generating ‘cat images’ to full-body ultrasound scans",
+          "title": "Geoengineering still faces major practical challenges",
+          "link": "https://www.technologyreview.com/2026/06/18/1139227/geoengineering-engineering-challenges/",
+          "summary": "Solar geoengineering is often portrayed as a sort of emergency brake. Something along the lines of Pull in case of climate emergency to scatter light-reflecting particles to bounce sunlight out of the atmosphere and cool the planet. But it might be less like a simple brake and more like a complicated, entirely unsolved puzzle. Some…",
+          "isoDate": "2026-06-18T10:00:00.000Z"
+        },
+        {
+          "title": "The search for dark matter has been blown wide open",
+          "link": "https://www.technologyreview.com/2026/06/18/1138755/search-for-dark-matter-blown-wide-open/",
+          "summary": "Underneath an Apennine massif, below the Jinping Mountains of Sichuan, and at the bottom of a South Dakota mine, there is a cosmic hunt afoot. Isolated deep beneath these rocky shields, massive detectors filled with liquid xenon aim to make the first direct detections of dark matter, the long-sought invisible substance whose gravity has sculpted…",
+          "isoDate": "2026-06-18T09:00:00.000Z"
+        },
+        {
+          "title": "Hulk, Punisher join Peter Parker in Spider-Man: Brand New Day trailer",
+          "link": "https://arstechnica.com/culture/2026/06/hulk-punisher-join-peter-parker-in-spider-man-brand-new-day-trailer/",
+          "summary": "Peter Parker to Bruce Banner: \"I didn't know you could get that big.\"",
+          "isoDate": "2026-06-18T06:37:59.000Z"
+        },
+        {
+          "title": "Midjourney goes from generating cat images to full-body ultrasound scans",
           "link": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
           "summary": "“A scan of an imaging phantom, segmented to validate how cleanly structures separate under controlled conditions.“ | Image: Midjourney Medical\t\n\nMidjourney CEO David Holz just showed off the company's first hardware product and plans to build a San Francisco spa, which he admitted is a bit different from the \"cat pictures\" produced by its AI image generator. Dubbed The Midjourney Scanner, it's an ultrasound-based full-body scanner that uses a ring of sensors to capture vertical slices of the inside of your body, looking at the composition of your muscle, fat, bone, and organs to start. Holz said ideally, you could do this once a year or every single day, as it \"aims for image quality comparable to MRI in many ways.\"\nHe mentioned that one way he'd like to use it would be to see how h …\nRead the full story at The Verge.",
           "isoDate": "2026-06-18T03:12:31.000Z"
@@ -46,24 +64,6 @@
           "link": "https://arstechnica.com/security/2026/06/massive-breach-spills-credentials-for-thousands-of-sensitive-networks/",
           "summary": "The affected include Oracle, Lenovo, FedEx, a NATO contractor, and Fortinet.",
           "isoDate": "2026-06-17T19:54:31.000Z"
-        },
-        {
-          "title": "Tesco moving 40,000 server workloads off VMware amid Broadcom's “abusive conduct”",
-          "link": "https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/",
-          "summary": "Tesco claimed Broadcom hiked its VMware prices by about 175 percent in UK court filings.",
-          "isoDate": "2026-06-17T19:43:13.000Z"
-        },
-        {
-          "title": "AI coding agents taught robots how to install GPUs and cut zip ties",
-          "link": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/",
-          "summary": "Nvidia's self-improvement program for robots enlists teams of AI coding agents.",
-          "isoDate": "2026-06-17T19:25:19.000Z"
-        },
-        {
-          "title": "Epic wants to let you bring your Fortnite skins to other games",
-          "link": "https://www.theverge.com/games/951785/epic-games-fortnite-unreal-fest-2026-unreal-engine-6-ai-metaverse",
-          "summary": "Epic Games has been touting the potential of an interoperable metaverse for years, though that vision hasn't yet become a reality. But with Unreal Engine 6, the next major version of its game development engine, Epic plans to take a big step toward that theoretical future: it will let developers make games that can use a player's Fortnite skins and will let developers build skins of their own that work with Fortnite.\n\"We're tackling this problem first because we want to prove things out with a system that's complex enough to be a meaningful existence proof of the idea, and one that inherently comes with a ton of player value by respecting t …\nRead the full story at The Verge.",
-          "isoDate": "2026-06-17T19:09:00.000Z"
         }
       ]
     },
@@ -71,6 +71,18 @@
       "header": "120  CIENCIA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "El Niño Is Underway",
+          "link": "https://science.nasa.gov/earth/earth-observatory/el-nino-is-underway/",
+          "summary": "Satellite observations of sea surface height indicated that the 2026 event continued to strengthen in early June.",
+          "isoDate": "2026-06-18T04:00:00.000Z"
+        },
+        {
+          "title": "Cell transplant across the tree of life hints at how animals emerged",
+          "link": "https://www.nature.com/articles/d41586-026-01910-0",
+          "summary": "Nature, Published online: 18 June 2026; doi:10.1038/d41586-026-01910-0\nEmbryonic ‘organizer cells’ can tell embryos of various phyla what kind of body to build.",
+          "isoDate": "2026-06-18T00:00:00.000Z"
+        },
         {
           "title": "NASA Announces Public-Private Partnership to Advance Mars Science",
           "link": "https://www.nasa.gov/news-release/nasa-announces-public-private-partnership-to-advance-mars-science/",
@@ -118,18 +130,6 @@
           "link": "https://www.nature.com/articles/d41586-026-01941-7",
           "summary": "Nature, Published online: 17 June 2026; doi:10.1038/d41586-026-01941-7\nAnalysis shows evidence of deadly outbreaks 5,500 years ago — plus, a prototype dark-matter detector.",
           "isoDate": "2026-06-17T00:00:00.000Z"
-        },
-        {
-          "title": "Emergent decadal predictability in Antarctic contribution to sea-level rise",
-          "link": "https://www.nature.com/articles/s41586-026-10614-4",
-          "summary": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10614-4\nAlthough Antarctic ice loss projections diverge widely by 2100, this Perspective shows that present-day rates robustly predict mid-century sea level rise, providing a firm basis for near-term planning, while highlighting priorities for model development aimed at resolving longer-term sea level rise uncertainty.",
-          "isoDate": "2026-06-17T00:00:00.000Z"
-        },
-        {
-          "title": "A distant brown dwarf coplanar to a warm Jupiter and a hot super-Earth",
-          "link": "https://www.nature.com/articles/s41586-026-10586-5",
-          "summary": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10586-5\nAnalysis of long-term radial velocity data and transit time variations, induced by a super-Earth, a warm Jupiter and a brown dwarf in a coplanar orbit around the relatively young star TOI201.",
-          "isoDate": "2026-06-17T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 69\nColumn: 41\nChar: &",
-          "isoDate": "2026-06-18T03:56:20.074Z"
+          "isoDate": "2026-06-18T10:19:49.642Z"
         },
         {
           "title": "AI will create more jobs for humans, not replace them, Amazon founder Bezos says",
@@ -150,7 +150,7 @@
           "isoDate": "2026-06-17T16:37:41.000Z"
         },
         {
-          "title": "Google, Nvidia and Anthropic bosses' AI tips for students",
+          "title": "What to study in the AI age - from big tech bosses",
           "link": "https://www.bbc.com/news/videos/cewqg4qwq1wo?at_medium=RSS&at_campaign=rss",
           "summary": "Sundar Pichai, Jensen Huang and Jack Clark share their advice with the BBC.",
           "isoDate": "2026-06-17T15:59:39.000Z"
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 84\nColumn: 559\nChar:  ",
-          "isoDate": "2026-06-18T03:56:23.081Z"
+          "isoDate": "2026-06-18T10:19:52.261Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-06-18T03:56:21.724Z"
+          "isoDate": "2026-06-18T10:19:51.305Z"
         },
         {
           "title": "IEEE’s 2026 Education Week Events Emphasized Lifelong Learning",
