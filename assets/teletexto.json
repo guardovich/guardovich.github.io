@@ -1,10 +1,28 @@
 {
-  "generatedAt": "2026-06-19T15:15:07.997Z",
+  "generatedAt": "2026-06-19T19:48:42.323Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "NASA selects Eric Schmidt&#8217;s rocket company for a 2028 mission to Mars",
+          "link": "https://www.theverge.com/science/952988/nasa-relativity-space-eric-schmidt-mars",
+          "summary": "Relativity Space’s CEO is former Google executive Eric Schmidt. | Image: Alexander Tamargo / Getty Images\t\n\nRelativity Space, the rocket company led by former Google executive Eric Schmidt, was picked to launch NASA's Aeolus payload to Mars in 2028, as reported earlier by TechCrunch. Under a new public-private partnership, Relativity Space will provide the \"spacecraft, rocket, and cruise operations\" to fly Aeolus to Mars, where the payload will \"provide the first integrated, daily, global view of Martian winds, temperatures, dust, and clouds.\" \nThe Aeolus payload will have four instruments on board for studying the Martian atmosphere, which NASA says will \"directly inform entry, descent, and landing systems and support safer, more predictable mis …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-19T18:41:48.000Z"
+        },
+        {
+          "title": "Hue’s wired wall modules bring non-smart lights into its ecosystem",
+          "link": "https://www.theverge.com/tech/952953/phillips-hue-wired-wall-module-play-lamp-candle-bulb",
+          "summary": "The new Wired Wall Switch Modules fit behind existing switches. | Image: Signify\t\n\nSmart lighting company Philips Hue has launched its first wired wall modules. Installed behind existing wall switches, the new devices bring non-smart lights into the Hue ecosystem for the first time. Hue also announced new Play table and floor lamps that are more affordable versions of its Signe series, along with upgrades to its E14 candle bulbs that add a broader white light spectrum and Matter-over-Thread compatibility.\nThe new lights are now available globally; however, the Wired Wall Switch Modules are Europe-only. Signify CTO George Yianni told The Verge that there are currently no plans to launch them in the US, but the company woul …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-19T17:24:45.000Z"
+        },
+        {
+          "title": "The NTS Radio Player brings the best of internet radio to your hi-fi",
+          "link": "https://www.theverge.com/entertainment/952910/nts-radio-player-atonemo-music-streaming",
+          "summary": "Have I found my Chromecast Audio replacement? | Image: NTS Radio\t\n\nNTS Radio and Swedish audio company Atonemo have teamed up on a dedicated player that brings NTS's genre-defying mixes and streaming stations to almost any stereo or speaker setup. And, like Atonemo's existing Streamplayer, you can also listen to your favorite streaming services with it, using AirPlay 2, Google Cast, Spotify Connect, or Tidal Connect.\nThe $179 NTS Radio Player puts out 24-bit / 192kHz audio over a standard 3.5mm audio jack and comes with an adapter cable for connecting to RCA on your vintage hi-fi system, or whatever other speakers you have lying around. The top of the device has two buttons for tuning in directly to NTS 1  …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-19T14:53:53.000Z"
+        },
         {
           "title": "The film about Sam Altman has been dropped by Amazon MGM",
           "link": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
@@ -46,24 +64,6 @@
           "link": "https://www.theverge.com/tech/951718/kaleidescape-strato-e-review",
           "summary": "The Strato E player (here with a Mini Terra Prime server on top of it) is smaller than a Blu-ray disc collection, but you can get a lot of 4K discs for $3,000.\t\n\nWe've lost something in the past 15 years. Netflix, Amazon, Disney, Apple; they've all convinced us that streaming is the best way to watch movies and shows at home. With everything at our fingertips, there's no need to run to Blockbuster for the weekend's entertainment, or wait for a DVD rental to arrive in the mail. And going to the movie theater is a luxury - one that keeps getting more expensive.\nBut we were, all of us, deceived. We traded quality for convenience. And while TVs have improved drastically, we feed them inadequate, bitrate-starved, internet-throttled streams that won't let our fancy screens show their full potential. Blu-r …\nRead the full story at The Verge.",
           "isoDate": "2026-06-19T12:00:00.000Z"
-        },
-        {
-          "title": "As global warming threatens corals, scientists search for reefs that can take the heat",
-          "link": "https://arstechnica.com/science/2026/06/as-global-warming-threatens-corals-scientists-search-for-reefs-that-can-take-the-heat/",
-          "summary": "Researchers say these coral strongholds may help repopulate more degraded reefs.",
-          "isoDate": "2026-06-19T11:15:11.000Z"
-        },
-        {
-          "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
-          "link": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
-          "summary": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. But Subquadratic has started to bring the receipts, sharing the…",
-          "isoDate": "2026-06-19T10:40:24.000Z"
-        },
-        {
-          "title": "The inevitable weakness of metrics",
-          "link": "https://www.technologyreview.com/2026/06/19/1138778/inevitable-weakness-metrics-quantified-life-book-review/",
-          "summary": "There are plenty of useful things a metric can reveal. There are even more it can obscure or corrupt. It took me well over a decade of tracking my own life in ever greater detail to fully appreciate this duality, which probably reveals something about both me and the nature of measurement. Like a lot…",
-          "isoDate": "2026-06-19T09:00:00.000Z"
         }
       ]
     },
@@ -72,10 +72,16 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "ERROR cargando feed",
-          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
-          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-06-19T15:15:01.886Z"
+          "title": "Tropical Storm Arthur",
+          "link": "https://science.nasa.gov/earth/earth-observatory/tropical-storm-arthur/",
+          "summary": "The first named storm of the 2026 Atlantic hurricane season brought intense rainfall and the threat of flash flooding to the U.S. Gulf Coast.",
+          "isoDate": "2026-06-19T04:00:00.000Z"
+        },
+        {
+          "title": "Curiosity Blog, Sols 4920-4926: Surveying the Bands",
+          "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4920-4926-surveying-the-bands/",
+          "summary": "Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, June 12, 2026 Rather than going from stage to stage at a music festival to hear different bands playing different varieties of music, Curiosity has been ascending up Mount Sharp through physical bands of exposed rocks with textural and tonal differences. […]",
+          "isoDate": "2026-06-19T00:50:58.000Z"
         },
         {
           "title": "Author Correction: Autophagic cell death restricts chromosomal instability during replicative crisis",
@@ -96,40 +102,34 @@
           "isoDate": "2026-06-19T00:00:00.000Z"
         },
         {
-          "title": "CD4+ T cells impair tumor growth through IL-3 and TNF-dependent vascular damage",
-          "link": "https://www.science.org/doi/abs/10.1126/science.ads7910?af=R",
-          "summary": "Science, Volume 392, Issue 6804, June 2026.",
-          "isoDate": "2026-06-18T07:00:00.000Z"
+          "title": "NASA Mission to Study Space Weather Impacts of Earth’s Atmosphere",
+          "link": "https://www.nasa.gov/news-release/nasa-mission-to-study-space-weather-impacts-of-earths-atmosphere/",
+          "summary": "NASA selected a mission concept to research how space weather and dynamics within Earth’s atmosphere influence the space environment and help improve prediction capabilities for impacts on crucial technology, such as GPS and low Earth orbit satellites, as well as astronauts in space. The DAPHNE (Dynamic Atmosphere-Ionosphere Explorer) mission will enter Phase B of development, […]",
+          "isoDate": "2026-06-18T21:33:07.000Z"
         },
         {
-          "title": "Brain-wide topographic coordination of rotating waves",
-          "link": "https://www.science.org/doi/abs/10.1126/science.adx1369?af=R",
-          "summary": "Science, Volume 392, Issue 6804, June 2026.",
-          "isoDate": "2026-06-18T07:00:00.000Z"
+          "title": "NASA Awards Contract for Commercial Satellite Data Acquisition",
+          "link": "https://www.nasa.gov/news-release/nasa-awards-contract-for-commercial-satellite-data-acquisition/",
+          "summary": "NASA has selected eight new companies and will acquire new data products from six existing Commercial Satellite Data Acquisition contract holders to expand the range of commercial satellite data available to researchers, civil agencies, and decision-makers. Such measurements supplement NASA’s Earth satellites by contributing high-resolution and frequent observations to enhance the agency’s set of data. […]",
+          "isoDate": "2026-06-18T20:13:41.000Z"
         },
         {
-          "title": "Maternal trans-vaccenic acid shapes neonatal T cell development and early-life immune imprinting",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aea4041?af=R",
-          "summary": "Science, Volume 392, Issue 6804, June 2026.",
-          "isoDate": "2026-06-18T07:00:00.000Z"
+          "title": "From Suriname to Space: Rohit Goeptar Shares His Journey to NASA",
+          "link": "https://www.nasa.gov/centers-and-facilities/kennedy/from-suriname-to-space-rohit-goeptars-shares-his-journey-to-nasa/",
+          "summary": "Rohit Goeptar was born into a poor family in Suriname, South America, the kind where both parents work three jobs and they still can only provide food and shelter for their family. At around age six, his family moved to California to start a new life. Only two years later, he moved back to South America […]",
+          "isoDate": "2026-06-18T19:06:26.000Z"
         },
         {
-          "title": "Decoupling of global metabolic flux and proteome partitioning in bacteria",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aeb6410?af=R",
-          "summary": "Science, Volume 392, Issue 6804, June 2026.",
-          "isoDate": "2026-06-18T07:00:00.000Z"
+          "title": "Desert Field Test With NASA Advanced Rover Prototype",
+          "link": "https://science.nasa.gov/photojournal/desert-field-test-with-nasa-advanced-rover-prototype/",
+          "summary": "Description A prototype four-wheel rover developed at NASA’s Jet Propulsion Laboratory with advanced mobility and robotic autonomy capabilities trundled across the Colorado Desert near Plaster City, California, during a field test in March 2026. Called ERNEST (Exploration Rover for Navigating Extreme Sloped Terrain), the rover served here as a testbed for autonomy software developed for […]",
+          "isoDate": "2026-06-18T18:29:50.000Z"
         },
         {
-          "title": "Lamprey 3D single-cell transcriptomics reveals ancestral and specialized features of the vertebrate brain",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aea2535?af=R",
-          "summary": "Science, Volume 392, Issue 6804, June 2026.",
-          "isoDate": "2026-06-18T07:00:00.000Z"
-        },
-        {
-          "title": "Age and early life adversity shape heterogeneity of the epigenome across tissues in macaques",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aea4922?af=R",
-          "summary": "Science, Volume 392, Issue 6804, June 2026.",
-          "isoDate": "2026-06-18T07:00:00.000Z"
+          "title": "NASA Testing Advanced Capabilities for Moon, Mars Rovers",
+          "link": "https://www.nasa.gov/solar-system/moon/nasa-testing-advanced-capabilities-for-moon-mars-rovers/",
+          "summary": "On a bleak stretch of the Colorado Desert in Southern California, a compact four-wheeled rover recently trundled about 16 miles (26 kilometers) with minimal intervention from the team of engineers trailing it. Called ERNEST (Exploration Rover for Navigating Extreme Sloped Terrain), this prototype is being used by NASA to advance both robotic autonomy and the […]",
+          "isoDate": "2026-06-18T18:19:21.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 69\nColumn: 41\nChar: &",
-          "isoDate": "2026-06-19T15:15:03.798Z"
+          "isoDate": "2026-06-19T19:48:37.330Z"
         },
         {
           "title": "UK's top data and AI regulator quits after 'inappropriate' humour",
@@ -204,6 +204,12 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "A better way to model the behavior of metal alloys",
+          "link": "https://news.mit.edu/2026/better-way-to-model-metal-alloys-behavior-0619",
+          "summary": "MIT researchers’ approach captures subtle atomic patterns, improving predictions of material properties.",
+          "isoDate": "2026-06-19T18:00:00.000Z"
+        },
+        {
           "title": "New usage analytics and updated spend controls for enterprises",
           "link": "https://openai.com/index/chatgpt-enterprise-spend-controls",
           "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
@@ -256,12 +262,6 @@
           "link": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
           "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
           "isoDate": "2026-06-16T21:29:50.000Z"
-        },
-        {
-          "title": "MIT’s Initiative for New Manufacturing builds momentum",
-          "link": "https://news.mit.edu/2026/mit-initiative-for-new-manufacturing-builds-momentum-0616",
-          "summary": "In its first year, INM has worked across research, workforce development, and industry engagement to help accelerate new manufacturing technologies and their real-world deployment.",
-          "isoDate": "2026-06-16T20:30:00.000Z"
         }
       ]
     },
@@ -273,13 +273,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 84\nColumn: 559\nChar:  ",
-          "isoDate": "2026-06-19T15:15:06.058Z"
+          "isoDate": "2026-06-19T19:48:40.406Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-06-19T15:15:04.979Z"
+          "isoDate": "2026-06-19T19:48:39.199Z"
+        },
+        {
+          "title": "IEEE Rolls Out Large Language Models Virtual Training Course",
+          "link": "https://spectrum.ieee.org/large-language-models-ieee-course",
+          "summary": "Large language models have moved out of the research lab and into engineers’ daily workflow. LLMs serve as reasoning engines that can orchestrate complex tasks including identifying vulnerabilities in source code and transforming fragmented project discussions into rigorous technical specifications.\nWhile the general public uses AI tools to write email and plan vacations, technical professionals use LLMs as core architectural elements that are fundamentally changing how digital infrastructures are built and maintained. As the AI models move into mainstream engineering practice, the demand for technical expertise is rising.\nThe LLM technology market is expected to grow by about 33 percent every year through 2030, according to MarketsandMarkets. The rapid expansion suggests that proficiency in implementing and securing the models is transitioning from a niche into a core requirement for technologists.\nMore than just a better search engine\nTo use LLMs effectively, technical professionals must move beyond treating them as conversational robots. At a fundamental level, the AI systems are built on the transformer architecture, a framework that replaced the older method of processing data in a fixed, sequential order. Unlike earlier models that analyzed information one step at a time, transformers use self-attention mechanisms to ingest vast datasets simultaneously.\nFor technical professionals, LLMs are core architectural elements that are fundamentally changing how digital infrastructures are built and maintained.\nRelying on such LLMs without understanding their internal logic creates a significant reliability risk. To build tools that work consistently, developers must understand the core principles that govern how the models process information and generate results. By mastering how a model processes information and how its internal settings influence the result, developers can move away from a trial-and-error approach toward a more precise one to ensure the AI tool handles complex data reliably.\nFour ways LLMs are changing jobs\nHere are areas that integrate large language models.\nMoving past basic prompts. Developers are using application program interfaces (APIs) to connect LLMs directly to their databases and software tools. Employing the APIs allows AI to perform work such as executing code or searching through internal repositories.\nFixing the “hallucination” problem. LLMs are at risk of hallucinations, which are generated facts or code that looks correct but actually is wrong or broken. To fix the problem, retrieval-augmented generation (RAG) forces AI to look up information in a trusted source such as a company’s database.\nPrioritizing data security. When using AI with proprietary code, security is a major concern. Engineers must learn how to set up “private” instances of the models to ensure that sensitive company data stays within a secure cloud environment and is not used to train public versions.\nThe future of collaboration. By automating repetitive coding tasks and summarizing thousands of pages of documentation, LLMs let engineers spend more time on high-level designs and solving important issues.\nOnline course program helps with mastering the tech\nThe gap between people who use AI and those who understand how to build with it is growing wider. To help technical professionals stay ahead, IEEE offers a five-course online program, Large Language Models Demystified, available through the IEEE Learning Network.\nThe program, developed by IEEE Educational Activities in partnership with the IEEE Computer Society, is built for people who want to understand the “how” and the “why” behind the technology. Rather than just teaching basic prompting, the curriculum dives into the engineering behind generative AI, including:\n\nEvolution, impact, and hands-on exercises: the shift from statistical methods to modern transformers, including hands-on model optimization.\nUnderstanding transformer architectures: the mathematical core of self-attention and positional encoding, implemented in NumPy and Python.\nArchitectural analysis and implementation: advanced LLM design with practical model-building exercises.\nTraining and modeling with PyTorch: end-to-end pipelines in PyTorch, leveraging parameter-efficient techniques such as low-rank adaptation and quantization.\nOptimization, alignment, and deployment: performance scaling, reinforcement learning from human feedback (RLHF), group-relative policy optimization, RAG, and agentic AI.\n\nUpon completion of the program, participants earn professional development credits and a digital badge from IEEE to verify their expertise.\nEnroll in the course program on the IEEE Learning Network.\nOrganizations looking to prepare their teams to work on LLMs can connect with an IEEE content specialist to discuss group enrollment and tailored training paths.",
+          "isoDate": "2026-06-19T18:00:01.000Z"
         },
         {
           "title": "What Amazon’s Astro Taught Me About Giving Robots a Soul",
@@ -310,12 +316,6 @@
           "link": "https://spectrum.ieee.org/china-humanoid-robot-marathon",
           "summary": "On April 19, 2026, the Honor Lightning humanoid robot ran a half-marathon in 50 minutes and 26 seconds, beating the human world record by 7 minutes and the best robot time from 2025 by almost two hours.\nHow did they do it? Is there some magical technology or technique that unlocked this performance? How did they beat the significantly better-known Unitree (who reportedly had to supply an ice backpack to try and complete the race without overheating)? My doctoral thesis involved building and controlling hopping and running robots, and since then I’ve tried to design and build efficient commercial legged robots, giving me a decent idea of the constraints involved. In this article, we take a look at the fundamental underlying constraints to try and answer these questions.\n\nThe Physics of Running\nRunning consists of alternating phases of a leg pushing against the ground (“stance phase”) and the body flying through the air (“aerial phase”). In the aerial phase, the body falls due to gravity, losing vertical momentum. The leg in stance phase pushes against the ground to redirect the vertical momentum upward, while the other leg swings forward to reposition for the next foothold.\nElectric motors use energy to produce torque- the higher the torque, the more energy lost as heat. Adding a geartrain after the motor amplifies its torque and reduces its speed. A large reduction helps with torque production, but since the rotor of the motor itself has to spin faster, it becomes very sluggish at accelerating its output. This is obviously bad for the swing phase described above. These competing effects mean that for a particular motor, there is usually a sweet spot for the gear ratio:\n  The power consumed by a robot leg is minimized at an optimal gear ratio (30:1 in this example).Avik De/Datawrapper\nHow Honor Did It\nWhile the Lightning’s motor specifications are not published, the hip and knee motors roughly have a 110-150mm outer diameter. For an approximate set of motor parameters, I looked to the ILM115x25 motor due to its relevant size and detailed specifications.\nWe can use a simple physics model to estimate the power consumption for running at 7 m/s (the Lightning’s average half marathon speed) as gear ratio varies:\n  The light blue curve shows how to pick the optimal gearing (45:1). The dark blue curve shows how much heat will be produced in the knee motor, ~150W for the optimal gearing.Avik De/Datawrapper\nWe see that the drivetrain is not magical: with a gear ratio chosen for this task (we’ll return to this below), the approximate robot power consumption would be a very reasonable 400W.\nHowever, the dissipated knee power ( typically the main thermal limiting factor) is ~150W. This is almost an unavoidable consequence — running at human speeds with a humanoid-sized robot will inevitably generate this amount of heat! Over a prolonged period, keeping the motor from overheating would be a challenge, but the Lightning has a trick up its sleeve:\nAccording to Honor, the liquid - cooling pipes penetrate deep into the motors like capillaries. The high - power liquid pump has a heat - exchange flow rate of more than 4 liters per minute. Each of the four drive motors in the lower limbs is equipped with an independent liquid - cooling circuit.\nLiquid cooling is not new, but it’s definitely not a commodity. It has shown up in research periodically, and on the commercial side Apptronik tried it for a few of their prototypes but (to my knowledge) does not use it on their main Apollo platform. Basic air convection-based cooling would not continuously be able to extract 150W out of the knee motor, and so the cooling technology is a key enabler of this type of performance.\nWhy Others Couldn’t Compete\nWhy did Honor’s competitors, including more established and widely-shipped humanoids such as from Unitree or Agibot, not compete as well?\nWe can use the same model to generate an equivalent energetics plot for walking at 1.5 m/s, a much more modest but potentially more common activity for a commercial humanoid robot:\n  The solid and dashed light blue lines show a running-optimized design, while green lines show a walking-optimized design. The optimal ratio for walking is much lower (30:1 vs 45:1). However, the power dissipated in the knee motor while running (dark blue) is much higher at 30:1 vs 45:1—the price to pay for running with a walking-optimized design.Avik De/Datawrapper\nThe plot adds a new green curve for the walking power, and the optimal gearing is significantly different!\nLet’s say you design your robot to excel at the normal walking task and choose the green design with 30:1 gearing. The knee motor power to run a half marathon is over 300W (red arrow), more than 2x what we had with the running-optimized design. It wouldn’t be so surprising to need ice packs!\nConversely, visually following the green curve shows that the running-optimized robot wastes more power for walking. Using larger motors sized for running increases the weight of the robot and wastes power when it is standing or walking. The larger motors also pose practical issues like bumping into objects while operating in homes or factories.\nClosing Thoughts\nHonor’s half marathon performance was an impressive engineering effort and result. It didn’t need any magical leaps in technology, but the deployment of the capillary motor cooling solution is a notable advance without which this running pace would have been unsustainable. The cooling, weight optimization, and robustness advances may well be useful for more practical purposes like carrying heavy payloads down the line.\n  The Honor Lighting robot [right] has much larger motors driving its legs than the Unitree H1 robot [left], making it a more efficient runner but a less efficient walker.Left: Wei Zhiyang/Zhejiang Daily Press Group/VCG/Getty Images; Right: VCG/Getty Images\nHowever, the Lightning is not as well-suited to other tasks as a robot designed for greater versatility. Engineering is always characterized by tradeoffs, and making the correct ones separates good products from great ones. With consistently improving AI language models, this very human skill is becoming the most valuable one an engineer can have.\nThe news coverage seemed to overly focus on the fact that the human half-marathon record had been broken by a robot. Machines and humans have very different capabilities and constraints, so why should we ever have expected the half marathon time for a robot and human to be related? As in Deep Blue’s 1997 defeat of Garry Kasparov in chess, where it couldn’t physically move the pieces, the Honor robot’s capabilities are much narrower than a human running elbow-to-elbow with other runners while visually navigating the course without GPS. Comparing the robot runner to a human runner is just an apples-to-oranges comparison, and only risks diminishing Honor’s engineering achievement on one hand, and human athletic achievement on the other.",
           "isoDate": "2026-06-17T12:19:27.000Z"
-        },
-        {
-          "title": "Engineering Is Critical to Boosting Food Security",
-          "link": "https://spectrum.ieee.org/engineering-critical-food-security",
-          "summary": "Nearly 750 million people face hunger today, according to the U.N. World Food Program. And by 2050, global demand for food is expected to increase by 50 percent from 2010 levels, the World Resources Institute says.\nA smart agriculture special-issue report recently released by the IEEE Smart Agri-Food Initiative says meeting the demand will require technology to expand food production. The report highlights research, case studies, and new ways of applying technology to inform farmers, engineers, and policymakers.\nLeading the initiative is IEEE Fellow John Verboncoeur, chair of the smart-food program and professor of electrical and computer engineering at Michigan State University, in East Lansing.\n“Food security is becoming a systems-engineering problem,” Verboncoeur says. “We’re no longer talking only about tractors and irrigation. We’re talking about sensing, communications, computation, automation, and sustainability all working together.”\nAlthough not formally trained as an agriculture scientist, Verboncoeur’s first involvement with smart agriculture was as an undergraduate at University of Florida in 1985-86, where he helped develop an SmartAg aeroponics system for NASA for the International Space Station. It used mist to spray the plants’ roots and lightweight pneumatic structures to hold the vegetation in place.\nHe has also chaired the executive committee of Michigan State’s SmartAg Initiative since it launched in 2017. He chaired the program’s leading interdisciplinary efforts to apply engineering and digital technologies to farming and food systems.\nVerboncoeur connects the shift of using engineering as a force multiplier for farming to lessons learned from the IEEE Smart Village program, which supports projects and organizations bringing electricity and educational and employment opportunities to remote communities. Agriculture, he argues, requires the same systems-level mindset.\n“The challenge isn’t just inventing technology,” he says. “It’s making systems practical, affordable, and deployable.”\nFrom digital twins to autonomous harvesting\nA central theme across the Smart Agri-Food Systems report is the convergence of automation, data analytics, and sustainability.\nOne paper, “Smart Agriculture, Precision Agriculture, Digital Twins in Agriculture: Similarities and Differences,” addresses the confusion regarding how researchers and practitioners define and apply the technologies to farming.\nThe paper was written by Dilan Onat Alakuş, a research assistant in the software engineering department at Kırklareli University, in Türkiye, and Ibrahim Türkoğlu, a software engineering professor at Fırat University, in Elazığ, Türkiye.\nUnclear terminology can lead to inefficient investment and poor adoption of the technologies, the two authors say. They note that agricultural methods based on traditional practices and intuition lack a thorough analysis of their environmental and economic impacts.\nThey describe how three technologies can benefit farmers:\n• Smart agriculture systems integrate sensors, artificial intelligence, robotics, and analytics to improve efficiency and sustainability at scale.\n• Precision agriculture focuses on location-specific decisions. Farmers use GPS-guided equipment to map fields, deploy drones to monitor crop health, and install field sensors that track soil moisture and nutrient levels in targeted zones. The tools allow farmers to apply water, fertilizer, and pesticides only where needed—which can reduce waste and lessen environmental impact.\n• Digital twins create virtual replicas of an agricultural area. The resulting models simulate the farmstead, crops, and irrigation systems, allowing growers to test scenarios and predict outcomes before implementing changes.\nThe authors emphasize that the categories overlap in practice. A digital twin might draw data from precision agriculture systems and feed recommendations into smart agriculture platforms.\nClearer distinctions help farmers select appropriate tools and avoid unnecessary complexity and costs, they say.\n“This study contributed to conscious agricultural practices by differentiating agricultural technologies,” they wrote, adding that clearer definitions can increase productivity.\nSmart farming in practice\nThe report shifts from theory to application in a paper describing bustani, which means my garden in Arabic. The Bustanica project in Saudi Arabia is an automated hydroponic vertical farming system developed by researchers at the Prince Mohammad Bin Fahd University, in Al-Khobar, Saudi Arabia. The “Bustani: A Microcontroller-Based Automated Hydroponic Vertical Farming Solution” paper was written by Hussah Alotaibi, a computer engineer at Saudi Aramco, the country’s national oil company; Abul Bashar, Widad Karsou, and Shehvar Khan, researchers in the university’s computer engineering and computer science department; and Salahudean Tohmeh from the university’s robotics laboratory.\nThe Bustanica system combines hydroponics with aeroponics, in which plant roots hang in the air and receive nutrients through a misting system. Together, the approaches allow crops to grow in compact indoor environments, using far less water than traditional methods.\nThe method integrates IoT sensors that continuously monitor water chemistry and reservoir conditions.\nThe system grows crops in controlled indoor environments. A closed-loop design recirculates water to reduce waste. Sensors measure pH levels, nutrient concentration, and water levels. An Arduino Mega processes the sensor data. A NodeMCU ESP8266—a low-cost, open-source IoT platform—handles Wi-Fi communication and cloud connectivity.\nThe system sends the data through Google’s Firebase cloud platform, which acts as a real-time bridge between sensors and control systems.\nA mobile app lets users monitor and control the system remotely. It displays real-time data on lighting, nutrient levels, and water pump activity. When conditions move outside optimal ranges, automated dosing pumps adjust the levels as needed.\nEngineering can’t solve all the world’s problems. But it absolutely has a role to play in helping the world feed itself.” —John Verboncoeur, chair of the IEEE Smart Agri-Food initiative\nThe system operates as a feedback loop, collecting data, transmitting it to the cloud, analyzing the conditions, and automatically triggering adjustments.\nLEDs simulate sunlight. Ultrasonic sensors measure water levels. Electrical conductivity sensors track nutrient concentration. During testing, the system maintained stable environmental conditions and adjusted dosing dynamically as readings changed.\nThe authors describe the outcome as “a fully functional and automated vertical sustainable farm that creates desirable growing conditions, along with an Android application that provides real-time monitoring and notifications.”\nBeyond automation, bustani reflects a broader shift toward merging agriculture with consumer technology and smart-home systems. Future plans include integrating the Amazon Alexa virtual assistant and machine learning tools for plant disease detection and growth analysis.\nRobotics and labor challenges\nThe “Toward an Efficient Tomato Harvesting Robot” paper addresses autonomous harvesting, a long-standing challenge in agricultural robotics. Tomatoes in the field vary widely in size, shape, and ripeness, and they can bruise during handling. The paper was written by IEEE Senior Member Hyoung Il Son—a professor of biosystems engineering and robotics at Chonnam National University in Gwangju, South Korea—and his graduate students Jongpyo Jun, Jeongin Kim, and Jaehwi Seol.\nThe paper describes how robotics is increasingly being used to target crops once considered too delicate or variable for automation.\nThe researcher combined 3D machine vision, robotic arms, suction-based grippers, and rotating cutting tools to build a harvesting machine capable of operating in unstructured outdoor environments. The system aims to reduce reliance on manual labor while improving harvesting efficiency and consistency.\nAgriculture as a systems problem\nVerboncoeur says the developments highlighted in the papers reflect a broad transformation in how engineers view the agricultural industry.\n“Agriculture used to be seen primarily as managing the challenges of planting, watering, and fertilizing plants, and using machines to make the process less labor-intensive,” he says. “Now it’s also a data problem, a communications problem, an energy problem, and a resilience problem.”\nAnother featured paper, “Sustainable and Smart Agriculture: A Holistic Approach,” examines how technology can address environmental and demographic pressures. The paper was written by Surender Singh and Sannihit , researchers at the computer science and engineering and the civil engineering departments at Chandigarh University, in Mohali, India.\nFarmers must increase food production while reducing environmental damage from depleting water resources, overapplication of fertilizer, deforestation, and greenhouse gas emissions, the authors say. They describe smart farming as “a revolution in food production” that can allow farmers to generate higher yields from existing resources through connected technologies and data systems.\nThe authors highlighted the issue of rapid urbanization. By 2050, they report, nearly 70 percent of the global population will live in cities, increasing pressure on food supply chains and distribution systems.\nWireless sensor networks will play a central role in the transformation, the researchers say. The networks use small, connected devices to monitor soil moisture, temperature, humidity, light intensity, and crop conditions. The system transmits the data to cloud platforms, where machine learning models analyze trends and recommend actions.\nThe authors emphasize that decision support, not automation alone, drives the greatest value of crop harvest. Farmers can integrate the information into crop management strategies to improve productivity while reducing their environmental impact.\nThey also note increasing collaboration between industry leaders such as Caterpillar, CNH, John Deere, and Kubota and technology companies including Bosch, Google, Intel, and Microsoft. Challenges remain, however, in communication reliability, sensor cost, and scalable data infrastructure, the authors say.\nSmartAg beyond the farm\nThe implications of the tech advances that make farming more efficient extend beyond agriculture. Many of the same technologies—remote sensing, wireless sensor networks, AI analytics, and cloud platforms—support transportation, energy, and industrial systems.\nThe convergence explains IEEE’s growing involvement. Modern agriculture now combines electronics, communications, computing, and control systems.\nAgriculture requires that integration, Verboncoeur says: “The challenge isn’t just inventing technology. It’s making systems practical, affordable, and deployable.”\nWhat’s next for smart agriculture?\nThe special issue marks an early stage for the IEEE Smart Agri-Food initiative, which plans to develop standards; create structured ways for farmers, researchers, governments, and agribusinesses to work together; and devise deployment strategies for smart systems.\nFuture research is likely to focus on interoperability between platforms, data sharing, and scalable deployment models. Digital twins are expected to play a larger role as computing power and sensor density increase. Simulating agricultural systems before applying changes in the field will become commonplace, experts predict.\nAdoption depends on more than technical capability, though. The central tension moving forward lies between innovation and practicality.\n“Farmers face challenges in adopting such technology due to cost, electricity availability, communication infrastructure, and vulnerability of connected devices,” Singh and Sannihit wrote.\nSmart agriculture offers improved efficiency, in addition to reducing the inputs of water, fertilizer, and time that would otherwise be spent on tasks machines can handle autonomously. But the benefits matter only if systems function reliably across diverse environments—from industrial farms to small, family-run operations in food-insecure regions.\nFor IEEE, agriculture now sits within core engineering domains. The stakes extend beyond technology itself, Verboncoeur says.\nHe adds that: “Food insecurity affects stability, health, education, and economic development. Engineering can’t solve all the world’s problems, but it absolutely has a role to play in helping the world feed itself.”",
-          "isoDate": "2026-06-15T18:00:01.000Z"
         }
       ]
     },
