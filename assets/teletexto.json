@@ -1,10 +1,28 @@
 {
-  "generatedAt": "2026-06-19T04:16:29.008Z",
+  "generatedAt": "2026-06-19T10:24:56.177Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "The inevitable weakness of metrics",
+          "link": "https://www.technologyreview.com/2026/06/19/1138778/inevitable-weakness-metrics-quantified-life-book-review/",
+          "summary": "There are plenty of useful things a metric can reveal. There are even more it can obscure or corrupt. It took me well over a decade of tracking my own life in ever greater detail to fully appreciate this duality, which probably reveals something about both me and the nature of measurement. Like a lot…",
+          "isoDate": "2026-06-19T09:00:00.000Z"
+        },
+        {
+          "title": "Brain-computer interface trials are taking off",
+          "link": "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/",
+          "summary": "This week, I covered the story of Casey Harrell—a man with ALS who is “the first power user” of a brain implant, according to the researchers who worked with him. Harrell is paralyzed and unable to speak coherently without the device. He has now spent almost three years using a brain-computer interface (BCI) that enables…",
+          "isoDate": "2026-06-19T09:00:00.000Z"
+        },
+        {
+          "title": "Barret Zoph is out at OpenAI again after just five months",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
+          "summary": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned. \nZoph returned to OpenAI in mid-January after a stint as co-founder and CTO of Thinking Machines Lab, the competing AI company founded by former OpenAI CTO Mira Murati. Shortly after Zoph returned to OpenAI, the company said he would lead its push into enterprise - a significant role at OpenAI, since in recent months it had vowed to stop chasing so-called \"side quests\" and focus on key revenue drivers like enterprise and coding ahead of its planned IPO. \nOpenAI confirmed to The Verge that Zoph will be depart …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-19T04:49:33.000Z"
+        },
         {
           "title": "A bold satellite rescue mission came together in record time, but will it work?",
           "link": "https://arstechnica.com/space/2026/06/a-bold-satellite-rescue-mission-came-together-in-record-time-but-will-it-work/",
@@ -46,24 +64,6 @@
           "link": "https://www.theverge.com/tech/952173/epilogue-gb-operator-game-boy-camera-ios-android-app-iphone",
           "summary": "You don’t need a Game Boy Camera or a GB Operator dock to use Epilogue’s new Flashback app. | Image: Epilogue\t\n\nThe $50 GB Operator is an accessory that lets you connect, play, and authenticate Game Boy, Game Boy Color, and Game Boy Advance cartridges on PCs and other devices. Now it's getting some new functionality for the Game Boy Camera. After turning the Game Boy Camera into a charmingly awful desktop webcam two years ago, device-maker Epilogue has just released an iOS/Android mobile app so you can take photos while the Game Boy accessory is connected to your smartphone through the GB Operator.\nThe Game Boy Camera was a terrible camera even by 1998 standards when it was released. It captured 0.01434-megapixel images in just four shades of gray an …\nRead the full story at The Verge.",
           "isoDate": "2026-06-18T20:22:46.000Z"
-        },
-        {
-          "title": "Android verification is coming: Google confirms timeline and supported app stores",
-          "link": "https://arstechnica.com/gadgets/2026/06/google-shares-updated-timeline-for-rolling-out-android-developer-verification/",
-          "summary": "A new system service will roll out this month ahead of big changes starting in September.",
-          "isoDate": "2026-06-18T19:53:33.000Z"
-        },
-        {
-          "title": "Apple patches high-severity eavesdropping vulnerability in Beats Studio Buds",
-          "link": "https://arstechnica.com/apple/2026/06/apple-patches-high-severity-eavesdropping-vulnerability-in-beats-studio-buds/",
-          "summary": "The vulnerability, disclosed 12 months ago, affects multiple manufacturers.",
-          "isoDate": "2026-06-18T19:41:35.000Z"
-        },
-        {
-          "title": "HBO Max&#8217;s annual plans are 28 percent off right now",
-          "link": "https://www.theverge.com/gadgets/952326/hbo-max-annual-plan-deal-sale",
-          "summary": "You can stream Sinners and other recent Oscar winners for less with HBO Max's sale. | Image: Warner Bros. Pictures\t\n\nThe easiest way to save on a streaming service is often to pay for a year upfront, which HBO Max is currently making a lot cheaper. Through July 15, 2026, new and returning subscribers can get 28 percent off any of HBO Max’s yearly plans, bringing the ad-supported tier down to $78.99 ($31 off) per year, the Standard plan to $132.99 ($52 off) per year, and the Premium tier to $164.99 per year ($65 off). That’s up to 40 percent less than paying month to month.\nHBO Max\n\nWhere to Buy:\n\n $109.99 $78.99 at HBO Max (annual, basic)\n $184.99 $132.99 at HBO Max (annual, standard)\n $229.99 $164.99 at HBO Max (annual, premium)\n\nAll three plans include access to HBO Max’s extensive library of movies and TV shows, including films from Warner Bros. Pictures, DC Studios, A24, Studio Ghibli, and Turner Classic Movies. Subscribers can also stream recent Oscar winners and nominees like titles like Sinners, One Battle After Another, and Marty Supreme, alongside other HBO Max originals. On the TV side, you’ll also get access to popular series like The Pitt, Hacks, Euphoria, and Heated Rivalry, as well as longtime favorites such as Game of Thrones, Friends, and The Big Bang Theory. \nThe biggest differences come down to features. The ad-supported Basic plan lets you stream on up to two devices simultaneously, while the Standard plan lets you download up to 30 shows and movies  for offline viewing. It also includes access to live sports from the likes of the MLB, U.S Soccer, college football, NHL, and more. The Premium tier lets you stream on up to four devices at once, supports 4K and Dolby Atmos, and increases offline downloads to 100 titles.",
-          "isoDate": "2026-06-18T19:18:30.000Z"
         }
       ]
     },
@@ -75,7 +75,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
           "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-06-19T04:16:23.022Z"
+          "isoDate": "2026-06-19T10:24:49.678Z"
         },
         {
           "title": "Stem cells banish severe autoimmune disease for 15 years",
@@ -141,7 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 69\nColumn: 41\nChar: &",
-          "isoDate": "2026-06-19T04:16:24.052Z"
+          "isoDate": "2026-06-19T10:24:52.289Z"
+        },
+        {
+          "title": "UK's top AI regulator quits after 'inappropriate' humour",
+          "link": "https://www.bbc.com/news/articles/c0eyq7rnn22o?at_medium=RSS&at_campaign=rss",
+          "summary": "Edwards has been the boss of the data watchdog since January 2022, and said he had made inappropriate attempts at humour.",
+          "isoDate": "2026-06-19T09:55:45.000Z"
         },
         {
           "title": "The artificial ice pyramids saving India's mountain villages",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.com/news/articles/ceqdny4l3jdo?at_medium=RSS&at_campaign=rss",
           "summary": "The measures will see apps including TikTok and Snapchat banned for UK teens early in 2027.",
           "isoDate": "2026-06-16T10:58:25.000Z"
-        },
-        {
-          "title": "What is Helium-3 and could we get it from the moon?",
-          "link": "https://www.bbc.com/news/articles/ce8jmg2e4kro?at_medium=RSS&at_campaign=rss",
-          "summary": "Helium-3 is expensive and demand is forecast to soar, so some are planning to mine it on the moon.",
-          "isoDate": "2026-06-16T00:11:13.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 84\nColumn: 559\nChar:  ",
-          "isoDate": "2026-06-19T04:16:27.510Z"
+          "isoDate": "2026-06-19T10:24:55.042Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-06-19T04:16:25.279Z"
+          "isoDate": "2026-06-19T10:24:53.499Z"
         },
         {
           "title": "IEEE’s 2026 Education Week Events Emphasized Lifelong Learning",
