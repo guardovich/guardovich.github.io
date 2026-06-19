@@ -1,10 +1,46 @@
 {
-  "generatedAt": "2026-06-18T20:25:08.362Z",
+  "generatedAt": "2026-06-19T04:16:29.008Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "A bold satellite rescue mission came together in record time, but will it work?",
+          "link": "https://arstechnica.com/space/2026/06/a-bold-satellite-rescue-mission-came-together-in-record-time-but-will-it-work/",
+          "summary": "\"I consider this a success already, just from the fact that we're even going to try this.\"",
+          "isoDate": "2026-06-19T00:39:30.000Z"
+        },
+        {
+          "title": "Microsoft discovers new lightweight backdoor that steals cryptocurrency",
+          "link": "https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/",
+          "summary": "Crypto Clipper spreads over USB and communicates over Tor.",
+          "isoDate": "2026-06-18T23:28:52.000Z"
+        },
+        {
+          "title": "FDA advisors unanimously vote to approve Moderna's mRNA after agency drama",
+          "link": "https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/",
+          "summary": "In February, a Trump official refused to review the vaccine.",
+          "isoDate": "2026-06-18T22:08:59.000Z"
+        },
+        {
+          "title": "As China looms, Taiwan makes more drones for defense and the US military",
+          "link": "https://arstechnica.com/ai/2026/06/as-china-looms-taiwan-makes-more-drones-for-defense-and-the-us-military/",
+          "summary": "Taiwan's drone spending plans for defense could also boost business overseas.",
+          "isoDate": "2026-06-18T21:21:26.000Z"
+        },
+        {
+          "title": "NASA asks Northrop Grumman to stop working on lunar HALO module",
+          "link": "https://arstechnica.com/space/2026/06/nasas-1-1-billion-gateway-habitation-module-is-unlikely-to-be-used-for-something-else/",
+          "summary": "\"We are reassigning most affected employees across existing opportunities and programs.\"",
+          "isoDate": "2026-06-18T20:49:55.000Z"
+        },
+        {
+          "title": "Valve is so behind on Steam Controller orders that some won&#8217;t ship until 2027",
+          "link": "https://www.theverge.com/games/952582/valve-steam-controller-reservations-orders-behind-estimated-date",
+          "summary": "Valve has some good news and bad news about Steam Controllers. The good news: If you make a reservation for a Steam Controller, the company will now show you one of three estimates of when you'll be able to actually order your gamepad: by September 2026, by December 2026, or sometime in 2027. The bad news: Any reservations made today \"indicate a 2027 date for shipping,\" Valve says.\n\"We have no plans to stop making Steam Controller,\" according to Valve. \"But as we look at the current demand compared to how many we know we can make by the end of the year, we want to manage expectations as much as we can with regards to when folks can expect t …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-18T20:26:06.000Z"
+        },
         {
           "title": "You can now use the Game Boy Camera with your phone",
           "link": "https://www.theverge.com/tech/952173/epilogue-gb-operator-game-boy-camera-ios-android-app-iphone",
@@ -12,58 +48,22 @@
           "isoDate": "2026-06-18T20:22:46.000Z"
         },
         {
+          "title": "Android verification is coming: Google confirms timeline and supported app stores",
+          "link": "https://arstechnica.com/gadgets/2026/06/google-shares-updated-timeline-for-rolling-out-android-developer-verification/",
+          "summary": "A new system service will roll out this month ahead of big changes starting in September.",
+          "isoDate": "2026-06-18T19:53:33.000Z"
+        },
+        {
+          "title": "Apple patches high-severity eavesdropping vulnerability in Beats Studio Buds",
+          "link": "https://arstechnica.com/apple/2026/06/apple-patches-high-severity-eavesdropping-vulnerability-in-beats-studio-buds/",
+          "summary": "The vulnerability, disclosed 12 months ago, affects multiple manufacturers.",
+          "isoDate": "2026-06-18T19:41:35.000Z"
+        },
+        {
           "title": "HBO Max&#8217;s annual plans are 28 percent off right now",
           "link": "https://www.theverge.com/gadgets/952326/hbo-max-annual-plan-deal-sale",
           "summary": "You can stream Sinners and other recent Oscar winners for less with HBO Max's sale. | Image: Warner Bros. Pictures\t\n\nThe easiest way to save on a streaming service is often to pay for a year upfront, which HBO Max is currently making a lot cheaper. Through July 15, 2026, new and returning subscribers can get 28 percent off any of HBO Max’s yearly plans, bringing the ad-supported tier down to $78.99 ($31 off) per year, the Standard plan to $132.99 ($52 off) per year, and the Premium tier to $164.99 per year ($65 off). That’s up to 40 percent less than paying month to month.\nHBO Max\n\nWhere to Buy:\n\n $109.99 $78.99 at HBO Max (annual, basic)\n $184.99 $132.99 at HBO Max (annual, standard)\n $229.99 $164.99 at HBO Max (annual, premium)\n\nAll three plans include access to HBO Max’s extensive library of movies and TV shows, including films from Warner Bros. Pictures, DC Studios, A24, Studio Ghibli, and Turner Classic Movies. Subscribers can also stream recent Oscar winners and nominees like titles like Sinners, One Battle After Another, and Marty Supreme, alongside other HBO Max originals. On the TV side, you’ll also get access to popular series like The Pitt, Hacks, Euphoria, and Heated Rivalry, as well as longtime favorites such as Game of Thrones, Friends, and The Big Bang Theory. \nThe biggest differences come down to features. The ad-supported Basic plan lets you stream on up to two devices simultaneously, while the Standard plan lets you download up to 30 shows and movies  for offline viewing. It also includes access to live sports from the likes of the MLB, U.S Soccer, college football, NHL, and more. The Premium tier lets you stream on up to four devices at once, supports 4K and Dolby Atmos, and increases offline downloads to 100 titles.",
           "isoDate": "2026-06-18T19:18:30.000Z"
-        },
-        {
-          "title": "Snap’s Specs look good on nobody",
-          "link": "https://www.theverge.com/podcast/952126/snap-specs-ar-glasses-vergecast",
-          "summary": "Snap's new smart glasses are probably the most impressive bit of face-computer technology we've seen. They're not VR-headset huge; they don't have a big charging puck; thanks to Snap's many years of AR lens development, they're likely to have a lot of features right out of the box. (Yes, they're $2,195,  but that may just be what all this tech costs right now.) Snap is clearly at the front of this race.\nAnd then… you see the pictures. The pictures of Snap CEO Evan Spiegel wearing the new Specs, as the enormous and heavy stems smash down on his ears. The pictures of models and athletes wearing Specs, carefully posed to hide the obvious weigh …\nRead the full story at The Verge.",
-          "isoDate": "2026-06-18T19:15:03.000Z"
-        },
-        {
-          "title": "The best early Amazon Prime Day deals so far",
-          "link": "https://www.theverge.com/gadgets/944084/best-early-prime-day-deals",
-          "summary": "The products pictured here aren’t on sale, but we certainly hope they will be soon. | Image: Alex Parkin / The Verge\t\n\nAmazon’s earlier-than-usual Prime Day doesn’t begin until June 23rd, but there are several even earlier deals on must-have products that you can check out right now. To name some examples, Apple’s AirPods Pro 3 are selling at their cheapest-ever price at Amazon and Walmart (though, the sale keeps playing peek-a-boo). Also, you can grab Ring’s latest battery-powered doorbell for $60 off and it includes a free Indoor Cam Plus with purchase. There are also enough early Apple deals and discounts on fantastic robovacs that we’ve spun up coverage ahead of next week.\nWhile the pre-Prime Day deals are looking good so far, you may not see the brands or products you’re looking for — hopefully, those deals will come later in June. Still, we’ve only included early deals that meet the criteria we hold for all our commerce coverage: they’re good products sold at attractive prices.\nWe’ll update this post frequently ahead of Prime Day.\nHeadphone / earbud deals\nApple’s AirPods Pro 3 have been available at their lowest price to date for the past week or so. Originally $249, the noise-canceling, wireless earbuds are $179 at Amazon and Best Buy — no membership required. Walmart has a product page that lists $169 as a sale price, though it’s out of stock at the time of publication. The AirPods Pro 3 are the latest earbuds from Apple, packing better bass and active noise cancellation than their predecessor, plus the ability to do some light fitness tracking, among other niceties. Read our review.\nBose QuietComfort Ultra headphones (second-gen)\nThe latest over-ear, noise-canceling headphones from Bose offer longer battery life over ANC, plus lossless audio support via USB-C. \n\nWhere to Buy:\n\n $449 $379 at Amazon\n $449 $379 at Best Buy\n\nThe AirPods 4 on sale at Amazon, Walmart, and Best Buy for $99 ($30 off). Apple’s entry-level earbuds offer richer bass than previous generations along with a more robust IP54 rating for water and dust resistance. They match the latest AirPods Pro in voice call quality and work well with other Apple devices too, though they lack more advanced features like active noise cancellation. It might be a pro or con to some that this model simply rests in your ear. They don’t create a tight seal like the AirPods Pro.\nSmart home deals\nGovee Outdoor Lamp Post\nA 8-foot-tall, 2,000-lumen RGBIC smart outdoor lamp. The model has six color zones and dedicated white lighting. It features built-in motion and light sensors, works with Matter, is IP66 rated, and includes a long power cord for easy installation. \n\nWhere to Buy:\n\n $259.99 $199.99 at Amazon\n $259.99 $199.99 at Govee\n\nThe 8-piece and 14-piece Ring Alarm Pro home security systems have gotten big discounts ahead of Prime Day. The smaller kit of the two is $209.99 ($90 off) and includes a base station (it doubles as a eero 6 Wi-Fi router), a keypad, four contact sensors for doors or windows, a motion detector, and a range extender for the alarm. The 14-piece set doubles the keypads, contact sensors, and motion detectors. Both include a 30-day trial to Ring Protect plan, which will cost $19.99 per month after the trial.\nGovee Table Lamp Classic\nSometimes, you don’t need a bright light. You just need a capable, portable light source. Govee’s Table Lamp has adjustable color temperature, not to mention customizable colors and brightness levels.\n\nWhere to Buy:\n\n $79.99 $59.99 at Amazon\n $79.99 $63.99 at Govee\n\nIn addition the Echo Dot Max linked right above, Amazon has switched on several deals for its latest smart speakers and displays. The Echo Show 8 is down to $124.99 (originally $180) at Amazon, and the bigger Echo Show 11 is just a little more, costing $149.99 (down from $219.99) at Amazon. If you want bigger sound than the Echo Dot Max can provide, the Echo Studio is your best bet, costing $174.99 (originally $219.99) at Amazon — its best price yet. Finally, Amazon’s Echo Spot that’s great for nightstands is down to $44.99 from $80 at Amazon.\nRing Battery Doorbell Plus (second-gen)\nThe 2026 doorbell offers 2K video and 6x zoom, plus a removable battery. It supports Ring’s Retinal Vision, which uses AI to improve footage quality.\n\nWhere to Buy:\n\n $239.99 $119.99 at Amazon (includes Indoor Cam Plus)\n $179.99 at Best Buy\n $189.99 at Ring\n\nSmartwatch / wearable deals\nFitbit’s Charge 6 fitness tracker has dropped to its lowest price yet at Amazon, costing $79.99 (originally $159.99, but usually around $100). It’s a solid alternative to Google’s $99 and screenless Fitbit Air. The 2023 Charge 6 features an OLED screen, a haptics-based button, plus the ability to ping you with notifications. Read our review.\nApple Watch Series 11\nAlthough the Apple Watch Series 11 is the same size as its predecessor, it features a 5G cellular modem, a display that Apple claims is twice as durable, and slightly improved battery life. Read our review.\n\nWhere to Buy:\n\n $399 $299 at Amazon (42mm)\n $399 $299 at Walmart (42mm)\n $429 $329 at Amazon (46mm)\n\nMisc. deals\nLogitech MX Master 3S\nThe MX Master 3S is a favorite among many Verge staff members because of its comfort and customization. It can connect via Bluetooth, via its included 2.4GHz receiver, or wired with its USB-C cable.\n\nWhere to Buy:\n\n $119.99 $89.99 at Amazon\n $119.99 $89.99 at Best Buy\n $119.99 at Logitech\n\nWhile not a gadget deal, Walmart is offering a big discount on annual subscriptions to its Walmart Plus service. Originally $98, it’s $49 for a year, which includes early access to its own Prime Day-equivalent sale, not to mention free shipping on order $35 and up, and a host of other benefits.\nThe Baseus AM52 10,000mAh power bank that can deliver Qi2.2 25W wireless charging speeds is cheaper than ever for Verge readers. Through June 30th, you can head over to Amazon and use the code THEVERGECODE to nab one for $42.99 — considerably cheaper than the $63.99 price that Prime members have access to. Read about the AM52’s performance here.\nLego Ideas – Van Gogh “Starry Night” set\nYou and a pal can probably assemble the 2,316-piece set of Starry Night in a couple of days. Sure, it’s said that it took Van Gogh just as long to paint the masterpiece, but we can’t all be artistic geniuses.\n\nWhere to Buy:\n\n $169 $136 at Amazon\n $169 at Lego\n\nTablets and e-reader deals\nAmazon’s Fire 7 Kids tablet is steeply discounted ahead of Prime Day. The 32GB tablet that includes a bumper case, one year of access to a suite of kid-friendly content, and a two-year hardware warranty is down to $64.99 at Amazon (originally $129.99). There’s nothing spectacular about the specs, but it’s a good-enough tablet to withstand whatever your kiddo does to it. The two-year warranty is “worry-free,” which Amazon defines as “if it breaks, we will replace it.” The 16GB version is $54.99.\nAmazon Kindle Colorsoft Essentials Bundle\nYou can get a huge discount on the 16GB Colorsoft that includes a leather cover and a power adapter.\n\nWhere to Buy:\n\n $334.97 $182.97 at Amazon\n\nWhile Amazon’s latest 16GB Kindle Paperwhite typically costs $159.99 on its own, there’s now a fantastic deal happening on the 32GB Signature Edition tablet that supports wireless charging. A $154.98 bundle that also includes a metallic jade cover and a Kindle-branded, cream-colored sling bag is available now at Amazon.\nGaming deals\nFor a limited time, you can get a $15 promotional gift card when you buy a $100 Newegg gift card. It’s always nice to get a little more for your money, especially if you plan to buy pricey PC components, be it RAM, an SSD, or a graphics card.\nThrough June 19th (or until supplies last), Woot is offering new customers a small, but welcome $15 discount on the Nintendo Switch 2 console. The $449.99 device drops to $434 with the code NEW15 used at checkout. I know, I know — it’s not much. It may not even cover sales tax associated with the purchase, but a deal’s a deal.\nHome entertainment deals\nAmazon’s Fire TV Soundbar Plus that also includes a wireless subwoofer and two satellite speakers is down to $379.99 (originally $489.99), it’s best price to date. It’s a solid sound system if you don’t want to spend a bunch of money. The soundbar supports HDMI eARC and optical audio for inputs, and it can connect to devices via Bluetooth. My interest in this model has been piqued ever since RTINGS named it one of its favorite budget-friendly soundbars.\nAmazon Fire TV Stick 4K Select\nThe 4K Select isn’t Amazon’s most feature-rich nor its zippiest streaming stick. However, it’s one of the best 4K-ready options that you can get for under $20 while it’s on sale.\n\nWhere to Buy:\n\n $39.99 $17.99 at Amazon\n $39.99 $17.99 at Best Buy\n $39.99 $17.99 at Target\n\nMarshall has knocked down prices for some of its home audio products, including its amp-inspired Acton III plug-in speaker. Originally $299.99 (though frequently $200 or so), it’s down to $179.99 in all colorways at Amazon. The Stanmore III that’s bigger and even more powerful, with RCA inputs for plugging in a record player, is $249.99 at Amazon. It’s a much bigger price drop for this one, considering it typically sells for around $300.\nAmazon Fire TV Stick 4K Max (2023)\nAmazon’s most capable streaming stick is faster than its predecessor with Wi-Fi 6E and double the storage.  It also now displays widgets and artwork when idle while continuing to offer Alexa integration. Read our review.\n\nWhere to Buy:\n\n $59.99 $34.99 at Amazon\n $59.99 $34.99 at Best Buy\n $59.99 $34.99 at Target",
-          "isoDate": "2026-06-18T18:54:32.000Z"
-        },
-        {
-          "title": "After Senate vote, Trump admin backs off plans to kill ocean monitoring",
-          "link": "https://arstechnica.com/science/2026/06/after-senate-vote-trump-admin-backs-off-plans-to-kill-ocean-monitoring/",
-          "summary": "It's unclear whether the system is currently intact.",
-          "isoDate": "2026-06-18T18:19:44.000Z"
-        },
-        {
-          "title": "This robotic self-driving toilet comes to you",
-          "link": "https://www.theverge.com/tech/952441/yueban-xiaoban-self-driving-autonomous-toilet",
-          "summary": "During a recent expo in Shanghai that focuses on elderly care, assistive devices, and rehabilitation medicine, a Chinese company called Yueban debuted a smart toilet that does something we haven't seen before; it comes to you. The autonomous self-driving Xiaoban toilet was designed to improve accessibility for those dealing with mobility issues due to age, injuries, or disabilities. It's expected to sell for ¥28,999 yuan in China, or nearly $4,300, according to IT Home, but global availability hasn't been confirmed.\nThe Xiaoban toilet uses technology similar to what's found in the most advanced robot vacuums. A suite of sensors, including l …\nRead the full story at The Verge.",
-          "isoDate": "2026-06-18T18:08:17.000Z"
-        },
-        {
-          "title": "Before SpaceX IPO, investors in China secretly acquired stakes",
-          "link": "https://arstechnica.com/information-technology/2026/06/before-spacex-ipo-investors-in-china-secretly-acquired-stakes/",
-          "summary": "One previously unreported SpaceX investor has ties to Chinese military contractors.",
-          "isoDate": "2026-06-18T17:42:18.000Z"
-        },
-        {
-          "title": "A year of Walmart Plus is half off ahead of Prime Day",
-          "link": "https://www.theverge.com/gadgets/952283/walmart-plus-half-off-deal-sale",
-          "summary": "Do you often find yourself shopping at the big blue, or perhaps you’re just looking for an alternative to Amazon? Either way, Walmart is currently offering a year of its Walmart Plus subscription for $49, which typically costs $98. The membership includes perks like free delivery on orders over $35, free next-day and two-day shipping from Walmart.com when available, and free home pickup for returns. Importantly, it also grants you early access to sales, including the upcoming Walmart Deals starting on June 22nd that coincide with Prime Day 2026.\nWalmart Plus\nWalmart Plus is a membership program that offers exclusive benefits, like free delivery from your store, free shipping with no order minimum, and more.\n\nWhere to Buy:\n\n $98 $49 at Walmart (annual cost for one year)\n\nIn addition to the aforementioned shopping perks, the subscription bundles in a handful of other offers and memberships. For instance, you can choose from either ad-supported Paramount Plus or Peacock, with the option to switch every 90 days. You’ll also get a Pawp membership for remote veterinary care, discounts on gas at Walmart and Sam’s Club, and even a free Whopper with any purchase from Burger King every three months.",
-          "isoDate": "2026-06-18T17:33:00.000Z"
-        },
-        {
-          "title": "Firefox’s new home page widgets are helping me focus",
-          "link": "https://www.theverge.com/tech/952354/firefox-home-page-widgets",
-          "summary": "I launched Firefox this morning to find some new blocks on my home page. The widgets that are currently rolling out add sports scores, time zones, a focus timer, and a checklist, which are already some of my favorite new Firefox features in years. I usually have Focus Friend open on my phone when I need a focus timer, and I use Google Tasks for my checklists. Now I can check in with similar tools every time I open a new Firefox tab instead.\nMy phone's homescreen is full of useful widgets, so it's a nice addition to have the timer and checklist pop up on my browser - they add some extra functionality and blend in tools I was already using el …\nRead the full story at The Verge.",
-          "isoDate": "2026-06-18T17:29:50.000Z"
-        },
-        {
-          "title": "Bernie Sanders unveils $7 trillion plan to give Americans control of AI industry",
-          "link": "https://arstechnica.com/tech-policy/2026/06/bernie-sanders-unveils-7-trillion-plan-to-give-americans-control-of-ai-industry/",
-          "summary": "Biggest AI firms will likely recoil at Bernie Sanders' AI wealth fund.",
-          "isoDate": "2026-06-18T17:02:49.000Z"
         }
       ]
     },
@@ -72,40 +72,16 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "From Suriname to Space: Rohit Goeptar Shares His Journey to NASA",
-          "link": "https://www.nasa.gov/centers-and-facilities/kennedy/from-suriname-to-space-rohit-goeptars-shares-his-journey-to-nasa/",
-          "summary": "Rohit Goeptar was born into a poor family in Suriname, South America, the kind where both parents work three jobs and they still can only provide food and shelter for their family. At around age six, his family moved to California to start a new life. Only two years later, he moved back to South America […]",
-          "isoDate": "2026-06-18T19:06:26.000Z"
+          "title": "ERROR cargando feed",
+          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
+          "isoDate": "2026-06-19T04:16:23.022Z"
         },
         {
-          "title": "Desert Field Test With NASA Advanced Rover Prototype",
-          "link": "https://science.nasa.gov/photojournal/desert-field-test-with-nasa-advanced-rover-prototype/",
-          "summary": "Description A prototype four-wheel rover developed at NASA’s Jet Propulsion Laboratory with advanced mobility and robotic autonomy capabilities trundled across the Colorado Desert near Plaster City, California, during a field test in March 2026. Called ERNEST (Exploration Rover for Navigating Extreme Sloped Terrain), the rover served here as a testbed for autonomy software developed for […]",
-          "isoDate": "2026-06-18T18:29:50.000Z"
-        },
-        {
-          "title": "NASA Testing Advanced Capabilities for Moon, Mars Rovers",
-          "link": "https://www.nasa.gov/solar-system/moon/nasa-testing-advanced-capabilities-for-moon-mars-rovers/",
-          "summary": "On a bleak stretch of the Colorado Desert in Southern California, a compact four-wheeled rover recently trundled about 16 miles (26 kilometers) with minimal intervention from the team of engineers trailing it. Called ERNEST (Exploration Rover for Navigating Extreme Sloped Terrain), this prototype is being used by NASA to advance both robotic autonomy and the […]",
-          "isoDate": "2026-06-18T18:19:21.000Z"
-        },
-        {
-          "title": "NASA’s Lucy Reveals Wobbling, Peanut-Shaped Asteroid",
-          "link": "https://science.nasa.gov/missions/nasas-lucy-reveals-wobbling-peanut-shaped-asteroid/",
-          "summary": "Even small asteroids lead complex lives. During its flyby of the asteroid Donaldjohanson last year, NASA’s Lucy spacecraft revealed the asteroid to be a wobbly, peanut-shaped body that has undergone a lot of activity in its relatively short history. Formed as fragments coalesced after a violent collision 155 million years ago, the asteroid was transformed by the […]",
-          "isoDate": "2026-06-18T18:04:41.000Z"
-        },
-        {
-          "title": "Stages of Star Formation",
-          "link": "https://www.nasa.gov/image-article/stages-of-star-formation/",
-          "summary": "This image, captured by NASA’s James Webb Space Telescope and released on June 5, 2026, shows just a small portion of one of the Orion Molecular Clouds, a long and massive filament of cold gas and dust beyond the Orion Nebula. Every stage of star formation — from the youngest stellar embryos to protoplanetary discs […]",
-          "isoDate": "2026-06-18T16:13:13.000Z"
-        },
-        {
-          "title": "Hubble Glimpses Merging Galaxy Clusters",
-          "link": "https://science.nasa.gov/missions/hubble/hubble-glimpses-merging-galaxy-clusters/",
-          "summary": "This NASA Hubble Space Telescope image features a galaxy cluster, called CL0016+1609 or MACS J0018.5+1626, that is very bright at X-ray wavelengths and is one of the most extensively studied clusters at X-ray and radio wavelengths. The X-ray observations of this cluster revealed that it is two clusters merging along our line of sight. Researchers […]",
-          "isoDate": "2026-06-18T11:36:55.000Z"
+          "title": "Stem cells banish severe autoimmune disease for 15 years",
+          "link": "https://www.nature.com/articles/d41586-026-01925-7",
+          "summary": "Nature, Published online: 19 June 2026; doi:10.1038/d41586-026-01925-7\nTwo people were the first to receive the therapy for a condition that damages the spinal cord and optic nerve.",
+          "isoDate": "2026-06-19T00:00:00.000Z"
         },
         {
           "title": "CD4+ T cells impair tumor growth through IL-3 and TNF-dependent vascular damage",
@@ -130,6 +106,30 @@
           "link": "https://www.science.org/doi/abs/10.1126/science.aeb6410?af=R",
           "summary": "Science, Volume 392, Issue 6804, June 2026.",
           "isoDate": "2026-06-18T07:00:00.000Z"
+        },
+        {
+          "title": "Lamprey 3D single-cell transcriptomics reveals ancestral and specialized features of the vertebrate brain",
+          "link": "https://www.science.org/doi/abs/10.1126/science.aea2535?af=R",
+          "summary": "Science, Volume 392, Issue 6804, June 2026.",
+          "isoDate": "2026-06-18T07:00:00.000Z"
+        },
+        {
+          "title": "Age and early life adversity shape heterogeneity of the epigenome across tissues in macaques",
+          "link": "https://www.science.org/doi/abs/10.1126/science.aea4922?af=R",
+          "summary": "Science, Volume 392, Issue 6804, June 2026.",
+          "isoDate": "2026-06-18T07:00:00.000Z"
+        },
+        {
+          "title": "Induction of broadly neutralizing HIV antibodies by a two-step mechanism informs vaccine design",
+          "link": "https://www.science.org/doi/abs/10.1126/science.aec6396?af=R",
+          "summary": "Science, Volume 392, Issue 6804, June 2026.",
+          "isoDate": "2026-06-18T07:00:00.000Z"
+        },
+        {
+          "title": "Managing the pitfalls of private money",
+          "link": "https://www.science.org/doi/abs/10.1126/science.aei6193?af=R",
+          "summary": "Science, Volume 392, Issue 6804, June 2026.",
+          "isoDate": "2026-06-18T07:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 69\nColumn: 41\nChar: &",
-          "isoDate": "2026-06-18T20:25:03.595Z"
+          "isoDate": "2026-06-19T04:16:24.052Z"
+        },
+        {
+          "title": "The artificial ice pyramids saving India's mountain villages",
+          "link": "https://www.bbc.com/news/articles/c072414183go?at_medium=RSS&at_campaign=rss",
+          "summary": "Himalayan villages are creating artificial glaciers to guarantee water for their crops in the spring.",
+          "isoDate": "2026-06-18T23:11:07.000Z"
         },
         {
           "title": "GTA 6 pre-order date and cover art revealed by Rockstar",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.com/news/articles/ce8jmg2e4kro?at_medium=RSS&at_campaign=rss",
           "summary": "Helium-3 is expensive and demand is forecast to soar, so some are planning to mine it on the moon.",
           "isoDate": "2026-06-16T00:11:13.000Z"
-        },
-        {
-          "title": "Social media ban - bold and blunt, but no silver bullet",
-          "link": "https://www.bbc.com/news/articles/cddl65dp0rdo?at_medium=RSS&at_campaign=rss",
-          "summary": "The BBC's technology editor Zoe Kleinman on the big changes coming down the line for young people online.",
-          "isoDate": "2026-06-15T19:48:25.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 84\nColumn: 559\nChar:  ",
-          "isoDate": "2026-06-18T20:25:06.573Z"
+          "isoDate": "2026-06-19T04:16:27.510Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-06-18T20:25:04.951Z"
+          "isoDate": "2026-06-19T04:16:25.279Z"
         },
         {
           "title": "IEEE’s 2026 Education Week Events Emphasized Lifelong Learning",
