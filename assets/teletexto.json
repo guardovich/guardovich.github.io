@@ -1,10 +1,28 @@
 {
-  "generatedAt": "2026-06-20T14:02:35.090Z",
+  "generatedAt": "2026-06-20T19:25:26.880Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "The Atlantic created a searchable database of the music used to train AI",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
+          "summary": "Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 million and 9 million tracks. The other two are much smaller, but still represent a significant amount of training data at over 100,000 songs each.\nAccording to Reisner, the sets have been downloaded thousands of times and, while it's impossible to know exactly who has used them, Google and Stability have both confirmed they have in research papers. Some of the sources, like the Free Music Archive dataset, are free to stream for personal use but re …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-20T18:46:48.000Z"
+        },
+        {
+          "title": "Musician and YouTuber Hainbach on ‘Breath of the Wild’ and Swiss Army Knives",
+          "link": "https://www.theverge.com/report/953116/experimental-musician-youtuber-hainbach-interview",
+          "summary": "Indulging in the “Dark Souls of synthesis.” | Image: Aleksander Stojanov / Hainbach\t\n\nStefan Paul Goetsch, better known as Hainbach, is a German experimental composer, artist, and YouTuber who is perhaps most famous for making music with laboratory equipment and scientific instruments. He describes it as being like the \"Dark Souls of synthesis.\" Despite using \"hard mode\" production techniques that often rely on telephone line testing equipment and gear salvaged from nuclear testing facilities, Hainbach is also incredibly prolific, releasing six albums in 2025 alone, along with a handful of singles and EPs. His latest, Gentle Hum, is a collaboration with Ah! Kosmos (Turkish composer, Başak Günak). The album is a melancholic co …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-20T15:20:00.000Z"
+        },
+        {
+          "title": "Moves of the Diamond Hand is an unfinished, irresistibly weird dice-based RPG",
+          "link": "https://www.theverge.com/games/949875/moves-of-the-diamond-hand-rpg-dice-jazz-noir",
+          "summary": "From its opening minutes, Moves of the Diamond Hand is upfront about what it offers: You're going to have a lot of strange conversations, and you're going to roll a lot of dice. Get on board with this proposition, and the reward is one of the most creative roleplaying games I've seen in years, even if its many mysteries won't be resolved until 2027.\nMoves of the Diamond Hand is an Early Access videogame available on PC, macOS, and steamOS (including the Steam Deck, where I played it) from musician and game designer Cosmo D. The game looks and feels like a 2000s-era first-person RPG or immersive sim: environments are grimy, stark, and blocky …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-20T14:00:00.000Z"
+        },
         {
           "title": "Toy Story has the right take on tech",
           "link": "https://www.theverge.com/tech/952547/toy-story-5-tech-android-17-snap-specs-installer",
@@ -46,24 +64,6 @@
           "link": "https://www.theverge.com/entertainment/952910/nts-radio-player-atonemo-music-streaming",
           "summary": "Have I found my Chromecast Audio replacement? | Image: NTS Radio\t\n\nNTS Radio and Swedish audio company Atonemo have teamed up on a dedicated player that brings NTS's genre-defying mixes and streaming stations to almost any stereo or speaker setup. And, like Atonemo's existing Streamplayer, you can also listen to your favorite streaming services with it, using AirPlay 2, Google Cast, Spotify Connect, or Tidal Connect.\nThe $179 NTS Radio Player puts out 24-bit / 192kHz audio over a standard 3.5mm audio jack and comes with an adapter cable for connecting to RCA on your vintage hi-fi system, or whatever other speakers you have lying around. The top of the device has two buttons for tuning in directly to NTS 1  …\nRead the full story at The Verge.",
           "isoDate": "2026-06-19T14:53:53.000Z"
-        },
-        {
-          "title": "The film about Sam Altman has been dropped by Amazon MGM",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
-          "summary": "Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. \nThe film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning Altman's termination and reinstatement as CEO, had been in the works for about a year. The cast also includes A Complete Unknown actress Monica Barbaro as OpenAI CTO Mira Murati, Ike Barinholtz as Elon Musk, and Anora's Yura Borisov as OpenAI chief scientist Ilya Sutskever.\nIn a statement to Deadline, the studio said it believes the movie \"will be better served if it were released by a different studio and is working closely with the filmmak …\nRead the full story at The Verge.",
-          "isoDate": "2026-06-19T14:15:29.000Z"
-        },
-        {
-          "title": "Our long national sunscreen nightmare is almost over",
-          "link": "https://www.theverge.com/column/952744/optimizer-sunscreen-bemotrizinol-fda-health",
-          "summary": "You need a quarter teaspoon for your face alone, a half teaspoon if you include the neck (which you should!)\t\n\nThis is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here.\nOn TikTok, the tanned youths are explaining why they no longer wear sunscreen. In one video, a young man films himself in the ocean while describing how you can naturally build up a \"solar callus\" or sun tolerance to getting burned. (You can't.) In another, a young woman confidently states that eating healthy foods full of polyphenols and other antioxidants will help make your body more resilient to sunburn. (Antioxidants help w …\nRead the full story at The Verge.",
-          "isoDate": "2026-06-19T14:00:00.000Z"
-        },
-        {
-          "title": "Rocket Report: Rebuild begins at Blue Origin launch pad; Relativity targets Mars",
-          "link": "https://arstechnica.com/space/2026/06/rocket-report-rebuild-begins-at-blue-origin-launch-pad-relativity-targets-mars/",
-          "summary": "A French launch startup is scrapping the name of its rocket, apparently due to a trademark issue.",
-          "isoDate": "2026-06-19T13:36:53.000Z"
         }
       ]
     },
@@ -141,12 +141,12 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 69\nColumn: 41\nChar: &",
-          "isoDate": "2026-06-20T14:02:29.647Z"
+          "isoDate": "2026-06-20T19:25:19.490Z"
         },
         {
           "title": "New video game console aims to get kids moving",
           "link": "https://www.bbc.com/news/articles/czx50rrz7zro?at_medium=RSS&at_campaign=rss",
-          "summary": "The cube-shaped console will cost £269 (€319) when it is released on 22 June in the UK and Ireland.",
+          "summary": "The Nex Playground will cost £269 (€319) when it is released on 22 June in the UK and Ireland.",
           "isoDate": "2026-06-20T01:10:51.000Z"
         },
         {
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 84\nColumn: 559\nChar:  ",
-          "isoDate": "2026-06-20T14:02:33.554Z"
+          "isoDate": "2026-06-20T19:25:25.728Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-06-20T14:02:31.256Z"
+          "isoDate": "2026-06-20T19:25:20.940Z"
         },
         {
           "title": "War Taught this Ukrainian Entrepreneur the Value of Resilience",
