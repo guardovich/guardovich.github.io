@@ -1,10 +1,34 @@
 {
-  "generatedAt": "2026-06-21T09:49:26.119Z",
+  "generatedAt": "2026-06-21T14:09:57.687Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "How Roomba started a robot revolution",
+          "link": "https://www.theverge.com/podcast/953275/roomba-robot-vacuum-version-history",
+          "summary": "If you had a Roomba, especially in the early days of the robot vacuum, it was in many ways a fairly unsophisticated machine. It would just bump around your house, looking for something to suck up, until its battery died or its (way too small) tank filled up. Not that it mattered, though. You probably loved your Roomba. You probably gave it a name.\nOn this episode of Version History, we tell the story of the Roomba, and how it made vacuums lovable. The Verge's David Pierce and Jennifer Pattison Tuohy are joined by iRobot's co-founder and former CEO Colin Angle to trace the robovac revolution back to its origins, with a group of engineers try …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-21T12:29:01.000Z"
+        },
+        {
+          "title": "Electric air taxis are stuck in the courtroom",
+          "link": "https://www.theverge.com/column/950975/electric-air-taxis-lawsuits",
+          "summary": "Joby flight at JFK airport. | Image: The Verge\t\n\nThis is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on aviation, air taxis, and Wi-Fi speeds at 30,000 feet, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here.\nHow it started\nLast year, two of the leading air taxi companies in the US, Joby Aviation and Archer Aviation, sued each other, with Joby accusing Archer of corporate espionage and Archer claiming that Joby was concealing its ties to China. Then, in February of this year, Archer filed a patent infringement suit against a different air taxi rival, Vertical A …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-21T12:00:00.000Z"
+        },
+        {
+          "title": "Sony’s Xperia 1 VIII is still a phone for the fans",
+          "link": "https://www.theverge.com/tech/952245/sony-xperia-1-viii-review",
+          "summary": "The 1 VIII doesn’t look much like any Xperia that’s come before.\t\n\nThe Xperia 1 VIII marks an attempt at a step change for Sony's flagship phone line. Not only has it had an aesthetic overhaul, but Sony has also revamped the camera system, dropping the continuous optical zoom telephoto that's defined the last four generations of Xperia phone. \nIt's not all different. Sony staples like a 3.5mm headphone jack and microSD card slot remain, and a few specific design touches, like a thick front bezel that fits stereo speakers, have stayed intact. Sony's ambitious pricing hasn't changed either: The Xperia 1 VIII isn't launching in the US, but in the UK and Europe, it starts from £1,399 / €1,499 (about $1,850), r …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-21T11:00:00.000Z"
+        },
+        {
+          "title": "Review: Widow's Bay is a boldly original take on comedic horror",
+          "link": "https://arstechnica.com/culture/2026/06/review-widows-bay-is-a-boldly-original-take-on-comedic-horror/",
+          "summary": "An eminently binge-able series that honors classic horror tropes while reinventing them in surprising ways",
+          "isoDate": "2026-06-21T10:00:11.000Z"
+        },
         {
           "title": "The Atlantic created a searchable database of the music used to train AI",
           "link": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
@@ -40,30 +64,6 @@
           "link": "https://www.theverge.com/tech/952855/switchbot-standing-circulator-fan-review",
           "summary": "I’m a fan.\t\n\nI can't remember the last time I got excited about a fan. Normally, I just buy whatever Vornado or Dreo model fits my budget, but that was before I started testing the battery-powered Standing Circulator Fan from SwitchBot.\nAs the name indicates, the SwitchBot fan is a 3D circulator - a fancy way of saying that it can tilt up, down, left, and right to push a decent amount air around a room. It looks okay, despite all the plastic, is relatively quiet, runs for hours on battery, has an integrated nightlight, transforms from a desktop to standing fan in seconds, and works on its own or as part of a smart home. There's a lot to like here.\nOver …\nRead the full story at The Verge.",
           "isoDate": "2026-06-20T07:00:00.000Z"
-        },
-        {
-          "title": "Nothing cancels this year&#8217;s CMF phone due to RAM prices",
-          "link": "https://www.theverge.com/gadgets/953066/nothing-cmf-phone-delayed-ram-prices",
-          "summary": "Nothing's next budget phone is the latest victim of RAMageddon. As 9to5Google reports, Nothing co-founder Akis Evangelidis announced in a post on X that a follow-up to the CMF Phone 2 Pro won't be coming this year:\nWe were working on a successor but with memory prices where they are right now, we can't build a phone that feels like a genuine step forward at a price that makes sense for CMF. As a result, we've decided not to launch a new CMF phone this year.\nLast week, Nothing CEO and co-founder Carl Pei also said the RAM shortage has impacted the cost of the company's mid-range phone, stating, \"For Phone 4A, memory costs doubled between  …\nRead the full story at The Verge.",
-          "isoDate": "2026-06-19T21:28:39.000Z"
-        },
-        {
-          "title": "NASA selects Eric Schmidt&#8217;s rocket company for a 2028 mission to Mars",
-          "link": "https://www.theverge.com/science/952988/nasa-relativity-space-eric-schmidt-mars",
-          "summary": "Relativity Space’s CEO is former Google executive Eric Schmidt. | Image: Alexander Tamargo / Getty Images\t\n\nRelativity Space, the rocket company led by former Google executive Eric Schmidt, was picked to launch NASA's Aeolus payload to Mars in 2028, as reported earlier by TechCrunch. Under a new public-private partnership, Relativity Space will provide the \"spacecraft, rocket, and cruise operations\" to fly Aeolus to Mars, where the payload will \"provide the first integrated, daily, global view of Martian winds, temperatures, dust, and clouds.\" \nThe Aeolus payload will have four instruments on board for studying the Martian atmosphere, which NASA says will \"directly inform entry, descent, and landing systems and support safer, more predictable mis …\nRead the full story at The Verge.",
-          "isoDate": "2026-06-19T18:41:48.000Z"
-        },
-        {
-          "title": "Hue’s wired wall modules bring non-smart lights into its ecosystem",
-          "link": "https://www.theverge.com/tech/952953/phillips-hue-wired-wall-module-play-lamp-candle-bulb",
-          "summary": "The new Wired Wall Switch Modules fit behind existing switches. | Image: Signify\t\n\nSmart lighting company Philips Hue has launched its first wired wall modules. Installed behind existing wall switches, the new devices bring non-smart lights into the Hue ecosystem for the first time. Hue also announced new Play table and floor lamps that are more affordable versions of its Signe series, along with upgrades to its E14 candle bulbs that add a broader white light spectrum and Matter-over-Thread compatibility.\nThe new lights are now available globally; however, the Wired Wall Switch Modules are Europe-only. Signify CTO George Yianni told The Verge that there are currently no plans to launch them in the US, but the company woul …\nRead the full story at The Verge.",
-          "isoDate": "2026-06-19T17:24:45.000Z"
-        },
-        {
-          "title": "The NTS Radio Player brings the best of internet radio to your hi-fi",
-          "link": "https://www.theverge.com/entertainment/952910/nts-radio-player-atonemo-music-streaming",
-          "summary": "Have I found my Chromecast Audio replacement? | Image: NTS Radio\t\n\nNTS Radio and Swedish audio company Atonemo have teamed up on a dedicated player that brings NTS's genre-defying mixes and streaming stations to almost any stereo or speaker setup. And, like Atonemo's existing Streamplayer, you can also listen to your favorite streaming services with it, using AirPlay 2, Google Cast, Spotify Connect, or Tidal Connect.\nThe $179 NTS Radio Player puts out 24-bit / 192kHz audio over a standard 3.5mm audio jack and comes with an adapter cable for connecting to RCA on your vintage hi-fi system, or whatever other speakers you have lying around. The top of the device has two buttons for tuning in directly to NTS 1  …\nRead the full story at The Verge.",
-          "isoDate": "2026-06-19T14:53:53.000Z"
         }
       ]
     },
@@ -72,10 +72,16 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "ERROR cargando feed",
-          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
-          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-06-21T09:49:21.192Z"
+          "title": "Tropical Storm Arthur",
+          "link": "https://science.nasa.gov/earth/earth-observatory/tropical-storm-arthur/",
+          "summary": "The first named storm of the 2026 Atlantic hurricane season brought intense rainfall and the threat of flash flooding to the U.S. Gulf Coast.",
+          "isoDate": "2026-06-19T04:00:00.000Z"
+        },
+        {
+          "title": "Curiosity Blog, Sols 4920-4926: Surveying the Bands",
+          "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4920-4926-surveying-the-bands/",
+          "summary": "Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, June 12, 2026 Rather than going from stage to stage at a music festival to hear different bands playing different varieties of music, Curiosity has been ascending up Mount Sharp through physical bands of exposed rocks with textural and tonal differences. […]",
+          "isoDate": "2026-06-19T00:50:58.000Z"
         },
         {
           "title": "Author Correction: Autophagic cell death restricts chromosomal instability during replicative crisis",
@@ -102,34 +108,28 @@
           "isoDate": "2026-06-19T00:00:00.000Z"
         },
         {
-          "title": "CD4+ T cells impair tumor growth through IL-3 and TNF-dependent vascular damage",
-          "link": "https://www.science.org/doi/abs/10.1126/science.ads7910?af=R",
-          "summary": "Science, Volume 392, Issue 6804, June 2026.",
-          "isoDate": "2026-06-18T07:00:00.000Z"
+          "title": "NASA Mission to Study Space Weather Impacts of Earth’s Atmosphere",
+          "link": "https://www.nasa.gov/news-release/nasa-mission-to-study-space-weather-impacts-of-earths-atmosphere/",
+          "summary": "NASA selected a mission concept to research how space weather and dynamics within Earth’s atmosphere influence the space environment and help improve prediction capabilities for impacts on crucial technology, such as GPS and low Earth orbit satellites, as well as astronauts in space. The DAPHNE (Dynamic Atmosphere-Ionosphere Explorer) mission will enter Phase B of development, […]",
+          "isoDate": "2026-06-18T21:33:07.000Z"
         },
         {
-          "title": "Brain-wide topographic coordination of rotating waves",
-          "link": "https://www.science.org/doi/abs/10.1126/science.adx1369?af=R",
-          "summary": "Science, Volume 392, Issue 6804, June 2026.",
-          "isoDate": "2026-06-18T07:00:00.000Z"
+          "title": "NASA Awards Contract for Commercial Satellite Data Acquisition",
+          "link": "https://www.nasa.gov/news-release/nasa-awards-contract-for-commercial-satellite-data-acquisition/",
+          "summary": "NASA has selected eight new companies and will acquire new data products from six existing Commercial Satellite Data Acquisition contract holders to expand the range of commercial satellite data available to researchers, civil agencies, and decision-makers. Such measurements supplement NASA’s Earth satellites by contributing high-resolution and frequent observations to enhance the agency’s set of data. […]",
+          "isoDate": "2026-06-18T20:13:41.000Z"
         },
         {
-          "title": "Maternal trans-vaccenic acid shapes neonatal T cell development and early-life immune imprinting",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aea4041?af=R",
-          "summary": "Science, Volume 392, Issue 6804, June 2026.",
-          "isoDate": "2026-06-18T07:00:00.000Z"
+          "title": "From Suriname to Space: Rohit Goeptar Shares His Journey to NASA",
+          "link": "https://www.nasa.gov/centers-and-facilities/kennedy/from-suriname-to-space-rohit-goeptars-shares-his-journey-to-nasa/",
+          "summary": "Rohit Goeptar was born into a poor family in Suriname, South America, the kind where both parents work three jobs and they still can only provide food and shelter for their family. At around age six, his family moved to California to start a new life. Only two years later, he moved back to South America […]",
+          "isoDate": "2026-06-18T19:06:26.000Z"
         },
         {
-          "title": "Decoupling of global metabolic flux and proteome partitioning in bacteria",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aeb6410?af=R",
-          "summary": "Science, Volume 392, Issue 6804, June 2026.",
-          "isoDate": "2026-06-18T07:00:00.000Z"
-        },
-        {
-          "title": "Lamprey 3D single-cell transcriptomics reveals ancestral and specialized features of the vertebrate brain",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aea2535?af=R",
-          "summary": "Science, Volume 392, Issue 6804, June 2026.",
-          "isoDate": "2026-06-18T07:00:00.000Z"
+          "title": "Desert Field Test With NASA Advanced Rover Prototype",
+          "link": "https://science.nasa.gov/photojournal/desert-field-test-with-nasa-advanced-rover-prototype/",
+          "summary": "Description A prototype four-wheel rover developed at NASA’s Jet Propulsion Laboratory with advanced mobility and robotic autonomy capabilities trundled across the Colorado Desert near Plaster City, California, during a field test in March 2026. Called ERNEST (Exploration Rover for Navigating Extreme Sloped Terrain), the rover served here as a testbed for autonomy software developed for […]",
+          "isoDate": "2026-06-18T18:29:50.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 69\nColumn: 41\nChar: &",
-          "isoDate": "2026-06-21T09:49:22.460Z"
+          "isoDate": "2026-06-21T14:09:51.828Z"
         },
         {
           "title": "Why an AI company cleaned my New York City apartment for free",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 84\nColumn: 559\nChar:  ",
-          "isoDate": "2026-06-21T09:49:25.117Z"
+          "isoDate": "2026-06-21T14:09:56.409Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-06-21T09:49:23.857Z"
+          "isoDate": "2026-06-21T14:09:53.801Z"
         },
         {
           "title": "War Taught this Ukrainian Entrepreneur the Value of Resilience",
