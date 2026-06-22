@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T19:39:58.424Z",
+  "generatedAt": "2026-06-22T04:11:57.322Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
@@ -141,7 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 69\nColumn: 41\nChar: &",
-          "isoDate": "2026-06-21T19:39:52.435Z"
+          "isoDate": "2026-06-22T04:11:51.805Z"
+        },
+        {
+          "title": "It's not just about nudity warns actress - the complex reality of images and online abuse",
+          "link": "https://www.bbc.com/news/articles/c8621dqewxzo?at_medium=RSS&at_campaign=rss",
+          "summary": "Tech companies and authorities are failing women by focusing on nudity rather than consent, says a report by Chayn.",
+          "isoDate": "2026-06-21T23:21:05.000Z"
         },
         {
           "title": "Why an AI company cleaned my New York City apartment for free",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.com/news/articles/ceqdrw2yy3vo?at_medium=RSS&at_campaign=rss",
           "summary": "The Amazon founder, who now has robotics and space travel companies, thinks AI will create a labour shortage.",
           "isoDate": "2026-06-17T16:37:41.000Z"
-        },
-        {
-          "title": "What to study in the AI age - from big tech bosses",
-          "link": "https://www.bbc.com/news/videos/cewqg4qwq1wo?at_medium=RSS&at_campaign=rss",
-          "summary": "Sundar Pichai, Jensen Huang and Jack Clark share their advice with the BBC.",
-          "isoDate": "2026-06-17T15:59:39.000Z"
         }
       ]
     },
@@ -203,6 +203,12 @@
       "header": "160  INTELIGENCIA ARTIFICIAL",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+          "link": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+          "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+          "isoDate": "2026-06-21T23:00:00.000Z"
+        },
         {
           "title": "A better way to model the behavior of metal alloys",
           "link": "https://news.mit.edu/2026/better-way-to-model-metal-alloys-behavior-0619",
@@ -256,12 +262,6 @@
           "link": "https://openai.com/index/introducing-life-sci-bench",
           "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
           "isoDate": "2026-06-17T00:00:00.000Z"
-        },
-        {
-          "title": "Unlocking UK house-building with AI-accelerated planning",
-          "link": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
-          "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
-          "isoDate": "2026-06-16T21:29:50.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 84\nColumn: 559\nChar:  ",
-          "isoDate": "2026-06-21T19:39:56.792Z"
+          "isoDate": "2026-06-22T04:11:56.017Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-06-21T19:39:54.256Z"
+          "isoDate": "2026-06-22T04:11:53.330Z"
         },
         {
           "title": "War Taught this Ukrainian Entrepreneur the Value of Resilience",
