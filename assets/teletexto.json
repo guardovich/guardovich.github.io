@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-06-22T04:11:57.322Z",
+  "generatedAt": "2026-06-22T11:52:57.480Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Read this before you vibe-code another app",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps",
+          "summary": "Bob Starr was delighted with his vibe-coded website. \"Boomberg\" showed how much US tax money is going to tech companies, and Starr launched it online immediately after making it. It wasn't until months after the site went live that he realized there was a problem: a hidden SQL injection risk. It could've left the site open for an attacker to read or alter data they shouldn't have access to. \n\"It was just a glaring oversight on my part. It was a complete blindspot in my state of learning this new technology and understanding it, and I'm sure there are others making the same mistake,\" said Starr, a project manager in the tech sector.\n\n\"It was …\n\nRead the full story at The Verge.",
+          "isoDate": "2026-06-22T11:00:00.000Z"
+        },
+        {
+          "title": "Inside the world’s deepest and longest subsea road tunnel",
+          "link": "https://www.technologyreview.com/2026/06/22/1138821/inside-worlds-deepest-longest-subsea-road-tunnel/",
+          "summary": "It’s cold, it’s very, very noisy, and—if I can be quite honest with you—I’m not feeling super relaxed. I’m currently around 300 meters, or 1,000 feet, beneath the North Sea, in a dark, dank cave. It smells weird. And I am increasingly aware of the pressure from millions of tons of seawater just above my…",
+          "isoDate": "2026-06-22T08:00:00.000Z"
+        },
         {
           "title": "Bose thinks it can be a media company for some reason",
           "link": "https://www.theverge.com/entertainment/953324/bose-studios-record-label-media-company",
@@ -20,7 +32,7 @@
         {
           "title": "Cold Court’s debut EP is an infectious, glitchy genre mashup",
           "link": "https://www.theverge.com/entertainment/953303/cold-court-hands-up-ep-music-review",
-          "summary": "Cold Court is a brother-sister duo from Philly that seems to love nothing more than shoving all of their influences together in a messy soup that at least superficially resembles the hyperpop you've come to expect from acts like 100 Gecs. But, where songs like \"Dumbest Girl Alive\" goofily wink at pop punk and emo, Cold Court are a bit more self-serious, and that's not necessarily a bad thing. \nThe opening track on the band's debut EP \\ (^_^) / (aka Hands Up), \"Nina\", starts off sounding not unlike the dance punk bands that stormed the scene in the mid aughts like Franz Ferdinand or Test Icicles. But that all starts to change about a minute  …\nRead the full story at The Verge.",
+          "summary": "Cold Court is a brother-sister duo from Philly that seems to love nothing more than shoving all of their influences together in a messy soup that at least superficially resembles the hyperpop you've come to expect from acts like 100 Gecs. But, where songs like \"Dumbest Girl Alive\" goofily wink at pop punk and emo, Cold Court are a bit more self-serious, and that's not necessarily a bad thing. \nThe opening track on the band's debut EP \\ (^_^) / (aka Hands Up), \"Nina,\" starts off sounding not unlike the dance punk bands that stormed the scene in the mid aughts like Franz Ferdinand or Test Icicles. But that all starts to change about a minute  …\nRead the full story at The Verge.",
           "isoDate": "2026-06-21T17:00:33.000Z"
         },
         {
@@ -32,7 +44,7 @@
         {
           "title": "How Roomba started a robot revolution",
           "link": "https://www.theverge.com/podcast/953275/roomba-robot-vacuum-version-history",
-          "summary": "If you had a Roomba, especially in the early days of the robot vacuum, it was in many ways a fairly unsophisticated machine. It would just bump around your house, looking for something to suck up, until its battery died or its (way too small) tank filled up. Not that it mattered, though. You probably loved your Roomba. You probably gave it a name.\nOn this episode of Version History, we tell the story of the Roomba, and how it made vacuums lovable. The Verge's David Pierce and Jennifer Pattison Tuohy are joined by iRobot's co-founder and former CEO Colin Angle to trace the robovac revolution back to its origins, with a group of engineers try …\nRead the full story at The Verge.",
+          "summary": "If you had a Roomba, especially in the early days of the robot vacuum, it was in many ways a fairly unsophisticated machine. It would just bump around your house, looking for something to suck up, until its battery died or its (way too small) tank filled up. Not that it mattered, though. You probably loved your Roomba. You probably gave it a name.\nOn this episode of Version History, we tell the story of the Roomba and how it made vacuums lovable. The Verge's David Pierce and Jennifer Pattison Tuohy are joined by iRobot's cofounder and former CEO Colin Angle to trace the robovac revolution back to its origins, with a group of engineers tryin …\nRead the full story at The Verge.",
           "isoDate": "2026-06-21T12:29:01.000Z"
         },
         {
@@ -52,18 +64,6 @@
           "link": "https://arstechnica.com/culture/2026/06/review-widows-bay-is-a-boldly-original-take-on-comedic-horror/",
           "summary": "An eminently binge-able series that honors classic horror tropes while reinventing them in surprising ways",
           "isoDate": "2026-06-21T10:00:11.000Z"
-        },
-        {
-          "title": "The Atlantic created a searchable database of the music used to train AI",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
-          "summary": "Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 million and 9 million tracks. The other two are much smaller, but still represent a significant amount of training data at over 100,000 songs each.\nAccording to Reisner, the sets have been downloaded thousands of times and, while it's impossible to know exactly who has used them, Google and Stability have both confirmed they have in research papers. Some of the sources, like the Free Music Archive dataset, are free to stream for personal use but re …\nRead the full story at The Verge.",
-          "isoDate": "2026-06-20T18:46:48.000Z"
-        },
-        {
-          "title": "Musician and YouTuber Hainbach on ‘Breath of the Wild’ and Swiss Army Knives",
-          "link": "https://www.theverge.com/report/953116/experimental-musician-youtuber-hainbach-interview",
-          "summary": "Indulging in the “Dark Souls of synthesis.” | Image: Aleksander Stojanov / Hainbach\t\n\nStefan Paul Goetsch, better known as Hainbach, is a German experimental composer, artist, and YouTuber who is perhaps most famous for making music with laboratory equipment and scientific instruments. He describes it as being like the \"Dark Souls of synthesis.\" Despite using \"hard mode\" production techniques that often rely on telephone line testing equipment and gear salvaged from nuclear testing facilities, Hainbach is also incredibly prolific, releasing six albums in 2025 alone, along with a handful of singles and EPs. His latest, Gentle Hum, is a collaboration with Ah! Kosmos (Turkish composer, Başak Günak). The album is a melancholic co …\nRead the full story at The Verge.",
-          "isoDate": "2026-06-20T15:20:00.000Z"
         }
       ]
     },
@@ -72,16 +72,28 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "Tropical Storm Arthur",
-          "link": "https://science.nasa.gov/earth/earth-observatory/tropical-storm-arthur/",
-          "summary": "The first named storm of the 2026 Atlantic hurricane season brought intense rainfall and the threat of flash flooding to the U.S. Gulf Coast.",
-          "isoDate": "2026-06-19T04:00:00.000Z"
+          "title": "ERROR cargando feed",
+          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
+          "isoDate": "2026-06-22T11:52:52.276Z"
         },
         {
-          "title": "Curiosity Blog, Sols 4920-4926: Surveying the Bands",
-          "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4920-4926-surveying-the-bands/",
-          "summary": "Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, June 12, 2026 Rather than going from stage to stage at a music festival to hear different bands playing different varieties of music, Curiosity has been ascending up Mount Sharp through physical bands of exposed rocks with textural and tonal differences. […]",
-          "isoDate": "2026-06-19T00:50:58.000Z"
+          "title": "The first ticking ‘nuclear clocks’ are here — what can they do?",
+          "link": "https://www.nature.com/articles/d41586-026-01909-7",
+          "summary": "Nature, Published online: 22 June 2026; doi:10.1038/d41586-026-01909-7\nTwo research teams have created a new, long-awaited type of timekeeper.",
+          "isoDate": "2026-06-22T00:00:00.000Z"
+        },
+        {
+          "title": "Make science more reliable: study people as they go about their lives",
+          "link": "https://www.nature.com/articles/d41586-026-01957-z",
+          "summary": "Nature, Published online: 22 June 2026; doi:10.1038/d41586-026-01957-z\nResearchers have long discussed the replication crisis. Now it’s time to tackle another problem in the behavioural sciences: generalizability.",
+          "isoDate": "2026-06-22T00:00:00.000Z"
+        },
+        {
+          "title": "Why heritage sites are at risk in a warming world — and how to save them",
+          "link": "https://www.nature.com/articles/d41586-026-01956-0",
+          "summary": "Nature, Published online: 22 June 2026; doi:10.1038/d41586-026-01956-0\nAs rising seas and intensifying disasters threaten historic sites worldwide, new ways to understand, preserve and adapt these places are needed urgently.",
+          "isoDate": "2026-06-22T00:00:00.000Z"
         },
         {
           "title": "Author Correction: Autophagic cell death restricts chromosomal instability during replicative crisis",
@@ -108,28 +120,16 @@
           "isoDate": "2026-06-19T00:00:00.000Z"
         },
         {
-          "title": "NASA Mission to Study Space Weather Impacts of Earth’s Atmosphere",
-          "link": "https://www.nasa.gov/news-release/nasa-mission-to-study-space-weather-impacts-of-earths-atmosphere/",
-          "summary": "NASA selected a mission concept to research how space weather and dynamics within Earth’s atmosphere influence the space environment and help improve prediction capabilities for impacts on crucial technology, such as GPS and low Earth orbit satellites, as well as astronauts in space. The DAPHNE (Dynamic Atmosphere-Ionosphere Explorer) mission will enter Phase B of development, […]",
-          "isoDate": "2026-06-18T21:33:07.000Z"
+          "title": "Daily briefing: Human detritus remakes geology",
+          "link": "https://www.nature.com/articles/d41586-026-01991-x",
+          "summary": "Nature, Published online: 19 June 2026; doi:10.1038/d41586-026-01991-x\nWhat, exactly, is a rock? Plus, a stem-cell success for a severe autoimmune disease and evidence that ‘AI deskilling’ is real.",
+          "isoDate": "2026-06-19T00:00:00.000Z"
         },
         {
-          "title": "NASA Awards Contract for Commercial Satellite Data Acquisition",
-          "link": "https://www.nasa.gov/news-release/nasa-awards-contract-for-commercial-satellite-data-acquisition/",
-          "summary": "NASA has selected eight new companies and will acquire new data products from six existing Commercial Satellite Data Acquisition contract holders to expand the range of commercial satellite data available to researchers, civil agencies, and decision-makers. Such measurements supplement NASA’s Earth satellites by contributing high-resolution and frequent observations to enhance the agency’s set of data. […]",
-          "isoDate": "2026-06-18T20:13:41.000Z"
-        },
-        {
-          "title": "From Suriname to Space: Rohit Goeptar Shares His Journey to NASA",
-          "link": "https://www.nasa.gov/centers-and-facilities/kennedy/from-suriname-to-space-rohit-goeptars-shares-his-journey-to-nasa/",
-          "summary": "Rohit Goeptar was born into a poor family in Suriname, South America, the kind where both parents work three jobs and they still can only provide food and shelter for their family. At around age six, his family moved to California to start a new life. Only two years later, he moved back to South America […]",
-          "isoDate": "2026-06-18T19:06:26.000Z"
-        },
-        {
-          "title": "Desert Field Test With NASA Advanced Rover Prototype",
-          "link": "https://science.nasa.gov/photojournal/desert-field-test-with-nasa-advanced-rover-prototype/",
-          "summary": "Description A prototype four-wheel rover developed at NASA’s Jet Propulsion Laboratory with advanced mobility and robotic autonomy capabilities trundled across the Colorado Desert near Plaster City, California, during a field test in March 2026. Called ERNEST (Exploration Rover for Navigating Extreme Sloped Terrain), the rover served here as a testbed for autonomy software developed for […]",
-          "isoDate": "2026-06-18T18:29:50.000Z"
+          "title": "CD4+ T cells impair tumor growth through IL-3 and TNF-dependent vascular damage",
+          "link": "https://www.science.org/doi/abs/10.1126/science.ads7910?af=R",
+          "summary": "Science, Volume 392, Issue 6804, June 2026.",
+          "isoDate": "2026-06-18T07:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 69\nColumn: 41\nChar: &",
-          "isoDate": "2026-06-22T04:11:51.805Z"
+          "isoDate": "2026-06-22T11:52:53.349Z"
         },
         {
           "title": "It's not just about nudity warns actress - the complex reality of images and online abuse",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 84\nColumn: 559\nChar:  ",
-          "isoDate": "2026-06-22T04:11:56.017Z"
+          "isoDate": "2026-06-22T11:52:56.231Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-06-22T04:11:53.330Z"
+          "isoDate": "2026-06-22T11:52:55.019Z"
         },
         {
           "title": "War Taught this Ukrainian Entrepreneur the Value of Resilience",
