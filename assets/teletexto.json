@@ -1,10 +1,34 @@
 {
-  "generatedAt": "2026-06-23T03:31:59.077Z",
+  "generatedAt": "2026-06-23T09:37:44.868Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Elephant alert! AI warning systems aim to avoid deadly clashes",
+          "link": "https://www.technologyreview.com/2026/06/23/1138562/elephant-alert-ai-warning-systems-avoid-deadly-clashes-india/",
+          "summary": "India is home to about 60% of the world’s wild Asian elephants, and around 80% of the animals’ habitat lies outside protected areas, according to the Ministry of Environment, Forest, and Climate Change. That brings people and wildlife into close contact, and clashes can turn lethal: There have been some 3,000 human casualties in the…",
+          "isoDate": "2026-06-23T09:00:00.000Z"
+        },
+        {
+          "title": "The $400 million machine powering the future of chipmaking",
+          "link": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
+          "summary": "Jos Benschop is climbing a ladder to get to the top of his newest machine.  It’s a bit of a schlep. The contraption is the size of a double-decker bus—more than 150 tons of gleaming precision-milled aluminum covered in thousands of snaking tubes, colored cables, and pressurized tanks. From the ground, it looks like a…",
+          "isoDate": "2026-06-23T09:00:00.000Z"
+        },
+        {
+          "title": "Amflow&#8217;s TL e-bike is ready for baby&#8217;s first mountain adventure",
+          "link": "https://www.theverge.com/transportation/954291/amflows-tl-e-bike-is-ready-for-babys-first-mountain-adventure",
+          "summary": "A family “eSUV” designed to be fun and practical. | Image: Amflow\t\n\nAmflow, the e-bike brand spun out of DJI, just announced its TL Carbon, a do-it-all \"eSUV\" suitable for both bikepacking adventures and dropping the kid at daycare on your cycle to work.\nThe TL Carbon is built around Amflow's incredibly compact yet powerful Avinox M2 mid-drive motor. The all-terrain e-bike offers 125Nm of hill-flattening torque and up to 1100W of peak output. It supports up to 1280Wh of battery capacity when its 800Wh removable battery is paired with a 480Wh extender. You can even opt for a hub that charges up to four batteries sequentially.\nThis sport-tourer comes standard with mudguards, integrated lights, and a rear rac …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-23T07:00:20.000Z"
+        },
+        {
+          "title": "With Starfall, SpaceX eyes an edge in global cargo delivery from orbit",
+          "link": "https://arstechnica.com/space/2026/06/with-starfall-spacex-eyes-an-edge-in-global-cargo-delivery-from-orbit/",
+          "summary": "The purpose of Starfall is to support the \"transport and delivery of goods through space.\"",
+          "isoDate": "2026-06-23T05:25:16.000Z"
+        },
         {
           "title": "Nvidia says its AI data center design runs hotter to use a lot less water",
           "link": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
@@ -40,30 +64,6 @@
           "link": "https://arstechnica.com/tech-policy/2026/06/polymarkets-viral-videos-showed-people-winning-big-but-the-bets-were-fake/",
           "summary": "\"Winning\" bets were made on cloned website and would have lost money, WSJ finds.",
           "isoDate": "2026-06-22T20:10:34.000Z"
-        },
-        {
-          "title": "AI is cursing renters with the promise of impossible homes",
-          "link": "https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings",
-          "summary": "Joyce, a native New Yorker, didn't think finding her first solo apartment in the city would be easy. But she also didn't think it'd be \"hell.\" After looking at a lot of tiny, overpriced places she described as \"shitholes,\" Joyce found her dream apartment: a reasonably priced studio in Manhattan. \n\"It was big and airy, and there was a fireplace,\" she said. The kitchen was small but well equipped and looked like it had been recently renovated. She dropped everything to see the apartment, and when she got there, she learned that five other women, all around her age, had viewings scheduled after hers.\n\"I get in, and it's not the same apartment …\nRead the full story at The Verge.",
-          "isoDate": "2026-06-22T20:00:00.000Z"
-        },
-        {
-          "title": "Following user outcry, AMD reinstates memory encryption in consumer CPUs",
-          "link": "https://arstechnica.com/security/2026/06/following-user-outcry-amd-reinstates-memory-encryption-in-consumer-cpus/",
-          "summary": "Critics saw the move as an underhanded way to steer them toward more costly chips.",
-          "isoDate": "2026-06-22T19:16:52.000Z"
-        },
-        {
-          "title": "Valve's Steam Machine ships June 29 for $1,049, but you probably won't be able to buy one yet",
-          "link": "https://arstechnica.com/gaming/2026/06/valves-steam-machine-ships-june-29-for-1049-but-you-probably-wont-be-able-to-buy-one-yet/",
-          "summary": "Valve says it's using a randomized purchase queue to make the experience \"less frustrating and more fair.\"",
-          "isoDate": "2026-06-22T19:02:45.000Z"
-        },
-        {
-          "title": "Three things to watch amid Anthropic’s latest feud with the government",
-          "link": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
-          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. For those of you enjoying your summer unaware of Anthropic’s latest feud with the US government, here’s a recap: In April the company said it had built an AI model called Mythos…",
-          "isoDate": "2026-06-22T18:00:00.000Z"
         }
       ]
     },
@@ -75,7 +75,31 @@
           "title": "ERROR cargando feed",
           "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
           "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-06-23T03:31:48.568Z"
+          "isoDate": "2026-06-23T09:37:38.816Z"
+        },
+        {
+          "title": "Nepal’s new science ministry must strengthen scientific capacity",
+          "link": "https://www.nature.com/articles/d41586-026-01970-2",
+          "summary": "Nature, Published online: 23 June 2026; doi:10.1038/d41586-026-01970-2\nNepal’s new science ministry must strengthen scientific capacity",
+          "isoDate": "2026-06-23T00:00:00.000Z"
+        },
+        {
+          "title": "Academic success still assumes uninterrupted careers",
+          "link": "https://www.nature.com/articles/d41586-026-01971-1",
+          "summary": "Nature, Published online: 23 June 2026; doi:10.1038/d41586-026-01971-1\nAcademic success still assumes uninterrupted careers",
+          "isoDate": "2026-06-23T00:00:00.000Z"
+        },
+        {
+          "title": "The halo effect: how academic hierarchy undermines peer review and enables fraud",
+          "link": "https://www.nature.com/articles/d41586-026-01969-9",
+          "summary": "Nature, Published online: 23 June 2026; doi:10.1038/d41586-026-01969-9\nThe halo effect: how academic hierarchy undermines peer review and enables fraud",
+          "isoDate": "2026-06-23T00:00:00.000Z"
+        },
+        {
+          "title": "Do not leave fungi out of impact assessments",
+          "link": "https://www.nature.com/articles/d41586-026-01972-0",
+          "summary": "Nature, Published online: 23 June 2026; doi:10.1038/d41586-026-01972-0\nDo not leave fungi out of impact assessments",
+          "isoDate": "2026-06-23T00:00:00.000Z"
         },
         {
           "title": "C-glycoside synthesis via radical cross-coupling of glycohydrazides",
@@ -106,30 +130,6 @@
           "link": "https://www.nature.com/articles/d41586-026-01909-7",
           "summary": "Nature, Published online: 22 June 2026; doi:10.1038/d41586-026-01909-7\nTwo research teams have created a new, long-awaited type of timekeeper.",
           "isoDate": "2026-06-22T00:00:00.000Z"
-        },
-        {
-          "title": "Will AI spark a scientific renaissance — or a diffuse monoculture?",
-          "link": "https://www.nature.com/articles/d41586-026-01954-2",
-          "summary": "Nature, Published online: 22 June 2026; doi:10.1038/d41586-026-01954-2\nArtificial intelligence’s ability to enrich science will depend not only on model capability, but also on whether researchers, reviewers and funders reward originality over speed.",
-          "isoDate": "2026-06-22T00:00:00.000Z"
-        },
-        {
-          "title": "Forty years of high-temperature superconductivity",
-          "link": "https://www.nature.com/articles/d41586-026-01801-4",
-          "summary": "Nature, Published online: 22 June 2026; doi:10.1038/d41586-026-01801-4\nThe first demonstration of superconductivity at 35 kelvin drove decades of materials research and introduced a puzzle about this strange state of matter.",
-          "isoDate": "2026-06-22T00:00:00.000Z"
-        },
-        {
-          "title": "Make science more reliable: study people as they go about their lives",
-          "link": "https://www.nature.com/articles/d41586-026-01957-z",
-          "summary": "Nature, Published online: 22 June 2026; doi:10.1038/d41586-026-01957-z\nResearchers have long discussed the replication crisis. Now it’s time to tackle another problem in the behavioural sciences: generalizability.",
-          "isoDate": "2026-06-22T00:00:00.000Z"
-        },
-        {
-          "title": "Cancer cells adopt unprecedented strategies to produce a molecule that protects them from iron-dependent death",
-          "link": "https://www.nature.com/articles/d41586-026-01802-3",
-          "summary": "Nature, Published online: 22 June 2026; doi:10.1038/d41586-026-01802-3\nThe finding that spermine molecules in cells bind to iron to prevent it unleashing ferroptosis, a type of cell death, opens up strategies for treating tissue damage and cancer.",
-          "isoDate": "2026-06-22T00:00:00.000Z"
         }
       ]
     },
@@ -141,61 +141,61 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 69\nColumn: 41\nChar: &",
-          "isoDate": "2026-06-23T03:31:51.040Z"
+          "isoDate": "2026-06-23T09:37:40.473Z"
         },
         {
-          "title": "Millions of iCloud users could claim share of £3bn after Apple case given UK green light",
-          "link": "https://www.bbc.com/news/articles/c932d1r0p96o?at_medium=RSS&at_campaign=rss",
+          "title": "How 100 hospitals switched to pen and paper to defeat a national cyber-attack",
+          "link": "https://www.bbc.co.uk/news/articles/c4gyk756mzlo?at_medium=RSS&at_campaign=rss",
+          "summary": "For four days, dozens of Romanian hospitals went offline, as cyber-experts sought to defeat the hackers.",
+          "isoDate": "2026-06-22T23:31:21.000Z"
+        },
+        {
+          "title": "Millions in UK could claim share of £3bn after Apple case given green light",
+          "link": "https://www.bbc.co.uk/news/articles/c932d1r0p96o?at_medium=RSS&at_campaign=rss",
           "summary": "Apple rejected the suggestion its practices are anti-competitive, saying many customers rely on third-party alternatives.",
           "isoDate": "2026-06-22T23:02:33.000Z"
         },
         {
           "title": "Do you know your 'sweat score'? The rise of hydration tech",
-          "link": "https://www.bbc.com/news/articles/c5yz5z72lqgo?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/news/articles/c5yz5z72lqgo?at_medium=RSS&at_campaign=rss",
           "summary": "Hydration tracking gadgets are flooding the market but is it too much information?",
           "isoDate": "2026-06-22T23:01:11.000Z"
         },
         {
           "title": "WhatsApp to be led by Indian start-up founder as Will Cathcart steps back",
-          "link": "https://www.bbc.com/news/articles/c8e2195k5j2o?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/news/articles/c8e2195k5j2o?at_medium=RSS&at_campaign=rss",
           "summary": "WhatsApp's leadership shake-up comes as Meta looks to strengthen its app's already booming presence in India.",
           "isoDate": "2026-06-22T15:57:46.000Z"
         },
         {
           "title": "It's not just about nudity warns actress - the complex reality of images and online abuse",
-          "link": "https://www.bbc.com/news/articles/c8621dqewxzo?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/news/articles/c8621dqewxzo?at_medium=RSS&at_campaign=rss",
           "summary": "Tech companies and authorities are failing women by focusing on nudity rather than consent, says a report by Chayn.",
           "isoDate": "2026-06-21T23:21:05.000Z"
         },
         {
           "title": "Why an AI company cleaned my New York City apartment for free",
-          "link": "https://www.bbc.com/news/articles/cpwerjy20kyo?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/news/articles/cpwerjy20kyo?at_medium=RSS&at_campaign=rss",
           "summary": "An AI company is sending free cleaners door-to-door in a bid to train the robots it hopes one day will replace them.",
           "isoDate": "2026-06-20T23:18:55.000Z"
         },
         {
           "title": "How the social media ban could reshape how all of us use the internet",
-          "link": "https://www.bbc.com/news/articles/c1jy512r19ro?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/news/articles/c1jy512r19ro?at_medium=RSS&at_campaign=rss",
           "summary": "Why some argue the social media ban could have a profound affect on how young people gain new knowledge and the rest of us move around online",
           "isoDate": "2026-06-20T23:18:12.000Z"
         },
         {
           "title": "New video game console aims to get kids moving",
-          "link": "https://www.bbc.com/news/articles/czx50rrz7zro?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/news/articles/czx50rrz7zro?at_medium=RSS&at_campaign=rss",
           "summary": "The Nex Playground will cost £269 (€319) when it is released on 22 June in the UK and Ireland.",
           "isoDate": "2026-06-20T01:10:51.000Z"
         },
         {
           "title": "UK's top data and AI regulator quits after 'inappropriate' humour",
-          "link": "https://www.bbc.com/news/articles/c0eyq7rnn22o?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/news/articles/c0eyq7rnn22o?at_medium=RSS&at_campaign=rss",
           "summary": "Edwards has been the boss of the data watchdog since January 2022, and said he had made inappropriate attempts at humour.",
           "isoDate": "2026-06-19T20:28:33.000Z"
-        },
-        {
-          "title": "GTA 6 - all you need to know about Rockstar's blockbuster game",
-          "link": "https://www.bbc.com/news/articles/c9q20djz4wno?at_medium=RSS&at_campaign=rss",
-          "summary": "Rockstar's sixth game in the franchise is set to be the biggest game release of the year.",
-          "isoDate": "2026-06-19T11:21:09.000Z"
         }
       ]
     },
@@ -204,15 +204,27 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-          "link": "https://openai.com/index/patch-the-planet",
-          "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
-          "isoDate": "2026-06-22T10:00:00.000Z"
+          "title": "New chip could help tiny robots traverse complex environments",
+          "link": "https://news.mit.edu/2026/new-chip-could-help-tiny-robots-traverse-complex-environments-0623",
+          "summary": "Researchers combined an efficient algorithm with dedicated hardware to rapidly generate 3D maps for navigation using minimal memory and power.",
+          "isoDate": "2026-06-23T04:00:00.000Z"
+        },
+        {
+          "title": "How Omio is building the future of conversational travel",
+          "link": "https://openai.com/index/omio",
+          "summary": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
+          "isoDate": "2026-06-23T00:00:00.000Z"
         },
         {
           "title": "Daybreak: Tools for securing every organization in the world",
           "link": "https://openai.com/index/daybreak-securing-the-world",
           "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+          "isoDate": "2026-06-22T10:00:00.000Z"
+        },
+        {
+          "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+          "link": "https://openai.com/index/patch-the-planet",
+          "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
           "isoDate": "2026-06-22T10:00:00.000Z"
         },
         {
@@ -250,18 +262,6 @@
           "link": "https://openai.com/index/diagnose-rare-childhood-diseases",
           "summary": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
           "isoDate": "2026-06-18T08:00:00.000Z"
-        },
-        {
-          "title": "MIT in the media: For the future of tech, \"Massachusetts can absolutely lead\"",
-          "link": "https://news.mit.edu/2026/mit-media-future-tech-massachusetts-can-absolutely-lead",
-          "summary": "Leaders, faculty across MIT discuss fostering innovation and talent in Greater Boston in special series of articles published alongside the outlet's annual list of 'Tech Power Players'",
-          "isoDate": "2026-06-18T04:00:00.000Z"
-        },
-        {
-          "title": "In game theory, generalists sometimes win out over specialists",
-          "link": "https://news.mit.edu/2026/game-theory-generalists-sometimes-win-out-over-specialists-0617",
-          "summary": "Researchers show that for certain kinds of games, an overlooked class of algorithms performs much better than expected.",
-          "isoDate": "2026-06-17T19:20:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 84\nColumn: 559\nChar:  ",
-          "isoDate": "2026-06-23T03:31:57.880Z"
+          "isoDate": "2026-06-23T09:37:43.696Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-06-23T03:31:52.862Z"
+          "isoDate": "2026-06-23T09:37:42.035Z"
         },
         {
           "title": "Commemorating 70 Years of Artificial Intelligence",
