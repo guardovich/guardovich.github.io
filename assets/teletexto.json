@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-06-25T03:31:26.365Z",
+  "generatedAt": "2026-06-25T09:20:31.151Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Facebook’s Creator Studio has been revived as an AI companion app",
+          "link": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
+          "summary": "This is what the new Creator Studio app looks like, after the original service was shuttered in 2023. | Image: Meta\t\n\nMeta is bringing back the Facebook Creator Studio page manager, now \"reimagined\" as a standalone AI companion app. The new app aims to make it easier for creators to connect with their audiences, and show them \"exactly how to grow on Facebook,\" according to Meta's announcement.\nMeta's AI Creator Assistant is a central focus of the newly reimagined app - users can ask the chatbot to provide performance tracking insights and tailored recommendations for improving engagement. It can also be used to find \"the most important comments\" left by the user's audience, and \"instantly draft replies in your voice.\"\nThe Creator Studio app isn't widely a …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-25T09:06:19.000Z"
+        },
         {
           "title": "The top tech Prime Day deals to shop on day two",
           "link": "https://www.theverge.com/gadgets/955366/best-prime-day-2026-tech-deals-day-two-sale",
@@ -58,12 +64,6 @@
           "link": "https://arstechnica.com/health/2026/06/us-ends-hantavirus-outbreak-response-with-no-answers-on-draconian-quarantines/",
           "summary": "We still don't know why RFK Jr. overruled CDC expert to order strict quarantines.",
           "isoDate": "2026-06-24T21:28:39.000Z"
-        },
-        {
-          "title": "One-two punch delivered in global operation disrupts cybercrime \"assembly line\"",
-          "link": "https://arstechnica.com/security/2026/06/one-two-punch-delivered-in-global-operation-disrupts-cybercrime-assembly-line/",
-          "summary": "\"Operation Endgame\" simultaneously disrupts two widely used crime tools.",
-          "isoDate": "2026-06-24T21:03:34.000Z"
         }
       ]
     },
@@ -71,6 +71,12 @@
       "header": "120  CIENCIA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "A Turquoise Tint for the Black Sea",
+          "link": "https://science.nasa.gov/earth/earth-observatory/a-turquoise-tint-for-the-black-sea/",
+          "summary": "Phytoplankton added a milky blue hue to the waters of the Black Sea and nearby waterways in spring and summer 2026.",
+          "isoDate": "2026-06-25T04:00:00.000Z"
+        },
         {
           "title": "NASA’s TESS Mission Reveals the “Puffiest” Planets Ever Found",
           "link": "https://science.nasa.gov/missions/tess/nasas-tess-mission-reveals-the-puffiest-planets-ever-found/",
@@ -124,12 +130,6 @@
           "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4927-4933-lets-drive-to-that-smooth-area/",
           "summary": "By Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Thursday, June 18, 2026 In the area Curiosity is currently exploring, the science team has mapped several areas with different-looking surface texture on the orbital images. If you wanted to have a look yourself at what there is to […]",
           "isoDate": "2026-06-24T04:34:37.000Z"
-        },
-        {
-          "title": "Playing the Moon Game ",
-          "link": "https://science.nasa.gov/earth/earth-observatory/playing-the-moon-game/",
-          "summary": "Apollo astronauts previewed their roles as lunar field geologists in Alaska’s Valley of Ten Thousand Smokes.",
-          "isoDate": "2026-06-24T04:01:00.000Z"
         }
       ]
     },
@@ -141,13 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 69\nColumn: 41\nChar: &",
-          "isoDate": "2026-06-25T03:31:21.041Z"
+          "isoDate": "2026-06-25T09:20:24.813Z"
         },
         {
-          "title": "Anthropic accuses Chinese rival Alibaba of illicitly extracting AI capabilities",
-          "link": "https://www.bbc.co.uk/news/articles/cwyklykn5dwo?at_medium=RSS&at_campaign=rss",
-          "summary": "The firm alleged that Alibaba used fraudulent accounts to access data from its Claude AI model.",
-          "isoDate": "2026-06-25T03:12:17.000Z"
+          "title": "GTA 6 - all you need to know about Rockstar's blockbuster game",
+          "link": "https://www.bbc.co.uk/news/articles/c9q20djz4wno?at_medium=RSS&at_campaign=rss",
+          "summary": "Rockstar's sixth game in the franchise is set to be the biggest game release of the year.",
+          "isoDate": "2026-06-25T07:47:54.000Z"
         },
         {
           "title": "GTA 6 will cost £70 - and physical edition will not contain a disc",
@@ -204,6 +204,18 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "Improving the speed and energy-efficiency of AI agents",
+          "link": "https://news.mit.edu/2026/improving-ai-agent-speed-and-energy-efficiency-0625",
+          "summary": "A new system, known as Murakkab, optimizes the design and deployment of multistep workflows that power AI applications.",
+          "isoDate": "2026-06-25T04:00:00.000Z"
+        },
+        {
+          "title": "How agents are transforming work",
+          "link": "https://openai.com/index/how-agents-are-transforming-work",
+          "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
+          "isoDate": "2026-06-25T02:00:00.000Z"
+        },
+        {
           "title": "Introducing computer use in Gemini 3.5 Flash",
           "link": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
           "summary": "",
@@ -246,22 +258,10 @@
           "isoDate": "2026-06-23T00:00:00.000Z"
         },
         {
-          "title": "Daybreak: Tools for securing every organization in the world",
-          "link": "https://openai.com/index/daybreak-securing-the-world",
-          "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
-          "isoDate": "2026-06-22T10:00:00.000Z"
-        },
-        {
           "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
           "link": "https://openai.com/index/patch-the-planet",
           "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
           "isoDate": "2026-06-22T10:00:00.000Z"
-        },
-        {
-          "title": "Codex-maxxing for long-running work",
-          "link": "https://openai.com/index/codex-maxxing-long-running-work",
-          "summary": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
-          "isoDate": "2026-06-22T00:00:00.000Z"
         }
       ]
     },
@@ -273,19 +273,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 84\nColumn: 559\nChar:  ",
-          "isoDate": "2026-06-25T03:31:24.940Z"
+          "isoDate": "2026-06-25T09:20:29.397Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://spectrum.ieee.org/rss/fulltext",
           "summary": "Feed not recognized as RSS 1 or 2.",
-          "isoDate": "2026-06-25T03:31:22.579Z"
+          "isoDate": "2026-06-25T09:20:27.345Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-06-25T03:31:22.217Z"
+          "isoDate": "2026-06-25T09:20:26.516Z"
         }
       ]
     },
