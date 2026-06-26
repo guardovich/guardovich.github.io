@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-06-26T03:38:52.504Z",
+  "generatedAt": "2026-06-26T09:25:29.886Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Heat waves mess with your brain. Scientists are trying to figure out why.",
+          "link": "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/",
+          "summary": "It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western Europe. Yesterday, the UK recorded its highest ever June temperature at 36.1 °C (about 97 °F). But as the weather app on my phone confirmed, it felt like 39 °C. It’s frightening that we are seeing such temperatures in…",
+          "isoDate": "2026-06-26T09:00:00.000Z"
+        },
+        {
+          "title": "Trump Mobile will take your $499 right now",
+          "link": "https://www.theverge.com/tech/957521/trump-mobile-t1-phone-open-sale-no-deposit",
+          "summary": "Yours for $499 (plus tax and an indeterminate amount of time for processing and shipping). | Screenshot: Trump Mobile\t\n\nWhere's the Trump phone? We're going to keep talking about it every week. We still don't have the phones we preordered yet, but this week the T1 hit open sale, no deposit required.\nTrump Mobile's T1 Phone is now available for anyone to buy directly. The phone has previously trickled out to a small number of preorder customers - though The Verge is still waiting for both of its handsets - but now you can claim your own without having to place a $100 deposit.\nAndroid Authority spotted the change to the Trump Mobile website, which now lets you pay $499 directly for the phone, rather than paying $100 first. In true Trump Mobile fashion, they'v …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-26T08:40:21.000Z"
+        },
         {
           "title": "This year’s Prime Day deals on Apple products are the best I’ve seen",
           "link": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
@@ -52,18 +64,6 @@
           "link": "https://www.theverge.com/tech/956456/instagram-for-tv-youtube-microdramas-longform-video",
           "summary": "This week, Instagram launched a series of new features for its smart TV app that are all designed to get people to spend more time on the platform through the biggest screens in their homes. In addition to vertical Reels, Instagram for TV - which is currently available for Amazon Fire TV, Google TV, and Samsung Smart TVs - users can now watch disappearing Stories and horizontal videos with aspect ratios similar to what you typically see on YouTube. And soon, Instagram will make a big push for longform, episodic content and TV-focused \"live creator experiences.\"\nThis foray into the TV space feels very different from the Meta-owned company's  …\nRead the full story at The Verge.",
           "isoDate": "2026-06-25T20:10:24.000Z"
-        },
-        {
-          "title": "FCC may kill $2B program that connects schools and libraries to Internet",
-          "link": "https://arstechnica.com/tech-policy/2026/06/fcc-may-kill-2b-program-that-connects-schools-and-libraries-to-internet/",
-          "summary": "Carr cites screen time concerns, is accused of trying to be \"the nation’s parent.\"",
-          "isoDate": "2026-06-25T20:01:08.000Z"
-        },
-        {
-          "title": "RAMageddon just got extremely real",
-          "link": "https://www.theverge.com/tech/956950/ram-crisis-apple-price-increase",
-          "summary": "Even Tim Cook couldn’t supply chain his way out of the RAM crisis. | Photo: Allison Johnson / The Verge\t\n\nAs far as prices go, Apple is kind of a reverse canary in the coal mine. \nWith its famously generous margins and immense purchasing volume, it can afford to ride out price fluctuations in its supply chain in a way no other consumer tech company can. So when Apple raises prices across nearly all of its product lines, you know that shit is well and truly real.\nThat's what happened earlier today: Apple increased pricing across Macs, iPads, HomePods, and even the Vision Pro. Prices jumped hundreds of dollars in many cases. The MacBook Neo's key feature - a $599 starting price - is now $699. The iPhone appears to be safe for now, but I'd be sho …\nRead the full story at The Verge.",
-          "isoDate": "2026-06-25T20:00:00.000Z"
         }
       ]
     },
@@ -72,34 +72,10 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "Expedition 73 Crew Reflects on Science, Teamwork, and Life in Orbit ",
-          "link": "https://www.nasa.gov/centers-and-facilities/johnson/expedition-73-crew-reflects-on-science-teamwork-and-life-in-orbit/",
-          "summary": "On June 16, astronauts and cosmonauts gathered at Space Center Houston to share stories from their missions aboard the International Space Station and recognize the teamwork and people on the ground that made their missions possible.  The Expedition 73 Welcome Home Ceremony brought together members of NASA’s SpaceX Crew-10, Soyuz MS-27, and NASA’s SpaceX Crew-11 missions. […]",
-          "isoDate": "2026-06-25T21:30:32.000Z"
-        },
-        {
-          "title": "NASA, US Small Business Administration to Announce Partnership",
-          "link": "https://www.nasa.gov/news-release/nasa-us-small-business-administration-to-announce-partnership/",
-          "summary": "NASA and the U.S. Small Business Administration will sign a memorandum of agreement during a ceremony at 1 p.m. EDT, Monday, June 29, at NASA Headquarters in Washington. The agreement will create a new interagency initiative that directly responds to President Donald J. Trump’s National Space Policy and supports the growth of the American space […]",
-          "isoDate": "2026-06-25T21:10:38.000Z"
-        },
-        {
-          "title": "NASA Welcomes Botswana as 68th Artemis Accords Signatory  ",
-          "link": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-botswana-as-68th-artemis-accords-signatory/",
-          "summary": "The Republic of Botswana signed the Artemis Accords Thursday during a ceremony hosted by NASA at the agency’s headquarters in Washington, becoming the sixth African nation to join a growing community of nations committed to the peaceful, transparent, and responsible exploration of space. “It is my privilege to welcome Botswana as the newest signatory of the Artemis Accords,” said NASA Deputy […]",
-          "isoDate": "2026-06-25T21:09:42.000Z"
-        },
-        {
-          "title": "NASA Selects Rocket Lab to Launch Sun, Earth Science Missions",
-          "link": "https://www.nasa.gov/missions/tsis-2/nasa-selects-rocket-lab-to-launch-sun-earth-science-missions/",
-          "summary": "NASA has selected Rocket Lab to provide the launch service for both the agency’s PolSIR (Polarized Submillimeter Ice-cloud Radiometer) and Total and Spectral Solar Irradiance Sensor-2 (TSIS-2) missions. The two selections are part of NASA’s Venture-Class Acquisition of Dedicated and Rideshare (VADR) launch services contract. This contract allows the agency to award fixed-price indefinite-delivery/indefinite-quantity launch […]",
-          "isoDate": "2026-06-25T20:06:40.000Z"
-        },
-        {
-          "title": "Millions of Stars in Cigar Galaxy",
-          "link": "https://www.nasa.gov/image-article/millions-of-stars-in-cigar-galaxy/",
-          "summary": "NASA’s James Webb Space Telescope recently observed edge-on starburst galaxy Messier 82 (M82), nicknamed the Cigar Galaxy. Webb’s new view of M82, added to archival data from NASA’s Hubble Space Telescope, gives us a more complete picture of this starburst galaxy. Because Webb can see infrared light, it is able to peer through clouds of […]",
-          "isoDate": "2026-06-25T16:24:23.000Z"
+          "title": "ERROR cargando feed",
+          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
+          "isoDate": "2026-06-26T09:25:24.595Z"
         },
         {
           "title": "Single-cell multiomics of neuron activation reveals context-specific genetics of brain disorders",
@@ -130,6 +106,30 @@
           "link": "https://www.science.org/doi/abs/10.1126/science.adz8141?af=R",
           "summary": "Science, Volume 392, Issue 6805, June 2026.",
           "isoDate": "2026-06-25T07:00:00.000Z"
+        },
+        {
+          "title": "Ubiquitin-like proteins NEDD8 and SUMO2 control epithelial homeostasis, regeneration, and inflammation",
+          "link": "https://www.science.org/doi/abs/10.1126/science.aeb3900?af=R",
+          "summary": "Science, Volume 392, Issue 6805, June 2026.",
+          "isoDate": "2026-06-25T07:00:00.000Z"
+        },
+        {
+          "title": "Iron-catalyzed active lipid peroxides drive ultrafast collective cell death in blooming algae",
+          "link": "https://www.science.org/doi/abs/10.1126/science.aed3823?af=R",
+          "summary": "Science, Volume 392, Issue 6805, June 2026.",
+          "isoDate": "2026-06-25T07:00:00.000Z"
+        },
+        {
+          "title": "Structural N- and O-glycans revealed by high-resolution cryo-EM analysis of tubular mastigonemes",
+          "link": "https://www.science.org/doi/abs/10.1126/science.aef4958?af=R",
+          "summary": "Science, Volume 392, Issue 6805, June 2026.",
+          "isoDate": "2026-06-25T07:00:00.000Z"
+        },
+        {
+          "title": "Erratum for the Report “Covalently bonded single-molecule junctions with stable and reversible photoswitched conductivity” by C. Jia et al.",
+          "link": "https://www.science.org/doi/abs/10.1126/science.aej5835?af=R",
+          "summary": "Science, Volume 392, Issue 6805, June 2026.",
+          "isoDate": "2026-06-25T07:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 69\nColumn: 41\nChar: &",
-          "isoDate": "2026-06-26T03:38:47.892Z"
+          "isoDate": "2026-06-26T09:25:25.908Z"
         },
         {
           "title": "Teens who hacked TfL were known to police years before cyber-attack",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 84\nColumn: 559\nChar:  ",
-          "isoDate": "2026-06-26T03:38:51.261Z"
+          "isoDate": "2026-06-26T09:25:28.490Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-06-26T03:38:49.942Z"
+          "isoDate": "2026-06-26T09:25:27.216Z"
         },
         {
           "title": "Why Does a Bank Need a Chief Scientist?",
