@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-06-28T19:18:25.538Z",
+  "generatedAt": "2026-06-29T03:53:02.323Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+          "summary": "China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from Anthropic and OpenAI in other, more general tasks, it seems that China has dramatically reduced the gap in the capabilities between its models and those of the US.\nThis level of advancement is particularly concerning to the US government, which has worked to restrict China's access to powerful models like Anthropic's Mythos and Fable, as well as the hardware necessary to train and run them. The Trump administration views Mythos and other advan …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-28T21:42:51.000Z"
+        },
+        {
+          "title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
+          "summary": "Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. Spark is their new incubator program for independent artists that provides grants, mentorship, and marketing support.\nTo apply, artists need to be an unsigned singer, songwriter, or producer releasing music under their own name. They also need to agree to some terms and conditions that have raised some eyebrows over on the Suno subreddit. For one, you need to agree to make your songs available on Suno for remixing. That's not necessarily super concerning, but the broad license it grants Suno to your works …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-28T20:27:36.000Z"
+        },
         {
           "title": "Why did this journal retract two 1940s papers by Max Planck?",
           "link": "https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/",
@@ -52,18 +64,6 @@
           "link": "https://www.theverge.com/entertainment/958723/teenage-engineering-os-25-ep-133-ko-ii-sampler",
           "summary": "Teenage Engineering has already issued multiple substantial updates for its surprisingly capable $329 EP-133 KO II sampler. Its latest is one of the biggest yet. OS 2.5 adds audio over USB, selectable sample rates for lo-fi fun, sample reverse, an arpeggiator, equal-length autochopping, and it extends the maximum length of a sample from 20 seconds to 40 seconds by capturing mono, instead of stereo, audio.\nSample reverse is such a simple feature that it's shocking it wasn't implemented earlier. An arpeggiator doesn't always make a ton of sense on a sampler, but the KO II sounds so incredible repitching samples (like the SK-1 successor I've a …\nRead the full story at The Verge.",
           "isoDate": "2026-06-27T21:20:32.000Z"
-        },
-        {
-          "title": "Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
-          "summary": "Margaret Atwood onstage at Detroit Opera House on January 26, 2026 | Photo: Monica Morgan/Getty Images\t\n\nMaraget Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at these things, the issue of AI came up, and Atwood didn't mince words. \nAccording to Deadline's recap, Atwood said she'd used an AI chatbot exactly once, Anthropic's Claude, and came away unimpressed. She was looking for information about the British detective series Father Brown and, well:\n\"Claude gave me the wrong answer, or it lied. Of course, it didn't know it was lying because it's not a human being; it's a large language model… It had skimmed a …\n\nRead the full story at The Verge.",
-          "isoDate": "2026-06-27T18:39:32.000Z"
-        },
-        {
-          "title": "Apple wants permission to buy memory from a blacklisted Chinese supplier",
-          "link": "https://www.theverge.com/tech/958707/apple-ram-buy-memory-blacklisted-china-cxmt",
-          "summary": "Apple is looking to alleviate some of the pressure on its supply chain by seeking an exception from the Trump administration to buy RAM chips from CXMT, a company blacklisted by the Pentagon over ties to the People's Liberation Army, according to the Financial Times. The skyrocketing prices of RAM and storage have driven Apple to raise prices on almost all of its products this week, so it makes sense that it would seek alternative sources. \nLegally, Apple isn't barred from buying chips from CXMT, but doing business with a company tied to the Chinese military would carry serious reputational risks. It's possible that CXMT could still find it …\nRead the full story at The Verge.",
-          "isoDate": "2026-06-27T17:28:18.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 69\nColumn: 41\nChar: &",
-          "isoDate": "2026-06-28T19:18:22.391Z"
+          "isoDate": "2026-06-29T03:52:56.960Z"
         },
         {
           "title": "Tech firms are blaming AI for mega device and console price rises",
@@ -204,6 +204,12 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+          "link": "https://openai.com/index/hp-frontier-partnership",
+          "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
+          "isoDate": "2026-06-28T17:00:00.000Z"
+        },
+        {
           "title": "David Autor named head of the Department of Economics",
           "link": "https://news.mit.edu/2026/david-autor-named-head-department-economics-0626",
           "summary": "A faculty member since 1999, Autor is a leading researcher in artificial intelligence and the work of the future.",
@@ -256,12 +262,6 @@
           "link": "https://news.mit.edu/2026/exploring-societal-impacts-of-ai-0623",
           "summary": "During the AI and Society Forum, leading MIT researchers examined critical questions about AI’s influence on employment and democracy.",
           "isoDate": "2026-06-23T20:40:00.000Z"
-        },
-        {
-          "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
-          "link": "https://openai.com/index/gpt-5-immunology-mystery",
-          "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
-          "isoDate": "2026-06-23T17:00:00.000Z"
         }
       ]
     },
@@ -273,19 +273,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 84\nColumn: 559\nChar:  ",
-          "isoDate": "2026-06-28T19:18:24.349Z"
+          "isoDate": "2026-06-29T03:53:00.463Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://spectrum.ieee.org/rss/fulltext",
           "summary": "Feed not recognized as RSS 1 or 2.",
-          "isoDate": "2026-06-28T19:18:23.894Z"
+          "isoDate": "2026-06-29T03:52:58.954Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-06-28T19:18:23.660Z"
+          "isoDate": "2026-06-29T03:52:58.226Z"
         }
       ]
     },
