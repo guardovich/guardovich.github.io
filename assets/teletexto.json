@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T03:53:02.323Z",
+  "generatedAt": "2026-06-29T10:58:22.100Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
@@ -72,6 +72,30 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "Trump has big AI and quantum ambitions: this scientist’s job is to make them reality",
+          "link": "https://www.nature.com/articles/d41586-026-02023-4",
+          "summary": "Nature, Published online: 29 June 2026; doi:10.1038/d41586-026-02023-4\nDarío Gil knows that researchers are sceptical of the massive US artificial-intelligence push — he’s asking them to keep an open mind.",
+          "isoDate": "2026-06-29T00:00:00.000Z"
+        },
+        {
+          "title": "How AI can crack open the ‘hidden curriculum’ for neurodivergent students",
+          "link": "https://www.nature.com/articles/d41586-026-01672-9",
+          "summary": "Nature, Published online: 29 June 2026; doi:10.1038/d41586-026-01672-9\nMarisa Chrysochoou and Keivan Stassun argue that AI tools could help students to navigate academia’s unwritten rules.",
+          "isoDate": "2026-06-29T00:00:00.000Z"
+        },
+        {
+          "title": "What’s the human cost of US research turmoil? A new film finds out",
+          "link": "https://www.nature.com/articles/d41586-026-01979-7",
+          "summary": "Nature, Published online: 29 June 2026; doi:10.1038/d41586-026-01979-7\nScience is a complex, interconnected, deeply human enterprise involving hard grind — and funding cuts and grant delays have come as a sucker punch to many.",
+          "isoDate": "2026-06-29T00:00:00.000Z"
+        },
+        {
+          "title": "Scientists fight back against far-right plans to restrict academic freedom in Germany",
+          "link": "https://www.nature.com/articles/d41586-026-01496-7",
+          "summary": "Nature, Published online: 29 June 2026; doi:10.1038/d41586-026-01496-7\nWith the far-right Alternative for Germany leading in polls for national and state elections, institutions are facing up to proposed restrictions on academic freedom.",
+          "isoDate": "2026-06-29T00:00:00.000Z"
+        },
+        {
           "title": "NASA Announces Winners for 2026 Human Lander Challenge",
           "link": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-announces-winners-for-2026-human-lander-challenge/",
           "summary": "NASA has announced the top student-developed solutions for environmental control and life support systems in future crewed lunar landers from participants in the 2026 Human Lander Challenge. The announcement marks the culmination of months of research by university teams working to advance technologies supporting the agency’s Artemis program that will return American astronauts to the […]",
@@ -106,30 +130,6 @@
           "link": "https://www.nasa.gov/centers-and-facilities/kennedy/bringing-signals-to-nasa/",
           "summary": "Growing up on the central California coast, watching rocket launches with his father was part of Eric Fernandez’s childhood routine. Fernandez had posters of rockets on the wall, but despite being fascinated by them, he never imagined one day this would be his career. Because both of his grandparents had served at Vandenberg Air Force […]",
           "isoDate": "2026-06-26T14:28:57.000Z"
-        },
-        {
-          "title": "NASA’s PACE Mission Studies Smoke, Fires",
-          "link": "https://science.nasa.gov/earth/nasas-pace-mission-studies-smoke-fires/",
-          "summary": "With the North American fire season underway, and a record number of acres already burned nationwide, NASA’s Plankton, Aerosol, Cloud, and ocean Ecosystem (PACE) satellite’s three instruments are observing vegetation precursors to fires, along with plumes of smoke and their movement. This data will help scientists piece together clues that deepen their understanding of wildfires. […]",
-          "isoDate": "2026-06-26T14:00:00.000Z"
-        },
-        {
-          "title": "Hubble Spies Starry Chandelier",
-          "link": "https://science.nasa.gov/missions/hubble/hubble-spies-starry-chandelier/",
-          "summary": "This NASA/ESA Hubble Space Telescope image features the globular cluster NGC 6723, sometimes called the Chandelier Cluster.",
-          "isoDate": "2026-06-26T13:40:12.000Z"
-        },
-        {
-          "title": "The Battle for Sullivan’s Island",
-          "link": "https://science.nasa.gov/earth/earth-observatory/the-battle-for-sullivans-island/",
-          "summary": "Marshy, sandy terrain and an impassable inlet helped colonial forces repel British forces during a pivotal battle on the barrier island near Charleston, South Carolina, on June 28, 1776.",
-          "isoDate": "2026-06-26T04:00:00.000Z"
-        },
-        {
-          "title": "Briefing Chat: What tickling a chimpanzee can tell us about the evolution of speech",
-          "link": "https://www.nature.com/articles/d41586-026-02059-6",
-          "summary": "Nature, Published online: 26 June 2026; doi:10.1038/d41586-026-02059-6\nNature staff discuss how apes share a rhythm of laughter, and how AI use may degrade skills in medicine and computer science.",
-          "isoDate": "2026-06-26T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 69\nColumn: 41\nChar: &",
-          "isoDate": "2026-06-29T03:52:56.960Z"
+          "isoDate": "2026-06-29T10:58:15.511Z"
         },
         {
           "title": "Tech firms are blaming AI for mega device and console price rises",
@@ -204,6 +204,12 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "Mapping Europe’s AI Workforce Opportunity",
+          "link": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+          "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
+          "isoDate": "2026-06-29T07:00:00.000Z"
+        },
+        {
           "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
           "link": "https://openai.com/index/hp-frontier-partnership",
           "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
@@ -256,12 +262,6 @@
           "link": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
           "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
           "isoDate": "2026-06-24T06:00:00.000Z"
-        },
-        {
-          "title": "Exploring the societal impacts of AI",
-          "link": "https://news.mit.edu/2026/exploring-societal-impacts-of-ai-0623",
-          "summary": "During the AI and Society Forum, leading MIT researchers examined critical questions about AI’s influence on employment and democracy.",
-          "isoDate": "2026-06-23T20:40:00.000Z"
         }
       ]
     },
@@ -273,19 +273,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 84\nColumn: 559\nChar:  ",
-          "isoDate": "2026-06-29T03:53:00.463Z"
+          "isoDate": "2026-06-29T10:58:20.349Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://spectrum.ieee.org/rss/fulltext",
           "summary": "Feed not recognized as RSS 1 or 2.",
-          "isoDate": "2026-06-29T03:52:58.954Z"
+          "isoDate": "2026-06-29T10:58:17.926Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-06-29T03:52:58.226Z"
+          "isoDate": "2026-06-29T10:58:17.163Z"
         }
       ]
     },
