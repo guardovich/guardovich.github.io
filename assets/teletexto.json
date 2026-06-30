@@ -1,10 +1,52 @@
 {
-  "generatedAt": "2026-06-29T19:56:58.727Z",
+  "generatedAt": "2026-06-30T03:36:56.570Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "US offers $10 million for info on group behind Signal and WhatsApp hacking spree",
+          "link": "https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree/",
+          "summary": "Operation by two Russia-state groups has been ongoing since at least March.",
+          "isoDate": "2026-06-29T22:05:33.000Z"
+        },
+        {
+          "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
+          "link": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
+          "summary": "South Korea targets physical AI lead and commercial humanoid robots by 2028.",
+          "isoDate": "2026-06-29T21:09:43.000Z"
+        },
+        {
+          "title": "T-Mobile is booting customers from its oldest plans",
+          "link": "https://www.theverge.com/tech/959144/t-mobile-legacy-plan-retire-sprint",
+          "summary": "Time to say goodbye to that legacy Sprint plan. | Image: Alex Castro / The Verge\t\n\nEarlier today, T-Mobile started notifying customers that it will be retiring many legacy plans and moving subscribers onto one of its current rate plans. This move includes plans that date back to the 3G era, and it's going about as well as you'd expect.\nAffected customers began sharing screenshots of the text on reddit and Threads this morning, and T-Mobile's chief marketing officer Allan Samson confirmed the news to The Verge: \nWe're retiring our oldest plans, some of which were built nearly 15 years ago - in the 3G and 4G eras, and well before our 5G network was fully deployed. Customers will transition to modern plans that provide acc …\n\nRead the full story at The Verge.",
+          "isoDate": "2026-06-29T21:06:14.000Z"
+        },
+        {
+          "title": "After a great start, DC’s new cinematic universe is already slowing down",
+          "link": "https://www.theverge.com/entertainment/958953/supergirl-dcu-warner-bros-discovery-box-office-flop",
+          "summary": "While Kara Zor-El's appearance at the end of James Gunn's Superman was a very pleasant surprise, Warner Bros. Discovery's plan to fast-track a standalone Supergirl feature always felt a little dubious. It seemed odd that, after Superman, the studio wanted to flesh out its new cinematic universe with films about another Kryptonian and one of Batman's less notable villains. But Gunn implored fans to have faith in his vision and trust that the DCU would become a world of interconnected stories that put WBD's last batch of comic book movies to shame.\nThough hopes were high for Supergirl, the movie has turned out to be a bit of a dud. Critics ha …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-29T21:00:00.000Z"
+        },
+        {
+          "title": "Leaked iPhone 18 Pro photos reportedly wound up on the dark web",
+          "link": "https://www.theverge.com/tech/959229/iphone-18-pro-leak-apple-dark-web",
+          "summary": "The iPhone 17 Pro. | Image: The Verge\t\n\nLeaked iPhone 18 Pro photos and parts lists appeared on the dark web following a data breach affecting one of Apple's key suppliers, according to a report from Reuters. The leaked images show a drop test of what a source tells Reuters is the iPhone 18 Pro, equipped with a three-camera layout and Apple logo.\nThis comes just a week after Tata Electronics, an India-based company that manufactures iPhone components and assembles the devices, confirmed that it suffered a data breach. Security researchers told Reuters at the time that the ransomware group, World Leaks, posted more than 200,000 files related to the breach on the dark web. The leak …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-29T20:18:26.000Z"
+        },
+        {
+          "title": "US renewable boom passes key milestone in April",
+          "link": "https://arstechnica.com/science/2026/06/solar-outproduced-coal-in-april-but-not-on-the-grid/",
+          "summary": "Small-scale solar helped renewables hit nearly triple coal's generation in the US.",
+          "isoDate": "2026-06-29T20:12:30.000Z"
+        },
+        {
+          "title": "Supreme Court ruling guts government’s use of geofence warrants",
+          "link": "https://arstechnica.com/tech-policy/2026/06/supreme-court-ruling-guts-governments-use-of-geofence-warrants/",
+          "summary": "SCOTUS falls short of deeming geofence warrants unconstitutional, though.",
+          "isoDate": "2026-06-29T20:04:04.000Z"
+        },
         {
           "title": "Tidal won’t pay royalties on AI-generated music but isn’t banning it outright",
           "link": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
@@ -18,52 +60,10 @@
           "isoDate": "2026-06-29T19:12:15.000Z"
         },
         {
-          "title": "OpenAI is teasing new hardware… for Codex",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
-          "summary": "OpenAI is releasing some sort of device related to its AI-powered coding tool, Codex, on July 15th. In a video posted to X on Monday, OpenAI shows a square-shaped device with several buttons, alongside the caption, \"Your favorite Codex shortcuts are getting an upgrade.\"\nThis isn't the mysterious AI-powered device OpenAI is working on with former Apple designer Jony Ive, however. As shown in the teaser, OpenAI is launching the device in partnership with Work Louder, a company that sells an array of mechanical keyboards and macro pads with mappable keys, dials, and switches.\nThe silhouette of the device shown by OpenAI looks a bit like Work  …\nRead the full story at The Verge.",
-          "isoDate": "2026-06-29T18:52:03.000Z"
-        },
-        {
-          "title": "Google warns EU's plans to weaken its monopoly could expose user data",
-          "link": "https://arstechnica.com/gadgets/2026/06/google-warns-eus-plans-to-weaken-its-monopoly-could-expose-user-data/",
-          "summary": "The EU wants Google to share search data with competitors and open up AI on Android, but Google alleges major privacy risks.",
-          "isoDate": "2026-06-29T18:21:31.000Z"
-        },
-        {
-          "title": "AI agents are not your “coworkers”",
-          "link": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
-          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one that your company nonetheless calls Alex, an…",
-          "isoDate": "2026-06-29T18:00:00.000Z"
-        },
-        {
-          "title": "Quantum computing startup says it will leapfrog everybody",
-          "link": "https://arstechnica.com/science/2026/06/quera-promises-thousands-of-error-corrected-qubits-by-2029/",
-          "summary": "But the system would require a massive leap from any of its existing hardware.",
-          "isoDate": "2026-06-29T17:59:50.000Z"
-        },
-        {
-          "title": "At $499, Apple&#8217;s M3-powered iPad Air is a good deal",
-          "link": "https://www.theverge.com/gadgets/959080/ipad-air-m3-5g-wifi-deal-sale",
-          "summary": "The iPad Air supports Apple Pencil Pro, plus hover support. | ﻿Photo: Antonio G. Di Benedetto, The Verge\t\n\nMost of Apple’s price increases have gone into effect, resulting in iPads and other products costing hundreds more than they did a few days ago. If last week’s Prime Day sale wasn’t a good time to consider buying an iPad, we found a deal worth considering that’s just under $500 right now. The 128GB iPad Air that has the M3 processor, plus both Wi-Fi and 5G cellular support, costs $499 at Best Buy. At just $50 more than the base iPad (now $449, up from $349), it’s a significantly faster and all-around better tablet.\n11-inch iPad Air M3\nThe last-gen 11-inch iPad Air features Apple’s fast M3 chip with GPU upgrades like dynamic caching for smoother performance in demanding apps. It also supports the Apple Pencil Pro and the newest Magic Keyboard, which features a larger build and a 14-key function row. Read our review.\n\nWhere to Buy:\n\n $749 $499 at Best Buy (128GB, Wi-Fi + 5G)\n\nWhile the last-gen Air matches the base iPad’s 11-inch screen size, the Air has a laminated, antireflective coating, plus a wider color gamut. In other words, it’s the better choice for entertainment or for creating content. In terms of specs, its M3 processor leaps ahead of the A16 with more cores, not to mention Apple Intelligence support (as well as support for iPadOS 27 coming later this year). It also boasts Apple Pencil Pro support.\nIt stacks up well compared to the newer M4 Air, too, which now starts at $749 for the Wi-Fi model, and a whopping $899 for the cellular. The M3 processor is only slightly slower, it has 8GB of memory instead of 12GB, and its wireless radio is older, but it’s otherwise nearly identical, for much less money. $500 for the M3 Air is a steal.\nRead our iPad Air (M3) review.\n\n\n  window.HYPE_DESK_CONFIG = {\n    productImageUrl: \"https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/USE-For-Stubborn-Stains-.jpg\",\n    productImageAlt: \"Dreame X60 Max Ultra Complete Robot Vacuum\",\n    productTitle: \"Dreame X60 Max Ultra Complete Robot Vacuum\",\n    shortDescription: \"A robot vacuum built for pet owners who are tired of doing it themselves.\",\n    longDescription:\n      \"If you have been putting off the robot vacuum upgrade, the X60 Max Ultra is the one worth waiting for. Dreame's 2026 flagship navigates around obstacles with enough precision to actually trust it unsupervised, and the all-in-one docking station handles mop washing, drying, and maintenance automatically. Powerful suction, intelligent cleaning, and a system that takes care of itself so you genuinely do not have to.\",\n    purchaseUrl: \"https://go.skimresources.com/?id=1025X1701640&xs=1&url=https%3A%2F%2Fwww.dreametech.com%2Fproducts%2Fx60-max-ultra-complete-robot-vacuum&xcust=DreameHypedeskPlacement14\",\n    purchaseLinkText: \"Shop at Dreame\"\n  };",
-          "isoDate": "2026-06-29T17:49:12.000Z"
-        },
-        {
-          "title": "Kalshi sues Illinois over new tax on prediction market sports bets",
-          "link": "https://arstechnica.com/tech-policy/2026/06/kalshi-sues-illinois-over-new-tax-on-prediction-market-sports-bets/",
-          "summary": "Illinois now a key battleground in fight over prediction market sports bets.",
-          "isoDate": "2026-06-29T17:48:11.000Z"
-        },
-        {
-          "title": "The best July 4th sales we found so far",
-          "link": "https://www.theverge.com/gadgets/958906/best-july-4th-tech-deal-sale",
-          "summary": "The Govee Uplighter in action. | Image: Govee\t\n\nJuly 4th sales are typically a precursor to what we’d see during a mid-July Prime Day, but obviously things are flipped around this year. Last week’s big Prime Day sale is over, yet there are a number of familiar deals still poking around in the week leading up to the nation’s birthday. Best Buy is hosting its own 4th of July sale, for example. And, if you’re on the hunt for tech and gear for the outdoors, REI is hosting a sale on products that will last through the week. There are even some Apple deals you can get, some of which are selling at pre-price hike levels.\nWe’ll be logging the best July 4th sales we find this week below, keeping the list updated with notable discounts as we spot them.\nBaseus AM52 power bank (with built-in cable)\nThrough June 30th, Verge readers can get a low price on the best, fastest Qi2 10,000mAh power bank around. This AM52 features a built-in USB-C cable and a soft-touch MagSafe-ready magnet.\n\nWhere to Buy:\n\n $79.99 $42.99 at Amazon (w/ code THEVERGECODE)\n\nAsus ROG Falcata\nThe Falcata is stuffed with features (wired / wireless connectivity, split ergo design, Hall effect customization), and it’s a bargain to get it all at Best Buy’s 4th of July pricing. Read our review.\n\nWhere to Buy:\n\n $349.99 $214.99 at Best Buy\n\n11-inch iPad Air M3\nThe last-gen 11-inch iPad Air comes with Apple’s M3 chip and GPU upgrades. It’s available in dark gray, blue, purple, and a “starlight” cream shade. Read our review.\n\nWhere to Buy:\n\n $749 $499 at Best Buy (128GB, Wi-Fi + LTE)\n\nLG C5 OLED TV\nLG’s C5 features a 120Hz panel, along with four HDMI 2.1 ports and support for both AMD FreeSync Premium and Nvidia G-Sync. The gamer-friendly TV also packs all the hallmarks of a modern OLED, including deep black levels and sublime contrast.\n\nWhere to Buy:\n\n $2699.99 $1099.99 at Amazon (65-inch)\n $1999.99 $1099.99 at Best Buy (65-inch)\n\nApple AirTags (second-generation)\nApple’s latest AirTag features an upgraded ultra-wideband chip for more precise location tracking, a noticeably louder speaker, and an expanded Bluetooth range. Read our review.\n\nWhere to Buy:\n\n $99 $89 at Amazon (pack of four)\n $99 $89 at Best Buy (pack of four)\n $128.99 $99.99 at Costco (pack of five)\n\nOhSnap MCON controller\nThe MCON is one of the best mobile controllers for iPhones. While too big for most pockets, its slide-out design is satisfying, and its folding grips make it a bit more comfortable than Backbone’s controller. Watch Sean’s hands-on.\n\nWhere to Buy:\n\n $149.99 $99.99 at Best Buy\n $149.99 $129.99 at OhSnap\n\nOsprey Poco Child Carrier\nBackpacks make it easy to carry precious cargo, but for a relatively new dad’s most precious cargo — their tiny kiddo — Osprey’s Poco child carrier is a must-have backpacking accessory. It’s comfortable for the kid, and the built-in sunshade and rain protector can keep them relaxed and dry while dad does all the hard work.\n\nWhere to Buy:\n\n $399 $276.95 at Amazon\n $400 $299.99 at REI\n $400 $299.95 at Osprey\n\nSteelSeries Arctis Nova Pro Wireless\nThe Nova Pro Wireless aims to be the one headset to rule them all. It features multiple ways to connect wirelessly, active noise cancellation, great sound quality, and swappable batteries. Read our review.\n\nWhere to Buy:\n\n $349.99 $249.99 at Amazon (PlayStation, Switch, PC)\n $349.99 $249.99 at Best Buy (PlayStation, Switch, PC)\n $349.99 $299.99 at SteelSeries\n\nSamsung microSD Express Card for Nintendo Switch\nThe Nintendo Switch 2 has 256GB of storage, but that won’t get you very far if you’ve built up a medium-sized digital game library. Samsung’s Nintendo-branded 256GB microSD express card doubles the console’s available storage.\n\nWhere to Buy:\n\n $59 $39 at Walmart (256GB)\n $59.99 $39.99 at Best Buy (256GB)\n $59 $39.99 at GameStop (256GB)\n\nMotorola Razr 2025\nLook, you could get something boring yet good like Google’s Pixel 10A. Or, for less, you can get a more versatile folding Android phone that has multiple screens.\n\nWhere to Buy:\n\n $699.99 $549.99 at Amazon\n $699.99 $499.99 at Best Buy\n\nApple HomePod (second-gen)\nSure, it’s not technically a deal, but rather the pre-price hike amount. Most other retailers are no longer offering the HomePod at this price.\n\nWhere to Buy:\n\n $349.99 $299.99 at Best Buy\n\nGlocusent LED Neck Reading Light\nGlocusent’s LED Neck Reading Light is a great personal book light that illuminates what you’re reading without bothering others. It even has adjustable brightness and warmth settings to dial it in to your liking.\n\nWhere to Buy:\n\n $38.99 $18.99 at Amazon (for Prime members)\n $38.99 $20.69 at Walmart\n $38.99 $23.39 at Glocusent\n\nNex Playground\nThe Nex Playground is a motion-controlled console that connects to your TV and uses a built-in camera and AI to track your movements as you play. Designed for ages five and up, it comes with games like Fruit Ninja and Whack-a-Mole Deluxe. You can download more games, including titles featuring popular characters like Elmo, with a paid Play Pass subscription.\n\nWhere to Buy:\n\n $299 $239 at Amazon\n $299 $239 at Walmart\n $299 $239 at Best Buy\n\nInsta360 X5\nThe Insta360 X5 is a powerful 360-degree camera that offers a larger sensor and new image processing. It can capture 4K footage at up to 120fps or 8K footage at up to 30fps, producing sharp video with rich colors. It also features more durable lenses than prior models, which you can swap out if they get damaged. Read our review.\n\nWhere to Buy:\n\n $549.99 $434.99 at Amazon\n $549.99 $434.99 at Best Buy\n $549.99 $439.99 at REI\n\nPeak Design Everyday Sling Bag (3L)\nWear it over your shoulder or around your hip. The Everyday Sling Bag has two large and four small internal pockets to hold items, each with a waterproof bottom liner.\n\nWhere to Buy:\n\n $99.95 $79.99 at REI\n\nKeychron K2 HE keyboard\nKeychron’s Hall effect keyboard allows for adjustable, per-key actuation points and rapid trigger support. You can also set dynamic keystrokes (the ability to trigger several different functions depending on how far you press or release a key).\n\nWhere to Buy:\n\n $129.99 $102.99 at Amazon\n $129.99 $111.99 at Walmart\n $129.99 $103.99 at Keychron\n\nGovee Uplighter Floor Lamp\nThe Uplighter is one of the most fascinating floor lamps you can get. It can supply normal light, or you can customize its top-mounted lights to display various colors and soothing patterns across your wall and ceiling. Read Sheena’s hands-on.\n\nWhere to Buy:\n\n $179.99 $125.99 at Amazon\n $179.99 $125.99 at Walmart\n $179.99 $125.99 at Govee\n\nKobo Libra Colour\nThe Libra Colour is one of the first e-readers from Kobo with color. It packs physical-page turning buttons, stylus compatibility, and supports a broad range of file formats, while making it easy to borrow books from the Overdrive library system. Read our review.\n\nWhere to Buy:\n\n $259.99 $229.99 at Best Buy\n $259.99 $229.99 at Rakuten Kobo\n $259.99 $229.99 at Target\n\nSony WH-1000XM6 headphones\nThey might cost $50 more than their predecessor, but the latest iteration of Sony’s best-in-class noise-canceling headphones up the ante in every way. Sony made subtle improvements to every facet of the WH-1000XM6, from sound quality to ANC performance, while wisely bringing back the foldable, travel-friendly design last seen on the XM4.\n\nWhere to Buy:\n\n $458 $378 at Amazon\n\niPad (2025)\nApple’s entry-level iPad is an excellent tablet for casual use, even if it is getting a little long in the tooth. Its high-res screen is great for watching video, and its A16 processor is still fast enough to handle light games and productivity apps. Read our review.\n\nWhere to Buy:\n\n $749 $599.99 at Amazon (512GB, Wi-Fi)",
-          "isoDate": "2026-06-29T16:42:48.000Z"
-        },
-        {
-          "title": "F1 in Austria: Starts off exciting, then goes the opposite way",
-          "link": "https://arstechnica.com/cars/2026/06/f1-in-austria-starts-off-exciting-then-does-the-opposite/",
-          "summary": "A heatwave, engine upgrades, plus power levels for the next two seasons.",
-          "isoDate": "2026-06-29T16:04:52.000Z"
+          "title": "Sony erases digital content from libraries; we're reminded we don’t own what we buy",
+          "link": "https://arstechnica.com/gadgets/2026/06/sony-erases-digital-content-from-libraries-were-reminded-we-dont-own-what-we-buy/",
+          "summary": "Sony has been scaling down its digitial store for a few years.",
+          "isoDate": "2026-06-29T19:10:57.000Z"
         }
       ]
     },
@@ -75,7 +75,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
           "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-06-29T19:56:50.501Z"
+          "isoDate": "2026-06-30T03:36:50.752Z"
         },
         {
           "title": "Family of magnetic field-boosted superconductors in rhombohedral graphene",
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 69\nColumn: 41\nChar: &",
-          "isoDate": "2026-06-29T19:56:52.161Z"
+          "isoDate": "2026-06-30T03:36:52.294Z"
         },
         {
           "title": "WhatsApp to let people chat without swapping phone numbers",
@@ -204,6 +204,12 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "Inaugural Music Technology Research Showcase celebrates work of new graduate program’s initial students ",
+          "link": "https://news.mit.edu/2026/inaugural-mit-music-technology-research-showcase-celebrates-work-students-0629",
+          "summary": "Associate Professor Anna Huang delivers the keynote address, “In Search of Human-AI Resonance,” to a capacity crowd.",
+          "isoDate": "2026-06-29T19:00:00.000Z"
+        },
+        {
           "title": "3 Questions: Beyond data-driven aesthetics",
           "link": "https://news.mit.edu/2026/3-questions-beyond-data-driven-aesthetics-alexandros-haridis-0629",
           "summary": "In a new Keller Gallery exhibition, Alexandros Haridis SM ’17, PhD ’22 traces centuries of ideas about aesthetic judgment and explores how design can make complex computational systems visible.",
@@ -256,12 +262,6 @@
           "link": "https://openai.com/index/how-agents-are-transforming-work",
           "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
           "isoDate": "2026-06-25T02:00:00.000Z"
-        },
-        {
-          "title": "Introducing computer use in Gemini 3.5 Flash",
-          "link": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
-          "summary": "",
-          "isoDate": "2026-06-24T16:30:01.000Z"
         }
       ]
     },
@@ -273,19 +273,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 84\nColumn: 559\nChar:  ",
-          "isoDate": "2026-06-29T19:56:57.241Z"
+          "isoDate": "2026-06-30T03:36:55.431Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://spectrum.ieee.org/rss/fulltext",
           "summary": "Feed not recognized as RSS 1 or 2.",
-          "isoDate": "2026-06-29T19:56:54.585Z"
+          "isoDate": "2026-06-30T03:36:54.530Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-06-29T19:56:54.328Z"
+          "isoDate": "2026-06-30T03:36:53.601Z"
         }
       ]
     },
