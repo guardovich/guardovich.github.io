@@ -1,10 +1,58 @@
 {
-  "generatedAt": "2026-06-30T09:34:03.679Z",
+  "generatedAt": "2026-06-30T14:17:29.972Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "iPhone 18 Pro ‘drop test’ leaks get yanked from X",
+          "link": "https://www.theverge.com/tech/959474/iphone-18-pro-leaked-videos-pulled",
+          "summary": "Videos purporting to show the iPhone 18 Pro undergoing a drop test were removed from X shortly after they surfaced, as spotted earlier by MacRumors. An account imitating leaker EvLeaks was suspended from X after sharing the clips, while the post was removed as well, with X saying it \"violated\" the platform's rules.\nAnother leaker, IceUniverse, also shared the clips. In a post on Weibo, IceUniverse showed a screenshot from X indicating the post had been taken down, alongside the machine-translated caption: \"Apple has already started blocking the leaked data on Twitter.\"\nThis still hasn't stopped the clips from spreading, though, as other ac …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-30T13:57:41.000Z"
+        },
+        {
+          "title": "Ars Live, today: The latest on the aftermath of the New Glenn catastrophe",
+          "link": "https://arstechnica.com/space/2026/06/ars-live-whats-the-latest-in-the-aftermath-of-the-new-glenn-catastrophe/",
+          "summary": "Join us on the livestream at 1 pm ET and ask questions about the aftermath of New Glenn.",
+          "isoDate": "2026-06-30T13:15:59.000Z"
+        },
+        {
+          "title": "The Download: AI “coworkers” and stratospheric internet",
+          "link": "https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI agents are not your “coworkers” Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one…",
+          "isoDate": "2026-06-30T12:10:00.000Z"
+        },
+        {
+          "title": "Agriculture is ready for AI, but its data isn’t",
+          "link": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
+          "summary": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork.  The use cases are promising, especially for an industry navigating volatile fertilizer costs, unpredictable weather, and margins that leave little room for error. Research shows AI-enabled predictive models can improve crop…",
+          "isoDate": "2026-06-30T12:00:00.000Z"
+        },
+        {
+          "title": "Meet the lawyer who beat Elon Musk — twice",
+          "link": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
+          "summary": "“After college, my plan was to come to New York and get a record deal.” | Cath Virginia / The Verge, Getty Images\t\n\nWatching Elon Musk fulminate at Bill Savitt during Musk v. Altman - the case in which Musk sued Sam Altman and OpenAI instead of seeing a therapist about his AI failures - was a bit like watching a toddler have a temper tantrum at his nursery school teacher. Savitt's questions were \"designed to trick me,\" Musk said. He also told Savitt at one point, \"You mostly do unfair questions.\"\nSavitt, who has the approximate demeanor of a handsome Droopy Dog, gently told Musk, \"I am trying to put the questions as fairly as I can. I am doing my best.\" \nI've seen a number of styles of cross-examination. Savitt's was mild-mannered and soft-spoken; his q …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-30T12:00:00.000Z"
+        },
+        {
+          "title": "This motor could be the future of e-bikes",
+          "link": "https://www.theverge.com/news/959382/avinox-mg-concept-gobao-mgu-ecvt",
+          "summary": "The Avinox MG Concept MGU coming next year. | Image: Avinox\t\n\nImagine an e-bike motor that lets you select your preferred pedaling cadence and then automatically adjusts the gears to keep your legs spinning at that exact speed, no matter how steep the hill gets - all without a fragile derailleur or heavy multi-speed cassette to maintain. Prefer manual control? No problem, you can have as many gears as you like in whatever ratio makes you feel most connected to the terrain. That's the e-bike motor announced last week at the big Eurobike trade show in Frankfurt, by not just one company, but two. \nPictured above is the MG Concept. It's a Motor Gearbox Unit, or MGU, from Avinox, the DJI spinoff that's upe …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-30T10:30:04.000Z"
+        },
+        {
+          "title": "Building tech in the world’s secret R&D hub",
+          "link": "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/",
+          "summary": "Apple. Anthropic. Disney Research. Google. Meta. Microsoft. NVIDIA. OpenAI. Few places outside Silicon Valley can claim R&D hubs from all of these companies. Fewer still are concentrated in a city of just over 400,000 people—roughly half the size of San Francisco. Over the past two decades, however, many of the world’s most influential technology companies…",
+          "isoDate": "2026-06-30T10:23:30.000Z"
+        },
+        {
+          "title": "Our best look yet at Samsung’s new wide foldable",
+          "link": "https://www.theverge.com/tech/959372/samsung-galaxy-z-fold-wide-image-leaks",
+          "summary": "Case designs for the wide-style Galaxy Z Fold 8 have appeared online, and some show the phone inside them. | Image: Android Headlines\t\n\nSamsung is expected to unveil its next generation of foldables at a Galaxy Unpacked event next month, but now we know what they might look like, courtesy of some leaked images published by Android Headlines. Images shared by the publication include case designs for two new Galaxy Z Fold 8 models and the Galaxy Z Flip 8, each giving a good look at the phones inside the cases too.\nThis could be our closest look so far at Samsung's new wide-style foldable, following a leak of a purported dummy unit  in May and a fresh photo of an apparent dummy unit from leaker Ice Universe this week. There are some similarities between all of these leaks: The …\nRead the full story at The Verge.",
+          "isoDate": "2026-06-30T09:54:44.000Z"
+        },
         {
           "title": "US offers $10 million for info on group behind Signal and WhatsApp hacking spree",
           "link": "https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree/",
@@ -16,54 +64,6 @@
           "link": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
           "summary": "South Korea targets physical AI lead and commercial humanoid robots by 2028.",
           "isoDate": "2026-06-29T21:09:43.000Z"
-        },
-        {
-          "title": "T-Mobile is booting customers from its oldest plans",
-          "link": "https://www.theverge.com/tech/959144/t-mobile-legacy-plan-retire-sprint",
-          "summary": "Time to say goodbye to that legacy Sprint plan. | Image: Alex Castro / The Verge\t\n\nEarlier today, T-Mobile started notifying customers that it will be retiring many legacy plans and moving subscribers onto one of its current rate plans. This move includes plans that date back to the 3G era, and it's going about as well as you'd expect.\nAffected customers began sharing screenshots of the text on reddit and Threads this morning, and T-Mobile's chief marketing officer Allan Samson confirmed the news to The Verge: \nWe're retiring our oldest plans, some of which were built nearly 15 years ago - in the 3G and 4G eras, and well before our 5G network was fully deployed. Customers will transition to modern plans that provide acc …\n\nRead the full story at The Verge.",
-          "isoDate": "2026-06-29T21:06:14.000Z"
-        },
-        {
-          "title": "After a great start, DC’s new cinematic universe is already slowing down",
-          "link": "https://www.theverge.com/entertainment/958953/supergirl-dcu-warner-bros-discovery-box-office-flop",
-          "summary": "While Kara Zor-El's appearance at the end of James Gunn's Superman was a very pleasant surprise, Warner Bros. Discovery's plan to fast-track a standalone Supergirl feature always felt a little dubious. It seemed odd that, after Superman, the studio wanted to flesh out its new cinematic universe with films about another Kryptonian and one of Batman's less notable villains. But Gunn implored fans to have faith in his vision and trust that the DCU would become a world of interconnected stories that put WBD's last batch of comic book movies to shame.\nThough hopes were high for Supergirl, the movie has turned out to be a bit of a dud. Critics ha …\nRead the full story at The Verge.",
-          "isoDate": "2026-06-29T21:00:00.000Z"
-        },
-        {
-          "title": "Leaked iPhone 18 Pro photos reportedly wound up on the dark web",
-          "link": "https://www.theverge.com/tech/959229/iphone-18-pro-leak-apple-dark-web",
-          "summary": "The iPhone 17 Pro. | Image: The Verge\t\n\nLeaked iPhone 18 Pro photos and parts lists appeared on the dark web following a data breach affecting one of Apple's key suppliers, according to a report from Reuters. The leaked images show a drop test of what a source tells Reuters is the iPhone 18 Pro, equipped with a three-camera layout and Apple logo.\nThis comes just a week after Tata Electronics, an India-based company that manufactures iPhone components and assembles the devices, confirmed that it suffered a data breach. Security researchers told Reuters at the time that the ransomware group, World Leaks, posted more than 200,000 files related to the breach on the dark web. The leak …\nRead the full story at The Verge.",
-          "isoDate": "2026-06-29T20:18:26.000Z"
-        },
-        {
-          "title": "US renewable boom passes key milestone in April",
-          "link": "https://arstechnica.com/science/2026/06/solar-outproduced-coal-in-april-but-not-on-the-grid/",
-          "summary": "Small-scale solar helped renewables hit nearly triple coal's generation in the US.",
-          "isoDate": "2026-06-29T20:12:30.000Z"
-        },
-        {
-          "title": "Supreme Court ruling guts government’s use of geofence warrants",
-          "link": "https://arstechnica.com/tech-policy/2026/06/supreme-court-ruling-guts-governments-use-of-geofence-warrants/",
-          "summary": "SCOTUS falls short of deeming geofence warrants unconstitutional, though.",
-          "isoDate": "2026-06-29T20:04:04.000Z"
-        },
-        {
-          "title": "Tidal won’t pay royalties on AI-generated music, but isn’t banning it outright",
-          "link": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
-          "summary": "Tidal shared its new policies regarding AI-generated music today and how the platform plans to \"protect artists\" and \"inform listeners.\" Instead of banning it outright, starting on July 15th Tidal will label tracks it has identified as being 100 percent AI-generated with an icon. But starting today those tracks will no longer be monetizable. \"Tidal's priority is ensuring royalties go to original works directly produced, written, and performed by people. We will therefore not knowingly attribute royalties to music we identify as wholly AI-generated,\" the company's announcement reads. \nThe platform didn't specify what tools it's using to iden …\nRead the full story at The Verge.",
-          "isoDate": "2026-06-29T19:47:35.000Z"
-        },
-        {
-          "title": "Sony&#8217;s next-gen PlayStation will go ‘beyond the living room’",
-          "link": "https://www.theverge.com/games/959191/sony-next-generation-playstation-ps6-beyond-the-living-room",
-          "summary": "There are already a few ways to play PlayStation games on the go, but Sony is also rumored to be working on a new handheld. | Photo by Antonio G. Di Benedetto / The Verge\t\n\nSony hinted in a recent Q&A with investors that the next generation PlayStation will offer some kind of experience that lets you play games outside of your living room.\nHere's the relevant portion from the transcript, emphasis mine:\nQ: How can you bring back to the PlayStation platform users who migrated to gaming PCs during the COVID period? In aiming for profit growth, are there limitations on what can be done in the short term, or do you see the potential for more significant changes with the next-generation platform?\nA: PlayStation has long been strongly associated with the idea of playing in the living room. However, in recent yea …\n\nRead the full story at The Verge.",
-          "isoDate": "2026-06-29T19:12:15.000Z"
-        },
-        {
-          "title": "Sony erases digital content from libraries; we're reminded we don’t own what we buy",
-          "link": "https://arstechnica.com/gadgets/2026/06/sony-erases-digital-content-from-libraries-were-reminded-we-dont-own-what-we-buy/",
-          "summary": "Sony has been scaling down its digitial store for a few years.",
-          "isoDate": "2026-06-29T19:10:57.000Z"
         }
       ]
     },
@@ -72,10 +72,10 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "Ames Science Stars of the Month July 2026",
-          "link": "https://www.nasa.gov/general/ames-stars-of-the-month-july-2026/",
-          "summary": "NASA Ames Science Stars of the Month: July 2026 The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Sungshin Choi, Yi-Chun Chen, Emma Yates, Eduardo Bendek. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond. Space Biosciences […]",
-          "isoDate": "2026-06-30T09:12:44.000Z"
+          "title": "ERROR cargando feed",
+          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
+          "isoDate": "2026-06-30T14:17:23.277Z"
         },
         {
           "title": "Child online safety needs more than social-media bans",
@@ -90,9 +90,21 @@
           "isoDate": "2026-06-30T00:00:00.000Z"
         },
         {
+          "title": "Early television set impresses Nature editors — but will it catch on?",
+          "link": "https://www.nature.com/articles/d41586-026-01813-0",
+          "summary": "Nature, Published online: 30 June 2026; doi:10.1038/d41586-026-01813-0\nNature reports a demonstration of a ‘televisor’, and the British Government makes a generous endowment, in our weekly dip into the magazine’s archive.",
+          "isoDate": "2026-06-30T00:00:00.000Z"
+        },
+        {
           "title": "AI tools can speed up thinking, but evidence still comes from the lab bench",
           "link": "https://www.nature.com/articles/d41586-026-02069-4",
           "summary": "Nature, Published online: 30 June 2026; doi:10.1038/d41586-026-02069-4\nAI tools can speed up thinking, but evidence still comes from the lab bench",
+          "isoDate": "2026-06-30T00:00:00.000Z"
+        },
+        {
+          "title": "Can Rwanda sustain its rise in science and technology? Here’s what can help",
+          "link": "https://www.nature.com/articles/d41586-026-01980-0",
+          "summary": "Nature, Published online: 30 June 2026; doi:10.1038/d41586-026-01980-0\nAn ambitious analysis challenges the view that a nation’s pursuit of economic growth alone can deliver long-term prosperity.",
           "isoDate": "2026-06-30T00:00:00.000Z"
         },
         {
@@ -102,34 +114,22 @@
           "isoDate": "2026-06-30T00:00:00.000Z"
         },
         {
-          "title": "Northwest Earth and Space Science Pathways Project Celebrates Student Innovation Through ROADS from Earth to Venus National Challenge",
-          "link": "https://science.nasa.gov/learning-resources/science-activation/northwest-earth-and-space-science-pathways-project-celebrates-student-innovation-through-roads-from-earth-to-venus-national-challenge/",
-          "summary": "The Northwest Earth and Space Science Pathways (NESSP) project recently concluded its 2025–2026 ROADS (Rover Observation And Discoveries in Space) from Earth to Venus National Challenge, a NASA Science Activation program student challenge that engaged more than 500 students on 120 teams from eight states in authentic science and engineering experiences inspired by Venus exploration. […]",
-          "isoDate": "2026-06-29T22:05:58.000Z"
+          "title": "Coffee is under threat: how scientists are fighting to save it from extinction",
+          "link": "https://www.nature.com/articles/d41586-026-01965-z",
+          "summary": "Nature, Published online: 30 June 2026; doi:10.1038/d41586-026-01965-z\nCoffee plants are critically endangered by climate change. Researchers are finding solutions to keep scientists supplied with their favourite discovery fuel.",
+          "isoDate": "2026-06-30T00:00:00.000Z"
         },
         {
-          "title": "NASA, SBA Announce New Initiative to Scale American Space Economy ",
-          "link": "https://www.nasa.gov/news-release/nasa-sba-announce-new-initiative-to-scale-american-space-economy/",
-          "summary": "NASA and the U.S. Small Business Administration (SBA) launched the SBIC-NASA Initiative on Monday to increase investment in American manufacturers of industrial components and providers of technologies critical to space exploration to support a sustained presence on the Moon and Mars.  Under the Memorandum of Agreement, NASA will identify technology priorities and connect businesses to funding opportunities […]",
-          "isoDate": "2026-06-29T20:39:57.000Z"
+          "title": "Family of magnetic field-boosted superconductors in rhombohedral graphene",
+          "link": "https://www.nature.com/articles/s41586-026-10815-x",
+          "summary": "Nature, Published online: 29 June 2026; doi:10.1038/s41586-026-10815-x\nFamily of magnetic field-boosted superconductors in rhombohedral graphene",
+          "isoDate": "2026-06-29T00:00:00.000Z"
         },
         {
-          "title": "NASA’s Newest Wind Tunnel Builds on Legacy of Innovation",
-          "link": "https://www.nasa.gov/centers-and-facilities/langley/nasas-newest-wind-tunnel-builds-on-legacy-of-innovation/",
-          "summary": "For more than 100 years, wind tunnels at NASA’s Langley Research Center in Hampton, Virginia, have helped shape the future of flight.   Now, two of NASA’s longest-serving facilities — the 12-Foot Low-Speed Tunnel and the 20-Foot Vertical Spin Tunnel — will pass the torch to the Flight Dynamics Research Facility (FDRF), the first major NASA wind tunnel built in more than 40 years.   “The FDRF […]",
-          "isoDate": "2026-06-29T20:38:23.000Z"
-        },
-        {
-          "title": "NASA Astronaut Chris Williams Preps for Spacewalk",
-          "link": "https://www.nasa.gov/image-article/nasa-astronaut-chris-williams-preps-for-spacewalk/",
-          "summary": "Flight engineer Sophie Adenot of ESA (European Space Agency) helps flight engineer Chris Williams of NASA as he tries on his spacesuit on June 23, 2026, testing its comfort and mobility as well as its communications and life support systems inside the International Space Station’s Quest airlock. Williams will go on a spacewalk on June […]",
-          "isoDate": "2026-06-29T15:18:43.000Z"
-        },
-        {
-          "title": "Mapping Earth’s Observations, featuring Betsy Ford",
-          "link": "https://www.nasa.gov/general/mapping-earths-observations-featuring-betsy-ford/",
-          "summary": "NASA’s Earth-observing satellites track an enormous range of phenomena: how aerosols move through the atmosphere, how moisture descends through soil, how land-cover shifts over decades. It’s some of the most consequential data NASA produces, informing science, policy, agriculture, and climate research around the world. As NASA’s Earth Science Division (ESD) manages this vast portfolio, they […]",
-          "isoDate": "2026-06-29T15:16:44.000Z"
+          "title": "Audio long read: Is the peptide craze backed by science? The promise behind the hype",
+          "link": "https://www.nature.com/articles/d41586-026-02063-w",
+          "summary": "Nature, Published online: 29 June 2026; doi:10.1038/d41586-026-02063-w\nThe market for unregulated peptides is huge. Has the hottest trend in wellness got ahead of the science?",
+          "isoDate": "2026-06-29T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 69\nColumn: 41\nChar: &",
-          "isoDate": "2026-06-30T09:33:56.824Z"
+          "isoDate": "2026-06-30T14:17:24.167Z"
         },
         {
           "title": "WhatsApp to let people chat by swapping usernames instead of phone numbers",
@@ -273,19 +273,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 84\nColumn: 559\nChar:  ",
-          "isoDate": "2026-06-30T09:34:01.337Z"
+          "isoDate": "2026-06-30T14:17:28.533Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://spectrum.ieee.org/rss/fulltext",
           "summary": "Feed not recognized as RSS 1 or 2.",
-          "isoDate": "2026-06-30T09:33:59.092Z"
+          "isoDate": "2026-06-30T14:17:26.125Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-06-30T09:33:58.597Z"
+          "isoDate": "2026-06-30T14:17:25.651Z"
         }
       ]
     },
