@@ -1,12 +1,60 @@
 {
-  "generatedAt": "2026-07-01T19:54:19.133Z",
+  "generatedAt": "2026-07-02T03:32:44.830Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
         {
-          "title": "Sony will stop making physical copies of PlayStation games in 2028",
+          "title": "Apple’s entry-level MacBook Pro could be up for a redesign",
+          "link": "https://www.theverge.com/news/960541/apple-macbook-pro-entry-level-redesign-ipad-pro-update",
+          "summary": "Apple is working on a \"revamped\" version of its entry-level MacBook Pro that it could launch as soon as the first half of 2027, Bloomberg reports. The company is also testing four new iPad Pros that are set to launch in the spring with a focus on \"internal improvements.\"\nThe updated MacBook Pro, which will keep the 14-inch screen size, will have a design that's \"in line\" with what Apple is planning for the touch screen MacBooks it also has in the works, Bloomberg says. Those new touch screen laptops are set to be released between \"the end of this year and early next year,\" and Bloomberg has previously reported that they will get a Dynamic I …\nRead the full story at The Verge.",
+          "isoDate": "2026-07-01T22:39:43.000Z"
+        },
+        {
+          "title": "The funeral for PlayStation discs has begun",
+          "link": "https://www.theverge.com/games/960476/playstation-physical-games-discs-stop-production-preservation-retail-stores",
+          "summary": "Cody Spencer, the co-owner of the small games retail chain Pink Gorilla Games, put it well when I asked about the impact of Sony's recent announcement that it will stop making discs for new games starting January 2028. \"It's sad to see. This decision is only a negative for gamers. We're losing the ability to sell games, to share games, and to own games.\"\nSony's announcement has been devastating news for many in the games industry. Not just players, but also groups like independent retail stores and preservationists that try and make gaming more accessible.\n\"This is unfortunate news for those who still prefer buying games on physical media, …\nRead the full story at The Verge.",
+          "isoDate": "2026-07-01T22:03:37.000Z"
+        },
+        {
+          "title": "T-Mobile moving tens of thousands of virtual machines off VMware amid lawsuit",
+          "link": "https://arstechnica.com/information-technology/2026/07/t-mobile-moving-tens-of-thousands-of-virtual-machines-off-vmware-amid-lawsuit/",
+          "summary": "T-Mobile wants Broadcom to keep supporting its VMware perpetual licenses.",
+          "isoDate": "2026-07-01T21:21:21.000Z"
+        },
+        {
+          "title": "Xbox’s ‘reset’: all the news about Microsoft&#8217;s looming layoffs and studio closures",
+          "link": "https://www.theverge.com/games/959900/xbox-reset-layoffs-studio-closures",
+          "summary": "Xbox is making some big changes — again. On June 10th, a few months after Asha Sharma took over as CEO, she and newly-promoted chief content officer Matt Booty sent a memo to staff warning of an “Xbox reset.” The business, they said, is facing significant challenges, including a 3 percent “accountability margin,” massively higher component prices for consoles due to the memory and storage shortage, and an “over extended” studio system.\nThat same day, The Verge and Bloomberg reported that the Xbox division was planning layoffs in July. The cuts, expected to be announced on July 6th, could include studio closures or spinoffs. The Verge‘s Tom Warren reported on June 30th that Microsoft is looking at closing at least five studios and potentially canceling games like Blade.\nUnder Sharma’s leadership, Xbox has already made some other major changes, including upcoming price hikes for Xbox consoles, lowering Game Pass prices but cutting out new Call of Duty games, rebranding Xbox to XBOX, and making both Gears of War: E-Day and Clockwork Revolution Xbox console exclusives.\nRead on for all of our coverage of the shifts at Xbox.\n\n\n\t\t\t\t\t\nXbox will reportedly still publish Hideo Kojima’s OD.\n\t\t\t\n007 First Light’s developer lays off staff but claims its next franchise will continue\n\t\t\t\nXbox weighs canceling Blade game and shuttering Arkane\n\t\t\t\nXbox prices spike another $100 or more\n\t\t\t\nXbox is closing down Hellblade creator Ninja Theory\n\t\t\t\nXbox turmoil continues with a studio closure and executive departures\n\t\t\t\nMicrosoft hasn’t ruled out spinning off Xbox\n\t\t\t\nXbox warns of a ‘reset’ as it prepares for layoffs\n\t\t\t\nXbox exploring ‘radically different’ console business models\n\t\t\t\nRAMaggedon’s making Xbox “rethink” its Helix console.\n\t\t\t\nXbox exclusives are back and more complicated than ever\n\t\t\t\nXbox hires game industry analyst Matthew Ball to lead strategy\n\t\t\t\nXbox fans want exclusives, more backward compatibility, and free online multiplayer\n\t\t\t\nXbox is now XBOX\n\t\t\t\nInside the return of Xbox",
+          "isoDate": "2026-07-01T21:00:00.000Z"
+        },
+        {
+          "title": "Elon Musk denies a report about SpaceX&#8217;s AI phone prototype",
+          "link": "https://www.theverge.com/science/960442/spacex-phone-prototype-elon-musk",
+          "summary": "Elon Musk says a report about a SpaceX AI phone prototype is \"utterly false.\" The report, published on Wednesday by The Wall Street Journal, says SpaceX showed off a \"handset-like prototype\" to some investors before launching its record-breaking initial public offering in June.\nThe device was \"slimmer than an iPhone,\" and they were told it would run on a Qualcomm Snapdragon chip, according to the WSJ. It would also reportedly use its own AI-enabled operating system with features powered by the SpaceX-owned xAI.\nLast week, the Financial Times reported that SpaceX chief operating officer Gwynne Shotwell told investors that the company is con …\nRead the full story at The Verge.",
+          "isoDate": "2026-07-01T20:10:21.000Z"
+        },
+        {
+          "title": "NASA chief praises progress Blue Origin is making after launch failure",
+          "link": "https://arstechnica.com/space/2026/07/nasa-chief-praises-progress-blue-origin-is-making-after-launch-failure/",
+          "summary": "\"We've got time into 2027 before we're getting nervous.\"",
+          "isoDate": "2026-07-01T19:57:36.000Z"
+        },
+        {
+          "title": "US home battery installations hit record high on rising electricity costs",
+          "link": "https://arstechnica.com/science/2026/07/us-home-battery-installations-hit-record-high-in-early-2026/",
+          "summary": "Record home battery installations unlock options for grids—and AI data centers.",
+          "isoDate": "2026-07-01T19:11:15.000Z"
+        },
+        {
+          "title": "Superworms could replace beetles for cleaning skeletal remains",
+          "link": "https://arstechnica.com/science/2026/07/museums-could-use-ravenous-superworms-to-clean-skeletons/",
+          "summary": "An optimal ratio of 10-15 grams of larvae per gram of specimen minimized cleaning time with no bone damage.",
+          "isoDate": "2026-07-01T18:59:21.000Z"
+        },
+        {
+          "title": "Sony announces end of PlayStation discs, parts of digital store in the same day",
           "link": "https://arstechnica.com/gaming/2026/07/sony-will-stop-making-physical-copies-of-playstation-games-in-2028/",
           "summary": "“We will own nothing, it's truly sad.”",
           "isoDate": "2026-07-01T18:41:49.000Z"
@@ -16,54 +64,6 @@
           "link": "https://arstechnica.com/cars/2026/07/the-volvo-ex30-cross-country-review-a-victim-of-geopolitics/",
           "summary": "Tariffs and anti-China policies killed this little Volvo in the United States.",
           "isoDate": "2026-07-01T18:24:04.000Z"
-        },
-        {
-          "title": "Krafton settles with Subnautica 2 developer after drawn-out dispute over $250 million",
-          "link": "https://www.theverge.com/games/960354/krafton-subnautica-2-settlement-bonuses-unknown-worlds",
-          "summary": "After a lengthy legal dispute, Krafton has settled with its subsidiary Unknown Worlds Entertainment, which is developing Subnautica 2, and will pay bonuses to the studio's staff, Bloomberg reports.\nThe dispute began last year after Krafton pushed out Unknown Worlds' cofounders, Charlie Cleveland and Max McGuire, and its CEO, Ted Gill, ahead of a potential $250 million bonus for hitting certain financial goals that would have been shared with the studio. After the executives sued, a judge reinstated Gill as CEO in March, and Subnautica 2 finally launched in early access in May. The game passed four million copies sold in five days.\nDetails  …\nRead the full story at The Verge.",
-          "isoDate": "2026-07-01T17:45:23.000Z"
-        },
-        {
-          "title": "Xbox testing disc-to-digital feature that digitizes a physical game collection",
-          "link": "https://www.theverge.com/report/960173/microsoft-xbox-disc-to-digital-feature-physical-game-collection",
-          "summary": "Microsoft will likely soon follow Sony and stop the production of physical discs for Xbox games. But instead of leaving physical discs behind entirely, sources familiar with Microsoft's plans tell me the company has quietly been working on a disc-to-digital feature that will allow Xbox owners to digitize their existing physical game collections.\nXbox employees recently started testing this new feature, after references to \"enable Disc2Digital\" appeared in the Xbox PC app code in May. I'm told that Microsoft's disc-to-digital feature will work on Xbox One and Xbox Series X discs only, and not those for the Xbox 360 or original Xbox console.\nRead the full story at The Verge.",
-          "isoDate": "2026-07-01T17:41:23.000Z"
-        },
-        {
-          "title": "Ithaca's king defies the gods in final The Odyssey trailer",
-          "link": "https://arstechnica.com/culture/2026/07/ithacas-king-defies-the-gods-in-final-the-odyssey-trailer/",
-          "summary": "\"You gods don't speak in ways we understand.\"",
-          "isoDate": "2026-07-01T16:58:30.000Z"
-        },
-        {
-          "title": "After spooking Trump into safety testing, Anthropic AI models get global release",
-          "link": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/",
-          "summary": "US lifts curbs on Anthropic’s advanced Fable and Mythos models.",
-          "isoDate": "2026-07-01T16:44:18.000Z"
-        },
-        {
-          "title": "My favorite Kindle alternative is $30 off after a recent price increase",
-          "link": "https://www.theverge.com/gadgets/960282/kobo-libra-colour-july-fourth-sale-deal-sale",
-          "summary": "The Kobo Libra Colour lets you take notes. | Image: Rakuten Kobo\t\n\nKobo recently raised the price of its Libra Colour e-reader to $259.99, but today’s deal effectively erases that hike. The company, Best Buy, and Target, are all selling it for its old $229.99 price as part of broader sales, making now one of the best times to grab my favorite alternative to Amazon’s Kindle.\nKobo Libra Colour\n\nWhere to Buy:\n\n $259.99 $229.99 at Best Buy\n $259.99 $229.99 at Rakuten Kobo\n $259.99 $229.99 at Target\n\nIf you’re not heavily invested in Amazon’s ecosystem, I think the Kobo Libra Colour is a better buy than its closest Amazon rival, the $249.99 Kindle Colorsoft. It offers many of the same core features, including a sharp seven-inch color display that makes book covers, comics, and highlights pop with only slightly less vibrancy than the color Kindle. It’s also waterproof so you can rest easy at the beach, and features adjustable warm lighting for more comfortable nighttime reading.\nThe Kobo also has a few advantages over Amazon’s e-reader. It supports EPUB and a broader range of file formats, making it easier to read books from a variety of sources, while offering twice as much storage (32GB). Unlike the Colorsoft, the Libra Colour includes physical page-turning buttons, which I find make for a more intuitive reading experience. It also supports Kobo’s optional Stylus 2, letting you annotate ebooks, jot down handwritten notes, use built-in notebook templates, and even convert your handwriting into typed text. Due to its size, I wouldn’t recommend it as a dedicated digital notebook over something bigger like the Kobo Elipsa 2E or Kindle Scribe, but it’s far more practical for quick notes than using your phone. It also works with Instapaper, making it easy to save web articles for offline reading.\nRead our Kobo Libra Colour review.",
-          "isoDate": "2026-07-01T16:28:40.000Z"
-        },
-        {
-          "title": "NASA inspector general suggests Boeing's Starliner will now be a decade late",
-          "link": "https://arstechnica.com/space/2026/07/nasa-inspector-general-suggests-boeings-starliner-will-now-be-a-decade-late/",
-          "summary": "Starliner's certification may be delayed to 2027, 10 years later than Boeing's original schedule.",
-          "isoDate": "2026-07-01T16:11:39.000Z"
-        },
-        {
-          "title": "Comcast’s split could make or break Peacock",
-          "link": "https://www.theverge.com/streaming/960235/comcast-breakup-peacock-streaming",
-          "summary": "NBCUniversal executives are about to find out whether Peacock will sink or swim in the streaming industry. Now that Comcast is planning to split NBCUniversal, Peacock, and Sky from its broadband and wireless businesses, Peacock will be forced to stand on its own - without the backing of a combined company that pulled in more than $123 billion last year.\nIn the years following its launch in 2020, Peacock was treated as an accessory to an Xfinity subscription. But once Comcast stopped offering it as a free perk to Xfinity X1 and Flex subscribers and axed its free membership tier in 2023, it was a sign that Comcast believed Peacock had somethi …\nRead the full story at The Verge.",
-          "isoDate": "2026-07-01T15:30:00.000Z"
-        },
-        {
-          "title": "A space history mystery: What happened to the Viking arm used 50 years ago?",
-          "link": "https://arstechnica.com/space/2026/07/50-years-on-will-the-mars-lander-arm-that-opened-the-air-and-space-raise-its-hand/",
-          "summary": "A timely tale about a 50-year-old robotic arm...",
-          "isoDate": "2026-07-01T15:20:34.000Z"
         }
       ]
     },
@@ -75,7 +75,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
           "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-07-01T19:54:13.006Z"
+          "isoDate": "2026-07-02T03:32:38.057Z"
         },
         {
           "title": "Togetherness: How co-operation built the world",
@@ -141,7 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 69\nColumn: 41\nChar: &",
-          "isoDate": "2026-07-01T19:54:14.317Z"
+          "isoDate": "2026-07-02T03:32:39.162Z"
+        },
+        {
+          "title": "Don't expect trackers to save your stolen car, experts say",
+          "link": "https://www.bbc.co.uk/news/articles/cp8r1798kp7o?at_medium=RSS&at_campaign=rss",
+          "summary": "Kia told the BBC UK law prevented its location tracking function being used to live track vehicles.",
+          "isoDate": "2026-07-01T23:31:43.000Z"
         },
         {
           "title": "PlayStation will stop releasing games on discs in 2028",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cd95k584pzqo?at_medium=RSS&at_campaign=rss",
           "summary": "Xbox consoles, Nintendo's new Switch 2 and Valve's Steam Deck are just some of the gadgets seeing price hikes in recent months.",
           "isoDate": "2026-06-27T23:10:47.000Z"
-        },
-        {
-          "title": "GTA 6 will launch as download only - does that mean the disc is dead?",
-          "link": "https://www.bbc.co.uk/news/articles/c6210nj8gpro?at_medium=RSS&at_campaign=rss",
-          "summary": "Music and films are now largely digital-only - does the lack of a disc for GTA 6 mean gaming is going the same way?",
-          "isoDate": "2026-06-26T23:03:04.000Z"
         }
       ]
     },
@@ -203,6 +203,12 @@
       "header": "160  INTELIGENCIA ARTIFICIAL",
       "maxItems": 10,
       "items": [
+        {
+          "title": "MIT in the media: Innovating and educating for the next 250 years of America",
+          "link": "https://news.mit.edu/2026/mit-media-innovating-and-educating-next-250-years-america",
+          "summary": "During a \"Washington Post Live\" panel discussion with ASU President Michael Crow, President Sally Kornbluth explored how universities are preparing the next generation of scientists to lead in America’s rapidly changing technological landscape.",
+          "isoDate": "2026-07-01T20:30:00.000Z"
+        },
         {
           "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
           "link": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
@@ -256,12 +262,6 @@
           "link": "https://openai.com/index/mapping-ai-jobs-transition-eu",
           "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
           "isoDate": "2026-06-29T07:00:00.000Z"
-        },
-        {
-          "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
-          "link": "https://openai.com/index/hp-frontier-partnership",
-          "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
-          "isoDate": "2026-06-28T17:00:00.000Z"
         }
       ]
     },
@@ -273,19 +273,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 84\nColumn: 559\nChar:  ",
-          "isoDate": "2026-07-01T19:54:18.241Z"
+          "isoDate": "2026-07-02T03:32:44.081Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://spectrum.ieee.org/rss/fulltext",
           "summary": "Feed not recognized as RSS 1 or 2.",
-          "isoDate": "2026-07-01T19:54:16.105Z"
+          "isoDate": "2026-07-02T03:32:41.669Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-07-01T19:54:15.780Z"
+          "isoDate": "2026-07-02T03:32:41.258Z"
         }
       ]
     },
