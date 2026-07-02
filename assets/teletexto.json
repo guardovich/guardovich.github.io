@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T03:32:44.830Z",
+  "generatedAt": "2026-07-02T08:54:59.233Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
@@ -75,7 +75,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
           "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-07-02T03:32:38.057Z"
+          "isoDate": "2026-07-02T08:54:53.957Z"
         },
         {
           "title": "Togetherness: How co-operation built the world",
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 69\nColumn: 41\nChar: &",
-          "isoDate": "2026-07-02T03:32:39.162Z"
+          "isoDate": "2026-07-02T08:54:54.711Z"
         },
         {
           "title": "Don't expect trackers to save your stolen car, experts say",
@@ -273,19 +273,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 84\nColumn: 559\nChar:  ",
-          "isoDate": "2026-07-02T03:32:44.081Z"
+          "isoDate": "2026-07-02T08:54:58.291Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://spectrum.ieee.org/rss/fulltext",
           "summary": "Feed not recognized as RSS 1 or 2.",
-          "isoDate": "2026-07-02T03:32:41.669Z"
+          "isoDate": "2026-07-02T08:54:56.246Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-07-02T03:32:41.258Z"
+          "isoDate": "2026-07-02T08:54:56.051Z"
         }
       ]
     },
