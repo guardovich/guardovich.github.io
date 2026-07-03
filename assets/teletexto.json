@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-07-03T02:55:15.397Z",
+  "generatedAt": "2026-07-03T09:16:51.209Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
+          "link": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/",
+          "summary": "As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school. The five-year-old is given internet-based homework every week. And they are both absolutely repulsed by the idea of smoking. That was not the prevailing sentiment when I was young.…",
+          "isoDate": "2026-07-03T09:00:00.000Z"
+        },
         {
           "title": "Sony’s PlayStation disc factory is already being repurposed",
           "link": "https://www.theverge.com/games/961203/sony-austria-thalgau-end-disc-production-microlenses-instead",
@@ -58,12 +64,6 @@
           "link": "https://arstechnica.com/gadgets/2026/07/250-used-to-get-you-a-lifetime-plex-pass-now-you-get-a-five-year-subscription/",
           "summary": "Plex is pushing customers to newer features and more frequent payments.",
           "isoDate": "2026-07-02T16:35:59.000Z"
-        },
-        {
-          "title": "The video game disc is dead",
-          "link": "https://www.theverge.com/podcast/960810/video-game-disc-dead-vergecast",
-          "summary": "For decades, to be a gamer was to accumulate a lot of stuff. Consoles, controllers, accessories, weird VR gloves that never worked properly, but mostly the games themselves. Over the years, games have come in every shape and size you can imagine. And now that era appears to be ending.\nOn this episode of The Vergecast, David and Nilay talk about Sony's plan to end production of PlayStation discs, Microsoft's ongoing strategy for digitizing games, and in general the end of physical game media. It all makes a certain kind of business sense - and these companies are all desperately searching for anything that makes business sense - but it might …\nRead the full story at The Verge.",
-          "isoDate": "2026-07-02T16:31:09.000Z"
         }
       ]
     },
@@ -75,7 +75,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
           "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-07-03T02:55:10.844Z"
+          "isoDate": "2026-07-03T09:16:45.908Z"
+        },
+        {
+          "title": "China boosts prestigious grants for young scientists — will it ease competition?",
+          "link": "https://www.nature.com/articles/d41586-026-01989-5",
+          "summary": "Nature, Published online: 03 July 2026; doi:10.1038/d41586-026-01989-5\nThe National Natural Science Foundation of China says it will fund an extra 12,000 projects from this year.",
+          "isoDate": "2026-07-03T00:00:00.000Z"
         },
         {
           "title": "Membrane protein solubilization and structure determination using de novo–designed proteins",
@@ -124,12 +130,6 @@
           "link": "https://www.science.org/doi/abs/10.1126/science.aej7556?af=R",
           "summary": "Science, Volume 393, Issue 6806, July 2026.",
           "isoDate": "2026-07-02T07:00:00.000Z"
-        },
-        {
-          "title": "Institutionalizing AI diplomacy in Africa",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aei7835?af=R",
-          "summary": "Science, Volume 393, Issue 6806, July 2026.",
-          "isoDate": "2026-07-02T07:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 69\nColumn: 41\nChar: &",
-          "isoDate": "2026-07-03T02:55:12.762Z"
+          "isoDate": "2026-07-03T09:16:46.561Z"
         },
         {
           "title": "AI is 'not smart' so what's next in artificial intelligence?",
@@ -273,19 +273,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 84\nColumn: 559\nChar:  ",
-          "isoDate": "2026-07-03T02:55:14.741Z"
+          "isoDate": "2026-07-03T09:16:50.632Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://spectrum.ieee.org/rss/fulltext",
           "summary": "Feed not recognized as RSS 1 or 2.",
-          "isoDate": "2026-07-03T02:55:14.327Z"
+          "isoDate": "2026-07-03T09:16:48.240Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-07-03T02:55:14.125Z"
+          "isoDate": "2026-07-03T09:16:47.990Z"
         }
       ]
     },
