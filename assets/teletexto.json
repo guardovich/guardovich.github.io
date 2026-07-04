@@ -1,10 +1,34 @@
 {
-  "generatedAt": "2026-07-04T08:35:45.061Z",
+  "generatedAt": "2026-07-04T13:23:58.826Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "The square-ish phone that I wanted to love",
+          "link": "https://www.theverge.com/tech/960509/ikko-mindone-pro-hands-on",
+          "summary": "A great concept that falls flat.\t\n\nThe Ikko MindOne Pro is delightfully small.\nI keep calling it a square phone, which isn't quite right; the screen is square, but the phone itself is slightly rectangular. The camera flips up so you can use it for selfies - you can even open it partway to use as a stand or a kind of PopSocket. There's a Clicks-style keyboard accessory that also adds a magnetic ring and a headphone jack. I tried so hard to like it, but this phone is a miss no matter how you look at it.\nI used it like a normal phone. I downloaded a minimalist launcher and tried using it as kind of a dumb phone. I put the keyboard case on. I took the keyboard case off. Nothing …\nRead the full story at The Verge.",
+          "isoDate": "2026-07-04T13:00:00.000Z"
+        },
+        {
+          "title": "The fanfiction community is at war with AI — and itself",
+          "link": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
+          "summary": "Fanfiction communities are trying to hunt down writers who haven’t written works with their own hands. | Image: Álvaro Bernis / The Verge\t\n\nOver the past week, a new fanworks movement has kicked off, with the aim to root out authors using generative AI. But the detection methods being implemented are questionable, and any fanfic writer could be caught in the crossfire.\nBroad distaste around the use of Claude, ChatGPT, and other AI tools has long been a thing in creative communities, including the world of fanfiction. Readers and writers have passed around tips for spotting supposedly AI-generated works, citing anything from em dashes to the broad concept of purple prose. But on June 29th, an anonymous X account called @heatedrivalryai promised a seemingly more reliable solution …\nRead the full story at The Verge.",
+          "isoDate": "2026-07-04T12:00:00.000Z"
+        },
+        {
+          "title": "When the ability to smell goes away",
+          "link": "https://arstechnica.com/science/2026/07/when-the-ability-to-smell-goes-away/",
+          "summary": "Disturbances in this critical sense are often linked to problems with brain health.",
+          "isoDate": "2026-07-04T11:04:31.000Z"
+        },
+        {
+          "title": "A martian rock has lots of carbon on it, and it's not clear why",
+          "link": "https://arstechnica.com/science/2026/07/a-martian-rock-has-lots-of-carbon-on-it-and-its-not-clear-why/",
+          "summary": "Biology could explain the find, but there are other potential explanations.",
+          "isoDate": "2026-07-04T11:00:41.000Z"
+        },
         {
           "title": "Qi fan fan",
           "link": "https://www.theverge.com/tech/961332/qi-active-cooling-really-works",
@@ -40,30 +64,6 @@
           "link": "https://www.theverge.com/tech/961297/trump-mobile-t1-phone-first-impressions",
           "summary": "Unlike most phones, the T1 still ships with a charger. Trump Mobile seemingly isn’t too worried about e-waste.\t\n\nWhere's the Trump phone? We're going to keep talking about it every week. One year on, our phones have finally arrived.\n12 months, 16 days, 21 hours, and 54 minutes after I first heard about Trump Mobile's T1 Phone 8002 (gold version), I'm finally holding one in my own hands.\nThat's right, The Verge's Trump phones have arrived. And yes, I do mean phones - we have three of them: We ordered two, paid for two, and received three, all of which were sent to the wrong address. You can't beat service like that.\nMy phone came with a free Trump Mobile SIM card, even though I've not signed up to the company's mobile plan, plus an A4 quick start gui …\nRead the full story at The Verge.",
           "isoDate": "2026-07-03T14:41:11.000Z"
-        },
-        {
-          "title": "Hydration isn’t complicated: Just drink water",
-          "link": "https://www.theverge.com/column/960832/optimizer-hydration-electrolytes-health-heat-wave",
-          "summary": "Powerade is appropriate for World Cup athletes, but unless you’re also sweating buckets, water is usually enough. | Photo: Megan Briggs / Getty Images\t\n\nThis is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here.\nEurope is melting, the eastern US is currently trapped in a \"heat dome,\" the Midwest has the corn sweats to look forward to, and if you've never felt the oppressive, sticky misery of monsoon season in Asia - consider yourself blessed. But as folks duke it out on social media about who has it hotter (and whether air conditioning is ethical), it's time to address a nonnegotiable truth of surviving summer: hydration.\nSurely, stayi …\nRead the full story at The Verge.",
-          "isoDate": "2026-07-03T14:00:00.000Z"
-        },
-        {
-          "title": "Anthropic wants to develop its own drugs",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
-          "summary": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, and generates figures and visuals. Anthropic, already dominating the industry with its popular coding tools and powerful AI models, framed the launch around what it says is AI's potential to \"dramatically accelerate the pace of scientific discovery and the development of healthcare interventions,\" and touted a long list of biotech and pharma customers already using Claude. \nAnthropic also went a step further, saying it would develop drugs of its  …\nRead the full story at The Verge.",
-          "isoDate": "2026-07-03T13:56:52.000Z"
-        },
-        {
-          "title": "Rocket Report: Indian startup nears first launch; SpaceX's millenary milestone",
-          "link": "https://arstechnica.com/space/2026/07/rocket-report-indian-startup-nears-first-launch-spacexs-millenary-milestone/",
-          "summary": "NASA awarded Rocket Lab deals for three dedicated launches using the company's Electron rocket.",
-          "isoDate": "2026-07-03T13:55:35.000Z"
-        },
-        {
-          "title": "Jon Prosser responds to Apple lawsuit by blaming the other guy",
-          "link": "https://www.theverge.com/tech/961285/jon-prosser-apple-lawsuit-response-ios-leak",
-          "summary": "YouTuber Jon Prosser has finally filed a formal response to Apple's lawsuit made against him and another defendant over allegedly stealing iOS secrets. In his response, Prosser denied that he \"planned or participated in any conspiracy or coordinated scheme\" for the \"purpose of injuring Apple.\" However, Prosser admitted to recording a FaceTime call showing unreleased iOS software and sharing revenue from his YouTube videos about the leaks with the person who showed him the information. Prosser also argued that the other defendant \"is completely responsible\" for the alleged disclosure of trade secrets.\nLast July, Apple claimed in its lawsuit  …\nRead the full story at The Verge.",
-          "isoDate": "2026-07-03T13:12:35.000Z"
         }
       ]
     },
@@ -75,7 +75,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
           "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-07-04T08:35:40.953Z"
+          "isoDate": "2026-07-04T13:23:55.110Z"
         },
         {
           "title": "China boosts prestigious grants for young scientists — will it ease competition?",
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 69\nColumn: 41\nChar: &",
-          "isoDate": "2026-07-04T08:35:41.672Z"
+          "isoDate": "2026-07-04T13:23:55.997Z"
         },
         {
           "title": "Tech Now",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 84\nColumn: 559\nChar:  ",
-          "isoDate": "2026-07-04T08:35:44.504Z"
+          "isoDate": "2026-07-04T13:23:58.203Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-07-04T08:35:43.500Z"
+          "isoDate": "2026-07-04T13:23:57.249Z"
         },
         {
           "title": "IEEE’s Global Museum Brings Engineering History to You",
