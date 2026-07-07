@@ -1,10 +1,34 @@
 {
-  "generatedAt": "2026-07-06T19:55:44.929Z",
+  "generatedAt": "2026-07-07T03:19:46.473Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "FCC to end Biden-era rule that forces ISPs to list all their fees",
+          "link": "https://arstechnica.com/tech-policy/2026/07/fcc-to-end-biden-era-rule-that-forces-isps-to-list-all-their-fees/",
+          "summary": "FCC to let ISPs stop listing all passthrough fees, give single \"up to\" price.",
+          "isoDate": "2026-07-06T21:13:37.000Z"
+        },
+        {
+          "title": "Kremlin suspected of flying drones over Europe using Russian shadow fleet",
+          "link": "https://arstechnica.com/gadgets/2026/07/kremlin-suspected-of-flying-drones-over-europe-using-russian-shadow-fleet/",
+          "summary": "Drone intruders that possibly flew from Russian ships showed Europe isn’t ready.",
+          "isoDate": "2026-07-06T20:52:42.000Z"
+        },
+        {
+          "title": "Hoto&#8217;s PixelDrive screwdriver is down to $60, matching its best price",
+          "link": "https://www.theverge.com/gadgets/961895/hoto-pixeldrive-screwdriver-deal-sale",
+          "summary": "If your Prime Day purchases included a new desk, TV stand, bookshelf, or other furniture you still haven’t assembled, Hoto’s PixelDrive cordless screwdriver can help speed up the process. It’s currently on sale for $59.99 ($20 off) at Amazon, matching its best price to date. \nHoto PixelDrive Cordless Screwdriver\nHoto’s latest electric screwdriver delivers an adjustable 6Nm of torque, along with a built-in pixelated display that lets you check the battery life and other info.\n\nWhere to Buy:\n\n $79.99 $59.98 at Amazon\n $79.99 at Hoto\n\nFrom tightening loose screws on furniture to repairing electronics, the PixelDrive is designed to handle a wide range of household projects. Hoto includes 30 screwdriver bits that cover many of the most common screw types, all neatly organized in a small cylindrical case. It also offers six adjustable torque settings, allowing you to use less power when working with fragile electronics or increase it when putting together a desk, bookshelf, TV stand, or other furniture. You can also switch between a slower 80RPM mode for more precise work and a faster 200RPM mode with the press of a button.\nHoto also added several features that make assembling projects a little easier. A built-in display lets you quickly check your current torque setting and remaining battery life, while an integrated LED light helps illuminate dim spaces, whether you’re working under a desk or inside a cabinet. The rechargeable 2,000mAh battery also charges over USB-C, so you won’t need to keep buying disposable batteries.",
+          "isoDate": "2026-07-06T20:24:28.000Z"
+        },
+        {
+          "title": "What is the oldest American object ever launched into space?",
+          "link": "https://arstechnica.com/space/2026/07/whats-the-oldest-americana-flown-in-space/",
+          "summary": "From a Revolutionary War flag to the Statue of Liberty...",
+          "isoDate": "2026-07-06T19:57:56.000Z"
+        },
         {
           "title": "America’s greatest idea is still under threat",
           "link": "https://www.theverge.com/policy/961802/america-250-free-speech",
@@ -18,6 +42,12 @@
           "isoDate": "2026-07-06T18:00:00.000Z"
         },
         {
+          "title": "NRC is (sort of) getting rid of \"as low as reasonably achievable\" standard",
+          "link": "https://arstechnica.com/science/2026/07/nuclear-regulatory-commission-plans-really-minor-changes-to-safety-regs/",
+          "summary": "Its issues with current nuclear safety standards are termed semantic, not physical.",
+          "isoDate": "2026-07-06T17:48:45.000Z"
+        },
+        {
           "title": "Five questions for Dr. Rubin, who’s armed with a mic and a bowtie",
           "link": "https://www.theverge.com/science/961483/doctor-zachary-rubin-md-interview",
           "summary": "Dr. Rubin’s feed\t\n\nBullshit is cheap but truth is expensive. Anyone with half a brain cell can post wild misinformation that goes mega viral, which wastes the time and expertise of highly trained people who feel an obligation to inform others of the truth. Today I want you to meet one of those highly-trained people, Dr. Zachary Rubin, who works on the front lines against scientific and medical misinformation.\nRubin is a pediatric allergist and immunologist and author of the book All About Allergies. He likely came across my TikTok feed because I crave anti-misinformation content; one of my other favorite people doing this work is Rubin's colleague Dr. Idrees  …\nRead the full story at The Verge.",
@@ -25,7 +55,7 @@
         },
         {
           "title": "Katalyst's satellite rescue mission is now in pursuit of NASA's Swift",
-          "link": "https://arstechnica.com/science/2026/07/katalysts-satellite-rescue-mission-is-now-in-pursuit-of-nasas-swift/",
+          "link": "https://arstechnica.com/space/2026/07/katalysts-satellite-rescue-mission-is-now-in-pursuit-of-nasas-swift/",
           "summary": "It will take several weeks for the Link spacecraft to rendezvous with NASA's Swift observatory.",
           "isoDate": "2026-07-06T17:14:09.000Z"
         },
@@ -34,36 +64,6 @@
           "link": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
           "summary": "Anthropic accused of spying on users; engineer says “experiment” is over.",
           "isoDate": "2026-07-06T16:44:18.000Z"
-        },
-        {
-          "title": "Former Xbox studios Double Fine and Compulsion will keep games after going indie",
-          "link": "https://www.theverge.com/games/961749/xbox-layoffs-compulsion-double-fine-indie",
-          "summary": "Microsoft is spinning off four of its Xbox game studios - Compulsion Games, Double Fine Productions, Ninja Theory, and Undead Labs - as part of the restructuring announced today. However, two that are going independent, Double Fine and Compulsion, will get to keep their franchises and games catalogs, according to Xbox CEO Asha Sharma.\n\"Compulsion Games and Double Fine Productions will return to management and transition to independent studios with their IP, catalog, and runway for their next games,\" Sharma says in a memo.\nCompulsion and Double Fine have also shared statements about their futures.\nHere's Compulsion's:\nWhen Compulsion Gam …\n\nRead the full story at The Verge.",
-          "isoDate": "2026-07-06T16:22:34.000Z"
-        },
-        {
-          "title": "The incredible shrinking Xbox: Five studios, 3,200 employees let go",
-          "link": "https://arstechnica.com/gaming/2026/07/the-incredible-shrinking-xbox-five-studios-3200-employees-let-go/",
-          "summary": "Move affects ~20% of the gaming division, which will refocus on its biggest franchises.",
-          "isoDate": "2026-07-06T16:01:54.000Z"
-        },
-        {
-          "title": "I spy",
-          "link": "https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy",
-          "summary": "I’m just doing my job, but turns out, it feels lousy holding other people’s privacy in your hands.\t\n\nI've long argued that Hollywood has simultaneously set and ruined our expectations for smart glasses. But after binge-watching two seasons of Netflix's A Man on the Inside, this is perhaps the first time I've seen Hollywood, perhaps inadvertently, illustrate the biggest cultural problem with smart glasses as they stand today. \nIn a nutshell, Ted Danson plays Charles Nieuwendyk, an elderly widower who finds a new purpose working for a private investigator. Armed with a pair of Ray-Ban Meta-like glasses, a voice recorder, and a smartphone, Nieuwendyk infiltrates a retirement home, and several privacy-infringing hijinks ensue as he hunts for t …\nRead the full story at The Verge.",
-          "isoDate": "2026-07-06T16:00:00.000Z"
-        },
-        {
-          "title": "F1 in Britain: Automated software to blame for crushing expectations",
-          "link": "https://arstechnica.com/cars/2026/07/f1-in-britain-automated-software-to-blame-for-crushing-expectations/",
-          "summary": "Sometimes races finish behind a safety car, but it's not always satisfying.",
-          "isoDate": "2026-07-06T15:45:55.000Z"
-        },
-        {
-          "title": "There were not one, but two asteroid encounters this weekend",
-          "link": "https://arstechnica.com/space/2026/07/there-were-not-one-but-two-asteroid-encounters-this-weekend/",
-          "summary": "The Torifune asteroid turns out to be shaped like a peanut.",
-          "isoDate": "2026-07-06T15:15:30.000Z"
         }
       ]
     },
@@ -72,34 +72,10 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "NASA Takes Flight For America’s 250th",
-          "link": "https://www.nasa.gov/image-article/nasa-takes-flight-for-americas-250th/",
-          "summary": "NASA Administrator Jared Isaacman leads a flyover featuring his personally owned Northrop F-5 Tiger during the Great American State Fair on July 4, 2026, on the National Mall in Washington, D.C. For 250 years, America has pushed the boundaries of what’s possible. From the earliest days of exploration, to the first steps on the Moon […]",
-          "isoDate": "2026-07-06T18:38:20.000Z"
-        },
-        {
-          "title": "NASA Seeks Industry Input on Second Phase of Commercial Space Stations",
-          "link": "https://www.nasa.gov/humans-in-space/commercial-space/nasa-seeks-industry-input-on-second-phase-of-commercial-space-stations/",
-          "summary": "On Monday, NASA released a draft Request for Proposals (RFP) seeking feedback from American companies on the next phase of its commercial space stations strategy, aimed at ensuring a seamless transition of activities in low Earth orbit from the International Space Station.  “NASA’s review reflects what we’ve been hearing from industry throughout this process. Industry […]",
-          "isoDate": "2026-07-06T15:33:00.000Z"
-        },
-        {
-          "title": "NASA’s CAPSTONE Completes Extended Mission Testing Lunar Technologies",
-          "link": "https://www.nasa.gov/technology/space-comms/nasas-capstone-completes-extended-mission-testing-lunar-technologies/",
-          "summary": "As NASA prepares for a sustained human presence on the Moon, missions will increasingly require spacecraft that can navigate and communicate without a direct connection to Earth. NASA’s Cislunar Autonomous Positioning System Technology Operations and Navigation Experiment, or CAPSTONE, validated and advanced these capabilities. Designed to test and validate technologies in lunar orbit, CAPSTONE launched […]",
-          "isoDate": "2026-07-06T15:00:54.000Z"
-        },
-        {
-          "title": "NASA Webb Uncovers Unusual Galaxy Shaped by Cosmic Collision",
-          "link": "https://science.nasa.gov/missions/webb/nasa-webb-uncovers-unusual-galaxy-shaped-by-cosmic-collision/",
-          "summary": "In new images from NASA’s James Webb Space Telescope to celebrate its fourth science anniversary, a familiar galaxy transforms into something far richer, and far more complex, than ever seen before. Webb’s unprecedented sensitivity across near- and mid-infrared wavelengths cuts through the thick lanes of dust that obscure Centaurus A’s center in visible light, showing […]",
-          "isoDate": "2026-07-06T14:00:00.000Z"
-        },
-        {
-          "title": "Examining Algal Blooms in Blue Mesa",
-          "link": "https://science.nasa.gov/earth/earth-observatory/examining-algal-blooms-in-blue-mesa/",
-          "summary": "Using satellite data, researchers connected harmful algal blooms with warm water and low water levels at one of Colorado’s largest reservoirs.",
-          "isoDate": "2026-07-06T04:01:00.000Z"
+          "title": "ERROR cargando feed",
+          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
+          "isoDate": "2026-07-07T03:19:42.442Z"
         },
         {
           "title": "From cloning to gene-editing: the enduring legacy of Dolly the sheep",
@@ -130,6 +106,30 @@
           "link": "https://www.nature.com/articles/d41586-026-02097-0",
           "summary": "Nature, Published online: 06 July 2026; doi:10.1038/d41586-026-02097-0\nInappropriate use of cooling breaks in sport is undermining trust in heat-health research.",
           "isoDate": "2026-07-06T00:00:00.000Z"
+        },
+        {
+          "title": "Daily briefing: How cooperation built the world",
+          "link": "https://www.nature.com/articles/d41586-026-02116-0",
+          "summary": "Nature, Published online: 03 July 2026; doi:10.1038/d41586-026-02116-0\nCollaboration in nature has often been overlooked in favour of competition, argues science journalist Rowan Hooper. Plus, what’s really happening with trust in science.",
+          "isoDate": "2026-07-03T00:00:00.000Z"
+        },
+        {
+          "title": "China boosts prestigious grants for young scientists — will it ease competition?",
+          "link": "https://www.nature.com/articles/d41586-026-01989-5",
+          "summary": "Nature, Published online: 03 July 2026; doi:10.1038/d41586-026-01989-5\nThe National Natural Science Foundation of China says it will fund an extra 12,000 projects from this year.",
+          "isoDate": "2026-07-03T00:00:00.000Z"
+        },
+        {
+          "title": "Membrane protein solubilization and structure determination using de novo–designed proteins",
+          "link": "https://www.science.org/doi/abs/10.1126/science.adr3817?af=R",
+          "summary": "Science, Volume 393, Issue 6806, July 2026.",
+          "isoDate": "2026-07-02T07:00:00.000Z"
+        },
+        {
+          "title": "Patterning human kidney organoids with synthetic Wnt-secreting organizers",
+          "link": "https://www.science.org/doi/abs/10.1126/science.adu9122?af=R",
+          "summary": "Science, Volume 393, Issue 6806, July 2026.",
+          "isoDate": "2026-07-02T07:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 69\nColumn: 41\nChar: &",
-          "isoDate": "2026-07-06T19:55:39.391Z"
+          "isoDate": "2026-07-07T03:19:43.365Z"
+        },
+        {
+          "title": "Robots available for rent: But what can they do?",
+          "link": "https://www.bbc.co.uk/news/articles/c4gymkg9lr2o?at_medium=RSS&at_campaign=rss",
+          "summary": "Robotics tech is changing fast, so for many it makes sense to rent a robot.",
+          "isoDate": "2026-07-06T23:48:55.000Z"
         },
         {
           "title": "Microsoft cuts 4,800 jobs and shrinks Xbox in 'significant restructure'",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/c0ryjyvjq41o?at_medium=RSS&at_campaign=rss",
           "summary": "The firm said future games would still be sold in shops, but they would come with a digital code only.",
           "isoDate": "2026-07-01T16:40:58.000Z"
-        },
-        {
-          "title": "Wonka Netflix show faces backlash for AI-generated Gene Wilder voice",
-          "link": "https://www.bbc.co.uk/news/articles/cdxdgpgn0zwo?at_medium=RSS&at_campaign=rss",
-          "summary": "The actor, who died in 2016, appears in the Netflix show with the consent of his estate.",
-          "isoDate": "2026-07-01T14:01:06.000Z"
         }
       ]
     },
@@ -240,9 +240,9 @@
           "isoDate": "2026-06-30T09:00:00.000Z"
         },
         {
-          "title": "Inside Genebench-Pro",
-          "link": "https://openai.com/index/genebench-pro/case-studies",
-          "summary": "",
+          "title": "Core dump epidemiology: fixing an 18-year-old bug",
+          "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+          "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
           "isoDate": "2026-06-30T00:00:00.000Z"
         },
         {
@@ -252,9 +252,9 @@
           "isoDate": "2026-06-30T00:00:00.000Z"
         },
         {
-          "title": "Core dump epidemiology: fixing an 18-year-old bug",
-          "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-          "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+          "title": "Inside Genebench-Pro",
+          "link": "https://openai.com/index/genebench-pro/case-studies",
+          "summary": "",
           "isoDate": "2026-06-30T00:00:00.000Z"
         },
         {
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 84\nColumn: 559\nChar:  ",
-          "isoDate": "2026-07-06T19:55:44.150Z"
+          "isoDate": "2026-07-07T03:19:45.904Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-07-06T19:55:41.458Z"
+          "isoDate": "2026-07-07T03:19:44.818Z"
         },
         {
           "title": "VHF Propagation: What Every RF Engineer Should Know",
@@ -296,7 +296,7 @@
         {
           "title": "AI’s Volatile Power Use Quietly Tests Grid Limits",
           "link": "https://spectrum.ieee.org/data-centers-grid-instability",
-          "summary": "The rapid expansion of artificial intelligence infrastructure is typically framed as an energy problem. Data centers are projected to consume a growing share of global electricity demand: The International Energy Agency estimates they could account for 3 to 4 percent of total global consumption within this decade.\nUtilities are already adjusting long-term forecasts to accommodate anticipated growth from hyperscale facilities and high-density compute clusters.\nThis framing captures scale. It misses behavior.\nThe emerging issue is not simply how much power large-scale compute systems consume, but how increasingly dense and synchronized computational workloads are beginning to alter the operating characteristics of the electrical grid itself through increasingly unpredictable demand that varies rapidly in both time and location, creating new operational challenges for grid operators.\nAI’s capricious energy needs\nTraditional grid planning assumes relatively predictable demand behavior. Industrial, commercial, and residential loads generally follow established profiles that can be forecast with reasonable accuracy. Even substantial demand growth has historically been manageable through reserve planning, transmission upgrades, and demand management programs.\nLarge-scale compute infrastructure introduces a different class of electrical load. Training—the computational task of making AI models—tends to be highly synchronized across clusters of GPUs, TPUs, and specialized accelerators operating in parallel, computationally dense, and relatively scheduled. Inference—the process of actually using those models—is generally more distributed and user-driven, making demand less predictable both in time and location. Both differ materially from traditional industrial demand profiles, though for different reasons. Unlike many conventional industrial processes, these workloads can ramp rapidly depending on model training cycles, distributed compute coordination, and workload scheduling strategies.\nFrom the perspective of the grid, this is not simply higher demand. It is more abrupt demand. High-density compute workloads can produce substantial step-changes in electricity consumption over extremely short intervals, including rapid fluctuations occurring within milliseconds. Data center operators are already deploying mitigation technologies, including batteries, power-conditioning systems, and supercapacitors. Collectively, however, data centers’ rapid load changes can place additional stress on backup generation reserves, systems that adjust supply as demand changes, frequency-control mechanisms that maintain grid stability, and local transmission infrastructure.\nCompute-related variability differs from the intermittency introduced through renewable energy integration. Wind and solar variability originate primarily on the supply side and is tied to environmental conditions. Compute-related variability emerges on the demand side, driven by workload synchronization, scheduling behavior, and computational intensity. The interaction between increasingly dynamic supply and demand conditions introduces additional uncertainty into forecasting, reserve management, congestion planning, and balancing operations.\nResearch organizations including the National Renewable Energy Laboratory (NREL) have emphasized the growing complexity associated with integrating highly dynamic resources into modern grid operations.\nLocation, location, location\nThe issue becomes more significant when compute activity is geographically concentrated. Large-scale data centers tend to cluster in regions with favorable conditions such as fiber connectivity, access to markets, tax incentives, and historically low electricity costs. Northern Virginia, often referred to as “Data Center Alley,” remains the most prominent example. The region hosts the world’s largest concentration of data centers and carries a substantial share of global internet traffic.\nUtilities operating in these regions have already identified data center growth as a primary driver of future load expansion. Virginia-based electricity supplier Dominion Energy, for example, has repeatedly highlighted hyperscale demand growth in its integrated resource planning documents.\n  Virginia has seen one of the largest data center buildouts worldwide. Here, Amazon Web Services and iron mountain data centers dominate the landscape in Manassas, Virginia. Nathan Howard/Bloomberg/Getty Images\nA sudden increase in electricity consumption within a constrained geographic area can stress substations, transmission corridors, and local balancing operations even if the broader grid maintains sufficient aggregate capacity. This creates localized reliability challenges that are not always visible through system-wide demand metrics alone.\nThermal management systems further intensify these effects. Cooling infrastructure in high-density compute facilities must respond dynamically to changing workloads. As processing intensity rises, cooling demand rises with it, often nonlinearly. This coupling between compute and thermal systems means that fluctuations in workload can propagate through multiple layers of facility power consumption simultaneously.\nHigh-density compute clusters may also introduce power quality concerns at the local level. Large concentrations of accelerators, switching power supplies, and high-frequency compute equipment can generate harmonics and nonlinear load behavior that place additional stress on distribution infrastructure. While modern facilities incorporate mitigation technologies, the scale and concentration of next-generation compute facilities may require utilities and operators to revisit assumptions surrounding localized power conditioning, harmonics management, and infrastructure resilience. These conditions can also contribute to short-duration electrical transients that place additional stress on localized infrastructure and power-conditioning systems.\nRegulations need updating\nPart of the challenge is that many existing regulatory and operational frameworks were designed around relatively stable industrial demand profiles. Large rapidly fluctuating loads have historically been constrained because abrupt cycling can complicate balancing operations, increase stress on transmission equipment, and reduce predictability in system operations. High-density compute clusters do not fit neatly within those assumptions.\nThis creates pressure for both operational adaptation and regulatory reassessment.\nDemand response mechanisms may allow certain compute workloads to be shifted or curtailed during periods of system stress. Data-center operators are exploring flexible scheduling, battery storage, and behind-the-meter generation. Grid operators, meanwhile, are evaluating planning frameworks and interconnection approaches for increasingly large flexible loads.\nThe Electric Reliability Counsil of Texas (ERCOT), for example, has publicly acknowledged the growing implications of large flexible loads, including data centers, for long-term grid planning and operational stability. Interconnection queues across the United States continue to expand significantly, reflecting mounting pressure on both generation and transmission infrastructure. Grid expansion timelines, however, are measured in years rather than quarters.\nThis creates a structural mismatch. Compute infrastructure can scale rapidly. Electrical infrastructure generally cannot.\nThe broader implication is that large-scale compute infrastructure is not simply another industrial load category. It represents a shift in the temporal and spatial characteristics of electricity demand itself.\nFraming the issue solely in terms of aggregate energy consumption risks overlooking these second-order operational effects. Capacity expansion alone does not fully address rapid ramping behavior, synchronization, localized congestion, transient instability, reserve compression, or increasingly demanding load-following requirements.\nThe challenge is not just how much electricity these systems consume. It is how they are beginning to change the operating conditions of the grid itself. The call is not to slow AI development but to recognize that hyperscale computing represents a new category of electrical demand. As AI infrastructure continues to scale, planning frameworks may need to account not only for total energy consumption but also for demand volatility, synchronization effects, and geographic concentration. Grid resilience will increasingly depend on understanding how these facilities consume power, not simply how much power they consume.",
+          "summary": "The rapid expansion of artificial intelligence infrastructure is typically framed as an energy problem. Data centers are projected to consume a growing share of global electricity demand: The International Energy Agency estimates they could account for 3 to 4 percent of total global consumption within this decade.\nUtilities are already adjusting long-term forecasts to accommodate anticipated growth from hyperscale facilities and high-density compute clusters.\nThis framing captures scale. It misses behavior.\nThe emerging issue is not simply how much power large-scale compute systems consume, but how increasingly dense and synchronized computational workloads are beginning to alter the operating characteristics of the electrical grid itself through increasingly unpredictable demand that varies rapidly in both time and location, creating new operational challenges for grid operators.\nAI’s Capricious Energy Needs\nTraditional grid planning assumes relatively predictable demand behavior. Industrial, commercial, and residential loads generally follow established profiles that can be forecast with reasonable accuracy. Even substantial demand growth has historically been manageable through reserve planning, transmission upgrades, and demand management programs.\nLarge-scale compute infrastructure introduces a different class of electrical load. Training—the computational task of making AI models—tends to be highly synchronized across clusters of GPUs, TPUs, and specialized accelerators operating in parallel, computationally dense, and relatively scheduled. Inference—the process of actually using those models—is generally more distributed and user-driven, making demand less predictable both in time and location. Both differ materially from traditional industrial demand profiles, though for different reasons. Unlike many conventional industrial processes, these workloads can ramp rapidly depending on model training cycles, distributed compute coordination, and workload scheduling strategies.\nFrom the perspective of the grid, this is not simply higher demand. It is more abrupt demand. High-density compute workloads can produce substantial step changes in electricity consumption over extremely short intervals, including rapid fluctuations occurring within milliseconds. Data-center operators are already deploying mitigation technologies, including batteries, power-conditioning systems, and supercapacitors. Collectively, however, data centers’ rapid load changes can place additional stress on backup-generation reserves, systems that adjust supply as demand changes, frequency-control mechanisms that maintain grid stability, and local transmission infrastructure.\nCompute-related variability differs from the intermittency introduced through renewable energy integration. Wind and solar variability originate primarily on the supply side and is tied to environmental conditions. Compute-related variability emerges on the demand side, driven by workload synchronization, scheduling behavior, and computational intensity. The interaction between increasingly dynamic supply and demand conditions introduces additional uncertainty into forecasting, reserve management, congestion planning, and balancing operations.\nResearch organizations including the National Renewable Energy Laboratory have emphasized the growing complexity associated with integrating highly dynamic resources into modern grid operations.\nLocation, Location, Location\nThe issue becomes more significant when compute activity is geographically concentrated. Large-scale data centers tend to cluster in regions with favorable conditions such as fiber connectivity, access to markets, tax incentives, and historically low electricity costs. Northern Virginia, often referred to as Data Center Alley, remains the most prominent example. The region hosts the world’s largest concentration of data centers and carries a substantial share of global internet traffic.\nUtilities operating in these regions have already identified data-center growth as a primary driver of future load expansion. Virginia-based electricity supplier Dominion Energy, for example, has repeatedly highlighted hyperscale demand growth in its integrated resource planning documents.\n  Virginia has seen one of the largest data center buildouts worldwide. Here, Amazon Web Services and Iron Mountain data centers dominate the landscape in Manassas, Va. Nathan Howard/Bloomberg/Getty Images\nA sudden increase in electricity consumption within a constrained geographic area can stress substations, transmission corridors, and local balancing operations even if the broader grid maintains sufficient aggregate capacity. This creates localized reliability challenges that are not always visible through system-wide demand metrics alone.\nThermal management systems further intensify these effects. Cooling infrastructure in high-density compute facilities must respond dynamically to changing workloads. As processing intensity rises, cooling demand rises as well, often nonlinearly. This coupling between compute and thermal systems means that fluctuations in workload can propagate through multiple layers of facility power consumption simultaneously.\nHigh-density compute clusters may also introduce power-quality concerns at the local level. Large concentrations of accelerators, switching power supplies, and high-frequency compute equipment can generate harmonics and nonlinear load behavior that place additional stress on distribution infrastructure. While modern facilities incorporate mitigation technologies, the scale and concentration of next-generation compute facilities may require utilities and operators to revisit assumptions surrounding localized power conditioning, harmonics management, and infrastructure resilience. These conditions can also contribute to short-duration electrical transients that place additional stress on localized infrastructure and power-conditioning systems.\nRegulations Need Updating\nPart of the challenge is that many existing regulatory and operational frameworks were designed around relatively stable industrial demand profiles. Large rapidly fluctuating loads have historically been constrained because abrupt cycling can complicate balancing operations, increase stress on transmission equipment, and reduce predictability in system operations. High-density compute clusters do not fit neatly within those assumptions.\nThis creates pressure for both operational adaptation and regulatory reassessment.\nDemand-response mechanisms may allow certain compute workloads to be shifted or curtailed during periods of system stress. Data-center operators are exploring flexible scheduling, battery storage, and behind-the-meter generation. Grid operators, meanwhile, are evaluating planning frameworks and interconnection approaches for increasingly large flexible loads.\nThe Electric Reliability Council of Texas (ERCOT), for example, has publicly acknowledged the growing implications of large flexible loads, including data centers, for long-term grid planning and operational stability. Interconnection queues across the United States continue to expand significantly, reflecting mounting pressure on both generation and transmission infrastructure. Grid expansion timelines, however, are measured in years rather than quarters.\nThis creates a structural mismatch. Compute infrastructure can scale rapidly. Electrical infrastructure generally cannot.\nThe broader implication is that large-scale compute infrastructure is not simply another industrial load category. It represents a shift in the temporal and spatial characteristics of electricity demand itself.\nFraming the issue solely in terms of aggregate energy consumption risks overlooking these second-order operational effects. Capacity expansion alone does not fully address rapid ramping behavior, synchronization, localized congestion, transient instability, reserve compression, or increasingly demanding load-following requirements.\nThe challenge is not just how much electricity these systems consume. It is how they are beginning to change the operating conditions of the grid itself. The call is not to slow AI development but to recognize that hyperscale computing represents a new category of electrical demand. As AI infrastructure continues to scale, planning frameworks may need to account not only for total energy consumption but also for demand volatility, synchronization effects, and geographic concentration. Grid resilience will increasingly depend on understanding how these facilities consume power, not simply how much power they consume.",
           "isoDate": "2026-07-03T12:00:01.000Z"
         },
         {
