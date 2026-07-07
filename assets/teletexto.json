@@ -1,69 +1,69 @@
 {
-  "generatedAt": "2026-07-07T09:39:37.706Z",
+  "generatedAt": "2026-07-07T14:31:49.910Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
         {
-          "title": "FCC to end Biden-era rule that forces ISPs to list all their fees",
-          "link": "https://arstechnica.com/tech-policy/2026/07/fcc-to-end-biden-era-rule-that-forces-isps-to-list-all-their-fees/",
-          "summary": "FCC to let ISPs stop listing all passthrough fees, give single \"up to\" price.",
-          "isoDate": "2026-07-06T21:13:37.000Z"
+          "title": "iRobot’s newest floor cleaner isn’t a robot",
+          "link": "https://www.theverge.com/tech/962034/irobot-roomba-electro-plus-smaller-cheaper-robot-vacuums",
+          "summary": "The Roomba Electro Plus is iRobot’s first manually-operated floor cleaner. | Image: iRobot\t\n\niRobot just announced its first ever non-robotic floor cleaner. The $399 Roomba Electro Plus is a 5-in-1 hard-floor cleaner that combines vacuuming, mopping, and disinfecting, but you have to operate it yourself. The company also announced updates to its line of Roomba robot vacuums, launching five new models with higher suction power, smaller footprints, and lower prices. These largely replace the line that arrived in 2025. \nDesigned exclusively for hard floors, the new Electro Plus is similar to the new breed of manual wet-dry floor cleaners available from Dreame, Roborock, and others. iRobot's distinguishing feature is Electro's ability  …\nRead the full story at The Verge.",
+          "isoDate": "2026-07-07T14:00:00.000Z"
         },
         {
-          "title": "Kremlin suspected of flying drones over Europe using Russian shadow fleet",
-          "link": "https://arstechnica.com/gadgets/2026/07/kremlin-suspected-of-flying-drones-over-europe-using-russian-shadow-fleet/",
-          "summary": "Drone intruders that possibly flew from Russian ships showed Europe isn’t ready.",
-          "isoDate": "2026-07-06T20:52:42.000Z"
+          "title": "Microsoft fixes storage-hogging Windows 11 folder",
+          "link": "https://www.theverge.com/tech/962084/microsoft-storage-hogging-windows-11-folder",
+          "summary": "Microsoft is addressing a Windows 11 bug that caused a folder to take up several gigabytes of storage space. As spotted earlier by Windows Latest, Microsoft included the patch in its optional  June 2026 update (KB5095093), which \"improves disk space usage for the CapabilityAccessManager.db-wal file.\"\nThe CapabilityAccessManager.db-wal file is installed on Windows 11 PCs by default, and is related to app permissions. Several users have had issues with this file over the past few months, with one person saying the file took up 500GB of storage on their device. Others have reported the file growing to similarly large amounts, ranging from 12GB …\nRead the full story at The Verge.",
+          "isoDate": "2026-07-07T13:52:58.000Z"
         },
         {
-          "title": "Hoto&#8217;s PixelDrive screwdriver is down to $60, matching its best price",
-          "link": "https://www.theverge.com/gadgets/961895/hoto-pixeldrive-screwdriver-deal-sale",
-          "summary": "If your Prime Day purchases included a new desk, TV stand, bookshelf, or other furniture you still haven’t assembled, Hoto’s PixelDrive cordless screwdriver can help speed up the process. It’s currently on sale for $59.99 ($20 off) at Amazon, matching its best price to date. \nHoto PixelDrive Cordless Screwdriver\nHoto’s latest electric screwdriver delivers an adjustable 6Nm of torque, along with a built-in pixelated display that lets you check the battery life and other info.\n\nWhere to Buy:\n\n $79.99 $59.98 at Amazon\n $79.99 at Hoto\n\nFrom tightening loose screws on furniture to repairing electronics, the PixelDrive is designed to handle a wide range of household projects. Hoto includes 30 screwdriver bits that cover many of the most common screw types, all neatly organized in a small cylindrical case. It also offers six adjustable torque settings, allowing you to use less power when working with fragile electronics or increase it when putting together a desk, bookshelf, TV stand, or other furniture. You can also switch between a slower 80RPM mode for more precise work and a faster 200RPM mode with the press of a button.\nHoto also added several features that make assembling projects a little easier. A built-in display lets you quickly check your current torque setting and remaining battery life, while an integrated LED light helps illuminate dim spaces, whether you’re working under a desk or inside a cabinet. The rechargeable 2,000mAh battery also charges over USB-C, so you won’t need to keep buying disposable batteries.",
-          "isoDate": "2026-07-06T20:24:28.000Z"
+          "title": "Solos debuts an even lighter version of its camera-less smart glasses",
+          "link": "https://www.theverge.com/tech/961711/solos-airgo-a6-smart-glasses-ai-assistant-privacy",
+          "summary": "The AirGo A6 are available in multiple designs including several transparent color options. | Image: Solos\t\n\nSolos announced a new version of its AirGo smart glasses, one that forgoes cameras for a sleeker design and an AI assistant that relies on voice interactions. Last year's AirGo A5 weighed 36 to 40 grams depending on the frame style, but the new AirGo A6 weigh around 19 grams. Part of the weight savings comes from thinner temple arms housing speakers, batteries, and other electronics. For comparison, the new Meta Glasses announced last month weigh around 54 to nearly 60 grams depending on the style.\nPricing and availability for the new AirGo A6 hasn't been finalized yet, but the smart glasses will support \"full prescription lens compatibilit …\nRead the full story at The Verge.",
+          "isoDate": "2026-07-07T13:00:00.000Z"
         },
         {
-          "title": "What is the oldest American object ever launched into space?",
-          "link": "https://arstechnica.com/space/2026/07/whats-the-oldest-americana-flown-in-space/",
-          "summary": "From a Revolutionary War flag to the Statue of Liberty...",
-          "isoDate": "2026-07-06T19:57:56.000Z"
+          "title": "Google Search lets creators know more about their reach",
+          "link": "https://www.theverge.com/tech/961955/google-search-console-reach-platform-properties",
+          "summary": "Google is going to give content creators and website owners a better idea of how people find their social media profiles and YouTube content through Search. With a new feature in the Google Search Console called \"platform properties,\" Google says that you'll be able to \"easily track which search terms lead people to your Instagram, TikTok, X and YouTube content on Search, and see exactly how your audience is interacting with your posts,\" according to a blog post.\nThe new feature continues Google's push to make Search more of a hub for everything creators and publishers do online. In June, Google started letting big creators and publishers c …\nRead the full story at The Verge.",
+          "isoDate": "2026-07-07T13:00:00.000Z"
         },
         {
-          "title": "America’s greatest idea is still under threat",
-          "link": "https://www.theverge.com/policy/961802/america-250-free-speech",
-          "summary": "The Patrouille de France perform a flyover during the Sail4th 250 Tall Ships Parade along the Hudson River in New York on July 4th, 2026. | Photo by John Lamparski/Bloomberg via Getty Images\t\n\nThe United States of America recently turned 250 years old. What a spectacle! The fireworks were amazing, and millions of proud people celebrated across the nation - even around the world. France lit up the Eiffel Tower; Japan had fireworks. French fighter jets flew above New York City with trails of red, white, and blue - our first major ally streaking our shared colors through the sky. Meanwhile, shameful white nationalists paraded through our nation's capital. This has always been a country of paradoxes.\nOur 250th birthday counts back to the Declaration of Independence in 1776. The declaration was a radical and astonishing document that  …\nRead the full story at The Verge.",
-          "isoDate": "2026-07-06T18:36:33.000Z"
+          "title": "iFixit has a new toolkit for fixing appliances, building furniture, and household repairs",
+          "link": "https://www.theverge.com/tech/962055/ifixit-megalodon-tool-kit-household-appliance-repairs",
+          "summary": "iFixit is best known for its detailed gadget teardowns and toolkits designed to help you crack open and troubleshoot your own electronics. Today it announced a new toolkit that's instead tailored to household repairs or DIY projects like fixing appliances or assembling flat-packed furniture. iFixit describes its $34.95 Megalodon Driver Kit as a \"compact kit for the modern home\" and it includes a new screwdriver the company designed to be a better alternative to traditional ratcheting drivers.\nThe star of the show is the Megalodon driver featuring a bright blue end cap iFixit calls the Swivel Grip Cap. The screwdriver is able to spin freely  …\nRead the full story at The Verge.",
+          "isoDate": "2026-07-07T12:58:50.000Z"
         },
         {
-          "title": "Your family’s $300 stake in OpenAI",
-          "link": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
-          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday, the Financial Times reported that Altman is in…",
-          "isoDate": "2026-07-06T18:00:00.000Z"
+          "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
+          "link": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Your family’s $300 stake in OpenAI Sam Altman’s proposal that Americans should share in the wealth created by AI is back in the spotlight, with reports that he is discussing giving…",
+          "isoDate": "2026-07-07T12:10:00.000Z"
         },
         {
-          "title": "NRC is (sort of) getting rid of \"as low as reasonably achievable\" standard",
-          "link": "https://arstechnica.com/science/2026/07/nuclear-regulatory-commission-plans-really-minor-changes-to-safety-regs/",
-          "summary": "Its issues with current nuclear safety standards are termed semantic, not physical.",
-          "isoDate": "2026-07-06T17:48:45.000Z"
+          "title": "Marshall upgrades the bass and repairability of two wireless speakers",
+          "link": "https://www.theverge.com/tech/961601/marshall-acton-stanmore-iv-bluetooth-wireless-speakers-repair",
+          "summary": "The knobs and other parts on the Stanmore IV and Acton IV speakers are replaceable. | Image: Marshall\t\n\nMarshall announced new versions of its Acton and Stanmore Bluetooth speakers today with upgraded tweeters, bass ports, and internal designs that improve their ability to fill a room with sound. Both the Acton IV and Stanmore IV replace their four-year-old predecessors with a new focus on repairability. Parts including knobs, feet, and the speakers' front grills bearing the iconic Marshall logo are replaceable should they get damaged.\nThe smaller Acton IV, featuring a 4-inch woofer and a pair of 0.75-inch tweeters, is available starting today for $299.99 through Marshall's online store. The Stanmore IV, which has a similar driver setup but w …\nRead the full story at The Verge.",
+          "isoDate": "2026-07-07T12:00:00.000Z"
         },
         {
-          "title": "Five questions for Dr. Rubin, who’s armed with a mic and a bowtie",
-          "link": "https://www.theverge.com/science/961483/doctor-zachary-rubin-md-interview",
-          "summary": "Dr. Rubin’s feed\t\n\nBullshit is cheap but truth is expensive. Anyone with half a brain cell can post wild misinformation that goes mega viral, which wastes the time and expertise of highly trained people who feel an obligation to inform others of the truth. Today I want you to meet one of those highly-trained people, Dr. Zachary Rubin, who works on the front lines against scientific and medical misinformation.\nRubin is a pediatric allergist and immunologist and author of the book All About Allergies. He likely came across my TikTok feed because I crave anti-misinformation content; one of my other favorite people doing this work is Rubin's colleague Dr. Idrees  …\nRead the full story at The Verge.",
-          "isoDate": "2026-07-06T17:15:29.000Z"
+          "title": "Xbox’s bold plan for the future sounds nearly impossible",
+          "link": "https://www.theverge.com/entertainment/961924/xbox-billion-users",
+          "summary": "It's another bad week for the video game industry. Microsoft outlined a series of layoffs on Monday that Xbox CEO Asha Sharma described as \"the most significant restructure in Xbox history.\" But buried in Sharma's memo was a curiously optimistic statement: \"I want Xbox to be one of the few companies that entertains more than a billion people each day and gives everyone the opportunity to create and connect,\" she wrote. \nXbox has been a shambling mess after Microsoft spent billions of dollars with little to show for it, and now it aims to reach a much bigger audience with a much smaller team, amid one of the most challenging times in the ind …\nRead the full story at The Verge.",
+          "isoDate": "2026-07-07T12:00:00.000Z"
         },
         {
-          "title": "Katalyst's satellite rescue mission is now in pursuit of NASA's Swift",
-          "link": "https://arstechnica.com/space/2026/07/katalysts-satellite-rescue-mission-is-now-in-pursuit-of-nasas-swift/",
-          "summary": "It will take several weeks for the Link spacecraft to rendezvous with NASA's Swift observatory.",
-          "isoDate": "2026-07-06T17:14:09.000Z"
+          "title": "ULA's last six Atlas Vs can't launch anything besides Boeing's Starliner",
+          "link": "https://arstechnica.com/space/2026/07/after-a-stellar-career-ulas-atlas-v-rocket-last-act-is-waiting-on-starliner/",
+          "summary": "Amazon says it has enough satellites in orbit to begin initial broadband service at mid-latitudes later this year.",
+          "isoDate": "2026-07-07T11:15:15.000Z"
         },
         {
-          "title": "Secret Claude tracker shocks users after Anthropic’s anti-surveillance stance",
-          "link": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
-          "summary": "Anthropic accused of spying on users; engineer says “experiment” is over.",
-          "isoDate": "2026-07-06T16:44:18.000Z"
+          "title": "The foundational elements of AI architecture that IT leaders need to scale",
+          "link": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
+          "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces risk, leaving IT leaders to wonder which investments will prove valuable even six months into the future. Returning to the foundational elements of AI architecture—the…",
+          "isoDate": "2026-07-07T11:10:52.000Z"
         }
       ]
     },
@@ -78,58 +78,58 @@
           "isoDate": "2026-07-07T04:00:00.000Z"
         },
         {
-          "title": "NASA Takes Flight For America’s 250th",
-          "link": "https://www.nasa.gov/image-article/nasa-takes-flight-for-americas-250th/",
-          "summary": "NASA Administrator Jared Isaacman leads a flyover featuring his personally owned Northrop F-5 Tiger during the Great American State Fair on July 4, 2026, on the National Mall in Washington, D.C. For 250 years, America has pushed the boundaries of what’s possible. From the earliest days of exploration, to the first steps on the Moon […]",
-          "isoDate": "2026-07-06T18:38:20.000Z"
+          "title": "Publisher Correction: A 98-qubit trapped-ion quantum computer with all-to-all connectivity",
+          "link": "https://www.nature.com/articles/s41586-026-10882-0",
+          "summary": "Nature, Published online: 07 July 2026; doi:10.1038/s41586-026-10882-0\nPublisher Correction: A 98-qubit trapped-ion quantum computer with all-to-all connectivity",
+          "isoDate": "2026-07-07T00:00:00.000Z"
         },
         {
-          "title": "NASA Seeks Industry Input on Second Phase of Commercial Space Stations",
-          "link": "https://www.nasa.gov/humans-in-space/commercial-space/nasa-seeks-industry-input-on-second-phase-of-commercial-space-stations/",
-          "summary": "On Monday, NASA released a draft Request for Proposals (RFP) seeking feedback from American companies on the next phase of its commercial space stations strategy, aimed at ensuring a seamless transition of activities in low Earth orbit from the International Space Station.  “NASA’s review reflects what we’ve been hearing from industry throughout this process. Industry […]",
-          "isoDate": "2026-07-06T15:33:00.000Z"
+          "title": "Listen to Gen Z when it comes to AI in education",
+          "link": "https://www.nature.com/articles/d41586-026-02110-6",
+          "summary": "Nature, Published online: 07 July 2026; doi:10.1038/d41586-026-02110-6\nListen to Gen Z when it comes to AI in education",
+          "isoDate": "2026-07-07T00:00:00.000Z"
         },
         {
-          "title": "NASA’s CAPSTONE Completes Extended Mission Testing Lunar Technologies",
-          "link": "https://www.nasa.gov/technology/space-comms/nasas-capstone-completes-extended-mission-testing-lunar-technologies/",
-          "summary": "As NASA prepares for a sustained human presence on the Moon, missions will increasingly require spacecraft that can navigate and communicate without a direct connection to Earth. NASA’s Cislunar Autonomous Positioning System Technology Operations and Navigation Experiment, or CAPSTONE, validated and advanced these capabilities. Designed to test and validate technologies in lunar orbit, CAPSTONE launched […]",
-          "isoDate": "2026-07-06T15:00:54.000Z"
+          "title": "Say hello to hard helium",
+          "link": "https://www.nature.com/articles/d41586-026-02101-7",
+          "summary": "Nature, Published online: 07 July 2026; doi:10.1038/d41586-026-02101-7\nThe first solidification of the second-lightest element, and evidence of an ancient salt-water lake in Peru, in this week’s pick from the Nature archive.",
+          "isoDate": "2026-07-07T00:00:00.000Z"
         },
         {
-          "title": "NASA Webb Uncovers Unusual Galaxy Shaped by Cosmic Collision",
-          "link": "https://science.nasa.gov/missions/webb/nasa-webb-uncovers-unusual-galaxy-shaped-by-cosmic-collision/",
-          "summary": "In new images from NASA’s James Webb Space Telescope to celebrate its fourth science anniversary, a familiar galaxy transforms into something far richer, and far more complex, than ever seen before. Webb’s unprecedented sensitivity across near- and mid-infrared wavelengths cuts through the thick lanes of dust that obscure Centaurus A’s center in visible light, showing […]",
-          "isoDate": "2026-07-06T14:00:00.000Z"
+          "title": "AI can cause harm: safeguards must catch up",
+          "link": "https://www.nature.com/articles/d41586-026-02109-z",
+          "summary": "Nature, Published online: 07 July 2026; doi:10.1038/d41586-026-02109-z\nAI can cause harm: safeguards must catch up",
+          "isoDate": "2026-07-07T00:00:00.000Z"
         },
         {
-          "title": "Examining Algal Blooms in Blue Mesa",
-          "link": "https://science.nasa.gov/earth/earth-observatory/examining-algal-blooms-in-blue-mesa/",
-          "summary": "Using satellite data, researchers connected harmful algal blooms with warm water and low water levels at one of Colorado’s largest reservoirs.",
-          "isoDate": "2026-07-06T04:01:00.000Z"
+          "title": "How long can humans live? All evidence points to a maximum of 125 years",
+          "link": "https://www.nature.com/articles/d41586-026-02111-5",
+          "summary": "Nature, Published online: 07 July 2026; doi:10.1038/d41586-026-02111-5\nHow long can humans live? All evidence points to a maximum of 125 years",
+          "isoDate": "2026-07-07T00:00:00.000Z"
         },
         {
-          "title": "From cloning to gene-editing: the enduring legacy of Dolly the sheep",
-          "link": "https://www.nature.com/articles/d41586-026-02096-1",
-          "summary": "Nature, Published online: 06 July 2026; doi:10.1038/d41586-026-02096-1\nDolly’s brush with celebrity could hold lessons for current discussions about reproductive technologies.",
-          "isoDate": "2026-07-06T00:00:00.000Z"
+          "title": "How to widen access to the critical minerals that the world needs",
+          "link": "https://www.nature.com/articles/d41586-026-02100-8",
+          "summary": "Nature, Published online: 07 July 2026; doi:10.1038/d41586-026-02100-8\nA patent pool and licensing architecture would enable more widespread use of key minerals than would decades of mining and refining investment alone.",
+          "isoDate": "2026-07-07T00:00:00.000Z"
         },
         {
-          "title": "Universities are relying on AI-detection software to catch cheating. How well do the programs work?",
-          "link": "https://www.nature.com/articles/d41586-026-01358-2",
-          "summary": "Nature, Published online: 06 July 2026; doi:10.1038/d41586-026-01358-2\nTechnology companies say that their services can sniff out AI-generated writing, but their tools vary in technique and quality.",
-          "isoDate": "2026-07-06T00:00:00.000Z"
+          "title": "Save Hubble: the race to preserve the space telescope kicks off",
+          "link": "https://www.nature.com/articles/d41586-026-02000-x",
+          "summary": "Nature, Published online: 07 July 2026; doi:10.1038/d41586-026-02000-x\nThe orbiting observatory’s unique vision and public support continue to be crucial for understanding the Universe.",
+          "isoDate": "2026-07-07T00:00:00.000Z"
         },
         {
-          "title": "Deep-sea oddities and boatloads of other new species — June’s best science images",
-          "link": "https://www.nature.com/articles/d41586-026-02087-2",
-          "summary": "Nature, Published online: 06 July 2026; doi:10.1038/d41586-026-02087-2\nThe month’s sharpest science shots — selected by Nature’s photo team.",
-          "isoDate": "2026-07-06T00:00:00.000Z"
+          "title": "Keep the Hubble and James Webb Space Telescopes alive — the science is worth the price tag",
+          "link": "https://www.nature.com/articles/d41586-026-02095-2",
+          "summary": "Nature, Published online: 07 July 2026; doi:10.1038/d41586-026-02095-2\nThese collaborations are delivering scientific discoveries beyond most astronomers’ dreams.",
+          "isoDate": "2026-07-07T00:00:00.000Z"
         },
         {
-          "title": "The rise of computer chips — and the race to control them",
-          "link": "https://www.nature.com/articles/d41586-026-02099-y",
-          "summary": "Nature, Published online: 06 July 2026; doi:10.1038/d41586-026-02099-y\nAn analysis sets out the history of computing beyond software and Californian entrepreneurs.",
-          "isoDate": "2026-07-06T00:00:00.000Z"
+          "title": "How to avoid dementia — what the science really says",
+          "link": "https://www.nature.com/articles/d41586-026-02098-z",
+          "summary": "Nature, Published online: 07 July 2026; doi:10.1038/d41586-026-02098-z\nAmbitious studies have been examining the protective effects of diet, exercise and socializing — with surprising results.",
+          "isoDate": "2026-07-07T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 69\nColumn: 41\nChar: &",
-          "isoDate": "2026-07-07T09:39:30.717Z"
+          "isoDate": "2026-07-07T14:31:46.431Z"
         },
         {
           "title": "Robots available for rent: But what can they do?",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 84\nColumn: 559\nChar:  ",
-          "isoDate": "2026-07-07T09:39:36.781Z"
+          "isoDate": "2026-07-07T14:31:49.339Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-07-07T09:39:34.350Z"
+          "isoDate": "2026-07-07T14:31:48.090Z"
         },
         {
           "title": "VHF Propagation: What Every RF Engineer Should Know",
