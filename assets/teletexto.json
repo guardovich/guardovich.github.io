@@ -1,69 +1,69 @@
 {
-  "generatedAt": "2026-07-07T14:31:49.910Z",
+  "generatedAt": "2026-07-07T19:53:41.012Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
         {
-          "title": "iRobot’s newest floor cleaner isn’t a robot",
-          "link": "https://www.theverge.com/tech/962034/irobot-roomba-electro-plus-smaller-cheaper-robot-vacuums",
-          "summary": "The Roomba Electro Plus is iRobot’s first manually-operated floor cleaner. | Image: iRobot\t\n\niRobot just announced its first ever non-robotic floor cleaner. The $399 Roomba Electro Plus is a 5-in-1 hard-floor cleaner that combines vacuuming, mopping, and disinfecting, but you have to operate it yourself. The company also announced updates to its line of Roomba robot vacuums, launching five new models with higher suction power, smaller footprints, and lower prices. These largely replace the line that arrived in 2025. \nDesigned exclusively for hard floors, the new Electro Plus is similar to the new breed of manual wet-dry floor cleaners available from Dreame, Roborock, and others. iRobot's distinguishing feature is Electro's ability  …\nRead the full story at The Verge.",
-          "isoDate": "2026-07-07T14:00:00.000Z"
+          "title": "Google's Pixel 11 launch event is set for August 12, with possible price increases",
+          "link": "https://arstechnica.com/gadgets/2026/07/googles-pixel-11-launch-event-is-set-for-august-12-with-possible-price-increases/",
+          "summary": "Google's new phones could feature glowing LEDs and higher price tags.",
+          "isoDate": "2026-07-07T19:08:34.000Z"
         },
         {
-          "title": "Microsoft fixes storage-hogging Windows 11 folder",
-          "link": "https://www.theverge.com/tech/962084/microsoft-storage-hogging-windows-11-folder",
-          "summary": "Microsoft is addressing a Windows 11 bug that caused a folder to take up several gigabytes of storage space. As spotted earlier by Windows Latest, Microsoft included the patch in its optional  June 2026 update (KB5095093), which \"improves disk space usage for the CapabilityAccessManager.db-wal file.\"\nThe CapabilityAccessManager.db-wal file is installed on Windows 11 PCs by default, and is related to app permissions. Several users have had issues with this file over the past few months, with one person saying the file took up 500GB of storage on their device. Others have reported the file growing to similarly large amounts, ranging from 12GB …\nRead the full story at The Verge.",
-          "isoDate": "2026-07-07T13:52:58.000Z"
+          "title": "The Weather Channel increases streaming subscription prices by up to $20",
+          "link": "https://arstechnica.com/gadgets/2026/07/the-weather-channels-streaming-app-gets-a-67-percent-price-hike/",
+          "summary": "Livestreaming the channel through its app now starts at $5 per month.",
+          "isoDate": "2026-07-07T18:29:24.000Z"
         },
         {
-          "title": "Solos debuts an even lighter version of its camera-less smart glasses",
-          "link": "https://www.theverge.com/tech/961711/solos-airgo-a6-smart-glasses-ai-assistant-privacy",
-          "summary": "The AirGo A6 are available in multiple designs including several transparent color options. | Image: Solos\t\n\nSolos announced a new version of its AirGo smart glasses, one that forgoes cameras for a sleeker design and an AI assistant that relies on voice interactions. Last year's AirGo A5 weighed 36 to 40 grams depending on the frame style, but the new AirGo A6 weigh around 19 grams. Part of the weight savings comes from thinner temple arms housing speakers, batteries, and other electronics. For comparison, the new Meta Glasses announced last month weigh around 54 to nearly 60 grams depending on the style.\nPricing and availability for the new AirGo A6 hasn't been finalized yet, but the smart glasses will support \"full prescription lens compatibilit …\nRead the full story at The Verge.",
-          "isoDate": "2026-07-07T13:00:00.000Z"
+          "title": "X says top accounts steal videos from other users as it announces new video tools",
+          "link": "https://www.theverge.com/tech/962415/x-video-editor-recycled-content",
+          "summary": "Nikita Bier, X's head of product, said in a post on Monday that \"[m]any videos from top accounts are simply stolen from other users, sometimes 5 years after they originally went viral,\" while noting that videos on the platform \"make up close to half the impressions on X.\" According to Bier, X is launching a new in-app video editor and recorder to address this \"recycled content,\" so that \"some videos on X can finally be original content that doesn't exist on other platforms.\"\nAs previously reported by TechCrunch, the new video tools are available now on X's iOS app, and include an option for overlaying captions in multiple languages and a \"g …\nRead the full story at The Verge.",
+          "isoDate": "2026-07-07T18:28:08.000Z"
         },
         {
-          "title": "Google Search lets creators know more about their reach",
-          "link": "https://www.theverge.com/tech/961955/google-search-console-reach-platform-properties",
-          "summary": "Google is going to give content creators and website owners a better idea of how people find their social media profiles and YouTube content through Search. With a new feature in the Google Search Console called \"platform properties,\" Google says that you'll be able to \"easily track which search terms lead people to your Instagram, TikTok, X and YouTube content on Search, and see exactly how your audience is interacting with your posts,\" according to a blog post.\nThe new feature continues Google's push to make Search more of a hub for everything creators and publishers do online. In June, Google started letting big creators and publishers c …\nRead the full story at The Verge.",
-          "isoDate": "2026-07-07T13:00:00.000Z"
+          "title": "The Nintendo Switch's days are numbered—but what is that number?",
+          "link": "https://arstechnica.com/gaming/2026/07/the-nintendo-switchs-days-are-numbered-but-what-is-that-number/",
+          "summary": "Ars analysis suggests the 9-year-old console could keep selling for years.",
+          "isoDate": "2026-07-07T18:16:29.000Z"
         },
         {
-          "title": "iFixit has a new toolkit for fixing appliances, building furniture, and household repairs",
-          "link": "https://www.theverge.com/tech/962055/ifixit-megalodon-tool-kit-household-appliance-repairs",
-          "summary": "iFixit is best known for its detailed gadget teardowns and toolkits designed to help you crack open and troubleshoot your own electronics. Today it announced a new toolkit that's instead tailored to household repairs or DIY projects like fixing appliances or assembling flat-packed furniture. iFixit describes its $34.95 Megalodon Driver Kit as a \"compact kit for the modern home\" and it includes a new screwdriver the company designed to be a better alternative to traditional ratcheting drivers.\nThe star of the show is the Megalodon driver featuring a bright blue end cap iFixit calls the Swivel Grip Cap. The screwdriver is able to spin freely  …\nRead the full story at The Verge.",
-          "isoDate": "2026-07-07T12:58:50.000Z"
+          "title": "The ‘G-Wagen of golf carts’ could be the ideal second car",
+          "link": "https://www.theverge.com/transportation/962187/amble-golf-cart-moon-buggy-ev-design-price-specs",
+          "summary": "While the auto industry wrings its hands over the electric vehicle market, sweating details like aerodynamic efficiency and range anxiety, a new EV startup based in Lisbon, Portugal, is zagging in a different direction. Amble's new electric buggy won't impress anyone with its 0-60 time or its self-driving features (it has none). Instead, it takes a stab at the belief that cars have gotten too big, too fast, and perhaps could use a bit of a downgrade in both departments.\nThe Amble One is a premium, street-legal buggy with a gorgeous neo-retro design that's currently being marketed to locations where traditional cars are unnecessary or too la …\nRead the full story at The Verge.",
+          "isoDate": "2026-07-07T17:52:51.000Z"
         },
         {
-          "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
-          "link": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
-          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Your family’s $300 stake in OpenAI Sam Altman’s proposal that Americans should share in the wealth created by AI is back in the spotlight, with reports that he is discussing giving…",
-          "isoDate": "2026-07-07T12:10:00.000Z"
+          "title": "ABC tells the government to get out of its newsrooms",
+          "link": "https://www.theverge.com/policy/962342/abc-fcc-the-view-free-speech",
+          "summary": "ABC is firing back at the Federal Communications Commission after the agency opened an investigation into The View's airtime of political candidates. In a letter to the FCC on Tuesday, ABC argues that the agency's actions pose a risk to editorial independence by targeting programs \"perceived as unfriendly to the current administration,\" as reported earlier by The Wrap.\nIn February, the FCC Chair Brendan Carr confirmed that he's reexamining The View's classification as a \"bona fide\" news program after the talk show held an interview with Rep. James Talarico (D-TX), who is running for a spot in the Senate. The View's classification exempts it …\nRead the full story at The Verge.",
+          "isoDate": "2026-07-07T17:47:38.000Z"
         },
         {
-          "title": "Marshall upgrades the bass and repairability of two wireless speakers",
-          "link": "https://www.theverge.com/tech/961601/marshall-acton-stanmore-iv-bluetooth-wireless-speakers-repair",
-          "summary": "The knobs and other parts on the Stanmore IV and Acton IV speakers are replaceable. | Image: Marshall\t\n\nMarshall announced new versions of its Acton and Stanmore Bluetooth speakers today with upgraded tweeters, bass ports, and internal designs that improve their ability to fill a room with sound. Both the Acton IV and Stanmore IV replace their four-year-old predecessors with a new focus on repairability. Parts including knobs, feet, and the speakers' front grills bearing the iconic Marshall logo are replaceable should they get damaged.\nThe smaller Acton IV, featuring a 4-inch woofer and a pair of 0.75-inch tweeters, is available starting today for $299.99 through Marshall's online store. The Stanmore IV, which has a similar driver setup but w …\nRead the full story at The Verge.",
-          "isoDate": "2026-07-07T12:00:00.000Z"
+          "title": "Anthropic is launching Claude Cowork on mobile and web",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
+          "summary": "Starting Tuesday, Anthropic's Claude Cowork AI platform will be available on mobile and web for the first time. The expanded access is rolling out first to Max subscribers and coming to Claude users on other plans \"in the coming weeks.\" \nClaude Cowork was previously only accessible through the Claude desktop app for macOS and Windows, but now users on iOS and Android can also use it. However, Anthropic says the \"full experience\" for Cowork will still be on the desktop app, including features like local file access. \nCowork sessions will also now run in the cloud by default, so you can continue them across different devices or run Cowork ta …\nRead the full story at The Verge.",
+          "isoDate": "2026-07-07T17:46:59.000Z"
         },
         {
-          "title": "Xbox’s bold plan for the future sounds nearly impossible",
-          "link": "https://www.theverge.com/entertainment/961924/xbox-billion-users",
-          "summary": "It's another bad week for the video game industry. Microsoft outlined a series of layoffs on Monday that Xbox CEO Asha Sharma described as \"the most significant restructure in Xbox history.\" But buried in Sharma's memo was a curiously optimistic statement: \"I want Xbox to be one of the few companies that entertains more than a billion people each day and gives everyone the opportunity to create and connect,\" she wrote. \nXbox has been a shambling mess after Microsoft spent billions of dollars with little to show for it, and now it aims to reach a much bigger audience with a much smaller team, amid one of the most challenging times in the ind …\nRead the full story at The Verge.",
-          "isoDate": "2026-07-07T12:00:00.000Z"
+          "title": "Google announces Pixel 11 launch event in August",
+          "link": "https://www.theverge.com/tech/962313/made-by-google-pixel-11-launch-event",
+          "summary": "Google is hosting its next Made by Google launch event for Pixel hardware on August 12th in New York City, according to an invitation sent by Google to The Verge. Unusually, the event is taking place in the evening: It'll kick off at 6PM ET that day. \nThe email also includes a brief animation teasing what appears to be a phone in the Pixel 11 family that's gold. Pixel 11 leaks that have popped up so far show that the base phone could have slimmer bezels than the Pixel 10 and a solid black camera bar. Leaks of Pixel 11 Pro indicate the phone could be a touch thinner than the Pixel 10 Pro. And the Pixel 11 Pro Fold could also be thinner than  …\nRead the full story at The Verge.",
+          "isoDate": "2026-07-07T17:22:48.000Z"
         },
         {
-          "title": "ULA's last six Atlas Vs can't launch anything besides Boeing's Starliner",
-          "link": "https://arstechnica.com/space/2026/07/after-a-stellar-career-ulas-atlas-v-rocket-last-act-is-waiting-on-starliner/",
-          "summary": "Amazon says it has enough satellites in orbit to begin initial broadband service at mid-latitudes later this year.",
-          "isoDate": "2026-07-07T11:15:15.000Z"
+          "title": "This race car is made from plant fibers, volcanoes, ... and seawater?",
+          "link": "https://arstechnica.com/cars/2026/07/this-race-car-is-made-from-plant-fibers-volcanoes-and-seawater/",
+          "summary": "The T70S can be eligible for racing events or built to be road-legal.",
+          "isoDate": "2026-07-07T16:45:18.000Z"
         },
         {
-          "title": "The foundational elements of AI architecture that IT leaders need to scale",
-          "link": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
-          "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces risk, leaving IT leaders to wonder which investments will prove valuable even six months into the future. Returning to the foundational elements of AI architecture—the…",
-          "isoDate": "2026-07-07T11:10:52.000Z"
+          "title": "Facing US export controls, China's DeepSeek plans to make its own chips",
+          "link": "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/",
+          "summary": "It's early, but the plan is to reduce dependency on Nvidia and Huawei.",
+          "isoDate": "2026-07-07T16:14:53.000Z"
         }
       ]
     },
@@ -71,6 +71,30 @@
       "header": "120  CIENCIA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "NASA Transfers ‘Hundred Acre Wood’ to Patuxent Research Refuge",
+          "link": "https://www.nasa.gov/centers-and-facilities/goddard/nasa-transfers-hundred-acre-wood-to-patuxent-research-refuge/",
+          "summary": "NASA ceremonially transferred ownership of about 105 acres of wooded land at its Goddard Space Flight Center’s Greenbelt, Maryland, campus Tuesday to the adjoining Patuxent Research Refuge, managed by the U.S. Fish and Wildlife Service. The property, formerly known as NASA Goddard’s Area 400, is now part of the largest block of unfragmented forest between […]",
+          "isoDate": "2026-07-07T18:00:00.000Z"
+        },
+        {
+          "title": "NASA’s New Horizons Spacecraft Wakes from Hibernation in Good Health",
+          "link": "https://science.nasa.gov/missions/new-horizons/nasas-new-horizons-spacecraft-wakes-from-hibernation-in-good-health/",
+          "summary": "Following its longest hibernation period ever of nearly a year, NASA’s New Horizons spacecraft has emerged in good health and is ready to begin transmitting science data gathered in the distant Kuiper Belt far beyond Pluto. On June 23, flight controllers at the Johns Hopkins Applied Physics Laboratory (APL) in Laurel, Maryland, confirmed New Horizons, […]",
+          "isoDate": "2026-07-07T17:48:49.000Z"
+        },
+        {
+          "title": "Artemis II Crew and Apollo 14 Moon Tree",
+          "link": "https://www.nasa.gov/image-article/artemis-ii-crew-and-apollo-14-moon-tree/",
+          "summary": "In this photograph, the Artemis II crew participates in the dedication of the Apollo 14 Moon tree at the Lunar Receiving Park at NASA’s Johnson Space Center on June 25, 2026. This tree is a second-generation Apollo Moon tree of the loblolly pine species. The original Apollo Moon trees were grown from seeds carried aboard […]",
+          "isoDate": "2026-07-07T16:16:50.000Z"
+        },
+        {
+          "title": "July 2026 Satellite Puzzler",
+          "link": "https://science.nasa.gov/earth/earth-observatory/july-2026-satellite-puzzler/",
+          "summary": "Your challenge is to tell us the location of the satellite image and why it is interesting.",
+          "isoDate": "2026-07-07T15:48:16.000Z"
+        },
         {
           "title": "The World Cup From 250 Miles Up",
           "link": "https://science.nasa.gov/earth/earth-observatory/the-world-cup-from-250-miles-up/",
@@ -106,30 +130,6 @@
           "link": "https://www.nature.com/articles/d41586-026-02111-5",
           "summary": "Nature, Published online: 07 July 2026; doi:10.1038/d41586-026-02111-5\nHow long can humans live? All evidence points to a maximum of 125 years",
           "isoDate": "2026-07-07T00:00:00.000Z"
-        },
-        {
-          "title": "How to widen access to the critical minerals that the world needs",
-          "link": "https://www.nature.com/articles/d41586-026-02100-8",
-          "summary": "Nature, Published online: 07 July 2026; doi:10.1038/d41586-026-02100-8\nA patent pool and licensing architecture would enable more widespread use of key minerals than would decades of mining and refining investment alone.",
-          "isoDate": "2026-07-07T00:00:00.000Z"
-        },
-        {
-          "title": "Save Hubble: the race to preserve the space telescope kicks off",
-          "link": "https://www.nature.com/articles/d41586-026-02000-x",
-          "summary": "Nature, Published online: 07 July 2026; doi:10.1038/d41586-026-02000-x\nThe orbiting observatory’s unique vision and public support continue to be crucial for understanding the Universe.",
-          "isoDate": "2026-07-07T00:00:00.000Z"
-        },
-        {
-          "title": "Keep the Hubble and James Webb Space Telescopes alive — the science is worth the price tag",
-          "link": "https://www.nature.com/articles/d41586-026-02095-2",
-          "summary": "Nature, Published online: 07 July 2026; doi:10.1038/d41586-026-02095-2\nThese collaborations are delivering scientific discoveries beyond most astronomers’ dreams.",
-          "isoDate": "2026-07-07T00:00:00.000Z"
-        },
-        {
-          "title": "How to avoid dementia — what the science really says",
-          "link": "https://www.nature.com/articles/d41586-026-02098-z",
-          "summary": "Nature, Published online: 07 July 2026; doi:10.1038/d41586-026-02098-z\nAmbitious studies have been examining the protective effects of diet, exercise and socializing — with surprising results.",
-          "isoDate": "2026-07-07T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 69\nColumn: 41\nChar: &",
-          "isoDate": "2026-07-07T14:31:46.431Z"
+          "isoDate": "2026-07-07T19:53:37.766Z"
         },
         {
           "title": "Robots available for rent: But what can they do?",
@@ -204,6 +204,24 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "How novice coders can develop AI programs for military applications",
+          "link": "https://news.mit.edu/2026/how-novice-coders-can-develop-ai-programs-for-military-applications-0707",
+          "summary": "A USAF cadet and a Lincoln Laboratory researcher found AI chatbots can help nontechnical service members produce viable software applications for their unique problems.",
+          "isoDate": "2026-07-07T17:25:00.000Z"
+        },
+        {
+          "title": "Jesse Thaler named director of the Laboratory for Nuclear Science",
+          "link": "https://news.mit.edu/2026/jesse-thaler-named-director-laboratory-nuclear-science-0707",
+          "summary": "The professor of physics and inaugural director of the NSF AI Institute for Artificial Intelligence and Fundamental Interactions will lead LNS and continue his research in particle physics.",
+          "isoDate": "2026-07-07T14:45:00.000Z"
+        },
+        {
+          "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+          "link": "https://openai.com/index/australian-payments-plus",
+          "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
+          "isoDate": "2026-07-07T00:00:00.000Z"
+        },
+        {
           "title": "Toward a future that preserves benefits of neurotechnology for all",
           "link": "https://news.mit.edu/2026/toward-future-preserves-benefits-neurotechnology-for-all-0706",
           "summary": "PhD student Rachel Sava, winner of the Envisioning the Future of Computing Prize, explores transformative improvements and dystopian risks of neural technology.",
@@ -240,28 +258,10 @@
           "isoDate": "2026-06-30T09:00:00.000Z"
         },
         {
-          "title": "Core dump epidemiology: fixing an 18-year-old bug",
-          "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-          "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
-          "isoDate": "2026-06-30T00:00:00.000Z"
-        },
-        {
-          "title": "Introducing GeneBench-Pro",
-          "link": "https://openai.com/index/introducing-genebench-pro",
-          "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
-          "isoDate": "2026-06-30T00:00:00.000Z"
-        },
-        {
           "title": "Inside Genebench-Pro",
           "link": "https://openai.com/index/genebench-pro/case-studies",
           "summary": "",
           "isoDate": "2026-06-30T00:00:00.000Z"
-        },
-        {
-          "title": "Inaugural Music Technology Research Showcase celebrates work of new graduate program’s initial students ",
-          "link": "https://news.mit.edu/2026/inaugural-mit-music-technology-research-showcase-celebrates-work-students-0629",
-          "summary": "Associate Professor Anna Huang delivers the keynote address, “In Search of Human-AI Resonance,” to a capacity crowd.",
-          "isoDate": "2026-06-29T19:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 84\nColumn: 559\nChar:  ",
-          "isoDate": "2026-07-07T14:31:49.339Z"
+          "isoDate": "2026-07-07T19:53:40.343Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-07-07T14:31:48.090Z"
+          "isoDate": "2026-07-07T19:53:39.368Z"
         },
         {
           "title": "VHF Propagation: What Every RF Engineer Should Know",
