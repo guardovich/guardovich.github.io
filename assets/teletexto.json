@@ -1,69 +1,69 @@
 {
-  "generatedAt": "2026-07-07T19:53:41.012Z",
+  "generatedAt": "2026-07-08T02:37:04.667Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
         {
+          "title": "Meta’s glasses will turn off the camera if you tamper with the privacy light",
+          "link": "https://www.theverge.com/gadgets/962514/meta-privacy-light-tampering-smart-glasses-update",
+          "summary": "Even so, the privacy LED light is still hard to see. It’s on in this photo. | Photo by Amelia Holowaty Krales / The Verge\t\n\nAmid public backlash over its smart glasses, Meta announced that it will be updating its glasses with a new feature that will disable the camera when it detects that someone has tampered with or destroyed the glasses' privacy LED light. The update is meant to address modders who have taken actions such as physically drilling into the LED light.\nMeta has previously tried to discourage tampering with the LED light. For example, starting with its second generation glasses, blocking the light with tape or other objects will trigger a prompt asking users to uncover the recording light. However, many modders have found various workarounds for tha …\nRead the full story at The Verge.",
+          "isoDate": "2026-07-07T23:55:19.000Z"
+        },
+        {
+          "title": "Michigan sees explosive outbreak of diarrheal parasite with over 700 cases",
+          "link": "https://arstechnica.com/health/2026/07/michigan-sees-explosive-outbreak-of-diarrheal-parasite-with-over-700-cases/",
+          "summary": "Cases have risen quickly as officials are working to identify a common source.",
+          "isoDate": "2026-07-07T22:29:00.000Z"
+        },
+        {
+          "title": "Of course viewers are giving up on Netflix shows",
+          "link": "https://www.theverge.com/entertainment/962382/netflix-season-two-viewrship-dropoff-beef-avatar-one-piece-tiktok",
+          "summary": "Even though Netflix is the world's most popular paid streaming service, the company has been struggling to keep viewers watching its series after their first seasons. Beef - the streamer's anthology about people locked in feuds - lost 70 percent of its viewership when it returned earlier this year. There seems to be some confusion as to why people aren't champing at the bit to dive back into once-popular projects like the live-action adaptations of Avatar: The Last Airbender and One Piece. Netflix is reportedly hard at work trying to figure out what, exactly, is prompting subscribers to jump ship in droves. But if you've spent any time payin …\nRead the full story at The Verge.",
+          "isoDate": "2026-07-07T21:58:39.000Z"
+        },
+        {
+          "title": "Netflix is about to host videos from BuzzFeed, Condé Nast, and other publishers",
+          "link": "https://www.theverge.com/streaming/962528/netflix-digital-media-brands-streaming",
+          "summary": "Starting on August 3rd, Netflix's streaming library will include video content from dozens of digital media brands including BuzzFeed, Condé Nast, Hearst Magazines, People Inc, and Tastemade. As reported earlier by TechCrunch, the deal includes a mix of licensed past videos and new ongoing series that would have typically been published on YouTube or other online platforms, like Architectural Digest's \"Open Door\" or Vanity Fair's \"Lie Detector Test.\"  \nAs Netflix puts it, the deal will allow subscribers to watch content \"from around the Internet without having to leave Netflix.\" The announcement follows a Bloomberg report earlier this week  …\nRead the full story at The Verge.",
+          "isoDate": "2026-07-07T21:37:19.000Z"
+        },
+        {
+          "title": "Data centers’ energy demand threatens Trump’s “Made in America” plan",
+          "link": "https://arstechnica.com/tech-policy/2026/07/us-manufacturers-energy-costs-soar-because-of-ai-data-center-demand/",
+          "summary": "Squeeze on Rust Belt electricity bills threatens Trump’s manufacturing plan.",
+          "isoDate": "2026-07-07T21:03:07.000Z"
+        },
+        {
+          "title": "Surprisingly large number of people may have marker for tick-linked meat allergy",
+          "link": "https://arstechnica.com/health/2026/07/surprisingly-large-number-of-people-may-have-marker-for-tick-linked-meat-allergy/",
+          "summary": "There's still a slew of questions about why some people develop alpha-gal syndrome.",
+          "isoDate": "2026-07-07T20:32:39.000Z"
+        },
+        {
+          "title": "Meta’s new Muse Image model can pull other Instagram users into AI photos",
+          "link": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
+          "summary": "Meta is launching the first AI image generation model made by its Superintelligence Labs division. The Muse Image model now powers the image-making tools across the Meta AI app, Instagram, and WhatsApp, and it's coming soon to Facebook and Messenger, according to an announcement on Tuesday.\nIt's part of the growing Muse family of AI models that replace Meta's Llama lineup. Alexandr Wang, who Meta hired to head up its Superintelligence Labs last year, says on Threads that Muse Image is \"agentic,\" meaning it works with its Muse Spark large language model \"to reason through your prompt, search the web, and plan before it generates.\" Meta is al …\nRead the full story at The Verge.",
+          "isoDate": "2026-07-07T20:31:58.000Z"
+        },
+        {
+          "title": "SCOTUS lets Texas enforce app store law that Big Tech calls \"censorship regime\"",
+          "link": "https://arstechnica.com/tech-policy/2026/07/supreme-court-lets-texas-enforce-age-verification-law-on-app-stores/",
+          "summary": "Texas win at 5th Circuit left in place as attempts to overturn age law continue.",
+          "isoDate": "2026-07-07T20:18:24.000Z"
+        },
+        {
+          "title": "Bethesda, id Software reportedly hit hard by Microsoft layoffs",
+          "link": "https://arstechnica.com/gaming/2026/07/bethesda-id-software-reportedly-hit-hard-by-microsoft-layoffs/",
+          "summary": "As much as 50 percent of some teams affected by reductions, and more could be coming.",
+          "isoDate": "2026-07-07T19:52:59.000Z"
+        },
+        {
           "title": "Google's Pixel 11 launch event is set for August 12, with possible price increases",
           "link": "https://arstechnica.com/gadgets/2026/07/googles-pixel-11-launch-event-is-set-for-august-12-with-possible-price-increases/",
           "summary": "Google's new phones could feature glowing LEDs and higher price tags.",
           "isoDate": "2026-07-07T19:08:34.000Z"
-        },
-        {
-          "title": "The Weather Channel increases streaming subscription prices by up to $20",
-          "link": "https://arstechnica.com/gadgets/2026/07/the-weather-channels-streaming-app-gets-a-67-percent-price-hike/",
-          "summary": "Livestreaming the channel through its app now starts at $5 per month.",
-          "isoDate": "2026-07-07T18:29:24.000Z"
-        },
-        {
-          "title": "X says top accounts steal videos from other users as it announces new video tools",
-          "link": "https://www.theverge.com/tech/962415/x-video-editor-recycled-content",
-          "summary": "Nikita Bier, X's head of product, said in a post on Monday that \"[m]any videos from top accounts are simply stolen from other users, sometimes 5 years after they originally went viral,\" while noting that videos on the platform \"make up close to half the impressions on X.\" According to Bier, X is launching a new in-app video editor and recorder to address this \"recycled content,\" so that \"some videos on X can finally be original content that doesn't exist on other platforms.\"\nAs previously reported by TechCrunch, the new video tools are available now on X's iOS app, and include an option for overlaying captions in multiple languages and a \"g …\nRead the full story at The Verge.",
-          "isoDate": "2026-07-07T18:28:08.000Z"
-        },
-        {
-          "title": "The Nintendo Switch's days are numbered—but what is that number?",
-          "link": "https://arstechnica.com/gaming/2026/07/the-nintendo-switchs-days-are-numbered-but-what-is-that-number/",
-          "summary": "Ars analysis suggests the 9-year-old console could keep selling for years.",
-          "isoDate": "2026-07-07T18:16:29.000Z"
-        },
-        {
-          "title": "The ‘G-Wagen of golf carts’ could be the ideal second car",
-          "link": "https://www.theverge.com/transportation/962187/amble-golf-cart-moon-buggy-ev-design-price-specs",
-          "summary": "While the auto industry wrings its hands over the electric vehicle market, sweating details like aerodynamic efficiency and range anxiety, a new EV startup based in Lisbon, Portugal, is zagging in a different direction. Amble's new electric buggy won't impress anyone with its 0-60 time or its self-driving features (it has none). Instead, it takes a stab at the belief that cars have gotten too big, too fast, and perhaps could use a bit of a downgrade in both departments.\nThe Amble One is a premium, street-legal buggy with a gorgeous neo-retro design that's currently being marketed to locations where traditional cars are unnecessary or too la …\nRead the full story at The Verge.",
-          "isoDate": "2026-07-07T17:52:51.000Z"
-        },
-        {
-          "title": "ABC tells the government to get out of its newsrooms",
-          "link": "https://www.theverge.com/policy/962342/abc-fcc-the-view-free-speech",
-          "summary": "ABC is firing back at the Federal Communications Commission after the agency opened an investigation into The View's airtime of political candidates. In a letter to the FCC on Tuesday, ABC argues that the agency's actions pose a risk to editorial independence by targeting programs \"perceived as unfriendly to the current administration,\" as reported earlier by The Wrap.\nIn February, the FCC Chair Brendan Carr confirmed that he's reexamining The View's classification as a \"bona fide\" news program after the talk show held an interview with Rep. James Talarico (D-TX), who is running for a spot in the Senate. The View's classification exempts it …\nRead the full story at The Verge.",
-          "isoDate": "2026-07-07T17:47:38.000Z"
-        },
-        {
-          "title": "Anthropic is launching Claude Cowork on mobile and web",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
-          "summary": "Starting Tuesday, Anthropic's Claude Cowork AI platform will be available on mobile and web for the first time. The expanded access is rolling out first to Max subscribers and coming to Claude users on other plans \"in the coming weeks.\" \nClaude Cowork was previously only accessible through the Claude desktop app for macOS and Windows, but now users on iOS and Android can also use it. However, Anthropic says the \"full experience\" for Cowork will still be on the desktop app, including features like local file access. \nCowork sessions will also now run in the cloud by default, so you can continue them across different devices or run Cowork ta …\nRead the full story at The Verge.",
-          "isoDate": "2026-07-07T17:46:59.000Z"
-        },
-        {
-          "title": "Google announces Pixel 11 launch event in August",
-          "link": "https://www.theverge.com/tech/962313/made-by-google-pixel-11-launch-event",
-          "summary": "Google is hosting its next Made by Google launch event for Pixel hardware on August 12th in New York City, according to an invitation sent by Google to The Verge. Unusually, the event is taking place in the evening: It'll kick off at 6PM ET that day. \nThe email also includes a brief animation teasing what appears to be a phone in the Pixel 11 family that's gold. Pixel 11 leaks that have popped up so far show that the base phone could have slimmer bezels than the Pixel 10 and a solid black camera bar. Leaks of Pixel 11 Pro indicate the phone could be a touch thinner than the Pixel 10 Pro. And the Pixel 11 Pro Fold could also be thinner than  …\nRead the full story at The Verge.",
-          "isoDate": "2026-07-07T17:22:48.000Z"
-        },
-        {
-          "title": "This race car is made from plant fibers, volcanoes, ... and seawater?",
-          "link": "https://arstechnica.com/cars/2026/07/this-race-car-is-made-from-plant-fibers-volcanoes-and-seawater/",
-          "summary": "The T70S can be eligible for racing events or built to be road-legal.",
-          "isoDate": "2026-07-07T16:45:18.000Z"
-        },
-        {
-          "title": "Facing US export controls, China's DeepSeek plans to make its own chips",
-          "link": "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/",
-          "summary": "It's early, but the plan is to reduce dependency on Nvidia and Huawei.",
-          "isoDate": "2026-07-07T16:14:53.000Z"
         }
       ]
     },
@@ -72,34 +72,10 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "NASA Transfers ‘Hundred Acre Wood’ to Patuxent Research Refuge",
-          "link": "https://www.nasa.gov/centers-and-facilities/goddard/nasa-transfers-hundred-acre-wood-to-patuxent-research-refuge/",
-          "summary": "NASA ceremonially transferred ownership of about 105 acres of wooded land at its Goddard Space Flight Center’s Greenbelt, Maryland, campus Tuesday to the adjoining Patuxent Research Refuge, managed by the U.S. Fish and Wildlife Service. The property, formerly known as NASA Goddard’s Area 400, is now part of the largest block of unfragmented forest between […]",
-          "isoDate": "2026-07-07T18:00:00.000Z"
-        },
-        {
-          "title": "NASA’s New Horizons Spacecraft Wakes from Hibernation in Good Health",
-          "link": "https://science.nasa.gov/missions/new-horizons/nasas-new-horizons-spacecraft-wakes-from-hibernation-in-good-health/",
-          "summary": "Following its longest hibernation period ever of nearly a year, NASA’s New Horizons spacecraft has emerged in good health and is ready to begin transmitting science data gathered in the distant Kuiper Belt far beyond Pluto. On June 23, flight controllers at the Johns Hopkins Applied Physics Laboratory (APL) in Laurel, Maryland, confirmed New Horizons, […]",
-          "isoDate": "2026-07-07T17:48:49.000Z"
-        },
-        {
-          "title": "Artemis II Crew and Apollo 14 Moon Tree",
-          "link": "https://www.nasa.gov/image-article/artemis-ii-crew-and-apollo-14-moon-tree/",
-          "summary": "In this photograph, the Artemis II crew participates in the dedication of the Apollo 14 Moon tree at the Lunar Receiving Park at NASA’s Johnson Space Center on June 25, 2026. This tree is a second-generation Apollo Moon tree of the loblolly pine species. The original Apollo Moon trees were grown from seeds carried aboard […]",
-          "isoDate": "2026-07-07T16:16:50.000Z"
-        },
-        {
-          "title": "July 2026 Satellite Puzzler",
-          "link": "https://science.nasa.gov/earth/earth-observatory/july-2026-satellite-puzzler/",
-          "summary": "Your challenge is to tell us the location of the satellite image and why it is interesting.",
-          "isoDate": "2026-07-07T15:48:16.000Z"
-        },
-        {
-          "title": "The World Cup From 250 Miles Up",
-          "link": "https://science.nasa.gov/earth/earth-observatory/the-world-cup-from-250-miles-up/",
-          "summary": "Over the years, astronauts aboard the International Space Station have photographed several of the cities hosting the 2026 FIFA World Cup.",
-          "isoDate": "2026-07-07T04:00:00.000Z"
+          "title": "ERROR cargando feed",
+          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
+          "isoDate": "2026-07-08T02:36:58.871Z"
         },
         {
           "title": "Publisher Correction: A 98-qubit trapped-ion quantum computer with all-to-all connectivity",
@@ -130,6 +106,30 @@
           "link": "https://www.nature.com/articles/d41586-026-02111-5",
           "summary": "Nature, Published online: 07 July 2026; doi:10.1038/d41586-026-02111-5\nHow long can humans live? All evidence points to a maximum of 125 years",
           "isoDate": "2026-07-07T00:00:00.000Z"
+        },
+        {
+          "title": "‘Humanizer’ tool can erase signs of AI-written text — alarming scientists",
+          "link": "https://www.nature.com/articles/d41586-026-02105-3",
+          "summary": "Nature, Published online: 07 July 2026; doi:10.1038/d41586-026-02105-3\nTool directs text-generation systems to remove constructions associated with artificial intelligence in research papers and grant proposals.",
+          "isoDate": "2026-07-07T00:00:00.000Z"
+        },
+        {
+          "title": "How to widen access to the critical minerals that the world needs",
+          "link": "https://www.nature.com/articles/d41586-026-02100-8",
+          "summary": "Nature, Published online: 07 July 2026; doi:10.1038/d41586-026-02100-8\nA patent pool and licensing architecture would enable more widespread use of key minerals than would decades of mining and refining investment alone.",
+          "isoDate": "2026-07-07T00:00:00.000Z"
+        },
+        {
+          "title": "Body-plan organizer in comb jellies hints at animal ancestry",
+          "link": "https://www.nature.com/articles/d41586-026-02040-3",
+          "summary": "Nature, Published online: 07 July 2026; doi:10.1038/d41586-026-02040-3\nTransplantation experiments in evolutionarily distinct animal groups reveal conserved mechanisms underlying tissue organization during development.",
+          "isoDate": "2026-07-07T00:00:00.000Z"
+        },
+        {
+          "title": "Save Hubble: the race to preserve the space telescope kicks off",
+          "link": "https://www.nature.com/articles/d41586-026-02000-x",
+          "summary": "Nature, Published online: 07 July 2026; doi:10.1038/d41586-026-02000-x\nThe orbiting observatory’s unique vision and public support continue to be crucial for understanding the Universe.",
+          "isoDate": "2026-07-07T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 69\nColumn: 41\nChar: &",
-          "isoDate": "2026-07-07T19:53:37.766Z"
+          "isoDate": "2026-07-08T02:36:59.862Z"
+        },
+        {
+          "title": "Tech Life",
+          "link": "https://www.bbc.co.uk/sounds/play/w3ct8jy3?at_medium=RSS&at_campaign=rss",
+          "summary": "The impact screen time is having on younger children.",
+          "isoDate": "2026-07-07T20:00:00.000Z"
         },
         {
           "title": "Robots available for rent: But what can they do?",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cp8r1798kp7o?at_medium=RSS&at_campaign=rss",
           "summary": "Kia told the BBC UK law prevented its location tracking function being used to live track vehicles.",
           "isoDate": "2026-07-01T23:31:43.000Z"
-        },
-        {
-          "title": "PlayStation will stop releasing games on discs in 2028",
-          "link": "https://www.bbc.co.uk/news/articles/c0ryjyvjq41o?at_medium=RSS&at_campaign=rss",
-          "summary": "The firm said future games would still be sold in shops, but they would come with a digital code only.",
-          "isoDate": "2026-07-01T16:40:58.000Z"
         }
       ]
     },
@@ -219,6 +219,12 @@
           "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
           "link": "https://openai.com/index/australian-payments-plus",
           "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
+          "isoDate": "2026-07-07T00:00:00.000Z"
+        },
+        {
+          "title": "MUFG aims to become AI-native with OpenAI",
+          "link": "https://openai.com/index/mufg",
+          "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
           "isoDate": "2026-07-07T00:00:00.000Z"
         },
         {
@@ -256,12 +262,6 @@
           "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
           "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
           "isoDate": "2026-06-30T09:00:00.000Z"
-        },
-        {
-          "title": "Inside Genebench-Pro",
-          "link": "https://openai.com/index/genebench-pro/case-studies",
-          "summary": "",
-          "isoDate": "2026-06-30T00:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 84\nColumn: 559\nChar:  ",
-          "isoDate": "2026-07-07T19:53:40.343Z"
+          "isoDate": "2026-07-08T02:37:03.835Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-07-07T19:53:39.368Z"
+          "isoDate": "2026-07-08T02:37:01.385Z"
         },
         {
           "title": "VHF Propagation: What Every RF Engineer Should Know",
