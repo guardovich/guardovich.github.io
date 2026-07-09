@@ -1,10 +1,46 @@
 {
-  "generatedAt": "2026-07-08T19:23:59.382Z",
+  "generatedAt": "2026-07-09T02:56:41.154Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Meta is reportedly working on smart glasses that would be recording all the time",
+          "link": "https://www.theverge.com/tech/963138/meta-smart-glasses-recording-super-sensing-ai",
+          "summary": "Meta might be the next company to make an always-on AI wearable. The company is working on prototype \"super sensing\" always-aware smart glasses that could continuously record audio and snap photos \"every few seconds,\" according to the Financial Times. The wearer could then ask Meta AI about the captured audio and images.\nHowever, the images and audio might not be directly available to the user. Here's how the FT describes one way the glasses could use the data:\nIn one proposed system, raw footage and audio would not be stored by Meta or made available to the user, several people said. Instead, the metadata from that audio and images would …\n\nRead the full story at The Verge.",
+          "isoDate": "2026-07-08T22:37:25.000Z"
+        },
+        {
+          "title": "Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50%",
+          "link": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
+          "summary": "AI cheating leads to \"a failed society,\" professor says.",
+          "isoDate": "2026-07-08T21:42:44.000Z"
+        },
+        {
+          "title": "Get a $30 credit when you reserve Samsung’s upcoming Galaxy phones",
+          "link": "https://www.theverge.com/gadgets/962999/samsung-unpacked-z-fold-flip-wide-reserve-credit-preorder",
+          "summary": "Even though they haven’t been officially announced yet, Samsung is giving you a chance to save some cash when you preorder what we’re expecting to be the brand’s updated Galaxy Z Fold phones. The next Galaxy Unpacked event will take place on July 22nd, 2026, and features the tagline “A new shape unfolds.” In addition to seeing updated versions of the existing Flip and Fold form factors, we anticipate the debut of a new, wider foldable phone. If you register your interest ahead of time and end up preordering one of the new phones shortly after they’re announced, Samsung will give you a $30 store credit at checkout.\nThere are some caveats to this offer. You have to use the credit when you preorder the phone. No saving it for later. Also, the credit can’t be applied to the cost of the phone either, so you’ll have to put it towards the cost of accessories or extra services. Samsung specifically calls out that select Galaxy rings, earbuds, watches, and tablets are eligible, or you can use it to help pay for Samsung Care Plus.\nThere are no downsides to registering your interest, so if you think you might be interested in buying one of the upcoming phones, it’s worth filling out the form. As long as you use the same email during checkout, the credit will be automatically applied.",
+          "isoDate": "2026-07-08T20:00:00.000Z"
+        },
+        {
+          "title": "Lawsuit: Man used Grok to make 7K sex images of stepdaughter, then shot himself",
+          "link": "https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt/",
+          "summary": "More young girls sue X over Grok CSAM; X accused of shielding child predators.",
+          "isoDate": "2026-07-08T19:56:37.000Z"
+        },
+        {
+          "title": "Judge rejects Kalshi attempt to override New York state gambling laws",
+          "link": "https://arstechnica.com/tech-policy/2026/07/new-york-can-restrict-sports-gambling-on-prediction-markets-us-judge-rules/",
+          "summary": "Kalshi tried to ignore gambling laws on its prediction market, NY governor says.",
+          "isoDate": "2026-07-08T19:14:02.000Z"
+        },
+        {
+          "title": "Google pays $250K for Linux vulnerability allowing guest VM escapes",
+          "link": "https://arstechnica.com/security/2026/07/high-severity-guest-vm-escape-is-1-of-2-linux-vulnerabilities-to-surface-this-week/",
+          "summary": "Both vulnerabilities allow untrusted users to gain root privileges.",
+          "isoDate": "2026-07-08T19:01:19.000Z"
+        },
         {
           "title": "Microsoft&#8217;s Xbox reset is pivoting Obsidian to make Fallout instead of Avowed",
           "link": "https://www.theverge.com/games/963024/microsoft-xbox-reset-obsidian-fallout-layoffs",
@@ -28,42 +64,6 @@
           "link": "https://www.theverge.com/transportation/962753/fiat-topolino-ev-us-price-specs-micromobiilty",
           "summary": "When searching for an affordable electric vehicle these days, there are always tradeoffs. How much range are you willing to sacrifice, how much leg room and storage space, how many features, in the pursuit of that magic sticker price that won't break the bank?\nThe Fiat Topolino is basically the ultimate embodiment of those tradeoffs. For the dirt cheap price of $13,995, you get a top speed of 19mph, an all-electric range of 46 miles, and a wheelbase that's barely longer than one and a half king mattresses. In fact, the Topolino is less of a car and more of a micromobility vehicle.\nFiat isn't trying to hide that fact. In it's announcement t …\nRead the full story at The Verge.",
           "isoDate": "2026-07-08T17:57:53.000Z"
-        },
-        {
-          "title": "US seeks cheaper hunter-killer drones after Iran destroys $1B worth of Reapers",
-          "link": "https://arstechnica.com/gadgets/2026/07/us-seeks-cheaper-hunter-killer-drones-after-iran-destroys-1b-worth-of-reapers/",
-          "summary": "US military drone losses in Iran war spur Pentagon call for cheap replacements.",
-          "isoDate": "2026-07-08T17:44:54.000Z"
-        },
-        {
-          "title": "Cockroaches will learn to fear my SwitchBot Bot Rechargeable",
-          "link": "https://www.theverge.com/gadgets/962163/switchbot-bot-rechargeable-hands-on-review",
-          "summary": "A little robotic switch-flipper has become my sidekick in combating cockroaches. Before I got the SwitchBot Bot Rechargeable, I'd tiptoe through the dark every morning, hoping I wouldn't step on one of those terrible bugs scurrying around as I made my way to the light switch across the room. Now I'm ready for battle before I even enter the room because I can switch it on from afar, thanks to the $33.99 SwitchBot Bot Rechargeable. \nThe small gadget attaches via adhesive near a switch or button and uses its tiny robotic arm to physically press or pull it for you. You can automate anything with physical power buttons, from coffee makers, light …\nRead the full story at The Verge.",
-          "isoDate": "2026-07-08T17:30:00.000Z"
-        },
-        {
-          "title": "Miami-based City Labs achieves a first for commercial nuclear power in space",
-          "link": "https://arstechnica.com/space/2026/07/miami-based-city-labs-achieves-a-first-for-commercial-nuclear-power-in-space/",
-          "summary": "\"The BOHR mission serves as a pathfinder for future nuclear-powered spacecraft.\"",
-          "isoDate": "2026-07-08T17:26:44.000Z"
-        },
-        {
-          "title": "If Microsoft sold off Xbox, who would even buy it?",
-          "link": "https://www.theverge.com/games/962837/microsoft-xbox-spin-off-sell-divest-layoffs-asha-sharma",
-          "summary": "This week, Microsoft took a huge ax to its Xbox business. The company announced that it would be laying off 1,600 workers now, 1,600 more over the next fiscal year, and that it would be shedding four studios. Xbox CEO Asha Sharma hasn't been shy about why she's making such dramatic cuts, saying in a memo that the business is \"not healthy.\" Speaking to Fortune, she said that \"we simply spread ourselves too thin.\"\nGiven the scale of the changes and Xbox's currently vague strategy of focusing only on big games, it's unclear just what the future of the platform is. As Microsoft invests much of its resources into everything AI, a struggling cons …\nRead the full story at The Verge.",
-          "isoDate": "2026-07-08T17:10:05.000Z"
-        },
-        {
-          "title": "Twelve South’s AirFly Pro is a great travel companion, and it&#8217;s on sale for $40",
-          "link": "https://www.theverge.com/gadgets/962910/twelve-south-airfly-pro-summer-travel-gadgets-deal-sale",
-          "summary": "Twelve South’s AirFly Pro is just $5 more than the SE model. | Image: Twelve South\t\n\nIf you’ve got a summer trip coming up, the last-gen Twelve South AirFly Pro is one of those gadgets that can make a long flight feel a little shorter. It lets you use your wireless headphones with in-flight entertainment systems, and right now it’s on sale for $39.99 ($15 off) at Amazon. That’s the best price we’ve seen all year and just $7 shy of the all-time low we last saw in January 2025.\nTwelve South AirFly Pro\n\nWhere to Buy:\n\n $54.99 $39.99 at Amazon\n\nFor just $5 more than the AirFly SE, the Pro adds a handful of useful extras, one of which is support for both Bluetooth transmitter and receiver modes. That means you can use your wireless headphones with an airplane’s entertainment system during a flight, then stream music from your phone to compatible wired speakers and sound systems once you’ve landed. \nUnlike the SE, it also supports two pairs of Bluetooth headphones at once, so you can share a movie or podcast with a travel companion. Plus, its 25 hour battery life should be enough to last through even the longest international flights.\nThe AirFly Pro is useful in other ways, too. During your vacation, you can use it to connect your preferred music streaming service to an older rental car stereo, or your ear buds to a Nintendo Switch. Once you’re back home, it can also connect your wireless headphones to compatible gym equipment and other devices with a standard 3.5mm audio jack.",
-          "isoDate": "2026-07-08T17:09:28.000Z"
-        },
-        {
-          "title": "ChatGPT’s upgraded voice mode is better at shutting up",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
-          "summary": "OpenAI is overhauling ChatGPT's voice mode with a new model that it says is more like \"talking to another person.\" The new GPT-Live-1 is designed to interrupt you less and will also wait for you to continue speaking if you pause mid-conversation.\nDuring a press briefing, OpenAI research lead Kundan Kumar called GPT-Live-1 the company's \"smartest voice model\" yet. It will automatically pass your queries to its best text models, like GPT-5.5, when it needs to reason or search the web, allowing it to more quickly transition from researching the topic you've asked about to talking about its findings. The upgraded model will also supplement conv …\nRead the full story at The Verge.",
-          "isoDate": "2026-07-08T17:00:00.000Z"
         }
       ]
     },
@@ -72,10 +72,22 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "ERROR cargando feed",
-          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
-          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-07-08T19:23:55.488Z"
+          "title": "Students Connect NASA Science With Indigenous Knowledge to Study Coastal Erosion",
+          "link": "https://science.nasa.gov/learning-resources/science-activation/students-connect-nasa-science-with-indigenous-knowledge-to-study-coastal-erosion/",
+          "summary": "For the Pleasant Point Passamaquoddy Reservation, or Sipayik, the ocean has always been a teacher. Situated in what is known as Downeast Maine, along the shores of Passamaquoddy Bay, generations of Indigenous people have lived along the coast, learning from the tides, the land, and their elders. But today, the shoreline is changing more rapidly. Coastal erosion is slowly taking land away. Land that already holds a history of loss.",
+          "isoDate": "2026-07-08T21:04:14.000Z"
+        },
+        {
+          "title": "Hubble Captures Star-Studded Cluster",
+          "link": "https://www.nasa.gov/image-article/hubble-captures-star-studded-cluster/",
+          "summary": "This image from NASA’s Hubble Space Telescope showcases Messier 3 (M3), one of the Milky Way galaxy’s most massive globular clusters, or spherical collections of gravitationally bound stars. Globular clusters are made up of ancient stars that formed at roughly the same time from the same cloud of gas, giving those stars similar ages. Around 150 known globular clusters are […]",
+          "isoDate": "2026-07-08T14:13:53.000Z"
+        },
+        {
+          "title": "Cottonwood Fire Chars Utah",
+          "link": "https://science.nasa.gov/earth/earth-observatory/cottonwood-fire-chars-utah/",
+          "summary": "The blaze burned more than 150 square miles and swept through parts of a ski resort.",
+          "isoDate": "2026-07-08T04:01:00.000Z"
         },
         {
           "title": "Nukes in space? Orbital detector could sniff out warheads",
@@ -118,18 +130,6 @@
           "link": "https://www.nature.com/articles/s41586-026-10759-2",
           "summary": "Nature, Published online: 08 July 2026; doi:10.1038/s41586-026-10759-2\nBy integrating reinforcement learning with quantum error correction, a quantum computer continuously self-calibrates during computation, achieving record logical error rates and enhanced resilience to drift.",
           "isoDate": "2026-07-08T00:00:00.000Z"
-        },
-        {
-          "title": "Large language models can predict the results of social science experiments",
-          "link": "https://www.nature.com/articles/s41586-026-10742-x",
-          "summary": "Nature, Published online: 08 July 2026; doi:10.1038/s41586-026-10742-x\nLarge language models can be used to estimate the results of social science experiments about as accurately as a group of human forecasters—even for experiments published after the models were trained—although they tended to overestimate effect sizes.",
-          "isoDate": "2026-07-08T00:00:00.000Z"
-        },
-        {
-          "title": "Ancient feeding-related neuropeptides regulate alloparenting in ants",
-          "link": "https://www.nature.com/articles/s41586-026-10747-6",
-          "summary": "Nature, Published online: 08 July 2026; doi:10.1038/s41586-026-10747-6\nPharmacological screening and behavioural assays in ants identify two specific neuropeptides that have key and opposite effects in regulating brood care, and that link nutritional state to age-dependent changes in parenting behaviour.",
-          "isoDate": "2026-07-08T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 69\nColumn: 41\nChar: &",
-          "isoDate": "2026-07-08T19:23:56.577Z"
+          "isoDate": "2026-07-09T02:56:36.142Z"
+        },
+        {
+          "title": "Wealthy AI workers send San Francisco house prices soaring",
+          "link": "https://www.bbc.co.uk/news/articles/c9q29j47v9ro?at_medium=RSS&at_campaign=rss",
+          "summary": "The median cost of a home in the city is now $1.7m, a record high, according to the latest figures.",
+          "isoDate": "2026-07-08T23:11:35.000Z"
         },
         {
           "title": "Outcry as Meta lets users make AI images from public Instagram profile pics",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&at_campaign=rss",
           "summary": "Leading AI researcher Yan LeCun has a start-up which is developing a more flexible AI system.",
           "isoDate": "2026-07-02T23:02:09.000Z"
-        },
-        {
-          "title": "Meta glasses wearers hit with paywall to use built-in feature",
-          "link": "https://www.bbc.co.uk/news/articles/c3wy317d71jo?at_medium=RSS&at_campaign=rss",
-          "summary": "A feature in Meta's glasses which boosts the voice of people will be capped at three hours for free use.",
-          "isoDate": "2026-07-02T13:42:53.000Z"
         }
       ]
     },
@@ -203,6 +203,18 @@
       "header": "160  INTELIGENCIA ARTIFICIAL",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Our approach to government and national security partnerships",
+          "link": "https://openai.com/index/government-national-security-partnerships",
+          "summary": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
+          "isoDate": "2026-07-08T13:30:00.000Z"
+        },
+        {
+          "title": "Separating signal from noise in coding evaluations",
+          "link": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+          "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
+          "isoDate": "2026-07-08T13:00:00.000Z"
+        },
         {
           "title": "Helping K–12 educators build practical AI skills",
           "link": "https://openai.com/index/k-12-educators-practical-skills",
@@ -250,18 +262,6 @@
           "link": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
           "summary": "",
           "isoDate": "2026-07-03T14:25:43.000Z"
-        },
-        {
-          "title": "MIT in the media: Innovating and educating for the next 250 years of America",
-          "link": "https://news.mit.edu/2026/mit-media-innovating-and-educating-next-250-years-america",
-          "summary": "During a \"Washington Post Live\" panel discussion with ASU President Michael Crow, President Sally Kornbluth explored how universities are preparing the next generation of scientists to lead in America’s rapidly changing technological landscape.",
-          "isoDate": "2026-07-01T20:30:00.000Z"
-        },
-        {
-          "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
-          "link": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
-          "summary": "",
-          "isoDate": "2026-06-30T16:02:40.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 84\nColumn: 559\nChar:  ",
-          "isoDate": "2026-07-08T19:23:58.829Z"
+          "isoDate": "2026-07-09T02:56:40.181Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-07-08T19:23:57.965Z"
+          "isoDate": "2026-07-09T02:56:37.635Z"
         },
         {
           "title": "STEM Needs Leaders From Every Generation at the Table",
