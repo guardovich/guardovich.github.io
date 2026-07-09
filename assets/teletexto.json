@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-07-09T02:56:41.154Z",
+  "generatedAt": "2026-07-09T09:37:43.261Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Four nuclear reactors hit a big milestone in the US",
+          "link": "https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/",
+          "summary": "I was really looking forward to July 4, and not just because I love a poolside barbecue. This year the American holiday also marked a big symbolic deadline for US nuclear power. Last year the Trump administration set a goal to see three new microreactors achieve criticality, a technical milestone establishing that a reactor can…",
+          "isoDate": "2026-07-09T08:00:00.000Z"
+        },
         {
           "title": "Meta is reportedly working on smart glasses that would be recording all the time",
           "link": "https://www.theverge.com/tech/963138/meta-smart-glasses-recording-super-sensing-ai",
@@ -58,12 +64,6 @@
           "link": "https://arstechnica.com/science/2026/07/how-much-control-do-tiktok-users-really-have-over-fyps/",
           "summary": "The \"not interested\" feature is your friend, but users must intentionally and constantly curate their FYPs",
           "isoDate": "2026-07-08T18:00:49.000Z"
-        },
-        {
-          "title": "America’s cheapest new EV is smaller than a ping-pong table and tops out at 19mph",
-          "link": "https://www.theverge.com/transportation/962753/fiat-topolino-ev-us-price-specs-micromobiilty",
-          "summary": "When searching for an affordable electric vehicle these days, there are always tradeoffs. How much range are you willing to sacrifice, how much leg room and storage space, how many features, in the pursuit of that magic sticker price that won't break the bank?\nThe Fiat Topolino is basically the ultimate embodiment of those tradeoffs. For the dirt cheap price of $13,995, you get a top speed of 19mph, an all-electric range of 46 miles, and a wheelbase that's barely longer than one and a half king mattresses. In fact, the Topolino is less of a car and more of a micromobility vehicle.\nFiat isn't trying to hide that fact. In it's announcement t …\nRead the full story at The Verge.",
-          "isoDate": "2026-07-08T17:57:53.000Z"
         }
       ]
     },
@@ -72,22 +72,10 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "Students Connect NASA Science With Indigenous Knowledge to Study Coastal Erosion",
-          "link": "https://science.nasa.gov/learning-resources/science-activation/students-connect-nasa-science-with-indigenous-knowledge-to-study-coastal-erosion/",
-          "summary": "For the Pleasant Point Passamaquoddy Reservation, or Sipayik, the ocean has always been a teacher. Situated in what is known as Downeast Maine, along the shores of Passamaquoddy Bay, generations of Indigenous people have lived along the coast, learning from the tides, the land, and their elders. But today, the shoreline is changing more rapidly. Coastal erosion is slowly taking land away. Land that already holds a history of loss.",
-          "isoDate": "2026-07-08T21:04:14.000Z"
-        },
-        {
-          "title": "Hubble Captures Star-Studded Cluster",
-          "link": "https://www.nasa.gov/image-article/hubble-captures-star-studded-cluster/",
-          "summary": "This image from NASA’s Hubble Space Telescope showcases Messier 3 (M3), one of the Milky Way galaxy’s most massive globular clusters, or spherical collections of gravitationally bound stars. Globular clusters are made up of ancient stars that formed at roughly the same time from the same cloud of gas, giving those stars similar ages. Around 150 known globular clusters are […]",
-          "isoDate": "2026-07-08T14:13:53.000Z"
-        },
-        {
-          "title": "Cottonwood Fire Chars Utah",
-          "link": "https://science.nasa.gov/earth/earth-observatory/cottonwood-fire-chars-utah/",
-          "summary": "The blaze burned more than 150 square miles and swept through parts of a ski resort.",
-          "isoDate": "2026-07-08T04:01:00.000Z"
+          "title": "ERROR cargando feed",
+          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
+          "isoDate": "2026-07-09T09:37:38.413Z"
         },
         {
           "title": "Nukes in space? Orbital detector could sniff out warheads",
@@ -130,6 +118,18 @@
           "link": "https://www.nature.com/articles/s41586-026-10759-2",
           "summary": "Nature, Published online: 08 July 2026; doi:10.1038/s41586-026-10759-2\nBy integrating reinforcement learning with quantum error correction, a quantum computer continuously self-calibrates during computation, achieving record logical error rates and enhanced resilience to drift.",
           "isoDate": "2026-07-08T00:00:00.000Z"
+        },
+        {
+          "title": "Large language models can predict the results of social science experiments",
+          "link": "https://www.nature.com/articles/s41586-026-10742-x",
+          "summary": "Nature, Published online: 08 July 2026; doi:10.1038/s41586-026-10742-x\nLarge language models can be used to estimate the results of social science experiments about as accurately as a group of human forecasters—even for experiments published after the models were trained—although they tended to overestimate effect sizes.",
+          "isoDate": "2026-07-08T00:00:00.000Z"
+        },
+        {
+          "title": "Ancient feeding-related neuropeptides regulate alloparenting in ants",
+          "link": "https://www.nature.com/articles/s41586-026-10747-6",
+          "summary": "Nature, Published online: 08 July 2026; doi:10.1038/s41586-026-10747-6\nPharmacological screening and behavioural assays in ants identify two specific neuropeptides that have key and opposite effects in regulating brood care, and that link nutritional state to age-dependent changes in parenting behaviour.",
+          "isoDate": "2026-07-08T00:00:00.000Z"
         }
       ]
     },
@@ -141,25 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 69\nColumn: 41\nChar: &",
-          "isoDate": "2026-07-09T02:56:36.142Z"
-        },
-        {
-          "title": "Wealthy AI workers send San Francisco house prices soaring",
-          "link": "https://www.bbc.co.uk/news/articles/c9q29j47v9ro?at_medium=RSS&at_campaign=rss",
-          "summary": "The median cost of a home in the city is now $1.7m, a record high, according to the latest figures.",
-          "isoDate": "2026-07-08T23:11:35.000Z"
+          "isoDate": "2026-07-09T09:37:39.904Z"
         },
         {
           "title": "Outcry as Meta lets users make AI images from public Instagram profile pics",
           "link": "https://www.bbc.co.uk/news/articles/cp9lee19y1yo?at_medium=RSS&at_campaign=rss",
           "summary": "The tech giant said people can opt out - but privacy campaigners called it a \"recipe for disaster\".",
           "isoDate": "2026-07-08T12:28:03.000Z"
-        },
-        {
-          "title": "How Esports World Cup moved from Saudi Arabia to Paris in 8 weeks ",
-          "link": "https://www.bbc.co.uk/news/articles/ckg888l8lzjo?at_medium=RSS&at_campaign=rss",
-          "summary": "The Esports World Cup gets going in Paris after a last-minute move from Saudi Arabia. Is it any less controversial?",
-          "isoDate": "2026-07-08T08:43:00.000Z"
         },
         {
           "title": "Tech Life",
@@ -196,6 +184,18 @@
           "link": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&at_campaign=rss",
           "summary": "Leading AI researcher Yan LeCun has a start-up which is developing a more flexible AI system.",
           "isoDate": "2026-07-02T23:02:09.000Z"
+        },
+        {
+          "title": "Meta glasses wearers hit with paywall to use built-in feature",
+          "link": "https://www.bbc.co.uk/news/articles/c3wy317d71jo?at_medium=RSS&at_campaign=rss",
+          "summary": "A feature in Meta's glasses which boosts the voice of people will be capped at three hours for free use.",
+          "isoDate": "2026-07-02T13:42:53.000Z"
+        },
+        {
+          "title": "Google must pay €4.1bn fine for using Android to 'block' rivals",
+          "link": "https://www.bbc.co.uk/news/articles/cvgj0pp5p62o?at_medium=RSS&at_campaign=rss",
+          "summary": "A Google spokesperson said the judgement \"fails to recognise\" the firm's \"significant investment to ensure Android remains open.\"",
+          "isoDate": "2026-07-02T09:46:11.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 84\nColumn: 559\nChar:  ",
-          "isoDate": "2026-07-09T02:56:40.181Z"
+          "isoDate": "2026-07-09T09:37:42.756Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-07-09T02:56:37.635Z"
+          "isoDate": "2026-07-09T09:37:41.463Z"
         },
         {
           "title": "STEM Needs Leaders From Every Generation at the Table",
