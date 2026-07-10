@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-07-10T02:58:24.587Z",
+  "generatedAt": "2026-07-10T09:33:26.878Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Sperm donors need limits, says a European fertility group",
+          "link": "https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/",
+          "summary": "Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic in the Netherlands using sperm provided by an anonymous donor. After the Netherlands banned anonymous donation in 2004, the doctor who ran the clinic destroyed records that might have identified those donors, he says. He…",
+          "isoDate": "2026-07-10T09:00:00.000Z"
+        },
         {
           "title": "Microsoft’s carbon emissions went up 25 percent last year",
           "link": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
@@ -58,12 +64,6 @@
           "link": "https://www.theverge.com/gadgets/963537/anker-soundcore-boom-2-bluetooth-speaker-deal-sale",
           "summary": "Anker’s Soundcore Boom 2 is fully waterproof.\t\n\nBluetooth speakers with big sound and great features are hard to find for under $100, with most offerings being some variation of the same basic (and often small) design. Thankfully, through July 10th Woot has the Anker Soundcore Boom 2 on sale for $69.99, which is $20 cheaper than the discounted price at other retailers like Amazon, and about half its original $129.99 price. The waterproof Bluetooth speaker can run for up to 24 hours on a single charge, with big, bass-forward sound that’s great for a day by the water or just hanging out in the yard.\nAnker Soundcore Boom 2\n\nWhere to Buy:\n\n $129.99 $69.99 at Woot\n\nWhile size isn’t everything when it comes to Bluetooth speakers, the Soundcore Boom 2’s 50W subwoofer and  pair of 15W tweeters should deliver louder, clearer sound than other speakers around the same price (which are often smaller). The IPX7 rating means it’s fully waterproof and submersible, and its design will let it pump out the tunes, or take calls with its built-in microphone, while it floats in water.\nThe Boom 2 has a robust set of features for a speaker at this price point. You can adjust the equalizer and the built-in lighting behavior from the Anker app, plus the speaker charges your other devices at up to 5W from its built-in USB-A port. Its support for Anker PartyCast 2.0 lets the Boom 2 sync with other Anker speakers for larger audio. There’s no 3.5mm aux input, which isn’t irregular for waterproof speakers, so it’s Bluetooth only for playback.",
           "isoDate": "2026-07-09T20:32:18.000Z"
-        },
-        {
-          "title": "Allstate accuses Broadcom of auditing it because it quit VMware, CA",
-          "link": "https://arstechnica.com/information-technology/2026/07/allstate-accuses-broadcom-of-auditing-it-because-it-quit-vmware-ca/",
-          "summary": "Broadcom accuses Allstate of dodging VMware audits.",
-          "isoDate": "2026-07-09T20:28:55.000Z"
         }
       ]
     },
@@ -72,34 +72,10 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "NASA Sets Coverage for Astronaut Anil Menon Launch to Space Station",
-          "link": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-astronaut-anil-menon-launch-to-space-station/",
-          "summary": "NASA astronaut Anil Menon will launch aboard the Roscosmos Soyuz MS-29 spacecraft to the International Space Station on Tuesday, July 14, accompanied by cosmonauts Pyotr Dubrov and Anna Kikina, where they will join the Expedition 74 crew advancing scientific research. Menon, Dubrov, and Kikina will lift off at 10:47 a.m. EDT (7:47 p.m. Baikonur time) […]",
-          "isoDate": "2026-07-09T22:09:27.000Z"
-        },
-        {
-          "title": "NASA Space Telescope Maps Magnetic Fields of ‘Lighthouse’ Pulsar",
-          "link": "https://science.nasa.gov/missions/ixpe/nasa-space-telescope-maps-magnetic-fields-of-lighthouse-pulsar/",
-          "summary": "For the first time, scientists have used NASA’s IXPE (Imaging X-ray Polarimetry Explorer) to directly measure the magnetic fields of PSR J1101−6101, a pulsar located within what is often referred to as the Lighthouse Nebula. The results provide new insight into the structure of some of the most extreme objects in the cosmos, as NASA […]",
-          "isoDate": "2026-07-09T20:08:35.000Z"
-        },
-        {
-          "title": "Principal Investigator and Quality Assessment Reports Evaluate Umbra Synthetic Aperture Radar Data",
-          "link": "https://science.nasa.gov/science-research/earth-science/principal-investigator-and-quality-assessment-reports-evaluate-umbra-synthetic-aperture-radar-data/",
-          "summary": "The reports add to the growing documentation on commercial data’s contributions to Earth science research and applications.",
-          "isoDate": "2026-07-09T18:14:21.000Z"
-        },
-        {
-          "title": "Curiosity Sees Martian Sulfur Up Close",
-          "link": "https://www.nasa.gov/image-article/curiosity-sees-martian-sulfur-up-close/",
-          "summary": "This close-up view shows fragments of sulfur crystals — the first ever seen on the Red Planet. The crystals were found after NASA’s Curiosity Mars rover happened to drive over a rock and crush it on May 30, 2024. Several days later, Curiosity used a camera on the end of its robotic arm to take […]",
-          "isoDate": "2026-07-09T16:33:50.000Z"
-        },
-        {
-          "title": "NASA Scientists Take to Air and Space to Study Arctic Sea Ice",
-          "link": "https://www.nasa.gov/missions/airborne-science/nasa-scientists-take-to-air-and-space-to-study-arctic-sea-ice/",
-          "summary": "This month, engineers at NASA’s Jet Propulsion Laboratory in Southern California are testing a spacecraft sensor that will help measure how quickly Arctic sea ice is disappearing. And while that instrument won’t launch for another year, scientists started preparing for its use during a recent field campaign in the Canadian wilderness. Researchers spent two weeks […]",
-          "isoDate": "2026-07-09T15:42:58.000Z"
+          "title": "ERROR cargando feed",
+          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
+          "isoDate": "2026-07-10T09:33:21.436Z"
         },
         {
           "title": "C1q and immunoglobulins mediate activity-dependent synapse loss in the adult brain",
@@ -130,6 +106,30 @@
           "link": "https://www.science.org/doi/abs/10.1126/science.aea1200?af=R",
           "summary": "Science, Volume 393, Issue 6807, July 2026.",
           "isoDate": "2026-07-09T07:00:00.000Z"
+        },
+        {
+          "title": "A statistical test for the benefits of personalizing interventions",
+          "link": "https://www.science.org/doi/abs/10.1126/science.aeb9506?af=R",
+          "summary": "Science, Volume 393, Issue 6807, July 2026.",
+          "isoDate": "2026-07-09T07:00:00.000Z"
+        },
+        {
+          "title": "Adaptation across an extreme elevational gradient in Andean leaf-eared mice, the world’s highest-dwelling mammal",
+          "link": "https://www.science.org/doi/abs/10.1126/science.aec8347?af=R",
+          "summary": "Science, Volume 393, Issue 6807, July 2026.",
+          "isoDate": "2026-07-09T07:00:00.000Z"
+        },
+        {
+          "title": "Erratum for the Research Article “Granzyme A from cytotoxic lymphocytes cleaves GSDMB to trigger pyroptosis in target cells” by Z. Zhou et al.",
+          "link": "https://www.science.org/doi/abs/10.1126/science.aej7549?af=R",
+          "summary": "Science, Volume 393, Issue 6807, July 2026.",
+          "isoDate": "2026-07-09T07:00:00.000Z"
+        },
+        {
+          "title": "Erratum for the Research Article “Awake Hippocampal Sharp-Wave Ripples Support Spatial Memory”",
+          "link": "https://www.science.org/doi/abs/10.1126/science.aek1745?af=R",
+          "summary": "Science, Volume 393, Issue 6807, July 2026.",
+          "isoDate": "2026-07-09T07:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 69\nColumn: 41\nChar: &",
-          "isoDate": "2026-07-10T02:58:21.724Z"
+          "isoDate": "2026-07-10T09:33:22.224Z"
         },
         {
           "title": "'Cool in 90 seconds' - the fake portable air conditioners sweeping the internet",
@@ -204,6 +204,12 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+          "link": "https://openai.com/index/deutsche-telekom",
+          "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+          "isoDate": "2026-07-10T07:00:00.000Z"
+        },
+        {
           "title": "Tiny robot boats build floating structures",
           "link": "https://news.mit.edu/2026/tiny-robot-boats-build-floating-structures-0709",
           "summary": "MIT researchers developed FloatForm, a swarm of small aquatic robots that snap together like ants forming a raft, assembling into reconfigurable structures on the water.",
@@ -216,6 +222,12 @@
           "isoDate": "2026-07-09T13:00:00.000Z"
         },
         {
+          "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+          "link": "https://openai.com/index/gpt-5-6",
+          "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+          "isoDate": "2026-07-09T10:00:00.000Z"
+        },
+        {
           "title": "ChatGPT is now a partner for your most ambitious work",
           "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
           "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
@@ -225,12 +237,6 @@
           "title": "GPT-5.5 Bio Bug Bounty",
           "link": "https://openai.com/index/bio-bug-bounty",
           "summary": "Details about the OpenAI Bio Bounty program",
-          "isoDate": "2026-07-09T10:00:00.000Z"
-        },
-        {
-          "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-          "link": "https://openai.com/index/gpt-5-6",
-          "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
           "isoDate": "2026-07-09T10:00:00.000Z"
         },
         {
@@ -256,12 +262,6 @@
           "link": "https://openai.com/index/introducing-gpt-live",
           "summary": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
           "isoDate": "2026-07-08T00:00:00.000Z"
-        },
-        {
-          "title": "How novice coders can develop AI programs for military applications",
-          "link": "https://news.mit.edu/2026/how-novice-coders-can-develop-ai-programs-for-military-applications-0707",
-          "summary": "A USAF cadet and a Lincoln Laboratory researcher found AI chatbots can help nontechnical service members produce viable software applications for their unique problems.",
-          "isoDate": "2026-07-07T17:25:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 84\nColumn: 559\nChar:  ",
-          "isoDate": "2026-07-10T02:58:24.020Z"
+          "isoDate": "2026-07-10T09:33:25.826Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-07-10T02:58:23.197Z"
+          "isoDate": "2026-07-10T09:33:23.659Z"
         },
         {
           "title": "The Rebirth of High Frequency",
