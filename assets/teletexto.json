@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-07-11T02:34:51.556Z",
+  "generatedAt": "2026-07-11T07:54:17.209Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Are you filthy enough for a $700 portable shower? ",
+          "link": "https://www.theverge.com/reviews/963814/joolca-hottap-portable-shower-review",
+          "summary": "A luxurious hot shower anywhere you go.\t\n\nHot showers, like electricity, are a luxury that's easy to take for granted. That all changes after a few nights camping at a music festival, a week toiling at a backcountry job site, or overlanding all summer in the great unknown. An itchy scalp and the vague smell of warm clams suddenly make the idea of spending hundreds on a portable shower seem less absurd. \nI've been testing the Hottap Go from Australia-based Joolca while vanlifing to shower after surfing and to wash up after cooking. It features a 12L integrated water tank which is an improvement on other portable showers that require an external container and long, cumbersome hose th …\nRead the full story at The Verge.",
+          "isoDate": "2026-07-11T07:00:00.000Z"
+        },
         {
           "title": "No, Flock isn&#8217;t threatening people for debating surveillance",
           "link": "https://www.theverge.com/tech/964425/flock-safety-cease-and-desist-letter",
@@ -58,12 +64,6 @@
           "link": "https://www.theverge.com/games/964022/pokemon-go-10th-anniversary-mewtwo-nyc-go-fest-2026",
           "summary": "When Niantic dropped the first Pokémon Go trailer in 2015, it was hard to grasp how a bunch of players could work together to catch a pokémon like Mewtwo. But this week at the game's 10th anniversary event in New York City, Pokémon Go showed the world how it's done. Almost 2,000 players (many of them Pokémon Go influencers) packed into Times Square on Thursday evening to participate in a special battle. It was cool to see Times Square briefly go dark before the billboards began lighting up, revealing an escaped Mewtwo Mega Evolving, and it was even wilder to see people living the fantasy depicted in the game's first trailer. \nEven though mo …\nRead the full story at The Verge.",
           "isoDate": "2026-07-10T19:51:10.000Z"
-        },
-        {
-          "title": "Ransomware negotiator hired to represent victims was working for the attackers",
-          "link": "https://arstechnica.com/tech-policy/2026/07/ransomware-negotiator-helped-attackers-extort-his-own-clients-gets-6-year-sentence/",
-          "summary": "Six years in prison for man who \"sold out the very victims he was hired to represent.\"",
-          "isoDate": "2026-07-10T19:40:11.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 69\nColumn: 41\nChar: &",
-          "isoDate": "2026-07-11T02:34:47.613Z"
+          "isoDate": "2026-07-11T07:54:14.371Z"
         },
         {
           "title": "Meta pulls new AI image feature after days of backlash",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 84\nColumn: 559\nChar:  ",
-          "isoDate": "2026-07-11T02:34:50.879Z"
+          "isoDate": "2026-07-11T07:54:16.595Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-07-11T02:34:49.937Z"
+          "isoDate": "2026-07-11T07:54:15.952Z"
         },
         {
           "title": "IEEE Remembers Pioneering Computer Scientist Peter G. Neumann",
