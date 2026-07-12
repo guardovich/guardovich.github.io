@@ -1,10 +1,34 @@
 {
-  "generatedAt": "2026-07-12T13:17:25.845Z",
+  "generatedAt": "2026-07-12T19:04:39.296Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
+          "link": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+          "summary": "Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development of the self-driving platform, Apple realized that it would need powerful on-device AI processing. While the car processor was never finished, as Mark Gurman details in his latest Power On newsletter, it did lead to the development of the Neural Engine, the backbone of Apple's on-device AI processing. \nThe Neural Engine made its debut with the iPhone X and the A11 Bionic. In those early days, it was primarily used for computer vision, powering FaceID, Animoji, and a …\nRead the full story at The Verge.",
+          "isoDate": "2026-07-12T16:27:06.000Z"
+        },
+        {
+          "title": "One of SteelSeries&#8217; best gaming headsets is over $100 off",
+          "link": "https://www.theverge.com/gadgets/964125/steelseries-arctis-nova-pro-wireless-headset-deal-sale",
+          "summary": "The SteelSeries Arctis Nova Pro gaming headset. | Photo by Amelia Holowaty Krales\t\n\nSteelSeries has the Arctis Nova Pro Wireless gaming headset on sale for $239.99 (currently between $300 and $350 at other retailers). The Xbox version that supports a host of other platforms including PlayStation, PC, and Switch is available in both black and white. The PlayStation version, which supports the same platforms except for Xbox, is discounted in white. Both versions can also connect to mobile devices via Bluetooth.\nSteelSeries Arctis Nova Pro Wireless\nThe Nova Pro Wireless gaming headset supports active noise cancellation, swappable batteries, Bluetooth support, and compatibility with PC and most consoles — including Xbox and PlayStation. This model includes a base station that makes it easy to toggle crucial sound settings. Read our review.\n\nWhere to Buy:\n\n $379.99 $239.99 at SteelSeries (Xbox, black, blemished box)\n $379.99 $239.99 at SteelSeries (Playstation, white, blemished box)\n $379.99 $239.99 at SteelSeries (Xbox, white, blemished box)\n\nThis isn’t your average price reduction; SteelSeries’ reason for discounting the headsets is because their packaging is damaged. It assures that the hardware inside is still unused and undamaged, and the headset includes the same one-year warranty as any of its new headsets.\nThe Nova Pro Wireless was an impressive gaming headset when it launched four years ago — and still is — especially at this price point. It has all the features you’re probably expecting from a high-end wireless headset, like active noise cancellation for blocking out sounds, a noise-canceling microphone for clear callouts and crisp voice delivery, and Bluetooth connectivity in case you need to take a call. In addition, the slick USB base station adds a ton of unique functionality, like charging a spare batteries to minimize downtime when one dies, onboard controls for game profiles and sound mixing, and the ability to blend up to three inputs at a time (including Bluetooth).\nThere are some things you should keep in mind if you’re thinking of picking up the Arctis Nova Pro Wireless. Our reviewers disagreed on its comfort. Neither found it uncomfortable, but both agreed that it’s heavier than other SteelSeries headsets. If you were considering the newer and more expensive Nova Pro Omni, this headset has most of the same unique features at a much more palatable price point.\nRead our SteelSeries Arctis Nova Pro review.",
+          "isoDate": "2026-07-12T15:00:00.000Z"
+        },
+        {
+          "title": "How Philips Hue got the smart home right",
+          "link": "https://www.theverge.com/podcast/964515/philips-hue-smart-lights-version-history",
+          "summary": "A photo of a lightbulb glowing purple. | Photo: Amelia Holowaty Krales / The Verge\t\n\nThe state of the smart home can be frustrating, because it is just so obvious how things ought to work. You should be able to control everything from everywhere. Your spaces should adapt to what you're doing and how you're feeling. Making your home smart shouldn't require renovating, and the smarts should be mostly invisible. All of this is, of course, incredibly hard to pull off - but the goal is pretty clear.\nUntil now, maybe no product has come closer to nailing the smart home than Philips Hue. And on this episode of Version History, we dig into all the things Hue got right. The Verge's David Pierce and Jennifer Pattison Tuohy are joined …\nRead the full story at The Verge.",
+          "isoDate": "2026-07-12T14:38:01.000Z"
+        },
+        {
+          "title": "Less is more with the Oura Ring 5",
+          "link": "https://www.theverge.com/tech/964386/oura-ring-5-review-smart-ring-wearables",
+          "summary": "The cross stitch pattern is by NathNolu on Etsy.\t\n\nIf you're reading an Oura Ring 5 review at The Verge, you likely fall into one of two camps: newcomers looking for a smartwatch alternative, or Oura users pondering an upgrade. In the case of the former, this is a great casual health tracker and the best smart ring on the market - but not your best choice if you really sweat the fitness details. If you fall into the latter, you don't need to upgrade.\nI say this because the Oura Ring 4 came out less than two years ago. The ceramic version, of which I am a big fan, came out less than a year ago. These were major updates over the Oura Ring Gen 3, both in terms of software and in terms of senso …\nRead the full story at The Verge.",
+          "isoDate": "2026-07-12T14:00:00.000Z"
+        },
         {
           "title": "Blue Prince became a bonding — and learning — experience for my family",
           "link": "https://www.theverge.com/games/964262/blue-prince-family-bonding",
@@ -40,30 +64,6 @@
           "link": "https://www.theverge.com/entertainment/963509/image-line-ceo-constantin-koehncke-fl-studio-interview",
           "summary": "If you're a music maker of a certain age, then you probably once dabbled with a pirated copy of a little app called Fruity Loops. These days it's called FL Studio, and Constantin Koehncke, is the man responsible for shepherding the pioneering digital audio workstation (DAW) through the modern age. As CEO of Image Line, the company behind FL Studio, Constantin has overseen the introduction of a number of AI-powered features like stem separation and its Gopher chatbot.\nBefore taking the reins of Image Line in 2022, Constantin was the head of Native Instruments, where he spearheaded the shift towards digital services, did a stint in marketing, …\nRead the full story at The Verge.",
           "isoDate": "2026-07-11T15:00:00.000Z"
-        },
-        {
-          "title": "Nintendo’s Talking Flower got a small price cut",
-          "link": "https://www.theverge.com/gadgets/964138/nintendo-talking-flower-mario-wonder-deal-sale",
-          "summary": "If you’re the type of person who could always use a little extra positive affirmation, or you have a weakness for weird gadgets, the Talking Flower might be of interest. I’m only kind of serious. The toy is based on a character from Super Mario Bros. Wonder that guides Mario through levels with quippy, whimsical remarks. It’s a little weird that it even exists, but, then again, this is the company that made Alarmo.\nThe Talking Flower debuted for $34.99, but it got a small price reduction at Amazon and Walmart. It’ll instead cost you $29.99 to buy the cute talking toy. \nNintendo Talking Flower\n\nWhere to Buy:\n\n $34.99 $29.99 at Amazon\n $34.99 $29.99 at Walmart\n\nThe Talking Flower doesn’t have much utility. Unlike the $110 Alarmo, it can’t serve as an alarm even though it asks when you go to bed and wake up (so that it knows when to keep quiet). It’s there to call out every passing hour when you’re awake, and to say random stuff unprompted. It can make comments about the general time of day, as well as the temperature thanks to its built-in thermometer. The Talking Flower lacks a microphone, and it doesn’t connect to the internet. However, it has a button that’ll make it say things, if you don’t want to wait for it to randomly blurt out its pre-programmed thoughts. Like in the video game, you can select the language it speaks.\nMy colleague Andrew Webster went hands-on with the Talking Flower, and his takeaway was that it’s a drip feed of whimsy. However, it would occasionally say something that reminded Andrew to take care of himself, whether it be to slow down and relax or to take a lunch break. I’m entertained by many reviews on Amazon, which highlight that buyers are split on being annoyed with the Talking Flower, but loving it anyway — just like the character in Wonder.",
-          "isoDate": "2026-07-11T15:00:00.000Z"
-        },
-        {
-          "title": "White House taps the guy who keeps crying ‘aliens’ to run UFO group",
-          "link": "https://www.theverge.com/science/964478/white-house-avi-loeb-aliens-ufo-uap-council",
-          "summary": "Harvard astrophysicist Avi Loeb will head the UAP Science Advisory Council established by the White House, the Pentagon, the Office of the Director of National Intelligence, the FBI, and \"the intelligence community.\" The Council will provide scientific reports and advice to the UAP Governing Board, in an effort to \"resolve the nature of UAP,\" or unidentified anomalous phenomena.\nOn paper, Loeb's qualifications seem strong. And he's surrounded himself with a team from a variety of backgrounds. The Council includes not only physicists, but a pathologist, a computer scientist, a philosopher, a psychologist, and even the founding publisher of S …\nRead the full story at The Verge.",
-          "isoDate": "2026-07-11T14:18:33.000Z"
-        },
-        {
-          "title": "ICE are heavily armed killers. They’re also huge losers",
-          "link": "https://www.theverge.com/policy/964302/ice-donald-trump-killings",
-          "summary": "Federal agents patrol the halls of immigration court at the Jacob K. Javits Federal Building in December 2025. | Photo by Michael Nigro/Pacific Press/LightRocket via Getty Images\t\n\nDonald Trump's Homeland Security regime has been at the center of two critical stories in the past two weeks. In the first, federal agents shot and killed a man and quickly got to work justifying the use of force under the flimsiest of pretenses. In the other, it made house calls to people who said mean things to them online.\nSince taking office last year, the Trump administration has been telling us that fighting the good fight of white supremacy will make you look cool and noble. The DHS under former Secretary Kristi Noem spent $220 million to help her cosplay as a cowboy and call up ICE recruits as if we're fighting a new World War, this …\nRead the full story at The Verge.",
-          "isoDate": "2026-07-11T13:00:00.000Z"
-        },
-        {
-          "title": "A Jupiter-size planet that escaped its star's death",
-          "link": "https://arstechnica.com/science/2026/07/a-jupiter-size-planet-that-escaped-its-stars-death/",
-          "summary": "It's unclear how the planet avoided its star's bloated red giant stage.",
-          "isoDate": "2026-07-11T12:00:58.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 69\nColumn: 41\nChar: &",
-          "isoDate": "2026-07-12T13:17:22.565Z"
+          "isoDate": "2026-07-12T19:04:36.275Z"
         },
         {
           "title": "Meta pulls new AI image feature after days of backlash",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 84\nColumn: 559\nChar:  ",
-          "isoDate": "2026-07-12T13:17:24.960Z"
+          "isoDate": "2026-07-12T19:04:38.609Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-07-12T13:17:24.051Z"
+          "isoDate": "2026-07-12T19:04:37.958Z"
         },
         {
           "title": "IEEE Remembers Pioneering Computer Scientist Peter G. Neumann",
