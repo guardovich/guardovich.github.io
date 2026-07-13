@@ -1,26 +1,38 @@
 {
-  "generatedAt": "2026-07-13T02:43:24.916Z",
+  "generatedAt": "2026-07-13T09:25:02.367Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
         {
+          "title": "Social media limits are coming for teens across Europe",
+          "link": "https://www.theverge.com/tech/964565/eu-children-social-media-online-safety-rules",
+          "summary": "The European Union is weighing sweeping new restrictions on children's and teenagers' access to social media, including age limits, an outright ban, and phased access. Social media platforms could also be forced to prove their services are not harmful before young people are allowed to use them.\nEuropean Commission President Ursula von der Leyen said the bloc's executive arm could propose new legislation within months, after reviewing recommendations from a panel of experts released today. \"This is not about whether children can access social media. It is about when social media can access our children,\" von der Leyen said. \nThe panel reco …\nRead the full story at The Verge.",
+          "isoDate": "2026-07-13T09:22:52.000Z"
+        },
+        {
+          "title": "Waze is getting a bunch of new AI-powered features",
+          "link": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+          "summary": "Waze is getting an AI makeover. Google is integrating its flagship AI assistant, Gemini, into the driving app with the goal of letting users personalize their trips a little more. \nOf the four new updates, only two are being described as involving Gemini. Waze says its updating its conversation reporting feature, first introduced in 2024, to allow drivers to use conversational voice commands to report traffic incidents and suggest map updates, like a road closure or outdated house number. In addition, Waze introduced Destination Search, enabling drivers to use (again) use conversation voice commands (e.g., \"Find me a coffee shop that's open …\nRead the full story at The Verge.",
+          "isoDate": "2026-07-13T09:00:00.000Z"
+        },
+        {
           "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
           "link": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
-          "summary": "Lorde performing at the 2026 Governors Ball. | Photo: Siegfried Anthony/Billboard via Getty Images\t\n\nLorde was performing at the Real Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses. While she didn't specify any brands in particular, it's likely she was taking a shot at festival sponsor Ray-Ban, which has collaborated with Meta on a pair of AI smartglasses. \nThe comments were captured in videos shared to social media. After thanking the crowd for being there and taking part in \"something real,\" she said that it was increasingly hard to know is and isn't real, before saying \"You don't know if someone is wearing sunglasses or if they're wearing those fucked up fucking… Can I just say, for …\nRead the full story at The Verge.",
+          "summary": "Lorde performing at the 2026 Governors Ball. | Photo: Siegfried Anthony/Billboard via Getty Images\t\n\nLorde was performing at the Real Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses. While she didn't specify any brands in particular, it's likely she was taking a shot at festival sponsor Ray-Ban, which has collaborated with Meta on a pair of AI smartglasses. \nThe comments were captured in videos shared to social media. After thanking the crowd for being there and taking part in \"something real,\" she said that it was increasingly hard to know what is and isn't real, before saying \"You don't know if someone is wearing sunglasses or if they're wearing those fucked up fucking… Can I just say …\nRead the full story at The Verge.",
           "isoDate": "2026-07-12T20:10:19.000Z"
         },
         {
           "title": "Shall We Go On Sinning So That Grace May Increase? is hypnotic, healing, and hopeful",
           "link": "https://www.theverge.com/entertainment/964532/the-soft-pink-truth-shall-we-go-on-sinning-so-that-grace-may-increase-review",
-          "summary": "Matmos are an incredibly accomplished duo between their own solo records like the masterpiece A Chance to Cut Is a Chance to Cure and production classic Bjork records like Vespertine. But Drew Daniel, one half of Matmos, is fiendishly prolific. When he's not literally dreaming up new viral music genres, he's also putting out records under the banner of The Soft Pink Truth. \nWhere Matmos usually focuses on a specific musical experiment - using only samples of medical procedures or building instruments out of PVC tubing - Soft Pink Truth goes wherever Daniel's whims take him. That might be a house record. It might be a bunch of black metal co …\nRead the full story at The Verge.",
+          "summary": "Matmos are an incredibly accomplished duo between their own solo records like the masterpiece A Chance to Cut Is a Chance to Cure and production classic Björk records like Vespertine. But Drew Daniel, one half of Matmos, is fiendishly prolific. When he's not literally dreaming up new viral music genres, he's also putting out records under the banner of The Soft Pink Truth. \nWhere Matmos usually focuses on a specific musical experiment - using only samples of medical procedures or building instruments out of PVC tubing - Soft Pink Truth goes wherever Daniel's whims take him. That might be a house record. It might be a bunch of black metal co …\nRead the full story at The Verge.",
           "isoDate": "2026-07-12T19:40:00.000Z"
         },
         {
           "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
           "link": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
-          "summary": "Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development of the self-driving platform, Apple realized that it would need powerful on-device AI processing. While the car processor was never finished, as Mark Gurman details in his latest Power On newsletter, it did lead to the development of the Neural Engine, the backbone of Apple's on-device AI processing. \nThe Neural Engine made its debut with the iPhone X and the A11 Bionic. In those early days, it was primarily used for computer vision, powering FaceID, Animoji, and a …\nRead the full story at The Verge.",
+          "summary": "Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development of the self-driving platform, Apple realized that it would need powerful on-device AI processing. While the car processor was never finished, as Mark Gurman details in his latest Power On newsletter, it did lead to the development of the Neural Engine, the backbone of Apple's on-device AI processing. \nThe Neural Engine made its debut with the iPhone X and the A11 Bionic. In those early days, it was primarily used for computer vision, powering Face ID, Animoji, and  …\nRead the full story at The Verge.",
           "isoDate": "2026-07-12T16:27:06.000Z"
         },
         {
@@ -52,18 +64,6 @@
           "link": "https://www.theverge.com/column/963346/ai-data-centers-fight",
           "summary": "A yard sign opposing a planned data center is displayed along Route 54 in Mount Carmel Township Northumberland County. | Image: Getty Images\t\n\nThis is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the data center buildout, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here.\nHow it started\nYears before the AI boom threatened local power grids, a small group of protesters set the stage for the battles cropping up across communities today. In 2015, Apple announced plans to build a roughly $1 billion data center in the sleepy town of Athenry, Ireland. The data center's 500-acre site would power Apple's services in Europe, including iTunes, iMessage, and Siri. At th …\nRead the full story at The Verge.",
           "isoDate": "2026-07-12T12:00:00.000Z"
-        },
-        {
-          "title": "The real mystery behind Moana: After 1,700 years, why did Polynesians suddenly sail east?",
-          "link": "https://arstechnica.com/culture/2026/07/the-real-mystery-behind-moana-after-1700-years-why-did-polynesians-suddenly-sail-east/",
-          "summary": "New climate evidence adds context to these long voyages.",
-          "isoDate": "2026-07-12T11:12:19.000Z"
-        },
-        {
-          "title": "After years of teasing, the viral Nopia synth is ‘basically finished’",
-          "link": "https://www.theverge.com/gadgets/964499/nopia-viral-synth-finished-price-release-demo",
-          "summary": "More mint green synths please. | Image: Nopia\t\n\nAfter setting the music gear corner of the internet on fire back in 2023 with the first glimpse at the Nopia, creators Martin Grieco and Rocío Gal are almost ready to bring it to market. The duo brought it to the MusicRadar offices for an in-depth first look and revealed that it will be launching in \"a couple of months\" for around £550.\nNopia is built around harmonic interplay in a unique way. Rather than a few knobs and a keyboard controlling a single synth patch, it blends multiple modules - keys, bass, arp, and pad - into a single performance, not unlike a drumless groovebox. There's a one-octave keyboard called the Chord Builder, a 12-b …\nRead the full story at The Verge.",
-          "isoDate": "2026-07-11T20:57:42.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 69\nColumn: 41\nChar: &",
-          "isoDate": "2026-07-13T02:43:19.453Z"
+          "isoDate": "2026-07-13T09:24:58.981Z"
         },
         {
           "title": "10 years of Pokémon Go and the millions still trying to catch 'em all",
@@ -204,6 +204,12 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "New method aims to keep kids safe from illegal AI-generated content",
+          "link": "https://news.mit.edu/2026/new-method-keeps-kids-safe-from-illegal-ai-generated-content-0713",
+          "summary": "Researchers developed an auditing technique to test generative AI models for malicious capabilities, without prompting them for illegal outputs.",
+          "isoDate": "2026-07-13T04:00:00.000Z"
+        },
+        {
           "title": "How Deutsche Telekom is rewiring telecommunications with AI",
           "link": "https://openai.com/index/deutsche-telekom",
           "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
@@ -256,12 +262,6 @@
           "link": "https://openai.com/index/k-12-educators-practical-skills",
           "summary": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.",
           "isoDate": "2026-07-08T10:00:00.000Z"
-        },
-        {
-          "title": "Introducing GPT-Live",
-          "link": "https://openai.com/index/introducing-gpt-live",
-          "summary": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
-          "isoDate": "2026-07-08T00:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 84\nColumn: 559\nChar:  ",
-          "isoDate": "2026-07-13T02:43:24.045Z"
+          "isoDate": "2026-07-13T09:25:01.646Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-07-13T02:43:21.252Z"
+          "isoDate": "2026-07-13T09:25:00.522Z"
         },
         {
           "title": "IEEE Remembers Pioneering Computer Scientist Peter G. Neumann",
