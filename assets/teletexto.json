@@ -1,10 +1,58 @@
 {
-  "generatedAt": "2026-07-14T08:02:56.857Z",
+  "generatedAt": "2026-07-14T13:41:21.979Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Pixel Watch 5 leak shows off four different finishes",
+          "link": "https://www.theverge.com/tech/965293/google-pixel-watch-5-leak-finishes",
+          "summary": "A leak showing the Pixel Watch 5 with a “Warm Gold” case. | Image: OnLeaks via The Tide Chart\t\n\nA new leak may have just spoiled the Pixel Watch 5 and its finishes ahead of Google's launch event next month. Leaked press renders provided to The Tide Chart by OnLeaks appear to show the upcoming watch with four case finishes: black (Dark Anthracite), polished silver (Natural Silver), yellow gold (Warm Gold), and a duskier gold (Pyrite).\nThe leaked images pair the Dark Anthracite finish with a black band, Natural Silver with a light blue band, Warm Gold with a coral band, and Pyrite with a green band. These colors line up with the early Pixel 11 Amazon listings spotted by 9to5Google, which showed the phone in a similar palette, along with …\nRead the full story at The Verge.",
+          "isoDate": "2026-07-14T13:39:36.000Z"
+        },
+        {
+          "title": "EverQuest’s biggest fans are leading its revival",
+          "link": "https://www.theverge.com/games/965112/everquest-legends-project-1999-fan-developers",
+          "summary": "Lord Nagafen stares down a Froglok. | Image: Daybreak Game Company\t\n\nLive-service games and the companies that run them are in big trouble. Games and their developers are getting shut down and gutted, and publishers' huge promises are dubious. Meanwhile, EverQuest, one of the original live-service games, is thundering back more than 25 years later.\nEverQuest Legends is currently in preorder beta with an upcoming release date of July 28th. The original EverQuest was a foundational MMORPG from right around the time we started to define what a massively multiplayer online roleplaying game was. Legends is a reimagining of that MMORPG as it existed in 1999, when it was first released, before decades of expansions …\nRead the full story at The Verge.",
+          "isoDate": "2026-07-14T13:00:00.000Z"
+        },
+        {
+          "title": "The Download: Claude’s inner workings, and the future of world models",
+          "link": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What Anthropic’s latest AI discovery does—and doesn’t—show —James O’Donnell When Anthropic announced last week that it had found a new window into its models’ “internal thoughts” as they reason through answers,…",
+          "isoDate": "2026-07-14T12:10:00.000Z"
+        },
+        {
+          "title": "Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US",
+          "link": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
+          "summary": "Demis Hassabis, during a panel session at the World Economic Forum in Davos, Switzerland. | Image: Bloomberg via Getty Images\t\n\nDemis Hassabis thinks the world needs an AI watchdog with the power to hit the brakes if frontier models become too dangerous. \nWriting in a blog post, the Google DeepMind CEO and cofounder said the US should lead the initiative, arguing that the country is the best place to set global standards \"given its economic and technical standing.\" The organization, which could resemble existing regulators like the Financial Industry Regulatory Authority, would be made up of leading independent experts and representatives from open-source communities and would have the authority to evaluate frontier models before they are released and coordinate an  …\nRead the full story at The Verge.",
+          "isoDate": "2026-07-14T11:43:29.000Z"
+        },
+        {
+          "title": "The first sunlight reflecting space mirror has been cleared for launch",
+          "link": "https://www.theverge.com/science/965263/reflect-orbital-space-mirror-launch-fcc-clearance",
+          "summary": "Eärendil-1 is the first of many 60-foot space mirrors that Reflect Orbital is planning to launch into low Earth orbit. | Image: Reflect Orbital\t\n\nReflect Orbital has been given the green light to launch its first space mirror that aims to redirect sunlight down to Earth at night. The US Federal Communications Commission (FCC) has authorized the California-based startup to build and operate a single prototype satellite in low-Earth orbit later this year, despite concerns over how the technology could impact optical astronomy.\nThe satellite, named Eärendil-1 in reference to a Tolkien character, will attempt to redirect sunlight to specific areas on Earth after dark using a 59-foot (18-meter) reflective surface. If successful, Reflect Orbital plans to launch and operate a constellation  …\nRead the full story at The Verge.",
+          "isoDate": "2026-07-14T11:10:39.000Z"
+        },
+        {
+          "title": "Let’s build a children’s public internet",
+          "link": "https://www.theverge.com/report/962823/childrens-public-internet-child-safety-proposal",
+          "summary": "An increasing number of people seem to agree the internet is terrible for children - allegedly addictive, destructive to self-esteem, possibly a portal to predators. Over the past year, several countries have started requiring stringent age verification or outright bans for minors. At the end of June in the US, the House of Representatives passed the Kids Internet ​and Digital Safety (KIDS) Act, the latest in a string of attempted online child safety regulations. A couple of days later, a Pew Research Center survey found over half of US respondents favored a ban on social media for anyone under 16. There's a growing sense that the digital wo …\nRead the full story at The Verge.",
+          "isoDate": "2026-07-14T11:00:00.000Z"
+        },
+        {
+          "title": "New York becomes the first state to enact a data center moratorium",
+          "link": "https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium",
+          "summary": "New hyperscale data centers can't set up shop in New York for up to a year now that Governor Kathy Hochul (D) has signed the nation's first statewide moratorium. But a bill passed by the state legislature that could restrict even more developments still awaits her signature.\nThe order blocks new environmental permits for data centers over 50 megawatts, which the governor's office says will give the state time to come up with the regulations needed to protect residents from rising energy prices and environmental impact. That's higher than the 20 megawatt threshold approved by state lawmakers. Hochul's office could not immediately identify th …\nRead the full story at The Verge.",
+          "isoDate": "2026-07-14T09:00:00.000Z"
+        },
+        {
+          "title": "PsiQuantum has a plan to make a massive quantum computer out of light",
+          "link": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/",
+          "summary": "The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory. Inside will be some 100 stainless-steel cabinets, each about six feet tall and connected to a supply of liquid helium that keeps them only a few degrees above absolute zero.…",
+          "isoDate": "2026-07-14T08:00:00.000Z"
+        },
         {
           "title": "SpaceX is gearing up for Starship's 13th test flight later this week",
           "link": "https://arstechnica.com/space/2026/07/spacex-is-gearing-up-for-starships-13th-test-flight-later-this-week/",
@@ -16,54 +64,6 @@
           "link": "https://arstechnica.com/health/2026/07/us-continues-to-shun-ebola-infected-citizens-second-american-sent-to-germany/",
           "summary": "The man is said to be doing well in a Frankfurt hospital.",
           "isoDate": "2026-07-13T22:07:34.000Z"
-        },
-        {
-          "title": "Microsoft tests Windows Search without all the ads and fluff",
-          "link": "https://www.theverge.com/tech/965090/microsoft-windows-11-search-menu-ads",
-          "summary": "Microsoft is testing a cleaner version of the Windows 11 search menu that strips it of recommended content and ads. In a blog post on Monday, Microsoft announced that it's rolling out the decluttered Search Box to Windows Insiders in the Experimental channel as the company looks to regain trust with users and fix Windows.\nOne of the biggest changes is a revamped search homescreen that displays only your recent searches. Currently, when you open the search menu, it shows your recent searches alongside several distracting tiles on the right pane, containing things like the image of the day, daily quizzes, trending searches, and game recommend …\nRead the full story at The Verge.",
-          "isoDate": "2026-07-13T21:53:20.000Z"
-        },
-        {
-          "title": "OnePlus is reportedly bailing on the US",
-          "link": "https://www.theverge.com/tech/965084/oneplus-oppo-exit-us-europe",
-          "summary": "OnePlus and its parent company, Oppo, plan to announce in the coming days that OnePlus brand will be leaving the US and European markets, according to a machine translation of a WinFuture report. \nShould the exit actually happen, it will mark a conclusion to months of rumors about the future of OnePlus. Android Headlines said in January that OnePlus was being \"dismantled,\" though OnePlus, in a statement at the time, said that \"OnePlus North America continues to operate, with full guarantee of users' after-sales support, software updates, and rights commitments.\"\nIn March, 9to5Google reported that OnePlus might cease operations in global ma …\nRead the full story at The Verge.",
-          "isoDate": "2026-07-13T21:48:43.000Z"
-        },
-        {
-          "title": "A two-pack of DJI&#8217;s most capable wireless mics just got its first price cut",
-          "link": "https://www.theverge.com/gadgets/964914/dji-mic-three-bundle-deal-sale",
-          "summary": "The full DJI Mic 3 kit in its charging case.\t\n\nSmartphones these days have incredible cameras that are capable of taking smooth, sharp video, but the microphones are often lacking, to say the least. A wireless lavalier microphone can dramatically improve the audio quality of your videos, whether you’re the only one talking, or if you’re getting audio from multiple people. \nThe DJI Mic 3 is one of the best options, and it’s currently discounted to $219 (usually $259) at several retailers, including Best Buy, B&H Photo, and Amazon. The bundle includes two microphones, a receiver unit that connects to your phone or camera, a charging case, power and audio cables, and four windscreens to reduce noise while recording outside.\nDJI Mic 3\n\nWhere to Buy:\n\n $259 $219 at Amazon (Two transmitter kit)\n $259 $219 at Best Buy (Two transmitter kit)\n $259 $219 at B&H Photo (Two transmitter kit)\n\nDJI made a number of improvements to the Mic 3 over previous generations to flesh out the feature set and improve compatibility. The receiver stores 32GB of audio, up from 8GB, with support for both 24-bit and 32-bit floating points, and has a built-in screen for checking battery levels and connection status. The included magnetic clips let you easily attach the transmitters to clothing or hats.\nThere are also features that help these microphones work in less-than-ideal recording conditions. They offer two levels of noise reduction, and active gain control to reign in any unexpected loud noises. Each microphone can run for about eight hours on a single charge, with the receiver at a slightly longer ten hours. The charging case provides at least two full charges for the set.",
-          "isoDate": "2026-07-13T21:03:14.000Z"
-        },
-        {
-          "title": "The US government warns that Russia state hackers are coming after your router",
-          "link": "https://arstechnica.com/security/2026/07/the-us-government-warns-that-russia-state-hackers-are-coming-after-your-router/",
-          "summary": "With residential proxies all the rage, CISA urges router users to be vigilant.",
-          "isoDate": "2026-07-13T21:03:07.000Z"
-        },
-        {
-          "title": "The Shokz OpenRun Pro are the cheapest they’ve been since January",
-          "link": "https://www.theverge.com/gadgets/964982/shokz-openrun-pro-bone-conduction-headphones-summer-deal-sale",
-          "summary": "The Shokz OpenRun Pro are great for outdoor workouts. | Image: Shokz\t\n\nNoise-canceling earbuds are great for flights and focusing, but they're not always ideal for outdoor workouts. The last-gen Shokz OpenRun Pro's open-ear design lets you enjoy music while staying aware of approaching cars, cyclists, and other potential hazards, and right now they're on sale for $109 ($50 off) at Amazon, Walmart, and B&H Photo. That matches their all-time low price, which we haven't seen since January.\nShokz OpenRun Pro\nWhere to Buy:\n\n $159.95 $109.95 at Amazon\n $159.95 $109.99 at Walmart\n\nUnlike traditional earbuds, the OpenRun Pro rests just outside your ears and uses bone conduction to deliver sound. That means you can listen t …\nRead the full story at The Verge.",
-          "isoDate": "2026-07-13T20:57:44.000Z"
-        },
-        {
-          "title": "The Pixel colors might rule this year",
-          "link": "https://www.theverge.com/tech/964972/google-pixel-11-colors-rumor",
-          "summary": "The purported Pixel 11 in Fuchsia (Hibiscus). | Image: 9to5Google\t\n\nThis year's Google Pixel 11 lineup might come in a bunch of funky colors. A series of now-deleted Amazon listings spotted by 9to5Google show what appear to be placeholders for Google's upcoming Pixel 11 in hot pink Fuchsia (Hibiscus), vibrant green Moss (Pistachio), and Midnight (Obsidian) black. \nWe've seen two sets of names for the Pixel 11's rumored colorways so far, and, confusingly, both variations are included in the early Amazon listings, according to 9to5Google. The Pixel 11 Pro listings spotted by 9to5Google reportedly showed the device in a dusky green Pine (Olive), a frosty blue Light Fog (Fog), pastel purple Sterling (Frost), an …\nRead the full story at The Verge.",
-          "isoDate": "2026-07-13T20:52:27.000Z"
-        },
-        {
-          "title": "Apple’s public betas for iOS 27 and more are out now",
-          "link": "https://www.theverge.com/tech/964307/apple-public-betas-ios-27-siri-ai",
-          "summary": "Apple has just released public betas for iOS 27 and other major OS updates that are set to publicly launch this fall. The big new feature this year is Siri AI, the delayed AI-powered revamp to Siri. It actually works - which is big praise! - though it keeps things brief.\nOther betas available now include iPadOS 27, watchOS 27, and macOS 27 Golden Gate. If you want to test out Apple's upcoming updates, fair warning that you may run into issues like unexpected glitches or a battery that drains faster than you're used to. Use your best judgment on whether you should actually install the beta or wait to install an update until it's officially r …\nRead the full story at The Verge.",
-          "isoDate": "2026-07-13T20:45:40.000Z"
-        },
-        {
-          "title": "Siri AI makes the Apple Watch finally feel like a wrist computer",
-          "link": "https://www.theverge.com/tech/964800/watchos-27-preview-siri-ai-apple-watch-gestures-smartwatch",
-          "summary": "Siri has been on the Apple Watch since day one, though I'm usually hard-pressed to find people who actually make good use of it. It's kind of just… been there - mostly as a way to set timers when my hands are full. But after playing around with the watchOS 27 developer beta, I get the sense that'll start to change. Not for everyone, and definitely not overnight, but the upgrade from plain ol' Siri to Siri AI feels like a significant shift in how Apple - and other tech companies - think we ought to be using our smartwatches.\nTo be clear: If all you want Siri on the wrist to do is set an alarm or get the weather forecast, by golly, it's still …\nRead the full story at The Verge.",
-          "isoDate": "2026-07-13T20:44:20.000Z"
         }
       ]
     },
@@ -84,52 +84,52 @@
           "isoDate": "2026-07-14T01:04:04.000Z"
         },
         {
-          "title": "NASA Study Points to Smoother Air Taxi Rides",
-          "link": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-study-points-to-smoother-air-taxi-rides/",
-          "summary": "No one wants to get into an uncomfortable aircraft. NASA research could help the emerging industry of air taxis —small, vertical-takeoff-and-landing aircraft meant for short trips — understand the relationship between comfort and willingness to fly. That’s where NASA comes in, with data that can help identify how to plan air taxi rides that can […]",
-          "isoDate": "2026-07-13T21:46:11.000Z"
+          "title": "Bird flu H5N1 in Australia: protect Australian species from bird flu virus",
+          "link": "https://www.nature.com/articles/d41586-026-02188-y",
+          "summary": "Nature, Published online: 14 July 2026; doi:10.1038/d41586-026-02188-y\nBird flu H5N1 in Australia: protect Australian species from bird flu virus",
+          "isoDate": "2026-07-14T00:00:00.000Z"
         },
         {
-          "title": "NASA Astronaut Anil Menon",
-          "link": "https://www.nasa.gov/image-article/nasa-astronaut-anil-menon/",
-          "summary": "NASA astronaut Anil Menon poses in a spacesuit for a portrait at NASA’s Johnson Space Center in Houston, Texas on Jan. 8, 2026. Menon will launch aboard the Roscosmos Soyuz MS-29 spacecraft to the International Space Station on Tuesday, July 14, accompanied by cosmonauts Pyotr Dubrov and Anna Kikina, where they will join the Expedition […]",
-          "isoDate": "2026-07-13T15:11:16.000Z"
+          "title": "Academia should recognize community partnerships as having societal impact",
+          "link": "https://www.nature.com/articles/d41586-026-02190-4",
+          "summary": "Nature, Published online: 14 July 2026; doi:10.1038/d41586-026-02190-4\nAcademia should recognize community partnerships as having societal impact",
+          "isoDate": "2026-07-14T00:00:00.000Z"
         },
         {
-          "title": "NASA’s Hubble Discovers First of Star Cluster’s Missing Black Holes",
-          "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-discovers-first-of-star-clusters-missing-black-holes/",
-          "summary": "Astronomers using archival data from Hubble and supportive observations from Webb have located their first stellar-mass black hole in the star cluster Omega Centauri.",
-          "isoDate": "2026-07-13T14:00:00.000Z"
+          "title": "The Enhanced Games and the normalization of doping: a public health concern",
+          "link": "https://www.nature.com/articles/d41586-026-02189-x",
+          "summary": "Nature, Published online: 14 July 2026; doi:10.1038/d41586-026-02189-x\nThe Enhanced Games and the normalization of doping: a public health concern",
+          "isoDate": "2026-07-14T00:00:00.000Z"
         },
         {
-          "title": "Wild, Scenic, and Increasingly Rusty",
-          "link": "https://science.nasa.gov/earth/earth-observatory/wild-scenic-and-increasingly-rusty/",
-          "summary": "Orange streams are now being spotted in hundreds of watersheds in permafrost areas throughout Alaska’s Brooks Range.",
-          "isoDate": "2026-07-13T04:01:00.000Z"
+          "title": "AI models: one country’s fears become everyone’s constraint",
+          "link": "https://www.nature.com/articles/d41586-026-02187-z",
+          "summary": "Nature, Published online: 14 July 2026; doi:10.1038/d41586-026-02187-z\nAI models: one country’s fears become everyone’s constraint",
+          "isoDate": "2026-07-14T00:00:00.000Z"
         },
         {
-          "title": "Perovskite–organic tandem solar cells with a photo-transformable stabilizer",
-          "link": "https://www.nature.com/articles/s41586-026-10869-x",
-          "summary": "Nature, Published online: 13 July 2026; doi:10.1038/s41586-026-10869-x\nPerovskite–organic tandem solar cells with a photo-transformable stabilizer",
-          "isoDate": "2026-07-13T00:00:00.000Z"
+          "title": "How the calendar came to be",
+          "link": "https://www.nature.com/articles/d41586-026-02102-6",
+          "summary": "Nature, Published online: 14 July 2026; doi:10.1038/d41586-026-02102-6\nThe development of time-keeping, and a book that brings an immune cell back in vogue, in this week’s pick from the Nature archive.",
+          "isoDate": "2026-07-14T00:00:00.000Z"
         },
         {
-          "title": "Author Correction: OR7A10 GPCR engineering boosts CAR-NK therapy against solid tumours",
-          "link": "https://www.nature.com/articles/s41586-026-10855-3",
-          "summary": "Nature, Published online: 13 July 2026; doi:10.1038/s41586-026-10855-3\nAuthor Correction: OR7A10 GPCR engineering boosts CAR-NK therapy against solid tumours",
-          "isoDate": "2026-07-13T00:00:00.000Z"
+          "title": "Seeking an industry role after your PhD? Make sure your CV reflects that",
+          "link": "https://www.nature.com/articles/d41586-026-01855-4",
+          "summary": "Nature, Published online: 14 July 2026; doi:10.1038/d41586-026-01855-4\nA doctorate can open many doors. A CV tailored to your planned career path can help to unlock them.",
+          "isoDate": "2026-07-14T00:00:00.000Z"
         },
         {
-          "title": "Tall and small trees are equally vulnerable to drought",
-          "link": "https://www.nature.com/articles/d41586-026-02121-3",
-          "summary": "Nature, Published online: 13 July 2026; doi:10.1038/d41586-026-02121-3\nThe water-transport system of tropical giants called dipterocarps has evolved to defy the effects of gravity and resist water stress.",
-          "isoDate": "2026-07-13T00:00:00.000Z"
+          "title": "Africa’s response to this Ebola outbreak shows how to shape global health",
+          "link": "https://www.nature.com/articles/d41586-026-02148-6",
+          "summary": "Nature, Published online: 14 July 2026; doi:10.1038/d41586-026-02148-6\nCountries elsewhere must learn from the continent’s example and combat disease outbreaks by working together, not by closing borders.",
+          "isoDate": "2026-07-14T00:00:00.000Z"
         },
         {
-          "title": "Rights for rivers and ice cream for all: top reads for the summer holidays",
-          "link": "https://www.nature.com/articles/d41586-026-02152-w",
-          "summary": "Nature, Published online: 13 July 2026; doi:10.1038/d41586-026-02152-w\nTen Nature contributors share their current book obsessions.",
-          "isoDate": "2026-07-13T00:00:00.000Z"
+          "title": "DNA-shredding CRISPR enzyme takes aim at cancer cells",
+          "link": "https://www.nature.com/articles/d41586-026-02122-2",
+          "summary": "Nature, Published online: 14 July 2026; doi:10.1038/d41586-026-02122-2\nA bacterial self-destruct mechanism has been repurposed as a potential therapy, selectively eliminating diseased cells — including tumour cells in mouse models of cancer.",
+          "isoDate": "2026-07-14T00:00:00.000Z"
         }
       ]
     },
@@ -141,13 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 69\nColumn: 41\nChar: &",
-          "isoDate": "2026-07-14T08:02:53.651Z"
-        },
-        {
-          "title": "Is tracking your food purchases good for your health?",
-          "link": "https://www.bbc.co.uk/news/articles/cy8wlplellvo?at_medium=RSS&at_campaign=rss",
-          "summary": "Food tracking apps are popular, but are they a good way to make us eat a healthier diet?",
-          "isoDate": "2026-07-13T23:04:58.000Z"
+          "isoDate": "2026-07-14T13:41:17.881Z"
         },
         {
           "title": "10 years of Pokémon Go and the millions still trying to catch 'em all",
@@ -196,6 +190,12 @@
           "link": "https://www.bbc.co.uk/news/articles/cj6g41pzy41o?at_medium=RSS&at_campaign=rss",
           "summary": "The ASA says adverts claiming small devices can rapidly cool rooms were too good to be true.",
           "isoDate": "2026-07-10T01:33:45.000Z"
+        },
+        {
+          "title": "Pressure builds on Europe's biggest port to be greener",
+          "link": "https://www.bbc.co.uk/news/articles/c39y78rwrmno?at_medium=RSS&at_campaign=rss",
+          "summary": "A lawsuit demands that the Port of Rotterdam moves faster to cut its dependence on fossil fuel firms.",
+          "isoDate": "2026-07-09T23:00:51.000Z"
         }
       ]
     },
@@ -203,6 +203,18 @@
       "header": "160  INTELIGENCIA ARTIFICIAL",
       "maxItems": 10,
       "items": [
+        {
+          "title": "How data science teams use ChatGPT Work",
+          "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+          "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+          "isoDate": "2026-07-14T00:00:00.000Z"
+        },
+        {
+          "title": "How sales teams use ChatGPT Work",
+          "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+          "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+          "isoDate": "2026-07-14T00:00:00.000Z"
+        },
         {
           "title": "How MIT students are helping to prevent cyberattacks",
           "link": "https://news.mit.edu/2026/mit-cybersecurity-clinic-preventing-cyberattacks-0713",
@@ -250,18 +262,6 @@
           "link": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
           "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
           "isoDate": "2026-07-09T13:00:00.000Z"
-        },
-        {
-          "title": "GPT-5.5 Bio Bug Bounty",
-          "link": "https://openai.com/index/bio-bug-bounty",
-          "summary": "Details about the OpenAI Bio Bounty program",
-          "isoDate": "2026-07-09T10:00:00.000Z"
-        },
-        {
-          "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-          "link": "https://openai.com/index/gpt-5-6",
-          "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
-          "isoDate": "2026-07-09T10:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 84\nColumn: 559\nChar:  ",
-          "isoDate": "2026-07-14T08:02:56.321Z"
+          "isoDate": "2026-07-14T13:41:20.678Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-07-14T08:02:55.220Z"
+          "isoDate": "2026-07-14T13:41:19.479Z"
         },
         {
           "title": "Panasonic’s PV-460 Camcorder Stabilized Shaky Videos",
