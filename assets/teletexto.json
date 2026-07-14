@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T02:26:48.181Z",
+  "generatedAt": "2026-07-14T08:02:56.857Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
@@ -72,6 +72,12 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "Fans of the Arctic",
+          "link": "https://science.nasa.gov/earth/earth-observatory/fans-of-the-arctic/",
+          "summary": "Sediment eroded from ice-capped mountains splays out across a broad river valley on Russia’s Severny Island.",
+          "isoDate": "2026-07-14T04:01:00.000Z"
+        },
+        {
           "title": "Curiosity Blog, Sols 4941-4947: (Pin)Stripes on the Fourth of July",
           "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4941-4947-pinstripes-on-the-fourth-of-july/",
           "summary": "Written by Deborah Padgett, MSL Operations Product Ground System Task Lead at NASA’s Jet Propulsion Laboratory Earth planning date: Thursday, July 2, 2026 Curiosity spent the week leading up to the Fourth of July holiday approaching a geologic boundary between a very smooth but somewhat sandy region and a rougher bedrock unit.  Leaving the polygonal […]",
@@ -124,12 +130,6 @@
           "link": "https://www.nature.com/articles/d41586-026-02152-w",
           "summary": "Nature, Published online: 13 July 2026; doi:10.1038/d41586-026-02152-w\nTen Nature contributors share their current book obsessions.",
           "isoDate": "2026-07-13T00:00:00.000Z"
-        },
-        {
-          "title": "How voluntary work can boost your career in science",
-          "link": "https://www.nature.com/articles/d41586-026-01339-5",
-          "summary": "Nature, Published online: 13 July 2026; doi:10.1038/d41586-026-01339-5\nSupporting charities can bring career benefits and provide valuable social connections.",
-          "isoDate": "2026-07-13T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 69\nColumn: 41\nChar: &",
-          "isoDate": "2026-07-14T02:26:45.399Z"
+          "isoDate": "2026-07-14T08:02:53.651Z"
         },
         {
           "title": "Is tracking your food purchases good for your health?",
@@ -216,6 +216,12 @@
           "isoDate": "2026-07-13T18:50:00.000Z"
         },
         {
+          "title": "Empowering India’s next generation of innovators with ATL Saathi",
+          "link": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+          "summary": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
+          "isoDate": "2026-07-13T12:37:28.000Z"
+        },
+        {
           "title": "New method aims to keep kids safe from illegal AI-generated content",
           "link": "https://news.mit.edu/2026/new-method-keeps-kids-safe-from-illegal-ai-generated-content-0713",
           "summary": "Researchers developed an auditing technique to test generative AI models for malicious capabilities, without prompting them for illegal outputs.",
@@ -256,12 +262,6 @@
           "link": "https://openai.com/index/gpt-5-6",
           "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
           "isoDate": "2026-07-09T10:00:00.000Z"
-        },
-        {
-          "title": "ChatGPT is now a partner for your most ambitious work",
-          "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-          "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
-          "isoDate": "2026-07-09T10:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 84\nColumn: 559\nChar:  ",
-          "isoDate": "2026-07-14T02:26:47.456Z"
+          "isoDate": "2026-07-14T08:02:56.321Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-07-14T02:26:46.829Z"
+          "isoDate": "2026-07-14T08:02:55.220Z"
         },
         {
           "title": "Panasonic’s PV-460 Camcorder Stabilized Shaky Videos",
