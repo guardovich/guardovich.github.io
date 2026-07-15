@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-07-15T02:24:28.561Z",
+  "generatedAt": "2026-07-15T08:08:12.023Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Starlink’s V5 dish is now available — here’s how it compares",
+          "link": "https://www.theverge.com/science/965824/starlink-v5-vs-v4-dish-comparison",
+          "summary": "The smaller Starlink V5 (right) next to the larger V4 dish. | Image: SpaceX\t\n\nSpaceX's latest residential dish - the Starlink V5 - is now available in \"select areas.\" It's notably smaller and lighter than the V4 dish with improved power efficiency. It'll be available in more places as SpaceX ramps up production to meet global demand. The company notes that Starlink V5 is not intended for in-motion use - for that you'll have to wait for the revamped Starlink Mini teased alongside the V5 last month.\n\n\nThe next generation Starlink Kit is designed to deliver reliable, high-speed home internet. Starlink V5 has a smaller form factor and lightweight design with greater power efficiency than the Starlink V4.\nWith speeds up to  …\n\n\nRead the full story at The Verge.",
+          "isoDate": "2026-07-15T07:17:27.000Z"
+        },
+        {
+          "title": "Google and Epic give up fighting — third-party Android app stores are coming next week",
+          "link": "https://www.theverge.com/policy/965792/google-epic-withdraw-injunction-third-party-app-stores-coming-google-play",
+          "summary": "Epic Games and Google have just jointly withdrawn their attempt to retroactively settle the lawsuit that's changing how Android app stores work in the United States - and that means Google will be forced to carry rival app stores inside of its own. In fact, Google tells the court, it's ready to begin carrying third-party app stores on Wednesday, July 22nd. Does that mean it's time for Microsoft to launch an Xbox game store on Android?\nIn October 2024, Judge James Donato originally agreed that forcing Google to carry rival Android app stores within its own Google Play store for several years, and forcing it to share its own entire catalog of …\nRead the full story at The Verge.",
+          "isoDate": "2026-07-15T03:28:53.000Z"
+        },
         {
           "title": "Nothing’s good-looking Watch 3 Pro smartwatch is just $69",
           "link": "https://www.theverge.com/gadgets/965565/cmf-nothing-watch-3-pro-smartwatch-ios-android-deal-sale",
@@ -24,9 +36,9 @@
           "isoDate": "2026-07-14T22:09:31.000Z"
         },
         {
-          "title": "Windows 11&#8217;s big patch Tuesday allows you to hold off on updates for longer",
+          "title": "Microsoft’s biggest ever patch Tuesday lets you hold off updating for longer",
           "link": "https://www.theverge.com/tech/965643/microsoft-windows-11-july-2026-patch-tuesday-updates",
-          "summary": "Microsoft just released a long list of improvements for Windows 11 as part of its bigger patch Tuesdays, and that includes the ability to pause updates indefinitely, as reported earlier by Windows Central. This option rolled out to Windows Insiders earlier this year, allowing you to hold off on updates for up to 35 days and repeatedly extend the deadline after that.\nIt comes as part of Microsoft's plan to revitalize Windows 11 with updates focused on addressing user complaints and improving performance. Microsoft patched a bunch of security issues with this update as well, which the company said we can expect to see more of in future releas …\nRead the full story at The Verge.",
+          "summary": "Microsoft just released a long list of improvements for Windows 11 as part of its bigger patch Tuesdays, patching at least 570 security holes, almost triple the number fixed in last month's record-breaking release, according to Krebs on Security. It also includes the ability to pause updates indefinitely, as reported earlier by Windows Central. This option rolled out to Windows Insiders earlier this year, allowing you to hold off on updates for up to 35 days and repeatedly extend the deadline after that.\nIt comes as part of Microsoft's plan to revitalize Windows 11 with updates focused on addressing user complaints and improving performance …\nRead the full story at The Verge.",
           "isoDate": "2026-07-14T21:32:04.000Z"
         },
         {
@@ -52,18 +64,6 @@
           "link": "https://arstechnica.com/health/2026/07/taco-bell-eyed-in-explosive-diarrheal-outbreak-leafy-greens-suspected/",
           "summary": "Federal officials have not confirmed a source yet—and there may be multiple sources.",
           "isoDate": "2026-07-14T19:00:02.000Z"
-        },
-        {
-          "title": "US military sent explosive drone boats into combat for the first time",
-          "link": "https://arstechnica.com/ai/2026/07/us-military-sent-explosive-drone-boats-into-combat-for-the-first-time/",
-          "summary": "US military’s drone boats struck an Iranian naval port as war heats up again.",
-          "isoDate": "2026-07-14T18:00:01.000Z"
-        },
-        {
-          "title": "Philips Hue&#8217;s budget-friendly Essential starter kit has hit a new low price",
-          "link": "https://www.theverge.com/gadgets/965476/philips-hue-essential-starter-kit-hue-bridge-deal-sale",
-          "summary": "You can buy four bulbs and a Hue Bridge for just $80. | Image: Philips Hue\t\n\nAlthough most of Prime Day’s unusually good Philips Hue deals have ended, a few remain, and some, including the black Philips Hue Twilight Sleep and Wake-Up Light, are even cheaper. None, however, have fallen to a new all-time low price like Philips Hue’s Essential starter kit. Right now, you can buy a bundle containing four white and color E26 bulbs and a Hue Bridge for $79.99 ($40 off) at Amazon. Since that’s the same price as the two-bulb Essential starter kit, it’s like getting two bulbs for free.\nPhilips Hue Essential starter kit,\n\nWhere to Buy:\n\n $119.99 $79.99 at Amazon (four-pack)\n $119.99 at Philips Hue (four-pack)\n\nEach of the color-changing bulbs can display millions of colors or tunable white light ranging from a warm 2200K to a cooler 6500K, while producing up to 800 lumens of brightness. The Hue app also offers a preset lighting scenes for everything from movie nights to the holidays, though you can also create your own. Meanwhile, the included Hue Bridge lets you control the lights when you’re away from home, create schedules, connect up to 50 lights throughout your home, and set automations so they can, for instance, turn on automatically when you arrive home. It also allows you to control the lights through all the major smart home platforms, thanks to Matter compatibility.\nAs Philips Hue budget-friendly kits, there are a few premium features they lack that are worth mentioning. Most notably, the bulbs only dim to two percent instead of 0.2 percent. Philips Hue also doesn’t guarantee they’ll match the color accuracy of its flagship bulbs across generations. If you’re simply looking to fill your home with colorful smart lighting at a reasonable price, though, those differences may not matter much to you.",
-          "isoDate": "2026-07-14T17:36:05.000Z"
         }
       ]
     },
@@ -75,7 +75,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
           "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-07-15T02:24:24.785Z"
+          "isoDate": "2026-07-15T08:08:05.834Z"
         },
         {
           "title": "Bird flu H5N1 in Australia: protect Australian species from bird flu virus",
@@ -141,13 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 69\nColumn: 41\nChar: &",
-          "isoDate": "2026-07-15T02:24:25.726Z"
-        },
-        {
-          "title": "Midnight social media curfew proposed for older UK teens",
-          "link": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss",
-          "summary": "Teens will be able to opt out of the restrictions - campaigners have criticised them as being piecemeal.",
-          "isoDate": "2026-07-14T23:17:23.000Z"
+          "isoDate": "2026-07-15T08:08:06.394Z"
         },
         {
           "title": "Tech Life",
@@ -196,6 +190,12 @@
           "link": "https://www.bbc.co.uk/news/articles/c9q2rznjqwwo?at_medium=RSS&at_campaign=rss",
           "summary": "Ofcom says more than half of UK adults have encountered potentially fraudulent ads online.",
           "isoDate": "2026-07-10T09:59:19.000Z"
+        },
+        {
+          "title": "'Cool in 90 seconds' - the fake portable air conditioners sweeping the internet",
+          "link": "https://www.bbc.co.uk/news/articles/cj6g41pzy41o?at_medium=RSS&at_campaign=rss",
+          "summary": "The ASA says adverts claiming small devices can rapidly cool rooms were too good to be true.",
+          "isoDate": "2026-07-10T01:33:45.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-07-15T02:24:28.023Z"
+          "isoDate": "2026-07-15T08:08:11.008Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-07-15T02:24:27.085Z"
+          "isoDate": "2026-07-15T08:08:08.628Z"
         },
         {
           "title": "How I Turned AI to the Dark Side",
