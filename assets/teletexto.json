@@ -1,10 +1,58 @@
 {
-  "generatedAt": "2026-07-14T19:18:27.266Z",
+  "generatedAt": "2026-07-15T02:24:28.561Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Nothing’s good-looking Watch 3 Pro smartwatch is just $69",
+          "link": "https://www.theverge.com/gadgets/965565/cmf-nothing-watch-3-pro-smartwatch-ios-android-deal-sale",
+          "summary": "The CMF by Nothing Watch 3 Pro comes in four different styles. | Image: Nothing\t\n\nWhile most fitness trackers are losing the screens to keep the price low, the CMF by Nothing Watch 3 Pro is a bit different. The budget-friendly smartwatch with a 1.43-inch OLED display is even cheaper than usual at Amazon, where it costs $69 in every color (the price fluctuates between $79 and $99). Some notable specs include compatibility with iOS and Android, and long battery life of up to 13 days on a single charge. It’s great for workouts (with accurate, dual-band GPS, IP68 protection, and a heart rate sensor), but stylish enough to wear out to dinner. It currently costs $20 less than the screenless Google Fitbit Air.\nCMF Watch 3 Pro\nNothing’s slick-looking budget watch features a 1.43-inch OLED display, 131 sports modes, dual-band GPS, and a four-channel heart rate sensor. It also delivers up to 13 days of battery life under normal use and supports all your typical app integrations (Strava, Apple Health, etc.).\n\nWhere to Buy:\n\n $79 $69 at Amazon\n\nI’ve had trouble sticking with smartwatches in the past, but I picked up a Watch 3 Pro during a similar sale a few months ago, and I often reach for it over my beloved Casio GA-2100. It helps that I rarely have to worry about keeping it charged thanks to its impressive battery life. Even with the always-on display enabled, I can usually wear the Watch 3 Pro for two or three days of constant use before I have to charge it.\nThe Watch 3 Pro has a big, eye-catching face, and is available in four different colors, each with their own bezel shape, detailing, and color-coordinated strap. The Nothing X app has a ton of different face options to choose from, with some that are heavy on complications, and others that focus on fun and style. I have the light green model and I’ve gotten quite a few compliments, although I also like the orange model for a more fitness-focused look. It’s a little large, which is my preference for watches anyway, but it does make it a little uncomfortable for sleep tracking.\nIf $69 is a little too much, consider the CMF by Nothing Watch Pro 2, which is currently $39 (usually $55) at Amazon. The newer model has upgraded GPS, a more accurate heart rate monitor, longer battery life, and a slightly larger screen. But the older version uses the same app, and has swappable bezels to customize the look.",
+          "isoDate": "2026-07-14T22:24:26.000Z"
+        },
+        {
+          "title": "Microsoft’s Secure Boot has been broken for a decade and no one noticed until now",
+          "link": "https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence/",
+          "summary": "Old and forgotten \"shims\" Microsoft failed to revoke have made Secure Boot bypasses simple.",
+          "isoDate": "2026-07-14T22:20:48.000Z"
+        },
+        {
+          "title": "Trump admin puts Americans in Congo on \"do-not-board\" list, barring return",
+          "link": "https://arstechnica.com/health/2026/07/americans-in-congo-barred-from-returning-home-amid-ebola-outbreak/",
+          "summary": "Citizens must now spend 21 days in a third country before they are allowed to come home.",
+          "isoDate": "2026-07-14T22:09:31.000Z"
+        },
+        {
+          "title": "Windows 11&#8217;s big patch Tuesday allows you to hold off on updates for longer",
+          "link": "https://www.theverge.com/tech/965643/microsoft-windows-11-july-2026-patch-tuesday-updates",
+          "summary": "Microsoft just released a long list of improvements for Windows 11 as part of its bigger patch Tuesdays, and that includes the ability to pause updates indefinitely, as reported earlier by Windows Central. This option rolled out to Windows Insiders earlier this year, allowing you to hold off on updates for up to 35 days and repeatedly extend the deadline after that.\nIt comes as part of Microsoft's plan to revitalize Windows 11 with updates focused on addressing user complaints and improving performance. Microsoft patched a bunch of security issues with this update as well, which the company said we can expect to see more of in future releas …\nRead the full story at The Verge.",
+          "isoDate": "2026-07-14T21:32:04.000Z"
+        },
+        {
+          "title": "OpenAI may announce a ChatGPT smart speaker this year",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
+          "summary": "OpenAI's first device is set to be a smart speaker that lets you talk with ChatGPT, according to a report from Bloomberg. The device apparently won't have a screen, but will use a camera and additional sensors to \"understand\" your environment.\nThe report comes just days after Apple filed a lawsuit against OpenAI that accused the AI company of stealing hardware secrets. OpenAI, in a new statement on Tuesday, said that it is \"not aware of any evidence that this complaint has merit.\"\nSources tell Bloomberg that OpenAI's device will also feature a rechargeable battery that will allow users to carry it with them. It will offer smart home contro …\nRead the full story at The Verge.",
+          "isoDate": "2026-07-14T21:26:32.000Z"
+        },
+        {
+          "title": "Lawsuit claims Meta's layoff decisions were made by AI, not humans",
+          "link": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/",
+          "summary": "Meta denies using AI to terminate workers with disabilities and medical problems.",
+          "isoDate": "2026-07-14T20:05:53.000Z"
+        },
+        {
+          "title": "SpaceXAI&#8217;s Grok programming tool was uploading its users&#8217; entire codebase to cloud storage",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
+          "summary": "SpaceXAI's Grok Build AI coding tool was spotted uploading users' entire codebases to Google Cloud before it was reported, and the company turned it off. The Register reports that Cereblab published findings on Monday showing how the Grok Build CLI was packaging and uploading entire code repositories, \"including files it was told not to open and secrets deleted from history,\" significantly more data retention than similar tools like Claude Code.\nThe researchers say that as of Monday, their tests show SpaceXAI's servers returning a \"disable_codebase_upload: true\" flag, and the codebase upload \"no longer fires.\" \nElon Musk responded to the i …\nRead the full story at The Verge.",
+          "isoDate": "2026-07-14T19:25:00.000Z"
+        },
+        {
+          "title": "Probe into explosive diarrheal cases points to Taco Bell and bad lettuce",
+          "link": "https://arstechnica.com/health/2026/07/taco-bell-eyed-in-explosive-diarrheal-outbreak-leafy-greens-suspected/",
+          "summary": "Federal officials have not confirmed a source yet—and there may be multiple sources.",
+          "isoDate": "2026-07-14T19:00:02.000Z"
+        },
         {
           "title": "US military sent explosive drone boats into combat for the first time",
           "link": "https://arstechnica.com/ai/2026/07/us-military-sent-explosive-drone-boats-into-combat-for-the-first-time/",
@@ -16,54 +64,6 @@
           "link": "https://www.theverge.com/gadgets/965476/philips-hue-essential-starter-kit-hue-bridge-deal-sale",
           "summary": "You can buy four bulbs and a Hue Bridge for just $80. | Image: Philips Hue\t\n\nAlthough most of Prime Day’s unusually good Philips Hue deals have ended, a few remain, and some, including the black Philips Hue Twilight Sleep and Wake-Up Light, are even cheaper. None, however, have fallen to a new all-time low price like Philips Hue’s Essential starter kit. Right now, you can buy a bundle containing four white and color E26 bulbs and a Hue Bridge for $79.99 ($40 off) at Amazon. Since that’s the same price as the two-bulb Essential starter kit, it’s like getting two bulbs for free.\nPhilips Hue Essential starter kit,\n\nWhere to Buy:\n\n $119.99 $79.99 at Amazon (four-pack)\n $119.99 at Philips Hue (four-pack)\n\nEach of the color-changing bulbs can display millions of colors or tunable white light ranging from a warm 2200K to a cooler 6500K, while producing up to 800 lumens of brightness. The Hue app also offers a preset lighting scenes for everything from movie nights to the holidays, though you can also create your own. Meanwhile, the included Hue Bridge lets you control the lights when you’re away from home, create schedules, connect up to 50 lights throughout your home, and set automations so they can, for instance, turn on automatically when you arrive home. It also allows you to control the lights through all the major smart home platforms, thanks to Matter compatibility.\nAs Philips Hue budget-friendly kits, there are a few premium features they lack that are worth mentioning. Most notably, the bulbs only dim to two percent instead of 0.2 percent. Philips Hue also doesn’t guarantee they’ll match the color accuracy of its flagship bulbs across generations. If you’re simply looking to fill your home with colorful smart lighting at a reasonable price, though, those differences may not matter much to you.",
           "isoDate": "2026-07-14T17:36:05.000Z"
-        },
-        {
-          "title": "These painted e-tattoos could be the future of wearable biosensors",
-          "link": "https://arstechnica.com/science/2026/07/these-painted-e-tattoos-could-be-the-future-of-wearable-biosensors/",
-          "summary": "Conductive ink is painted directly onto the skin in colorful custom designs, drying into working electrodes.",
-          "isoDate": "2026-07-14T17:31:58.000Z"
-        },
-        {
-          "title": "Plex problems prevented users from streaming movies and shows",
-          "link": "https://www.theverge.com/tech/965518/plex-tv-down-outage-issues",
-          "summary": "Plex services experienced some major issues on Tuesday, with multiple users reporting problems on Plex's forums and on Reddit. Many people use Plex as a way to stream shows and movies they host locally, but users are upset because today's problems were reportedly affecting their ability to do that.\n\"Basically all Plex is down unless you can play locally over LAN and even that takes ages and doesn't always work,\" said one user. Others reported problems with matching content on their servers. For me, the Plex TV website was loading slowly, though while initially writing this story, it started to load more reliably.\nPlex had confirmed issues, …\nRead the full story at The Verge.",
-          "isoDate": "2026-07-14T17:23:25.000Z"
-        },
-        {
-          "title": "Nintendo’s Switch 2 bundle that includes a game is $50 off",
-          "link": "https://www.theverge.com/gadgets/965490/nintendo-switch-2-choose-your-game-bundle-deal-sale",
-          "summary": "Discounts on the Nintendo Switch 2 are rare, but they do happen on occasion. There’s one happening now, actually, on the company’s $499.99 console bundle that includes a digital game (Mario Kart World, Donkey Kong Bananza, or Pokémon Pokopia). Usually, the bundle saves you $20 or $30, depending on the game you choose, but for $449.99 at Amazon (discount reflected at checkout), Nintendo is effectively giving you a game for free.\nNintendo Switch 2 “Choose Your Game” bundle\n\nWhere to Buy:\n\n $529.99 $449.99 at Amazon\n\nIf you’re considering grabbing a Switch 2, I highly recommend doing so now. The biggest motivator (aside from its great selection of new games and near-complete compatibility with original Switch games) is that the console will get a price hike in September, going from $449.99 to $499.99. Also, it’s not clear if it will continue to include a discounted game with purchase at that point. So, you’re getting more value at $449.99 here than ever before.",
-          "isoDate": "2026-07-14T17:20:34.000Z"
-        },
-        {
-          "title": "Meta accused of using biased AI targeting for mass layoffs",
-          "link": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs",
-          "summary": "A group of 26 former Meta employees is suing the company over claims that it used AI tools to unfairly target workers on leave with layoffs, as reported earlier by Reuters. In the lawsuit, the employees allege Meta determined which workers to dismiss based on performance data collected by a \"constellation\" of internal AI tools, but failed to exclude those on parental or medical leave from its ranking system:\nThe result was that employees who took protected leaves were disproportionately selected for layoff, based on scoring that not only failed to account for their protected leaves, but in effect penalized the employees for exercising thei …\n\nRead the full story at The Verge.",
-          "isoDate": "2026-07-14T17:18:11.000Z"
-        },
-        {
-          "title": "Boston Dynamics tries using &#8216;robot dogs&#8217; for deliveries",
-          "link": "https://www.theverge.com/tech/965378/boston-dynamics-spot-robot-dog-delivery-assistant",
-          "summary": "See Spot carry. | ﻿Image: Boston Dynamics\t\n\nBoston Dynamics' robotic quadruped Spot has already found work doing routine factory inspections and patrolling the ruins of Pompeii, but what about deliveries? The company is testing a new conveyor belt accessory  that allows Spot to carry packages from a vehicle and autonomously unload them on a customer's doorstep in an effort to reduce a delivery driver's workload.\nWhile attempts have already been made to expedite and automate deliveries using wheeled robots or aerial drones, humans are still the most efficient way to navigate obstacles like stairs or cluttered pathways in order to get packages from a truck to a doorstep. A demo video s …\nRead the full story at The Verge.",
-          "isoDate": "2026-07-14T16:52:47.000Z"
-        },
-        {
-          "title": "Sony delays its new PS5 fight stick",
-          "link": "https://www.theverge.com/games/965457/sony-playstation-flexstrike-wireless-fight-stick-delay",
-          "summary": "Sony is delaying the launch of its FlexStrike fight stick controller for PS5 and PC, which had been set to launch on August 6th, to an unspecified date in the future. The company blames the delayed launch on \"unexpected production delays.\" The original planned launch of the FlexStrike would have lined up with the release date of Marvel Tōkon: Fighting Souls, a Marvel-themed fighting game developed by Arc System Works that PlayStation is publishing.\n\"We wanted to share an update on the launch timing for FlexStrike wireless fight stick,\" Sony says in an update to a PlayStation blog post about the controller and other accessories. \"Due to unex …\nRead the full story at The Verge.",
-          "isoDate": "2026-07-14T16:47:49.000Z"
-        },
-        {
-          "title": "Nomad&#8217;s high-end phone accessories are up to 30 percent off",
-          "link": "https://www.theverge.com/gadgets/965108/nomad-magsafe-charger-tracker-samsung-galaxy-buds-3-fe-deal-sale",
-          "summary": "The Nomad Stand One can charge your iPhone and AirPods at the same time.\t\n\nPremium phone accessory maker Nomad is celebrating its anniversary with discounts on its entire catalog of products. The sale will knocks off up to thirty percent off usual prices and will run through July 20th. We found some particularly good deals from the sale we’d like to draw your attention to.\nIts Leather Mag Wallet has built-in Find My tracking for Apple users, and is $89 (usually $99) in brown and black, or $99 (usually $109) for the limited edition “olde dublin” color scheme. If you’re looking for a card-sized tracker, its Find My-compatible tracking card is $41 (usually $45) in black, white, or orange. The Stand One can wirelessly charge your Qi2-enabled iPhone and AirPods, and is discounted to $103 (usually $129) for silver and carbide, or $111 (usually $139) for the orange model. Its unique Stratos band for Apple Watch that combines titanium and rubber is twenty percent off, bringing the price down to $167 from $209.\nNomad Leather Mag Wallet\n \n\nWhere to Buy:\n\n $99 $89 at Nomad (rustic brown)\n $99 $89 at Nomad (black)\n $109 $98 at Nomad (olde dublin)\n\nNomad Stand One\n\nWhere to Buy:\n\n $129 $103 at Nomad (silver)\n $129 $103 at Nomad (carbide)\n $139 $111 at Nomad (stellar orange)\n\nNomad Tracking Card Pro\n\nWhere to Buy:\n\n $45 $41 at Nomad (black)\n $45 $41 at Nomad (white)\n $45 $41 at Nomad (stellar orange)\n\nNomad Stratos Band\n\nWhere to Buy:\n\n $199 $159 at Nomad\n\nMore deals to consider\nCostco members can grab the Ninja Creami Deluxe with three 24oz containers for $149.99, a $40 discount from the usual price at other retailers. The countertop ice cream maker is popular thanks to its versatility and ease of use, with a huge community that shares recipes for both healthy and indulgent frozen treats. By freezing your ingredients ahead of time, you can have freshly made ice cream or frozen yogurt in just a few minutes. The Deluxe version supports the larger 24oz containers, and has more modes than the regular Creami that’s $50 more at Amazon.\nThe Samsung Galaxy Buds 3 FE are discounted to $89.99 in gray at Amazon, the lowest price we’ve seen yet. The budget-friendly wireless earbuds have active noise-canceling and transparency modes, quick access to Gemini or Galaxy AI, and instant pairing with Samsung Galaxy phones. Samsung claims the Buds 3 FE will run for up to six hours on a single charge with ANC on, or 8.5 hours with ANC off, with enough juice in the charging case for up to 30 total hours.\nThe Nothing Phone 3 is back down to its all-time low price at Amazon. The model with 256GB of storage and 12GB of memory is selling for $599 in white and black, while the upgraded model with 512GB of storage and 16GB of memory is selling for $699 (usually $899) in white and black. This unique phone stands out with its eye-catching aesthetic and impressive battery life, but the camera and the performance fall a bit short of other flagships that released around the same time like the Samsung Galaxy S25. Read our review.",
-          "isoDate": "2026-07-14T16:46:27.000Z"
-        },
-        {
-          "title": "Google revamps image search for its 25th anniversary with more images and more AI",
-          "link": "https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/",
-          "summary": "The new Google image search will use your \"unique interests\" to create an always-updated gallery.",
-          "isoDate": "2026-07-14T16:28:14.000Z"
         }
       ]
     },
@@ -72,40 +72,10 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "NASA Astronaut Anil Menon, Crewmates Arrive at Space Station",
-          "link": "https://www.nasa.gov/news-release/nasa-astronaut-anil-menon-crewmates-arrive-at-space-station/",
-          "summary": "NASA astronaut Anil Menon, along with Roscosmos cosmonauts Pyotr Dubrov and Anna Kikina, arrived safely at the International Space Station Tuesday, bringing the orbiting laboratory’s crew to 10 for about the next two weeks. The trio launched aboard the Soyuz MS-29 spacecraft at 10:47 a.m. EDT (7:47 p.m. local time) from the Baikonur Cosmodrome in […]",
-          "isoDate": "2026-07-14T18:26:02.000Z"
-        },
-        {
-          "title": "Hubble Sees Crimson Cloud and Stars",
-          "link": "https://www.nasa.gov/image-article/hubble-sees-crimson-cloud-and-stars/",
-          "summary": "Blue and white stars shine brilliantly against a crimson background of glowing gas in this July 3, 2026, image of stellar nursery LH 95 from NASA’s Hubble Space Telescope. LH 95 is a region in the Large Magellanic Cloud, a dwarf galaxy that orbits the Milky Way. Low-mass infant stars live alongside massive blue giant stars in […]",
-          "isoDate": "2026-07-14T18:06:33.000Z"
-        },
-        {
-          "title": "NASA Jets Turn Red, White, and Blue",
-          "link": "https://www.nasa.gov/image-article/nasa-jets-turn-red-white-and-blue/",
-          "summary": "In honor of America’s 250th birthday, two of NASA’s most iconic aircraft got a fresh coat of red, white, and blue paint ahead of a flyover in Washington on July 4, 2026, with other NASA aircraft.   An F-15 and an F/A-18 from NASA’s Armstrong Flight Research Center in Edwards, California, recently were repainted in […]",
-          "isoDate": "2026-07-14T17:13:53.000Z"
-        },
-        {
-          "title": "NASA’s Roman Telescope Will Spot Distant Black Holes That Shred Stars",
-          "link": "https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-telescope-will-spot-distant-black-holes-that-shred-stars/",
-          "summary": "Lee esta nota de prensa en español aquí. How do black holes at the center of galaxies form and grow over time? To answer this question, scientists need to detect and study supermassive black holes at great distances, which existed much earlier in the universe’s history. New research suggests NASA’s Nancy Grace Roman Space Telescope, which […]",
-          "isoDate": "2026-07-14T14:00:00.000Z"
-        },
-        {
-          "title": "Fans of the Arctic",
-          "link": "https://science.nasa.gov/earth/earth-observatory/fans-of-the-arctic/",
-          "summary": "Sediment eroded from ice-capped mountains splays out across a broad river valley on Russia’s Severny Island.",
-          "isoDate": "2026-07-14T04:01:00.000Z"
-        },
-        {
-          "title": "Curiosity Blog, Sols 4941-4947: (Pin)Stripes on the Fourth of July",
-          "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4941-4947-pinstripes-on-the-fourth-of-july/",
-          "summary": "Written by Deborah Padgett, MSL Operations Product Ground System Task Lead at NASA’s Jet Propulsion Laboratory Earth planning date: Thursday, July 2, 2026 Curiosity spent the week leading up to the Fourth of July holiday approaching a geologic boundary between a very smooth but somewhat sandy region and a rougher bedrock unit.  Leaving the polygonal […]",
-          "isoDate": "2026-07-14T01:04:04.000Z"
+          "title": "ERROR cargando feed",
+          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
+          "isoDate": "2026-07-15T02:24:24.785Z"
         },
         {
           "title": "Bird flu H5N1 in Australia: protect Australian species from bird flu virus",
@@ -130,6 +100,36 @@
           "link": "https://www.nature.com/articles/d41586-026-02187-z",
           "summary": "Nature, Published online: 14 July 2026; doi:10.1038/d41586-026-02187-z\nAI models: one country’s fears become everyone’s constraint",
           "isoDate": "2026-07-14T00:00:00.000Z"
+        },
+        {
+          "title": "How the calendar came to be",
+          "link": "https://www.nature.com/articles/d41586-026-02102-6",
+          "summary": "Nature, Published online: 14 July 2026; doi:10.1038/d41586-026-02102-6\nThe development of time-keeping, and a book that brings an immune cell back in vogue, in this week’s pick from the Nature archive.",
+          "isoDate": "2026-07-14T00:00:00.000Z"
+        },
+        {
+          "title": "‘Dark comet’ unmasked by its mysterious motions ",
+          "link": "https://www.nature.com/articles/d41586-026-02192-2",
+          "summary": "Nature, Published online: 14 July 2026; doi:10.1038/d41586-026-02192-2\nA celestial body thought to be an ordinary space rock turns out to have a comet-like tail.",
+          "isoDate": "2026-07-14T00:00:00.000Z"
+        },
+        {
+          "title": "Seeking an industry role after your PhD? Make sure your CV reflects that",
+          "link": "https://www.nature.com/articles/d41586-026-01855-4",
+          "summary": "Nature, Published online: 14 July 2026; doi:10.1038/d41586-026-01855-4\nA doctorate can open many doors. A CV tailored to your planned career path can help to unlock them.",
+          "isoDate": "2026-07-14T00:00:00.000Z"
+        },
+        {
+          "title": "Africa’s response to this Ebola outbreak shows how to shape global health",
+          "link": "https://www.nature.com/articles/d41586-026-02148-6",
+          "summary": "Nature, Published online: 14 July 2026; doi:10.1038/d41586-026-02148-6\nCountries elsewhere must learn from the continent’s example and combat disease outbreaks by working together, not by closing borders.",
+          "isoDate": "2026-07-14T00:00:00.000Z"
+        },
+        {
+          "title": "DNA-shredding CRISPR enzyme takes aim at cancer cells",
+          "link": "https://www.nature.com/articles/d41586-026-02122-2",
+          "summary": "Nature, Published online: 14 July 2026; doi:10.1038/d41586-026-02122-2\nA bacterial self-destruct mechanism has been repurposed as a potential therapy, selectively eliminating diseased cells — including tumour cells in mouse models of cancer.",
+          "isoDate": "2026-07-14T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 69\nColumn: 41\nChar: &",
-          "isoDate": "2026-07-14T19:18:24.530Z"
+          "isoDate": "2026-07-15T02:24:25.726Z"
+        },
+        {
+          "title": "Midnight social media curfew proposed for older UK teens",
+          "link": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss",
+          "summary": "Teens will be able to opt out of the restrictions - campaigners have criticised them as being piecemeal.",
+          "isoDate": "2026-07-14T23:17:23.000Z"
+        },
+        {
+          "title": "Tech Life",
+          "link": "https://www.bbc.co.uk/sounds/play/w3ct8jy4?at_medium=RSS&at_campaign=rss",
+          "summary": "Surgeons remotely control two human-like robots in an operating theatre.",
+          "isoDate": "2026-07-14T20:00:00.000Z"
         },
         {
           "title": "10 years of Pokémon Go and the millions still trying to catch 'em all",
@@ -184,18 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/c9q2rznjqwwo?at_medium=RSS&at_campaign=rss",
           "summary": "Ofcom says more than half of UK adults have encountered potentially fraudulent ads online.",
           "isoDate": "2026-07-10T09:59:19.000Z"
-        },
-        {
-          "title": "'Cool in 90 seconds' - the fake portable air conditioners sweeping the internet",
-          "link": "https://www.bbc.co.uk/news/articles/cj6g41pzy41o?at_medium=RSS&at_campaign=rss",
-          "summary": "The ASA says adverts claiming small devices can rapidly cool rooms were too good to be true.",
-          "isoDate": "2026-07-10T01:33:45.000Z"
-        },
-        {
-          "title": "Pressure builds on Europe's biggest port to be greener",
-          "link": "https://www.bbc.co.uk/news/articles/c39y78rwrmno?at_medium=RSS&at_campaign=rss",
-          "summary": "A lawsuit demands that the Port of Rotterdam moves faster to cut its dependence on fossil fuel firms.",
-          "isoDate": "2026-07-09T23:00:51.000Z"
         }
       ]
     },
@@ -203,6 +203,12 @@
       "header": "160  INTELIGENCIA ARTIFICIAL",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Helping AI models to meet the real world",
+          "link": "https://news.mit.edu/2026/helping-ai-models-meet-real-world-0714",
+          "summary": "Through research and entrepreneurship, Professor Devavrat Shah is helping to design methods that can handle constant decision-making using limited computational resources.",
+          "isoDate": "2026-07-14T20:25:00.000Z"
+        },
         {
           "title": "Can AI build a jet engine? JARVIS Challenge tests role of AI copilots in tough-tech engineering",
           "link": "https://news.mit.edu/2026/can-ai-build-jet-engine-jarvis-challenge-tests-ai-copilots-in-tough-tech-engineering-0714",
@@ -216,15 +222,15 @@
           "isoDate": "2026-07-14T10:00:00.000Z"
         },
         {
-          "title": "How sales teams use ChatGPT Work",
-          "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-          "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
-          "isoDate": "2026-07-14T00:00:00.000Z"
-        },
-        {
           "title": "How data science teams use ChatGPT Work",
           "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
           "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+          "isoDate": "2026-07-14T00:00:00.000Z"
+        },
+        {
+          "title": "How sales teams use ChatGPT Work",
+          "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+          "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
           "isoDate": "2026-07-14T00:00:00.000Z"
         },
         {
@@ -256,12 +262,6 @@
           "link": "https://openai.com/index/deutsche-telekom",
           "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
           "isoDate": "2026-07-10T07:00:00.000Z"
-        },
-        {
-          "title": "Getting started with ChatGPT",
-          "link": "https://openai.com/academy/getting-started",
-          "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
-          "isoDate": "2026-07-10T00:00:00.000Z"
         }
       ]
     },
@@ -272,14 +272,14 @@
         {
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
-          "summary": "Invalid character in entity name\nLine: 84\nColumn: 559\nChar:  ",
-          "isoDate": "2026-07-14T19:18:26.648Z"
+          "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
+          "isoDate": "2026-07-15T02:24:28.023Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-07-14T19:18:25.924Z"
+          "isoDate": "2026-07-15T02:24:27.085Z"
         },
         {
           "title": "How I Turned AI to the Dark Side",
