@@ -1,10 +1,40 @@
 {
-  "generatedAt": "2026-07-18T13:13:03.041Z",
+  "generatedAt": "2026-07-18T19:02:07.989Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Google might not kneecap the Pixel 11a with an old processor",
+          "link": "https://www.theverge.com/tech/967612/google-pixel-11a-tensor-g6-leak",
+          "summary": "The Pixel 10a shipped with a last gen processor. | Photo: Dominic Preston / The Verge\t\n\nMystic Leaks suggests that the Pixel 11a will return to featuring a flagship-grade processor with the Tensor G6. Rather than the Tensor G5 found in the Pixel 10 and 10 Pro, the Pixel 10a shipped with the previous generation Tensor G4. That was a huge disappointment since, typically, the Pixel a lineup kept the modern processor, but cut corners in other places to keep costs down.\nThe Tensor G6 is rumored to feature the same PowerVR DXT-48-1536 GPU as the G5, but it should still be an improvement over the Mali-G715 in the Tensor G4. The big upgrade is that the G6 moves on from Samsung's Exynos modems and instead uses a MediaTek M90 modem. Tha …\nRead the full story at The Verge.",
+          "isoDate": "2026-07-18T18:25:08.000Z"
+        },
+        {
+          "title": "Google is open-sourcing its 3D emoji",
+          "link": "https://www.theverge.com/design/967606/google-open-source-3d-emoji",
+          "summary": "Now, if you want to, you can use Google's 3D emoji in your own creations. The company shared some details about how it went about designing the little pictograms and why, as part of World Emoji Day on Friday. Things you might not necessarily worry about in a 2D illustration suddenly become very important when you're talking about a 3D model. Is a smiley face a sphere? A mask? A flat disc? \nIn addition to offering a behind-the-scenes look at Google's design process, it also announced that it would be completely open-sourcing the emoji set:\nWe're handing over raw .OBJ files to the community so they can use them to build immersive VR worlds, …\n\nRead the full story at The Verge.",
+          "isoDate": "2026-07-18T16:40:55.000Z"
+        },
+        {
+          "title": "GoPro&#8217;s discounted Max 2 bundle includes $100 worth of accessories",
+          "link": "https://www.theverge.com/gadgets/967311/gopro-max2-360-degree-action-cam-accessory-bundle-deal-sale",
+          "summary": "The GoPro Max2 can use your earbuds as a microphone over Bluetooth.\t\n\nA 360-degree camera is a great way to ensure you capture every bit of the action, but prices tend to be on the high end for models worth your attention. That’s why it’s notable that the GoPro Max 2 accessory bundle is discounted to $369 at Amazon (a dollar more at Best Buy and GoPro). The bundle is stuffed for being just $70 more than the base camera, containing everything you need to shoot the best angles during all-day adventures. The capable camera can shoot 360-degree 8K video at 30 frames per second, or 180-degree 4K video at 60FPS, and it can attach to the wide ecosystem of GoPro-compatible mounts.\nGoPro Max 2\n\nWhere to Buy:\n\n $569 $369 at Amazon (accessory bundle)\n $569 $369 at Best Buy (accessory bundle)\n\nIn addition to the Max 2 camera, the bundle includes a four-foot extension pole, two protective lens caps, two high-capacity batteries, a 64GB microSD card, a curved adhesive mount, a mounting buckle for GoPro mounts, a mounting finger adapter for cameras, two thumb screws, a wrist lanyard, a microfiber cloth, and a USB-C cable. The standalone camera includes most of those accessories, but has fewer mounts, a single battery, no SD card, and no extension pole. The pole and extra battery are $75 on their own, so you’re getting a solid deal before you even take the free microSD card into account.\nThe Max 2’s six-mic array records in every direction and automatically reduces wind noise. Alternatively, you can connect Bluetooth microphones, too. The 1.82-inch LCD touchscreen lets you quickly check your footage and manage settings, and it’s waterproof up to 16 feet in case you want to take it swimming or surfing. A single battery should last 66 minutes at full 8K, or 90 minutes at 5.6K resolution. The lenses are replaceable, too, in case a bad fall damages them.\n\n\n  \n \n  \n \n\n\n \n\n View this post on Instagram",
+          "isoDate": "2026-07-18T15:00:00.000Z"
+        },
+        {
+          "title": "The Guardian’s Carter Sherman fondly remembers being terrified by Ocarina of Time",
+          "link": "https://www.theverge.com/report/967583/guardian-carter-sherman-podcast-interview",
+          "summary": "Carter, there’s a couch RIGHT THERE. | Image:\t\n\nCarter Sherman has been covering sex, gender, and the complex personal and national politics that accompany them for years. She was a senior reporter for Vice and has written for Elle, Ms. magazine, and Los Angeles magazine as well. Along the way, she's garnered a Scripps Howard Award, a National Press Club Journalism Award, and four Emmy nominations. \nShe's also the author of The Second Coming: Sex and the Next Generation's Fight Over Its Future. That book looks at how the internet and our polarized political landscape have changed sex and relationships, from school board battles over sex ed to abortion access. These days she finds herself …\nRead the full story at The Verge.",
+          "isoDate": "2026-07-18T14:30:00.000Z"
+        },
+        {
+          "title": "Surprise! Facial recognition smart locks are actually good",
+          "link": "https://www.theverge.com/tech/967183/best-facial-recognition-smart-locks-review",
+          "summary": "Facial recognition smart locks are here; now you can unlock your door the same way you unlock your phone. | Photo by Jennifer Pattison Tuohy / The Verge\t\n\nHands-free unlocking is the future of smart locks. The best smart home tech removes friction, and having your door unlock for you as you walk up is as frictionless as it gets - no passcodes to remember, no need to have a free hand to wave, press, or poke at the lock. One way to achieve this nirvana is through facial recognition. You already unlock your phone with your face; why not your home?\nHands-free unlocking using geofencing has been around for a while, but it can be slow and unreliable, and requires an app running in the background on your phone. Newer innovations - facial recognition and unlocking using an ultrawideband (UWB) radio - …\nRead the full story at The Verge.",
+          "isoDate": "2026-07-18T14:00:00.000Z"
+        },
         {
           "title": "Sony’s flagship RGB LED TV is incredible",
           "link": "https://www.theverge.com/tech/966788/sony-bravia-9-ii-tv-review",
@@ -34,36 +64,6 @@
           "link": "https://www.theverge.com/tech/966964/emtb-riders-are-not-cheaters",
           "summary": "You don’t need a $10,000 Amflow PX Carbon Pro, but it doesn’t hurt. | Photo by Thomas Ricker / The Verge\t\n\nCheater, I'd grumble between huffs as yet another e-bike rider casually skittered past me on a steep ascent. It's this purist attitude that, for years, has left me blind to one simple fact: electric mountain bikes are fun!\nMy attitude adjustment came a few weeks ago, the very first time I rode an Amflow PX Carbon Pro fitted with the incredibly compact, lightweight, and powerful M2S motor from Avinox, a new DJI offshoot that has incumbents like Bosch and Specialized on edge. The motor doesn't make me a speed demon, but it does let me suck better by compensating whenever my poor technique kills the momentum.\nMountain biking has a long histor …\nRead the full story at The Verge.",
           "isoDate": "2026-07-18T07:00:00.000Z"
-        },
-        {
-          "title": "Taylor Farms pulls iceberg lettuce from the US market after cyclosporiasis outbreak",
-          "link": "https://www.theverge.com/science/967563/cyclospora-taylor-farms-taco-bell-iceberg-lettuce",
-          "summary": "Agriculture - Harvested Iceberg lettuce / Santa Maria, California, USA. (Photo by: Tony Hertz /Design Pics Editorial/Universal Images Group via Getty Images)\t\n\nFood producer Taylor Farms released a statement on the Cyclospora outbreak Friday, confirming that it's \"voluntarily removing all iceberg lettuce sourced from central Mexico from the US market.\" Reuters reports that, according to a source, Taylor Farms told customers like Yum Brands owner Taco Bell and the food distributor Sysco on Thursday to pull shredded lettuce that had been produced initially as 5-pound bags at a facility in Guanajuato, Mexico, from distribution.\nTaco Bell said on Thursday that \"The affected ingredient from our supplier is being indefinitely removed from our supply chain nationwide and will be replaced within 24 hours  …\nRead the full story at The Verge.",
-          "isoDate": "2026-07-17T22:09:47.000Z"
-        },
-        {
-          "title": "Shark&#8217;s versatile ChillPill cooling system is back to its best price",
-          "link": "https://www.theverge.com/gadgets/967512/shark-chillpill-personal-fan-and-cooling-system-deal-sale",
-          "summary": "You can clip the versatile cooling gadget, wear it, and use it as a desk fan. | Image: Shark\t\n\nPortable fans are one of the easiest ways to stay cool during the summer, and you don’t have to spend much to find a decent one. If you’re looking for something more versatile, though, Shark’s ChillPill Personal Fan and Cooling System combines a rechargeable fan with a dry-touch evaporative mister in a design that can be worn, clipped, or used on a tabletop. Right now, it’s on sale for $99.99 ($30 off) at Amazon, matching its all-time low. If you’re a Costco member, you can get it for the same price with a free clip, crossbody strap, and InstaChill Cooling Plate which you can press against your neck or wrists for quick relief.\nShark ChillPill Personal Fan and Cooling System\n\nWhere to Buy:\n\n $129.99 $99.99 at Amazon\n $129.99 $99.99 at Costco\n\nUnlike a standard handheld fan, the two-in-one device is designed so that you can wear it or twist it into tabletop mode, making it useful whether you’re commuting, waiting in line at a theme park, working out, or just trying to stay cool at your desk. You can even clip it to a purse or stroller, so it’s always within easy reach while you’re on the go. It also offers 10 fan speeds and matching noise levels, allowing you to choose anything from a quiet breeze for indoor use to stronger cooling outdoors.\nWhen a fan alone isn’t enough, you can switch on the dry-touch evaporative mist, which cools your skin without leaving your clothes soaked. You can also choose between continuous and interval misting depending on how long you want the water to last. Plus, Shark says the ChillPill can run for up to 11 hours on its lowest setting, which should be enough to get through a full day at a festival or while traveling. When it’s time to recharge, the device uses USB-C, so you can likely use the same cable you’re already carrying for your phone, tablet, or laptop.",
-          "isoDate": "2026-07-17T20:15:54.000Z"
-        },
-        {
-          "title": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
-          "link": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/",
-          "summary": "The FireSat program can spot wildfires that other satellites miss.",
-          "isoDate": "2026-07-17T19:50:18.000Z"
-        },
-        {
-          "title": "TikTok is testing an AI likeness detection tool",
-          "link": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
-          "summary": "TikTok is starting to test an opt-in tool that scans for AI likenesses and lets creators report them to the company, as spotted by social media consultant Matt Navarra. The tool is initially being tested with \"some\" US creators, TikTok US spokesperson Zachary Kizer tells The Verge. YouTube has been working on a similar tool and recently made it available to all adult users.\nCreators who are part of TikTok's test and want to use the tool will first have to verify their identity with a company called Jumio. You'll have to do a real-time selfie scan and an ID check, but Kizer says that \"TikTok does not retain ID documents, and facial informati …\nRead the full story at The Verge.",
-          "isoDate": "2026-07-17T19:34:30.000Z"
-        },
-        {
-          "title": "The Pentagon's Space Development Agency hasn't moved as fast as anyone would like",
-          "link": "https://arstechnica.com/space/2026/07/the-pentagons-space-development-agency-hasnt-moved-as-fast-as-anyone-would-like/",
-          "summary": "\"Missiles are being launched at the joint force every single day in [Operation] Epic Fury.\"",
-          "isoDate": "2026-07-17T19:19:42.000Z"
         }
       ]
     },
@@ -75,7 +75,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
           "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-07-18T13:12:59.131Z"
+          "isoDate": "2026-07-18T19:02:02.651Z"
         },
         {
           "title": "Briefing Chat: Sweet! Elusive sugar molecules found in space",
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 69\nColumn: 41\nChar: &",
-          "isoDate": "2026-07-18T13:12:59.795Z"
+          "isoDate": "2026-07-18T19:02:03.648Z"
         },
         {
           "title": "Tech Now",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-07-18T13:13:02.274Z"
+          "isoDate": "2026-07-18T19:02:07.329Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-07-18T13:13:01.272Z"
+          "isoDate": "2026-07-18T19:02:05.158Z"
         },
         {
           "title": "This Graduate Student Equips NASA’s Robots With Assembly Skills",
