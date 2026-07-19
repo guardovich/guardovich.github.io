@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T23:12:24.118746+00:00",
+  "updated": "2026-07-19T00:12:11.340049+00:00",
   "source": "datos.santander.es",
   "total_datasets": 6,
   "total_items": 1662,
@@ -7489,6 +7489,28 @@
           "lon": -3.8266388575
         },
         {
+          "id": "36325",
+          "dataset": "zonas_carga",
+          "type": "CARGA",
+          "title": "CARGA · CL/ ATILANO RODRIGUEZ 11",
+          "street": "CL/ ATILANO RODRIGUEZ",
+          "number": "11",
+          "modified": "2026-07-18T22:39:59.544Z",
+          "lat": 43.4577091323958,
+          "lon": -3.809772195625
+        },
+        {
+          "id": "36328",
+          "dataset": "zonas_carga",
+          "type": "CARGA",
+          "title": "CARGA · CL/ RUAMAYOR 3",
+          "street": "CL/ RUAMAYOR",
+          "number": "3",
+          "modified": "2026-07-18T22:39:59.544Z",
+          "lat": 43.4608683120832,
+          "lon": -3.80962896645834
+        },
+        {
           "id": "36188",
           "dataset": "zonas_carga",
           "type": "CARGA",
@@ -7740,28 +7762,6 @@
           "modified": "2026-07-18T22:39:59.544Z",
           "lat": 43.4578800308333,
           "lon": -3.80986659666667
-        },
-        {
-          "id": "36325",
-          "dataset": "zonas_carga",
-          "type": "CARGA",
-          "title": "CARGA · CL/ ATILANO RODRIGUEZ 11",
-          "street": "CL/ ATILANO RODRIGUEZ",
-          "number": "11",
-          "modified": "2026-07-18T22:39:59.544Z",
-          "lat": 43.4577091323958,
-          "lon": -3.809772195625
-        },
-        {
-          "id": "36328",
-          "dataset": "zonas_carga",
-          "type": "CARGA",
-          "title": "CARGA · CL/ RUAMAYOR 3",
-          "street": "CL/ RUAMAYOR",
-          "number": "3",
-          "modified": "2026-07-18T22:39:59.544Z",
-          "lat": 43.4608683120832,
-          "lon": -3.80962896645834
         },
         {
           "id": "36096",
