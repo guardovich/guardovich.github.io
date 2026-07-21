@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T02:36:13.533Z",
+  "generatedAt": "2026-07-21T08:26:50.207Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
@@ -72,10 +72,46 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "ERROR cargando feed",
-          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
-          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-07-21T02:36:08.156Z"
+          "title": "Why Maine’s Sandy Shorelines Turn Jagged",
+          "link": "https://science.nasa.gov/earth/earth-observatory/why-maines-sandy-shorelines-turn-jagged/",
+          "summary": "Differences in the underlying bedrock and how rivers distribute sediment make the coastlines west of Portland look unlike those northeast of the city.",
+          "isoDate": "2026-07-21T04:00:00.000Z"
+        },
+        {
+          "title": "NASA Sets Briefings for SpaceX Crew-13 Mission to Space Station",
+          "link": "https://www.nasa.gov/news-release/nasa-sets-briefings-for-spacex-crew-13-mission-to-space-station/",
+          "summary": "NASA and its partners will discuss the upcoming crew rotation mission to the International Space Station during a pair of news conferences on Monday, Aug. 3, from the agency’s Johnson Space Center in Houston. Mission leadership will provide an overview of NASA’s SpaceX Crew‑13 mission at 12 p.m. EDT. Next, crew members will discuss their […]",
+          "isoDate": "2026-07-20T20:00:52.000Z"
+        },
+        {
+          "title": "NASA, GE Aerospace Work Enables Hybrid-Electric Flight Demonstration",
+          "link": "https://www.nasa.gov/directorates/rtmd/nasa-ge-hybrid-electric-flight/",
+          "summary": "An aircraft powered by a megawatt-class hybrid-electric engine developed in collaboration with NASA and built by GE Aerospace, demonstrated flight of an innovation that can inform new generations of fuel-saving aircraft power systems. Mounted to a Saab 340B aircraft, the engine flew at Farnborough International Air Show in the United Kingdom. It was the public […]",
+          "isoDate": "2026-07-20T18:54:44.000Z"
+        },
+        {
+          "title": "New NASA Earth Missions Gear Up to Start Science Flights  ",
+          "link": "https://science.nasa.gov/earth/new-nasa-earth-missions-gear-up-to-start-science-flights/",
+          "summary": "The first of six new airborne campaigns will hit the skies this summer.",
+          "isoDate": "2026-07-20T18:25:11.000Z"
+        },
+        {
+          "title": "From Hampton to Mars: How NASA Langley Helped Land on the Red Planet",
+          "link": "https://www.nasa.gov/general/from-hampton-to-mars-how-nasa-langley-helped-land-on-the-red-planet/",
+          "summary": "Fifty years ago, NASA’s Viking 1 and 2 landers made the first successful landings on Mars, opening a new era in planetary exploration. Behind that achievement was a team at NASA’s Langley Research Center in Hampton, Virginia, whose steady leadership and technical expertise helped turn an ambitious idea into a mission that reshaped how we […]",
+          "isoDate": "2026-07-20T15:47:15.000Z"
+        },
+        {
+          "title": "Our First View of the Surface of Mars",
+          "link": "https://www.nasa.gov/image-article/our-first-view-of-the-surface-of-mars/",
+          "summary": "“Touchdown, we have touchdown!” At 5:12 a.m. PDT, July 20, 1976, mission controllers at NASA’s Jet Propulsion Laboratory erupted in cheers as they learned that the Viking 1 lander had survived its descent through the thin Martian atmosphere. Forty minutes later, the lander’s first image began to appear on their monitors, slowly forming line by […]",
+          "isoDate": "2026-07-20T15:38:29.000Z"
+        },
+        {
+          "title": "Shaping the Emerald City",
+          "link": "https://science.nasa.gov/earth/earth-observatory/shaping-the-emerald-city/",
+          "summary": "The hills and basins of Seattle, Washington, have been sculpted by glaciers and modified by humans.",
+          "isoDate": "2026-07-20T04:01:00.000Z"
         },
         {
           "title": "Detailed maps of European wetlands reveal overlooked patches of ecosystems",
@@ -94,42 +130,6 @@
           "link": "https://www.nature.com/articles/d41586-026-02231-y",
           "summary": "Nature, Published online: 20 July 2026; doi:10.1038/d41586-026-02231-y\nAnticipating from the start the various ways a research programme can succeed or fail can avoid problems later. Here’s how to do it.",
           "isoDate": "2026-07-20T00:00:00.000Z"
-        },
-        {
-          "title": "Huge study finds first genetic clues for borderline personality disorder",
-          "link": "https://www.nature.com/articles/d41586-026-02220-1",
-          "summary": "Nature, Published online: 20 July 2026; doi:10.1038/d41586-026-02220-1\nLargest genetic analysis of the condition so far finds 11 linked locations in the human genome.",
-          "isoDate": "2026-07-20T00:00:00.000Z"
-        },
-        {
-          "title": "My job interviews for industry positions are going nowhere. How do I make myself stand out?",
-          "link": "https://www.nature.com/articles/d41586-026-02234-9",
-          "summary": "Nature, Published online: 20 July 2026; doi:10.1038/d41586-026-02234-9\nA postdoc researcher trying to move into an industry role wants help gaining traction and making it past the first interview stage.",
-          "isoDate": "2026-07-20T00:00:00.000Z"
-        },
-        {
-          "title": "Briefing Chat: Sweet! Elusive sugar molecules found in space",
-          "link": "https://www.nature.com/articles/d41586-026-02263-4",
-          "summary": "Nature, Published online: 17 July 2026; doi:10.1038/d41586-026-02263-4\nNature staff discuss the discovery of a four carbon ‘true sugar’ in interstellar space — plus, a formula inscribed on a wall reveals a Maya mathematician’s name.",
-          "isoDate": "2026-07-17T00:00:00.000Z"
-        },
-        {
-          "title": "Wearable sensors on the face are invisible to the eye",
-          "link": "https://www.nature.com/articles/d41586-026-02193-1",
-          "summary": "Nature, Published online: 17 July 2026; doi:10.1038/d41586-026-02193-1\nElectrodes that measure brain waves and more cannot be seen or felt.",
-          "isoDate": "2026-07-17T00:00:00.000Z"
-        },
-        {
-          "title": "Why pain hurts more when we’re lonely, and the myth of original sin: Books in brief",
-          "link": "https://www.nature.com/articles/d41586-026-02264-3",
-          "summary": "Nature, Published online: 17 July 2026; doi:10.1038/d41586-026-02264-3\nAndrew Robinson reviews five of the best science picks.",
-          "isoDate": "2026-07-17T00:00:00.000Z"
-        },
-        {
-          "title": "Can giant space mirrors boost green energy on Earth? A start-up aims to find out",
-          "link": "https://www.nature.com/articles/d41586-026-02218-9",
-          "summary": "Nature, Published online: 17 July 2026; doi:10.1038/d41586-026-02218-9\nAstronomers are deeply worried that a planned array of 50,000 mirror-bearing satellites in orbit will severely compromise telescopes.",
-          "isoDate": "2026-07-17T00:00:00.000Z"
         }
       ]
     },
@@ -141,13 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-07-21T02:36:10.407Z"
-        },
-        {
-          "title": "Craft and keyboard: The trainees mastering tech and age-old skills",
-          "link": "https://www.bbc.co.uk/news/articles/cy8dg1kpj48o?at_medium=RSS&at_campaign=rss",
-          "summary": "Firms have to balance hi-tech and age-old skills when training up young workers.",
-          "isoDate": "2026-07-20T23:07:40.000Z"
+          "isoDate": "2026-07-21T08:26:46.820Z"
         },
         {
           "title": "Thousands of websites taken down for illegal World Cup streams",
@@ -196,6 +190,12 @@
           "link": "https://www.bbc.co.uk/news/articles/c4gyg0y6yg2o?at_medium=RSS&at_campaign=rss",
           "summary": "Owen Flowers and Thalha Jubair were convicted for their roles in the attack, which led to large costs for Transport for London.",
           "isoDate": "2026-07-16T10:52:26.000Z"
+        },
+        {
+          "title": "SpaceX share price drops below stock market debut",
+          "link": "https://www.bbc.co.uk/news/articles/clyl33q0yl0o?at_medium=RSS&at_campaign=rss",
+          "summary": "Share trading in Elon Musk’s rocket company has been volatile since it went public a month ago.",
+          "isoDate": "2026-07-15T18:11:57.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-07-21T02:36:12.994Z"
+          "isoDate": "2026-07-21T08:26:49.543Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 55\nColumn: 58\nChar: =",
-          "isoDate": "2026-07-21T02:36:11.754Z"
+          "isoDate": "2026-07-21T08:26:48.102Z"
         },
         {
           "title": "IEEE Program Helps Girls In India See a Future In STEM",
