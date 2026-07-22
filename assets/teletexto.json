@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T02:35:06.400Z",
+  "generatedAt": "2026-07-22T08:27:28.365Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
@@ -72,6 +72,12 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "A Week of Smoky Skies Across North America",
+          "link": "https://science.nasa.gov/earth/earth-observatory/a-week-of-smoky-skies-across-north-america/",
+          "summary": "Brown carbon, emitted by wildland fires and tracked over the span of a week in July 2026, worsened air quality in parts of the U.S. and Canada.",
+          "isoDate": "2026-07-22T04:00:00.000Z"
+        },
+        {
           "title": "NISAR’s L-Band Radar Reveals ‘Hummingbird’ in Antarctica",
           "link": "https://science.nasa.gov/photojournal/nisars-l-band-radar-reveals-hummingbird-in-antarctica/",
           "summary": "Description Data from the Earth-orbiting U.S.-India NISAR (NASA-ISRO Synthetic Aperture Radar) satellite’s L-band radar was used to produce an image of Nunatak Zaterjavshijsja — a mountaintop in East Antarctica — poking out amid a stream of ice flowing northeast to the ocean. The obstruction causes stresses in the ice, heavily fracturing the surrounding surfaces with […]",
@@ -124,12 +130,6 @@
           "link": "https://www.nasa.gov/directorates/stmd/niac/robotically-assembled-electromagnetic-metamaterials-for-long-range-space-situational-awareness/",
           "summary": "David SmithDuke University  The increasing population of spacefaring vehicles and satellites motivates increasingly powerful technologies for space situational awareness (SSA). While the US space surveillance network (SSN) is able to monitor objects down to about four inches in size using, for example, the latest upgrade to the space fence, the associated requirements limit implementation to ground-based […]",
           "isoDate": "2026-07-21T15:23:46.000Z"
-        },
-        {
-          "title": "Photophoretic Tracers for Near-Space Remote Sensing at 30-100 km Altitudes ",
-          "link": "https://www.nasa.gov/directorates/stmd/photophoretic-tracers-for-near-space-remote-sensing-at-30-100-km-altitudes/",
-          "summary": "Benjamin SchaferRarified Technologies, Inc. We propose a new approach to atmospheric sensing at 30-100 km altitudes using photophoretically levitating tracers. These lightweight structures harness sunlight to remain suspended for up to months at controlled altitudes and can be remotely tracked by satellite-based lidar or radar. Unlike natural aerosols, these tracers are designed to provide strong and […]",
-          "isoDate": "2026-07-21T15:23:43.000Z"
         }
       ]
     },
@@ -141,13 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-07-22T02:35:02.540Z"
-        },
-        {
-          "title": "Will AI help you do your job or replace you?",
-          "link": "https://www.bbc.co.uk/news/articles/cn7nllr4vd6o?at_medium=RSS&at_campaign=rss",
-          "summary": "Artificial Intelligence companies make vast claims about their tools replacing human labour - our charts show what's happening.",
-          "isoDate": "2026-07-21T23:04:42.000Z"
+          "isoDate": "2026-07-22T08:27:25.556Z"
         },
         {
           "title": "Tech Life",
@@ -196,6 +190,12 @@
           "link": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
           "summary": "Trump Media is launching a fast, paid feed to its most influential posts for Wall Street traders.",
           "isoDate": "2026-07-17T07:25:31.000Z"
+        },
+        {
+          "title": "TikTok faces Ofcom investigation over child age checks",
+          "link": "https://www.bbc.co.uk/news/articles/ce8l1zk9dk9o?at_medium=RSS&at_campaign=rss",
+          "summary": "It follows a review by the regulator in May that criticised the platform for not being \"safe enough\" for children.",
+          "isoDate": "2026-07-16T11:08:33.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-07-22T02:35:05.203Z"
+          "isoDate": "2026-07-22T08:27:27.731Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 57\nColumn: 58\nChar: =",
-          "isoDate": "2026-07-22T02:35:04.237Z"
+          "isoDate": "2026-07-22T08:27:26.848Z"
         },
         {
           "title": "Why AI Needs a “Genie Coefficient”",
