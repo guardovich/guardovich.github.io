@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-07-23T02:40:22.063Z",
+  "generatedAt": "2026-07-23T08:28:20.520Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Orcas team up to ram sunfish until they explode",
+          "link": "https://arstechnica.com/science/2026/07/orcas-team-up-to-ram-sunfish-until-they-explode/",
+          "summary": "“We think this may help younger orcas feed more easily, or it could also just be for fun.”",
+          "isoDate": "2026-07-23T04:00:38.000Z"
+        },
         {
           "title": "Lego’s Donkey Kong arcade machine lets Mario jump endless barrels — Miyamoto is reportedly happy",
           "link": "https://www.theverge.com/gadgets/969668/lego-donkey-kong-arcade-machine",
@@ -58,12 +64,6 @@
           "link": "https://www.theverge.com/tech/969596/apple-restricted-mode-ios-27",
           "summary": "Code found in an iOS 27 beta would allow Apple to put a financed iPhone in \"Restricted Mode\" if it detects any missed payments, 9to5Mac reports. The finding follows a story from Bloomberg earlier this week claiming Apple is preparing to launch a new \"Apple Upgrade\" financing program for leasing new devices. \niPhones in \"Restricted Mode\" would reportedly lose access to nearly all apps, except for basics like the Phone app, Settings, and the App Store. It uses a new \"App Managed Features\" system that allows financing or partner apps to continually check if a financed device is in good standing.\nAccording to 9to5Mac, the code also includes a  …\nRead the full story at The Verge.",
           "isoDate": "2026-07-22T19:13:21.000Z"
-        },
-        {
-          "title": "Hyundai claims humanoid robot plan is not part of talks with striking workers",
-          "link": "https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/",
-          "summary": "Union previously warned automaker that any robot deployment must be negotiated.",
-          "isoDate": "2026-07-22T18:18:12.000Z"
         }
       ]
     },
@@ -72,10 +72,10 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "ERROR cargando feed",
-          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
-          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-07-23T02:40:18.645Z"
+          "title": "Olympic Mountain Glory",
+          "link": "https://science.nasa.gov/earth/earth-observatory/olympic-mountain-glory/",
+          "summary": "Snow-capped mountains carved by deep river valleys preside over northwestern Washington state.",
+          "isoDate": "2026-07-23T04:01:00.000Z"
         },
         {
           "title": "Could small-team science be dying out?",
@@ -84,52 +84,52 @@
           "isoDate": "2026-07-23T00:00:00.000Z"
         },
         {
-          "title": "Electronic-resonance enhanced molecule for perovskite solar cells",
-          "link": "https://www.nature.com/articles/s41586-026-10919-4",
-          "summary": "Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10919-4\nElectronic-resonance enhanced molecule for perovskite solar cells",
-          "isoDate": "2026-07-22T00:00:00.000Z"
+          "title": "Breathalyser can tell if you are burning fat from a single exhale",
+          "link": "https://www.nature.com/articles/d41586-026-02295-w",
+          "summary": "Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02295-w\nThe compact device can measure when the body is in ketosis and could help people to manage weight loss.",
+          "isoDate": "2026-07-23T00:00:00.000Z"
         },
         {
-          "title": "RNA synthesis and substrate analog inhibition in the CCHFV polymerase",
-          "link": "https://www.nature.com/articles/s41586-026-10913-w",
-          "summary": "Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10913-w\nRNA synthesis and substrate analog inhibition in the CCHFV polymerase",
-          "isoDate": "2026-07-22T00:00:00.000Z"
+          "title": "NASA to Showcase Agency’s Newest Wind Tunnel in Virginia",
+          "link": "https://www.nasa.gov/news-release/nasa-to-showcase-agencys-newest-wind-tunnel-in-virginia/",
+          "summary": "Media are invited to NASA’s Langley Research Center in Hampton, Virginia, on Friday, July 31, to attend a media tour and ribbon-cutting ceremony for the Flight Dynamics Research Facility, the agency’s first new wind tunnel in more than 40 years. The event will include a brief media availability with: This event is in person only […]",
+          "isoDate": "2026-07-22T18:47:05.000Z"
         },
         {
-          "title": "What counts as a moon? Huge ‘exosatellite’ sparks debate",
-          "link": "https://www.nature.com/articles/d41586-026-02299-6",
-          "summary": "Nature, Published online: 22 July 2026; doi:10.1038/d41586-026-02299-6\nDiscovery of a distant Jupiter-mass object could pave the way for detection of exomoons — plus, a rare transmissible cancer found in catfish.",
-          "isoDate": "2026-07-22T00:00:00.000Z"
+          "title": "Robotic Servicing Mission Launches with NASA Support",
+          "link": "https://www.nasa.gov/technology/robotic-servicing-mission-launches-with-nasa-support/",
+          "summary": "Following its liftoff from Cape Canaveral on July 21 aboard a SpaceX Falcon 9 rocket, the Mission Robotic Vehicle (MRV) hosting the NASA-supported Robotic Servicing of Geosynchronous Satellites (RSGS) payload is now en route to geosynchronous Earth orbit, where it will use its advanced robotics to service spacecraft. RSGS leverages in-space robotics expertise from NASA, […]",
+          "isoDate": "2026-07-22T18:04:15.000Z"
         },
         {
-          "title": "How do quantum computers work?",
-          "link": "https://www.nature.com/articles/d41586-026-02219-8",
-          "summary": "Nature, Published online: 22 July 2026; doi:10.1038/d41586-026-02219-8\nRecent breakthroughs suggest usable devices could be here in a decade.",
-          "isoDate": "2026-07-22T00:00:00.000Z"
+          "title": "NASA Sets Coverage for Astronaut Chris Williams, Crewmates Return",
+          "link": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-astronaut-chris-williams-crewmates-return/",
+          "summary": "NASA astronaut Chris Williams and Roscosmos cosmonauts Sergey Kud-Sverchkov and Sergei Mikaev are wrapping up their 241‑day mission aboard the International Space Station. The crew and its Soyuz MS-28 spacecraft will undock from the orbiting laboratory’s Rassvet module at 3:02 a.m. EDT Sunday, July 26, heading for a parachute-assisted landing at 6:26 a.m. (3:26 p.m. […]",
+          "isoDate": "2026-07-22T17:17:43.000Z"
         },
         {
-          "title": "Structures and inhibition of the Crimean–Congo haemorrhagic fever virus polymerase",
-          "link": "https://www.nature.com/articles/s41586-026-10701-6",
-          "summary": "Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10701-6\nStructural studies of Crimean–Congo haemorrhagic fever virus (CCHFV) polymerase reveal the structural basis of CCHFV RNA synthesis and highlight druggable sites for designing both nucleoside antivirals and non-nucleoside antivirals.",
-          "isoDate": "2026-07-22T00:00:00.000Z"
+          "title": "A New Look – and Sound – for Messier 94",
+          "link": "https://www.nasa.gov/image-article/a-new-look-and-sound-for-messier-94/",
+          "summary": "NASA’s Chandra X-ray Observatory unveiled this new look at the galaxy NGC 4736, also known as Messier 94, on June 30, 2026. Messier 94 is a spiral galaxy with a bright inner ring around it, called a starburst ring, where new stars are forming, perhaps fueled by gas driven in the unique oval-shaped structure seen […]",
+          "isoDate": "2026-07-22T16:45:52.000Z"
         },
         {
-          "title": "CRISPR–Cas regulates expression of embedded anti-phage defence systems",
-          "link": "https://www.nature.com/articles/s41586-026-10833-9",
-          "summary": "Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10833-9\nCRISPR–Cas systems transcriptionally tune diverse innate defences using CRISPR RNA-like guides to balance antiviral protection with fitness, and hyperactivate these defences when compromised, establishing a layered bacterial ‘immunity guard’ network.",
-          "isoDate": "2026-07-22T00:00:00.000Z"
+          "title": "Mapping Io’s Hidden Heat With NASA’s Juno",
+          "link": "https://science.nasa.gov/photojournal/mapping-ios-hidden-heat-with-nasas-juno/",
+          "summary": "Description This graphic illustrates the areas of Jupiter’s moon Io sampled by the Microwave Radiometer (MWR) instrument aboard NASA’s Juno spacecraft during two close flybys. The black overlapping lines show the instrument’s footprints during Perijove 57 on Dec. 30, 2023, when the spacecraft primarily mapped the northern hemisphere. The blue lines represent Perijove 58 on […]",
+          "isoDate": "2026-07-22T15:00:19.000Z"
         },
         {
-          "title": "Non-epitaxial perovskite polariton laser diode operating under direct current",
-          "link": "https://www.nature.com/articles/s41586-026-10824-w",
-          "summary": "Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10824-w\nBy integrating a solution-grown perovskite microplate with chemically inert single-walled carbon nanotube electrodes and embedding them into an optical microcavity, the new microdevices can achieve polariton lasing under a constant direct current at 8 K.",
-          "isoDate": "2026-07-22T00:00:00.000Z"
+          "title": "NASA’s Juno Peers Beneath Io’s Surface",
+          "link": "https://science.nasa.gov/photojournal/nasas-juno-peers-beneath-ios-surface/",
+          "summary": "Description This map represents data captured by the Microwave Radiometer (MWR) aboard NASA’s Juno spacecraft, indicating heat rising from just beneath the surface of Jupiter’s moon Io. While infrared instruments measure the temperature of the moon’s surface, the lowest frequency microwave channels (0.6 and 1.25 gigahertz) on the MWR can penetrate between about 6 and […]",
+          "isoDate": "2026-07-22T14:58:58.000Z"
         },
         {
-          "title": "Prior therapy defines mutation profiles in childhood cancer at relapse",
-          "link": "https://www.nature.com/articles/s41586-026-10803-1",
-          "summary": "Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10803-1\nChemotherapy, particularly with platinum-based drugs, is associated with substantial, rapidly detectable mutagenesis in childhood cancers, tripling private signatures and doubling mutation burden, highlighting therapy-induced tumour evolution and opportunities for safer, de-escalated treatment.",
-          "isoDate": "2026-07-22T00:00:00.000Z"
+          "title": "NASA’s Juno Takes Temperature of Jupiter’s Fiery Moon Io",
+          "link": "https://www.nasa.gov/missions/juno/nasas-juno-takes-temperature-of-jupiters-fiery-moon-io/",
+          "summary": "Lee esta historia en español aquí.  NASA’s Juno mission has provided the first measurements of the temperature below the surface of Jupiter’s moon Io, revealing significant heating within the shallow subsurface of the most volcanically active world in the solar system. Collected during two close flybys, the data also shows that most of Io’s surface is […]",
+          "isoDate": "2026-07-22T14:54:35.000Z"
         }
       ]
     },
@@ -141,13 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-07-23T02:40:19.709Z"
+          "isoDate": "2026-07-23T08:28:18.074Z"
         },
         {
           "title": "Google burning through cash with spiralling AI costs",
           "link": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
           "summary": "The company said earlier this year it expected to spend as much as $190bn on AI investments.",
-          "isoDate": "2026-07-22T23:02:32.000Z"
+          "isoDate": "2026-07-23T07:15:59.000Z"
         },
         {
           "title": "Teenager drops social media addiction lawsuit against Meta",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Unencoded <\nLine: 0\nColumn: 1342\nChar: =",
-          "isoDate": "2026-07-23T02:40:21.425Z"
+          "isoDate": "2026-07-23T08:28:19.467Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 57\nColumn: 58\nChar: =",
-          "isoDate": "2026-07-23T02:40:21.088Z"
+          "isoDate": "2026-07-23T08:28:19.277Z"
         },
         {
           "title": "The Computer That Helped Win World War II",
