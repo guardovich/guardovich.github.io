@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T02:36:24.226Z",
+  "generatedAt": "2026-07-24T08:26:03.359Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
@@ -72,6 +72,12 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "A Million-Panel Project",
+          "link": "https://science.nasa.gov/earth/earth-observatory/a-million-panel-project/",
+          "summary": "Utah’s new solar power and battery storage facility is among the largest in the region.",
+          "isoDate": "2026-07-24T04:01:00.000Z"
+        },
+        {
           "title": "Curiosity Blog, Sols 4954–4960: Celebrating Our Rover Engineers Past and Present",
           "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4954-4960-celebrating-our-rover-engineers-past-and-present/",
           "summary": "Written by Lucy Thompson, Senior Research Scientist, University of New Brunswick, Canada Earth planning date: Friday, July 27, 2026 As an APXS uplink lead and strategic planner, I have the privilege of working with the rover engineers most days that I am on operations. The APXS instrument measures the chemistry of rocks, unconsolidated materials and […]",
@@ -124,12 +130,6 @@
           "link": "https://www.science.org/doi/abs/10.1126/science.adx0673?af=R",
           "summary": "Science, Volume 393, Issue 6809, July 2026.",
           "isoDate": "2026-07-23T07:00:00.000Z"
-        },
-        {
-          "title": "Single-cell multiomics and chromatin structure reveal gene-regulatory dynamics in heart failure",
-          "link": "https://www.science.org/doi/abs/10.1126/science.ady6893?af=R",
-          "summary": "Science, Volume 393, Issue 6809, July 2026.",
-          "isoDate": "2026-07-23T07:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-07-24T02:36:21.282Z"
+          "isoDate": "2026-07-24T08:25:59.598Z"
         },
         {
           "title": "Google fined €890m by EU for favouring its own apps over rivals",
@@ -150,7 +150,7 @@
           "isoDate": "2026-07-23T23:10:09.000Z"
         },
         {
-          "title": "Lawmakers push for AI 'kill switch' after OpenAI goes rogue",
+          "title": "Lawmakers push for AI 'kill switch' after OpenAI models go rogue",
           "link": "https://www.bbc.co.uk/news/articles/cx2vqj2e9x8o?at_medium=RSS&at_campaign=rss",
           "summary": "A new bill would let the US government order the shutdown of AI models that pose a public threat.",
           "isoDate": "2026-07-23T20:58:35.000Z"
@@ -204,6 +204,12 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "Working to automate nuclear plant operations",
+          "link": "https://news.mit.edu/2026/working-automate-nuclear-plant-operations-lauren-fortier-0724",
+          "summary": "PhD student Lauren Fortier is building on the experience she gained operating a nuclear plant for the Navy to solve a critical hurdle in the wider adoption of the energy source.",
+          "isoDate": "2026-07-24T04:00:00.000Z"
+        },
+        {
           "title": "MIT projects selected for funding under US Department of Energy’s Genesis Mission",
           "link": "https://news.mit.edu/2026/mit-projects-selected-funding-under-doe-genesis-mission-0723",
           "summary": "Initial research projects advance national priorities across natural resources, manufacturing, nuclear physics, and more.",
@@ -256,12 +262,6 @@
           "link": "https://openai.com/index/ntt-data",
           "summary": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
           "isoDate": "2026-07-22T00:00:00.000Z"
-        },
-        {
-          "title": "Introducing the ChatGPT for small business program",
-          "link": "https://openai.com/index/introducing-chatgpt-small-business-program",
-          "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
-          "isoDate": "2026-07-21T17:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Unencoded <\nLine: 0\nColumn: 1342\nChar: =",
-          "isoDate": "2026-07-24T02:36:23.296Z"
+          "isoDate": "2026-07-24T08:26:02.148Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 57\nColumn: 58\nChar: =",
-          "isoDate": "2026-07-24T02:36:22.872Z"
+          "isoDate": "2026-07-24T08:26:01.489Z"
         },
         {
           "title": "The Computer That Helped Win World War II",
