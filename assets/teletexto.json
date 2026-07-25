@@ -1,10 +1,52 @@
 {
-  "generatedAt": "2026-07-24T19:23:44.784Z",
+  "generatedAt": "2026-07-25T02:34:42.308Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Wildfire forces evacuation of NASA's Deep Space Network complex in Spain",
+          "link": "https://arstechnica.com/space/2026/07/wildfire-forces-evacuation-of-nasas-deep-space-network-complex-in-spain/",
+          "summary": "\"Any potential damage will be assessed when it is safe to do so.\"",
+          "isoDate": "2026-07-24T22:28:20.000Z"
+        },
+        {
+          "title": "After backlash, Meta pauses plan to ‘rate limit’ its smart glasses",
+          "link": "https://www.theverge.com/tech/970970/after-backlash-meta-pauses-plan-to-rate-limit-its-smart-glasses",
+          "summary": "Remember when Meta was planning to charge a $20 monthly subscription fee for the smart glasses feature that lets people hear each other more clearly - even though that feature runs locally on your glasses and doesn't require the cloud? Meta has paused those plans, spokesperson Tyler Yee confirms to The Verge.\nThe company is not giving up on the idea of a subscription fee for certain features - that's still moving forward. Yee confirms that \"some premium features will be subscription-based over time.\"\nBut Conversation Focus, the accessibility feature, \"will remain available for free through our Early Access Program for early testers while w …\nRead the full story at The Verge.",
+          "isoDate": "2026-07-24T22:27:46.000Z"
+        },
+        {
+          "title": "Paramount/WBD merger delayed for months as states' lawsuit moves toward trial",
+          "link": "https://arstechnica.com/tech-policy/2026/07/after-court-loss-paramount-agrees-to-delay-warner-bros-merger-until-trial/",
+          "summary": "“Halting this merger while our case proceeds is a critical victory,\" NY AG said.",
+          "isoDate": "2026-07-24T21:56:02.000Z"
+        },
+        {
+          "title": "Canadian legislator reads out apparent LLM response in floor speech",
+          "link": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
+          "summary": "\"Here’s a more natural, flowing version of that section...\"",
+          "isoDate": "2026-07-24T21:25:15.000Z"
+        },
+        {
+          "title": "Anthropic's Opus 5 is about token efficiency, not a capability leap",
+          "link": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/",
+          "summary": "Models are improving quickly, but the cheaper options are often good enough.",
+          "isoDate": "2026-07-24T21:05:51.000Z"
+        },
+        {
+          "title": "Roku raises streaming stick prices by up to 60 percent",
+          "link": "https://arstechnica.com/gadgets/2026/07/roku-raises-streaming-stick-prices-by-up-to-60-percent/",
+          "summary": "Roku blames RAM shortage after CEO called it \"great\" for business in May.",
+          "isoDate": "2026-07-24T19:41:06.000Z"
+        },
+        {
+          "title": "Meta just created a moderation nightmare for its smart glasses",
+          "link": "https://www.theverge.com/report/970901/instagram-meta-glasses-prank-harassment-ban",
+          "summary": "Meta's smart glasses have been a PR headache for the company. Public backlash has been swift, and fierce; people are concerned about the erosion of privacy and expansion of surveillance. Some especially bad actors are using the glasses to film themselves \"pranking\" random strangers. Women have become unsuspecting social media content for men filming themselves hitting on them without their knowledge. When your product is being referred to as \"pervert glasses,\" you have a problem on your hands.\nOn Thursday, Business Insider reported that Meta was taking the fairly extraordinary step of banning some content filmed with Meta glasses from the c …\nRead the full story at The Verge.",
+          "isoDate": "2026-07-24T19:23:44.000Z"
+        },
         {
           "title": "Qualcomm is about to raise prices and that&#8217;s bad news for everyone",
           "link": "https://www.theverge.com/gadgets/970910/qualcomm-raising-prices-bloomberg",
@@ -12,7 +54,7 @@
           "isoDate": "2026-07-24T19:14:23.000Z"
         },
         {
-          "title": "RFK Jr.'s hand-picked committee approves manufacture of peptides he uses",
+          "title": "RFK Jr.'s handpicked committee approves manufacture of peptides he uses",
           "link": "https://arstechnica.com/health/2026/07/rfk-jr-s-hand-picked-committee-approves-manufacture-of-peptides-he-uses/",
           "summary": "There's no human safety or efficacy data, but that no longer seems to matter.",
           "isoDate": "2026-07-24T19:10:09.000Z"
@@ -22,48 +64,6 @@
           "link": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
           "summary": "Midjourney, which has gone from generating AI cat images to full-body ultrasound scans, is getting into a new field: astrology. The AI startup announced on Thursday that it has acquired the personalized astrology app Co-Star, as reported earlier by Bloomberg.\nCo-Star is a free app that offers daily horoscopes and allows you to check your compatibility with friends. As noted on the app's FAQ page, it combines human insight, data from NASA, and AI to deliver personalized advice for users each day. The terms of Midjourney's deal, which reportedly closed in spring, haven't been disclosed.\nMidjourney founder David Holz says Co-Star founder Banu …\nRead the full story at The Verge.",
           "isoDate": "2026-07-24T19:06:58.000Z"
-        },
-        {
-          "title": "DJI camera clone company Xtra is halting and refunding all preorders",
-          "link": "https://www.theverge.com/policy/970742/dji-camera-clone-company-xtra-is-halting-and-refunding-all-preorders",
-          "summary": "The Xtra Muse 2 Pro. | Image; Xtra\t\n\nAfter selling a barely disguised version of the hit DJI Osmo Pocket 3 in the United States last year, Xtra Technology seemed ready to sneak in its version of the new dual-lens Osmo Pocket 4 Pro, too. But today, Xtra has abruptly removed the new Xtra Muse 2 Pro from its website landing page, is pausing preorders indefinitely, and says it'll refund all the $20 deposits that it's already collected.\nJust days after showing off the camera at a Los Angeles launch event, the company is no longer necessarily committing to launch at all: \"XTRA has not made a final announcement regarding future product availability. We have not announced a new produc …\nRead the full story at The Verge.",
-          "isoDate": "2026-07-24T18:27:00.000Z"
-        },
-        {
-          "title": "Nothing confirms layoffs, but calls market exit rumors &#8216;fake news&#8217;",
-          "link": "https://www.theverge.com/tech/970848/nothing-layoffs-rumors-phone-4b",
-          "summary": "raw | Photo: Dominic Preston / The Verge\t\n\nIn response to a report that Nothing is planning to \"exit 12 markets as global shipments decline,\" Nothing cofounder Akis Evangelidis said the company is \"reorganizing\" and laying off some of its staff, but that \"the reported numbers are way overblown.\" Evangelidis disputed a claim about underwhelming sales for Nothing's Phone 4B, saying it \"sold 29,537 units on Day 1 only, breaking records in its price segment.\"\nHe also said Nothing isn't shutting down in any markets, and is instead \"consolidating\" its operations into regional hubs as well as introducing an \"AI-native\" business unit.\nThe update comes as rising component prices squeeze the …\nRead the full story at The Verge.",
-          "isoDate": "2026-07-24T18:10:22.000Z"
-        },
-        {
-          "title": "Roku raises streaming hardware prices by up to $50",
-          "link": "https://www.theverge.com/streaming/970814/roku-streaming-price-increase",
-          "summary": "The Roku Ultra. | Image: Roku\t\n\nRoku has increased prices across its streaming hardware, with the cheapest HD Streaming Stick now priced at $39.99 instead of $29.99, as first reported by The Desk. The price hike affects all of Roku's other devices as well, with some increasing by as much as $50. Here's a rundown of the changes:\nStreaming Stick: $29.99 to $39.99\nStreaming Stick Plus: $39.99 to $59.99\nStreaming Stick 4K: $49.99 to $79.99\nRoku Ultra: $99.99 to $149.99\nRoku Streambar SE: $99.99 to $149.99\nRoku is currently holding a sale that puts some devices at their original prices, which you can see on this archived web page. Fox announced plans to acquire  …\nRead the full story at The Verge.",
-          "isoDate": "2026-07-24T18:07:19.000Z"
-        },
-        {
-          "title": "Judge rebuffs Trump admin demand for phone records from NYT reporters",
-          "link": "https://arstechnica.com/tech-policy/2026/07/judge-rebuffs-trump-admin-demand-for-phone-records-from-nyt-reporters/",
-          "summary": "\"We can quash the subpoenas, or you could withdraw the subpoenas,” judge told US.",
-          "isoDate": "2026-07-24T18:02:21.000Z"
-        },
-        {
-          "title": "European Union grants US request to restrict satellite images of Iran War region",
-          "link": "https://arstechnica.com/space/2026/07/european-union-grants-us-request-to-restrict-satellite-images-of-iran-war-region/",
-          "summary": "New delay on Copernicus satellite pics comes as US ramps up war with Iran again.",
-          "isoDate": "2026-07-24T17:45:05.000Z"
-        },
-        {
-          "title": "Blade Runner 2099’s moody dystopia streams on Amazon in November",
-          "link": "https://www.theverge.com/entertainment/970524/blade-runner-2099-date-trailer-amazon-prime-video",
-          "summary": "After teasing the series with some first-look images yesterday, Amazon is finally properly unveiling its Blade Runner streaming series. Called Blade Runner 2099, the show hits Prime Video on November 25th with all eight episodes dropping at once. We also got the first trailer for the series, which is full of Blade Runner staples: a bleak futuristic LA, dramatic narration, and some really good coats. \nThe show is helmed by Silka Luisa, previously showrunner on Apple TV's adaptation of Shining Girls, while original Blade Runner director Ridley Scott is signed on as an executive producer. 2099 stars Michelle Yeoh and Hunter Schafer and, as the …\nRead the full story at The Verge.",
-          "isoDate": "2026-07-24T17:40:00.000Z"
-        },
-        {
-          "title": "Team uses AlphaFold AI to redesign gene-editing proteins to make them safer",
-          "link": "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/",
-          "summary": "Google's AlphaFold can help ID what parts of a gene editing protein enable mistakes.",
-          "isoDate": "2026-07-24T17:31:26.000Z"
         }
       ]
     },
@@ -75,7 +75,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
           "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-07-24T19:23:39.226Z"
+          "isoDate": "2026-07-25T02:34:35.730Z"
         },
         {
           "title": "Author Correction: Feature-specific threat coding in lateral septum guides defensive action",
@@ -102,6 +102,12 @@
           "isoDate": "2026-07-24T00:00:00.000Z"
         },
         {
+          "title": "White House rolls out AI funding — and signals a new era for US science",
+          "link": "https://www.nature.com/articles/d41586-026-02332-8",
+          "summary": "Nature, Published online: 24 July 2026; doi:10.1038/d41586-026-02332-8\nChief US science adviser calls for a shakeup in funding while handing out grants to accelerate research with AI.",
+          "isoDate": "2026-07-24T00:00:00.000Z"
+        },
+        {
           "title": "Epigenetic and 3D genome reprogramming during the aging of the human hippocampus",
           "link": "https://www.science.org/doi/abs/10.1126/science.adt8307?af=R",
           "summary": "Science, Volume 393, Issue 6809, July 2026.",
@@ -124,12 +130,6 @@
           "link": "https://www.science.org/doi/abs/10.1126/science.adx0673?af=R",
           "summary": "Science, Volume 393, Issue 6809, July 2026.",
           "isoDate": "2026-07-23T07:00:00.000Z"
-        },
-        {
-          "title": "Single-cell multiomics and chromatin structure reveal gene-regulatory dynamics in heart failure",
-          "link": "https://www.science.org/doi/abs/10.1126/science.ady6893?af=R",
-          "summary": "Science, Volume 393, Issue 6809, July 2026.",
-          "isoDate": "2026-07-23T07:00:00.000Z"
         }
       ]
     },
@@ -141,19 +141,31 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-07-24T19:23:39.927Z"
+          "isoDate": "2026-07-25T02:34:36.983Z"
+        },
+        {
+          "title": "Tech Now",
+          "link": "https://www.bbc.co.uk/iplayer/episode/m002zn5l?at_medium=RSS&at_campaign=rss",
+          "summary": "Highlights from the Esports World Cup in Paris and how to build a gaming PC.",
+          "isoDate": "2026-07-25T01:00:00.000Z"
+        },
+        {
+          "title": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
+          "link": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
+          "summary": "Hugging Face said the hack was done at superhuman speed by an AI with little or no human guidance.",
+          "isoDate": "2026-07-24T23:11:13.000Z"
+        },
+        {
+          "title": "PlayStation Network outage resolved after thousands of gamers unable to play",
+          "link": "https://www.bbc.co.uk/news/articles/cx2j0wy1gl5o?at_medium=RSS&at_campaign=rss",
+          "summary": "The outage affected gamers' ability to launch games, apps or network features on their PlayStation.",
+          "isoDate": "2026-07-24T20:37:21.000Z"
         },
         {
           "title": "Trump vows to investigate EU over fining of US tech companies",
           "link": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
           "summary": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
-          "isoDate": "2026-07-24T18:57:39.000Z"
-        },
-        {
-          "title": "PlayStation Network down, leaving thousands of gamers unable to play",
-          "link": "https://www.bbc.co.uk/news/articles/cx2j0wy1gl5o?at_medium=RSS&at_campaign=rss",
-          "summary": "Sony's status page read that it was \"working to resolve the issue as soon as possible\".",
-          "isoDate": "2026-07-24T16:59:25.000Z"
+          "isoDate": "2026-07-24T20:23:58.000Z"
         },
         {
           "title": "How Jimothy the raccoon became the internet's latest animal obsession",
@@ -184,18 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/c9803j74091o?at_medium=RSS&at_campaign=rss",
           "summary": "Jeff Gattis said the rising cost of gaming tech is likely to mean more people will stream their games online.",
           "isoDate": "2026-07-23T13:24:16.000Z"
-        },
-        {
-          "title": "'Let's enjoy the ride' says Elon Musk, as AI fears mount",
-          "link": "https://www.bbc.co.uk/news/articles/c4gkxppljpyo?at_medium=RSS&at_campaign=rss",
-          "summary": "Talking to The Economist, Musk said he doesn't care if people hate him and said he was not a racist.",
-          "isoDate": "2026-07-23T11:39:11.000Z"
-        },
-        {
-          "title": "Teenager drops social media addiction lawsuit against Meta",
-          "link": "https://www.bbc.co.uk/news/articles/c5yrdg4q9vgo?at_medium=RSS&at_campaign=rss",
-          "summary": "Claims from a 15-year-old boy were set to go to trial next week in Los Angeles, but the case has now been dropped.",
-          "isoDate": "2026-07-22T19:04:47.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-07-24T19:23:44.033Z"
+          "isoDate": "2026-07-25T02:34:41.212Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 57\nColumn: 58\nChar: =",
-          "isoDate": "2026-07-24T19:23:41.349Z"
+          "isoDate": "2026-07-25T02:34:38.577Z"
         },
         {
           "title": "2022 IEEE President K.J. Ray Liu Honored for His Leadership",
