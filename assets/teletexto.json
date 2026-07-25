@@ -1,10 +1,40 @@
 {
-  "generatedAt": "2026-07-25T13:23:42.645Z",
+  "generatedAt": "2026-07-25T19:05:16.796Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Google basically confirms the Pixel 11 is getting a price hike",
+          "link": "https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike",
+          "summary": "Google's Vice President of Devices and Services, Shakil Barkat, all but confirmed in an interview with 9to5 Google that its next Pixel phone would cost more than the Pixel 10. Considering the ongoing RAM supply issues due to the explosion of AI data centers, the rumored price hike is not a complete surprise. Companies from Apple to Nintendo, Microsoft to Roku, have all raised their prices in response to the soaring cost of memory. \nBarkat said that Google had \"shielded our consumers from supply fluctuations for as long as possible,\" but that the \"economics have fundamentally shifted and we're not immune to that.\" He went on to tell 9to5 tha …\nRead the full story at The Verge.",
+          "isoDate": "2026-07-25T18:13:36.000Z"
+        },
+        {
+          "title": "SpaceX eyes tower catch for next Starship after auspicious end to 13th flight",
+          "link": "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/",
+          "summary": "SpaceX will likely attempt to catch Starship back at the launch pad on its next flight.",
+          "isoDate": "2026-07-25T17:47:22.000Z"
+        },
+        {
+          "title": "Synth historian Oli Freke will spend big on a good bicycle",
+          "link": "https://www.theverge.com/entertainment/971013/oli-freke-bjooks-beat-gems-drum-machine-book-interview",
+          "summary": "Oli Freke is a musician and journalist whose works have appeared in Sound on Sound, The Quietus, and Mixmag. This has included using math to explore the melodic potential of the Western 12-tone scale and deep dives on effects plug-ins. He's even written a book tracing the evolution of the synthesizer from 1963 through 1995, charting the change from analog to digital and back. \nHis new project is Beat Gems, a coffee-table visual history of drum machines from publisher Bjooks. Like other Bjooks titles, Beat Gems is loaded with gorgeous photos, fascinating historical tidbits, and practical advice for making the most of your gear, whether it's  …\nRead the full story at The Verge.",
+          "isoDate": "2026-07-25T15:15:00.000Z"
+        },
+        {
+          "title": "Teenage Engineering’s unique music machines are 30 percent off",
+          "link": "https://www.theverge.com/gadgets/970685/teenage-engineering-30-percent-deal-sale",
+          "summary": "Teenage Engineering’s OP-XY has a huge number of functions. | Photo by Terrence O’Brien / The Verge\t\n\nWith elements from synthesizers, loopers, and effects pedals, Teenage Engineering’s devices lie somewhere between musical instrument and modern art. These grooveboxes, as they’re often called, are capable of helping you produce songs in real time from a single unit, with an eye-catching design language. A wide swath of the brand’s offerings are 30 percent off at Guitar Center when you use code TE30, at Amazon when you click the on-page coupon for whichever product you’re interested in, and B&H Photo (discount applied automatically at checkout). The terms for the Amazon coupon claim it will run through August 8th, 2026, while Guitar Center deal is listed as “limited time.”\nThe OP-XY is one of the flagship units, which my colleague Terrence O’Brien described as a “greatest hits tour for Teenage Engineering.” Normally $2,299, the discount code brings the price down to a more palatable $1,609.30, which is a lot cheaper, but still pretty pricey for an aspiring musician. That said, it’s loaded with features for both production and live performance, and has a premium, durable build quality that reflects its price point. It’s currently sold out at Amazon, but in stock and discounted at Guitar Center and B&H Photo. Read our Teenage Engineering OP-XY review. \nTeenage Engineering OP-XY\n\nWhere to Buy:\n\n $2299 $1609.3 at B&H Photo\n $2299 $1609.3 at Guitar Center\n\nThe model I’m most tempted by is the EP-40 Riddim, a compact sampler with a library of over 400 built-in synth settings and effects particularly well-suited for producing dub and reggae music, plus 128MB of storage for your own loops and recorded sounds. It’s a bit less intimidating for a beginner than the OP-XY, both in terms of price point and features, and its tighter genre focus may help concentrate your efforts and onboarding. Normally $329, the EP-40 is $230.30 at Amazon, Guitar Center, and B&H Photo during the promotion.\nTeenage Engineering EP-40 Riddim\n\nWhere to Buy:\n\n $329 $230.3 at Amazon\n $329 $230.3 at Guitar Center",
+          "isoDate": "2026-07-25T15:00:00.000Z"
+        },
+        {
+          "title": "Warner Bros. is suing Amazon for poaching employees",
+          "link": "https://www.theverge.com/business/971011/warner-bros-suing-amazon-poaching-employees",
+          "summary": "Warner Bros. Discovery has filed suit against Amazon, accusing it of illegally poaching employees, including Pia Barlow, former senior VP for originals marketing. In the complaint, Warner says that \"Amazon has chosen to ride on the coattails of other well-established Hollywood mainstays,\" and that it engaged in a \"lawless employee shopping spree.\" Deadline reports that Francesca Orsi, HBO's head of drama series and films, is believed to be one of the other Amazon targets.\nBarlow is set to begin a new position as Amazon's head of original series marketing on August 3rd. According to Warner's suit, Barlow was under contract until October 31st …\nRead the full story at The Verge.",
+          "isoDate": "2026-07-25T14:05:12.000Z"
+        },
         {
           "title": "Is this e-reader case a gun?",
           "link": "https://www.theverge.com/tech/970343/e-reader-case-3d-printed-gun",
@@ -34,36 +64,6 @@
           "link": "https://arstechnica.com/tech-policy/2026/07/big-tech-accused-of-stonewalling-european-social-media-researchers/",
           "summary": "Researchers say TikTok, X, and Meta aren't providing data they're legally required to.",
           "isoDate": "2026-07-25T10:45:32.000Z"
-        },
-        {
-          "title": "Forget expensive sleepbuds. Buy this pillow instead",
-          "link": "https://www.theverge.com/tech/970473/forget-expensive-sleepbuds-buy-this-pillow-instead",
-          "summary": "This “piercing pillow” also works great with earbuds you probably already own.\t\n\nTech companies love to sell us expensive gadgets to solve all of life's little problems. Sleepbuds sold by the likes of Anker and Ozlo are a good example. These miniature marvels of engineering sit flush in the ear, and allow side-sleepers to doze off listening to podcasts, audiobooks, music, or white noise without annoying their partner. But why pay over $200 for a second pair of highly specialized buds when you can spend a fraction of that for a product that never needs charging, never loses its Bluetooth connection, and won't need replacing in a few years after the battery wears out? \nPiercing pillows, as the name suggests, promise pain  …\nRead the full story at The Verge.",
-          "isoDate": "2026-07-25T07:00:00.000Z"
-        },
-        {
-          "title": "Wildfire forces evacuation of NASA's Deep Space Network complex in Spain",
-          "link": "https://arstechnica.com/space/2026/07/wildfire-forces-evacuation-of-nasas-deep-space-network-complex-in-spain/",
-          "summary": "\"Any potential damage will be assessed when it is safe to do so.\"",
-          "isoDate": "2026-07-24T22:28:20.000Z"
-        },
-        {
-          "title": "After backlash, Meta pauses plan to ‘rate limit’ its smart glasses",
-          "link": "https://www.theverge.com/tech/970970/after-backlash-meta-pauses-plan-to-rate-limit-its-smart-glasses",
-          "summary": "Remember when Meta was planning to charge a $20 monthly subscription fee for the smart glasses feature that lets people hear each other more clearly - even though that feature runs locally on your glasses and doesn't require the cloud? Meta has paused those plans, spokesperson Tyler Yee confirms to The Verge.\nThe company is not giving up on the idea of a subscription fee for certain features - that's still moving forward. Yee confirms that \"some premium features will be subscription-based over time.\"\nBut Conversation Focus, the accessibility feature, \"will remain available for free through our Early Access Program for early testers while w …\nRead the full story at The Verge.",
-          "isoDate": "2026-07-24T22:27:46.000Z"
-        },
-        {
-          "title": "Paramount/WBD merger delayed for months as states' lawsuit moves toward trial",
-          "link": "https://arstechnica.com/tech-policy/2026/07/after-court-loss-paramount-agrees-to-delay-warner-bros-merger-until-trial/",
-          "summary": "“Halting this merger while our case proceeds is a critical victory,\" NY AG said.",
-          "isoDate": "2026-07-24T21:56:02.000Z"
-        },
-        {
-          "title": "Canadian legislator reads out apparent LLM response in floor speech",
-          "link": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
-          "summary": "\"Here’s a more natural, flowing version of that section...\"",
-          "isoDate": "2026-07-24T21:25:15.000Z"
         }
       ]
     },
@@ -75,7 +75,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
           "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-07-25T13:23:37.673Z"
+          "isoDate": "2026-07-25T19:05:11.336Z"
         },
         {
           "title": "Author Correction: Feature-specific threat coding in lateral septum guides defensive action",
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-07-25T13:23:38.104Z"
+          "isoDate": "2026-07-25T19:05:12.939Z"
         },
         {
           "title": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-07-25T13:23:41.769Z"
+          "isoDate": "2026-07-25T19:05:15.975Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 57\nColumn: 58\nChar: =",
-          "isoDate": "2026-07-25T13:23:39.436Z"
+          "isoDate": "2026-07-25T19:05:14.743Z"
         },
         {
           "title": "Poetry for Engineers: A Martian Rover Sends a Postcard Home",
