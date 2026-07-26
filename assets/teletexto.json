@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-07-25T19:05:16.796Z",
+  "generatedAt": "2026-07-26T02:43:21.578Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "SDCC teaser gives us our first good look at Blade Runner 2099",
+          "link": "https://arstechnica.com/culture/2026/07/sdcc-teaser-gives-us-our-first-good-look-at-blade-runner-2099/",
+          "summary": "Also: Forging the One Ring in Rings of Power S3 teaser; new Lanterns trailer; Spaceballs: The New One panel.",
+          "isoDate": "2026-07-25T20:52:30.000Z"
+        },
         {
           "title": "Google basically confirms the Pixel 11 is getting a price hike",
           "link": "https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike",
@@ -58,12 +64,6 @@
           "link": "https://arstechnica.com/culture/2026/07/with-help-from-data-art-museums-are-reframing-the-visitor-experience/",
           "summary": "Museums are embracing data-driven curation and a shifting technology landscape.",
           "isoDate": "2026-07-25T11:00:32.000Z"
-        },
-        {
-          "title": "Big Tech accused of stonewalling European social media researchers",
-          "link": "https://arstechnica.com/tech-policy/2026/07/big-tech-accused-of-stonewalling-european-social-media-researchers/",
-          "summary": "Researchers say TikTok, X, and Meta aren't providing data they're legally required to.",
-          "isoDate": "2026-07-25T10:45:32.000Z"
         }
       ]
     },
@@ -75,7 +75,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
           "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-07-25T19:05:11.336Z"
+          "isoDate": "2026-07-26T02:43:14.901Z"
         },
         {
           "title": "Author Correction: Feature-specific threat coding in lateral septum guides defensive action",
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-07-25T19:05:12.939Z"
+          "isoDate": "2026-07-26T02:43:16.371Z"
         },
         {
           "title": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-07-25T19:05:15.975Z"
+          "isoDate": "2026-07-26T02:43:20.736Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 57\nColumn: 58\nChar: =",
-          "isoDate": "2026-07-25T19:05:14.743Z"
+          "isoDate": "2026-07-26T02:43:17.917Z"
         },
         {
           "title": "Poetry for Engineers: A Martian Rover Sends a Postcard Home",
