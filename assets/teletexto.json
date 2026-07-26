@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-07-26T08:24:36.215Z",
+  "generatedAt": "2026-07-26T13:19:57.906Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "The vertical video takeover is here",
+          "link": "https://www.theverge.com/column/970756/vertical-video-tiktok-youtube-instagram-streaming-facebook",
+          "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on all things vertical video, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here.\nHow it started\nFor a while, every social and media platform had its own identity. YouTube was for clips of TV shows and movies, and the home of so many members of a burgeoning creator community. Instagram was mostly pictures. Netflix was trying to be the on-demand HBO. Facebook was about friends. Twitter was about news. Snapchat was a messaging app.\nAll these apps did have one important …\nRead the full story at The Verge.",
+          "isoDate": "2026-07-26T12:00:00.000Z"
+        },
         {
           "title": "SDCC teaser gives us our first good look at Blade Runner 2099",
           "link": "https://arstechnica.com/culture/2026/07/sdcc-teaser-gives-us-our-first-good-look-at-blade-runner-2099/",
@@ -58,12 +64,6 @@
           "link": "https://www.theverge.com/tech/971004/z-fold8-xteink-x4-light-flip-installer",
           "summary": "Hi, friends! Welcome to Installer No. 137, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy phone season, and also you can read all the old editions at the Installer homepage.) \nThis week, I've been reading about Google Zero and armored cars for rich people, watching a lot of That's a Bad Idea videos now that YouTube knows my love for Curry Barker, testing the new 2Do redesign for my tasks, watching this excellent doc about the legendary designer Susan Kare, obsessing over every sound on the Jauffre's Sounds TikTok, sending myself lockscreen notes with the new Mononote app, and trying to vibe-cod …\nRead the full story at The Verge.",
           "isoDate": "2026-07-25T12:00:00.000Z"
-        },
-        {
-          "title": "With help from data, art museums are reframing the visitor experience",
-          "link": "https://arstechnica.com/culture/2026/07/with-help-from-data-art-museums-are-reframing-the-visitor-experience/",
-          "summary": "Museums are embracing data-driven curation and a shifting technology landscape.",
-          "isoDate": "2026-07-25T11:00:32.000Z"
         }
       ]
     },
@@ -72,10 +72,52 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "ERROR cargando feed",
-          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
-          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-07-26T08:24:29.333Z"
+          "title": "NASA Astronaut Chris Williams, Crewmates Return from Space Station",
+          "link": "https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-crewmates-return-from-space-station/",
+          "summary": "Concluding an eight-month science mission aboard the International Space Station, NASA astronaut Chris Williams returned to Earth on Sunday alongside Roscosmos cosmonauts Sergey Kud-Sverchkov and Sergei Mikaev. The crew made its safe, parachute-assisted landing at 5:27 a.m. CDT (3:27 p.m., Kazakhstan time), southeast of Dzhezkazgan, after departing the space station at 2:03 a.m., aboard the […]",
+          "isoDate": "2026-07-26T10:59:44.000Z"
+        },
+        {
+          "title": "NASA’s ESCAPADE Snaps Family Portrait of Earth, Moon",
+          "link": "https://science.nasa.gov/image-article/centers-and-facilities/goddard/nasas-escapade-snaps-family-portrait-of-earth-moon/",
+          "summary": "On July 3, one of NASA’s two Mars-destined ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) spacecraft captured photos of Earth and the Moon in visible and thermal infrared light. At the time, the spacecraft was 363,250 miles (584,600 kilometers) from Earth and 115,600 miles (186,100 kilometers) from the Moon, making the Moon appear relatively […]",
+          "isoDate": "2026-07-24T17:47:06.000Z"
+        },
+        {
+          "title": "New Crew Members Welcomed to International Space Station",
+          "link": "https://www.nasa.gov/image-article/new-crew-members-welcomed-to-international-space-station/",
+          "summary": "From left, Expedition 74 flight engineers Anna Kikina and Pyotr Dubrov of Roscosmos, and Anil Menon of NASA pose for a July 18, 2026, photo while holding a cake celebrating their recent arrival aboard the International Space Station. The trio arrived at the space station on July 14, 2026, after launching from the Baikonur Cosmodrome […]",
+          "isoDate": "2026-07-24T16:43:02.000Z"
+        },
+        {
+          "title": "NASA Announces New Spacecraft Technology Demonstration Mission at Moon    ",
+          "link": "https://www.nasa.gov/directorates/armd/nasa-announces-new-spacecraft-technology-demonstration-mission-at-moon/",
+          "summary": "NASA is working with industry to advance the next phase of cislunar infrastructure for the agency’s Artemis program and Moon Base, including orbital assets and demonstrations. Under a contract awarded to Advanced Space, the agency’s CAPSTONE 02 mission will demonstrate rendezvous and proximity operations, autonomous navigation, and cislunar communication capabilities while continuing to characterize the […]",
+          "isoDate": "2026-07-24T16:35:46.000Z"
+        },
+        {
+          "title": "NASA to Support Blue Origin New Glenn Rocket Testing, Advance Artemis",
+          "link": "https://www.nasa.gov/news-release/nasa-to-support-blue-origin-new-glenn-rocket-testing-advance-artemis/",
+          "summary": "NASA and Blue Origin announced Friday they recently agreed to conduct second stage hot fire testing for the company’s New Glenn rocket on the B-2 test stand at the agency’s Stennis Space Center near Bay St. Louis, Mississippi. The annex to a reimbursable Space Act Agreement signed earlier this month highlights NASA’s commitment to working […]",
+          "isoDate": "2026-07-24T15:30:21.000Z"
+        },
+        {
+          "title": "Hubble Spies One-Sided Spiral",
+          "link": "https://science.nasa.gov/missions/hubble/hubble-spies-one-sided-spiral/",
+          "summary": "This Hubble image features spiral galaxy NGC 4654, located 72 million light-years away in the constellation Virgo (the Maiden).",
+          "isoDate": "2026-07-24T11:11:08.000Z"
+        },
+        {
+          "title": "A Million-Panel Project",
+          "link": "https://science.nasa.gov/earth/earth-observatory/a-million-panel-project/",
+          "summary": "Utah’s new solar power and battery storage facility is among the largest in the region.",
+          "isoDate": "2026-07-24T04:01:00.000Z"
+        },
+        {
+          "title": "Curiosity Blog, Sols 4954–4960: Celebrating Our Rover Engineers Past and Present",
+          "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4954-4960-celebrating-our-rover-engineers-past-and-present/",
+          "summary": "Written by Lucy Thompson, Senior Research Scientist, University of New Brunswick, Canada Earth planning date: Friday, July 27, 2026 As an APXS uplink lead and strategic planner, I have the privilege of working with the rover engineers most days that I am on operations. The APXS instrument measures the chemistry of rocks, unconsolidated materials and […]",
+          "isoDate": "2026-07-24T01:22:13.000Z"
         },
         {
           "title": "Author Correction: Feature-specific threat coding in lateral septum guides defensive action",
@@ -88,48 +130,6 @@
           "link": "https://www.nature.com/articles/d41586-026-02267-0",
           "summary": "Nature, Published online: 24 July 2026; doi:10.1038/d41586-026-02267-0\nSwitching off one copy of a gene also enabled one of the children to walk independently for the first time.",
           "isoDate": "2026-07-24T00:00:00.000Z"
-        },
-        {
-          "title": "Briefing Chat: Baby <i>T. rex</i> were killers from birth, suggest new fossils",
-          "link": "https://www.nature.com/articles/d41586-026-02338-2",
-          "summary": "Nature, Published online: 24 July 2026; doi:10.1038/d41586-026-02338-2\nNature staff discuss the young but deadly dinosaur kings, the prowess of ancient Egyptian princesses, and how London is becoming the world’s AI safety capital.",
-          "isoDate": "2026-07-24T00:00:00.000Z"
-        },
-        {
-          "title": "Bizarre CRISPR enzyme kills cancer cells by shredding their DNA",
-          "link": "https://www.nature.com/articles/d41586-026-02268-z",
-          "summary": "Nature, Published online: 24 July 2026; doi:10.1038/d41586-026-02268-z\nEarly tests suggest the protein can be aimed at targets with tumour-causing mutations.",
-          "isoDate": "2026-07-24T00:00:00.000Z"
-        },
-        {
-          "title": "White House rolls out AI funding — and signals a new era for US science",
-          "link": "https://www.nature.com/articles/d41586-026-02332-8",
-          "summary": "Nature, Published online: 24 July 2026; doi:10.1038/d41586-026-02332-8\nChief US science adviser calls for a shakeup in funding while handing out grants to accelerate research with AI.",
-          "isoDate": "2026-07-24T00:00:00.000Z"
-        },
-        {
-          "title": "Epigenetic and 3D genome reprogramming during the aging of the human hippocampus",
-          "link": "https://www.science.org/doi/abs/10.1126/science.adt8307?af=R",
-          "summary": "Science, Volume 393, Issue 6809, July 2026.",
-          "isoDate": "2026-07-23T07:00:00.000Z"
-        },
-        {
-          "title": "Dose-dependent sensitivity of human three-dimensional chromatin to a heart disease–linked transcription factor",
-          "link": "https://www.science.org/doi/abs/10.1126/science.adv5434?af=R",
-          "summary": "Science, Volume 393, Issue 6809, July 2026.",
-          "isoDate": "2026-07-23T07:00:00.000Z"
-        },
-        {
-          "title": "A 3D genome atlas of human tonsil and the role of loop extrusion in B cell somatic hypermutation",
-          "link": "https://www.science.org/doi/abs/10.1126/science.adw4243?af=R",
-          "summary": "Science, Volume 393, Issue 6809, July 2026.",
-          "isoDate": "2026-07-23T07:00:00.000Z"
-        },
-        {
-          "title": "Human body single-cell atlas of three-dimensional genome organization and DNA methylation",
-          "link": "https://www.science.org/doi/abs/10.1126/science.adx0673?af=R",
-          "summary": "Science, Volume 393, Issue 6809, July 2026.",
-          "isoDate": "2026-07-23T07:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-07-26T08:24:31.525Z"
+          "isoDate": "2026-07-26T13:19:52.957Z"
         },
         {
           "title": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-07-26T08:24:35.594Z"
+          "isoDate": "2026-07-26T13:19:56.934Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 57\nColumn: 58\nChar: =",
-          "isoDate": "2026-07-26T08:24:32.905Z"
+          "isoDate": "2026-07-26T13:19:54.220Z"
         },
         {
           "title": "Poetry for Engineers: A Martian Rover Sends a Postcard Home",
