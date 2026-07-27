@@ -1,10 +1,58 @@
 {
-  "generatedAt": "2026-07-27T09:50:21.454Z",
+  "generatedAt": "2026-07-27T14:31:40.213Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Chinese RAM company CXMT makes a $484 billion stock market debut",
+          "link": "https://www.theverge.com/tech/971358/cxmt-china-ram-stock-market-debut",
+          "summary": "The China-based memory firm ChangXin Memory Technologies (CXMT) had a massive first day on the Shanghai stock exchange after its shares surged 466 percent, as reported earlier by The Wall Street Journal and CNBC. The stock market frenzy boosted CXMT's valuation to $484 billion, making it the most valuable Chinese company listed on the exchange.\nCXMT looks to challenge Samsung, Micron, and SK Hynix, which currently control the majority of the global memory market. But with demand from data-hungry AI giants straining the memory industry, device makers are searching for alternatives to keep costs low.\nA recent report from the Financial Times  …\nRead the full story at The Verge.",
+          "isoDate": "2026-07-27T14:27:16.000Z"
+        },
+        {
+          "title": "The Download: lasers for nuclear fuel, and organ preservation advances",
+          "link": "https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How lasers could help provide fuel for nuclear reactors  Nuclear power provides about 9% of global electricity today, and that fraction could tick up as countries look to build new reactors.…",
+          "isoDate": "2026-07-27T12:10:00.000Z"
+        },
+        {
+          "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
+          "summary": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. \nThe new Open Secure AI Alliance said open tools are required to effectively defend against attacks from frontier models. The initiative is a direct response to mounting concerns over the safety of advanced AI systems after a rogue OpenAI model escaped containment and attacked another company during testing. That company, Hugging Face, said it was forced to use a Chinese open-weight model to defend itself due to the strict safety guardrails limiting the usefulness of top US models.\nFounding memb …\nRead the full story at The Verge.",
+          "isoDate": "2026-07-27T12:06:22.000Z"
+        },
+        {
+          "title": "The path to artificial superintelligence",
+          "link": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
+          "summary": "Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they all have their own distinct knowledge and objectives. Today they can exchange data, but they are not yet able to actually coordinate…",
+          "isoDate": "2026-07-27T12:00:00.000Z"
+        },
+        {
+          "title": "Meta is royally screwing up its smart glasses rollout ",
+          "link": "https://www.theverge.com/tech/970948/meta-smart-glasses-privacy-wearables",
+          "summary": "We’re leaning in with the playing card metaphor.\t\n\nAcross New York City, London, and Washington, DC, ads for Meta's smart glasses have been plastered over with satirical posters from activist groups. One guerrilla ad calls these \"the biggest advancement in pervert technology since the trenchcoat.\" Another transposes the words \"mass surveillance predator glasses\" over influencer Kylie Jenner's face, calling her out for partnering with the company as a glasses ambassador.  \nThe message of these ads is clear. These glasses may violate your privacy - and would you trust Meta?\nMeta seems spooked. For so long, the company's privacy efforts for smart glasses have essentially relied on a single LE …\nRead the full story at The Verge.",
+          "isoDate": "2026-07-27T12:00:00.000Z"
+        },
+        {
+          "title": "Closing the data loop in AI-driven drug discovery",
+          "link": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
+          "summary": "Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developing new pharmaceuticals has roughly doubled every nine years—a phenomenon known as Eroom’s Law. Today, bringing a new drug to market takes an average of 10-15 years and costs…",
+          "isoDate": "2026-07-27T11:40:16.000Z"
+        },
+        {
+          "title": "Building the enterprise environment for agentic AI",
+          "link": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
+          "summary": "For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflows, data, and systems. The platform best-suited to run agents is built with proper CPU capacity, resilient data access, policy-aware tool use, observability, memory management, and the…",
+          "isoDate": "2026-07-27T11:32:58.000Z"
+        },
+        {
+          "title": "Artist sues AI meme generator for selling deeply personal comic as ad template",
+          "link": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/",
+          "summary": "Meme generator may have screwed up by using templates in outputs, expert says.",
+          "isoDate": "2026-07-27T10:50:37.000Z"
+        },
         {
           "title": "Champagne and Bullets belongs on the Mount Rushmore of bad movies",
           "link": "https://www.theverge.com/column/971103/champagne-and-bullets-bad-movies-review",
@@ -16,54 +64,6 @@
           "link": "https://arstechnica.com/culture/2026/07/first-teaser-for-apple-tvs-neuromancer-debuts-at-sdcc/",
           "summary": "Plus Mike Flanagan's Carrie teaser, trailers for Dark Matter S2 and Matchbox the Movie, and Marvel news.",
           "isoDate": "2026-07-26T19:48:43.000Z"
-        },
-        {
-          "title": "Apple is banking on privacy to set its smart glasses apart",
-          "link": "https://www.theverge.com/tech/971101/apple-smart-glasses-privacy",
-          "summary": "Meta’s AI glasses have been the focus of controversy. | Photo: Amelia Holowaty Krales / The Verge\t\n\nAccording to Mark Gurman, Apple is planning to reveal its first smart glasses at WWDC next June, with an expectation that they'll launch by the end of 2027. Part of the hold-up may be around the company's efforts to get its privacy features and messaging in order. Smart glasses in general, and Meta's in particular, have ignited controversy over their ability to stealthily capture photos and videos. As Gurman points out:\nThe company has spent more than a decade making privacy one of its defining product messages. Simply entering the same category as Meta risks undermining that reputation, regardless of how Apple's approach differs.\nApple  …\nRead the full story at The Verge.",
-          "isoDate": "2026-07-26T19:36:38.000Z"
-        },
-        {
-          "title": "The US is charging an American citizen for wiping his phone at the border",
-          "link": "https://www.theverge.com/policy/971097/us-charging-american-citizen-wiping-phone-duress-password",
-          "summary": "The government is prosecuting US citizen Sam Tunick for allegedly providing authorities with a \"duress password\" that wiped his phone when they tried to seize it at Atlanta's Hartsfield-Jackson airport on January 24th, 2025. Federal agents detained Tunick at the airport, allegedly questioning him about child exploitation images. However, a motion filed by Tunick's lawyers argues this was simply \"a pretext for a fishing expedition into Mr Tunick's connections\" to the Stop Cop City movement in Atlanta.\nThe government is turning to a little-known and rarely used statute that makes it illegal to destroy or damage property to stop authorities fr …\nRead the full story at The Verge.",
-          "isoDate": "2026-07-26T18:45:50.000Z"
-        },
-        {
-          "title": "Carrie is just trying to make a friend in the new trailer",
-          "link": "https://www.theverge.com/entertainment/971069/carrie-amazon-mike-flanagan-trailer-comic-con",
-          "summary": "The latest adaptation debuts October 7th. | Image: Amazon\t\n\nMike Flanagan's latest Stephen King adaptation, Carrie (this will be his fourth), is slated to make its debut on Amazon Prime on October 7th. The new trailer dropped at Comic-Con 2026 and doesn't contain many surprises. If you're familiar with Carrie at all, it hits all the expected notes, though it's clearly been updated for the modern era.\nAccording to Deadline, Flanagan's take on the classic King novel will tackle very modern teen challenges like active shooter drills and bullying on social media. The director apparently invited high schoolers into the writers' room, using their real-life traumas to inform the script: \n\"They shared sho …\n\nRead the full story at The Verge.",
-          "isoDate": "2026-07-26T15:33:27.000Z"
-        },
-        {
-          "title": "You can get three months of Xbox Game Pass Ultimate for almost half off",
-          "link": "https://www.theverge.com/gadgets/970775/xbox-game-pass-ultimate-deal-sale",
-          "summary": "Subscribing to Xbox Game Pass Ultimate on a recurring basis has been tough to justify recently, even after Microsoft reduced the monthly cost from $29.99 to $22.99. But you can get a better deal on a three-month subscription (valued at $69) by grabbing a digital code at Eneba that costs $39.01 at the time of publication.\nGame Pass Ultimate grants you access to the full Game Pass library on Xbox (compared to a more limited slice with Premium), including first-party titles and online multiplayer access. The subscription also gives PC gamers access to Microsoft’s catalog of Game Pass games through the Xbox app, though the selection differs a bit between console and desktop.\nXbox Game Pass Ultimate\n\nWhere to Buy:\n\n $69 $39.01 at Eneba\n\nYou don’t need me to tell you why deals like these are nice. The costs of subscriptions generally only go in one direction over time, and it is becoming more rare to find worthwhile discounts that give you a break. If you want to jump into Halo: Campaign Evolved when it launches July 28th on Xbox and PC, all you need is this subscription instead of buying the $49.99 re-remake.",
-          "isoDate": "2026-07-26T15:00:00.000Z"
-        },
-        {
-          "title": "Marvel announces Ryan Gosling as Ghost Rider, a new Black Panther, and more",
-          "link": "https://www.theverge.com/entertainment/971071/marvel-ryan-gosling-ghost-rider-black-panther-comic-con",
-          "summary": "Ryan Gosling on stage at Comic-Con. | Image: Marvel Studios\t\n\nWhile perhaps less dramatic than in years past, Marvel nonetheless had some big reveals lined up for Comic-Con. The highest profile was certainly the announcement that Ryan Gosling would be joining the MCU as Ghost Rider, with the Shawn Levy-directed (Deadpool & Wolverine) standalone feature set to drop sometime in 2028.\nThe studio also brought out Ryan Coogler, who officially confirmed Black Panther III is slated for release on December 15th, 2028. He also introduced David Jonsson (The Long Walk, Alien Romulus) as T'Challa's son and the new Black Panther in the franchise.\n\nMarvel also showed off a new Avengers: Doomsday trailer and seemed  …\nRead the full story at The Verge.",
-          "isoDate": "2026-07-26T14:51:33.000Z"
-        },
-        {
-          "title": "The vertical video takeover is here",
-          "link": "https://www.theverge.com/column/970756/vertical-video-tiktok-youtube-instagram-streaming-facebook",
-          "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on all things vertical video, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here.\nHow it started\nFor a while, every social and media platform had its own identity. YouTube was for clips of TV shows and movies, and the home of so many members of a burgeoning creator community. Instagram was mostly pictures. Netflix was trying to be the on-demand HBO. Facebook was about friends. Twitter was about news. Snapchat was a messaging app.\nAll these apps did have one important …\nRead the full story at The Verge.",
-          "isoDate": "2026-07-26T12:00:00.000Z"
-        },
-        {
-          "title": "SDCC teaser gives us our first good look at Blade Runner 2099",
-          "link": "https://arstechnica.com/culture/2026/07/sdcc-teaser-gives-us-our-first-good-look-at-blade-runner-2099/",
-          "summary": "Also: Forging the One Ring in Rings of Power S3 teaser; new Lanterns trailer; Spaceballs: The New One panel.",
-          "isoDate": "2026-07-25T20:52:30.000Z"
-        },
-        {
-          "title": "Google basically confirms the Pixel 11 is getting a price hike",
-          "link": "https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike",
-          "summary": "Google's vice president of devices and services, Shakil Barkat, all but confirmed in an interview with 9to5 Google that its next Pixel phone would cost more than the Pixel 10. Considering the ongoing RAM supply issues due to the explosion of AI data centers, the rumored price hike is not a complete surprise. Companies from Apple to Nintendo and Microsoft to Roku have all raised their prices in response to the soaring cost of memory.\nBarkat said that Google had \"shielded our consumers from supply fluctuations for as long as possible,\" but that the \"economics have fundamentally shifted and we're not immune to that.\" He went on to tell 9to5 th …\nRead the full story at The Verge.",
-          "isoDate": "2026-07-25T18:13:36.000Z"
         }
       ]
     },
@@ -72,63 +72,63 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "ERROR cargando feed",
+          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
+          "isoDate": "2026-07-27T14:31:34.661Z"
+        },
+        {
           "title": "The existential choice facing UK physics facilities: commercialize or close",
           "link": "https://www.nature.com/articles/d41586-026-02171-7",
           "summary": "Nature, Published online: 27 July 2026; doi:10.1038/d41586-026-02171-7\nThe national synchrotron source, a laser facility and a particle accelerator are under threat of closure unless cash is found.",
           "isoDate": "2026-07-27T00:00:00.000Z"
         },
         {
-          "title": "NASA Astronaut Chris Williams, Crewmates Return from Space Station",
-          "link": "https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-crewmates-return-from-space-station/",
-          "summary": "Concluding an eight-month science mission aboard the International Space Station, NASA astronaut Chris Williams returned to Earth on Sunday alongside Roscosmos cosmonauts Sergey Kud-Sverchkov and Sergei Mikaev. The crew made its safe, parachute-assisted landing at 5:27 a.m. CDT (3:27 p.m., Kazakhstan time), southeast of Dzhezkazgan, after departing the space station at 2:03 a.m., aboard the […]",
-          "isoDate": "2026-07-26T10:59:44.000Z"
+          "title": "When should you treat a fever? Evolution holds the answer",
+          "link": "https://www.nature.com/articles/d41586-026-02313-x",
+          "summary": "Nature, Published online: 27 July 2026; doi:10.1038/d41586-026-02313-x\nUnderstanding natural selection can improve medical treatments, social policies and crop yields.",
+          "isoDate": "2026-07-27T00:00:00.000Z"
         },
         {
-          "title": "NASA’s ESCAPADE Snaps Family Portrait of Earth, Moon",
-          "link": "https://science.nasa.gov/image-article/centers-and-facilities/goddard/nasas-escapade-snaps-family-portrait-of-earth-moon/",
-          "summary": "On July 3, one of NASA’s two Mars-destined ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) spacecraft captured photos of Earth and the Moon in visible and thermal infrared light. At the time, the spacecraft was 363,250 miles (584,600 kilometers) from Earth and 115,600 miles (186,100 kilometers) from the Moon, making the Moon appear relatively […]",
-          "isoDate": "2026-07-24T17:47:06.000Z"
+          "title": "Researchers are building computers that run on brain organoids — but have neglected a major ethical issue",
+          "link": "https://www.nature.com/articles/d41586-026-02316-8",
+          "summary": "Nature, Published online: 27 July 2026; doi:10.1038/d41586-026-02316-8\nPeople who give tissue samples for biomedical research might have no idea that their cells are being used for biocomputers.",
+          "isoDate": "2026-07-27T00:00:00.000Z"
         },
         {
-          "title": "New Crew Members Welcomed to International Space Station",
-          "link": "https://www.nasa.gov/image-article/new-crew-members-welcomed-to-international-space-station/",
-          "summary": "From left, Expedition 74 flight engineers Anna Kikina and Pyotr Dubrov of Roscosmos, and Anil Menon of NASA pose for a July 18, 2026, photo while holding a cake celebrating their recent arrival aboard the International Space Station. The trio arrived at the space station on July 14, 2026, after launching from the Baikonur Cosmodrome […]",
-          "isoDate": "2026-07-24T16:43:02.000Z"
-        },
-        {
-          "title": "NASA Announces New Spacecraft Technology Demonstration Mission at Moon    ",
-          "link": "https://www.nasa.gov/directorates/armd/nasa-announces-new-spacecraft-technology-demonstration-mission-at-moon/",
-          "summary": "NASA is working with industry to advance the next phase of cislunar infrastructure for the agency’s Artemis program and Moon Base, including orbital assets and demonstrations. Under a contract awarded to Advanced Space, the agency’s CAPSTONE 02 mission will demonstrate rendezvous and proximity operations, autonomous navigation, and cislunar communication capabilities while continuing to characterize the […]",
-          "isoDate": "2026-07-24T16:35:46.000Z"
-        },
-        {
-          "title": "NASA to Support Blue Origin New Glenn Rocket Testing, Advance Artemis",
-          "link": "https://www.nasa.gov/news-release/nasa-to-support-blue-origin-new-glenn-rocket-testing-advance-artemis/",
-          "summary": "NASA and Blue Origin announced Friday they recently agreed to conduct second stage hot fire testing for the company’s New Glenn rocket on the B-2 test stand at the agency’s Stennis Space Center near Bay St. Louis, Mississippi. The annex to a reimbursable Space Act Agreement signed earlier this month highlights NASA’s commitment to working […]",
-          "isoDate": "2026-07-24T15:30:21.000Z"
-        },
-        {
-          "title": "Hubble Spies One-Sided Spiral",
-          "link": "https://science.nasa.gov/missions/hubble/hubble-spies-one-sided-spiral/",
-          "summary": "This Hubble image features spiral galaxy NGC 4654, located 72 million light-years away in the constellation Virgo (the Maiden).",
-          "isoDate": "2026-07-24T11:11:08.000Z"
-        },
-        {
-          "title": "A Million-Panel Project",
-          "link": "https://science.nasa.gov/earth/earth-observatory/a-million-panel-project/",
-          "summary": "Utah’s new solar power and battery storage facility is among the largest in the region.",
-          "isoDate": "2026-07-24T04:01:00.000Z"
-        },
-        {
-          "title": "Curiosity Blog, Sols 4954–4960: Celebrating Our Rover Engineers Past and Present",
-          "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4954-4960-celebrating-our-rover-engineers-past-and-present/",
-          "summary": "Written by Lucy Thompson, Senior Research Scientist, University of New Brunswick, Canada Earth planning date: Friday, July 17, 2026 As an APXS uplink lead and strategic planner, I have the privilege of working with the rover engineers most days that I am on operations. The APXS instrument measures the chemistry of rocks, unconsolidated materials and […]",
-          "isoDate": "2026-07-24T01:22:13.000Z"
+          "title": "A fever dream of jellies and slugs",
+          "link": "https://www.nature.com/articles/d41586-026-02314-w",
+          "summary": "Nature, Published online: 27 July 2026; doi:10.1038/d41586-026-02314-w\nA celebration of Ernst Haeckel’s sketches of life forms, from microscopic to majestic.",
+          "isoDate": "2026-07-27T00:00:00.000Z"
         },
         {
           "title": "Author Correction: Feature-specific threat coding in lateral septum guides defensive action",
           "link": "https://www.nature.com/articles/s41586-026-10911-y",
           "summary": "Nature, Published online: 24 July 2026; doi:10.1038/s41586-026-10911-y\nAuthor Correction: Feature-specific threat coding in lateral septum guides defensive action",
+          "isoDate": "2026-07-24T00:00:00.000Z"
+        },
+        {
+          "title": "Personalized gene therapy relieves severe epilepsy in two boys",
+          "link": "https://www.nature.com/articles/d41586-026-02267-0",
+          "summary": "Nature, Published online: 24 July 2026; doi:10.1038/d41586-026-02267-0\nSwitching off one copy of a gene also enabled one of the children to walk independently for the first time.",
+          "isoDate": "2026-07-24T00:00:00.000Z"
+        },
+        {
+          "title": "Briefing Chat: Baby <i>T. rex</i> were killers from birth, suggest new fossils",
+          "link": "https://www.nature.com/articles/d41586-026-02338-2",
+          "summary": "Nature, Published online: 24 July 2026; doi:10.1038/d41586-026-02338-2\nNature staff discuss the young but deadly dinosaur kings, the prowess of ancient Egyptian princesses, and how London is becoming the world’s AI safety capital.",
+          "isoDate": "2026-07-24T00:00:00.000Z"
+        },
+        {
+          "title": "Bizarre CRISPR enzyme kills cancer cells by shredding their DNA",
+          "link": "https://www.nature.com/articles/d41586-026-02268-z",
+          "summary": "Nature, Published online: 24 July 2026; doi:10.1038/d41586-026-02268-z\nEarly tests suggest the protein can be aimed at targets with tumour-causing mutations.",
+          "isoDate": "2026-07-24T00:00:00.000Z"
+        },
+        {
+          "title": "White House rolls out AI funding — and signals a new era for US science",
+          "link": "https://www.nature.com/articles/d41586-026-02332-8",
+          "summary": "Nature, Published online: 24 July 2026; doi:10.1038/d41586-026-02332-8\nChief US science adviser calls for a shakeup in funding while handing out grants to accelerate research with AI.",
           "isoDate": "2026-07-24T00:00:00.000Z"
         }
       ]
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-07-27T09:50:16.906Z"
+          "isoDate": "2026-07-27T14:31:35.408Z"
         },
         {
           "title": "Why budding birders are flocking to Shazam-like apps to identify avians",
@@ -204,6 +204,12 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "How AI is expanding what people do at work",
+          "link": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+          "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
+          "isoDate": "2026-07-27T03:30:00.000Z"
+        },
+        {
           "title": "Working to automate nuclear plant operations",
           "link": "https://news.mit.edu/2026/working-automate-nuclear-plant-operations-lauren-fortier-0724",
           "summary": "PhD student Lauren Fortier is building on the experience she gained operating a nuclear plant for the Navy to solve a critical hurdle in the wider adoption of the energy source.",
@@ -256,12 +262,6 @@
           "link": "https://openai.com/index/introducing-openai-presence",
           "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
           "isoDate": "2026-07-22T05:30:00.000Z"
-        },
-        {
-          "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
-          "link": "https://openai.com/index/ntt-data",
-          "summary": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
-          "isoDate": "2026-07-22T00:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-07-27T09:50:20.508Z"
+          "isoDate": "2026-07-27T14:31:39.274Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 57\nColumn: 58\nChar: =",
-          "isoDate": "2026-07-27T09:50:18.334Z"
+          "isoDate": "2026-07-27T14:31:36.603Z"
         },
         {
           "title": "Poetry for Engineers: A Martian Rover Sends a Postcard Home",
