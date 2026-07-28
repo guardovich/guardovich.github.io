@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T02:29:02.425Z",
+  "generatedAt": "2026-07-28T08:32:15.106Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
@@ -72,10 +72,46 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "ERROR cargando feed",
-          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
-          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-07-28T02:28:56.936Z"
+          "title": "Smoke Blankets Oregon",
+          "link": "https://science.nasa.gov/earth/natural-disasters/wildfires/smoke-blankets-oregon/",
+          "summary": "Lightning storms have ignited dozens of fires in central and eastern Oregon.",
+          "isoDate": "2026-07-28T04:01:00.000Z"
+        },
+        {
+          "title": "NASA Astronaut Chris Williams to Discuss Space Station Mission",
+          "link": "https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-to-discuss-space-station-mission/",
+          "summary": "NASA astronaut Chris Williams will recap his recent eight-month mission aboard the International Space Station during a news conference at 2:45 p.m. EDT Tuesday, Aug. 4, from the agency’s Johnson Space Center in Houston. NASA will stream this event live through a variety of platforms. Learn where to watch online: https://www.nasa.gov/live United States-based media interested […]",
+          "isoDate": "2026-07-27T18:49:20.000Z"
+        },
+        {
+          "title": "NASA Science Soars During August Total Solar Eclipse",
+          "link": "https://science.nasa.gov/science-research/heliophysics/nasa-science-soars-during-august-total-solar-eclipse/",
+          "summary": "Each time the Moon covers the Sun during a total solar eclipse — darkening daytime skies and briefly revealing the Sun’s ethereal outer atmosphere, the corona — it presents new opportunities to better understand our star and its influence on Earth. On Wednesday, Aug. 12, as the next total solar eclipse sweeps over Greenland, Iceland, […]",
+          "isoDate": "2026-07-27T18:01:14.000Z"
+        },
+        {
+          "title": "NASA Astronaut Chris Williams Returns to Earth",
+          "link": "https://www.nasa.gov/image-article/nasa-astronaut-chris-williams-returns-to-earth/",
+          "summary": "NASA astronaut Chris Williams is all smiles in this July 26, 2026, photo taken shortly after he landed with Expedition 74 Roscosmos cosmonauts Sergey Kud-Sverchkov, and Sergei Mikaev in Kazakhstan. This was Williams’ first mission. Williams spent eight months aboard the International Space Station, where he supported a wide range of scientific investigations and technology demonstrations. He […]",
+          "isoDate": "2026-07-27T16:48:46.000Z"
+        },
+        {
+          "title": "NASA’s Swift Sees ‘Wandering’ Mega Black Hole Shredding Star",
+          "link": "https://science.nasa.gov/missions/swift/nasas-swift-sees-wandering-mega-black-hole-shredding-star/",
+          "summary": "NASA’s Neil Gehrels Swift Observatory captured an “orphan” black hole lighting up as it devoured a star on the outskirts of a faraway galaxy. These phenomena are rare to begin with, and none had ever before been seen so far outside of a galaxy’s core. “We were looking for these star-shredding events as a way […]",
+          "isoDate": "2026-07-27T16:06:37.000Z"
+        },
+        {
+          "title": "NASA to Cover Three US Spacewalks, Host Preview News Conference",
+          "link": "https://www.nasa.gov/news-release/nasa-to-cover-three-us-spacewalks-host-preview-news-conference/",
+          "summary": "Editor’s note: This media advisory was updated July 27, 2026 to reflect an updated start time for the spacewalk on Thursday, Aug. 6. NASA will provide coverage as astronauts venture outside the International Space Station during three spacewalks in August to continue upgrading solar arrays, replace a communications antenna, and connect power and data cables […]",
+          "isoDate": "2026-07-27T14:35:11.000Z"
+        },
+        {
+          "title": "NASA’s Hubble Shows Star Formation in Andromeda Galaxy Winding Down",
+          "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-shows-star-formation-in-andromeda-galaxy-winding-down/",
+          "summary": "NASA’s Hubble finds that star formation in the Andromeda galaxy has undergone a 500-million-year decline.",
+          "isoDate": "2026-07-27T14:00:14.000Z"
         },
         {
           "title": "Pyridoxal photoenzymes for asymmetric radical–radical cross-couplings",
@@ -94,42 +130,6 @@
           "link": "https://www.nature.com/articles/d41586-026-02171-7",
           "summary": "Nature, Published online: 27 July 2026; doi:10.1038/d41586-026-02171-7\nThe national synchrotron source, a laser facility and a particle accelerator are under threat of closure unless cash is found.",
           "isoDate": "2026-07-27T00:00:00.000Z"
-        },
-        {
-          "title": "‘Timer’ in the brain tracks sleep — and predicts awakening ",
-          "link": "https://www.nature.com/articles/d41586-026-02294-x",
-          "summary": "Nature, Published online: 27 July 2026; doi:10.1038/d41586-026-02294-x\nChemical tags on proteins could provide a biomarker for sleep deprivation, mouse studies suggest.",
-          "isoDate": "2026-07-27T00:00:00.000Z"
-        },
-        {
-          "title": "When should you treat a fever? Evolution holds the answer",
-          "link": "https://www.nature.com/articles/d41586-026-02313-x",
-          "summary": "Nature, Published online: 27 July 2026; doi:10.1038/d41586-026-02313-x\nUnderstanding natural selection can improve medical treatments, social policies and crop yields.",
-          "isoDate": "2026-07-27T00:00:00.000Z"
-        },
-        {
-          "title": "How to prevent AI from harming mathematics",
-          "link": "https://www.nature.com/articles/d41586-026-02309-7",
-          "summary": "Nature, Published online: 27 July 2026; doi:10.1038/d41586-026-02309-7\nMathematicians must urgently recognize AI’s impacts on their field — and act swiftly to mitigate threats.",
-          "isoDate": "2026-07-27T00:00:00.000Z"
-        },
-        {
-          "title": "Researchers are building computers that run on brain organoids — but have neglected a major ethical issue",
-          "link": "https://www.nature.com/articles/d41586-026-02316-8",
-          "summary": "Nature, Published online: 27 July 2026; doi:10.1038/d41586-026-02316-8\nPeople who give tissue samples for biomedical research might have no idea that their cells are being used for biocomputers.",
-          "isoDate": "2026-07-27T00:00:00.000Z"
-        },
-        {
-          "title": "A fever dream of jellies and slugs",
-          "link": "https://www.nature.com/articles/d41586-026-02314-w",
-          "summary": "Nature, Published online: 27 July 2026; doi:10.1038/d41586-026-02314-w\nA celebration of Ernst Haeckel’s sketches of life forms, from microscopic to majestic.",
-          "isoDate": "2026-07-27T00:00:00.000Z"
-        },
-        {
-          "title": "Author Correction: Feature-specific threat coding in lateral septum guides defensive action",
-          "link": "https://www.nature.com/articles/s41586-026-10911-y",
-          "summary": "Nature, Published online: 24 July 2026; doi:10.1038/s41586-026-10911-y\nAuthor Correction: Feature-specific threat coding in lateral septum guides defensive action",
-          "isoDate": "2026-07-24T00:00:00.000Z"
         }
       ]
     },
@@ -141,19 +141,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-07-28T02:28:59.136Z"
+          "isoDate": "2026-07-28T08:32:12.298Z"
+        },
+        {
+          "title": "Some people's chats with Claude AI found to be publicly available online",
+          "link": "https://www.bbc.co.uk/news/articles/cly5qgjk5ywo?at_medium=RSS&at_campaign=rss",
+          "summary": "Hundreds of conversations with Anthropic’s chatbot were discovered as being publicly accessible.",
+          "isoDate": "2026-07-28T07:10:37.000Z"
         },
         {
           "title": "Is it time to stop using glue and labels on paper?",
           "link": "https://www.bbc.co.uk/news/articles/c872nj1n4xyo?at_medium=RSS&at_campaign=rss",
           "summary": "Labels and adhesives can prevent paper from being recycled but there's new tech aimed at changing that.",
           "isoDate": "2026-07-27T23:00:06.000Z"
-        },
-        {
-          "title": "Some people's chats with Claude AI found publicly available online",
-          "link": "https://www.bbc.co.uk/news/articles/cly5qgjk5ywo?at_medium=RSS&at_campaign=rss",
-          "summary": "Hundreds of conversations with Anthropic’s chatbot were discovered as being publicly accessible.",
-          "isoDate": "2026-07-27T22:14:04.000Z"
         },
         {
           "title": "Why budding birders are flocking to Shazam-like apps to identify avians",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-07-28T02:29:01.688Z"
+          "isoDate": "2026-07-28T08:32:14.239Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 57\nColumn: 58\nChar: =",
-          "isoDate": "2026-07-28T02:29:00.051Z"
+          "isoDate": "2026-07-28T08:32:13.270Z"
         },
         {
           "title": "Why AI-Driven Cognitive Systems Are Redefining Radar and Electronic Warfare",
