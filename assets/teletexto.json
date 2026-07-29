@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-07-29T02:33:37.486Z",
+  "generatedAt": "2026-07-29T08:39:02.330Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Audi has a new flagship designed with the US in mind: The 2027 Q9",
+          "link": "https://arstechnica.com/cars/2026/07/audi-has-a-new-flagship-designed-with-the-us-in-mind-the-2027-q9/",
+          "summary": "The new full-size flagship SUV starts at $87,700 when it goes on sale in Q4.",
+          "isoDate": "2026-07-29T01:00:36.000Z"
+        },
         {
           "title": "The US is banning foreign robots",
           "link": "https://www.theverge.com/tech/972259/us-foreign-robots-power-inverter-ban",
@@ -58,12 +64,6 @@
           "link": "https://arstechnica.com/science/2026/07/dust-cloud-from-dino-killing-asteroid-charbroiled-the-earth/",
           "summary": "“We're in the realm where we might be essentially killing off everything within that first hour or two.\"",
           "isoDate": "2026-07-28T20:51:45.000Z"
-        },
-        {
-          "title": "Philly suburb: Sure, build that data center—but first meet our 43 demands",
-          "link": "https://arstechnica.com/tech-policy/2026/07/philly-suburb-sure-build-that-data-center-but-first-meet-our-43-demands/",
-          "summary": "The final condition will shock you! (It won’t. It’s taxes.)",
-          "isoDate": "2026-07-28T20:43:19.000Z"
         }
       ]
     },
@@ -72,10 +72,16 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "ERROR cargando feed",
-          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
-          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-07-29T02:33:29.627Z"
+          "title": "Sizing Up the Sargassum Belt",
+          "link": "https://science.nasa.gov/earth/earth-observatory/sizing-up-the-sargassum-belt/",
+          "summary": "Seaweed composing the Great Atlantic Sargassum Belt hit near-record levels in June 2026, with the Caribbean Sea and Gulf of America both reaching all-time highs.",
+          "isoDate": "2026-07-29T04:00:00.000Z"
+        },
+        {
+          "title": "Smoke Blankets Oregon",
+          "link": "https://science.nasa.gov/earth/natural-disasters/wildfires/smoke-blankets-oregon/",
+          "summary": "Lightning storms have ignited dozens of fires in central and eastern Oregon.",
+          "isoDate": "2026-07-28T04:01:00.000Z"
         },
         {
           "title": "Editorial Expression of Concern: Carcinoma-produced factors activate myeloid cells through TLR2 to stimulate metastasis",
@@ -124,12 +130,6 @@
           "link": "https://www.nature.com/articles/d41586-026-02333-7",
           "summary": "Nature, Published online: 28 July 2026; doi:10.1038/d41586-026-02333-7\nInfernos ravaged continental expanses of ferns during mass extinction of land and sea animals.",
           "isoDate": "2026-07-28T00:00:00.000Z"
-        },
-        {
-          "title": "Conversational AI: align commercial incentives with public interests",
-          "link": "https://www.nature.com/articles/d41586-026-02348-0",
-          "summary": "Nature, Published online: 28 July 2026; doi:10.1038/d41586-026-02348-0\nConversational AI: align commercial incentives with public interests",
-          "isoDate": "2026-07-28T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-07-29T02:33:31.119Z"
+          "isoDate": "2026-07-29T08:38:57.256Z"
         },
         {
           "title": "Brits urged to avoid dangerous plug adaptors this summer - what to watch out for",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-07-29T02:33:36.648Z"
+          "isoDate": "2026-07-29T08:39:01.517Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 57\nColumn: 58\nChar: =",
-          "isoDate": "2026-07-29T02:33:33.165Z"
+          "isoDate": "2026-07-29T08:38:58.269Z"
         },
         {
           "title": "Laboratoria’s Mariana Costa Empowers Women in Tech",
