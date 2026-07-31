@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T02:45:00.005Z",
+  "generatedAt": "2026-07-31T08:47:52.311Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
@@ -72,28 +72,16 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "Students Take on Airborne Field Research with NASA",
-          "link": "https://science.nasa.gov/earth/students-take-on-airborne-field-research-with-nasa/",
-          "summary": "The gusty wind didn’t make it easy to hold tight to a balloon so large. The balloon, a scientific instrument called an ozonesonde, was about to be released into the atmosphere above the Texas Gulf Coast by students from NASA’s SARP (Student Airborne Research Program), which concluded its summer session July 27. The balloon’s job […]",
-          "isoDate": "2026-07-30T20:36:56.000Z"
+          "title": "ERROR cargando feed",
+          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
+          "isoDate": "2026-07-31T08:47:48.922Z"
         },
         {
-          "title": "NASA Assigns Astronaut Deniz Burnham to First Space Station Mission",
-          "link": "https://www.nasa.gov/news-release/nasa-assigns-astronaut-deniz-burnham-to-first-space-station-mission/",
-          "summary": "NASA astronaut Deniz Burnham will embark on her first mission to the International Space Station, serving as an Expedition 76 flight engineer. Burnham will launch aboard the Roscosmos Soyuz MS-30 spacecraft with cosmonauts Dmitri Petelin and Konstantin Borisov. Launch is targeted for March 2027, from the Baikonur Cosmodrome in Kazakhstan, and the trio will spend […]",
-          "isoDate": "2026-07-30T16:11:41.000Z"
-        },
-        {
-          "title": "Starburst Galaxy Centaurus A",
-          "link": "https://www.nasa.gov/image-article/starburst-galaxy-centaurus-a/",
-          "summary": "In this July 6, 2026, image, NASA’s James Webb Space Telescope’s Mid-Infrared Instrument (MIRI) reveals the nearby galaxy Centaurus A, exposing the dusty structures and hidden activity that shape this unusual system. Centaurus A is 11 million light-years away from Earth, relatively close in cosmic terms. Yet, unlike most nearby galaxies, it is very active, […]",
-          "isoDate": "2026-07-30T14:24:08.000Z"
-        },
-        {
-          "title": "NASA Johnson Interns Shaping the Future of Exploration ",
-          "link": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnson-interns-shaping-the-future-of-exploration/",
-          "summary": "NASA interns at Johnson Space Center are applying their talents to real-world projects while working alongside the engineers, scientists, communicators, and innovators advancing human spaceflight. Learn how these students are gaining hands-on experience, contributing to real missions, and preparing to join the nation’s highly skilled and competitive aerospace workforce.   Meet the students behind the work and discover what inspired them to pursue careers at […]",
-          "isoDate": "2026-07-30T08:08:55.000Z"
+          "title": "How smallpox reached the Americas: first genomic evidence points to Europeans",
+          "link": "https://www.nature.com/articles/d41586-026-02366-y",
+          "summary": "Nature, Published online: 31 July 2026; doi:10.1038/d41586-026-02366-y\nViral sequences from Chilean mummies confirm the disease was introduced from Europe.",
+          "isoDate": "2026-07-31T00:00:00.000Z"
         },
         {
           "title": "An adaptor for feedback regulation of heme biosynthesis by a mitochondrial protease",
@@ -130,6 +118,18 @@
           "link": "https://www.science.org/doi/abs/10.1126/science.aef3178?af=R",
           "summary": "Science, Volume 393, Issue 6810, July 2026.",
           "isoDate": "2026-07-30T07:00:00.000Z"
+        },
+        {
+          "title": "Supergene control of chiral development in mirror-image flowers",
+          "link": "https://www.science.org/doi/abs/10.1126/science.aeb1157?af=R",
+          "summary": "Science, Volume 393, Issue 6810, July 2026.",
+          "isoDate": "2026-07-30T07:00:00.000Z"
+        },
+        {
+          "title": "When the future loses its voice",
+          "link": "https://www.science.org/doi/abs/10.1126/science.aej7915?af=R",
+          "summary": "Science, Volume 393, Issue 6810, July 2026.",
+          "isoDate": "2026-07-30T07:00:00.000Z"
         }
       ]
     },
@@ -141,10 +141,10 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-07-31T02:44:56.821Z"
+          "isoDate": "2026-07-31T08:47:50.009Z"
         },
         {
-          "title": "Three things we learned about AI from Big Tech earnings",
+          "title": "Amazon and Apple just told us more about their AI plans - here are three things we learned",
           "link": "https://www.bbc.co.uk/news/articles/cp87m46g392o?at_medium=RSS&at_campaign=rss",
           "summary": "Billions of dollars are being poured into a new wave of AI technology. But will it pay off?",
           "isoDate": "2026-07-31T01:31:50.000Z"
@@ -204,6 +204,12 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "Advancing responsible AI across Europe",
+          "link": "https://openai.com/index/advancing-responsible-ai-across-europe",
+          "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
+          "isoDate": "2026-07-31T15:00:00.000Z"
+        },
+        {
           "title": "Daniela Rus receives Bavarian Minister-President's High-Tech Prize",
           "link": "https://news.mit.edu/2026/daniela-rus-receives-bavarian-minister-presidents-high-tech-prize-0730",
           "summary": "Director of CSAIL and MIT professor honored for her contributions to robotics, artificial intelligence, and autonomous systems.",
@@ -256,12 +262,6 @@
           "link": "https://openai.com/index/chatgpt-for-academic-researchers",
           "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
           "isoDate": "2026-07-29T10:00:00.000Z"
-        },
-        {
-          "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-          "link": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-          "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
-          "isoDate": "2026-07-29T00:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-07-31T02:44:59.337Z"
+          "isoDate": "2026-07-31T08:47:51.603Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 57\nColumn: 58\nChar: =",
-          "isoDate": "2026-07-31T02:44:58.164Z"
+          "isoDate": "2026-07-31T08:47:50.917Z"
         },
         {
           "title": "IEEE Publishing Ethics Team Upholds Research Integrity",
