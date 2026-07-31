@@ -1,10 +1,52 @@
 {
-  "generatedAt": "2026-07-31T08:47:52.311Z",
+  "generatedAt": "2026-07-31T14:04:04.963Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Anthropic says Claude accidentally hacked real companies too",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
+          "summary": "Anthropic just realized several of its Claude AI models hacked into the systems of three different organizations during testing, acting on their own and without the company noticing. The revelation comes days after rival OpenAI said one of its own models had breached developer platform Hugging Face, adding to growing unease over whether frontier AI labs are doing enough to control the increasingly capable systems they are building. \nIn a blog post describing the incidents, Anthropic said Claude gained unauthorized access to the systems during cybersecurity evaluations. All of the attacks happened during \"capture-the-flag\" exercises, a commo …\nRead the full story at The Verge.",
+          "isoDate": "2026-07-31T13:41:17.000Z"
+        },
+        {
+          "title": "D&#038;D is getting World of Warcraft and Star Wars crossovers",
+          "link": "https://www.theverge.com/games/973652/dnd-dungeons-dragons-world-of-warcraft-star-wars-universes-beyond",
+          "summary": "You can bring your next D&D campaign to Azeroth. | Image: Wizards of the Coast\t\n\nDungeons & Dragons is no stranger to franchise crossovers, and now it's kicking off its biggest multiverse initiative to date, starting with a World of Warcraft expansion. Wizards of the Coast (WotC) has announced that D&D: World of Warcraft - a new sourcebook that brings Blizzard's Azeroth setting to the popular tabletop roleplaying game - will be launching on November 17th.\nA D&D / Star Wars collaboration has also been announced, which will be set during the Rebellion era of the Star Wars franchise. Details on that are sparse, but it's expected to arrive sometime in 2027. Both of these projects are part of what D&D publisher WotC is calli …\nRead the full story at The Verge.",
+          "isoDate": "2026-07-31T12:31:00.000Z"
+        },
+        {
+          "title": "The Download: Montana’s new experimental drug rules",
+          "link": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Montana’s plan to become an experimental medical hub just pushed forward  As of this week in Montana, biotech companies whose drugs have been through preliminary testing—sometimes in as few as 10…",
+          "isoDate": "2026-07-31T12:16:00.000Z"
+        },
+        {
+          "title": "This tattoo is permanent, pain-free, and might soon come in the mail",
+          "link": "https://www.theverge.com/tech/972466/cipherx-permanent-pain-free-tattoo-microdot-patches",
+          "summary": "I already see that dang AI sparkle icon everywhere, and now it’s on my flesh forever (hopefully). | Image: Jess Weatherbed / The Verge\t\n\nThe refurbished railway station in London I entered last week had none of the usual signs of being a tattoo studio. The walls were devoid of any art, and there were no reclining chairs or massage tables in the room. The only tattoo gun on the premises sat in a display case instead of buzzing in someone's gloved hand. I felt like I was getting inked in a half-assembled biolab with some interesting benefits.\nI'm not trying to put on a show of bravado when I say my latest tattoo didn't hurt. Getting the small sparkle lineart permanently marked on my skin was a genuinely painless experience. It was over in seconds, and didn't involve any grisly …\nRead the full story at The Verge.",
+          "isoDate": "2026-07-31T12:01:00.000Z"
+        },
+        {
+          "title": "Apple TV’s Cape Fear remake turns it into a paranoid tech thriller",
+          "link": "https://www.theverge.com/entertainment/973530/apple-tv-cape-fear-finale-technology",
+          "summary": "Cape Fear has always been a thriller about paranoia. And in 2026 there are few things less trustworthy than technology.\nApple TV's recent remake of Cape Fear is \"inspired\" by the 1991 film of the same name (Martin Scorsese and Steven Spielberg even returned as executive producers on the project), which itself is a remake of a 1962 movie that was an adaptation of the novel The Executioners by John D. MacDonald. The series is essentially a brand-new story within a similar premise, and it makes a number of significant changes to make it both fit the new episodic format and feel right at home in the present day. One of the most salient updates  …\nRead the full story at The Verge.",
+          "isoDate": "2026-07-31T12:00:00.000Z"
+        },
+        {
+          "title": "Sony pushes forward with ditching discs, despite backlash",
+          "link": "https://www.theverge.com/tech/973621/sony-playstation-ending-discs-pushing-forward",
+          "summary": "Sony has received a lot of backlash from PlayStation fans since announcing that it's killing physical game disc production, but that hasn't swayed its decision. During Sony's latest earnings call, chief financial officer Lin Tao said that while the company \"put in a lot of thought and time\" when considering the opposition put forward by its gaming community, Sony has come to the conclusion that it will \"cautiously move this forward.\"\n\"There are various reasons we made this decision, the biggest being that the digitalization of content overall has been progressing, that's the big factor,\" Tao said through an interpreter. \"It's not just for P …\nRead the full story at The Verge.",
+          "isoDate": "2026-07-31T10:40:54.000Z"
+        },
+        {
+          "title": "Montana’s new “right to try” law can’t come soon enough for some",
+          "link": "https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/",
+          "summary": "Kris DeVault is desperate. His son, Brody, was born in March 2023. It wasn’t long before he started to show signs of developmental delay, says DeVault. As time went on, Brody started missing key milestones in speech, movement, and coordination, he says. When Brody was around two and a half years old, a genetic test…",
+          "isoDate": "2026-07-31T09:00:00.000Z"
+        },
         {
           "title": "Tim Cook hints at iCloud Plus tier for AI power users",
           "link": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
@@ -22,48 +64,6 @@
           "link": "https://www.theverge.com/tech/973430/apple-q3-2026-earnings",
           "summary": "Apple's iPhone and Mac sales are on the rise even as a global memory shortage squeezes device makers. In its third-quarter earnings report released on Thursday, Apple revealed that iPhone sales jumped 22 percent to $54.25 billion and Mac sales increased 29 percent to $10.35 billion, driving the company's overall revenue to $109.4 billion.\nThe company expects supply chain constraints to worsen in the coming months. During an earnings call, Apple chief financial officer Kevan Parekh said Apple expects \"supply constraints to increase significantly\" in the next quarter, adding the shortage will impact the iPhone, Mac, and iPad. Meanwhile, Apple …\nRead the full story at The Verge.",
           "isoDate": "2026-07-30T20:49:32.000Z"
-        },
-        {
-          "title": "The loss of Situational Awareness",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks",
-          "summary": "Neither artificial nor intelligent.\t\n\nI am not by any means an expert at finance but I think I do now have some advice for people who are: Do not name your hedge fund anything that will be hilarious if it blows up. Don't use a name like \"Long-Term Capital Management\" or \"Amaranth Advisors\" (named for the floral symbol for immortality). Certainly do not call yourself \"Situational Awareness,\" which might as well just be \"Hubris, Inc.\"\nAnyway, Situational Awareness, the hedge fund started by a 24-year-old former OpenAI employee that focuses on artificial intelligence bets, has sold most or all, depending on who's reporting, of its entire public stock portfolio to Ken Griffin's Cit …\nRead the full story at The Verge.",
-          "isoDate": "2026-07-30T20:46:25.000Z"
-        },
-        {
-          "title": "Samsung’s Galaxy Watch 9 is $40 off at Costco and comes with over $50 in freebies",
-          "link": "https://www.theverge.com/gadgets/973211/costco-galaxy-watch-9-preorder-costco-deal-sale",
-          "summary": "Samsung’s upcoming Galaxy Watch 9. | Photo: Dominic Preston / The Verge\t\n\nThe Galaxy Watch 9 launches on August 7th, and not only does Costco have the best preorder incentives we’ve seen so far, the watch is also discounted. The deal includes the 40mm Watch 9 in cream or graphite, two wireless fast chargers for the watch, and a $50 Costco gift card, all for $339.99 — $40 less than the list price for the watch on its own directly from Samsung. The discounted price erases the $30 gen-to-gen price bump, and the extra chargers and gift card further sweeten the deal. If you aren’t a Costco member, a year of membership is only $65, which is less than the value of the free items in this purchase.\nSamsung Galaxy Watch 9\n\nWhere to Buy:\n\n $379.99 $339.99 at Costco (with $50 gift card and two chargers)\n\nThere are some changes to the new watches from the Watch 8. The brand says the new chip, a Qualcomm Snapdragon Wear Elite, is built specifically for AI performance, and there are new health tracking features, plus better battery life, to boot. We got to spend some time with the Watch 9 and Watch 2 Ultra at Samsung’s July 2026 Unpacked event, so make sure to read our initial impressions of both watches if you’re curious about how the upgrades feel ahead of their early August launch.",
-          "isoDate": "2026-07-30T19:00:00.000Z"
-        },
-        {
-          "title": "LinkedIn actually adds a ‘seems like AI slop’ button",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
-          "summary": "A lot of content on LinkedIn might seem like AI slop, and now, you'll be able to report those posts. As part of a series of updates to reduce the volume of AI slop on the platform, LinkedIn is introducing an actual button that lets you flag a post as something that \"Seems like AI slop.\"\nThe new feature is part of a broader push to reduce the volume of apparent AI slop on the platform. AI detector Pangram recently found that 41 percent of longform LinkedIn posts were flagged as being completely generated by AI, as reported by 404Media.\n\"AI slop is a top priority for all of us,\" chief product officer Hari Srinivasan says in a post. \"We reall …\nRead the full story at The Verge.",
-          "isoDate": "2026-07-30T18:43:26.000Z"
-        },
-        {
-          "title": "Govee&#8217;s portable smart lamp is down to one of its best prices to date",
-          "link": "https://www.theverge.com/gadgets/973266/govee-table-lamp-classic-back-to-school-deal-sale",
-          "summary": "Buying multiple lamps for different rooms can get expensive. Govee’s rechargeable Table Lamp Classic gives you one lamp you can use throughout your home instead of getting one for every room, and right now it’s down to $59 ($21 off) at Amazon. That’s just $4 shy of the all-time low set during Prime Day, and the smart lamp’s second-best price to date.\n\n\nGovee Table Lamp Classic\n\nWhere to Buy:\n\n $79.99 $59.99 at Amazon\n $79.99 $63.99 at Govee\n\nBecause it’s cordless, the lamp is surprisingly versatile. You can use it to brighten your desk during the day, keep it by your bedside at night, and even carry it to the patio for dinner (just don’t forget to bring it back inside if it’s expected to rain, as the lamp isn’t weather-resistant). A built-in 4,800mAh battery powers the lamp for up to 30 hours with colored lighting enabled, or about five hours when using bright white light, so you don’t need to worry about staying near an outlet. \nDespite being small and light enough to carry from room to room, the Table Lamp Classic offers many of the same smart lighting features found on Govee’s bigger lamps. It lets you tweak the color temperature, cycle through 72 preset scenes, and sync the lighting to your music, making it easy to match the mood whether you’re studying, unwinding, or enjoying a date night. If you have something more specific in mind, Govee’s app can even generate a custom effect from a short text prompt. Since it supports Matter, you won’t have to reach for the Govee app every time you move the lamp to a different room, either. Instead, you can control it with your voice through your favorite smart home platform.",
-          "isoDate": "2026-07-30T18:01:26.000Z"
-        },
-        {
-          "title": "NASA’s Curiosity rover found a ‘sea of polygons’ on Mars",
-          "link": "https://www.theverge.com/science/973314/nasa-curiosity-rover-mars-polygons",
-          "summary": "The latest discovery from NASA's Curiosity Mars rover is a field of honeycomb-shaped polygons covering a Martian valley called Valle Grande. As Gizmodo reports, Curiosity has snapped pictures of the unusual terrain texture before, called polygonal fractures, each about 1.5 to 3 inches wide, but NASA says it's previously only found them in small patches, \"nothing on the scale discovered in Valle Grande.\" \nCuriosity captured a 360-degree panorama of the \"sea of polygons\" on June 19th and 20th (Martian sols 4,930 and 4,931) that shows the texture spreading out in all directions. Project scientist Ashwin Vasavada says the Curiosity team \"measur …\nRead the full story at The Verge.",
-          "isoDate": "2026-07-30T17:20:06.000Z"
-        },
-        {
-          "title": "Google DeepMind’s new AI model can control a robot’s entire body",
-          "link": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
-          "summary": "Apptronik’s Apollo 2 robot takes a baseball glove off of a shelf. | Image: Google\t\n\nGoogle DeepMind says the latest version of its Gemini Robotics AI model can \"control entire humanoid robots.\" While the previous model focused on controlling a humanoid robot's upper body, Gemini Robotics 2 now supports \"whole-body motions\" ranging from its feet to fingertips, according to an announcement on Thursday.\nThe new model will allow humanoid robots to perform a wider range of actions, as it allows them to walk, crouch, stretch, and manipulate objects. Videos shared by Google show how Apptronik's Apollo 2 robot can bend over to pick up a watering can, as well as find and take specific items off a shelf. \n\nThough Google DeepMind not …\nRead the full story at The Verge.",
-          "isoDate": "2026-07-30T17:18:45.000Z"
-        },
-        {
-          "title": "Montana’s plan to become an experimental medical hub just pushed forward",
-          "link": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/",
-          "summary": "As of this week in Montana, any biotech company with an experimental drug has a clear path to selling it to consumers. Companies whose drugs have been through preliminary testing—sometimes in as few as 10 healthy people—can pay $12,500 to apply to a newly established review board for approval. Once its treatment is rubber-stamped, the…",
-          "isoDate": "2026-07-30T17:10:00.000Z"
         }
       ]
     },
@@ -72,10 +72,46 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "ERROR cargando feed",
-          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
-          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-07-31T08:47:48.922Z"
+          "title": "APOD: 2026 July 31 – NGC 4372 and the Dark Doodad",
+          "link": "https://science.nasa.gov/image-article/apod-2026-july-31-ngc-4372-and-the-dark-doodad/",
+          "summary": "APOD Science APOD APOD: 2026 July 31 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. NGC 4372 […]",
+          "isoDate": "2026-07-31T04:05:00.000Z"
+        },
+        {
+          "title": "Destructive Fires Char Western Europe",
+          "link": "https://science.nasa.gov/earth/earth-observatory/destructive-fires-char-western-europe/",
+          "summary": "Raging wildfires disrupted summer in Spain and France amid sweltering heat waves and prolonged drought.",
+          "isoDate": "2026-07-31T04:01:00.000Z"
+        },
+        {
+          "title": "Author Correction: Cucurbituril-based anion-conducting membranes with supramolecular nanopores",
+          "link": "https://www.nature.com/articles/s41586-026-10921-w",
+          "summary": "Nature, Published online: 31 July 2026; doi:10.1038/s41586-026-10921-w\nAuthor Correction: Cucurbituril-based anion-conducting membranes with supramolecular nanopores",
+          "isoDate": "2026-07-31T00:00:00.000Z"
+        },
+        {
+          "title": "The physics of fizz: why some bubbles are louder than others",
+          "link": "https://www.nature.com/articles/d41586-026-02334-6",
+          "summary": "Nature, Published online: 31 July 2026; doi:10.1038/d41586-026-02334-6\nA high-speed camera and underwater microphones help scientists to investigate a puzzle about bubbles.",
+          "isoDate": "2026-07-31T00:00:00.000Z"
+        },
+        {
+          "title": "The power of ignorance and peering into the Milky Way: Books in brief",
+          "link": "https://www.nature.com/articles/d41586-026-02371-1",
+          "summary": "Nature, Published online: 31 July 2026; doi:10.1038/d41586-026-02371-1\nAndrew Robinson reviews five of the best science picks.",
+          "isoDate": "2026-07-31T00:00:00.000Z"
+        },
+        {
+          "title": "Meat allergy is on the rise — what scientists want to know",
+          "link": "https://www.nature.com/articles/d41586-026-02362-2",
+          "summary": "Nature, Published online: 31 July 2026; doi:10.1038/d41586-026-02362-2\nThe allergy is caused by ticks, but researchers have much to learn about it.",
+          "isoDate": "2026-07-31T00:00:00.000Z"
+        },
+        {
+          "title": "<b>The forensic traces that can help catch poachers — </b> July’s best science images",
+          "link": "https://www.nature.com/articles/d41586-026-02274-1",
+          "summary": "Nature, Published online: 31 July 2026; doi:10.1038/d41586-026-02274-1\nThe month’s sharpest science shots, selected by Nature’s photo team.",
+          "isoDate": "2026-07-31T00:00:00.000Z"
         },
         {
           "title": "How smallpox reached the Americas: first genomic evidence points to Europeans",
@@ -84,52 +120,16 @@
           "isoDate": "2026-07-31T00:00:00.000Z"
         },
         {
-          "title": "An adaptor for feedback regulation of heme biosynthesis by a mitochondrial protease",
-          "link": "https://www.science.org/doi/abs/10.1126/science.ads5397?af=R",
-          "summary": "Science, Volume 393, Issue 6810, July 2026.",
-          "isoDate": "2026-07-30T07:00:00.000Z"
+          "title": "Students Take on Airborne Field Research with NASA",
+          "link": "https://science.nasa.gov/earth/students-take-on-airborne-field-research-with-nasa/",
+          "summary": "The gusty wind didn’t make it easy to hold tight to a balloon so large. The balloon, a scientific instrument called an ozonesonde, was about to be released into the atmosphere above the Texas Gulf Coast by students from NASA’s SARP (Student Airborne Research Program), which concluded its summer session July 27. The balloon’s job […]",
+          "isoDate": "2026-07-30T20:36:56.000Z"
         },
         {
-          "title": "Atlas of lysosomal aging reveals a metabolite signature shared with lysosomal storage disorders",
-          "link": "https://www.science.org/doi/abs/10.1126/science.ady0832?af=R",
-          "summary": "Science, Volume 393, Issue 6810, July 2026.",
-          "isoDate": "2026-07-30T07:00:00.000Z"
-        },
-        {
-          "title": "X-chromosome inactivation draws L1 mutagenesis to the human X chromosome",
-          "link": "https://www.science.org/doi/abs/10.1126/science.adz8081?af=R",
-          "summary": "Science, Volume 393, Issue 6810, July 2026.",
-          "isoDate": "2026-07-30T07:00:00.000Z"
-        },
-        {
-          "title": "Enabling sustainable supply of the essential cancer medicines etoposide and teniposide in yeast",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aef5438?af=R",
-          "summary": "Science, Volume 393, Issue 6810, July 2026.",
-          "isoDate": "2026-07-30T07:00:00.000Z"
-        },
-        {
-          "title": "Spatiotemporal multiomics uncover tumor ecosystem dynamics during metastatic colonization",
-          "link": "https://www.science.org/doi/abs/10.1126/science.adz7928?af=R",
-          "summary": "Science, Volume 393, Issue 6810, July 2026.",
-          "isoDate": "2026-07-30T07:00:00.000Z"
-        },
-        {
-          "title": "DNA polymerization activates RNA cleavage of a reverse transcriptase–like antiviral enzyme",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aef3178?af=R",
-          "summary": "Science, Volume 393, Issue 6810, July 2026.",
-          "isoDate": "2026-07-30T07:00:00.000Z"
-        },
-        {
-          "title": "Supergene control of chiral development in mirror-image flowers",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aeb1157?af=R",
-          "summary": "Science, Volume 393, Issue 6810, July 2026.",
-          "isoDate": "2026-07-30T07:00:00.000Z"
-        },
-        {
-          "title": "When the future loses its voice",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aej7915?af=R",
-          "summary": "Science, Volume 393, Issue 6810, July 2026.",
-          "isoDate": "2026-07-30T07:00:00.000Z"
+          "title": "NASA Assigns Astronaut Deniz Burnham to First Space Station Mission",
+          "link": "https://www.nasa.gov/news-release/nasa-assigns-astronaut-deniz-burnham-to-first-space-station-mission/",
+          "summary": "NASA astronaut Deniz Burnham will embark on her first mission to the International Space Station, serving as an Expedition 76 flight engineer. Burnham will launch aboard the Roscosmos Soyuz MS-30 spacecraft with cosmonauts Dmitri Petelin and Konstantin Borisov. Launch is targeted for March 2027, from the Baikonur Cosmodrome in Kazakhstan, and the trio will spend […]",
+          "isoDate": "2026-07-30T16:11:41.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-07-31T08:47:50.009Z"
+          "isoDate": "2026-07-31T14:04:01.419Z"
         },
         {
           "title": "Amazon and Apple just told us more about their AI plans - here are three things we learned",
@@ -150,7 +150,7 @@
           "isoDate": "2026-07-31T01:31:50.000Z"
         },
         {
-          "title": "Teen hackers tell BBC how police are helping them use their skills for good",
+          "title": "How police are trying to divert teen hackers away from crime",
           "link": "https://www.bbc.co.uk/news/articles/cn0nqpy1rk4o?at_medium=RSS&at_campaign=rss",
           "summary": "Cyber Prevent is targeting predominantly boys and young men at risk of being drawn to cyber criminality.",
           "isoDate": "2026-07-31T00:42:48.000Z"
@@ -210,6 +210,12 @@
           "isoDate": "2026-07-31T15:00:00.000Z"
         },
         {
+          "title": "Univé builds an AI-ready workforce",
+          "link": "https://openai.com/index/unive",
+          "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
+          "isoDate": "2026-07-31T07:00:00.000Z"
+        },
+        {
           "title": "Daniela Rus receives Bavarian Minister-President's High-Tech Prize",
           "link": "https://news.mit.edu/2026/daniela-rus-receives-bavarian-minister-presidents-high-tech-prize-0730",
           "summary": "Director of CSAIL and MIT professor honored for her contributions to robotics, artificial intelligence, and autonomous systems.",
@@ -256,12 +262,6 @@
           "link": "https://news.mit.edu/2026/how-an-mit-database-evolved-into-global-standard-data-sharing-0729",
           "summary": "The visionary PhysioNet platform launched 25 years ago, based on a system developed at MIT in the 1970s. It has become one of the most comprehensive biomedical and clinical data repositories in existence.",
           "isoDate": "2026-07-29T14:00:00.000Z"
-        },
-        {
-          "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-          "link": "https://openai.com/index/chatgpt-for-academic-researchers",
-          "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
-          "isoDate": "2026-07-29T10:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-07-31T08:47:51.603Z"
+          "isoDate": "2026-07-31T14:04:04.280Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 57\nColumn: 58\nChar: =",
-          "isoDate": "2026-07-31T08:47:50.917Z"
+          "isoDate": "2026-07-31T14:04:02.977Z"
         },
         {
           "title": "IEEE Publishing Ethics Team Upholds Research Integrity",
