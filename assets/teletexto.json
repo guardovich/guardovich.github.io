@@ -1,10 +1,34 @@
 {
-  "generatedAt": "2026-07-30T19:24:50.125Z",
+  "generatedAt": "2026-07-31T02:45:00.005Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Tim Cook hints at iCloud Plus tier for AI power users",
+          "link": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
+          "summary": "Apple may allow users to pay to increase their AI usage limits. During an earnings call on Thursday, Apple CEO Tim Cook said that he believes people will want to use Apple Intelligence and the upcoming Siri AI \"a lot,\" adding that \"we will have some kind of upgrade possibilities on iCloud Plus where people can buy up the stack.\"\nThis fall, Apple will broadly launch its long-delayed Siri AI with iOS 27, which can do things like answer questions about what's on your screen and take action across your apps. It also includes a new standalone Siri AI app that offers a ChatGPT-like interface. \nIn June, Apple said that its AI features, including  …\nRead the full story at The Verge.",
+          "isoDate": "2026-07-30T22:29:45.000Z"
+        },
+        {
+          "title": "Xbox CEO lays out priorities in memo after major &#8216;reset&#8217;",
+          "link": "https://www.theverge.com/games/973520/xbox-ceo-memo-one-year-growth",
+          "summary": "Asha Sharma. | Image: The Verge, Microsoft\t\n\nAfter a massive Xbox \"reset\" that laid off thousands of employees and spun off four studios, Xbox CEO Asha Sharma wants to get Xbox back to growth. In a memo obtained by The Verge, Sharma told staff by the end of fiscal year 2027 (which runs through next June), \"we will return XBOX to player and revenue growth.\" Xbox will also \"improve profits back in line with industry averages,\" Sharma said. \"Every function and studio will own part of that outcome.\"\nSince taking over Xbox in February, Sharma has made sweeping changes to attempt to turn things around. Previously, she has cited challenges like a low accountability margin, increasing compone …\nRead the full story at The Verge.",
+          "isoDate": "2026-07-30T22:10:13.000Z"
+        },
+        {
+          "title": "Apple&#8217;s iPhone and Mac sales keep growing despite RAM shortages",
+          "link": "https://www.theverge.com/tech/973430/apple-q3-2026-earnings",
+          "summary": "Apple's iPhone and Mac sales are on the rise even as a global memory shortage squeezes device makers. In its third-quarter earnings report released on Thursday, Apple revealed that iPhone sales jumped 22 percent to $54.25 billion and Mac sales increased 29 percent to $10.35 billion, driving the company's overall revenue to $109.4 billion.\nThe company expects supply chain constraints to worsen in the coming months. During an earnings call, Apple chief financial officer Kevan Parekh said Apple expects \"supply constraints to increase significantly\" in the next quarter, adding the shortage will impact the iPhone, Mac, and iPad. Meanwhile, Apple …\nRead the full story at The Verge.",
+          "isoDate": "2026-07-30T20:49:32.000Z"
+        },
+        {
+          "title": "The loss of Situational Awareness",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks",
+          "summary": "Neither artificial nor intelligent.\t\n\nI am not by any means an expert at finance but I think I do now have some advice for people who are: Do not name your hedge fund anything that will be hilarious if it blows up. Don't use a name like \"Long-Term Capital Management\" or \"Amaranth Advisors\" (named for the floral symbol for immortality). Certainly do not call yourself \"Situational Awareness,\" which might as well just be \"Hubris, Inc.\"\nAnyway, Situational Awareness, the hedge fund started by a 24-year-old former OpenAI employee that focuses on artificial intelligence bets, has sold most or all, depending on who's reporting, of its entire public stock portfolio to Ken Griffin's Cit …\nRead the full story at The Verge.",
+          "isoDate": "2026-07-30T20:46:25.000Z"
+        },
         {
           "title": "Samsung’s Galaxy Watch 9 is $40 off at Costco and comes with over $50 in freebies",
           "link": "https://www.theverge.com/gadgets/973211/costco-galaxy-watch-9-preorder-costco-deal-sale",
@@ -40,30 +64,6 @@
           "link": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/",
           "summary": "As of this week in Montana, any biotech company with an experimental drug has a clear path to selling it to consumers. Companies whose drugs have been through preliminary testing—sometimes in as few as 10 healthy people—can pay $12,500 to apply to a newly established review board for approval. Once its treatment is rubber-stamped, the…",
           "isoDate": "2026-07-30T17:10:00.000Z"
-        },
-        {
-          "title": "ABC demands FCC drop its ‘punitive’ early license renewal of its stations",
-          "link": "https://www.theverge.com/policy/973289/abc-fcc-early-license-renewal-opposition",
-          "summary": "ABC filed its formal opposition to the Federal Communications Commission's effort to force it to submit to an early renewal of its broadcast station licenses, calling it an effort to chill the speech of broadcasters across the country.\nIn a new filing with the FCC, ABC charges that the agency's willingness to pursue the early renewal of eight of its licenses far before they expire is \"extraordinary and unprecedented.\" The company alleges the FCC \"has spent the last 18 months searching for some pretext for revoking the Stations' licenses,\" but charges that the agency's real motivations for pursuing these licenses are clear: \"Each is owned by …\nRead the full story at The Verge.",
-          "isoDate": "2026-07-30T17:08:14.000Z"
-        },
-        {
-          "title": "Google is working on Chrome updates that don’t require restarts",
-          "link": "https://www.theverge.com/tech/973174/google-chrome-update-no-restart",
-          "summary": "Google is working on a way to apply Chrome updates without requiring you to restart your browser. In a post on Thursday, Google outlines its approach to bug fixes in the age of AI, while noting that it's trying to make updates less disruptive by \"investing in 'dynamic patching' that will eliminate the need for a full browser restart.\"\nAccording to Google, AI-powered security tools have already helped the company find and fix dozens of bugs. Chrome 149 and 150, for example, contained 1,072 bug fixes, exceeding the number of patches in the past 23 major releases combined. That's part of the reason why Chrome is switching to a two-week release …\nRead the full story at The Verge.",
-          "isoDate": "2026-07-30T17:00:00.000Z"
-        },
-        {
-          "title": "Pixel 11 Pro Fold design leaks ahead of Google launch event",
-          "link": "https://www.theverge.com/tech/973249/pixel-11-pro-fold-buds-watch-leaks-google-launch-event",
-          "summary": "Weeks ahead of Google's next Pixel hardware event, Leaker Evan Blass has shared what appear to be marketing renders of the unannounced Google Pixel 11 Pro Fold in a post on his Substack.\nThe renders, if accurate, show that the new foldable will look fairly similar to last year's model - it has a tall outer screen instead of using a shorter style like the new Galaxy Z Fold 8 and the rumored foldable iPhone. The renders also show that the inner screen will retain the 8-inch size. However, the Pixel 11 Pro Fold's back camera array has been slightly redesigned and will apparently get the glowy light that Google has already teased for the Pixel  …\nRead the full story at The Verge.",
-          "isoDate": "2026-07-30T16:57:39.000Z"
-        },
-        {
-          "title": "Friend re-launches its AI pendant with a speaker that talks to you, for twice the price",
-          "link": "https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price",
-          "summary": "Do you remember Friend? The Friend that launched an AI pendant, spent $1.8 million of its $2.5 million in funding to acquire friend.com, and plastered the NYC subway with ads promoting artificial companionship?\nYeah well, if you didn't remember, Friend is back. And now, it's twice the price.\nThis morning, Friend launched a new ad showing two people talking to their Friend pendants about very personal life problems. It didn't say it explicitly, but the ad showcased a new feature the pendant now includes: a speaker. Before, Friend would only message back to you, but now, it will talk to you, too. For some reason, the addition of that feature …\nRead the full story at The Verge.",
-          "isoDate": "2026-07-30T16:33:32.000Z"
         }
       ]
     },
@@ -72,10 +72,28 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "ERROR cargando feed",
-          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
-          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-07-30T19:24:44.294Z"
+          "title": "Students Take on Airborne Field Research with NASA",
+          "link": "https://science.nasa.gov/earth/students-take-on-airborne-field-research-with-nasa/",
+          "summary": "The gusty wind didn’t make it easy to hold tight to a balloon so large. The balloon, a scientific instrument called an ozonesonde, was about to be released into the atmosphere above the Texas Gulf Coast by students from NASA’s SARP (Student Airborne Research Program), which concluded its summer session July 27. The balloon’s job […]",
+          "isoDate": "2026-07-30T20:36:56.000Z"
+        },
+        {
+          "title": "NASA Assigns Astronaut Deniz Burnham to First Space Station Mission",
+          "link": "https://www.nasa.gov/news-release/nasa-assigns-astronaut-deniz-burnham-to-first-space-station-mission/",
+          "summary": "NASA astronaut Deniz Burnham will embark on her first mission to the International Space Station, serving as an Expedition 76 flight engineer. Burnham will launch aboard the Roscosmos Soyuz MS-30 spacecraft with cosmonauts Dmitri Petelin and Konstantin Borisov. Launch is targeted for March 2027, from the Baikonur Cosmodrome in Kazakhstan, and the trio will spend […]",
+          "isoDate": "2026-07-30T16:11:41.000Z"
+        },
+        {
+          "title": "Starburst Galaxy Centaurus A",
+          "link": "https://www.nasa.gov/image-article/starburst-galaxy-centaurus-a/",
+          "summary": "In this July 6, 2026, image, NASA’s James Webb Space Telescope’s Mid-Infrared Instrument (MIRI) reveals the nearby galaxy Centaurus A, exposing the dusty structures and hidden activity that shape this unusual system. Centaurus A is 11 million light-years away from Earth, relatively close in cosmic terms. Yet, unlike most nearby galaxies, it is very active, […]",
+          "isoDate": "2026-07-30T14:24:08.000Z"
+        },
+        {
+          "title": "NASA Johnson Interns Shaping the Future of Exploration ",
+          "link": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnson-interns-shaping-the-future-of-exploration/",
+          "summary": "NASA interns at Johnson Space Center are applying their talents to real-world projects while working alongside the engineers, scientists, communicators, and innovators advancing human spaceflight. Learn how these students are gaining hands-on experience, contributing to real missions, and preparing to join the nation’s highly skilled and competitive aerospace workforce.   Meet the students behind the work and discover what inspired them to pursue careers at […]",
+          "isoDate": "2026-07-30T08:08:55.000Z"
         },
         {
           "title": "An adaptor for feedback regulation of heme biosynthesis by a mitochondrial protease",
@@ -112,24 +130,6 @@
           "link": "https://www.science.org/doi/abs/10.1126/science.aef3178?af=R",
           "summary": "Science, Volume 393, Issue 6810, July 2026.",
           "isoDate": "2026-07-30T07:00:00.000Z"
-        },
-        {
-          "title": "Supergene control of chiral development in mirror-image flowers",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aeb1157?af=R",
-          "summary": "Science, Volume 393, Issue 6810, July 2026.",
-          "isoDate": "2026-07-30T07:00:00.000Z"
-        },
-        {
-          "title": "When the future loses its voice",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aej7915?af=R",
-          "summary": "Science, Volume 393, Issue 6810, July 2026.",
-          "isoDate": "2026-07-30T07:00:00.000Z"
-        },
-        {
-          "title": "Erratum for the Research Article “Elastic ice microfibers”",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aek6646?af=R",
-          "summary": "Science, Volume 393, Issue 6810, July 2026.",
-          "isoDate": "2026-07-30T07:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,25 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-07-30T19:24:45.130Z"
+          "isoDate": "2026-07-31T02:44:56.821Z"
+        },
+        {
+          "title": "Three things we learned about AI from Big Tech earnings",
+          "link": "https://www.bbc.co.uk/news/articles/cp87m46g392o?at_medium=RSS&at_campaign=rss",
+          "summary": "Billions of dollars are being poured into a new wave of AI technology. But will it pay off?",
+          "isoDate": "2026-07-31T01:31:50.000Z"
+        },
+        {
+          "title": "Teen hackers tell BBC how police are helping them use their skills for good",
+          "link": "https://www.bbc.co.uk/news/articles/cn0nqpy1rk4o?at_medium=RSS&at_campaign=rss",
+          "summary": "Cyber Prevent is targeting predominantly boys and young men at risk of being drawn to cyber criminality.",
+          "isoDate": "2026-07-31T00:42:48.000Z"
+        },
+        {
+          "title": "India wants to join the strawberry superpowers",
+          "link": "https://www.bbc.co.uk/news/articles/c8x274xxxpwo?at_medium=RSS&at_campaign=rss",
+          "summary": "Indian strawberry farmers rely on varieties imported from the US and Europe, but that could change.",
+          "isoDate": "2026-07-30T22:04:09.000Z"
         },
         {
           "title": "Xbox tech boss says 'unacceptable' outage should not have affected disc games",
@@ -178,24 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/c5yeg1wegpno?at_medium=RSS&at_campaign=rss",
           "summary": "Campaign group Electrical Safety First has urged those \"heading abroad this summer to think before they buy\".",
           "isoDate": "2026-07-28T23:00:15.000Z"
-        },
-        {
-          "title": "Tech Life",
-          "link": "https://www.bbc.co.uk/sounds/play/w3ct8jy6?at_medium=RSS&at_campaign=rss",
-          "summary": "What do we need to know about agentic AI?",
-          "isoDate": "2026-07-28T20:00:00.000Z"
-        },
-        {
-          "title": "Some people's chats with Claude AI found to be publicly available online",
-          "link": "https://www.bbc.co.uk/news/articles/cly5qgjk5ywo?at_medium=RSS&at_campaign=rss",
-          "summary": "Hundreds of conversations with Anthropic’s chatbot were discovered as being publicly accessible.",
-          "isoDate": "2026-07-28T07:10:37.000Z"
-        },
-        {
-          "title": "Is it time to stop using glue and labels on paper?",
-          "link": "https://www.bbc.co.uk/news/articles/c872nj1n4xyo?at_medium=RSS&at_campaign=rss",
-          "summary": "Labels and adhesives can prevent paper from being recycled but there's new tech aimed at changing that.",
-          "isoDate": "2026-07-27T23:00:06.000Z"
         }
       ]
     },
@@ -203,6 +203,18 @@
       "header": "160  INTELIGENCIA ARTIFICIAL",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Daniela Rus receives Bavarian Minister-President's High-Tech Prize",
+          "link": "https://news.mit.edu/2026/daniela-rus-receives-bavarian-minister-presidents-high-tech-prize-0730",
+          "summary": "Director of CSAIL and MIT professor honored for her contributions to robotics, artificial intelligence, and autonomous systems.",
+          "isoDate": "2026-07-30T21:00:00.000Z"
+        },
+        {
+          "title": "Connecting research to policy on Capitol Hill",
+          "link": "https://news.mit.edu/2026/connecting-research-to-policy-on-capitol-hill-0730",
+          "summary": "MIT students and postdocs discussed science funding and research with policymakers in Washington during the MIT Science Policy Initiative’s annual Congressional Visit Days.",
+          "isoDate": "2026-07-30T20:35:00.000Z"
+        },
         {
           "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
           "link": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
@@ -214,6 +226,12 @@
           "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
           "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
           "isoDate": "2026-07-30T10:00:00.000Z"
+        },
+        {
+          "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+          "link": "https://openai.com/index/avatarin",
+          "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
+          "isoDate": "2026-07-30T00:00:00.000Z"
         },
         {
           "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
@@ -244,24 +262,6 @@
           "link": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
           "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
           "isoDate": "2026-07-29T00:00:00.000Z"
-        },
-        {
-          "title": "Scientific computing in the age of agentic AI",
-          "link": "https://openai.com/index/scientific-computing-agentic-ai",
-          "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
-          "isoDate": "2026-07-28T17:00:00.000Z"
-        },
-        {
-          "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-          "link": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
-          "summary": "",
-          "isoDate": "2026-07-28T13:21:37.000Z"
-        },
-        {
-          "title": "How AI is expanding what people do at work",
-          "link": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-          "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
-          "isoDate": "2026-07-27T03:30:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-07-30T19:24:49.231Z"
+          "isoDate": "2026-07-31T02:44:59.337Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 57\nColumn: 58\nChar: =",
-          "isoDate": "2026-07-30T19:24:46.483Z"
+          "isoDate": "2026-07-31T02:44:58.164Z"
         },
         {
           "title": "IEEE Publishing Ethics Team Upholds Research Integrity",
