@@ -1,10 +1,58 @@
 {
-  "generatedAt": "2026-07-31T19:22:44.192Z",
+  "generatedAt": "2026-08-01T02:43:24.048Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Not just Neanderthals: Ghost lineage in Africa left its mark on our DNA",
+          "link": "https://arstechnica.com/science/2026/07/not-just-neanderthals-ghost-lineage-in-africa-left-its-mark-on-our-dna/",
+          "summary": "Some group with no modern descendants contributed a lot to our genomes.",
+          "isoDate": "2026-07-31T22:17:05.000Z"
+        },
+        {
+          "title": "With Switch 2, iPhone, and laptop tricks, the Sharge Disk Pro 2 is finally a worthy EDC",
+          "link": "https://www.theverge.com/gadgets/973886/sharge-disk-pro-2-hands-on-switch-2-hdmi-usb-c-dock",
+          "summary": "The Sharge Disk Pro 2. | Photo by Sean Hollister / The Verge\t\n\nSharge, the company that makes delightful retro Mac-shaped chargers and see-inside batteries, is finally impressing me with a portable SSD. I couldn't recommend the Sharge Disk, Disk Plus, or even the Disk Pro, but I'd be happy to own the new Disk Pro 2 Ultra.\nThis isn't just a drive. It's a 4K HDMI dock and a USB-C hub too. It's a veritable USB-C Swiss Army Knife for all your main gadgets: laptop, tablet, phone, Steam Deck, even the Nintendo Switch and Switch 2. \n\nAnd this USB multitool has built-in MagSafe pattern magnets to stick it to your iPhone, Pixel, or anything where you're willing to stick a magnetic ring. (One stick-on ring is in …\nRead the full story at The Verge.",
+          "isoDate": "2026-07-31T22:09:11.000Z"
+        },
+        {
+          "title": "Doctors took a look at man's painful shoulder—they found the joint was missing",
+          "link": "https://arstechnica.com/health/2026/07/doctors-took-a-look-at-mans-painful-shoulder-they-found-the-joint-was-missing/",
+          "summary": "The term \"Milwaukee Shoulder Syndrome\" was coined in 1981, based on cases in four women.",
+          "isoDate": "2026-07-31T21:51:52.000Z"
+        },
+        {
+          "title": "Google plans to exempt sanctioned nations from Android developer verification",
+          "link": "https://arstechnica.com/gadgets/2026/07/google-plans-to-exempt-sanctioned-nations-from-android-developer-verification/",
+          "summary": "Someone in Cuba or Iran can keep installing APKs with no new restrictions, but devs will suffer.",
+          "isoDate": "2026-07-31T21:35:56.000Z"
+        },
+        {
+          "title": "Reddit keeps its strange DMCA fight over Google search results alive",
+          "link": "https://arstechnica.com/tech-policy/2026/07/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-googles-loss/",
+          "summary": "Reddit advances lawsuit accusing Perplexity AI of conspiring with web scraper.",
+          "isoDate": "2026-07-31T21:19:39.000Z"
+        },
+        {
+          "title": "Claude published malicious code to the Internet and attacked 3 real companies",
+          "link": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
+          "summary": "Had the hacks used conventional methods, someone would likely go to prison.",
+          "isoDate": "2026-07-31T20:39:14.000Z"
+        },
+        {
+          "title": "Google Earth risked ruin with retracted AI tool for making fake satellite pics",
+          "link": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/",
+          "summary": "“What on earth is Google doing?” Misinformation fears spur walk-back of AI tool.",
+          "isoDate": "2026-07-31T20:21:05.000Z"
+        },
+        {
+          "title": "Apple’s new AirTags are back down to their best price",
+          "link": "https://www.theverge.com/gadgets/973973/apple-airtag-second-generation-deal-sale",
+          "summary": "Both Amazon and Costco are offering some solid deals. | Photo by Amelia Holowaty Krales / The Verge\n\t\n\nWe spotted a great deal on Tile trackers earlier this week that’s still live, but if you’re an iPhone owner, we ultimately recommend Apple’s latest AirTag. Right now, you can pick up a four-pack for $89 ($10 off) at Amazon and Target, matching the bundle’s all-time low price. If you’re a member, Costco also has a deal that throws in a fifth AirTag for free.\nApple AirTags (second-generation)\n\nWhere to Buy:\n\n $99 $89 at Amazon (pack of four)\n $99 $89.99 at Target (pack of four)\n\nA growing number of Bluetooth trackers can tap into Apple’s Find My network these days, but none combine that with Apple’s latest ultra wideband (UWB) chip, which powers even better Precision Finding than before. Precision Finding uses on-screen arrows and distance indicators in the Find My app to guide you directly to a misplaced item, while the second-generation AirTag’s upgraded chip and extended Bluetooth range make it faster and more reliable to locate tags, even in multistory homes. You can also use Precision Finding to find lost items on an Apple Watch, provided you have a Series 9 or later. And if all else fails, the built-in speaker is noticeably louder than before, making it easier to track down an AirTag by sound.\nPlus, like its predecessor, the second-generation AirTag comes with a handful of features that are especially useful if you’re traveling this summer. AirTag sharing lets up to five people keep track of the same item, while Apple’s Share Item Location feature allows you to temporarily share an AirTag’s location with participating airlines, including United, Delta, and American Airlines. It’s still a shame Apple doesn’t include a built-in lanyard hole, meaning you’ll need to buy a separate loop or holder, but the tracker continues to use a replaceable CR2032 battery, so you won’t have to replace the entire device when it eventually runs out of power. And at $89 for a four-pack, it’s also a little easier on your wallet today.\nRead our second-generation AirTag review.",
+          "isoDate": "2026-07-31T19:35:45.000Z"
+        },
         {
           "title": "Google Earth&#8217;s AI deepfake tool only lasted one day",
           "link": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
@@ -12,58 +60,10 @@
           "isoDate": "2026-07-31T19:13:29.000Z"
         },
         {
-          "title": "The NHTSA is investigating 1.2 million Tesla vehicles over suspension failure reports",
-          "link": "https://www.theverge.com/transportation/973887/nhtsa-tesla-investigation-suspension",
-          "summary": "The National Highway Traffic Safety Administration (NHTSA) is probing nearly 1.2 million Tesla vehicles after receiving complaints about a suspension failure that could cause \"a loss of vehicle directional control,\" as reported earlier by Reuters. The preliminary investigation includes the 2018-2020 Model 3 and 2021-2023 Model Y, according to a filing from the NHTSA's Office of Defects Investigation.\nThe NHTSA says it received 156 complaints about the issue, which \"involves the detachment of the front lower lateral link.\" In most cases reviewed by the NHTSA, failure occurred with \"no advance warning,\" but some \"cite noises occurring prior t …\nRead the full story at The Verge.",
-          "isoDate": "2026-07-31T18:33:39.000Z"
-        },
-        {
-          "title": "Google might launch a ‘Pixel Tag’",
-          "link": "https://www.theverge.com/tech/973889/google-pixel-tag-item-tracker",
-          "summary": "Google is seemingly working on an item tracker that might compete with Apple's AirTag. 9to5Google obtained an image of something called a \"Google Pixel Tag\" that has a small oval shape. The publication also linked to a Slovenian store listing about the Pixel Tag that describes the gadget as an item tracker with a speaker that uses Google's \"Find My Device\" network (which is now called Find Hub).\nThe Pixel Tag is popping up shortly ahead of Google's planned hardware launch event for August 12th. Google has already shown off teases of the Pixel 11 lineup for the event, and leaks have also appeared for a new foldable, smartwatch, and earbuds.  …\nRead the full story at The Verge.",
-          "isoDate": "2026-07-31T18:27:24.000Z"
-        },
-        {
-          "title": "High school defends staying silent while boys made AI nudes of 59 classmates",
-          "link": "https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/",
-          "summary": "Gaps in laws may help Pennsylvania high school escape AI nudes scandal.",
-          "isoDate": "2026-07-31T18:11:55.000Z"
-        },
-        {
-          "title": "Researchers devise a full-color night vision goggle",
-          "link": "https://arstechnica.com/science/2026/07/see-the-heat-an-infrared-imaging-system-that-outputs-in-color/",
-          "summary": "Wavelength and intensity in the infrared are translated into colors in the visible.",
-          "isoDate": "2026-07-31T17:58:38.000Z"
-        },
-        {
-          "title": "The ban on robot vacuums won’t make them safer, only worse",
-          "link": "https://www.theverge.com/tech/973738/robot-vacuum-ban-fewer-choices-higher-prices",
-          "summary": "All future robot vacuums manufactured outside the USA (i.e., all of them) have been banned by the FCC. | Photo by Jennifer Pattison Tuohy / The Verge\t\n\nNo other gadget knows as much about your home as a robot vacuum. They map your space, learn your routines, and many now carry a camera and microphone into every room in your house. As AI gives them a better understanding of what they see, the privacy and security risks these autonomous robots pose are only growing.\nThat's why greater scrutiny makes sense, but the ban on foreign-made mobile robots issued by the Federal Communications Commission earlier this week - implemented to address \"unacceptable risks to the national security of the United States or the safety and security of United States persons\" - doesn't actually judge products by h …\nRead the full story at The Verge.",
-          "isoDate": "2026-07-31T17:30:49.000Z"
-        },
-        {
-          "title": "China could supply EV manufacturing boom with recycled EVs",
-          "link": "https://arstechnica.com/science/2026/07/china-could-supply-ev-manufacturing-boom-with-recycled-evs/",
-          "summary": "Look at chemistry of batteries and motors shows big opportunity for recycling.",
-          "isoDate": "2026-07-31T17:29:21.000Z"
-        },
-        {
-          "title": "Tomodachi Life: Living the Dream is a quirky life sim that’s worth buying at this discount",
-          "link": "https://www.theverge.com/gadgets/973723/tomodachi-life-apple-marshall-stanmore-deal-sale",
-          "summary": "Looking to start your own island paradise full of Miis based on family, friends, and celebrities, but don’t feel like paying full fare? Woot has Tomodachi Life: Living the Dream for Switch on sale for $52.99 (usually $59.95). Sort of like Animal Crossing, but more off-kilter, this unique game sees you building and managing relationships on an island of custom Mii characters. You’ll set up and decorate housing, discover what the inhabitants like and dislike, and watch as they interact with each other and form their own community. This discount is for the region-free international version (so it’ll work in all Switch consoles), and includes improved loading times for Switch 2 owners.\nTomodachi Life: Living the Dream\n\nWhere to Buy:\n\n $59.99 $52.99 at Woot\n\nThe second game in the series, Living the Dream adds a variety of new tools for you to build your island paradise, which folks have used to recreate simulacrums of celebrities, fictional characters, and real people in their lives. Once they’ve settled in, these characters will mingle in unpredictable ways. They may date, become platonic besties, argue, or possibly get married, frequently leading to situations that are as touching as they are funny.\nOther deals to consider\nWoot has one-meter-long woven USB-C cables from Apple on sale in a variety of colors for $14.99 each (originally $19), with extra discounts if you want to buy two or three. The cables are rated for 60W of power, enough for iPad and iPhone devices, and transfer data at USB 2 speeds. You can use the coupon code APPLETEN to save an extra 10 percent once per account.\nThe Marshall Stanmore III speaker is on sale at Amazon for $249.99 (usually $399.99), matching the lowest price we’ve seen. This capable speaker features a variety of connectivity options, including Bluetooth 5.2, 3.5mm aux, and RCA jacks for your record player. The timeless, amp-inspired design will look right at home on a bookshelf or entertainment center, with bass and treble control knobs to tune your listening experience.\nLife360 Tile Slim trackers are $30 for a pack of two at Amazon, just about half off their usual price and the lowest we’ve seen. Compatible with both iOS and Android devices via the Tile app, these credit card-shaped trackers can easily slide into a bag or wallet so you can easily find them, and have an SOS feature that will let you quickly call a friend or family member for help in an emergency.",
-          "isoDate": "2026-07-31T17:09:13.000Z"
-        },
-        {
-          "title": "Sony acknowledges backlash, “cautiously” moves ahead with end of PlayStation discs",
-          "link": "https://arstechnica.com/gaming/2026/07/sony-acknowledges-backlash-will-cautiously-move-forward-with-end-of-discs/",
-          "summary": "Sony doesn't think the move will hurt it financially.",
-          "isoDate": "2026-07-31T17:07:42.000Z"
-        },
-        {
-          "title": "Here’s the problem with putting an AI image generator in Google Earth",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images",
-          "summary": "Now a text prompt is all it takes to generate reality-warping images using Google Earth's satellite, aerial, and 3D imagery, like these images generated by Digital Digging's Henk van Ess that show \"refugees near the Mexican border\" and a bomb crater near a hospital in Gaza. \nGoogle responded to Digital Digging's AI-altered images, saying, \"We take misinformation seriously - every image created with Nano Banana in Google Earth includes the SynthID digital watermark, so if someone is unsure about an image, they can ask the Gemini app or use Lens in Search to see if the image was AI-generated.\" In addition to using Google's \"@verifyai\" tag in  …\nRead the full story at The Verge.",
-          "isoDate": "2026-07-31T17:05:46.000Z"
+          "title": "Would you get tattooed just to interview at a 7-days-a-week AI startup?",
+          "link": "https://arstechnica.com/culture/2026/07/ai-startup-admits-tattoo-for-interview-stunt-was-reckless/",
+          "summary": "LemonLime’s CEO got “carried away” with tattoo gimmick.",
+          "isoDate": "2026-07-31T19:04:56.000Z"
         }
       ]
     },
@@ -72,64 +72,64 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "ERROR cargando feed",
-          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
-          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-07-31T19:22:37.850Z"
+          "title": "What’s Up: August 2026 Skywatching Tips from NASA",
+          "link": "https://science.nasa.gov/solar-system/whats-up-august-2026-skywatching-tips-from-nasa/",
+          "summary": "A solar eclipse, the Perseids, bright Venus after sunset, and a deep partial lunar eclipse highlight August’s skywatching. Skywatching Highlights Transcript A solar eclipse, one of the year’s best meteor showers, Venus at its brightest in the evening sky, and a lunar eclipse to close out the month. That’s “What’s Up” for August. On Aug. […]",
+          "isoDate": "2026-07-31T22:35:36.000Z"
         },
         {
-          "title": "Author Correction: Cucurbituril-based anion-conducting membranes with supramolecular nanopores",
-          "link": "https://www.nature.com/articles/s41586-026-10921-w",
-          "summary": "Nature, Published online: 31 July 2026; doi:10.1038/s41586-026-10921-w\nAuthor Correction: Cucurbituril-based anion-conducting membranes with supramolecular nanopores",
-          "isoDate": "2026-07-31T00:00:00.000Z"
+          "title": "NASA to Host Florida Event Celebrating American Air, Space Leadership",
+          "link": "https://www.nasa.gov/news-release/nasa-to-host-florida-event-celebrating-american-air-space-leadership/",
+          "summary": "NASA will hold a news conference at 2:30 p.m. EDT, Friday, Aug. 14, live from the agency’s Kennedy Space Center in Florida, and media and digital creators are invited to attend in person. The announcement, held in the XLV Hangar at the Shuttle Landing Facility, will preview a new event at NASA Kennedy later this […]",
+          "isoDate": "2026-07-31T21:08:10.000Z"
         },
         {
-          "title": "Briefing Chat: Orcas smashed a sunfish to bits — researchers aren’t sure why",
-          "link": "https://www.nature.com/articles/d41586-026-02419-2",
-          "summary": "Nature, Published online: 31 July 2026; doi:10.1038/d41586-026-02419-2\nNature staff discuss a massive survey of insects in the Amazon, and unusual orca behaviour caught on video.",
-          "isoDate": "2026-07-31T00:00:00.000Z"
+          "title": "NASA’s Newest Wind Tunnel Opens at NASA Langley",
+          "link": "https://www.nasa.gov/image-article/nasas-newest-wind-tunnel-opens-at-nasa-langley/",
+          "summary": "On Friday, July 31, 2026, NASA leadership and Virginia government officials opened NASA’s first major new wind tunnel in more than 40 years, the Flight Dynamics Research Facility at NASA’s Langley Research Center in Hampton, Virginia. The state-of-the-art facility will support research and technology development that will advance the agency’s aeronautics, exploration, and science goals, […]",
+          "isoDate": "2026-07-31T20:19:37.000Z"
         },
         {
-          "title": "The physics of fizz: why some bubbles are louder than others",
-          "link": "https://www.nature.com/articles/d41586-026-02334-6",
-          "summary": "Nature, Published online: 31 July 2026; doi:10.1038/d41586-026-02334-6\nA high-speed camera and underwater microphones help scientists to investigate a puzzle about bubbles.",
-          "isoDate": "2026-07-31T00:00:00.000Z"
+          "title": "TB 26-04 Webbings for Use in Elevated Oxygen Environments",
+          "link": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-webbings-for-use-in-elevated-oxygen-environments/",
+          "summary": "Flammability test results for commercial-off-the-shelf webbings that meet NASA flammability requirements are reported for use in elevated oxygen environments anticipated for future lunar and Martian missions. Testing demonstrated that a webbing composed of 60% Kevlar®/40% polybenzimidazole (PBI) from Sturges Manufacturing Company, Inc., specifically the natural version, passed flammability testing per NASA-STD-6001B Test 1 using a […]",
+          "isoDate": "2026-07-31T19:05:25.000Z"
         },
         {
-          "title": "The power of ignorance and peering into the Milky Way: Books in brief",
-          "link": "https://www.nature.com/articles/d41586-026-02371-1",
-          "summary": "Nature, Published online: 31 July 2026; doi:10.1038/d41586-026-02371-1\nAndrew Robinson reviews five of the best science picks.",
-          "isoDate": "2026-07-31T00:00:00.000Z"
+          "title": "NASA, SpaceX Advance Wind Tunnel Tests for Starship Rocket ",
+          "link": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-spacex-advance-wind-tunnel-tests-for-starship-rocket/",
+          "summary": "NASA and its industry partners are preparing for next year’s Artemis III demonstration mission by completing new wind tunnel tests on SpaceX’s Super Heavy Version 3 rocket booster. The tests, conducted at NASA’s Ames Research Center in California’s Silicon Valley, focused on better understanding the extreme aerodynamic forces the rocket can experience during re-entry. The […]",
+          "isoDate": "2026-07-31T18:39:47.000Z"
         },
         {
-          "title": "Meat allergy is on the rise — what scientists want to know",
-          "link": "https://www.nature.com/articles/d41586-026-02362-2",
-          "summary": "Nature, Published online: 31 July 2026; doi:10.1038/d41586-026-02362-2\nThe allergy is caused by ticks, but researchers have much to learn about it.",
-          "isoDate": "2026-07-31T00:00:00.000Z"
+          "title": "NASA Opens New Flight Dynamics Research Facility in Virginia",
+          "link": "https://www.nasa.gov/news-release/nasa-opens-new-flight-dynamics-research-facility-in-virginia/",
+          "summary": "NASA opened its newest wind tunnel, the Flight Dynamics Research Facility, Friday, providing a critical resource for the agency and its partners to test the safety and performance of future generations of aircraft, rockets, and space exploration vehicles. Located at NASA’s Langley Research Center in Hampton, Virginia, the Flight Dynamics Research Facility will support advances […]",
+          "isoDate": "2026-07-31T17:11:14.000Z"
         },
         {
-          "title": "<b>The forensic traces that can help catch poachers — </b> July’s best science images",
-          "link": "https://www.nature.com/articles/d41586-026-02274-1",
-          "summary": "Nature, Published online: 31 July 2026; doi:10.1038/d41586-026-02274-1\nThe month’s sharpest science shots, selected by Nature’s photo team.",
-          "isoDate": "2026-07-31T00:00:00.000Z"
+          "title": "Curiosity Blog, Sols 4961-4967: Approaching a Break in the Rock Record?",
+          "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4961-4967-approaching-a-break-in-the-rock-record/",
+          "summary": "Written by Abigail Fraeman, Deputy Project Scientist, Jet Propulsion Laboratory, California Institute of Technology Earth planning date: Friday, July 24, 2026 Curiosity spent the week continuing to climb her way up through the layers of Mount Sharp, exploring the sedimentary rock strip chart of Martian history. The rover has reached a layer where the science […]",
+          "isoDate": "2026-07-31T14:41:02.000Z"
         },
         {
-          "title": "How smallpox reached the Americas: first genomic evidence points to Europeans",
-          "link": "https://www.nature.com/articles/d41586-026-02366-y",
-          "summary": "Nature, Published online: 31 July 2026; doi:10.1038/d41586-026-02366-y\nViral sequences from Chilean mummies confirm the disease was introduced from Europe.",
-          "isoDate": "2026-07-31T00:00:00.000Z"
+          "title": "NASA’s Roman Telescope to Carry 1.35 Million Names to Deep Space",
+          "link": "https://www.nasa.gov/image-article/nasas-roman-telescope-to-carry-1-35-million-names-to-deep-space/",
+          "summary": "On July 27, technicians at NASA’s Kennedy Space Center in Florida installed a memory card containing 1,350,144 names as part of a commemorative plaque on the Nancy Grace Roman Space Telescope. The names were submitted by people globally, including astronauts from Artemis II and Artemis III. The memory card will travel with the Roman observatory […]",
+          "isoDate": "2026-07-31T14:11:34.000Z"
         },
         {
-          "title": "Scientists using LLMs will ‘do more, less well’, modelling study predicts",
-          "link": "https://www.nature.com/articles/d41586-026-02397-5",
-          "summary": "Nature, Published online: 31 July 2026; doi:10.1038/d41586-026-02397-5\nResearch suggests that the combination of incentives to publish and the use of large language models will lead to more papers, but they will be less refined.",
-          "isoDate": "2026-07-31T00:00:00.000Z"
+          "title": "APOD: 2026 July 31 – NGC 4372 and the Dark Doodad",
+          "link": "https://science.nasa.gov/image-article/apod/apod-2026-july-31-ngc-4372-and-the-dark-doodad/",
+          "summary": "APODScienceAPODAPOD: 2026 July 31 – NGC…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. NGC 4372 and the Dark Doodad Explanation: The Dark Doodad Nebula drifts through southern skies, a […]",
+          "isoDate": "2026-07-31T04:05:00.000Z"
         },
         {
-          "title": "An adaptor for feedback regulation of heme biosynthesis by a mitochondrial protease",
-          "link": "https://www.science.org/doi/abs/10.1126/science.ads5397?af=R",
-          "summary": "Science, Volume 393, Issue 6810, July 2026.",
-          "isoDate": "2026-07-30T07:00:00.000Z"
+          "title": "Destructive Fires Char Western Europe",
+          "link": "https://science.nasa.gov/earth/earth-observatory/destructive-fires-char-western-europe/",
+          "summary": "Raging wildfires disrupted summer in Spain and France amid sweltering heat waves and prolonged drought.",
+          "isoDate": "2026-07-31T04:01:00.000Z"
         }
       ]
     },
@@ -141,7 +141,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-07-31T19:22:39.804Z"
+          "isoDate": "2026-08-01T02:43:21.193Z"
+        },
+        {
+          "title": "Tech Now",
+          "link": "https://www.bbc.co.uk/iplayer/episode/m002zxt1?at_medium=RSS&at_campaign=rss",
+          "summary": "New technologies measuring forests and exclusive access to a hacker rehab programme.",
+          "isoDate": "2026-08-01T00:00:00.000Z"
+        },
+        {
+          "title": "Snapchat joins other popular platforms in fight against 'AI slop'",
+          "link": "https://www.bbc.co.uk/news/articles/c77g6dm5pr8o?at_medium=RSS&at_campaign=rss",
+          "summary": "Snapchat, YouTube, LinkedIn, and Substack are trying to combat the proliferation of fake AI content.",
+          "isoDate": "2026-07-31T21:57:59.000Z"
         },
         {
           "title": "AI firms must answer for rogue bots, says boss of hacked company",
@@ -184,18 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/ckgd31l5yrdo?at_medium=RSS&at_campaign=rss",
           "summary": "CEO Mark Zuckerberg said the firm intends to sell its AI tools to other companies for the first time.",
           "isoDate": "2026-07-29T22:44:18.000Z"
-        },
-        {
-          "title": "Data centres could pay hundreds of millions in deposits for power demands",
-          "link": "https://www.bbc.co.uk/news/articles/c9q90q9qnn2o?at_medium=RSS&at_campaign=rss",
-          "summary": "The regulator said a fee of between £237,500 to £712,500 per megawatt should be charged for upcoming projects.",
-          "isoDate": "2026-07-29T11:35:35.000Z"
-        },
-        {
-          "title": "OpenAI says its rogue AI tried to hack other companies",
-          "link": "https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss",
-          "summary": "The out-of-control AI found four logins which allowed it to access multiple unnamed online services.",
-          "isoDate": "2026-07-29T08:49:27.000Z"
         }
       ]
     },
@@ -203,12 +203,6 @@
       "header": "160  INTELIGENCIA ARTIFICIAL",
       "maxItems": 10,
       "items": [
-        {
-          "title": "Disrupting a Criminal Scam Operation",
-          "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-          "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
-          "isoDate": "2026-08-04T00:00:00.000Z"
-        },
         {
           "title": "Advancing responsible AI across Europe",
           "link": "https://openai.com/index/advancing-responsible-ai-across-europe",
@@ -226,6 +220,12 @@
           "link": "https://openai.com/index/unive",
           "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
           "isoDate": "2026-07-31T07:00:00.000Z"
+        },
+        {
+          "title": "Disrupting a Criminal Scam Operation",
+          "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+          "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
+          "isoDate": "2026-07-31T00:00:00.000Z"
         },
         {
           "title": "Daniela Rus receives Bavarian Minister-President's High-Tech Prize",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-07-31T19:22:43.199Z"
+          "isoDate": "2026-08-01T02:43:23.280Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 57\nColumn: 58\nChar: =",
-          "isoDate": "2026-07-31T19:22:40.921Z"
+          "isoDate": "2026-08-01T02:43:22.280Z"
         },
         {
           "title": "IEEE Publishing Ethics Team Upholds Research Integrity",
@@ -290,7 +290,7 @@
         {
           "title": "Detect Dark Matter’s Mark From Your Backyard",
           "link": "https://spectrum.ieee.org/dark-matter",
-          "summary": "If you’re wondering what dark matter is, you’re not alone. Astronomers don’t know. But they’ve determined that this invisible material must be far more abundant than the stars and nebulas that they can see. They’ve surmised as much from observing the gravitational effects of all this perplexing dark stuff, launching a decades-long campaign to understand its nature.\nI recently learned that it is possible to sense the presence of dark matter using a small radio telescope such as the Discovery Dish covered in these pages last year. The trick is to know what observations to collect and how to analyze them. I’ll sketch that out below, but first let me describe the homemade radio telescope I put together for this project.\nIt’s a pyramidal-horn antenna, not unlike the horn antenna first used in 1951 to detect the 1,420.4-megahertz radio emissions from interstellar clouds of neutral hydrogen in space. These emissions hold the key to confirming the presence of dark matter because such clouds can be found all over the galaxy, and their motions reflect what’s happening in different parts of the Milky Way.\nI used an online calculator to help me design my antenna, adopting dimensions I knew I could achieve using a US $25 10-by-2-foot roll of roof flashing and an emptied one-gallon paint-thinner can. (Next time, I’ll just buy an empty F-style can.)\n  The horn antenna is made from tape, an empty paint thinner can, and a roll of metal roof flashing [bottom row]. Signals are picked up with a low-noise amplifier [top middle], and passed to a software-defined radio receiver [top left].James Provost\nConstruction of the antenna itself was similar to that of the slightly smaller horn antenna I described in these pages in 2019. I made my new antenna bigger, though, because I needed better angular resolution, allowing me to scan smaller regions of the sky.\nTo pick up the emissions from interstellar hydrogen, I used Nooelec’s $45 SAWBird+ H1, a device that combines two low-noise amplifiers with a standing-acoustic-wave filter centered on 1,420 MHz, in combination with a RTL-SDR V4 dongle. So it’s not too hard to put together the hardware needed to measure signals from hydrogen clouds. But how do you pull the signature of dark matter out of those signals?\nThe answer is that you use such measurements to gauge the speed at which clouds located at different distances from the center of the Milky Way are moving in their orbits.\nYou just have to show that the speed at which material orbits the center of the galaxy doesn’t fall off with distance.\nYou might think that these clouds circle around the galactic center in the same way that planets orbit the sun or satellites orbit the Earth, with objects close in orbiting faster than those farther out. Mercury, for example, zips around the sun at 47.4 kilometers per second, whereas Neptune lumbers along at a leisurely 5.4 km/s.\nThe Milky Way contains a central bulge of stars surrounding a supermassive black hole. So at first blush, the mass of the galaxy appears to be concentrated near its center. If that were the case, stars and clouds of other material would orbit more slowly as their distance from the center increases. If, however, there were enormous amounts of invisible matter present throughout the galaxy, you wouldn’t expect orbital velocities to diminish in this way.\nHow Do You Measure the Speed of Interstellar Clouds?\nSo to detect dark matter, you just have to show that the speed at which material orbits the center of the galaxy doesn’t fall off with distance. And radio observations are the easiest way to do that, because you can gauge speeds by measuring how much the signal from hydrogen clouds is shifted by the Doppler effect.\nBy pointing your radio telescope at different parts of the sky, you pick up emissions from clouds located at various distances from the galactic center. The frequency offset of these emissions from 1,420 MHz reflects the speed of approach or recession of those clouds relative to Earth.\nYou need measurements from the plane of the galaxy, at galactic longitudes between 0 and 90 degrees (a galactic longitude of 0 degrees points directly toward the center of the galaxy and 180 degrees directly away from it). Applying some high school trigonometry lets you convert these figures into orbital speeds around the galactic center, a technique known as the tangent-point method.\n  In any group of clouds, the one with the highest velocity as seen from Earth will be the one lying closest to a tangent point along its orbit around the galaxy. This allows its distance from the galactic center to be determined through trigonometry [top]. The bottom graph shows the astronomical community’s measurements for velocities around the galactic center [in black], with the author’s results plotted in filled and open red circles.James Provost\nExperiments aiming my horn antenna at an Inmarsat geostationary satellite revealed that the angular resolution of my little radio telescope is about 20 degrees. So with the help of the planetarium program Stellarium, I pointed my antenna in the plane of the galaxy at galactic longitudes of about 15, 30, 45, 60, 75, and 90 degrees, spacing things out in an effort to make each set of measurements largely independent.\nI used the SDR# software with a plug-in called IF Average to read the raw measurements coming in from the antenna. This plug-in stacks up data received over a few minutes, allowing a weak signal to build up and produce a clean radio spectrum that shows the 1,420-MHz line. In reality of course, it looks more like a bump, or even a set of bumps due to Doppler shifted emissions from multiple clouds, located at different distances from the galactic center. Fortunately, you only have to care about the cloud that’s receding the fastest—the one with the largest redshift, in astronomer-speak.\nI used Microsoft Excel to analyze the shapes of radio spectra I gathered, modeling them as the sums of individual bell-shaped contributions from different clouds. That allowed me to estimate the largest redshift for each galactic longitude I probed. Then, again using Excel, I applied formulas that transformed those six redshift values into six pairs of orbital velocities and distances from the galactic center.\nThe plot of my results matched reasonably well with a recent paper, “The Inner Rotation Curve of the Milky WayInner Rotation Curve of the Milky Way,” in Publications of the Astronomical Society of Japan. Two innermost points, did show anomalously low orbital velocities. Another shot at curve fitting in Excel brought these results closer to expectations, but they were still somewhat off.\nIn any case, the orbital velocities I estimated did not diminish with distance from the galactic center—quite the opposite. Something out there is putting its stamp on how the Milky Way turns. And that basic observation is what allows me to say that, with the help of some roof flashing and a paint-thinner can, I’ve been able to detect dark matter from my backyard.",
+          "summary": "If you’re wondering what dark matter is, you’re not alone. Astronomers don’t know. But they’ve determined that this invisible material must be far more abundant than the stars and nebulas that they can see. They’ve surmised as much from observing the gravitational effects of all this perplexing dark stuff, launching a decades-long campaign to understand its nature.\nI recently learned that it is possible to sense the presence of dark matter using a small radio telescope such as the Discovery Dish covered in these pages last year. The trick is to know what observations to collect and how to analyze them. I’ll sketch that out below, but first let me describe the homemade radio telescope I put together for this project.\nIt’s a pyramidal-horn antenna, not unlike the horn antenna first used in 1951 to detect the 1,420.4-megahertz radio emissions from interstellar clouds of neutral hydrogen in space. These emissions hold the key to confirming the presence of dark matter because such clouds can be found all over the galaxy, and their motions reflect what’s happening in different parts of the Milky Way.\nI used an online calculator to help me design my antenna, adopting dimensions I knew I could achieve using a US $25 10-by-2-foot roll of roof flashing and an emptied one-gallon paint-thinner can. (Next time, I’ll just buy an empty F-style can.)\n  The horn antenna is made from tape, an empty paint thinner can, and a roll of metal roof flashing [bottom row]. Signals are picked up with a low-noise amplifier [top middle], and passed to a software-defined radio receiver [top left].James Provost\nConstruction of the antenna itself was similar to that of the slightly smaller horn antenna I described in these pages in 2019. I made my new antenna bigger, though, because I needed better angular resolution, allowing me to scan smaller regions of the sky.\nTo pick up the emissions from interstellar hydrogen, I used Nooelec’s $45 SAWBird+ H1, a device that combines two low-noise amplifiers with a standing-acoustic-wave filter centered on 1,420 MHz, in combination with a RTL-SDR V4 dongle. So it’s not too hard to put together the hardware needed to measure signals from hydrogen clouds. But how do you pull the signature of dark matter out of those signals?\nThe answer is that you use such measurements to gauge the speed at which clouds located at different distances from the center of the Milky Way are moving in their orbits.\nYou just have to show that the speed at which material orbits the center of the galaxy doesn’t fall off with distance.\nYou might think that these clouds circle around the galactic center in the same way that planets orbit the sun or satellites orbit the Earth, with objects close in orbiting faster than those farther out. Mercury, for example, zips around the sun at 47.4 kilometers per second, whereas Neptune lumbers along at a leisurely 5.4 km/s.\nThe Milky Way contains a central bulge of stars surrounding a supermassive black hole. So at first blush, the mass of the galaxy appears to be concentrated near its center. If that were the case, stars and clouds of other material would orbit more slowly as their distance from the center increases. If, however, there were enormous amounts of invisible matter present throughout the galaxy, you wouldn’t expect orbital velocities to diminish in this way.\nHow Do You Measure the Speed of Interstellar Clouds?\nSo to detect dark matter, you just have to show that the speed at which material orbits the center of the galaxy doesn’t fall off with distance. And radio observations are the easiest way to do that, because you can gauge speeds by measuring how much the signal from hydrogen clouds is shifted by the Doppler effect.\nBy pointing your radio telescope at different parts of the sky, you pick up emissions from clouds located at various distances from the galactic center. The frequency offset of these emissions from 1,420 MHz reflects the speed of approach or recession of those clouds relative to Earth.\nYou need measurements from the plane of the galaxy, at galactic longitudes between 0 and 90 degrees (a galactic longitude of 0 degrees points directly toward the center of the galaxy and 180 degrees directly away from it). Applying some high school trigonometry lets you convert these figures into orbital speeds around the galactic center, a technique known as the tangent-point method.\n  In any group of clouds, the one with the highest velocity as seen from Earth will be the one lying closest to a tangent point along its orbit around the galaxy. This allows its distance from the galactic center to be determined through trigonometry [top]. The bottom graph shows the astronomical community’s measurements for velocities around the galactic center [in black], with the author’s results plotted in filled and open red circles.James Provost\nExperiments aiming my horn antenna at an Inmarsat geostationary satellite revealed that the angular resolution of my little radio telescope is about 20 degrees. So with the help of the planetarium program Stellarium, I pointed my antenna in the plane of the galaxy at galactic longitudes of about 15, 30, 45, 60, 75, and 90 degrees, spacing things out in an effort to make each set of measurements largely independent.\nI used the SDR# software with a plug-in called IF Average to read the raw measurements coming in from the antenna. This plug-in stacks up data received over a few minutes, allowing a weak signal to build up and produce a clean radio spectrum that shows the 1,420-MHz line. In reality, it looks more like a bump, or even a set of bumps due to Doppler shifted emissions from multiple clouds, located at different distances from the galactic center. Fortunately, you only have to care about the cloud that’s receding the fastest—the one with the largest redshift, in astronomer-speak.\nI used Microsoft Excel to analyze the shapes of radio spectra I gathered, modeling them as the sums of individual bell-shaped contributions from different clouds. That allowed me to estimate the largest redshift for each galactic longitude I probed. Then, again using Excel, I applied formulas that transformed those six redshift values into six pairs of orbital velocities and distances from the galactic center.\nThe plot of my results matched reasonably well with a recent paper, “The Inner Rotation Curve of the Milky WayInner Rotation Curve of the Milky Way,” in Publications of the Astronomical Society of Japan. Two innermost points, did show anomalously low orbital velocities. Another shot at curve fitting in Excel brought these results closer to expectations, but they were still somewhat off.\nIn any case, the orbital velocities I estimated did not diminish with distance from the galactic center—quite the opposite. Something out there is putting its stamp on how the Milky Way turns. And that basic observation is what allows me to say that, with the help of some roof flashing and a paint-thinner can, I’ve been able to detect dark matter from my backyard.",
           "isoDate": "2026-07-30T14:00:03.000Z"
         },
         {
