@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03T20:39:30.727743+00:00",
+  "updated": "2026-08-03T21:50:12.644171+00:00",
   "source": "datos.santander.es",
   "total_datasets": 6,
   "total_items": 1662,
@@ -7,7 +7,7 @@
     {
       "dataset": "senales_trafico",
       "url": "http://datos.santander.es/api/datos/senales_trafico.json",
-      "ok": false,
+      "ok": true,
       "count": 0,
       "items": []
     },
