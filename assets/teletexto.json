@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T02:27:23.521Z",
+  "generatedAt": "2026-08-04T08:34:37.487Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
@@ -75,7 +75,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
           "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-08-04T02:27:18.200Z"
+          "isoDate": "2026-08-04T08:34:33.244Z"
         },
         {
           "title": "Gasdermin D-mediated delivery of caspase inhibitors to suppress pyroptosis",
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-08-04T02:27:20.869Z"
+          "isoDate": "2026-08-04T08:34:34.236Z"
         },
         {
           "title": "Tokenomics: Why making AI pay is tricky",
@@ -204,6 +204,12 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "Apple is getting this wrong",
+          "link": "https://openai.com/index/apple-is-getting-this-wrong",
+          "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
+          "isoDate": "2026-08-03T22:00:00.000Z"
+        },
+        {
           "title": "Alexander Rakhlin named director of  the MIT Statistics and Data Science Center",
           "link": "https://news.mit.edu/2026/alexander-rakhlin-named-director-mit-statistics-data-science-center-0803",
           "summary": "An expert in machine learning, statistics, and computation, Rakhlin succeeds Professor Ankur Moitra.",
@@ -256,12 +262,6 @@
           "link": "https://news.mit.edu/2026/daniela-rus-receives-bavarian-minister-presidents-high-tech-prize-0730",
           "summary": "Director of CSAIL and MIT professor honored for her contributions to robotics, artificial intelligence, and autonomous systems.",
           "isoDate": "2026-07-30T21:00:00.000Z"
-        },
-        {
-          "title": "Connecting research to policy on Capitol Hill",
-          "link": "https://news.mit.edu/2026/connecting-research-to-policy-on-capitol-hill-0730",
-          "summary": "MIT students and postdocs discussed science funding and research with policymakers in Washington during the MIT Science Policy Initiative’s annual Congressional Visit Days.",
-          "isoDate": "2026-07-30T20:35:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-08-04T02:27:23.019Z"
+          "isoDate": "2026-08-04T08:34:36.867Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-08-04T02:27:22.038Z"
+          "isoDate": "2026-08-04T08:34:35.423Z"
         },
         {
           "title": "The System That Turned Paper Charts Into Digital Medical Records",
