@@ -1,10 +1,28 @@
 {
-  "generatedAt": "2026-08-05T02:27:00.646Z",
+  "generatedAt": "2026-08-05T08:33:52.315Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "NASA’s new dark energy space telescope can also detect killer asteroids",
+          "link": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/",
+          "summary": "At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space Center in Florida. Its quest is to help us better understand how the universe works, from the glue-like dark matter that keeps galaxies together to the elusive dark energy that drives the expansion of the cosmos.…",
+          "isoDate": "2026-08-05T08:06:40.000Z"
+        },
+        {
+          "title": "Ted Lasso returns at an important time for Apple TV",
+          "link": "https://www.theverge.com/entertainment/975224/ted-lasso-season-4-apple-tv",
+          "summary": "2026 is shaping up to be an excellent year for Apple TV. Apple's streaming service has built out an impressive slate that spans returning favorites like Silo and Sugar to all-new hits including OnlyFans-inspired dramedies, terrifying comedies, and paranoid tech thrillers. But the most important release might be a feel-good sports sitcom. After what seemed like a definitive finale, Ted Lasso is back with a fourth season that doubles as a soft reboot for the show, mixing up familiar characters with a substantially new cast. And as Apple TV continues its push for a bigger piece of the streaming market, the return of its most culturally impactfu …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-05T07:00:00.000Z"
+        },
+        {
+          "title": "SpaceX is coming for T-Mobile, AT&#038;T and Verizon",
+          "link": "https://www.theverge.com/science/975480/spacex-mobile-terrestrial-cellphone-company",
+          "summary": "SpaceX is preparing to build a terrestrial mobile network to \"acquire quite a few\" of the customers now subscribed to T-Mobile, AT&T, and Verizon. The message to compete head-to-head with the US carriers was delivered by SpaceX president Gwynne Shotwell and CEO Elon Musk during the Q&A section of the company's first earnings call.\n\"The spectrum that we purchased from EchoStar does have terrestrial components, so we definitely intend to build out the terrestrial component,\" said Shotwell. \"You will have not only the capacity from the satellites themselves, but you will have a buildout of the terrestrial, basically the hardware and systems ne …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-05T06:50:19.000Z"
+        },
         {
           "title": "Don’t screw this up, Marvel",
           "link": "https://www.theverge.com/entertainment/975297/spider-man-brand-new-day-marvel-sony-xmen-doomsday",
@@ -46,24 +64,6 @@
           "link": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/",
           "summary": "Governor who touted Texas as AI “epicenter” pauses data center grid connections.",
           "isoDate": "2026-08-04T20:34:28.000Z"
-        },
-        {
-          "title": "EA is now a private company",
-          "link": "https://www.theverge.com/games/974736/ea-private-company-deal-closed",
-          "summary": "Electronic Arts has officially become a private company. Last September, EA announced that an investor group led by Saudi Arabia's Public Investment Fund (PIF), Silver Lake, and Affinity Partners would be taking the company private in a $55 billion deal, and on Tuesday, EA said the deal successfully closed. The PIF will reportedly own 93.4 percent of the new company.\nThe deal includes $20 billion of debt financing - making it the largest leveraged buyout ever - which could mean big changes at EA to justify the deal. As of late, EA has been focusing heavily on its big tentpole franchises, including things like Battlefield, its sports games l …\nRead the full story at The Verge.",
-          "isoDate": "2026-08-04T20:18:14.000Z"
-        },
-        {
-          "title": "Telegram CEO says an extortionist planted CSAM in a chat to get it pulled from the App Store",
-          "link": "https://www.theverge.com/tech/975300/telegram-app-store-takedown-extortion-pavel-durov",
-          "summary": "Telegram CEO Pavel Durov blames an extortionist for planting child sexual abuse material (CSAM) in a public chat to get the app temporarily removed from Apple's App Store on Monday night. \"Apple removed Telegram from the App Store before contacting us,\" Durov says in a post on X. \"This creates a potential systemic risk for every mobile app that hosts user-generated content. If an app used by more than a billion people can be removed from the App Store without prior warning, any app can be.\"\nDurov adds, \"Extortionists have found a way to manipulate Apple into overreacting.\" Apple didn't immediately respond to The Verge's request for comment.\n …\nRead the full story at The Verge.",
-          "isoDate": "2026-08-04T19:11:05.000Z"
-        },
-        {
-          "title": "How an OpenAI influencer trip backfired ",
-          "link": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
-          "summary": "The brand trip is a right of passage for influencers. It's a mark of legitimacy that a sponsor wants to invite them on an all-expenses-paid vacation, often with luxurious freebies and activities. Trips can also spur hard feelings from uninvited influencers, trigger criticism from the public, and project a certain frivolousness. \nUsually it is fast fashion companies or beauty brands flying out influencers with the goal of flooding social media with sponsored content. This time, it was a major AI company.\nOver the weekend, several influencers began posting about OpenAI's \"first ever brand trip,\" which appears to have taken place outside of N …\nRead the full story at The Verge.",
-          "isoDate": "2026-08-04T17:46:41.000Z"
         }
       ]
     },
@@ -72,52 +72,10 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "NASA Will Attempt to Observe Rocket Part’s Lunar Impact",
-          "link": "https://www.nasa.gov/humans-in-space/commercial-space/nasa-will-attempt-to-observe-rocket-parts-lunar-impact/",
-          "summary": "Using ground-based telescopes and space-based assets, NASA and SpaceX are tracking a used Falcon 9 upper stage from a commercial mission expected to impact the Moon on Wednesday, Aug. 5, near the Einstein and Bell craters. The impact poses no danger to Earth and NASA scientists are planning to collect lunar data from the event […]",
-          "isoDate": "2026-08-04T20:00:14.000Z"
-        },
-        {
-          "title": "NASA’s PUNCH Sharpens Solar Storm Forecasting in First Test",
-          "link": "https://science.nasa.gov/science-research/heliophysics/nasas-punch-sharpens-solar-storm-forecasting-in-first-test/",
-          "summary": "Using continuous imagery from NASA’s PUNCH (Polarimeter to Unify the Corona and Heliosphere) mission, scientists predicted the near-Earth arrival of a solar eruption to within 30 minutes in an initial proof of concept test. The results, presented Tuesday at the Committee on Space Research Scientific Meeting and under review at the journal Space Weather, could […]",
-          "isoDate": "2026-08-04T18:02:55.000Z"
-        },
-        {
-          "title": "Ames Science Stars of the Month – August 2026",
-          "link": "https://www.nasa.gov/general/ames-science-stars-of-the-month-august-2026/",
-          "summary": "The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Danielle Lopez, Jennifer Claudio, and Duncan Mifsud. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond. Space Biosciences Star of the Month: Danielle Lopez Danielle Lopez is the […]",
-          "isoDate": "2026-08-04T17:08:04.000Z"
-        },
-        {
-          "title": "August 2026 Satellite Puzzler",
-          "link": "https://science.nasa.gov/earth/earth-observatory/august-2026-satellite-puzzler/",
-          "summary": "Your challenge is to tell us the location of the satellite image and why it is interesting.",
-          "isoDate": "2026-08-04T16:31:46.000Z"
-        },
-        {
-          "title": "NASA Provides Updates on Moon Base Cargo Landers, Tech Demonstrations",
-          "link": "https://www.nasa.gov/missions/moon-base/nasa-provides-updates-on-moon-base-cargo-landers-tech-demonstrations/",
-          "summary": "NASA is making progress in building the Moon Base, which will become a resilient outpost near the Moon’s South Pole for science, technology, and eventual human operations. To advance lunar surface infrastructure development, commercial partners such as Blue Origin, Firefly Aerospace, Intuitive Machines, and Voyager Lunar Systems are working toward delivering landers by 2028. These […]",
-          "isoDate": "2026-08-04T16:14:51.000Z"
-        },
-        {
-          "title": "Roman Space Telescope Plaque Install",
-          "link": "https://www.nasa.gov/image-article/roman-space-telescope-plaque-install/",
-          "summary": "Technicians installed a commemorative plaque, seen in this July 28, 2026, photo, on NASA’s Nancy Grace Roman Space Telescope. The plaque honors the legacy of Dr. Nancy Grace Roman, NASA’s first chief astronomer and one of the architects of the agency’s modern science program. It also features a memory card containing a total of 1,350,144 […]",
-          "isoDate": "2026-08-04T15:50:44.000Z"
-        },
-        {
-          "title": "APOD: 2026 August 4 – Curious Cometary Knots in the Helix Nebula",
-          "link": "https://science.nasa.gov/image-article/apod-august-4-2026-curious-cometary-knots-in-the-helix-nebula/",
-          "summary": "APOD Science APOD APOD: 2026 August 4 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Curious Cometary Knots […]",
-          "isoDate": "2026-08-04T04:05:00.000Z"
-        },
-        {
-          "title": "Smoke Streams Across Eastern Washington",
-          "link": "https://science.nasa.gov/earth/earth-observatory/smoke-streams-across-eastern-washington/",
-          "summary": "Wildland fires in early August 2026 pushed air quality to unhealthy levels, destroyed hundreds of structures, and triggered mandatory evacuations in Spokane.",
-          "isoDate": "2026-08-04T04:00:00.000Z"
+          "title": "ERROR cargando feed",
+          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
+          "isoDate": "2026-08-05T08:33:46.194Z"
         },
         {
           "title": "Author Correction: Casdatifan shows durable response linked to HIF-2α biology in kidney cancer",
@@ -130,6 +88,48 @@
           "link": "https://www.nature.com/articles/d41586-026-02426-3",
           "summary": "Nature, Published online: 04 August 2026; doi:10.1038/d41586-026-02426-3\nPut health systems at the centre of European heatwave plans",
           "isoDate": "2026-08-04T00:00:00.000Z"
+        },
+        {
+          "title": "‘Television’? The word will never catch on!",
+          "link": "https://www.nature.com/articles/d41586-026-02379-7",
+          "summary": "Nature, Published online: 04 August 2026; doi:10.1038/d41586-026-02379-7\nOne reader proposes an alternative to the word ‘television’, and another is enthralled by a meteor, in our weekly dip into Nature’s archive.",
+          "isoDate": "2026-08-04T00:00:00.000Z"
+        },
+        {
+          "title": "Scientists don’t need more trust, they need public allies",
+          "link": "https://www.nature.com/articles/d41586-026-02424-5",
+          "summary": "Nature, Published online: 04 August 2026; doi:10.1038/d41586-026-02424-5\nScientists don’t need more trust, they need public allies",
+          "isoDate": "2026-08-04T00:00:00.000Z"
+        },
+        {
+          "title": "Lab leaders should follow football’s lead and have coaching qualifications",
+          "link": "https://www.nature.com/articles/d41586-026-02427-2",
+          "summary": "Nature, Published online: 04 August 2026; doi:10.1038/d41586-026-02427-2\nLab leaders should follow football’s lead and have coaching qualifications",
+          "isoDate": "2026-08-04T00:00:00.000Z"
+        },
+        {
+          "title": "How scientists can tackle the paradox of political polarization",
+          "link": "https://www.nature.com/articles/d41586-026-02425-4",
+          "summary": "Nature, Published online: 04 August 2026; doi:10.1038/d41586-026-02425-4\nHow scientists can tackle the paradox of political polarization",
+          "isoDate": "2026-08-04T00:00:00.000Z"
+        },
+        {
+          "title": "Engineered yeast that make cancer drugs could spare a rare flower",
+          "link": "https://www.nature.com/articles/d41586-026-02428-1",
+          "summary": "Nature, Published online: 04 August 2026; doi:10.1038/d41586-026-02428-1\nModified baker’s yeast can produce a precursor for a drug that is usually derived from an endangered plant and its relatives.",
+          "isoDate": "2026-08-04T00:00:00.000Z"
+        },
+        {
+          "title": "Tiny patch of Amazon probably holds 40,000 insect species — many new to science",
+          "link": "https://www.nature.com/articles/d41586-026-02350-6",
+          "summary": "Nature, Published online: 04 August 2026; doi:10.1038/d41586-026-02350-6\nMegaproject involving hundreds of sites is cataloguing rainforest insects from the ground to the canopy.",
+          "isoDate": "2026-08-04T00:00:00.000Z"
+        },
+        {
+          "title": "Why the need for the WHO has never been greater",
+          "link": "https://www.nature.com/articles/d41586-026-02358-y",
+          "summary": "Nature, Published online: 04 August 2026; doi:10.1038/d41586-026-02358-y\nDiseases don’t stop at borders. Pandemics, climate change and conflicts demand a collective approach.",
+          "isoDate": "2026-08-04T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-08-05T02:26:57.040Z"
+          "isoDate": "2026-08-05T08:33:47.218Z"
+        },
+        {
+          "title": "SpaceX shares sink after first earnings report reveals huge AI spending plans",
+          "link": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss",
+          "summary": "Elon Musk said during a call with financial analysts that people were \"underestimating\" his company.",
+          "isoDate": "2026-08-05T08:18:03.000Z"
         },
         {
           "title": "AI used new levels of 'autonomy and deception' to trick people in safety test",
@@ -150,7 +156,7 @@
           "isoDate": "2026-08-05T00:02:18.000Z"
         },
         {
-          "title": "Could tech replace firefighters in the battle against wildfires?",
+          "title": "How tech is helping in the battle against wildfires",
           "link": "https://www.bbc.co.uk/news/articles/c62enveg1dpo?at_medium=RSS&at_campaign=rss",
           "summary": "Tech is being used to watch for wildfires but firefighters are still needed to put them out.",
           "isoDate": "2026-08-04T23:21:47.000Z"
@@ -160,12 +166,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cjejyl34345o?at_medium=RSS&at_campaign=rss",
           "summary": "The deal takes the maker of titles including The Sims and EA FC into private ownership - and loads it with debt.",
           "isoDate": "2026-08-04T23:09:44.000Z"
-        },
-        {
-          "title": "SpaceX's first-ever earnings show higher revenues and huge spending",
-          "link": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss",
-          "summary": "Elon Musk said during a call with financial analysts that people were \"underestimating\" his company.",
-          "isoDate": "2026-08-04T21:57:19.000Z"
         },
         {
           "title": "Tech Life",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-08-05T02:26:59.800Z"
+          "isoDate": "2026-08-05T08:33:51.251Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-08-05T02:26:58.826Z"
+          "isoDate": "2026-08-05T08:33:48.543Z"
         },
         {
           "title": "Why R&D Waste Persists Despite Widespread AI Adoption",
