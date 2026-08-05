@@ -1,10 +1,58 @@
 {
-  "generatedAt": "2026-08-04T19:36:01.688Z",
+  "generatedAt": "2026-08-05T02:27:00.646Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Don’t screw this up, Marvel",
+          "link": "https://www.theverge.com/entertainment/975297/spider-man-brand-new-day-marvel-sony-xmen-doomsday",
+          "summary": "In less than a week, Spider-Man: Brand New Day raked in $1 billion worldwide and had the biggest box office opening weekend in Hollywood history. The feature has been a reminder of why Sony is probably never going to give up the Spider-Man film rights, and highlighted how Marvel Studios was smart to strike a deal to bring the character into its own films. But as successful as Brand New Day has been, the larger MCU has been stuck in a confounding slump for the past few years. And while this latest Spider-Man movie was truly excellent, it's not necessarily a sign that Marvel has figured out how to get things back on track.\nThough Brand New Da …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-04T23:20:56.000Z"
+        },
+        {
+          "title": "Now you can securely link multiple phones to one Signal account",
+          "link": "https://www.theverge.com/tech/975407/signal-linked-devices-sync",
+          "summary": "You can link more devices with one phone number on Signal now, including an Android phone or iPhone. Signal already supported linking PCs and iPads, but not additional phones. When you link a device on Signal, you can check and respond to new messages across all of your linked devices. You can also choose whether or not to transfer an end-to-end encrypted copy of your previous messages to each newly linked device to mitigate the risk of devices that might be shared, lost, or compromised.\nThe update is rolling out now with Signal version 8.20 on Android and version 8.22 for iPhone / iPad. \nSignal also says it has made \"significant interface …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-04T22:02:46.000Z"
+        },
+        {
+          "title": "Senators demand crackdown on wildfire \"prediction markets\"",
+          "link": "https://arstechnica.com/tech-policy/2026/08/senators-demand-crackdown-on-wildfire-prediction-markets/",
+          "summary": "Fire experts warn such markets could incentivize arson.",
+          "isoDate": "2026-08-04T21:52:31.000Z"
+        },
+        {
+          "title": "Trump killed the Digital Equity Act, but US was forced to bring part of it back",
+          "link": "https://arstechnica.com/tech-policy/2026/08/trump-forced-to-reinstate-broadband-grants-but-court-lets-us-scrap-race-criteria/",
+          "summary": "$1.25 billion program restored, but judge ruled race provision unconstitutional.",
+          "isoDate": "2026-08-04T21:27:05.000Z"
+        },
+        {
+          "title": "AMD&#8217;s data center business is booming while gaming takes a backseat",
+          "link": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
+          "summary": "Driven by demand for AI capacity, AMD's data center revenue more than doubled year-over-year in its latest earnings report, reaching $6.7 billion. That's up from $5.8 billion in Q1, and jumping 107 percent from the $3.2 billion it reported for the same period a year ago. During Tuesday's earnings call, AMD CEO Lisa Su said the company expects \"data center segment revenue to more than double year-over-year in 2027,\" as well. \nAt the same time, AMD's gaming revenue fell 31 percent compared to last year, to $779 million, as price hikes and component shortages slowed sales for the Xbox Series X / S, PS5, and Valve's Steam Deck. On a call after  …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-04T20:57:49.000Z"
+        },
+        {
+          "title": "SpaceX made more revenue as an AI company than a space company",
+          "link": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
+          "summary": "SpaceX's AI revenue grew more than three times to $2.6 billion from the year before, mostly because of deals that the company made to provide compute to other AI companies, according to SpaceX's quarterly earnings. The AI division, which the company said in its documents to go public was the source of most of its value, lost $1.5 billion this quarter, slightly less than in the same quarter last year.\nSpaceX made deals with Anthropic in May and Google in June to provide compute to the other two AI companies, putting it in competition with other neoclouds such as CoreWeave. The increased presence in AI is also driving the company to spend mor …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-04T20:47:55.000Z"
+        },
+        {
+          "title": "Texas halts data center connections to power grid amid overwhelming demand",
+          "link": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/",
+          "summary": "Governor who touted Texas as AI “epicenter” pauses data center grid connections.",
+          "isoDate": "2026-08-04T20:34:28.000Z"
+        },
+        {
+          "title": "EA is now a private company",
+          "link": "https://www.theverge.com/games/974736/ea-private-company-deal-closed",
+          "summary": "Electronic Arts has officially become a private company. Last September, EA announced that an investor group led by Saudi Arabia's Public Investment Fund (PIF), Silver Lake, and Affinity Partners would be taking the company private in a $55 billion deal, and on Tuesday, EA said the deal successfully closed. The PIF will reportedly own 93.4 percent of the new company.\nThe deal includes $20 billion of debt financing - making it the largest leveraged buyout ever - which could mean big changes at EA to justify the deal. As of late, EA has been focusing heavily on its big tentpole franchises, including things like Battlefield, its sports games l …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-04T20:18:14.000Z"
+        },
         {
           "title": "Telegram CEO says an extortionist planted CSAM in a chat to get it pulled from the App Store",
           "link": "https://www.theverge.com/tech/975300/telegram-app-store-takedown-extortion-pavel-durov",
@@ -16,54 +64,6 @@
           "link": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
           "summary": "The brand trip is a right of passage for influencers. It's a mark of legitimacy that a sponsor wants to invite them on an all-expenses-paid vacation, often with luxurious freebies and activities. Trips can also spur hard feelings from uninvited influencers, trigger criticism from the public, and project a certain frivolousness. \nUsually it is fast fashion companies or beauty brands flying out influencers with the goal of flooding social media with sponsored content. This time, it was a major AI company.\nOver the weekend, several influencers began posting about OpenAI's \"first ever brand trip,\" which appears to have taken place outside of N …\nRead the full story at The Verge.",
           "isoDate": "2026-08-04T17:46:41.000Z"
-        },
-        {
-          "title": "Lenovo&#8217;s Legion Go S with SteamOS is down to its lowest price ever",
-          "link": "https://www.theverge.com/gadgets/975113/lenovo-legion-go-s-steamos-deal-sale",
-          "summary": "Lenovo’s Legion Go S with SteamOS. | Photo by Sean Hollister / The Verge\t\n\nMemory and storage prices will be inflated for the foreseeable future, so we’re always happy to find a good deal on capable gaming hardware, like this discount on the Lenovo Legion Go S with a Z2 Go processor and SteamOS. Normally $1,137.41 (and selling for close to $1,000 at Best Buy), Lenovo has the handheld console on sale for just $635.54 when you use code EXTRASAVEAFF at checkout, the lowest price we’ve seen yet for this model.\nLenovo Legion Go S with SteamOS (Z2 Go)\n\nWhere to Buy:\n\n $1137.41 $635.54 at Lenovo (w/ code EXTRASAVEAFF)\n\nWe reviewed both the Windows and SteamOS versions of this gaming handheld when it released in 2024, and found the latter to be a much more appealing option, largely thanks to the improved user experience that Windows has shown signs that it’s slowly catching up to. The Z2 Go chip isn’t all that impressive, with similar performance to the more expensive OLED Steam Deck, but it’s still a solid choice for indie games and more spec-intensive titles if you turn the settings down. The 8-inch IPS panel goes up to 120Hz, and has variable refresh rate, which helps the Legion Go S stand out among other options at the same price.\nRead our Lenovo Legion Go S (SteamOS) review.",
-          "isoDate": "2026-08-04T17:35:04.000Z"
-        },
-        {
-          "title": "China is Tesla's cash cow, but for how much longer?",
-          "link": "https://arstechnica.com/cars/2026/08/china-is-teslas-cash-cow-but-for-how-much-longer/",
-          "summary": "Tesla's Shanghai factory is busier than ever but might be cut loose.",
-          "isoDate": "2026-08-04T17:34:48.000Z"
-        },
-        {
-          "title": "‘Not healthy’ LLM use is more common than you think",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
-          "summary": "Hank Green, a popular YouTuber and science communicator, said he is stepping back from production amid intense criticism over his use of AI. Green described his AI usage as \"not healthy,\" but stressed that he used it for finding research sources and not to write scripts.\nMuch of the ensuing firestorm in this corner of the internet has centered on how a creator can square a brand built on authenticity and credibility with a technology trained on the (often uncompensated) works of others, and which has a well-known tendency to generate plausible-sounding falsehoods. Some attention has fallen on Green's description of what appears to be an unh …\nRead the full story at The Verge.",
-          "isoDate": "2026-08-04T17:33:46.000Z"
-        },
-        {
-          "title": "BMW’s in-car Spider-Man ad is villain behavior",
-          "link": "https://www.theverge.com/transportation/975172/bmw-spider-man-movie-infotainment-ad",
-          "summary": "With great power comes great responsibility… to not justify ads in the name of movie promotions. | Image: BMW / Sony Pictures\t\n\nWhen a premium car brand like BMW says it has a \"special surprise\" in store for drivers, I'd expect something more luxurious than having a movie commercial beamed onto the dashboard. That's exactly what's happening to many BMW owners, however, who are being shown banner ads for Spider-man: Brand New Day on their Control Display upon starting the vehicle.\nIn a statement to The Autopian, BMW confirmed that the ads are definitely real, serving as part of \"a broader brand partnership\" with the new Marvel movie. BMW's own announcement also confirms that the ads are running from July 27th until August 10th, and reveals how widespread they are:\n …\n\nRead the full story at The Verge.",
-          "isoDate": "2026-08-04T17:17:14.000Z"
-        },
-        {
-          "title": "The Pixel 11's \"glow\" feature is actually called HiLight—here's what it does",
-          "link": "https://arstechnica.com/gadgets/2026/08/the-pixel-11s-glow-feature-is-actually-called-hilight-heres-what-it-does/",
-          "summary": "The camera flash will evolve into a multicolor LED that illuminates when your phone is face down.",
-          "isoDate": "2026-08-04T16:11:05.000Z"
-        },
-        {
-          "title": "T-Mobile’s $0-down financing plan bundles taxes and fees",
-          "link": "https://www.theverge.com/tech/975115/t-mobile-financing-eip-flex-36-plan",
-          "summary": "T-Mobile is launching a new financing option that will allow you to pay for a device, taxes, and fees over 36 months. In an update on Tuesday, T-Mobile says its new Equipment Installment Plan (EIP) Flex 36 requires no upfront payment and will come with a 0 percent APR for a limited time.\nEven if you are financing a device, carriers typically require you to pay sales tax, an activation fee, or a down payment at checkout. T-Mobile says its new plan eliminates that by allowing you to pay off all of these costs over time - though its website notes only \"well-qualified customers\" will pay $0 upfront. The EIP Flex 36 financing option is available …\nRead the full story at The Verge.",
-          "isoDate": "2026-08-04T16:07:02.000Z"
-        },
-        {
-          "title": "Skylight&#8217;s smart calendars are up to $90 off during its back-to-school sale",
-          "link": "https://www.theverge.com/gadgets/973789/skylight-calendar-2-max-back-to-school-deal-sale",
-          "summary": "The 15-inch Skylight Calendar 2 can stand on a table or mounted to the wall. | Image: Skylight\t\n\nThe start of a new school year can feel hectic, as parents juggle their kids’ classes, extracurriculars and sports on top of work, appointments, and other responsibilities. It’s easy for things to slip through the cracks, but Skylight’s shared smart calendars can help keep everyone on track, and from August 2nd through August 9th they’re up to $110 off.\nThe sale includes the 15-inch Skylight Calendar 2 for $279.99 ($20 off) at Best Buy and the 27-inch Skylight Calendar Max for $509.99 ($11o off) at Amazon. If you’re willing to subscribe to the $79 per year Plus plan, you can get the 10-inch Skylight Calendar for $149.99 ($20 off), which includes one month of Plus for free. The 10-inch model takes up the least amount of space, though the newer, larger 15-inch Calendar 2 features faster performance, a brighter display, and swappable magnetic frames. The 27-inch Calendar Max, meanwhile, offers the sharpest and largest screen and must be mounted to the wall (the other models can stand on a table or be mounted), making it the easiest option for large families to view from across the room. \nThe Skylight Calendar\n\nWhere to Buy:\n\n $319.99 $299.99 at Amazon (15-inch Calendar 2)\n $299.99 $279.99 at Best Buy (15-inch Calendar 2)\n $299.99 $279.99 at Skylight (15-inch Calendar 2)\n\nRegardless of which model you choose, every Skylight Calendar includes the same set of organizational features. Each member of your household can have their own color-coded profile, and each can sync events from Google, Outlook, Apple, Cozi, or Yahoo calendars. You can also create shared lists for groceries, chores, and other to-dos that everyone can access from the calendar or the companion mobile app, and even send your grocery list to Instacart with a couple of taps. Built-in weather forecasts also can help you plan around upcoming events, and you can also share calendar access with family members and trusted contacts. \nSkylight Calendar Max\n\nWhere to Buy:\n\n $619.99 $509.99 at Amazon (27-inch model)\n $629.99 $519.99 at Best Buy (27-inch model)\n\nYou get even more perks if you subscribe to the $79 per year Plus Plan (the first month of the service is free to try). Skylight uses AI to automatically turn emails, photos, flyers, and spreadsheets into calendar entries. It also adds meal planning, tools for assigning and rewarding completed chores, and a mode that displays your photos like a digital picture frame.\nRead our Skylight Calendar Max review.\nUpdate, August 4: Adjusted the copy and product cards to reflect current pricing, and added Amazon and Best Buy offers where the discounts are better than Skylight’s.",
-          "isoDate": "2026-08-04T16:01:57.000Z"
-        },
-        {
-          "title": "Tom DeLay helped create TV ownership cap—he says Trump FCC has no authority to repeal it",
-          "link": "https://arstechnica.com/tech-policy/2026/08/can-trump-fcc-repeal-39-tv-ownership-cap-republican-who-wrote-cap-into-law-says-no/",
-          "summary": "Congress set ownership limit at 39%, but FCC claims authority to kill the rule.",
-          "isoDate": "2026-08-04T15:51:00.000Z"
         }
       ]
     },
@@ -72,10 +72,52 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "ERROR cargando feed",
-          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
-          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-08-04T19:35:56.456Z"
+          "title": "NASA Will Attempt to Observe Rocket Part’s Lunar Impact",
+          "link": "https://www.nasa.gov/humans-in-space/commercial-space/nasa-will-attempt-to-observe-rocket-parts-lunar-impact/",
+          "summary": "Using ground-based telescopes and space-based assets, NASA and SpaceX are tracking a used Falcon 9 upper stage from a commercial mission expected to impact the Moon on Wednesday, Aug. 5, near the Einstein and Bell craters. The impact poses no danger to Earth and NASA scientists are planning to collect lunar data from the event […]",
+          "isoDate": "2026-08-04T20:00:14.000Z"
+        },
+        {
+          "title": "NASA’s PUNCH Sharpens Solar Storm Forecasting in First Test",
+          "link": "https://science.nasa.gov/science-research/heliophysics/nasas-punch-sharpens-solar-storm-forecasting-in-first-test/",
+          "summary": "Using continuous imagery from NASA’s PUNCH (Polarimeter to Unify the Corona and Heliosphere) mission, scientists predicted the near-Earth arrival of a solar eruption to within 30 minutes in an initial proof of concept test. The results, presented Tuesday at the Committee on Space Research Scientific Meeting and under review at the journal Space Weather, could […]",
+          "isoDate": "2026-08-04T18:02:55.000Z"
+        },
+        {
+          "title": "Ames Science Stars of the Month – August 2026",
+          "link": "https://www.nasa.gov/general/ames-science-stars-of-the-month-august-2026/",
+          "summary": "The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Danielle Lopez, Jennifer Claudio, and Duncan Mifsud. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond. Space Biosciences Star of the Month: Danielle Lopez Danielle Lopez is the […]",
+          "isoDate": "2026-08-04T17:08:04.000Z"
+        },
+        {
+          "title": "August 2026 Satellite Puzzler",
+          "link": "https://science.nasa.gov/earth/earth-observatory/august-2026-satellite-puzzler/",
+          "summary": "Your challenge is to tell us the location of the satellite image and why it is interesting.",
+          "isoDate": "2026-08-04T16:31:46.000Z"
+        },
+        {
+          "title": "NASA Provides Updates on Moon Base Cargo Landers, Tech Demonstrations",
+          "link": "https://www.nasa.gov/missions/moon-base/nasa-provides-updates-on-moon-base-cargo-landers-tech-demonstrations/",
+          "summary": "NASA is making progress in building the Moon Base, which will become a resilient outpost near the Moon’s South Pole for science, technology, and eventual human operations. To advance lunar surface infrastructure development, commercial partners such as Blue Origin, Firefly Aerospace, Intuitive Machines, and Voyager Lunar Systems are working toward delivering landers by 2028. These […]",
+          "isoDate": "2026-08-04T16:14:51.000Z"
+        },
+        {
+          "title": "Roman Space Telescope Plaque Install",
+          "link": "https://www.nasa.gov/image-article/roman-space-telescope-plaque-install/",
+          "summary": "Technicians installed a commemorative plaque, seen in this July 28, 2026, photo, on NASA’s Nancy Grace Roman Space Telescope. The plaque honors the legacy of Dr. Nancy Grace Roman, NASA’s first chief astronomer and one of the architects of the agency’s modern science program. It also features a memory card containing a total of 1,350,144 […]",
+          "isoDate": "2026-08-04T15:50:44.000Z"
+        },
+        {
+          "title": "APOD: 2026 August 4 – Curious Cometary Knots in the Helix Nebula",
+          "link": "https://science.nasa.gov/image-article/apod-august-4-2026-curious-cometary-knots-in-the-helix-nebula/",
+          "summary": "APOD Science APOD APOD: 2026 August 4 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Curious Cometary Knots […]",
+          "isoDate": "2026-08-04T04:05:00.000Z"
+        },
+        {
+          "title": "Smoke Streams Across Eastern Washington",
+          "link": "https://science.nasa.gov/earth/earth-observatory/smoke-streams-across-eastern-washington/",
+          "summary": "Wildland fires in early August 2026 pushed air quality to unhealthy levels, destroyed hundreds of structures, and triggered mandatory evacuations in Spokane.",
+          "isoDate": "2026-08-04T04:00:00.000Z"
         },
         {
           "title": "Author Correction: Casdatifan shows durable response linked to HIF-2α biology in kidney cancer",
@@ -88,48 +130,6 @@
           "link": "https://www.nature.com/articles/d41586-026-02426-3",
           "summary": "Nature, Published online: 04 August 2026; doi:10.1038/d41586-026-02426-3\nPut health systems at the centre of European heatwave plans",
           "isoDate": "2026-08-04T00:00:00.000Z"
-        },
-        {
-          "title": "‘Television’? The word will never catch on!",
-          "link": "https://www.nature.com/articles/d41586-026-02379-7",
-          "summary": "Nature, Published online: 04 August 2026; doi:10.1038/d41586-026-02379-7\nOne reader proposes an alternative to the word ‘television’, and another is enthralled by a meteor, in our weekly dip into Nature’s archive.",
-          "isoDate": "2026-08-04T00:00:00.000Z"
-        },
-        {
-          "title": "Scientists don’t need more trust, they need public allies",
-          "link": "https://www.nature.com/articles/d41586-026-02424-5",
-          "summary": "Nature, Published online: 04 August 2026; doi:10.1038/d41586-026-02424-5\nScientists don’t need more trust, they need public allies",
-          "isoDate": "2026-08-04T00:00:00.000Z"
-        },
-        {
-          "title": "Lab leaders should follow football’s lead and have coaching qualifications",
-          "link": "https://www.nature.com/articles/d41586-026-02427-2",
-          "summary": "Nature, Published online: 04 August 2026; doi:10.1038/d41586-026-02427-2\nLab leaders should follow football’s lead and have coaching qualifications",
-          "isoDate": "2026-08-04T00:00:00.000Z"
-        },
-        {
-          "title": "How scientists can tackle the paradox of political polarization",
-          "link": "https://www.nature.com/articles/d41586-026-02425-4",
-          "summary": "Nature, Published online: 04 August 2026; doi:10.1038/d41586-026-02425-4\nHow scientists can tackle the paradox of political polarization",
-          "isoDate": "2026-08-04T00:00:00.000Z"
-        },
-        {
-          "title": "Engineered yeast that make cancer drugs could spare a rare flower",
-          "link": "https://www.nature.com/articles/d41586-026-02428-1",
-          "summary": "Nature, Published online: 04 August 2026; doi:10.1038/d41586-026-02428-1\nModified baker’s yeast can produce a precursor for a drug that is usually derived from an endangered plant and its relatives.",
-          "isoDate": "2026-08-04T00:00:00.000Z"
-        },
-        {
-          "title": "Tiny patch of Amazon probably holds 40,000 insect species — many new to science",
-          "link": "https://www.nature.com/articles/d41586-026-02350-6",
-          "summary": "Nature, Published online: 04 August 2026; doi:10.1038/d41586-026-02350-6\nMegaproject involving hundreds of sites is cataloguing rainforest insects from the ground to the canopy.",
-          "isoDate": "2026-08-04T00:00:00.000Z"
-        },
-        {
-          "title": "Why the need for the WHO has never been greater",
-          "link": "https://www.nature.com/articles/d41586-026-02358-y",
-          "summary": "Nature, Published online: 04 August 2026; doi:10.1038/d41586-026-02358-y\nDiseases don’t stop at borders. Pandemics, climate change and conflicts demand a collective approach.",
-          "isoDate": "2026-08-04T00:00:00.000Z"
         }
       ]
     },
@@ -141,11 +141,35 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-08-04T19:35:56.765Z"
+          "isoDate": "2026-08-05T02:26:57.040Z"
+        },
+        {
+          "title": "AI used new levels of 'autonomy and deception' to trick people in safety test",
+          "link": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go?at_medium=RSS&at_campaign=rss",
+          "summary": "The UK's AI Safety Institute said recent behaviour from Anthropic and OpenAI models was malicious and unprecedented.",
+          "isoDate": "2026-08-05T00:02:18.000Z"
+        },
+        {
+          "title": "Could tech replace firefighters in the battle against wildfires?",
+          "link": "https://www.bbc.co.uk/news/articles/c62enveg1dpo?at_medium=RSS&at_campaign=rss",
+          "summary": "Tech is being used to watch for wildfires but firefighters are still needed to put them out.",
+          "isoDate": "2026-08-04T23:21:47.000Z"
+        },
+        {
+          "title": "Saudi-led group completes $55bn purchase of gaming giant EA",
+          "link": "https://www.bbc.co.uk/news/articles/cjejyl34345o?at_medium=RSS&at_campaign=rss",
+          "summary": "The deal takes the maker of titles including The Sims and EA FC into private ownership - and loads it with debt.",
+          "isoDate": "2026-08-04T23:09:44.000Z"
+        },
+        {
+          "title": "SpaceX's first-ever earnings show higher revenues and huge spending",
+          "link": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss",
+          "summary": "Elon Musk said during a call with financial analysts that people were \"underestimating\" his company.",
+          "isoDate": "2026-08-04T21:57:19.000Z"
         },
         {
           "title": "Tech Life",
-          "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/sounds/play/w3ct8jy7?at_medium=RSS&at_campaign=rss",
           "summary": "Electric power is one of several cleaner alternatives to traditional aviation fuel.",
           "isoDate": "2026-08-04T19:30:00.000Z"
         },
@@ -172,30 +196,6 @@
           "link": "https://www.bbc.co.uk/iplayer/episode/m002zxt1?at_medium=RSS&at_campaign=rss",
           "summary": "New technologies measuring forests and exclusive access to a hacker rehab programme.",
           "isoDate": "2026-08-01T00:00:12.000Z"
-        },
-        {
-          "title": "Snapchat joins other popular platforms in fight against 'AI slop'",
-          "link": "https://www.bbc.co.uk/news/articles/c77g6dm5pr8o?at_medium=RSS&at_campaign=rss",
-          "summary": "Snapchat, YouTube, LinkedIn, and Substack are trying to combat the proliferation of fake AI content.",
-          "isoDate": "2026-07-31T21:57:59.000Z"
-        },
-        {
-          "title": "AI firms must answer for rogue bots, says boss of hacked company",
-          "link": "https://www.bbc.co.uk/news/articles/cr7k49xjzzeo?at_medium=RSS&at_campaign=rss",
-          "summary": "Clement Delangue said he didn't want cyber attacks on other companies to become \"normalised\".",
-          "isoDate": "2026-07-31T18:10:28.000Z"
-        },
-        {
-          "title": "Amazon and Apple just told us more about their AI plans - here are three things we learned",
-          "link": "https://www.bbc.co.uk/news/articles/cp87m46g392o?at_medium=RSS&at_campaign=rss",
-          "summary": "Billions of dollars are being poured into a new wave of AI technology. But will it pay off?",
-          "isoDate": "2026-07-31T01:31:50.000Z"
-        },
-        {
-          "title": "How police are trying to divert teen hackers away from crime",
-          "link": "https://www.bbc.co.uk/news/articles/cn0nqpy1rk4o?at_medium=RSS&at_campaign=rss",
-          "summary": "Cyber Prevent is targeting predominantly boys and young men at risk of being drawn to cyber criminality.",
-          "isoDate": "2026-07-31T00:42:48.000Z"
         }
       ]
     },
@@ -203,6 +203,12 @@
       "header": "160  INTELIGENCIA ARTIFICIAL",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Third-party cyber evaluations involving OpenAI models",
+          "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+          "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
+          "isoDate": "2026-08-04T19:00:00.000Z"
+        },
         {
           "title": "Solving the solvent problem  ",
           "link": "https://news.mit.edu/2026/solving-solvent-problem-sodium-metal-batteries-0804",
@@ -256,12 +262,6 @@
           "link": "https://openai.com/index/advancing-responsible-ai-across-europe",
           "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
           "isoDate": "2026-07-31T15:00:00.000Z"
-        },
-        {
-          "title": "Building abundant intelligence",
-          "link": "https://openai.com/index/building-abundant-intelligence",
-          "summary": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
-          "isoDate": "2026-07-31T15:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-08-04T19:36:00.625Z"
+          "isoDate": "2026-08-05T02:26:59.800Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-08-04T19:35:58.204Z"
+          "isoDate": "2026-08-05T02:26:58.826Z"
         },
         {
           "title": "Why R&D Waste Persists Despite Widespread AI Adoption",
