@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T02:29:29.039Z",
+  "generatedAt": "2026-08-06T08:33:53.183Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
@@ -75,7 +75,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
           "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-08-06T02:29:23.695Z"
+          "isoDate": "2026-08-06T08:33:48.413Z"
         },
         {
           "title": "Pumas are drivers’ guardian angels",
@@ -141,7 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-08-06T02:29:24.372Z"
+          "isoDate": "2026-08-06T08:33:50.404Z"
+        },
+        {
+          "title": "Cashing in on SpaceX: 'Every chance I get, I'll sell a little more'",
+          "link": "https://www.bbc.co.uk/news/articles/cm2g0j3y339o?at_medium=RSS&at_campaign=rss",
+          "summary": "Andre Lavoie joined SpaceX in 2009 as an engineer, now he's looking to cash in his shares in the company.",
+          "isoDate": "2026-08-06T05:00:54.000Z"
         },
         {
           "title": "AI or real? BBC analyses viral China disaster videos",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cvg0kk3ek2vo?at_medium=RSS&at_campaign=rss",
           "summary": "It is the latest development in the ongoing dispute between Apple and the Home Office over data privacy.",
           "isoDate": "2026-08-04T10:22:40.000Z"
-        },
-        {
-          "title": "Tokenomics: Why making AI pay is tricky",
-          "link": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
-          "summary": "Buyers of AI services are struggling to control costs and sellers are not sure how much to charge.",
-          "isoDate": "2026-08-03T23:21:10.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-08-06T02:29:28.002Z"
+          "isoDate": "2026-08-06T08:33:52.626Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-08-06T02:29:25.522Z"
+          "isoDate": "2026-08-06T08:33:51.443Z"
         },
         {
           "title": "IEEE Course Teaches How to Use AI to Modernize Power Grids",
