@@ -1,10 +1,58 @@
 {
-  "generatedAt": "2026-08-07T18:54:53.274Z",
+  "generatedAt": "2026-08-08T01:27:43.826Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "The gaming site sponsored by Walmart lays off its editorial staff",
+          "link": "https://www.theverge.com/games/977056/restart-gaming-site-walmart-moonrock-layoffs",
+          "summary": "Restart, a games media website launched in late 2024 that was sponsored by Walmart, has laid off its \"entire editorial team,\" according to a Friday post from Brandy Berthelson, the site's former editor-in-chief. Other staffers have also posted about being laid off.\nRestart is operated by Moonrock, a content marketing agency, though its editorial mission page says it's \"powered\" by Walmart. That page outlines how Walmart is (or was) involved:\nWhen we mention a game, we'll provide purchase links that will take you to Walmart using a partner tracking code. This link provides us with 0% of the sale if you decide to buy the product, but it doe …\n\nRead the full story at The Verge.",
+          "isoDate": "2026-08-07T22:05:08.000Z"
+        },
+        {
+          "title": "Europe's free satellite service just made it easier to track wildfires",
+          "link": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/",
+          "summary": "Copernicus Browser adds wildfire visualization amid record wildfire season.",
+          "isoDate": "2026-08-07T21:48:21.000Z"
+        },
+        {
+          "title": "Flesh-eating screwworms feast on humans in Mexico; human cases top 500",
+          "link": "https://arstechnica.com/health/2026/08/flesh-eating-screwworms-feast-on-humans-in-mexico-human-cases-top-500/",
+          "summary": "Six deaths reported among screwworm cases, one directly attributed to the flies.",
+          "isoDate": "2026-08-07T21:09:00.000Z"
+        },
+        {
+          "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
+          "summary": "That cover art is almost certainly AI too. | Image: Fenix Flexin\t\n\nIt took long enough, but now LA rapper Fenix Flexin appears to have admitted using AI for the 80s synth pop-themed song \"Rubberz.\" His comments follow the producer Medasin's videos claiming that an AI tool called Treblo (formerly Sonauto) was used to make the song, and the company releasing an AI detector that identifies it as Treblo AI-created. \nIn a reply to a comment pointing out that Tyga admitted to relying on AI for his own controversial '80s-influenced album $tarface, on one of his Instagram posts, Fenix said:\nnever said I didn't use AI , i said it had nun to do w recording process . I didn't even know what da app was till we mixed …\n\nRead the full story at The Verge.",
+          "isoDate": "2026-08-07T20:01:51.000Z"
+        },
+        {
+          "title": "Judge rules Meta caused \"public nuisance\" and must fund mental health treatment",
+          "link": "https://arstechnica.com/tech-policy/2026/08/meta-ordered-to-pay-567m-to-treat-youth-mental-health-problems-it-helped-create/",
+          "summary": "New Mexico judge orders $567M fund to help address youth mental health crisis.",
+          "isoDate": "2026-08-07T19:49:27.000Z"
+        },
+        {
+          "title": "The ultimate eclipse chase: A Concorde raced against the Moon's shadow",
+          "link": "https://arstechnica.com/science/2026/08/the-ultimate-eclipse-chase-a-concorde-raced-against-the-moons-shadow/",
+          "summary": "Fitted with telescopes, the plane did our longest imaging of the Sun's corona.",
+          "isoDate": "2026-08-07T19:00:17.000Z"
+        },
+        {
+          "title": "Watching Roku’s AI channel is like eating from a trough",
+          "link": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
+          "summary": "The appeal of free ad-supported streaming television (FAST) channels has always been the way they make it easier to (re)discover classic films and series. But Roku's latest experiment in the FAST space has less to do with traditionally produced entertainment and is entirely focused on giving viewers access to a constant source of AI-generated content.\nThis week, Roku added four new channels to its library of streamable programming. Along with dedicated feeds for old episodes of Mad TV, Whose Line Is It Anyway?, and a variety of Black sitcoms, the platform also debuted a 24/7 stream filled with projects from Colin Petrie-Norris' AI startup,  …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-07T18:59:46.000Z"
+        },
+        {
+          "title": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+          "summary": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The announcement follows its recent disclosure that OpenAI models accidentally hacked Hugging Face. Anthropic and Meta have also since admitted that they had AI models that went rogue and breached other organizations. \nRecent internal evaluations of an OpenAI model called Astra indicate that it offers \"significant advancements in agentic coding and cybersecurity,\" according to the company. \"These results, in addition to expert assessments, have led us to conclude last n …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-07T18:40:34.000Z"
+        },
         {
           "title": "The only instant cameras worth your money",
           "link": "https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak",
@@ -12,58 +60,10 @@
           "isoDate": "2026-08-07T18:04:08.000Z"
         },
         {
-          "title": "Disney Plus tries a new AI-powered search",
-          "link": "https://www.theverge.com/streaming/976881/disney-plus-ai-recommendation-espn-search",
-          "summary": "Disney’s AI tools for Disney Plus and ESPN.\t\n\nDisney is testing a new AI-powered tool for Disney Plus that uses a natural language search, a voice query, or a suggested prompt to create a customized row of show and movie recommendations.\nDisney Plus, like other streaming services, can recommend shows to watch based on your viewing history. But the company says this new tool, which is \"a limited beta experiment\" that's in testing with a \"small group of select subscribers,\" is intended to recommend content that \"fits the moment.\"\nThe feature is the latest in a broader push to offer AI-powered recommendation tools that help you find something to watch among massive catalogs of streaming  …\nRead the full story at The Verge.",
-          "isoDate": "2026-08-07T17:53:44.000Z"
-        },
-        {
-          "title": "Microsoft Edge is about to lock out older ad blockers, just like Chrome did",
-          "link": "https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3",
-          "summary": "Microsoft Edge is ending support for the Manifest V2 extensions platform, which will cut off the uBlock Origin adblocker and others like it, just like Google Chrome did earlier this year. According to Microsoft, there are only 58 extensions on the Edge Add-On Store \"with any meaningful usage\" that still use MV2, and only three of those aren't available on the newer MV3 platform. \nAnyone still using these extensions can switch to a different adblocker, like uBlock Origin Lite. Or they could use a different browser, like Opera, which still supports existing MV2 extensions and says it will continue to do so \"for as long as it's technically rea …\nRead the full story at The Verge.",
-          "isoDate": "2026-08-07T17:43:34.000Z"
-        },
-        {
-          "title": "Grab the entire Lord of the Rings trilogy on 4K Blu-ray for $50",
-          "link": "https://www.theverge.com/gadgets/976792/lord-of-the-rings-trilogy-4k-uhd-blu-ray-deal-sale",
-          "summary": "“One ring to rule them all” | Image: Warner Bros.\t\n\nLooking to spend a weekend inside with a good binge? Gruv has The Lord of the Rings trilogy on 4K Blu-ray marked down to $49.99, just below Amazon’s price and only a little bit higher than the all-time low we usually see around Black Friday. This version includes both the original theatrical releases of all three movies — The Fellowship of the Ring, The Two Towers, and Return of the King — as well as the extended editions, in case you want to spend 12 hours immersed in Middle Earth. New Gruv customers can also save an additional 15% by entering the coupon code FIRSTGRUV15 at checkout.\nThe Lord of the Rings 4K Trilogy\n\nWhere to Buy:\n\n $75 $56.22 at Amazon\n $75 $49.99 at Gruv\n\nOriginally released between 2001 and 2003, the Peter Jackson-directed films were shot together in New Zealand, allowing for the trilogy to sweep through theaters three Decembers in a row. They were a hit with audiences, as well the Academy of Motion Picture Arts and Sciences, plus this Tolkien fan, whose older brother snuck him out of school to go see The Return of the King at 13 years old (sorry, mom and dad). These are, in my opinion, the definitive way to watch the movies, with tons of extra content that helps cover even more of the rich world and its storied characters.",
-          "isoDate": "2026-08-07T16:58:18.000Z"
-        },
-        {
-          "title": "What&#8217;s behind the Google AI shake-up",
-          "link": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
-          "summary": "Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs are no longer at Google. Given that Google's models seem to be behind the best of what's coming out of anthropic and OpenAI, is this a sign of Google in turmoil? Is it about Demis Hassabis wanting something more interesting to work on than virtual assistants? Or is there something else entirely happening here?\nOn this episode of The Vergecast, Nilay and David start by discussing the leadership shake-up at Google, the state of the AI race, and whether Google is actually set up to succeed here. They also t …\nRead the full story at The Verge.",
-          "isoDate": "2026-08-07T16:45:14.000Z"
-        },
-        {
-          "title": "Sony could release a cheaper version of its WH-1000XM4 headphones, according to leaks",
-          "link": "https://www.theverge.com/tech/976735/sony-wireless-headphones-anc-wh-1000xm4c-leak",
-          "summary": "Following the release of its premium and very expensive $650 The Collexion headphones in May, Sony could be taking its 1000X line of wireless noise-canceling headphones in a cheaper direction next month. The company is reportedly planning a refreshed and more affordable version of its six-year-old WH-1000XM4 headphones that will feature similar performance and specs as the original but at a lower price point, according to reliable leaker billbil-kun.\nThe WH-1000XM4C are expected to launch in early September 2026 in black, silver, and lavender color options for €249.99 or £219.99, which is around $289 to $297 after currency conversion.\nThe  …\nRead the full story at The Verge.",
-          "isoDate": "2026-08-07T16:15:46.000Z"
-        },
-        {
-          "title": "Birdfy’s smart bird feeder is on sale for just $60",
-          "link": "https://www.theverge.com/gadgets/976422/birdfy-feeder-rookie-nothing-headphones-deal-sale",
-          "summary": "The Birdfy Feeder Rookie is a good option if you’re new to birdwatching or simply don’t want to spend a lot on a smart feeder, and several configurations are on sale. The standard model is down to $59.99 ($60 off) at Amazon, which is close to its lowest price. It includes seven days of access to its AI-powered features that can identify different kinds of birds (after the trial expires, it can identify birds up to 10 times per day without a subscription). Alternatively, you can get a version that permanently unlocks its AI bird identification for $85.49 ($34 off) at Amazon, or pick up the standard model with a solar panel for $79.99 ($60 off) directly from Birdfy.\nBirdfy Feeder Rookie\n\nWhere to Buy:\n\n $119.99 $59.99 at Amazon (without solar)\n $159.99 $79.99 at Birdfy (with solar)\n $109.99 $85.49 at Amazon (with permanent AI access)\n\nThe Rookie covers the basics offered by most smart bird feeders. It features a 1080p camera that lets you watch visiting birds from your phone throughout the day, with notifications alerting you when there’s activity. The camera can also capture slow-motion video and color night vision that you can replay in the Birdfy app. Unlike many smart feeders that place the camera in the center of the seed bin, Birdfy’s camera is located to the side, which provides a closer view. You can also share access with friends and family.\nThe Rookie has an IP66 weather-resistant rating, and its built-in battery can last up to four months on a charge; you can also get a version with a solar panel for $20 more. The feeder holds up to 1.3 liters of seed, too, so you shouldn’t have to constantly refill it, and it comes apart easily when it’s time for a cleaning.\nThree more Verge-approved deals\nYou can buy Fujifilm’s pink Instax Mini Evo bundled with two packs of film (one color and one monochrome) for $212.90 at B&H Photo, which is a rare deal. That’s like getting one pack of film for free, along with a roughly $22 discount on the camera itself. If you prefer the black model, it’s also on sale with one pack of color film for $236.50 (about $22 off). The Evo is my favorite instant camera because you can preview shots before printing to avoid wasting film and print photos directly from your smartphone. It also looks stylish and produces better-looking prints than most instant cameras I’ve tested.\nNothing’s Headphone (a) are down to $164.99 at Amazon, which is their second-best price to date. They offer solid noise cancellation for the price and can last more than five days on a charge, while letting you listen over USB-C or a 3.5mm cable when needed. Plus, they’re IP52-rated for dust and water resistance, which isn’t something you always find on over-ear headphones. Read our review.\nThe Lego Star Wars K-2SO Security Droid is down to $71.99 ($18 off) at Amazon and Walmart, matching its best price to date. Based on the Imperial droid-turned-ally from Star Wars: Andor season two, the 845-piece set lets you build a 16-inch-tall display model complete with an information plaque and a standard-size K-2SO minifigure.",
-          "isoDate": "2026-08-07T16:04:03.000Z"
-        },
-        {
-          "title": "Samsung’s Z Fold 8 Ultra is more of the same, but better than ever",
-          "link": "https://www.theverge.com/tech/976551/samsung-galaxy-z-fold-8-ultra-review",
-          "summary": "The Z Fold 8 Ultra retains the boxy shape of Samsung’s previous foldables.\t\n\nWhat makes the Samsung Galaxy Z Fold 8 Ultra so Ultra? Samsung's first foldable with the Ultra name isn't a souped-up version of the regular Fold 8, as you might expect. Where the Z Fold 8 is squat and wide, the Fold 8 Ultra retains the thin outer screen and square inner panel of the previous Folds. It does have a substantially better triple rear camera system and a slightly larger battery. But with no support for the S Pen stylus and no Privacy Display, it's not Ultra in the same way as the Galaxy S26 Ultra.\nBut compare it to last year's Z Fold 7 and the upgrades look more substantial. Samsung has improved the displays, battery, charging,  …\nRead the full story at The Verge.",
-          "isoDate": "2026-08-07T14:48:38.000Z"
-        },
-        {
-          "title": "Report: White House drafting executive order linking vaccines and autism",
-          "link": "https://arstechnica.com/health/2026/08/report-white-house-drafting-executive-order-linking-vaccines-and-autism/",
-          "summary": "Trump determined to link life-saving shots to autism, despite science and political risk.",
-          "isoDate": "2026-08-07T14:41:34.000Z"
-        },
-        {
-          "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
-          "link": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
-          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How ideas of a vast censorship network moved from the online fringe to Trump policy For years, narratives about a “censorship-industrial complex” spread in right-wing circles. The theory claimed that, under…",
-          "isoDate": "2026-08-07T14:20:00.000Z"
+          "title": "New official 30th anniversary Quake mission pack adds new maps and mechanics",
+          "link": "https://arstechnica.com/gaming/2026/08/new-official-30th-anniversary-quake-mission-pack-adds-new-maps-and-mechanics/",
+          "summary": "19 new maps continue the story from MachineGames' other campaign additions.",
+          "isoDate": "2026-08-07T18:00:02.000Z"
         }
       ]
     },
@@ -72,10 +72,34 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "ERROR cargando feed",
-          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
-          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-08-07T18:54:48.103Z"
+          "title": "2026 IGARSS Hyperwall Schedule",
+          "link": "https://science.nasa.gov/earth/2026-igarss-hyperwall-schedule/",
+          "summary": "IGARSS 2026 Join NASA in the Exhibit Hall (Booth #100) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. MONDAY, AUGUST 10 3:00 PM Technology Enabling the Future of Earth ScienceMike Seablom3:15 PM Discovery Earth: New Missions & Technical Innovation Advancing Earth System InsightsKaren St. Germain TUESDAY, AUGUST 11 10:00 AMSTELLA: Open-Source Multisenor Platforms For Real-Time […]",
+          "isoDate": "2026-08-07T18:57:34.000Z"
+        },
+        {
+          "title": "NASA’s IXPE Studies Magnetar",
+          "link": "https://www.nasa.gov/image-article/nasas-ixpe-studies-magnetar/",
+          "summary": "Scientists using NASA’s IXPE (Imaging X-ray Polarimetry Explorer) conducted more than 140 hours of observations of the magnetar 1E 1547-5408, shown in this Aug. 5, 2026, artist’s concept, between March and April 2025. In doing so, they may have captured empty space behaving in a way physicists have predicted for 90 years, but never directly […]",
+          "isoDate": "2026-08-07T14:27:35.000Z"
+        },
+        {
+          "title": "NASA’s Lunar Development and Test Facility Prepares Artemis Hardware for Moon ",
+          "link": "https://www.nasa.gov/centers-and-facilities/johnson/nasas-lunar-development-and-test-facility-prepares-artemis-hardware-for-moon/",
+          "summary": "Before astronauts return to the Moon’s surface through NASA’s Artemis program, the hardware they depend on must first prove it can survive the unforgiving lunar environment. At NASA’s Johnson Space Center in Houston, engineers at the Lunar Development and Test Facility are tackling one of exploration’s biggest challenges: Moon dust.  Unlike sand on Earth, lunar dust is sharp, abrasive, and clings […]",
+          "isoDate": "2026-08-07T06:25:27.000Z"
+        },
+        {
+          "title": "APOD: 2026 August 7 – Rubin’s Cosmos Field",
+          "link": "https://science.nasa.gov/image-article/apod-2026-august-6-rubins-cosmos-field/",
+          "summary": "APOD Science APOD APOD: 2026 August 7 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Rubin’s COSMOS Field […]",
+          "isoDate": "2026-08-07T04:05:00.000Z"
+        },
+        {
+          "title": "Sensing the Poles’ Hidden Heat",
+          "link": "https://science.nasa.gov/earth/earth-observatory/sensing-the-poles-hidden-heat/",
+          "summary": "New animations from NASA’s PREFIRE mission reveal two years of seasonal temperature swings at the Arctic and Antarctic.",
+          "isoDate": "2026-08-07T04:00:00.000Z"
         },
         {
           "title": "Briefing Chat: Is DNA repair the secret to a long life? Whales and mole rats offer tantalizing hints",
@@ -90,46 +114,22 @@
           "isoDate": "2026-08-07T00:00:00.000Z"
         },
         {
-          "title": "The fungal pathogen Candida auris exposes chitin to trigger IFNγ and persist in hair follicles",
-          "link": "https://www.science.org/doi/abs/10.1126/science.adu6688?af=R",
-          "summary": "Science, Volume 393, Issue 6811, August 2026.",
-          "isoDate": "2026-08-06T07:00:00.000Z"
+          "title": "Educators & Teens Get Hands-On With TEMPO Data to Help Investigate Local Air Quality",
+          "link": "https://science.nasa.gov/learning-resources/science-activation/educators-teens-get-hands-on-with-tempo-data-to-help-investigate-local-air-quality/",
+          "summary": "The NASA Science Activation Program’s Cosmic Storytelling with NASA Data (CosmicDS) project, led by Harvard University in Cambridge, Massachusetts, works to bring authentic NASA data into the hands of educators and learners. From July 27–29, 2026, the CosmicDS team partnered with the Smithsonian Institution’s BEST AQI (Breathing Easier: Supporting Teen Air Quality Investigations) project to […]",
+          "isoDate": "2026-08-06T19:33:32.000Z"
         },
         {
-          "title": "Chemically induced skin tumors arise from long-lived stem cells of the upper hair follicle",
-          "link": "https://www.science.org/doi/abs/10.1126/science.adv8291?af=R",
-          "summary": "Science, Volume 393, Issue 6811, August 2026.",
-          "isoDate": "2026-08-06T07:00:00.000Z"
+          "title": "NASA’s SkyFall Helicopters at Work (Artist’s Concept)",
+          "link": "https://science.nasa.gov/photojournal/nasas-skyfall-helicopters-at-work-artists-concept/",
+          "summary": "Description This artist’s concept depicts NASA’s three SkyFall Mars helicopters collecting data while flying over the surface of the Red Planet.  The green frequency waves emanating from the helicopters’ large antennas depict collection of subsurface radar data. The red beams depict collect near-infrared imagery data from regolith (crushed rock and dust) and other surface features. […]",
+          "isoDate": "2026-08-06T18:06:07.000Z"
         },
         {
-          "title": "Generative design of bacteriophages with genome language models",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aec2657?af=R",
-          "summary": "Science, Volume 393, Issue 6811, August 2026.",
-          "isoDate": "2026-08-06T07:00:00.000Z"
-        },
-        {
-          "title": "Paleogenomic insight into the collapse, recovery, and management of American bison",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aee4205?af=R",
-          "summary": "Science, Volume 393, Issue 6811, August 2026.",
-          "isoDate": "2026-08-06T07:00:00.000Z"
-        },
-        {
-          "title": "Vicinal disubstitution of alkyl C–X synthons via alkene radical cation generation",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aef0766?af=R",
-          "summary": "Science, Volume 393, Issue 6811, August 2026.",
-          "isoDate": "2026-08-06T07:00:00.000Z"
-        },
-        {
-          "title": "Adaptive modulation of theta sweeps in the brain’s navigation circuit",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aef4184?af=R",
-          "summary": "Science, Volume 393, Issue 6811, August 2026.",
-          "isoDate": "2026-08-06T07:00:00.000Z"
-        },
-        {
-          "title": "The bridge between science and policy: How IPBES redefined global conservation policy and its path to societal impact",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aek0207?af=R",
-          "summary": "Science, Volume 393, Issue 6811, August 2026.",
-          "isoDate": "2026-08-06T07:00:00.000Z"
+          "title": "Antenna Testing for NASA’s SkyFall Mission",
+          "link": "https://science.nasa.gov/photojournal/antenna-testing-for-nasas-skyfall-mission/",
+          "summary": "Description SkyFall ground-penetrating radar engineer Maya Román connects a coaxial cable to a test antenna in the Environmental Test Lab’s electromagnetic interference testing chamber at NASA’s Jet Propulsion Laboratory in Southern California.  The antenna was pointed up during test to minimize reflections and interferences with the antenna pattern during the measurement. Equipped with four instruments each, the […]",
+          "isoDate": "2026-08-06T17:56:12.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-08-07T18:54:49.498Z"
+          "isoDate": "2026-08-08T01:27:40.982Z"
         },
         {
           "title": "Meta fined $567m in largest child safety ruling against social media giant",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-08-07T18:54:52.486Z"
+          "isoDate": "2026-08-08T01:27:42.985Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-08-07T18:54:51.386Z"
+          "isoDate": "2026-08-08T01:27:42.053Z"
         },
         {
           "title": "Navigating the Pivot From Tech Expert to Organizational Leader",
