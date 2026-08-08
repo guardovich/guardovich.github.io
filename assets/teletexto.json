@@ -1,10 +1,40 @@
 {
-  "generatedAt": "2026-08-08T06:51:00.066Z",
+  "generatedAt": "2026-08-08T12:45:02.901Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Is this $450 laptop from an unknown brand too good to be true?",
+          "link": "https://www.theverge.com/tech/977031/chuwi-unibook-laptop-intel-wildcat-lake-review",
+          "summary": "Cute name, especially if it were a wookiee. | Photo: Antonio G. Di Benedetto / The Verge\t\n\nFinding a good laptop under $500 was hard enough before RAMageddon. They nearly always had cheap hardware and underpowered, often outdated chips. That's what made the MacBook Neo so disruptive: It offered great build quality and good-enough performance starting at $599. Windows laptops couldn't touch it. Even though it's gone up to $699, it's still the laptop to beat.\nSo when little-known Chinese brand Chuwi announced a $450 Windows laptop with an aluminum build and a brand-new Intel Wildcat Lake processor, it sounded too good to be true.\nIt is.\nChuwi UniBook\n\n\nScore: 3\n\nProsCons\n\n\nIt's $450\nTons of ports for a small laptop (though none are very  …\n\n\n\nRead the full story at The Verge.",
+          "isoDate": "2026-08-08T12:00:00.000Z"
+        },
+        {
+          "title": "My favorite feel-good show is back",
+          "link": "https://www.theverge.com/tech/977084/ted-lasso-bose-tony-installer",
+          "summary": "Hi, friends! Welcome to Installer No. 139, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, barbecue sauce, and also you can read all the old editions at the Installer homepage.) \nThis week, I've been reading about Johnny Knoxville and Google Zero and the history of the bicycle, @all-ing everyone in all my WhatsApp chats just because I can now, rereading There Will Come Soft Rains because this week is when it happens, seeing if Sabbath can help fix my screentime problems, once again moving everything around in my home office, eating altogether too much of the fabulous Trader Joe's snack mix, testing th …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-08T12:00:00.000Z"
+        },
+        {
+          "title": "The first self-driving vehicle on Mars has proven to be a smashing success",
+          "link": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
+          "summary": "About 90 percent of the distance driven by Perseverance has been autonomous.",
+          "isoDate": "2026-08-08T11:30:48.000Z"
+        },
+        {
+          "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
+          "link": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
+          "summary": "Open source WeatherNext model can make accurate predictions with lower-resolution weather data.",
+          "isoDate": "2026-08-08T11:05:50.000Z"
+        },
+        {
+          "title": "Nitecore’s latest power bank is the lightest and most compact yet",
+          "link": "https://www.theverge.com/tech/976506/nitecore-nb10000-gen4-review-adventure-battery",
+          "summary": "The Nitecore NB10000 Gen 4 power bank is a great option for endurance athletes and backpackers. | Photo by Thomas Ricker / The Verge\t\n\nThere's two things you should know about me, your intrepid reviewer: I hate the feature creep associated with modern power banks, and I love shaving grams off the gear I carry when backpacking,  bikepacking, and trail running. So imagine my delight when Nitecore released a new generation of its ultralight NB10000 battery. After a few weeks with it I can confidently say: Haribo be damned!\nThe $83.95 NB10000 Gen 4 weighs just 146 grams, according to my scale, and measures 1.45 x 11.6 x 4.68cm (0.57 x 4.57 x 1.84 inches), according to Nitecore's spec sheet. That makes it the lightest and most compact 10,000mAh power bank I can find. Even when  …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-08T07:00:00.000Z"
+        },
         {
           "title": "The gaming site sponsored by Walmart lays off its editorial staff",
           "link": "https://www.theverge.com/games/977056/restart-gaming-site-walmart-moonrock-layoffs",
@@ -34,36 +64,6 @@
           "link": "https://arstechnica.com/tech-policy/2026/08/meta-ordered-to-pay-567m-to-treat-youth-mental-health-problems-it-helped-create/",
           "summary": "New Mexico judge orders $567M fund to help address youth mental health crisis.",
           "isoDate": "2026-08-07T19:49:27.000Z"
-        },
-        {
-          "title": "The ultimate eclipse chase: A Concorde raced against the Moon's shadow",
-          "link": "https://arstechnica.com/science/2026/08/the-ultimate-eclipse-chase-a-concorde-raced-against-the-moons-shadow/",
-          "summary": "Fitted with telescopes, the plane did our longest imaging of the Sun's corona.",
-          "isoDate": "2026-08-07T19:00:17.000Z"
-        },
-        {
-          "title": "Watching Roku’s AI channel is like eating from a trough",
-          "link": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
-          "summary": "The appeal of free ad-supported streaming television (FAST) channels has always been the way they make it easier to (re)discover classic films and series. But Roku's latest experiment in the FAST space has less to do with traditionally produced entertainment and is entirely focused on giving viewers access to a constant source of AI-generated content.\nThis week, Roku added four new channels to its library of streamable programming. Along with dedicated feeds for old episodes of Mad TV, Whose Line Is It Anyway?, and a variety of Black sitcoms, the platform also debuted a 24/7 stream filled with projects from Colin Petrie-Norris' AI startup,  …\nRead the full story at The Verge.",
-          "isoDate": "2026-08-07T18:59:46.000Z"
-        },
-        {
-          "title": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-          "summary": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The announcement follows its recent disclosure that OpenAI models accidentally hacked Hugging Face. Anthropic and Meta have also since admitted that they had AI models that went rogue and breached other organizations. \nRecent internal evaluations of an OpenAI model called Astra indicate that it offers \"significant advancements in agentic coding and cybersecurity,\" according to the company. \"These results, in addition to expert assessments, have led us to conclude last n …\nRead the full story at The Verge.",
-          "isoDate": "2026-08-07T18:40:34.000Z"
-        },
-        {
-          "title": "The only instant cameras worth your money",
-          "link": "https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak",
-          "summary": "There’s something magical about using instant cameras that smartphones can’t match. You can capture a moment, print it out, and then give the photo as a gift or hold onto it. Image quality won’t be all that good, but imperfections are part of the allure.\nWe tested instant camera models from popular brands and landed on a handful that we think are the best. Some aim to preserve the classic experience above all else, while others support companion apps and the ability to print stored photos.\nFujifilm’s latest Instax cameras are the best out there for most people. The company’s Instax Mini Evo is a bit pricey, but it produces great-looking images and offers a lot of creative control. If you’re shopping on a tighter budget, the Instax Mini 13 also takes good photos but has fewer features. The Polaroid Flip is the best retro-focused experience (be warned: prints are pricey!), while Kodak’s Mini Retro 3 might be a better purchase for some because its prints are quite affordable by comparison.\nThe best instant camera\nFujifilm Instax Mini Evo\n\n\nScore: 8\n\nProsCons\n\n\nGreat use of dials and buttons\nLots of printing flexibility\nGood battery life\n\nInternal storage is limited\nNo viewfinder\n\n\n\nWhere to Buy:\n\n $234 $212.8 at Amazon\n $234.99 at Best Buy\n $234 at B&H Photo\n\nFilm type: Fujifilm Instax Mini film / Film size: 2 x 3 inches / Weight: 285 grams / Charging method: USB-C / Companion app: Yes / Other features: LCD screen, smartphone printing\nFujifilm’s Instax Mini Evo is a hybrid instant camera that bears a resemblance to its premium X100 line of cameras that cost hundreds more. Its vintage dials and buttons look so stylish that they caught the attention of passersby as I walked around Los Angeles.\nIt’s easy to balk at its price tag, but this camera offers a level of flexibility that sets it apart (and could save you from wasting a bunch of prints). The camera’s dials also let you apply lens options and effects, from retro filters to monochrome shades, and you can even remotely trigger shots from the app. Its 3-inch LCD screen can be used as a viewfinder, and it also lets you preview and select which images you want to print. The camera’s internal storage tops out at 45 images, which is more limited than we’d prefer, though you can send photos from a smartphone to print. Plus, unlike the Instax Mini 13 (a more budget-friendly pick mentioned below), the Evo uses a USB-C port for charging.\nRead our full Fujifilm Instax Mini Evo review.\nThe best instant cameras if you’re on a budget\nFujifilm Instax Mini 13\n\n\nScore: 8\n\nProsCons\n\n\nProduces relatively true-to-life photos\nTerrific ease of use\nVery affordable\n\nInstax film can get pricey\nMinimal creative control\nFlash can be overpowering\n\n\n\nWhere to Buy:\n\n $93.95 at Amazon\n $93.99 at Best Buy \n $93.99 at Target\n\nFilm type: Fujifilm Instax Mini film / Film size: 2 x 3 inches / Weight: 327 grams / Charging method: AA batteries / Companion app: None / Other features: Built-in selfie mirror, self-timer, film counter\nFujifilm’s Instax Mini 13 is a more budget-friendly option that can take great photos mostly on par with the Mini Evo. It’s easy to use (just twist its lens to turn the camera on or off), it outperforms other budget instant cameras we tested, and we like its bright, playful designs. Its biggest improvement over the Mini 12 is its self-timer, with both two- and 10-second countdown options. Meanwhile, the Instax Mini 41 looks more sleek, but it lacks the Mini 13’s self-timer and costs about $23 more usually.\nThe Mini 13 produced more true-to-life photos than the non-Fujifilm instant cameras I tested. I also appreciated the Mini 13’s generously sized physical viewfinder and that it shows your remaining shots, which is useful given that each print costs about $1.\nLike many instant cameras, it struggles in low light, though the built-in flash brightens dark scenes. The flash can’t be disabled, and it’s very powerful, which resulted in a handful of overexposed shots during testing. It lacks Bluetooth connectivity along with creative shooting modes found on pricier cameras, so you can’t edit photos, apply filters, or choose from different lens effects before printing.\nFujifilm’s Instax cameras produce excellent-looking photos, but each print costs around $1. Kodak’s hybrid Mini Shot 3 Retro is pricier up front (it retails for $159.99 but it often on sale for much less) but much cheaper to buy film for, making it the better budget pick (or beginner-friendly pick). Replacement cartridges are often around $20 for a 60-print pack. And, because you can preview photos before printing, you’re less likely to waste prints.\nThe Mini Shot 3 Retro affords you more controls than the Instax Mini 13; it sports an LCD screen for previewing photos, it lets you print photos from your phone via Bluetooth, and you can upload ones you shoot to social media using Kodak’s Photo Printer app. The companion app features frames, stickers, filters, and other effects that would look great in a scrapbook. There’s even a beauty mode and Snapchat-style filters. However, photos taken with the Mini Shot 3 Retro lack sharpness and sometimes have an excessive pink tint, and the prints also feel flimsier.\nThe best instant cameras for retro fans\nPolaroid Flip\n\n\nScore: 6\n\nProsCons\n\n\nAttractive, retro design\nPrints dreamy, vintage-style photos that are relatively sharp for a Polaroid photo\nSeveral creative modes\nUSB-C\n\n\nStruggles in low light\nFilm takes up to 15 minutes to develop\nBulky and relatively heavy\n\n\n\nWhere to Buy:\n\n $219.99 at Amazon\n $219.99 at Best Buy\n $219.99 at Polaroid\n\nFilm type: Polaroid i-Type Color Film / Film size: 4.2 x 3.5 inches / Weight: 648 grams / Charging method: USB-C / Companion app: Yes / Other features: Scene Analysis\nIf you’re looking for an instant camera that offers a retro-inspired experience, the Polaroid Flip might be for you. Its classic design and flip-up lid resemble vintage instant cameras like the Polaroid 600, and its square I-Type film prints iconic white-framed photos that look like authentic Polaroids. Yet the camera has modern features like Bluetooth, USB-C charging, and a beginner-friendly companion app that adds convenience and creative control.\nThe Flip improves on my former retro pick, the third-gen Polaroid Now Plus, with clearer shots and fewer wasted photos. That’s important, as you don’t want to waste any of the eight I-Type sheets that come in a pack that’s $18.99. The Flip’s sonar autofocus and a four-lens hyperfocal system result in sharper images, plus it has an excellent flash — it’s the most powerful of any Polaroid camera I’ve tested. The Scene Analysis feature also helps by warning if a shot is likely to be over or underexposed, or if you’re too close to your subject (these warnings didn’t always get the exposure right).\nThe Flip has a few downsides, in addition to its costly film. It’s the heaviest camera on this list, not to mention it’s awkwardly sized, making it tough to slip into a purse or easily carry around. Prints also take 15 minutes to develop, during which they must be shielded from light. Low-light performance remains a weak spot as well, and I struggled to capture indoor shots given the contrast and saturation are lower than with Instax film. Sometimes, this gave my pictures a more dreamy, vintage look that felt artistic, but you might not be into it.\nIf the Flip seems too bulky or expensive for you, the third-generation Polaroid Go is a smaller retro-inspired alternative. It weighs just over a pound and fits easily in the palm of my hand. At $89.99, the latest Go is the most affordable Polaroid camera available, with film that costs only a little more than Fujifilm’s Instax sheets (a 16-sheet pack runs $21.99).\nThe Go skips advanced features found in the Flip, including creative shooting modes, Bluetooth connectivity, and a companion app for editing photos. It’s a straightforward point-and-shoot camera with a self-timer and large selfie mirror. The smaller prints may disappoint those who prefer traditional Polaroid sizes, but its simplicity and portability make it an approachable way to enjoy the classic Polaroid experience at a much lower price.\nUpdate, August 6: Added the Instax Mini 13 and Polaroid Go Gen 3, made the Instax Mini Evo our top pick, and designated the Kodak Mini Retro and Instax Mini 13 as our budget picks.",
-          "isoDate": "2026-08-07T18:04:08.000Z"
-        },
-        {
-          "title": "New official 30th anniversary Quake mission pack adds new maps and mechanics",
-          "link": "https://arstechnica.com/gaming/2026/08/new-official-30th-anniversary-quake-mission-pack-adds-new-maps-and-mechanics/",
-          "summary": "19 new maps continue the story from MachineGames' other campaign additions.",
-          "isoDate": "2026-08-07T18:00:02.000Z"
         }
       ]
     },
@@ -72,10 +72,40 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "ERROR cargando feed",
-          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
-          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-08-08T06:50:56.797Z"
+          "title": "APOD: 2026 August 8 – A Messier Moment for Tempel 2",
+          "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-8-a-messier-moment-for-tempel-2/",
+          "summary": "APOD Science APOD APOD: 2026 August 8 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Messier […]",
+          "isoDate": "2026-08-08T04:05:00.000Z"
+        },
+        {
+          "title": "2026 IGARSS Hyperwall Schedule",
+          "link": "https://science.nasa.gov/earth/2026-igarss-hyperwall-schedule/",
+          "summary": "IGARSS 2026 Join NASA in the Exhibit Hall (Booth #100) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. MONDAY, AUGUST 10 3:00 PM Technology Enabling the Future of Earth ScienceMike Seablom3:15 PM Discovery Earth: New Missions & Technical Innovation Advancing Earth System InsightsKaren St. Germain TUESDAY, AUGUST 11 10:00 AMSTELLA: Open-Source Multisenor Platforms For Real-Time […]",
+          "isoDate": "2026-08-07T18:57:34.000Z"
+        },
+        {
+          "title": "NASA’s IXPE Studies Magnetar",
+          "link": "https://www.nasa.gov/image-article/nasas-ixpe-studies-magnetar/",
+          "summary": "Scientists using NASA’s IXPE (Imaging X-ray Polarimetry Explorer) conducted more than 140 hours of observations of the magnetar 1E 1547-5408, shown in this Aug. 5, 2026, artist’s concept, between March and April 2025. In doing so, they may have captured empty space behaving in a way physicists have predicted for 90 years, but never directly […]",
+          "isoDate": "2026-08-07T14:27:35.000Z"
+        },
+        {
+          "title": "NASA’s Lunar Development and Test Facility Prepares Artemis Hardware for Moon ",
+          "link": "https://www.nasa.gov/centers-and-facilities/johnson/nasas-lunar-development-and-test-facility-prepares-artemis-hardware-for-moon/",
+          "summary": "Before astronauts return to the Moon’s surface through NASA’s Artemis program, the hardware they depend on must first prove it can survive the unforgiving lunar environment. At NASA’s Johnson Space Center in Houston, engineers at the Lunar Development and Test Facility are tackling one of exploration’s biggest challenges: Moon dust.  Unlike sand on Earth, lunar dust is sharp, abrasive, and clings […]",
+          "isoDate": "2026-08-07T06:25:27.000Z"
+        },
+        {
+          "title": "APOD: 2026 August 7 – Rubin’s Cosmos Field",
+          "link": "https://science.nasa.gov/image-article/apod-2026-august-6-rubins-cosmos-field/",
+          "summary": "APOD Science APOD APOD: 2026 August 7 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Rubin’s COSMOS Field […]",
+          "isoDate": "2026-08-07T04:05:00.000Z"
+        },
+        {
+          "title": "Sensing the Poles’ Hidden Heat",
+          "link": "https://science.nasa.gov/earth/earth-observatory/sensing-the-poles-hidden-heat/",
+          "summary": "New animations from NASA’s PREFIRE mission reveal two years of seasonal temperature swings at the Arctic and Antarctic.",
+          "isoDate": "2026-08-07T04:00:00.000Z"
         },
         {
           "title": "Briefing Chat: Is DNA repair the secret to a long life? Whales and mole rats offer tantalizing hints",
@@ -90,46 +120,16 @@
           "isoDate": "2026-08-07T00:00:00.000Z"
         },
         {
-          "title": "The fungal pathogen Candida auris exposes chitin to trigger IFNγ and persist in hair follicles",
-          "link": "https://www.science.org/doi/abs/10.1126/science.adu6688?af=R",
-          "summary": "Science, Volume 393, Issue 6811, August 2026.",
-          "isoDate": "2026-08-06T07:00:00.000Z"
+          "title": "Educators & Teens Get Hands-On With TEMPO Data to Help Investigate Local Air Quality",
+          "link": "https://science.nasa.gov/learning-resources/science-activation/educators-teens-get-hands-on-with-tempo-data-to-help-investigate-local-air-quality/",
+          "summary": "The NASA Science Activation Program’s Cosmic Storytelling with NASA Data (CosmicDS) project, led by Harvard University in Cambridge, Massachusetts, works to bring authentic NASA data into the hands of educators and learners. From July 27–29, 2026, the CosmicDS team partnered with the Smithsonian Institution’s BEST AQI (Breathing Easier: Supporting Teen Air Quality Investigations) project to […]",
+          "isoDate": "2026-08-06T19:33:32.000Z"
         },
         {
-          "title": "Chemically induced skin tumors arise from long-lived stem cells of the upper hair follicle",
-          "link": "https://www.science.org/doi/abs/10.1126/science.adv8291?af=R",
-          "summary": "Science, Volume 393, Issue 6811, August 2026.",
-          "isoDate": "2026-08-06T07:00:00.000Z"
-        },
-        {
-          "title": "Generative design of bacteriophages with genome language models",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aec2657?af=R",
-          "summary": "Science, Volume 393, Issue 6811, August 2026.",
-          "isoDate": "2026-08-06T07:00:00.000Z"
-        },
-        {
-          "title": "Paleogenomic insight into the collapse, recovery, and management of American bison",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aee4205?af=R",
-          "summary": "Science, Volume 393, Issue 6811, August 2026.",
-          "isoDate": "2026-08-06T07:00:00.000Z"
-        },
-        {
-          "title": "Vicinal disubstitution of alkyl C–X synthons via alkene radical cation generation",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aef0766?af=R",
-          "summary": "Science, Volume 393, Issue 6811, August 2026.",
-          "isoDate": "2026-08-06T07:00:00.000Z"
-        },
-        {
-          "title": "Adaptive modulation of theta sweeps in the brain’s navigation circuit",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aef4184?af=R",
-          "summary": "Science, Volume 393, Issue 6811, August 2026.",
-          "isoDate": "2026-08-06T07:00:00.000Z"
-        },
-        {
-          "title": "The bridge between science and policy: How IPBES redefined global conservation policy and its path to societal impact",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aek0207?af=R",
-          "summary": "Science, Volume 393, Issue 6811, August 2026.",
-          "isoDate": "2026-08-06T07:00:00.000Z"
+          "title": "NASA’s SkyFall Helicopters at Work (Artist’s Concept)",
+          "link": "https://science.nasa.gov/photojournal/nasas-skyfall-helicopters-at-work-artists-concept/",
+          "summary": "Description This artist’s concept depicts NASA’s three SkyFall Mars helicopters collecting data while flying over the surface of the Red Planet.  The green frequency waves emanating from the helicopters’ large antennas depict collection of subsurface radar data. The red beams depict collect near-infrared imagery data from regolith (crushed rock and dust) and other surface features. […]",
+          "isoDate": "2026-08-06T18:06:07.000Z"
         }
       ]
     },
@@ -141,7 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-08-08T06:50:57.677Z"
+          "isoDate": "2026-08-08T12:44:58.077Z"
+        },
+        {
+          "title": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
+          "link": "https://www.bbc.co.uk/news/articles/cd7l4e3v238o?at_medium=RSS&at_campaign=rss",
+          "summary": "What was the thinking of the investors backing the now-canned plan, and are such proposals in the future inevitable?",
+          "isoDate": "2026-08-08T12:36:29.000Z"
         },
         {
           "title": "Meta fined $567m in largest child safety ruling against social media giant",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cjejyl34345o?at_medium=RSS&at_campaign=rss",
           "summary": "The deal takes the maker of titles including The Sims and EA FC into private ownership - and loads it with debt.",
           "isoDate": "2026-08-05T10:29:59.000Z"
-        },
-        {
-          "title": "Anthropic AI used fake profiles to target people in hack then hid the evidence",
-          "link": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go?at_medium=RSS&at_campaign=rss",
-          "summary": "The UK's AI Safety Institute said recent behaviour from Anthropic and OpenAI models was malicious and unprecedented.",
-          "isoDate": "2026-08-05T09:24:18.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-08-08T06:50:59.467Z"
+          "isoDate": "2026-08-08T12:45:01.581Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-08-08T06:50:58.687Z"
+          "isoDate": "2026-08-08T12:44:59.374Z"
         },
         {
           "title": "Navigating the Pivot From Tech Expert to Organizational Leader",
