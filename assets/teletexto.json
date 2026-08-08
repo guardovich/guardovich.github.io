@@ -1,10 +1,28 @@
 {
-  "generatedAt": "2026-08-08T12:45:02.901Z",
+  "generatedAt": "2026-08-08T18:35:45.259Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "An Amazon data center could have the worst polluting power plant in the country",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
+          "summary": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to the New York Times. The new gas-burning plant in Pecos County, Texas has received significant investment from Amazon and, at least initially, would not be connected to the state's power grid. Instead, its 35 natural-gas turbines would primarily deliver its 7.65 gigawatts of electricity to the new data center.\nAccording to Cleanview, which tracks data centers and their associated power projects, GW Ranch received a permit from Texas allowing for the …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-08T17:53:34.000Z"
+        },
+        {
+          "title": "Buc-ee’s dodges John Oliver to sue another small business",
+          "link": "https://www.theverge.com/business/977112/buc-ees-john-oliver-lawsuit-beaver-mini-mart",
+          "summary": "Buc-ee’s mega-convenience store and 120-pump gas station in Mount Crawford, Virginia. | Image: Chip Somodevilla / Getty Images\t\n\nBuc-ee's became something of a viral sensation during the World Cup, but it has a troubling history of suing small gas stations and convenience stores. On a recent episode of Last Week Tonight, John Oliver literally begged the company to sue him for selling merch featuring his squirrel mascot, Mr. Nutterbutter, with branding that reads \"Buc-Off.\" But Buc-ee's has so far declined to take the bait, instead targeting yet another small business that lacks the deep pockets and legal team of HBO.\n\nAccording to WDTN, an NBC affiliate in Miami Valley, Ohio, Buc-ee's opened its first locations in the state earlier this year. And now it's targeting es …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-08T15:47:30.000Z"
+        },
+        {
+          "title": "Musician and entrepreneur Tom Vek is building a digital music player, but don’t call it retro",
+          "link": "https://www.theverge.com/report/976872/tom-vek-musician-entrepreneur-sleevenote-interview",
+          "summary": "Tom, we can’t see your face. | Image: Tom Vek\t\n\nTom Vek burst onto the scene in 2005 with his album We Have Sound, which garnered a solid 7.6 from the tastemakers of the day over at Pitchfork. His undeniably catchy brand of dancy indietronica landed him an appearance on The OC and placement on the Grand Theft Auto IV soundtrack. His follow-up, Leisure Seizure, had a lengthy gestation period, but arrived in 2011 to similar success, reaching No. 79 on the UK charts.\nView Link\nVek has continued to release music at regular intervals over the last 15 years, dropping Newer Symbols in 2022. But in 2020 he started toying with this idea he had for a music player called Sleevenote. Inspired by viny …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-08T15:00:00.000Z"
+        },
         {
           "title": "Is this $450 laptop from an unknown brand too good to be true?",
           "link": "https://www.theverge.com/tech/977031/chuwi-unibook-laptop-intel-wildcat-lake-review",
@@ -46,24 +64,6 @@
           "link": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/",
           "summary": "Copernicus Browser adds wildfire visualization amid record wildfire season.",
           "isoDate": "2026-08-07T21:48:21.000Z"
-        },
-        {
-          "title": "Flesh-eating screwworms feast on humans in Mexico; human cases top 500",
-          "link": "https://arstechnica.com/health/2026/08/flesh-eating-screwworms-feast-on-humans-in-mexico-human-cases-top-500/",
-          "summary": "Six deaths reported among screwworm cases, one directly attributed to the flies.",
-          "isoDate": "2026-08-07T21:09:00.000Z"
-        },
-        {
-          "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
-          "summary": "That cover art is almost certainly AI too. | Image: Fenix Flexin\t\n\nIt took long enough, but now LA rapper Fenix Flexin appears to have admitted using AI for the 80s synth pop-themed song \"Rubberz.\" His comments follow the producer Medasin's videos claiming that an AI tool called Treblo (formerly Sonauto) was used to make the song, and the company releasing an AI detector that identifies it as Treblo AI-created. \nIn a reply to a comment pointing out that Tyga admitted to relying on AI for his own controversial '80s-influenced album $tarface, on one of his Instagram posts, Fenix said:\nnever said I didn't use AI , i said it had nun to do w recording process . I didn't even know what da app was till we mixed …\n\nRead the full story at The Verge.",
-          "isoDate": "2026-08-07T20:01:51.000Z"
-        },
-        {
-          "title": "Judge rules Meta caused \"public nuisance\" and must fund mental health treatment",
-          "link": "https://arstechnica.com/tech-policy/2026/08/meta-ordered-to-pay-567m-to-treat-youth-mental-health-problems-it-helped-create/",
-          "summary": "New Mexico judge orders $567M fund to help address youth mental health crisis.",
-          "isoDate": "2026-08-07T19:49:27.000Z"
         }
       ]
     },
@@ -97,7 +97,7 @@
         },
         {
           "title": "APOD: 2026 August 7 – Rubin’s Cosmos Field",
-          "link": "https://science.nasa.gov/image-article/apod-2026-august-6-rubins-cosmos-field/",
+          "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-6-rubins-cosmos-field/",
           "summary": "APOD Science APOD APOD: 2026 August 7 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Rubin’s COSMOS Field […]",
           "isoDate": "2026-08-07T04:05:00.000Z"
         },
@@ -141,13 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-08-08T12:44:58.077Z"
+          "isoDate": "2026-08-08T18:35:41.208Z"
         },
         {
           "title": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
           "link": "https://www.bbc.co.uk/news/articles/cd7l4e3v238o?at_medium=RSS&at_campaign=rss",
           "summary": "What was the thinking of the investors backing the now-canned plan, and are such proposals in the future inevitable?",
-          "isoDate": "2026-08-08T12:36:29.000Z"
+          "isoDate": "2026-08-08T13:41:32.000Z"
         },
         {
           "title": "Meta fined $567m in largest child safety ruling against social media giant",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-08-08T12:45:01.581Z"
+          "isoDate": "2026-08-08T18:35:44.411Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-08-08T12:44:59.374Z"
+          "isoDate": "2026-08-08T18:35:42.213Z"
         },
         {
           "title": "Navigating the Pivot From Tech Expert to Organizational Leader",
