@@ -1,10 +1,28 @@
 {
-  "generatedAt": "2026-08-09T12:47:11.869Z",
+  "generatedAt": "2026-08-09T18:38:36.915Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Zuckerberg&#8217;s yacht was closer, but someone else saved a stranded boat",
+          "link": "https://www.theverge.com/tech/977161/mark-zuckerberg-yacht-wilderness-legacy-stranded-boat",
+          "summary": "Mark Zuckerberg's yacht \"The Launchpad\" | Image: Sylvain Lefevre / Getty Images\t\n\nEarlier this week, the Alaskan cruise ship Wilderness Legacy rescued a small skiff stranded near Farragut Bay after running out of fuel. But, according to tracking data reviewed by the Alaska Beacon and Halifax Shipping News, the closest vessel was actually Mark Zuckerberg's super yacht, Launchpad.\nMichael Love, a passenger on the Wilderness Legacy, posted on Bluesky that the captain announced the Launchpad was closer, but \"repeatedly refused to respond,\" which was met with booing from the passengers. The AIS tracking (embedded below) seems to support that the Launchpad was closer to the vessel in trouble, but then stopped near the entrance …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-09T17:20:30.000Z"
+        },
+        {
+          "title": "49ers coach says his Tesla was on Autopilot when he crashed",
+          "link": "https://www.theverge.com/transportation/977155/49ers-coach-tesla-autopilot-crash",
+          "summary": "Head Coach Kyle Shanahan of the San Francisco 49ers | Image: Michael Zagaris / San Francisco 49ers / Getty Images\t\n\nFour weeks ago, San Francisco 49ers coach Kyle Shanahan was involved in an accident near downtown Palo Alto. At the time Shanahan said only that the accident was his fault. But during a recent press conference he shared more details about the incident, including the fact that he had his Tesla's Autopilot engaged at the time. Shanahan was not passing the buck, however, saying it was his fault regardless of whether or not Autopilot was engaged. \n\"I've had Autopilot for nine years, so I'm pretty comfortable with it and, you know, who knows what happened when I turned around? Whether it malfunctioned or whether I knocked it off? That's somethi …\n\nRead the full story at The Verge.",
+          "isoDate": "2026-08-09T15:56:49.000Z"
+        },
+        {
+          "title": "Dropbox is a PC builder’s best friend",
+          "link": "https://www.theverge.com/tech/976092/pc-building-dropbox-backup",
+          "summary": "In 2018 I bet my reputation and self-worth on a huge crowdfunded game design project. It could have been a failure for many reasons, but the one I became most worried about was losing all of the work that was stored locally on my home-built PC - a scenario that would have left a lot of people very upset and placed me in deep trouble. I wasn't irresponsible, I had local backups, but at some point I found myself in custody of so many important files that it scared me. And no matter how many redundancies I could build at home, they'd all still be in the same place - a risky bet. So I bought a subscription to Dropbox. Years later, it's still one …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-09T13:00:00.000Z"
+        },
         {
           "title": "AI detectors are creating a new era of distrust",
           "link": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
@@ -46,24 +64,6 @@
           "link": "https://www.theverge.com/tech/977031/chuwi-unibook-laptop-intel-wildcat-lake-review",
           "summary": "Cute name, especially if it were a wookiee. | Photo: Antonio G. Di Benedetto / The Verge\t\n\nFinding a good laptop under $500 was hard enough before RAMageddon. They nearly always had cheap hardware and underpowered, often outdated chips. That's what made the MacBook Neo so disruptive: It offered great build quality and good-enough performance starting at $599. Windows laptops couldn't touch it. Even though it's gone up to $699, it's still the laptop to beat.\nSo when little-known Chinese brand Chuwi announced a $450 Windows laptop with an aluminum build and a brand-new Intel Wildcat Lake processor, it sounded too good to be true.\nIt is.\nChuwi UniBook\n\n\nScore: 3\n\nProsCons\n\n\nIt's $450\nTons of ports for a small laptop (though none are very  …\n\n\n\nRead the full story at The Verge.",
           "isoDate": "2026-08-08T12:00:00.000Z"
-        },
-        {
-          "title": "My favorite feel-good show is back",
-          "link": "https://www.theverge.com/tech/977084/ted-lasso-bose-tony-installer",
-          "summary": "Hi, friends! Welcome to Installer No. 139, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, barbecue sauce, and also you can read all the old editions at the Installer homepage.) \nThis week, I've been reading about Johnny Knoxville and Google Zero and the history of the bicycle, @all-ing everyone in all my WhatsApp chats just because I can now, rereading There Will Come Soft Rains because this week is when it happens, seeing if Sabbath can help fix my screentime problems, once again moving everything around in my home office, eating altogether too much of the fabulous Trader Joe's snack mix, testing th …\nRead the full story at The Verge.",
-          "isoDate": "2026-08-08T12:00:00.000Z"
-        },
-        {
-          "title": "The first self-driving vehicle on Mars has proven to be a smashing success",
-          "link": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
-          "summary": "About 90 percent of the distance driven by Perseverance has been autonomous.",
-          "isoDate": "2026-08-08T11:30:48.000Z"
-        },
-        {
-          "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
-          "link": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
-          "summary": "Open source WeatherNext model can make accurate predictions with lower-resolution weather data.",
-          "isoDate": "2026-08-08T11:05:50.000Z"
         }
       ]
     },
@@ -75,7 +75,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
           "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-08-09T12:47:08.233Z"
+          "isoDate": "2026-08-09T18:38:32.824Z"
         },
         {
           "title": "Briefing Chat: Is DNA repair the secret to a long life? Whales and mole rats offer tantalizing hints",
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-08-09T12:47:09.356Z"
+          "isoDate": "2026-08-09T18:38:33.778Z"
         },
         {
           "title": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-08-09T12:47:11.162Z"
+          "isoDate": "2026-08-09T18:38:36.349Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-08-09T12:47:10.249Z"
+          "isoDate": "2026-08-09T18:38:35.346Z"
         },
         {
           "title": "Navigating the Pivot From Tech Expert to Organizational Leader",
