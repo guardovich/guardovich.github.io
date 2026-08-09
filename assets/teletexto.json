@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-08-09T06:54:42.265Z",
+  "generatedAt": "2026-08-09T12:47:11.869Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "AI detectors are creating a new era of distrust",
+          "link": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+          "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.\nHow it started\nLong before ChatGPT became a thing, educators and editors frequently used anti-plagiarism tools to see if writers were being honest about their work. These tools work by comparing a written work against a database filled with content from across the web, scholarly articles, and more to check for matching sentences and phrases. Some, like Turnitin, offer a percentage th …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-09T12:00:00.000Z"
+        },
+        {
+          "title": "Mount Toba eruption doesn't seem like it could nearly kill our species",
+          "link": "https://arstechnica.com/science/2026/08/mount-toba-eruption-doesnt-seem-like-it-could-nearly-kill-our-species/",
+          "summary": "The massive Toba eruption seems to have had little climate impact.",
+          "isoDate": "2026-08-09T11:00:14.000Z"
+        },
         {
           "title": "X replaces its revenue-sharing program with ‘Original Content Rewards’",
           "link": "https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards",
@@ -52,18 +64,6 @@
           "link": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
           "summary": "Open source WeatherNext model can make accurate predictions with lower-resolution weather data.",
           "isoDate": "2026-08-08T11:05:50.000Z"
-        },
-        {
-          "title": "Nitecore’s latest power bank is the lightest and most compact yet",
-          "link": "https://www.theverge.com/tech/976506/nitecore-nb10000-gen4-review-adventure-battery",
-          "summary": "The Nitecore NB10000 Gen 4 power bank is a great option for endurance athletes and backpackers. | Photo by Thomas Ricker / The Verge\t\n\nThere's two things you should know about me, your intrepid reviewer: I hate the feature creep associated with modern power banks, and I love shaving grams off the gear I carry when backpacking,  bikepacking, and trail running. So imagine my delight when Nitecore released a new generation of its ultralight NB10000 battery. After a few weeks with it I can confidently say: Haribo be damned!\nThe $83.95 NB10000 Gen 4 weighs just 146 grams, according to my scale, and measures 1.45 x 11.6 x 4.68cm (0.57 x 4.57 x 1.84 inches), according to Nitecore's spec sheet. That makes it the lightest and most compact 10,000mAh power bank I can find. Even when  …\nRead the full story at The Verge.",
-          "isoDate": "2026-08-08T07:00:00.000Z"
-        },
-        {
-          "title": "The gaming site sponsored by Walmart lays off its editorial staff",
-          "link": "https://www.theverge.com/games/977056/restart-gaming-site-walmart-moonrock-layoffs",
-          "summary": "Restart, a games media website launched in late 2024 that was sponsored by Walmart, has laid off its \"entire editorial team,\" according to a Friday post from Brandy Berthelson, the site's former editor-in-chief. Other staffers have also posted about being laid off.\nRestart is operated by Moonrock, a content marketing agency, though its editorial mission page says it's \"powered\" by Walmart. That page outlines how Walmart is (or was) involved:\nWhen we mention a game, we'll provide purchase links that will take you to Walmart using a partner tracking code. This link provides us with 0% of the sale if you decide to buy the product, but it doe …\n\nRead the full story at The Verge.",
-          "isoDate": "2026-08-07T22:05:08.000Z"
         }
       ]
     },
@@ -75,7 +75,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
           "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-08-09T06:54:39.126Z"
+          "isoDate": "2026-08-09T12:47:08.233Z"
         },
         {
           "title": "Briefing Chat: Is DNA repair the secret to a long life? Whales and mole rats offer tantalizing hints",
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-08-09T06:54:39.607Z"
+          "isoDate": "2026-08-09T12:47:09.356Z"
         },
         {
           "title": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-08-09T06:54:41.397Z"
+          "isoDate": "2026-08-09T12:47:11.162Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-08-09T06:54:40.619Z"
+          "isoDate": "2026-08-09T12:47:10.249Z"
         },
         {
           "title": "Navigating the Pivot From Tech Expert to Organizational Leader",
