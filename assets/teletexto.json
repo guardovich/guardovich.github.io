@@ -1,69 +1,69 @@
 {
-  "generatedAt": "2026-08-10T07:38:54.508Z",
+  "generatedAt": "2026-08-10T13:05:02.978Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
         {
+          "title": "Steam hardware shipper breach leaks customer data, including names and addresses",
+          "link": "https://www.theverge.com/games/977314/valve-steam-hardware-shipping-data-breach",
+          "summary": "Valve says a data breach may have exposed the personal information of customers who ordered its Steam hardware in Europe. In an email sent to users, Valve says its European shipping partner, CEVA Logistics, suffered a data breach that may have included customer names, addresses, phone numbers, and email addresses.\nThe breach at CEVA occurred between July 29th and August 1st, weeks after Valve began taking reservations for its new Steam Machine and Steam Controller. Valve adds that European customer data \"was likely compromised\" as part of the breach, as CEVA stores \"delivery-related information\" for up to 90 days after orders.\n …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-10T12:48:12.000Z"
+        },
+        {
+          "title": "The Download: AI agents for science, and the “censorship-industrial complex”",
+          "link": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI for science needs reasoning, not just data —Eric Schmidt, the former CEO of Google and the cofounder of Schmidt Sciences, and Suhas Mahesh, who leads the AI for science work…",
+          "isoDate": "2026-08-10T12:10:00.000Z"
+        },
+        {
+          "title": "This great retro-inspired keyboard now comes preassembled",
+          "link": "https://www.theverge.com/tech/976262/novelkeys-classic-tkl-underscore-edition-review",
+          "summary": "“Where’s the number pad?” The number pad is holding you back. | Photo: Amelia Holowaty Krales / The Verge\t\n\nYou probably know just by looking at it if the Classic-TKL Underscore Edition is for you. Do you want a retro-looking wired keyboard without a number pad? Great. Do you care that it doesn't have wireless? Perfect. Do you want it preassembled? Buddy, you're in the right place. \nBut Nathan, you might say, preassembled is the regular way to buy a keyboard. That is the baseline expectation. Most people buying a cake expect a cake, not a box of cake mix. And that's true, for most people and most keyboards. But until now, the Classic-TKL has only been available as a bare-bones kit, and now you can buy one ready to go, with quality components, for …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-10T12:00:00.000Z"
+        },
+        {
+          "title": "The first rival Android app store just arrived in the US Play Store",
+          "link": "https://www.theverge.com/tech/977269/google-play-store-third-party-app-aptoide-games",
+          "summary": "Google appears to have prepared a dedicated section for third-party app stores within Google Play, and Aptoide is just the first. | Screenshot: Google Play Store\t\n\nFollowing the latest twist in Google's legal battles with Epic, US Android users are now able to open Google's Play Store and download a third-party digital store with its own selection of apps. Aptoide, a store specializing in mobile games, is the first to become available.\nThird-party app stores have always been available on Android, which is a more open platform than iOS in that respect. However, until now they've only been available if pre-installed on a device - as with the Amazon Appstore on Fire tablets or Samsung's Galaxy Store - or installed via sideloading. Listing rival storefronts within the Play Store makes them much easier for …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-10T11:30:32.000Z"
+        },
+        {
+          "title": "Peer review is overwhelmed—can it survive in the AI era?",
+          "link": "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/",
+          "summary": "As research and AI-assisted papers surge, volunteer reviewers struggle to keep up.",
+          "isoDate": "2026-08-10T11:00:47.000Z"
+        },
+        {
+          "title": "Ford’s new AI assistant can check your fuel levels and tire pressure",
+          "link": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
+          "summary": "Ford is rolling out a new AI-powered assistant that can answer questions about your Ford or Lincoln vehicle, such as how much fuel you'll need for your next road trip or whether your truck can tow that new motor boat.\nThe app is rolling out first to the Ford and Lincoln mobile apps, where it will work as a chatbot that can answer questions about the vehicle's capabilities or future service needs. Since the app is linked to the customer's vehicle, the assistant knows many of the details about the particular make and model, including fuel levels, cargo capacity, and towing capabilities. Ford plans on rolling out a voice-powered assistant that …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-10T11:00:00.000Z"
+        },
+        {
+          "title": "Space mirrors could ruin astronomy — and your eyes",
+          "link": "https://www.theverge.com/science/976977/space-mirror-reflect-orbital-fcc-solar-eye-damage",
+          "summary": "Solar energy, at any time of day or night - that's the dream of space mirror projects. Futurists have been imagining satellite mirrors that could reflect the sun's light onto the Earth's surface for over a century. Russian scientists experimented with the concept in the '90s with the Znamya project. The idea is to put a large mirror in orbit and angle it such that sunlight can be reflected onto a specific geographical area for illumination or the generation of solar power. \nNow, the California-based company Reflect Orbital wants to try this idea again, launching a test satellite named Eärendil-1 as a precursor to a fleet of up to 50,000 spa …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-10T11:00:00.000Z"
+        },
+        {
+          "title": "AI for science needs reasoning, not just data",
+          "link": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+          "summary": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. With the explosive arrival of artificial intelligence, the…",
+          "isoDate": "2026-08-10T09:00:00.000Z"
+        },
+        {
+          "title": "These startups are chasing the next big thing in LLMs",
+          "link": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
+          "summary": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here. Way back in the summer of 2017, AI researchers at Google put out a paper called “Attention Is All You Need,” in which they described a new…",
+          "isoDate": "2026-08-10T09:00:00.000Z"
+        },
+        {
           "title": "No Dogs in Space is a music history podcast for true obsessives",
           "link": "https://www.theverge.com/entertainment/977190/no-dogs-in-space-music-history-podcast",
-          "summary": "Sadly, there hasn't been a new episode of No Dogs in Space since July of 2024. Part four of the podcast's series on Can wrapped up an abbreviated season three, which focused on experimental rock. Don't get me wrong, I loved seasons one and two, but the show seemed to be gearing up for a deep dive into Krautrock, and I was hype. Unfortunately, that episode ended with hosts Marcus Parks (Last Podcast on the Left) and Carolina Hidalgo declaring they were going to do another season on punk (the topic of season one), only for the feed to go quiet. \nIf you're a music obsessive, this is a must-listen podcast. Over the course of 73 episodes, the hu …\nRead the full story at The Verge.",
+          "summary": "Sadly, there hasn't been a new episode of No Dogs in Space since July of 2024. Part four of the podcast's series on Can wrapped up an abbreviated season 3, which focused on experimental rock. Don't get me wrong, I loved seasons 1 and 2, but the show seemed to be gearing up for a deep dive into Krautrock, and I was hype. Unfortunately, that episode ended with hosts Marcus Parks (Last Podcast on the Left) and Carolina Hidalgo declaring they were going to do another season on punk (the topic of season 1), only for the feed to go quiet. \nIf you're a music obsessive, this is a must-listen podcast. Over the course of 73 episodes, the husband-and- …\nRead the full story at The Verge.",
           "isoDate": "2026-08-09T20:28:31.000Z"
-        },
-        {
-          "title": "Zuckerberg&#8217;s yacht was closer, but someone else saved a stranded boat",
-          "link": "https://www.theverge.com/tech/977161/mark-zuckerberg-yacht-wilderness-legacy-stranded-boat",
-          "summary": "Mark Zuckerberg's yacht \"The Launchpad\" | Image: Sylvain Lefevre / Getty Images\t\n\nEarlier this week, the Alaskan cruise ship Wilderness Legacy rescued a small skiff stranded near Farragut Bay after running out of fuel. But, according to tracking data reviewed by the Alaska Beacon and Halifax Shipping News, the closest vessel was actually Mark Zuckerberg's super yacht, Launchpad.\nMichael Love, a passenger on the Wilderness Legacy, posted on Bluesky that the captain announced the Launchpad was closer, but \"repeatedly refused to respond,\" which was met with booing from the passengers. The AIS tracking (embedded below) seems to support that the Launchpad was closer to the vessel in trouble, but then stopped near the entrance …\nRead the full story at The Verge.",
-          "isoDate": "2026-08-09T17:20:30.000Z"
-        },
-        {
-          "title": "49ers coach says his Tesla was on Autopilot when he crashed",
-          "link": "https://www.theverge.com/transportation/977155/49ers-coach-tesla-autopilot-crash",
-          "summary": "Head Coach Kyle Shanahan of the San Francisco 49ers | Image: Michael Zagaris / San Francisco 49ers / Getty Images\t\n\nFour weeks ago, San Francisco 49ers coach Kyle Shanahan was involved in an accident near downtown Palo Alto. At the time Shanahan said only that the accident was his fault. But during a recent press conference he shared more details about the incident, including the fact that he had his Tesla's Autopilot engaged at the time. Shanahan was not passing the buck, however, saying it was his fault regardless of whether or not Autopilot was engaged. \n\"I've had Autopilot for nine years, so I'm pretty comfortable with it and, you know, who knows what happened when I turned around? Whether it malfunctioned or whether I knocked it off? That's somethi …\n\nRead the full story at The Verge.",
-          "isoDate": "2026-08-09T15:56:49.000Z"
-        },
-        {
-          "title": "Dropbox is a PC builder’s best friend",
-          "link": "https://www.theverge.com/tech/976092/pc-building-dropbox-backup",
-          "summary": "In 2018 I bet my reputation and self-worth on a huge crowdfunded game design project. It could have been a failure for many reasons, but the one I became most worried about was losing all of the work that was stored locally on my home-built PC - a scenario that would have left a lot of people very upset and placed me in deep trouble. I wasn't irresponsible, I had local backups, but at some point I found myself in custody of so many important files that it scared me. And no matter how many redundancies I could build at home, they'd all still be in the same place - a risky bet. So I bought a subscription to Dropbox. Years later, it's still one …\nRead the full story at The Verge.",
-          "isoDate": "2026-08-09T13:00:00.000Z"
-        },
-        {
-          "title": "AI detectors are creating a new era of distrust",
-          "link": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
-          "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.\nHow it started\nLong before ChatGPT became a thing, educators and editors frequently used anti-plagiarism tools to see if writers were being honest about their work. These tools work by comparing a written work against a database filled with content from across the web, scholarly articles, and more to check for matching sentences and phrases. Some, like Turnitin, offer a percentage th …\nRead the full story at The Verge.",
-          "isoDate": "2026-08-09T12:00:00.000Z"
-        },
-        {
-          "title": "Mount Toba eruption doesn't seem like it could nearly kill our species",
-          "link": "https://arstechnica.com/science/2026/08/mount-toba-eruption-doesnt-seem-like-it-could-nearly-kill-our-species/",
-          "summary": "The massive Toba eruption seems to have had little climate impact.",
-          "isoDate": "2026-08-09T11:00:14.000Z"
-        },
-        {
-          "title": "X replaces its revenue-sharing program with ‘Original Content Rewards’",
-          "link": "https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards",
-          "summary": "X wants to make money on previously used handles. | Image: The Verge\t\n\nX is ending its controversial revenue-sharing program for content creators, which has seen numerous revisions under Elon Musk's reign. In its place, it's launching a new Original Content Rewards program on September 8th. To be eligible, creators must have at least 500 verified followers and at least 500,000 Home Timeline impressions from verified users in the last 90 days, among other requirements. \nCreators will then earn revenue based on \"qualified impressions\" on \"original content.\"Qualified impressions are unique impressions from Premium subscribers \"on the Home Timeline feed, where at least 50% of the post is visible.\" What qualifies a …\nRead the full story at The Verge.",
-          "isoDate": "2026-08-08T21:15:12.000Z"
-        },
-        {
-          "title": "An Amazon data center could have the worst polluting power plant in the country",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
-          "summary": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to the New York Times. The new gas-burning plant in Pecos County, Texas has received significant investment from Amazon and, at least initially, would not be connected to the state's power grid. Instead, its 35 natural-gas turbines would primarily deliver its 7.65 gigawatts of electricity to the new data center.\nAccording to Cleanview, which tracks data centers and their associated power projects, GW Ranch received a permit from Texas allowing for the …\nRead the full story at The Verge.",
-          "isoDate": "2026-08-08T17:53:34.000Z"
-        },
-        {
-          "title": "Buc-ee’s dodges John Oliver to sue another small business",
-          "link": "https://www.theverge.com/business/977112/buc-ees-john-oliver-lawsuit-beaver-mini-mart",
-          "summary": "Buc-ee’s mega-convenience store and 120-pump gas station in Mount Crawford, Virginia. | Image: Chip Somodevilla / Getty Images\t\n\nBuc-ee's became something of a viral sensation during the World Cup, but it has a troubling history of suing small gas stations and convenience stores. On a recent episode of Last Week Tonight, John Oliver literally begged the company to sue him for selling merch featuring his squirrel mascot, Mr. Nutterbutter, with branding that reads \"Buc-Off.\" But Buc-ee's has so far declined to take the bait, instead targeting yet another small business that lacks the deep pockets and legal team of HBO.\n\nAccording to WDTN, an NBC affiliate in Miami Valley, Ohio, Buc-ee's opened its first locations in the state earlier this year. And now it's targeting es …\nRead the full story at The Verge.",
-          "isoDate": "2026-08-08T15:47:30.000Z"
-        },
-        {
-          "title": "Musician and entrepreneur Tom Vek is building a digital music player, but don’t call it retro",
-          "link": "https://www.theverge.com/report/976872/tom-vek-musician-entrepreneur-sleevenote-interview",
-          "summary": "Tom, we can’t see your face. | Image: Tom Vek\t\n\nTom Vek burst onto the scene in 2005 with his album We Have Sound, which garnered a solid 7.6 from the tastemakers of the day over at Pitchfork. His undeniably catchy brand of dancy indietronica landed him an appearance on The OC and placement on the Grand Theft Auto IV soundtrack. His follow-up, Leisure Seizure, had a lengthy gestation period, but arrived in 2011 to similar success, reaching No. 79 on the UK charts.\nView Link\nVek has continued to release music at regular intervals over the last 15 years, dropping Newer Symbols in 2022. But in 2020 he started toying with this idea he had for a music player called Sleevenote. Inspired by viny …\nRead the full story at The Verge.",
-          "isoDate": "2026-08-08T15:00:00.000Z"
         }
       ]
     },
@@ -72,64 +72,64 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "ERROR cargando feed",
-          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
-          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-08-10T07:38:47.507Z"
+          "title": "APOD: 2026 August 10 – Three Galaxy Pairs",
+          "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-10-three-galaxy-pairs/",
+          "summary": "APOD Science APOD APOD: 2026 August 10 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD APOD: 2026 August 10 – Three Galaxy Pairs Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. […]",
+          "isoDate": "2026-08-10T04:05:00.000Z"
         },
         {
-          "title": "Briefing Chat: Is DNA repair the secret to a long life? Whales and mole rats offer tantalizing hints",
-          "link": "https://www.nature.com/articles/d41586-026-02488-3",
-          "summary": "Nature, Published online: 07 August 2026; doi:10.1038/d41586-026-02488-3\nNature staff discuss how animal studies are starting to uncover how DNA repair could prolong life, and how COVID-19 can reawaken dormant viruses.",
-          "isoDate": "2026-08-07T00:00:00.000Z"
+          "title": "El Niño Alters Marine Life in the Pacific",
+          "link": "https://science.nasa.gov/earth/earth-observatory/el-nino-alters-marine-life-in-the-pacific/",
+          "summary": "Satellite measurements of chlorophyll at the sea surface signal shifts in the ocean’s nutrient supplies in mid-2026.",
+          "isoDate": "2026-08-10T04:01:00.000Z"
         },
         {
-          "title": "Universal vaccine for pneumococcal disease moves closer to reality",
-          "link": "https://www.nature.com/articles/d41586-026-02462-z",
-          "summary": "Nature, Published online: 07 August 2026; doi:10.1038/d41586-026-02462-z\nTargeting shared proteins could help to control bacterial subtypes that current vaccines do not protect against.",
-          "isoDate": "2026-08-07T00:00:00.000Z"
+          "title": "Author Correction: Durable all-inorganic perovskite tandem photovoltaics",
+          "link": "https://www.nature.com/articles/s41586-026-10984-9",
+          "summary": "Nature, Published online: 10 August 2026; doi:10.1038/s41586-026-10984-9\nAuthor Correction: Durable all-inorganic perovskite tandem photovoltaics",
+          "isoDate": "2026-08-10T00:00:00.000Z"
         },
         {
-          "title": "The fungal pathogen Candida auris exposes chitin to trigger IFNγ and persist in hair follicles",
-          "link": "https://www.science.org/doi/abs/10.1126/science.adu6688?af=R",
-          "summary": "Science, Volume 393, Issue 6811, August 2026.",
-          "isoDate": "2026-08-06T07:00:00.000Z"
+          "title": "Author Correction: Cooperation conflicts with equality when allocating public goods",
+          "link": "https://www.nature.com/articles/s41586-026-10973-y",
+          "summary": "Nature, Published online: 10 August 2026; doi:10.1038/s41586-026-10973-y\nAuthor Correction: Cooperation conflicts with equality when allocating public goods",
+          "isoDate": "2026-08-10T00:00:00.000Z"
         },
         {
-          "title": "Chemically induced skin tumors arise from long-lived stem cells of the upper hair follicle",
-          "link": "https://www.science.org/doi/abs/10.1126/science.adv8291?af=R",
-          "summary": "Science, Volume 393, Issue 6811, August 2026.",
-          "isoDate": "2026-08-06T07:00:00.000Z"
+          "title": "Author Correction: Nucleolar URB1 ensures 3′ ETS rRNA removal to prevent exosome surveillance",
+          "link": "https://www.nature.com/articles/s41586-026-10978-7",
+          "summary": "Nature, Published online: 10 August 2026; doi:10.1038/s41586-026-10978-7\nAuthor Correction: Nucleolar URB1 ensures 3′ ETS rRNA removal to prevent exosome surveillance",
+          "isoDate": "2026-08-10T00:00:00.000Z"
         },
         {
-          "title": "Generative design of bacteriophages with genome language models",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aec2657?af=R",
-          "summary": "Science, Volume 393, Issue 6811, August 2026.",
-          "isoDate": "2026-08-06T07:00:00.000Z"
+          "title": "I caught my students using AI to cheat in an exam — here’s what universities must do to stamp this out",
+          "link": "https://www.nature.com/articles/d41586-026-02447-y",
+          "summary": "Nature, Published online: 10 August 2026; doi:10.1038/d41586-026-02447-y\nWithout strong standards and smart oversight, artificial intelligence risks eroding the foundations of higher education.",
+          "isoDate": "2026-08-10T00:00:00.000Z"
         },
         {
-          "title": "Paleogenomic insight into the collapse, recovery, and management of American bison",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aee4205?af=R",
-          "summary": "Science, Volume 393, Issue 6811, August 2026.",
-          "isoDate": "2026-08-06T07:00:00.000Z"
+          "title": "What to do when you have too many PhD projects on the go",
+          "link": "https://www.nature.com/articles/d41586-026-01681-8",
+          "summary": "Nature, Published online: 10 August 2026; doi:10.1038/d41586-026-01681-8\nBy ruthlessly narrowing down his priorities, Zachary Sentell managed to publish several papers in the final year of his PhD and graduate on time.",
+          "isoDate": "2026-08-10T00:00:00.000Z"
         },
         {
-          "title": "Vicinal disubstitution of alkyl C–X synthons via alkene radical cation generation",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aef0766?af=R",
-          "summary": "Science, Volume 393, Issue 6811, August 2026.",
-          "isoDate": "2026-08-06T07:00:00.000Z"
+          "title": "Why environmental treaties must also address mental health",
+          "link": "https://www.nature.com/articles/d41586-026-02450-3",
+          "summary": "Nature, Published online: 10 August 2026; doi:10.1038/d41586-026-02450-3\nGlobal conventions have mainly overlooked the psychological and social impacts of climate change, biodiversity loss and pollution. Here’s how to change that.",
+          "isoDate": "2026-08-10T00:00:00.000Z"
         },
         {
-          "title": "Adaptive modulation of theta sweeps in the brain’s navigation circuit",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aef4184?af=R",
-          "summary": "Science, Volume 393, Issue 6811, August 2026.",
-          "isoDate": "2026-08-06T07:00:00.000Z"
+          "title": "This AI tool claims to pick the top 1% of preprints. Should researchers trust it?",
+          "link": "https://www.nature.com/articles/d41586-026-02276-z",
+          "summary": "Nature, Published online: 10 August 2026; doi:10.1038/d41586-026-02276-z\nQED Science says that its metrics reduce bias by assessing papers solely on the basis of their originality and validity.",
+          "isoDate": "2026-08-10T00:00:00.000Z"
         },
         {
-          "title": "The bridge between science and policy: How IPBES redefined global conservation policy and its path to societal impact",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aek0207?af=R",
-          "summary": "Science, Volume 393, Issue 6811, August 2026.",
-          "isoDate": "2026-08-06T07:00:00.000Z"
+          "title": "Despite global turmoil, Gen Z researchers are not giving up",
+          "link": "https://www.nature.com/articles/d41586-026-02453-0",
+          "summary": "Nature, Published online: 10 August 2026; doi:10.1038/d41586-026-02453-0\nFour researchers born after 1997 describe how they stay motivated and cultivate resilience during difficult times.",
+          "isoDate": "2026-08-10T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-08-10T07:38:49.461Z"
+          "isoDate": "2026-08-10T13:05:00.078Z"
         },
         {
           "title": "Tech leaders say AI means less work - their staff say they work up to 90 hours a week",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-08-10T07:38:53.756Z"
+          "isoDate": "2026-08-10T13:05:02.151Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-08-10T07:38:51.255Z"
+          "isoDate": "2026-08-10T13:05:01.226Z"
         },
         {
           "title": "Navigating the Pivot From Tech Expert to Organizational Leader",
