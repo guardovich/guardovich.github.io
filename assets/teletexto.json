@@ -1,10 +1,28 @@
 {
-  "generatedAt": "2026-08-12T07:22:38.866Z",
+  "generatedAt": "2026-08-12T13:06:25.053Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Did poop enable the evolution of complex animals?",
+          "link": "https://arstechnica.com/science/2026/08/feces-fueled-a-flurry-of-evolution-during-the-cambrian-study-suggests/",
+          "summary": "In a recent study, evolution gets even messier than usual.",
+          "isoDate": "2026-08-12T12:34:38.000Z"
+        },
+        {
+          "title": "The Download: our 35 young innovators and the “censorship-industrial complex”",
+          "link": "https://www.technologyreview.com/2026/08/12/1141714/the-download-innovators-under-35-censorship-industrial-complex/",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How we picked 35 of the world’s top young scientists and engineers On September 8, MIT Technology Review will reveal its 2026 list of Innovators Under 35, recognizing 35 young people…",
+          "isoDate": "2026-08-12T12:10:00.000Z"
+        },
+        {
+          "title": "How we picked 35 of the world’s top young scientists and engineers",
+          "link": "https://www.technologyreview.com/2026/08/12/1141605/2026-innovators-under-35-top-young-scientists-engineers/",
+          "summary": "Next month, on September 8, MIT Technology Review will reveal its 2026 list of Innovators Under 35, recognizing 35 young people from around the world who are doing groundbreaking scientific work and building clever technical fixes for sticky problems.  By finding the top young innovators globally and learning what they’re focused on in their work,…",
+          "isoDate": "2026-08-12T09:08:40.000Z"
+        },
         {
           "title": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
           "link": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
@@ -46,24 +64,6 @@
           "link": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/",
           "summary": "Device-bound session credentials thwart an increasingly common form of account takeover.",
           "isoDate": "2026-08-11T20:59:52.000Z"
-        },
-        {
-          "title": "Meta can't stop states' $1.4 trillion lawsuit from going to trial",
-          "link": "https://arstechnica.com/tech-policy/2026/08/meta-cant-stop-states-1-4-trillion-lawsuit-from-going-to-trial/",
-          "summary": "Judges tell Meta that Section 230 provides a defense, not immunity from lawsuits.",
-          "isoDate": "2026-08-11T20:27:16.000Z"
-        },
-        {
-          "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
-          "link": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
-          "summary": "But will Gemini's surge survive slowing model releases?",
-          "isoDate": "2026-08-11T19:48:12.000Z"
-        },
-        {
-          "title": "ChatGPT and Gemini both just passed 1 billion users",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-          "summary": "That’s a lot of people chatting with their AI friends all day. | Image: Google\t\n\nFor the 14th time, a Google product has hit 1 billion users. Google CEO Sundar Pichai posted on X that a billion people are using Gemini every month, and that Gemini is Google's fastest-growing product ever.\nA billion users is a huge milestone, but Google isn't the first AI app to hit it. OpenAI's ChatGPT hit the mark a few weeks ago, though the company buried the announcement that \"more than 1 billion people are putting ChatGPT to work\" in an otherwise anodyne blog post about how people use AI. External data suggested ChatGPT crossed 1 billion users as early as this June, but OpenAI hadn't announced anything until that post on August 6th.  …\nRead the full story at The Verge.",
-          "isoDate": "2026-08-11T19:41:42.000Z"
         }
       ]
     },
@@ -76,6 +76,24 @@
           "link": "https://science.nasa.gov/earth/earth-observatory/stops-along-the-path-of-totality/",
           "summary": "Western Iceland and northern Spain are among the few Northern Hemisphere locations experiencing a total solar eclipse on August 12, 2026.",
           "isoDate": "2026-08-12T04:01:00.000Z"
+        },
+        {
+          "title": "A controversial Alzheimer’s surgery is said to reverse symptoms — here’s what scientists know",
+          "link": "https://www.nature.com/articles/d41586-026-02448-x",
+          "summary": "Nature, Published online: 12 August 2026; doi:10.1038/d41586-026-02448-x\nJaw-dropping patient videos and miraculous testimonials ignited a frenzy in China over a technique that aims to improve drainage from the brain. Now it is entering trials worldwide.",
+          "isoDate": "2026-08-12T00:00:00.000Z"
+        },
+        {
+          "title": "System lag",
+          "link": "https://www.nature.com/articles/d41586-026-02408-5",
+          "summary": "Nature, Published online: 12 August 2026; doi:10.1038/d41586-026-02408-5\nOut of place.",
+          "isoDate": "2026-08-12T00:00:00.000Z"
+        },
+        {
+          "title": "A particle made of force: physicists say they’ve found mysterious ‘glueball’",
+          "link": "https://www.nature.com/articles/d41586-026-02498-1",
+          "summary": "Nature, Published online: 12 August 2026; doi:10.1038/d41586-026-02498-1\nScientists have predicted the existence of a particle made of gluons for a long time, but detecting it has taken decades.",
+          "isoDate": "2026-08-12T00:00:00.000Z"
         },
         {
           "title": "What Is the Nancy Grace Roman Space Telescope? (Grades 5-8)",
@@ -112,24 +130,6 @@
           "link": "https://www.nasa.gov/missions/station/iss-research/nasa-shares-station-research-today-supporting-moon-mars-tomorrow/",
           "summary": "The International Space Station has been busy throughout 2026, as it continues to be a bustling workspace for astronauts conducting a variety of scientific experiments that lay the groundwork for missions to the Moon and beyond. NASA’s Artemis II mission in April was the first crewed flight around the Moon in more than 50 years, […]",
           "isoDate": "2026-08-11T14:00:00.000Z"
-        },
-        {
-          "title": "Curiosity Blog, Sols 4968-4974: Rock Climbing Towards the Discontinuity",
-          "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4968-4974-rock-climbing-towards-the-discontinuity/",
-          "summary": "Written by Lucy Lim, Planetary Scientist at NASA’s Goddard Space Flight Center Earth planning date: Friday, July 31, 2026 As mentioned in the previous blog, Curiosity has been exploring a large-scale feature in Gale’s sedimentary record suspected to be an “erosional supersurface.” The “supersurface” represents a period in time when a net depositional environment changed […]",
-          "isoDate": "2026-08-11T06:50:07.000Z"
-        },
-        {
-          "title": "APOD: 2026 August 11 – Six Moons of Saturn",
-          "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-11-six-moons-of-saturn/",
-          "summary": "APOD Science APOD APOD: 2026 August 11 – Six… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Six Moons […]",
-          "isoDate": "2026-08-11T04:05:00.000Z"
-        },
-        {
-          "title": "Bountiful Roebuck Bay ",
-          "link": "https://science.nasa.gov/earth/earth-observatory/bountiful-roebuck-bay/",
-          "summary": "Tidal and seasonal shifts leave their mark on this crescent-shaped, productive bay in Western Australia’s Kimberley region.",
-          "isoDate": "2026-08-11T04:01:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-08-12T07:22:34.583Z"
+          "isoDate": "2026-08-12T13:06:18.857Z"
         },
         {
           "title": "Tokenomics: Why making AI pay is tricky",
@@ -204,6 +204,12 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "From assistance to execution: How enterprises put AI to work",
+          "link": "https://openai.com/index/how-enterprises-put-ai-to-work",
+          "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
+          "isoDate": "2026-08-12T06:00:00.000Z"
+        },
+        {
           "title": "Testing ads in ChatGPT",
           "link": "https://openai.com/index/testing-ads-in-chatgpt",
           "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
@@ -256,12 +262,6 @@
           "link": "https://openai.com/index/premium-seats-chatgpt-business",
           "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
           "isoDate": "2026-08-10T00:00:00.000Z"
-        },
-        {
-          "title": "How Zapier transformed core marketing processes with ChatGPT Work",
-          "link": "https://openai.com/index/zapier",
-          "summary": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
-          "isoDate": "2026-08-10T00:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-08-12T07:22:38.002Z"
+          "isoDate": "2026-08-12T13:06:23.819Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-08-12T07:22:35.932Z"
+          "isoDate": "2026-08-12T13:06:20.721Z"
         },
         {
           "title": "IEEE Engineering Summit Supports Bhutan’s Digital Transformation",
