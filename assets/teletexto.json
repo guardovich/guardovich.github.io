@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T01:51:53.358Z",
+  "generatedAt": "2026-08-12T07:22:38.866Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
@@ -72,6 +72,12 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "Stops Along the Path of Totality",
+          "link": "https://science.nasa.gov/earth/earth-observatory/stops-along-the-path-of-totality/",
+          "summary": "Western Iceland and northern Spain are among the few Northern Hemisphere locations experiencing a total solar eclipse on August 12, 2026.",
+          "isoDate": "2026-08-12T04:01:00.000Z"
+        },
+        {
           "title": "What Is the Nancy Grace Roman Space Telescope? (Grades 5-8)",
           "link": "https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-the-nancy-grace-roman-space-telescope-grades-5-8/",
           "summary": "This article is for students grades 5-8. The Nancy Grace Roman Space Telescope is NASA’s newest astrophysics observatory. The telescope will scan large sections of space. Roman will help astronomers answer questions about dark energy, dark matter, exoplanets, and more. ______________________________________________________________________ Words to Know Astrophysics: a branch of space science that applies physics and mathematics to […]",
@@ -124,12 +130,6 @@
           "link": "https://science.nasa.gov/earth/earth-observatory/bountiful-roebuck-bay/",
           "summary": "Tidal and seasonal shifts leave their mark on this crescent-shaped, productive bay in Western Australia’s Kimberley region.",
           "isoDate": "2026-08-11T04:01:00.000Z"
-        },
-        {
-          "title": "Phosphine-mediated azine C–H couplings with water and ammonia",
-          "link": "https://www.nature.com/articles/s41586-026-10991-w",
-          "summary": "Nature, Published online: 11 August 2026; doi:10.1038/s41586-026-10991-w\nPhosphine-mediated azine C–H couplings with water and ammonia",
-          "isoDate": "2026-08-11T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-08-12T01:51:49.856Z"
+          "isoDate": "2026-08-12T07:22:34.583Z"
         },
         {
           "title": "Tokenomics: Why making AI pay is tricky",
@@ -180,12 +180,6 @@
           "isoDate": "2026-08-07T09:22:03.000Z"
         },
         {
-          "title": "Why airlines are warning over lithium-ion batteries",
-          "link": "https://www.bbc.co.uk/news/articles/cwyl6yz719jo?at_medium=RSS&at_campaign=rss",
-          "summary": "The airline industry wants passengers to be careful when travelling with lithium ion batteries.",
-          "isoDate": "2026-08-06T23:04:40.000Z"
-        },
-        {
           "title": "First OpenAI, now Meta - why do AI hacks keep happening?",
           "link": "https://www.bbc.co.uk/news/articles/cp30989ee1wo?at_medium=RSS&at_campaign=rss",
           "summary": "A flood of companies are revealing AI models gained access to the internet - with real consequences.",
@@ -196,6 +190,12 @@
           "link": "https://www.bbc.co.uk/news/articles/cm2g0j3y339o?at_medium=RSS&at_campaign=rss",
           "summary": "Andre Lavoie joined SpaceX in 2009 as an engineer, now he's looking to cash in his shares in the company.",
           "isoDate": "2026-08-06T14:50:54.000Z"
+        },
+        {
+          "title": "AI or real? BBC analyses viral China disaster videos",
+          "link": "https://www.bbc.co.uk/news/videos/ckg9d2egn11o?at_medium=RSS&at_campaign=rss",
+          "summary": "As weather events become more extreme, fake videos are being shared rapidly online, and it’s causing real world problems in China.",
+          "isoDate": "2026-08-05T22:00:32.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-08-12T01:51:52.593Z"
+          "isoDate": "2026-08-12T07:22:38.002Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-08-12T01:51:51.237Z"
+          "isoDate": "2026-08-12T07:22:35.932Z"
         },
         {
           "title": "IEEE Engineering Summit Supports Bhutan’s Digital Transformation",
