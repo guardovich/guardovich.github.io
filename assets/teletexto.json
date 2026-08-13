@@ -1,69 +1,69 @@
 {
-  "generatedAt": "2026-08-13T13:07:28.051Z",
+  "generatedAt": "2026-08-13T19:01:23.036Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
         {
-          "title": "Nintendo’s next Fire Emblem has a bold new structure",
-          "link": "https://www.theverge.com/games/977955/fire-emblem-fortunes-weave-preview-impressions-nintendo-switch-2",
-          "summary": "Nintendo's first Fire Emblem game for the Switch 2 is structured in an ambitious way. Unlike the well-loved Three Houses, a strategy game that tasked you with pledging allegiance to a specific faction and seeing their story all the way to the end, the new Fortune's Weave lets you swap between four heroes and their compatriots so you can tackle multiple storylines at once. With Three Houses, I only ever played one path and never went back to experience the others. I hoped that the new game's structure would be a way to see everyone's stories in one playthrough.\nAfter playing 26 hours of Fortune's Weave, which launches on September 17th, I've …\nRead the full story at The Verge.",
-          "isoDate": "2026-08-13T13:00:00.000Z"
+          "title": "The Trump admin will start letting private firms launch international cyberattacks",
+          "link": "https://www.theverge.com/policy/979734/trump-administration-cybercrime-private-firms",
+          "summary": "The Trump administration is launching a new program that will allow private firms to perform cyberattacks against foreign criminals, as reported earlier by Bloomberg. The private firms would operate \"under the control and oversight\" of the federal government, giving them permission to surveil and disrupt criminal networks, according to a presidential memorandum published on Wednesday.\nThe Department of Justice and Department of Homeland Security will oversee the private firms, which must meet requirements in \"technical proficiency, proven performance of cyber operations, facility security,\" and more. Companies in the program must hold a bon …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-13T18:56:13.000Z"
         },
         {
-          "title": "Flock CEO: ‘We got this one wrong’",
-          "link": "https://www.theverge.com/policy/979339/flock-ceo-audits-data-retention",
-          "summary": "Surveillance tech company Flock is rolling out updates to address reports of cops across the country abusing its tools to stalk ex-romantic partners and others. CEO Garrett Langley is delivering a mea culpa, and in an interview with The Verge, says he's changed his mind on what responsibility Flock bears for how law enforcement uses it.\nOver the coming weeks, Flock will begin implementing updates that include requiring a previously optional feature called Audit Assistance, which flags \"abnormal search behavior\" and immediately locks out suspicious users until an administrator reviews their activity. All users will also be required to enter  …\nRead the full story at The Verge.",
-          "isoDate": "2026-08-13T13:00:00.000Z"
+          "title": "I finally found a robot lawnmower I’d trust with my yard",
+          "link": "https://www.theverge.com/tech/978664/robot-lawnmower-review-segway-mammotion-husqvarna-roborock-dreame",
+          "summary": "From left, Segway, Roborock, Dreame, Husqvarna, and Mammotion automowers lined up to do battle with my lawn. | Photo: Jennifer Pattison Tuohy / The Verge\t\n\nRobot lawnmowers are finally good enough to take a lot of work out of maintaining a yard, but they’re still not set-it-and-forget-it machines. If you don’t want these autonomous cutting machines to tear up your lawn or go roaming in your neighbors’ yard, you’re still going to need to keep an eye on them. But with some oversight, they can take a big chore off your hands. \nThis summer I tested five bots on my flat, three-quarter-acre, coastal South Carolina property with sandy soil, centipede grass, and lots of trees. Things went much better than last year’s trials and tribulations, thanks to huge improvements in navigation and maneuverability. Basically, they stopped getting stuck. My lawn has never looked better, and my spouse — who had sworn off robot lawnmowers after a user-error injury — is now a convert. His riding lawnmower has been idle for over a month.\nThe consistency of robot mowers is impressive. Running daily and shaving just millimeters at a time, these mowers have created a noticeably lusher lawn. I walked out on it barefoot this morning — something I’ve never done before. The best part is that they work quietly around the clock, without bothering my pets, the wildlife, or the neighbors. I also love the professional-looking lawn lines they make.\nWhat’s better\nThe key upgrades this year are network RTK navigation, fallback navigation systems, and improved all-wheel-drive to tackle rougher terrain. \nRTK — real-time kinematic positioning — is the satellite positioning tech most automowers switched to over the last few years as they’ve ditched boundary wires. It uses stationary ground-based reference stations (antennas), along with GPS, to provide very precise location data, down to a centimeter or two. It’s used for surveying, drone navigation,  and anything that needs that fine level of precision.\nEvery mower I tested, apart from the Lidar-based Dreame, comes with its own RTK antenna that needs to be installed in your yard with a clear view of the sky; trees, a neighbor’s house, or your own roofline can all block the signal. In my previous testing, I didn’t get a single RTK mower to run successfully in my backyard, where I have very spotty GPS coverage.\nThis new crop all now offers NetRTK as an option. This taps into a network of existing RTK reference stations through a cloud connection, and requires a Wi-Fi or 4G connection on the mower. Most worked out of the box without me needing to install the antenna, but you’ll need to check if your house is covered, as coverage varies. \nRTK mowers now also use a secondary navigation tech such as lidar or vSLAM to keep on track when the signal drops. This improvement in navigation, plus bigger, more capable machines, meant I no longer spent my summer dragging confused mowers out from under oak trees. \n\n\nWhat still needs work\nHowever, automowers are far from perfect. \nThese are autonomous machines with blades, and leaving them to their own devices comes with risks. One spent three days methodically destroying a patch of my lawn before I noticed. Another took out two outdoor extension cords. Several models dug sandpits in bare patches, and another tried to climb up a small tree. \nObstacle detection is better across the board, but it still has a long way to go. Hoses, cables, and cars are still a challenge — my family now knows to check under the wheels before driving away. \nNo one has really solved gates yet, either (although they’re trying) — I still have to manually open mine to let the robot mow the full property. And, while every manufacturer currently advertises NetRTK coverage as free for the lifetime of the device, there are obvious downsides to relying on a cloud service to mow your lawn. Finally, automowers are still expensive, and I have concerns around long-term durability.\nLike their siblings, robot vacuums, there are myriad models on the market now; the right one for you will depend on the size of your yard and your landscape. To find the mower that worked best for me, I tested four top-of-the-line models with specs capable of tackling my challenging terrain and large expanse of my backyard: The Husqvarna 420 IQ ($3,299), Mammotion Luba 3 AWD 3000 ($2,799), Navimow X430 ($2,499), and the Dreame A3 AWD Pro 2500 ($3,099.99). I also tried the entry-level Roborock RockNeo Q110H ($1,299) on my front lawn, which is more like a standard suburban lawn. \nAlso like robot vacuums, robot lawnmowers fall under the new FCC robot ban, so while existing models can continue to be sold and supported in the US — including all the models reviewed here — the fate of new models is in question.\nThe robot I’d get for my yard\nSegway Navimow X430\nNavigation: RTK, vSLAM / Yard size: up to 1 acre / Cutting: 0.75” to 4” height, 17” width (dual discs) / Terrain capabilities: 4WD, zero-turn wheels, 84% slope / Theft features: Lift and out-of-zone alarms, GPS anti-theft, PIN / Weatherproofing: IP67 / Connectivity: 4G (1 yr free then $32.90 a yr), Wi-Fi, BLE / Warranty: 3 yrs \n\n\nWhere to Buy:\n\n $2499 at Amazon\n $2499 at The Home Depot\n $2499 at Segway\n\nThe Segway Navimow X430 ($2,499) is by far the best mower I tested. This 60-pound beast looks like Darth Vader’s dog, and was the only mower I tested that didn’t get stuck once. Its 4WD wheels combined with impressive suspension rolled through the potholes, over sticks and rocks, even small tree branches. It navigated around my chickens and across the tall, uneven transition from my front yard to back yards — it was the only bot that could mow both in one trip (with the gate open).\n\nThis video shows the Segway tackling a sandpit and executing a 90-degree turn without damaging the sod.\n\nIt uses a combination of RTK, vSLAM, and vision-based tech to navigate, and it covered my entire property without once getting lost or stuck. It features impressive “xero-turn” maneuverability enabling it to pivot smoothly with no lawn damage. Its dual-disc, 17-inch cutting width covers more ground, and it was able to mow most of my backyard in under three hours — nearly twice as fast as most competitors. I really liked the remote-control mowing feature, which was handy for tidying up the edges of the lawn and more sensitive areas such as around flower beds.\nThe Segway’s speed does mean a few blades go untrimmed, and its rain sensing relies on weather data from the internet, which meant it often didn’t mow because it predicted rain that never came. Setting up the NetRTK was a bit tricky, mostly because I had to put the charging station in an awkward spot to connect to the GPS (it can’t be under an awning or up against a building as the mower also needs a clear view of the sky). \nA good lidar-based alternative\nDreame A3 AWD Pro 2500\nNavigation: Lidar, AI vision (camera-based) / Yard size: 0.62 acre / Cutting: 1.2” to 3.9” height, 15.8” width (dual discs) / Terrain capabilities: AWD, zero-turn wheels, 80% slope / Theft features: Lift and out-of zone alarms, GPS anti-theft, PIN / Weatherproofing: IPX6 / Connectivity: 4G (3 yrs free), Wi-Fi, BLE / Warranty: 2 yrs \n\nWhere to Buy:\n\n $3099.99 $2499.99 at Amazon\n $3099.99 $2499.99 at Dreame\n\nThe Dreame A3 AWD Pro 2500 ($3,099.99) is the best option if you can’t rely on RTK. Its lidar and camera-based navigation performed nearly as well as the Segway in my backyard, only getting stuck a couple of times. It doesn’t need a clear view of the sky, so you can place it anywhere, and its sliding edge-cutting deck worked slightly better than the Segway’s EdgeSense feature in my testing. (Beware, it’s set to a fixed 1.2-inch minimum). \nBut in my testing, lidar was the least reliable navigation tech, and sometimes the A3 declared the job complete when it wasn’t. Lidar robots do best in a fenced-in yard, as they can more easily get lost and wander off into your neighbors’ yard, something that never happened with the RTK robots. \n\nThe Dreame performed as well as the Segway when mowing, but its turning mechanism did churn up dirt where there was less grass cover.\n\nWhile the Dreame rarely got stuck, its turning mechanism wasn’t as smooth as the Segway, and it dug several sandpits in various spots where there was no grass. I do like its “Garden Guardian” mode that uses the camera as a roaming security guard, and it can also identify when people cross its path and warn them that it’s working. It’s been mildly hilarious watching it surprise the heck out of dog walkers passing by the front yard.\nAn expensive but reliable option for yards with no trees\nHusqvarna Automower 420 IQ\nNavigation: EPOS (RTK), radar / Yard size: 1 acre / Cutting: 1” to 4” height, 9.4” width (single discs) / Terrain capabilities: 2WD, large wheels, 45% slope / Theft features: Out-of zone alarm, GPS anti-theft, PIN / Weatherproofing: IPX5 / Connectivity: 4G (free for life), Wi-Fi, BLE / Warranty: 4 yr mower, 3 yr battery \n\nWhere to Buy:\n\n $3299.99 $3144.37 at Amazon\n $3299.99 at Husqvarna\n\nHusqvarna’s Automower 420 IQ ($3,299) is a good option for a standard yard. It has the longest warranty (four years), the easiest app and controls, and a modular design for longevity. It’s 2WD, but its large wheels tackled uneven terrain well. It requires an RTK antenna and has the option of cloud-based RTK (in some areas), but its backup navigation for satellite dead spots requires installing physical boundary wire. \nI tested this in my neighbor’s yard using the physical RTK antenna, as they have fewer trees and clearer views of the sky. It navigated well, but it uses radar for obstacle detection and has no camera at all. This meant it wasn’t as good at dodging objects as the others, and ran into the bushes once and tried to climb a small tree.\nBut if you have a large, uncomplicated, tree-free yard, it’s a good option thanks to Husqvarna’s broad support network, free-for-life cellular connectivity for both theft and NetRTK (should you need it), and impressive performance. \nMore reliable navigation, but spotty software\nMammotion Luba 3 AWD 3000\nNavigation: Lidar, RTK, AI-vision (camera-based) / Yard size: 0.75 acre / Cutting: 1” to 2.7” height, 15.7” width (dual discs) / Terrain capabilities: AWD, 80% slope / Theft features: Lift and out-of zone alarms, GPS anti-theft, physical key / Weatherproofing: IPX6 / Connectivity: 4G (3 yrs free), Wi-Fi, BLE / Warranty: 3 yrs \n\nWhere to Buy:\n\n $2799 $2239 at Mammotion\n $2799 $2239 at The Home Depot\n\nThe Mammotion combines all three wireless navigation types — RTK, lidar, and vision — making it ideal for properties with spotty GPS coverage like mine. But it’s less nimble than the other AWD models thanks to lower ground clearance and weaker suspension. \nIts turning mechanism also tore up a couple areas of my garden, particularly a shaded area near my neighbors’ sprinklers, which stayed damper than other spots. Mammotion has acknowledged this issue, telling The Verge “We’ve identified that a recent update to the turning logic caused some unwanted results. The mower turning too sharply might tear up the grass to some extent, especially when the ground is wet and slippery, or the grass isn’t very thick.” \nThey’ve deployed several software updates to address this, but we should all be wary of relying on software updates to fix fundamental problems with an expensive lawnmower.  \nA budget option for smaller yards with or without trees\nRoborock RockNeo Q110H\nNavigation: RTK, vSLAM / Yard size: 0.25 acre / Cutting: 0.8” to 2.4” height, 8.7” width (single disc) / Terrain capabilities: 2WD, 45% slope / Theft features: Out-of zone alarm, GPS anti-theft (with optional module), PIN / Weatherproofing: IPX6 / Connectivity: Wi-Fi, BLE (4G sold separately)  / Warranty: 2 yr \n\nWhere to Buy:\n\n $1299 $999.99 at Amazon\n $1299 at Roborock\n\nThe $1,299 Roborock RockNeo Q110H is my budget pick. This rear-wheel-drive mower was impressive on my flat, treed front yard, although its lack of all-wheel-drive meant that the occasional large tree root stopped it in its tracks. That, and its more limited range, is why it’s half the price of other mowers here. It offers RTK and vSLAM navigation, with the option of antenna or NetRTK. \nThe RockNeo is remarkably similar to the Segway Navimow i100N I tested last year, with a few upgrades, including better camera-based obstacle detection, steeper slope navigation (up to 45%), and a wider cutting blade. It can also be used for manual remote-control mowing and has a built-in edge-cutting feature, although there’s the option of an edge-cutting add-on module, which I haven’t tried.\nEdge cutting is still very much a work in progress for all mowers. Some do well straddling the edge, but if you have a fence or delicate boundary, that won’t work. Companies are trying all sorts of solutions — including special attachments. Ecovacs Goat A3000 Pro Lidar looks to be the most promising, thanks to a side-mounted string trimmer. But for now, you should plan to keep your manual trimmer handy.\nRobot mowers have improved significantly over the last 18 months. Advances in navigation have solved my main pain points from my last round of testing, and bigger, beefier bots are now better at navigating the varied terrain of American yards. Today, the right bot will maintain your yard beautifully with minimal effort. While they still need oversight and the occasional rescue, and they haven’t solved every problem, they do take a lot of the work out of maintaining your yard.\nPhotos and videos by Jennifer Pattison Tuohy / The Verge",
+          "isoDate": "2026-08-13T18:30:00.000Z"
         },
         {
-          "title": "The Download: kids’ thoughts on AI, and female clones of male mice",
-          "link": "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/",
-          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How kids feel about AI, in their own words —Jen Swetzoff and Keeley McNamara, the founding editors of Anyway, an independent print magazine for tweens and teens When we set out…",
-          "isoDate": "2026-08-13T12:10:00.000Z"
+          "title": "Building a practical path to post-quantum cryptography",
+          "link": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
+          "summary": "Quantum computing has alternated between breakthrough darling and overhyped promise in technology circles. Its powerful new capabilities come with a threat to break current cryptography, but for business leaders navigating the noise, the signal should be clear: post-quantum cryptography (PQC) is a manageable evolution, not a crisis. The mathematics behind today’s encrypted digital transactions may…",
+          "isoDate": "2026-08-13T18:11:42.000Z"
         },
         {
-          "title": "Claude's new Scarlet Letter watermark is invisible — for now",
-          "link": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
-          "summary": "The mark flags anything Claude processed, even human writing it only edited.",
-          "isoDate": "2026-08-13T11:10:18.000Z"
+          "title": "You can now just point at a mess and this robot vacuum will suck it up",
+          "link": "https://www.theverge.com/tech/979516/matic-cues-robot-vacuum-gesture-control-hands-on-review",
+          "summary": "The Matic robot vacuum now offers gesture controlled spot cleaning and a built-in voice assistant. | Photo by Jennifer Pattison Tuohy / The Verge\t\n\nMatic, my current favorite robot vacuum, just got a big upgrade. The company has launched Matic Cues, which brings voice and gesture control to the robot. Now, you can talk directly to your vacuum to tell it what you want it to do, or just point at a mess to have it spot-clean. \nThe feature launches today, August 13 at 2 pm ET, and will show as an option in the Matic app under Settings > Matic Cues. The update arrives just ahead of a planned price hike on September 9, which will see the WALL-E-style robot's price go from $1,245 to $1,495.\nI've been playing with Matic Cues for a day or so, and so far it's working well. Gesture control is th …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-13T18:00:00.000Z"
         },
         {
-          "title": "What’s behind this summer’s heat, and why 2027 could be worse",
-          "link": "https://www.technologyreview.com/2026/08/13/1141788/summer-heat-el-nino/",
-          "summary": "This summer has been a scorcher for much of the Northern Hemisphere. June and July marked the hottest two-month stretch in Europe since record-keeping began. The contiguous US endured its hottest month on record in July. South Korea saw its highest-ever recorded temperature.   The heat isn’t over yet, but some scientists are already looking ahead…",
-          "isoDate": "2026-08-13T10:00:00.000Z"
+          "title": "2K launches new studio to build its &#8216;next blockbuster sports franchise&#8217;",
+          "link": "https://www.theverge.com/games/979689/2k-sports-franchise-small-axe-studios-soccer",
+          "summary": "2K is launching a new AAA game development studio, Small Axe Studios, with an ambitious goal: to build the company's \"next blockbuster sports franchise,\" according to a LinkedIn post.\nThe post doesn't explicitly say what sport this new game will focus on. But an image included in the post features what appears to be a mockup soccer badge, indicating that Small Axe might be making a soccer game that goes head-to-head with EA Sports FC. The Small Axe website also lists senior staffers with experience working on EA's FIFA series (the former name of EA Sports FC), including studio head Aaron McHardy, who once led that franchise.\nSmall Axe was  …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-13T16:38:15.000Z"
         },
         {
-          "title": "How kids feel about AI, in their own words",
-          "link": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
-          "summary": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they were…",
-          "isoDate": "2026-08-13T09:00:00.000Z"
+          "title": "Ford’s $28,000 Fathom EV nears production after $2 billion factory overhaul",
+          "link": "https://www.theverge.com/transportation/979565/ford-fathom-uev-louisville-assembly-plant",
+          "summary": "Ford said today that its next-generation electric vehicle - recently dubbed Fathom - will go into production at the automaker's recently overhauled Louisville Assembly Plant in the first quarter of 2027. \nThe first Fathoms will be prototypes, with Ford's team in Louisville already in the production-level pre-tooling phase at the recently converted facility. Factory workers are working alongside team's at Ford's New Model Product Development Center in Dearborn, Michigan, hand-building the Fathom prototypes - and the same operators who helped design the high-stakes EV will also be involved in its production. \nThe factory is over 70 years old …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-13T16:23:18.000Z"
         },
         {
-          "title": "Toddler's tragic death from brain-destroying amoeba offers lessons for doctors",
-          "link": "https://arstechnica.com/health/2026/08/an-ultra-rare-amoeba-was-destroying-a-toddlers-brain-doctors-missed-it/",
-          "summary": "Boy's unusual symptoms could help identify the next case sooner.",
-          "isoDate": "2026-08-12T22:31:19.000Z"
+          "title": "Meta adds AI screening to detect WhatsApp scams",
+          "link": "https://www.theverge.com/tech/979654/meta-whatsapp-scam-message-detection",
+          "summary": "Meta is launching an optional Scam Alert feature on WhatsApp that uses on-device machine learning to flag suspicious messages. Earlier this year, Meta also launched scam detection for device linking requests on WhatsApp. The new Scam Alert feature, which is rolling out in a limited beta, shows users a warning if a chat seems like a scam:\nIf the model identifies a message as a likely scam attempt, the user sees a warning in the chat, which is not visible to the other person. From there, the user can decide what to do: block, report, or continue the conversation. If they decide that a warning is incorrectly flagged, the user can mark the cha …\n\nRead the full story at The Verge.",
+          "isoDate": "2026-08-13T16:10:06.000Z"
         },
         {
-          "title": "The web’s newest weapon against AI scrapers is a font",
-          "link": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
-          "summary": "“ShieldFont” aims to poison AI training data without making pages unreadable for people.",
-          "isoDate": "2026-08-12T22:02:25.000Z"
+          "title": "The Corvette Grand Sport X delivers Porsche 911 performance for a fraction of the price",
+          "link": "https://www.theverge.com/transportation/979125/corvette-grand-sport-x-review-specs-price",
+          "summary": "My drive of the 2027 Corvette Grand Sport X began under oily black clouds, a torrential weather front releasing its grip on Manhattan - an inauspicious start for any mega-powered sports car. Rain pelted the waterlogged pavement, as I set course for the mountain-man roads of the Catskills, then on to Long Island and New England over three days. Fortunately, this Grand Sport, a name synonymous with value among Corvette fans, was the first of its kind: A 721-horsepower super-hybrid with a brainy, confidence-boosting AWD system. I popped the Corvette into Sport mode, Wet mode be damned. Finding tire grip galore on the Palisades Parkway, I realiz …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-13T16:00:00.000Z"
         },
         {
-          "title": "Terabytes of credentials leaked in massive supply-chain attack",
-          "link": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
-          "summary": "The data was scraped and exfiltrated from 2,500 users of a compromised AI package.",
-          "isoDate": "2026-08-12T21:43:21.000Z"
+          "title": "Suno is trying to look more like a real music production tool",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
+          "summary": "Suno is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-bones audio editor with generative AI features. The biggest addition is undoubtedly MIDI support. Suno says that MIDI was its most requested feature, and it's basically a prerequisite for any modern DAW. Unfortunately, Suno Studio doesn't appear to support third-party plugins or VSTs yet, so you're stuck using its proprietary built-in synth. That synth appears to be a basic two-oscillator wavetable plugin with three envelopes and four LFOs.\nThe point is less about using your favorite Arturia vintage syn …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-13T16:00:00.000Z"
         },
         {
-          "title": "Pixel 11 event live blog: Let&#8217;s watch Trevor Noah introduce Google&#8217;s new phones",
-          "link": "https://www.theverge.com/tech/979241/made-by-google-2026-live-blog-pixel-11-trevor-noah",
-          "summary": "It's almost time for the Made by Google keynote, where the company will show off the brand-new Pixel hardware it announced today. Like last year, it'll be a celebrity-packed live show, though Trevor Noah is hosting instead of Jimmy Fallon. If the 2025 show was any indication, today's broadcast might be something of a cringefest.\nIf you've been following tech news this morning, you already know a lot about the new Pixels. Press and creators were able to publish extensive hands-on impressions of the new hardware hours ago, and you can read our coverage of the Pixel 11 phones, their new camera features, the Pixel Watch 5, and more right now.\n …\nRead the full story at The Verge.",
-          "isoDate": "2026-08-12T21:30:00.000Z"
+          "title": "I looked inside an AI generated movie, and the best parts were all human",
+          "link": "https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list",
+          "summary": "Imagine a trio of bumbling, English lads who fantasize about becoming megastars while knocking back a few pints in a grimy pub somewhere in London. Picture the guys chortling and trying to one-up each other's idealized visions of the future with a series of increasingly glitzy fantasies in which their fame leads to access to groupies and lavish parties on luxurious boats. Imagine these men are actually characters in a film - one filled with hyperkinetic smash cuts to action sequences in which they're fighting or running from armed goons. This movie might be the sort of feature you'd expect from directors like Edgar Wright or Guy Ritchie. But …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-13T15:30:00.000Z"
         }
       ]
     },
@@ -72,64 +72,64 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "ERROR cargando feed",
-          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
-          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-08-13T13:07:22.876Z"
+          "title": "Perseids Meteor Shower",
+          "link": "https://www.nasa.gov/image-article/perseids-meteor-shower-2/",
+          "summary": "The constellation Orion is framed by two Perseid meteors in this photo from Aug. 12, 2018, in Cedar Breaks National Monument, Utah. The Perseids – one of the year’s brightest and most popular meteor showers – has been ramping up since early July and will sparkle in the skies through the end of August. The […]",
+          "isoDate": "2026-08-13T15:08:34.000Z"
         },
         {
-          "title": "Author Correction: Cretaceous bird from Brazil informs the evolution of the avian skull and brain",
-          "link": "https://www.nature.com/articles/s41586-026-10960-3",
-          "summary": "Nature, Published online: 13 August 2026; doi:10.1038/s41586-026-10960-3\nAuthor Correction: Cretaceous bird from Brazil informs the evolution of the avian skull and brain",
-          "isoDate": "2026-08-13T00:00:00.000Z"
+          "title": "Should humanoid robots in every household really be a top priority?",
+          "link": "https://www.science.org/doi/abs/10.1126/science.aek2193?af=R",
+          "summary": "Science, Volume 393, Issue 6812, August 2026.",
+          "isoDate": "2026-08-13T07:00:00.000Z"
         },
         {
-          "title": "How to make your science business succeed when you’re a female founder",
-          "link": "https://www.nature.com/articles/d41586-026-01904-y",
-          "summary": "Nature, Published online: 13 August 2026; doi:10.1038/d41586-026-01904-y\nSexist assumptions and a male-dominated culture can make it harder for women to attract investment for the companies they set up.",
-          "isoDate": "2026-08-13T00:00:00.000Z"
+          "title": "A cross-organ single-cell analysis of hypertension",
+          "link": "https://www.science.org/doi/abs/10.1126/science.aea6187?af=R",
+          "summary": "Science, Volume 393, Issue 6812, August 2026.",
+          "isoDate": "2026-08-13T07:00:00.000Z"
         },
         {
-          "title": "Lead carboxylates passivation for meter-scale perovskite solar modules",
-          "link": "https://www.nature.com/articles/s41586-026-10994-7",
-          "summary": "Nature, Published online: 12 August 2026; doi:10.1038/s41586-026-10994-7\nLead carboxylates passivation for meter-scale perovskite solar modules",
-          "isoDate": "2026-08-12T00:00:00.000Z"
+          "title": "Chemovaccination with a late-liver-stage antimalarial induces durable immunity against malaria",
+          "link": "https://www.science.org/doi/abs/10.1126/science.aea7605?af=R",
+          "summary": "Science, Volume 393, Issue 6812, August 2026.",
+          "isoDate": "2026-08-13T07:00:00.000Z"
         },
         {
-          "title": "Reply to: Pre-clinical data interpretation requires clinical context",
-          "link": "https://www.nature.com/articles/s41586-026-10773-4",
-          "summary": "Nature, Published online: 12 August 2026; doi:10.1038/s41586-026-10773-4\nReply to: Pre-clinical data interpretation requires clinical context",
-          "isoDate": "2026-08-12T00:00:00.000Z"
+          "title": "Artificial hibernation reveals synaptic engram architecture associated with memory retention",
+          "link": "https://www.science.org/doi/abs/10.1126/science.aee7004?af=R",
+          "summary": "Science, Volume 393, Issue 6812, August 2026.",
+          "isoDate": "2026-08-13T07:00:00.000Z"
         },
         {
-          "title": "Pre-clinical data interpretation requires clinical context",
-          "link": "https://www.nature.com/articles/s41586-026-10774-3",
-          "summary": "Nature, Published online: 12 August 2026; doi:10.1038/s41586-026-10774-3\nPre-clinical data interpretation requires clinical context",
-          "isoDate": "2026-08-12T00:00:00.000Z"
+          "title": "A thalamocortical circuit encoding deviations from sensory history",
+          "link": "https://www.science.org/doi/abs/10.1126/science.aeg4720?af=R",
+          "summary": "Science, Volume 393, Issue 6812, August 2026.",
+          "isoDate": "2026-08-13T07:00:00.000Z"
         },
         {
-          "title": "Giant balloon gives rise to new view of the Milky Way’s centre",
-          "link": "https://www.nature.com/articles/d41586-026-02463-y",
-          "summary": "Nature, Published online: 12 August 2026; doi:10.1038/d41586-026-02463-y\nAirborne camera gathers data about the high-energy particles emanating from the core of our Galaxy.",
-          "isoDate": "2026-08-12T00:00:00.000Z"
+          "title": "A CDK1 phospho-switch reprograms TRAIP to unload replisomes in mitosis",
+          "link": "https://www.science.org/doi/abs/10.1126/science.aeh1834?af=R",
+          "summary": "Science, Volume 393, Issue 6812, August 2026.",
+          "isoDate": "2026-08-13T07:00:00.000Z"
         },
         {
-          "title": "Rattlesnakes’ own anti-venom could protect humans too",
-          "link": "https://www.nature.com/articles/d41586-026-02461-0",
-          "summary": "Nature, Published online: 12 August 2026; doi:10.1038/d41586-026-02461-0\nA mixture of proteins in snake blood can prevent the death of mice injected with an otherwise lethal dose of venom.",
-          "isoDate": "2026-08-12T00:00:00.000Z"
+          "title": "The eukaryote chromosome, a two-state system with interconversion by a volume phase transition ",
+          "link": "https://www.science.org/doi/abs/10.1126/science.adz1083?af=R",
+          "summary": "Science, Volume 393, Issue 6812, August 2026.",
+          "isoDate": "2026-08-13T07:00:00.000Z"
         },
         {
-          "title": "The probiotic bacteria engineered to treat diabetes",
-          "link": "https://www.nature.com/articles/d41586-026-02521-5",
-          "summary": "Nature, Published online: 12 August 2026; doi:10.1038/d41586-026-02521-5\nGenetically modified bacteria lower high blood-sugar in animal trials — plus, how to watch a solar eclipse safely.",
-          "isoDate": "2026-08-12T00:00:00.000Z"
+          "title": "TTF2 processes sites of incomplete DNA replication during mitosis via sister-chromatid exchanges",
+          "link": "https://www.science.org/doi/abs/10.1126/science.aeh2300?af=R",
+          "summary": "Science, Volume 393, Issue 6812, August 2026.",
+          "isoDate": "2026-08-13T07:00:00.000Z"
         },
         {
-          "title": "Dataset artefacts can partially drive the measured decline in disruption",
-          "link": "https://www.nature.com/articles/s41586-026-10787-y",
-          "summary": "Nature, Published online: 12 August 2026; doi:10.1038/s41586-026-10787-y\nDataset artefacts can partially drive the measured decline in disruption",
-          "isoDate": "2026-08-12T00:00:00.000Z"
+          "title": "Erratum for the Report “Epigenetic regulation of antagonistic receptors confers rice blast resistance with yield balance”",
+          "link": "https://www.science.org/doi/abs/10.1126/science.ael2764?af=R",
+          "summary": "Science, Volume 393, Issue 6812, August 2026.",
+          "isoDate": "2026-08-13T07:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-08-13T13:07:23.441Z"
+          "isoDate": "2026-08-13T19:01:20.218Z"
+        },
+        {
+          "title": "Bumble divides users by ditching its signature 'women-first' chat rule",
+          "link": "https://www.bbc.co.uk/news/articles/cvglzlj81x2o?at_medium=RSS&at_campaign=rss",
+          "summary": "The dating app's boss says the move is in response to a successful trial and a change in what users want.",
+          "isoDate": "2026-08-13T14:09:05.000Z"
         },
         {
           "title": "Flock boss admits surveillance firm took too long to act over police abuse",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cn0nww2qlp7o?at_medium=RSS&at_campaign=rss",
           "summary": "The incident is being seen as the latest example of the AI tools going to any lengths to complete their tasks.",
           "isoDate": "2026-08-11T12:09:26.000Z"
-        },
-        {
-          "title": "Wall Street giants hand Nvidia $500bn to fund boom in AI projects",
-          "link": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
-          "summary": "The money will be used to develop new data centres to house, operate, and cool miles of stacked computer chips that process AI data and actions.",
-          "isoDate": "2026-08-11T08:44:52.000Z"
         }
       ]
     },
@@ -203,6 +203,30 @@
       "header": "160  INTELIGENCIA ARTIFICIAL",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Introducing Gemini 3.7 Flash",
+          "link": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+          "summary": "",
+          "isoDate": "2026-08-13T17:04:18.000Z"
+        },
+        {
+          "title": "The builder’s guide to GPT‑5.6",
+          "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
+          "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+          "isoDate": "2026-08-13T11:00:00.000Z"
+        },
+        {
+          "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+          "link": "https://openai.com/index/previewing-ultrafast",
+          "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
+          "isoDate": "2026-08-13T10:00:00.000Z"
+        },
+        {
+          "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+          "link": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+          "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
+          "isoDate": "2026-08-13T09:00:00.000Z"
+        },
         {
           "title": "Putting sign language AI into users’ hands",
           "link": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
@@ -238,30 +262,6 @@
           "link": "https://news.mit.edu/2026/ai-models-simulate-wider-range-of-real-world-scenarios-0810",
           "summary": "“GeoPT” helps AI models understand the basics of physics so they can simulate how objects respond to things like wind and water more efficiently and accurately.",
           "isoDate": "2026-08-10T19:25:00.000Z"
-        },
-        {
-          "title": "What building an AI-native finance function taught me",
-          "link": "https://openai.com/index/building-an-ai-native-finance-function",
-          "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
-          "isoDate": "2026-08-10T17:00:00.000Z"
-        },
-        {
-          "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
-          "link": "https://openai.com/index/responsible-ai-infrastructure-texas",
-          "summary": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
-          "isoDate": "2026-08-10T14:00:00.000Z"
-        },
-        {
-          "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
-          "link": "https://openai.com/index/model-ml",
-          "summary": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
-          "isoDate": "2026-08-10T12:00:00.000Z"
-        },
-        {
-          "title": "Putting frontier cyber models in more trusted hands",
-          "link": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-          "summary": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
-          "isoDate": "2026-08-10T10:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-08-13T13:07:26.880Z"
+          "isoDate": "2026-08-13T19:01:22.118Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-08-13T13:07:24.519Z"
+          "isoDate": "2026-08-13T19:01:21.232Z"
+        },
+        {
+          "title": "Bring a Product Manager Mindset to Your Next Engineering Job",
+          "link": "https://spectrum.ieee.org/product-engineer",
+          "summary": "If you haven’t already seen a job listing for a “product engineer,” you probably will soon. The job everyone’s suddenly hiring for, this role is like a cross between a product manager and an engineer (as the name suggests). And it’s a hiring trend worth paying attention to.\nCompanies are opening more of these roles every single month, but they’re struggling to fill them. The reason has almost nothing to do with engineers’ coding skills or years of experience.\nThe best career move you can make to prepare for these types of roles has almost nothing to do with getting more technical. Instead, it comes down to one of the fluffiest, most overused, and potentially cringiest words in all of tech: mindset.\nStick with me, I promise this goes somewhere useful.\nThe problem: We were trained to be task-takers\nWhen I started out, my job looked like this:\nDrive to an office. Sit through meetings that led to other meetings until a project manager handed me a task they’d already chopped into tiny pieces.\nMy job was to turn that task into code.\nIt took years for me to get good at a coding language and tech stack, and once I did, I executed that knowledge against specs that somebody else wrote.\nYou know what’s freakishly good at that exact job? I’ll give you a hint: It starts with A and ends with I.\nBoris Cherny, the creator of Claude Code, recently said: “coding is basically solved,” and “the bottleneck is going to be good ideas.” \nSo if your entire value is “hand me a task and I’ll build it,” you’re in a footrace with the robots. I don’t like that for you.\nThe bad news... that is also good news\nMany companies are flattening. Middle management is getting stripped out, for better or worse (mostly for worse), which means many of us are doing more with less.\nThis might sound like purely more work, but it’s also an opening for anyone who cares about what they’re building and can put on their manager hat. Companies are no longer just hunting for the strongest engineer in one narrow domain.\nWhat’s rare, and what actually moves revenue, is an engineer who can spot the thing that’s quietly costing money and either flag it to leadership or just go fix it.\nWhat this actually looks like\nBeing product-minded has NOTHING to do with your tech stack.\nHere’s where to start:\nHave an opinion and back it up. As a former engineering manager, the worst thing I ever heard was silence. I’d often ask the team what they thought because I doubted myself and wanted a gut check. I was grateful to the ones who said “nope, bad idea, here’s why.” Pushback is a gift.\nLearn the domain, casually. Work for a plumbing company? You don’t need to become a plumber, but spend an hour on Reddit threads where plumbers vent. Now your ideas come from your potential customers.\nMake experiments cheap and safe. This is where any engineer has massive leverage. Experiments are not free. A bad one loses customers and frustrates users. Tools like LaunchDarkly and Optimizely let you ship a change to 5 percent of users and roll it back the second it tanks. Learn them, or build a scrappy version yourself. A team that can quickly run safe experiments will out-learn everyone else in the building.\nBe data-driven. Stop fighting about button colors. Pick a goal: making money, finding product-market fit, or making the product sticky so people come back. Then measure it. If your gorgeous redesign tanks time-on-site, it failed, no matter how good it looked to you. If the ugly version makes more money, ship the ugly version.\nYou don’t have to be the ideas person. Maybe you’re not a visionary. That’s fine. Organize a hackathon around an actual company goal. Pull up your company’s quarterly targets and build something against one of them. Don’t know what those targets are? That’s your first assignment.\nGood ideas are the new bottleneck—and they always have been\nWhen I was a manager, I asked myself one question every week: What’s the single most impactful thing I could do right now? The answer was almost never “write more code.” It was understanding a gnarly problem nobody had defined yet. Building a deck to spread knowledge that was in one person’s head. Getting the right three people in a room to actually make a decision we’d been putting off.\nCode is cheap, and it always has been. We just couldn’t see it, because for decades the typing took so long that it felt like the hard part. It never was. The hard part was always knowing what’s worth building.\n— Brian\nSiobahn Day Grady Wants Everyone to Be AI Literate\nIn January 2025, Siobahn Day Grady launched the first AI research institute at a historically Black college or university. The institute aims to help expand AI skills for all students at North Carolina Central University, where Grady is an associate professor, through both AI research opportunities and skills training. Though the institute is the first of its kind, Grady hopes it could serve as a model for other HBCUs. \nRead more here. \nShould Researchers Write Papers for AI Instead of People?\nAI is increasingly used in the scientific research process. So does publishing need to change to keep up? Jiachen Liu recently co-authored a paper published on ArXiv arguing that the PDF should be replaced with an “Agent-Native Research Artifact” designed with AI in mind. In this interview with IEEE Spectrum, Liu lays out a provocative vision of AI-driven research and an infrastructure that captures—and learns from—details that often get left out of today’s papers. \nRead more here. \nDetect Dark Matter’s Mark From Your Backyard\nAstronomers still don’t know exactly what dark matter is, but they can detect it—and so can you. With a small radio telescope and a few other pieces, you can create a DIY setup to gauge how fast hydrogen clouds are moving across the Milky Way. Feed those measurements into a spreadsheet, and you can see the same signals that have baffled the astronomical community for decades. \nRead more here.",
+          "isoDate": "2026-08-13T14:44:50.000Z"
         },
         {
           "title": "Inside the Data Bottleneck Slowing Visual and Physical AI",
@@ -310,12 +316,6 @@
           "link": "https://spectrum.ieee.org/v2x-technology-5g-open-ran",
           "summary": "The history of networking is full of tools that repurposed solutions to very different kinds of problems first. Wi-Fi’s origins trace back, in part, to a team of Australian radio astronomers trying to detect signals from evaporating black holes. But the data-processing tools they’d developed also proved capable at extracting clean messages from any chaotic, echoing signal environment. Echoes are echoes, after all, whether from distant star systems or from the far corner of the house.\nI research vehicle communications networks, connecting cars to cars and to transportation infrastructure like traffic lights—for tomorrow’s vehicle-to-everthing (V2X) networks. \nV2X research has long relied on models that assume “perfect” or “ideal” network conditions, which is a simplifying assumption that makes the math tractable. But this assumption doesn’t reflect how real wireless signals behave in a moving, obstructed, high-density environment. That gap is exactly the kind of real-world unpredictability that open radio access networks (a.k.a. O-RAN)—an open, programmable architecture behind some 4G and 5G cellular networks—were built to manage.\nSo why has the O-RAN standard—which is open and available to be applied well beyond 5G telecom—never been used for vehicle communications?\nSolutions to the vehicle-to-everything (V2X) problem have to date relied on new networking protocols built from scratch—only to discover chicken-and-egg problems, thorny standards wars, and real signal congestion challenges at scale. \nBy contrast, O-RAN allows V2X engineers to reuse the networking protocols already developed for cellular communications. O-RAN was developed assuming cellphone towers are generally fixed in place. But, as can be seen below, O-RAN accommodates mobile “towers”—cars and trucks, in this case—with little additional effort.\nImagining a New Way to Connect Vehicles\nSelf-driving vehicle technology has largely been an each-car-for-itself endeavor. Tesla’s approach, for instance, relies heavily on powerful on-board banks of computers and suites of sensors spread around the car.\nHowever, as an alternative to the “data center on wheels” model, this new O-RAN approach to V2X relies on each car’s nearby neighbors, wherever they are on the road. Each O-RAN–connected vehicle can then use a diversity of cars’ sensors and viewing angles for better group coordination and decision-making.\nThere is, to be clear, no O-RAN V2X test network operating in the world. Not yet. \nIt was just 10 years ago that the Third-Generation Partnership Project (3GPP) released its initial cellular V2X standard. The 3GPP have refined V2X over three major releases since. In the U.S. and the EU, the FCC and related European agencies have put forward other standards for short-range wireless V2X communication protocols.\nHowever, no consensus standard has yet emerged. So, lacking any clear, unambiguous guidance on the future of V2X networks, autonomous-car makers—like Waymo, Tesla, Zoox, and Cruise—have leaned more on self-reliance, bulking up each vehicle with as many sensors and GPUs as possible.\nHere, though, is where O-RAN might be able to help. \nA little like APIs (a.k.a. application program interfaces) connect one app to another on your smartphone, O-RAN serves as an API for the network itself. And because of O-RAN’s open standards, a wireless network becomes programmable, vendor-neutral, and open to custom applications called xApps.\nTo test our proof-of-concept framework, I have been part of a team simulating five minutes of O-RAN V2X network traffic over one square kilometer of urban area, using real buildings and real-world road layouts from OpenStreetMap and traffic patterns generated by the modeling package SUMO. The simulations assumed a traffic density of 50-70 vehicles per kilometer—not rush hour but not light traffic either. In our simulation, we assumed vehicles communicated via a millimeter-wave frequency of 28 gigahertz and that each component of our O-RAN V2X system had its own dedicated xApp.\nTaken together, these inputs—real geometry, real traffic, and each vehicle’s live GPS position—constitute what network researchers call a digital twin of the urban environment. That’s a virtual replica detailed enough for the network to reason about the physical world in real time.\nThis virtual world gave us a real result, too.\nThe simulations, published recently in IEEE Network, revealed that existing V2X standards—in which cars uncoordinatedly spit out messages into the network—result in signals “talking” over each other some 80-100 percent of the time. However, using O-RAN signal coordination, the message “collision” rate dropped to near zero.\nAnd that matters because a seized-up V2X network doesn’t just fail quietly. It can fail in ways that might make a road turn treacherous. \nHow O-RAN Can Coordinate V2X Traffic\nHigh-frequency data links between cars are already difficult to maintain, even on a clear day with no buildings or city infrastructure getting in the way.\nYet, in this situation, existing V2X networks leave a car to conduct blind searches for each dropped signal beam. Traveling at highway speeds, that search takes long enough for the surrounding world to change completely.\nAn O-RAN network continuously tracks signal conditions across the network, and in O-RAN V2X simulations, we also gave the network access to a detailed map of the urban environment—building positions, road geometry, intersection layouts—combined with each vehicle’s GPS trajectory. Together, these parameters let the network’s control layer predict where and when a signal link is about to fail and instruct each car’s antenna to adjust before the connection drops.\nSignal pointing is one failure mode. Losing the connection entirely—because no direct path exists at all—is another.\nConsider, for instance, a crossroads of two busy streets, with a few alleys and parking lots adding to the list of potential dangers.\nIf a signal from car A cannot reach car B directly, or if the path length is too far for an individual beam to travel, the signal must find an intermediary car or stationary sensor nearby that can pass along the message. And existing V2X standards are slow and reactive—polling potential relay vehicles one-by-one: Are you available? Can you redirect this message?\nBy contrast, O-RAN keeps a running graph of optimized message routes, accounting for a range of real-world constraints. So when an O-RAN link fails (whether that link is direct from sender to receiver—or indirect), the system already has a reroute mapped out.\nThis is partly why we included “multi-hop routing” in the O-RAN V2X simulations.\nMulti-hop V2X O-RAN routing complicated three separate elements of the simulation: for each signal’s middleman (some cars may be ideally positioned to relay a signal from car A to car B, but we made the simulation neglect any cars that were also overwhelmed with their own signals and signal-processing needs); for each signal’s strength (we required that every intermediate link be able to maintain a stable network connection, factoring in distance and traffic conditions); and for each signal’s latency (we required a realistic accounting for added signal latency time for each additional hop in a multi-hop routing).\nAnd with each added complication, O-RAN V2X multi-hop routing continued to extend the network’s capacity from 25 percent of nearby cars connected (without multi-hop) to nearly 100 percent (with multi-hop). \nThese complications, at least at the simulation level, did not slow down the V2X network. \nHow Could O-RAN Ever Be Scaled Up for the Real World?\nWe are in touch with potential collaborators and institutions to develop testbeds, prototype hardware, and tester vehicles for potential proving grounds. The Institute of Science Tokyo, for instance, has already expressed interest in working on some of these early-stage problems.\nTo date, our published research on O-RAN V2X has centered around a computer simulation only. Real-world hardware will undoubtedly surface challenges our simulation could not. So, questions of network latency and the computational overhead needed for O-RAN V2X signaling remain as yet unresolved.\nPlus, concerns about full interoperability and realistic security will each demand their own investigations. After all, no one will trust a V2X network to do anything if that network’s cyber vulnerabilities haven’t been anticipated and patched in advance.\nRealizing the O-RAN V2X vision will require progress on multiple fronts simultaneously. On the standards side, O-RAN’s vehicular extensions—the interfaces that allow vehicles to participate in the network as managed elements rather than passive users—would ultimately need to be formally adopted by the O-RAN Alliance and recognized by 3GPP’s V2X specifications. That process takes years.\nOn the industry side, there is a more immediate problem that our architecture is already positioned to solve: interoperability.\nToday, a car made by one manufacturer cannot necessarily parse V2X sensor data sent from a car made by another. Firmware is proprietary; data formats differ. But an O-RAN control layer would act as a universal translator—normalizing each vehicle’s data into a common format and accelerating a push toward true multi-platform vehicle-to-vehicle communications. A more widespread and truly universal standard would, by itself, represent a substantial step forward for V2X.",
           "isoDate": "2026-08-07T13:00:01.000Z"
-        },
-        {
-          "title": "IEEE Course Teaches How to Use AI to Modernize Power Grids",
-          "link": "https://spectrum.ieee.org/ieee-course-ai-power-grids",
-          "summary": "Today’s U.S. electrical grid, among the largest, most complex systems ever built, is operating at its limit. The combination of rapid industrial growth, more frequent extreme weather, and a record surge in electricity use has pushed the grid to its breaking point, according to the U.S. Department of Energy.\nBuilt decades ago for a more predictable world in which power came mostly from centralized coal or gas plants and electricity use grew at a steady pace, the grid faces unanticipated strain due in part to growing demand from data centers. The jobs of professionals managing the infrastructure have evolved from traditional engineering tasks to complex, fast-moving challenges.\nIndustry reports show that millions of modern digital sensors, smart meters, and grid monitors are generating nonstop waves of information. The sheer volume of data requires instant, automated computer analysis because human operators cannot process it fast enough.\nPressure on utilities stems from two sources: a spike in electricity demand and a shift in how power is generated.\nAn example of the operational strain can be seen at the regional level. With the recent deployment of artificial intelligence tools and high-performance computing, data centers require immense amounts of energy to operate. The largest power transmission utility in Texas recently reported a staggering 220 gigawatts of new connection requests, driven largely by a surge in AI and cloud-computing facilities, according to a CNBC report.\nAlongside the rise in regional demand, global energy networks are absorbing an unpredictable variety of weather-dependent renewable energy such as wind and solar. The switch creates a volatile operating environment wherein supply and demand are balanced, second by second, to prevent blackouts.\nThe challenges are compounded by the vulnerability of the grid’s physical and digital framework.\nMore-frequent severe weather events cause costly disruptions, such as the devastating winter freeze that crippled the Texas grid and record-breaking heat waves that have overloaded transformers.\nSimultaneously, the energy networks’ digital architecture faces threats. As utilities replace outdated analog equipment with smart meters and control systems, they are increasingly vulnerable to cyberattacks.\nTo overcome physical and digital vulnerabilities, grid reliability organizations, such as those conducting North American security simulations like GridEx, emphasize that the grid must become smarter, more agile, and completely automated. Energy researchers are noting that the key to this change lies in integrating AI across every layer of utilities’ operations.\nThe AI imperative\nAccording to energy industry experts, using AI to manage power systems is no longer a futuristic research project; it has become a baseline operational necessity. Grid analysts emphasize that traditional grid-planning methods are too slow to handle rapid energy dynamics or to balance volatile renewable energy in real time within decentralized power systems such as microgrids.\nAI can fill the gap by processing vast amounts of data instantly. Machine learning algorithms can quickly analyze information from thousands of sensors, historical usage patterns, and weather forecasts to predict issues before they happen.\nAn industrial digitization study conducted by McKinsey & Co. indicated that integrating advanced data and automation across infrastructure networks could reduce system design errors, decrease equipment downtime by up to 50 percent through predictive maintenance, and extend the lifespan of power machinery by up to 40 percent.\nFrom forecasting energy spikes to automatically fixing localized voltage drops, AI acts as the digital backbone of a self-healing grid, experts say. Deploying the complex systems requires a new workforce: power engineers who understand data science, as well as data scientists who understand electricity.\nUpgrading the Workforce\nTo bridge the gap between groundbreaking AI research and practical field deployment, IEEE Educational Activities, in partnership with the IEEE Power & Energy Society, has launched the online Artificial Intelligence for Power and Energy Systems course program.\nThe program explores core challenges threatening modern utilities. Rather than treating AI as an unverified black box that operates without human supervision, the curriculum focuses on safety, asset preservation, and strict reliability standards.\nThe curriculum is designed to educate power system engineers, utility managers, and data scientists tasked with modernizing the grid. The program was developed by Fangxing “Fran” Li, professor of electrical engineering and computer science at the University of Tennessee in Knoxville and chair of the IEEE Working Group on Machine Learning for Power Systems. \nFive learning modules\nThe program breaks down the technical transition into five modules that bridge high-level theory with real-world solutions: \nAI fundamentals. This module teaches engineers how basic machine learning models apply to power grids. It discusses how specialized neural networks solve complex power-flow calculations and how AI models can safely transition from computer simulations to physical, high-voltage equipment. \nAccelerating grid control. Learners are taught to leverage deep reinforcement learning, an AI approach that uses trial and error, to accelerate automated grid adjustments during emergency power events. \nForecasting and data analytics. Using predictive modeling, engineers learn how to predict sudden demand surges, variable wind and solar outputs, and fluctuating wholesale electricity market prices to keep power affordable and available. \nPhysics-informed and safe AI. To address trust—a barrier to utility AI adoption—this course covers AI models hard-coded to obey the laws of physics. The approach is designed to ensure that automated algorithms never make erratic choices that damage grid equipment. \nGenerative AI and next-generation tech. Learners can explore the frontier of utility technology, including graph neural networks and large language models. This module highlights how generative AI can process complex, interdisciplinary data to streamline utility planning, emergency responses, and regulatory reporting.\nThe algorithmic literacy and practical execution tools provided by the course program can help convert systemic risks into grid resilience.\nFor individual access, visit the IEEE Learning Network. If you are looking for customized organizational options, contact a content specialist to discuss volume pricing.",
-          "isoDate": "2026-08-05T18:00:03.000Z"
         }
       ]
     },
