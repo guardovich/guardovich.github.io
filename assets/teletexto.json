@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T01:54:06.918Z",
+  "generatedAt": "2026-08-13T07:24:43.822Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
@@ -75,7 +75,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
           "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-08-13T01:54:01.233Z"
+          "isoDate": "2026-08-13T07:24:39.560Z"
         },
         {
           "title": "Lead carboxylates passivation for meter-scale perovskite solar modules",
@@ -141,7 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-08-13T01:54:03.813Z"
+          "isoDate": "2026-08-13T07:24:40.611Z"
+        },
+        {
+          "title": "Amazon is using Twitch to train generative AI",
+          "link": "https://www.bbc.co.uk/news/videos/cwyq22g0ylxo?at_medium=RSS&at_campaign=rss",
+          "summary": "The streaming platform's users criticised the move to allow the use of channel content for AI training.",
+          "isoDate": "2026-08-13T07:04:31.000Z"
         },
         {
           "title": "Why Japanese firms are being so slow to use AI",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
           "summary": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
           "isoDate": "2026-08-07T09:22:03.000Z"
-        },
-        {
-          "title": "First OpenAI, now Meta - why do AI hacks keep happening?",
-          "link": "https://www.bbc.co.uk/news/articles/cp30989ee1wo?at_medium=RSS&at_campaign=rss",
-          "summary": "A flood of companies are revealing AI models gained access to the internet - with real consequences.",
-          "isoDate": "2026-08-06T15:59:34.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-08-13T01:54:06.262Z"
+          "isoDate": "2026-08-13T07:24:43.158Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-08-13T01:54:05.188Z"
+          "isoDate": "2026-08-13T07:24:41.704Z"
         },
         {
           "title": "Inside the Data Bottleneck Slowing Visual and Physical AI",
