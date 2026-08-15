@@ -1,10 +1,34 @@
 {
-  "generatedAt": "2026-08-15T06:35:39.608Z",
+  "generatedAt": "2026-08-15T12:34:33.778Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "We’re reaching peak camera with the Sony A7R VI",
+          "link": "https://www.theverge.com/gadgets/980064/sony-a7r-vi-6-hands-on-impressions-review",
+          "summary": "Maximum camera. | Photo: Antonio G. Di Benedetto / The Verge\t\n\nIt wasn't long ago that shooting with a super high-resolution camera meant making serious sacrifices for the sake of all those megapixels. Enter the A7R VI.\nSony's latest flagship high-res camera is a 66.8-megapixel spec monster. In addition to its modest bump in resolution from the last-gen A7R V, it uses a new sensor and processor that unlock nearly any kind of shooting - from sports and action to usable 8K video. It's a huge departure from years ago, when high-resolution cameras were slower, noisier, and more specialized as a result of all those megapixels. \nThe A7R VI's fully stacked sensor and new Bionz XR2 processor allow it to shoot …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-15T12:00:00.000Z"
+        },
+        {
+          "title": "The surprise must-see movie of the summer",
+          "link": "https://www.theverge.com/tech/980428/end-oak-street-pixel-11-lanterns-installer",
+          "summary": "Hi, friends! Welcome to Installer No. 140, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, don't forget to hydrate, and also you can read all the old editions at the Installer homepage.) \nThis week, I've been reading about Will Ferrell and Fabrizio Romano and Heather Cox Richardson, scrolling and scrolling through Ordinary Abundance, watching Avatar Aang (which is as good as you said it was), finally getting proficient in CapCut, obsessing over the latest scandal unearthed by PTFO, rewatching Tires now that the third season is out, trying Spark's AI tools for solving my inbox (so far… meh), revisiting …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-15T12:00:00.000Z"
+        },
+        {
+          "title": "So much solar: Digging into the list of every US power plant that went online this year",
+          "link": "https://arstechnica.com/science/2026/08/so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-online-this-year/",
+          "summary": "Utility-scale solar leads by a mile, followed by batteries. Fossil fuels, not so much.",
+          "isoDate": "2026-08-15T11:09:57.000Z"
+        },
+        {
+          "title": "When housing is unaffordable, this artist’s device makes pedaling harder",
+          "link": "https://www.theverge.com/tech/980359/ground-truth-justin-blinder-housing-affordable-bike-pedal",
+          "summary": "Justin Blinder had just been laid off when he first came up with the idea for Ground Truth. It was 2020, two weeks before covid lockdown went into effect, and the Brooklyn-based artist and technologist had no idea what the future would hold. He started working for the food delivery apps, and as he was riding his bike across the city, he began noticing the stark differences between neighborhoods.\n\"I really started to kind of become a bit more aware of how different neighborhoods, often right next to each other, could feel very economically and psychologically very far apart, even though it's just really within close proximity,\" he said. \"And …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-15T11:00:00.000Z"
+        },
         {
           "title": "Samsung has new Galaxy headphones in the works",
           "link": "https://www.theverge.com/gadgets/980547/samsung-galaxy-h1-over-ear-headphones",
@@ -40,30 +64,6 @@
           "link": "https://www.theverge.com/entertainment/979925/the-x-files-chris-carter-vrach-frankenshteyn-interview-hulu",
           "summary": "The version of The X-Files: I Want to Believe that premiered in 2008 was not exactly the movie co-writer / director Chris Carter intended to make. Carter wanted to bring agents Mulder and Scully back to the big screen with a grisly story about faith and the supernatural. But executives at 20th Century Fox felt that Carter's ideas were too dark, and he was pushed to turn the project into a PG-13 feature. Now, almost two decades after I Want to Believe's theatrical debut, Carter is back with a new director's cut of the film for Hulu that's much closer to his original vision. \n\"We got to tell a good X-Files story,\" Carter said of the original  …\nRead the full story at The Verge.",
           "isoDate": "2026-08-14T18:00:00.000Z"
-        },
-        {
-          "title": "Google&#8217;s best new camera feature is only for the Pixel 11 series",
-          "link": "https://www.theverge.com/tech/980467/google-pixel-11-camera-looks-older-phones",
-          "summary": "Arguably the coolest new photo feature for the Pixel 11 lineup is Google's new Camera Looks, which process image data differently at the sensor level to produce photos that don't have that \"smartphone\" look. The result is new styles like \"Digi,\" which mimics the style of photos taken by older digital cameras. But to use Camera Looks, at least initially, you'll need to have one of Google's Pixel 11 phones.\n\"Our latest camera updates are only available on our latest devices,\" Google spokesperson Alex Moriconi tells The Verge. \"We're always looking to bring experiences to more users, but have nothing to share at this time.\" That last sentence  …\nRead the full story at The Verge.",
-          "isoDate": "2026-08-14T17:34:14.000Z"
-        },
-        {
-          "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-          "link": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
-          "summary": "Judge warns pro se litigants are using chatbots wrong and getting desperate.",
-          "isoDate": "2026-08-14T17:26:53.000Z"
-        },
-        {
-          "title": "State judge orders Kalshi to stop offering sports bets and other wagers",
-          "link": "https://arstechnica.com/tech-policy/2026/08/state-judge-orders-kalshi-to-stop-offering-sports-bets-and-other-wagers/",
-          "summary": "Kalshi ordered to stop offering bets in Washington, must implement geofencing.",
-          "isoDate": "2026-08-14T17:13:14.000Z"
-        },
-        {
-          "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
-          "link": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
-          "summary": "\"We don't have access to the data on the hardware/servers,\" Iron Mountain told Ars.",
-          "isoDate": "2026-08-14T17:03:54.000Z"
         }
       ]
     },
@@ -72,10 +72,52 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "ERROR cargando feed",
-          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
-          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-08-15T06:35:35.623Z"
+          "title": "APOD: 2026 August 15 – Bright Perseids from Sweden",
+          "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-15-bright-perseids-from-sweden/",
+          "summary": "APOD Science APOD APOD: 2026 August 15 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Bright Perseids from […]",
+          "isoDate": "2026-08-15T04:05:00.000Z"
+        },
+        {
+          "title": "NASA Competition Invites Students to Help Imagine a Future Enabled by Lunar Technologies ",
+          "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-competition-invites-students-to-help-imagine-a-future-enabled-by-lunar-technologies/",
+          "summary": "NASA is asking U.S.-based collegiate teams to submit bold, original concepts to the 2027 edition of a student challenge focused on aerospace innovation that could help the agency envision a future on the Moon shaped by new technology.  The latest NASA Revolutionary Aerospace Systems Concepts – Academic Linkage (RASC-AL) competition invites student teams to explore new operations paradigms and advance the technologies needed to […]",
+          "isoDate": "2026-08-14T20:00:38.000Z"
+        },
+        {
+          "title": "NASA Announces MAX POWER: America’s Newest Aerospace Expo, Airshow",
+          "link": "https://www.nasa.gov/news-release/nasa-announces-max-power-americas-newest-aerospace-expo-airshow/",
+          "summary": "In honor of America’s historic 250th anniversary, NASA announced on Friday MAX POWER, a public exposition of American air and space innovation, Nov. 7 and Nov. 8, on and near the agency’s Kennedy Space Center in Florida. The multi-day, family-friendly event will showcase the next-generation aircraft, spacecraft, autonomous vehicles, and technologies that will help define […]",
+          "isoDate": "2026-08-14T18:44:36.000Z"
+        },
+        {
+          "title": "Volunteer Develops Machine-Learning Tool to Identify Rare Clouds",
+          "link": "https://science.nasa.gov/get-involved/citizen-science/volunteer-develops-machine-learning-tool-to-identify-rare-clouds/",
+          "summary": "Certain kinds of clouds are misbehaving – appearing more often and lower in the sky than they used to. To help identify the factors influencing these changes, scientists have asked people around the world with cameras to submit fresh images of these clouds as a part of the NASA-supported Space Cloud Watch project.",
+          "isoDate": "2026-08-14T17:35:46.000Z"
+        },
+        {
+          "title": "NASA’s COFFIES Uses AI to Predict Storm-Causing Active Regions on Sun ",
+          "link": "https://science.nasa.gov/science-research/heliophysics/nasas-coffies-uses-ai-to-predict-storm-causing-active-regions-on-sun/",
+          "summary": "As humanity looks to the Moon and stars for future exploration, predicting space weather — conditions in space primarily driven by the Sun — is more important than ever.  Now, a team of astrophysicists and data scientists with NASA’s COFFIES (Consequence Of Fields and Flows in the Interior and Exterior of the Sun) has developed a […]",
+          "isoDate": "2026-08-14T17:00:23.000Z"
+        },
+        {
+          "title": "Total Solar Eclipse in Sunflower Field",
+          "link": "https://www.nasa.gov/image-article/total-solar-eclipse-in-sunflower-field/",
+          "summary": "This composite image shows the progression of a total solar eclipse over San Millán de los Caballeros, Spain on, Wednesday, Aug. 12, 2026. A total solar eclipse swept across parts of Greenland, Iceland, northern Russia, the Atlantic Ocean, Spain, and a small corner of Portugal. A partial eclipse was visible in parts of the U.S., […]",
+          "isoDate": "2026-08-14T14:48:55.000Z"
+        },
+        {
+          "title": "APOD: 2026 August 14 – Total Solar Eclipse from Greenland",
+          "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-14-total-solar-eclipse-from-greenland/",
+          "summary": "APOD Science APOD APOD: 2026 August 14 – Total… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Total Solar […]",
+          "isoDate": "2026-08-14T04:05:00.000Z"
+        },
+        {
+          "title": "A Sunflower’s View of Totality",
+          "link": "https://science.nasa.gov/earth/earth-observatory/a-sunflowers-view-of-totality/",
+          "summary": "The Moon slid between the Sun and Earth to produce a stunning celestial show visible from Spain in August 2026.",
+          "isoDate": "2026-08-14T04:01:00.000Z"
         },
         {
           "title": "Author Correction: Cell intrinsic immunity spreads to bystander cells via the intercellular transfer of cGAMP",
@@ -88,48 +130,6 @@
           "link": "https://www.nature.com/articles/s41586-026-11022-4",
           "summary": "Nature, Published online: 14 August 2026; doi:10.1038/s41586-026-11022-4\nPublisher Correction: Targeting cancer-specific mutations with RNA-triggered chromatin shredding",
           "isoDate": "2026-08-14T00:00:00.000Z"
-        },
-        {
-          "title": "Briefing Chat: Anthropic rolls out new AI watermark — will it make a difference?",
-          "link": "https://www.nature.com/articles/d41586-026-02562-w",
-          "summary": "Nature, Published online: 14 August 2026; doi:10.1038/d41586-026-02562-w\nNature staff discuss what flagging AI content may mean for research integrity — plus, how people from different cultural backgrounds have the same ‘tickle hotspots’ on the body.",
-          "isoDate": "2026-08-14T00:00:00.000Z"
-        },
-        {
-          "title": "Einstein the musician, AI prophets and more: Books in brief",
-          "link": "https://www.nature.com/articles/d41586-026-02504-6",
-          "summary": "Nature, Published online: 14 August 2026; doi:10.1038/d41586-026-02504-6\nAndrew Robinson reviews five of the best science picks.",
-          "isoDate": "2026-08-14T00:00:00.000Z"
-        },
-        {
-          "title": "Undocumented migration does not raise crime rates, huge study finds",
-          "link": "https://www.nature.com/articles/d41586-026-02542-0",
-          "summary": "Nature, Published online: 14 August 2026; doi:10.1038/d41586-026-02542-0\nAnalysis of neighbourhoods in more than 100 US cities finds no evidence that rising numbers of undocumented immigrants are linked with violent crime.",
-          "isoDate": "2026-08-14T00:00:00.000Z"
-        },
-        {
-          "title": "Should humanoid robots in every household really be a top priority?",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aek2193?af=R",
-          "summary": "Science, Volume 393, Issue 6812, August 2026.",
-          "isoDate": "2026-08-13T07:00:00.000Z"
-        },
-        {
-          "title": "A cross-organ single-cell analysis of hypertension",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aea6187?af=R",
-          "summary": "Science, Volume 393, Issue 6812, August 2026.",
-          "isoDate": "2026-08-13T07:00:00.000Z"
-        },
-        {
-          "title": "Chemovaccination with a late-liver-stage antimalarial induces durable immunity against malaria",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aea7605?af=R",
-          "summary": "Science, Volume 393, Issue 6812, August 2026.",
-          "isoDate": "2026-08-13T07:00:00.000Z"
-        },
-        {
-          "title": "Artificial hibernation reveals synaptic engram architecture associated with memory retention",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aee7004?af=R",
-          "summary": "Science, Volume 393, Issue 6812, August 2026.",
-          "isoDate": "2026-08-13T07:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-08-15T06:35:36.521Z"
+          "isoDate": "2026-08-15T12:34:29.139Z"
+        },
+        {
+          "title": "Secondhand book sales are booming. Is it because of AI?",
+          "link": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
+          "summary": "Booksellers are reporting mysterious bulk orders. It's thought the books are being used to train AI - and ending up pulped.",
+          "isoDate": "2026-08-15T11:25:32.000Z"
         },
         {
           "title": "Why tech bosses keep sharing their manifestos about AI",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cgewpqxyrddo?at_medium=RSS&at_campaign=rss",
           "summary": "Discord told the BBC it was \"thoughtfully reviewing\" the order by Brazil's data protection agency and it was \"committed to user safety\"",
           "isoDate": "2026-08-12T17:10:31.000Z"
-        },
-        {
-          "title": "Tokenomics: Why making AI pay is tricky",
-          "link": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
-          "summary": "Buyers of AI services are struggling to control costs and sellers are not sure how much to charge.",
-          "isoDate": "2026-08-11T23:03:52.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-08-15T06:35:38.667Z"
+          "isoDate": "2026-08-15T12:34:32.761Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-08-15T06:35:37.778Z"
+          "isoDate": "2026-08-15T12:34:30.408Z"
         },
         {
           "title": "Digital Signal Processing Pioneer Bede Liu Dies At 91",
@@ -339,102 +339,102 @@
           "summary": ""
         },
         {
-          "title": " 1  BAR  38  31  1  6  95  36  59  94",
+          "title": " 1  ATH   0   0  0  0   0   0   0   0",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 2  REA  38  27  5  6  77  35  42  86",
+          "title": " 1  ATL   0   0  0  0   0   0   0   0",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 3  VIL  38  22  6 10  72  46  26  72",
+          "title": " 1  OSA   0   0  0  0   0   0   0   0",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 4  ATL  38  21  6 11  62  44  18  69",
+          "title": " 1  ALA   0   0  0  0   0   0   0   0",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 5  REA  38  15 15  8  59  48  11  60",
+          "title": " 1  DEP   0   0  0  0   0   0   0   0",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 6  CEL  38  14 12 12  53  48   5  54",
+          "title": " 1  ELC   0   0  0  0   0   0   0   0",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 7  GET  38  15  6 17  32  38  -6  51",
+          "title": " 1  ESP   0   0  0  0   0   0   0   0",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 8  RAY  38  12 14 12  41  44  -3  50",
+          "title": " 1  BAR   0   0  0  0   0   0   0   0",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 9  VAL  38  13 10 15  46  55  -9  49",
+          "title": " 1  GET   0   0  0  0   0   0   0   0",
           "link": "",
           "summary": ""
         },
         {
-          "title": "10  REA  38  11 13 14  59  61  -2  46",
+          "title": " 1  LEV   0   0  0  0   0   0   0   0",
           "link": "",
           "summary": ""
         },
         {
-          "title": "11  ESP  38  12 10 16  43  55 -12  46",
+          "title": " 1  MÁL   0   0  0  0   0   0   0   0",
           "link": "",
           "summary": ""
         },
         {
-          "title": "12  ATH  38  13  6 19  43  58 -15  45",
+          "title": " 1  SAN   0   0  0  0   0   0   0   0",
           "link": "",
           "summary": ""
         },
         {
-          "title": "13  ELC  38  10 13 15  49  57  -8  43",
+          "title": " 1  RAY   0   0  0  0   0   0   0   0",
           "link": "",
           "summary": ""
         },
         {
-          "title": "14  ALA  38  11 10 17  44  56 -12  43",
+          "title": " 1  CEL   0   0  0  0   0   0   0   0",
           "link": "",
           "summary": ""
         },
         {
-          "title": "15  SEV  38  12  7 19  46  60 -14  43",
+          "title": " 1  REA   0   0  0  0   0   0   0   0",
           "link": "",
           "summary": ""
         },
         {
-          "title": "16  OSA  38  11  9 18  44  50  -6  42",
+          "title": " 1  REA   0   0  0  0   0   0   0   0",
           "link": "",
           "summary": ""
         },
         {
-          "title": "17  MAL  38  11  9 18  47  57 -10  42",
+          "title": " 1  REA   0   0  0  0   0   0   0   0",
           "link": "",
           "summary": ""
         },
         {
-          "title": "18  LEV  38  11  9 18  47  61 -14  42",
+          "title": " 1  SEV   0   0  0  0   0   0   0   0",
           "link": "",
           "summary": ""
         },
         {
-          "title": "19  GIR  38   9 14 15  39  55 -16  41",
+          "title": " 1  VAL   0   0  0  0   0   0   0   0",
           "link": "",
           "summary": ""
         },
         {
-          "title": "20  REA  38   6 11 21  26  60 -34  29",
+          "title": " 1  VIL   0   0  0  0   0   0   0   0",
           "link": "",
           "summary": ""
         }
