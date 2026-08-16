@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-08-16T12:36:06.860Z",
+  "generatedAt": "2026-08-16T18:26:51.051Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Amazon is trying to crush class-action suits before they get started",
+          "link": "https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions",
+          "summary": "On Friday, Amazon customers received an email alerting them to an update to the site's terms and conditions. Most notably, it stated that disputes would now be resolved through arbitration and said users agree to a class action waiver. \nAmazon framed this as a \"fast and efficient\" way to resolve issues, but it notably would prevent customers from seeking the involvement of a judge or jury in most circumstances. Customers can still take Amazon to small claims court in certain circumstances, though payouts are often limited to a few thousand dollars.\nThe relevant sections of Amazon's legal policies page now read:\nYOU AND WE AGREE THAT ANY  …\n\nRead the full story at The Verge.",
+          "isoDate": "2026-08-16T17:35:02.000Z"
+        },
+        {
+          "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+          "summary": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to build a timeline that ChatGPT and Codex can reference when you make a request.\nThe feature is opt-in, rather than opt-out,  and you can exclude certain apps and websites from Computer History, and you can delete entries if you want finer-grained control. Ari Weinstein, Product and Engineering manager at OpenAI, said on X that Computer History will automatically ignore content in incognito or private browser ta …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-16T14:56:40.000Z"
+        },
         {
           "title": "Rogue AI aren’t science fiction anymore",
           "link": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
@@ -52,18 +64,6 @@
           "link": "https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/",
           "summary": "\"Flamingo missiles were used. A good achievement.\"",
           "isoDate": "2026-08-15T15:46:05.000Z"
-        },
-        {
-          "title": "Switched on Pop’s Nate Sloan and Charlie Harding love fresh vegetables and guitar pedals",
-          "link": "https://www.theverge.com/report/980288/switched-on-pop-nate-sloan-charlie-harding-podcast-netflix-interview",
-          "summary": "They’re the Lennon–McCartney of overanalyzing pop music. | Image: Daniel Randall\t\n\nAs if you needed more reason to love Carly Rae Jepsen's \"Call Me Maybe\" beyond its pop perfection, it is also, according to lore, the genesis for Switched on Pop, one of the best music podcasts out there. Cohosts Nate Sloan and Charlie Harding obsessively dissect pop songs, from the theory behind their musical choices to their production techniques. If you're a student of pop music, then this is a must-listen podcast.\nSloan is a composer and professor of musicology at USC Thornton School of Music, where he researches pop, but also jazz and even Tin Pan Alley. Harding is a songwriter, music journalist, and a professor as well. Their combined …\nRead the full story at The Verge.",
-          "isoDate": "2026-08-15T15:00:00.000Z"
-        },
-        {
-          "title": "Star Wars: Ahsoka season 2 and Starfighter get teased at D23",
-          "link": "https://www.theverge.com/entertainment/980666/star-wars-ahsoka-season-2-and-starfighter-get-teased-at-d23",
-          "summary": "Season two of Star Wars: Ahsoka is still months away, but Lucasfilm still took the opportunity to tease it a bit at D23. The company dropped the first trailer for the new season ahead of its January 20th, 2027 debut. The clip shows a darker, witchcraft-filled take on the Star Wars universe, with Grand Admiral Thrawn (blue skin, red eyes, and an unsettlingly calm demeanor) threatening to thrust the galaxy back into large-scale war after the fall of the Empire.\n\nRyan Gosling also took the stage at D23 to tease the upcoming Star Wars: Starfighter movie. Unfortunately, while some footage was shown, it was exclusive to those in the room, and Luca …\nRead the full story at The Verge.",
-          "isoDate": "2026-08-15T14:58:27.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-08-16T12:36:04.057Z"
+          "isoDate": "2026-08-16T18:26:46.326Z"
         },
         {
           "title": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-08-16T12:36:06.192Z"
+          "isoDate": "2026-08-16T18:26:50.422Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-08-16T12:36:04.937Z"
+          "isoDate": "2026-08-16T18:26:47.917Z"
         },
         {
           "title": "Digital Signal Processing Pioneer Bede Liu Dies At 91",
@@ -329,6 +329,11 @@
           "summary": ""
         },
         {
+          "title": "SAN  2-2  VIL",
+          "link": "",
+          "summary": ""
+        },
+        {
           "title": "SEV  2-1  RAY",
           "link": "",
           "summary": ""
@@ -354,92 +359,92 @@
           "summary": ""
         },
         {
-          "title": " 2  SEV   1   1  0  0   2   1   1   3",
+          "title": " 2  ESP   1   1  0  0   2   0   2   3",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 3  ATH   0   0  0  0   0   0   0   0",
+          "title": " 3  SEV   1   1  0  0   2   1   1   3",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 3  ATL   0   0  0  0   0   0   0   0",
+          "title": " 4  SAN   1   0  1  0   2   2   0   1",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 3  OSA   0   0  0  0   0   0   0   0",
+          "title": " 4  VIL   1   0  1  0   2   2   0   1",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 3  DEP   0   0  0  0   0   0   0   0",
+          "title": " 6  ATH   0   0  0  0   0   0   0   0",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 3  ELC   0   0  0  0   0   0   0   0",
+          "title": " 6  ATL   0   0  0  0   0   0   0   0",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 3  ESP   0   0  0  0   0   0   0   0",
+          "title": " 6  OSA   0   0  0  0   0   0   0   0",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 3  BAR   0   0  0  0   0   0   0   0",
+          "title": " 6  DEP   0   0  0  0   0   0   0   0",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 3  LEV   0   0  0  0   0   0   0   0",
+          "title": " 6  ELC   0   0  0  0   0   0   0   0",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 3  MÁL   0   0  0  0   0   0   0   0",
+          "title": " 6  BAR   0   0  0  0   0   0   0   0",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 3  SAN   0   0  0  0   0   0   0   0",
+          "title": " 6  MÁL   0   0  0  0   0   0   0   0",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 3  CEL   0   0  0  0   0   0   0   0",
+          "title": " 6  CEL   0   0  0  0   0   0   0   0",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 3  REA   0   0  0  0   0   0   0   0",
+          "title": " 6  REA   0   0  0  0   0   0   0   0",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 3  REA   0   0  0  0   0   0   0   0",
+          "title": " 6  REA   0   0  0  0   0   0   0   0",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 3  REA   0   0  0  0   0   0   0   0",
+          "title": " 6  REA   0   0  0  0   0   0   0   0",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 3  VAL   0   0  0  0   0   0   0   0",
+          "title": " 6  VAL   0   0  0  0   0   0   0   0",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 3  VIL   0   0  0  0   0   0   0   0",
+          "title": "18  RAY   1   0  0  1   1   2  -1   0",
           "link": "",
           "summary": ""
         },
         {
-          "title": "19  RAY   1   0  0  1   1   2  -1   0",
+          "title": "19  LEV   1   0  0  1   0   2  -2   0",
           "link": "",
           "summary": ""
         },
