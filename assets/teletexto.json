@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-08-16T01:14:18.769Z",
+  "generatedAt": "2026-08-16T06:37:45.242Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Polaroid’s tiny instant camera is $72 and includes a free pack of film",
+          "link": "https://www.theverge.com/gadgets/980448/polaroid-go-second-generation-film-pack-bundle-deal-sale",
+          "summary": "The compact Polaroid Go is great for road trips and adventures. | Image: Polaroid\t\n\nSmartphone cameras are convenient, but they lack the charm of analog instant cameras. If you’re trying to relive the nostalgia of waiting for an instant photo to develop, Amazon is selling the second-generation Polaroid Go instant camera with a 16-photo film pack for $71.99 (usually $109.99). That’s the lowest price we’ve seen for the bundle, with a pack of film usually costing $21.99 on its own. Plus, it’s four dollars cheaper to buy the bundle than to buy just the camera on its own.\nPolaroid Go Instant Camera Generation 2\n\nWhere to Buy:\n\n $109.99 $71.99 at Amazon (with film pack)\n\nWith its more compact footprint, the Polaroid Go 2 shoots on smaller film to match. Where classic Polaroid photos are 88mm x 107mm, the Go film is 53.9mm x 66.6mm, a great size for sticking to your bulletin board or stashing in your wallet. The camera has a USB-C port for charging the battery, which can run for up to 15 packs of film on a single charge.",
+          "isoDate": "2026-08-16T03:00:00.000Z"
+        },
         {
           "title": "Matt Groening lets slip that Simpsons: Hit &#038; Run might be making a comeback",
           "link": "https://www.theverge.com/entertainment/980720/matt-groening-simpsons-hit-run-d23",
@@ -58,12 +64,6 @@
           "link": "https://www.theverge.com/tech/979850/ohsnap-snap-grip-stand-review",
           "summary": "The OhSnap Snap Grip Stand, in black and silver. | Photo by Sean Hollister / The Verge\t\n\nI told myself I wouldn't buy an OhSnap accessory for my phone. Every one I'd tested was nice, but felt overpriced and slightly flawed. After I weighed in on the $40 Snap Grip 5 last year, I wound up sticking with my $25 Syncwire instead. But OhSnap's $50 Snap Grip Stand finally got me. To have a truly useful vertical stand and grip always attached to my phone, ready at a moment's notice? Heck yes.\n\n \n @verge \nMy favorite phone grip is the one I never want to take off - because it's a great stand. The $50 OhSnap Snap Grip Stand is the company's best yet, effortlessly propping up phones vertically. It's still got double-sided magnet action and  …\n\n\nRead the full story at The Verge.",
           "isoDate": "2026-08-15T14:10:16.000Z"
-        },
-        {
-          "title": "Marvel reveals the new X-Men cast, including Inde Navarrette and Adam Driver",
-          "link": "https://www.theverge.com/entertainment/980635/marvel-new-x-men-movie-cast",
-          "summary": "The new X-Men MCU cast on stage at D-23. | Image: Marvel Entertainment\t\n\nWith Spider-Man: Brand New Day behind us, and its reveal of Sadie Sink as Jean Grey, Marvel is finally ready to officially welcome the X-Men into the MCU. At the D23 event in Anaheim yesterday, the company revealed the cast for its upcoming, untitled X-Men film, which is scheduled to hit theaters on May 5th of 2028. Though, seeing as that's quite far into the future, we wouldn't be surprised if that date shifted slightly before then.\nIn addition to Sink, the film will star Kit Connor as Scott Summers (Cyclops), Christopher Abbott as Charles Xavier (Professor X), Samara Weaving as Emma Frost, Maya Boyd as Storm, and Inde Navarrette as Rogue. …\nRead the full story at The Verge.",
-          "isoDate": "2026-08-15T14:03:14.000Z"
         }
       ]
     },
@@ -71,6 +71,12 @@
       "header": "120  CIENCIA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "APOD: 2026 August 16 – Milky Way over Yellowstone",
+          "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-16-milky-way-over-yellowstone/",
+          "summary": "APOD Science APOD APOD: 2026 August 16 – Milky… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Milky Way […]",
+          "isoDate": "2026-08-16T04:05:00.000Z"
+        },
         {
           "title": "APOD: 2026 August 15 – Bright Perseids from Sweden",
           "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-15-bright-perseids-from-sweden/",
@@ -124,12 +130,6 @@
           "link": "https://science.nasa.gov/earth/earth-observatory/a-sunflowers-view-of-totality/",
           "summary": "The Moon slid between the Sun and Earth to produce a stunning celestial show visible from Spain in August 2026.",
           "isoDate": "2026-08-14T04:01:00.000Z"
-        },
-        {
-          "title": "Author Correction: Cell intrinsic immunity spreads to bystander cells via the intercellular transfer of cGAMP",
-          "link": "https://www.nature.com/articles/s41586-026-11023-3",
-          "summary": "Nature, Published online: 14 August 2026; doi:10.1038/s41586-026-11023-3\nAuthor Correction: Cell intrinsic immunity spreads to bystander cells via the intercellular transfer of cGAMP",
-          "isoDate": "2026-08-14T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-08-16T01:14:16.003Z"
+          "isoDate": "2026-08-16T06:37:42.767Z"
         },
         {
           "title": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-08-16T01:14:18.085Z"
+          "isoDate": "2026-08-16T06:37:44.586Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-08-16T01:14:17.367Z"
+          "isoDate": "2026-08-16T06:37:43.755Z"
         },
         {
           "title": "Digital Signal Processing Pioneer Bede Liu Dies At 91",
