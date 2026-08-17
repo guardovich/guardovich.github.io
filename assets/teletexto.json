@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-08-16T18:26:51.051Z",
+  "generatedAt": "2026-08-17T01:11:34.899Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "OpenAI reportedly disbanded its preparedness team",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+          "summary": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks. (You know, like the possibility that it could go rogue and hack another company.) According to FT, responsibility has instead been divided up for specific areas like bio and cyber, then moved into existing teams.\nThis is the latest change at the company, which has been in upheaval as it heads towards what is expected to be a massive IPO. Over the last few years, it's slowly torn down its more reach-led model, dissolving its AG …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-16T21:32:56.000Z"
+        },
+        {
+          "title": "Open Mike Eagle and Kenny Segal crafted a hip hop breakup masterpiece",
+          "link": "https://www.theverge.com/entertainment/980799/open-mike-eagle-and-kenny-segal-doomed-review",
+          "summary": "In every possible universe? | Image: Backwoodz Studioz\t\n\n\"Breakups are… tough.\"\nIt's the opening lines of an interlude towards the end of DOOMED! Called \"It Happens in Every Universe.\" It's also basically the thesis of the entire record. It's no grand revelation, but it's a well-trodden subject that Open Mike Eagle manages to mine for artistic gold.\nEagle's subject matter is usually personal, and his productions tinged with nostalgia. But DOOMED! is his most intimate album yet. A lot of that is due to the production from Kenny Segal. The two have traveled in the same orbit and worked together before, but this is the first full-length album release from the two. \nThese are some of Segal's most c …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-16T20:31:37.000Z"
+        },
         {
           "title": "Amazon is trying to crush class-action suits before they get started",
           "link": "https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions",
@@ -52,18 +64,6 @@
           "link": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
           "summary": "If you squint you can just about make out the hat. | Screenshot: Terrence O’Brien / The Verge\t\n\nYour AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the important thing is that there's a human on both sides of the equation. Prompts can request a response as text or image, and then whoever is roleplaying as the AI gets 150 seconds to respond.\nJust like a real LLM, Your AI Slop Bores Me works on a sort of token system. Requests cost credits, and to earn credits you have to jump onto the AI side and answer some of your own. You can also just wait as you get one free request every two minutes. But, as fun as it is to drop …\nRead the full story at The Verge.",
           "isoDate": "2026-08-15T20:45:00.000Z"
-        },
-        {
-          "title": "Don&#8217;t overlook Elektron&#8217;s budget electronic music instruments",
-          "link": "https://www.theverge.com/gadgets/980275/elektron-model-cycles-model-samples-groovebox-electronic-music-instruments-review",
-          "summary": "They’re far more powerful and fun than their bargain price suggests. | Photo: Terrence O’Brien / The Verge\t\n\nWhen I'm asked what to buy if you want to get into making electronic music, I often recommend Elektron's budget-minded Model:Samples and Model:Cycles grooveboxes. They don't grab headlines the way Teenage Engineering's gear or the Telepathic Instruments Orchid do, and even compared to the company's higher-end and more niche musical offerings like the Digitakt, Octatrack, or Tonverk, they're often overlooked. But as my collection has grown to include fancier and far more expensive instruments, I still find myself coming back to the Model series.\nThose looking to get their first groovebox are often drawn to more familiar brand names like Korg …\nRead the full story at The Verge.",
-          "isoDate": "2026-08-15T17:00:00.000Z"
-        },
-        {
-          "title": "Ukraine strikes major Russian rocket factory with cruise missiles",
-          "link": "https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/",
-          "summary": "\"Flamingo missiles were used. A good achievement.\"",
-          "isoDate": "2026-08-15T15:46:05.000Z"
         }
       ]
     },
@@ -72,46 +72,10 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "APOD: 2026 August 16 – Milky Way over Yellowstone",
-          "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-16-milky-way-over-yellowstone/",
-          "summary": "APOD Science APOD APOD: 2026 August 16 – Milky… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Milky Way […]",
-          "isoDate": "2026-08-16T04:05:00.000Z"
-        },
-        {
-          "title": "APOD: 2026 August 15 – Bright Perseids from Sweden",
-          "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-15-bright-perseids-from-sweden/",
-          "summary": "APOD Science APOD APOD: 2026 August 15 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Bright Perseids from […]",
-          "isoDate": "2026-08-15T04:05:00.000Z"
-        },
-        {
-          "title": "NASA Competition Invites Students to Help Imagine a Future Enabled by Lunar Technologies ",
-          "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-competition-invites-students-to-help-imagine-a-future-enabled-by-lunar-technologies/",
-          "summary": "NASA is asking U.S.-based collegiate teams to submit bold, original concepts to the 2027 edition of a student challenge focused on aerospace innovation that could help the agency envision a future on the Moon shaped by new technology.  The latest NASA Revolutionary Aerospace Systems Concepts – Academic Linkage (RASC-AL) competition invites student teams to explore new operations paradigms and advance the technologies needed to […]",
-          "isoDate": "2026-08-14T20:00:38.000Z"
-        },
-        {
-          "title": "NASA Announces MAX POWER: America’s Newest Aerospace Expo, Airshow",
-          "link": "https://www.nasa.gov/news-release/nasa-announces-max-power-americas-newest-aerospace-expo-airshow/",
-          "summary": "In honor of America’s historic 250th anniversary, NASA announced on Friday MAX POWER, a public exposition of American air and space innovation, Nov. 7 and Nov. 8, on and near the agency’s Kennedy Space Center in Florida. The multi-day, family-friendly event will showcase the next-generation aircraft, spacecraft, autonomous vehicles, and technologies that will help define […]",
-          "isoDate": "2026-08-14T18:44:36.000Z"
-        },
-        {
-          "title": "Volunteer Develops Machine-Learning Tool to Identify Rare Clouds",
-          "link": "https://science.nasa.gov/get-involved/citizen-science/volunteer-develops-machine-learning-tool-to-identify-rare-clouds/",
-          "summary": "Certain kinds of clouds are misbehaving – appearing more often and lower in the sky than they used to. To help identify the factors influencing these changes, scientists have asked people around the world with cameras to submit fresh images of these clouds as a part of the NASA-supported Space Cloud Watch project.",
-          "isoDate": "2026-08-14T17:35:46.000Z"
-        },
-        {
-          "title": "NASA’s COFFIES Uses AI to Predict Storm-Causing Active Regions on Sun ",
-          "link": "https://science.nasa.gov/science-research/heliophysics/nasas-coffies-uses-ai-to-predict-storm-causing-active-regions-on-sun/",
-          "summary": "As humanity looks to the Moon and stars for future exploration, predicting space weather — conditions in space primarily driven by the Sun — is more important than ever.  Now, a team of astrophysicists and data scientists with NASA’s COFFIES (Consequence Of Fields and Flows in the Interior and Exterior of the Sun) has developed a […]",
-          "isoDate": "2026-08-14T17:00:23.000Z"
-        },
-        {
-          "title": "Total Solar Eclipse in Sunflower Field",
-          "link": "https://www.nasa.gov/image-article/total-solar-eclipse-in-sunflower-field/",
-          "summary": "This composite image shows the progression of a total solar eclipse over San Millán de los Caballeros, Spain on, Wednesday, Aug. 12, 2026. A total solar eclipse swept across parts of Greenland, Iceland, northern Russia, the Atlantic Ocean, Spain, and a small corner of Portugal. A partial eclipse was visible in parts of the U.S., […]",
-          "isoDate": "2026-08-14T14:48:55.000Z"
+          "title": "ERROR cargando feed",
+          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
+          "isoDate": "2026-08-17T01:11:30.902Z"
         },
         {
           "title": "New Products",
@@ -120,16 +84,52 @@
           "isoDate": "2026-08-14T08:20:27.000Z"
         },
         {
-          "title": "APOD: 2026 August 14 – Total Solar Eclipse from Greenland",
-          "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-14-total-solar-eclipse-from-greenland/",
-          "summary": "APOD Science APOD APOD: 2026 August 14 – Total… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Total Solar […]",
-          "isoDate": "2026-08-14T04:05:00.000Z"
+          "title": "Author Correction: Cell intrinsic immunity spreads to bystander cells via the intercellular transfer of cGAMP",
+          "link": "https://www.nature.com/articles/s41586-026-11023-3",
+          "summary": "Nature, Published online: 14 August 2026; doi:10.1038/s41586-026-11023-3\nAuthor Correction: Cell intrinsic immunity spreads to bystander cells via the intercellular transfer of cGAMP",
+          "isoDate": "2026-08-14T00:00:00.000Z"
         },
         {
-          "title": "A Sunflower’s View of Totality",
-          "link": "https://science.nasa.gov/earth/earth-observatory/a-sunflowers-view-of-totality/",
-          "summary": "The Moon slid between the Sun and Earth to produce a stunning celestial show visible from Spain in August 2026.",
-          "isoDate": "2026-08-14T04:01:00.000Z"
+          "title": "Publisher Correction: Targeting cancer-specific mutations with RNA-triggered chromatin shredding",
+          "link": "https://www.nature.com/articles/s41586-026-11022-4",
+          "summary": "Nature, Published online: 14 August 2026; doi:10.1038/s41586-026-11022-4\nPublisher Correction: Targeting cancer-specific mutations with RNA-triggered chromatin shredding",
+          "isoDate": "2026-08-14T00:00:00.000Z"
+        },
+        {
+          "title": "Briefing Chat: Anthropic rolls out new AI watermark — will it make a difference?",
+          "link": "https://www.nature.com/articles/d41586-026-02562-w",
+          "summary": "Nature, Published online: 14 August 2026; doi:10.1038/d41586-026-02562-w\nNature staff discuss what flagging AI content may mean for research integrity — plus, how people from different cultural backgrounds have the same ‘tickle hotspots’ on the body.",
+          "isoDate": "2026-08-14T00:00:00.000Z"
+        },
+        {
+          "title": "Einstein the musician, AI prophets and more: Books in brief",
+          "link": "https://www.nature.com/articles/d41586-026-02504-6",
+          "summary": "Nature, Published online: 14 August 2026; doi:10.1038/d41586-026-02504-6\nAndrew Robinson reviews five of the best science picks.",
+          "isoDate": "2026-08-14T00:00:00.000Z"
+        },
+        {
+          "title": "Undocumented migration does not raise crime rates, huge study finds",
+          "link": "https://www.nature.com/articles/d41586-026-02542-0",
+          "summary": "Nature, Published online: 14 August 2026; doi:10.1038/d41586-026-02542-0\nAnalysis of neighbourhoods in more than 100 US cities finds no evidence that rising numbers of undocumented immigrants are linked with violent crime.",
+          "isoDate": "2026-08-14T00:00:00.000Z"
+        },
+        {
+          "title": "Should humanoid robots in every household really be a top priority?",
+          "link": "https://www.science.org/doi/abs/10.1126/science.aek2193?af=R",
+          "summary": "Science, Volume 393, Issue 6812, August 2026.",
+          "isoDate": "2026-08-13T07:00:00.000Z"
+        },
+        {
+          "title": "A cross-organ single-cell analysis of hypertension",
+          "link": "https://www.science.org/doi/abs/10.1126/science.aea6187?af=R",
+          "summary": "Science, Volume 393, Issue 6812, August 2026.",
+          "isoDate": "2026-08-13T07:00:00.000Z"
+        },
+        {
+          "title": "Chemovaccination with a late-liver-stage antimalarial induces durable immunity against malaria",
+          "link": "https://www.science.org/doi/abs/10.1126/science.aea7605?af=R",
+          "summary": "Science, Volume 393, Issue 6812, August 2026.",
+          "isoDate": "2026-08-13T07:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-08-16T18:26:46.326Z"
+          "isoDate": "2026-08-17T01:11:32.281Z"
+        },
+        {
+          "title": "If Meta loses this trial, Instagram and Facebook could change forever",
+          "link": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
+          "summary": "Thirty US states have sued Meta to force an overhaul of its platforms for young users.",
+          "isoDate": "2026-08-16T23:27:36.000Z"
         },
         {
           "title": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.co.uk/news/videos/cwyq22g0ylxo?at_medium=RSS&at_campaign=rss",
           "summary": "The streaming platform's users criticised the move to allow the use of channel content for AI training.",
           "isoDate": "2026-08-13T07:04:31.000Z"
-        },
-        {
-          "title": "Why Japanese firms are being so slow to use AI",
-          "link": "https://www.bbc.co.uk/news/articles/cwymw4434v7o?at_medium=RSS&at_campaign=rss",
-          "summary": "Japanese risk aversion and conservatism blamed for slow AI take-up by the country's business sector.",
-          "isoDate": "2026-08-12T23:00:47.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-08-16T18:26:50.422Z"
+          "isoDate": "2026-08-17T01:11:34.190Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-08-16T18:26:47.917Z"
+          "isoDate": "2026-08-17T01:11:33.306Z"
         },
         {
           "title": "Digital Signal Processing Pioneer Bede Liu Dies At 91",
@@ -329,6 +329,11 @@
           "summary": ""
         },
         {
+          "title": "ESP  3-0  LEV",
+          "link": "",
+          "summary": ""
+        },
+        {
           "title": "SAN  2-2  VIL",
           "link": "",
           "summary": ""
@@ -359,7 +364,7 @@
           "summary": ""
         },
         {
-          "title": " 2  ESP   1   1  0  0   2   0   2   3",
+          "title": " 1  ESP   1   1  0  0   3   0   3   3",
           "link": "",
           "summary": ""
         },
@@ -444,12 +449,12 @@
           "summary": ""
         },
         {
-          "title": "19  LEV   1   0  0  1   0   2  -2   0",
+          "title": "19  GET   1   0  0  1   0   3  -3   0",
           "link": "",
           "summary": ""
         },
         {
-          "title": "20  GET   1   0  0  1   0   3  -3   0",
+          "title": "19  LEV   1   0  0  1   0   3  -3   0",
           "link": "",
           "summary": ""
         }
