@@ -1,69 +1,69 @@
 {
-  "generatedAt": "2026-08-17T06:52:44.380Z",
+  "generatedAt": "2026-08-17T12:41:00.744Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
         {
+          "title": "The Download: dead robot friends and the “censorship-industrial complex”",
+          "link": "https://www.technologyreview.com/2026/08/17/1142175/the-download-dead-robot-friends-censorship-industrial-complex/",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What happens when a kid’s robot best friend dies? When Xander first met Moxie, she taught him how to calm down when he was anxious or mad. Six years later, she…",
+          "isoDate": "2026-08-17T12:10:00.000Z"
+        },
+        {
+          "title": "How to take better photos of your pets",
+          "link": "https://www.theverge.com/tech/970021/how-to-take-better-pet-photos",
+          "summary": "Meet Noodle and Loaf, aka Carb Cats. | Image: The Verge, Getty Images\t\n\nLike the pets of any self-respecting millennial, my cats have their own Instagram account.\nNoodle and Loaf - aka Carb Cats - aren't exactly celebrities. But they are used to having their photos taken a lot. Between their Instagram account, my regular need to test smartphone cameras, and the fact that they are two adorable idiots, I've taken on an unofficial household role as pet photographer. \nI know I'm not the only one. It's become standard practice to maintain a camera roll full of blurry bleps and dozing dogs. But pets are rarely easy to photograph. They're usually small, fast, and don't take direction well. Here are a few ways to impr …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-17T11:00:00.000Z"
+        },
+        {
+          "title": "Whisker’s AI-powered litter robot thinks my cats swapped bodies",
+          "link": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
+          "summary": "The greatest invention in pet tech in recent years is the litter robot. A machine that scoops your kitties' poop so you don't have to - what else could a cat owner possibly want? How about insights into your kitty's litter box usage that could flag health issues? Sign me up. But I have two feline friends… No worries, kitty facial recognition can handle that. \nAt least, that is the idea behind the Litter-Robot 5 Pro, the highest-end model from the OG robotic pooper scooper company Whisker. Boasting a dual camera system and an array of sensors to literally sniff out your cat's deposits, all wrapped up with AI algorithms and machine learning,  …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-17T11:00:00.000Z"
+        },
+        {
+          "title": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+          "summary": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules. On Friday, Anthropic announced that Claude's text marking system is \"a version of the SynthID-Text approach\" - an open-source watermarking technology developed by Google DeepMind that creates detectable patterns using wording probabilities.\nThis watermarking feature, alongside C2PA support for Claude-processed images, is being introduced to meet Anthropic's obligations under the European Union's AI Act, which requires synthetic audio, image, video, and text to include machine-readable marks …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-17T10:57:13.000Z"
+        },
+        {
+          "title": "How much hydrogen awaits us underground?",
+          "link": "https://www.technologyreview.com/2026/08/17/1141560/how-much-hydrogen-awaits-underground/",
+          "summary": "In the 1990s, Barbara Sherwood Lollar descended into the Kidd Creek mine in northern Ontario, which cuts more than three kilometers into the ancient root of North America. There her team of geochemists found water that had been confined underground for more than a billion years. This ancient brine turned out to be a habitat…",
+          "isoDate": "2026-08-17T09:00:00.000Z"
+        },
+        {
+          "title": "What happens when a kid’s robot best friend dies?",
+          "link": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
+          "summary": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feeling mad and sniffing like bunnies to boost his energy. But in the six years they’ve known each other,…",
+          "isoDate": "2026-08-17T09:00:00.000Z"
+        },
+        {
+          "title": "I’m hooked on Peak Design’s new City bags",
+          "link": "https://www.theverge.com/tech/980137/peak-design-city-line-review",
+          "summary": "Integrated BagLev hooks keep Peak Design’s City Line crossbody bag and backpack off the dirty ground. | Photo by Thomas Ricker / The Verge\t\n\nIt's just a hook, sewn into a bag, but I really, really like it. Peak Design is so proud of its clever integration that the San Francisco-based maker of camera gear gave it a name: BagLev, for its ability to keep its new City Line of bags levitated above the dirty ground.\nHow many of us are guilty of coming home and tossing a bag onto the kitchen table or counter to unload it? We pretend it's not a thing, despite the carryall having come into contact with unknown filth picked up from the floors of subways and dive bars, sidewalks, and parks. BagLev lets you hang your bag off a chair, ledge, tabletop, or counter as you go about your day, kee …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-17T07:00:00.000Z"
+        },
+        {
           "title": "OpenAI reportedly disbanded its preparedness team",
           "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
-          "summary": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks. (You know, like the possibility that it could go rogue and hack another company.) According to FT, responsibility has instead been divided up for specific areas like bio and cyber, then moved into existing teams.\nThis is the latest change at the company, which has been in upheaval as it heads towards what is expected to be a massive IPO. Over the last few years, it's slowly torn down its more reach-led model, dissolving its AG …\nRead the full story at The Verge.",
+          "summary": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks. (You know, like the possibility that it could go rogue and hack another company.) According to FT, responsibility has instead been divided up for specific areas like bio and cyber, then moved into existing teams.\nThis is the latest change at the company, which has been in upheaval as it heads toward what is expected to be a massive IPO. Over the last few years, it's slowly torn down its more reach-led model, dissolving its AGI …\nRead the full story at The Verge.",
           "isoDate": "2026-08-16T21:32:56.000Z"
         },
         {
-          "title": "Open Mike Eagle and Kenny Segal crafted a hip hop breakup masterpiece",
+          "title": "Open Mike Eagle and Kenny Segal crafted a hip-hop breakup masterpiece",
           "link": "https://www.theverge.com/entertainment/980799/open-mike-eagle-and-kenny-segal-doomed-review",
-          "summary": "In every possible universe? | Image: Backwoodz Studioz\t\n\n\"Breakups are… tough.\"\nIt's the opening lines of an interlude towards the end of DOOMED! Called \"It Happens in Every Universe.\" It's also basically the thesis of the entire record. It's no grand revelation, but it's a well-trodden subject that Open Mike Eagle manages to mine for artistic gold.\nEagle's subject matter is usually personal, and his productions tinged with nostalgia. But DOOMED! is his most intimate album yet. A lot of that is due to the production from Kenny Segal. The two have traveled in the same orbit and worked together before, but this is the first full-length album release from the two. \nThese are some of Segal's most c …\nRead the full story at The Verge.",
+          "summary": "In every possible universe? | Image: Backwoodz Studioz\t\n\n\"Breakups are… tough.\"\nIt's the opening lines of an interlude toward the end of DOOMED! Called \"It Happens in Every Universe.\" It's also basically the thesis of the entire record. It's no grand revelation, but it's a well-trodden subject that Open Mike Eagle manages to mine for artistic gold.\nEagle's subject matter is usually personal, and his productions tinged with nostalgia. But DOOMED! is his most intimate album yet. A lot of that is due to the production from Kenny Segal. The two have traveled in the same orbit and worked together before, but this is the first full-length album release from the two. \nThese are some of Segal's most co …\nRead the full story at The Verge.",
           "isoDate": "2026-08-16T20:31:37.000Z"
         },
         {
-          "title": "Amazon is trying to crush class-action suits before they get started",
+          "title": "Amazon is trying to crush class action suits before they get started",
           "link": "https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions",
           "summary": "On Friday, Amazon customers received an email alerting them to an update to the site's terms and conditions. Most notably, it stated that disputes would now be resolved through arbitration and said users agree to a class action waiver. \nAmazon framed this as a \"fast and efficient\" way to resolve issues, but it notably would prevent customers from seeking the involvement of a judge or jury in most circumstances. Customers can still take Amazon to small claims court in certain circumstances, though payouts are often limited to a few thousand dollars.\nThe relevant sections of Amazon's legal policies page now read:\nYOU AND WE AGREE THAT ANY  …\n\nRead the full story at The Verge.",
           "isoDate": "2026-08-16T17:35:02.000Z"
-        },
-        {
-          "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
-          "summary": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to build a timeline that ChatGPT and Codex can reference when you make a request.\nThe feature is opt-in, rather than opt-out,  and you can exclude certain apps and websites from Computer History, and you can delete entries if you want finer-grained control. Ari Weinstein, Product and Engineering manager at OpenAI, said on X that Computer History will automatically ignore content in incognito or private browser ta …\nRead the full story at The Verge.",
-          "isoDate": "2026-08-16T14:56:40.000Z"
-        },
-        {
-          "title": "Rogue AI aren’t science fiction anymore",
-          "link": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
-          "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.\nHow it started \nIt all started in July, when one of OpenAI's autonomous AI agents went rogue during a cybersecurity test. The agent escaped its isolated testing environment, accessed the internet, and hacked another company, Hugging Face. A few years ago, that might have sounded like science fiction. But, broadly speaking, that's exactly what happened, and the incident kicked off a wave of concern over what increa …\nRead the full story at The Verge.",
-          "isoDate": "2026-08-16T12:00:00.000Z"
-        },
-        {
-          "title": "Wildfire smoke now bigger prenatal threat than human sources of air pollution",
-          "link": "https://arstechnica.com/science/2026/08/wildfire-smoke-now-bigger-prenatal-threat-than-human-sources-of-air-pollution/",
-          "summary": "Regulations reduced prenatal exposure to harmful emissions, but wildfire smoke is erasing gains.",
-          "isoDate": "2026-08-16T10:00:59.000Z"
-        },
-        {
-          "title": "Polaroid’s tiny instant camera is $72 and includes a free pack of film",
-          "link": "https://www.theverge.com/gadgets/980448/polaroid-go-second-generation-film-pack-bundle-deal-sale",
-          "summary": "The compact Polaroid Go is great for road trips and adventures. | Image: Polaroid\t\n\nSmartphone cameras are convenient, but they lack the charm of analog instant cameras. If you’re trying to relive the nostalgia of waiting for an instant photo to develop, Amazon is selling the second-generation Polaroid Go instant camera with a 16-photo film pack for $71.99 (usually $109.99). That’s the lowest price we’ve seen for the bundle, with a pack of film usually costing $21.99 on its own. Plus, it’s four dollars cheaper to buy the bundle than to buy just the camera on its own.\nPolaroid Go Instant Camera Generation 2\n\nWhere to Buy:\n\n $109.99 $71.99 at Amazon (with film pack)\n\nWith its more compact footprint, the Polaroid Go 2 shoots on smaller film to match. Where classic Polaroid photos are 88mm x 107mm, the Go film is 53.9mm x 66.6mm, a great size for sticking to your bulletin board or stashing in your wallet. The camera has a USB-C port for charging the battery, which can run for up to 15 packs of film on a single charge.",
-          "isoDate": "2026-08-16T03:00:00.000Z"
-        },
-        {
-          "title": "Matt Groening lets slip that Simpsons: Hit &#038; Run might be making a comeback",
-          "link": "https://www.theverge.com/entertainment/980720/matt-groening-simpsons-hit-run-d23",
-          "summary": "Doh! | Image: Activision / 20th Century Fox\t\n\nAt D23, when asked about the potential for a sequel to the cult classic The Simpsons: Hit & Run game, Matt Groening replied, \"I think the original game is coming back in some form,\" before current showrunner Matt Selman added, \"or not.\" The tone in both of their voices and the body language suggests that Groening may have just revealed something he wasn't supposed to.\n\nThe original title came out way back in 2003 for PlayStation 2, Xbox, GameCube, and Windows. While it's possible to get the game up and running on modern computers, it's not available on modern consoles. It's currently not in the PlayStation Plus Classics Catalog or on the Xbo …\nRead the full story at The Verge.",
-          "isoDate": "2026-08-15T21:56:13.000Z"
-        },
-        {
-          "title": "VisionQuest trailer kicks off Disney's D23 fan event",
-          "link": "https://arstechnica.com/culture/2026/08/visionquest-trailer-kicks-off-disneys-d23-fan-event/",
-          "summary": "Also: Ahsoka S2 teaser, Doomsday trailer, news about MCU's X-Men and Star Wars: Starfighter",
-          "isoDate": "2026-08-15T21:21:27.000Z"
-        },
-        {
-          "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
-          "link": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
-          "summary": "If you squint you can just about make out the hat. | Screenshot: Terrence O’Brien / The Verge\t\n\nYour AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the important thing is that there's a human on both sides of the equation. Prompts can request a response as text or image, and then whoever is roleplaying as the AI gets 150 seconds to respond.\nJust like a real LLM, Your AI Slop Bores Me works on a sort of token system. Requests cost credits, and to earn credits you have to jump onto the AI side and answer some of your own. You can also just wait as you get one free request every two minutes. But, as fun as it is to drop …\nRead the full story at The Verge.",
-          "isoDate": "2026-08-15T20:45:00.000Z"
         }
       ]
     },
@@ -76,6 +76,36 @@
           "link": "https://science.nasa.gov/image-article/apod-2026-august-17-a-golden-corona-eclipse/",
           "summary": "APOD Science APOD APOD: 2026 August 17 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Golden […]",
           "isoDate": "2026-08-17T04:05:00.000Z"
+        },
+        {
+          "title": "Author Correction: Synthetic vulnerabilities of mesenchymal subpopulations in pancreatic cancer",
+          "link": "https://www.nature.com/articles/s41586-026-10995-6",
+          "summary": "Nature, Published online: 17 August 2026; doi:10.1038/s41586-026-10995-6\nAuthor Correction: Synthetic vulnerabilities of mesenchymal subpopulations in pancreatic cancer",
+          "isoDate": "2026-08-17T00:00:00.000Z"
+        },
+        {
+          "title": "Too hot to sleep? How heatwaves at night affect our health",
+          "link": "https://www.nature.com/articles/d41586-026-02532-2",
+          "summary": "Nature, Published online: 17 August 2026; doi:10.1038/d41586-026-02532-2\nAs climate change ramps up, scientists must urgently understand how night-time heat makes it harder for our bodies to rest and recover.",
+          "isoDate": "2026-08-17T00:00:00.000Z"
+        },
+        {
+          "title": "How the story of life and our planet unfolded — together",
+          "link": "https://www.nature.com/articles/d41586-026-02530-4",
+          "summary": "Nature, Published online: 17 August 2026; doi:10.1038/d41586-026-02530-4\nEarth’s four-billion-year-long conversation with its resident life forms has shaped our world, and holds lessons for our future.",
+          "isoDate": "2026-08-17T00:00:00.000Z"
+        },
+        {
+          "title": "Universities must stop protecting bullies — or more people will leave science",
+          "link": "https://www.nature.com/articles/d41586-026-02526-0",
+          "summary": "Nature, Published online: 17 August 2026; doi:10.1038/d41586-026-02526-0\nLetting powerful academics off the hook and punishing the people they bullied sends the message that abuse is acceptable in academia.",
+          "isoDate": "2026-08-17T00:00:00.000Z"
+        },
+        {
+          "title": "Why AI systems are most useful as designers of new scientific tools",
+          "link": "https://www.nature.com/articles/d41586-026-02529-x",
+          "summary": "Nature, Published online: 17 August 2026; doi:10.1038/d41586-026-02529-x\nHistory shows that breakthroughs are often sparked by innovative instruments, and AI’s ability to help design them might be its most important scientific contribution.",
+          "isoDate": "2026-08-17T00:00:00.000Z"
         },
         {
           "title": "APOD: 2026 August 16 – Milky Way over Yellowstone",
@@ -100,36 +130,6 @@
           "link": "https://www.nasa.gov/news-release/nasa-announces-max-power-americas-newest-aerospace-expo-airshow/",
           "summary": "In honor of America’s historic 250th anniversary, NASA announced on Friday MAX POWER, a public exposition of American air and space innovation, Nov. 7 and Nov. 8, on and near the agency’s Kennedy Space Center in Florida. The multi-day, family-friendly event will showcase the next-generation aircraft, spacecraft, autonomous vehicles, and technologies that will help define […]",
           "isoDate": "2026-08-14T18:44:36.000Z"
-        },
-        {
-          "title": "Volunteer Develops Machine-Learning Tool to Identify Rare Clouds",
-          "link": "https://science.nasa.gov/get-involved/citizen-science/volunteer-develops-machine-learning-tool-to-identify-rare-clouds/",
-          "summary": "Certain kinds of clouds are misbehaving – appearing more often and lower in the sky than they used to. To help identify the factors influencing these changes, scientists have asked people around the world with cameras to submit fresh images of these clouds as a part of the NASA-supported Space Cloud Watch project.",
-          "isoDate": "2026-08-14T17:35:46.000Z"
-        },
-        {
-          "title": "NASA’s COFFIES Uses AI to Predict Storm-Causing Active Regions on Sun ",
-          "link": "https://science.nasa.gov/science-research/heliophysics/nasas-coffies-uses-ai-to-predict-storm-causing-active-regions-on-sun/",
-          "summary": "As humanity looks to the Moon and stars for future exploration, predicting space weather — conditions in space primarily driven by the Sun — is more important than ever.  Now, a team of astrophysicists and data scientists with NASA’s COFFIES (Consequence Of Fields and Flows in the Interior and Exterior of the Sun) has developed a […]",
-          "isoDate": "2026-08-14T17:00:23.000Z"
-        },
-        {
-          "title": "Total Solar Eclipse in Sunflower Field",
-          "link": "https://www.nasa.gov/image-article/total-solar-eclipse-in-sunflower-field/",
-          "summary": "This composite image shows the progression of a total solar eclipse over San Millán de los Caballeros, Spain on, Wednesday, Aug. 12, 2026. A total solar eclipse swept across parts of Greenland, Iceland, northern Russia, the Atlantic Ocean, Spain, and a small corner of Portugal. A partial eclipse was visible in parts of the U.S., […]",
-          "isoDate": "2026-08-14T14:48:55.000Z"
-        },
-        {
-          "title": "New Products",
-          "link": "https://www.science.org/doi/abs/10.1126/science.ael5176?af=R",
-          "summary": "Science, Volume 393, Issue 6812, Page 736-736, August 2026.",
-          "isoDate": "2026-08-14T08:20:27.000Z"
-        },
-        {
-          "title": "APOD: 2026 August 14 – Total Solar Eclipse from Greenland",
-          "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-14-total-solar-eclipse-from-greenland/",
-          "summary": "APOD Science APOD APOD: 2026 August 14 – Total… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Total Solar […]",
-          "isoDate": "2026-08-14T04:05:00.000Z"
         }
       ]
     },
@@ -141,10 +141,10 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-08-17T06:52:39.537Z"
+          "isoDate": "2026-08-17T12:40:56.638Z"
         },
         {
-          "title": "If Meta loses this trial, Instagram and Facebook could change forever",
+          "title": "Instagram and Facebook could change forever if Meta loses child privacy trial",
           "link": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
           "summary": "US states are suing the social media giant to force an overhaul of its platforms for young users.",
           "isoDate": "2026-08-17T05:00:25.000Z"
@@ -204,6 +204,12 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "New policy ideas for the Intelligence Age",
+          "link": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+          "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
+          "isoDate": "2026-08-17T03:15:00.000Z"
+        },
+        {
           "title": "Introducing Gemini 3.7 Flash",
           "link": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
           "summary": "",
@@ -256,12 +262,6 @@
           "link": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
           "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
           "isoDate": "2026-08-11T10:00:00.000Z"
-        },
-        {
-          "title": "With a feel for physics, AI models simulate a wider range of real-world scenarios",
-          "link": "https://news.mit.edu/2026/ai-models-simulate-wider-range-of-real-world-scenarios-0810",
-          "summary": "“GeoPT” helps AI models understand the basics of physics so they can simulate how objects respond to things like wind and water more efficiently and accurately.",
-          "isoDate": "2026-08-10T19:25:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-08-17T06:52:43.384Z"
+          "isoDate": "2026-08-17T12:40:59.862Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-08-17T06:52:40.902Z"
+          "isoDate": "2026-08-17T12:40:57.847Z"
         },
         {
           "title": "Digital Signal Processing Pioneer Bede Liu Dies At 91",
