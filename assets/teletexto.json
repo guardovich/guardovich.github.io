@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T01:11:34.899Z",
+  "generatedAt": "2026-08-17T06:52:44.380Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
@@ -72,10 +72,52 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "ERROR cargando feed",
-          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
-          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-08-17T01:11:30.902Z"
+          "title": "APOD: 2026 August 17 – A Golden Corona Eclipse",
+          "link": "https://science.nasa.gov/image-article/apod-2026-august-17-a-golden-corona-eclipse/",
+          "summary": "APOD Science APOD APOD: 2026 August 17 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Golden […]",
+          "isoDate": "2026-08-17T04:05:00.000Z"
+        },
+        {
+          "title": "APOD: 2026 August 16 – Milky Way over Yellowstone",
+          "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-16-milky-way-over-yellowstone/",
+          "summary": "APOD Science APOD APOD: 2026 August 16 – Milky… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Milky Way […]",
+          "isoDate": "2026-08-16T04:05:00.000Z"
+        },
+        {
+          "title": "APOD: 2026 August 15 – Bright Perseids from Sweden",
+          "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-15-bright-perseids-from-sweden/",
+          "summary": "APOD Science APOD APOD: 2026 August 15 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Bright Perseids from […]",
+          "isoDate": "2026-08-15T04:05:00.000Z"
+        },
+        {
+          "title": "NASA Competition Invites Students to Help Imagine a Future Enabled by Lunar Technologies ",
+          "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-competition-invites-students-to-help-imagine-a-future-enabled-by-lunar-technologies/",
+          "summary": "NASA is asking U.S.-based collegiate teams to submit bold, original concepts to the 2027 edition of a student challenge focused on aerospace innovation that could help the agency envision a future on the Moon shaped by new technology.  The latest NASA Revolutionary Aerospace Systems Concepts – Academic Linkage (RASC-AL) competition invites student teams to explore new operations paradigms and advance the technologies needed to […]",
+          "isoDate": "2026-08-14T20:00:38.000Z"
+        },
+        {
+          "title": "NASA Announces MAX POWER: America’s Newest Aerospace Expo, Airshow",
+          "link": "https://www.nasa.gov/news-release/nasa-announces-max-power-americas-newest-aerospace-expo-airshow/",
+          "summary": "In honor of America’s historic 250th anniversary, NASA announced on Friday MAX POWER, a public exposition of American air and space innovation, Nov. 7 and Nov. 8, on and near the agency’s Kennedy Space Center in Florida. The multi-day, family-friendly event will showcase the next-generation aircraft, spacecraft, autonomous vehicles, and technologies that will help define […]",
+          "isoDate": "2026-08-14T18:44:36.000Z"
+        },
+        {
+          "title": "Volunteer Develops Machine-Learning Tool to Identify Rare Clouds",
+          "link": "https://science.nasa.gov/get-involved/citizen-science/volunteer-develops-machine-learning-tool-to-identify-rare-clouds/",
+          "summary": "Certain kinds of clouds are misbehaving – appearing more often and lower in the sky than they used to. To help identify the factors influencing these changes, scientists have asked people around the world with cameras to submit fresh images of these clouds as a part of the NASA-supported Space Cloud Watch project.",
+          "isoDate": "2026-08-14T17:35:46.000Z"
+        },
+        {
+          "title": "NASA’s COFFIES Uses AI to Predict Storm-Causing Active Regions on Sun ",
+          "link": "https://science.nasa.gov/science-research/heliophysics/nasas-coffies-uses-ai-to-predict-storm-causing-active-regions-on-sun/",
+          "summary": "As humanity looks to the Moon and stars for future exploration, predicting space weather — conditions in space primarily driven by the Sun — is more important than ever.  Now, a team of astrophysicists and data scientists with NASA’s COFFIES (Consequence Of Fields and Flows in the Interior and Exterior of the Sun) has developed a […]",
+          "isoDate": "2026-08-14T17:00:23.000Z"
+        },
+        {
+          "title": "Total Solar Eclipse in Sunflower Field",
+          "link": "https://www.nasa.gov/image-article/total-solar-eclipse-in-sunflower-field/",
+          "summary": "This composite image shows the progression of a total solar eclipse over San Millán de los Caballeros, Spain on, Wednesday, Aug. 12, 2026. A total solar eclipse swept across parts of Greenland, Iceland, northern Russia, the Atlantic Ocean, Spain, and a small corner of Portugal. A partial eclipse was visible in parts of the U.S., […]",
+          "isoDate": "2026-08-14T14:48:55.000Z"
         },
         {
           "title": "New Products",
@@ -84,52 +126,10 @@
           "isoDate": "2026-08-14T08:20:27.000Z"
         },
         {
-          "title": "Author Correction: Cell intrinsic immunity spreads to bystander cells via the intercellular transfer of cGAMP",
-          "link": "https://www.nature.com/articles/s41586-026-11023-3",
-          "summary": "Nature, Published online: 14 August 2026; doi:10.1038/s41586-026-11023-3\nAuthor Correction: Cell intrinsic immunity spreads to bystander cells via the intercellular transfer of cGAMP",
-          "isoDate": "2026-08-14T00:00:00.000Z"
-        },
-        {
-          "title": "Publisher Correction: Targeting cancer-specific mutations with RNA-triggered chromatin shredding",
-          "link": "https://www.nature.com/articles/s41586-026-11022-4",
-          "summary": "Nature, Published online: 14 August 2026; doi:10.1038/s41586-026-11022-4\nPublisher Correction: Targeting cancer-specific mutations with RNA-triggered chromatin shredding",
-          "isoDate": "2026-08-14T00:00:00.000Z"
-        },
-        {
-          "title": "Briefing Chat: Anthropic rolls out new AI watermark — will it make a difference?",
-          "link": "https://www.nature.com/articles/d41586-026-02562-w",
-          "summary": "Nature, Published online: 14 August 2026; doi:10.1038/d41586-026-02562-w\nNature staff discuss what flagging AI content may mean for research integrity — plus, how people from different cultural backgrounds have the same ‘tickle hotspots’ on the body.",
-          "isoDate": "2026-08-14T00:00:00.000Z"
-        },
-        {
-          "title": "Einstein the musician, AI prophets and more: Books in brief",
-          "link": "https://www.nature.com/articles/d41586-026-02504-6",
-          "summary": "Nature, Published online: 14 August 2026; doi:10.1038/d41586-026-02504-6\nAndrew Robinson reviews five of the best science picks.",
-          "isoDate": "2026-08-14T00:00:00.000Z"
-        },
-        {
-          "title": "Undocumented migration does not raise crime rates, huge study finds",
-          "link": "https://www.nature.com/articles/d41586-026-02542-0",
-          "summary": "Nature, Published online: 14 August 2026; doi:10.1038/d41586-026-02542-0\nAnalysis of neighbourhoods in more than 100 US cities finds no evidence that rising numbers of undocumented immigrants are linked with violent crime.",
-          "isoDate": "2026-08-14T00:00:00.000Z"
-        },
-        {
-          "title": "Should humanoid robots in every household really be a top priority?",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aek2193?af=R",
-          "summary": "Science, Volume 393, Issue 6812, August 2026.",
-          "isoDate": "2026-08-13T07:00:00.000Z"
-        },
-        {
-          "title": "A cross-organ single-cell analysis of hypertension",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aea6187?af=R",
-          "summary": "Science, Volume 393, Issue 6812, August 2026.",
-          "isoDate": "2026-08-13T07:00:00.000Z"
-        },
-        {
-          "title": "Chemovaccination with a late-liver-stage antimalarial induces durable immunity against malaria",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aea7605?af=R",
-          "summary": "Science, Volume 393, Issue 6812, August 2026.",
-          "isoDate": "2026-08-13T07:00:00.000Z"
+          "title": "APOD: 2026 August 14 – Total Solar Eclipse from Greenland",
+          "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-14-total-solar-eclipse-from-greenland/",
+          "summary": "APOD Science APOD APOD: 2026 August 14 – Total… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Total Solar […]",
+          "isoDate": "2026-08-14T04:05:00.000Z"
         }
       ]
     },
@@ -141,13 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-08-17T01:11:32.281Z"
+          "isoDate": "2026-08-17T06:52:39.537Z"
         },
         {
           "title": "If Meta loses this trial, Instagram and Facebook could change forever",
           "link": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
-          "summary": "Thirty US states have sued Meta to force an overhaul of its platforms for young users.",
-          "isoDate": "2026-08-16T23:27:36.000Z"
+          "summary": "US states are suing the social media giant to force an overhaul of its platforms for young users.",
+          "isoDate": "2026-08-17T05:00:25.000Z"
         },
         {
           "title": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
@@ -166,12 +166,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cz97ljy91zxo?at_medium=RSS&at_campaign=rss",
           "summary": "Meta boss Mark Zuckerberg is the latest Big Tech name to pen a letter thousands of words long about AI.",
           "isoDate": "2026-08-14T23:06:27.000Z"
-        },
-        {
-          "title": "Protein or pickled garlic? What's new in ice cream",
-          "link": "https://www.bbc.co.uk/news/articles/c9826zl0945o?at_medium=RSS&at_campaign=rss",
-          "summary": "There's a constant battle in ice cream to come up with new flavours and to keep costs down.",
-          "isoDate": "2026-08-14T21:20:19.000Z"
         },
         {
           "title": "Bumble divides users by ditching its signature 'women-first' chat rule",
@@ -196,6 +190,12 @@
           "link": "https://www.bbc.co.uk/news/videos/cwyq22g0ylxo?at_medium=RSS&at_campaign=rss",
           "summary": "The streaming platform's users criticised the move to allow the use of channel content for AI training.",
           "isoDate": "2026-08-13T07:04:31.000Z"
+        },
+        {
+          "title": "Why Japanese firms are being so slow to use AI",
+          "link": "https://www.bbc.co.uk/news/articles/cwymw4434v7o?at_medium=RSS&at_campaign=rss",
+          "summary": "Japanese risk aversion and conservatism blamed for slow AI take-up by the country's business sector.",
+          "isoDate": "2026-08-12T23:00:47.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-08-17T01:11:34.190Z"
+          "isoDate": "2026-08-17T06:52:43.384Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-08-17T01:11:33.306Z"
+          "isoDate": "2026-08-17T06:52:40.902Z"
         },
         {
           "title": "Digital Signal Processing Pioneer Bede Liu Dies At 91",
