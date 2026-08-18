@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-08-18T01:09:09.694Z",
+  "generatedAt": "2026-08-18T06:40:28.602Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Theban tomb reveals how Egyptian burial trends evolved in time",
+          "link": "https://arstechnica.com/science/2026/08/theban-tomb-reveals-how-egyptian-burial-trends-evolved-in-time/",
+          "summary": "Practices shifted from individuals buried in coffins to reusing sites for later mummy interments.",
+          "isoDate": "2026-08-18T04:00:40.000Z"
+        },
         {
           "title": "Reddit’s AI is turning posts into podcasts and short videos",
           "link": "https://www.theverge.com/tech/981289/reddit-ai-text-video-posts",
@@ -58,12 +64,6 @@
           "link": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
           "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Flock, the police-tech giant known for its network of some 120,000 automatic license plate readers around the US, announced some changes to its platform last Thursday. The updates are meant to prevent…",
           "isoDate": "2026-08-17T19:16:09.000Z"
-        },
-        {
-          "title": "Wordle meets Clippy in this new word game",
-          "link": "https://www.theverge.com/entertainment/981014/dartwords-clippy-word-game",
-          "summary": "Like many of us, Sam Rosenthal plays games like Wordle every day, chasing after good scores and sharing the results with friends and family. But he's also a game designer, the creative director at Blaseball developer The Game Band, and so this regular habit got him thinking about what else could be done in the space. \"When I was a kid and I played word games with my family, they weren't the New York Times puzzle games,\" Rosenthal explains. \"We were sitting in a car on a road trip playing these really loose games that couldn't be made digitally before. Things like the alphabet game or our own riffs on 20 questions. That felt like a really int …\nRead the full story at The Verge.",
-          "isoDate": "2026-08-17T19:03:41.000Z"
         }
       ]
     },
@@ -72,63 +72,63 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "Curiosity Blog, Sols 4975-4981: Happy 14th Landing Anniversary",
-          "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4975-4981-happy-14th-landing-anniversary/",
-          "summary": "By Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Friday, Aug. 7, 2026 This week was very special for the Curiosity team here on Earth as we celebrated the 14th landing anniversary. I still remember watching the buildup to the entry phase on “Eyes on the Solar System” […]",
-          "isoDate": "2026-08-17T23:10:41.000Z"
-        },
-        {
-          "title": "NASA Selects Companies to Provide Payload Processing Services",
-          "link": "https://www.nasa.gov/news-release/nasa-selects-companies-to-provide-payload-processing-services/",
-          "summary": "NASA has selected four companies to provide payload processing facilities under the Spacecraft Processing Operations Contract on‑ramp provision. The provision enables qualified providers to offer commercial payload processing services for agency missions launching from multiple locations where capabilities were not available at the time of the initial contract award. Contract awardees are: Through the contract, […]",
-          "isoDate": "2026-08-17T20:17:20.000Z"
-        },
-        {
-          "title": "NASA Mission Studies Air Pollution Over Ethiopia",
-          "link": "https://www.nasa.gov/missions/maia/nasa-mission-studies-air-pollution-over-ethiopia/",
-          "summary": "A NASA-funded air pollution monitoring network has provided one of the most detailed long-term views yet of the role of black carbon, or soot produced by fires, diesel vehicles, and other combustion sources, in Ethiopia’s capital, Addis Ababa. The detailed measurements show how pollution changes by time of day and season, including increases associated with […]",
-          "isoDate": "2026-08-17T19:24:34.000Z"
-        },
-        {
-          "title": "Next Generation of Planetary Scientists Learn Public Engagement Skills",
-          "link": "https://science.nasa.gov/learning-resources/science-activation/next-generation-of-planetary-scientists-learn-public-engagement-skills/",
-          "summary": "FORCE is a world-class laboratory that uses high-pressure experimental equipment to recreate the extreme conditions found deep within Earth and other planetary bodies, enabling researchers to better understand how planets form, evolve, and behave under immense pressures.",
-          "isoDate": "2026-08-17T17:52:42.000Z"
-        },
-        {
-          "title": "Colorful Collage of Tarantula Nebula",
-          "link": "https://www.nasa.gov/image-article/colorful-collage-of-tarantula-nebula/",
-          "summary": "Data from NASA’s Chandra X-ray Observatory, NASA’s James Webb Space Telescope, and NASA’s Hubble Space Telescope combine to reveal a vibrant view of 30 Doradus, or the Tarantula Nebula, in this Aug. 11, 2026, image. Located in the Large Magellanic Cloud, a small neighbor galaxy to the Milky Way about 160,000 light-years from Earth, the […]",
-          "isoDate": "2026-08-17T16:00:09.000Z"
-        },
-        {
-          "title": "NASA Challenge Tests Wheel Designs for Moon Base Mobility",
-          "link": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-challenge-tests-wheel-designs-for-moon-base-mobility/",
-          "summary": "As NASA prepares to establish the Moon Base, advancing surface mobility will be key to helping crews and robotic systems travel farther across the lunar surface.  To help advance that capability, the Rock and Roll with NASA Challenge invited public innovators to design and build next-generation lunar rover wheels.  Five teams from 128 submissions and 49 countries advanced to the final phase of the […]",
-          "isoDate": "2026-08-17T15:09:05.000Z"
-        },
-        {
-          "title": "Hubble Solves Merger Mystery From Milky Way’s Early Years",
-          "link": "https://science.nasa.gov/missions/hubble/hubble-solves-merger-mystery-from-milky-ways-early-years/",
-          "summary": "New Hubble data shows definitive evidence of a dwarf galaxy merging with the young Milky Way in the earliest phases of its evolution.",
-          "isoDate": "2026-08-17T15:00:11.000Z"
-        },
-        {
-          "title": "APOD: 2026 August 17 – A Golden Corona Eclipse",
-          "link": "https://science.nasa.gov/image-article/apod-2026-august-17-a-golden-corona-eclipse/",
-          "summary": "APOD Science APOD APOD: 2026 August 17 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Golden […]",
-          "isoDate": "2026-08-17T04:05:00.000Z"
-        },
-        {
-          "title": "Chasing Fire Clouds in Utah",
-          "link": "https://science.nasa.gov/earth/earth-observatory/chasing-fire-clouds-in-utah/",
-          "summary": "NASA aircraft are sampling smoke lofted high into the atmosphere by one of the most formidable cloud types in the sky—towering, smoke-infused pyrocumulonimbus.",
-          "isoDate": "2026-08-17T04:01:00.000Z"
+          "title": "ERROR cargando feed",
+          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
+          "isoDate": "2026-08-18T06:40:25.200Z"
         },
         {
           "title": "Positional isomerisation of pyridine via nitrogen transposition",
           "link": "https://www.nature.com/articles/s41586-026-11006-4",
           "summary": "Nature, Published online: 17 August 2026; doi:10.1038/s41586-026-11006-4\nPositional isomerisation of pyridine via nitrogen transposition",
+          "isoDate": "2026-08-17T00:00:00.000Z"
+        },
+        {
+          "title": "Programmable remodelling of carbon–nitrogen connectivity in amines",
+          "link": "https://www.nature.com/articles/s41586-026-11009-1",
+          "summary": "Nature, Published online: 17 August 2026; doi:10.1038/s41586-026-11009-1\nProgrammable remodelling of carbon–nitrogen connectivity in amines",
+          "isoDate": "2026-08-17T00:00:00.000Z"
+        },
+        {
+          "title": "Author Correction: Synthetic vulnerabilities of mesenchymal subpopulations in pancreatic cancer",
+          "link": "https://www.nature.com/articles/s41586-026-10995-6",
+          "summary": "Nature, Published online: 17 August 2026; doi:10.1038/s41586-026-10995-6\nAuthor Correction: Synthetic vulnerabilities of mesenchymal subpopulations in pancreatic cancer",
+          "isoDate": "2026-08-17T00:00:00.000Z"
+        },
+        {
+          "title": "Defect passivation and optical management of triple-junction solar cells",
+          "link": "https://www.nature.com/articles/s41586-026-11010-8",
+          "summary": "Nature, Published online: 17 August 2026; doi:10.1038/s41586-026-11010-8\nDefect passivation and optical management of triple-junction solar cells",
+          "isoDate": "2026-08-17T00:00:00.000Z"
+        },
+        {
+          "title": "Too hot to sleep? How heatwaves at night affect our health",
+          "link": "https://www.nature.com/articles/d41586-026-02532-2",
+          "summary": "Nature, Published online: 17 August 2026; doi:10.1038/d41586-026-02532-2\nAs climate change ramps up, scientists must urgently understand how night-time heat makes it harder for our bodies to rest and recover.",
+          "isoDate": "2026-08-17T00:00:00.000Z"
+        },
+        {
+          "title": "How the story of life and our planet unfolded — together",
+          "link": "https://www.nature.com/articles/d41586-026-02530-4",
+          "summary": "Nature, Published online: 17 August 2026; doi:10.1038/d41586-026-02530-4\nEarth’s four-billion-year-long conversation with its resident life forms has shaped our world, and holds lessons for our future.",
+          "isoDate": "2026-08-17T00:00:00.000Z"
+        },
+        {
+          "title": "Universities must stop protecting bullies — or more people will leave science",
+          "link": "https://www.nature.com/articles/d41586-026-02526-0",
+          "summary": "Nature, Published online: 17 August 2026; doi:10.1038/d41586-026-02526-0\nLetting powerful academics off the hook and punishing the people they bullied sends the message that abuse is acceptable in academia.",
+          "isoDate": "2026-08-17T00:00:00.000Z"
+        },
+        {
+          "title": "First-of-its-kind narcolepsy drug opens door to new therapies for the brain",
+          "link": "https://www.nature.com/articles/d41586-026-02552-y",
+          "summary": "Nature, Published online: 17 August 2026; doi:10.1038/d41586-026-02552-y\nThe drug, called Orzeyful, takes aim at the root cause of the sleep disorder rather than at its symptoms.",
+          "isoDate": "2026-08-17T00:00:00.000Z"
+        },
+        {
+          "title": "Why AI systems are most useful as designers of new scientific tools",
+          "link": "https://www.nature.com/articles/d41586-026-02529-x",
+          "summary": "Nature, Published online: 17 August 2026; doi:10.1038/d41586-026-02529-x\nHistory shows that breakthroughs are often sparked by innovative instruments, and AI’s ability to help design them might be its most important scientific contribution.",
           "isoDate": "2026-08-17T00:00:00.000Z"
         }
       ]
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-08-18T01:09:07.344Z"
+          "isoDate": "2026-08-18T06:40:26.293Z"
         },
         {
           "title": "Instagram and Facebook could change forever if Meta loses child privacy trial",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-08-18T01:09:09.060Z"
+          "isoDate": "2026-08-18T06:40:28.058Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-08-18T01:09:08.554Z"
+          "isoDate": "2026-08-18T06:40:27.280Z"
         },
         {
           "title": "IEEE Presidents’ Scholarship Honors Teen Innovators",
