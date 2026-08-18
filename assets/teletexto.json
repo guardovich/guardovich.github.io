@@ -1,69 +1,69 @@
 {
-  "generatedAt": "2026-08-18T06:40:28.602Z",
+  "generatedAt": "2026-08-18T12:42:21.786Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
         {
-          "title": "Theban tomb reveals how Egyptian burial trends evolved in time",
-          "link": "https://arstechnica.com/science/2026/08/theban-tomb-reveals-how-egyptian-burial-trends-evolved-in-time/",
-          "summary": "Practices shifted from individuals buried in coffins to reusing sites for later mummy interments.",
-          "isoDate": "2026-08-18T04:00:40.000Z"
+          "title": "The Download: how people really use AI, and Flock’s design choices",
+          "link": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We still don’t know how people are really using AI AI companies like Anthropic and OpenAI regularly publish reports on how people are using their products. But they only release the…",
+          "isoDate": "2026-08-18T12:10:00.000Z"
         },
         {
-          "title": "Reddit’s AI is turning posts into podcasts and short videos",
-          "link": "https://www.theverge.com/tech/981289/reddit-ai-text-video-posts",
-          "summary": "Reddit is trying out a new way for people to take in content on Reddit: by turning text posts into audio / video content. As part of an experiment, some posts are being adapted into videos that use AI voices to read the text of the main post and some comments. The video highlights the text as it's read by the AI voice, and under the video, a note says that it's a \"Real conversation voiced by AI.\"\nAn old post in r/boardgames from eight years ago with 101 responses to a request for good road trip games that adults will like is an example of Reddit's AI at work. Instead of the usual text thread, it has the main question above a three-minute vi …\nRead the full story at The Verge.",
-          "isoDate": "2026-08-17T23:46:01.000Z"
+          "title": "Google&#8217;s Pet Memory forgot who my cats are",
+          "link": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
+          "summary": "One of the best things my smart home does is help me care for my pets, and security cameras are particularly useful for keeping track of my many critters. But the barrage of notifications they send often means I miss important ones. So, when Google announced its new Pet Memory feature for Gemini for Home, I thought this could be the perfect solution.\nPet Memory promises to teach your Google Home smart home who your pets are, allowing connected Nest cameras to go beyond simply telling you they saw an animal to which animal they saw. It can then use that knowledge to adapt your smart home to your pet. \nMy plan was to use it to keep a digital …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-18T12:01:29.000Z"
         },
         {
-          "title": "US vaccination rates fall again as exemptions continue to rise, CDC data shows",
-          "link": "https://arstechnica.com/health/2026/08/us-vaccination-rates-fall-again-as-exemptions-continue-to-rise-cdc-data-shows/",
-          "summary": "Again, the CDC did not publish a full report and instead simply put the data online.",
-          "isoDate": "2026-08-17T22:08:47.000Z"
+          "title": "The Verge Guide to Pets",
+          "link": "https://www.theverge.com/tech/975556/pets-tech-autofeeder-litter-robot-scale",
+          "summary": "Ah, the relationship between animals and the technology they can’t quite understand. \nToday, it seems like there’s a high-tech solution to every element of pet ownership, with devices on the market designed to keep pets fed, cleaned, watched over, and entertained. And if you have a pet you know: nothing is too good — or too cutting-edge —  for your (furry, slimy, feathery) best friend.\nBut while some tech can help care for your pet, it can be complicated when dogs and cats meet wires and waves. You might feel complicated about offloading elements of kitten parenthood to a robot. Some pet tech innovations over-promise or are over-hyped. And of course, your puppy (or parrot) might well mistake your gadgets for a snack. \nTo that end, we’ve put together a week of stories that explore the intersection of technology and pet ownership. Read on for how to take a decent photograph of your cat, pet scales and the chunky companions who need them, and takes on our favorite tools, both simple and complex.\n\n\n\nWhisker’s AI-powered litter robot thinks my cats swapped bodies\nHow to take better photos of your pets\nHow I turned my fish tank high tech\nMy parrot ate my keyboard\nOops! My cat is an iPad kid\nGoogle’s Pet Memory forgot who my cats are",
+          "isoDate": "2026-08-18T12:01:28.000Z"
         },
         {
-          "title": "Former SpaceX engineers are building a robotic factory for making steel parts",
-          "link": "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/",
-          "summary": "“We're not necessarily building in a dogmatic fashion towards full autonomy.”",
-          "isoDate": "2026-08-17T21:18:49.000Z"
+          "title": "My parrot ate my keyboard",
+          "link": "https://www.theverge.com/tech/978402/parrot-ate-keyboard-protect",
+          "summary": "One of the great joys in life is having pets. The unconditional love, the snuggles, the excitement they show when you get home - these things add an emotional fulfillment to daily existence that can't be achieved in another way. I think everyone's life would be better with a pet (or two) in their lives. It's an incredible experience. Except for those few times when it isn't.\nBoth my wife and I work from home, and in a two-bedroom Los Angeles apartment with a kid, two dogs, and a bird, we're constantly in close quarters. Kiyo, our Senegal parrot, has the best view of us all with his cage situated at a corner wraparound window in our living r …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-18T12:00:00.000Z"
         },
         {
-          "title": "ABC&#8217;s livestreamed news show is powered by trending topics",
-          "link": "https://www.theverge.com/streaming/981209/abc-news-searched-livestreamed-show",
-          "summary": "ABC News has officially introduced Searched, a livestreamed show that highlights stories people are discussing on social media and searching on the web, as reported earlier by Variety. Though the network just announced the show now, Searched began airing on the ABC News Live streaming channel in April, which appears on both Disney Plus and Hulu.\nIn the press release, ABC News says Searched \"pulls real-time data from the top search engines and social media platforms to provide topical news for the audience.\" A recent episode of Searched highlighted an Illinois Powerball winner, NBA star Russell Westbrook's retirement, and Tropical Storm Lala …\nRead the full story at The Verge.",
-          "isoDate": "2026-08-17T20:59:23.000Z"
+          "title": "Oops! My cat is an iPad kid",
+          "link": "https://www.theverge.com/tech/980226/cat-ipad-kid-pet-tech-games-youtube",
+          "summary": "Pets, like children, come with the responsibility to keep them happy, healthy, and mentally stimulated - obligations I readily committed to before getting my cat, Trevor. I work from home, so he's never lonely, and play with him using a mountain of toys at every opportunity outside of my working hours. But younger cats can be incredibly demanding of your attention. I simply don't have the capacity to physically entertain Trevor every time he yowls at me (constantly) or distract him from chewing every cable he can get his paws on (also constantly).\nUnlike children, one of the perks of having a blissfully simple animal is that there are far f …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-18T11:30:00.000Z"
         },
         {
-          "title": "The Moon's shadow raced across the heart of Spain, and I was there to see it",
-          "link": "https://arstechnica.com/space/2026/08/the-moons-shadow-raced-across-the-heart-of-spain-and-i-was-there-to-see-it/",
-          "summary": "Here's what it was like watching a total solar eclipse 90 minutes north of Madrid.",
-          "isoDate": "2026-08-17T20:23:09.000Z"
+          "title": "How I turned my fish tank high tech",
+          "link": "https://www.theverge.com/tech/978229/fish-tank-tech",
+          "summary": "When I was a kid, I owned two goldfish that eventually outgrew the size of their tank. At the time, I didn't realize just how much actually goes into having fish and keeping them healthy. I've learned a lot over the past couple of years while keeping nano fish - a group of five celestial pearl danios and four corydoras habrosus - along with some live plants.\nAfter filling up a 10-gallon tank with water and adding a filter, I was eager to add my first fish, but I soon found out that the tank must run without fish for several weeks to establish beneficial bacteria and create a stable underwater environment. But the work doesn't stop there. Ca …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-18T11:15:00.000Z"
         },
         {
-          "title": "As Wisconsin cities flee Flock, its shared camera network loses value",
-          "link": "https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/",
-          "summary": "\"Network effect\" can run in reverse.",
-          "isoDate": "2026-08-17T20:14:23.000Z"
+          "title": "As temperatures get hotter, pesticides are more dangerous to farmworkers",
+          "link": "https://arstechnica.com/science/2026/08/as-temperatures-get-hotter-pesticides-are-more-dangerous-to-farmworkers/",
+          "summary": "Research shows heat amplifies the dangers of pesticides.",
+          "isoDate": "2026-08-18T11:07:49.000Z"
         },
         {
-          "title": "Supreme Court rejects Verizon bid for $47 million refund of FCC fine",
-          "link": "https://arstechnica.com/tech-policy/2026/08/supreme-court-rejects-verizon-bid-for-47-million-refund-of-fcc-fine/",
-          "summary": "Despite loss, carriers still claim selling device-location data isn't illegal.",
-          "isoDate": "2026-08-17T20:00:20.000Z"
+          "title": "Fairphone’s latest repairable phone is going on sale in the US",
+          "link": "https://www.theverge.com/tech/980876/fairphone-6-plus-us-t-mobile-amazon",
+          "summary": "The Fairphone 6 Plus is the first Fairphone to officially launch in the US. | Photo: Dominic Preston / The Verge\t\n\nThe Fairphone 6 Plus is a minor hardware refresh, but a major launch for the company: It's the first phone that Fairphone is selling directly in the US. It's on sale now for $649.99, available through Fairphone's website and Amazon, and is sold unlocked with support for both T-Mobile and AT&T. In Europe, it costs €649, a €50 increase on last year's phone. \nFairphones from the 4 onwards have been available to buy in the US, but never from Fairphone itself. They were exclusively sold through a partnership with Murena, the developer of /e/OS, a \"de-Googled\" version of Android. That meant buyers were forced to use Murena's software - which is c …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-18T11:00:00.000Z"
         },
         {
-          "title": "This compact Glorious mechanical keyboard is just $35",
-          "link": "https://www.theverge.com/gadgets/981134/glorious-gmmk-3-mechanical-keyboard-deal-sale",
-          "summary": "The discounted GMMK 3 doesn’t include the pictured wrist rest. | Image: Glorious\t\n\nAre you curious about custom mechanical keyboards, but don’t want to spend hundreds just to get started without being sure you’ll enjoy the hobby? You can grab the 65-percent Glorious GMMK 3 mechanical keyboard at Woot for $34.99 (usually $139.99) by entering the coupon code WOOTGAMING at checkout, and first-time Woot customers will get an extra $5 off when using the same code.\nIt’s a well-equipped keyboard out of the box, particularly for this price, and with its support for swappable switches, it’s a great platform for exploring keycap and switch options from different makers. It’s wired only, includes a full set of double-shot PBT keycaps for both Windows and macOS, and comes with linear Glorious Fox switches pre-installed.\nGlorious GMMK 3 65 Percent\n\nWhere to Buy:\n\n $139.99 $34.99 at Woot (with coupon code WOOTGAMING)\n\nAs a 65 percent mechanical keyboard, the layout favors just the essentials to keep a compact footprint. That means dropping the row of dedicated function keys, and limiting the extra buttons to standard modifiers, plus a couple of spare buttons for page up and down. There are still arrow keys for gaming and OS navigation, and a customizable knob for volume or media controls. Under the hood, the aluminum plate and gasket system are modifiable and upgradeable, letting you dial in the typing experience and sound.",
-          "isoDate": "2026-08-17T19:27:49.000Z"
+          "title": "Elon Musk made flying even worse so Palantir could profit",
+          "link": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir",
+          "summary": "On August 6th, the Minneapolis Air Route Traffic Control Center lost radar and communications for around two hours. The outage disrupted more than 1,100 flights across the center's 330,000 square mile, nine-state airspace sector. \nTwo days earlier, on August 4th, President Donald Trump departed the White House inside his Marine One military helicopter. As Federal Aviation Administration (FAA) protocol requires, the pilots tried to contact Reagan National Airport to tell them to halt commercial traffic during the flight. But the air traffic controllers never heard the transmission and cleared a different airplane for takeoff - which came clo …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-18T11:00:00.000Z"
         },
         {
-          "title": "What Flock’s defenders are missing",
-          "link": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
-          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Flock, the police-tech giant known for its network of some 120,000 automatic license plate readers around the US, announced some changes to its platform last Thursday. The updates are meant to prevent…",
-          "isoDate": "2026-08-17T19:16:09.000Z"
+          "title": "ChatGPT is getting a dedicated mode for teens",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
+          "summary": "ChatGPT for Teens includes safeguards and parental controls. | Image: OpenAI\t\n\nOpenAI is introducing a dedicated ChatGPT mode for teenagers, combining existing youth safeguards and new safety features under one roof. The launch comes amid mounting public scrutiny over how AI tools affect younger users, as other platforms implement their own age checks and teen-specific protections.  \nChatGPT for Teens is \"an experience designed to help teens learn, think critically, deepen understanding, and use AI with confidence,\" OpenAI said in a blog post published Tuesday. Teen mode will automatically apply to users who identify themselves as being between the ages of 13 and 17, as well as those the system estimates to be under 1 …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-18T11:00:00.000Z"
         }
       ]
     },
@@ -72,64 +72,64 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "ERROR cargando feed",
-          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
-          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-08-18T06:40:25.200Z"
+          "title": "Heatwaves expose weak links in food systems",
+          "link": "https://www.nature.com/articles/d41586-026-02577-3",
+          "summary": "Nature, Published online: 18 August 2026; doi:10.1038/d41586-026-02577-3\nHeatwaves expose weak links in food systems",
+          "isoDate": "2026-08-18T00:00:00.000Z"
         },
         {
-          "title": "Positional isomerisation of pyridine via nitrogen transposition",
-          "link": "https://www.nature.com/articles/s41586-026-11006-4",
-          "summary": "Nature, Published online: 17 August 2026; doi:10.1038/s41586-026-11006-4\nPositional isomerisation of pyridine via nitrogen transposition",
-          "isoDate": "2026-08-17T00:00:00.000Z"
+          "title": "Treat biological databases as infrastructure, not projects",
+          "link": "https://www.nature.com/articles/d41586-026-02575-5",
+          "summary": "Nature, Published online: 18 August 2026; doi:10.1038/d41586-026-02575-5\nTreat biological databases as infrastructure, not projects",
+          "isoDate": "2026-08-18T00:00:00.000Z"
         },
         {
-          "title": "Programmable remodelling of carbon–nitrogen connectivity in amines",
-          "link": "https://www.nature.com/articles/s41586-026-11009-1",
-          "summary": "Nature, Published online: 17 August 2026; doi:10.1038/s41586-026-11009-1\nProgrammable remodelling of carbon–nitrogen connectivity in amines",
-          "isoDate": "2026-08-17T00:00:00.000Z"
+          "title": "Europe must adapt to live with megafires",
+          "link": "https://www.nature.com/articles/d41586-026-02578-2",
+          "summary": "Nature, Published online: 18 August 2026; doi:10.1038/d41586-026-02578-2\nEurope must adapt to live with megafires",
+          "isoDate": "2026-08-18T00:00:00.000Z"
         },
         {
-          "title": "Author Correction: Synthetic vulnerabilities of mesenchymal subpopulations in pancreatic cancer",
-          "link": "https://www.nature.com/articles/s41586-026-10995-6",
-          "summary": "Nature, Published online: 17 August 2026; doi:10.1038/s41586-026-10995-6\nAuthor Correction: Synthetic vulnerabilities of mesenchymal subpopulations in pancreatic cancer",
-          "isoDate": "2026-08-17T00:00:00.000Z"
+          "title": "Asia’s longevity gains must be translated into better health",
+          "link": "https://www.nature.com/articles/d41586-026-02576-4",
+          "summary": "Nature, Published online: 18 August 2026; doi:10.1038/d41586-026-02576-4\nAsia’s longevity gains must be translated into better health",
+          "isoDate": "2026-08-18T00:00:00.000Z"
         },
         {
-          "title": "Defect passivation and optical management of triple-junction solar cells",
-          "link": "https://www.nature.com/articles/s41586-026-11010-8",
-          "summary": "Nature, Published online: 17 August 2026; doi:10.1038/s41586-026-11010-8\nDefect passivation and optical management of triple-junction solar cells",
-          "isoDate": "2026-08-17T00:00:00.000Z"
+          "title": "How to get the most out of an informational interview",
+          "link": "https://www.nature.com/articles/d41586-026-01932-8",
+          "summary": "Nature, Published online: 18 August 2026; doi:10.1038/d41586-026-01932-8\nThese informal meetings can help you to explore new career opportunities, but there is a knack to getting them right.",
+          "isoDate": "2026-08-18T00:00:00.000Z"
         },
         {
-          "title": "Too hot to sleep? How heatwaves at night affect our health",
-          "link": "https://www.nature.com/articles/d41586-026-02532-2",
-          "summary": "Nature, Published online: 17 August 2026; doi:10.1038/d41586-026-02532-2\nAs climate change ramps up, scientists must urgently understand how night-time heat makes it harder for our bodies to rest and recover.",
-          "isoDate": "2026-08-17T00:00:00.000Z"
+          "title": "Will you be wearing an exoskeleton in ten years? The tech that could change how we move",
+          "link": "https://www.nature.com/articles/d41586-026-02527-z",
+          "summary": "Nature, Published online: 18 August 2026; doi:10.1038/d41586-026-02527-z\nRobotic supports were once designed for clinical use, but researchers are now developing cheaper, smaller devices aimed at everyone — from people with ageing knees to 20-somethings seeking to climb mountains.",
+          "isoDate": "2026-08-18T00:00:00.000Z"
         },
         {
-          "title": "How the story of life and our planet unfolded — together",
-          "link": "https://www.nature.com/articles/d41586-026-02530-4",
-          "summary": "Nature, Published online: 17 August 2026; doi:10.1038/d41586-026-02530-4\nEarth’s four-billion-year-long conversation with its resident life forms has shaped our world, and holds lessons for our future.",
-          "isoDate": "2026-08-17T00:00:00.000Z"
+          "title": "Five ways 3D printing is improving lab work",
+          "link": "https://www.nature.com/articles/d41586-026-02535-z",
+          "summary": "Nature, Published online: 18 August 2026; doi:10.1038/d41586-026-02535-z\nAs 3D printers become cheaper and easier to work with, researchers are finding new ways to incorporate the technology in their studies.",
+          "isoDate": "2026-08-18T00:00:00.000Z"
         },
         {
-          "title": "Universities must stop protecting bullies — or more people will leave science",
-          "link": "https://www.nature.com/articles/d41586-026-02526-0",
-          "summary": "Nature, Published online: 17 August 2026; doi:10.1038/d41586-026-02526-0\nLetting powerful academics off the hook and punishing the people they bullied sends the message that abuse is acceptable in academia.",
-          "isoDate": "2026-08-17T00:00:00.000Z"
+          "title": "How the Middle East can become a hub for sustainable aviation fuels",
+          "link": "https://www.nature.com/articles/d41586-026-02531-3",
+          "summary": "Nature, Published online: 18 August 2026; doi:10.1038/d41586-026-02531-3\nBuilding on the region’s oil infrastructure, investment funds and shipping corridors, Gulf nations can thrive in the clean-energy economy.",
+          "isoDate": "2026-08-18T00:00:00.000Z"
         },
         {
-          "title": "First-of-its-kind narcolepsy drug opens door to new therapies for the brain",
-          "link": "https://www.nature.com/articles/d41586-026-02552-y",
-          "summary": "Nature, Published online: 17 August 2026; doi:10.1038/d41586-026-02552-y\nThe drug, called Orzeyful, takes aim at the root cause of the sleep disorder rather than at its symptoms.",
-          "isoDate": "2026-08-17T00:00:00.000Z"
+          "title": "Curiosity Blog, Sols 4975-4981: Happy 14th Landing Anniversary",
+          "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4975-4981-happy-14th-landing-anniversary/",
+          "summary": "By Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Friday, Aug. 7, 2026 This week was very special for the Curiosity team here on Earth as we celebrated the 14th landing anniversary. I still remember watching the buildup to the entry phase on “Eyes on the Solar System” […]",
+          "isoDate": "2026-08-17T23:10:41.000Z"
         },
         {
-          "title": "Why AI systems are most useful as designers of new scientific tools",
-          "link": "https://www.nature.com/articles/d41586-026-02529-x",
-          "summary": "Nature, Published online: 17 August 2026; doi:10.1038/d41586-026-02529-x\nHistory shows that breakthroughs are often sparked by innovative instruments, and AI’s ability to help design them might be its most important scientific contribution.",
-          "isoDate": "2026-08-17T00:00:00.000Z"
+          "title": "NASA Selects Companies to Provide Payload Processing Services",
+          "link": "https://www.nasa.gov/news-release/nasa-selects-companies-to-provide-payload-processing-services/",
+          "summary": "NASA has selected four companies to provide payload processing facilities under the Spacecraft Processing Operations Contract on‑ramp provision. The provision enables qualified providers to offer commercial payload processing services for agency missions launching from multiple locations where capabilities were not available at the time of the initial contract award. Contract awardees are: Through the contract, […]",
+          "isoDate": "2026-08-17T20:17:20.000Z"
         }
       ]
     },
@@ -141,13 +141,25 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-08-18T06:40:26.293Z"
+          "isoDate": "2026-08-18T12:42:18.366Z"
         },
         {
-          "title": "Instagram and Facebook could change forever if Meta loses child privacy trial",
+          "title": "OpenAI makes ChatGPT less 'human' for teens in new safety update",
+          "link": "https://www.bbc.co.uk/news/articles/czxqz91n5n8o?at_medium=RSS&at_campaign=rss",
+          "summary": "OpenAI insisted this was not in response to a particular issue with children believing ChatGPT to be alive.",
+          "isoDate": "2026-08-18T11:26:26.000Z"
+        },
+        {
+          "title": "AI to help planes avoid climate-warming 'sky graffiti' ",
+          "link": "https://www.bbc.co.uk/news/articles/c62em5lpvnjo?at_medium=RSS&at_campaign=rss",
+          "summary": "A new UK trial hopes to reduce the condensation trails from planes, which can trap heat in the Earth's atmosphere.",
+          "isoDate": "2026-08-18T09:26:41.000Z"
+        },
+        {
+          "title": "US states call for big changes to Instagram and Facebook as Meta child privacy trial begins",
           "link": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
           "summary": "US states are suing the social media giant to force an overhaul of its platforms for young users.",
-          "isoDate": "2026-08-17T05:00:25.000Z"
+          "isoDate": "2026-08-18T09:00:33.000Z"
         },
         {
           "title": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
@@ -184,18 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
           "summary": "Users of the popular streaming platform criticised allowing Amazon to use their data by dafault.",
           "isoDate": "2026-08-13T10:39:02.000Z"
-        },
-        {
-          "title": "Amazon is using Twitch to train generative AI",
-          "link": "https://www.bbc.co.uk/news/videos/cwyq22g0ylxo?at_medium=RSS&at_campaign=rss",
-          "summary": "The streaming platform's users criticised the move to allow the use of channel content for AI training.",
-          "isoDate": "2026-08-13T07:04:31.000Z"
-        },
-        {
-          "title": "Why Japanese firms are being so slow to use AI",
-          "link": "https://www.bbc.co.uk/news/articles/cwymw4434v7o?at_medium=RSS&at_campaign=rss",
-          "summary": "Japanese risk aversion and conservatism blamed for slow AI take-up by the country's business sector.",
-          "isoDate": "2026-08-12T23:00:47.000Z"
         }
       ]
     },
@@ -203,6 +203,18 @@
       "header": "160  INTELIGENCIA ARTIFICIAL",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Partnering with CodeAI to prepare the first AI generation",
+          "link": "https://openai.com/index/partnering-with-codeai",
+          "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
+          "isoDate": "2026-08-18T11:00:00.000Z"
+        },
+        {
+          "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+          "link": "https://openai.com/index/chatgpt-for-teens",
+          "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
+          "isoDate": "2026-08-18T11:00:00.000Z"
+        },
         {
           "title": "Q&A: Rethinking how innovation happens",
           "link": "https://news.mit.edu/2026/qa-eugene-fitzgerald-rethinking-how-innovation-happens-0818",
@@ -250,18 +262,6 @@
           "link": "https://openai.com/index/dali-rajic-chief-revenue-officer",
           "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
           "isoDate": "2026-08-13T09:00:00.000Z"
-        },
-        {
-          "title": "Putting sign language AI into users’ hands",
-          "link": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
-          "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
-          "isoDate": "2026-08-12T14:01:59.000Z"
-        },
-        {
-          "title": "From assistance to execution: How enterprises put AI to work",
-          "link": "https://openai.com/index/how-enterprises-put-ai-to-work",
-          "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
-          "isoDate": "2026-08-12T06:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-08-18T06:40:28.058Z"
+          "isoDate": "2026-08-18T12:42:21.028Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-08-18T06:40:27.280Z"
+          "isoDate": "2026-08-18T12:42:19.875Z"
         },
         {
           "title": "IEEE Presidents’ Scholarship Honors Teen Innovators",
