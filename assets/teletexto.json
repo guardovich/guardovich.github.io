@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T01:10:47.517Z",
+  "generatedAt": "2026-08-19T06:41:02.749Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
@@ -72,6 +72,18 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "Behind the Lens: Meet NASA Johnson’s Photographers",
+          "link": "https://www.nasa.gov/centers-and-facilities/johnson/behind-the-lens-meet-nasa-johnsons-photographers/",
+          "summary": "Photographers at NASA’s Johnson Space Center in Houston have documented some of the most defining moments in human spaceflight.  From astronaut training and engineering tests to mission control operations and milestone celebrations, their images preserve the history of exploration while capturing the people and teams behind the missions shaping the next era.   Meet the photographers behind the lens and explore the […]",
+          "isoDate": "2026-08-19T05:02:06.000Z"
+        },
+        {
+          "title": "APOD: 2026 August 19 – The Case of the Mysterious Maybe Meteor",
+          "link": "https://science.nasa.gov/image-article/apod-2026-august-19-the-case-of-the-mysterious-maybe-meteor/",
+          "summary": "APODScienceAPODAPOD: 2026 August 19 – The…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view this video please enable JavaScript, and consider upgrading to a web browser that supports […]",
+          "isoDate": "2026-08-19T04:05:00.000Z"
+        },
+        {
           "title": "NASA’s LRO Images Falcon 9 Crater on Moon, Learns New Details",
           "link": "https://science.nasa.gov/solar-system/moon/nasas-lro-images-falcon-9-crater-on-moon-learns-new-details/",
           "summary": "Between Aug. 11 and 12, NASA’s Lunar Reconnaissance Orbiter (LRO) captured a series of images of a new crater on the Moon. The crater formed on Aug. 5, when a SpaceX Falcon 9 upper stage impacted the surface following its January 2025 launch of the Firefly Blue Ghost 1 mission. To capture imagery of the […]",
@@ -118,18 +130,6 @@
           "link": "https://www.nature.com/articles/d41586-026-02381-z",
           "summary": "Nature, Published online: 18 August 2026; doi:10.1038/d41586-026-02381-z\nResearchers grapple with the causes of evolution, and a sea voyage is blighted by storms, in our weekly dip into Nature’s archive.",
           "isoDate": "2026-08-18T00:00:00.000Z"
-        },
-        {
-          "title": "Treat biological databases as infrastructure, not projects",
-          "link": "https://www.nature.com/articles/d41586-026-02575-5",
-          "summary": "Nature, Published online: 18 August 2026; doi:10.1038/d41586-026-02575-5\nTreat biological databases as infrastructure, not projects",
-          "isoDate": "2026-08-18T00:00:00.000Z"
-        },
-        {
-          "title": "Europe must adapt to live with megafires",
-          "link": "https://www.nature.com/articles/d41586-026-02578-2",
-          "summary": "Nature, Published online: 18 August 2026; doi:10.1038/d41586-026-02578-2\nEurope must adapt to live with megafires",
-          "isoDate": "2026-08-18T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-08-19T01:10:44.271Z"
+          "isoDate": "2026-08-19T06:40:59.226Z"
         },
         {
           "title": "The critical tech staying safe by going underground",
@@ -150,9 +150,9 @@
           "isoDate": "2026-08-18T23:25:21.000Z"
         },
         {
-          "title": "Meta hooked children on Facebook and Instagram, court hears",
+          "title": "Meta hooked children on Facebook and Instagram, US court hears",
           "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
-          "summary": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states got under way.",
+          "summary": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states started.",
           "isoDate": "2026-08-18T22:11:07.000Z"
         },
         {
@@ -203,6 +203,12 @@
       "header": "160  INTELIGENCIA ARTIFICIAL",
       "maxItems": 10,
       "items": [
+        {
+          "title": "ChatGPT Ads expands across Europe",
+          "link": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+          "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
+          "isoDate": "2026-08-18T22:00:00.000Z"
+        },
         {
           "title": "Strengthening democratic oversight in national security",
           "link": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
@@ -256,12 +262,6 @@
           "link": "https://openai.com/index/the-defenders-window",
           "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
           "isoDate": "2026-08-17T05:30:00.000Z"
-        },
-        {
-          "title": "OpenAI joins PORTS-Pike project",
-          "link": "https://openai.com/index/openai-joins-ports-pike-project",
-          "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
-          "isoDate": "2026-08-17T05:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-08-19T01:10:46.874Z"
+          "isoDate": "2026-08-19T06:41:01.750Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-08-19T01:10:45.795Z"
+          "isoDate": "2026-08-19T06:41:00.545Z"
         },
         {
           "title": "IEEE Presidents’ Scholarship Honors Teen Innovators",
