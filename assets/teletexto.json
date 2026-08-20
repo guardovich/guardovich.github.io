@@ -1,69 +1,69 @@
 {
-  "generatedAt": "2026-08-19T18:33:18.211Z",
+  "generatedAt": "2026-08-20T01:10:02.997Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
         {
+          "title": "NASA calls off mission to rescue Swift gamma-ray observatory",
+          "link": "https://arstechnica.com/space/2026/08/nasa-calls-off-mission-to-rescue-swift-gamma-ray-observatory/",
+          "summary": "Without a rescue, NASA's Swift Observatory is expected to reenter the atmosphere later this year.",
+          "isoDate": "2026-08-20T00:18:48.000Z"
+        },
+        {
+          "title": "Does giving a camera wings dodge the FCC’s drone ban?",
+          "link": "https://www.theverge.com/tech/981834/hoverair-versa-drone-camera-fcc-loophole-indiegogo",
+          "summary": "It’s a camera. It’s a drone. But HoverAir doesn’t want it to be a drone where the FCC is concerned. | Image: HoverAir\t\n\nHoverAir drones always have intriguing gimmicks. This one folds flat to fit in your pocket. This one can land on water. Another can charge inside its carrying case. But the brand's latest trick might be its riskiest: it's attempting to sneak a drone past the FCC.\nIn December 2025, the US government banned future foreign drones from reaching our shores, and HoverAir's floating Aqua drone was one of the first casualties. But this time, brand owner Zero Zero Robotics might have found a loophole: its latest $750 Versa drone isn't a drone, it claims, but rather a DJI Pocket-style mini steadycam with optional snap-on propellers that let it fly.\n …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-19T22:35:20.000Z"
+        },
+        {
+          "title": "Amazon aims for delivery drones to reach 500 US neighborhoods by end of 2026",
+          "link": "https://arstechnica.com/gadgets/2026/08/amazon-aims-for-delivery-drones-to-reach-500-us-neighborhoods-by-end-of-2026/",
+          "summary": "US residents face trade-offs as delivery drone services such as Prime Air expand.",
+          "isoDate": "2026-08-19T22:02:38.000Z"
+        },
+        {
+          "title": "Framework responds to complaints that BIOS update bricks Ryzen 7040 laptops",
+          "link": "https://arstechnica.com/gadgets/2026/08/framework-responds-to-complaints-that-bios-update-bricked-ryzen-7040-laptops/",
+          "summary": "Framework says it's replacing some out-of-warranty AMD mainboards.",
+          "isoDate": "2026-08-19T20:21:59.000Z"
+        },
+        {
+          "title": "Flight attendants freaked out that Google is buying tons of Spirit employee data",
+          "link": "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/",
+          "summary": "Bankrupt Spirit accused of selling out workers in massive data sale to Google.",
+          "isoDate": "2026-08-19T20:04:41.000Z"
+        },
+        {
+          "title": "Nielsen is leaning more on wearables to hear what people are watching",
+          "link": "https://www.theverge.com/entertainment/982358/nielsen-ratings-ppm-smart-watch-cowatching-big-data",
+          "summary": "In order to beef up its ability to accurately measure viewership data in the streaming era, Nielsen is moving forward with a plan to use more information gathered from its partners' wearable devices.\nToday, Nielsen announced \"a number of key enhancements\" that are being added to its data capturing process ahead of the upcoming fall TV season. As of August 31st, Nielsen's co-viewing data will now include information obtained from smart-watch like gadgets that Neilsen's research panelists wear in their homes. The Portable People Meter (PPM) Wearables - which Nielsen first began deploying nationally in 2016 to bolster its audio, local TV, and  …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-19T19:53:09.000Z"
+        },
+        {
+          "title": "FCC abolishes gigabit speed goal, suggesting it is unfair to slower technologies",
+          "link": "https://arstechnica.com/tech-policy/2026/08/fcc-abolishes-gigabit-speed-goal-suggesting-it-is-unfair-to-slower-technologies/",
+          "summary": "FCC decides 1Gbps is too fast, standard must be \"technologically neutral.\"",
+          "isoDate": "2026-08-19T19:45:19.000Z"
+        },
+        {
+          "title": "Google Gemini is getting a dedicated student hub",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+          "summary": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards, taking practice quizzes, and more. Google is also enhancing its study notebooks with support for graphs and images. It can even add test dates and deadlines to your Google Calendar based on your syllabus.\nGoogle is also adding Deep Research to Gemini Live. You can ask Gemini to generate complicated research reports and talk through the results. If it's taking a while, you can close the chat and lock your phone screen, and Gemini will let you k …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-19T19:00:00.000Z"
+        },
+        {
+          "title": "The floodgates are open after another Chinese company lands a reusable rocket",
+          "link": "https://arstechnica.com/space/2026/08/the-floodgates-are-open-after-another-chinese-company-lands-a-reusable-rocket/",
+          "summary": "\"We will put the booster back into service for another flight as soon as possible.\"",
+          "isoDate": "2026-08-19T18:41:02.000Z"
+        },
+        {
           "title": "Watch Valve set up the Steam Frame in its own leaked videos",
           "link": "https://www.theverge.com/games/982406/valve-steam-frame-setup-unboxing-leaked-videos",
           "summary": "Valve just leaked several new videos showing the Steam Frame's unboxing, setup process, and various accessories. The videos apparently appeared on the ARM Steam client following an update, but they were \"quickly pulled after that,\" according to the Steam Hardware Updates account on X.\nThe Steam Frame is Valve's virtual-reality headset that can stream games from a PC or play them locally. Valve first took the wraps off the headset last year, and it offers LCD screens with 2160 x 2160 resolution per eye, a Snapdragon 8 Gen 3 chip, and an up to 110-degree field of view. But these leaked videos offer a closer look at what it might be like to un …\nRead the full story at The Verge.",
           "isoDate": "2026-08-19T18:16:27.000Z"
-        },
-        {
-          "title": "The wearable future is stuck in weird, experimental, existential limbo",
-          "link": "https://www.theverge.com/column/982359/optimizer-wearable-future-google-ai",
-          "summary": "AI on the wrist is one such experimental feature.\t\n\nThis is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here.\nFor the past week, I've been testing the Google Pixel Watch 5. In many ways, it's a typical, modern smartwatch. In others, it feels like one part of a wearable future that's increasingly in flux. Everyone I've spoken to in wearable tech has roughly the same goal - soon, your tracker of choice will feature a helpful AI coach, \"check engine\" alerts that preventively flag hard-to-detect health conditions, and personalized health re …\nRead the full story at The Verge.",
-          "isoDate": "2026-08-19T18:00:00.000Z"
-        },
-        {
-          "title": "Grab an iPad Air M4 for its lowest price since the June increase",
-          "link": "https://www.theverge.com/gadgets/982242/ipad-air-m4-garmin-inreach-deal-sale",
-          "summary": "The iPad Air M4 in space gray. | Image: The Verge\t\n\nAlmost everything with high-end memory or storage is more expensive these days, and tablets are no exception, so we’re glad to see that Amazon and Best Buy have the most recent 11-inch iPad Air with the M4 chip on sale for $649. That’s $100 lower than the new retail price that went into effect (alongside plenty of other Apple price hikes) in June. You can also grab the 256GB model for $749 (usually $849), and the version with a cellular antenna for $799 (usually $899).\nApple iPad Air M4\n\nWhere to Buy:\n\n $749 $649 at Amazon (128GB, Wi-Fi)\n $749 $649 at Best Buy (128GB, Wi-Fi)\n $899 $799 at Amazon (128GB, LTE)\n\nWe reviewed the M4 iPad Air when it released in March, and found a very similar experience to the previous generation, for better or worse. The upgraded internals give the system a performance boost and better connectivity, like Wi-Fi 7 and Bluetooth 6, but otherwise this update is short on notable or exciting features if you’ve used an iPad Air the past few years.\nRead our Apple iPad M4 Air review.\nOther deals to consider\nThe Garmin InReach Mini 2 is discounted to $249.99 at a variety of retailers, including Amazon, REI, and directly from Garmin. This compact device uses a satellite connection, which requires a Garmin InReach subscription, to provide emergency services, location sharing, and even text messaging when paired with smart device.\nBest Buy has the Anker 140W 4-Port Laptop Charger on sale for $55.99, a $24 discount off the usual price. With three USB-C ports and a USB-A port mounted on its bottom to prevent sagging in your outlet with multiple devices plugged in, you can easily charge a weekend worth of devices. The built-in display lets you check your total power usage at a glance, or make sure you’re charging at the right power level.\nAmazon is selling the Marshall Stanmore III Bluetooth speaker for $199.99, half off the usual retail price and matching the lowest price to date. While it doesn’t have a phono pre-amp, it does have RCA inputs for use with a properly-equipped record player, and vintage amplifier styling that helps set it apart from the crowd of other speakers.",
-          "isoDate": "2026-08-19T17:56:15.000Z"
-        },
-        {
-          "title": "OpenAI hit the brakes. Now what?",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
-          "summary": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast. Instead, it hit the brakes.\nOn Tuesday, the company said it had slowed the pace of some AI development while it tightened security and safeguards. That included a two-week pause in reinforcement learning training on its \"latest models intended for deployment,\" and an ongoing delay to its \"largest planned frontier RL run.\"\nThe decision is a very public test of an idea AI safety advocates have pushed for for years: that companies should be willing to bow out of the AI race and slow things …\nRead the full story at The Verge.",
-          "isoDate": "2026-08-19T17:10:09.000Z"
-        },
-        {
-          "title": "A fantastical journey unfolds in gorgeous Wildwood trailer",
-          "link": "https://arstechnica.com/culture/2026/08/a-fantastical-journey-unfolds-in-gorgeous-wildwood-trailer/",
-          "summary": "\"I will tear apart this forest and bring back what it took from me.\"",
-          "isoDate": "2026-08-19T17:06:06.000Z"
-        },
-        {
-          "title": "GTA VI keeps leaking ahead of its gameplay premiere",
-          "link": "https://www.theverge.com/games/982338/grand-theft-auto-vi-gta-leaks-videos",
-          "summary": "Clips of what appears to be Grand Theft Auto VI have hit the internet, possibly spoiling aspects of the game ahead of Rockstar Games' deep dive debuting on Netflix next week and its long-awaited launch in November.\nI've seen three clips seemingly showing off the game, though two have been pulled from the site I saw them on \"due to a copyright claim.\" The first clip (now removed) was a quiet scene that mostly focused on Jason Duval, one the game's two protagonists, shooting a basketball into a hoop. Another clip (also removed) featured more of the crime-focused gameplay you'd expect from GTA, including Duval hitting a person with a wrench, a …\nRead the full story at The Verge.",
-          "isoDate": "2026-08-19T17:03:11.000Z"
-        },
-        {
-          "title": "Meta AI is getting a Mac app",
-          "link": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
-          "summary": "Meta AI can create content and make suggestions based on what it “sees” on your screen. | Image: Meta\t\n\nMeta is launching a new Mac app dedicated to its AI chatbot. In an announcement on Wednesday, Meta says you can share your window with its AI chatbot, which can provide suggestions, answer questions, or create content based on what's on your screen. Meta AI on the Mac also supports dictation across all apps.\nThe launch comes as Meta makes its AI chatbot more like a productivity-focused assistant to better compete with its AI rivals - many of which already have desktop apps. You can share your window with Google's Gemini AI app, while OpenAI's ChatGPT and Anthropic's Claude apps take things a step further by allowing the chatbots to take con …\nRead the full story at The Verge.",
-          "isoDate": "2026-08-19T17:00:00.000Z"
-        },
-        {
-          "title": "mRNA cancer vaccine succeeded in Phase 3 melanoma trial, Moderna and Merck say",
-          "link": "https://arstechnica.com/health/2026/08/mrna-cancer-vaccine-succeeded-in-phase-3-melanoma-trial-moderna-and-merck-say/",
-          "summary": "The vaccine reportedly thwarted the cancer's return and spread.",
-          "isoDate": "2026-08-19T16:53:56.000Z"
-        },
-        {
-          "title": "We reviewed the new Pixel lineup, ask us anything",
-          "link": "https://www.theverge.com/tech/981537/pixel-11-pro-fold-watch-5-ama",
-          "summary": "The embargo has lifted on Google's Pixel 11 series, as well as for its Pixel Watch 5. Now we get to talk smack - just kidding, the new hardware is good. We have four reviews live on the site that you can peruse at your leisure. We're giving subscribers a chance to engage with us directly in an AMA later today. I'll be there (I reviewed the standard Pixel 11) to answer your questions, and so will David \"11 Pro\" Imel, Dominic \"11 Pro Fold\" Preston, and Victoria \"Pixel Watch 5\" Song.\nSubscribers, drop in your questions and we'll begin answering them at 3PM ET. We can't stop you from asking irrelevant questions, but we'll be prioritizing ones t …\nRead the full story at The Verge.",
-          "isoDate": "2026-08-19T16:15:00.000Z"
-        },
-        {
-          "title": "Google Pixel 11 series review: Is the magic fading?",
-          "link": "https://arstechnica.com/gadgets/2026/08/google-pixel-11-series-review-is-the-magic-fading/",
-          "summary": "Google's new Pixels make some compromises but still manage to be good phones.",
-          "isoDate": "2026-08-19T16:11:30.000Z"
         }
       ]
     },
@@ -72,10 +72,22 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "NASA TechLeap Prize: Orbital Clarity Challenge",
+          "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-techleap-prize-orbital-clarity-challenge/",
+          "summary": "The Orbital Clarity Challenge — the sixth in the NASA TechLeap Prize series — is a collaborative effort between NASA’s Heliophysics Division, Flight Opportunities program, and Center of Excellence for Collaborative Innovation. The Heliophysics Division studies space weather, including how it heats and expands Earth’s outer atmosphere during intense solar activity, creating orbital drag through atmospheric density changes. The […]",
+          "isoDate": "2026-08-19T19:57:48.000Z"
+        },
+        {
           "title": "NASA Updates Next Steps for Commercial Swift Boost Mission",
           "link": "https://www.nasa.gov/news-release/nasa-updates-next-steps-for-commercial-swift-boost-mission/",
           "summary": "Due to an ongoing commercial spacecraft attitude control issue, NASA and Katalyst Space announced Wednesday the LINK spacecraft will not capture or boost an agency satellite to a higher altitude to extend its science mission as planned. However, LINK still will attempt to conduct rendezvous and proximity operations with NASA’s Neil Gehrels Swift Observatory to […]",
           "isoDate": "2026-08-19T18:08:25.000Z"
+        },
+        {
+          "title": "Human-Related Microbes May Survive Moon’s South Pole, NASA Finds",
+          "link": "https://science.nasa.gov/humans-in-space/human-related-microbes-may-survive-moons-south-pole-nasa-finds/",
+          "summary": "Lee esta historia en español aquí. Some of Earth’s microbes likely to hitch a ride to space with human explorers could survive in the shaded nooks and crannies of the Moon’s South Pole region, NASA scientists say.  Published on Aug. 19, 2026, in Science Advances, these findings highlight a need to better understand microbial persistence […]",
+          "isoDate": "2026-08-19T18:02:40.000Z"
         },
         {
           "title": "Ancient Milky Way Merger",
@@ -118,18 +130,6 @@
           "link": "https://www.nature.com/articles/d41586-026-02554-w",
           "summary": "Nature, Published online: 19 August 2026; doi:10.1038/d41586-026-02554-w\nFemale treefrogs select less carefully when hearing a chorus of males.",
           "isoDate": "2026-08-19T00:00:00.000Z"
-        },
-        {
-          "title": "A black hole's spin could finally be measured by a high-speed star",
-          "link": "https://www.nature.com/articles/d41586-026-02607-0",
-          "summary": "Nature, Published online: 19 August 2026; doi:10.1038/d41586-026-02607-0\nStar orbiting close to Sagittarius A* could reveal its spin — plus, how exoskeletons might change the way humans move.",
-          "isoDate": "2026-08-19T00:00:00.000Z"
-        },
-        {
-          "title": "Reply to: Artefacts in single-cell mtDNA analyses misinform phylogenies",
-          "link": "https://www.nature.com/articles/s41586-026-10776-1",
-          "summary": "Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-10776-1\nReply to: Artefacts in single-cell mtDNA analyses misinform phylogenies",
-          "isoDate": "2026-08-19T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-08-19T18:33:15.108Z"
+          "isoDate": "2026-08-20T01:09:57.876Z"
         },
         {
           "title": "81,000 warning letters sent to crypto holders in HMRC tax crackdown ",
@@ -205,7 +205,7 @@
       "items": [
         {
           "title": "Offering Zero Data Retention for frontier models",
-          "link": "https://openai.com/index/our-commitment-to-zero-data-retention",
+          "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
           "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
           "isoDate": "2026-08-19T19:00:00.000Z"
         },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-08-19T18:33:17.385Z"
+          "isoDate": "2026-08-20T01:10:01.417Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-08-19T18:33:16.395Z"
+          "isoDate": "2026-08-20T01:09:59.292Z"
         },
         {
           "title": "Gaining Leadership Backing for Your Innovations",
@@ -296,7 +296,7 @@
         {
           "title": "From AI Copilots to Agent Swarms",
           "link": "https://spectrum.ieee.org/amd-agent-swarms",
-          "summary": "The impact of AI on software development has been both profound and ever-evolving. Last year, I wrote about AMD’s plans to use AI not just for generating new lines of code, but also for other steps in the software development lifecycle (SDLC), such as triaging problems, debugging code, and testing the software. At the time, we were hoping for a 25 percent productivity boost from AI use over the course of two or three years.\nBut with each new release, the capabilities of Large Language Models (LLMs) improve dramatically—accelerating software development, increasing the quality of AI-generated code, and fundamentally reshaping how software is engineered. Now, just one year later, we have surpassed our productivity target, achieving a 30 percent overall productivity boost through AI. On top of that, we are rethinking not only how we use AI within the SDLC, but the structure of the SDLC itself.\nWe believe that the biggest AI revolution in software engineering is still ahead. So far, we have largely been teaching AI how we perform tasks and asking it to mimic existing workflows. In many ways, this constrains AI to human patterns of thinking. The next transformation will come from collaborative swarms of AI agents capable of discovering solutions independently.\nAgents of today\nAMD began developing AI systems for code generation, testing automation, bug analysis, and code review in 2024. At the time, our objective was to achieve 25 percent AI-generated production code by 2027 while gradually automating larger portions of the SDLC.\nMeasuring productivity is inherently challenging, but from the outset we have consistently tracked one objective metric: the percentage of source code generated by AI. Importantly, we count only code that passes all reviews and testing and is ultimately included in the final product. While AI-generated code is certainly not the only contributor to productivity gains, it is one of the few metrics that can be measured objectively and consistently.\nBy this metric, we have crossed the 20 percent mark at the beginning of this year and are now progressing toward 50 percent across entire codebase. In some software components, more than 80 percent of the code is now generated using AI.\nAgentic AI has enabled us to include AI in every step of the lifecycle: For code analysis and triage, agents are trained to analyze problem reports, identify and group similar requests, and highlight which code snippets are likely to need modification. For debugging and code generation, agents are directed to analyze a bug request and implement required code changes. For testing, the agents generate unit tests, and if those are passed, identify necessary integration and product-level tests. And finally, for the approval and release stage, agents prepare architecture summary, code change review and full test results for engineers’ review and approval and if approved, integrate the changes into the next release.\nAgents of tomorrow\nToday, engineers create AI agents in their own image: they teach AI what they know about the system, how they would fix an issue, and how they would implement a change. This is already a major technological advancement. Engineers can create multiple “AI versions” of themselves, allowing these agents to work in parallel, scaling their expertise far beyond the limits of individual productivity. The limitation, however, is that these AI agents are still constrained by human thinking and human-defined approaches.\n  AMD\nWe believe the next major transformation in software engineering will occur when collaborative AI agent swarms can independently identify and develop solutions, guided by humans on what to solve rather than constrained by human assumptions about how the job should be done. Instead of providing detailed instructions on how to solve a problem, engineers will define the issue, the desired outcome and the quality, performance, and system constraints allowing AI agents to determine the optimal path to a solution.\nA swarm of AI agents will then work in parallel to generate, evaluate, and refine multiple solution approaches. These agents will automatically validate correctness, measure performance, test trade-offs, and compare alternative implementations against defined success criteria. Finally, AI agents will prepare ranked solution options, along with validation results and performance metrics, for engineer review and approval. The agents won’t be enhancing each step of the SDLC—they will be rewriting the SLDC themselves.\nTo get to this point, we need to change how agents are trained. Today, improvement occurs one engineer and one agent at a time: an engineer reviews the output, refines the prompt, and repeats the process. To scale beyond this model, agents must continuously learn from one another, reuse successful strategies, and improve collaboratively across projects and teams.\nWe are already moving in this direction by using multi-agent workflows extensively through agentic harnesses, such as Codex and Claude Code, while simultaneously developing our own internal multi-agent systems to support the next generation of AI-driven software engineering.\nA good example is our AI-driven effort to resolve issues in our Radeon Software eXperience (RSX). RSX is a user interface component that allows users to configure and monitor graphics driver behavior. In October 2025, we began using AI agents to automatically debug and fix reported RSX issues. Out-of-the-box AI tools delivered limited results, resolving only 6% of issues.\n   The percentage of software issues fixed automatically by AI agents in AMD’s Radeon Software eXperience (RSX) has been growing steadily, reaching 75 percent in June 2026. \n As we analyzed failures and identified ways to improve, we built a learning loop—initially a largely manual process—to understand where the agents were falling short and how to improve them. Rather than retraining the underlying models, we refined the objectives given to the agents, allowing them to iteratively explore multiple approaches, evaluate the results against defined success criteria, and converge on better solutions. At the same time, advances in models and agent runtimes further increased effectiveness. Together, these improvements significantly increased our resolution rate from 6 percent to more than 75 percent of RSX issues resolved by agentic loop.\nTo make agents and agent swarms truly productive, we need a continuous learning loop that feeds errors and human interventions back into future agent workflows. The opportunity is to engineer this loop around clear, measurable goals. Each cycle captures new insights, making the entire AI engineering workflow smarter and more effective. Over time, this self-reinforcing loop—not just the underlying model—will become a key driver of AI progress.\nThe evolving role of human engineers\nAt AMD, we view AI as a means of increasing productivity, improving quality, and enabling employees to focus on higher-value work. Our goal is to empower our workforce with AI, not to reduce headcount.\nTo support this transformation, we are investing heavily in AI education and training across the company. The way we work is evolving rapidly, and we want every AMD employee to be prepared to leverage AI confidently, responsibly, and effectively.\nAs AI agents continue to improve, engineers will spend less time manually implementing solutions, focusing more on defining specifications, validating outcomes, and making the strategic decisions that drive innovation.",
+          "summary": "The impact of AI on software development has been both profound and ever-evolving. Last year, I wrote about AMD’s plans to use AI not just for generating new lines of code, but also for other steps in the software development lifecycle (SDLC), such as triaging problems, debugging code, and testing the software. At the time, we were hoping for a 25 percent productivity boost from AI use over the course of two or three years.\nBut with each new release, the capabilities of large language models (LLMs) improve dramatically—accelerating software development, increasing the quality of AI-generated code, and fundamentally reshaping how software is engineered. Now, just one year later, we have surpassed our productivity target, achieving a 30 percent overall productivity boost through AI. On top of that, we are rethinking not only how we use AI within the SDLC, but the structure of the SDLC itself.\nWe believe that the biggest AI revolution in software engineering is still ahead. So far, we have largely been teaching AI how we perform tasks and asking it to mimic existing workflows. In many ways, this constrains AI to human patterns of thinking. The next transformation will come from collaborative swarms of AI agents capable of discovering solutions independently.\nAgents of today\nAMD began developing AI systems for code generation, testing automation, bug analysis, and code review in 2024. At the time, our objective was to achieve 25 percent AI-generated production code by 2027 while gradually automating larger portions of the SDLC.\nMeasuring productivity is inherently challenging, but from the outset we have consistently tracked one objective metric: the percentage of source code generated by AI. Importantly, we count only code that passes all reviews and testing and is ultimately included in the final product. While AI-generated code is certainly not the only contributor to productivity gains, it is one of the few metrics that can be measured objectively and consistently.\nBy this metric, we have crossed the 20 percent mark at the beginning of this year and are now progressing towards 50 percent across entire codebase. In some software components, more than 80 percent of the code is now generated using AI.\nAgentic AI has enabled us to include AI in every step of the life cycle: For code analysis and triage, agents are trained to analyze problem reports, identify and group similar requests, and highlight which code snippets are likely to need modification. For debugging and code generation, agents are directed to analyze a bug request and implement required code changes. For testing, the agents generate unit tests, and if those are passed, identify necessary integration and product-level tests. And finally, for the approval and release stage, agents prepare architecture summary, code change review, and full test results for engineers’ review and approval—and, if approved, integrate the changes into the next release.\nAgents of tomorrow\nToday, engineers create AI agents in their own image: They teach AI what they know about the system, how they would fix an issue, and how they would implement a change. This is already a major technological advancement. Engineers can create multiple “AI versions” of themselves, allowing these agents to work in parallel, scaling their expertise far beyond the limits of individual productivity. The limitation, however, is that these AI agents are still constrained by human thinking and human-defined approaches.\n  AMD\nWe believe the next major transformation in software engineering will occur when collaborative AI agent swarms can independently identify and develop solutions, guided by humans on what to solve rather than constrained by human assumptions about how the job should be done. Instead of providing detailed instructions on how to solve a problem, engineers will define the issue, the desired outcome, and the quality, performance, and system constraints, allowing AI agents to determine the optimal path to a solution.\nA swarm of AI agents will then work in parallel to generate, evaluate, and refine multiple solution approaches. These agents will automatically validate correctness, measure performance, test trade-offs, and compare alternative implementations against defined success criteria. Finally, AI agents will prepare ranked solution options, along with validation results and performance metrics, for engineer review and approval. The agents won’t be enhancing each step of the SDLC—they will be rewriting the SDLC themselves.\nTo get to this point, we need to change how agents are trained. Today, improvement occurs one engineer and one agent at a time: An engineer reviews the output, refines the prompt, and repeats the process. To scale beyond this model, agents must continuously learn from one another, reuse successful strategies, and improve collaboratively across projects and teams.\nWe are already moving in this direction by using multi-agent workflows extensively through agentic harnesses, such as Codex and Claude Code, while simultaneously developing our own internal multi-agent systems to support the next generation of AI-driven software engineering.\nA good example is our AI-driven effort to resolve issues in our Radeon Software eXperience (RSX). RSX is a user interface component that allows users to configure and monitor graphics driver behavior. In October 2025, we began using AI agents to automatically debug and fix reported RSX issues. Out-of-the-box AI tools delivered limited results, resolving only 6 percent of issues.\n   The percentage of software issues fixed automatically by AI agents in AMD’s Radeon Software eXperience (RSX) has been growing steadily, reaching 75 percent in June 2026. \n As we analyzed failures and identified ways to improve, we built a learning loop—initially a largely manual process—to understand where the agents were falling short and how to improve them. Rather than retraining the underlying models, we refined the objectives given to the agents, allowing them to iteratively explore multiple approaches, evaluate the results against defined success criteria, and converge on better solutions. At the same time, advances in models and agent run-times further increased effectiveness. Together, these improvements significantly increased our resolution rate from 6 percent to more than 75 percent of RSX issues resolved by agentic loop.\nTo make agents and agent swarms truly productive, we need a continuous learning loop that feeds errors and human interventions back into future agent workflows. The opportunity is to engineer this loop around clear, measurable goals. Each cycle captures new insights, making the entire AI engineering workflow smarter and more effective. Over time, this self-reinforcing loop—not just the underlying model—will become a key driver of AI progress.\nThe evolving role of human engineers\nAt AMD, we view AI as a means of increasing productivity, improving quality, and enabling employees to focus on higher-value work. Our goal is to empower our workforce with AI, not to reduce headcount.\nTo support this transformation, we are investing heavily in AI education and training across the company. The way we work is evolving rapidly, and we want every AMD employee to be prepared to leverage AI confidently, responsibly, and effectively.\nAs AI agents continue to improve, engineers will spend less time manually implementing solutions, focusing more on defining specifications, validating outcomes, and making the strategic decisions that drive innovation.",
           "isoDate": "2026-08-17T14:00:01.000Z"
         },
         {
@@ -325,6 +325,11 @@
       "items": [
         {
           "title": "RESULTADOS (ÚLTIMOS)",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "ATL  2-0  MÁL",
           "link": "",
           "summary": ""
         },
@@ -374,82 +379,82 @@
           "summary": ""
         },
         {
-          "title": " 3  SEV   1   1  0  0   2   1   1   3",
+          "title": " 3  ATL   1   1  0  0   2   0   2   3",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 4  SAN   1   0  1  0   2   2   0   1",
+          "title": " 4  SEV   1   1  0  0   2   1   1   3",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 4  VIL   1   0  1  0   2   2   0   1",
+          "title": " 5  SAN   1   0  1  0   2   2   0   1",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 6  DEP   1   0  1  0   1   1   0   1",
+          "title": " 5  VIL   1   0  1  0   2   2   0   1",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 6  ELC   1   0  1  0   1   1   0   1",
+          "title": " 7  DEP   1   0  1  0   1   1   0   1",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 8  ATH   0   0  0  0   0   0   0   0",
+          "title": " 7  ELC   1   0  1  0   1   1   0   1",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 8  ATL   0   0  0  0   0   0   0   0",
+          "title": " 9  ATH   0   0  0  0   0   0   0   0",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 8  OSA   0   0  0  0   0   0   0   0",
+          "title": " 9  OSA   0   0  0  0   0   0   0   0",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 8  BAR   0   0  0  0   0   0   0   0",
+          "title": " 9  BAR   0   0  0  0   0   0   0   0",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 8  MÁL   0   0  0  0   0   0   0   0",
+          "title": " 9  CEL   0   0  0  0   0   0   0   0",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 8  CEL   0   0  0  0   0   0   0   0",
+          "title": " 9  REA   0   0  0  0   0   0   0   0",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 8  REA   0   0  0  0   0   0   0   0",
+          "title": " 9  REA   0   0  0  0   0   0   0   0",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 8  REA   0   0  0  0   0   0   0   0",
+          "title": " 9  REA   0   0  0  0   0   0   0   0",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 8  REA   0   0  0  0   0   0   0   0",
+          "title": " 9  VAL   0   0  0  0   0   0   0   0",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 8  VAL   0   0  0  0   0   0   0   0",
+          "title": "17  RAY   1   0  0  1   1   2  -1   0",
           "link": "",
           "summary": ""
         },
         {
-          "title": "18  RAY   1   0  0  1   1   2  -1   0",
+          "title": "18  MÁL   1   0  0  1   0   2  -2   0",
           "link": "",
           "summary": ""
         },
