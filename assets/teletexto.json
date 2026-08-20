@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T01:10:02.997Z",
+  "generatedAt": "2026-08-20T06:42:37.921Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
@@ -72,52 +72,16 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "NASA TechLeap Prize: Orbital Clarity Challenge",
-          "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-techleap-prize-orbital-clarity-challenge/",
-          "summary": "The Orbital Clarity Challenge — the sixth in the NASA TechLeap Prize series — is a collaborative effort between NASA’s Heliophysics Division, Flight Opportunities program, and Center of Excellence for Collaborative Innovation. The Heliophysics Division studies space weather, including how it heats and expands Earth’s outer atmosphere during intense solar activity, creating orbital drag through atmospheric density changes. The […]",
-          "isoDate": "2026-08-19T19:57:48.000Z"
+          "title": "ERROR cargando feed",
+          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
+          "isoDate": "2026-08-20T06:42:32.519Z"
         },
         {
-          "title": "NASA Updates Next Steps for Commercial Swift Boost Mission",
-          "link": "https://www.nasa.gov/news-release/nasa-updates-next-steps-for-commercial-swift-boost-mission/",
-          "summary": "Due to an ongoing commercial spacecraft attitude control issue, NASA and Katalyst Space announced Wednesday the LINK spacecraft will not capture or boost an agency satellite to a higher altitude to extend its science mission as planned. However, LINK still will attempt to conduct rendezvous and proximity operations with NASA’s Neil Gehrels Swift Observatory to […]",
-          "isoDate": "2026-08-19T18:08:25.000Z"
-        },
-        {
-          "title": "Human-Related Microbes May Survive Moon’s South Pole, NASA Finds",
-          "link": "https://science.nasa.gov/humans-in-space/human-related-microbes-may-survive-moons-south-pole-nasa-finds/",
-          "summary": "Lee esta historia en español aquí. Some of Earth’s microbes likely to hitch a ride to space with human explorers could survive in the shaded nooks and crannies of the Moon’s South Pole region, NASA scientists say.  Published on Aug. 19, 2026, in Science Advances, these findings highlight a need to better understand microbial persistence […]",
-          "isoDate": "2026-08-19T18:02:40.000Z"
-        },
-        {
-          "title": "Ancient Milky Way Merger",
-          "link": "https://www.nasa.gov/image-article/ancient-milky-way-merger/",
-          "summary": "This artist’s concept, released on Aug. 17, 2026, depicts a collision between our Milky Way galaxy and a dwarf galaxy known as LKH that happened about 12 billion years ago. A study of data from NASA’s Hubble Space Telescope, recently published in the journal Nature Astronomy, shows definitive evidence of a dwarf galaxy merging with the young […]",
-          "isoDate": "2026-08-19T16:18:48.000Z"
-        },
-        {
-          "title": "NASA Establishes State Hubs to Grow Technical Aerospace Workforce",
-          "link": "https://www.nasa.gov/news-release/nasa-establishes-state-hubs-to-grow-technical-aerospace-workforce/",
-          "summary": "NASA has awarded approximately $10.5 million to seven institutions to help strengthen and streamline state-based pathways for students into skilled technical jobs in the aerospace industry. The awards were made through the new NASA Aerospace Skilled Technical Workforce Hubs initiative, or NASA State Hubs. This investment in state ecosystems is designed to accelerate the development […]",
-          "isoDate": "2026-08-19T15:55:10.000Z"
-        },
-        {
-          "title": "Career Spotlight: Mechanic (Ages 14-18)",
-          "link": "https://www.nasa.gov/learning-resources/career-spotlight-mechanic-ages-14-18/",
-          "summary": "What does a mechanic do? Machines and engines are all around us. They power everything from cars and boats to airplanes and even rockets. Mechanics are experts who know how machinery works, especially engines, and how to fix them. When you think of a mechanic, you might picture someone working on cars. But mechanics can […]",
-          "isoDate": "2026-08-19T13:48:20.000Z"
-        },
-        {
-          "title": "Behind the Lens: Meet NASA Johnson’s Photographers",
-          "link": "https://www.nasa.gov/centers-and-facilities/johnson/behind-the-lens-meet-nasa-johnsons-photographers/",
-          "summary": "Photographers at NASA’s Johnson Space Center in Houston have documented some of the most defining moments in human spaceflight.  From astronaut training and engineering tests to mission control operations and milestone celebrations, their images preserve the history of exploration while capturing the people and teams behind the missions shaping the next era.   Meet the photographers behind the lens and explore the […]",
-          "isoDate": "2026-08-19T05:02:06.000Z"
-        },
-        {
-          "title": "APOD: 2026 August 19 – The Case of the Mysterious Maybe Meteor",
-          "link": "https://science.nasa.gov/image-article/apod-2026-august-19-the-case-of-the-mysterious-maybe-meteor/",
-          "summary": "APODScienceAPODAPOD: 2026 August 19 – The…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view this video please enable JavaScript, and consider upgrading to a web browser that supports […]",
-          "isoDate": "2026-08-19T04:05:00.000Z"
+          "title": "These trees are making air quality in cities worse",
+          "link": "https://www.nature.com/articles/d41586-026-02586-2",
+          "summary": "Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02586-2\nThey release compounds that contribute to ozone emissions, and rising temperatures could exacerbate the problem.",
+          "isoDate": "2026-08-20T00:00:00.000Z"
         },
         {
           "title": "Evidence for vacuum-enhanced superconductivity in NbSe<sub>2</sub>",
@@ -130,6 +94,42 @@
           "link": "https://www.nature.com/articles/d41586-026-02554-w",
           "summary": "Nature, Published online: 19 August 2026; doi:10.1038/d41586-026-02554-w\nFemale treefrogs select less carefully when hearing a chorus of males.",
           "isoDate": "2026-08-19T00:00:00.000Z"
+        },
+        {
+          "title": "A black hole's spin could finally be measured by a high-speed star",
+          "link": "https://www.nature.com/articles/d41586-026-02607-0",
+          "summary": "Nature, Published online: 19 August 2026; doi:10.1038/d41586-026-02607-0\nStar orbiting close to Sagittarius A* could reveal its spin — plus, how exoskeletons might change the way humans move.",
+          "isoDate": "2026-08-19T00:00:00.000Z"
+        },
+        {
+          "title": "Reply to: Artefacts in single-cell mtDNA analyses misinform phylogenies",
+          "link": "https://www.nature.com/articles/s41586-026-10776-1",
+          "summary": "Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-10776-1\nReply to: Artefacts in single-cell mtDNA analyses misinform phylogenies",
+          "isoDate": "2026-08-19T00:00:00.000Z"
+        },
+        {
+          "title": "Artefacts in single-cell mtDNA analyses misinform phylogenies",
+          "link": "https://www.nature.com/articles/s41586-026-10777-0",
+          "summary": "Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-10777-0\nArtefacts in single-cell mtDNA analyses misinform phylogenies",
+          "isoDate": "2026-08-19T00:00:00.000Z"
+        },
+        {
+          "title": "Functional role of skull lymphoid structures in CNS immunosurveillance",
+          "link": "https://www.nature.com/articles/s41586-026-10951-4",
+          "summary": "Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-10951-4\nFunctional lymphoid structures within the skull bone marrow enable central nervous system immunosurveillance and shape immune responses to brain disease.",
+          "isoDate": "2026-08-19T00:00:00.000Z"
+        },
+        {
+          "title": "Observation of conformal field theory spectra in a quantum simulator",
+          "link": "https://www.nature.com/articles/s41586-026-10904-x",
+          "summary": "Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-10904-x\nMeasurements on an array of optically trapped neutral atoms at a quantum phase transition provide a direct observation of the universal excitation spectrum predicted by conformal field theory.",
+          "isoDate": "2026-08-19T00:00:00.000Z"
+        },
+        {
+          "title": "Wake-activated neuronal populations that regulate sleep drive",
+          "link": "https://www.nature.com/articles/s41586-026-10928-3",
+          "summary": "Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-10928-3\nWhole-brain activity mapping, targeted cell manipulations and electrophysiology in mice identify wake-activated neuronal populations that are crucial for sleep drive and can persistently reduce daily sleep amount.",
+          "isoDate": "2026-08-19T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-08-20T01:09:57.876Z"
+          "isoDate": "2026-08-20T06:42:34.701Z"
         },
         {
           "title": "81,000 warning letters sent to crypto holders in HMRC tax crackdown ",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-08-20T01:10:01.417Z"
+          "isoDate": "2026-08-20T06:42:37.095Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-08-20T01:09:59.292Z"
+          "isoDate": "2026-08-20T06:42:36.107Z"
         },
         {
           "title": "Gaining Leadership Backing for Your Innovations",
