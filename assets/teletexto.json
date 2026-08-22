@@ -1,10 +1,34 @@
 {
-  "generatedAt": "2026-08-22T12:36:22.070Z",
+  "generatedAt": "2026-08-22T18:28:14.328Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Doodle generative compositions in your browser with Musical Spirograph",
+          "link": "https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition",
+          "summary": "So pretty. | Screenshot: Terrence O’Brien / The Verge\t\n\nI remember having a Spirograph as a kid and being obsessed with it. Its geometric patterns are hypnotic and gorgeous. I also love generative music composition. So bringing those two things together in a browser tab, I'm hooked. Musical Spirograph is a relatively simple concept. A set of points dash around the screen according to mathematical equations, generating hypotrochoids and epitrochoids. Those points pass through a series of concentric rings which trigger specific notes.\nHonestly, that alone is fun enough, but you can customize it quite a bit. There are six different virtual rotors to pick from, you can have up to three arms drawing  …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-22T17:00:00.000Z"
+        },
+        {
+          "title": "W. Kamau Bell has the most practical ‘most indispensable tool’",
+          "link": "https://www.theverge.com/report/980452/w-kamau-bell-whos-with-me-comedy-interview",
+          "summary": "I’m just as confused as you. | Image: Aundre Larrow\t\n\nW. Kamau Bell is one of those people who has always just seemed to be there. From Totally Biased, to Politically Re-Active, United Shades of America, and We Need to Talk About Cosby, his blend of comedy, social commentary, and political activism has helped him stand out. He's won a Peabody and four Emmys, been a Celebrity Jeopardy! champion, received honors from the ACLU, and been crowned the Ambassador of Fishbone by founding member Chris Dowd. Bell is, if nothing else, a busy man. \nSo we're very grateful that he took time between episodes of his podcast Who's With Me, his comedy tour, and Substack of the same name, promoting his upcoming  …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-22T15:00:00.000Z"
+        },
+        {
+          "title": "Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent",
+          "link": "https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv",
+          "summary": "The Echo Dot Max went from $99.99 to $119.99 overnight, while its sibling the Echo Dot jumped to $79.99 from $49.99. | Photo by Jennifer Pattison Tuohy / The Verge\t\n\nCiting \"significant increases in memory and storage component costs,\" Amazon has raised prices on Echos, Kindles, Fire TVs, and Eeros by up to 60 percent, as first reported by Fortune.\nThe cheapest products in Amazon's lineup were hit hardest, with the Echo Dot smart speaker jumping from $49.99 to $79.99. The Fire TV Stick 4K Max also rose by over 40 percent to $84.99, and the base level Kindle now costs $149.99, a nearly 37 percent increase.\nIn a statement to The Verge, Kristy Schmidt, senior communications manager of Amazon's Devices & Services divison, said, \"The consumer electronics industry is facing significant increases in memory an …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-22T13:41:01.000Z"
+        },
+        {
+          "title": "An okay laptop with 16GB of RAM is better than a nice laptop with 8GB, and this $520 HP OmniBook proves it",
+          "link": "https://www.theverge.com/tech/983554/hp-omnibook-3-16-snapdragon-laptop-review",
+          "summary": "The OmniBook 3 isn’t a sweet treat, but it gets things done on the cheap. | Photo: Antonio G. Di Benedetto / The Verge\t\n\nLaptop prices are out of whack. $500 used to get you a tolerable laptop, and $900 got you a really good one. They often had similar CPU, RAM, and storage options because that stuff was comparatively cheap; the difference was often in build quality and screen rather than power. But RAMageddon has thrown everything off. Even laptops like the $950 Surface Laptop now start with 8GB of RAM, which isn't enough. And on the lower end, where manufacturers are struggling to compete with the $700 MacBook Neo, they're cutting corners on storage, CPU, and build quality too.\nHowever, one low-cost laptop has bucked this and genuinely surprised me. HP's 16 …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-22T13:00:00.000Z"
+        },
         {
           "title": "Two great new repairable gadgets",
           "link": "https://www.theverge.com/tech/983375/fairphone-6-plus-framework-12-laptop-mutiny-mortal-shell-2",
@@ -40,30 +64,6 @@
           "link": "https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa",
           "summary": "The US Department of Justice announced on Friday that TikTok will pay $400 million to settle a lawsuit filed in 2024 over allegedly violating the Children's Online Privacy Protection Act (COPPA). In the lawsuit, the DOJ alleged that TikTok collected data from children without notifying parents or obtaining consent and did not delete the accounts when parents requested.\nTikTok is set to pay $300 million right away and will pay a further $100 million \"upon entry of an order vacating a prior consent decree entered against TikTok's predecessor, Musical.ly,\" the DOJ says in a press release. The settlement is \"one of the largest recoveries ever o …\nRead the full story at The Verge.",
           "isoDate": "2026-08-21T22:13:34.000Z"
-        },
-        {
-          "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
-          "summary": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Srinivasan, \"over a million people\" have clicked on the button, which is accessible from the three dots menu on a post. \nLinkedIn announced the button a few weeks after AI detector Pangram determined that 41 percent of LinkedIn's longform posts were flagged as fully AI generated, which 404 Media reported on. Alongside the AI slop button, LinkedIn introduced \"new and improved\" classifiers to identify posts as AI and removed a feature that would \"en …\nRead the full story at The Verge.",
-          "isoDate": "2026-08-21T21:25:50.000Z"
-        },
-        {
-          "title": "Thunder + fiber-optic cabling used for seismic imaging",
-          "link": "https://arstechnica.com/science/2026/08/researchers-use-thunderquakes-to-study-structure-of-earths-surface/",
-          "summary": "Thunderstorms make seismic waves that can be used to find sub-surface features.",
-          "isoDate": "2026-08-21T20:26:46.000Z"
-        },
-        {
-          "title": "Hidden Zillow listings created fake supply shock, raising NYC rents, lawsuit says",
-          "link": "https://arstechnica.com/tech-policy/2026/08/class-action-accuses-brokers-of-hiding-zillow-listings-driving-up-nyc-rents/",
-          "summary": "Renters say hidden Zillow listings make it harder to afford living in New York City.",
-          "isoDate": "2026-08-21T20:10:50.000Z"
-        },
-        {
-          "title": "Apple is laying off staffers working on the Vision Pro and Siri",
-          "link": "https://www.theverge.com/tech/983451/apple-layoffs-vision-pro-siri",
-          "summary": "Apple is laying off staff on the Siri and the Vision Pro teams, according to Bloomberg. The cuts include \"largely shutting down\" a Vision Pro gaming team and \"reducing the size\" of the team that makes Vision Pro immersive content, the publication says. More than 200 jobs were cut.\nApple said in a statement to Bloomberg it was making the changes to \"to evolve our business to deliver the best experiences for our users,\" though it will be making new roles. The company didn't immediately reply to a request for comment from The Verge.\nThe Vision Pro launched in early 2024 as Apple's big bet on \"spatial computing,\" but the $3,499 headset doesn't …\nRead the full story at The Verge.",
-          "isoDate": "2026-08-21T19:44:55.000Z"
         }
       ]
     },
@@ -72,40 +72,10 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "APOD: 2026 August 22 – Mostly Perseids",
-          "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-22-mostly-perseids/",
-          "summary": "APOD Science APOD APOD: 2026 August 22… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Mostly Perseids Explanation: Recorded […]",
-          "isoDate": "2026-08-22T04:05:00.000Z"
-        },
-        {
-          "title": "NASA Shares Views of August Solar Eclipse from Ground, Air, Space",
-          "link": "https://science.nasa.gov/science-research/heliophysics/nasa-shares-views-of-august-solar-eclipse-from-ground-air-space/",
-          "summary": "On Aug. 12, a total solar eclipse darkened skies over Greenland, Iceland, and Spain. As the Moon covered the Sun, it briefly revealed the Sun’s wispy outer atmosphere — the corona — to those in the path of totality who were lucky enough to have clear skies. NASA researchers and photographers were along the eclipse […]",
-          "isoDate": "2026-08-21T18:43:40.000Z"
-        },
-        {
-          "title": "TB 26-04 Updates and Modernization of NASA’s Chemical Equilibrium with Applications (CEA) Code",
-          "link": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-updates-and-modernization-of-nasas-chemical-equilibrium-with-applications-cea-code/",
-          "summary": "For more information, contact Mark K. Leader, Glenn Research Center, mark.leader@nasa.gov Download the PDF version NASA’s Chemical Equilibrium with Applications (CEA) code is a foundational tool for propulsion system analysis. It provides equilibrium chemistry, rocket performance, shock, and detonation calculations used across NASA and the broader aerospace community. NASA Engineering and Safety Center (NESC) Activity […]",
-          "isoDate": "2026-08-21T17:41:00.000Z"
-        },
-        {
-          "title": "Webb Opens Treasure Chest",
-          "link": "https://www.nasa.gov/image-article/webb-opens-treasure-chest/",
-          "summary": "NASA’s James Webb Space Telescope captured this Aug. 6, 2026, infrared image of part of the Carina Nebula, a star-forming region also home to the Cosmic Cliffs. This feature, called the “Treasure Chest,” is an object known as a cometary globule. A cometary globule is an isolated cloud of gas and dust with a dense, […]",
-          "isoDate": "2026-08-21T17:35:11.000Z"
-        },
-        {
-          "title": "NASA’s Artemis II Crew Set to Receive Congressional Space Medal of Honor",
-          "link": "https://www.nasa.gov/news-release/nasas-artemis-ii-crew-set-to-receive-congressional-space-medal-of-honor/",
-          "summary": "President Donald J. Trump will award each of NASA’s Artemis II crew members the Congressional Space Medal of Honor at 11 a.m. EDT on Friday, Aug. 28, during a ceremony at the agency’s Johnson Space Center in Houston. NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen, […]",
-          "isoDate": "2026-08-21T17:06:36.000Z"
-        },
-        {
-          "title": "Europe’s Scorching Summer",
-          "link": "https://science.nasa.gov/earth/europes-scorching-summer/",
-          "summary": "A series of heat waves in 2026 is breaking records and taking a toll in Europe.",
-          "isoDate": "2026-08-21T04:01:00.000Z"
+          "title": "ERROR cargando feed",
+          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
+          "isoDate": "2026-08-22T18:28:10.138Z"
         },
         {
           "title": "Briefing Chat: New narcolepsy drug could unlock host of novel brain therapies",
@@ -130,6 +100,36 @@
           "link": "https://www.nature.com/articles/d41586-026-02352-4",
           "summary": "Nature, Published online: 21 August 2026; doi:10.1038/d41586-026-02352-4\nThe case is the latest example of a scientific workhorse being misused in experiments.",
           "isoDate": "2026-08-21T00:00:00.000Z"
+        },
+        {
+          "title": "Genomes of Poaceae relatives reveal key metabolic innovations preceding the evolution of grasses",
+          "link": "https://www.science.org/doi/abs/10.1126/science.adv0443?af=R",
+          "summary": "Science, Volume 393, Issue 6813, August 2026.",
+          "isoDate": "2026-08-20T07:00:00.000Z"
+        },
+        {
+          "title": "TGW1a locus simultaneously shortens growth duration and boosts grain yield in rice",
+          "link": "https://www.science.org/doi/abs/10.1126/science.ady1619?af=R",
+          "summary": "Science, Volume 393, Issue 6813, August 2026.",
+          "isoDate": "2026-08-20T07:00:00.000Z"
+        },
+        {
+          "title": "Tracing the origins of de novo coronary collateral formation in cardiac repair",
+          "link": "https://www.science.org/doi/abs/10.1126/science.ady3027?af=R",
+          "summary": "Science, Volume 393, Issue 6813, August 2026.",
+          "isoDate": "2026-08-20T07:00:00.000Z"
+        },
+        {
+          "title": "Modality-specific neurovascular coupling via layer-segregated arteriole networks",
+          "link": "https://www.science.org/doi/abs/10.1126/science.aeb5077?af=R",
+          "summary": "Science, Volume 393, Issue 6813, August 2026.",
+          "isoDate": "2026-08-20T07:00:00.000Z"
+        },
+        {
+          "title": "Virome-wide ubiquitin ligase discovery reveals diverse mechanisms of immune evasion",
+          "link": "https://www.science.org/doi/abs/10.1126/science.aec6299?af=R",
+          "summary": "Science, Volume 393, Issue 6813, August 2026.",
+          "isoDate": "2026-08-20T07:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-08-22T12:36:17.506Z"
+          "isoDate": "2026-08-22T18:28:10.565Z"
+        },
+        {
+          "title": "Robot horse and rider steal the spotlight at Chinese conference",
+          "link": "https://www.bbc.co.uk/news/videos/cy4k4d3lj21o?at_medium=RSS&at_campaign=rss",
+          "summary": "More than 300 companies are showcasing the latest advances in robotics at the five-day event in Beijing, China, organisers say.",
+          "isoDate": "2026-08-22T12:47:28.000Z"
         },
         {
           "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/c20ydrndr0wo?at_medium=RSS&at_campaign=rss",
           "summary": "The war in Ukraine has spurred people to consider putting vital infrastructure underground.",
           "isoDate": "2026-08-18T23:25:21.000Z"
-        },
-        {
-          "title": "Meta hooked children on Facebook and Instagram, US court hears",
-          "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
-          "summary": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states started.",
-          "isoDate": "2026-08-18T22:11:07.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-08-22T12:36:21.050Z"
+          "isoDate": "2026-08-22T18:28:13.474Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-08-22T12:36:19.066Z"
+          "isoDate": "2026-08-22T18:28:11.602Z"
         },
         {
           "title": "Stop Hunting, Start Solving: Accelerating Root Cause Analysis with Agentic AI",
@@ -324,47 +324,12 @@
       "maxItems": 120,
       "items": [
         {
-          "title": "RESULTADOS (ÚLTIMOS)",
+          "title": "RESULTADOS (EN DIRECTO)",
           "link": "",
           "summary": ""
         },
         {
-          "title": "REA  1-0  REA",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "RAY  1-1  ALA",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "ATL  2-0  MÁL",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "DEP  1-1  ELC",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "ESP  3-0  LEV",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "SAN  2-2  VIL",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "SEV  2-1  RAY",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "ALA  3-0  GET",
+          "title": "VAL  0-0  CEL",
           "link": "",
           "summary": ""
         },
@@ -379,22 +344,22 @@
           "summary": ""
         },
         {
-          "title": " 1  ALA   2   1  1  0   4   1   3   4",
+          "title": " 1  SEV   2   2  0  0   5   2   3   6",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 2  ESP   1   1  0  0   3   0   3   3",
+          "title": " 2  ALA   2   1  1  0   4   1   3   4",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 3  ATL   1   1  0  0   2   0   2   3",
+          "title": " 3  ESP   1   1  0  0   3   0   3   3",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 4  SEV   1   1  0  0   2   1   1   3",
+          "title": " 4  ATL   1   1  0  0   2   0   2   3",
           "link": "",
           "summary": ""
         },
@@ -424,42 +389,42 @@
           "summary": ""
         },
         {
-          "title": "10  RAY   2   0  1  1   2   3  -1   1",
+          "title": "10  CEL   1   0  1  0   0   0   0   1",
           "link": "",
           "summary": ""
         },
         {
-          "title": "11  ATH   0   0  0  0   0   0   0   0",
+          "title": "10  VAL   1   0  1  0   0   0   0   1",
           "link": "",
           "summary": ""
         },
         {
-          "title": "11  OSA   0   0  0  0   0   0   0   0",
+          "title": "12  RAY   2   0  1  1   2   3  -1   1",
           "link": "",
           "summary": ""
         },
         {
-          "title": "11  BAR   0   0  0  0   0   0   0   0",
+          "title": "13  OSA   0   0  0  0   0   0   0   0",
           "link": "",
           "summary": ""
         },
         {
-          "title": "11  CEL   0   0  0  0   0   0   0   0",
+          "title": "13  BAR   0   0  0  0   0   0   0   0",
           "link": "",
           "summary": ""
         },
         {
-          "title": "11  REA   0   0  0  0   0   0   0   0",
+          "title": "13  REA   0   0  0  0   0   0   0   0",
           "link": "",
           "summary": ""
         },
         {
-          "title": "11  VAL   0   0  0  0   0   0   0   0",
+          "title": "16  REA   1   0  0  1   0   1  -1   0",
           "link": "",
           "summary": ""
         },
         {
-          "title": "17  REA   1   0  0  1   0   1  -1   0",
+          "title": "17  ATH   1   0  0  1   1   3  -2   0",
           "link": "",
           "summary": ""
         },
