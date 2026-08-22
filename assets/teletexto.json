@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-08-22T01:09:52.585Z",
+  "generatedAt": "2026-08-22T06:37:34.254Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Trump's space transportation policy calls for new spaceport on federal land",
+          "link": "https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/",
+          "summary": "\"We probably need another site that's capable of heavy and super heavy launch capability.\"",
+          "isoDate": "2026-08-21T23:32:17.000Z"
+        },
         {
           "title": "HoverAir’s transforming modular drone has already been halted in the US",
           "link": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
@@ -58,12 +64,6 @@
           "link": "https://arstechnica.com/cars/2026/08/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars/",
           "summary": "Chinese safety regulators have cracked down on doors that don't open in a crash.",
           "isoDate": "2026-08-21T18:07:15.000Z"
-        },
-        {
-          "title": "$100 Best Buy gift cards will be $60 at stores Saturday",
-          "link": "https://www.theverge.com/gadgets/982513/best-buy-gift-card-in-store-deal",
-          "summary": "The best gift card deal we’ve spotted this year is happening Saturday, August 22nd, at Best Buy stores for one day only. In celebration of the retailer’s 60th anniversary, you can purchase a $100 Best Buy gift card for $60. The deal is only good for as long as supplies last at your local store, so you might want to plan on getting there no later than opening time to boost your chance of getting one.\nThere are some limitations on how you can use the gift card. You can’t use them to buy other gift cards, like iTunes or Google Play credit, and they also can’t be used to buy prepaid or open-loop debit cards. However, they can be used in combination with other discounts or promotions on products from Best Buy, and any returns or cancellations you make will credit back to the gift card.\nWe’ve found a number of deals during Best Buy’s 60th anniversary sale that you can apply that gift card to. The iPad Air M4 dropped to $649, the lowest we’ve seen since the prices went up this summer, and the AirPods Max 2 are only $429, $120 lower than their usual price. There are a variety of discounts on Windows and macOS laptops too, like this HP OmniBook X Flip 2-in-1 for $749.99, a $450 discount from the typical price.",
-          "isoDate": "2026-08-21T18:00:00.000Z"
         }
       ]
     },
@@ -72,34 +72,10 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "NASA Shares Views of August Solar Eclipse from Ground, Air, Space",
-          "link": "https://science.nasa.gov/science-research/heliophysics/nasa-shares-views-of-august-solar-eclipse-from-ground-air-space/",
-          "summary": "On Aug. 12, a total solar eclipse darkened skies over Greenland, Iceland, and Spain. As the Moon covered the Sun, it briefly revealed the Sun’s wispy outer atmosphere — the corona — to those in the path of totality who were lucky enough to have clear skies. NASA researchers and photographers were along the eclipse […]",
-          "isoDate": "2026-08-21T18:43:40.000Z"
-        },
-        {
-          "title": "TB 26-04 Updates and Modernization of NASA’s Chemical Equilibrium with Applications (CEA) Code",
-          "link": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-updates-and-modernization-of-nasas-chemical-equilibrium-with-applications-cea-code/",
-          "summary": "For more information, contact Mark K. Leader, Glenn Research Center, mark.leader@nasa.gov Download the PDF version NASA’s Chemical Equilibrium with Applications (CEA) code is a foundational tool for propulsion system analysis. It provides equilibrium chemistry, rocket performance, shock, and detonation calculations used across NASA and the broader aerospace community. NASA Engineering and Safety Center (NESC) Activity […]",
-          "isoDate": "2026-08-21T17:41:00.000Z"
-        },
-        {
-          "title": "Webb Opens Treasure Chest",
-          "link": "https://www.nasa.gov/image-article/webb-opens-treasure-chest/",
-          "summary": "NASA’s James Webb Space Telescope captured this Aug. 6, 2026, infrared image of part of the Carina Nebula, a star-forming region also home to the Cosmic Cliffs. This feature, called the “Treasure Chest,” is an object known as a cometary globule. A cometary globule is an isolated cloud of gas and dust with a dense, […]",
-          "isoDate": "2026-08-21T17:35:11.000Z"
-        },
-        {
-          "title": "NASA’s Artemis II Crew Set to Receive Congressional Space Medal of Honor",
-          "link": "https://www.nasa.gov/news-release/nasas-artemis-ii-crew-set-to-receive-congressional-space-medal-of-honor/",
-          "summary": "President Donald J. Trump will award each of NASA’s Artemis II crew members the Congressional Space Medal of Honor at 11 a.m. EDT on Friday, Aug. 28, during a ceremony at the agency’s Johnson Space Center in Houston. NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen, […]",
-          "isoDate": "2026-08-21T17:06:36.000Z"
-        },
-        {
-          "title": "Europe’s Scorching Summer",
-          "link": "https://science.nasa.gov/earth/europes-scorching-summer/",
-          "summary": "A series of heat waves in 2026 is breaking records and taking a toll in Europe.",
-          "isoDate": "2026-08-21T04:01:00.000Z"
+          "title": "ERROR cargando feed",
+          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
+          "isoDate": "2026-08-22T06:37:30.533Z"
         },
         {
           "title": "Briefing Chat: New narcolepsy drug could unlock host of novel brain therapies",
@@ -126,10 +102,34 @@
           "isoDate": "2026-08-21T00:00:00.000Z"
         },
         {
-          "title": "SmallSat 2026",
-          "link": "https://science.nasa.gov/earth/smallsat-2026/",
-          "summary": "SmallSat 2026 Join NASA in the Exhibit Hall (Booth # 635, 835, 641, and 940) for Storytelling by NASA experts. Full Agenda below. MONDAY, AUGUST 24, 9:00 – 10:00 AM WelcomeJose NunezBryceTech’s Smallsats by the Numbers: 2026Fletcher FranklinSupply Chain ObservationsBruce YostTechnology Shortfall Rudy de RoseeSPARCS Camera and Early Science ObservationsKaitlyn AshcroftJPL: SkyfallTim CanhamSWIFT LINK ReboostBo NaaszFlight […]",
-          "isoDate": "2026-08-20T20:05:41.000Z"
+          "title": "Genomes of Poaceae relatives reveal key metabolic innovations preceding the evolution of grasses",
+          "link": "https://www.science.org/doi/abs/10.1126/science.adv0443?af=R",
+          "summary": "Science, Volume 393, Issue 6813, August 2026.",
+          "isoDate": "2026-08-20T07:00:00.000Z"
+        },
+        {
+          "title": "TGW1a locus simultaneously shortens growth duration and boosts grain yield in rice",
+          "link": "https://www.science.org/doi/abs/10.1126/science.ady1619?af=R",
+          "summary": "Science, Volume 393, Issue 6813, August 2026.",
+          "isoDate": "2026-08-20T07:00:00.000Z"
+        },
+        {
+          "title": "Tracing the origins of de novo coronary collateral formation in cardiac repair",
+          "link": "https://www.science.org/doi/abs/10.1126/science.ady3027?af=R",
+          "summary": "Science, Volume 393, Issue 6813, August 2026.",
+          "isoDate": "2026-08-20T07:00:00.000Z"
+        },
+        {
+          "title": "Modality-specific neurovascular coupling via layer-segregated arteriole networks",
+          "link": "https://www.science.org/doi/abs/10.1126/science.aeb5077?af=R",
+          "summary": "Science, Volume 393, Issue 6813, August 2026.",
+          "isoDate": "2026-08-20T07:00:00.000Z"
+        },
+        {
+          "title": "Virome-wide ubiquitin ligase discovery reveals diverse mechanisms of immune evasion",
+          "link": "https://www.science.org/doi/abs/10.1126/science.aec6299?af=R",
+          "summary": "Science, Volume 393, Issue 6813, August 2026.",
+          "isoDate": "2026-08-20T07:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-08-22T01:09:49.576Z"
+          "isoDate": "2026-08-22T06:37:31.599Z"
         },
         {
           "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-08-22T01:09:51.709Z"
+          "isoDate": "2026-08-22T06:37:33.593Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-08-22T01:09:51.128Z"
+          "isoDate": "2026-08-22T06:37:32.749Z"
         },
         {
           "title": "Stop Hunting, Start Solving: Accelerating Root Cause Analysis with Agentic AI",
