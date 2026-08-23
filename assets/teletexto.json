@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T18:28:14.328Z",
+  "generatedAt": "2026-08-23T01:15:43.786Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
@@ -75,7 +75,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
           "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-08-22T18:28:10.138Z"
+          "isoDate": "2026-08-23T01:15:39.320Z"
         },
         {
           "title": "Briefing Chat: New narcolepsy drug could unlock host of novel brain therapies",
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-08-22T18:28:10.565Z"
+          "isoDate": "2026-08-23T01:15:40.284Z"
         },
         {
           "title": "Robot horse and rider steal the spotlight at Chinese conference",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-08-22T18:28:13.474Z"
+          "isoDate": "2026-08-23T01:15:43.028Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-08-22T18:28:11.602Z"
+          "isoDate": "2026-08-23T01:15:41.552Z"
         },
         {
           "title": "Stop Hunting, Start Solving: Accelerating Root Cause Analysis with Agentic AI",
@@ -324,12 +324,57 @@
       "maxItems": 120,
       "items": [
         {
-          "title": "RESULTADOS (EN DIRECTO)",
+          "title": "RESULTADOS (ÚLTIMOS)",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "ESP  1-2  REA",
           "link": "",
           "summary": ""
         },
         {
           "title": "VAL  0-0  CEL",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "ATH  1-3  SEV",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "REA  1-0  REA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "RAY  1-1  ALA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "ATL  2-0  MÁL",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "DEP  1-1  ELC",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "ESP  3-0  LEV",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "SAN  2-2  VIL",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "SEV  2-1  RAY",
           "link": "",
           "summary": ""
         },
@@ -354,7 +399,7 @@
           "summary": ""
         },
         {
-          "title": " 3  ESP   1   1  0  0   3   0   3   3",
+          "title": " 3  ESP   2   1  0  1   4   2   2   3",
           "link": "",
           "summary": ""
         },
@@ -364,57 +409,57 @@
           "summary": ""
         },
         {
-          "title": " 5  REA   1   1  0  0   1   0   1   3",
+          "title": " 5  REA   1   1  0  0   2   1   1   3",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 6  SAN   1   0  1  0   2   2   0   1",
+          "title": " 6  REA   1   1  0  0   1   0   1   3",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 6  VIL   1   0  1  0   2   2   0   1",
+          "title": " 7  SAN   1   0  1  0   2   2   0   1",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 8  DEP   1   0  1  0   1   1   0   1",
+          "title": " 7  VIL   1   0  1  0   2   2   0   1",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 8  ELC   1   0  1  0   1   1   0   1",
+          "title": " 9  DEP   1   0  1  0   1   1   0   1",
           "link": "",
           "summary": ""
         },
         {
-          "title": "10  CEL   1   0  1  0   0   0   0   1",
+          "title": " 9  ELC   1   0  1  0   1   1   0   1",
           "link": "",
           "summary": ""
         },
         {
-          "title": "10  VAL   1   0  1  0   0   0   0   1",
+          "title": "11  CEL   1   0  1  0   0   0   0   1",
           "link": "",
           "summary": ""
         },
         {
-          "title": "12  RAY   2   0  1  1   2   3  -1   1",
+          "title": "11  VAL   1   0  1  0   0   0   0   1",
           "link": "",
           "summary": ""
         },
         {
-          "title": "13  OSA   0   0  0  0   0   0   0   0",
+          "title": "13  RAY   2   0  1  1   2   3  -1   1",
           "link": "",
           "summary": ""
         },
         {
-          "title": "13  BAR   0   0  0  0   0   0   0   0",
+          "title": "14  OSA   0   0  0  0   0   0   0   0",
           "link": "",
           "summary": ""
         },
         {
-          "title": "13  REA   0   0  0  0   0   0   0   0",
+          "title": "14  BAR   0   0  0  0   0   0   0   0",
           "link": "",
           "summary": ""
         },
