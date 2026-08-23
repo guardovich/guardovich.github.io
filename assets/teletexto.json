@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-08-23T06:38:31.431Z",
+  "generatedAt": "2026-08-23T12:37:05.069Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Grand Theft Auto VI exists in its own universe",
+          "link": "https://www.theverge.com/column/983410/grand-theft-auto-vi-exists-in-its-own-universe",
+          "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on GTA VI and the state of the video game industry, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.\nHow it started\nFour years ago, fans got a long-awaited look at Grand Theft Auto VI with a huge cache of videos that showed off Rockstar's latest open-world epic. There were 90 videos in total, providing a glimpse at the next-generation take on Vice City, introducing the game's new dual protagonists, and generally showing off the crime-fueled mayhem the series is known for.  …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-23T12:00:00.000Z"
+        },
+        {
+          "title": "Volcanoes that made history",
+          "link": "https://arstechnica.com/science/2026/08/volcanoes-that-made-history/",
+          "summary": "Enormous eruptions altered Earth’s climate and societies all over the globe.",
+          "isoDate": "2026-08-23T11:02:54.000Z"
+        },
         {
           "title": "Doodle generative compositions in your browser with Musical Spirograph",
           "link": "https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition",
@@ -52,18 +64,6 @@
           "link": "https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/",
           "summary": "\"We probably need another site that's capable of heavy and super heavy launch capability.\"",
           "isoDate": "2026-08-21T23:32:17.000Z"
-        },
-        {
-          "title": "HoverAir’s transforming modular drone has already been halted in the US",
-          "link": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
-          "summary": "The HoverAir Versa. | Image: HoverAir\t\n\nI am so sorry, fellow US gadget fans: the FCC's drone ban appears to have struck again. The HoverAir Versa - a baby steadycam with snap-on propeller wings that transform it into a drone - has already stopped taking US orders just three days after its Indiegogo debut, and may be forced to abandon shipping plans in the US.\nHoverAir is now telling backers it's only shipping its camera to the US, not the piece that turns it into a drone, \"due to a few remaining logistics updates with the Flight Kit.\" But those \"logistics\" may actually be a euphemism for \"we've been banned by the federal government.\" The FCC's database no longer has an entry for …\nRead the full story at The Verge.",
-          "isoDate": "2026-08-21T22:14:11.000Z"
-        },
-        {
-          "title": "TikTok will pay $400 million to settle DOJ child privacy lawsuit",
-          "link": "https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa",
-          "summary": "The US Department of Justice announced on Friday that TikTok will pay $400 million to settle a lawsuit filed in 2024 over allegedly violating the Children's Online Privacy Protection Act (COPPA). In the lawsuit, the DOJ alleged that TikTok collected data from children without notifying parents or obtaining consent and did not delete the accounts when parents requested.\nTikTok is set to pay $300 million right away and will pay a further $100 million \"upon entry of an order vacating a prior consent decree entered against TikTok's predecessor, Musical.ly,\" the DOJ says in a press release. The settlement is \"one of the largest recoveries ever o …\nRead the full story at The Verge.",
-          "isoDate": "2026-08-21T22:13:34.000Z"
         }
       ]
     },
@@ -72,10 +72,46 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "ERROR cargando feed",
-          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
-          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-08-23T06:38:27.886Z"
+          "title": "Curiosity Blog, Sols 4982–4987: Back to Our Regularly Scheduled Programming",
+          "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4982-4987-back-to-our-regularly-scheduled-programming/",
+          "summary": "By Allison Dries-Padilla, Missions Operations Specialist at Malin Space Science Systems Earth planning date: Friday, Aug. 14, 2026 This week of Curiosity Mars rover operations takes us back to our “regularly scheduled programming.” After taking a slight detour to investigate the “erosional surface” we are back on course to ascend Mount Sharp. As we transition […]",
+          "isoDate": "2026-08-23T07:39:28.000Z"
+        },
+        {
+          "title": "APOD: 2026 August 22 – Mostly Perseids",
+          "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-22-mostly-perseids/",
+          "summary": "APOD Science APOD APOD: 2026 August 22… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Mostly Perseids Explanation: Recorded […]",
+          "isoDate": "2026-08-22T04:05:00.000Z"
+        },
+        {
+          "title": "NASA Shares Views of August Solar Eclipse from Ground, Air, Space",
+          "link": "https://science.nasa.gov/science-research/heliophysics/nasa-shares-views-of-august-solar-eclipse-from-ground-air-space/",
+          "summary": "On Aug. 12, a total solar eclipse darkened skies over Greenland, Iceland, and Spain. As the Moon covered the Sun, it briefly revealed the Sun’s wispy outer atmosphere — the corona — to those in the path of totality who were lucky enough to have clear skies. NASA researchers and photographers were along the eclipse […]",
+          "isoDate": "2026-08-21T18:43:40.000Z"
+        },
+        {
+          "title": "TB 26-04 Updates and Modernization of NASA’s Chemical Equilibrium with Applications (CEA) Code",
+          "link": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-updates-and-modernization-of-nasas-chemical-equilibrium-with-applications-cea-code/",
+          "summary": "For more information, contact Mark K. Leader, Glenn Research Center, mark.leader@nasa.gov Download the PDF version NASA’s Chemical Equilibrium with Applications (CEA) code is a foundational tool for propulsion system analysis. It provides equilibrium chemistry, rocket performance, shock, and detonation calculations used across NASA and the broader aerospace community. NASA Engineering and Safety Center (NESC) Activity […]",
+          "isoDate": "2026-08-21T17:41:00.000Z"
+        },
+        {
+          "title": "Webb Opens Treasure Chest",
+          "link": "https://www.nasa.gov/image-article/webb-opens-treasure-chest/",
+          "summary": "NASA’s James Webb Space Telescope captured this Aug. 6, 2026, infrared image of part of the Carina Nebula, a star-forming region also home to the Cosmic Cliffs. This feature, called the “Treasure Chest,” is an object known as a cometary globule. A cometary globule is an isolated cloud of gas and dust with a dense, […]",
+          "isoDate": "2026-08-21T17:35:11.000Z"
+        },
+        {
+          "title": "NASA’s Artemis II Crew Set to Receive Congressional Space Medal of Honor",
+          "link": "https://www.nasa.gov/news-release/nasas-artemis-ii-crew-set-to-receive-congressional-space-medal-of-honor/",
+          "summary": "President Donald J. Trump will award each of NASA’s Artemis II crew members the Congressional Space Medal of Honor at 11 a.m. EDT on Friday, Aug. 28, during a ceremony at the agency’s Johnson Space Center in Houston. NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen, […]",
+          "isoDate": "2026-08-21T17:06:36.000Z"
+        },
+        {
+          "title": "Europe’s Scorching Summer",
+          "link": "https://science.nasa.gov/earth/europes-scorching-summer/",
+          "summary": "A series of heat waves in 2026 is breaking records and taking a toll in Europe.",
+          "isoDate": "2026-08-21T04:01:00.000Z"
         },
         {
           "title": "Briefing Chat: New narcolepsy drug could unlock host of novel brain therapies",
@@ -94,42 +130,6 @@
           "link": "https://www.nature.com/articles/d41586-026-02566-6",
           "summary": "Nature, Published online: 21 August 2026; doi:10.1038/d41586-026-02566-6\nRather than racing to replace people, we should build AI tools that amplify human expertise and expand opportunity.",
           "isoDate": "2026-08-21T00:00:00.000Z"
-        },
-        {
-          "title": "Sleuth identifies dozens of studies that used the wrong antibody",
-          "link": "https://www.nature.com/articles/d41586-026-02352-4",
-          "summary": "Nature, Published online: 21 August 2026; doi:10.1038/d41586-026-02352-4\nThe case is the latest example of a scientific workhorse being misused in experiments.",
-          "isoDate": "2026-08-21T00:00:00.000Z"
-        },
-        {
-          "title": "Genomes of Poaceae relatives reveal key metabolic innovations preceding the evolution of grasses",
-          "link": "https://www.science.org/doi/abs/10.1126/science.adv0443?af=R",
-          "summary": "Science, Volume 393, Issue 6813, August 2026.",
-          "isoDate": "2026-08-20T07:00:00.000Z"
-        },
-        {
-          "title": "TGW1a locus simultaneously shortens growth duration and boosts grain yield in rice",
-          "link": "https://www.science.org/doi/abs/10.1126/science.ady1619?af=R",
-          "summary": "Science, Volume 393, Issue 6813, August 2026.",
-          "isoDate": "2026-08-20T07:00:00.000Z"
-        },
-        {
-          "title": "Tracing the origins of de novo coronary collateral formation in cardiac repair",
-          "link": "https://www.science.org/doi/abs/10.1126/science.ady3027?af=R",
-          "summary": "Science, Volume 393, Issue 6813, August 2026.",
-          "isoDate": "2026-08-20T07:00:00.000Z"
-        },
-        {
-          "title": "Modality-specific neurovascular coupling via layer-segregated arteriole networks",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aeb5077?af=R",
-          "summary": "Science, Volume 393, Issue 6813, August 2026.",
-          "isoDate": "2026-08-20T07:00:00.000Z"
-        },
-        {
-          "title": "Virome-wide ubiquitin ligase discovery reveals diverse mechanisms of immune evasion",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aec6299?af=R",
-          "summary": "Science, Volume 393, Issue 6813, August 2026.",
-          "isoDate": "2026-08-20T07:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-08-23T06:38:28.477Z"
+          "isoDate": "2026-08-23T12:37:02.391Z"
         },
         {
           "title": "Robot horse and rider steal the spotlight at Chinese conference",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-08-23T06:38:30.310Z"
+          "isoDate": "2026-08-23T12:37:04.234Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-08-23T06:38:29.476Z"
+          "isoDate": "2026-08-23T12:37:03.548Z"
         },
         {
           "title": "Stop Hunting, Start Solving: Accelerating Root Cause Analysis with Agentic AI",
