@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-08-23T12:37:05.069Z",
+  "generatedAt": "2026-08-23T18:27:06.194Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "We’re All Going to the World’s Fair is an intimate coming-of-age horror film",
+          "link": "https://www.theverge.com/entertainment/983177/jane-schoenbrun-were-all-going-to-the-worlds-fair-horror-movie-review",
+          "summary": "Jane Schoenbrun's latest film, Teenage Sex and Death at Camp Miasma, is making a splash in theaters right now. So it seems like the perfect time to revisit their first film, We're All Going to the World's Fair. I fell in love with this film when I first saw it at Sundance in 2021. \nWe are immediately introduced to our protagonist, Casey, as she engages in the World's Fair Challenge, a sort of ARG creepypasta meets ice bucket challenge. There's a creepy mantra, some bloodletting, and a mysterious video - basically a speedrun of horror movie tropes. But having them all delivered by this young girl alone in her room who just stares directly in …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-23T15:00:00.000Z"
+        },
+        {
+          "title": "Due to need for 'absolute success,' China delays critical Moon launch to 2027",
+          "link": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/",
+          "summary": "\"The Chang’e 7 mission does not meet the conditions for launch.\"",
+          "isoDate": "2026-08-23T14:30:16.000Z"
+        },
         {
           "title": "Grand Theft Auto VI exists in its own universe",
           "link": "https://www.theverge.com/column/983410/grand-theft-auto-vi-exists-in-its-own-universe",
@@ -52,18 +64,6 @@
           "link": "https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/",
           "summary": "Hibernation cuts down on synapses, but mice seem to retain memories anyway.",
           "isoDate": "2026-08-22T11:22:32.000Z"
-        },
-        {
-          "title": "Dismantling the Roadless Rule threatens to disrupt wildlife and water in US",
-          "link": "https://arstechnica.com/science/2026/08/dismantling-the-roadless-rule-threatens-to-disrupt-wildlife-and-water-in-us/",
-          "summary": "Lands free of roads are under threat from the Trump administration’s proposed rollback.",
-          "isoDate": "2026-08-22T11:08:53.000Z"
-        },
-        {
-          "title": "Trump's space transportation policy calls for new spaceport on federal land",
-          "link": "https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/",
-          "summary": "\"We probably need another site that's capable of heavy and super heavy launch capability.\"",
-          "isoDate": "2026-08-21T23:32:17.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-08-23T12:37:02.391Z"
+          "isoDate": "2026-08-23T18:27:03.453Z"
         },
         {
           "title": "Robot horse and rider steal the spotlight at Chinese conference",
@@ -273,13 +273,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-08-23T12:37:04.234Z"
+          "isoDate": "2026-08-23T18:27:05.615Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-08-23T12:37:03.548Z"
+          "isoDate": "2026-08-23T18:27:04.445Z"
+        },
+        {
+          "title": "This IEEE Senior Member Develops AI Tools for E-Commerce Sites",
+          "link": "https://spectrum.ieee.org/ieee-senior-member-ai-ecommerce",
+          "summary": "Balaji Ingole rarely saw televisions while growing up in Udgir, India. No one in the small Maharashtra village had computers or phones. Only one household owned a television, and neighbors often gathered there to watch shows together.\nIngole never even saw a computer growing up. It wasn’t until he reached middle school that he encountered a computer lab, an experience he says changed his life. Almost immediately, he says, the machine felt like a window into a different scale of possibility for him.\nBalaji Ingole\n\nEmployer \nAmla Commerce in Milwaukee\nTitle \nProject manager\nMember grade \nSenior member\nAlma maters \nCOEP Technological University and Welingkar Institute of Management, both in India\n“I was very studious and not very social, always reading or solving problems in a math textbook,” he says. “At the computer lab, I began learning the C programming language—which was like discovering a whole new world. I was fascinated that you could create something with just a few lines of code.”\nHis early interest grew into a self-directed education. Outside of Ingole’s formal classwork, he taught himself to build database-backed applications, wire up hardware, write software, and trace error logs.\nToday the IEEE senior member similarly splits his time. During the week, he’s a project manager in Milwaukee at B2B e-commerce company Amla, leading AI-driven digital transformation initiatives to help the company’s clients boost their sales. On weekends, he leads a similarly demanding life as an independent researcher. His current projects include developing AI-enabled health care diagnostic tools and assistive technologies to support people with physical disabilities.\n“I believe in ‘learn by doing,’” he says. “I really like to test my knowledge and prototype ideas to find out if they truly work.”\nA college project becomes an inspiration\nIngole’s tendency to go beyond his coursework continued after he graduated high school in 2004. As a mechanical engineering undergraduate at The College of Engineering, Pune (now COEP Technological University), in India, he participated in several extracurricular activities. One was interviewing entrepreneurs and writing about them for The COEP College Magazine. The experience helped him gain confidence, he says, giving him the push he needed to pursue interviews for the publication with two Indian entrepreneurs he admired: N.R. Narayana Murthy, cofounder of IT giant Infosys; and his wife, philanthropist Sudha Murty. The Murtys cofounded the Infosys Foundation, a nonprofit that runs educational, health care, women’s empowerment, and sustainability programs in underserved areas of India.\n“Every week I would fax them: ‘Please give me an interview time,’” Ingole says. Eventually, Sudha Murty’s office offered him a phone interview, but he requested to meet her in person at Infosys’s Bengaluru offices. She agreed, but the offices were 940 kilometers from Pune, and he didn’t have the money to travel or stay overnight in a hotel.\nIngole and a classmate borrowed money from friends and traveled through the night on multiple buses and trains to get to Bengaluru. They freshened up in a public bathroom before heading to the Infosys campus to meet Murty.\nImpressed by their persistence, she surprised them by also arranging a brief chat with Narayana Murthy.\n“Narayana Murthy handwrote a personal message to the engineering students of [my college]—which we proudly published in our college magazine,” Ingole says. “In his note, Murthy shared that we are at an extraordinary moment in India’s history and that the future looks even brighter. His words encouraged us to work hard and make the most of this time.\n“I still have that note,” Ingole says. “They are billionaires, and I was just a regular student. The fact that they took the time to do this really motivated me.”\nDuring the final semester of his engineering studies, Ingole joined the Tata Research Design and Development Center in Pune for a six-month internship. After earning his bachelor’s degree in mechanical engineering in 2008, he became a graduate engineering trainee at Honeywell Automation in Pune.\nHe left the company in 2009, and during the next 13 years, he held different software engineering and project management positions at IT companies across India.\nHe earned a master’s degree in business administration from the Welingkar Institute of Management, Mumbai, in 2017.\nIn 2022 he accepted a project-manager role at Mars IT Solutions in Madison, Wisc. The following year, he left to join Gainwell Technologies, also in Madison, as a senior project manager. At Gainwell, he managed projects for the core IT systems multiple U.S. state health departments use to administer Medicaid benefits, manage provider enrollment, and verify member eligibility. The experience managing projects that directly enabled patients’ access to health care gave Ingole a special appreciation for and interest in this area, he says.\n“Health care data is not like other data,” he says. “The stakes are high, compliance requirements are different, and the margin for error is effectively zero.”\nIngole says he enjoyed the rigor of data governance combined with the potential to positively impact lives, and that also applies to his current work at Amla.\nAgentic AI in e-commerce\nIngole joined Amla in July 2025. He helps manufacturers and B2B customers modernize their e-commerce operations. He also builds AI tools for them and for his internal team.\nFor Amla’s customers, he’s developing AI-enabled chatbots that help manufacturers set up and manage large product catalogs in e‑commerce platforms. Such product setup traditionally has been a manual, tedious, error-prone process: Companies upload thousands of products, adjust item names, enter prices, update images, and more.\n“Product setup has been one of the most painful processes in e-commerce, and it can take [our] customers two to three months to complete,” Ingole says. “We’re creating an AI agent that will guide them, step-by-step, to get everything set up in two weeks.”\nIngole relies on AI agents for some of his own tasks at Amla. Project managers historically have spent 10 to 12 hours each week assembling and sending status reports to stakeholders. Ingole built an AI agent to handle much of the work.\n“It runs every Monday morning and reads through my emails to extract highlights, risks, timelines, and upcoming releases, then sends me a written status report,” Ingole says. The process might sound simple, but the agent’s workflow involves at least a dozen steps including defining parameters, managing temporary files, and integrating with existing tools.\nWith the information-gathering work handled, it frees up Ingole and his colleagues to spend more time on deeper-thinking work, he says.\nPublishing as idea refinery\nFor nearly a decade, Ingole has spent some of his free time conducting independent research projects in data analytics and AI-enabled applications in health care. He has written more than 40 peer-reviewed papers, which are in the IEEE Xplore Digital Library. He has been granted six patents in the United Kingdom and India. In the U.K., he is a registered coinventor of an AI-powered, cloud-connected wearable device for health monitoring and an AI-based breast cancer detection tool.\nIngole’s patent for the breast cancer detector, he says, reflects his belief that when engineers apply data and AI correctly, they can help doctors diagnose patients more quickly and accurately.\nThat, he says, is both a power and a responsibility.\nHe is part of a team helping patients who are paralyzed and nonverbal control items in their environment. His goal, he says, is to develop a brain-computer interface to let patients turn on a fan, switch off a television, and complete similar tasks.\nPublishing research requires both academic rigor and peer scrutiny, and Ingole says the function has been critical to improving as both a project manager and a researcher-inventor.\n“Lots of research ideas never make it to paper,” he notes. “But when you write for journals or conferences, you’re bombarded with questions from Ph.D.s and experienced researchers. This forces me to refine my methodology, and to combine use cases and technical architecture in a way that stands up to expert review.”\nFinding a professional hub\nIngole joined IEEE in 2022, and he says the affiliation has become central to both his research and his professional identity.\n“I use the Member Directory often and contact engineers through my IEEE email address, which gives me credibility because they know it’s a genuine research connection,” he says.\nThe organization has given him a platform to contribute to the research space beyond his own papers, he says. He has served as a conference session chair, keynote speaker, technical program committee member, and peer research reviewer for various conferences and events. His IEEE membership, he says, has opened doors to other communities, helping support his entry into the British Computer Society, which has stringent acceptance criteria.\nThose opportunities have helped him build a global network of collaborators with whom to discuss upcoming research, seek advice, and share data, he says.\n“IEEE is important for me to continue as an independent researcher,” he says. “It lets me contribute to the community, and I get a lot in return.”",
+          "isoDate": "2026-08-21T18:00:01.000Z"
         },
         {
           "title": "Stop Hunting, Start Solving: Accelerating Root Cause Analysis with Agentic AI",
@@ -310,12 +316,6 @@
           "link": "https://spectrum.ieee.org/digital-signal-processing-pioneer-bede-liu",
           "summary": "Bede Liu, a digital signal processing pioneer, died on 7 May. He was 91.\nLiu was widely regarded as one of the founders of modern digital signal processing, a field that applies mathematical algorithms to analyze, modify, and transmit signals including sound, images, and video.\nThe IEEE Life Fellow taught electrical engineering at Princeton for more than 50 years. From 1994 to 1997, he chaired the university’s electrical and computer engineering department.\nLiu’s research aided the transition from analog to digital processing of sound, images, and video. His work helped establish many of the mathematical and engineering techniques that underpin modern communications, multimedia systems, and consumer electronics.\nAlthough little known outside engineering circles, his work is embedded in technologies used by billions of people. The low-power digital signal processors that make cellphone calls, streaming video, and Internet communications possible can be traced to research he conducted in the 1970s and ‘80s.\nLiu received the 2018 IEEE Jack S. Kilby Signal Processing Medal for “sustained contributions to the analysis and the development of low-complexity realizations of digital signal processing algorithms.”\n“We stream music and video. We take photos with our phones, and we send them around. We don’t even think about it,” IEEE Life Fellow H. Vincent Poor said in an obituary for Liu. “But it’s all because of the signal processing, image processing, and video processing that’s been developed over the years, as well as other technologies that have grown up beside it and enabled it, like semiconductors. The development of these processing advances was exactly what Bede was a major part of.” Poor is a professor of electrical and computer engineering at Princeton.\nAn impactful scholar and teacher\nLiu was born in Shanghai in 1934. During his childhood, his family relocated to Taiwan amid the upheaval of the Chinese Civil War. His father, Henry Liu Sr., was an electrical engineer.\nLiu earned his bachelor’s degree in electrical engineering in 1954 from the National Taiwan University, in Taipei. After graduating, he and his family moved to the United States. Liu and his father attended the Polytechnic Institute of Brooklyn (now the New York University Tandon School of Engineering) together. They earned their master’s degrees in electrical engineering in 1956. Liu continued his studies at the school, earning a doctoral degree in electrical engineering four years later.\nIn 1959 he was awarded a Bell Labs fellowship and worked at the company’s Murray Hill, N.J., location until he joined Princeton in 1962.\n“Liu was a highly impactful scholar and teacher—always thinking ahead of future needs and changing technologies,” said IEEE Life Fellow Peter J. Ramadge, a Princeton professor emeritus of engineering.\nCellphones make use of a considerable amount of digital signal processing, Liu once noted. Many of the field’s advances, he added, involved making sophisticated processing practical on devices with limited computing power—which is the challenge that confronted generations of engineers designing portable electronics.\nLiu’s research contributions helped shape both the theory and practice of digital signal processing. With Abe Peled, a former graduate student, he authored the 1976 textbook Digital Signal Processing: Theory, Design, and Implementation, which is a standard reference for engineers. Published before digital signal processing had fully emerged as a distinct discipline, it helped define the subject for practitioners and students around the world.\nLiu also published 250 technical papers and was granted 12 U.S. patents. His papers are available to read on the IEEE Xplore Digital Library.\nThe first patent granted to him and Peled was in 1976 for a hardware design that processed bits in parallel, rather than in sequence. The innovation greatly increased computing efficiency for data including sound and communication signals.\nPeled says Liu “demonstrated an openness to new ideas and a willingness to challenge the orthodoxy of the EE department at that time—which leaned heavily toward more theoretical information theory.”\nA mentor to well-known engineers\nLiu’s influence extended beyond his own research. He advised 53 doctoral students, many of whom went on to distinguished careers in academia and industry, including leadership positions at Google and IBM. One former student, computer scientist Robert Kahn, helped create the architecture of the modern Internet. Kahn, an IEEE Life Fellow, received the 2024 IEEE Medal of Honor.\n“His former students were very successful,” Poor said of Liu, “and I think that’s a testament to his skill as a mentor.”\n“Liu was a highly impactful scholar and teacher—always thinking ahead of future needs and changing technologies.”—Peter J. Ramadge\nTogether with several Ph.D. students, Liu developed methods of filtering and compressing digital signals to mitigate errors and dramatically reduce the computation needed for signal processing.\nAs digital signal processing moved from laboratories into commercial products, the impact of Liu’s ideas spread across industries. His research helped spawn the development of lower-cost and lower-power electronics and contributed to advances in mobile communications, multimedia technology, industrial automation, and biomedical imaging.\nA focus on media integrity and copyrights\nIn the 2000s, Liu turned his attention to media integrity and copyright issues.\n“With the increasing accessibility of digital media source material, the protection of ownership and the prevention of unauthorized alteration has become an important concern,” he wrote in his 2002 book, Multimedia Data Hiding. The book, which he co-wrote with his former doctoral student IEEE Fellow Min Wu, discussed the theory, techniques, applications, and security of digital watermarking—hidden signals that could identify a genuine copy of a song, image or video to prevent unauthorized distribution or tampering.\nA Princeton team that included Liu, Wu, and another of his doctoral students uncovered serious vulnerabilities in watermarking technologies being considered by an industry consortium. They found that the standardization efforts were immature and would not protect against digital piracy.\n“Now nearly every copy of a Hollywood film given to a critic or theater carries a unique digital forensic watermark to prevent unauthorized redistribution,” said Wu.\nA force in the community\nLiu, an active IEEE volunteer, served on the IEEE Board of Directors in 1984 and 1985. He was the 1982 president of the IEEE Circuits and Systems Society.\nHe was a member of the U.S. National Academy of Engineering, an academician of China’s Academia Sinica, and a foreign member of the Chinese Academy of Sciences.\nOutside the classroom, he was recognized for his humility, humor, enthusiasm, and generosity. When thinking of Liu, IEEE Life Fellow Kenneth Steiglitz says, cheer is the first word that comes to mind.\nLiu was “always ready with a positive remark, a quick smile or, maybe, some tips on the right way to cook a duck,” says Steiglitz, professor emeritus of computer science at Princeton.\nLiu encouraged his students to take on ambitious, unconventional projects, and he inspired students and colleagues with his adventurous spirit.",
           "isoDate": "2026-08-14T18:00:02.000Z"
-        },
-        {
-          "title": "Predict Antenna Coupling on Electrically Large Platforms Before Building Hardware",
-          "link": "https://content.knowledgehub.wiley.com/efficient-and-accurate-prediction-of-cosite-isolation-on-large-platforms/",
-          "summary": "Learn how full-wave simulation predicts very low antenna coupling on aircraft-sized platforms, and which three modeling techniques deliver accurate results with fewer computational resources.\nDownload this free whitepaper now!",
-          "isoDate": "2026-08-14T17:27:12.000Z"
         }
       ]
     },
@@ -324,57 +324,12 @@
       "maxItems": 120,
       "items": [
         {
-          "title": "RESULTADOS (ÚLTIMOS)",
+          "title": "RESULTADOS (EN DIRECTO)",
           "link": "",
           "summary": ""
         },
         {
-          "title": "ESP  1-2  REA",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "VAL  0-0  CEL",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "ATH  1-3  SEV",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "REA  1-0  REA",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "RAY  1-1  ALA",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "ATL  2-0  MÁL",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "DEP  1-1  ELC",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "ESP  3-0  LEV",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "SAN  2-2  VIL",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "SEV  2-1  RAY",
+          "title": "GET  0-0  SAN",
           "link": "",
           "summary": ""
         },
@@ -399,12 +354,12 @@
           "summary": ""
         },
         {
-          "title": " 3  ESP   2   1  0  1   4   2   2   3",
+          "title": " 3  ATL   2   1  1  0   4   2   2   4",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 4  ATL   1   1  0  0   2   0   2   3",
+          "title": " 4  ESP   2   1  0  1   4   2   2   3",
           "link": "",
           "summary": ""
         },
@@ -419,12 +374,12 @@
           "summary": ""
         },
         {
-          "title": " 7  SAN   1   0  1  0   2   2   0   1",
+          "title": " 7  VIL   2   0  2  0   4   4   0   2",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 7  VIL   1   0  1  0   2   2   0   1",
+          "title": " 8  SAN   2   0  2  0   2   2   0   2",
           "link": "",
           "summary": ""
         },
@@ -454,37 +409,37 @@
           "summary": ""
         },
         {
-          "title": "14  OSA   0   0  0  0   0   0   0   0",
+          "title": "14  GET   2   0  1  1   0   3  -3   1",
           "link": "",
           "summary": ""
         },
         {
-          "title": "14  BAR   0   0  0  0   0   0   0   0",
+          "title": "15  OSA   0   0  0  0   0   0   0   0",
           "link": "",
           "summary": ""
         },
         {
-          "title": "16  REA   1   0  0  1   0   1  -1   0",
+          "title": "15  BAR   0   0  0  0   0   0   0   0",
           "link": "",
           "summary": ""
         },
         {
-          "title": "17  ATH   1   0  0  1   1   3  -2   0",
+          "title": "17  REA   1   0  0  1   0   1  -1   0",
           "link": "",
           "summary": ""
         },
         {
-          "title": "18  MÁL   1   0  0  1   0   2  -2   0",
+          "title": "18  ATH   1   0  0  1   1   3  -2   0",
           "link": "",
           "summary": ""
         },
         {
-          "title": "19  GET   1   0  0  1   0   3  -3   0",
+          "title": "19  MÁL   1   0  0  1   0   2  -2   0",
           "link": "",
           "summary": ""
         },
         {
-          "title": "19  LEV   1   0  0  1   0   3  -3   0",
+          "title": "20  LEV   1   0  0  1   0   3  -3   0",
           "link": "",
           "summary": ""
         }
