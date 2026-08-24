@@ -1,10 +1,34 @@
 {
-  "generatedAt": "2026-08-24T06:55:34.130Z",
+  "generatedAt": "2026-08-24T12:47:20.037Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "The Download: kids outlearning AI, and space travel agents",
+          "link": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Kids outlearn AI—and we still don’t know why Teaching a computer to use human language requires an inhuman amount of data. An LLM can easily churn through a hundred thousand times…",
+          "isoDate": "2026-08-24T12:10:00.000Z"
+        },
+        {
+          "title": "De-Googled GrapheneOS is coming to Motorola’s foldables next year",
+          "link": "https://www.theverge.com/tech/983714/grapheneos-motorola-razr-fold-ultra-support-pixel-11",
+          "summary": "The Razr Ultra line is among those due to receive GrapheneOS support next year. | Photo: Allison Johnson / The Verge\t\n\nGrapheneOS, an open source version of Android that prioritizes security and privacy, has detailed its plans for supporting Motorola smartphones. Official support is set to arrive next year, starting with traditional flagships, before rolling out to Motorola's foldable phones and perhaps cheaper models, eventually. \nIn a Mastodon thread, the GrapheneOS Foundation announced that it will initially support a Motorola slab flagship phone, but will later support both Razr Fold and Razr Ultra foldables - the latter of which would be the first flip phone to officially run GrapheneOS.\nGraphene has always had stringent security standards when it com …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-24T11:37:53.000Z"
+        },
+        {
+          "title": "Humanoid robots smash Usain Bolt&#8217;s 100-meter record",
+          "link": "https://www.theverge.com/tech/983688/world-humanoid-robot-games-sprint-record-2026",
+          "summary": "Tiangong Ultra (left) also broke the 400 meter world record during this year’s World Humanoid Robot Games. | Image: Lintao Zhang/Getty Images\t\n\nThe 9.58-second 100-meter dash record set by Usain Bolt in 2009 has been outpaced by Chinese robots participating at the World Humanoid Robot Games in Beijing. In a preliminary heat on Saturday, Tiangong Ultra, made by the Beijing Humanoid Robot Innovation ​Center, ran the distance in 9.39 seconds, followed by the Honor-developed Lightning at 9.47 seconds.\nIt's one of several notable achievements to take place at the event, which can best be described as a sort of annual robot olympics that's designed to showcase advancements in bipedal bot technology. After launching in 2025, 2,056 robots from 16 countries are participating in this year's  …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-24T09:10:40.000Z"
+        },
+        {
+          "title": "Kids outlearn AI—and we still don’t know why",
+          "link": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+          "summary": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child.  Now there are two.  Four short years after the release of ChatGPT,…",
+          "isoDate": "2026-08-24T09:00:00.000Z"
+        },
         {
           "title": "GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series",
           "link": "https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games",
@@ -40,30 +64,6 @@
           "link": "https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition",
           "summary": "So pretty. | Screenshot: Terrence O’Brien / The Verge\t\n\nI remember having a Spirograph as a kid and being obsessed with it. Its geometric patterns are hypnotic and gorgeous. I also love generative music composition. So bringing those two things together in a browser tab, I'm hooked. Musical Spirograph is a relatively simple concept. A set of points dash around the screen according to mathematical equations, generating hypotrochoids and epitrochoids. Those points pass through a series of concentric rings which trigger specific notes.\nHonestly, that alone is fun enough, but you can customize it quite a bit. There are six different virtual rotors to pick from, you can have up to three arms drawing  …\nRead the full story at The Verge.",
           "isoDate": "2026-08-22T17:00:00.000Z"
-        },
-        {
-          "title": "W. Kamau Bell has the most practical ‘most indispensable tool’",
-          "link": "https://www.theverge.com/report/980452/w-kamau-bell-whos-with-me-comedy-interview",
-          "summary": "I’m just as confused as you. | Image: Aundre Larrow\t\n\nW. Kamau Bell is one of those people who has always just seemed to be there. From Totally Biased, to Politically Re-Active, United Shades of America, and We Need to Talk About Cosby, his blend of comedy, social commentary, and political activism has helped him stand out. He's won a Peabody and four Emmys, been a Celebrity Jeopardy! champion, received honors from the ACLU, and been crowned the Ambassador of Fishbone by founding member Chris Dowd. Bell is, if nothing else, a busy man. \nSo we're very grateful that he took time between episodes of his podcast Who's With Me, his comedy tour, and Substack of the same name, promoting his upcoming  …\nRead the full story at The Verge.",
-          "isoDate": "2026-08-22T15:00:00.000Z"
-        },
-        {
-          "title": "Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent",
-          "link": "https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv",
-          "summary": "The Echo Dot Max went from $99.99 to $119.99 overnight, while its sibling the Echo Dot jumped to $79.99 from $49.99. | Photo by Jennifer Pattison Tuohy / The Verge\t\n\nCiting \"significant increases in memory and storage component costs,\" Amazon has raised prices on Echos, Kindles, Fire TVs, and Eeros by up to 60 percent, as first reported by Fortune.\nThe cheapest products in Amazon's lineup were hit hardest, with the Echo Dot smart speaker jumping from $49.99 to $79.99. The Fire TV Stick 4K Max also rose by over 40 percent to $84.99, and the base level Kindle now costs $149.99, a nearly 37 percent increase.\nIn a statement to The Verge, Kristy Schmidt, senior communications manager of Amazon's Devices & Services divison, said, \"The consumer electronics industry is facing significant increases in memory an …\nRead the full story at The Verge.",
-          "isoDate": "2026-08-22T13:41:01.000Z"
-        },
-        {
-          "title": "An okay laptop with 16GB of RAM is better than a nice laptop with 8GB, and this $520 HP OmniBook proves it",
-          "link": "https://www.theverge.com/tech/983554/hp-omnibook-3-16-snapdragon-laptop-review",
-          "summary": "The OmniBook 3 isn’t a sweet treat, but it gets things done on the cheap. | Photo: Antonio G. Di Benedetto / The Verge\t\n\nLaptop prices are out of whack. $500 used to get you a tolerable laptop, and $900 got you a really good one. They often had similar CPU, RAM, and storage options because that stuff was comparatively cheap; the difference was often in build quality and screen rather than power. But RAMageddon has thrown everything off. Even laptops like the $950 Surface Laptop now start with 8GB of RAM, which isn't enough. And on the lower end, where manufacturers are struggling to compete with the $700 MacBook Neo, they're cutting corners on storage, CPU, and build quality too.\nHowever, one low-cost laptop has bucked this and genuinely surprised me. HP's 16 …\nRead the full story at The Verge.",
-          "isoDate": "2026-08-22T13:00:00.000Z"
-        },
-        {
-          "title": "Two great new repairable gadgets",
-          "link": "https://www.theverge.com/tech/983375/fairphone-6-plus-framework-12-laptop-mutiny-mortal-shell-2",
-          "summary": "Hi, friends! Welcome to Installer No. 141, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, I'm newish here too, and also you can read all the old editions at the Installer homepage.) \nThis week, I've been getting back into the Installer groove, trying out some ergonomic Switch 2 grips I bought on Etsy, researching bike stuff because I'm about to get a Velotric e-bike, inching my way through the fourth book in The Dark Tower series, trying to figure out what feels off about Sonic in the new Fortnite season, wondering why Mark Zuckerberg needs a castle, and swatting at a few too many flies that have snu …\nRead the full story at The Verge.",
-          "isoDate": "2026-08-22T12:00:00.000Z"
         }
       ]
     },
@@ -72,52 +72,34 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "What Lake Bonneville Left Behind",
-          "link": "https://science.nasa.gov/earth/earth-observatory/what-lake-bonneville-left-behind/",
-          "summary": "The drying of the massive lake exposed playas that became the setting for feats of engineering and technological ingenuity, as well as epic tales of exploration and desperation.",
-          "isoDate": "2026-08-24T04:01:00.000Z"
+          "title": "ERROR cargando feed",
+          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
+          "isoDate": "2026-08-24T12:47:11.458Z"
         },
         {
-          "title": "Curiosity Blog, Sols 4982–4987: Back to Our Regularly Scheduled Programming",
-          "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4982-4987-back-to-our-regularly-scheduled-programming/",
-          "summary": "By Allison Dries-Padilla, Missions Operations Specialist at Malin Space Science Systems Earth planning date: Friday, Aug. 14, 2026 This week of Curiosity Mars rover operations takes us back to our “regularly scheduled programming.” After taking a slight detour to investigate the “erosional surface” we are back on course to ascend Mount Sharp. As we transition […]",
-          "isoDate": "2026-08-23T07:39:28.000Z"
+          "title": "The exoskeletons are coming (to a store near you)",
+          "link": "https://www.nature.com/articles/d41586-026-02641-y",
+          "summary": "Nature, Published online: 24 August 2026; doi:10.1038/d41586-026-02641-y\nTechnology to help people walk, run and jump is moving rapidly from labs to hiking trails.",
+          "isoDate": "2026-08-24T00:00:00.000Z"
         },
         {
-          "title": "APOD: 2026 August 22 – Mostly Perseids",
-          "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-22-mostly-perseids/",
-          "summary": "APOD Science APOD APOD: 2026 August 22… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Mostly Perseids Explanation: Recorded […]",
-          "isoDate": "2026-08-22T04:05:00.000Z"
+          "title": "Frontier-technology markets are too narrow — here’s how to widen them",
+          "link": "https://www.nature.com/articles/d41586-026-02572-8",
+          "summary": "Nature, Published online: 24 August 2026; doi:10.1038/d41586-026-02572-8\nGovernments need to keep their procurement processes as open as possible, or they will face risks of technological lock-in down the line.",
+          "isoDate": "2026-08-24T00:00:00.000Z"
         },
         {
-          "title": "NASA Shares Views of August Solar Eclipse from Ground, Air, Space",
-          "link": "https://science.nasa.gov/science-research/heliophysics/nasa-shares-views-of-august-solar-eclipse-from-ground-air-space/",
-          "summary": "On Aug. 12, a total solar eclipse darkened skies over Greenland, Iceland, and Spain. As the Moon covered the Sun, it briefly revealed the Sun’s wispy outer atmosphere — the corona — to those in the path of totality who were lucky enough to have clear skies. NASA researchers and photographers were along the eclipse […]",
-          "isoDate": "2026-08-21T18:43:40.000Z"
+          "title": "Patient’s own mitochondria injected into eyes in attempt to restore vision",
+          "link": "https://www.nature.com/articles/d41586-026-02616-z",
+          "summary": "Nature, Published online: 24 August 2026; doi:10.1038/d41586-026-02616-z\nInjection of a person’s own mitochondria into the retina was safe but had only a temporary effect on restoring vision.",
+          "isoDate": "2026-08-24T00:00:00.000Z"
         },
         {
-          "title": "TB 26-04 Updates and Modernization of NASA’s Chemical Equilibrium with Applications (CEA) Code",
-          "link": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-updates-and-modernization-of-nasas-chemical-equilibrium-with-applications-cea-code/",
-          "summary": "For more information, contact Mark K. Leader, Glenn Research Center, mark.leader@nasa.gov Download the PDF version NASA’s Chemical Equilibrium with Applications (CEA) code is a foundational tool for propulsion system analysis. It provides equilibrium chemistry, rocket performance, shock, and detonation calculations used across NASA and the broader aerospace community. NASA Engineering and Safety Center (NESC) Activity […]",
-          "isoDate": "2026-08-21T17:41:00.000Z"
-        },
-        {
-          "title": "Webb Opens Treasure Chest",
-          "link": "https://www.nasa.gov/image-article/webb-opens-treasure-chest/",
-          "summary": "NASA’s James Webb Space Telescope captured this Aug. 6, 2026, infrared image of part of the Carina Nebula, a star-forming region also home to the Cosmic Cliffs. This feature, called the “Treasure Chest,” is an object known as a cometary globule. A cometary globule is an isolated cloud of gas and dust with a dense, […]",
-          "isoDate": "2026-08-21T17:35:11.000Z"
-        },
-        {
-          "title": "NASA’s Artemis II Crew Set to Receive Congressional Space Medal of Honor",
-          "link": "https://www.nasa.gov/news-release/nasas-artemis-ii-crew-set-to-receive-congressional-space-medal-of-honor/",
-          "summary": "President Donald J. Trump will award each of NASA’s Artemis II crew members the Congressional Space Medal of Honor at 11 a.m. EDT on Friday, Aug. 28, during a ceremony at the agency’s Johnson Space Center in Houston. NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen, […]",
-          "isoDate": "2026-08-21T17:06:36.000Z"
-        },
-        {
-          "title": "Europe’s Scorching Summer",
-          "link": "https://science.nasa.gov/earth/europes-scorching-summer/",
-          "summary": "A series of heat waves in 2026 is breaking records and taking a toll in Europe.",
-          "isoDate": "2026-08-21T04:01:00.000Z"
+          "title": "Can AI ever be conscious? The question stems from a misconception",
+          "link": "https://www.nature.com/articles/d41586-026-02571-9",
+          "summary": "Nature, Published online: 24 August 2026; doi:10.1038/d41586-026-02571-9\nA book outlines how the fields of artificial intelligence, psychology and philosophy have neglected a key aspect of consciousness: the body.",
+          "isoDate": "2026-08-24T00:00:00.000Z"
         },
         {
           "title": "Briefing Chat: New narcolepsy drug could unlock host of novel brain therapies",
@@ -130,6 +112,24 @@
           "link": "https://www.nature.com/articles/d41586-026-02596-0",
           "summary": "Nature, Published online: 21 August 2026; doi:10.1038/d41586-026-02596-0\nSeismologists measured the varying speeds of a ‘thunderquake’ to survey an area with little seismic activity.",
           "isoDate": "2026-08-21T00:00:00.000Z"
+        },
+        {
+          "title": "Why we must stop talking about artificial general intelligence — and instead build ‘pro-worker’ AI",
+          "link": "https://www.nature.com/articles/d41586-026-02566-6",
+          "summary": "Nature, Published online: 21 August 2026; doi:10.1038/d41586-026-02566-6\nRather than racing to replace people, we should build AI tools that amplify human expertise and expand opportunity.",
+          "isoDate": "2026-08-21T00:00:00.000Z"
+        },
+        {
+          "title": "Sleuth identifies dozens of studies that used the wrong antibody",
+          "link": "https://www.nature.com/articles/d41586-026-02352-4",
+          "summary": "Nature, Published online: 21 August 2026; doi:10.1038/d41586-026-02352-4\nThe case is the latest example of a scientific workhorse being misused in experiments.",
+          "isoDate": "2026-08-21T00:00:00.000Z"
+        },
+        {
+          "title": "Genomes of Poaceae relatives reveal key metabolic innovations preceding the evolution of grasses",
+          "link": "https://spj.science.org/doi/abs/10.1126/science.adv0443?af=R",
+          "summary": "Science, Volume 393, Issue 6813, August 2026.",
+          "isoDate": "2026-08-20T07:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-08-24T06:55:29.624Z"
+          "isoDate": "2026-08-24T12:47:15.083Z"
+        },
+        {
+          "title": "Sharing dangerous driving videos is 'truly reprehensible', PM says",
+          "link": "https://www.bbc.co.uk/news/articles/ce308l1w5q5o?at_medium=RSS&at_campaign=rss",
+          "summary": "His comments come as the government urged TikTok and other social media firms to remove wrong-way driving videos.",
+          "isoDate": "2026-08-24T12:28:16.000Z"
         },
         {
           "title": "Robot horse and rider steal the spotlight at Chinese conference",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/c235dmndylzo?at_medium=RSS&at_campaign=rss",
           "summary": "The ChatGPT-maker said training will be slowed for two weeks while it puts the upgrades in place.",
           "isoDate": "2026-08-19T11:19:12.000Z"
-        },
-        {
-          "title": "The critical tech staying safe by going underground",
-          "link": "https://www.bbc.co.uk/news/articles/c20ydrndr0wo?at_medium=RSS&at_campaign=rss",
-          "summary": "The war in Ukraine has spurred people to consider putting vital infrastructure underground.",
-          "isoDate": "2026-08-18T23:25:21.000Z"
         }
       ]
     },
@@ -273,13 +273,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-08-24T06:55:33.280Z"
+          "isoDate": "2026-08-24T12:47:19.353Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-08-24T06:55:30.979Z"
+          "isoDate": "2026-08-24T12:47:16.284Z"
+        },
+        {
+          "title": "Poetry for Engineers: Safe Distance",
+          "link": "https://spectrum.ieee.org/poetry-for-engineers-safe-distance",
+          "summary": "How do I touch you\nacross the ocean,\nacross cold depths\nwhere light travels through glass.\nNot copper—fibers. Optical. \nThrough liquid glass, through flickering light\nthat carries you in fragments. Light broken into pulses. \nYou say: it’s easier this way. What are we missing like this? You smile.\nSafe distance. \nI say: network. \nSignals slide beneath the sea, through cables thinner than trust, faster than touch,\nslower than longing. \nWe stand alone, together. Synchronous, yet apart. Icons replace skin, latency replaces breath. \nThis distance protects us. Silence that feels intentional. \nEverything is under control as long as nothing truly hurts. \nAnd we choose it\nbecause it shields us\nfrom what we might become if we actually met. \nYou are my counterpoint. My response.\nMy reflection\nat a safe distance. \nBeneath the ocean, nodes remember paths. \nPackets shake hands without bodies. \nIf we get lost,\nwe resend everything, with error,\nwith noise,\nwith hope.",
+          "isoDate": "2026-08-23T13:00:01.000Z"
         },
         {
           "title": "This IEEE Senior Member Develops AI Tools for E-Commerce Sites",
@@ -310,12 +316,6 @@
           "link": "https://spectrum.ieee.org/amd-agent-swarms",
           "summary": "The impact of AI on software development has been both profound and ever-evolving. Last year, I wrote about AMD’s plans to use AI not just for generating new lines of code, but also for other steps in the software development lifecycle (SDLC), such as triaging problems, debugging code, and testing the software. At the time, we were hoping for a 25 percent productivity boost from AI use over the course of two or three years.\nBut with each new release, the capabilities of large language models (LLMs) improve dramatically—accelerating software development, increasing the quality of AI-generated code, and fundamentally reshaping how software is engineered. Now, just one year later, we have surpassed our productivity target, achieving a 30 percent overall productivity boost through AI. On top of that, we are rethinking not only how we use AI within the SDLC, but the structure of the SDLC itself.\nWe believe that the biggest AI revolution in software engineering is still ahead. So far, we have largely been teaching AI how we perform tasks and asking it to mimic existing workflows. In many ways, this constrains AI to human patterns of thinking. The next transformation will come from collaborative swarms of AI agents capable of discovering solutions independently.\nAgents of today\nAMD began developing AI systems for code generation, testing automation, bug analysis, and code review in 2024. At the time, our objective was to achieve 25 percent AI-generated production code by 2027 while gradually automating larger portions of the SDLC.\nMeasuring productivity is inherently challenging, but from the outset we have consistently tracked one objective metric: the percentage of source code generated by AI. Importantly, we count only code that passes all reviews and testing and is ultimately included in the final product. While AI-generated code is certainly not the only contributor to productivity gains, it is one of the few metrics that can be measured objectively and consistently.\nBy this metric, we have crossed the 20 percent mark at the beginning of this year and are now progressing towards 50 percent across entire codebase. In some software components, more than 80 percent of the code is now generated using AI.\nAgentic AI has enabled us to include AI in every step of the life cycle: For code analysis and triage, agents are trained to analyze problem reports, identify and group similar requests, and highlight which code snippets are likely to need modification. For debugging and code generation, agents are directed to analyze a bug request and implement required code changes. For testing, the agents generate unit tests, and if those are passed, identify necessary integration and product-level tests. And finally, for the approval and release stage, agents prepare architecture summary, code change review, and full test results for engineers’ review and approval—and, if approved, integrate the changes into the next release.\nAgents of tomorrow\nToday, engineers create AI agents in their own image: They teach AI what they know about the system, how they would fix an issue, and how they would implement a change. This is already a major technological advancement. Engineers can create multiple “AI versions” of themselves, allowing these agents to work in parallel, scaling their expertise far beyond the limits of individual productivity. The limitation, however, is that these AI agents are still constrained by human thinking and human-defined approaches.\n  AMD\nWe believe the next major transformation in software engineering will occur when collaborative AI agent swarms can independently identify and develop solutions, guided by humans on what to solve rather than constrained by human assumptions about how the job should be done. Instead of providing detailed instructions on how to solve a problem, engineers will define the issue, the desired outcome, and the quality, performance, and system constraints, allowing AI agents to determine the optimal path to a solution.\nA swarm of AI agents will then work in parallel to generate, evaluate, and refine multiple solution approaches. These agents will automatically validate correctness, measure performance, test trade-offs, and compare alternative implementations against defined success criteria. Finally, AI agents will prepare ranked solution options, along with validation results and performance metrics, for engineer review and approval. The agents won’t be enhancing each step of the SDLC—they will be rewriting the SDLC themselves.\nTo get to this point, we need to change how agents are trained. Today, improvement occurs one engineer and one agent at a time: An engineer reviews the output, refines the prompt, and repeats the process. To scale beyond this model, agents must continuously learn from one another, reuse successful strategies, and improve collaboratively across projects and teams.\nWe are already moving in this direction by using multi-agent workflows extensively through agentic harnesses, such as Codex and Claude Code, while simultaneously developing our own internal multi-agent systems to support the next generation of AI-driven software engineering.\nA good example is our AI-driven effort to resolve issues in our Radeon Software eXperience (RSX). RSX is a user interface component that allows users to configure and monitor graphics driver behavior. In October 2025, we began using AI agents to automatically debug and fix reported RSX issues. Out-of-the-box AI tools delivered limited results, resolving only 6 percent of issues.\n   The percentage of software issues fixed automatically by AI agents in AMD’s Radeon Software eXperience (RSX) has been growing steadily, reaching 75 percent in June 2026. \n As we analyzed failures and identified ways to improve, we built a learning loop—initially a largely manual process—to understand where the agents were falling short and how to improve them. Rather than retraining the underlying models, we refined the objectives given to the agents, allowing them to iteratively explore multiple approaches, evaluate the results against defined success criteria, and converge on better solutions. At the same time, advances in models and agent run-times further increased effectiveness. Together, these improvements significantly increased our resolution rate from 6 percent to more than 75 percent of RSX issues resolved by agentic loop.\nTo make agents and agent swarms truly productive, we need a continuous learning loop that feeds errors and human interventions back into future agent workflows. The opportunity is to engineer this loop around clear, measurable goals. Each cycle captures new insights, making the entire AI engineering workflow smarter and more effective. Over time, this self-reinforcing loop—not just the underlying model—will become a key driver of AI progress.\nThe evolving role of human engineers\nAt AMD, we view AI as a means of increasing productivity, improving quality, and enabling employees to focus on higher-value work. Our goal is to empower our workforce with AI, not to reduce headcount.\nTo support this transformation, we are investing heavily in AI education and training across the company. The way we work is evolving rapidly, and we want every AMD employee to be prepared to leverage AI confidently, responsibly, and effectively.\nAs AI agents continue to improve, engineers will spend less time manually implementing solutions, focusing more on defining specifications, validating outcomes, and making the strategic decisions that drive innovation.",
           "isoDate": "2026-08-17T14:00:01.000Z"
-        },
-        {
-          "title": "Digital Signal Processing Pioneer Bede Liu Dies At 91",
-          "link": "https://spectrum.ieee.org/digital-signal-processing-pioneer-bede-liu",
-          "summary": "Bede Liu, a digital signal processing pioneer, died on 7 May. He was 91.\nLiu was widely regarded as one of the founders of modern digital signal processing, a field that applies mathematical algorithms to analyze, modify, and transmit signals including sound, images, and video.\nThe IEEE Life Fellow taught electrical engineering at Princeton for more than 50 years. From 1994 to 1997, he chaired the university’s electrical and computer engineering department.\nLiu’s research aided the transition from analog to digital processing of sound, images, and video. His work helped establish many of the mathematical and engineering techniques that underpin modern communications, multimedia systems, and consumer electronics.\nAlthough little known outside engineering circles, his work is embedded in technologies used by billions of people. The low-power digital signal processors that make cellphone calls, streaming video, and Internet communications possible can be traced to research he conducted in the 1970s and ‘80s.\nLiu received the 2018 IEEE Jack S. Kilby Signal Processing Medal for “sustained contributions to the analysis and the development of low-complexity realizations of digital signal processing algorithms.”\n“We stream music and video. We take photos with our phones, and we send them around. We don’t even think about it,” IEEE Life Fellow H. Vincent Poor said in an obituary for Liu. “But it’s all because of the signal processing, image processing, and video processing that’s been developed over the years, as well as other technologies that have grown up beside it and enabled it, like semiconductors. The development of these processing advances was exactly what Bede was a major part of.” Poor is a professor of electrical and computer engineering at Princeton.\nAn impactful scholar and teacher\nLiu was born in Shanghai in 1934. During his childhood, his family relocated to Taiwan amid the upheaval of the Chinese Civil War. His father, Henry Liu Sr., was an electrical engineer.\nLiu earned his bachelor’s degree in electrical engineering in 1954 from the National Taiwan University, in Taipei. After graduating, he and his family moved to the United States. Liu and his father attended the Polytechnic Institute of Brooklyn (now the New York University Tandon School of Engineering) together. They earned their master’s degrees in electrical engineering in 1956. Liu continued his studies at the school, earning a doctoral degree in electrical engineering four years later.\nIn 1959 he was awarded a Bell Labs fellowship and worked at the company’s Murray Hill, N.J., location until he joined Princeton in 1962.\n“Liu was a highly impactful scholar and teacher—always thinking ahead of future needs and changing technologies,” said IEEE Life Fellow Peter J. Ramadge, a Princeton professor emeritus of engineering.\nCellphones make use of a considerable amount of digital signal processing, Liu once noted. Many of the field’s advances, he added, involved making sophisticated processing practical on devices with limited computing power—which is the challenge that confronted generations of engineers designing portable electronics.\nLiu’s research contributions helped shape both the theory and practice of digital signal processing. With Abe Peled, a former graduate student, he authored the 1976 textbook Digital Signal Processing: Theory, Design, and Implementation, which is a standard reference for engineers. Published before digital signal processing had fully emerged as a distinct discipline, it helped define the subject for practitioners and students around the world.\nLiu also published 250 technical papers and was granted 12 U.S. patents. His papers are available to read on the IEEE Xplore Digital Library.\nThe first patent granted to him and Peled was in 1976 for a hardware design that processed bits in parallel, rather than in sequence. The innovation greatly increased computing efficiency for data including sound and communication signals.\nPeled says Liu “demonstrated an openness to new ideas and a willingness to challenge the orthodoxy of the EE department at that time—which leaned heavily toward more theoretical information theory.”\nA mentor to well-known engineers\nLiu’s influence extended beyond his own research. He advised 53 doctoral students, many of whom went on to distinguished careers in academia and industry, including leadership positions at Google and IBM. One former student, computer scientist Robert Kahn, helped create the architecture of the modern Internet. Kahn, an IEEE Life Fellow, received the 2024 IEEE Medal of Honor.\n“His former students were very successful,” Poor said of Liu, “and I think that’s a testament to his skill as a mentor.”\n“Liu was a highly impactful scholar and teacher—always thinking ahead of future needs and changing technologies.”—Peter J. Ramadge\nTogether with several Ph.D. students, Liu developed methods of filtering and compressing digital signals to mitigate errors and dramatically reduce the computation needed for signal processing.\nAs digital signal processing moved from laboratories into commercial products, the impact of Liu’s ideas spread across industries. His research helped spawn the development of lower-cost and lower-power electronics and contributed to advances in mobile communications, multimedia technology, industrial automation, and biomedical imaging.\nA focus on media integrity and copyrights\nIn the 2000s, Liu turned his attention to media integrity and copyright issues.\n“With the increasing accessibility of digital media source material, the protection of ownership and the prevention of unauthorized alteration has become an important concern,” he wrote in his 2002 book, Multimedia Data Hiding. The book, which he co-wrote with his former doctoral student IEEE Fellow Min Wu, discussed the theory, techniques, applications, and security of digital watermarking—hidden signals that could identify a genuine copy of a song, image or video to prevent unauthorized distribution or tampering.\nA Princeton team that included Liu, Wu, and another of his doctoral students uncovered serious vulnerabilities in watermarking technologies being considered by an industry consortium. They found that the standardization efforts were immature and would not protect against digital piracy.\n“Now nearly every copy of a Hollywood film given to a critic or theater carries a unique digital forensic watermark to prevent unauthorized redistribution,” said Wu.\nA force in the community\nLiu, an active IEEE volunteer, served on the IEEE Board of Directors in 1984 and 1985. He was the 1982 president of the IEEE Circuits and Systems Society.\nHe was a member of the U.S. National Academy of Engineering, an academician of China’s Academia Sinica, and a foreign member of the Chinese Academy of Sciences.\nOutside the classroom, he was recognized for his humility, humor, enthusiasm, and generosity. When thinking of Liu, IEEE Life Fellow Kenneth Steiglitz says, cheer is the first word that comes to mind.\nLiu was “always ready with a positive remark, a quick smile or, maybe, some tips on the right way to cook a duck,” says Steiglitz, professor emeritus of computer science at Princeton.\nLiu encouraged his students to take on ambitious, unconventional projects, and he inspired students and colleagues with his adventurous spirit.",
-          "isoDate": "2026-08-14T18:00:02.000Z"
         }
       ]
     },
