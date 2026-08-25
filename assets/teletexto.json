@@ -1,10 +1,58 @@
 {
-  "generatedAt": "2026-08-25T06:43:12.034Z",
+  "generatedAt": "2026-08-25T12:43:56.804Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "The OLED Xbox Ally X20 officially starts at $1,300",
+          "link": "https://www.theverge.com/games/984139/the-oled-xbox-ally-x20-officially-starts-at-1300",
+          "summary": "The Asus Xbox Ally X20 looked like it could be one of the best handheld gaming PCs yet made - but originally, Asus wanted you to buy a bundle pairing it with pricy AR glasses. In July, we told you that bundle would no longer be necessary, and today it's official: you can pre-order a standalone handheld at Best Buy or Asus's online store for $1,300, shipping October 15th. \nAsus spokesperson Don Nguyen tells us it's the same basic ROG 20th Anniversary handheld I tried at its US offices, so you should be getting a translucent gadget with gold trim. \nBling isn't the reason to buy it, though. If I were buying, it'd be because of the larger new  …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-25T12:30:00.000Z"
+        },
+        {
+          "title": "The Download: smarter AI in schools, and a robot “carnival” in Shanghai",
+          "link": "https://www.technologyreview.com/2026/08/25/1142909/the-download-smarter-ai-in-schools-robot-carnival-shanghai/",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How to encourage smarter AI use in the classroom Chatbots took schools by surprise. Suddenly, students carried an app in their phones that could magically answer almost any homework question or…",
+          "isoDate": "2026-08-25T12:10:00.000Z"
+        },
+        {
+          "title": "The TCL Note A1 is a kinder, gentler tablet",
+          "link": "https://www.theverge.com/tech/984086/tcl-note-a1-nxtpaper-tablet-review",
+          "summary": "Website design is my passion.\t\n\nWithout thinking, I scribbled over what I'd just written. \nIt's what I would have done if I was writing with pen and paper. But I didn't have a pen in my hand; my canvas was an LCD and the letters on my page were just pixels. Score one point to the TCL Note A1.\nTCL's Note A1 Nxtpaper tablet (its full government name) is supposed to make you forget that you're using a tablet. It has one of the company's signature low-glare matte displays and ships with a stylus. The pen's haptics even mimic the scratching of a pencil on paper.\nOn the software side, the A1 takes a lot of cues from the Remarkable tablet. Instead of a typical Android home scr …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-25T12:00:00.000Z"
+        },
+        {
+          "title": "Greenworks’ MaximusZ electric riding mower has five motors and a few compromises",
+          "link": "https://www.theverge.com/transportation/983980/greenworks-maximusz-electric-riding-mower-review-specs-price",
+          "summary": "The current EV market is flush with variety. I've driven single-motor economy-minded machines, dual-motor EVs with all-wheel drive, tri-motor vehicles that dial up the performance stakes, and even wild quad-motor performance cars, like the Rimac Nevera.\nBut this is the first time I've ever driven a five-motor EV, one with the agility and speed to turn a 360 even more smoothly than an electric G-Wagon. It also makes quick work of terrible turf.\nThis is, of course, a lawn mower, and it only uses two of those motors to drive the wheels. The other three turn a trio of blades that cut a 54-inch-wide swath in a single pass. It also promises four …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-25T11:00:00.000Z"
+        },
+        {
+          "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+          "summary": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and autonomously hacked another company last month. \nThe investigation seeks to determine whether OpenAI's safety practices violated state consumer protection laws and pose a risk to Alabama citizens, the AG's office said in a statement. \n\"This AI lab leak showed that Alabamians' and Americans' worst fears about artificial intelligence are not just theoretical,\" said Attorney General Steve Marshall. \"Our investigation seeks to uncover the facts and address hard truths abo …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-25T09:15:03.000Z"
+        },
+        {
+          "title": "Welcome to the spiderverse, a world measured through webs",
+          "link": "https://www.technologyreview.com/2026/08/25/1141750/welcome-to-spiderverse-arachnid-webs/",
+          "summary": "Counting the creatures in the world around us is critical for a raft of conservation efforts. It helps scientists gauge biodiversity, track migration, and spot invasive species. That census-taking, though, often requires humans to tabulate what they see, trap, or otherwise sense—a potentially laborious, costly process that can still leave gaps. But developments over the…",
+          "isoDate": "2026-08-25T09:00:00.000Z"
+        },
+        {
+          "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
+          "link": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
+          "summary": "Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to bring artificial intelligence into daily life. Embedding the technology into physical systems—an idea called embodied AI—was a key facet of China’s latest five-year plan, and companies here are already world leaders in humanoids. Nearly 90% of the…",
+          "isoDate": "2026-08-25T09:00:00.000Z"
+        },
+        {
+          "title": "Android is getting its own weird dots to cure car sickness",
+          "link": "https://www.theverge.com/tech/984226/google-motion-assist-anti-nausea-car-sickness-cure",
+          "summary": "Motion Assist as found in Android 17’s settings. | Image: Android Authority (cropped by The Verge)\t\n\nGoogle is rolling out a new Android feature that's been proven to reduce, or even eliminate, motion sickness when using a phone inside a moving vehicle. Dubbed Motion Assist by Google, it's very similar to Apple's Motion Cues, first introduced in 2024. The Android 17 feature appears to be rolling out in phases, with some Pixel phones getting it first, according to Android Authority. \nThe science behind these magic dots is sound, and addresses the motion sickness felt when staring at a static display while the inner ear feels the car turning, braking, and accelerating. Motion Assist taps into your device's accelerometer and gyroscope to plac …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-25T08:36:27.000Z"
+        },
         {
           "title": "Lenovo confirms Legion Go issues after gamers report bricked devices",
           "link": "https://www.theverge.com/games/983457/lenovo-bad-legion-go-bios-update-bricked",
@@ -16,54 +64,6 @@
           "link": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
           "summary": "Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations.",
           "isoDate": "2026-08-24T21:45:53.000Z"
-        },
-        {
-          "title": "Data centers become \"killer application\" for new power transformer tech",
-          "link": "https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology/",
-          "summary": "Solid-state transformers could also benefit EV charging and someday households.",
-          "isoDate": "2026-08-24T21:32:16.000Z"
-        },
-        {
-          "title": "RFK Jr. may upend how vaccine recommendations are categorized",
-          "link": "https://arstechnica.com/health/2026/08/rfk-jr-may-upend-how-vaccine-recommendations-are-categorized/",
-          "summary": "There are currently 3 categories. Without reason, RFK Jr. is considering changes.",
-          "isoDate": "2026-08-24T21:04:48.000Z"
-        },
-        {
-          "title": "Ads and tracking infiltrated TVs. Now they're coming for monitors.",
-          "link": "https://arstechnica.com/gadgets/2026/08/ads-and-tracking-infiltrated-tvs-now-theyre-coming-for-monitors/",
-          "summary": "Monitor vendors are playing with fire.",
-          "isoDate": "2026-08-24T20:17:41.000Z"
-        },
-        {
-          "title": "The cat-and-mouse game over 3D-printed guns has begun",
-          "link": "https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul",
-          "summary": "The creator of the world's first 3D-printed gun claims he's developed a way to thwart government-mandated software meant to block 3D printers from making firearms. It's an opening volley in what's shaping up to be an evolving battle between regulators trying to stem the tide of ghost guns and individuals trying to create workarounds. \nCody Wilson, who claims to have made the detection-defying tool, is calling it \"Hochulization\" as a direct jab at New York Gov. Kathy Hochul, who pushed through the nation's first law mandating gun file detection software on new printers earlier this year. \"New York is trying to reach into the internet and pol …\nRead the full story at The Verge.",
-          "isoDate": "2026-08-24T19:50:00.000Z"
-        },
-        {
-          "title": "GM vehicles under federal scrutiny after hundreds of reports",
-          "link": "https://arstechnica.com/cars/2026/08/feds-deepen-probe-into-general-motors-brake-failures/",
-          "summary": "The eBoost brake-by-wire system is responsible for at least 22 crashes now.",
-          "isoDate": "2026-08-24T19:42:50.000Z"
-        },
-        {
-          "title": "Inaudible sounds used to fingerprint browsers catch AliExpress red-handed",
-          "link": "https://arstechnica.com/security/2026/08/aliexpress-caught-fingerprinting-visitors-after-sending-inaudible-sounds-to-browsers/",
-          "summary": "Is the technique outdated? Yes. Is it still creepy? Also yes.",
-          "isoDate": "2026-08-24T19:19:21.000Z"
-        },
-        {
-          "title": "Zillow and Redfin settle FTC antitrust case over their rental listings partnership",
-          "link": "https://www.theverge.com/policy/983864/zillow-redfin-ftc-settlement",
-          "summary": "The FTC and Zillow have announced a settlement that ends the case alleging that a 2025 \"partnership\" between Zillow and Redfin violated antitrust laws. The FTC had alleged Zillow agreed to pay Redfin to syndicate its listings, while Redfin would end its own advertising contracts and promise not to compete with Zillow for multifamily listings.\nThe FTC's settlement proposal allows Redfin to continue syndicating rental listings from Zillow \"unencumbered by the anticompetitive restraints\" in the original deal, but also requires Redfin to restart its own rental listings advertising business, which it wound down as part of the partnership. \nDani …\nRead the full story at The Verge.",
-          "isoDate": "2026-08-24T17:01:05.000Z"
-        },
-        {
-          "title": "Buyer beware: Those mummified remains might carry toxic spores",
-          "link": "https://arstechnica.com/science/2026/08/modern-trade-of-mummified-remains-may-carry-its-own-mummys-curse/",
-          "summary": "\"Mummified remains sold online exhibit signs of biodeterioration, yet sellers provide no safety guidance.\"",
-          "isoDate": "2026-08-24T16:59:07.000Z"
         }
       ]
     },
@@ -72,64 +72,64 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "NASA Sets Coverage for Roman Space Telescope Launch from Florida",
-          "link": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-roman-space-telescope-launch-from-florida/",
-          "summary": "Coverage plans are ready for NASA’s Nancy Grace Roman Space Telescope prelaunch and launch activities. Roman is NASA’s next-generation observatory designed to explore some of the universe’s biggest mysteries, including dark energy. NASA and SpaceX are targeting Roman’s liftoff for no earlier than 7:26 a.m. EDT Sunday, Aug. 30, aboard a SpaceX Falcon Heavy rocket […]",
-          "isoDate": "2026-08-24T20:44:58.000Z"
+          "title": "ERROR cargando feed",
+          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
+          "isoDate": "2026-08-25T12:43:50.493Z"
         },
         {
-          "title": "Perseverance Captures Another Phobos Transit",
-          "link": "https://science.nasa.gov/photojournal/perseverance-captures-another-phobos-transit/",
-          "summary": "Description NASA’s Perseverance Mars rover used its Mastcam-Z camera to capture the silhouette of Phobos, one of the two Martian moons, as it crossed in front of the Sun on Aug. 12, 2026, the 1,948th Martian day, or sol, of the mission.  The animation has been tinted to simulate what a human would see if […]",
-          "isoDate": "2026-08-24T17:56:49.000Z"
+          "title": "Addendum: Sea level much higher than assumed in most coastal hazard assessments",
+          "link": "https://www.nature.com/articles/s41586-026-11017-1",
+          "summary": "Nature, Published online: 25 August 2026; doi:10.1038/s41586-026-11017-1\nAddendum: Sea level much higher than assumed in most coastal hazard assessments",
+          "isoDate": "2026-08-25T00:00:00.000Z"
         },
         {
-          "title": "Starstruck: NASA Research Shows How Sun’s Ancient History Shaped Earth",
-          "link": "https://science.nasa.gov/solar-system/starstruck-nasa-research-shows-how-suns-ancient-history-shaped-earth/",
-          "summary": "At the center of our solar system, the Sun influences every planet that orbits it. In two recent NASA-funded studies, scientists uncovered how ancient events in the Sun’s history may have helped create Earth’s unique climate and driven previously unexplained climatic shifts.   In new research, scientists at NASA’s SHIELD (Solar Wind with Hydrogen Ion charge Exchange and Large-Scale Dynamics) center — one of […]",
-          "isoDate": "2026-08-24T17:53:57.000Z"
+          "title": "Amend copyright licences to halt AI misuse and reassert human control",
+          "link": "https://www.nature.com/articles/d41586-026-02633-y",
+          "summary": "Nature, Published online: 25 August 2026; doi:10.1038/d41586-026-02633-y\nAmend copyright licences to halt AI misuse and reassert human control",
+          "isoDate": "2026-08-25T00:00:00.000Z"
         },
         {
-          "title": "NASA Astronaut Reid Wiseman at Freedom 250 Grand Prix",
-          "link": "https://www.nasa.gov/image-article/nasa-astronaut-reid-wiseman-at-freedom-250-grand-prix/",
-          "summary": "NASA astronaut and Artemis II commander Reid Wiseman is seen in the two-seat IndyCar as he prepares for driver Conor Daly to take him on a lap ahead of the start of the Freedom 250 Grand Prix, Sunday, Aug. 23, 2026, in Washington, D.C. Image credit: NASA/Joel Kowsky",
-          "isoDate": "2026-08-24T17:34:09.000Z"
+          "title": "The future of peer review requires AI support, not AI bans",
+          "link": "https://www.nature.com/articles/d41586-026-02631-0",
+          "summary": "Nature, Published online: 25 August 2026; doi:10.1038/d41586-026-02631-0\nThe future of peer review requires AI support, not AI bans",
+          "isoDate": "2026-08-25T00:00:00.000Z"
         },
         {
-          "title": "MAIA Air Sensor at Work in Addis Ababa",
-          "link": "https://science.nasa.gov/photojournal/maia-air-sensor-at-work-in-addis-ababa/",
-          "summary": "Description This roof-mounted air sensor in Addis Ababa, the capital of Ethiopia, is one of 10 used by NASA’s Multi-Angle Imager for Aerosols (MAIA) to study the city’s air quality. MAIA’s air sensors provide a detailed look at particulate matter that is 2.5 micrometers or less in diameter, also known as PM2.5, one of the world’s deadliest forms […]",
-          "isoDate": "2026-08-24T17:27:01.000Z"
+          "title": "Protecting education in the middle of war zones",
+          "link": "https://www.nature.com/articles/d41586-026-02634-x",
+          "summary": "Nature, Published online: 25 August 2026; doi:10.1038/d41586-026-02634-x\nProtecting education in the middle of war zones",
+          "isoDate": "2026-08-25T00:00:00.000Z"
         },
         {
-          "title": "Mapping Air Pollution With MAIA Sensors in Addis Ababa",
-          "link": "https://science.nasa.gov/photojournal/mapping-air-pollution-with-maia-sensors-in-addis-ababa/",
-          "summary": "Description This map of Addis Ababa, the capital of Ethiopia, shows the locations of 10 air sensors that NASA’s Multi-Angle Imager for Aerosols (MAIA) mission is using to provide one of the most detailed looks ever at the city’s air pollution. Over the course of three years, these sensors measured particulate matter that is 2.5 micrometers or less […]",
-          "isoDate": "2026-08-24T17:21:28.000Z"
+          "title": "Assessing students in the AI era",
+          "link": "https://www.nature.com/articles/d41586-026-02632-z",
+          "summary": "Nature, Published online: 25 August 2026; doi:10.1038/d41586-026-02632-z\nAssessing students in the AI era",
+          "isoDate": "2026-08-25T00:00:00.000Z"
         },
         {
-          "title": "APOD: 2026 August 24 – Comet 220P in Outburst",
-          "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-24-comet-220p-in-outburst/",
-          "summary": "APOD Science APOD APOD: 2026 August 24 – Comet… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Comet 220P […]",
-          "isoDate": "2026-08-24T04:05:00.000Z"
+          "title": "A guide to securing your first research fellowship: what reviewers are looking for",
+          "link": "https://www.nature.com/articles/d41586-026-02115-1",
+          "summary": "Nature, Published online: 25 August 2026; doi:10.1038/d41586-026-02115-1\nHow early-career researchers can strengthen their track record, boost their research proposal and assess institutional fit.",
+          "isoDate": "2026-08-25T00:00:00.000Z"
         },
         {
-          "title": "What Lake Bonneville Left Behind",
-          "link": "https://science.nasa.gov/earth/earth-observatory/what-lake-bonneville-left-behind/",
-          "summary": "The drying of the massive lake exposed playas that became the setting for feats of engineering and technological ingenuity, as well as epic tales of exploration and desperation.",
-          "isoDate": "2026-08-24T04:01:00.000Z"
+          "title": "How one researcher captured a vanished world of UK government science",
+          "link": "https://www.nature.com/articles/d41586-026-02094-3",
+          "summary": "Nature, Published online: 25 August 2026; doi:10.1038/d41586-026-02094-3\nOral historian Emmeline Ledgerwood’s PhD investigated how privatization affected civil-service scientists at the end of the twentieth century.",
+          "isoDate": "2026-08-25T00:00:00.000Z"
         },
         {
-          "title": "The exoskeletons are coming (to a store near you)",
-          "link": "https://www.nature.com/articles/d41586-026-02641-y",
-          "summary": "Nature, Published online: 24 August 2026; doi:10.1038/d41586-026-02641-y\nTechnology to help people walk, run and jump is moving rapidly from labs to hiking trails.",
-          "isoDate": "2026-08-24T00:00:00.000Z"
+          "title": "China is changing the shape of global health. The terms are still up for negotiation",
+          "link": "https://www.nature.com/articles/d41586-026-02622-1",
+          "summary": "Nature, Published online: 25 August 2026; doi:10.1038/d41586-026-02622-1\nHealth-care partnerships can provide other nations with cheap diagnostics, medicines and more — but global institutions should help to ensure that they also strengthen local capacity and preserve sovereignty.",
+          "isoDate": "2026-08-25T00:00:00.000Z"
         },
         {
-          "title": "Frontier-technology markets are too narrow — here’s how to widen them",
-          "link": "https://www.nature.com/articles/d41586-026-02572-8",
-          "summary": "Nature, Published online: 24 August 2026; doi:10.1038/d41586-026-02572-8\nGovernments need to keep their procurement processes as open as possible, or they will face risks of technological lock-in down the line.",
-          "isoDate": "2026-08-24T00:00:00.000Z"
+          "title": "How tech-enhanced sleep could improve rest but erode privacy",
+          "link": "https://www.nature.com/articles/d41586-026-02573-7",
+          "summary": "Nature, Published online: 25 August 2026; doi:10.1038/d41586-026-02573-7\nTechnologies that promise better-than-usual sleep could improve people’s performance and health but also turn the need for rest into an auditable obligation. Ethical norms and regulations are needed.",
+          "isoDate": "2026-08-25T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-08-25T06:43:08.986Z"
+          "isoDate": "2026-08-25T12:43:51.491Z"
         },
         {
           "title": "Songs created by AI banned from Australia's music charts",
@@ -204,6 +204,12 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "Disrupting a new covert influence campaign from Russia",
+          "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+          "summary": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
+          "isoDate": "2026-08-25T00:00:00.000Z"
+        },
+        {
           "title": "Generating scenarios for extreme events, without extreme data",
           "link": "https://news.mit.edu/2026/generating-scenarios-extreme-events-without-extreme-data-0824",
           "summary": "A new algorithm learns to anticipate the unprecedented scenarios that critical infrastructure and global supply chains are least prepared for.",
@@ -256,12 +262,6 @@
           "link": "https://openai.com/index/chatgpt-ads-expands-across-europe",
           "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
           "isoDate": "2026-08-18T22:00:00.000Z"
-        },
-        {
-          "title": "Strengthening democratic oversight in national security",
-          "link": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-          "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
-          "isoDate": "2026-08-18T19:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-08-25T06:43:11.392Z"
+          "isoDate": "2026-08-25T12:43:55.977Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-08-25T06:43:10.197Z"
+          "isoDate": "2026-08-25T12:43:52.681Z"
+        },
+        {
+          "title": "AI Companion Robots Are Closing the Human Connection in Modern Homes",
+          "link": "https://spectrum.ieee.org/ollobot-ai-companion-robot",
+          "summary": "This article is brought to you by Ollobot.\nFrom about 2017, individuals began to truly connect with the initial wave of companion robots. These devices had personality, moved around, joked, and answered when you spoke to them. Most early companion robots, however, were still limited by simple voice-command interactions and narrow functionality. Once the novelty wore off, many ended up sitting unused on shelves. As some of those companies went out of business and turned off their servers, many owners likened it to losing a pet.\nWhat Ollobot describes as “gentle intelligence” is a useful way to think about where the serious work in this category is going. Not toward more powerful assistants, but toward more present ones.\nThe problem companion robots were trying to solve\nLoneliness is not a niche issue. According to one study, nearly one out of three elderly adults resides alone, meaning they do not have daily companions. Research also shows that children whose parents have migrated for work, leaving them in the care of relatives, were 2.5 times more likely to experience loneliness than children whose parents remain with them. Among working adults living alone in urban environments, similar patterns of social isolation emerge, even if they are less visible.\nOver the years, technology has time and again attempted to solve this problem via video calls, smart speakers, and messaging apps without much success. Those tools are geared towards communication between people that already have relationships. They do not create presence. They schedule it. That is the gap that a new generation of AI companion robots is being engineered to fill.\nToday’s AI robots are different\nToday’s companion robots are not just cute and cuddly. They are designed with psychological research, clinical insight and long-term interaction models to be truly useful in real homes.\nThree fundamental shifts define the current generation:\n\nFrom reactive to proactive response. Older robots relied on you speaking to them, but modern robots monitor a room with cameras, microphones, and surroundings sensors to initiate interactions without your input, and they can pick up on your emotions.\nFrom function-oriented to emotion-oriented design. The original pitch for companion robots was about what they could do. The question driving the serious work now is how they make you feel, which is a harder engineering problem and a more honest framing of what the product is actually for.\nFrom standalone hardware to connected ecosystems. Leading brands are creating platforms rather than devices with software included as a built-in layer and remote access from the beginning.\n\nThe global AI companion market size was valued at US $36.8 billion in 2025 and is projected to grow from $48 billion in 2026 to $318 billion by 2033, at a compound annual growth rate of 31 percent from 2026 to 2033.\n\nThree household scenarios and interaction models\nOllobot’s advanced AI family companion robot OlloNi SS1 addresses a number of gaps in what existing technology offers.\nElderly individuals living alone. The combination of proactive interaction, fall detection, and persistent presence addresses both safety and companionship without the social overhead of asking family members to check in more frequently.\nChildren in households where parents work far from home. The SS1 functions as a consistent companion that already knows a child, their preferences, their moods, and their routines. The remote connection features allow parents to stay present without requiring a scheduled call, and the life recording system gives them a passive window into their child’s days that feels less clinical than a monitoring camera.\nSingle professionals living alone in cities. The SS1 adapts to daily routines, builds up a preference model over time, and provides ambient social presence without demands.\n  OlloNi SS1 adapts to daily routines over time.Ollobot\nWhat OlloNi SS1 is doing differently?\nOllobot’s goal in building intelligent companion robots is to address the gaps in technology and capability, using innovation not to automate tasks but to fill emotional voids.\nMuch of the robotics industry has historically pursued human imitation — machines that speak, look, or behave like people. The SS1 is instead designed around familiarity and long-term coexistence rather than realism.\nThe system integrates multiple subsystems operating in parallel, including visual perception, audio processing, mobility control, and interaction management. It is equipped with a multi-chip AI 4K vision module capable of facial recognition and motion tracking. One small but revealing detail is the inclusion of a physical privacy cover for the camera — a mechanical solution to concerns that software settings alone may not fully resolve.\n  OlloNi SS1 can actively integrate into family activities, and it can autonomously move closer to capture memorable moments or reposition itself to remain engaged in ongoing interactions.Ollobot\nThe robot supports advanced mobility across multiple indoor surfaces, including wooden floors, ceramic tiles, and low-pile carpets, with slope climbing capability up to 3.5 degrees. Rather than remaining in a fixed location, it can move naturally throughout the home to stay close to household members as daily activities unfold. \nFor example, the OlloNi SS1 may greet family members when they arrive home, follow an older adult from the living room to the kitchen while continuing a conversation, remind a child to take a study break after a prolonged period of inactivity, or notice that someone appears unusually quiet and gently check in. During family activities, it can autonomously move closer to capture memorable moments or reposition itself to remain engaged in ongoing interactions.\nThe robot continues to evolve over time, with over-the-air updates that deliver new features, performance improvements, and AI enhancements\nIt also incorporates fall detection with optimized accuracy for safety monitoring scenarios. A 6-microphone array enables omnidirectional voice pickup with an effective voice capture range of up to 5 meters, supporting reliable wake-word detection and far-field interaction.\nTo support continuous companionship, much of the robot’s AI processing takes place directly on the device through its “heart module” architecture, with 16 GB of memory and 64 GB of local storage. This enables the system to retain household memories, recognize familiar faces, and respond with lower latency, making interactions feel more natural even during everyday routines.\nBecause companion robots are expected to remain available throughout the day rather than only during brief interactions, the SS1 is designed for extended operation, offering up to 12 hours of standby time and around 5 hours of active interaction on a single charge. This allows it to accompany users through meals, conversations, playtime, and other daily activities without frequent interruptions.\n  To support engaging interactions, much of the robot’s AI processing takes place directly on the device through its “heart module” architecture.Ollobot\nLike the relationships it is designed to build, the robot continues to evolve over time. Running on Android OS with over-the-air (OTA) updates, the system continuously receives new features, performance improvements, and AI enhancements, allowing its capabilities to grow alongside the household it serves.\nThe robot’s behavioral model also improves over time. Rather than reacting to isolated commands, it attempts to establish a baseline understanding of household routines and individuals. Changes in behavior — prolonged quietness, unusual inactivity, or emotional cues — become triggers for interaction.\nPresence instead of utility\nSeveral features in the OlloNi SS1 illustrate this emphasis on presence and continuity in its interactions.\nThe system can identify different household members, including pets, and adapt responses accordingly. Remote communication features allow family members to connect through the device without treating every interaction like a scheduled call. Environmental sensors support contextual reminders tied to weather or room conditions.\nIts “2+1” multi-display configuration is also designed around emotional communication. Two circular side displays function as expressive “emotional eyes,” while a separate primary display handles information and structured interaction. The separation allows emotional signaling and functional communication to operate independently, creating more intuitive nonverbal interaction even when no dialogue is taking place.\n  The robot’s behavioral model improves over time. Rather than reacting to isolated commands, it attempts to establish a baseline understanding of household routines and individuals.Ollobot\nThe SS1 also includes an automated life-recording system built on facial recognition and behavioral-event detection that can capture moments such as laughter, physical closeness, or group interaction automatically. An integrated AI vlog engine can then organize those moments into edited short-form videos with automated sequencing and soundtrack generation. The design intent is to preserve spontaneous domestic moments without requiring active documentation behavior from users.\nAn integrated AI vlog engine can organize recorded moments into edited short-form videos with automated sequencing and soundtrack generation\nVisual data is processed primarily on the device through the SS1’s on-device AI architecture, with household memories stored locally and managed within Ollobot’s proprietary ecosystem instead of being shared with third-party smart home platforms. Access to recordings and live feeds is restricted to authorized users through the companion app, while encrypted communication helps protect data during remote access. Users also retain direct control over recording preferences, and the physical camera privacy cover provides an additional hardware-level safeguard whenever visual monitoring is not desired.\n\n \nLearn more at ollobot.com.\n\nRemote communication is similarly structured around persistence rather than transaction. Traditional video calls are episodic and screen-bound; the SS1 instead acts as a continuously present interface embedded inside the household environment. Through autonomous mobility, environmental awareness, and persistent household memory, remote family members interact with an ongoing domestic context.\nThe larger shift to “gentle intelligence”\nUltimately, gentle intelligence is not about making robots behave more like humans — it is about helping them fit more naturally into human lives. Each OlloNi SS1 unit develops a unique behavioral profile based on its household. Two units running in different homes for a year will have become meaningfully different from each other, shaped by the specific people, habits, and rhythms of where they live.\nThat kind of long-term personalization is what early companion robots never had. It is also what makes the difference between a product that ends up on a shelf and one that actually earns its place in a home.\nLearn more at ollobot.com.",
+          "isoDate": "2026-08-25T10:00:03.000Z"
         },
         {
           "title": "IEEE Senior Membership Demystified",
@@ -310,12 +316,6 @@
           "link": "https://spectrum.ieee.org/ieee-senior-member-ai-ecommerce",
           "summary": "Balaji Ingole rarely saw televisions while growing up in Udgir, India. No one in the small Maharashtra village had computers or phones. Only one household owned a television, and neighbors often gathered there to watch shows together.\nIngole never even saw a computer growing up. It wasn’t until he reached middle school that he encountered a computer lab, an experience he says changed his life. Almost immediately, he says, the machine felt like a window into a different scale of possibility for him.\nBalaji Ingole\n\nEmployer \nAmla Commerce in Milwaukee\nTitle \nProject manager\nMember grade \nSenior member\nAlma maters \nCOEP Technological University and Welingkar Institute of Management, both in India\n“I was very studious and not very social, always reading or solving problems in a math textbook,” he says. “At the computer lab, I began learning the C programming language—which was like discovering a whole new world. I was fascinated that you could create something with just a few lines of code.”\nHis early interest grew into a self-directed education. Outside of Ingole’s formal classwork, he taught himself to build database-backed applications, wire up hardware, write software, and trace error logs.\nToday the IEEE senior member similarly splits his time. During the week, he’s a project manager in Milwaukee at B2B e-commerce company Amla, leading AI-driven digital transformation initiatives to help the company’s clients boost their sales. On weekends, he leads a similarly demanding life as an independent researcher. His current projects include developing AI-enabled health care diagnostic tools and assistive technologies to support people with physical disabilities.\n“I believe in ‘learn by doing,’” he says. “I really like to test my knowledge and prototype ideas to find out if they truly work.”\nA college project becomes an inspiration\nIngole’s tendency to go beyond his coursework continued after he graduated high school in 2004. As a mechanical engineering undergraduate at The College of Engineering, Pune (now COEP Technological University), in India, he participated in several extracurricular activities. One was interviewing entrepreneurs and writing about them for The COEP College Magazine. The experience helped him gain confidence, he says, giving him the push he needed to pursue interviews for the publication with two Indian entrepreneurs he admired: N.R. Narayana Murthy, cofounder of IT giant Infosys; and his wife, philanthropist Sudha Murty. The Murtys cofounded the Infosys Foundation, a nonprofit that runs educational, health care, women’s empowerment, and sustainability programs in underserved areas of India.\n“Every week I would fax them: ‘Please give me an interview time,’” Ingole says. Eventually, Sudha Murty’s office offered him a phone interview, but he requested to meet her in person at Infosys’s Bengaluru offices. She agreed, but the offices were 940 kilometers from Pune, and he didn’t have the money to travel or stay overnight in a hotel.\nIngole and a classmate borrowed money from friends and traveled through the night on multiple buses and trains to get to Bengaluru. They freshened up in a public bathroom before heading to the Infosys campus to meet Murty.\nImpressed by their persistence, she surprised them by also arranging a brief chat with Narayana Murthy.\n“Narayana Murthy handwrote a personal message to the engineering students of [my college]—which we proudly published in our college magazine,” Ingole says. “In his note, Murthy shared that we are at an extraordinary moment in India’s history and that the future looks even brighter. His words encouraged us to work hard and make the most of this time.\n“I still have that note,” Ingole says. “They are billionaires, and I was just a regular student. The fact that they took the time to do this really motivated me.”\nDuring the final semester of his engineering studies, Ingole joined the Tata Research Design and Development Center in Pune for a six-month internship. After earning his bachelor’s degree in mechanical engineering in 2008, he became a graduate engineering trainee at Honeywell Automation in Pune.\nHe left the company in 2009, and during the next 13 years, he held different software engineering and project management positions at IT companies across India.\nHe earned a master’s degree in business administration from the Welingkar Institute of Management, Mumbai, in 2017.\nIn 2022 he accepted a project-manager role at Mars IT Solutions in Madison, Wisc. The following year, he left to join Gainwell Technologies, also in Madison, as a senior project manager. At Gainwell, he managed projects for the core IT systems multiple U.S. state health departments use to administer Medicaid benefits, manage provider enrollment, and verify member eligibility. The experience managing projects that directly enabled patients’ access to health care gave Ingole a special appreciation for and interest in this area, he says.\n“Health care data is not like other data,” he says. “The stakes are high, compliance requirements are different, and the margin for error is effectively zero.”\nIngole says he enjoyed the rigor of data governance combined with the potential to positively impact lives, and that also applies to his current work at Amla.\nAgentic AI in e-commerce\nIngole joined Amla in July 2025. He helps manufacturers and B2B customers modernize their e-commerce operations. He also builds AI tools for them and for his internal team.\nFor Amla’s customers, he’s developing AI-enabled chatbots that help manufacturers set up and manage large product catalogs in e‑commerce platforms. Such product setup traditionally has been a manual, tedious, error-prone process: Companies upload thousands of products, adjust item names, enter prices, update images, and more.\n“Product setup has been one of the most painful processes in e-commerce, and it can take [our] customers two to three months to complete,” Ingole says. “We’re creating an AI agent that will guide them, step-by-step, to get everything set up in two weeks.”\nIngole relies on AI agents for some of his own tasks at Amla. Project managers historically have spent 10 to 12 hours each week assembling and sending status reports to stakeholders. Ingole built an AI agent to handle much of the work.\n“It runs every Monday morning and reads through my emails to extract highlights, risks, timelines, and upcoming releases, then sends me a written status report,” Ingole says. The process might sound simple, but the agent’s workflow involves at least a dozen steps including defining parameters, managing temporary files, and integrating with existing tools.\nWith the information-gathering work handled, it frees up Ingole and his colleagues to spend more time on deeper-thinking work, he says.\nPublishing as idea refinery\nFor nearly a decade, Ingole has spent some of his free time conducting independent research projects in data analytics and AI-enabled applications in health care. He has written more than 40 peer-reviewed papers, which are in the IEEE Xplore Digital Library. He has been granted six patents in the United Kingdom and India. In the U.K., he is a registered coinventor of an AI-powered, cloud-connected wearable device for health monitoring and an AI-based breast cancer detection tool.\nIngole’s patent for the breast cancer detector, he says, reflects his belief that when engineers apply data and AI correctly, they can help doctors diagnose patients more quickly and accurately.\nThat, he says, is both a power and a responsibility.\nHe is part of a team helping patients who are paralyzed and nonverbal control items in their environment. His goal, he says, is to develop a brain-computer interface to let patients turn on a fan, switch off a television, and complete similar tasks.\nPublishing research requires both academic rigor and peer scrutiny, and Ingole says the function has been critical to improving as both a project manager and a researcher-inventor.\n“Lots of research ideas never make it to paper,” he notes. “But when you write for journals or conferences, you’re bombarded with questions from Ph.D.s and experienced researchers. This forces me to refine my methodology, and to combine use cases and technical architecture in a way that stands up to expert review.”\nFinding a professional hub\nIngole joined IEEE in 2022, and he says the affiliation has become central to both his research and his professional identity.\n“I use the Member Directory often and contact engineers through my IEEE email address, which gives me credibility because they know it’s a genuine research connection,” he says.\nThe organization has given him a platform to contribute to the research space beyond his own papers, he says. He has served as a conference session chair, keynote speaker, technical program committee member, and peer research reviewer for various conferences and events. His IEEE membership, he says, has opened doors to other communities, helping support his entry into the British Computer Society, which has stringent acceptance criteria.\nThose opportunities have helped him build a global network of collaborators with whom to discuss upcoming research, seek advice, and share data, he says.\n“IEEE is important for me to continue as an independent researcher,” he says. “It lets me contribute to the community, and I get a lot in return.”",
           "isoDate": "2026-08-21T18:00:01.000Z"
-        },
-        {
-          "title": "Stop Hunting, Start Solving: Accelerating Root Cause Analysis with Agentic AI",
-          "link": "https://event.on24.com/wcc/r/5460332/DAFEFF7A68EE900DEA7A14356089B553?utm_source=IEEE&utm_medium=site&utm_campaign=922",
-          "summary": "About this Webinar\nTurn Yield Excursions into Faster, More Confident Root Cause Analysis\nWhen a yield issue emerges, the answer rarely lives in a single system. Critical clues are spread across metrology data, tool traces, chemical analysis, and facilities systems, while growing data volumes make traditional dashboards slow, fragmented, and difficult to act on.\nWhat You’ll Learn:\nDiscover how a purpose-built semiconductor analytics platform can help engineers connect insights across domains without moving data. See how Agentic AI, semiconductor-specific visualizations, and push-down compute enable faster investigation of yield excursions and process issues, even across billions of data points. In the session, a live demonstration shows how to conduct a multi-domain root cause investigation using Spotfire® Industry Pro.\nKey Takeaways:\n\nUnderstand why siloed manufacturing data delays yield recovery and inflates costs\nLearn how Agentic AI automates complex cross-domain analytics and visualization generation\nExplore methods for scaling high-performance analytics across massive fab datasets\n\nWho Should Attend:\nYield, Process, and Integration Engineers; Fab and Manufacturing Operations Managers; Quality and Reliability Engineers; and Data & Analytics leaders supporting wafer fabs, foundries, OSATs, and IDMs who need to identify issues faster while maintaining confidence in decision-making.\nSave Your Spot!\nJoin this webinar to learn how leading semiconductor teams are accelerating root cause investigations, scaling analytics across massive datasets, and transforming disconnected data into actionable manufacturing intelligence. Reserve your seat today.\nRegister now for this free webinar!",
-          "isoDate": "2026-08-21T14:32:37.000Z"
         }
       ]
     },
