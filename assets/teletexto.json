@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T01:11:45.155Z",
+  "generatedAt": "2026-08-25T06:43:12.034Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
@@ -72,10 +72,52 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "ERROR cargando feed",
-          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
-          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-08-25T01:11:39.300Z"
+          "title": "NASA Sets Coverage for Roman Space Telescope Launch from Florida",
+          "link": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-roman-space-telescope-launch-from-florida/",
+          "summary": "Coverage plans are ready for NASA’s Nancy Grace Roman Space Telescope prelaunch and launch activities. Roman is NASA’s next-generation observatory designed to explore some of the universe’s biggest mysteries, including dark energy. NASA and SpaceX are targeting Roman’s liftoff for no earlier than 7:26 a.m. EDT Sunday, Aug. 30, aboard a SpaceX Falcon Heavy rocket […]",
+          "isoDate": "2026-08-24T20:44:58.000Z"
+        },
+        {
+          "title": "Perseverance Captures Another Phobos Transit",
+          "link": "https://science.nasa.gov/photojournal/perseverance-captures-another-phobos-transit/",
+          "summary": "Description NASA’s Perseverance Mars rover used its Mastcam-Z camera to capture the silhouette of Phobos, one of the two Martian moons, as it crossed in front of the Sun on Aug. 12, 2026, the 1,948th Martian day, or sol, of the mission.  The animation has been tinted to simulate what a human would see if […]",
+          "isoDate": "2026-08-24T17:56:49.000Z"
+        },
+        {
+          "title": "Starstruck: NASA Research Shows How Sun’s Ancient History Shaped Earth",
+          "link": "https://science.nasa.gov/solar-system/starstruck-nasa-research-shows-how-suns-ancient-history-shaped-earth/",
+          "summary": "At the center of our solar system, the Sun influences every planet that orbits it. In two recent NASA-funded studies, scientists uncovered how ancient events in the Sun’s history may have helped create Earth’s unique climate and driven previously unexplained climatic shifts.   In new research, scientists at NASA’s SHIELD (Solar Wind with Hydrogen Ion charge Exchange and Large-Scale Dynamics) center — one of […]",
+          "isoDate": "2026-08-24T17:53:57.000Z"
+        },
+        {
+          "title": "NASA Astronaut Reid Wiseman at Freedom 250 Grand Prix",
+          "link": "https://www.nasa.gov/image-article/nasa-astronaut-reid-wiseman-at-freedom-250-grand-prix/",
+          "summary": "NASA astronaut and Artemis II commander Reid Wiseman is seen in the two-seat IndyCar as he prepares for driver Conor Daly to take him on a lap ahead of the start of the Freedom 250 Grand Prix, Sunday, Aug. 23, 2026, in Washington, D.C. Image credit: NASA/Joel Kowsky",
+          "isoDate": "2026-08-24T17:34:09.000Z"
+        },
+        {
+          "title": "MAIA Air Sensor at Work in Addis Ababa",
+          "link": "https://science.nasa.gov/photojournal/maia-air-sensor-at-work-in-addis-ababa/",
+          "summary": "Description This roof-mounted air sensor in Addis Ababa, the capital of Ethiopia, is one of 10 used by NASA’s Multi-Angle Imager for Aerosols (MAIA) to study the city’s air quality. MAIA’s air sensors provide a detailed look at particulate matter that is 2.5 micrometers or less in diameter, also known as PM2.5, one of the world’s deadliest forms […]",
+          "isoDate": "2026-08-24T17:27:01.000Z"
+        },
+        {
+          "title": "Mapping Air Pollution With MAIA Sensors in Addis Ababa",
+          "link": "https://science.nasa.gov/photojournal/mapping-air-pollution-with-maia-sensors-in-addis-ababa/",
+          "summary": "Description This map of Addis Ababa, the capital of Ethiopia, shows the locations of 10 air sensors that NASA’s Multi-Angle Imager for Aerosols (MAIA) mission is using to provide one of the most detailed looks ever at the city’s air pollution. Over the course of three years, these sensors measured particulate matter that is 2.5 micrometers or less […]",
+          "isoDate": "2026-08-24T17:21:28.000Z"
+        },
+        {
+          "title": "APOD: 2026 August 24 – Comet 220P in Outburst",
+          "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-24-comet-220p-in-outburst/",
+          "summary": "APOD Science APOD APOD: 2026 August 24 – Comet… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Comet 220P […]",
+          "isoDate": "2026-08-24T04:05:00.000Z"
+        },
+        {
+          "title": "What Lake Bonneville Left Behind",
+          "link": "https://science.nasa.gov/earth/earth-observatory/what-lake-bonneville-left-behind/",
+          "summary": "The drying of the massive lake exposed playas that became the setting for feats of engineering and technological ingenuity, as well as epic tales of exploration and desperation.",
+          "isoDate": "2026-08-24T04:01:00.000Z"
         },
         {
           "title": "The exoskeletons are coming (to a store near you)",
@@ -88,48 +130,6 @@
           "link": "https://www.nature.com/articles/d41586-026-02572-8",
           "summary": "Nature, Published online: 24 August 2026; doi:10.1038/d41586-026-02572-8\nGovernments need to keep their procurement processes as open as possible, or they will face risks of technological lock-in down the line.",
           "isoDate": "2026-08-24T00:00:00.000Z"
-        },
-        {
-          "title": "Billion-dollar machine aims to set a fusion-energy record — and study nuclear weapons",
-          "link": "https://www.nature.com/articles/d41586-026-02620-3",
-          "summary": "Nature, Published online: 24 August 2026; doi:10.1038/d41586-026-02620-3\nPacific Fusion is breaking ground next door to a US nuclear-weapons laboratory, hoping the partnership will give it an edge.",
-          "isoDate": "2026-08-24T00:00:00.000Z"
-        },
-        {
-          "title": "Patient’s own mitochondria injected into eyes in attempt to restore vision",
-          "link": "https://www.nature.com/articles/d41586-026-02616-z",
-          "summary": "Nature, Published online: 24 August 2026; doi:10.1038/d41586-026-02616-z\nInjection of a person’s own mitochondria into the retina was safe but had only a temporary effect on restoring vision.",
-          "isoDate": "2026-08-24T00:00:00.000Z"
-        },
-        {
-          "title": "Can AI ever be conscious? The question stems from a misconception",
-          "link": "https://www.nature.com/articles/d41586-026-02571-9",
-          "summary": "Nature, Published online: 24 August 2026; doi:10.1038/d41586-026-02571-9\nA book outlines how the fields of artificial intelligence, psychology and philosophy have neglected a key aspect of consciousness: the body.",
-          "isoDate": "2026-08-24T00:00:00.000Z"
-        },
-        {
-          "title": "Briefing Chat: New narcolepsy drug could unlock host of novel brain therapies",
-          "link": "https://www.nature.com/articles/d41586-026-02626-x",
-          "summary": "Nature, Published online: 21 August 2026; doi:10.1038/d41586-026-02626-x\nNature staff discuss how an FDA-approved drug for narcolepsy could have promise beyond the condition, and the longest-lived human brain organoids yet.",
-          "isoDate": "2026-08-21T00:00:00.000Z"
-        },
-        {
-          "title": "Earth-shaking thunder probes underground geology",
-          "link": "https://www.nature.com/articles/d41586-026-02596-0",
-          "summary": "Nature, Published online: 21 August 2026; doi:10.1038/d41586-026-02596-0\nSeismologists measured the varying speeds of a ‘thunderquake’ to survey an area with little seismic activity.",
-          "isoDate": "2026-08-21T00:00:00.000Z"
-        },
-        {
-          "title": "Why we must stop talking about artificial general intelligence — and instead build ‘pro-worker’ AI",
-          "link": "https://www.nature.com/articles/d41586-026-02566-6",
-          "summary": "Nature, Published online: 21 August 2026; doi:10.1038/d41586-026-02566-6\nRather than racing to replace people, we should build AI tools that amplify human expertise and expand opportunity.",
-          "isoDate": "2026-08-21T00:00:00.000Z"
-        },
-        {
-          "title": "Sleuth identifies dozens of studies that used the wrong antibody",
-          "link": "https://www.nature.com/articles/d41586-026-02352-4",
-          "summary": "Nature, Published online: 21 August 2026; doi:10.1038/d41586-026-02352-4\nThe case is the latest example of a scientific workhorse being misused in experiments.",
-          "isoDate": "2026-08-21T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-08-25T01:11:40.113Z"
+          "isoDate": "2026-08-25T06:43:08.986Z"
+        },
+        {
+          "title": "Songs created by AI banned from Australia's music charts",
+          "link": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno?at_medium=RSS&at_campaign=rss",
+          "summary": "The move comes weeks after a DJ admitted using AI to remix a Madonna song that topped the Australian charts.",
+          "isoDate": "2026-08-25T04:54:01.000Z"
         },
         {
           "title": "Sharing dangerous driving videos is 'truly reprehensible', PM says",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/c0ej09nywdno?at_medium=RSS&at_campaign=rss",
           "summary": "According to a Freedom of Information (FOI) request the number of letters sent has almost tripled since 2024.",
           "isoDate": "2026-08-19T16:14:46.000Z"
-        },
-        {
-          "title": "Monzo says issue with card payments and transfers now resolved",
-          "link": "https://www.bbc.co.uk/news/articles/cwyrvxvl1eeo?at_medium=RSS&at_campaign=rss",
-          "summary": "The digital bank said all of its services were now \"back up and running\"",
-          "isoDate": "2026-08-19T16:04:16.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-08-25T01:11:42.573Z"
+          "isoDate": "2026-08-25T06:43:11.392Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-08-25T01:11:41.401Z"
+          "isoDate": "2026-08-25T06:43:10.197Z"
         },
         {
           "title": "IEEE Senior Membership Demystified",
