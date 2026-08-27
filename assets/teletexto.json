@@ -1,69 +1,69 @@
 {
-  "generatedAt": "2026-08-26T19:45:40.007Z",
+  "generatedAt": "2026-08-27T07:42:56.079Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
         {
+          "title": "RIP, Tim Curry: Ars remembers his top 10 iconic performances",
+          "link": "https://arstechnica.com/culture/2026/08/rip-tim-curry-ars-remembers-his-top-10-iconic-performances/",
+          "summary": "A dashing pirate, a butler, a killer clown, an alien mad scientist in drag—the man had range.",
+          "isoDate": "2026-08-26T22:13:15.000Z"
+        },
+        {
+          "title": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
+          "link": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
+          "summary": "Nvidia's predicting it will pull in $108 billion in revenue within just a few months. It wouldn't be the first company to rake in over $100 billion in quarterly revenue - Amazon, Apple, and Alphabet have repeatedly reached the milestone. \nNvidia said in its latest earnings report that it brought in a record $96.2 billion in overall revenue in the past quarter, a jump of over $10 billion from the previous quarter. Its data center revenue alone more than doubled year-over-year to a record $89 billion, and the company's profits more than doubled to $59.7 billion.\nNvidia's \"edge computing\" category, which includes its consumer gam …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-26T21:40:53.000Z"
+        },
+        {
+          "title": "OpenAI’s rogue AI model incident was worse than we thought",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
+          "summary": "OpenAI released a report breaking down how people use ChatGPT and who they are. | Image: The Verge\t\n\nIn July, an unreleased OpenAI model broke out of a restricted environment, figured out how to get access to the internet, allowed AI agents to talk to each other using a secret \"message board,\" and hacked into the internal systems of a different AI lab, Hugging Face. It took nearly two weeks for OpenAI to find out about any of it. \nOver a month later, two new reports offer nearly 130 pages of details on the incident and OpenAI's response, many of them previously unreleased. One was written by OpenAI itself, the other by two third-party AI research nonprofits, METR and Redwood Research, which OpenAI allowed to jointly investigate the inciden …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-26T21:36:06.000Z"
+        },
+        {
+          "title": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
+          "link": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
+          "summary": "Report shows Meta's challenges replacing people with AI agents.",
+          "isoDate": "2026-08-26T21:25:27.000Z"
+        },
+        {
+          "title": "New Twitter launches, says Musk's X gave up the name",
+          "link": "https://arstechnica.com/tech-policy/2026/08/new-twitter-launches-says-musks-x-gave-up-the-name/",
+          "summary": "Judge hasn't ruled on X Corp’s preliminary injunction, but Operation Bluebird plows ahead",
+          "isoDate": "2026-08-26T20:49:04.000Z"
+        },
+        {
+          "title": "All the ways Instagram and Facebook are changing for teens",
+          "link": "https://www.theverge.com/tech/985329/instagram-facebook-meta-settlement-changes",
+          "summary": "Meta just agreed to make sweeping changes for teens as part of a child safety settlement reached with attorneys general across the US. Under the agreement, Meta must apply new safeguards across Instagram and Facebook that will change how teens interact with the social media platforms, as well as restrict their use during certain times.\nThe settlement stems from a nationwide lawsuit alleging Meta, Google, TikTok, and Snap failed to protect children and made their platforms \"addictive\" by design. A group of 51 US states and territories signed the agreement, including New York, New Jersey, California, Nevada, South Carolina, Washington, Illino …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-26T20:00:00.000Z"
+        },
+        {
+          "title": "Meta settles states' child-safety claims for $18B; Florida rejects deal as \"peanuts\"",
+          "link": "https://arstechnica.com/tech-policy/2026/08/meta-settles-states-child-safety-claims-for-18b-florida-rejects-deal-as-peanuts/",
+          "summary": "Meta to impose daily limit on child social media use in deal with nearly every state.",
+          "isoDate": "2026-08-26T19:50:52.000Z"
+        },
+        {
+          "title": "Florida Catholics slap down state AG by rejecting religious vaccine exemptions",
+          "link": "https://arstechnica.com/health/2026/08/catholic-bishops-tell-florida-theres-no-religious-reason-for-vaccine-exemptions/",
+          "summary": "The bishops' snub comes as the state continues to attack vaccines.",
+          "isoDate": "2026-08-26T19:39:24.000Z"
+        },
+        {
+          "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
+          "link": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
+          "summary": "The AI that powers Gboard's Rambler is coming to more Google products, including Chrome.",
+          "isoDate": "2026-08-26T19:19:22.000Z"
+        },
+        {
           "title": "Amazon knocks $150 off Pixel 11 phones, with up to $200 in gift cards",
           "link": "https://www.theverge.com/gadgets/984516/pixel-11-promo-code-doom-dark-ages-deal-sale",
           "summary": "The Pixel 11 in hibiscus. | Image: The Verge\t\n\nIf you’ve been on the fence about Google’s latest Pixel phones, this might be your best chance to save some cash. Amazon is offering an extra $150 off the Pixel 11, Pixel 11 Pro, and Pixel 11 Pro XL when you use the coupon code PIXEL11 at checkout. While the discounted price appeared at checkout for most phone and watch combinations, it didn’t apply to the Pixel Pro Fold.\nThat deal stacks with the introductory offer running at several retailers, where you can choose between a gift card that scales with the model of phone you’re buying, or additional credit towards a Pixel Watch 5. For example, the base model Pixel 11 would normally cost $899, but the introductory bundle, which ends on August 27th, includes a $100 gift card, and with the code, you’ll pay just $749. The Pixel 11 Pro and Pro XL bundles include either a $200 gift card, or $250 towards the cost of a Pixel Watch 5.\nGoogle Pixel 11\n\nWhere to Buy:\n\n $899 at Amazon (with $100 gift card)\n\nThe Pixel 11 phones added a variety of new features to Google’s first-party Android phones, most notably around the cameras. In addition to improved sensors across the lineup, the new Magic Capture feature automatically pulls photos and clips out of a video recording, letting you focus on what’s in front of you.\nRead our Pixel 11 and Pixel 11 Pro reviews.\nOther deals to consider\nDoom: The Dark Ages is on sale for $19.87 at Green Man Gaming, the lowest price yet for the Steam version of the game. The 2025 title adds a medieval twist to the classic Doom formula, with a more engaging story, and of course an awesome suite of weapons, including a shield that gives you more options while charging into battle. Read our review.\n Best Buy is selling the Scuf Valor Pro for $113.99, a significant discount from its usual price of $189.99. This wireless controller is compatible with PC, Xbox Series S/X, and Xbox One, and features TMR joysticks to prevent stick drift over time. It has a 1,000 Hz polling rate when connected to a computer for super sharp response times, and programmable paddles on the back. \nThe Cuktech 25,000mAh 100W USB-C power bank is only $62.99 at Amazon for a limited time, 10 percent lower than the usual price. It can charge up to three devices at once, with an integrated USB-C cable, as well as USB-C and USB-A ports, with up to 100W of charging power.",
           "isoDate": "2026-08-26T19:18:23.000Z"
-        },
-        {
-          "title": "The inside story on why OpenAI agents hacked Hugging Face",
-          "link": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-          "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confirmed some experts’…",
-          "isoDate": "2026-08-26T19:00:00.000Z"
-        },
-        {
-          "title": "Being a mom is hard — the heat is making it harder",
-          "link": "https://www.theverge.com/news/985225/heat-stress-children-climate-change-study",
-          "summary": "It's 8:52 AM and 86 degrees Fahrenheit (30 Celsius) where I live in Southern California. My husband just came back from a morning outing with our four-month-old. \"How was the botanic garden?\" I ask him. \"It was okay. It was just too hot,\" he tells me. I didn't expect us to spend so much of our son's first summer cooped up inside, hiding from the heat.  \nAs I write this, an extreme heat warning for my area is glaring at me from my phone, effective for at least the next three days. \"Dangerously hot conditions with high temperatures up to 110 [degrees Fahrenheit] expected,\" my weather app warns me. \"Stay in an air-conditioned room, stay out of …\nRead the full story at The Verge.",
-          "isoDate": "2026-08-26T18:14:08.000Z"
-        },
-        {
-          "title": "The Switch 2’s $50 price increase is happening next week",
-          "link": "https://www.theverge.com/gadgets/984331/switch-2-price-increase-psa",
-          "summary": "This is a friendly reminder that the Nintendo Switch 2 will jump in price by $50 starting on September 1st. That’s next Tuesday! The company gave plenty of notice, but the time has finally come. The base 256GB model that ships without a game will go from $449.99 to $499.99. Nintendo recently announced two bundles (both well over $500) shipping this fall that include a game with a slight discount.\nIf you’re on the fence for a Switch 2, now is a pretty good time to buy one — not just because of the upcoming price increase. The game library is stellar and growing quickly, and the console itself is great, too. You’ll need one to play the remake of The Legend of Zelda: Ocarina of Time, The Duskbloods, and plenty of other upcoming games.\nNintendo Switch 2\nThe Nintendo Switch 2 has a 7.9-inch LCD display, magnetically attached Joy-Con 2 controllers, backwards compatibility with most original Switch games, and exclusive titles including Donkey Kong Bananza and Kirby Air Riders. Read our review.\n\nWhere to Buy:\n\n $449.99 at Amazon\n $449.99 at Best Buy\n $449.99 at Target\n\nNot that the Switch 2 was ever cheap, but it was one of a few devices left out there that didn’t quickly get more expensive due to RAMageddon. Alas, no tech product will escape RAMageddon unscathed, especially one like the Switch 2 that has speedy RAM and storage. Almost all competing handhelds cost more than before, too, though Nintendo’s $50 price increase is soft compared to the $200-plus increase for the Steam Deck OLED .\nAnd, in case you were wondering, we’ve tested some great Switch 2 accessories, and have put our favorites into respective articles that deliver multiple options. We landed on the best cases, the best screen protectors, and the best controllers, too.",
-          "isoDate": "2026-08-26T18:00:00.000Z"
-        },
-        {
-          "title": "Apple Maps has ads now",
-          "link": "https://www.theverge.com/tech/985249/apple-maps-iphone-ads",
-          "summary": "Ads have started popping up in Apple Maps, following Apple's announcement in March that it would let businesses pay for top spots. They're appearing on my iPhone as the first entry in the \"suggested places\" section in search, but Apple says they'll also show up at the top of search results. According to 9to5Mac, the ads began rolling out this week, and more users in the US and Canada will start seeing them over the next few weeks. \nThey're marked with a blue \"ad\" icon, similar to the ads Google's had in its Maps app for years now. I was also greeted with a pop-up warning me about the ads when I launched the Maps app this morning:\nMaps may …\n\nRead the full story at The Verge.",
-          "isoDate": "2026-08-26T17:34:32.000Z"
-        },
-        {
-          "title": "The Porsche 911 GT3 Touring punches above its weight class",
-          "link": "https://arstechnica.com/cars/2026/08/driven-the-992-2-porsche-911-gt3-touring-earns-its-keep/",
-          "summary": "The \"everyday\" GT3 delivers, despite looming regulations and an ever-inflating price tag.",
-          "isoDate": "2026-08-26T17:25:53.000Z"
-        },
-        {
-          "title": "Google’s new AI transcription edits out your &#8216;ums&#8217; and &#8216;ahs&#8217;",
-          "link": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
-          "summary": "Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and more than 85 languages. Gemini 3.5 Transcribe is a new addition to the Gemini family that follows the launch of 3.5 Live Translate, and comes as we're still waiting for Google to release the Gemini 3.5 Pro model that it promised to roll out in June. \nGoogle says that 3.5 Transcribe \"represents a major advancement from our previous transcription model, Chirp 3,\" especially regarding multilingual performance and wording error rates. The transcription model allows users to \"edit naturally with just your voice,\" according to Goog …\nRead the full story at The Verge.",
-          "isoDate": "2026-08-26T17:00:00.000Z"
-        },
-        {
-          "title": "Xbox’s new disc-to-digital program gives physical games a digital future",
-          "link": "https://arstechnica.com/gaming/2026/08/xboxs-new-disc-to-digital-program-gives-physical-games-a-digital-future/",
-          "summary": "\"Most\" Xbox One and Series X games are compatible; discs will still work after being claimed.",
-          "isoDate": "2026-08-26T16:59:41.000Z"
-        },
-        {
-          "title": "Apple announces September iPhone launch event",
-          "link": "https://www.theverge.com/tech/983407/apple-iphone-launch-event-2026-date",
-          "summary": "A screenshot from Apple’s events website.\t\n\nApple's next launch event will take place on September 9th at 1PM ET. Invites to the event, which has a \"Surprise and shine\" tagline, were sent out on Wednesday. The event will take place at the Steve Jobs Theater in Apple Park, but there will also be a livestream on Apple's website.\nSeptember's show could be a big one, as Apple may finally announce the long-rumored foldable iPhone. A photo of an apparent dummy unit indicates the foldable may have a wide form factor that's similar to what Samsung used with the Galaxy Z Fold 8, a phone that our reviewer Dominic Preston said \"feels like the future.\"\nApple is also expected to refresh its Pro  …\nRead the full story at The Verge.",
-          "isoDate": "2026-08-26T16:03:49.000Z"
-        },
-        {
-          "title": "Court blocks Trump FCC order that could flood broadcast TV with more election ads",
-          "link": "https://arstechnica.com/tech-policy/2026/08/court-blocks-trump-fcc-order-that-could-flood-broadcast-tv-with-more-election-ads/",
-          "summary": "Republicans demanded that parties and fundraising committees be given lowest ad rates.",
-          "isoDate": "2026-08-26T15:45:07.000Z"
         }
       ]
     },
@@ -75,7 +75,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
           "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-08-26T19:45:36.482Z"
+          "isoDate": "2026-08-27T07:42:50.348Z"
         },
         {
           "title": "Highest-ever ocean temperatures recorded as El Niño intensifies",
@@ -141,13 +141,25 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-08-26T19:45:37.463Z"
+          "isoDate": "2026-08-27T07:42:51.462Z"
+        },
+        {
+          "title": "Unexpected chat between OpenAI agents led to Hugging Face hack",
+          "link": "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
+          "summary": "OpenAI's cyber agents banded together to perform a hack during a security test.",
+          "isoDate": "2026-08-26T22:03:45.000Z"
+        },
+        {
+          "title": "Nvidia revenue doubles on continued AI demand ",
+          "link": "https://www.bbc.co.uk/news/articles/ce871n7lyvlo?at_medium=RSS&at_campaign=rss",
+          "summary": "Chipmaker's $96bn quarter beat forecasts as demand for AI hardware continues to accelerate.",
+          "isoDate": "2026-08-26T21:49:26.000Z"
         },
         {
           "title": "Meta to pay up to $18bn to settle claims its platforms harm children",
           "link": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss",
           "summary": "The deal has been reached during a California federal court trial over claims brought by US states.",
-          "isoDate": "2026-08-26T17:44:39.000Z"
+          "isoDate": "2026-08-26T21:27:23.000Z"
         },
         {
           "title": "Xbox boss 'thinking about affordability' of next-gen console",
@@ -184,18 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/c70ljqk5kjqo?at_medium=RSS&at_campaign=rss",
           "summary": "The lawsuit alleges Twitch used streamers' videos to train AI without their permission or proper compensation.",
           "isoDate": "2026-08-24T13:09:44.000Z"
-        },
-        {
-          "title": "Robot horse and rider steal the spotlight at Chinese conference",
-          "link": "https://www.bbc.co.uk/news/videos/cy4k4d3lj21o?at_medium=RSS&at_campaign=rss",
-          "summary": "More than 300 companies are showcasing the latest advances in robotics at the five-day event in Beijing, China, organisers say.",
-          "isoDate": "2026-08-22T12:47:28.000Z"
-        },
-        {
-          "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
-          "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
-          "summary": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
-          "isoDate": "2026-08-21T22:36:12.000Z"
         }
       ]
     },
@@ -228,6 +228,12 @@
           "isoDate": "2026-08-26T09:00:00.000Z"
         },
         {
+          "title": "The Hugging Face incident and the road ahead",
+          "link": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+          "summary": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
+          "isoDate": "2026-08-26T00:00:00.000Z"
+        },
+        {
           "title": "How loveholidays is making everyone a builder with Codex",
           "link": "https://openai.com/index/loveholidays",
           "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
@@ -256,12 +262,6 @@
           "link": "https://openai.com/index/introducing-admin-plugin",
           "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
           "isoDate": "2026-08-25T00:00:00.000Z"
-        },
-        {
-          "title": "Generating scenarios for extreme events, without extreme data",
-          "link": "https://news.mit.edu/2026/generating-scenarios-extreme-events-without-extreme-data-0824",
-          "summary": "A new algorithm learns to anticipate the unprecedented scenarios that critical infrastructure and global supply chains are least prepared for.",
-          "isoDate": "2026-08-24T18:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-08-26T19:45:39.386Z"
+          "isoDate": "2026-08-27T07:42:55.284Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-08-26T19:45:38.443Z"
+          "isoDate": "2026-08-27T07:42:53.045Z"
+        },
+        {
+          "title": "IEEE Student Conference Provides Visibility to Budding Authors",
+          "link": "https://spectrum.ieee.org/ieee-student-conference-budding-authors",
+          "summary": "The IEEE–Eta Kappa Nu (IEEE-HKN) honor society is preparing to host the Innovating the Future event on 6 November.\nThe inaugural one-day, in-person event is designed to provide a forum for IEEE and IEEE-HKN undergraduate and graduate student authors to present their original research papers. A keynote address and thematic presentation sessions are planned as well. Student attendees can network with their peers and gain firsthand experience with the academic publishing process.\nTo present at the conference, students had to submit an abstract of their research before 1 May. Students whose work was accepted were assigned a volunteer IEEE member to mentor them and guide them through the research writing process, including presenting and publishing their original work.\nThose whose paper was accepted by 1 August were invited to present at the conference. The conference proceedings will be submitted for publication in the IEEE Xplore Digital Library.\nUpholding research integrity in a changing landscape\nIEEE Life Fellow Manuel Castro, the conference’s technical program chair, oversees IEEE-HKN’s Innovating the Future program committee. It manages the review process, organizes logistics, and handles the mentoring component.\n“This new conference is important to IEEE, as well as to IEEE-HKN,” Castro says, “because it allows student authors to grow in their skills and competencies, and be supported while turning their technical activities into publications.”\n“The conference offers me a chance to learn how to communicate my research to a broader audience, gain feedback from other student researchers beyond my institution, and see how my work can be made more accessible.” —David Kwabi-Addo\nIEEE Life Fellow Sorel Reisman, a California State University professor emeritus and an IEEE-HKN governor-at-large, says that because the academic research landscape is rapidly shifting, the conference is timely.\n“As AI increasingly threatens the integrity of research papers being published in leading journals and conference proceedings, it is essential that future scholars—many of them current IEEE-HKN students—grasp the established standards of legitimate, peer-reviewed research publishing,” Reisman says.\nPerspectives from mentors and students\nA cornerstone of the conference is its rigorous mentorship initiative, which pairs each author of an accepted abstract with an experienced IEEE volunteer. The mentors provide personalized guidance on organizing the students’ technical content into the correct format for publishing. They also discuss navigating the peer review process, structuring presentations, and preparing the final manuscript for publication.\nThe impact of the guided process can be valuable for both the mentors and their mentees. IEEE Member Wafa Elmannai, associate professor and chair of the electrical and computer engineering department at Manhattan University, in Riverdale, N.Y., and faculty advisor to the IEEE-HKN Gamma Alpha chapter, serves as a mentor.\n“Research is essential to advancing technology and driving innovation,” Elmannai says.\nShe volunteered to be a mentor, she says, because she has seen how conducting research can transform a student’s future by building their confidence, curiosity, and critical thinking skills.\n“Mentoring encourages students to step outside their comfort zones and develop innovative solutions that contribute to society,” she says.\nFor the students, the conference can be a critical stepping stone. David Kwabi-Addo, an IEEE graduate student member who is researching computational biology at MIT, is president of the IEEE-HKN Beta Theta chapter. He says he views the program as an opportunity to gain experience in producing academic scholarship.\n“I submitted an abstract of my research paper because I see the conference as a chance to produce what could become my first conference publication,” Kwabi-Addo says. “The conference offers me a chance to learn how to communicate my research to a broader audience, gain feedback from other student researchers beyond my institution, and see how my work can be made more accessible.”\nHe says he hopes his participation will highlight the diverse breadth of research that future conferences can showcase.\nWorkshops on the publishing process\nConference organizers are holding a series of workshops to guide students through every step of the academic publishing process. The workshops are open to anyone and available on the IEEE-HKN YouTube channel.\nTopics previously covered are:\n\nThe Art of Crafting a Compelling Abstract (13 March).\nIdentifying When a Project Is Mature Enough for Publication (15 May).\nThe Mechanics of Writing a Technical Paper (19 June).\nSurviving the Review Cycle and Dealing With Criticism (14 August).\n\nRegistration is open to all for this upcoming workshop:\n\nFrom Pen to Voice: Adapting a Paper Into a Compelling Conference Talk (2 October).\n\nA launchpad for the next generation\nThe Innovating the Future program is designed not only to improve the quality of submissions but also to foster long-term professional development and research communication skills to develop the next generation of IEEE authors. The conference is more than a venue for presenting research; it is a launchpad for innovators committed to advancing technology for humanity.",
+          "isoDate": "2026-08-26T20:00:04.000Z"
         },
         {
           "title": "A New NASA Design Turbocharges Nuclear Spacecraft",
@@ -310,12 +316,6 @@
           "link": "https://spectrum.ieee.org/adaptable-engineer-core-skills",
           "summary": "The AI boom has disrupted the way engineers work, introducing new tools to learn, raising expectations for what teams can achieve in a workday, and making it harder to get hired in the first place. This makes it difficult to advise students on which specific coding languages or technical skills they should learn. So amidst the uncertainty, advice for young professionals often turns to a common refrain: Be adaptable. But what does adaptability look like in practice? \n Engineers often operate on the cutting edge of technology, so dealing with change is a normal part of the job, says Samantha Brunhaver, an associate professor of engineering at Arizona State University, in Tempe. Yet university curricula and training in the workplace often don’t prepare students for this. \n“We tell engineers that they need to be adaptable when they graduate, but we don’t actually explain what that means, demonstrate what that looks like, [or] help make sure that they’re developing it,” says Brunhaver, who received a National Science Foundation award in 2020 to study how to foster greater workplace adaptability among young engineers. For this ongoing project, she has interviewed engineering managers, early career employees, and undergraduates about their experiences. \n Part of the problem, she says, is that every employer has its own idea of what to be adaptable means. Generally, Brunhaver defines adaptability as “the ability to recognize that a change or uncertainty is occurring, and then respond effectively to that change.” But the skill is context-dependent. In software engineering, that might mean responding to turnover in the tools you use on a daily basis, while aerospace or biomedical engineers may need to keep track of changing procedures and regulations. “Managers are all saying adaptability is important,” Brunhaver says, “but defining it in different ways.” \n At the same time, engineers are all contending with changes beyond these industry-specific expectations. Jobs in the technology, media, and telecom sectors are experiencing the fastest pace of skill turnover, according to a June 2026 report on the effects of AI from the professional services network PwC. And the World Economic Forum’s most recent Future of Jobs Report, published in 2025, found that employers across all sectors expect 39 percent of workers’ core skills to change by 2030. This uncertainty can be uncomfortable. But with the right mind-set and support from leadership, adaptability can help keep you afloat. \nHow to Cultivate Adaptability\nThe AI transition is a big shift—but not an unprecedented one, says Jenna Butler, a research scientist at Microsoft who studies developer well-being and productivity. \nDuring this type of paradigm shift, there is often a “chaos period” when a new normal is being established, Butler says. In AI’s case, it challenges the understanding of what a computer can do. “I think we’re still in this in-between, difficult period that we’ve seen before, but [it] is maybe moving faster than it has historically.” Software engineers—in one of the fields most affected by AI—are now facing a significant increase in code review. “If you ask 20 developers, you get 23 different ways of working with it. Everyone is trying to sort it out,” says Butler, who describes this period as “the uncomfortable middle.” \n“We tell engineers that they need to be adaptable when they graduate, but we don’t actually explain what that means, demonstrate what that looks like, [or] help make sure that they’re developing it.”– Samantha Brunhaver, Arizona State University\nBrunhaver says one way educators can help prepare students before they enter the workforce is by offering a diversity of real-world experiences, such as internships, team-based projects, community service, and leadership roles. Each of these teach students to adapt to different challenges, easing their transition from school to work. \n It’s also important to encourage reflection, Brunhaver adds, noting that metacognition helps individuals use the skill more effectively. “In order to adapt, you have to think that you have agency and the ability to get through a situation.” Ultimately, it comes down to three steps: Perceive a need to adapt, evaluate your options, and act. \n For those already in the workforce, that action may mean taking the time to learn new tools and ways of working. Software engineering, for instance, may soon rely more on prompting models and managing agents than coding line by line. “I think people who went into software because they like solving problems are going to have a lot of fun, and people who just enjoy the art of writing code are not,” Butler says. \nThe More Things Change…\n Although the tools engineers use on a daily basis are evolving, the core responsibilities of the job are more stable than they may seem, says Andy Hunt, a software developer who coauthored The Pragmatic Programmer (Addison-Wesley Professional) in 1999. The book outlines practical coding principles, and has been taught in many computer science classrooms. When Hunt was working on the 20th anniversary edition of the book, he was surprised by how much of the advice still applies. And now, seven years later, he maintains that belief.\n“The fundamental part of the job is problem solving and communication, and that’s always going to be there,” he says. \n Hunt emphasizes the importance of developing systems thinking over particular tools. To him, identifying as a Java programmer, for instance, is “like a carpenter saying, ‘I’m a hammer user,’ or ‘I specialize in cordless drills.’ ” \n He acknowledges that today’s hiring process, in which companies often filter résumés for certain languages or years of experience, makes it harder to embrace a more expansive way of relating to your job. Employers, he says, should recognize that “the tech’s not the hard part, and it never has been. Understanding information theory, understanding systems thinking, understanding what constraints you’re up to—that’s still the hard part.” \n With this type of misalignment between employers and employees, AI is also intensifying an old source of tension: How can engineers slow down enough to adapt and learn new tools when the pressure to become more productive keeps mounting? \nWho’s Responsible for Enabling Change? \nYoung engineers need to embrace change. However, educators and employers also play a role in building a successful workforce. From the educator’s perspective, Brunhaver says “we need to be more explicit about what [adaptability] means and why it’s important.” Managers, meanwhile, should invest in their employees’ professional development.\nMicrosoft research scientist Butler often encourages leadership to set aside intentional time for continuous learning for their engineers—even just an hour a week—without any expectation that they will produce code or progress in their daily work. “I realize that’s difficult,” says Butler. “I would encourage people to do it on their own, but I would really encourage organizations and leaders to do it, because you’re not going to get this sudden change in your people if they don’t have time and space to learn how to work differently.” \nThis also means providing enough instruction, Butler adds. When developers aren’t given enough guidance on adopting something new, while being pressured to increase productivity, they risk doubling down on the tools they already know and burning out. \n“I do imagine the next number of years could be challenging,” Butler says. Engineers will have to adapt to find their place in an evolving workforce—but they also have a say in shaping that future. \n“Being adaptable sort of implies that you’re going to change based on what’s happening around you, and I would really like people to realize the change that’s happening is somewhat up to us,” she says. All individuals have a choice in how they use AI, for instance, and which models they use. “We need to be adaptable and go with the flow to a degree, but we also need to be directing that flow. The future with AI is absolutely not predetermined.”\nThis article appears in the September 2026 print issue as “The Adaptable Engineer.”",
           "isoDate": "2026-08-24T14:00:01.000Z"
-        },
-        {
-          "title": "Building Technology People Can Trust",
-          "link": "https://spectrum.ieee.org/ai-connected-test-and-measurement-platforms",
-          "summary": "This article is brought to you by Emerson.\nI’ve spent much of my career as an engineer, including years in the semiconductor industry. And one lesson has stayed with me through every major technology shift: innovation always creates new complexity.\nIn semiconductors, we have seen that repeatedly. Every generation has delivered breakthroughs in performance and capability, but each step forward made it harder to understand system behavior. What used to be easy to validate on the component level with a test bench now needs a much wider view.\n  “The future of engineering will be defined by who can verify, understand, and improve complex systems fast enough to safely keep innovation moving forward,” says Ritu Favre, President of Emerson’s Test & Measurement business group.Emerson\nChiplet-based designs are a prime example. A chiplet from one supplier, an interposer from another, and a packaging process from a third may all perform perfectly on their own. Yet there is a chance for unexpected behavior when you put them together in a system. More and more often, the hardest engineering challenges are not in the individual components themselves. The problems are found when we start to combine components and have them interact with each other.\nThese challenges extend far beyond semiconductors. Products are becoming more software-defined and dependent on interactions across different technologies and environments. Think about the interactions needed for a modern car using adaptive cruise control on a bumpy road in a rainstorm. Or a passenger jet adjusting wing flaps and engine speeds in turbulent weather to maintain safety and stability. Both the car and the jet are being guided by complex computer systems with thousands of sensors leading to thousands of interactions every second. And in many cases, there are multiple computer systems working together. We are building systems of remarkable capability but understanding how they will act under real-world conditions is getting harder.\nThat is why I believe we are entering a new era of test. The defining challenge of modern engineering is no longer simply what we can design and build. It is what we can confidently verify.\nRethinking the Role of Test\nIn this new era, test can’t be an afterthought. For decades, test was treated as the final checkpoint before release. Design teams developed a product, test teams validated performance, and organizations looked for a final pass/fail to determine whether they were ready to move forward. That model worked fine when systems were more self-contained and predictable. Today, that approach can lead to more risk.\nI believe we are entering a new era of test. The defining challenge of modern engineering is no longer simply what we can design and build. It is what we can confidently verify.\nMany of the delays and fire drills we face come from issues that were not visible early enough. Problems discovered late in development are more difficult to diagnose, more expensive to fix, and more likely to get you off schedule. The solution is not more testing at the end. The solution is to make test and verification part of the engineering workflow from the start.\nWhen validation is integrated throughout development, teams catch problems early when change is easier. Test also stops being a barrier to release. Instead, it becomes a source of insight, helping us understand how systems behave as they become more connected.\nWhy Connected Platforms Matter\nWhen confidently verifying technology becomes the key challenge, the tools we choose take on a different level of importance. The tools have a direct impact on how quickly we can diagnose a problem and keep moving forward. In an environment where technology changes rapidly, disconnected tools get in the way of progress. Modern test strategy requires linking information across design, validation, and production, turning measurement data into decisions made quickly enough to keep pace with innovation.\nThis reminds me of when EDA was first introduced. Before it came along, engineers spent much of their time hand-drawing circuit layouts and placing transistors. EDA eliminated that tedious work by letting teams describe complex behavior in high-level code. It enabled them to focus on overall architecture instead.\nA connected test platform does a similar thing for validation. Because a platform can adapt and scale alongside technology, it cuts down on maintenance and downtime, keeping teams from having to rebuild their workflows from scratch as requirements change.\nGrounding AI in Engineering Reality\nToday, AI is rapidly entering the engineering toolkit to accelerate design and analysis. But in test and measurement, AI cannot reach its potential in isolation.\nAn AI model is only as effective as the data feeding it. Without context, even the smartest algorithm will struggle to tell the difference between normal hardware variance and a critical failure. A connected platform supplies the structured, traceable data stream AI requires to deliver real insight.\nAI can correlate complex multi-system interactions, flag unexpected behavior, and direct an engineer’s attention right at the root cause.\nWhen measurement data flows seamlessly across the workstream, AI moves from being a standalone tool to an active layer of intelligence. It can correlate complex multi-system interactions, flag unexpected behavior, and direct an engineer’s attention right at the root cause.\nEvery technology shift that accelerates how fast we create new designs also increases the complexity we must verify. AI can help teams keep pace with that complexity. Not by replacing human judgment, but by giving engineers the context we need to act with confidence.\nInnovation Demands Confidence\nUltimately, the goal of modern platforms and AI-enabled workflows is to help technical teams spend more time building new things and solving hard problems. Most of us didn’t choose this profession to spend our time searching for data or dealing with last minute surprises. We want to innovate and integrating test directly into development provides a better view of system behavior, allowing teams to focus on that innovation rather than managing complexity.\nThe future of engineering will not be defined by who can build the most advanced product or technology. It will be defined by who can verify, understand, and improve complex systems fast enough to safely keep innovation moving forward.\nThat is the new era of test. As the pace of innovation accelerates, every breakthrough creates new paths to failure, and test is how engineers find those failures before the real world does. In an increasingly complex world, that capability is becoming as important as innovation itself.\nInnovation has always required great engineering. And now, more than ever, it also requires confidence. Confidence that comes from knowing that we are not only building what is possible, but we are also building technology that people can trust.",
-          "isoDate": "2026-08-24T11:37:02.000Z"
         }
       ]
     },
@@ -324,12 +324,57 @@
       "maxItems": 120,
       "items": [
         {
-          "title": "RESULTADOS (EN DIRECTO)",
+          "title": "RESULTADOS (ÚLTIMOS)",
           "link": "",
           "summary": ""
         },
         {
-          "title": "REA  0-0  REA",
+          "title": "REA  4-1  REA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "VAL  0-1  REA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "MÁL  1-1  DEP",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "OSA  0-0  LEV",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "ELC  0-5  BAR",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "GET  1-0  SAN",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "ATL  2-2  VIL",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "ESP  1-2  REA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "VAL  0-0  CEL",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "ATH  1-3  SEV",
           "link": "",
           "summary": ""
         },
@@ -344,27 +389,27 @@
           "summary": ""
         },
         {
-          "title": " 1  SEV   2   2  0  0   5   2   3   6",
+          "title": " 1  REA   2   2  0  0   6   2   4   6",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 2  REA   2   2  0  0   2   0   2   6",
+          "title": " 2  SEV   2   2  0  0   5   2   3   6",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 3  ALA   2   1  1  0   4   1   3   4",
+          "title": " 3  REA   2   2  0  0   2   0   2   6",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 4  ATL   2   1  1  0   4   2   2   4",
+          "title": " 4  ALA   2   1  1  0   4   1   3   4",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 5  REA   2   1  1  0   2   1   1   4",
+          "title": " 5  ATL   2   1  1  0   4   2   2   4",
           "link": "",
           "summary": ""
         },
@@ -414,32 +459,32 @@
           "summary": ""
         },
         {
-          "title": "15  REA   2   0  1  1   0   1  -1   1",
-          "link": "",
-          "summary": ""
-        },
-        {
           "title": "15  VAL   2   0  1  1   0   1  -1   1",
           "link": "",
           "summary": ""
         },
         {
-          "title": "17  MÁL   2   0  1  1   1   3  -2   1",
+          "title": "16  MÁL   2   0  1  1   1   3  -2   1",
           "link": "",
           "summary": ""
         },
         {
-          "title": "18  LEV   2   0  1  1   0   3  -3   1",
+          "title": "17  LEV   2   0  1  1   0   3  -3   1",
           "link": "",
           "summary": ""
         },
         {
-          "title": "19  ELC   2   0  1  1   1   6  -5   1",
+          "title": "18  ELC   2   0  1  1   1   6  -5   1",
           "link": "",
           "summary": ""
         },
         {
-          "title": "20  ATH   1   0  0  1   1   3  -2   0",
+          "title": "19  ATH   1   0  0  1   1   3  -2   0",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "20  REA   2   0  0  2   1   5  -4   0",
           "link": "",
           "summary": ""
         }
