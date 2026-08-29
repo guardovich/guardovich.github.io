@@ -1,10 +1,34 @@
 {
-  "generatedAt": "2026-08-29T12:20:54.512Z",
+  "generatedAt": "2026-08-29T20:28:01.557Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Sony Music and Warner Chappell are suing Anthropic",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+          "summary": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance when identifiable copyright data was stripped. In total, the damages could amount to several billion dollars if a court finds in Sony and Warner's favor and awards the maximum amount.  \nThis is just the latest high-profile suit against Anthropic, which recently settled a suit brought by the publishing industry for $1.5 billion. It's also faced multiple lawsuits from …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-29T18:19:53.000Z"
+        },
+        {
+          "title": "Distraction-free writing gadget BYOK is adding custom extensions",
+          "link": "https://www.theverge.com/gadgets/986427/distraction-free-writing-gadget-byok-scripts-extensions",
+          "summary": "BYOK is a no-frills, single-purpose gadget that 90 percent of people will find absolutely frivolous. But for those who spend a significant chunk of their lives putting words to virtual paper, there is an obvious allure. Personally, I think it's at its best when you just stick to the bare minimum, focusing on pure text drafting. Certain users, though, need more. They want BYOK to take notes, they want to use it for writing screenplays, or maybe they want to organize a sprawling novel. \nBalancing the wants and needs of these more demanding users has been a challenge that BYOK founder Nick Sjolinder has been trying to figure out how to tackle. …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-29T16:01:13.000Z"
+        },
+        {
+          "title": "Welcome to Night Vale cocreator Joseph Fink learned storytelling from Grim Fandango ",
+          "link": "https://www.theverge.com/entertainment/983448/welcome-to-night-vale-cocreator-joseph-fink-learned-storytelling-from-grim-fandango",
+          "summary": "10 out of 10 beard. | Photo: Ben Mekler\t\n\nJoseph Fink is the cocreator and cowriter of Welcome to Night Vale, arguably the most important fiction podcast ever. He's also the creator of the noir podcast Unlicensed and Alice Isn't Dead, which takes some of the conspiratorial cosmic horror of Night Vale and turns it into fodder for a more serious series about relationships, trauma, and the open road. There's also a sequel series out now called Don't Tell Alice that takes the story down an even darker path in which protagonist Keisha is the one with a secret.\nJoseph is also an accomplished author. In addition to co-writing the three Welcome to Night Vale novels, he's also penned the Al …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-29T15:00:00.000Z"
+        },
+        {
+          "title": "The Galaxy Z Flip 8 is at its best when there’s friction",
+          "link": "https://www.theverge.com/tech/986033/samsung-galaxy-z-flip-8-review",
+          "summary": "The Z Flip 8 is designed to be used shut more than ever before. | Photo: Dominic Preston / The Verge\t\n\nWhat do you want from a flip phone when it's closed? A simple interface, perhaps notifications and a widget or two, for handling the basics? Or a fully fledged Android experience shrunk down for the Flip form factor? For years, Samsung has insisted on the former, even as some fans - and Razr rival Motorola - have pushed for the latter. With the Galaxy Z Flip 8, Samsung has given in.\nAlthough the Z Flip 8's hardware is almost unchanged year-on-year, Samsung has fundamentally rethought how this phone is meant to be used when shut. The cover screen feels more like a regular Android phone, with easier access to the full versions of every single …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-29T13:00:00.000Z"
+        },
         {
           "title": "Musicians-turned-detectives are hunting for AI grifters",
           "link": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
@@ -40,30 +64,6 @@
           "link": "https://arstechnica.com/tech-policy/2026/08/cities-terminate-flock-contracts-at-record-pace-in-august/",
           "summary": "Cancellations have accelerated.",
           "isoDate": "2026-08-28T21:33:54.000Z"
-        },
-        {
-          "title": "\"RFK Jr. has lied to the Senate\": Lawmakers call for criminal probe, ouster",
-          "link": "https://arstechnica.com/health/2026/08/rfk-jr-has-lied-to-the-senate-lawmakers-call-for-criminal-probe-ouster/",
-          "summary": "RFK Jr. went to Samoa to spread vaccine fears. The measles outbreak after killed 83.",
-          "isoDate": "2026-08-28T21:17:38.000Z"
-        },
-        {
-          "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
-          "link": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
-          "summary": "Anthropic refused to support lethal autonomous warfare and mass surveillance.",
-          "isoDate": "2026-08-28T18:07:55.000Z"
-        },
-        {
-          "title": "Here's what we know about the \"space academy\" Trump just announced",
-          "link": "https://arstechnica.com/space/2026/08/trump-calls-for-creation-of-a-space-academy-to-train-future-nasa-leaders/",
-          "summary": "\"It's called the US Space Academy. That's a big deal.\"",
-          "isoDate": "2026-08-28T17:36:30.000Z"
-        },
-        {
-          "title": "Apple One and Apple TV subscription prices increase by up to 20 percent",
-          "link": "https://arstechnica.com/gadgets/2026/08/apple-one-and-apple-tv-subscription-prices-increase-by-up-to-20-percent/",
-          "summary": "Annual Apple TV subscriptions get the biggest bump.",
-          "isoDate": "2026-08-28T17:23:53.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-08-29T12:20:51.721Z"
+          "isoDate": "2026-08-29T20:27:58.200Z"
         },
         {
           "title": "Matt Lucas and Hugh Bonneville among actors calling for law on AI voice cloning",
@@ -273,13 +273,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-08-29T12:20:53.960Z"
+          "isoDate": "2026-08-29T20:28:00.830Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-08-29T12:20:52.630Z"
+          "isoDate": "2026-08-29T20:27:59.736Z"
+        },
+        {
+          "title": "Noodling on Nuclear Engines",
+          "link": "https://spectrum.ieee.org/bimodal-nuclear-engine",
+          "summary": "One day in 1982, Joseph “Rod” Canion and two colleagues from Texas Instruments sat down at the House of Pies in Houston and used a napkin to sketch out what would become Compaq’s portable PC. In 1996, Felix Zandman, founder of Vishay Intertechnology, dined at Husker Steak House in Columbus, Neb., grabbed a napkin and drafted a design for a power metal strip resistor, which became crucial to power-management components in industrial, automotive, and consumer applications. Now that wispy piece of paper resides at the Smithsonian’s National Museum of American History. Perhaps most famously, Robert Metcalfe, working at Xerox PARC in 1973, roughed out some early designs for what would become the [?] Ethernet, though contrary to popular belief, no napkin was involved. \nYet another napkin was pressed into service last year, when Kurt Polzin, chief engineer of the space nuclear propulsion project at NASA’s Marshall Space Flight Center, met Robert Schleicher of General Atomics Electromagnetic Systems at a conference and started talking about nuclear rocket design. \n“They did the classic let’s-sketch-out-an-idea-on-a-napkin,” says IEEE Spectrum’s Special Projects Editor and our in-house spaceflight expert Stephen Cass. “This rocket engine is still at the paper-planning stage, which, to be fair, is where most of NASA’s humans-to-Mars planning has been for the last 60 years.”\nMeanwhile, the world’s richest person is pushing for humans to colonize Mars in time for him to escape our hospitable blue marble for a completely barren red planet. One big problem with this idea: It takes a long time in hostile space to get there. \n“Here’s our napkin. Noodle on this with us and tell us what you think.” —Stephen Cass\nThere’s an old saw, mostly used in the context of road safety, that speed kills. But when it comes to sending humans on interplanetary missions, the faster the better. As Cass pointed out, “Once you get outside the Van Allen belts, there’s so much natural radioactivity—that’s the real killer.” Nuclear electric propulsion could both minimize launch costs and the time fragile human bodies are subjected to microgravity and radiation. And that makes a synchronal bimodal nuclear engine that could both power and propel a spaceship an attractive alternative to a conventional rocket.\nPolzin and Schleicher think their nuclear engines could halve the time it takes to get to Mars. There may be ways to tweak the design to go even faster and further. But for now, the idea sits on the drawing board, awaiting feedback and refinement. \n“They’re pulling together a lot of fairly mature technology,” says Cass, who edited Polzin and Schleicher’s article, “A Reimagined Nuclear Rocket.” “Electric propulsion is mature. Nuclear thermal propulsion is not, but thanks to [previous efforts], we have a good idea how to do it. The new part is merging them together, and that of course throws up its own challenges.”\nThanks to Cass and illustrator John MacNeill, Polzin and Schleicher’s idea has moved from a napkin to the pages of this month’s issue. Says Cass, “The whole point of the article is to say, ‘Here’s our napkin. Noodle on this with us and tell us what you think.’” We invite you to do so in the comments beneath the web version of this article. Or do it the old-fashioned way and mail the authors your own napkin.",
+          "isoDate": "2026-08-29T15:35:01.000Z"
         },
         {
           "title": "Oscar Winner Brings Monsters to Life With His Simulation Software",
@@ -310,12 +316,6 @@
           "link": "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm",
           "summary": "At the height of the Cold War, one very specialized computer was so secret that the world didn’t know it existed. It ran its jobs up to 200 times as fast as any other computer of its time. It was the U.S. National Security Agency’s main cryptographic processor in operation from the time of the Cuban Missile Crisis in 1962 through the Vietnam War and on past the 1975 Helsinki Accords. The machine stopped running only when its moving parts finally gave out.\n\nThe Harvest computer mattered because of what it was as well as when it ran. For 14 years, it was the engine processing the NSA’s most sensitive intercepts at a time when signals intelligence was as close to a strategic weapon as anything short of a warhead.\nDesigned and built by IBM for the NSA, Harvest was one of the first machines designed to apply operations to enormous datasets rushing past, a precursor to the computers today that manage continuous video streams and security systems in real time. It was also one of the first machines built as an add-on—a specialized helper intended to do one job exceptionally well, bolted onto a general computer. Harvest’s modular design is like a 1960s version of today’s graphics chips that CPUs use to run intensive video-game and AI processing loads.\nAll that raw processing power meant that Harvest also needed nonstop rivers of data to run on. And that led to another pioneering achievement: the world’s first automated tape library that could robotically fetch any one of hundreds of large cassettes of magnetic tape from the machine’s racks.\nGiven Harvest’s unprecedented processing and storage capacity, the machine’s designers naturally needed to rethink how their system handled information. So IBM wrote a customized programming language called Alpha to let code breakers rigorously describe cryptographic problems, just as scientists at the time were using the emerging language Fortran to describe equations and data-processing algorithms.\n  In Fort Meade, Md., an NSA data center hosted one of the world’s fastest computers of its time—although not often discussed, because of its sensitive, high-security code breaking and cipher hunting work. National Cryptologic Museum  \nThe story of Harvest, pieced together from declassified documents and contemporary manuals and technical overviews, provides a new and unexpected vista on the history of computing. It also offers a case study in how national security needs, especially during the Cold War, pushed computer technology beyond the far reaches of what unclassified, civilian computing could achieve. Harvest’s distinctive history reveals a visionary algorithmic, coding, memory, and hardware architecture occasionally decades ahead of its time. But this machine was also built only once, for one singular purpose, and then ultimately quietly retired.\nThe Heart of NSA’s Secret Machine\nIBM’s landmark 1960 transistorized mainframe, the IBM 7030, better known as Stretch, provided the front end for Harvest (which was officially known as the IBM 7950). IBM delivered Stretch to eight or nine customers, mostly scientific research labs, from 1961 through ’63. Designed and prototyped throughout the second half of the 1950s, Stretch introduced the now standard notion of an 8-bit byte. For its first three years of operation, Stretch was the non-classified world’s fastest computer, although it failed to meet IBM’s aggressive goal of running 100 times as fast as Stretch’s predecessor, the IBM 704. While IBM engineers in Poughkeepsie, N.Y., were designing and building Stretch, the company was also quietly discussing a new system that would be built for NSA.\nAt the time, NSA’s existing cryptanalytic computers—large, batch-processing machines that required human operators to manually stage each tape run—were struggling to keep pace with the sheer volume of intercepted message traffic coming in from around the globe. What the agency needed was a machine that could process an unbroken river of incoming data, automatically, around the clock. That requirement alone profoundly shaped Harvest’s design.\n  IBM’s Harvest system, custom-built for the NSA for code breaking, paired the IBM 7030 Stretch mainframe with a bespoke data-stream processor. Stretch handled ordinary computing and input/output, including the Tractor automated tape library. Both units shared two kinds of memory: a large main bank and a smaller, faster bank. When Stretch switched to streaming mode, Harvest drew two streams of data, P and Q, from memory, processed them in parallel, and returned the results as a third stream, called R.              Chris Philpot         \nAfter two failed proposals to NSA, in 1958 IBM finally landed the contract: a Stretch-based machine, augmented by a custom coprocessor, with a revolutionary tape-based storage system, called Tractor.\nStretch’s forte was floating-point math for scientific computations. IBM had designed it primarily for labs working on frontier research like nuclear weapons design and weather prediction. By contrast, the custom coprocessor to be built atop Stretch would help NSA analysts sift through alphanumeric characters—that is, essentially integer data.\nHarvest’s coprocessor was the opposite of a general-purpose system. It was, rather, a streaming computer. Instead of executing long series of instructions, it followed one fixed sequence of steps and applied that same sequence to every pair of characters as they streamed past. Harvest shared memory with the main Stretch processor and ran in bursts. Either Stretch was operating, or else it suspended itself while Harvest’s coprocessor shot through data in memory at extreme speeds.\nStretch and Harvest were among the first large computers built entirely from transistors packaged in circuit cards and housed in large, refrigerator-size frames. A 1962 technical manual about Stretch describes the machine’s CPU as divided into functional sections—the instruction unit, the look-ahead unit, the (parallel and serial) arithmetic unit, and the memory bus unit. Harvest inherited Stretch’s basic circuit design but then added something unconventional: Its streaming units processed data in overlapping stages called a pipeline. So while one pair of data bytes was being compared, the next pair was being fetched from memory.\nHarvest’s coprocessor operated by fetching two streams of data, called P and Q, from the system’s memory, performing operations on them, then writing the results to memory as a third stream, R. Each stream could be anywhere from 1 to 8 bits wide. Harvest’s memory was bit-addressable, meaning word boundaries could be ignored entirely. For instance, it could fetch just 5 bits rather than filling out a whole byte. Streams P, Q, and R included flexible provisions for looping and addressing data in complex patterns—allowing, for example, repeated fetching of short strings from memory.\nData from P and Q fed into two functional units. The simpler was the logic unit, which performed basic, bitwise operations—the same operations any programmer would recognize today—and wrote its results back to memory. The more complex was a table-lookup unit. It combined incoming data from P and Q to form an address in memory, which could then be used to advance a counter by one, set a specific bit, or retrieve a stored value. The latter unit functioned, in effect, like the rotor wheel inside a cipher-encoding/decoding machine of the era, the kind that electronically substituted one value for another according to the cipher machine’s wiring.\nHarvest’s complexity baffled some at the NSA. During employee tours, according to James Bamford’s 2001 NSA history, Body of Secrets (Doubleday), officials would point to the machine and scoff, “It’s beautiful, but it doesn’t work.”\nNot everyone at the agency was put off by the monumental device, however. One of the few documented examples of Harvest at work, recounted by Bamford, describes the machine searching 3.5 billion characters of text for any of 7,000 target terms, in just under 4 hours.\nIn unclassified remarks from 1972, NSA analyst Robert Looney mentions one job Harvest had tackled—though he didn’t specify the end goal or the code-breaking effort behind it. Codenamed “Moretown,” the job involved sifting through 11 million messages spanning 16 years of intercepted traffic against a list of some 8,000 search terms—all in about ten hours.\n  IBM’s Frances Allen helped design Alpha, Harvest’s custom-built programming language.IBM\n  IBM’s James H. Pomerene was chief engineer of Harvest, supervising its custom-designed circuits that’d been optimized for algorithms used in many cryptographic jobs.IEEE\n  IBM’s Fred Brooks Jr. was a key co-architect of Harvest’s hardware system.  Computer History Museum  \nAs a unified system, Harvest—that is, Stretch plus IBM’s custom-built streaming processor add-on—streamed 1 byte every 0.3 microseconds, and it boasted about 800 kilobytes of addressable memory.\n“Here you see one bank pulled out of its oil bath,” Looney said in his 1972 remarks celebrating Harvest’s tenth anniversary of operations. He held up a photo of Harvest’s magnetic core memory banks—six of them, submerged in oil for cooling.\nFactor in the time demands of various data fetches from Tractor’s tape archives, and a single Harvest “instruction” sometimes carried on, without needing any human intervention, for hours.\n“It was quite an amazing computer,” recalled IBM Fellow Emerita Frances Allen in a 2001 oral history. “One instruction, for example, could do sorts, and do statistical analysis of the data that was streaming by it.… Everything we were doing at that time was on the cutting edge. There was no question about it.” \nAllen, who received the A.M. Turing Award in 2006, was one of the developers who worked on both Stretch and Harvest. At the time she started working on Harvest, Allen noted, the Fort Meade, Md.–based NSA was largely unknown outside of classified intelligence circles. So she at first assumed she was working on an unspecified naval project. “We thought of ourselves as working for the Bureau of Ships, because that was the code name for NSA in the budget!” recalled Allen, who died in 2020.\nOther key Harvest designers and early developers wound up becoming influential figures over the course of computing history. Frederick Brooks Jr., recipient of the 1999 Turing Award and a major contributor to the hardware and software for IBM’s System/360, also helped develop Harvest. And James Pomerene, prior to his involvement with Harvest as its chief engineer, had previously helped build the pioneering IAS computer alongside John von Neumann.\nHow Tractor Stored a World of Data\nIBM built the Tractor tape system (IBM 7955) to attach to the same Stretch machine that hosted Harvest, because no existing data storage technologies could keep up with the computer’s staggering throughput. Stretch handled the business of staging tapes from the library to the drives—using Tractor’s automated cassette handler. Stretch also coordinated reading data in from Tractor and writing  results back out from Harvest. Harvest, in turn, did all its actual computing on the system’s shared main memory.\nIn the early 1960s, and even after Tractor and Harvest were installed, hard-drive data storage was in its infancy. For code-breaking jobs of the size Harvest was taking on, disk storage would have been impractical in terms of both cost and sheer floor space. So Tractor had to be based around tape storage.\nEach tape was sealed inside a case built like a boombox—twin encased reels under a window, carried by a handle—and, at 6 to 7 kilograms, about as heavy as a bowling ball. Think of a Tractor cassette as an outsize predecessor of the audiocassette, which would come along a decade later, and holding some 120 megabytes of data on a reel of tape 550 meters long. Each storage unit housed up to 160 of these cassettes.\n  An IBM technician holds one of the data cassettes used with Harvest’s automated Tractor tape drives.  IBM         \nWhen Harvest launched in 1962, it had three automatic cartridge units, each serving two drives. So the available online storage across the three Tractor units totaled a stunning 44 gigabytes. That’s more than 190 times as much capacity as the IBM 2314 disk storage system, announced in 1965, which held 233 megabytes across its full complement of eight drives.\nTractor had to run continuously, swapping cassettes in and out, 24 hours a day, seven days a week. The system’s tape-handling speed was tuned to keep pace with Harvest’s own appetite for data. The  custom-built robotic mechanism for retrieving the cassettes was a servo-driven arm that traversed the system’s storage racks. It fetched a cassette from its slot and delivered it to a handler or received a cassette from one of the handlers and returned it to storage.\nRunning at 6 meters per second, Tractor’s tapes zipped past the read/write heads faster than the eye could track. Software running on Stretch handled the cassette shuttling as well as reading and writing. For one of Tractor’s drives to move from the completion of processing one tape to reading the next took about 18 seconds, assuming it had already been fetched and was ready to mount. Robotically fetching a cassette from the storage unit and preparing it for reading required no human handling or input whatsoever.\nIn addition to Tractor, the system had standard reel-to-reel tape drives attached to Stretch. Harvest’s technicians often used the conventional drives for importing and exporting data to and from other systems; there was no other practical way to get large datasets into or out of Harvest. Tractor could also store permanent files and retrieve them directly from its tape libraries when a job required them. In other words, Tractor’s substantial cassette libraries acted both as permanent data storage and as a place to hold transient data for processing by Harvest.\nNo system in the commercial computing world of 1962 came close to Tractor’s gigabytes of simultaneously accessible data. At most computer centers at the time, “available” data meant physical racks of tape standing somewhere near its drives—accessible only as rapidly as an operator could manually pull a reel and thread it onto a machine, one at a time, over the course of a shift.\nAlpha Was Harvest’s Custom-Built Programming Language\nCreated jointly by IBM and NSA, the Alpha language existed solely to program Harvest’s streaming dataflow engine for code-breaking work. According to a declassified Pentagon history of NSA computers, Alpha stood for Advanced Language for Programming Harvest.\nAlpha allowed the programmer to define the alphabet in which code-breaking data would be processed. The language also included two unusual characters with no equivalent in conventional computing until years later, when Multics and Unix introduced wildcard characters. A “scab” (which was represented on Harvest’s input keyboard, a repurposed early IBM Selectric typewriter, by a “?”) stood for a character that was real but unknown. And a “pad” (represented by a blank space) was a null or spacer. These characters provided flexibility of representation for code breaking jobs, in which unknown or uncertain characters were commonplace.\n  A Harvest operator types on one of the main system consoles, a repurposed IBM Selectric typewriter.IBM \nThe rules governing Alpha’s operations on strings anticipated other modern rubrics, like “not a number”—a designation describing an unknown value in a dataset that can propagate through calculations, rather than silently corrupting them. Strings in Alpha could also be aggregated into cords, and cords into ropes, giving cryptanalysts a hierarchical vocabulary for describing complex intercepts.\nAllen wrote a final technical report on her section of the Harvest software when her part of the project concluded—and just as promptly lost access to it. “I spent the good part of a summer on that,” she recalled in 2001. “And it just disappeared into Fort Meade somewhere.”\nReplacing an Irreplaceable Machine\nBy 1971, according to NSA analyst Looney, the machine was running at its highest utilization ever—115 hours of production a week, or more than two-thirds of the time. Yet the number of jobs it processed had been dropping since 1967. Ordinary data-processing work, Looney noted, was by 1972 migrating to newer, general-purpose machines, leaving Harvest to concentrate on the very large, specialized jobs no other system could handle.\nAt its tenth anniversary of operations, Looney concluded, Harvest was a machine “conceived in the fifties, born in the sixties, and irreplaceable in the seventies.”\nHe got the last part wrong.\nOn 27 February 1976, operators shut down Harvest for the last time. A custom mechanical component in the Tractor tape library had worn out, and the manufacturer of  the part was no longer in business. By then Harvest had run continuously for nearly a decade and a half—through the roughest close call in the history of mutually assured destruction and into the age of détente—processing intercepts at a rate no civilian machine could touch. By the time it retired, Harvest had outlived several generations of commercial computing.\n  A placard commemorates the 1976 decommissioning of IBM’s Harvest computer at the NSA’s headquarters in Fort Meade, Md.  National Cryptologic Museum \nSomebody at the NSA decided to commemorate the machine with a mock telegram, written under Harvest’s name on the machine’s last day (and now preserved in the agency’s archives). “I first began operations at NSA. Although not widely known, I was probably the largest, fastest, and most technically advanced computer system in the world,” the telegram said. “And now, fourteen years later, the time to retire has come. The cost of my upkeep and operation has been overtaken by more modern equipments and the newer technologies.”\n The NSA ultimately replaced Harvest with the landmark Cray-1 supercomputer. The Cray-1 was built from faster, more tightly integrated circuits that could outperform Harvest’s aging transistors at nearly any task, including text processing. Although the Cray was designed primarily for numeric and scientific computing, it sold across many fields—which ultimately made the supercomputer win out once Harvest’s custom-built text-processing hardware was no longer worth the upkeep for just one customer.\nThe secrecy that shrouded Harvest meant it could claim no lineage of immediate successors. But the ideas it pioneered didn’t disappear—they resurfaced, again and again, in the years that followed.\nTractor’s automated tape library was the forerunner of the robotic storage silos that would become standard in enterprise data centers about 20 years later. Harvest’s pipeline architecture prefigured the dataflow computing movement of the 1980s. The continuous pattern-detecting logic of its match units finds direct echoes in modern hardware packet-inspection intrusion detectors and programmable network switches that today route traffic through the internet at wire speed.\nHarvest didn’t found a dynasty. But, in its time, it steadfastly pointed toward the future—in several directions at once. \nThis article appears in the September 2026 print issue as “The Lost History of IBM’s Cold-War Code Breaker.”",
           "isoDate": "2026-08-25T13:00:01.000Z"
-        },
-        {
-          "title": "AI Companion Robots Are Closing the Human Connection in Modern Homes",
-          "link": "https://spectrum.ieee.org/ollobot-ai-companion-robot",
-          "summary": "This article is brought to you by Ollobot.\nFrom about 2017, individuals began to truly connect with the initial wave of companion robots. These devices had personality, moved around, joked, and answered when you spoke to them. Most early companion robots, however, were still limited by simple voice-command interactions and narrow functionality. Once the novelty wore off, many ended up sitting unused on shelves. As some of those companies went out of business and turned off their servers, many owners likened it to losing a pet.\nWhat Ollobot describes as “gentle intelligence” is a useful way to think about where the serious work in this category is going. Not toward more powerful assistants, but toward more present ones.\nThe problem companion robots were trying to solve\nLoneliness is not a niche issue. According to one study, nearly one out of three elderly adults resides alone, meaning they do not have daily companions. Research also shows that children whose parents have migrated for work, leaving them in the care of relatives, were 2.5 times more likely to experience loneliness than children whose parents remain with them. Among working adults living alone in urban environments, similar patterns of social isolation emerge, even if they are less visible.\nOver the years, technology has time and again attempted to solve this problem via video calls, smart speakers, and messaging apps without much success. Those tools are geared towards communication between people that already have relationships. They do not create presence. They schedule it. That is the gap that a new generation of AI companion robots is being engineered to fill.\nToday’s AI robots are different\nToday’s companion robots are not just cute and cuddly. They are designed with psychological research, clinical insight and long-term interaction models to be truly useful in real homes.\nThree fundamental shifts define the current generation:\n\nFrom reactive to proactive response. Older robots relied on you speaking to them, but modern robots monitor a room with cameras, microphones, and surroundings sensors to initiate interactions without your input, and they can pick up on your emotions.\nFrom function-oriented to emotion-oriented design. The original pitch for companion robots was about what they could do. The question driving the serious work now is how they make you feel, which is a harder engineering problem and a more honest framing of what the product is actually for.\nFrom standalone hardware to connected ecosystems. Leading brands are creating platforms rather than devices with software included as a built-in layer and remote access from the beginning.\n\nThe global AI companion market size was valued at US $36.8 billion in 2025 and is projected to grow from $48 billion in 2026 to $318 billion by 2033, at a compound annual growth rate of 31 percent from 2026 to 2033.\n\nThree household scenarios and interaction models\nOllobot’s advanced AI family companion robot OlloNi SS1 addresses a number of gaps in what existing technology offers.\nElderly individuals living alone. The combination of proactive interaction, fall detection, and persistent presence addresses both safety and companionship without the social overhead of asking family members to check in more frequently.\nChildren in households where parents work far from home. The SS1 functions as a consistent companion that already knows a child, their preferences, their moods, and their routines. The remote connection features allow parents to stay present without requiring a scheduled call, and the life recording system gives them a passive window into their child’s days that feels less clinical than a monitoring camera.\nSingle professionals living alone in cities. The SS1 adapts to daily routines, builds up a preference model over time, and provides ambient social presence without demands.\n  OlloNi SS1 adapts to daily routines over time.Ollobot\nWhat OlloNi SS1 is doing differently?\nOllobot’s goal in building intelligent companion robots is to address the gaps in technology and capability, using innovation not to automate tasks but to fill emotional voids.\nMuch of the robotics industry has historically pursued human imitation — machines that speak, look, or behave like people. The SS1 is instead designed around familiarity and long-term coexistence rather than realism.\nThe system integrates multiple subsystems operating in parallel, including visual perception, audio processing, mobility control, and interaction management. It is equipped with a multi-chip AI 4K vision module capable of facial recognition and motion tracking. One small but revealing detail is the inclusion of a physical privacy cover for the camera — a mechanical solution to concerns that software settings alone may not fully resolve.\n  OlloNi SS1 can actively integrate into family activities, and it can autonomously move closer to capture memorable moments or reposition itself to remain engaged in ongoing interactions.Ollobot\nThe robot supports advanced mobility across multiple indoor surfaces, including wooden floors, ceramic tiles, and low-pile carpets, with slope climbing capability up to 3.5 degrees. Rather than remaining in a fixed location, it can move naturally throughout the home to stay close to household members as daily activities unfold. \nFor example, the OlloNi SS1 may greet family members when they arrive home, follow an older adult from the living room to the kitchen while continuing a conversation, remind a child to take a study break after a prolonged period of inactivity, or notice that someone appears unusually quiet and gently check in. During family activities, it can autonomously move closer to capture memorable moments or reposition itself to remain engaged in ongoing interactions.\nThe robot continues to evolve over time, with over-the-air updates that deliver new features, performance improvements, and AI enhancements\nIt also incorporates fall detection with optimized accuracy for safety monitoring scenarios. A 6-microphone array enables omnidirectional voice pickup with an effective voice capture range of up to 5 meters, supporting reliable wake-word detection and far-field interaction.\nTo support continuous companionship, much of the robot’s AI processing takes place directly on the device through its “heart module” architecture, with 16 GB of memory and 64 GB of local storage. This enables the system to retain household memories, recognize familiar faces, and respond with lower latency, making interactions feel more natural even during everyday routines.\nBecause companion robots are expected to remain available throughout the day rather than only during brief interactions, the SS1 is designed for extended operation, offering up to 12 hours of standby time and around 5 hours of active interaction on a single charge. This allows it to accompany users through meals, conversations, playtime, and other daily activities without frequent interruptions.\n  To support engaging interactions, much of the robot’s AI processing takes place directly on the device through its “heart module” architecture.Ollobot\nLike the relationships it is designed to build, the robot continues to evolve over time. Running on Android OS with over-the-air (OTA) updates, the system continuously receives new features, performance improvements, and AI enhancements, allowing its capabilities to grow alongside the household it serves.\nThe robot’s behavioral model also improves over time. Rather than reacting to isolated commands, it attempts to establish a baseline understanding of household routines and individuals. Changes in behavior — prolonged quietness, unusual inactivity, or emotional cues — become triggers for interaction.\nPresence instead of utility\nSeveral features in the OlloNi SS1 illustrate this emphasis on presence and continuity in its interactions.\nThe system can identify different household members, including pets, and adapt responses accordingly. Remote communication features allow family members to connect through the device without treating every interaction like a scheduled call. Environmental sensors support contextual reminders tied to weather or room conditions.\nIts “2+1” multi-display configuration is also designed around emotional communication. Two circular side displays function as expressive “emotional eyes,” while a separate primary display handles information and structured interaction. The separation allows emotional signaling and functional communication to operate independently, creating more intuitive nonverbal interaction even when no dialogue is taking place.\n  The robot’s behavioral model improves over time. Rather than reacting to isolated commands, it attempts to establish a baseline understanding of household routines and individuals.Ollobot\nThe SS1 also includes an automated life-recording system built on facial recognition and behavioral-event detection that can capture moments such as laughter, physical closeness, or group interaction automatically. An integrated AI vlog engine can then organize those moments into edited short-form videos with automated sequencing and soundtrack generation. The design intent is to preserve spontaneous domestic moments without requiring active documentation behavior from users.\nAn integrated AI vlog engine can organize recorded moments into edited short-form videos with automated sequencing and soundtrack generation\nVisual data is processed primarily on the device through the SS1’s on-device AI architecture, with household memories stored locally and managed within Ollobot’s proprietary ecosystem instead of being shared with third-party smart home platforms. Access to recordings and live feeds is restricted to authorized users through the companion app, while encrypted communication helps protect data during remote access. Users also retain direct control over recording preferences, and the physical camera privacy cover provides an additional hardware-level safeguard whenever visual monitoring is not desired.\n\n \nLearn more at ollobot.com.\n\nRemote communication is similarly structured around persistence rather than transaction. Traditional video calls are episodic and screen-bound; the SS1 instead acts as a continuously present interface embedded inside the household environment. Through autonomous mobility, environmental awareness, and persistent household memory, remote family members interact with an ongoing domestic context.\nThe larger shift to “gentle intelligence”\nUltimately, gentle intelligence is not about making robots behave more like humans — it is about helping them fit more naturally into human lives. Each OlloNi SS1 unit develops a unique behavioral profile based on its household. Two units running in different homes for a year will have become meaningfully different from each other, shaped by the specific people, habits, and rhythms of where they live.\nThat kind of long-term personalization is what early companion robots never had. It is also what makes the difference between a product that ends up on a shelf and one that actually earns its place in a home.\nLearn more at ollobot.com.",
-          "isoDate": "2026-08-25T10:00:03.000Z"
         }
       ]
     },
@@ -324,57 +324,12 @@
       "maxItems": 120,
       "items": [
         {
-          "title": "RESULTADOS (ÚLTIMOS)",
+          "title": "RESULTADOS (EN DIRECTO)",
           "link": "",
           "summary": ""
         },
         {
-          "title": "ALA  1-0  VIL",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "SAN  3-2  ELC",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "BAR  2-0  ATH",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "CEL  1-2  OSA",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "REA  4-1  REA",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "VAL  0-1  REA",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "MÁL  1-1  DEP",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "OSA  0-0  LEV",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "ELC  0-5  BAR",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "GET  1-0  SAN",
+          "title": "SEV  0-3  ATL",
           "link": "",
           "summary": ""
         },
@@ -389,32 +344,32 @@
           "summary": ""
         },
         {
-          "title": " 1  ALA   3   2  1  0   5   1   4   7",
+          "title": " 1  ATL   3   2  1  0   7   2   5   7",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 2  BAR   2   2  0  0   7   0   7   6",
+          "title": " 2  ALA   3   2  1  0   5   1   4   7",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 3  REA   2   2  0  0   6   2   4   6",
+          "title": " 3  BAR   2   2  0  0   7   0   7   6",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 4  SEV   2   2  0  0   5   2   3   6",
+          "title": " 4  REA   2   2  0  0   6   2   4   6",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 5  REA   2   2  0  0   2   0   2   6",
+          "title": " 5  SEV   3   2  0  1   5   5   0   6",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 6  ATL   2   1  1  0   4   2   2   4",
+          "title": " 6  REA   3   2  0  1   4   5  -1   6",
           "link": "",
           "summary": ""
         },
@@ -424,67 +379,67 @@
           "summary": ""
         },
         {
+          "title": " 8  LEV   3   1  1  1   5   5   0   4",
+          "link": "",
+          "summary": ""
+        },
+        {
           "title": " 8  SAN   3   1  1  1   5   5   0   4",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 9  ESP   2   1  0  1   4   2   2   3",
+          "title": "10  ESP   3   1  0  2   5   4   1   3",
           "link": "",
           "summary": ""
         },
         {
-          "title": "10  GET   2   1  0  1   1   3  -2   3",
+          "title": "11  GET   2   1  0  1   1   3  -2   3",
           "link": "",
           "summary": ""
         },
         {
-          "title": "11  DEP   2   0  2  0   2   2   0   2",
+          "title": "12  REA   3   1  0  2   3   6  -3   3",
           "link": "",
           "summary": ""
         },
         {
-          "title": "12  VIL   3   0  2  1   4   5  -1   2",
+          "title": "13  DEP   2   0  2  0   2   2   0   2",
           "link": "",
           "summary": ""
         },
         {
-          "title": "13  RAY   2   0  1  1   2   3  -1   1",
+          "title": "14  VIL   3   0  2  1   4   5  -1   2",
           "link": "",
           "summary": ""
         },
         {
-          "title": "14  CEL   2   0  1  1   1   2  -1   1",
+          "title": "15  RAY   2   0  1  1   2   3  -1   1",
           "link": "",
           "summary": ""
         },
         {
-          "title": "15  VAL   2   0  1  1   0   1  -1   1",
+          "title": "16  CEL   2   0  1  1   1   2  -1   1",
           "link": "",
           "summary": ""
         },
         {
-          "title": "16  MÁL   2   0  1  1   1   3  -2   1",
+          "title": "17  VAL   2   0  1  1   0   1  -1   1",
           "link": "",
           "summary": ""
         },
         {
-          "title": "17  LEV   2   0  1  1   0   3  -3   1",
+          "title": "18  MÁL   2   0  1  1   1   3  -2   1",
           "link": "",
           "summary": ""
         },
         {
-          "title": "18  ELC   3   0  1  2   3   9  -6   1",
+          "title": "19  ELC   3   0  1  2   3   9  -6   1",
           "link": "",
           "summary": ""
         },
         {
-          "title": "19  ATH   2   0  0  2   1   5  -4   0",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "19  REA   2   0  0  2   1   5  -4   0",
+          "title": "20  ATH   2   0  0  2   1   5  -4   0",
           "link": "",
           "summary": ""
         }
