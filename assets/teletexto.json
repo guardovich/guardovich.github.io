@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-08-29T05:48:17.580Z",
+  "generatedAt": "2026-08-29T12:20:54.512Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Musicians-turned-detectives are hunting for AI grifters",
+          "link": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+          "summary": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derived from the work of human artists. While some of the people pumping out this kind of content immediately own up to using AI, others have denied using the technology until increasing public scrutiny forced them to tell the truth. \nFor musicians - especially those creating art in technologically-focused spaces like electronic dance music - the increasingly complicated question of what is \"real\" and what isn't feels particularly urgent and personal …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-29T12:00:00.000Z"
+        },
+        {
+          "title": "I asked 100 companies for my data. Some deleted it instead.",
+          "link": "https://arstechnica.com/tech-policy/2026/08/i-asked-100-companies-for-my-data-some-deleted-it-instead/",
+          "summary": "Testing 100 companies found privacy requests often led to confusion and dead ends.",
+          "isoDate": "2026-08-29T10:50:31.000Z"
+        },
         {
           "title": "Google further buries search results under AI mode",
           "link": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
@@ -52,18 +64,6 @@
           "link": "https://arstechnica.com/gadgets/2026/08/apple-one-and-apple-tv-subscription-prices-increase-by-up-to-20-percent/",
           "summary": "Annual Apple TV subscriptions get the biggest bump.",
           "isoDate": "2026-08-28T17:23:53.000Z"
-        },
-        {
-          "title": "Save hundreds on a TCL mini-LED TV with quantum dots and high refresh rate",
-          "link": "https://www.theverge.com/gadgets/985741/tcl-qm7l-belkin-thunderbolt-dock-deal-sale",
-          "summary": "Amazon and Best Buy have the TCL QM7L mini-LED TV on sale for as low as $797.99 for the 55-inch model, a $200 discount from the usual price. We spotted scaling discounts on larger sizes as well, although Amazon already listed low stock on the 65-inch version. While OLED televisions are great for deep black levels and great contrast, their high price point may be off-putting to some buyers. Mini-LED TVs like this TCL are a more wallet-friendly option, and have high brightness while also supporting features like Quantum Dots for vivid colors.\nTCL QM7L\n\nWhere to Buy:\n\n $997.99 $797.99 at Amazon (55-inch)\n $1499.99 $899.99 at Best Buy (65-inch)\n\nThe QM7L also includes the features you’d expect from a premium television. The 144Hz refresh rate is supported by Variable Refresh Rate to reduce tearing and input lag while gaming, with HDR and Dolby Vision support for great image quality and contrast. The screens have Google TV onboard, with support for AirPlay 2 in case you want to stream from an Apple device.\nOther deals to consider\nStar Trek fans can pick up the Picard Legacy Collection on Blu-Ray for $137.49 from Amazon, a thirty percent discount from the normal price. This 54-disc set covers the entirety of Patrick Stewart’s legendary role as Captain Jean-Luc Picard, including all seven seasons of The Next Generation, the four movies that accompanied the series, and all three seasons of Picard.\nThe 5,000mAh Anker MagGo power bank is on sale for $29.99 (usually $49.95) at Amazon. This MagSafe-compatible battery pack charges devices for up to 15W wireless charging, or 20W through the USB-C port. \nWoot has the Belkin Thunderbolt 3 Dock Pro on sale for $64.99, a 64 percent discount from its usual price of $179.99, and you can save an extra 25 percent by using code WOOTDOCK at checkout. This dock has a healthy selection of ports, including five USB-A, two Thunderbolt 3, and DisplayPort 1.4, giving laptops with limited connectivity access to plenty of peripherals and an extra screen.",
-          "isoDate": "2026-08-28T17:03:07.000Z"
-        },
-        {
-          "title": "Our 10 favorite scenes from T2: Judgment Day",
-          "link": "https://arstechnica.com/culture/2026/08/our-10-favorite-scenes-from-t2-judgment-day/",
-          "summary": "James Cameron's 1991 sci-fi blockbuster returns to theaters this weekend for its 35th anniversary.",
-          "isoDate": "2026-08-28T16:44:47.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-08-29T05:48:12.243Z"
+          "isoDate": "2026-08-29T12:20:51.721Z"
         },
         {
           "title": "Matt Lucas and Hugh Bonneville among actors calling for law on AI voice cloning",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-08-29T05:48:16.799Z"
+          "isoDate": "2026-08-29T12:20:53.960Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-08-29T05:48:13.507Z"
+          "isoDate": "2026-08-29T12:20:52.630Z"
         },
         {
           "title": "Oscar Winner Brings Monsters to Life With His Simulation Software",
