@@ -1,10 +1,40 @@
 {
-  "generatedAt": "2026-08-28T21:44:35.857Z",
+  "generatedAt": "2026-08-29T05:48:17.580Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Google further buries search results under AI mode",
+          "link": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
+          "summary": "Google is now automatically expanding its AI search summaries at the top of the results page for some searches, as reported by Search Engine Roundtable. The change, when it kicks in, pushes the typical list of links from a search much farther down Google's results page; instead of seeing part of an AI Overview with a \"Show more\" button you can click, you'll Google will show a full AI Overview at the top of your search, an \"Ask anything\" box under that, and then the list of links. It can lead to a lot of scrolling.\nIt's unclear exactly what Google's criteria is for the auto-expanding AI Overviews. Before writing this story, I was seeing them …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-28T22:48:11.000Z"
+        },
+        {
+          "title": "Court rules Kalshi sports bets aren't \"swaps,\" just gambling with a different name",
+          "link": "https://arstechnica.com/tech-policy/2026/08/kalshi-cant-evade-nevada-gambling-laws-by-calling-bets-swaps-court-rules/",
+          "summary": "Kalshi can't evade Nevada gambling laws by calling bets \"swaps,\" judges rule.",
+          "isoDate": "2026-08-28T22:14:52.000Z"
+        },
+        {
+          "title": "Xbox CEO calls Project Helix a ‘family of devices’",
+          "link": "https://www.theverge.com/games/986337/xbox-ceo-asha-sharma-project-helix-family-of-devices",
+          "summary": "Asha Sharma. | Image: The Verge, Microsoft\t\n\nAccording to Xbox CEO Asha Sharma, Project Helix, which she announced in March as a codename for Microsoft's \"next generation console\" - phrasing that seemingly implied a singular device - will actually be a \"family\" of devices.\"\n\"We've been hard at work on a great next generation and a great family of devices for Helix, and we'll share more soon,\" Sharma told BBC News. She shared the answer after being asked if Helix will be a discless console. She didn't answer that, but this week Microsoft announced a program for digitizing your physical games.\n\nIn 2025, Microsoft and AMD announced a \"strategic multi-year partnership\" to work together on …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-28T22:03:13.000Z"
+        },
+        {
+          "title": "Cities terminate Flock contracts at record pace in August",
+          "link": "https://arstechnica.com/tech-policy/2026/08/cities-terminate-flock-contracts-at-record-pace-in-august/",
+          "summary": "Cancellations have accelerated.",
+          "isoDate": "2026-08-28T21:33:54.000Z"
+        },
+        {
+          "title": "\"RFK Jr. has lied to the Senate\": Lawmakers call for criminal probe, ouster",
+          "link": "https://arstechnica.com/health/2026/08/rfk-jr-has-lied-to-the-senate-lawmakers-call-for-criminal-probe-ouster/",
+          "summary": "RFK Jr. went to Samoa to spread vaccine fears. The measles outbreak after killed 83.",
+          "isoDate": "2026-08-28T21:17:38.000Z"
+        },
         {
           "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
           "link": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
@@ -34,36 +64,6 @@
           "link": "https://arstechnica.com/culture/2026/08/our-10-favorite-scenes-from-t2-judgment-day/",
           "summary": "James Cameron's 1991 sci-fi blockbuster returns to theaters this weekend for its 35th anniversary.",
           "isoDate": "2026-08-28T16:44:47.000Z"
-        },
-        {
-          "title": "Trump’s EPA wants to let data centers hide their air pollution",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
-          "summary": "Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those centers create.\nThe EPA plans to toss out a federal rule requiring public notice and an opportunity to comment when certain industrial sites apply for an air permit. Advocates warn that the move would allow data center developers and other industries to break ground without giving nearby residents a say, or even a warning that construction is planned. \n\"You can see why that would be so interesting to an administration that wants to rush through the …\nRead the full story at The Verge.",
-          "isoDate": "2026-08-28T16:28:40.000Z"
-        },
-        {
-          "title": "DLSS 5 leaked and modders are putting Nvidia&#8217;s AI effects on everything",
-          "link": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
-          "summary": "The unofficial version of DLSS 5 makes Jesse Faden’s features much more pronounced. | Image: gabdeg via YouTube\n\t\n\nModders are trying out an unofficial version of Nvidia's DLSS 5 on Skyrim, Cyberpunk 2077, GTA V, and a bunch of other games after code for the AI upscaling tech appeared in an early-access build of NBA 2K27. Members of the RenoDX modding channel on Discord reportedly found a way to extract the DLSS \"Neural Rendering\" file and apply it to Control before it expanded to other games, as reported earlier by Notebook Check and VideoCardz.\nIn one video, a person shows how Control protagonist Jesse Faden's facial features become more and less defined as they tweak various DLSS 5 settings enabled by the RenoDX modders. With the \"Neural Uplift\" sett …\nRead the full story at The Verge.",
-          "isoDate": "2026-08-28T16:22:16.000Z"
-        },
-        {
-          "title": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording",
-          "link": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/",
-          "summary": "Meta fixes AI glasses to stop recording any time users cover up the safety light.",
-          "isoDate": "2026-08-28T15:42:24.000Z"
-        },
-        {
-          "title": "The iPhone Fold could make concerts even worse",
-          "link": "https://www.theverge.com/podcast/986145/m6-mac-mini-meta-settlement-gta-6-vergecast",
-          "summary": "You know the person blocking your view of the concert because their phone is swaying in the air, recording the entire thing? Get ready for the unfolded version of it.\nThis week on The Vergecast, we dive right into the big week of Apple news. First, it's the refreshed Mac Mini and Mac Studio, as well as the new M6 and M5 Ultra chips. Apple is advertising them all as achievements in AI inference, but we're skeptical this is more than a marketing ploy for now. Then we get into the newly announced Apple event, why we're not expecting to see an iPhone 18, and whether the folding phone form factor is really good enough yet for Apple.\nAfter that, …\nRead the full story at The Verge.",
-          "isoDate": "2026-08-28T15:26:19.000Z"
-        },
-        {
-          "title": "Apple TV now costs $14.99 a month after its fourth price hike in four years",
-          "link": "https://www.theverge.com/tech/986130/apple-tv-plus-price-hike",
-          "summary": "Apple raised the price of its streaming service for new and current subscribers on Friday, bumping it up from $12.99 per month to $14.99, Deadline and Variety are reporting. An annual subscription now costs $119, up from $99. Apple also increased the cost of its individual Apple One subscription, which includes Apple TV and Apple's other subscription services, from $19.95 per month to $21.95. \nAccording to Deadline and Variety, the price change is effective immediately, and current subscribers will be notified of it before their next bill.  \nThis price hike comes almost exactly a year after Apple last increased its Apple TV subscription fe …\nRead the full story at The Verge.",
-          "isoDate": "2026-08-28T13:47:36.000Z"
         }
       ]
     },
@@ -72,10 +72,46 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "ERROR cargando feed",
-          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
-          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-08-28T21:44:32.137Z"
+          "title": "NASA’s Artemis II Crew Receives Congressional Space Medal of Honor",
+          "link": "https://www.nasa.gov/image-article/nasas-artemis-ii-crew-receives-congressional-space-medal-of-honor/",
+          "summary": "From left to right: NASA astronauts Victor Glover and Christina Koch, CSA (Canadian Space Agency) astronaut Jeremy Hansen, and NASA astronaut Reid Wiseman receive the Congressional Space Medal of Honor from President Donald J. Trump on Aug. 28, 2026, for their service during the Artemis II mission. The Congressional Space Medal of Honor was authorized […]",
+          "isoDate": "2026-08-28T22:21:31.000Z"
+        },
+        {
+          "title": "NASA Awards First Prize in Phase 2 of Agency’s LunaRecycle Challenge ",
+          "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-awards-first-prize-in-phase-2-of-agencys-lunarecycle-challenge/",
+          "summary": "NASA named a team from the Massachusetts Institute of Technology (MIT) as the first prize winner for Phase 2 of the agency’s LunaRecycle Challenge, which focused on developing solutions for reducing waste during missions to the Moon or deep space by recycling common materials, like fabrics, plastics, foam, and metals.  The Composites for Extraterrestrial Recycling By Engineering the Reuse and Upcycling of Zotek (CERBERUZ) team, comprised of undergraduate, graduate, and doctoral students at MIT, received a total of $775,000 in awards.   The technology grinds mixed trash into a fine powder, […]",
+          "isoDate": "2026-08-28T20:30:52.000Z"
+        },
+        {
+          "title": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
+          "link": "https://www.nasa.gov/news-release/president-honors-nasas-artemis-ii-crew-with-highest-us-space-award/",
+          "summary": "President Donald J. Trump awarded NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen with the Congressional Space Medal of Honor Friday for their service during the Artemis II mission. He presented the awards during a ceremony at NASA’s Johnson Space Center in Houston, honoring the first […]",
+          "isoDate": "2026-08-28T17:37:01.000Z"
+        },
+        {
+          "title": "President Trump Signs Executive Order to Create US Space Academy  ",
+          "link": "https://www.nasa.gov/news-release/president-trump-signs-executive-order-to-create-us-space-academy/",
+          "summary": "To strengthen the nation’s space workforce and develop the next generation of space leaders, President Donald J. Trump signed an Executive Order on Friday to establish the nation’s first U.S. Space Academy. The order highlights how space is a critical domain for American national security, economic growth, scientific discovery, and technological innovation. The proposed academy […]",
+          "isoDate": "2026-08-28T17:21:04.000Z"
+        },
+        {
+          "title": "Grants",
+          "link": "https://www.nasa.gov/centers-and-facilities/grants-2/",
+          "summary": "*Notice* The Payment Management System (PMS) is currently experiencing issues affecting Federal Financial Report (FFR) generation. Impacted NASA grant recipients will not be considered noncompliant. NASA is working with PMS to resolve the issue. Updates will be posted here. Grants Status Requests To submit a request, visit NASA General Information Request Form and complete the […]",
+          "isoDate": "2026-08-28T15:45:43.000Z"
+        },
+        {
+          "title": "APOD: 2026 August 28 – The Sky Turns Above Paranal",
+          "link": "https://science.nasa.gov/image-article/apod-2026-august-28-the-sky-turns-above-paranal/",
+          "summary": "APOD Science APOD APOD: 2026 August 28 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Sky […]",
+          "isoDate": "2026-08-28T04:05:00.000Z"
+        },
+        {
+          "title": "The Forested Floodplains of Congaree National Park",
+          "link": "https://science.nasa.gov/earth/earth-observatory/the-forested-floodplains-of-congaree-national-park/",
+          "summary": "The meandering Congaree River sustains towering forest ecosystems and fashions oxbow lakes as it shifts across its floodplain.",
+          "isoDate": "2026-08-28T04:01:00.000Z"
         },
         {
           "title": "Briefing Chat: How Dolly Parton left her mark on science",
@@ -94,42 +130,6 @@
           "link": "https://www.nature.com/articles/d41586-026-02680-5",
           "summary": "Nature, Published online: 28 August 2026; doi:10.1038/d41586-026-02680-5\nA positive trial holds promise for treating people with cancer. More research is needed to get effective vaccines to the clinic.",
           "isoDate": "2026-08-28T00:00:00.000Z"
-        },
-        {
-          "title": "Heisuke Hironaka obituary: mathematician who smoothed out geometry’s complexities",
-          "link": "https://www.nature.com/articles/d41586-026-02688-x",
-          "summary": "Nature, Published online: 28 August 2026; doi:10.1038/d41586-026-02688-x\nHis awe-inspiring proof for the resolution of singularities — such as peaks, edges and self-crossings — revolutionized algebraic geometry.",
-          "isoDate": "2026-08-28T00:00:00.000Z"
-        },
-        {
-          "title": "Will Meta’s deal make social media safe for kids? Researchers are dubious",
-          "link": "https://www.nature.com/articles/d41586-026-02733-9",
-          "summary": "Nature, Published online: 28 August 2026; doi:10.1038/d41586-026-02733-9\nNature talks to specialists about the changes coming to Facebook and Instagram, and whether there’s evidence they will help.",
-          "isoDate": "2026-08-28T00:00:00.000Z"
-        },
-        {
-          "title": "What employers are looking for in the age of AI — and four ways to provide it",
-          "link": "https://www.nature.com/articles/d41586-026-01913-x",
-          "summary": "Nature, Published online: 28 August 2026; doi:10.1038/d41586-026-01913-x\nFor applicants whose knowledge of AI stops at the name ChatGPT, Nature spoke to academics, employers and early-career researchers to find out what you need to expand your understanding.",
-          "isoDate": "2026-08-28T00:00:00.000Z"
-        },
-        {
-          "title": "Autism mutations rewire protein interaction networks to drive neurodevelopmental pathology",
-          "link": "https://www.science.org/doi/abs/10.1126/science.ady4523?af=R",
-          "summary": "Science, Volume 393, Issue 6814, August 2026.",
-          "isoDate": "2026-08-27T07:00:00.000Z"
-        },
-        {
-          "title": "Nonviral delivery of chemically modified tRNA rescues nonsense mutations in cystic fibrosis",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aeb0054?af=R",
-          "summary": "Science, Volume 393, Issue 6814, August 2026.",
-          "isoDate": "2026-08-27T07:00:00.000Z"
-        },
-        {
-          "title": "Genomic predisposition is associated with the direction of sex chromosome evolution",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aec3449?af=R",
-          "summary": "Science, Volume 393, Issue 6814, August 2026.",
-          "isoDate": "2026-08-27T07:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-08-28T21:44:33.447Z"
+          "isoDate": "2026-08-29T05:48:12.243Z"
         },
         {
           "title": "Matt Lucas and Hugh Bonneville among actors calling for law on AI voice cloning",
@@ -204,6 +204,12 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "Our decision on Cursor following its acquisition by SpaceX",
+          "link": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+          "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
+          "isoDate": "2026-08-28T06:00:00.000Z"
+        },
+        {
           "title": "Supporting Thailand’s next generation of AI startups",
           "link": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
           "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
@@ -256,12 +262,6 @@
           "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
           "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
           "isoDate": "2026-08-26T10:00:00.000Z"
-        },
-        {
-          "title": "AI helps design new materials that work in the real world",
-          "link": "https://news.mit.edu/2026/ai-helps-design-new-materials-that-work-in-real-world-0826",
-          "summary": "The “CrysVCD” tool developed at MIT could cut the huge amounts of time and money spent on screening out chemically unstable designs.",
-          "isoDate": "2026-08-26T09:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-08-28T21:44:35.313Z"
+          "isoDate": "2026-08-29T05:48:16.799Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-08-28T21:44:34.440Z"
+          "isoDate": "2026-08-29T05:48:13.507Z"
         },
         {
           "title": "Oscar Winner Brings Monsters to Life With His Simulation Software",
