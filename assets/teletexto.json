@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-08-30T20:37:22.499Z",
+  "generatedAt": "2026-08-31T03:54:03.434Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "A 12TB Steam “teraleak” spills more than a decade of lost PC gaming history",
+          "link": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
+          "summary": "Cut content from Portal 2, hints of Half Life 2: Episode 3, and so much more.",
+          "isoDate": "2026-08-30T21:40:56.000Z"
+        },
+        {
+          "title": "Professor Murder Rides the Subway is a forgotten slice of dance punk perfection",
+          "link": "https://www.theverge.com/entertainment/986564/professor-murder-rides-the-subway-dance-punk-perfection-review",
+          "summary": "I recently dug out my CDs and started reripping them all. I've found a few forgotten gems in there, but few hit harder for me than the beautifully concise Professor Murder Rides the Subway EP. There was a period of time in the mid-aughts in NYC where it seemed like every indie band wanted you to let loose, dance like no one was watching, and just have some damn fun. Few embodied that as much as New York dance punk band Professor Murder.\nLCD Soundsystem and The Rapture were the biggest names of the dance punk revival. But there were also bands like Rahim, Liars, Dan Deacon, and countless lesser-known acts on DFA that you could see on any giv …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-30T21:18:59.000Z"
+        },
         {
           "title": "Enormous 12TB Steam leak includes abandoned Half-Life 2: Episode 3 assets",
           "link": "https://www.theverge.com/games/986552/12tb-steam-leak-half-life-2-episode-3",
@@ -52,18 +64,6 @@
           "link": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
           "summary": "The company is testing robots on tasks that can performed by technicians.",
           "isoDate": "2026-08-30T11:03:47.000Z"
-        },
-        {
-          "title": "Vicariously hike the Appalachian in the gorgeous A Trail Tale",
-          "link": "https://www.theverge.com/entertainment/986461/hike-appalachian-trail-pixel-art-a-trail-tale",
-          "summary": "Inspired by Oregon Trail, but minus the dysentery. | Screenshot: Terrence O’Brien / The Verge\t\n\nI used to be an avid hiker and would try to go backpacking a few times a year. I always dreamed of thru-hiking the Appalachian Trail, but life kind of got in the way. (Turns out jobs, wives, and children aren't thrilled with the idea of you disappearing for three months.) But I've been longing to reconnect with my love of the outdoors and just recently took my kids on their first camping trip. So I discovered A Trail Tale at a really opportune time. It's an interactive trail journal created by Andy Moliski with help from his brothers Adam and Alex.\nThe various segments of the trail are rendered in beautiful pixel art reminiscent of a '90s S …\nRead the full story at The Verge.",
-          "isoDate": "2026-08-29T20:59:26.000Z"
-        },
-        {
-          "title": "Alt-right troll Milo Yiannopoulos has been deported",
-          "link": "https://www.theverge.com/policy/986456/milo-yiannopoulos-deported-ice",
-          "summary": "Alt-right troll Milo Yiannopoulos was arrested by ICE on Thursday, and today the Department of Homeland Security confirmed to Reuters and the Washington Post that he had been deported to the UK. Yiannopoulos came to the US legally in 2019, but overstayed his visa. After he failed to appear in court for an immigration hearing, a final order of removal was issued ​on July 22. \nThe British national made a name for himself as an editor at Steve Bannon's Breitbart and an early supporter of Donald Trump's. He has had a long history of controversial statements and associations, including reportedly helping arrange Trump's dinner with Kanye West an …\nRead the full story at The Verge.",
-          "isoDate": "2026-08-29T19:49:59.000Z"
         }
       ]
     },
@@ -75,7 +75,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
           "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-08-30T20:37:16.935Z"
+          "isoDate": "2026-08-31T03:53:56.011Z"
+        },
+        {
+          "title": "AI models are being used to track zoonotic diseases. Will they prevent the next pandemic?",
+          "link": "https://www.nature.com/articles/d41586-026-02684-1",
+          "summary": "Nature, Published online: 30 August 2026; doi:10.1038/d41586-026-02684-1\nSpread of diseases between humans and animals is an issue around the world. But AI models can be used to monitor their progress.",
+          "isoDate": "2026-08-30T00:00:00.000Z"
         },
         {
           "title": "Lift-off! NASA launches Roman Space Telescope to tackle dark-energy mysteries",
@@ -124,12 +130,6 @@
           "link": "https://www.science.org/doi/abs/10.1126/science.ady4523?af=R",
           "summary": "Science, Volume 393, Issue 6814, August 2026.",
           "isoDate": "2026-08-27T07:00:00.000Z"
-        },
-        {
-          "title": "Nonviral delivery of chemically modified tRNA rescues nonsense mutations in cystic fibrosis",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aeb0054?af=R",
-          "summary": "Science, Volume 393, Issue 6814, August 2026.",
-          "isoDate": "2026-08-27T07:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-08-30T20:37:19.301Z"
+          "isoDate": "2026-08-31T03:53:57.589Z"
         },
         {
           "title": "I've been to Gamescom six times - here's what excited me this year",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-08-30T20:37:21.793Z"
+          "isoDate": "2026-08-31T03:54:02.500Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-08-30T20:37:20.515Z"
+          "isoDate": "2026-08-31T03:53:59.490Z"
         },
         {
           "title": "Noodling on Nuclear Engines",
@@ -330,11 +330,6 @@
         },
         {
           "title": "DEP  3-1  VAL",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "CEL  0-2  ATH",
           "link": "",
           "summary": ""
         },
