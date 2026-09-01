@@ -1,69 +1,69 @@
 {
-  "generatedAt": "2026-09-01T16:07:10.062Z",
+  "generatedAt": "2026-09-01T20:36:36.072Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
         {
-          "title": "Shelly’s new $50 security camera watches your home without a subscription",
-          "link": "https://www.theverge.com/tech/987436/shelly-smart-home-hd-security-camera-automation",
-          "summary": "After launching a budget-friendly flood sensor last month with impressive battery life, Shelly announced a new $49.99 security camera today that can be used without any additional subscription fees - although that's still an option if you want to expand its capabilities.\nThe Shelly Camera will be available soon from the company's online store and other resellers in black or white. Although competitors like Wyze have released 2K security cameras for $40, Shelly's first camera is limited to 1080P with a wide field of view that stretches 110 degrees horizontally and 70 degrees vertically with night vision capabilities. But there's no battery,  …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-01T15:19:17.000Z"
+          "title": "On first listen, the Sonos Beam Ultra sounds great",
+          "link": "https://www.theverge.com/tech/987574/sonos-beam-ultra-first-listen",
+          "summary": "The Beam Ultra is made for TVs up to 65 inches. It will also be available in black. | Photo by Cameron Faulkner / The Verge\t\n\nSonos unveiled a bunch of new stuff today at its open house event. There's the $699 Beam Ultra soundbar and the $449 Ace Ultra headphones, plus several under-the-hood app updates (some coming sooner than others). While the show floor was a less than ideal venue to judge audio quality of either new product, a private demo in a smaller room provided a better hint as to what the Beam Ultra soundbar might be capable of.\nWith the 7.1.2 soundbar about six feet in front of the press, the team ran through a couple demos to show off its range, particularly with Dolby Atmos content. The opening minutes of Widow's Bay subtly illustrates the Beam Ultra …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-01T20:08:38.000Z"
         },
         {
-          "title": "Making the AI-powered case for legacy modernization",
-          "link": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/",
-          "summary": "For years, legacy technology has been a problem companies knew they needed to solve, but one they often struggled to tackle. The cost, complexity, and risk of replacing business-critical systems could make modernization feel like a disruption to manage instead of an opportunity to pursue. But with the rise in customer expectations and the changes…",
-          "isoDate": "2026-09-01T14:00:00.000Z"
+          "title": "Tim Cook did alright by the environment — but AI could upend his climate legacy",
+          "link": "https://www.theverge.com/tech/987550/tim-cook-apple-environment-sustainability-legacy",
+          "summary": "As he steps down from his post as Apple CEO today, Tim Cook leaves behind a mostly positive environmental record. As far as billionaire tech moguls and the environment go, Cook will likely be remembered as one of the better ones - certainly far from the worst. But it will become harder for the company to meet the climate goals Cook set in place as Apple tries to catch up in the AI race. \nUnder his watch, Apple set industry-leading goals for reducing the amount of pollution created by its products and suppliers. It has managed to keep its carbon footprint from growing while other tech giants see their emissions rise with the energy-needs of  …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-01T19:43:39.000Z"
         },
         {
-          "title": "Sonos introduces new headphones, soundbar, and software in its biggest announcement in years",
-          "link": "https://www.theverge.com/tech/987129/sonos-27-ace-ultra-beam-ultra-announcement",
-          "summary": "The Sonos Ace Ultra are what the original Ace should have been — headphones for the Sonos ecosystem. | Image: Sonos\t\n\nAt an event in New York City, Sonos announced two new audio products - the Sonos Beam Ultra soundbar and Sonos Ace Ultra headphones, details of which were found in an FCC filing in early August - and a major update to its audio operating system dubbed Sonos 27. It's the biggest single Sonos announcement since 2024, when a new app rollout upset its customers and sent it into damage control mode.\nSoftware changes are core to Sonos' announcements, with the company leaning heavily into AI integration with Sonos 27. This includes the company's own Sonos 27voice assistant that it built in-house for music and system control. It's coming as an earl …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-01T14:00:00.000Z"
+          "title": "How AI plotted an interstellar journey to Alpha Centauri",
+          "link": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
+          "summary": "A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our nearest star system by the end of 2029.  It’s a hugely ambitious mission—if all goes well, the spacecraft could take up to 80,000 years to arrive at Alpha Centauri, which is 4.4 light-years away. And the…",
+          "isoDate": "2026-09-01T19:10:36.000Z"
         },
         {
-          "title": "Tim Cook’s legacy isn’t just phones, it’s politics",
-          "link": "https://www.theverge.com/policy/987356/tim-cook-apple-trump-xi",
-          "summary": "As much as any Apple product released during his time as CEO, Tim Cook's tenure will be remembered for its ruthlessly efficient tight-rope walk between an autocrat in China and a would-be autocrat in the US.\nDuring his 15 years as CEO, Cook steered Apple through relations with both Chinese President Xi Jinping and US President Donald Trump, including escalating conflicts between the two. As Apple's enmeshment in China raised serious questions about reports of forced labor and censorship, Cook managed to appease Xi while maneuvering around political blowback in the US. And when Trump launched a trade war against China, Cook managed to soften …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-01T13:51:02.000Z"
+          "title": "The rise of AI &#8216;civilizations&#8217; and the fall of corporate responsibility",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
+          "summary": "Depending on who you ask, developer platform Hugging Face was recently attacked by OpenAI - after it lost control of its own AI tools - or by a succession of AI \"civilizations.\" Welcome to the linguistic battlefield of AI safety, where word choices can shift responsibility for a massive cybersecurity incident from a company to the AI it built. And the discourse online is getting heated, and all over a blog from last week.\nUntil last week, the details surrounding the OpenAI-Hugging Face hack felt fairly settled. In July, a cybersecurity test of one of OpenAI's autonomous AI agents went wrong. The agent escaped its supposedly isolated test en …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-01T19:02:54.000Z"
         },
         {
-          "title": "John Ternus takes over as Apple&#8217;s new CEO",
-          "link": "https://www.theverge.com/tech/915272/apple-john-ternus-tim-cook",
-          "summary": "John Ternus and Tim Cook | Image: Apple\t\n\nThe multitrillion-dollar home of the iPhone, Mac, and so many other tech gadgets has a new leaader, as Tim Cook has been replaced as CEO as of September 1st by former hardware boss John Ternus. How will we look back on Cook’s legacy, and what will Apple look like under the leadership of Ternus and new chief hardware officer Johny Srouji?\nWith the next iPhone event scheduled for September 9th, we’ll probably find out soon. Here’s everything we think we know so far about the John Ternus era at Apple.\n\n\n\n\t\t\t\t\t\nTim Cook’s legacy isn’t just phones, it’s politics\n\t\t\t\nA day-one briefing for Apple’s new CEO\n\t\t\t\nTim Cook’s Apple: his 10 biggest wins and misses\n\t\t\t\nJohn Ternus is now the CEO of Apple\n\t\t\t\nPhil Schiller is leaving his biggest jobs at Apple\n\t\t\t\nRead Tim Cook’s final message to Apple staff as CEO\n\t\t\t\nApple’s Vision Pro and smart glasses leader reportedly leaves for OpenAI.\n\t\t\t\nTim Cook and John Ternus comment on Apple’s CEO change during earnings call.\n\t\t\t\nTim Cook’s departure is the start of a new era at Apple\n\t\t\t\nWill a new CEO help realize Apple’s smart home potential?\n\t\t\t\nTim Cook was an innovator — just not the Jobs kind\n\t\t\t\nThe AirPods are Tim Cook’s most underrated achievement\n\t\t\t\nThe Mac is in good hands in Apple’s post-Cook era\n\t\t\t\nWearable health tech might be Tim Cook’s greatest legacy \n\t\t\t\nOne more thing about Apple’s new CEO.\n\t\t\t\nJohn Ternus’ first big problem is AI\n\t\t\t\n“I was very impressed with myself to have the head of Apple calling to ‘kiss my ass.’”\n\t\t\t\nApple will have a product guy as CEO again\n\t\t\t\nTim Cook will still be Apple’s Trump whisperer\n\t\t\t\nRead Tim Cook’s letter to the Apple world as he departs as CEO\n\t\t\t\nNew Apple CEO calls for an emergency Vergecast.\n\t\t\t\nApple names Johny Srouji as chief hardware officer\n\t\t\t\nApple CEO Tim Cook is stepping down",
-          "isoDate": "2026-09-01T13:28:43.000Z"
+          "title": "John Ternus sends first memo as Apple CEO teasing a &#8216;huge launch next week&#8217;",
+          "link": "https://www.theverge.com/tech/987583/apple-john-ternus-staff-memo",
+          "summary": "New Apple CEO John Ternus sent out his first staff memo, thanking his predecessor Tim Cook, and quickly turning to what the company will do next, reports Bloomberg. \n\"We have a huge launch next week that's going to be phenomenal. Thanks for everything you've all done to make it possible,\" writes Ternus, referring to the September 9th event where Apple's expected to unveil new iPhones including the rumored foldable iPhone Ultra and iPhone 18 Pro models. Ternus also hints at \"incredible products already in the works and the ones we haven't even imagined yet,\" presumably moving beyond camera-equipped AirPods, home robots, and even more OLED di …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-01T18:24:16.000Z"
         },
         {
-          "title": "Florida blocks Flock cams on state highways",
-          "link": "https://www.theverge.com/tech/987353/florida-flock-cam-ban-state-highways",
-          "summary": "Florida is banning Flock cameras and other automated license plate readers across state highways, as reported earlier by NBC News and local news outlet WUSF. In a memo on Monday, Florida's Department of Transportation says it's revoking permits for all license plate readers, adding that they must be removed from state highways within 30 days.\nAs noted in the memo, Florida's DOT says it's issuing the order in response to the \"recent exponential increase in deployments\" of license plate readers, \"coupled with concerning reports of misuse, data privacy concerns, and surveillance schemes.\" The agency is also halting future requests for license  …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-01T13:17:36.000Z"
+          "title": "CDC reported then deleted two measles deaths that were questioned by RFK Jr.",
+          "link": "https://arstechnica.com/health/2026/09/cdc-reported-then-deleted-two-measles-deaths-that-were-questioned-by-rfk-jr/",
+          "summary": "Historically, state health departments determine cases and deaths, not the CDC.",
+          "isoDate": "2026-09-01T18:21:16.000Z"
         },
         {
-          "title": "Get ready for a really busy month of smartphones",
-          "link": "https://www.theverge.com/tech/986236/smartphones-september-ifa-apple-iphone-oppo-vivo-xiaomi",
-          "summary": "At what point are there simply too many phones? | Image: Cath Virginia / The Verge\t\n\nWe're not even half a day into September, and two new smartphones have already launched: the Poco F9 Pro and F9 Ultra. We're expecting more this week, as the IFA trade show kicks off in Berlin, before we get new iPhones a week after that. And that's only the beginning of what promises to be an exceptionally busy month for smartphone launches.\nFor the decade I've worked in the industry, tech journalists have always spoken in hushed tones about the dreaded \"Techtember,\" when just about every tech company on the planet seems to be in unspoken agreement that it's time to launch new products in time for the holiday buying season. (It's followed, …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-01T13:00:00.000Z"
+          "title": "Apple accuses OpenAI of destroying evidence",
+          "link": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
+          "summary": "Apple is pushing for \"expedited discovery\" in its legal battle against OpenAI over concerns the company is actively destroying evidence, as reported earlier by Bloomberg. In a filing on Monday, Apple alleges OpenAI only just handed over a MacBook used by a former employee at the center of the lawsuit, which contained discussions about \"destroying the types of forensic data Apple needs.\"\nThis is the latest development in Apple's lawsuit against OpenAI, which accuses the ChatGPT-maker of stealing trade secrets to build an AI device. The lawsuit revolves around three former Apple employees who recently joined OpenAI, including Chang Liu, who a …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-01T18:19:26.000Z"
         },
         {
-          "title": "Nvidia&#8217;s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
-          "link": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
-          "summary": "Nvidia is officially launching DLSS 5 this week, following a divisive announcement in March where we likened the AI upscaling tech to a \"real-time generative AI filter for video games\" and \"motion smoothing for video games, but worse.\" DLSS 5 will officially be available on RTX 50-series desktop and laptop GPUs and through GeForce Now cloud gaming, though the only game with the tech so far is NBA 2K27 - which is launching September 3rd at 9PM PT on PC.\nWhen it was announced, Nvidia lauded DLSS 5 as \"the company's most significant breakthrough in computer graphics since the debut of real-time ray tracing in 2018,\" and highlighted how the tec …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-01T13:00:00.000Z"
+          "title": "New Android Drop adds remembered items in Find Hub, makes anti-nausea dots official",
+          "link": "https://arstechnica.com/gadgets/2026/09/latest-android-drop-connects-gemini-to-find-hub-adds-keep-notes-and-themes-to-messages/",
+          "summary": "New features are rolling out across the Android ecosystem starting today.",
+          "isoDate": "2026-09-01T18:00:02.000Z"
         },
         {
-          "title": "Nvidia’s DLSS 5, explained",
-          "link": "https://www.theverge.com/games/986980/nvidias-dlss-5-explained",
-          "summary": "Lara Croft in Shadow of the Tomb Raider, with a  DLSS 5 mod applied. | Screenshot by Sean Hollister / The Verge\t\n\nNvidia knows that DLSS 5 left a bad first impression. In March, many gamers took one look at Resident Evil Requiem protagonist Grace Ashcroft's DLSS 5-ified face and declared it AI slop. So this week, the company's re-introducing its controversial \"neural rendering\" with firm messaging about how it \"preserves artistic intent,\" \"respects the rendered frame,\" and gives game developers full control. \nNow, ahead of its September 3rd launch, with an official Nvidia briefing under our belt and some hands-on time with the version that leaked onto the web, we think we finally get the picture. Here's what's going on.\nIs DLSS 5 AI slop? \nThe critic …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-01T13:00:00.000Z"
+          "title": "Google Find Hub will soon help you locate things without a tracker",
+          "link": "https://www.theverge.com/tech/987339/google-september-android-drop-motion-assist-gemini-find-hub",
+          "summary": "Google announced new features coming to Android devices as part of this month's feature drop update. Among the highlights are the introduction of Motion Assist - Android's version of Apple's Motion Cues feature, which tries to reduce motion sickness by overlaying dots on your screen that move in response to a vehicle's movements - as well as an expansion of Find Hub. The Find Hub update will introduce a new way to find important items without having to attach a tracker.\nAccording to a Google blog post shared today, you'll soon be able to ask Gemini to remember where you put an important item like a passport that you don't frequently use and …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-01T18:00:00.000Z"
         },
         {
-          "title": "Roku’s first OLED TVs undercut the midrange competition",
-          "link": "https://www.theverge.com/tech/987148/roku-oled-tv-announcement",
-          "summary": "The Roku Pro Series OLED TV. | Image: Roku\t\n\nJust a few weeks ago the only midrange OLED options available were from LG and Samsung. But after Sony officially announced the Bravia 6 last week, Roku has now launched its first-ever OLED TV - the Roku Pro Series - which will be followed by the step-up Pro Series LX next month.\nThe Roku Pro Series has a 120Hz panel, four HDMI 2.1 ports, and supports Dolby Vision and HDR10 Plus. It also has auto low latency mode, FreeSync Premium, and VRR for gaming. A backlit Roku remote is included, and a remote finder button on the TV helps locate it when misplaced. The Pro Series LX is about twice as bright as the regular Pro Series, supports 144Hz VRR …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-01T13:00:00.000Z"
+          "title": "FTC alleges Amazon illegally made $20 billion by rigging billions of ad auctions",
+          "link": "https://arstechnica.com/tech-policy/2026/09/ftc-alleges-amazon-illegally-made-20-billion-by-rigging-billions-of-ad-auctions/",
+          "summary": "FTC says firm replaces actual ad-auction results \"with higher prices set by Amazon.\"",
+          "isoDate": "2026-09-01T17:51:17.000Z"
         }
       ]
     },
@@ -72,15 +72,45 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "ERROR cargando feed",
-          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
-          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-09-01T16:07:05.690Z"
+          "title": "What’s Up: September 2026 Skywatching Tips from NASA",
+          "link": "https://science.nasa.gov/solar-system/skywatching/whats-up-september-2026-skywatching-tips-from-nasa/",
+          "summary": "Brilliant Venus and a Harvest Moon Use the Moon to find Antares and the Teapot, spot brilliant Venus, welcome the equinox, and see the Harvest Moon near Saturn and Neptune. Skywatching Highlights Transcript The Moon joins a tea party… Venus cranks up the brightness… the seasons officially change… and the Harvest Moon meets up with […]",
+          "isoDate": "2026-09-01T19:15:25.000Z"
+        },
+        {
+          "title": "Historic Engines Take Their Place on Artemis III",
+          "link": "https://www.nasa.gov/image-article/historic-engines-take-their-place-on-artemis-iii/",
+          "summary": "On Aug. 24, technicians at NASA’s Kennedy Space Center in Florida began installing the four RS‑25 engines in the core stage of the agency’s Space Launch System (SLS) rocket that will carry the Artemis III crew into low Earth orbit in 2027. Each RS‑25 engine has a unique serial number that records its detailed flight […]",
+          "isoDate": "2026-09-01T17:30:35.000Z"
+        },
+        {
+          "title": "APOD: 2026 September 1 – A Plane Lunar Eclipse",
+          "link": "https://science.nasa.gov/image-article/apod-2026-september-1-a-plane-lunar-eclipse/",
+          "summary": "APOD Science APOD APOD: 2026 September 1 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Plane […]",
+          "isoDate": "2026-09-01T04:05:00.000Z"
+        },
+        {
+          "title": "Ice Island Survives Run-In With Joe Island",
+          "link": "https://science.nasa.gov/earth/earth-observatory/iceberg-from-petermann-glacier-speeds-away/",
+          "summary": "In summer 2026, a substantial iceberg calved from Petermann Glacier in northwest Greenland and swiftly drifted into Nares Strait, colliding with an island along the way.",
+          "isoDate": "2026-09-01T04:00:00.000Z"
+        },
+        {
+          "title": "Author Correction: Plasticity and language in the anaesthetized human hippocampus",
+          "link": "https://www.nature.com/articles/s41586-026-11071-9",
+          "summary": "Nature, Published online: 01 September 2026; doi:10.1038/s41586-026-11071-9\nAuthor Correction: Plasticity and language in the anaesthetized human hippocampus",
+          "isoDate": "2026-09-01T00:00:00.000Z"
         },
         {
           "title": "Charmed by comets",
           "link": "https://www.nature.com/articles/d41586-026-02383-x",
           "summary": "Nature, Published online: 01 September 2026; doi:10.1038/d41586-026-02383-x\nAstronomy that has long gripped people’s imagination, and a celebration of the health benefits of sunshine and the open air in this week’s pick from the Nature archive.",
+          "isoDate": "2026-09-01T00:00:00.000Z"
+        },
+        {
+          "title": "These greenhouse-gas sources have trotters and snouts",
+          "link": "https://www.nature.com/articles/d41586-026-02734-8",
+          "summary": "Nature, Published online: 01 September 2026; doi:10.1038/d41586-026-02734-8\nEmissions linked to global warming are higher at sites where feral pigs disturb the soil.",
           "isoDate": "2026-09-01T00:00:00.000Z"
         },
         {
@@ -100,36 +130,6 @@
           "link": "https://www.nature.com/articles/d41586-026-02738-4",
           "summary": "Nature, Published online: 01 September 2026; doi:10.1038/d41586-026-02738-4\nThe global plastics treaty must account for conflict-driven energy insecurity",
           "isoDate": "2026-09-01T00:00:00.000Z"
-        },
-        {
-          "title": "Europe should adapt, not copy, China’s practical PhD",
-          "link": "https://www.nature.com/articles/d41586-026-02736-6",
-          "summary": "Nature, Published online: 01 September 2026; doi:10.1038/d41586-026-02736-6\nEurope should adapt, not copy, China’s practical PhD",
-          "isoDate": "2026-09-01T00:00:00.000Z"
-        },
-        {
-          "title": "Is this the first glimpse of dark matter? Data point excites physicists",
-          "link": "https://www.nature.com/articles/d41586-026-01985-9",
-          "summary": "Nature, Published online: 01 September 2026; doi:10.1038/d41586-026-01985-9\nAn experiment spots an energy flash similar to that of the long-sought weakly interacting massive particle, or WIMP.",
-          "isoDate": "2026-09-01T00:00:00.000Z"
-        },
-        {
-          "title": "India has an ambitious plan to lure scientists back — will it work?",
-          "link": "https://www.nature.com/articles/d41586-026-02636-9",
-          "summary": "Nature, Published online: 01 September 2026; doi:10.1038/d41586-026-02636-9\nInitiatives to attract Indian researchers who are working abroad do not offer long-term income security, some scientists say.",
-          "isoDate": "2026-09-01T00:00:00.000Z"
-        },
-        {
-          "title": "From Trojan horses to AI-proof exams: how professors are tackling students’ AI use",
-          "link": "https://www.nature.com/articles/d41586-026-02370-2",
-          "summary": "Nature, Published online: 01 September 2026; doi:10.1038/d41586-026-02370-2\nAcademics worldwide are rethinking their assessment approaches — from developing exams that artificial-intelligence tools can’t pass to sneaking hidden AI prompts into tasks to catch cheating students.",
-          "isoDate": "2026-09-01T00:00:00.000Z"
-        },
-        {
-          "title": "Who is responsible when AI helps to write science?",
-          "link": "https://www.nature.com/articles/d41586-026-02686-z",
-          "summary": "Nature, Published online: 01 September 2026; doi:10.1038/d41586-026-02686-z\nAs generative AI becomes embedded in research and publishing, the deeper challenge is preserving accountability for scholarly work.",
-          "isoDate": "2026-09-01T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-09-01T16:07:07.072Z"
+          "isoDate": "2026-09-01T20:36:32.186Z"
+        },
+        {
+          "title": "Tech Life",
+          "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyc?at_medium=RSS&at_campaign=rss",
+          "summary": "AI can only communicate in languages that it's been trained on.",
+          "isoDate": "2026-09-01T20:10:00.000Z"
         },
         {
           "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
           "summary": "OpenAI's cyber agents banded together to perform a hack during a security test.",
           "isoDate": "2026-08-26T22:03:45.000Z"
-        },
-        {
-          "title": "Nvidia revenue doubles on continued AI demand ",
-          "link": "https://www.bbc.co.uk/news/articles/ce871n7lyvlo?at_medium=RSS&at_campaign=rss",
-          "summary": "Chipmaker's $96bn quarter beat forecasts as demand for AI hardware continues to accelerate.",
-          "isoDate": "2026-08-26T21:49:26.000Z"
         }
       ]
     },
@@ -203,6 +203,30 @@
       "header": "160  INTELIGENCIA ARTIFICIAL",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Introducing agentic video understanding with Gemini",
+          "link": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+          "summary": "",
+          "isoDate": "2026-09-01T17:08:51.000Z"
+        },
+        {
+          "title": "How AI-native companies turn workflows into operating capability",
+          "link": "https://openai.com/index/ai-native-company-workflows",
+          "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+          "isoDate": "2026-09-01T17:00:00.000Z"
+        },
+        {
+          "title": "Path to Astra: critical capabilities and frontier safeguards",
+          "link": "https://openai.com/index/path-to-astra",
+          "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
+          "isoDate": "2026-09-01T13:00:00.000Z"
+        },
+        {
+          "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+          "link": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+          "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
+          "isoDate": "2026-09-01T12:00:00.000Z"
+        },
         {
           "title": "Ila Kumar: Innovating with communities  ",
           "link": "https://news.mit.edu/2026/ila-kumar-innovates-with-communities-0901",
@@ -238,30 +262,6 @@
           "link": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
           "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
           "isoDate": "2026-08-31T04:00:00.000Z"
-        },
-        {
-          "title": "Our decision on Cursor following its acquisition by SpaceX",
-          "link": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-          "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
-          "isoDate": "2026-08-28T06:00:00.000Z"
-        },
-        {
-          "title": "Supporting Thailand’s next generation of AI startups",
-          "link": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-          "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
-          "isoDate": "2026-08-28T02:00:00.000Z"
-        },
-        {
-          "title": "Looking beyond natural sequences",
-          "link": "https://news.mit.edu/2026/looking-beyond-natural-sequences-0827",
-          "summary": "A new machine-learning framework aims to improve the success rate of computational protein design while moving away from results that reproduce sequences found in nature.",
-          "isoDate": "2026-08-27T19:20:00.000Z"
-        },
-        {
-          "title": "Gemini Omni 1.1 Flash lets you build with more control",
-          "link": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
-          "summary": "",
-          "isoDate": "2026-08-27T16:11:32.000Z"
         }
       ]
     },
@@ -273,13 +273,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-09-01T16:07:09.367Z"
+          "isoDate": "2026-09-01T20:36:35.327Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-09-01T16:07:08.745Z"
+          "isoDate": "2026-09-01T20:36:33.690Z"
+        },
+        {
+          "title": "IEEE President’s Note: Technology for Social Good",
+          "link": "https://spectrum.ieee.org/president-ieee-note-september-2026",
+          "summary": "Across IEEE, our strength lies not only in the excellence of our individual communities but also in our ability to bring them together around shared problems that demand interdisciplinary solutions. Our mission as a public charity—to advance technology for the benefit of humanity—is becoming an increasingly powerful differentiator. It is more than a statement of principle; it is a strategic advantage. When engineers and technologists serve with purpose and lead with heart, they strengthen the future of our profession and demonstrate why IEEE is uniquely positioned to lead at the intersection of technology and societal impact.\nIEEE Humanitarian Technologies is a consortium of programs and initiatives—supported by a global network of volunteers and technical professionals—working together to apply technology to solve the world’s most pressing problems. These include Empower a Billion Lives, EPICSinIEEE, MOVE, IEEE REACH, IEEE SIGHT, IEEE Smart Village, and IEEE Tech4Good. These programs embody our mission in action. They are not simply charitable activities; they are strategic assets that help IEEE lead globally, innovate boldly, and remain essential to technical professionals at every stage of their careers. While deeply human in purpose, humanitarian technologies are fundamentally engineering challenges, demanding the full depth of engineering rigor and realized through disciplined, deeply technical work.\nCultivating Technical Leaders\nIEEE Humanitarian Technologies sits at the intersection of engineering excellence, societal need, and global opportunity. Its programs allow our members to show the world that engineering and technology are forces for good, capable of addressing urgent challenges with precision, creativity, and compassion. These programs do more than inspire; they strengthen the technical ecosystem that underpins IEEE’s leadership.\nBringing together experts from power and energy, communications, computing, robotics, biomedical engineering, and many other domains to address real-world problems, these interdisciplinary intersections are where breakthroughs emerge. When engineers and technologists collaborate with the right humanitarian frameworks across sectors and cultures, they illuminate new constraints, design pathways, and opportunities that traditional project environments rarely reveal. This is how humanitarian technologies help shape the future of engineering itself.\nThese efforts also illustrate a broader opportunity for IEEE. By identifying critical challenges that can be addressed only through collaboration across disciplines, IEEE can mobilize the power of its global community toward solving problems around the world. In doing so, we strengthen both our impact on society and the value we provide to members, partners, and future generations.\nThese programs also build the leadership capacity our profession needs. Engineers working in humanitarian contexts learn to navigate ambiguity, engage diverse stakeholders, manage constraints, and design for environments where failure has real human consequences. They develop systems thinking, ethical reasoning, and cross‑cultural fluency—competencies increasingly essential in a world where technology and society are deeply intertwined. They also learn to transition from R&D to implementation by engineering the support, manufacturing, and delivery systems that make solutions viable in specific countries, all while balancing competing requirements. In doing so, humanitarian programs equip professionals with the capabilities that define modern technical practice.\nHumanitarian technologies also help prepare the future technical workforce. Students and young professionals increasingly seek meaningful, high‑impact work. By engaging in purpose‑driven projects, they can discover their own capacity to grow, strengthen their technical skills, and become the leaders and problem‑solvers who will guide our profession forward.\nPurpose Inspires Engagement\nOur members feel this deeply. Engagement research shows that members increasingly cited “giving back to my profession and the world community” as a reason for joining the organization and renewing their membership. Those with higher membership grades identify “participation in humanitarian technology efforts” as one of the most satisfying experiences IEEE offers. These are not just data points; they are also signals of what our community values and what it expects IEEE to champion.\nYounger generations amplify this even more. Millennials view IEEE through a global lens, prioritizing “humanitarian impact” and “large-scale collaboration.” One millennial member shared that teaching robotics to children in under-resourced communities transformed them into a deeply engaged member. Gen Z members emphasize inclusivity, environmental responsibility, and purpose-driven engineering, recommending that IEEE offer humanitarian-based challenges and competitions to increase engagement.\nThese findings reveal something powerful: Humanitarian programs are not only meaningful; they also are magnetic. They attract younger engineers, keep them engaged, and help them build a professional identity rooted in purpose and impact. They also create loyalty and develop the leadership pipeline IEEE needs for the decades ahead.\nThese programs also strengthen our brand. Members across segments describe IEEE as an organization that works hard to make real changes in the world. That perception is not just flattering, it is strategic. It positions IEEE as a global leader in responsible innovation that can be trusted to guide technology for the public good, catalyzing innovation that benefits society at scale.\nAs we look ahead, IEEE has an opportunity to become the world’s leading convening force for developing interdisciplinary technology solutions to solve humanity’s most important challenges. Our future relevance will be defined not only by the technologies we advance but also by the problems we choose to help solve.\nRead more powerful stories about how technology is improving lives across global initiatives in the 2025 IEEE Social Impact Report at ieee.org/advancing-technology/building-better-world/social-impact-report.\n—MARY ELLEN RANDALL\nIEEE president and CEO\nPlease share your thoughts with me: president@ieee.org.",
+          "isoDate": "2026-09-01T18:00:04.000Z"
         },
         {
           "title": "This Teen Helped Native American Students Earn Ham Radio Licenses",
@@ -310,12 +316,6 @@
           "link": "https://spectrum.ieee.org/oscar-winner-jernej-barbic",
           "summary": "While walking to school as a child, Jernej Barbič would marvel at how beautiful his home was. He was born and raised in a picturesque village in northwestern Slovenia (formerly Yugoslavia), located in the European Alps. Surrounded by alpine and beech trees, Barbic dreamed of replicating their swaying in the wind for others to enjoy.\nAt the time, he didn’t have the tools or the knowledge to create a system that could do that, but it sparked his interest in computer graphics, he says.\nJernej Barbič\n\nEmployer \nUniversity of Southern California, in Los Angeles\nTitle \nProfessor of computer science\nMember grade \nSenior member\nAlma maters \nUniversity of Ljubljana, in Slovenia; Carnegie Mellon\nTwenty years later, in 2016, Barbič, a professor of computer science at the University of Southern California, in Los Angeles, made his mark. His Ziva VFX software system allows for the creation of realistic muscle, fat, and skin simulations for 3D digital humans and creatures.\nThe technology was launched in 2016 by a startup he helped found, Ziva Dynamics, headquartered in Vancouver. It was acquired in 2021 by Unity Technologies of San Francisco.\nZiva VFX has been used in more than 60 movies including Aquaman and the Lost Kingdom; Godzilla x Kong: The New Empire; and Venom: Let There Be Carnage.\nFor the design and development of Ziva VFX, Barbič, an IEEE senior member, received a 2025 technical achievement Academy Award. It was a “tremendous honor,” he says, as the award recognizes technologies that have had a significant impact on motion picture production.\n“Computer graphics and simulation can sometimes feel like a specialized technical field,” he says, “but the award showed that these ideas affect not just science but also art and how stories are told on screen.\n“The digital characters enabled by mathematics become important parts of people’s lives.”\nSparking an interest in computer graphics\nBarbič says he was inspired to pursue engineering by his father, an engineer who headed a cement factory’s research department and invented a technology that uses magnetic resonance imaging to test the integrity of cement. His father’s work showed him that “mathematics and physics are beautiful on their own, but engineering lets you build something that other people can use,” he says.\nIt was Barbič’s mother, an elementary school teacher, who introduced him to computer science. When he was 8 years old, the school his mother taught at bought a ZX Spectrum computer. With permission from the principal, she brought it home for her son to play on for two weeks. But he didn’t just play games; he created his own game using the BASIC programming language.\nThe machine came with a booklet that contained instructions on how to write a computer program, he says.\n“At first,” he says, “I copied them verbatim without understanding what they did. But then I started realizing there is structure, and I modified the instructions.”\n Of all the creatures brought to life using his technology, Barbič is particularly enamored with King Kong from 2024’s Godzilla vs. Kong.DNEG/Warner Bros. Entertainment Inc./Legendary\nBy the end of the two weeks, he’d developed a computer game where players guided a snowman along a winding road. It shifted unpredictably to the left or right, and players accumulated points by remaining on the road for as long as possible.\nBarbič went on to earn a bachelor’s degree in mathematics in 2000 from the University of Ljubljana, in Slovenia. The following year, he moved to the United States to begin a doctoral program in computer science at Carnegie Mellon. It was a major turning point in his life, he says.\nHis doctoral research focused on developing simulation methods for objects that can change their shape when an outside force is applied to them, known as “deformable objects.”\nThat project shaped much of his later research, he says: “I became interested not only in making simulations accurate but also in making them practical: fast enough, robust enough, and controllable enough to be used in real applications.”\nAfter earning his Ph.D. in computer science in 2007, he worked as a postdoctoral researcher at MIT. Two years later, he joined USC as an assistant professor.\nMaking movie magic possible\nIt was at USC that Barbič merged his passion for computer science with film. He developed Vega FEM, an open-source software program that allowed people to animate realistic 3D deformable objects. But Vega FEM was narrow in scope and not exactly what filmmakers needed, he says, so he started exploring how to create a version suitable for the movie industry.\n“A major theme of my career has been the translation of research ideas into practical tools,” he says. “Academic research often produces beautiful algorithms, but it can be difficult to make those algorithms usable by artists, engineers, or production teams. I have always been interested in that bridge: taking rigorous computational methods and turning them into systems that people can actually use.”\nIn 2011 he attended an Association for Computing Machinery conference presented by its Special Interest Group on Computer Graphics and Interactive Techniques (SIGGraph). There he met James Jacobs, the creature supervisor at visual effects company Weta FX of Wellington, New Zealand. The company is behind the effects in the Lord of the Rings and Hobbit trilogies and other movies. Jacobs used Barbič’s software to create animals and fantastical creatures.\nTwo years later, Weta FX offered Barbič a summerlong research position in New Zealand. He accepted and spent the time studying the process of creating visual effects and learning what roadblocks existed in the film industry, he says.\nAt the time, the technology to create realistic soft-tissue and anatomical simulation for digital characters didn’t exist.\n“The visual effects industry had reached a point where surface-level realism was not enough,” Barbič says. “A creature could have beautiful skin textures and detailed geometry, but if the bones, muscles, and fat underneath did not move correctly, the illusion would break.\n“The problem was especially difficult for creatures and characters that need to feel alive: animals, monsters, fantasy creatures, or digital doubles. Their bodies may have unfamiliar anatomy, but the audience still anticipates them to move in a way that matches real-world expectations. Muscles should bulge and contract, skin should stretch and slide, fat should have inertia, and tissue should respond to motion and impact.”\n \nIn an effort to solve the problem Jacobs in 2014 approached Barbič about founding a startup. In 2015 they launched Ziva Dynamics, where they began what is now Ziva VFX.\nThe software uses physics-based simulations to model the internal anatomy of a character. It numerically solves the partial differential equations of nonlinear elasticity for musculoskeletal human and creature tissues, Barbič says. The equations describe how muscles, fat, skin, and connective tissue deform, interact with bones, and connect, and how muscles activate. Instead of animating only the outside surface, artists can create a model with underlying muscles, bones, soft tissue, and fat. Each component is assigned material properties, constraints, attachments, and activations. The simulator then computes how they deform and interact over time.\nThe technology uses ideas from computational mechanics, finite element methods, numerical optimization, contact handling, and computer graphics, Barbič says. Finite element simulation, a method used to predict how a product or structure reacts to heat and other real-world forces, provides a way to model deformable materials volumetrically, not just as surfaces, he says. The tool computes internal elastic forces and solves the equations of motion so the character’s tissues respond plausibly to animation, pose changes, muscle activation, and dynamic motion.\nBut the system had to be designed for artists, Barbič says. In production, he says, the goal is not only physical realism but also controllable realism.\n“Artists need to direct the result, iterate, and fit the simulation into a larger animation pipeline,” he says. “So the technology had to combine scientific simulation with practical controls, robustness, and integration with visual effects workflows.”\nBarbič says Ziva VFX has been used in more than 60 movies. Of all the creatures brought to life using his technology, he is particularly enamored with King Kong from 2024’s Godzilla vs. Kong.\n“When King Kong is walking, you can see the muscles, how they’re very pronounced, and how they influence the shape of the skin. You can really feel the strength of King Kong,” he says. “And this was made through my software, so I think it’s amazing.”\nAfter Ziva Dynamics was acquired by Unity, Barbič consulted for the company for almost two years.\nIn 2024 DNEG, a London-based visual effects and computer animation company, acquired the exclusive license to Ziva VFX.\nAnimating the human hand\nBarbič strives to improve visual effects as an entrepreneur and an academic. His most recent research, funded by the U.S. National Science Foundation, focused on the modeling, simulation, and animation of human hands. The goal is to create computer models of hands that can be used to design tools, medical prosthetics, and robotic hands.\n“The hand is a fascinating and difficult system,” Barbič says. “It contains many small bones, muscles, tendons, ligaments, skin, fat, and other soft tissues, all packed into a compact structure and interacting mechanically in complex ways.”\nHe and his team built a digital twin of the human hand.\nHe aimed to move toward “anatomically meaningful simulation,” he says. He used medical imaging, geometric modeling, finite element methods, and multibody simulation to represent the internal structures of the hand and its motions.\n“IEEE lets me place my work not only in the world of images and animation but also in the world of engineering systems that must be accurate, stable, interactive, and useful.”\nHe worked with Bohan Wang, who at the time was a USC doctoral candidate, and George Matcuk, an associate professor of radiology. Wang is now an assistant professor of computer science at the National University of Singapore.\nBarbič, Wang, and Matcuk scanned four people’s hands with an MRI machine. The two men and two women would position their hands in 12 poses, which allowed the team to gather data about how the bones, muscles, and fat move with each pose.\nThe data sets are available for anyone to use in their own studies.\n“This project can help medical doctors learn more about how the hand is moving,” Barbič says. “It’s also great for roboticists to better understand how the human hand actually works, so [the movements] can be replicated.”\nIEEE: Integral in interdisciplinary research\nBarbič joined IEEE in 2008, when he published his research paper on simulation methods for deformable objects in the inaugural issue of the IEEE Transactions on Haptics. He has since published several papers in the IEEE Transactions on Visualization and Computer Graphics, which he says connected his work to a wider community interested in visual computing and computational methods. You can find his research in the IEEE Xplore Digital Library.\n“IEEE recognizes the engineering side of computer science,” he says. “My work is often presented as computer graphics, but at its core, it is also simulation, mechanics, numerical methods, haptics, visualization, and software systems.\n“IEEE is a community where that broader identity makes sense. It lets me place my work not only in the world of images and animation but also in the world of engineering systems that must be accurate, stable, interactive, and useful.”\nHe believes the organization is key in supporting a healthy interdisciplinary research ecosystem at a global scale—which, he says, is why he has served as an associate editor for Transactions on Visualization and Computer Graphics and Transactions on Haptics.\nBeing a member has made it easier for Barbič to connect with engineers in different fields, he says.\n“My research often lives between categories: It is mathematical but also practical; visual but also mechanical; artistic but also engineering-driven,” he says. “IEEE is one of the professional communities where that mixture is understood.”",
           "isoDate": "2026-08-28T18:00:04.000Z"
-        },
-        {
-          "title": "Make a Portable Wide-screen Mechanical TV",
-          "link": "https://spectrum.ieee.org/mechanical-tv-2677767814",
-          "summary": "I never intended to join the cutting edge of electromechanical television. I just wanted to make a nice clock. But sometimes you have to go where the engineering takes you, and in my case it took me to the Scanwheel, a pocket-size wide-screen electromechanical TV with a resolution of 4,096 by 20 pixels. Yup, that’s 4K by 20.\n   The 3D-printed drum [top] is spun by a motor controlled by a driver board [second row, from top]. The driver board, in turn, is controlled by a Raspberry Pi Pico [middle], which also controls the LEDs [second row, from bottom], which are mounted in the 3D-printed casing [bottom] so that the holes pass over them as the drum turns.James Provost\nElectromechanical television was the first form of practical television, developed by John Logie Baird in the 1920s. He used a so-called Nipkow disk, which has a spiral of holes punched through it. As the disk rotates, the holes pass one by one in front of a light source. By varying the brightness of the light as a hole travels across it, you can draw one scan line of a video frame. Spin the disk fast enough, and persistence of vision makes it look like an entire frame is being displayed simultaneously. Commercial electromechanical TV sets were produced in the United Kingdom, with regular broadcasts provided by the BBC in the 1930s.\nAlthough cathode-ray tubes replaced electromechanical televisions in the 1940s, hobbyists have continued to build them and even improve on the original technology. For example, in the June 2022 installment of IEEE Spectrum’s Hands On, Markus Mierse presented a desktop-size 3D-printed color version.\nI built an electromechanical display myself some years ago, but it had a traditional design with a Nipkow disk made from a vinyl record with holes drilled in it. Recently I started tinkering with electromechanical TV again as an outgrowth of my YouTube channel. There I’ve been focusing on developing volumetric displays, which create 3D pixels floating within a volume of space. In particular, I was interested in borrowing some ideas from plenoptic cameras, which use pinholes and lenses to capture multidimensional light fields of samples.\nI wondered if I could run the process in reverse, to create light fields rather than capture them. I often explore ideas in two dimensions before expanding to the third, so I thought I’d first demonstrate a 2D display. I decided to make an electromechanical device into a clock. After all, you don’t need high resolution to display digits.\nHow Does the Scanwheel Display Work?\nThinking about the display as a clockface pushed me toward some key ideas. First, instead of having just one display area, I would use five light sources to create multiple areas—four to represent hours and minutes, and a central area for a separator that would blink each second. Second, to align the digits in a readable row rather than have them spread around an arc, I swapped the Nipkow disk for an established alternative: a Nipkow drum.\nWith a drum, the holes run along the curved cylindrical surface in a stair-step pattern. This means they always trace a straight line from the perspective of a viewer looking from the side, so the clock’s digits would be horizontally aligned.\n“In tests, I’ve pushed the horizontal resolution to more than 8,000 pixels.”\nThese two decisions turned out to be key to achieving both miniaturization and high horizontal resolution. A disk needs a fairly wide diameter so that the scan lines aren’t ridiculously curved. But curvature isn’t a problem with a drum. A drum can be much smaller than a disk that has the same number of scan lines. (And unlike in the 1920s, packing multiple light sources close together inside a small drum isn’t a problem with modern LEDs.) I settled on a 6-centimeter-wide drum, turning the device from desktop-size to something you could carry in your pocket.\nI then realized my five display zones could work in concert to create one single wide screen. Because it’s possible to modulate the brightness of an LED at very high rates, the horizontal resolution can also be very high. My system currently has 4K horizontal resolution, and this is primarily limited by the amount of onboard memory I have available. This memory holds the buffer that stores pixel data for each frame before it is read out to the LEDs and displayed. In tests, I’ve pushed the horizontal resolution to more than 8,000 pixels.\nDespite the Scanwheel’s low vertical resolution—at 20 pixels, it has fewer scan lines than Baird’s 30-line televisions—its high horizontal resolution makes the legibility of the display surprisingly good: I can display not just crude digits but video streamed into the frame buffer.\nUsing the RP2040 Chip’s Special Silicon\nThat frame buffer lives on a Raspberry Pi Pico microcontroller board, based around the RP2040 microcontroller. The RP2040 is ideal for this project because of the chip’s dedicated PIO silicon. PIO stands for programmable input/output, and it’s a block of four coprocessors that uses a very limited instruction set. Each coprocessor can be set up to chew through input/output streams completely independently of the RP2040’s two CPU cores.\n  The first mechanical TVs used disks, which had to be wide to minimize image distortion but allowed bulky light sources. With small, modern light sources, a smaller drum can create images with minimal distortion.James Provost\nIt’s thanks to the PIO that I’m able to keep up with the spinning drum and modulate each of the five LEDs simultaneously as holes pass over them, a task complicated by the fact that the center LED is not a monochrome LED, but a color LED with separate red, green, and blue channels. In fact, the PIO does nearly all the work, pulling data from the frame buffer and controlling the LEDs and the spinning of the drum. The code running on the CPU (written in MicroPython) is primarily responsible for setting up the PIO and then leaving well enough alone.\nA stepper motor connected to a driver board spins the drum, with power provided by the USB jack on the Pi Pico. All the Pi Pico has to do controlwise is send the board a pulse to incrementally advance the drum’s position once every millisecond. Video data is streamed into the Pi Pico via a network interface. You can set up the Scanwheel to mirror a portion of your computer’s screen, or to act as a separate display.\nThe casing, including the drum, is 3D printed. Now for a neat bit: In the Scanwheel’s GitHub repository at https://github.com/AncientJames/Scanwheel/tree/main, alongside all the other files you’ll need to make this project yourself, there’s an OpenSCAD file that generates the 3D-print file for the drum based on adjustable parameters. This means you can easily make a taller drum and add more scan lines, or try other customizations for your very own portable electromechanical display. You can even use it as a clock!",
-          "isoDate": "2026-08-27T14:46:56.000Z"
         }
       ]
     },
