@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-08-31T22:30:42.560Z",
+  "generatedAt": "2026-09-01T03:45:28.902Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "The Bentley Supersports: A stripped-out engineer's indulgence",
+          "link": "https://arstechnica.com/cars/2026/08/the-bentley-supersports-a-stripped-out-engineers-indulgence/",
+          "summary": "It's the lightest Bentley in 85 years.",
+          "isoDate": "2026-08-31T23:01:16.000Z"
+        },
+        {
+          "title": "The Google TV Streamer now costs $50 more",
+          "link": "https://www.theverge.com/tech/987032/google-tv-streamer-price-increase",
+          "summary": "Google raised the price of its 4K streaming box to $149, up $50 from its original $99 price. The new price is currently live at the Google Store and Best Buy, but Amazon appears to still be offering the original price. \nThe price hike comes just a couple of weeks after Google launched its new lineup of Pixel 11 phones with a $100 price hike over their Pixel 10 counterparts. \nThe Google TV Streamer originally launched in 2024 and doubles as a smart home hub. It isn't the only streaming device getting more expensive - component shortages have been driving up prices on everything from laptops to game consoles. Earlier this month, Amazon incre …\nRead the full story at The Verge.",
+          "isoDate": "2026-08-31T22:32:51.000Z"
+        },
         {
           "title": "JMGO’s very bright all-in-one projector looks ideal for gamers and sports",
           "link": "https://www.theverge.com/tech/985986/jmgo-4k-gaming-projector-price-specs",
@@ -18,10 +30,22 @@
           "isoDate": "2026-08-31T21:41:42.000Z"
         },
         {
+          "title": "Trump admin shelves Cyclospora research despite record-breaking outbreak",
+          "link": "https://arstechnica.com/health/2026/08/trump-admin-shelves-cyclospora-research-despite-record-breaking-outbreak/",
+          "summary": "The CDC has tallied nearly 30,000 confirmed and probable cases this summer.",
+          "isoDate": "2026-08-31T21:23:09.000Z"
+        },
+        {
           "title": "I went to the loneliest baseball game on Apple Vision Pro",
           "link": "https://www.theverge.com/tech/986967/apple-vision-pro-mlb-red-sox-yankees-immersive-game",
           "summary": "Ceddanne Rafaela is tagged out at home plate at Yankee Stadium on August 28th. | Getty Images\t\n\nThis weekend, I strapped on an Apple Vision Pro to watch a baseball game in immersive virtual reality for the first time. It was technically impressive, visually pretty remarkable, and also didn't make that much sense.\nApple and Major League Baseball chose a classic match-up of the Boston Red Sox and the New York Yankees for the first of its series of four games streamed on the device. I do not review tech for The Verge, but I do watch a lot of baseball - if there's a game on and I'm at home, it's likely on my television. If this is the future of sports, live events, and wearable technology in general, I'd like to see what all the fuss is a …\nRead the full story at The Verge.",
           "isoDate": "2026-08-31T21:18:27.000Z"
+        },
+        {
+          "title": "Get in on the Ars community that doesn’t fit beneath an article",
+          "link": "https://arstechnica.com/staff/2026/08/get-in-on-the-ars-community-that-doesnt-fit-beneath-an-article/",
+          "summary": "You've read the stories. Now check out our forums.",
+          "isoDate": "2026-08-31T21:12:01.000Z"
         },
         {
           "title": "Review: Coyote vs. Acme is an unabashed love letter to Looney Tunes",
@@ -40,30 +64,6 @@
           "link": "https://arstechnica.com/tech-policy/2026/08/trump-tells-fcc-to-punish-journalist-for-calling-his-election-results-mixed/",
           "summary": "Trump furious at NBC's Kristen Welker for saying he had mixed results in primary endorsements.",
           "isoDate": "2026-08-31T18:39:25.000Z"
-        },
-        {
-          "title": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
-          "link": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
-          "summary": "Lawsuit: Anthropic’s torrenting totally screwed songwriters as AI songs top charts.",
-          "isoDate": "2026-08-31T18:10:45.000Z"
-        },
-        {
-          "title": "Hugging Face hack could indicate cultural issues at OpenAI",
-          "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
-          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to cheat on…",
-          "isoDate": "2026-08-31T18:00:00.000Z"
-        },
-        {
-          "title": "Raindrops are tiny lightning bolts, and they’re corroding cars, study finds",
-          "link": "https://arstechnica.com/science/2026/08/raindrops-are-tiny-lightning-bolts-and-theyre-corroding-cars-study-finds/",
-          "summary": "Finding reveals an overlooked way that water can damage surfaces.",
-          "isoDate": "2026-08-31T17:11:48.000Z"
-        },
-        {
-          "title": "Car owners want tech they can ignore",
-          "link": "https://www.theverge.com/news/986721/car-tech-survey-jd-power-smart-ignition",
-          "summary": "Automakers keep shoving more tech into their cars, despite evidence that consumers are increasingly fed up with huge screens and glitchy software. In fact, the features that car owners appreciate the most happen to be the ones they barely notice, according to the latest tech survey from JD Power. \nThe consumer research firm surveyed 68,084 owners of new 2026 model-year vehicles after 90 days of ownership. The survey touched on 40 automotive technologies covering comfort and convenience; connected vehicles; driver assist; electric vehicles; and smart vehicles.\nThe features that scored the highest were the ones that were the most inconspicuo …\nRead the full story at The Verge.",
-          "isoDate": "2026-08-31T17:11:17.000Z"
         }
       ]
     },
@@ -72,34 +72,10 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "NASA Welcomes Türkiye as Newest Artemis Accords Signatory  ",
-          "link": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-turkiye-as-newest-artemis-accords-signatory/",
-          "summary": "During a ceremony hosted by NASA Administrator Jared Isaacman at the agency’s headquarters in Washington on Monday, the Republic of Türkiye signed the Artemis Accords, joining the growing international coalition of like-minded nations dedicated to peaceful, transparent space exploration. “It is my privilege to welcome the Republic of Türkiye as the 71st signatory of the […]",
-          "isoDate": "2026-08-31T21:14:12.000Z"
-        },
-        {
-          "title": "September 2026 Satellite Puzzler",
-          "link": "https://science.nasa.gov/earth/earth-observatory/september-2026-satellite-puzzler/",
-          "summary": "Here’s the August 2026 puzzler. Quick, where is this? And what makes this place interesting or unique?",
-          "isoDate": "2026-08-31T19:37:57.000Z"
-        },
-        {
-          "title": "NASA’s Nancy Grace Roman Space Telescope Launches",
-          "link": "https://www.nasa.gov/image-article/nasas-nancy-grace-roman-space-telescope-launches/",
-          "summary": "NASA’s Nancy Grace Roman Space Telescope, aboard a SpaceX Falcon Heavy rocket, transits the Sun during launch from the agency’s Kennedy Space Center in Florida on Aug. 30, 2026. Roman is named after the agency’s first chief astronomer. Roman will survey billions of stars and galaxies with a field of view far larger than Hubble’s, […]",
-          "isoDate": "2026-08-31T14:10:31.000Z"
-        },
-        {
-          "title": "Roman Commissioning",
-          "link": "https://science.nasa.gov/missions/roman-space-telescope/roman-commissioning/",
-          "summary": "Where is Roman? Roman is making its three-month journey from Earth to Sun-Earth Lagrange Point 2, or L2. Along the way, Roman is undergoing a process called commissioning, where systems are turned on, adjusted, calibrated, and prepared for science operations. Commissioning is the time for scientists and engineers to make sure that Roman is performing […]",
-          "isoDate": "2026-08-31T12:16:53.000Z"
-        },
-        {
-          "title": "APOD: 2026 August 31 – Launch of the Roman Space Telescope",
-          "link": "https://science.nasa.gov/image-article/apod-2026-august-31-launch-of-the-roman-space-telescope/",
-          "summary": "APOD Science APOD APOD: 2026 August 31 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view this […]",
-          "isoDate": "2026-08-31T04:05:00.000Z"
+          "title": "ERROR cargando feed",
+          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
+          "isoDate": "2026-09-01T03:45:24.850Z"
         },
         {
           "title": "Scale of snakebites estimated globally",
@@ -130,6 +106,30 @@
           "link": "https://www.nature.com/articles/d41586-026-02687-y",
           "summary": "Nature, Published online: 31 August 2026; doi:10.1038/d41586-026-02687-y\nOptimism about the future can seem in short supply nowadays, but people’s age, where they live and their expectations have a lot to do with it.",
           "isoDate": "2026-08-31T00:00:00.000Z"
+        },
+        {
+          "title": "AI models are being used to track zoonotic diseases. Will they prevent the next pandemic?",
+          "link": "https://www.nature.com/articles/d41586-026-02684-1",
+          "summary": "Nature, Published online: 30 August 2026; doi:10.1038/d41586-026-02684-1\nSpread of diseases between humans and animals is an issue around the world. But AI models can be used to monitor their progress.",
+          "isoDate": "2026-08-30T00:00:00.000Z"
+        },
+        {
+          "title": "Lift-off! NASA launches Roman Space Telescope to tackle dark-energy mysteries",
+          "link": "https://www.nature.com/articles/d41586-026-02727-7",
+          "summary": "Nature, Published online: 30 August 2026; doi:10.1038/d41586-026-02727-7\nThe space observatory will have an expansive view of the Universe as well as sharp resolution.",
+          "isoDate": "2026-08-30T00:00:00.000Z"
+        },
+        {
+          "title": "Briefing Chat: How Dolly Parton left her mark on science",
+          "link": "https://www.nature.com/articles/d41586-026-02732-w",
+          "summary": "Nature, Published online: 28 August 2026; doi:10.1038/d41586-026-02732-w\nNature reporters discuss the country-music icon's advocacy for vaccines and public health — plus, promising trial results for an mRNA cancer therapy.",
+          "isoDate": "2026-08-28T00:00:00.000Z"
+        },
+        {
+          "title": "Mysteries of the deep and AI friendship: Books in brief",
+          "link": "https://www.nature.com/articles/d41586-026-02725-9",
+          "summary": "Nature, Published online: 28 August 2026; doi:10.1038/d41586-026-02725-9\nAndrew Robinson reviews five of the best science picks.",
+          "isoDate": "2026-08-28T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-08-31T22:30:37.730Z"
+          "isoDate": "2026-09-01T03:45:25.533Z"
         },
         {
           "title": "Amazon rigged billions in ad pricing, lawsuit from states and US watchdog alleges",
@@ -210,6 +210,12 @@
           "isoDate": "2026-08-31T19:30:00.000Z"
         },
         {
+          "title": "Polimill builds Japan's next-generation public AI infrastructure",
+          "link": "https://openai.com/index/polimill",
+          "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
+          "isoDate": "2026-08-31T07:00:00.000Z"
+        },
+        {
           "title": "How an MIT research project became a global programming language",
           "link": "https://news.mit.edu/2026/how-mit-research-project-became-global-programming-language-0831",
           "summary": "With millions of users across the world, Julia has been used to conduct cutting-edge research and to design new drugs, jet engines, heat pumps, and more.",
@@ -256,12 +262,6 @@
           "link": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
           "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
           "isoDate": "2026-08-27T09:00:00.000Z"
-        },
-        {
-          "title": "Expanding OpenAI’s presence in Brazil",
-          "link": "https://openai.com/index/expanding-our-presence-in-brazil",
-          "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
-          "isoDate": "2026-08-27T03:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-08-31T22:30:41.718Z"
+          "isoDate": "2026-09-01T03:45:27.859Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-08-31T22:30:39.394Z"
+          "isoDate": "2026-09-01T03:45:26.720Z"
         },
         {
           "title": "This Teen Helped Native American Students Earn Ham Radio Licenses",
@@ -324,12 +324,57 @@
       "maxItems": 120,
       "items": [
         {
-          "title": "RESULTADOS (EN DIRECTO)",
+          "title": "RESULTADOS (ÚLTIMOS)",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "BAR  5-2  RAY",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "OSA  1-0  GET",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "CEL  0-2  ATH",
           "link": "",
           "summary": ""
         },
         {
           "title": "DEP  3-1  VAL",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "REA  4-0  MÁL",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "SEV  1-3  ATL",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "REA  2-1  ESP",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "LEV  5-2  REA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "ALA  1-0  VIL",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "SAN  3-2  ELC",
           "link": "",
           "summary": ""
         },
