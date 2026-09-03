@@ -1,69 +1,69 @@
 {
-  "generatedAt": "2026-09-03T03:08:03.505Z",
+  "generatedAt": "2026-09-03T10:43:47.989Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
         {
-          "title": "Uber beats Waymo as first to launch robotaxis in London",
-          "link": "https://www.theverge.com/news/988415/uber-wayve-robotaxi-london-launch",
-          "summary": "Uber beat out Waymo in launching a commercial robotaxi service in London, the city's first. The vehicles use autonomous driving tech developed by Wayve, a UK-based startup, and will initially feature safety drivers behind the wheel. \nThe launch is a milestone for Uber, which has been plotting a UK launch with Wayve for several years. In beating Waymo to the punch, it allows Uber to set the standard for the robotaxi experience for thousands of Londoners. It's also an early test of whether there's appetite for driverless ridehailing beyond the US and China, where most of the world's robotaxis are currently clustered. (There's a smattering in  …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-02T23:00:00.000Z"
+          "title": "Agriculture relies on fossil fuels. It’s costing us.",
+          "link": "https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/",
+          "summary": "If you’ve had to fill up your vehicle’s gas tank or buy a plane ticket lately, you’ve probably felt the effects of rising fossil-fuel prices. But farmers buying fertilizer for their crops are especially aware of just how far the ripple effects of the conflict in Iran have spread. Fertilizer prices have been on a…",
+          "isoDate": "2026-09-03T10:00:00.000Z"
         },
         {
-          "title": "Spending deal comes with a bonus: Blocking political control of grants",
-          "link": "https://arstechnica.com/science/2026/09/budget-deal-puts-political-control-of-grants-on-hold-until-december/",
-          "summary": "Congress pauses the OMB's attempt to rewrite how research is funded.",
-          "isoDate": "2026-09-02T21:20:03.000Z"
+          "title": "Scaling agentic AI pilots across the enterprise",
+          "link": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
+          "summary": "As agentic AI moves from experimentation toward enterprise deployment, the challenge is figuring out how agents can work together, connect to the systems and data they need, and operate safely across the workflows that run a business. Although agentic AI has been adopted by some 80% of Fortune 500 companies, progress toward meaningful scale remains…",
+          "isoDate": "2026-09-03T09:30:32.000Z"
         },
         {
-          "title": "I rented a car, and within hours, my driver's license was for sale",
-          "link": "https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/",
-          "summary": "The FBI is reportedly investigating a massive data breach that is unfolding in real time.",
-          "isoDate": "2026-09-02T20:32:02.000Z"
+          "title": "Microsoft discloses Azure revenue as part of major financial reporting changes",
+          "link": "https://www.theverge.com/news/989102/microsoft-earnings-changes-azure-revenue",
+          "summary": "Microsoft is changing how it reports its finances to investors by splitting its businesses into two segments and disclosing quarterly revenue for its Azure cloud business for the first time. The changes are meant to reflect the ongoing impact of AI on Microsoft and how the company now operates.\nThe software giant has previously reported revenue from three segments: Productivity and Business Processes, Intelligent Cloud, and More Personal Computing. This is now simplifying to two: Agents and Infra, and Devices and Consumer.\nDevices and Consumer will include search and advertising revenues from LinkedIn and search advertising, as well as rev …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-03T08:59:09.000Z"
         },
         {
-          "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
-          "summary": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasoning steps on complex tasks and \"calling tools iteratively.\" It has the same introductory pricing as 3.7 Flash, $0.75 per million input tokens and $3.75 per million output tokens, but could still end up costing users more. Google warns that \"the model might use more tokens to maximize performance, especially at higher effort levels.\" Developers can keep using Gemini 3.7 Flash if they want to minimize token usage. \nGemini 3.8 Flash's launch was followed by some early  …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-02T20:11:40.000Z"
+          "title": "Here’s the first 4K 120Hz UST projector with optical lens shift",
+          "link": "https://www.theverge.com/gadgets/986005/awol-visions-4k-120hz-ust-projector-is-first-with-optical-lens-shift",
+          "summary": "A projector for people who can afford to call this a “man cave.” | Image: Awol Vision\t\n\nDetail-preserving optical lens shift is not something you expect to find on an ultra-short throw projector running Google TV, but that's exactly what you'll find inside of Awol Vision's new LuxVision. It also promises to produce an incredibly bright (6000 ISO Lumens) 4K 120Hz image measuring 120 inches when placed just 7.5 inches from the wall.\nThe vertical lens shift is the star here. Most UST projectors use digital trickery to manipulate the image onto the wall or screen behind it. The LuxVision can raise and lower the output optically to preserve the detail in the 4K image without having to move the projector or resort to keystone correc …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-03T08:30:00.000Z"
         },
         {
-          "title": "FCC plans robocall scorecard to grade phone companies on spam call blocking",
-          "link": "https://arstechnica.com/tech-policy/2026/09/fcc-plans-robocall-scorecard-to-grade-phone-companies-on-spam-call-blocking/",
-          "summary": "Carrier scorecards may include call-blocking stats and data on customer complaints.",
-          "isoDate": "2026-09-02T19:54:27.000Z"
+          "title": "Belkin’s first trackers come ready to attach to your gear.",
+          "link": "https://www.theverge.com/tech/987565/belkin-tracker-apple-find-my-google-find-hub-surefind-wallet-card-spot-tag",
+          "summary": "Belkin’s SureFind Loop Cable Tag tracker includes a removable USB-C charging cable. | Image: Belkin\t\n\nAfter selling accessories for attaching Apple's AirTags to everything from keys to backpacks, Belkin is introducing its own trackers that work with either Apple's Find My or Google's Find Hub tracking networks. In addition to compatibility with Android and iOS, what differentiates these trackers from AirTags and Google's recently announced Pixel Tag is that you don't need to buy any additional accessories, cases, or hardware to attach them to items. They come with lanyards or key rings already integrated into their designs.\nThe cheapest and simplest option is the $14.99 Belkin SureFind Spot that comes tethered to a metal key ring, but for $ …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-03T08:00:00.000Z"
         },
         {
-          "title": "Wary of Artemis IV timeline, NASA is changing lunar spacesuit design",
-          "link": "https://arstechnica.com/space/2026/09/wary-of-artemis-iv-timeline-nasa-is-changing-lunar-spacesuit-design/",
-          "summary": "\"Requirements are being adjusted to reflect near-term mission needs.\"",
-          "isoDate": "2026-09-02T19:37:08.000Z"
+          "title": "Belkin introduces its first longer-lasting semi-solid-state power banks",
+          "link": "https://www.theverge.com/tech/988248/belkin-ultracharge-pro-boostsolid-cell-power-bank-battery-safer",
+          "summary": "Belkin is joining companies like BMX, Kuxiu, and Zens with the launch of its first power banks featuring semi-solid-state battery technology. The company claims the new accessories have been \"engineered to last up to 3x longer than other power banks\" with the addition of a \"gel-like layer\" alongside the liquid electrolyte typically found in lithium-ion batteries.\nOther advantages of what Belkin is calling its BoostSolid Cell technology include a reduced risk of overheating that could cause swelling or fires and consistent power delivery across a wider temperature range. They're more expensive than power banks with comparable specs, but a lo …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-03T08:00:00.000Z"
         },
         {
-          "title": "Here are some of REI’s best Labor Day sale deals",
-          "link": "https://www.theverge.com/gadgets/988398/rei-labor-day-sale-deal-2026",
-          "summary": "The discounted Garmin InReach 3 Mini can help you stay in touch when you’re out in the wilderness. | Image: Garmin\t\n\nSummer is winding down, but REI’s Labor Day sale is here to help save you some bucks on gear that’ll let you get the most out of your upcoming outdoor expeditions. There are many, many discounts, from men’s and women’s clothing and REI Co-op gear to equipment for camping and hiking and more. The sale runs through September 7th, 2026.\nIn case you weren’t aware, REI members can take an extra 20 percent off a single outlet item with the coupon code LABORDAY26. A lifetime membership is only $30, and there are a number of items available where the discount covers that upfront cost.\nIf you’re open to suggestions on what to check out during the sale, I’d like to call particular attention to Darn Tough socks while they’re 25 percent off. These are some of my favorite socks for cycling and working out, thanks to their supportive fit and variety of color options. Notably, they feature a lifetime warranty for both normal wear and inadvertent damage. You can ship them back to Darn Tough, or bring them to a partnered retailer, for a credit or replacement. That said, these socks live up to their name, and they rarely develop holes through normal use.\nHere are a few other deals we’ve featured before on The Verge that we are confident outdoorsy types will enjoy.\nGarmin InReach Mini 3 Plus\nThe Mini 3 Plus is identical to the standard model in that it allows you to stay connected while off the grid; however, it also features an audible siren and the ability to send photos and voice messages, in addition to standard texts.\n\nWhere to Buy:\n\n $499.99 $449.99 at REI\n\nREI Siesta Hooded 20 Sleeping Bag\nThe Siesta prioritizes comfort with a roomy rectangular shape that gives you space to stretch out. The synthetic sleeping bag features an insulated hood — one that’s spacious enough to accommodate a real pillow — along with multiple zipper configurations so you can vent your feet or fully unzip it into a quilt-like blanket.\n\nWhere to Buy:\n\n $149 $111.69 at REI (medium)\n $159 $119.19 at REI (long)\n\nJBL Charge 6\nThe Charge 6 is a robust, IP68-rated portable speaker with up to 28 hours of battery life and support for lossless audio over USB-C. Like the JBL Flip 7, it can also analyze your audio to deliver clearer, louder sound and reduce distortion at higher volumes.\n\nWhere to Buy:\n\n $199.95 $149.99 at REI\n\nMSR PocketRocket 2 Stove\nThe PocketRocket 2 is a single-burner canister stove that can boil water in as little as three and a half minutes. It’s lightweight, foldable, and compatible with most isobutane-propane fuel canisters, making it a great pick for backpackers looking to shed weight.\n\nWhere to Buy:\n\n $59.95 $44.89 at REI\n\nJetBoil MiniMo Cooking System\nJetBoil’s cooking systems aren’t for ultra-light backpackers; however, the MiniMo is incredibly straightforward to use, comes with a 1-liter pot, and heats water in as little as two minutes, making it suitable for everything from freeze-dried meals to a well-deserved cup of cocoa.\n\nWhere to Buy:\n\n $179.99 $107.93 at REI\n\nZippo HeatBank 6 Pro Rechargeable Hand Warmer\nZippo’s rechargeable, IP57-rated hand warmer offers three heat settings and up to six hours of runtime. It can also serve as a 24-lumen flashlight or a 5,200 mAh power bank in a pinch, though, unlike most warmers, it’s only sold as a single unit.\n\nWhere to Buy:\n\n $59.95 $34.93 at REI\n\nHalf Dome 2 Tent (with footprint)\nREI’s inexpensive, three-season tent is easy to set up and offers plenty of space for two people, with built-in pockets for stowing gear and large roll-up doors. It’s certainly not the lightest offering you can buy, but at this price, it’s an easy recommendation for first-time backpackers and anyone looking for a solid tent for car camping.\n\nWhere to Buy:\n\n $329 $246.69 at REI\n\nKelty Low Loveseat\nThe Kelty Low Loveseat is a sturdy, low-profile camp chair built for two. It features a steel frame, a padded seat, and extra-large cup holders for your drinks or gear. It also includes a padded roll-tote storage bag, making it easy to transport when it’s folded down.\n\nWhere to Buy:\n\n $149.95 $112.39 at REI",
-          "isoDate": "2026-09-02T18:56:59.000Z"
+          "title": "Anker’s sleep speaker uses radar and flower power to help you relax",
+          "link": "https://www.theverge.com/tech/985689/anker-put-radar-and-flower-power-into-a-sleep-speaker",
+          "summary": "Peace, man. | Image: Anker\t\n\nAnker's SleepLab speaker promises to track and enhance sleep without a wearable. It uses millimeter-wave radar (60GHz) blasting from your nightstand to track micro-movements in your chest and body to continuously monitor your heart rate and breathing to enhance whatever sleep stage you're in. It also embeds lots of hippie shit.\nIf I'm understanding things correctly, the speaker will - over the course of a month - determine which routines help you get the most rest, using acoustic binaural beats and lighting to gradually deepen relaxation. It operates with a touch of a button, independently of your phone, and doesn't require a paid subscript …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-03T07:30:00.000Z"
         },
         {
-          "title": "1Password wades into a right-wing mess after funding a Linux project",
-          "link": "https://www.theverge.com/tech/988536/1password-dhh-linux-controversy",
-          "summary": "David Faugno, CEO at 1Password, at the Web Summit conference in Lisbon, Portugal, on November 11th, 2025. | Photo: Zed Jameson / Bloomberg via Getty Image\t\n\n1Password faced immediate backlash from customers this week over a $300,000 pledge in support of a Linux distro created by David Heinemeier Hansson, who has regularly published overtly racist blog posts that include comments calling for deportation of ethnic minorities in Europe. The popular password manager is now a \"distinguished corporate patron\" of Omacom, the nonprofit foundation that oversees a popular Linux distribution known as Omarchy.\nOne viral blog post declared that 1Password \"Supports the Ethnic Cleansing of Europe\" because of the donation. Others on social media asked for suggestions for alternative password managers so they w …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-02T18:48:14.000Z"
+          "title": "Anker’s Soundcore is bringing its incredible call quality to more headphones",
+          "link": "https://www.theverge.com/tech/986330/soundcore-headphones-earbuds-announcement-ifa-2026",
+          "summary": "The Soundcore Space 2 Pro will be the first headphones to run on Anker’s Thus chip. | Image: Soundcore\t\n\nAfter introducing the Thus processing chip in April and releasing it with the Liberty 5 Pro series earbuds, Soundcore is bringing it to more audio products. The Thus chip is behind the best call quality I've ever heard from a pair of earbuds or headphones, virtually eliminating ambient sounds from the speaker's environment. At IFA 2026 in Berlin, Soundcore announced the Space 2 Pro headphones, AeroClip 2 and AeroClip 2 Pro open clip earbuds, and Liberty Buds 2.\nThe Space 2 Pro will be the first headphones to use the Thus chip and use a 6-microphone array for voice isolation. There are also eight microphones for the headphones' adaptive acti …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-03T07:30:00.000Z"
         },
         {
-          "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
-          "link": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
-          "summary": "Google's Pro model updates are seemingly paused, but there's yet another Gemini Flash today.",
-          "isoDate": "2026-09-02T18:13:54.000Z"
+          "title": "Anker announces its first over-the-counter hearing aids",
+          "link": "https://www.theverge.com/tech/986377/ankers-first-otc-hearing-aids-ifa-2026",
+          "summary": "Anker’s first OTC hearing aids, powered by the Thus chip, are expected in coming months. | Image: Anker\t\n\nIn what could be fortuitous timing for hearing aid users, Anker announced its first over-the-counter (OTC) hearing aids at IFA 2026. It was only a couple months ago when LXE Hearing, the parent company for Eargo and Lexie Hearing - two major OTC manufacturers in the US - decided to end US operations and exit the OTC hearing aid market. Now perhaps Anker can fill that void.\nThe receiver-in-canal (RIC) design has a main body that rests behind the ear. It uses Anker's Thus chip, announced in April and first released in the Soundcore Liberty 5 Pro earbuds series. The chip delivers the best voice isolation I've ever heard on any audio product an …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-03T07:30:00.000Z"
         },
         {
-          "title": "Trump may be forced to reveal secret rules feds use for AI safety testing",
-          "link": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/",
-          "summary": "Trump’s secret reviews of frontier AI models may hide corruption, lawsuit says.",
-          "isoDate": "2026-09-02T17:58:33.000Z"
+          "title": "Anker’s new printer works directly on fabrics",
+          "link": "https://www.theverge.com/tech/986948/anker-eufymake-personal-fabric-printer-dtg-dtf-ifa",
+          "summary": "After introducing a consumer-friendly UV printer last year capable of printing designs directly on materials like wood, metal, glass, and acrylic, Anker's eufyMake brand is introducing a new machine that can print directly on fabrics. With an expected launch sometime in the spring of 2027, Anker hasn't yet revealed an official name for the new machine, but its \"personal fabric printer\" will offer multiple ways to put photos or custom designs onto T-shirts, jeans, bags, and hats.\nThe machine will be capable of both direct-to-garment printing where images are applied directly to soft, breathable fabrics, and direct-to-film printing where desi …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-03T07:30:00.000Z"
         }
       ]
     },
@@ -71,6 +71,18 @@
       "header": "120  CIENCIA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "APOD: 2026 September 3 – The Eclipse and the Stork",
+          "link": "https://science.nasa.gov/image-article/apod-2026-september-3-the-eclipse-and-the-stork/",
+          "summary": "APOD Science APOD APOD: 2026 September 3 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Eclipse […]",
+          "isoDate": "2026-09-03T04:05:00.000Z"
+        },
+        {
+          "title": "Peatland Fires Darken Skies in Indonesia",
+          "link": "https://science.nasa.gov/missions/aqua/peatland-fires-darken-skies-in-indonesia/",
+          "summary": "With Indonesia gripped by drought, fires are smoldering on the surface and underground.",
+          "isoDate": "2026-09-03T04:01:00.000Z"
+        },
         {
           "title": "NASA Revamps Challenge Linking Community College Studies to Aerospace Careers",
           "link": "https://www.nasa.gov/learning-resources/linking-community-college-studies-to-aerospace-careers/",
@@ -118,18 +130,6 @@
           "link": "https://www.nature.com/articles/s41586-026-11027-z",
           "summary": "Nature, Published online: 02 September 2026; doi:10.1038/s41586-026-11027-z\nRetraction Note: Warming accelerates global drought severity",
           "isoDate": "2026-09-02T00:00:00.000Z"
-        },
-        {
-          "title": "Audio long read: Could mending damaged DNA prolong life?",
-          "link": "https://www.nature.com/articles/d41586-026-02762-4",
-          "summary": "Nature, Published online: 02 September 2026; doi:10.1038/d41586-026-02762-4\nResearchers are hunting for ways to enhance DNA repair with the hopes that this will keep people healthier for longer.",
-          "isoDate": "2026-09-02T00:00:00.000Z"
-        },
-        {
-          "title": "Functional chimeric mRNAs encode proteins in mammalian immunity",
-          "link": "https://www.nature.com/articles/s41586-026-10982-x",
-          "summary": "Nature, Published online: 02 September 2026; doi:10.1038/s41586-026-10982-x\nInflammation induces interchromosomal DNA interactions that bring parent genes into close proximity, facilitating the formation of chimeric mRNAs that encode physiologically relevant, functional proteins.",
-          "isoDate": "2026-09-02T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-09-03T03:07:58.378Z"
+          "isoDate": "2026-09-03T10:43:45.704Z"
+        },
+        {
+          "title": "Watch: BBC travels in self-driving Uber around London",
+          "link": "https://www.bbc.co.uk/news/videos/cwyzeyd7peeo?at_medium=RSS&at_campaign=rss",
+          "summary": "The BBC's Zoe Kleinman takes a ride on Uber's self-driving robotaxi as the service rolls out on Thursday.",
+          "isoDate": "2026-09-03T07:20:23.000Z"
         },
         {
           "title": "Uber launches UK's first robotaxis with a driver - here's what it's like to ride in one",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
           "summary": "The governor of the Bank of England warned of AI's “volatility” caused by energy shocks from the US-Iran war.",
           "isoDate": "2026-09-01T10:18:47.000Z"
-        },
-        {
-          "title": "Amazon rigged $20bn worth of ad prices, US lawsuit alleges",
-          "link": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o?at_medium=RSS&at_campaign=rss",
-          "summary": "Amazon responded to the lawsuit, arguing the US Federal Trade Commission \"misunderstands\" their ad market.",
-          "isoDate": "2026-08-31T21:28:49.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-09-03T03:08:02.297Z"
+          "isoDate": "2026-09-03T10:43:47.462Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-09-03T03:08:00.263Z"
+          "isoDate": "2026-09-03T10:43:46.755Z"
         },
         {
           "title": "Applying Different Forms of Mentorship",
