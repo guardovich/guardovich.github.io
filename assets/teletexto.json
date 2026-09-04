@@ -1,10 +1,40 @@
 {
-  "generatedAt": "2026-09-04T03:06:53.726Z",
+  "generatedAt": "2026-09-04T10:40:58.329Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "This NAS company wants to run your local smart home",
+          "link": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home",
+          "summary": "Ugreen’s HomeAgent H100 Pro hub combines local storage, on-device AI, and a new voice assistant, Uliya, to run your smart home. | Photo by Jennifer Pattison Tuohy / The Verge\t\n\nUgreen, known for its phone power banks, chargers, and NAS storage solutions, is moving into the smart home - in a big way. This week at the IFA tech show, the company launched its HomeAgent smart home platform that combines security camera storage, on-device AI, and smart home control in one system, managed by a voice assistant called Uliya, with the promise that everything runs locally.  \nAt the core of Ugreen's HomeAgent system is a hub that acts as the brain of your smart home, running a local-first AI (with some caveats) that you can interact with using natural language via Uliya. There are three hub configurations to choose from, each …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-04T09:41:44.000Z"
+        },
+        {
+          "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+          "link": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+          "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight, increasingly becoming part…",
+          "isoDate": "2026-09-04T09:25:19.000Z"
+        },
+        {
+          "title": "Lexar’s Muse is an ultra-slim portable SSD that’s less than 4mm thick",
+          "link": "https://www.theverge.com/tech/986960/lexar-muse-ultra-thin-ssd-storage-drive-proprietary-cable",
+          "summary": "Following the lead of companies like Xteink, Lexar is the latest to sacrifice a USB-C port in the pursuit of slimming down its hardware.\nWhen the Lexar Muse Ultra-Slim Portable SSD launches later this year in 512GB and 1TB capacities it will be one of the slimmest you can buy. At its thickest point in the middle it measures just 3.8mm, but that tapers to only 1mm at the edges thanks to high-density NAND stacking and a \"custom ultra-thin PCB architecture\" inside. But performance remains solid with read speeds up to 1,050MB/s and write speeds maxing out at 1,000MB/s. That's fast enough to record 4K Apple ProRes video at up to 120fps when conn …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-04T07:00:00.000Z"
+        },
+        {
+          "title": "Aqara goes all in on smart lighting",
+          "link": "https://www.theverge.com/tech/989581/aqara-smart-lighting-ifa-2026",
+          "summary": "After showing off several smart home firsts at CES, Aqara has returned to IFA with a major lineup of smart lighting compatible with both Zigbee and Thread. One of these new devices is the Floor Lamp T1, which trades the look of a typical lamp for an LED-equipped pole attached to a base. \nThe lamp stands 4.6 feet tall, offering RGBIC lighting and 18 individually addressable zones. Similar to the floor lamp from Govee, Aqara's new device emits light in the area surrounding it, creating a splash of color on your wall.\nAqara is getting into smart lighting for the outside of your home as well. In addition to new permanent outdoor smart lights w …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-04T07:00:00.000Z"
+        },
+        {
+          "title": "This rugged phone’s removable camera can survive and capture your extreme adventures",
+          "link": "https://www.theverge.com/tech/989657/rugone-xsnap-7-pro-smartphone-removable-action-camera-rugged-waterproof",
+          "summary": "RugOne's Xsnap 7 Pro comes with both an IP68 and IP69K rating, meaning the rugged phone can survive intense water blasts and complete submersion for up to 30 minutes. But what really sets the Xsnap 7 Pro apart from everything else on the market is that one of its three rear cameras can be removed and used as a standalone action cam. It made its debut at MWC 2026 earlier this year but is launching through Kickstarter on September 7th for €799 (around $930) in limited quantities, followed by a global release in October for $999.\nThe Xsnap 7 Pro's detachable camera module isn't quite as a capable as the DJI Osmo Nano or the Insta360 Go Ultra t …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-04T07:00:00.000Z"
+        },
         {
           "title": "Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control",
           "link": "https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40",
@@ -34,36 +64,6 @@
           "link": "https://www.theverge.com/tech/988648/ugreen-magflow-pro-magnetic-wireless-power-bank-10k-liquid-cooling",
           "summary": "Does your power bank have \"CryoPulse technology\" or a \"Cyber Window\"? If you disappointingly answered \"no\" to both, you might want to consider upgrading to Ugreen's new MagFlow Pro Magnetic Power Bank. It's available starting today for $149.99, which puts it on the really expensive end of power banks with only a 10,000mAh battery, but those fancy-sounding features are part of what Ugreen is claiming to be the world's first liquid-cooling system on a power bank with wireless charging.\nInside the MagFlow Pro is a micro-pump that's used to circulate coolant and draw heat away from components including the power bank's Qi2.2-compatible wireless …\nRead the full story at The Verge.",
           "isoDate": "2026-09-03T22:00:00.000Z"
-        },
-        {
-          "title": "Xbox imposes harsh new time limits for Game Pass game streaming",
-          "link": "https://arstechnica.com/gaming/2026/09/xbox-imposes-harsh-new-time-limits-for-game-pass-game-streaming/",
-          "summary": "Over 1 million Game Pass subscribers will have to pay more for their heavy streaming use.",
-          "isoDate": "2026-09-03T21:10:59.000Z"
-        },
-        {
-          "title": "Dungeons &#038; Dragons is getting a &#8216;Ravenloft&#8217; live-action Netflix series",
-          "link": "https://www.theverge.com/entertainment/989880/dungeons-and-dragons-ravenloft-netflix",
-          "summary": "Strahd returned earlier this year in Ravenloft: The Horrors Within. | Image: Wizards of the Coast\t\n\nA Ravenloft series is currently in development from executive producer Alfonso Cuarón, writer and executive producer John August, and Hasbro Entertainment, Deadline reports. It could bring to life one of Dungeons & Dragons' most iconic campaign settings, which got an update earlier this year with Ravenloft: The Horrors Within. \nNetflix's Ravenloft series will reportedly center on the infamous Strahd, according to Deadline: \nAt its heart, the series follows the making of the vampire Darklord Strahd von Zarovich, whose story of power, love, obsession, and undead transformation charts his origins from tragic antihero to one of Dungeons & Dra …\n\nRead the full story at The Verge.",
-          "isoDate": "2026-09-03T20:48:05.000Z"
-        },
-        {
-          "title": "150 research primates got diarrhea, flooding lab with priceless vaccine data",
-          "link": "https://arstechnica.com/health/2026/09/150-research-primates-got-diarrhea-flooding-lab-with-priceless-vaccine-data/",
-          "summary": "Researchers now have clear new targets and insights for developing a Shigella vaccine.",
-          "isoDate": "2026-09-03T20:14:48.000Z"
-        },
-        {
-          "title": "Confused about which VPN is right, US senator asks the NSA for guidance",
-          "link": "https://arstechnica.com/security/2026/09/us-senator-calls-on-the-nsa-to-give-guidance-for-use-of-vpns/",
-          "summary": "Open source, commercial, single-hop, multi-hop, mixnet? The array of options is dizzying.",
-          "isoDate": "2026-09-03T19:52:06.000Z"
-        },
-        {
-          "title": "Supreme Court urged to let states regulate sports bets on prediction markets",
-          "link": "https://arstechnica.com/tech-policy/2026/09/nj-urges-scotus-to-rule-that-kalshi-sports-bets-are-gambling-not-swaps/",
-          "summary": "Circuit split raised the odds that SCOTUS will rule on Kalshi fight against states.",
-          "isoDate": "2026-09-03T19:42:02.000Z"
         }
       ]
     },
@@ -71,6 +71,12 @@
       "header": "120  CIENCIA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "A Trio of Tropical Cyclones in the Pacific",
+          "link": "https://science.nasa.gov/earth/earth-observatory/a-trio-of-tropical-cyclones-in-the-pacific/",
+          "summary": "The Pacific was buzzing with storms while the Atlantic was notably quiet.",
+          "isoDate": "2026-09-04T04:01:00.000Z"
+        },
         {
           "title": "Body parts used for ancient Egyptian artworks traced to surprising source",
           "link": "https://www.nature.com/articles/d41586-026-02739-3",
@@ -124,12 +130,6 @@
           "link": "https://www.science.org/doi/abs/10.1126/science.aec6116?af=R",
           "summary": "Science, Volume 393, Issue 6815, September 2026.",
           "isoDate": "2026-09-03T07:00:00.000Z"
-        },
-        {
-          "title": "Longitudinal dynamics of gene expression and metabolomics in an aging population cohort",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aed6452?af=R",
-          "summary": "Science, Volume 393, Issue 6815, September 2026.",
-          "isoDate": "2026-09-03T07:00:00.000Z"
         }
       ]
     },
@@ -141,13 +141,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-09-04T03:06:50.810Z"
+          "isoDate": "2026-09-04T10:40:38.537Z"
         },
         {
           "title": "Could robots be the future of theme parks?",
           "link": "https://www.bbc.co.uk/news/videos/cdr7g3vdl58o?at_medium=RSS&at_campaign=rss",
           "summary": "Galaxy Robot Park is a 16,500-square-meter venue in South Korea, with attractions including humanoid robots dancing to K-pop hits.",
           "isoDate": "2026-09-04T02:02:02.000Z"
+        },
+        {
+          "title": "'I lost my savings after a job interview scam'",
+          "link": "https://www.bbc.co.uk/news/articles/crk3xd8j3k5o?at_medium=RSS&at_campaign=rss",
+          "summary": "Jobseekers, especially Gen Z, are being targeted with fake, booby-trapped recruitment apps.",
+          "isoDate": "2026-09-03T23:41:49.000Z"
         },
         {
           "title": "AI data centres are booming in Australia - but at what cost?",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/c74k39g3ee5o?at_medium=RSS&at_campaign=rss",
           "summary": "The company, which owns Manchester, Stansted and East Midlands airports, was hacked last month.",
           "isoDate": "2026-09-02T11:00:59.000Z"
-        },
-        {
-          "title": "Fake 10 Downing Street listing exposes 'unfit' Booking.com, says consumer group",
-          "link": "https://www.bbc.co.uk/news/articles/cly4e0wn452o?at_medium=RSS&at_campaign=rss",
-          "summary": "Booking.com said the \"limited test\" was \"not a true reflection of the experience of millions of listings or reviews\".",
-          "isoDate": "2026-09-02T01:27:34.000Z"
         }
       ]
     },
@@ -204,34 +204,16 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "ERROR cargando feed",
+          "link": "https://openai.com/blog/rss.xml",
+          "summary": "This operation was aborted",
+          "isoDate": "2026-09-04T10:40:54.024Z"
+        },
+        {
           "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
           "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
           "summary": "",
           "isoDate": "2026-09-03T15:02:08.000Z"
-        },
-        {
-          "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-          "link": "https://openai.com/index/daybreak-for-frontline-defenders",
-          "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
-          "isoDate": "2026-09-03T13:15:00.000Z"
-        },
-        {
-          "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-          "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
-          "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
-          "isoDate": "2026-09-03T12:00:00.000Z"
-        },
-        {
-          "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-          "link": "https://openai.com/index/playco-game-prototyping-with-astra",
-          "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-          "isoDate": "2026-09-03T12:00:00.000Z"
-        },
-        {
-          "title": "Safety overview: GPT-6 Astra",
-          "link": "https://openai.com/index/safety-overview-gpt-6-astra",
-          "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
-          "isoDate": "2026-09-03T00:00:00.000Z"
         },
         {
           "title": "From MIT to IBM, expediting AI and quantum deployment ",
@@ -258,10 +240,28 @@
           "isoDate": "2026-09-02T15:00:00.000Z"
         },
         {
-          "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-          "link": "https://openai.com/index/atv-big-air-tour",
-          "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
-          "isoDate": "2026-09-02T12:00:00.000Z"
+          "title": "Walter Torous named executive director of MIT Center for Real Estate",
+          "link": "https://news.mit.edu/2026/walter-torous-named-executive-director-mit-center-real-estate-0901",
+          "summary": "The senior lecturer, already director of the degree program, will now oversee all aspects of the center’s activities and operations.",
+          "isoDate": "2026-09-01T21:25:00.000Z"
+        },
+        {
+          "title": "Introducing agentic video understanding with Gemini",
+          "link": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+          "summary": "",
+          "isoDate": "2026-09-01T17:08:51.000Z"
+        },
+        {
+          "title": "Ila Kumar: Innovating with communities  ",
+          "link": "https://news.mit.edu/2026/ila-kumar-innovates-with-communities-0901",
+          "summary": "The PhD student works to give young people an active role in shaping digital technologies that can support their own well-being.",
+          "isoDate": "2026-09-01T04:00:00.000Z"
+        },
+        {
+          "title": "MIT Quantum Initiative launches postdoctoral fellowship program",
+          "link": "https://news.mit.edu/2026/mit-quantum-initiative-launches-postdoctoral-fellowship-0831",
+          "summary": "The Institute welcomes its first cohort of QMIT Fellows this fall to advance interdisciplinary quantum research.",
+          "isoDate": "2026-08-31T19:30:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-09-04T03:06:53.050Z"
+          "isoDate": "2026-09-04T10:40:57.354Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-09-04T03:06:51.996Z"
+          "isoDate": "2026-09-04T10:40:54.517Z"
         },
         {
           "title": "Protecting Dynamic Industrial Robot Cable Carriers",
@@ -329,11 +329,6 @@
           "summary": ""
         },
         {
-          "title": "REA  0-0  CEL",
-          "link": "",
-          "summary": ""
-        },
-        {
           "title": "BAR  5-2  RAY",
           "link": "",
           "summary": ""
@@ -375,6 +370,11 @@
         },
         {
           "title": "ALA  1-0  VIL",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "SAN  3-2  ELC",
           "link": "",
           "summary": ""
         },
