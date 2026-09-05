@@ -1,10 +1,40 @@
 {
-  "generatedAt": "2026-09-04T20:19:29.105Z",
+  "generatedAt": "2026-09-05T03:07:53.429Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "After 8 years, Europe's BepiColombo mission is on final approach to Mercury",
+          "link": "https://arstechnica.com/space/2026/09/after-8-years-europes-bepicolombo-mission-is-on-final-approach-to-mercury/",
+          "summary": "\"Fundamentally, we want to learn about the origins of this planet and how it came to be like it is.\"",
+          "isoDate": "2026-09-04T22:49:17.000Z"
+        },
+        {
+          "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+          "link": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+          "summary": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
+          "isoDate": "2026-09-04T22:17:36.000Z"
+        },
+        {
+          "title": "Audacity 4 is a complete revamp of the ‘world’s most popular’ audio editor",
+          "link": "https://www.theverge.com/tech/990658/audacity-4-update-audio-editing",
+          "summary": "Audacity 4 has been in the works for some time, and had its own mini controversy last year when an unfortunate redesigned logo started making the rounds. The final version of the new icon isn't nearly as bad as the early rendition that was circulating last October. But more importantly, all the promised improvements to the self-proclaimed \"world's most popular audio editing and recording app\" are here, turning Audacity from a free and capable but extremely clunky audio editor into a powerful modern tool. \nThe biggest change is the move to a non-destructive editing workflow. That means you can trim a clip down, then recover the audio simply  …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-04T21:23:50.000Z"
+        },
+        {
+          "title": "Measles killed 6-week-old baby, coroner confirms after RFK Jr. disputed deaths",
+          "link": "https://arstechnica.com/health/2026/09/measles-killed-6-week-old-baby-coroner-confirms-after-rfk-jr-disputed-deaths/",
+          "summary": "\"It’s long past time for RFK to stop playing games with people’s lives.\"",
+          "isoDate": "2026-09-04T20:22:41.000Z"
+        },
+        {
+          "title": "Trump admin fights ABC lawsuit as watchdogs worry Disney will settle with FCC",
+          "link": "https://arstechnica.com/tech-policy/2026/09/trump-admin-fights-abc-lawsuit-as-watchdogs-worry-disney-will-settle-with-fcc/",
+          "summary": "FCC tells court it is “open-minded\" about whether ABC should lose licenses.",
+          "isoDate": "2026-09-04T19:46:34.000Z"
+        },
         {
           "title": "The White House is making arcade games racist",
           "link": "https://www.theverge.com/policy/990520/trump-arcade-games-maga-copyright",
@@ -34,36 +64,6 @@
           "link": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
           "summary": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW), Melody Flip offers around 250 \"Palettes,\" which are essentially themed collections of musical ideas sorted by genre. You can start from scratch and ask it to generate any combination of melody, chord progression, bassline, or drums. Or you can feed it a reference track and have it build off the melodic ideas from that.\nUnlike Suno or Udio, Melody Flip doesn't spit out fully polished songs with vocals and full arrangements. Instead, it offers …\nRead the full story at The Verge.",
           "isoDate": "2026-09-04T17:51:35.000Z"
-        },
-        {
-          "title": "“Trust, not features, is the real deficit”: VMware tries to appease SMBs",
-          "link": "https://arstechnica.com/information-technology/2026/09/trust-not-features-is-the-real-deficit-vmware-tries-to-appease-smbs/",
-          "summary": "Broadcom admits it put “too big a focus on VCF.”",
-          "isoDate": "2026-09-04T17:35:02.000Z"
-        },
-        {
-          "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
-          "link": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
-          "summary": "A once-overlooked block of unicode that's invisible to humans is gaining ever wider use.",
-          "isoDate": "2026-09-04T17:18:12.000Z"
-        },
-        {
-          "title": "AGI is whatever you want it to be",
-          "link": "https://www.theverge.com/podcast/990323/agi-is-whatever-you-want-it-to-be",
-          "summary": "OpenAI announced its next big model, GPT-6 Astra, and also, by the way, that \"the AGI era\" is here now.\nToday on The Vergecast, we've got an all-star panel to break down the news of the week.\nFirst, senior AI reporter Hayden Field joins us to talk about our supposed AGI era and Nvidia's acquisition of Hugging Face. \nThen, our friend Joanna Stern pops in to talk about new Apple CEO John Ternus, old Apple CEO Tim Cook, and most importantly, to speculate on the format of next week's Apple keynote.\n\nWatch | Listen | Get ad-free\nWe wrap things up with a super-special lightning round from the IFA electronics show in Berlin. Senior reviewer J …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-04T17:16:49.000Z"
-        },
-        {
-          "title": "Pentagon rescinds new testosterone screening policy without explanation",
-          "link": "https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/",
-          "summary": "The Pentagon says the guidance is being updated after being online for one day.",
-          "isoDate": "2026-09-04T16:57:24.000Z"
-        },
-        {
-          "title": "A ratings board wouldn't let Valve release a trailer. It \"leaked\" it instead.",
-          "link": "https://arstechnica.com/gaming/2026/09/valve-secretly-leaked-a-left-4-dead-2-trailer-to-dodge-the-esrb/",
-          "summary": "\"I think we can't get in trouble for that now. It's like 20 years ago.\"",
-          "isoDate": "2026-09-04T16:42:53.000Z"
         }
       ]
     },
@@ -141,7 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-09-04T20:19:25.855Z"
+          "isoDate": "2026-09-05T03:07:50.224Z"
+        },
+        {
+          "title": "Tech Now",
+          "link": "https://www.bbc.co.uk/iplayer/episode/m0031d1p?at_medium=RSS&at_campaign=rss",
+          "summary": "Laura Cress has the highlights from Gamescom, the biggest gaming convention in the world.",
+          "isoDate": "2026-09-05T01:00:00.000Z"
         },
         {
           "title": "OpenAI agents hijacked German website before Hugging Face hack, report claims",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/ce9e838jzpzo?at_medium=RSS&at_campaign=rss",
           "summary": "The ride-hailing app has launched 15 self-driving taxis, but they will have safety drivers inside.",
           "isoDate": "2026-09-02T23:36:49.000Z"
-        },
-        {
-          "title": "Uber to cut over 3,000 jobs in major global restructuring",
-          "link": "https://www.bbc.co.uk/news/articles/cp3ky2w4y9no?at_medium=RSS&at_campaign=rss",
-          "summary": "The company says cutting roles would make its operations \"simpler and faster\".",
-          "isoDate": "2026-09-02T16:51:49.000Z"
         }
       ]
     },
@@ -228,6 +228,12 @@
           "isoDate": "2026-09-03T12:00:00.000Z"
         },
         {
+          "title": "GPT-6 Astra: A new generation of intelligence",
+          "link": "https://openai.com/index/gpt-6-astra",
+          "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
+          "isoDate": "2026-09-03T11:00:00.000Z"
+        },
+        {
           "title": "Safety overview: GPT-6 Astra",
           "link": "https://openai.com/index/safety-overview-gpt-6-astra",
           "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
@@ -256,12 +262,6 @@
           "link": "https://news.mit.edu/2026/system-helps-humans-predict-when-self-driving-cars-will-make-mistakes-0902",
           "summary": "A new method, called CW-Net, translates the reasoning process of an autonomous vehicle’s AI system into understandable concepts that explain its behavior.",
           "isoDate": "2026-09-02T15:00:00.000Z"
-        },
-        {
-          "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-          "link": "https://openai.com/index/atv-big-air-tour",
-          "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
-          "isoDate": "2026-09-02T12:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-09-04T20:19:28.276Z"
+          "isoDate": "2026-09-05T03:07:52.502Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-09-04T20:19:26.882Z"
+          "isoDate": "2026-09-05T03:07:51.325Z"
         },
         {
           "title": "Protecting Dynamic Industrial Robot Cable Carriers",
@@ -324,12 +324,57 @@
       "maxItems": 120,
       "items": [
         {
-          "title": "RESULTADOS (EN DIRECTO)",
+          "title": "RESULTADOS (ÚLTIMOS)",
           "link": "",
           "summary": ""
         },
         {
-          "title": "REA  0-0  REA",
+          "title": "REA  1-0  REA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "REA  0-0  CEL",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "BAR  5-2  RAY",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "OSA  1-0  GET",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "CEL  0-2  ATH",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "DEP  3-1  VAL",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "REA  4-0  MÁL",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "SEV  1-3  ATL",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "REA  2-1  ESP",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "LEV  5-2  REA",
           "link": "",
           "summary": ""
         },
@@ -344,32 +389,32 @@
           "summary": ""
         },
         {
-          "title": " 1  REA   4   3  1  0  10   2   8  10",
+          "title": " 1  BAR   3   3  0  0  12   2  10   9",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 2  BAR   3   3  0  0  12   2  10   9",
+          "title": " 2  REA   4   3  0  1  10   3   7   9",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 3  ATL   3   2  1  0   7   3   4   7",
+          "title": " 3  REA   4   3  0  1   5   5   0   9",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 4  ALA   3   2  1  0   5   1   4   7",
+          "title": " 4  ATL   3   2  1  0   7   3   4   7",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 5  OSA   3   2  1  0   3   1   2   7",
+          "title": " 5  ALA   3   2  1  0   5   1   4   7",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 6  REA   4   2  1  1   4   5  -1   7",
+          "title": " 6  OSA   3   2  1  0   3   1   2   7",
           "link": "",
           "summary": ""
         },
