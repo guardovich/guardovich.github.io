@@ -1,10 +1,34 @@
 {
-  "generatedAt": "2026-09-05T10:00:40.617Z",
+  "generatedAt": "2026-09-05T14:39:34.513Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Content creators drop the ball",
+          "link": "https://www.theverge.com/tech/990426/us-open-influencers-naomi-osaka-anastasia-zakharova-callaway-good-good-ad",
+          "summary": "The USTA Billie Jean King National Tennis Center. | Getty Images\t\n\nDuring Naomi Osaka's match against Anastasia Zakharova at this year's US Open earlier this week, a gaggle of ring light-wielding influencers who were packed in a luxury suite became enough of a distraction that the umpire paused the match and repeatedly asked them to quiet down. Elsewhere in the USTA Billie Jean King National Tennis Center, other creators could be seen asking US Open staffers to take full-flash photos of them while Osaka and Zakharova were playing.\nLast month, United States Tennis Association (USTA) media operations director Jeanmarie Daly said that the US Open was \"almost doubling\" the number of content creators it was app …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-05T14:00:16.000Z"
+        },
+        {
+          "title": "The weird and wonderful headphones of CanJam 2026",
+          "link": "https://www.theverge.com/tech/990706/a-day-at-canjam-socal-2026",
+          "summary": "A collection of headphone manufacturers and fans come together for their love of great sound. | Image: CanJam Global\t\n\nI've been reviewing headphones for a long time, and I've listened to everything from the barely serviceable to multi-thousand-dollar open-back headphones. But recently I've been uninspired by the state of mainstream options. Most are perfectly good - great, even - but they lack a distinct character. Something to remind me why I fell in love with headphones to begin with, landing me in this crazy career. I needed some revitalization. I needed to see something cool. I needed to be around other people with an emotional connection to headphones. I needed to go to CanJam.\nCanJam is a small audio show produced by Head-Fi.org, the largest audio-fo …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-05T13:00:00.000Z"
+        },
+        {
+          "title": "OpenAI admits to German wiki ‘incident’",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+          "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site.\nRegarding the \"'wiki incident,' where our agents wrote to several internet sites,\" OpenAI wrote in a post on X on Saturday morning, \"it's past time for us to define standards for when and how we share misalignment incidents, not just misalignment properties of our models.\"\nOpenAI said it has typically treated cases of AI agents acting in unintended ways as a \"research question,\" but that r …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-05T11:15:55.000Z"
+        },
+        {
+          "title": "Robotaxis enter their villain era ",
+          "link": "https://www.theverge.com/transportation/989513/road-rage-short-film-robotaxi-autonomous-ai",
+          "summary": "It's Bullitt meets Christine meets Waymo.\nA new short film imagines a San Francisco car chase where the other driver isn't human - and the car may be trying to kill you. That a robotaxi can now be cast as the villain with almost no explanation says something about the present moment. Autonomous cars have gone from sci-fi curiosities to fixtures in some American cities, where they've become stand-ins for anxieties about AI job displacement, Big Tech surveillance, and machines making decisions once left to humans.\nRoad Rage, the planned short film awaiting $40,000 on Kickstarter to fund production, leans into all of it. The film pits Joa, a  …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-05T11:00:00.000Z"
+        },
         {
           "title": "After 8 years, Europe's BepiColombo mission is on final approach to Mercury",
           "link": "https://arstechnica.com/space/2026/09/after-8-years-europes-bepicolombo-mission-is-on-final-approach-to-mercury/",
@@ -40,30 +64,6 @@
           "link": "https://www.theverge.com/policy/990520/trump-arcade-games-maga-copyright",
           "summary": "Trump’s racist new “Build the Wall” game. | Image: The White House\t\n\nThe PR masterminds at the White House just released a series of vaguely policy-themed \"arcade\" games, some of which are racist - and modeled on real games whose copyright holders may not be too happy to be associated with the MAGA agenda. \nThe Tetris Company has already responded to \"Build the Wall,\" which is obviously modeled on the famous puzzle game. In the Trump administration's game, the player has to stack interlocking shapes to stop a \"zombie border siege\" along the southern border. Aliens - the administration's preferred term for noncitizens, and the subject of previous grotesque attempts at humor - run across the screen, trying to  …\nRead the full story at The Verge.",
           "isoDate": "2026-09-04T19:42:54.000Z"
-        },
-        {
-          "title": "Medieval manuscripts are \"biological time capsules\" for deadly sheeppox virus",
-          "link": "https://arstechnica.com/science/2026/09/medieval-manuscripts-are-biological-time-capsules-for-deadly-sheeppox-virus/",
-          "summary": "Other archives and libraries around the world may also contain genetic traces of past disease outbreaks.",
-          "isoDate": "2026-09-04T19:01:02.000Z"
-        },
-        {
-          "title": "Architecting memory and storage in the AI era",
-          "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
-          "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting as the engine of continuous intelligence, powering real-time services while…",
-          "isoDate": "2026-09-04T18:39:19.000Z"
-        },
-        {
-          "title": "GoPro says it&#8217;s still committed &#8216;to your collective stoke&#8217;",
-          "link": "https://www.theverge.com/gadgets/990425/gopro-nick-woodman-starman-letter",
-          "summary": "GoPro CEO Nick Woodman said in a letter to customers that making cameras is still his company's \"core DNA,\" after a proposed $285 million acquisition by Starman was announced earlier this week. He claims the merger puts GoPro in a better position to continue developing its content creation tech, after saying in the deal announcement that it would work with Starman to address \"important areas of national security related to cameras, optics and AI infrastructure.\" \nYouTuber Mark \"Markiplier\" Fischbach, who prior to the acquisition became GoPro's largest individual shareholder, is not mentioned at all.\nTo our GoPro community, fans and custom …\n\nRead the full story at The Verge.",
-          "isoDate": "2026-09-04T18:00:45.000Z"
-        },
-        {
-          "title": "Roland is getting into generative AI music with Melody Flip",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
-          "summary": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW), Melody Flip offers around 250 \"Palettes,\" which are essentially themed collections of musical ideas sorted by genre. You can start from scratch and ask it to generate any combination of melody, chord progression, bassline, or drums. Or you can feed it a reference track and have it build off the melodic ideas from that.\nUnlike Suno or Udio, Melody Flip doesn't spit out fully polished songs with vocals and full arrangements. Instead, it offers …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-04T17:51:35.000Z"
         }
       ]
     },
@@ -72,34 +72,10 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "NASA Ames Fire Department Aircraft Firefighting Training",
-          "link": "https://www.nasa.gov/news-release/nasa-ames-fire-department-aircraft-firefighting-training/",
-          "summary": "The fire department at NASA’s Ames Research Center in California’s Silicon Valley will perform training on the Moffett Federal Airfield beginning Tuesday, Sept. 8 through Friday, Sept. 11. The training will involve the use of a propane-fueled aircraft fire simulator and be conducted from 8 a.m. to 8 p.m. PDT. Because the aircraft simulator is […]",
-          "isoDate": "2026-09-04T19:51:56.000Z"
-        },
-        {
-          "title": "NASA Hosts Virtual Artemis Webinar for Blind, Low-Vision Community",
-          "link": "https://www.nasa.gov/general/nasa-hosts-virtual-artemis-webinar-for-blind-low-vision-community/",
-          "summary": "NASA will host a virtual webinar at 2 p.m. EDT on Friday, Oct. 2, titled “The RS-25 Engine and the Future of Artemis Missions: An Accessible Webinar for the Blind and Low-Vision Community.” This webinar is open to the public, however it is tailored specifically for a blind and low-vision audience. The webinar will last about two hours and […]",
-          "isoDate": "2026-09-04T16:48:59.000Z"
-        },
-        {
-          "title": "Lunar Occultation of Venus",
-          "link": "https://www.nasa.gov/image-article/lunar-occultation-of-venus/",
-          "summary": "On Wednesday, June 17, skywatchers across the United States—and parts of Canada—enjoyed a rare event: a daytime lunar occultation of Venus. A lunar occultation occurs when the Moon moves directly in front of another celestial object from our viewpoint on Earth, briefly hiding it from sight. This time, the Moon slipped in front of Venus […]",
-          "isoDate": "2026-09-04T14:14:57.000Z"
-        },
-        {
-          "title": "APOD: 2026 September 4 – Na Uhane Mahoe Huki Pu i ke Ola",
-          "link": "https://science.nasa.gov/image-article/apod-2026-september-4-na-uhane-mahoe-huki-pu-i-ke-ola/",
-          "summary": "APOD Science APOD APOD: 2026 September 4 – Na… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Nā ʻUhane […]",
-          "isoDate": "2026-09-04T04:05:00.000Z"
-        },
-        {
-          "title": "A Trio of Tropical Cyclones in the Pacific",
-          "link": "https://science.nasa.gov/earth/earth-observatory/a-trio-of-tropical-cyclones-in-the-pacific/",
-          "summary": "The Pacific was buzzing with storms while the Atlantic was notably quiet.",
-          "isoDate": "2026-09-04T04:01:00.000Z"
+          "title": "ERROR cargando feed",
+          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
+          "isoDate": "2026-09-05T14:39:31.021Z"
         },
         {
           "title": "Briefing Chat: How 1,000 pairs of buried underpants helped measure soil health",
@@ -130,6 +106,30 @@
           "link": "https://www.nature.com/articles/d41586-026-02801-0",
           "summary": "Nature, Published online: 04 September 2026; doi:10.1038/d41586-026-02801-0\nNobel laureate persisted despite widespread derision and revolutionized structural biology by protecting fragile crystals.",
           "isoDate": "2026-09-04T00:00:00.000Z"
+        },
+        {
+          "title": "Revealed: inside the US military's plan to tap huge sums from the NIH",
+          "link": "https://www.nature.com/articles/d41586-026-02799-5",
+          "summary": "Nature, Published online: 04 September 2026; doi:10.1038/d41586-026-02799-5\nAn agreement paves the way for hundreds of millions of dollars’ worth of projects to be transferred from the NIH’s institute for infectious diseases to the Department of Defense.",
+          "isoDate": "2026-09-04T00:00:00.000Z"
+        },
+        {
+          "title": "Buried underpants and a new definition of kissing win 2026 Ig Nobel prizes",
+          "link": "https://www.nature.com/articles/d41586-026-02650-x",
+          "summary": "Nature, Published online: 04 September 2026; doi:10.1038/d41586-026-02650-x\nThe awards highlight weird, funny and improbable research that also makes you think.",
+          "isoDate": "2026-09-04T00:00:00.000Z"
+        },
+        {
+          "title": "Bunsen burners’ reputation for sterilizing workplaces flames out",
+          "link": "https://www.nature.com/articles/d41586-026-02758-0",
+          "summary": "Nature, Published online: 04 September 2026; doi:10.1038/d41586-026-02758-0\nStudy shows that the venerable device does not waft bacteria away from workbenches, as is often assumed.",
+          "isoDate": "2026-09-04T00:00:00.000Z"
+        },
+        {
+          "title": "Spatially resolved single-cell atlas reveals the macroevolutionary trajectory of animal hearts",
+          "link": "https://www.science.org/doi/abs/10.1126/science.adw0855?af=R",
+          "summary": "Science, Volume 393, Issue 6815, September 2026.",
+          "isoDate": "2026-09-03T07:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-09-05T10:00:35.565Z"
+          "isoDate": "2026-09-05T14:39:32.033Z"
         },
         {
           "title": "Tech Now",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-09-05T10:00:39.797Z"
+          "isoDate": "2026-09-05T14:39:33.920Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-09-05T10:00:37.275Z"
+          "isoDate": "2026-09-05T14:39:33.088Z"
         },
         {
           "title": "Protecting Dynamic Industrial Robot Cable Carriers",
@@ -324,57 +324,12 @@
       "maxItems": 120,
       "items": [
         {
-          "title": "RESULTADOS (ÚLTIMOS)",
+          "title": "RESULTADOS (EN DIRECTO)",
           "link": "",
           "summary": ""
         },
         {
-          "title": "REA  1-0  REA",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "REA  0-0  CEL",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "BAR  5-2  RAY",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "OSA  1-0  GET",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "CEL  0-2  ATH",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "DEP  3-1  VAL",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "REA  4-0  MÁL",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "SEV  1-3  ATL",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "REA  2-1  ESP",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "LEV  5-2  REA",
+          "title": "ATH  0-0  ATL",
           "link": "",
           "summary": ""
         },
@@ -404,7 +359,7 @@
           "summary": ""
         },
         {
-          "title": " 4  ATL   3   2  1  0   7   3   4   7",
+          "title": " 4  ATL   4   2  2  0   7   3   4   8",
           "link": "",
           "summary": ""
         },
@@ -439,17 +394,17 @@
           "summary": ""
         },
         {
-          "title": "11  REA   4   1  1  2   3   6  -3   4",
+          "title": "11  ATH   4   1  1  2   3   5  -2   4",
           "link": "",
           "summary": ""
         },
         {
-          "title": "12  ESP   3   1  0  2   5   4   1   3",
+          "title": "12  REA   4   1  1  2   3   6  -3   4",
           "link": "",
           "summary": ""
         },
         {
-          "title": "13  ATH   3   1  0  2   3   5  -2   3",
+          "title": "13  ESP   3   1  0  2   5   4   1   3",
           "link": "",
           "summary": ""
         },
