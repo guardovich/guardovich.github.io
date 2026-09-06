@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-09-05T19:58:13.001Z",
+  "generatedAt": "2026-09-06T03:07:37.133Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Explore the globe in field recordings",
+          "link": "https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings",
+          "summary": "Around the world in 80 WAVs. | Screenshot: Terrence O’Brien / The Verge\t\n\nI love field recordings. I love making them. I love them when they're incorporated into my ambient music. They're great background noise for working or sleeping. But they're also great for active listening, focusing in on the fine nuances of burbling brooks or urban chaos. Earth Garden gives you a globe to explore with real field recordings taken from various locations. Earth Garden is inspired by Radio Garden (which you should also check out) except, instead of exploring the world via radio, it's environmental sounds. There are waves lapping at the shores of remote islands in the Atlantic,  a chorus of crickets in Tanzania, and rainfall on  …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-05T21:31:34.000Z"
+        },
+        {
+          "title": "iPhone Handoff will seamlessly share one number between two phones",
+          "link": "https://www.theverge.com/tech/990868/iphone-handoff-ios-27",
+          "summary": "When iOS 27 lands later this month, it will have a feature called iPhone Handoff that lets you switch between two phones using the same number. It was briefly mentioned during the WWDC keynote back in June, but there were no details at the time. Now there's a demo clip showing how to set up the feature running in Xcode 27's Device Hub. It lets you pair two iPhones, using one as your main device and the other as its \"companion.\" \nLaunching the feature now makes sense with the expected launch of the foldable iPhone Ultra right around the corner. People might not always want to take a chunky and extremely expensive device out with them. So Han …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-05T20:53:58.000Z"
+        },
         {
           "title": "CD sales are booming as physical media continues its resurgence",
           "link": "https://www.theverge.com/entertainment/990794/cd-sales-are-booming-as-physical-media-continues-its-resurgence",
@@ -52,18 +64,6 @@
           "link": "https://arstechnica.com/space/2026/09/after-8-years-europes-bepicolombo-mission-is-on-final-approach-to-mercury/",
           "summary": "\"Fundamentally, we want to learn about the origins of this planet and how it came to be like it is.\"",
           "isoDate": "2026-09-04T22:49:17.000Z"
-        },
-        {
-          "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
-          "link": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
-          "summary": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
-          "isoDate": "2026-09-04T22:17:36.000Z"
-        },
-        {
-          "title": "Audacity 4 is a complete revamp of the ‘world’s most popular’ audio editor",
-          "link": "https://www.theverge.com/tech/990658/audacity-4-update-audio-editing",
-          "summary": "Audacity 4 has been in the works for some time, and had its own mini controversy last year when an unfortunate redesigned logo started making the rounds. The final version of the new icon isn't nearly as bad as the early rendition that was circulating last October. But more importantly, all the promised improvements to the self-proclaimed \"world's most popular audio editing and recording app\" are here, turning Audacity from a free and capable but extremely clunky audio editor into a powerful modern tool. \nThe biggest change is the move to a non-destructive editing workflow. That means you can trim a clip down, then recover the audio simply  …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-04T21:23:50.000Z"
         }
       ]
     },
@@ -75,7 +75,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
           "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-09-05T19:58:07.906Z"
+          "isoDate": "2026-09-06T03:07:32.570Z"
         },
         {
           "title": "Briefing Chat: How 1,000 pairs of buried underpants helped measure soil health",
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-09-05T19:58:08.354Z"
+          "isoDate": "2026-09-06T03:07:34.314Z"
         },
         {
           "title": "Tech Now",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-09-05T19:58:11.959Z"
+          "isoDate": "2026-09-06T03:07:36.377Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-09-05T19:58:09.487Z"
+          "isoDate": "2026-09-06T03:07:35.323Z"
         },
         {
           "title": "Protecting Dynamic Industrial Robot Cable Carriers",
@@ -324,12 +324,57 @@
       "maxItems": 120,
       "items": [
         {
-          "title": "RESULTADOS (EN DIRECTO)",
+          "title": "RESULTADOS (ÚLTIMOS)",
           "link": "",
           "summary": ""
         },
         {
-          "title": "VIL  1-1  DEP",
+          "title": "VIL  2-3  DEP",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "RAY  3-2  SAN",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "ATH  3-0  ATL",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "REA  1-0  REA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "REA  0-0  CEL",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "BAR  5-2  RAY",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "OSA  1-0  GET",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "CEL  0-2  ATH",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "DEP  3-1  VAL",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "REA  4-0  MÁL",
           "link": "",
           "summary": ""
         },
@@ -359,22 +404,22 @@
           "summary": ""
         },
         {
-          "title": " 4  ALA   3   2  1  0   5   1   4   7",
+          "title": " 4  DEP   4   2  2  0   8   5   3   8",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 5  OSA   3   2  1  0   3   1   2   7",
+          "title": " 5  ALA   3   2  1  0   5   1   4   7",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 6  ATL   4   2  1  1   7   6   1   7",
+          "title": " 6  OSA   3   2  1  0   3   1   2   7",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 7  DEP   4   1  3  0   6   4   2   6",
+          "title": " 7  ATL   4   2  1  1   7   6   1   7",
           "link": "",
           "summary": ""
         },
@@ -414,12 +459,12 @@
           "summary": ""
         },
         {
-          "title": "15  VIL   4   0  3  1   5   6  -1   3",
+          "title": "15  GET   3   1  0  2   1   4  -3   3",
           "link": "",
           "summary": ""
         },
         {
-          "title": "16  GET   3   1  0  2   1   4  -3   3",
+          "title": "16  VIL   4   0  2  2   6   8  -2   2",
           "link": "",
           "summary": ""
         },
