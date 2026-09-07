@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-09-07T17:18:38.550Z",
+  "generatedAt": "2026-09-07T21:09:14.149Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Audi’s new A2 E-tron is its most affordable and efficient EV yet",
+          "link": "https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price",
+          "summary": "When shopping for an electric vehicle, affordability is becoming a more common trait. But affordable and energy efficient is truly a rare breed. Often you have to sacrifice one for the other. Want something affordable? Great, here's a range loser. Want something that goes the distance? Be ready to pay the price.  \nSurprisingly, here comes Audi to split the difference. The German automaker's new A2 E-tron compact crossover is inexpensive, starting at just £32,200 (about $45,000). And it absolutely impresses with an ultra low drag coefficient and a range of battery and drivetrain options that, when configured correctly, can produce a range of …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-07T20:03:41.000Z"
+        },
         {
           "title": "Six years later, Sony revisits its legendary XM4 headphones",
           "link": "https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones",
@@ -58,12 +64,6 @@
           "link": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami",
           "summary": "An Amazon cargo plane crashed at Miami International Airport on September 06, 2026. | Photo: Joe Raedle / Getty Images\t\n\nA plane bearing an Amazon logo overran the runway at Miami International Airport on Sunday during landing, crashing into vehicles and resulting in multiple injuries. The extent of the damage or the seriousness of the injuries was not clear at the time of publication. \nIn the aftermath of the incident, the FAA released a statement saying:\n21 Air Flight 7598 overran the runway after landing at Miami International Airport around 2 p.m. local time on Sunday, Sept. 6. The Boeing 767-300 cargo aircraft departed from Luis Muñoz Marín International Airport in San Juan, Puerto Rico.\nAs a result, flights at the airport were grounded and over 60 M …\nRead the full story at The Verge.",
           "isoDate": "2026-09-06T20:56:38.000Z"
-        },
-        {
-          "title": "Europe has its first commercial orbital rocket",
-          "link": "https://www.theverge.com/science/990906/isar-aerospace-europe-orbital-rocket-launch",
-          "summary": "German company Isar Aerospace has successfully launched Europe's first entirely commercial orbital rocket. It attempted to achieve the feat last March, but that lasted all of 30 seconds before the vehicle crashed into the sea and exploded. This time the company managed to get the two-stage Spectrum into low Earth orbit from a Norwegian spaceport.\nCEO and Co-Founder Daniel Metzler said in a press release:\n\"Today, Isar Aerospace opened space from Continental Europe. Launch continues to be the largest bottleneck for the global space industry and from today on, there is a true alternative for commercial and institutional customers … Europe no …\n\nRead the full story at The Verge.",
-          "isoDate": "2026-09-06T19:04:22.000Z"
         }
       ]
     },
@@ -72,16 +72,10 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "APOD: 2026 September 7 – The Pelican Nebula in Gas, Dust, and Stars",
-          "link": "https://science.nasa.gov/image-article/apod-2026-september-7-the-pelican-nebula-in-gas-dust-and-stars/",
-          "summary": "APOD Science APOD APOD: 2026 September 7 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Pelican […]",
-          "isoDate": "2026-09-07T04:05:00.000Z"
-        },
-        {
-          "title": "A Bright Spot at Mount Michael",
-          "link": "https://science.nasa.gov/earth/earth-observatory/a-bright-spot-at-mount-michael/",
-          "summary": "With austral winter nearing its end, clouds cleared for a satellite view of volcanic activity in the remote South Atlantic.",
-          "isoDate": "2026-09-07T04:01:00.000Z"
+          "title": "ERROR cargando feed",
+          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
+          "isoDate": "2026-09-07T21:09:10.010Z"
         },
         {
           "title": "Author Correction: AhR inhibition promotes axon regeneration via a stress–growth switch",
@@ -114,22 +108,28 @@
           "isoDate": "2026-09-07T00:00:00.000Z"
         },
         {
-          "title": "APOD: 2026 September 5 – Chasing the Moon’s Shadow",
-          "link": "https://science.nasa.gov/image-article/apod-2026-september-5-chasing-the-moons-shadow/",
-          "summary": "APOD Science APOD APOD: 2026 September 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Chasing the Moon’s […]",
-          "isoDate": "2026-09-05T04:05:00.000Z"
+          "title": "Anthropic AI ‘formalizes’ proof of Fermat’s last theorem in just 11 days",
+          "link": "https://www.nature.com/articles/d41586-026-02822-9",
+          "summary": "Nature, Published online: 07 September 2026; doi:10.1038/d41586-026-02822-9\nClaude produced a 13-million-line, computer-checked proof of the famed conjecture — a major milestone in mathematics.",
+          "isoDate": "2026-09-07T00:00:00.000Z"
         },
         {
-          "title": "NASA Ames Fire Department Aircraft Firefighting Training",
-          "link": "https://www.nasa.gov/news-release/nasa-ames-fire-department-aircraft-firefighting-training/",
-          "summary": "The fire department at NASA’s Ames Research Center in California’s Silicon Valley will perform training on the Moffett Federal Airfield beginning Tuesday, Sept. 8 through Friday, Sept. 11. The training will involve the use of a propane-fueled aircraft fire simulator and be conducted from 8 a.m. to 8 p.m. PDT. Because the aircraft simulator is […]",
-          "isoDate": "2026-09-04T19:51:56.000Z"
+          "title": "Briefing Chat: How 1,000 pairs of buried underpants helped measure soil health",
+          "link": "https://www.nature.com/articles/d41586-026-02800-1",
+          "summary": "Nature, Published online: 04 September 2026; doi:10.1038/d41586-026-02800-1\nNature staff discuss the winners of the 2026 Ig Nobel prizes — plus, the isolated energy flash that could be the first glimpse of dark matter.",
+          "isoDate": "2026-09-04T00:00:00.000Z"
         },
         {
-          "title": "NASA Hosts Virtual Artemis Webinar for Blind, Low-Vision Community",
-          "link": "https://www.nasa.gov/general/nasa-hosts-virtual-artemis-webinar-for-blind-low-vision-community/",
-          "summary": "NASA will host a virtual webinar at 2 p.m. EDT on Friday, Oct. 2, titled “The RS-25 Engine and the Future of Artemis Missions: An Accessible Webinar for the Blind and Low-Vision Community.” This webinar is open to the public, however it is tailored specifically for a blind and low-vision audience. The webinar will last about two hours and […]",
-          "isoDate": "2026-09-04T16:48:59.000Z"
+          "title": "Super-precise optical clocks in four nations tick in harmony",
+          "link": "https://www.nature.com/articles/d41586-026-02741-9",
+          "summary": "Nature, Published online: 04 September 2026; doi:10.1038/d41586-026-02741-9\nComparison using signals sent over fibre-optic cable tests agreement between seven devices spread across Europe.",
+          "isoDate": "2026-09-04T00:00:00.000Z"
+        },
+        {
+          "title": "Body parts used for ancient Egyptian artworks traced to surprising source",
+          "link": "https://www.nature.com/articles/d41586-026-02739-3",
+          "summary": "Nature, Published online: 04 September 2026; doi:10.1038/d41586-026-02739-3\nCoffin decorations and wall paintings were made with tissue from a broad range of organisms.",
+          "isoDate": "2026-09-04T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-09-07T17:18:33.885Z"
+          "isoDate": "2026-09-07T21:09:11.155Z"
         },
         {
           "title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
@@ -273,13 +273,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-09-07T17:18:37.777Z"
+          "isoDate": "2026-09-07T21:09:13.482Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-09-07T17:18:35.430Z"
+          "isoDate": "2026-09-07T21:09:12.144Z"
+        },
+        {
+          "title": "Workshops Educate African Researchers On How to Publish With IEEE",
+          "link": "https://spectrum.ieee.org/ieee-workshop-xplore-africa",
+          "summary": "Many researchers and students in Kenya, Rwanda, and Uganda struggle to access and publish scientific and technical articles because of financial barriers including publishing fees and subscriptions to research libraries. To help, IEEE has made its Xplore Digital Library more accessible by offering discounts on subscriptions and lowering fees to publish articles. But the number of papers published by technologists in the three nations still lags behind those from other developing countries.\nIt might be that many researchers haven’t received training in methodology, been instructed on how to write academic articles, or fully understand the process for publishing in scientific journals.\nStaff from the IEEE Publication and Information Products group and IEEE volunteers held educational workshops this year in the three countries. The sessions covered the publishing process, IEEE publication outlets, ways to ensure the integrity of research papers, and tips for making better use of IEEE Xplore.\n“We want to make sure those in this region are on par with other research communities and ensure they have the support and knowledge they need to make informed publishing decisions,” says Kristopher Zakrzewski, the IEEE area manager for Europe, the Middle East, Africa, and parts of Central Asia. “Our goal is to give them the tools they need to increase visibility and allow them to participate in global conversations in the technology space.”\nWorkshops on the publishing process\nMore than 120 participants attended the workshops, which were held in February at the Novotel Nairobi Westlands hotel, the University of Rwanda, and Makerere University, in Kampala, Uganda.\nIEEE volunteers who are also authors showed attendees how to prepare, submit, and publish papers. They covered the peer-review process and the benefits of working with IEEE, which publishes about 30 percent of the world’s technical literature on electrical engineering and computer science.\nIEEE Senior Member Nelson Ijumba presented at the session in Rwanda. Member Kennedy Ronoh led the Nairobi workshop. Sheila N. Mugala spoke to attendees in Kampala.\n“The great thing about these sessions,” Zakrzewski says, “is that each had a local author who presented tips and best practices to ensure that new and returning authors have the information they need to prepare their paper for submission, determine where best to publish their article, and find the right journal or conference that would be the best fit for their research.”\nOne of the facilitators at the Uganda session was IEEE Senior Member Mayur Kumar Chhipa, head of engineering at the International Business, Science, and Technology University in Kampala and vice chair of the IEEE Uganda Section. The university has about 200 engineering students and about 50 researchers.\nMore than 100 people attended Chhipa’s session, where he shared practical guidance on conducting literature reviews and identifying high-impact research.\n“Researchers in Uganda typically present their paper at an IEEE conference, and that’s it,” he says. “What we’re trying to do is encourage them to take the next step and get their paper published in an IEEE journal.”\nHe encourages his students to submit a summary of their thesis to an IEEE conference, he says.\n“Otherwise,” he says, “their thesis sits in the university’s library or collects dust on a bookshelf.\n“When you publish your research, the world knows you are a scholar who has done good work. Having a paper published at a conference or in a journal can help you get into a master’s program globally.”\nIEEE Xplore access\nAttendees were given an overview of the features of their IEEE Xplore subscription. The digital library contains more than 7 million technical documents from industry-leading journals, conferences, ebooks, and eLearning courses, as well as partner content.\nIEEE provides access to the library to more than 50 universities in Kenya through a subscription agreement with the country’s Library and Information Services Consortium, which includes university and public libraries and research institutions. Sixteen universities in Uganda and one institution in Rwanda receive discounted subscriptions.\n“It was really important to establish the direct correlation between having access to the technical literature and the publishing output from their university and the region as a whole,” Zakrzewski says. \nMany publishing options\nThe workshops covered publishing options offered by IEEE. That includes both traditional and open access journals, with more than 200 periodicals in total.\nThere are approximately 180 hybrid journals, which contain a mix of subscription-based and open-access articles, and 30 gold open access journals.\nOpen access is a publishing model that makes scholarly research and literature freely available online to everyone. Instead of institutions paying for subscriptions, authors or funders typically pay an article processing charge (APC) of between US $2,160 and $2,800 to have their piece published. IEEE offers authors in Kenya a 50 percent discount off the APC rate, and authors from Rwanda and Uganda can publish in IEEE open access journals for free.\nThe open access program provides authors with greater visibility for their research and enhances discoverability, Zakrzewski says, leading to an increased number of references and citations.\nPublishing with IEEE opens additional opportunities including scholarship awards, research assistant job offers, networking opportunities, and speaking engagements.” —IEEE Senior Member Mayur Kumar Chhipa\nIEEE Xplore contains more than 200,000 open access articles, he notes. More than 109,000 articles have been published in IEEE Access, a multidisciplinary open access megajournal.\n“IEEE supports author choice,” Zakrzewski says. “We really want to make sure that an author has the option to publish the research that will meet any consortium, funder, university, or coauthor requirements—which is why we’re focusing on growing our open access program to complement our traditional publishing program and offer more options to authors.”\nThe sessions are having an impact\nParticipants at the Uganda session told Chhipa that they appreciated the IEEE Xplore Digital Library demonstrations and found the guidance on academic publishing valuable.\n“Many attendees mentioned that the session helped them better understand how to search for relevant literature, evaluate the quality of research papers, and write stronger manuscripts for publication,” he says.\n“I have observed increased interest among students and faculty in using IEEE Xplore as their primary research resource,” he adds. “Researchers are also more aware of ethical publishing practices and are developing stronger research proposals and manuscripts.\n“The program contributes to building a stronger research culture by encouraging evidence-based research, international collaboration, and higher-quality publications, which will ultimately enhance the global visibility of research from Uganda and Africa.”\nPublishing has its privileges\nChhipa says getting your research published has many benefits, and IEEE staff and members agree.\nIEEE and several of its societies offer student grants to help cover the expense of traveling to conferences and presenting papers. The money typically covers airfare and a hotel room. Some grants also pay for conference registration fees, Chhipa says.\nChhipa assists students at his university with writing and submitting research papers to IEEE journals and conferences. Students gain confidence when their paper gets accepted, he says. One who attended the recent IEEE session was informed that his paper was accepted by an IEEE conference—which Chhipa says he was excited about.\nHe encouraged that student to apply for a travel grant.\n“Maybe he’ll get it. Maybe he won’t. But at least he learned how to write a paper, apply for a visa to attend the conference, and book an airplane ticket,” Chhipa says. “It will help him grow personally and professionally.”\nPresenting a paper at an IEEE conference can be life-changing, he says.\n“It opens additional opportunities,” he says, “including scholarship awards, research assistant job offers, networking opportunities, and speaking engagements. This is how publishing a research paper in the IEEE Xplore Digital Library can directly, positively impact the life of students and scholars from Africa, especially Uganda, Rwanda, and Kenya.”",
+          "isoDate": "2026-09-07T18:00:03.000Z"
         },
         {
           "title": "Protecting Dynamic Industrial Robot Cable Carriers",
@@ -310,12 +316,6 @@
           "link": "https://spectrum.ieee.org/president-ieee-note-september-2026",
           "summary": "Across IEEE, our strength lies not only in the excellence of our individual communities but also in our ability to bring them together around shared problems that demand interdisciplinary solutions. Our mission as a public charity—to advance technology for the benefit of humanity—is becoming an increasingly powerful differentiator. It is more than a statement of principle; it is a strategic advantage. When engineers and technologists serve with purpose and lead with heart, they strengthen the future of our profession and demonstrate why IEEE is uniquely positioned to lead at the intersection of technology and societal impact.\nIEEE Humanitarian Technologies is a consortium of programs and initiatives—supported by a global network of volunteers and technical professionals—working together to apply technology to solve the world’s most pressing problems. These include Empower a Billion Lives, EPICSinIEEE, MOVE, IEEE REACH, IEEE SIGHT, IEEE Smart Village, and IEEE Tech4Good. These programs embody our mission in action. They are not simply charitable activities; they are strategic assets that help IEEE lead globally, innovate boldly, and remain essential to technical professionals at every stage of their careers. While deeply human in purpose, humanitarian technologies are fundamentally engineering challenges, demanding the full depth of engineering rigor and realized through disciplined, deeply technical work.\nCultivating Technical Leaders\nIEEE Humanitarian Technologies sits at the intersection of engineering excellence, societal need, and global opportunity. Its programs allow our members to show the world that engineering and technology are forces for good, capable of addressing urgent challenges with precision, creativity, and compassion. These programs do more than inspire; they strengthen the technical ecosystem that underpins IEEE’s leadership.\nBringing together experts from power and energy, communications, computing, robotics, biomedical engineering, and many other domains to address real-world problems, these interdisciplinary intersections are where breakthroughs emerge. When engineers and technologists collaborate with the right humanitarian frameworks across sectors and cultures, they illuminate new constraints, design pathways, and opportunities that traditional project environments rarely reveal. This is how humanitarian technologies help shape the future of engineering itself.\nThese efforts also illustrate a broader opportunity for IEEE. By identifying critical challenges that can be addressed only through collaboration across disciplines, IEEE can mobilize the power of its global community toward solving problems around the world. In doing so, we strengthen both our impact on society and the value we provide to members, partners, and future generations.\nThese programs also build the leadership capacity our profession needs. Engineers working in humanitarian contexts learn to navigate ambiguity, engage diverse stakeholders, manage constraints, and design for environments where failure has real human consequences. They develop systems thinking, ethical reasoning, and cross‑cultural fluency—competencies increasingly essential in a world where technology and society are deeply intertwined. They also learn to transition from R&D to implementation by engineering the support, manufacturing, and delivery systems that make solutions viable in specific countries, all while balancing competing requirements. In doing so, humanitarian programs equip professionals with the capabilities that define modern technical practice.\nHumanitarian technologies also help prepare the future technical workforce. Students and young professionals increasingly seek meaningful, high‑impact work. By engaging in purpose‑driven projects, they can discover their own capacity to grow, strengthen their technical skills, and become the leaders and problem‑solvers who will guide our profession forward.\nPurpose Inspires Engagement\nOur members feel this deeply. Engagement research shows that members increasingly cited “giving back to my profession and the world community” as a reason for joining the organization and renewing their membership. Those with higher membership grades identify “participation in humanitarian technology efforts” as one of the most satisfying experiences IEEE offers. These are not just data points; they are also signals of what our community values and what it expects IEEE to champion.\nYounger generations amplify this even more. Millennials view IEEE through a global lens, prioritizing “humanitarian impact” and “large-scale collaboration.” One millennial member shared that teaching robotics to children in under-resourced communities transformed them into a deeply engaged member. Gen Z members emphasize inclusivity, environmental responsibility, and purpose-driven engineering, recommending that IEEE offer humanitarian-based challenges and competitions to increase engagement.\nThese findings reveal something powerful: Humanitarian programs are not only meaningful; they also are magnetic. They attract younger engineers, keep them engaged, and help them build a professional identity rooted in purpose and impact. They also create loyalty and develop the leadership pipeline IEEE needs for the decades ahead.\nThese programs also strengthen our brand. Members across segments describe IEEE as an organization that works hard to make real changes in the world. That perception is not just flattering, it is strategic. It positions IEEE as a global leader in responsible innovation that can be trusted to guide technology for the public good, catalyzing innovation that benefits society at scale.\nAs we look ahead, IEEE has an opportunity to become the world’s leading convening force for developing interdisciplinary technology solutions to solve humanity’s most important challenges. Our future relevance will be defined not only by the technologies we advance but also by the problems we choose to help solve.\nRead more powerful stories about how technology is improving lives across global initiatives in the 2025 IEEE Social Impact Report at ieee.org/advancing-technology/building-better-world/social-impact-report.\n—MARY ELLEN RANDALL\nIEEE president and CEO\nPlease share your thoughts with me: president@ieee.org.",
           "isoDate": "2026-09-01T18:00:04.000Z"
-        },
-        {
-          "title": "This Teen Helped Native American Students Earn Ham Radio Licenses",
-          "link": "https://spectrum.ieee.org/ruchira-shree-ham-radio",
-          "summary": "For many high school students, summer vacation is a time to unplug. For Ruchira Shree, a rising sophomore at West Windsor–Plainsboro High School South, in New Jersey, the break allows her to ramp up her extracurricular pursuits.\nMuch of her time is spent assisting with IEEE Princeton Central Jersey Section activities. She got involved with the PCJS because of her mother, IEEE Senior Member Shubha Bommalingaiahnapallya, a principal engineer at Intel.\n“I started going to the IEEE meetings when I was little,” Shree says. “I used to go with my mom and just sit in the back of the room.”\nThis summer she says she’s focusing on improving her mathematics skills by attending the Program in Algorithmic and Combinatorial Thinking summer course on math and computer science. She wants to qualify for the American Invitational Mathematics Examination, an event for the top American Mathematics Competitions scorers. She earned a place on the AMC 8 honor roll—a recognition awarded to the top 1 percent of participants in the national competition—when she was in seventh grade.\nShree’s IEEE involvement and her advanced math skills caught the attention of an internship recruiter for the Alliance for Indigenous Math Circles, a group dedicated to expanding STEM opportunities for Native American students. The AIMC organizes and sponsors weeklong overnight camps. Interns assist with activities and teach some of the sessions. Shree met a recruiter at one of the section’s events, and she interned at one of the camps last year.\nThe IEEE-math camp connection\nShree’s involvement with the PCJS evolved naturally as she got older, she says, along the way preparing name badges and tackling similar assignments. She met Francis O’Connell, an IEEE life senior member and founder of FXO, in Plainsboro, N.J. O’Connell is the treasurer of the IEEE Integrated STEM in Education Conference (ISEC).\nHe has been a mentor to Shree for the past two years, he says.\nAt last year’s ISEC, she assisted at the registration desk and met Harini Frederickson, an AIMC intern recruiter for New Jersey.\nFrederickson invited Shree, along with nine other students, to volunteer at an upcoming camp being held in Santa Fe, N.M.\n“Ruchira is a real go-getter,” Frederickson says. “When she has an idea, she follows through and doesn’t get easily discouraged.”\nThe AIMC was created to address an important need, says math teacher Donna Fernandez, codirector of the organization. U.S. Indigenous students have the lowest rate of pursuing STEM studies across all demographics, according to the U.S. National Science Foundation. Systemic barriers such as a lack of role models in STEM fields, socioeconomic inequities, and Eurocentric teaching frameworks are some of the reasons, Rechel Shrisunder and Dwight Figueiredo wrote in a chapter of Minorities: New Challenges and Horizons, a book edited by John R. Hermann.\nIndigenous people have a long tradition of mathematics, Fernandez says. She cites the Navajo code talkers from World War II as examples. The Navajo, along with 14 other Indigenous tribes, used their native languages to code and transmit critical messages for the U.S. military during the war.\nThere was a student at camp whose grandfather was a code talker, Shree says.\nNavajo people also use math to build hogans: conical dwellings that require precise calculations to construct. Native communities have used math when building the structures for centuries, Fernandez says.\nFernandez believes typical classroom math curricula overlook the importance of mathematics in Indigenous cultures. Combining STEM activities with cultural elements helps Indigenous students better understand their ancestors’ role as mathematicians, she says.\nThat, in turn, helps the students see themselves in those careers, she adds.\nThe AIMC was built upon a program already in place: the Navajo Nation Math Circles, founded in 2012 by three university professors. Their goal was to provide the Navajo Nation’s students with tools to overcome barriers to STEM education.\nTo expand the math circle program, the AIMC was added to reach Indigenous students in the Four Corners area of Arizona, Colorado, New Mexico, and Utah.\nSince 2017, the organization has run two camps every year at the Navajo Preparatory School in Farmington, N.M. In 2025 one camp was moved to the Santa Fe Indian School.\nDuring each weeklong event, students and interns work in math circles. It’s a cooperative way to solve problems creatively, organizers say. Students collaborate on STEM-focused projects and learn from Indigenous STEM professionals. Interns also get the opportunity to experience an off-site cultural event.\nThe camps are free for students, thanks to sponsorships and donations. Teachers and interns cover their own travel expenses. Shree secured a US $1,500 sponsorship grant through the PCJS.\nBuilding relationships through STEM activities\nRelationships are an influential part of the week, Fernandez says: “One of the best things we see at the camp is that students return the following year and ask, ‘Is so-and-so intern coming back this year?’ They remember the relationships they developed, especially the cultural exchanges they had.\n“Those exchanges go both ways, benefiting the interns too.”\nStudents spend mornings at camp working in math circles, then gather for a wrangle, during which each team defends its math circle answer and challenges other teams’ solutions. Shree and the other interns are on hand to answer questions and observe the teams as they work through the math circle problems.\n“Math problems typically have very binary answers,” she says. “But in math circles, you focus more on talking through your answers to open-ended questions and learning from each other.”\nStudents spend afternoons working on projects. In one, the students used household items to create a replica of the Batmobile, Shree says. The car was required to be self-propelled without an engine. Balloons were a popular alternative.\nAnother activity focused on the Indigenous tradition of basket weaving. Students learned the cultural meaning behind traditional designs while understanding how geometry concepts influenced the finished product.\n  These Native American middle school students work on solving a mathematical pattern-matching game, one of the activities held at the summer camp.Ruchira Shree\nRole models inspire students\n“Because there’s a lack of Indigenous STEM role models, many Native American students don’t see themselves in mathematics or science,” Shree says.\nTo bridge that gap, Fernandez ensures Indigenous role models are part of the camp. Some of the people who spoke with students during Shree’s internship were Jessica Benally, a Ph.D. student in the learning sciences and human development program at the University of California, Berkeley, and engineers from the New Mexico Mathematics, Engineering, and Science Achievement program, which supports underrepresented preuniversity students.\n“I believe the students were very inspired,” Shree says, “because they could see how they themselves could pursue STEM careers. They had people to look up to in the field who had come from backgrounds just like theirs.”\nInterns in action\nThe interns’ primary responsibility was leading a two-hour, after-dinner Radio Weaves session. They taught students about a popular communication technology that doesn’t require the Internet or cell towers.\nHam radio, also known as amateur radio, is a communication method that uses designated frequencies. In the United States, anyone can listen to amateur radio transmissions; to legally transmit on the frequencies, though, a user needs a Federal Communications Commission license. The Radio Weaves project is designed to prepare students to pass the FCC technician license exam.\nTo make that happen, the interns customized Gimkit, a learning game, loading it with radio-specific content that mirrored topics that could appear on the test.\nEach intern worked with two or three students to complete the Gimkit materials.\nFrederickson, who was on hand for the camp, says the aim was to send students home with something tangible that demonstrated their STEM accomplishments.\nNearly all the students passed the exam on the first try, she says, and she worked with those who didn’t to retake the test.\nAll the students ultimately received their license, she says.\nInspiration comes in several forms\nThe interns took an afternoon off to attend a Pueblo Feast Day, a celebration filled with music and dance that culminated in visits with nearby families, with whom they shared dinner.\n“The tradition is very generous and community-based,” Shree says. “It represents that every home in the village will welcome any guest to have a meal.”\nThe feast was the highlight of Shree’s week, she says: “I got to really experience Native American culture firsthand.”\nThe students inspired her, she says.\n“Seeing the joy on their faces when they passed the technician exam or when they got a math problem correct showed me how much joy they find in learning,” she says. “It made me realize that I want to help provide more opportunities for them to learn and challenge themselves.”\n“Because there’s a lack of Indigenous STEM role models, many Native American students don’t see themselves in mathematics or science.” —Ruchira Shree\nThat realization spurred her idea for a new initiative. After she returned home, she founded Rukie Cookie to create “safe, inclusive, and inspiring spaces where youths explore STEAM [and] build curiosity, strategic thinking, and innovation—empowering them to become confident leaders and active contributors to a more just and equitable society,” according to the project’s website.\nBaking is one of Shree’s hobbies, and she sees it as a way to fulfill a financial need she observed at camp.\n“I noticed that at lunch breaks, they [camp students] used to play chess on the side, but they couldn’t actually participate in tournaments because that requires a U.S. Chess Federation (USCF) membership fee, which they couldn’t afford,” she says. Shree bakes cookies and sells them at PCJS events. Proceeds go toward youth chess classes and USCF memberships for children in underrepresented communities.\nShe has raised enough money to sponsor six USCF memberships, five of whom are camp attendees, she says.\n“I hope that the students I have gotten a membership for will continue growing their passion for chess,” she says, “but also that it will encourage them to challenge themselves with difficult problems.”\nWhat’s next?\nShree planned to attend an AIMC camp this year, she says, but it was canceled due to resourcing issues. She says she intends to return next year with goals of adding a formal chess component to the schedule and continuing to help more students overcome financial hurdles to join the USCF.\nShe’s also writing a novel about Alzheimer’s disease and identity loss, and she’s conducting independent research on cognitive decline at the New Jersey Institute of Technology. Watching her great-grandmother struggle with the condition sparked her interest in the subject, she says.\nShe is confident STEM will be part of her future, she says. Math and cognitive science are areas of interest she plans to study, but she’s still undecided about a major. Her interest in Alzheimer’s research and a desire to apply AI to health care will influence her decision, she says.\nShe adds that she plans to join IEEE once she’s eligible.\nThis article was updated on 3 September 2026.",
-          "isoDate": "2026-08-31T18:00:01.000Z"
         }
       ]
     },
@@ -329,7 +329,7 @@
           "summary": ""
         },
         {
-          "title": "GET  0-0  CEL",
+          "title": "ELC  1-2  REA",
           "link": "",
           "summary": ""
         },
@@ -384,42 +384,42 @@
           "summary": ""
         },
         {
-          "title": " 9  ATH   4   2  0  2   6   5   1   6",
+          "title": " 9  REA   5   2  1  2   5   7  -2   7",
           "link": "",
           "summary": ""
         },
         {
-          "title": "10  LEV   4   1  2  1   5   5   0   5",
+          "title": "10  ATH   4   2  0  2   6   5   1   6",
           "link": "",
           "summary": ""
         },
         {
-          "title": "11  ESP   4   1  1  2   6   5   1   4",
+          "title": "11  LEV   4   1  2  1   5   5   0   5",
           "link": "",
           "summary": ""
         },
         {
-          "title": "12  SAN   4   1  1  2   7   8  -1   4",
+          "title": "12  ESP   4   1  1  2   6   5   1   4",
           "link": "",
           "summary": ""
         },
         {
-          "title": "13  RAY   4   1  1  2   7  10  -3   4",
+          "title": "13  SAN   4   1  1  2   7   8  -1   4",
           "link": "",
           "summary": ""
         },
         {
-          "title": "14  REA   4   1  1  2   3   6  -3   4",
+          "title": "14  RAY   4   1  1  2   7  10  -3   4",
           "link": "",
           "summary": ""
         },
         {
-          "title": "15  GET   4   1  1  2   1   4  -3   4",
+          "title": "15  GET   4   1  1  2   2   5  -3   4",
           "link": "",
           "summary": ""
         },
         {
-          "title": "16  CEL   5   0  3  2   1   4  -3   3",
+          "title": "16  CEL   5   0  3  2   2   5  -3   3",
           "link": "",
           "summary": ""
         },
@@ -434,7 +434,7 @@
           "summary": ""
         },
         {
-          "title": "19  ELC   3   0  1  2   3   9  -6   1",
+          "title": "19  ELC   4   0  1  3   4  11  -7   1",
           "link": "",
           "summary": ""
         },
