@@ -1,10 +1,40 @@
 {
-  "generatedAt": "2026-09-07T11:40:33.583Z",
+  "generatedAt": "2026-09-07T17:18:38.550Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Six years later, Sony revisits its legendary XM4 headphones",
+          "link": "https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones",
+          "summary": "The XM4C (in white) have the exact same visual design as the XM4 (in black) from 2020. | Photo: John Higgins / The Verge\t\n\nSix years ago Sony and Bose were in the middle of a noise-canceling battle, with each new model of headphones better than the last. In the fall of 2020, Sony released the WH-1000XM4 headphones to wide acclaim. They sat atop best headphones lists for years, thanks to their great sound, competitive ANC, and compact size, until they went out of stock. Now Sony has brought them back, with minor improvements, as the WH-1000XM4C.\nThe XM4C look identical to the original XM4 (although they now have a lavender option), with the same hinge design and ability to fold up. It's a compact design that Sony moved away from when it released the XM5 in 2022, …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-07T16:00:00.000Z"
+        },
+        {
+          "title": "EcoFlow makes the miniature power station even smaller",
+          "link": "https://www.theverge.com/science/991033/ecoflow-makes-the-miniature-power-station-even-smaller",
+          "summary": "The River 260 Gen4 (on the table) powering a portable fridge, Starlink Mini, and charging a phone. | Image: EcoFlow\t\n\nIf you're in the market for a tiny power station that punches well above its size and weight then have a look at EcoFlow's new fourth-generation River series. \nThe River 260 Gen4 features a 256Wh capacity battery while the 520 Gen4 packs in 512Wh - storing about 2.5x and 5x the energy of the largest airline-approved power banks, respectively. Better yet, the batteries are built using longer-lasting LFP chemistry that's far less volatile. The River 260 Gen4 features four USB ports, and 300W of max continuous output delivered out its lone AC jack. The River 500 Gen4 features the same USB port selection but offers a pair of AC jacks good for 5 …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-07T14:59:41.000Z"
+        },
+        {
+          "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+          "link": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How much hydrogen awaits us underground? A flurry of exploration efforts is searching for underground stores of hydrogen gas, which could provide a valuable source of zero-carbon fuel. The hunt has…",
+          "isoDate": "2026-09-07T12:10:00.000Z"
+        },
+        {
+          "title": "The real reason your phone is getting more expensive",
+          "link": "https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone",
+          "summary": "When Apple debuts the next generation of iPhones this week, they're likely to come with an unwanted change: a higher price tag. A price hike from the supply-chain powerhouse would be the clearest sign yet that soaring memory costs have become unavoidable - with no end to the memory crunch in sight.\nCall it \"chipflation\" or \"RAMageddon.\" The shortage is reversing a decades-long decline in memory costs that helped make consumer electronics more powerful without making them dramatically more expensive. The terms \"memory prices\" and \"memory shortage\" appeared in 473 company transcripts last quarter, according to data provided by AlphaSense. The …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-07T12:00:00.000Z"
+        },
+        {
+          "title": "The complex corporate web behind a $3.2 billion AI data center",
+          "link": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
+          "summary": "When multiple companies are behind one project, who bears responsibility for problems?",
+          "isoDate": "2026-09-07T11:00:03.000Z"
+        },
         {
           "title": "Bentley’s Torcal EV tries to balance authenticity with fake V8 sounds",
           "link": "https://www.theverge.com/transportation/990319/bentley-torcal-ev-power-ride-sound-v8",
@@ -34,36 +64,6 @@
           "link": "https://www.theverge.com/science/990906/isar-aerospace-europe-orbital-rocket-launch",
           "summary": "German company Isar Aerospace has successfully launched Europe's first entirely commercial orbital rocket. It attempted to achieve the feat last March, but that lasted all of 30 seconds before the vehicle crashed into the sea and exploded. This time the company managed to get the two-stage Spectrum into low Earth orbit from a Norwegian spaceport.\nCEO and Co-Founder Daniel Metzler said in a press release:\n\"Today, Isar Aerospace opened space from Continental Europe. Launch continues to be the largest bottleneck for the global space industry and from today on, there is a true alternative for commercial and institutional customers … Europe no …\n\nRead the full story at The Verge.",
           "isoDate": "2026-09-06T19:04:22.000Z"
-        },
-        {
-          "title": "Boox’s tiny Picco e-reader should land in November",
-          "link": "https://www.theverge.com/tech/990895/boox-picco-tiny-e-reader-november-ifa",
-          "summary": "Boox teased the Picco, its take on the buzzy Xteink X4 e-reader, back in July, but provided almost no details. Now, thanks to some reporting out of IFA, we've got a bit more info, though sadly still no price. Unlike the Xteink devices, the Picco will not have magnets on the back for attaching to a phone. The 3.97-inch e-paper display, however, will be touchscreen, which The Verge's Andrew Liszewski called a \"welcome upgrade\" on the X4 Pro. The Picco has physical page-turn buttons, and they can be customized with different actions for short and long presses.\nThere's apparently no onboard storage, and it relies entirely on a microSD card to h …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-06T16:28:58.000Z"
-        },
-        {
-          "title": "The Fairphone 6 Plus is the midrange phone we desperately needed",
-          "link": "https://www.theverge.com/tech/990436/fairphone-6-plus-review",
-          "summary": "Repairability rules.\t\n\nThe Fairphone 6 Plus feels like an extremely average midrange Android phone and I couldn't be more thrilled.\nThe mission has always been admirable. Fairphone seeks out ethically sourced materials and offers a high degree of repairability for its devices. But the phones themselves required a lot of sacrifices, like putting up with underpowered processors and bad cameras, in order to embrace the sustainability mission. The latest generations of Fairphone have inched toward closing that gap, and the 6 Plus achieves two huge milestones: It feels very much like using a middling Android phone, and it's actually on sale in the US.\nThe 6 Plus is a …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-06T13:00:00.000Z"
-        },
-        {
-          "title": "Competitive Pokémon is on phones now, but you still need a Switch to become a champion",
-          "link": "https://www.theverge.com/games/990691/competitive-pokemon-champions-mobile-tournament-accessibility",
-          "summary": "To get started with competitive Pokémon battles, all you need is your phone. But to compete at the highest level, like at the Pokémon World Championships, you're going to need a Switch. And there doesn't seem to be a good reason why.\nBattle simulator Pokémon Champions originally launched on the Switch and Switch 2 in April, with the mobile version following in June. The experience is nearly identical across the game's versions; since it's cross-platform, the choice really comes down to what devices you own and whether you prefer tapping or using a controller. I find myself playing Champions on my phone more often just because it's always in …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-06T13:00:00.000Z"
-        },
-        {
-          "title": "DIY plug-in solar gains momentum in the US",
-          "link": "https://www.theverge.com/column/990183/diy-plug-in-solar-us",
-          "summary": "EcoFlow’s high-end, weatherproof, plug-in solar kit with integrated battery. | Image: EcoFlow\t\n\nThis is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on e-bikes, power stations, and how to work anywhere, follow Thomas Ricker. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.\nHow it started\nWith a deep breath, I took the cable seething with 800W of solar power and plugged it directly into a standard wall jack in my home. Nothing sparked, nothing smoked, and by the end of that sunny summer day, my electricity bill had dropped to nearly $0.\nAs unnerving as it sounds to treat a common household power outlet like a power input, these DIY plug-in s …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-06T12:00:00.000Z"
-        },
-        {
-          "title": "German company becomes first in Europe to launch fully commercial orbital rocket",
-          "link": "https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/",
-          "summary": "\"We achieved within a few years what had taken the European space industry decades before.\"",
-          "isoDate": "2026-09-06T11:55:26.000Z"
         }
       ]
     },
@@ -72,10 +72,16 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "ERROR cargando feed",
-          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
-          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-09-07T11:40:27.859Z"
+          "title": "APOD: 2026 September 7 – The Pelican Nebula in Gas, Dust, and Stars",
+          "link": "https://science.nasa.gov/image-article/apod-2026-september-7-the-pelican-nebula-in-gas-dust-and-stars/",
+          "summary": "APOD Science APOD APOD: 2026 September 7 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Pelican […]",
+          "isoDate": "2026-09-07T04:05:00.000Z"
+        },
+        {
+          "title": "A Bright Spot at Mount Michael",
+          "link": "https://science.nasa.gov/earth/earth-observatory/a-bright-spot-at-mount-michael/",
+          "summary": "With austral winter nearing its end, clouds cleared for a satellite view of volcanic activity in the remote South Atlantic.",
+          "isoDate": "2026-09-07T04:01:00.000Z"
         },
         {
           "title": "Author Correction: AhR inhibition promotes axon regeneration via a stress–growth switch",
@@ -108,28 +114,22 @@
           "isoDate": "2026-09-07T00:00:00.000Z"
         },
         {
-          "title": "Briefing Chat: How 1,000 pairs of buried underpants helped measure soil health",
-          "link": "https://www.nature.com/articles/d41586-026-02800-1",
-          "summary": "Nature, Published online: 04 September 2026; doi:10.1038/d41586-026-02800-1\nNature staff discuss the winners of the 2026 Ig Nobel prizes — plus, the isolated energy flash that could be the first glimpse of dark matter.",
-          "isoDate": "2026-09-04T00:00:00.000Z"
+          "title": "APOD: 2026 September 5 – Chasing the Moon’s Shadow",
+          "link": "https://science.nasa.gov/image-article/apod-2026-september-5-chasing-the-moons-shadow/",
+          "summary": "APOD Science APOD APOD: 2026 September 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Chasing the Moon’s […]",
+          "isoDate": "2026-09-05T04:05:00.000Z"
         },
         {
-          "title": "Super-precise optical clocks in four nations tick in harmony",
-          "link": "https://www.nature.com/articles/d41586-026-02741-9",
-          "summary": "Nature, Published online: 04 September 2026; doi:10.1038/d41586-026-02741-9\nComparison using signals sent over fibre-optic cable tests agreement between seven devices spread across Europe.",
-          "isoDate": "2026-09-04T00:00:00.000Z"
+          "title": "NASA Ames Fire Department Aircraft Firefighting Training",
+          "link": "https://www.nasa.gov/news-release/nasa-ames-fire-department-aircraft-firefighting-training/",
+          "summary": "The fire department at NASA’s Ames Research Center in California’s Silicon Valley will perform training on the Moffett Federal Airfield beginning Tuesday, Sept. 8 through Friday, Sept. 11. The training will involve the use of a propane-fueled aircraft fire simulator and be conducted from 8 a.m. to 8 p.m. PDT. Because the aircraft simulator is […]",
+          "isoDate": "2026-09-04T19:51:56.000Z"
         },
         {
-          "title": "Body parts used for ancient Egyptian artworks traced to surprising source",
-          "link": "https://www.nature.com/articles/d41586-026-02739-3",
-          "summary": "Nature, Published online: 04 September 2026; doi:10.1038/d41586-026-02739-3\nCoffin decorations and wall paintings were made with tissue from a broad range of organisms.",
-          "isoDate": "2026-09-04T00:00:00.000Z"
-        },
-        {
-          "title": "Tropical cyclones could be predicted with an extra day’s warning, thanks to an AI model",
-          "link": "https://www.nature.com/articles/d41586-026-02643-w",
-          "summary": "Nature, Published online: 04 September 2026; doi:10.1038/d41586-026-02643-w\nThe track and intensity of tropical cyclones can be predicted with high accuracy using an AI model, which has the potential to protect lives if shared responsibly worldwide.",
-          "isoDate": "2026-09-04T00:00:00.000Z"
+          "title": "NASA Hosts Virtual Artemis Webinar for Blind, Low-Vision Community",
+          "link": "https://www.nasa.gov/general/nasa-hosts-virtual-artemis-webinar-for-blind-low-vision-community/",
+          "summary": "NASA will host a virtual webinar at 2 p.m. EDT on Friday, Oct. 2, titled “The RS-25 Engine and the Future of Artemis Missions: An Accessible Webinar for the Blind and Low-Vision Community.” This webinar is open to the public, however it is tailored specifically for a blind and low-vision audience. The webinar will last about two hours and […]",
+          "isoDate": "2026-09-04T16:48:59.000Z"
         }
       ]
     },
@@ -141,7 +141,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-09-07T11:40:29.633Z"
+          "isoDate": "2026-09-07T17:18:33.885Z"
+        },
+        {
+          "title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
+          "link": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&at_campaign=rss",
+          "summary": "The long-running claim alleges Grindr breached UK privacy laws by sharing data with third parties.",
+          "isoDate": "2026-09-07T15:27:50.000Z"
+        },
+        {
+          "title": "OpenAI chief scientist warns no-one is prepared for consequences of AI",
+          "link": "https://www.bbc.co.uk/news/articles/cwyzrrd0kp7o?at_medium=RSS&at_campaign=rss",
+          "summary": "The post comes as the firm releases GPT-6 Astra, which it says is its most powerful product yet.",
+          "isoDate": "2026-09-07T12:22:07.000Z"
         },
         {
           "title": "Dolly Parton's sister pleads for end to 'AI garbage' posts after singer's death",
@@ -184,18 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o?at_medium=RSS&at_campaign=rss",
           "summary": "Advocates say data centres will bring jobs but others worry they will suck up resources while providing little advantage.",
           "isoDate": "2026-09-03T18:32:03.000Z"
-        },
-        {
-          "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
-          "link": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
-          "summary": "The deal gives Nvidia control of a leading open-source AI platform and developer community.",
-          "isoDate": "2026-09-03T16:32:05.000Z"
-        },
-        {
-          "title": "Watch: BBC travels in self-driving Uber around London",
-          "link": "https://www.bbc.co.uk/news/videos/cwyzeyd7peeo?at_medium=RSS&at_campaign=rss",
-          "summary": "The BBC's Zoe Kleinman takes a ride on Uber's self-driving robotaxi as the service rolls out on Thursday.",
-          "isoDate": "2026-09-03T07:20:23.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-09-07T11:40:32.708Z"
+          "isoDate": "2026-09-07T17:18:37.777Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-09-07T11:40:30.587Z"
+          "isoDate": "2026-09-07T17:18:35.430Z"
         },
         {
           "title": "Protecting Dynamic Industrial Robot Cable Carriers",
@@ -324,57 +324,12 @@
       "maxItems": 120,
       "items": [
         {
-          "title": "RESULTADOS (ÚLTIMOS)",
+          "title": "RESULTADOS (EN DIRECTO)",
           "link": "",
           "summary": ""
         },
         {
-          "title": "ESP  1-1  SEV",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "ALA  5-2  OSA",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "MÁL  0-0  LEV",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "VAL  0-5  BAR",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "VIL  2-3  DEP",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "RAY  3-2  SAN",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "ATH  3-0  ATL",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "REA  1-0  REA",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "REA  0-0  CEL",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "BAR  5-2  RAY",
+          "title": "GET  0-0  CEL",
           "link": "",
           "summary": ""
         },
@@ -459,17 +414,17 @@
           "summary": ""
         },
         {
-          "title": "15  GET   3   1  0  2   1   4  -3   3",
+          "title": "15  GET   4   1  1  2   1   4  -3   4",
           "link": "",
           "summary": ""
         },
         {
-          "title": "16  VIL   4   0  2  2   6   8  -2   2",
+          "title": "16  CEL   5   0  3  2   1   4  -3   3",
           "link": "",
           "summary": ""
         },
         {
-          "title": "17  CEL   4   0  2  2   1   4  -3   2",
+          "title": "17  VIL   4   0  2  2   6   8  -2   2",
           "link": "",
           "summary": ""
         },
