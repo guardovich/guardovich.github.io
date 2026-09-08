@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-09-08T03:14:43.728Z",
+  "generatedAt": "2026-09-08T10:39:25.276Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Xiaomi’s wide foldable promises more power than Samsung’s",
+          "link": "https://www.theverge.com/tech/991008/xiaomi-18-fold-hands-on-impressions-specs-wide",
+          "summary": "Xiaomi is the latest manufacturer to release a short, wide foldable phone, in the week Apple is expected to do the same. I got to try the 18 Fold behind closed doors at IFA last week, and while it looks and feels similar enough to Samsung's Galaxy Z Fold 8, superior specs make it feel like the phone I wish Samsung had made.\nThe 18 Fold is Xiaomi's first book-style foldable since 2024's Mix Fold 4, but the company has followed Huawei and Samsung in moving to a short, squat design. Xiaomi's phone goes further though: It's both shorter and wider than Samsung's, with a roughly 1.4:1 aspect ratio on both the 7.58-inch inner and 5.38-inch outer s …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-08T07:00:00.000Z"
+        },
         {
           "title": "First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost",
           "link": "https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3",
@@ -58,12 +64,6 @@
           "link": "https://www.theverge.com/tech/990958/huawei-mate-xt-2-trifold-launch-china-privacy-display",
           "summary": "Huawei has released its third trifold phone in China, and the company has clearly had half an eye on Samsung during development. Not only does the Mate XT 2 adopt the inward-folding form factor used on Samsung's Galaxy Z TriFold, it's also the first foldable to include a privacy-enhancing display, much like the one Samsung added to the Galaxy S26 Ultra this year.\nThe first Mate XT, which launched in China in late 2024 and internationally a few months later, used an accordion-esque folding design. It removed the need to include an additional cover screen on the phone, but left parts of the delicate folding display permanently exposed. The fo …\nRead the full story at The Verge.",
           "isoDate": "2026-09-07T10:09:42.000Z"
-        },
-        {
-          "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-          "summary": "The OpenAI logo is displayed on a smartphone screen placed on a reflective surface on which the company's logo is projected in Creteil, France, on September 4, 2026, as OpenAI began rolling out GPT-6 Astra, its most advanced model to date. (Photo by Samuel Boivin/NurPhoto via Getty Images) | NurPhoto via Getty Images\t\n\nThe Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting in response to user queries. This is similar to lawsuits filed by The New York Times, Ziff Davis, Merriam-Webster, and Encyclopedia Britannica against OpenAI.\nThe Seattle Times and Newsday also named Microsoft as a defendant in the suit, since Copilot is built on OpenAI's technology. The publishers join a list of nearly 400 local newspapers that recently sued the two  …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-06T23:36:04.000Z"
         }
       ]
     },
@@ -72,64 +72,64 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "APOD: 2026 September 7 – The Pelican Nebula in Gas, Dust, and Stars",
-          "link": "https://science.nasa.gov/image-article/apod-2026-september-7-the-pelican-nebula-in-gas-dust-and-stars/",
-          "summary": "APOD Science APOD APOD: 2026 September 7 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Pelican […]",
-          "isoDate": "2026-09-07T04:05:00.000Z"
+          "title": "ERROR cargando feed",
+          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
+          "isoDate": "2026-09-08T10:39:21.202Z"
         },
         {
-          "title": "A Bright Spot at Mount Michael",
-          "link": "https://science.nasa.gov/earth/earth-observatory/a-bright-spot-at-mount-michael/",
-          "summary": "With austral winter nearing its end, clouds cleared for a satellite view of volcanic activity in the remote South Atlantic.",
-          "isoDate": "2026-09-07T04:01:00.000Z"
+          "title": "Put patients at the centre of medical AI governance",
+          "link": "https://www.nature.com/articles/d41586-026-02796-8",
+          "summary": "Nature, Published online: 08 September 2026; doi:10.1038/d41586-026-02796-8\nPut patients at the centre of medical AI governance",
+          "isoDate": "2026-09-08T00:00:00.000Z"
+        },
+        {
+          "title": "Nepal disaster is a wake-up call to take compound climate risks seriously",
+          "link": "https://www.nature.com/articles/d41586-026-02794-w",
+          "summary": "Nature, Published online: 08 September 2026; doi:10.1038/d41586-026-02794-w\nNepal disaster is a wake-up call to take compound climate risks seriously",
+          "isoDate": "2026-09-08T00:00:00.000Z"
+        },
+        {
+          "title": "Sideline vested interests to reform China’s research",
+          "link": "https://www.nature.com/articles/d41586-026-02797-7",
+          "summary": "Nature, Published online: 08 September 2026; doi:10.1038/d41586-026-02797-7\nSideline vested interests to reform China’s research",
+          "isoDate": "2026-09-08T00:00:00.000Z"
+        },
+        {
+          "title": "Limit bets on clinical-trial outcomes being placed on prediction markets",
+          "link": "https://www.nature.com/articles/d41586-026-02795-9",
+          "summary": "Nature, Published online: 08 September 2026; doi:10.1038/d41586-026-02795-9\nLimit bets on clinical-trial outcomes being placed on prediction markets",
+          "isoDate": "2026-09-08T00:00:00.000Z"
+        },
+        {
+          "title": "China’s fast-track clinical trials are in the spotlight after child deaths",
+          "link": "https://www.nature.com/articles/d41586-026-02407-6",
+          "summary": "Nature, Published online: 08 September 2026; doi:10.1038/d41586-026-02407-6\nA new government policy seeks to balance innovation and safety.",
+          "isoDate": "2026-09-08T00:00:00.000Z"
+        },
+        {
+          "title": "Two children died from gene therapies in China: where the field goes next",
+          "link": "https://www.nature.com/articles/d41586-026-02497-2",
+          "summary": "Nature, Published online: 08 September 2026; doi:10.1038/d41586-026-02497-2\nStrengthened laws should help to ensure future deaths are quickly disclosed to the public, but China’s reputation for such research is at risk.",
+          "isoDate": "2026-09-08T00:00:00.000Z"
+        },
+        {
+          "title": "‘Mother of Hubble’: how Nancy Grace Roman ushered in a new era of astronomy",
+          "link": "https://www.nature.com/articles/d41586-026-02802-z",
+          "summary": "Nature, Published online: 08 September 2026; doi:10.1038/d41586-026-02802-z\nThe scientist honoured by the newest telescope in space spearheaded a pioneering programme as NASA’s first chief astronomer.",
+          "isoDate": "2026-09-08T00:00:00.000Z"
+        },
+        {
+          "title": "How countries can grow without impoverishing future generations",
+          "link": "https://www.nature.com/articles/d41586-026-02807-8",
+          "summary": "Nature, Published online: 08 September 2026; doi:10.1038/d41586-026-02807-8\nGovernments should invest to develop all types of capital, and not just income, to improve the lives of future citizens and to protect the planet.",
+          "isoDate": "2026-09-08T00:00:00.000Z"
         },
         {
           "title": "Author Correction: AhR inhibition promotes axon regeneration via a stress–growth switch",
           "link": "https://www.nature.com/articles/s41586-026-11103-4",
           "summary": "Nature, Published online: 07 September 2026; doi:10.1038/s41586-026-11103-4\nAuthor Correction: AhR inhibition promotes axon regeneration via a stress–growth switch",
           "isoDate": "2026-09-07T00:00:00.000Z"
-        },
-        {
-          "title": "Author Correction: A mouse brain stereotaxic topographic atlas with isotropic 1-μm resolution",
-          "link": "https://www.nature.com/articles/s41586-026-11094-2",
-          "summary": "Nature, Published online: 07 September 2026; doi:10.1038/s41586-026-11094-2\nAuthor Correction: A mouse brain stereotaxic topographic atlas with isotropic 1-μm resolution",
-          "isoDate": "2026-09-07T00:00:00.000Z"
-        },
-        {
-          "title": "Probing the proteome at cellular scale",
-          "link": "https://www.nature.com/articles/d41586-026-02805-w",
-          "summary": "Nature, Published online: 07 September 2026; doi:10.1038/d41586-026-02805-w\nRapid technological advances are allowing researchers to identify thousands of proteins in individual cells, revealing the hidden mechanisms underlying development and disease.",
-          "isoDate": "2026-09-07T00:00:00.000Z"
-        },
-        {
-          "title": "The secret life of a cell-cycle gatekeeper of breast cancer",
-          "link": "https://www.nature.com/articles/d41586-026-02470-z",
-          "summary": "Nature, Published online: 07 September 2026; doi:10.1038/d41586-026-02470-z\nA newly discovered function for the protein Rb explains why inhibiting cell division can enhance the signalling mediated by the oestrogen receptor that drives breast cancer.",
-          "isoDate": "2026-09-07T00:00:00.000Z"
-        },
-        {
-          "title": "Isaac Newton’s remarkable year — and the plagiarism accusations that followed",
-          "link": "https://www.nature.com/articles/d41586-026-02808-7",
-          "summary": "Nature, Published online: 07 September 2026; doi:10.1038/d41586-026-02808-7\nA deep dive into Newton’s major work, Principia Mathematica, reveals his hate of hypotheses and a habit of courting controversy.",
-          "isoDate": "2026-09-07T00:00:00.000Z"
-        },
-        {
-          "title": "Anthropic AI ‘formalizes’ proof of Fermat’s last theorem in just 11 days",
-          "link": "https://www.nature.com/articles/d41586-026-02822-9",
-          "summary": "Nature, Published online: 07 September 2026; doi:10.1038/d41586-026-02822-9\nClaude produced a 13-million-line, computer-checked proof of the famed conjecture — a major milestone in mathematics.",
-          "isoDate": "2026-09-07T00:00:00.000Z"
-        },
-        {
-          "title": "APOD: 2026 September 5 – Chasing the Moon’s Shadow",
-          "link": "https://science.nasa.gov/image-article/apod-2026-september-5-chasing-the-moons-shadow/",
-          "summary": "APOD Science APOD APOD: 2026 September 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Chasing the Moon’s […]",
-          "isoDate": "2026-09-05T04:05:00.000Z"
-        },
-        {
-          "title": "NASA Ames Fire Department Aircraft Firefighting Training",
-          "link": "https://www.nasa.gov/news-release/nasa-ames-fire-department-aircraft-firefighting-training/",
-          "summary": "The fire department at NASA’s Ames Research Center in California’s Silicon Valley will perform training on the Moffett Federal Airfield beginning Tuesday, Sept. 8 through Friday, Sept. 11. The training will involve the use of a propane-fueled aircraft fire simulator and be conducted from 8 a.m. to 8 p.m. PDT. Because the aircraft simulator is […]",
-          "isoDate": "2026-09-04T19:51:56.000Z"
         }
       ]
     },
@@ -141,13 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-09-08T03:14:39.416Z"
+          "isoDate": "2026-09-08T10:39:22.649Z"
         },
         {
-          "title": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
-          "link": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-          "summary": "The head of chip designer Arm says modelling how a DNA marker is impacted by cancer cannot be done now, but computers are \"going to solve it\".",
-          "isoDate": "2026-09-07T23:05:12.000Z"
+          "title": "Scammers demand ransoms from Instagram users over fake copyright claims",
+          "link": "https://www.bbc.co.uk/news/articles/cjw54ww73qjo?at_medium=RSS&at_campaign=rss",
+          "summary": "Users say they are losing money or risk having their accounts suspended because Meta struggles to identify scammers.",
+          "isoDate": "2026-09-08T06:49:56.000Z"
         },
         {
           "title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-09-08T03:14:42.639Z"
+          "isoDate": "2026-09-08T10:39:24.654Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-09-08T03:14:41.254Z"
+          "isoDate": "2026-09-08T10:39:23.757Z"
         },
         {
           "title": "Workshops Educate African Researchers On How to Publish With IEEE",
