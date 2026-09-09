@@ -1,69 +1,69 @@
 {
-  "generatedAt": "2026-09-09T10:49:17.070Z",
+  "generatedAt": "2026-09-09T15:59:09.677Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
         {
-          "title": "Worried Anthropic researchers warn that AI &#8216;could kill all humans&#8217;",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
-          "summary": "A senior Anthropic safety researcher has said there is more than a 10 percent chance artificial intelligence \"could kill all humans\" by the end of the decade, just hours after a colleague resigned over fears the AI lab and its rivals are carelessly racing to build \"superhuman systems\" they cannot control. \nIn a post on X announcing his departure, Jacob Coxon, a researcher who has trained AI systems at Anthropic, said he had quit the company over its lax approach to safety. Coxon, who previously trained systems for OpenAI, accused the two AI companies of \"racing straight to self-improving superintelligence and gambling with our lives,\" even  …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-09T09:56:28.000Z"
+          "title": "Framework is giving some customers a RAM refund",
+          "link": "https://www.theverge.com/gadgets/992218/framework-lowers-ram-prices-refunds",
+          "summary": "In a \"rare, positive update\" amid the ongoing component shortage, Framework is lowering its RAM prices for some buyers of the Laptop 13 Pro - at least, for now. After increasing the laptop's memory pricing in July, Framework says it \"secured a limited quantity of Micron 32GB and 64GB LPCAMM2 memory modules at lower cost,\" and plans to share the savings: \nWe are committed to passing on savings whenever we can and keeping computers as accessible as possible in the current environment, so we are rolling out price reductions across both already shipped and a subset of currently pending pre-orders. While these new costs remain above our origina …\n\nRead the full story at The Verge.",
+          "isoDate": "2026-09-09T15:36:37.000Z"
         },
         {
-          "title": "Batteries just broke another record in the US",
-          "link": "https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/",
-          "summary": "Battery installations hit a new record in the US in the second quarter of 2026. In total, 20.2 gigawatt-hours of new capacity came online, according to a new report. That’s enough to supply the daily electricity needs of about 700,000 homes. The surge is putting the country on a trajectory to see 71 gigawatt-hours of…",
-          "isoDate": "2026-09-09T09:00:00.000Z"
+          "title": "The Switch 2 is getting a 2D Metroid called Ravenous",
+          "link": "https://www.theverge.com/games/992053/the-switch-2-is-getting-a-2d-metroid-called-ravenous",
+          "summary": "Nintendo just announced a new 2D entry in the Metroid series for the Switch 2, titled Metroid Ravenous. It's launching on January 28th, 2027.\nThe new game looks like an evolution of Metroid Dread. While it's still a 2D game, it features 3D graphics, lots of cinematic action shots, parrying enemies, and Samus rolling around in Morph Ball form. What's new for this game is that Samus also appears to somehow absorb energy from enemies to survive - Nintendo's marketing copy for the game uses the line \"eat or be eaten.\" There are also many fearsome-looking foes, including some giant creatures and a group of futuristic, caped fighters that attack  …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-09T14:46:50.000Z"
         },
         {
-          "title": "Understanding the thermal ceiling in portable power",
-          "link": "https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/",
-          "summary": "Plug a phone into a modern charger and the first 10 minutes are impressive. The next 20 are not. This is not a defect. It’s the connected device protecting itself. As temperature rises during charging, a smartphone’s battery management system reduces the current it will accept, because heat accelerates the chemical degradation that permanently reduces…",
-          "isoDate": "2026-09-09T08:18:13.000Z"
+          "title": "I spent an hour riding inside Tesla’s steering-wheel-free Cybercab",
+          "link": "https://www.theverge.com/transportation/992014/tesla-cybercab-hands-on-test-robotaxi-austin",
+          "summary": "Getting out of a taxi shouldn't be a shameful experience. Yet I find myself feeling particularly embarrassed while exiting a Tesla Cybercab as it partially blocks a narrow road outside a popular Austin swimming hole. As a cadre of annoyed, sweaty Texan parking spot hunters pile up around it, the gold-painted two-seater just sits there obliviously, lights flashing. I try not to make eye contact, but I can feel the stares of frustrated pool-goers around me, whose earnest attempt at a peaceful outdoor reprieve from the heat had just been interrupted by yet another not-quite-finished glimpse into the future. \nTesla's long-awaited, two-seater Cy …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-09T14:41:07.000Z"
         },
         {
-          "title": "Apple’s foldable ‘iPhone Duo’ will reportedly start at $2,000",
-          "link": "https://www.theverge.com/tech/991884/apple-iphone-duo-rumor-foldable",
-          "summary": "With only a few hours left until the first iPhone launch event since John Ternus took over as the CEO of Apple, Bloomberg reporter Mark Gurman says the name of the company's long-rumored folding phone is the iPhone Duo. The midnight report suggests it will have a price starting at $2,000 for a model with 256GB of storage, or around $3,000 for up to 2TB. Shipping is said to start as soon as October in two colors: white and dark blue.\nSo far, the rumored foldable has been mostly referred to as the iPhone Ultra, while the Duo name would raise a title that Google used for one of its many ill-fated attempts at messaging and chat, and that Micros …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-09T05:26:53.000Z"
+          "title": "NOAA is putting commercial fishing ahead of conservation",
+          "link": "https://arstechnica.com/science/2026/09/noaa-is-putting-commercial-fishing-ahead-of-conservation/",
+          "summary": "Critics say the new agenda could weaken science-based rules and marine protections.",
+          "isoDate": "2026-09-09T13:58:44.000Z"
         },
         {
-          "title": "What OpenAI’s latest controversy tells us about the future of math",
-          "link": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
-          "summary": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather in OpenAI’s cap. But the announcement has been overshadowed by accusations…",
-          "isoDate": "2026-09-09T03:10:08.000Z"
+          "title": "My favorite gaming earbuds got their first discount",
+          "link": "https://www.theverge.com/gadgets/992003/asus-cetra-open-wireless-gaming-headset-earbuds-deal-sale",
+          "summary": "Asus’ Cetra Open wireless earbuds are some of the best that I’ve tested, despite being open-style earbuds. Their drivers sit outside of your ear, which allows outside sounds to mix with audio coming from your console. Some gamers may not want this, but it works well for me as someone who prefers to be aware of their surroundings as they play or listen to podcasts. They’re $22 off at Amazon and Best Buy, costing $206.99.\nIn addition to their great-sounding audio and respectable battery life (plus surprisingly deep customization through a mobile or browser-based app), the Cetra Open ship with a clever USB-C 2.4GHz transmitter that has a built-in port for passthrough charging. In other words, you can charge as you play instead of forgoing a USB-C port for audio. The built-in port supports up to 60W of passthrough charging, but it can’t be used as a data port.\nAsus Cetra Open Wireless earbuds\n\nWhere to Buy:\n\n $229.99 $206.99 at Amazon\n $229.99 $206.99 at Best Buy\n $229.99 at Asus\n\nThe Cetra Open are as good of a fit for the likes of the Steam Deck, PC, Nintendo Switch 2 and PlayStation 5 as they are for your phone. They’re a breeze to connect via Bluetooth and use for music and podcasts, and there’s also a reflective band included that physically links them together behind your neck for improved visibility and stability if you want to run with them.\nRead our Asus Cetra Open earbuds hands-on review.",
+          "isoDate": "2026-09-09T13:53:03.000Z"
         },
         {
-          "title": "LG TV shown scanning LAN for third-party phones and other devices",
-          "link": "https://arstechnica.com/gadgets/2026/09/lg-tv-shown-capable-of-tracking-user-activity-even-when-offline/",
-          "summary": "“It doesn’t cost a lot to store text forever.”",
-          "isoDate": "2026-09-08T21:52:29.000Z"
+          "title": "Nintendo Direct September 2026: The biggest news and trailers",
+          "link": "https://www.theverge.com/games/991547/nintendo-direct-september-2026-news-trailers-announcements",
+          "summary": "Nintendo just wrapped part two of its double feature this week.\nOn Tuesday, the company hosted a showcase all about the Legend of Zelda franchise, including footage and a November 5th release date for the Switch 2 Ocarina of Time remake. On Wednesday, the company aired a new Nintendo Direct, which spotlighted Switch 2 games mostly “launching this winter” over the course of about 45 minutes.\nThe show wasn’t a blockbuster one, but it had a few notable announcements. A new 2D Metroid game, Metroid Ravenous, launches in January. The Kirby franchise is getting a new game, Kirby and the World Beyond, sometime in spring 2027. A Nintendo Switch 2 Edition of Pikmin 4 releases in November. And Persona 6 will be coming to the Switch 2, though that game still doesn’t have a release date.\nThis year’s other big releases include Fire Emblem: Fortune’s Weave on September 17th and Nintendo Switch Sports Resort on October 22nd. For 2027, major new entries in the Pokémon and Xenoblade franchises are already on the calendar, but they don’t have specific dates yet.\nFollow our coverage of the September 2026 Nintendo Direct right here. You can watch a replay of the show on YouTube.\n\n\n\t\t\t\t\t\nA whole new world.\n\t\t\t\nThe Switch 2 is getting a 2D Metroid called Ravenous\n\t\t\t\nTime for some Slayhem.\n\t\t\t\nPersona 6 is coming to the Switch 2.\n\t\t\t\nMario Kart World gets a new update later today.\n\t\t\t\nThe spirit of Wii Sports lives on.\n\t\t\t\nReturn to Resident Evil remakes.\n\t\t\t\nPikmin 4 is getting a Nintendo Switch 2 Edition.\n\t\t\t\nA true gentleman leaves no puzzle unsolved.\n\t\t\t\nNew pokémon are coming to Pokopia.\n\t\t\t\nStar Fox’s adventures.\n\t\t\t\nMore Hyrule Warriors.\n\t\t\t\nMonster Hunter Wilds launches on Switch 2 in December.\n\t\t\t\nIt’s almost Nintendo time.\n\t\t\t\nNintendo isn’t scared of GTA VI",
+          "isoDate": "2026-09-09T13:50:00.000Z"
         },
         {
-          "title": "Sony isn’t phasing out discs quite as quickly as we thought",
-          "link": "https://www.theverge.com/games/991806/sony-disc-plant-90-percent-10-percent",
-          "summary": "Sony isn't backing away from its decision to kill the video game disc in January 2028. But Sony isn't shutting down production as quickly as we thought, either. Two months after reports that Sony's last discmaking plant was already being repurposed, the company's discmaking division now says that one widely reported detail was wrong.\nOriginally, it sounded like the division's president said the Thalgau plant would produce 90 percent fewer discs in 2028 - but the reality is it will only produce 10 percent fewer discs in 2028, an unnamed Sony DADC spokesperson told Game journalist Brian Crecente. \n\"To clarify and avoid any misleading informa …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-08T21:52:13.000Z"
+          "title": "Amazon Prime Video’s new AI tech matches lips to dubbed audio",
+          "link": "https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing",
+          "summary": "Maxton Hall. | Image: Prime Video\t\n\nAmazon's Prime Video is launching a new AI-powered feature that lines up an actor's mouth with \"human-dubbed\" audio. The feature is only available with the English dub of the German series Maxton Hall for now, but Prime Video plans to expand it to \"additional titles\" in the future.\nIn its announcement, Prime Video says it uses a combination of AI and visual effects technologies to make lip movements match up with translated speech. Meta and YouTube recently launched an AI-powered auto-dubbing feature for creators, while allowing them to turn on a \"lip sync\" option to make it look like creators are actually speaking in a user's preferred lan …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-09T13:00:00.000Z"
         },
         {
-          "title": "GOG brings back \"big box\" PC games, one printable template at a time",
-          "link": "https://arstechnica.com/gaming/2026/09/gog-brings-back-big-box-pc-games-one-printable-template-at-a-time/",
-          "summary": "Preservation \"goodies\" also includes downloadable 3D models for desktop perusal.",
-          "isoDate": "2026-09-08T21:23:13.000Z"
+          "title": "How to watch Apple’s September 9th launch event",
+          "link": "https://www.theverge.com/tech/989692/apple-iphone-launch-event-september-2026-how-to-watch",
+          "summary": "Apple's September 9th launch event could be one of its biggest in years. It will be Apple's first event since John Ternus took over as CEO on September 1st, stepping in for Tim Cook, and will likely feature the first models in Apple's iPhone 18 lineup. That could include the long-rumored foldable \"iPhone Duo,\" coming just a couple months after Samsung debuted its own passport-style foldable, the Galaxy Z Fold 8. \nHere's how you can watch the event live, and a few possible highlights to keep an eye out for. \nHow to watch Apple's September launch event\nApple's \"Surprise and shine\" event kicks off on Wednesday, September 9th, at 1PM ET / 10A …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-09T12:28:56.000Z"
         },
         {
-          "title": "Why this month's Microsoft patch release is a doozy",
-          "link": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
-          "summary": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.",
-          "isoDate": "2026-09-08T21:11:46.000Z"
+          "title": "The Download: OpenAI’s turning point for math and a battery record",
+          "link": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What OpenAI’s latest controversy tells us about the future of math OpenAI says its agents have solved one of the most important open problems in mathematics. Under normal circumstances, that would…",
+          "isoDate": "2026-09-09T12:10:00.000Z"
         },
         {
-          "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
-          "summary": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired. In a blog post on Tuesday, OpenAI announced that it discovered a solution to the Navier-Stokes problem - which relates to the flow of liquid and gas - using an internal AI model more powerful than the newly released GPT-6 Astra alongside 10,000 concurrent agents. The Navier-Stokes problem is one of seven Millennium Prize Problems, each of which comes with a $1 million reward for solving. \nOpenAI says it started training the internal AI model on August 28th, which has \"exhibited unpreced …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-08T20:53:52.000Z"
+          "title": "Students who use AI generally score worse at school",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa",
+          "summary": "Students who use AI to help them study tend to perform worse at school than those who don't, according to data from a global OECD educational report. The situation is more complex than it sounds though, with certain types of AI use giving learners a slight boost, especially among students taught to critically assess how well the AI tools perform.\nThe OECD's Programme for International Student Assessment (PISA) takes data from countries around the world every few years. This year's study, based on data collected in 2025, is the first to be carried out since AI use went truly mainstream. It tests 15-year-old students in science, math, and rea …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-09T12:05:01.000Z"
         }
       ]
     },
@@ -71,6 +71,18 @@
       "header": "120  CIENCIA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Artemis II Crew at NASA Marshall",
+          "link": "https://www.nasa.gov/image-article/artemis-ii-crew-at-nasa-marshall/",
+          "summary": "The crew of NASA’s Artemis II mission – NASA astronauts Christina Koch, Victor Glover, and Reid Wiseman and CSA (Canadian Space Agency) astronaut Jeremy Hansen – visited Huntsville, Alabama, Sept. 1, 2026, where they met with the NASA workforce at NASA’s Marshall Space Flight Center. The event gave the crew an opportunity to share firsthand […]",
+          "isoDate": "2026-09-09T15:31:44.000Z"
+        },
+        {
+          "title": "NASA Names Two Artemis II Astronauts to Emeritus Program",
+          "link": "https://www.nasa.gov/news-release/nasa-names-two-artemis-ii-astronauts-to-emeritus-program/",
+          "summary": "Following their landmark Artemis II mission earlier this year, distinguished NASA astronauts Victor Glover and Reid Wiseman are transitioning in September to emeritus status at the agency’s Johnson Space Center in Houston. In an emeritus role, individuals with a high degree of technical and professional knowledge can continue to support the agency by donating their […]",
+          "isoDate": "2026-09-09T13:24:37.000Z"
+        },
         {
           "title": "Curiosity Blog, Sols 4995-5001: 5,000 (Martian) Days on Mars",
           "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4995-5001-5000-martian-days-on-mars/",
@@ -84,52 +96,40 @@
           "isoDate": "2026-09-09T04:01:00.000Z"
         },
         {
+          "title": "Highly efficient base editing at <i>PCSK9</i> and normal human embryo development",
+          "link": "https://www.nature.com/articles/s41586-026-11118-x",
+          "summary": "Nature, Published online: 09 September 2026; doi:10.1038/s41586-026-11118-x\nHighly efficient base editing at PCSK9 and normal human embryo development",
+          "isoDate": "2026-09-09T00:00:00.000Z"
+        },
+        {
           "title": "How AI is changing PhD programmes: join our free webinar",
           "link": "https://www.nature.com/articles/d41586-026-02751-7",
           "summary": "Nature, Published online: 09 September 2026; doi:10.1038/d41586-026-02751-7\nLearn how artificial intelligence can hone your research skills as well as the potential pitfalls of relying too heavily on it.",
           "isoDate": "2026-09-09T00:00:00.000Z"
         },
         {
-          "title": "Why the super-fun Ig Nobel prizes bring serious value to science",
-          "link": "https://www.nature.com/articles/d41586-026-02793-x",
-          "summary": "Nature, Published online: 09 September 2026; doi:10.1038/d41586-026-02793-x\nAwards that celebrate humour, curiosity and irreverence are a balm in hard times.",
+          "title": "Bacteria recruited to treat cancer",
+          "link": "https://www.nature.com/articles/d41586-026-02823-8",
+          "summary": "Nature, Published online: 09 September 2026; doi:10.1038/d41586-026-02823-8\nAnticancer drugs could be manufactured and delivered by modified microorganisms.",
           "isoDate": "2026-09-09T00:00:00.000Z"
         },
         {
-          "title": "Why we need an International Panel on Inequality",
-          "link": "https://www.nature.com/articles/d41586-026-02806-9",
-          "summary": "Nature, Published online: 09 September 2026; doi:10.1038/d41586-026-02806-9\nDisparities in income and wealth are growing. A scientific assessment process can give governments the information they need to tackle them.",
+          "title": "Breaking timescales with generative sampling of conformational transitions",
+          "link": "https://www.nature.com/articles/s41586-026-11025-1",
+          "summary": "Nature, Published online: 09 September 2026; doi:10.1038/s41586-026-11025-1\nA generative committor-guided path-sampling framework reconstructs rare biomolecular transition pathways and reveals the underlying thermodynamics and kinetics without using predefined collective variables or brute-force sampling, at an acceptable computational cost.",
           "isoDate": "2026-09-09T00:00:00.000Z"
         },
         {
-          "title": "The Einstein test: what happens when AI tries to rediscover relativity?",
-          "link": "https://www.nature.com/articles/d41586-026-02804-x",
-          "summary": "Nature, Published online: 09 September 2026; doi:10.1038/d41586-026-02804-x\nScientists are probing whether language models trained on historical data can reproduce creative breakthroughs.",
+          "title": "Within-family effect of ancestry on complex traits in a Mexican population",
+          "link": "https://www.nature.com/articles/s41586-026-11039-9",
+          "summary": "Nature, Published online: 09 September 2026; doi:10.1038/s41586-026-11039-9\nThis study uses a within-family design to identify significant ancestry differences in complex traits such as height and type 2 diabetes in a genetically diverse population from Mexico City.",
           "isoDate": "2026-09-09T00:00:00.000Z"
         },
         {
-          "title": "From the Corps to the Cosmos, featuring Jaden Caradine",
-          "link": "https://www.nasa.gov/general/from-the-corps-to-the-cosmos-featuring-jaden-caradine/",
-          "summary": "Jaden Caradine knew he wanted to be an engineer at eight years old. He just took a winding road to get there. Before he enrolled at Embry-Riddle Aeronautical University, before he discovered the field that would become his focus, and before he landed a Pathways internship at NASA’s Langley Research Center in Hampton, Virginia, Caradine […]",
-          "isoDate": "2026-09-08T20:29:59.000Z"
-        },
-        {
-          "title": "NASA Calls for Proposals to Accelerate Lunar Surface Technologies ",
-          "link": "https://www.nasa.gov/news-release/nasa-calls-for-proposals-to-accelerate-lunar-surface-technologies/",
-          "summary": "NASA is seeking proposals to advance the technology and infrastructure needed to explore the Moon and establish a Moon Base in the lunar South Pole region. Announced on Tuesday, Sept. 8, the solicitation targets capability gaps, including power generation, oxygen extraction, and producing materials on the Moon required for construction and operations. These technologies are […]",
-          "isoDate": "2026-09-08T20:16:16.000Z"
-        },
-        {
-          "title": "Superbubble in the Large Magellanic Cloud",
-          "link": "https://www.nasa.gov/image-article/superbubble-in-the-large-magellanic-cloud/",
-          "summary": "NASA’s Hubble Space Telescope captures a photogenic nebula, N44, in the Large Magellanic Cloud in this Sept. 3, 2026, image. N44 is dominated by two features: a vast central void and a shell of dense, dusty gas. The central void is a ‘superbubble’ spanning roughly 210 by 140 light-years across. The glittering stars at the […]",
-          "isoDate": "2026-09-08T16:49:15.000Z"
-        },
-        {
-          "title": "NASA Technique for Manipulating Satellite Photos Now Reveals Ancient Images  ",
-          "link": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-technique-for-manipulating-satellite-photos-now-reveals-ancient-images/",
-          "summary": "Algorithm NASA first applied to satellite imagery is now used to peer into antiquity",
-          "isoDate": "2026-09-08T15:15:56.000Z"
+          "title": "Neocortical long-range inhibition promotes cortical synchrony and sleep",
+          "link": "https://www.nature.com/articles/s41586-026-10876-y",
+          "summary": "Nature, Published online: 09 September 2026; doi:10.1038/s41586-026-10876-y\nIn mice, a sparse population of sleep-active long-range inhibitory neurons in the neocortex promote widespread cortical synchronization and sleep, revealing a cortical mechanism that contributes to the regulation of sleep.",
+          "isoDate": "2026-09-09T00:00:00.000Z"
         }
       ]
     },
@@ -141,13 +141,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-09-09T10:49:13.347Z"
+          "isoDate": "2026-09-09T15:59:07.192Z"
         },
         {
           "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
           "link": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
           "summary": "It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.",
-          "isoDate": "2026-09-09T10:46:43.000Z"
+          "isoDate": "2026-09-09T15:34:09.000Z"
+        },
+        {
+          "title": "White House pulls Tetris-style 'Build The Wall' game after copyright concern",
+          "link": "https://www.bbc.co.uk/news/articles/c9v9djj4m3do?at_medium=RSS&at_campaign=rss",
+          "summary": "The Tetris Company says it takes \"copyright infringement very seriously\" and is not involved with the game.",
+          "isoDate": "2026-09-09T12:06:40.000Z"
         },
         {
           "title": "Meta continues to run ads promoting child sexual abuse material in India - report",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&at_campaign=rss",
           "summary": "The long-running claim alleges Grindr breached UK privacy laws by sharing data with third parties.",
           "isoDate": "2026-09-07T15:27:50.000Z"
-        },
-        {
-          "title": "OpenAI chief scientist warns no-one is prepared for consequences of AI",
-          "link": "https://www.bbc.co.uk/news/articles/cwyzrrd0kp7o?at_medium=RSS&at_campaign=rss",
-          "summary": "The post comes as the firm releases GPT-6 Astra, which it says is its most powerful product yet.",
-          "isoDate": "2026-09-07T12:22:07.000Z"
         }
       ]
     },
@@ -273,13 +273,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-09-09T10:49:16.323Z"
+          "isoDate": "2026-09-09T15:59:09.172Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-09-09T10:49:14.439Z"
+          "isoDate": "2026-09-09T15:59:08.106Z"
+        },
+        {
+          "title": "An Engineer’s Guide to Surviving a Layoff",
+          "link": "https://spectrum.ieee.org/how-to-survive-a-layoff",
+          "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Parsity and delivered to your inbox for free!\nI lost a cushy engineering management position at the same time I purchased a business, with a mortgage, three kids, and every other financial obligation of being an adult. It was one of the most stressful stretches of my life. If something similar has happened to you, I feel your pain.\nYou lose more than the income\nFor many of us, our work became our identity, so we don’t just think, “I don’t have a job anymore.” We start thinking, “I’m not an engineer anymore.”\nAn apple tree in winter is still an apple tree. A car parked in a driveway is still a car. You’re still an engineer, the same way you were still one every evening you clocked out, and the same way you’ll be one at the next job. Your skills took years to build and won’t evaporate because a company stopped paying for them. This feeling can be particularly rough if part of your identity was tied to a recognizable employer. \nHowever, this can also be a chance to catch up on what you’ve been putting off: working out, being present with your kids, writing, whatever hobby got shelved for a deadline three years ago.\nOnce you’ve caught your breath, here are some tips for when the actual work starts:\n1. Don’t sprint on day one\nI started applying for jobs the next morning after the layoff. It felt productive, but it gave me no time to settle my nervous system or consider what I actually wanted next. I took the first offer that came along, at a company I already knew wasn’t right, and quit after exactly 30 days. Give yourself a few days before deciding anything. Plans built out of desperation rarely work out well.\n2. Audit your spending\nGo through every subscription and recurring charge and cut what isn’t essential. Every dollar you stop bleeding buys you patience instead of forcing a bad offer out of fear.\n3. Build a list wider than LinkedIn\nStart with former colleagues and vendors, or businesses with a relationship to your previous employer. They already know you or your company, which gives you the halo effect: Some of the trust from your employer carries over to you automatically.\nLinkedIn is table stakes and is the most popular place to find work, but that doesn’t mean your search should stop there. Try Facebook, Instagram, and other social media channels too, where plenty of people who aren’t on LinkedIn might have leads for open roles. I found my first job years ago from a Facebook post, and both roles I landed after being laid off came from startup job boards and recruiters I found entirely outside LinkedIn. Your mileage may vary, but LinkedIn isn’t the only game in town.\nDon’t skip your inner circle either: Text your family and friends. Good leads rarely come from someone you know directly, but they do come from someone that person knows. Work this list daily and track who you’ve contacted.\n4. Eight hours is a long time\nWith no work to fill your day, you may default to treating the search like an eight-hour shift. You can’t apply productively for 8 hours straight, and that’s why people burn out. Use a focused morning block for the list in step 3, then spend the rest of your day on activities you’ve been putting off.\n5. Catalog your wins before you study interview questions\nCataloging your wins is a higher-leverage move than drilling practice questions this early. Can you explain the most impactful project you worked on in the last year? Probably not.\nMost people skip this step, then default to generic answers when a recruiter asks about their last role. Write down specific stories showing leadership, technical ability, and grace under pressure. They’ll come up once you’re in interviews, and cataloging them rebuilds your confidence along the way too. Save the deep prep for once an interview is on the calendar. \nAsk yourself daily whether today’s work is generating interest in you, or leading you to someone who might hire you. If not, consider skipping it.\nOne last thing\nA layoff rarely reflects your skills. It’s usually a company protecting revenue—nothing more personal than that. Knowing that doesn’t make it easier, but hopefully this gets you back on your feet faster.\n—Brian\nIEEE Global Careers Fair: September 23-24\nLooking for a job? For the first time, IEEE is taking its Career Fair worldwide. The inaugural IEEE Global Virtual Career Fair runs September 23 (5:00 PM EST) through September 24 (8:00 PM EST), following the sun across every region to connect engineering and technology professionals with employers around the world. \nRead more here. \nUnited States Invests in Industry Partnerships for Ph.D. Training\nWhile most engineering Ph.D. grads end up in jobs at commercial companies, academia and industry often operate in their own bubbles. Now, the U.S. National Science Foundation is investing in a program to integrate industry experience into STEM doctoral programs and help bridge the gap. Modeled after similar programs in other countries, students in the I-PhD will spend at least one year working on research at an industry site and receive a combination of funding from the company, NSF, and the university. \nRead more here.\nAI Efficiency Could Cost Us the Next Generation of Experts\nWhen systems engineer Richard Mitchell designed a digitally-controlled nuclear plant, he made a counterintuitive decision: including manual steps for the human operator that a machine could execute on its own. The strategy was meant to keep the operator sharp, and it’s one that could help address one of the biggest issues facing the workforce today: What happens to human expertise when AI does the work that used to build it?\nRead more here.",
+          "isoDate": "2026-09-09T15:03:38.000Z"
         },
         {
           "title": "Rivian’s Gambit for Full Autonomy",
@@ -310,12 +316,6 @@
           "link": "https://spectrum.ieee.org/forms-of-engineering-mentorship",
           "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Parsity and delivered to your inbox for free!\nAsking someone to be your mentor is weird. \nWalking up to someone and asking, “Will you be my mentor?” has always seemed to me like the adult version of a kid walking up to another kid at a party and asking, “Will you be my friend?”\nWhat you’re really asking is: “Will you commit some amount of unpaid time to guiding my career for an indefinite period?”\nFramed that way, of course some people hesitate to say yes.\nBut formal mentorship isn’t the only way to benefit from the wisdom of those who came before. I’ve never formally asked anyone to mentor me. And yet I’ve had dozens of unofficial mentors.\nThe Copy-Paste Method\nOne way to learn from others is by copying what you observe. \nSometimes this means reading books or blogs from engineers you respect and directly applying their ideas to your work.\nI’ve also been fortunate to work alongside some extremely talented engineers, and I shamelessly copied the things they did well.\nWhen I meet one of these engineers, I try to figure out what they’re doing differently: How do they approach a problem? What do they read? How do they communicate in meetings? What do they know that I don’t?\nThen I steal whatever seems useful and apply it to my own career.\nGreat artists steal. Engineers should too.\nCuriosity Compounds\nStill, just observing has its limits. Asking questions can get you even farther. \nI’ve asked managers how they approached difficult conversations, and I’ve asked engineers what their process was for solving problems I thought were impossible. \nIf someone seems unusually knowledgeable: “What are you reading right now?” If I respect someone’s work: “What’s something you think I could do better?”\nThese aren’t profound questions. They don’t need to be. You get one useful piece of information, apply it, and move on.\nAnd if you don’t work around exceptional engineers, you can still do this. The only real requirement is curiosity. When you encounter something you don’t understand, make it a rule to investigate instead of moving past it.\nYou don’t need one person willing to guide your career. You need a collection of people who know things you don’t.\nPay attention to them. Ask questions. And shamelessly copy the good parts.\nAsk me! \nIf you have a career question you’re struggling with, like an upcoming decision, a problem at work, an interview, whatever—submit it here: https://docs.google.com/forms/d/e/1FAIpQLSdj_2BZIhrGF__7BCLH33zJ9NMv8C7Vsg9NNusASrYj7-9Idw/viewform. You can include your name or remain anonymous.\nI’ll be reading through them and answering some in future articles. Consider it mentorship without the awkward “will you be my mentor?” conversation.\n—Brian\nICYMI: The Institute June 2026 issue\nIEEE members have a wealth of experience and knowledge to draw from. In the most recent issue of The Institute, several members share their career advice for engineers, from engineers. You can also learn about other IEEE programs and courses. \nRead more here.",
           "isoDate": "2026-09-02T19:45:58.000Z"
-        },
-        {
-          "title": "NASA’s Cargo-Moving Robotic Arm Named 300th IEEE Milestone",
-          "link": "https://spectrum.ieee.org/canadarm-ieee-300th-milestone",
-          "summary": "In the 1960s NASA began developing a system of reusable space shuttles to make its work more efficient and to reduce costs. The shuttles could launch like rockets, maneuver in Earth’s orbit, and land like airplanes. They also could carry large satellites to and from orbit.\nLike other types of transportation, machinery eventually breaks down, and parts need to be replaced or fixed. And the cargo being carried to and from Earth has to be moved to its final destination. To complete such tasks, Spar Aerospace (now part of MDA Space) of Brampton, Ont., Canada, and the National Research Council in Ottawa developed a robotic arm, the Shuttle Remote Manipulator System. The project was a joint venture between the U.S. and Canadian governments.\nKnown as Canadarms, the robotic tools attached to shuttles’ exteriors. They allowed astronauts to handle and transfer tools, satellites, and other payloads. Inspections of the shuttle and repairs could be completed using the robots.\nThe system was first deployed in 1981 aboard Columbia’s second flight. Canadarm was used for 30 years on five shuttles and on the International Space Station.\nThe robotic arm was dedicated on 19 June as the 300th IEEE Milestone. The ceremony was held at MDA Space headquarters. The IEEE Toronto Section sponsored the nomination.\n“It is appropriate that the 300th Milestone is the Canadarm,” says Michael Geselowitz, senior director of the IEEE History and Heritage group. “The technology spans aerospace, robotics, and computing fields of interest. It involves international cooperation between the United States and Canada, and it shows how IEEE and its members are at the cutting edge of many frontiers of science and technology.”\nInternational collaboration for space exploration\nSeeking to collaborate with other countries on the reusable spacecraft, NASA invited Canada to participate in 1969. It took some time for the country’s officials to determine what technology it could contribute. They learned of a robot that loaded and replaced spent fuel bundles in Canada’s deuterium uranium nuclear reactors, according to the Milestone webpage. That robot, developed by DSMA-Atcon (also now part of MDA Space), inspired what would become the Canadarm.\nA proposal was submitted in 1974 to design and build the Shuttle Remote Manipulator System. The robotic arm would unload the contents of the space shuttle’s payload bay. NASA approved the project, and development began in 1975.\nCanada had no space agency at the time, so the country’s National Research Council coordinated the organizations that collaborated on the project. Spar Aerospace led the subcontractor team, which included DMSA-Atcon, CAE, and the Canadian subsidiary of RCA Corp. Engineers from the University of Toronto’s Institute for Aerospace Studies contributed to the project.\nBuilding an arm for zero gravity\nNASA had strict requirements for the robot: The arm had to be lightweight and small enough to fit on the shuttle, as detailed in an article published by the University of Toronto. It also had to move forward and backward, up and down, left and right, and rotate along three perpendicular axes (known as six degrees of freedom).\nTo achieve all that, engineer Peter Carlisle Hughes designed the robot with two shoulder joints, one elbow, and three rotating wrists.\n“Each joint had six degrees of freedom, and the arm had six links so that it could grab anything from any angle and move it anywhere,” Hughes said in the article. The IEEE life member worked at the Institute for Aerospace Studies.\n“This milestone is a reminder of the privilege we all have at MDA Space—as engineers, designers, builders, operators—to build technology that shapes history.” —Holly Johnson, MDA Space vice president\nThe arm was 50 meters long and weighed 400 kilograms. It was made of materials that could withstand outer space’s harsh environment: titanium, stainless steel, and graphite epoxy. The arm was so lightweight that it couldn’t support itself under Earth’s gravity, so it lay on air bearings on the lab floor at Spar’s Brampton headquarters.\nCAE engineers, including IEEE Life Member David A. Weston, designed the display and control panel as well as the hand controllers astronauts would use to monitor and operate the robot.\nBecause the robotic arm was meant to work in zero gravity, a room that simulated a weightless environment was built to test it. A computer-based simulation facility was constructed in Spar’s headquarters to evaluate its controllability using two simulation models, according to the University of Toronto. RIGID, an early computer simulation model, tested every part of the arm except for its flexible properties. ASAD, which stood for “all singing, all dancing,” examined the arm’s movements, ensuring the joints operated correctly. Both were created by Hughes and Spar engineer Andrew A. Goldenberg, who is now a professor emeritus at the University of Toronto.\nThe facility was also used to train astronauts on how to use Canadarm.\nIt took five years for the first Canadarm to be completed. In February 1981, it was presented to NASA at the Kennedy Space Center in Cape Canaveral, Fla., and deployed that November.\nLift off into space\n  Astronaut Stephen Robinson is anchored to a foot restraint on the extended Canadarm2 attached to the International Space Station during an extravehicular activity he conducted in 2005.NASA\nThe Canadarm was attached to the outside of the shuttle. Astronauts were able to monitor the arm’s movements through a live video feed provided by cameras installed on the wrist and elbow joints, according to the Milestone webpage. Using a hand controller and monitors located in the shuttle’s flight deck, astronauts handled and transferred tools, satellites, and other payloads weighing up 266,000 kilograms using minimal electricity.\nNASA ordered four more systems. In 2001, Canadarm2 was attached to the International Space Station and used to help build the orbiting laboratory. It is a permanent part of the station, still completing maintenance tasks and moving supplies.\nDuring the course of the 30-year shuttle program, the arms performed successfully and achieved the flight’s mission.\nThe original Canadarm took its final flight in July 2011 aboard the Atlantis shuttle.\nCelebrating IEEE’s 300th Milestone\nThe IEEE Milestone dedication ceremony was held at MDA Space’s headquarters in Toronto, where the division that developed the Canadarm was located. The event brought together IEEE leaders and many of the engineers who helped develop the robotic system. Jill Gostin, the 2026 IEEE president‑elect, gave the opening remarks at the ceremony. She emphasized that the Milestone was not only celebrating the technology but also “the engineers, builders, programmers, and visionaries who believed technology could expand human possibility and who dared to push the boundaries of what humanity could achieve beyond Earth.”\nTo commemorate the achievement, Holly Johnson, vice president of MDA Robotics and Space Operations, and IEEE Life Senior Member David Michelson, chair of the IEEE Communications Society’s Communications History Committee, unveiled a bronze plaque that honored the technology. Michelson was the Milestone’s proposer.\n“This milestone is a reminder of the privilege we all have at MDA Space—as engineers, designers, builders, operators—to build technology that shapes history,” Johnson said. “That same pioneering spirit that drove our team in those early days of space exploration now propels us into a new era as we work to build the infrastructure for the moon and beyond.”\nThe plaque, which was placed at MDA Space headquarters, reads: \nIn 1981 NASA first deployed a Shuttle Remote Manipulator System aboard the Space Shuttle. Developed by Spar Aerospace (now MDA Space) and the National Research Council of Canada, the Canadarm allowed astronauts to safely and reliably manipulate and transfer heavy payloads outside of the Shuttle, and to conduct inspections and repairs. This robotic system played a key role in the Shuttle and International Space Station programs, and revolutionized human spaceflight.\nReviewed by the IEEE History Committee and approved by the IEEE Board of Directors, IEEE Milestones recognize outstanding technical developments around the world that are at least 25 years old. The Milestone program is administered by the IEEE History and Heritage group.\nTo learn more about historical figures in engineering, IEEE Milestones, and IEEE History Center programs and events, check out The Institute’s IEEE Tech History collection. IEEE Spectrum also covers aspects of tech history.",
-          "isoDate": "2026-09-02T18:00:03.000Z"
         }
       ]
     },
