@@ -1,15 +1,57 @@
 {
-  "generatedAt": "2026-09-08T20:45:34.952Z",
+  "generatedAt": "2026-09-09T03:17:01.609Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
         {
+          "title": "LG TV shown scanning LAN for third-party phones and other devices",
+          "link": "https://arstechnica.com/gadgets/2026/09/lg-tv-shown-capable-of-tracking-user-activity-even-when-offline/",
+          "summary": "“It doesn’t cost a lot to store text forever.”",
+          "isoDate": "2026-09-08T21:52:29.000Z"
+        },
+        {
+          "title": "Sony isn’t phasing out discs quite as quickly as we thought",
+          "link": "https://www.theverge.com/games/991806/sony-disc-plant-90-percent-10-percent",
+          "summary": "Sony isn't backing away from its decision to kill the video game disc in January 2028. But Sony isn't shutting down production as quickly as we thought, either. Two months after reports that Sony's last discmaking plant was already being repurposed, the company's discmaking division now says that one widely reported detail was wrong.\nOriginally, it sounded like the division's president said the Thalgau plant would produce 90 percent fewer discs in 2028 - but the reality is it will only produce 10 percent fewer discs in 2028, an unnamed Sony DADC spokesperson told Game journalist Brian Crecente. \n\"To clarify and avoid any misleading informa …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-08T21:52:13.000Z"
+        },
+        {
+          "title": "GOG brings back \"big box\" PC games, one printable template at a time",
+          "link": "https://arstechnica.com/gaming/2026/09/gog-brings-back-big-box-pc-games-one-printable-template-at-a-time/",
+          "summary": "Preservation \"goodies\" also includes downloadable 3D models for desktop perusal.",
+          "isoDate": "2026-09-08T21:23:13.000Z"
+        },
+        {
+          "title": "Why this month's Microsoft patch release is a doozy",
+          "link": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+          "summary": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.",
+          "isoDate": "2026-09-08T21:11:46.000Z"
+        },
+        {
+          "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
+          "summary": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired. In a blog post on Tuesday, OpenAI announced that it discovered a solution to the Navier-Stokes problem - which relates to the flow of liquid and gas - using an internal AI model more powerful than the newly released GPT-6 Astra alongside 10,000 concurrent agents. The Navier-Stokes problem is one of seven Millennium Prize Problems, each of which comes with a $1 million reward for solving. \nOpenAI says it started training the internal AI model on August 28th, which has \"exhibited unpreced …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-08T20:53:52.000Z"
+        },
+        {
+          "title": "Rivian spinout Also apologizes for delays in shipping futuristic e-bikes",
+          "link": "https://www.theverge.com/transportation/991707/rivian-also-tmb-ebike-delay-apology",
+          "summary": "Rivian's futuristic e-bike is delayed, and customers are not happy. \nLast year, Rivian's micromobility spinoff Also unveiled a new, software-controlled electric bike called the TM-B that immediately set the e-bike world ablaze. With USB-C chargeable battery, removable seat post, and software-controlled pedal-by-wire system, the TM-B set itself apart with a totally unique approach to electric bicycle design. It's not an exaggeration to say that nothing else looked like this bike. \nBut that list of high-tech features is creating unexpected bottlenecks for Also's product team. The company had originally said customer deliveries would start in …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-08T20:46:56.000Z"
+        },
+        {
           "title": "Razer’s ANC-equipped gaming headset for PS5 and Xbox is almost $100 off",
           "link": "https://www.theverge.com/gadgets/991653/razer-blackshark-v3-pro-gaming-headset-anc-deal-sale",
           "summary": "Razer’s BlackShark V3 Pro are up to $100 off. | Image: Razer\t\n\nIt’s rare to find high-end features like active noise cancellation in a gaming headset under $200, so we’re thrilled that the Razer BlackShark V3 Pro on sale at Woot for $164.99. There are specific models marketed to Xbox and PlayStation, but the Xbox version is the best choice because it also supports PlayStation, PC, Nintendo Switch and mobile. At just $35 more than current sale price for the BlackShark V2 Pro, the newer headset adds ANC and simultaneous audio between the 2.4GHz and Bluetooth connections, although you only get a 90-day Woot warranty with this deal.\nRazer BlackShark V3 Pro\n\nWhere to Buy:\n\n $249.99 $164.99 at Woot\n\nThe BlackShark V3 Pro’s main connection mode is with its low latency 2.4GHz transmitter, which plugs into your console or PC via USB. While the headset is somewhat bulky, it can double as headphones you can take on the go thanks to its removable boom mic and Bluetooth 5.3 support. Plus, its noise cancellation can drown out sounds from your commute. Fans of Riot’s soon-to-be-retired fighting game, 2XKO, can save an extra $15 for a special edition version of the BlackShark V3 Pro that’s $149.99.",
           "isoDate": "2026-09-08T20:39:49.000Z"
+        },
+        {
+          "title": "The universal language of space is... Star Trek? Mais oui.",
+          "link": "https://arstechnica.com/space/2026/09/astronaut-on-iss-celebrates-60-years-of-star-trek-with-prop-badge/",
+          "summary": "\"Science fiction imagines the future. We build it.\"",
+          "isoDate": "2026-09-08T20:20:20.000Z"
         },
         {
           "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
@@ -18,52 +60,10 @@
           "isoDate": "2026-09-08T20:16:09.000Z"
         },
         {
-          "title": "Supreme Court forces TV stations to sell more election ads at steep discounts",
-          "link": "https://arstechnica.com/tech-policy/2026/09/supreme-court-forces-tv-stations-to-sell-more-election-ads-at-steep-discounts/",
-          "summary": "Republican victory means stations must offer lowest ad prices to political parties.",
-          "isoDate": "2026-09-08T19:50:00.000Z"
-        },
-        {
-          "title": "Top chipmakers embrace ASML’s $400M machines, agree to crucial chipmaking change",
-          "link": "https://arstechnica.com/gadgets/2026/09/top-chipmakers-embrace-asmls-400m-machines-agree-to-crucial-chipmaking-change/",
-          "summary": "Chipmaking changes could boost productivity of new ASML machines by 40 percent.",
-          "isoDate": "2026-09-08T19:12:53.000Z"
-        },
-        {
-          "title": "Meta bets on AI agent Muse to catch up in AI race",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
-          "summary": "Meta is making another push to bring artificial intelligence to the masses with Muse, a personal assistant it says can put AI in the hands of virtually anyone. The product is the latest step in a multi-billion-dollar strategy overhaul designed to revitalize the company's ailing position in the AI race and help it catch up to rivals like OpenAI, Anthropic, and Google. \nMuse is a \"personal AI agent\" designed to help out with everyday tasks and projects, like online shopping, sending emails, and planning a trip. Once given a goal, Meta says Muse can work on its own, opening a browser, filling out forms, and even negotiating on users' behalf. F …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-08T19:00:00.000Z"
-        },
-        {
-          "title": "Godzilla Minus Zero IMAX trailer teases King Ghidorah",
-          "link": "https://arstechnica.com/culture/2026/09/godzilla-minus-zero-imax-trailer-teases-king-ghidorah/",
-          "summary": "Director Takashi Yamazaki's hotly anticipated sequel takes place two years after 2023 film's events.",
-          "isoDate": "2026-09-08T18:53:23.000Z"
-        },
-        {
-          "title": "“This is the AI men actually use”: Meta ads pushed apps nudifying real teens",
-          "link": "https://arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram/",
-          "summary": "Meta dragged its feet removing ads that nudify young girls' Instagram pics.",
-          "isoDate": "2026-09-08T18:43:09.000Z"
-        },
-        {
-          "title": "Update to Google’s AI weather model improves forecast accuracy",
-          "link": "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/",
-          "summary": "Like traditional weather models, it benefits from an expanded set of inputs.",
-          "isoDate": "2026-09-08T18:00:56.000Z"
-        },
-        {
-          "title": "AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
-          "summary": "Anthropic says power users are key to its business - it's prioritized them even when it means cutting off other popular applications, like OpenClaw. But some of these same customers say Anthropic misled them into believing they'd get more out of a top-tier pricing subscription than they did. \nIn an expanded class action lawsuit filed today, a group of Claude subscribers say the company deceptively advertised the limits of its Max subscription tier. The lawsuit was brought by attorneys Monica Vaca and Kati Daffan, who both formerly worked at the Federal Trade Commission under Lina Khan. It's a rare attempt to legally penalize AI companies fo …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-08T17:27:31.000Z"
-        },
-        {
-          "title": "Nintendo isn’t scared of GTA VI",
-          "link": "https://www.theverge.com/games/991484/zelda-ocarina-of-time-gta-6",
-          "summary": "There's never really been a game like Grand Theft Auto VI before, one that has completely altered the lineup of games around it. Everyone, it seems, is scared of going up against Grand Theft Auto VI. Everyone, that is, except for Nintendo.\nThe company held a 30-minute showcase this morning focused entirely on its Legend of Zelda franchise, which is celebrating its 40th anniversary. We got a title for the live-action movie, a series of orchestral concerts, and a very glittery special edition of the Switch 2. But most of the runtime was dedicated to the upcoming Switch 2 remake of Ocarina of Time. There was a new trailer and a lengthy gamepla …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-08T17:13:51.000Z"
+          "title": "NIH to use part of its budget to pay for Department of Defense research",
+          "link": "https://arstechnica.com/science/2026/09/nih-to-use-part-of-its-budget-to-pay-for-department-of-defense-research/",
+          "summary": "Money would ostensibly fund research the NIH leadership said it no longer wanted.",
+          "isoDate": "2026-09-08T20:06:44.000Z"
         }
       ]
     },
@@ -141,7 +141,25 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-09-08T20:45:30.083Z"
+          "isoDate": "2026-09-09T03:16:58.592Z"
+        },
+        {
+          "title": "Meta continues to run ads promoting child sexual abuse material in India - report",
+          "link": "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o?at_medium=RSS&at_campaign=rss",
+          "summary": "The report follows a BBC Eye investigation that found Instagram running paid ads promoting such material in India.",
+          "isoDate": "2026-09-08T23:27:23.000Z"
+        },
+        {
+          "title": "Should promotion depend on how workers use AI?",
+          "link": "https://www.bbc.co.uk/news/articles/c1j1896e973o?at_medium=RSS&at_campaign=rss",
+          "summary": "More companies are tying career progression to AI use: is that fair?",
+          "isoDate": "2026-09-08T23:05:23.000Z"
+        },
+        {
+          "title": "OpenAI says it cracked 90-year-old maths problem in 88 hours",
+          "link": "https://www.bbc.co.uk/news/articles/cy7zygy3rl2o?at_medium=RSS&at_campaign=rss",
+          "summary": "OpenAI's claim that it solved parts of Navier-Stokes equations has quickly stirred controversy.",
+          "isoDate": "2026-09-08T20:57:09.000Z"
         },
         {
           "title": "Tech Life",
@@ -178,24 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/c1wxppnrqlqo?at_medium=RSS&at_campaign=rss",
           "summary": "Since Parton's death in late August, dozens of AI-generated songs, images and videos have appeared online.",
           "isoDate": "2026-09-07T11:30:27.000Z"
-        },
-        {
-          "title": "Tech Now",
-          "link": "https://www.bbc.co.uk/iplayer/episode/m0031d1p?at_medium=RSS&at_campaign=rss",
-          "summary": "Laura Cress has the highlights from Gamescom, the biggest gaming convention in the world.",
-          "isoDate": "2026-09-05T01:00:18.000Z"
-        },
-        {
-          "title": "OpenAI agents hijacked German website before Hugging Face hack, report claims",
-          "link": "https://www.bbc.co.uk/news/articles/ckg725z5kgzo?at_medium=RSS&at_campaign=rss",
-          "summary": "OpenAI said it could not \"meaningfully respond\" to the report's findings because it hadn't been allowed to review it ahead of publication.",
-          "isoDate": "2026-09-04T14:59:13.000Z"
-        },
-        {
-          "title": "Xbox caps cloud gaming at 15 hours a month for Game Pass subscribers",
-          "link": "https://www.bbc.co.uk/news/articles/cj06zd4l99lo?at_medium=RSS&at_campaign=rss",
-          "summary": "Xbox said the limits were due to the rising cost of cloud gaming, and would allow it to invest more in its performance",
-          "isoDate": "2026-09-04T11:48:24.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-09-08T20:45:34.002Z"
+          "isoDate": "2026-09-09T03:17:00.792Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-09-08T20:45:31.545Z"
+          "isoDate": "2026-09-09T03:16:59.603Z"
         },
         {
           "title": "Rivian’s Gambit for Full Autonomy",
