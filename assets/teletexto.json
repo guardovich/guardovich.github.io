@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-09-11T03:12:08.209Z",
+  "generatedAt": "2026-09-11T10:40:42.188Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Apple addresses iPhone Duo copycats",
+          "link": "https://www.theverge.com/tech/993795/apple-addresses-iphone-duo-copycats",
+          "summary": "John Ternus, Apple CEO, holds an iPhone Duo at the launch event. | Bloomberg via Getty Images\t\n\nApple was far from the first company to announce a passport-shaped folding phone this year, but that doesn't mean it wasn't copied. As my colleague Dom Preston already explained, it's almost impossible to keep product development secret when Apple and its competitors all share the same global suppliers. \nApple's new CEO John Ternus and head of marketing Greg 'Joz' Joswiak addressed the topic during an interview with TechRadar's Lance Ulanoff and Mark Spoonauer of Tom's Guide.\n\"People knew through leaks that we were working on a foldable,\" said Joz. \"Unfortunately, they got the aspect ratio, and a lot of coincidental instances of people fin …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-11T10:02:58.000Z"
+        },
+        {
+          "title": "Meet the under-35s shaping the future of biotech",
+          "link": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/",
+          "summary": "Every year, MIT Technology Review puts together a list of some of the brightest and best young minds working across science and technology. Our 35 Innovators Under 35 are the ones to watch—people whose research and technical work stands to shape the future of their fields. This year, the list includes nine people who are…",
+          "isoDate": "2026-09-11T09:00:00.000Z"
+        },
         {
           "title": "Boy developed \"toasted skin\" condition from using a laptop every day",
           "link": "https://arstechnica.com/health/2026/09/boy-developed-toasted-skin-condition-from-using-a-laptop-every-day/",
@@ -52,18 +64,6 @@
           "link": "https://arstechnica.com/science/2026/09/physicist-does-the-math-on-star-treks-picard-maneuver/",
           "summary": "The trick from Next Generation would be even more effective in real life.",
           "isoDate": "2026-09-10T17:54:33.000Z"
-        },
-        {
-          "title": "Kimmel's ABC show won't air interview with Democrat because of Trump FCC threats",
-          "link": "https://arstechnica.com/tech-policy/2026/09/kimmels-abc-show-wont-air-interview-with-democrat-because-of-trump-fcc-threats/",
-          "summary": "Talarico talk to be on YouTube to save ABC stations the hassle of dealing with FCC.",
-          "isoDate": "2026-09-10T17:30:09.000Z"
-        },
-        {
-          "title": "Amazon’s Fire TV Stick 4K is over half off at under $20",
-          "link": "https://www.theverge.com/gadgets/993455/fire-tv-stick-4k-resident-evil-requiem-deal-sale",
-          "summary": "Amazon’s Fire TV Stick 4K is fast and capable. | Image: The Verge\t\n\nLooking to take full advantage of your 4K television, but your current streaming stick doesn’t have the right features? Through September 13th, you can grab an Amazon Fire TV Stick 4K from Woot for just $16.09 when you use the coupon code FIRE30 at checkout. With support for Wi-Fi 6 and 2GB of memory, it’s fast enough for streaming movies or playing games with Xbox Cloud Gaming or Nvidia GeForce Now. While this is the 2023 model, it’s functionally identical (and also has the same specs) to the current Fire TV Stick 4K Plus that costs considerably more. It received a name change in late 2025 to differentiate it from the more basic 4K Select model.\nAmazon Fire TV Stick 4K\n\nWhere to Buy:\n\n $49.99 $16.09 at Woot (with coupon code FIRE30)\n\nLike the other 4K Fire TV sticks, the 2023 model supports a huge variety of streaming services and apps, and the Alexa Plus voice assistant feature lets you quickly find a show or movie without having to scroll through each one. With support for Dolby Vision, HDR10 Plus, and Dolby Atmos, you won’t have to compromise on video or audio quality during your next movie night.\nOther deals to consider\nGreen Man Gaming has the Steam version of Resident Evil Requiem on sale for $41.64, with the full discount showing up once you add it to your cart. This iteration of the game tasks players with investigating a series of murders related to the 1998 Raccoon City incident, a core piece of lore for the series, and it alternates between perspectives. Read our review.\nYou can grab a two-pack of Ring Alarm Contact Sensors at Amazon for $20, a $10 discount compared to what they usually cost (but half off their original price). These sensors easily install onto window or door frames with either adhesive or screws, and send signals to the Ring Alarm Base Station when opened or closed. They have a three year battery life, with replaceable batteries once they finally run out.\nThe Lenovo Idea Tab Pro is on sale for $279.99 at Best Buy, $180 off its usual price. The 12.7-inch Android tablet features a 2944 x 1840 display, with a variable refresh rate up to 144Hz, great for scrolling the web, or even some light gaming. The deal also includes the Lenovo Tab Pen Plus, which has over 4,000 sensitivity levels for a natural feel while drawing or taking notes.",
-          "isoDate": "2026-09-10T16:58:44.000Z"
         }
       ]
     },
@@ -75,7 +75,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
           "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-09-11T03:12:03.193Z"
+          "isoDate": "2026-09-11T10:40:38.473Z"
         },
         {
           "title": "Open framework–based Brønsted acid–Lewis base interfaces boost proton transfer in the fuel cells",
@@ -141,7 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-09-11T03:12:04.869Z"
+          "isoDate": "2026-09-11T10:40:39.439Z"
+        },
+        {
+          "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
+          "link": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
+          "summary": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
+          "isoDate": "2026-09-11T08:15:25.000Z"
         },
         {
           "title": "Can Europe recharge its battery industry?",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cy7zygy3rl2o?at_medium=RSS&at_campaign=rss",
           "summary": "OpenAI's claim that it solved parts of Navier-Stokes equations has quickly stirred controversy.",
           "isoDate": "2026-09-08T20:57:09.000Z"
-        },
-        {
-          "title": "Tech Life",
-          "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyd?at_medium=RSS&at_campaign=rss",
-          "summary": "Scammers demand money from Instagram users over fake copyright claims.",
-          "isoDate": "2026-09-08T20:00:00.000Z"
         }
       ]
     },
@@ -228,15 +228,15 @@
           "isoDate": "2026-09-10T07:00:00.000Z"
         },
         {
-          "title": "Introducing the Agents API",
-          "link": "https://openai.com/index/introducing-the-agents-api",
-          "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
-          "isoDate": "2026-09-10T00:00:00.000Z"
-        },
-        {
           "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
           "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
           "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+          "isoDate": "2026-09-10T00:00:00.000Z"
+        },
+        {
+          "title": "Introducing the Agents API",
+          "link": "https://openai.com/index/introducing-the-agents-api",
+          "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
           "isoDate": "2026-09-10T00:00:00.000Z"
         },
         {
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-09-11T03:12:07.505Z"
+          "isoDate": "2026-09-11T10:40:41.281Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-09-11T03:12:05.883Z"
+          "isoDate": "2026-09-11T10:40:40.481Z"
         },
         {
           "title": "Codeveloper of Ethernet Predecessor Dies at 91",
