@@ -1,10 +1,28 @@
 {
-  "generatedAt": "2026-09-10T20:27:33.400Z",
+  "generatedAt": "2026-09-11T03:12:08.209Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Boy developed \"toasted skin\" condition from using a laptop every day",
+          "link": "https://arstechnica.com/health/2026/09/boy-developed-toasted-skin-condition-from-using-a-laptop-every-day/",
+          "summary": "Laptops don't usually get hot enough to burn—but they can still be harmful.",
+          "isoDate": "2026-09-10T22:16:05.000Z"
+        },
+        {
+          "title": "Slack can now vibe-code interactive charts and reports inside chats",
+          "link": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
+          "summary": "A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat. With Slackforce Surfaces, you can describe to Slackbot what you need, and it will use AI to gather information from relevant conversations and connected apps, like Google Drive or Salesforce, to create it.\nOnce Slackbot creates a Surface, you can share it with colleagues and pin it to channels, allowing other people to view it, interact with it, and leave comments. In one example shared by Slack, a user asks Slackbot for help creating an arcade-themed visualization of AI token usage …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-10T21:25:21.000Z"
+        },
+        {
+          "title": "LinkedIn beats \"BrowserGate\" lawsuits over scanning users' Chrome extensions",
+          "link": "https://arstechnica.com/tech-policy/2026/09/linkedin-beats-browsergate-lawsuits-over-scanning-users-chrome-extensions/",
+          "summary": "Judge tosses lawsuits, says plaintiffs didn't allege any real privacy violation.",
+          "isoDate": "2026-09-10T20:55:29.000Z"
+        },
         {
           "title": "Schools are catching on to Big Tech’s playbook",
           "link": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
@@ -46,24 +64,6 @@
           "link": "https://www.theverge.com/gadgets/993455/fire-tv-stick-4k-resident-evil-requiem-deal-sale",
           "summary": "Amazon’s Fire TV Stick 4K is fast and capable. | Image: The Verge\t\n\nLooking to take full advantage of your 4K television, but your current streaming stick doesn’t have the right features? Through September 13th, you can grab an Amazon Fire TV Stick 4K from Woot for just $16.09 when you use the coupon code FIRE30 at checkout. With support for Wi-Fi 6 and 2GB of memory, it’s fast enough for streaming movies or playing games with Xbox Cloud Gaming or Nvidia GeForce Now. While this is the 2023 model, it’s functionally identical (and also has the same specs) to the current Fire TV Stick 4K Plus that costs considerably more. It received a name change in late 2025 to differentiate it from the more basic 4K Select model.\nAmazon Fire TV Stick 4K\n\nWhere to Buy:\n\n $49.99 $16.09 at Woot (with coupon code FIRE30)\n\nLike the other 4K Fire TV sticks, the 2023 model supports a huge variety of streaming services and apps, and the Alexa Plus voice assistant feature lets you quickly find a show or movie without having to scroll through each one. With support for Dolby Vision, HDR10 Plus, and Dolby Atmos, you won’t have to compromise on video or audio quality during your next movie night.\nOther deals to consider\nGreen Man Gaming has the Steam version of Resident Evil Requiem on sale for $41.64, with the full discount showing up once you add it to your cart. This iteration of the game tasks players with investigating a series of murders related to the 1998 Raccoon City incident, a core piece of lore for the series, and it alternates between perspectives. Read our review.\nYou can grab a two-pack of Ring Alarm Contact Sensors at Amazon for $20, a $10 discount compared to what they usually cost (but half off their original price). These sensors easily install onto window or door frames with either adhesive or screws, and send signals to the Ring Alarm Base Station when opened or closed. They have a three year battery life, with replaceable batteries once they finally run out.\nThe Lenovo Idea Tab Pro is on sale for $279.99 at Best Buy, $180 off its usual price. The 12.7-inch Android tablet features a 2944 x 1840 display, with a variable refresh rate up to 144Hz, great for scrolling the web, or even some light gaming. The deal also includes the Lenovo Tab Pen Plus, which has over 4,000 sensitivity levels for a natural feel while drawing or taking notes.",
           "isoDate": "2026-09-10T16:58:44.000Z"
-        },
-        {
-          "title": "Drones deliver food and remove bodies after Nepal’s flood disaster",
-          "link": "https://arstechnica.com/gadgets/2026/09/drones-deliver-food-and-remove-bodies-after-nepals-flood-disaster/",
-          "summary": "DJI drones that already supply Mount Everest camps assist Nepal’s flood relief.",
-          "isoDate": "2026-09-10T16:53:52.000Z"
-        },
-        {
-          "title": "Electric air taxis get the green light for test flights in Texas",
-          "link": "https://www.theverge.com/transportation/993341/evtol-air-taxi-aviation-eipp-texas",
-          "summary": "A new federal program to test the feasibility of electric, hybrid-electric, and autonomous aircraft kicks off today in Texas - before the rules governing this new technology have even been finalized. \nEarlier this year, the Federal Aviation Administration's Advanced Air Mobility and Electric Vertical Takeoff and Landing (eVTOL) Integration Pilot Program (eIPP) selected eight state-led projects to serve as some of the first public tests of these new aircraft. The first one kicks off today in Texas, featuring three eVTOL companies: Joby, Beta, and Wisk. \nFor the next week, these companies will conduct test flights demonstrating future routes …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-10T16:00:00.000Z"
-        },
-        {
-          "title": "Universal Music is launching an AI music platform with ElevenLabs",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
-          "summary": "Universal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes, mashups, and new takes on tracks, according to an announcement on Thursday. The record label is developing the platform through a multiyear licensing agreement with ElevenLabs, a company that specializes in AI voice and music generation.\nArtists can choose whether to participate in UMG and ElevenLabs' upcoming platform, which marks yet another AI deal for the record label. UMG is currently developing an AI music platform with Udio and has struck AI licensing deals with Spotify, Nvidia, and Kla …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-10T15:38:19.000Z"
         }
       ]
     },
@@ -75,7 +75,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
           "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-09-10T20:27:29.205Z"
+          "isoDate": "2026-09-11T03:12:03.193Z"
         },
         {
           "title": "Open framework–based Brønsted acid–Lewis base interfaces boost proton transfer in the fuel cells",
@@ -141,7 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-09-10T20:27:30.154Z"
+          "isoDate": "2026-09-11T03:12:04.869Z"
+        },
+        {
+          "title": "Can Europe recharge its battery industry?",
+          "link": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&at_campaign=rss",
+          "summary": "Europe has some promising battery tech, but can it make up ground lost to Chinese battery giants?",
+          "isoDate": "2026-09-10T23:05:47.000Z"
         },
         {
           "title": "UK needs new laws for AI in healthcare, says watchdog",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyd?at_medium=RSS&at_campaign=rss",
           "summary": "Scammers demand money from Instagram users over fake copyright claims.",
           "isoDate": "2026-09-08T20:00:00.000Z"
-        },
-        {
-          "title": "New law to force tech firms to stop children taking or sharing nude images",
-          "link": "https://www.bbc.co.uk/news/articles/cgrv9ypp5x2o?at_medium=RSS&at_campaign=rss",
-          "summary": "The government said it will legislate \"as soon as they can\" but may \"reassess\" its plans if firms make the desired changes sooner.",
-          "isoDate": "2026-09-08T16:48:29.000Z"
         }
       ]
     },
@@ -228,15 +228,15 @@
           "isoDate": "2026-09-10T07:00:00.000Z"
         },
         {
-          "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-          "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-          "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-          "isoDate": "2026-09-10T00:00:00.000Z"
-        },
-        {
           "title": "Introducing the Agents API",
           "link": "https://openai.com/index/introducing-the-agents-api",
           "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+          "isoDate": "2026-09-10T00:00:00.000Z"
+        },
+        {
+          "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+          "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+          "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
           "isoDate": "2026-09-10T00:00:00.000Z"
         },
         {
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-09-10T20:27:32.347Z"
+          "isoDate": "2026-09-11T03:12:07.505Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-09-10T20:27:31.286Z"
+          "isoDate": "2026-09-11T03:12:05.883Z"
         },
         {
           "title": "Codeveloper of Ethernet Predecessor Dies at 91",
