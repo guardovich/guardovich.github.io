@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T03:18:20.075Z",
+  "generatedAt": "2026-09-12T10:09:45.931Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
@@ -72,10 +72,40 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "ERROR cargando feed",
-          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
-          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-09-12T03:18:13.017Z"
+          "title": "Help Refine Data from Space Telescopes with Artifact InSPECtor",
+          "link": "https://science.nasa.gov/get-involved/citizen-science/help-refine-data-from-space-telescopes-with-artifact-inspector/",
+          "summary": "How do scientists studying space with data from a telescope hundreds of thousands of miles away know that what they are seeing is real? A new NASA project, Artifact InSPECtor, invites you to find out – and by doing so, to help missions like Euclid and NASA’s new Nancy Grace Roman Space Telescope answer fundamental […]",
+          "isoDate": "2026-09-11T19:48:09.000Z"
+        },
+        {
+          "title": "NASA’s Chandra Spots Galactic Gem",
+          "link": "https://www.nasa.gov/image-article/nasas-chandra-spots-galactic-gem/",
+          "summary": "Two galaxies merge at a furious rate in this Aug. 25, 2026, image of the II Zw 096 system. This and several other images of both visually and scientifically interesting galaxies were released by NASA’s Chandra X-ray Observatory and other telescopes. Chandra X-ray data (magenta) pinpoint powerful black hole activity and hot gas, while optical […]",
+          "isoDate": "2026-09-11T17:19:47.000Z"
+        },
+        {
+          "title": "NASA’s SpaceX Crew-12 to Discuss Station Mission, Upcoming Return",
+          "link": "https://www.nasa.gov/news-release/nasas-spacex-crew-12-to-discuss-station-mission-upcoming-return/",
+          "summary": "Media are invited to hear from NASA’s SpaceX Crew-12 astronauts during a news conference beginning at 2:45 p.m. EDT, Wednesday, Sept. 16, from the International Space Station. NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev will discuss their upcoming return to Earth. Learn where […]",
+          "isoDate": "2026-09-11T15:05:20.000Z"
+        },
+        {
+          "title": "NASA Boosts Open Science, Data Sharing with Artemis Accords",
+          "link": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords/",
+          "summary": "The science from every Moon rock sample, lunar dataset, and discovery produced through NASA’s Artemis program will be shared by the agency with the global scientific community. That commitment is upheld by all 71 countries that have signed the Artemis Accords, a set of principles for safe and transparent civil space exploration. NASA put those […]",
+          "isoDate": "2026-09-11T14:56:25.000Z"
+        },
+        {
+          "title": "APOD: 2026 September 11 – M83: The Southern Pinwheel",
+          "link": "https://science.nasa.gov/image-article/apod-2026-september-11-m83-the-southern-pinwheel/",
+          "summary": "APOD Science APOD APOD: 2026 September 11 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. M83: The Southern […]",
+          "isoDate": "2026-09-11T04:05:00.000Z"
+        },
+        {
+          "title": "Monterrey Amid Mountains",
+          "link": "https://science.nasa.gov/earth/earth-observatory/monterrey-amid-mountains/",
+          "summary": "Mexico’s second-largest metropolitan area borders on folded rock layers of the Sierra Madre Oriental.",
+          "isoDate": "2026-09-11T04:01:00.000Z"
         },
         {
           "title": "Briefing Chat: The Bunsen burner myth that turns out to be just hot air",
@@ -100,36 +130,6 @@
           "link": "https://www.nature.com/articles/d41586-026-02763-3",
           "summary": "Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02763-3\nEvoking emotions is more likely to prompt people to engage with climate efforts than are data alone.",
           "isoDate": "2026-09-11T00:00:00.000Z"
-        },
-        {
-          "title": "Successful early-career scientists rely on network of mentors",
-          "link": "https://www.nature.com/articles/d41586-026-02827-4",
-          "summary": "Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02827-4\nLarge networks are particularly beneficial to researchers in under-represented groups.",
-          "isoDate": "2026-09-11T00:00:00.000Z"
-        },
-        {
-          "title": "Osteoporosis affects millions: could modified cells rebuild their bones?",
-          "link": "https://www.nature.com/articles/d41586-026-02828-3",
-          "summary": "Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02828-3\nSmall trial hints at regenerative potential of bone-seeking marrow cells.",
-          "isoDate": "2026-09-11T00:00:00.000Z"
-        },
-        {
-          "title": "Open framework–based Brønsted acid–Lewis base interfaces boost proton transfer in the fuel cells",
-          "link": "https://www.science.org/doi/abs/10.1126/science.adp3564?af=R",
-          "summary": "Science, Volume 393, Issue 6816, September 2026.",
-          "isoDate": "2026-09-10T07:00:00.000Z"
-        },
-        {
-          "title": "Extensive and differential platinum chemotherapy mutagenesis in livers of children",
-          "link": "https://www.science.org/doi/abs/10.1126/science.ady0339?af=R",
-          "summary": "Science, Volume 393, Issue 6816, September 2026.",
-          "isoDate": "2026-09-10T07:00:00.000Z"
-        },
-        {
-          "title": "The complete telomere-to-telomere sequence of a mouse Y chromosome",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aea2249?af=R",
-          "summary": "Science, Volume 393, Issue 6816, September 2026.",
-          "isoDate": "2026-09-10T07:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-09-12T03:18:14.227Z"
+          "isoDate": "2026-09-12T10:09:41.581Z"
         },
         {
           "title": "Tech Now",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-09-12T03:18:19.318Z"
+          "isoDate": "2026-09-12T10:09:44.999Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-09-12T03:18:15.599Z"
+          "isoDate": "2026-09-12T10:09:43.042Z"
         },
         {
           "title": "IEEE to Reward Sections for High Voter Turnout in Annual Election",
