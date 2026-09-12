@@ -1,15 +1,51 @@
 {
-  "generatedAt": "2026-09-11T20:30:27.430Z",
+  "generatedAt": "2026-09-12T03:18:20.075Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
         {
-          "title": "Roundtables: Will AI really kill us all?",
+          "title": "Some satellite companies still have an appetite for boutique launch services",
+          "link": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/",
+          "summary": "\"Dedicated launch is pretty essential for us for most of our missions.\"",
+          "isoDate": "2026-09-11T23:34:45.000Z"
+        },
+        {
+          "title": "Random rewards enrich classic game-theory insights",
+          "link": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/",
+          "summary": "Simple games gain rich strategies in the face of noise.",
+          "isoDate": "2026-09-11T21:41:16.000Z"
+        },
+        {
+          "title": "Bouncy castle launches horrifying MRSA outbreak, striking 48 kids in Ireland",
+          "link": "https://arstechnica.com/health/2026/09/bouncy-castle-launches-horrifying-mrsa-outbreak-striking-48-kids-in-ireland/",
+          "summary": "The strain lurking in the inflatable structure was hypervirulent.",
+          "isoDate": "2026-09-11T21:14:26.000Z"
+        },
+        {
+          "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
+          "summary": "New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a report from Reuters. In a filing on Wednesday, the court fined Stephen Aarons $5,000 and held him in contempt for failing to \"verify the factual claims and legal authority in his AI-generated brief.\"\nThe filing says the brief \"contained false testimony from wholly fabricated witnesses,\" along with \"false testimony\" about the shooter's clothing and appearance. Justice C. Shannon Bacon questioned how Aarons wasn't aware of the risks posed by AI during an August hearing …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-11T20:44:02.000Z"
+        },
+        {
+          "title": "Trump's forced coal plant extensions thrown out by judge",
+          "link": "https://arstechnica.com/science/2026/09/court-rejects-governments-energy-emergency-that-kept-coal-plant-open/",
+          "summary": "The Department of Energy declared an \"emergency\" when none existed.",
+          "isoDate": "2026-09-11T20:32:59.000Z"
+        },
+        {
+          "title": "Roundtables: AI’s apocalypse crisis",
           "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
           "summary": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas Heaven and AI reporter Grace Huckins unpacking AI extinction…",
           "isoDate": "2026-09-11T20:05:06.000Z"
+        },
+        {
+          "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
+          "link": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
+          "summary": "\"I didn't know that AI could hallucinate facts,\" New Mexico defense lawyer says.",
+          "isoDate": "2026-09-11T19:34:09.000Z"
         },
         {
           "title": "Scientists unlock secrets of ancient Egyptian materials with proteomics",
@@ -28,42 +64,6 @@
           "link": "https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return",
           "summary": "Two days after being placed on a paid leave of absence, Matt Mullenweg says he has been reinstated as CEO of Automattic, according to a Slack message seen by TechCrunch. WordPress Executive Director Mary Hubbard confirmed Mullenweg's return to the CEO role in a Friday post on X, which the official WordPress account shared and Mullenweg reposted.\n\n\nI'm relieved and pleased to see Matt Mullenweg return as CEO of Automattic, the largest financial contributor to the WordPress project. Having WordPress's Co-founder and Project Lead at the helm gives me confidence that their support will remain strong. Matt has my support.\n- Mary Hubbard (@4thhubba …\n\nRead the full story at The Verge.",
           "isoDate": "2026-09-11T17:16:59.000Z"
-        },
-        {
-          "title": "We unfolded the iPhone Duo",
-          "link": "https://www.theverge.com/podcast/994016/iphone-duo-vergecast-apple-watch-mac-llms",
-          "summary": "You only get one chance at a first impression, and getting to introduce Apple's first folding phone is certainly a strong way to start things off as Apple's CEO. On The Vergecast today, we're talking all about Apple's launch event: how John Ternus did in his first appearance as CEO, what we make of the new iPhones, and whether Apple is stepping into dangerous territory with its new AI features on the Apple Watch.\nFirst up, Allison Johnson joins me to discuss the new iPhones, which she had a chance to test in Cupertino. Both of us have some questions about the new variable aperture camera on the iPhone 18 Pro - and whether the real upgrade s …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-11T16:22:24.000Z"
-        },
-        {
-          "title": "The White House says Truth Social is the ‘most powerful and popular social media platform in the world’",
-          "link": "https://www.theverge.com/policy/994072/white-house-truth-social-popular-powerful",
-          "summary": "The White House claims the Donald Trump-owned Truth Social is the \"most powerful and popular social media platform in the world.\" The statement, provided to The New York Times by White House spokesperson Davis Ingle, is at odds with the user counts from some of the biggest social media platforms on the web.\nData gathered by Search Engine Land shows YouTube is the most popular platform in the world, with 2.65 billion monthly active users. Facebook comes in second with 2.39 billion active users around the globe, followed by TikTok with 2.21 billion and Instagram with 1.99 billion. Truth Social doesn't make Search Engine Land's top 10 list, wh …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-11T16:21:19.000Z"
-        },
-        {
-          "title": "NASA moving at warp speed to set up US Space Academy",
-          "link": "https://arstechnica.com/space/2026/09/nasa-moving-at-warp-speed-to-set-up-us-space-academy/",
-          "summary": "NASA asks US states to show them the money.",
-          "isoDate": "2026-09-11T16:20:43.000Z"
-        },
-        {
-          "title": "Anthropic spent this week in hot water over cybersecurity",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
-          "summary": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report on Wednesday detailing the attacks. It reveals a string of incidents displaying what Anthropic deems its models' single-minded \"recklessness\" - and will likely fuel already raging concerns about cybersecurity and AI. \nIn Anthropic's report, it detailed four cases this year in which its own AI models hacked an external company or exploited vulnerabilities. In one, an \"internal, general-purpose research model\" broke into third-party systems, using access tokens and passwords and downloading files. …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-11T16:09:14.000Z"
-        },
-        {
-          "title": "Microsoft’s head of comms is leaving after almost 20 years",
-          "link": "https://www.theverge.com/news/993791/microsoft-frank-shaw-leaving-head-of-comms",
-          "summary": "Frank Shaw in 2025. | Image: Microsoft\t\n\nFrank Shaw is leaving Microsoft after 17 years as chief communications officer. In an internal note to his team, Shaw says he's \"decided it is time for me to move on and try new things,\" after supporting Microsoft's communications for 29 years - nearly 20 years as a Microsoft employee plus time at the Waggener Edstrom agency (now We. Communications) before that.\nShaw has been at the heart of Microsoft's communications since 1997, helping the company navigate multiple Windows and Office releases, CEO transitions, the all-important bet on cloud, and huge acquisitions like the $26.2 billion LinkedIn purchase in 2016 and the $69 billion acquisi …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-11T16:01:34.000Z"
-        },
-        {
-          "title": "Meta may have leaked the first look at its slim &#8216;Project Phoenix&#8217; headset",
-          "link": "https://www.theverge.com/tech/994055/meta-project-phoenix-headset-leak",
-          "summary": "Just a couple of weeks before Meta Connect starts on September 23rd, UploadVR posted images seemingly revealing the design for Meta's \"Project Phoenix\" headset. The images, which UploadVR says were \"found in the HorizonOS Prescription Lens firmware package,\" suggest Meta may be looking to compete with devices like those from Xreal or Viture. These companies' mixed reality glasses are a bit bulkier than something like Meta's Ray-Ban AI smart glasses, but a step down from a full VR headset like Meta's Quest 3. \nThis leak shows something that's almost in between larger headsets and smart glasses, with lenses set into a slim, glasses-style fram …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-11T15:38:31.000Z"
         }
       ]
     },
@@ -75,12 +75,18 @@
           "title": "ERROR cargando feed",
           "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
           "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-09-11T20:30:21.804Z"
+          "isoDate": "2026-09-12T03:18:13.017Z"
         },
         {
           "title": "Briefing Chat: The Bunsen burner myth that turns out to be just hot air",
           "link": "https://www.nature.com/articles/d41586-026-02893-8",
           "summary": "Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02893-8\nNature staff discuss an AI tool that can assess the impact of 9 billion mutations — plus, how the Bunsen burner’s reputation for sterilization might be based on tradition alone.",
+          "isoDate": "2026-09-11T00:00:00.000Z"
+        },
+        {
+          "title": "NSF moves to overhaul funding approach in line with White House priorities",
+          "link": "https://www.nature.com/articles/d41586-026-02892-9",
+          "summary": "Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02892-9\nThe major funder of basic science has not said how its new initiatives will be funded — but staff worry streamlined approach will further squeeze cash for core sciences.",
           "isoDate": "2026-09-11T00:00:00.000Z"
         },
         {
@@ -124,12 +130,6 @@
           "link": "https://www.science.org/doi/abs/10.1126/science.aea2249?af=R",
           "summary": "Science, Volume 393, Issue 6816, September 2026.",
           "isoDate": "2026-09-10T07:00:00.000Z"
-        },
-        {
-          "title": "Lean adipocyte oxylipin signaling restrains breast cancer through ferroptosis",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aea4287?af=R",
-          "summary": "Science, Volume 393, Issue 6816, September 2026.",
-          "isoDate": "2026-09-10T07:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-09-11T20:30:23.866Z"
+          "isoDate": "2026-09-12T03:18:14.227Z"
+        },
+        {
+          "title": "Tech Now",
+          "link": "https://www.bbc.co.uk/iplayer/episode/m0031qjy?at_medium=RSS&at_campaign=rss",
+          "summary": "Shiona McCallum meets mums and hospital staff trialling a new assisted birth innovation.",
+          "isoDate": "2026-09-12T01:00:00.000Z"
+        },
+        {
+          "title": "PlayStation gambles with 18-rated Wolverine game - will it pay off?",
+          "link": "https://www.bbc.co.uk/news/articles/cy0zq2n9gggo?at_medium=RSS&at_campaign=rss",
+          "summary": "The BBC's Tom Gerken plays the hotly anticipated superhero game from Spider-Man makers Insomniac.",
+          "isoDate": "2026-09-12T00:35:50.000Z"
         },
         {
           "title": "UK government rejects 'kill switch' idea for dangerous AI",
@@ -184,18 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
           "summary": "It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.",
           "isoDate": "2026-09-09T15:34:09.000Z"
-        },
-        {
-          "title": "White House pulls Tetris-style 'Build The Wall' game after copyright concern",
-          "link": "https://www.bbc.co.uk/news/articles/c9v9djj4m3do?at_medium=RSS&at_campaign=rss",
-          "summary": "The Tetris Company says it takes \"copyright infringement very seriously\" and is not involved with the game.",
-          "isoDate": "2026-09-09T12:06:40.000Z"
-        },
-        {
-          "title": "Meta continues to run ads promoting child sexual abuse material in India - report",
-          "link": "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o?at_medium=RSS&at_campaign=rss",
-          "summary": "The report follows a BBC Eye investigation that found Instagram running paid ads promoting such material in India.",
-          "isoDate": "2026-09-08T23:27:23.000Z"
         }
       ]
     },
@@ -203,6 +203,18 @@
       "header": "160  INTELIGENCIA ARTIFICIAL",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+          "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+          "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+          "isoDate": "2026-09-14T00:00:00.000Z"
+        },
+        {
+          "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+          "link": "https://openai.com/index/cognition-devin-testing-with-astra",
+          "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
+          "isoDate": "2026-09-11T16:00:00.000Z"
+        },
         {
           "title": "Lifesaving Lincoln Laboratory device wins 2026 Excellence in Technology Transfer Award",
           "link": "https://news.mit.edu/2026/lifesaving-lincoln-laboratory-technology-wins-tech-transfer-award-0911",
@@ -250,18 +262,6 @@
           "link": "https://openai.com/index/introducing-the-agents-api",
           "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
           "isoDate": "2026-09-10T00:00:00.000Z"
-        },
-        {
-          "title": "MIT Schwarzman College of Computing launches pilot to help educators teach AI across disciplines",
-          "link": "https://news.mit.edu/2026/mit-schwarzman-college-computing-launches-pilot-help-educators-teach-ai-across-disciplines-0909",
-          "summary": "A weeklong summer workshop brought higher education faculty to campus to explore how AI and machine learning materials can be adapted for their classrooms.",
-          "isoDate": "2026-09-09T20:40:00.000Z"
-        },
-        {
-          "title": "Paul Christiano joins OpenAI Foundation Board",
-          "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-          "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
-          "isoDate": "2026-09-09T17:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-09-11T20:30:26.724Z"
+          "isoDate": "2026-09-12T03:18:19.318Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-09-11T20:30:25.142Z"
+          "isoDate": "2026-09-12T03:18:15.599Z"
         },
         {
           "title": "IEEE to Reward Sections for High Voter Turnout in Annual Election",
@@ -324,12 +324,57 @@
       "maxItems": 120,
       "items": [
         {
-          "title": "RESULTADOS (EN DIRECTO)",
+          "title": "RESULTADOS (ÚLTIMOS)",
           "link": "",
           "summary": ""
         },
         {
-          "title": "SEV  0-0  VAL",
+          "title": "SEV  1-0  VAL",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "ELC  2-3  REA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "GET  1-1  CEL",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "ESP  1-1  SEV",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "ALA  5-2  OSA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "MÁL  0-0  LEV",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "VAL  0-5  BAR",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "VIL  2-3  DEP",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "RAY  3-2  SAN",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "ATH  3-0  ATL",
           "link": "",
           "summary": ""
         },
@@ -354,22 +399,22 @@
           "summary": ""
         },
         {
-          "title": " 3  REA   4   3  0  1  10   3   7   9",
+          "title": " 3  SEV   5   3  1  1   8   6   2  10",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 4  REA   4   3  0  1   5   5   0   9",
+          "title": " 4  REA   4   3  0  1  10   3   7   9",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 5  DEP   4   2  2  0   8   5   3   8",
+          "title": " 5  REA   4   3  0  1   5   5   0   9",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 6  SEV   5   2  2  1   7   6   1   8",
+          "title": " 6  DEP   4   2  2  0   8   5   3   8",
           "link": "",
           "summary": ""
         },
@@ -434,12 +479,12 @@
           "summary": ""
         },
         {
-          "title": "19  VAL   5   0  2  3   1   9  -8   2",
+          "title": "19  ELC   4   0  1  3   5  12  -7   1",
           "link": "",
           "summary": ""
         },
         {
-          "title": "20  ELC   4   0  1  3   5  12  -7   1",
+          "title": "20  VAL   5   0  1  4   1  10  -9   1",
           "link": "",
           "summary": ""
         }
