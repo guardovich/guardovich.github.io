@@ -1,10 +1,34 @@
 {
-  "generatedAt": "2026-09-12T15:03:20.992Z",
+  "generatedAt": "2026-09-12T20:13:34.902Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "StarCraft returns in 2030 as an open-world shooter",
+          "link": "https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter",
+          "summary": "Blizzard originally tried to bring the StarCraft universe to the world of 3D shooters way back in 2002 with StarCraft: Ghost. It sat in development hell for years until Blizzard president Mike Morhaime confirmed that it had been canceled in 2014. Now Blizzard is giving it another go with the simply titled StarCraft. Dan Hay, a VP at  Blizzard, took the stage at BlizzCon today to reveal that after more than a decade of lying dormant, StarCraft would be returning in 2030. But, rather than another top-down real-time strategy installment, the new title would be an open-world shooter. \nHe then showed off a cinematic trailer for the title that fo …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-12T20:08:09.000Z"
+        },
+        {
+          "title": "Sylvan Esso think you should splurge on good-quality yogurt",
+          "link": "https://www.theverge.com/entertainment/994340/sylvan-esso-ow-infinity-interview-music",
+          "summary": "Sylvan Esso preparing to attend a frutiger aero renfaire.\t\n\nAmelia Meath and Nick Sanborn, better known as Sylvan Esso, have been bringing their low-key electro-pop to the masses since 2014, bursting onto the scene with their self-titled debut album and the single \"Hey Mami.\" Over the years, they've put out a number of excellent records, dabbling in dustier, more fragile textures on Free Love, going dancier and glitchier on No Rules Sandy. The two are constantly pushing at the edges of their sound while retaining the core of what makes a Sylvan Esso record sound like a Sylvan Esso record. \nTheir new album Ow ∞, released this past Friday, represents perhaps the boldest reinvention of their sound, how …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-12T16:35:00.000Z"
+        },
+        {
+          "title": "Anthropic CEO says it’s time to pump the brakes on AI",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+          "summary": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a winding essay, Amodei proposed a three-step plan to \"pace the frontier\" - jargon that simply means to slow the pace of training and development to give companies time to build safeguards and regulators to evaluate models.\nAmodei says that giving external evaluators wide-ranging access is just the first step, and one it is taking now unilaterally. Step two would involve the industry coming together as a whole, likely with gove …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-12T16:23:40.000Z"
+        },
+        {
+          "title": "LG responds to TV spying allegations",
+          "link": "https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations",
+          "summary": "Earlier this week, Gamers Nexus, Level1Techs, and independent security researchers detailed some alarming findings about how LG's TVs are logging and uploading data on its users. Now the company is pushing back against those allegations, saying that \"Some recent media coverage may have contributed to misconceptions about how LG smart TVs work.\"\nLG released a statement in which it claims that its \"TVs do not continuously record or transmit users' conversations,\" and that wake-word detection is all processed locally. However, the word \"continuously\" is doing a lot of heavy lifting here as Gamers Nexus demonstrated an LG TV keeping extensive l …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-12T15:19:44.000Z"
+        },
         {
           "title": "Trump is giving data centers a pass to pollute",
           "link": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
@@ -40,30 +64,6 @@
           "link": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/",
           "summary": "\"Dedicated launch is pretty essential for us for most of our missions.\"",
           "isoDate": "2026-09-11T23:34:45.000Z"
-        },
-        {
-          "title": "Random rewards enrich classic game-theory insights",
-          "link": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/",
-          "summary": "Simple games gain rich strategies in the face of noise.",
-          "isoDate": "2026-09-11T21:41:16.000Z"
-        },
-        {
-          "title": "Bouncy castle launches horrifying MRSA outbreak, striking 48 kids in Ireland",
-          "link": "https://arstechnica.com/health/2026/09/bouncy-castle-launches-horrifying-mrsa-outbreak-striking-48-kids-in-ireland/",
-          "summary": "The strain lurking in the inflatable structure was hypervirulent.",
-          "isoDate": "2026-09-11T21:14:26.000Z"
-        },
-        {
-          "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
-          "summary": "New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a report from Reuters. In a filing on Wednesday, the court fined Stephen Aarons $5,000 and held him in contempt for failing to \"verify the factual claims and legal authority in his AI-generated brief.\"\nThe filing says the brief \"contained false testimony from wholly fabricated witnesses,\" along with \"false testimony\" about the shooter's clothing and appearance. Justice C. Shannon Bacon questioned how Aarons wasn't aware of the risks posed by AI during an August hearing …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-11T20:44:02.000Z"
-        },
-        {
-          "title": "Trump's forced coal plant extensions thrown out by judge",
-          "link": "https://arstechnica.com/science/2026/09/court-rejects-governments-energy-emergency-that-kept-coal-plant-open/",
-          "summary": "The Department of Energy declared an \"emergency\" when none existed.",
-          "isoDate": "2026-09-11T20:32:59.000Z"
         }
       ]
     },
@@ -75,7 +75,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
           "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-09-12T15:03:16.067Z"
+          "isoDate": "2026-09-12T20:13:30.100Z"
         },
         {
           "title": "Briefing Chat: The Bunsen burner myth that turns out to be just hot air",
@@ -141,7 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-09-12T15:03:18.298Z"
+          "isoDate": "2026-09-12T20:13:31.694Z"
+        },
+        {
+          "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+          "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+          "summary": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
+          "isoDate": "2026-09-12T17:42:38.000Z"
         },
         {
           "title": "Tech Now",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
           "summary": "The US tech giant says the €13bn data centre project will create tens of thousands of jobs.",
           "isoDate": "2026-09-09T17:06:48.000Z"
-        },
-        {
-          "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
-          "link": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
-          "summary": "It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.",
-          "isoDate": "2026-09-09T15:34:09.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-09-12T15:03:20.220Z"
+          "isoDate": "2026-09-12T20:13:34.158Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-09-12T15:03:19.328Z"
+          "isoDate": "2026-09-12T20:13:33.368Z"
         },
         {
           "title": "IEEE to Reward Sections for High Voter Turnout in Annual Election",
@@ -329,7 +329,7 @@
           "summary": ""
         },
         {
-          "title": "OSA  1-2  ESP",
+          "title": "REA  3-0  RAY",
           "link": "",
           "summary": ""
         },
@@ -349,17 +349,17 @@
           "summary": ""
         },
         {
-          "title": " 2  ALA   5   3  1  1  11   5   6  10",
+          "title": " 2  REA   5   4  0  1  13   3  10  12",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 3  SEV   5   3  1  1   8   6   2  10",
+          "title": " 3  ALA   5   3  1  1  11   5   6  10",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 4  REA   4   3  0  1  10   3   7   9",
+          "title": " 4  SEV   5   3  1  1   8   6   2  10",
           "link": "",
           "summary": ""
         },
@@ -379,27 +379,27 @@
           "summary": ""
         },
         {
+          "title": " 8  ATH   5   2  1  2   7   6   1   7",
+          "link": "",
+          "summary": ""
+        },
+        {
           "title": " 8  ATL   4   2  1  1   7   6   1   7",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 9  SAN   5   2  1  2   9   9   0   7",
+          "title": "10  SAN   5   2  1  2   9   9   0   7",
           "link": "",
           "summary": ""
         },
         {
-          "title": "10  REA   5   2  1  2   6   8  -2   7",
+          "title": "11  REA   5   2  1  2   6   8  -2   7",
           "link": "",
           "summary": ""
         },
         {
-          "title": "11  OSA   5   2  1  2   5   8  -3   7",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "12  ATH   4   2  0  2   6   5   1   6",
+          "title": "12  OSA   5   2  1  2   5   8  -3   7",
           "link": "",
           "summary": ""
         },
@@ -409,12 +409,12 @@
           "summary": ""
         },
         {
-          "title": "14  RAY   4   1  1  2   7  10  -3   4",
+          "title": "14  GET   4   1  1  2   2   5  -3   4",
           "link": "",
           "summary": ""
         },
         {
-          "title": "15  GET   4   1  1  2   2   5  -3   4",
+          "title": "15  RAY   5   1  1  3   7  13  -6   4",
           "link": "",
           "summary": ""
         },
@@ -434,7 +434,7 @@
           "summary": ""
         },
         {
-          "title": "19  ELC   4   0  1  3   5  12  -7   1",
+          "title": "19  ELC   5   0  2  3   6  13  -7   2",
           "link": "",
           "summary": ""
         },
