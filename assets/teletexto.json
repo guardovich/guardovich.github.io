@@ -1,10 +1,40 @@
 {
-  "generatedAt": "2026-09-12T10:09:45.931Z",
+  "generatedAt": "2026-09-12T15:03:20.992Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Trump is giving data centers a pass to pollute",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
+          "summary": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a briefing and new report. They are urging - perhaps futilely - the president to adopt a \"Data Center Health Protection Pledge\" to signal that the administration is taking the environmental threat seriously. \nAt the start of his term, Trump's EPA administrator, Lee Zeldin, proclaimed his goal of making America \"the AI capital of the world\" through deregulation. Since then, Zeldin and the White House have rolled back dozens of rules  …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-12T14:41:27.000Z"
+        },
+        {
+          "title": "Laika’s stop-motion fantasy Wildwood looks so smooth",
+          "link": "https://www.theverge.com/entertainment/994314/tiff-2026-wildwood-stuffed-julian",
+          "summary": "Due to a scheduling mishap, I was only able to check out two movies on my second day at the Toronto International Film Festival - but I did manage to get an early look at and some fascinating details on one of my most anticipated films this year.\nEven if you don't know the name Laika, you probably know the studio's work; it's the animation house behind stop-motion hits like ParaNorman, The Boxtrolls, and Kubo and the Two Strings. Over the years Laika's films have steadily gotten more impressive on both a technical and artistic level. Which brings us to the incredible-looking Wildwood, hitting theaters next month. If you're unfamiliar, here' …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-12T13:00:00.000Z"
+        },
+        {
+          "title": "Where to preorder the iPhone 18 Pro and Pro Max",
+          "link": "https://www.theverge.com/gadgets/988337/iphone-18-pro-max-preorder-buy",
+          "summary": "Which color suits you best? | Photo: Nilay Patel / The Verge\t\n\nThe iPhone 18 Pro and 18 Pro Max are almost here. Announced at Apple's September 2026 \"Sunrise and shine\" event alongside the iPhone Duo and other new gear, the two upgraded phones feature the faster A20 Pro processor with more GPU power as well as more neural cores for AI-related tasks, plus some welcome improvements to the camera.\nThe phones will arrive on Friday, September 18th, and preordering one is never a bad idea if you want to ensure you get the color and storage capacity configuration you're seeking. Speaking of, preorders are officially open.\nThe 6.3-inch iPhone 18 Pro starts at $1,199 for the 256GB model, and goes all the way u …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-12T12:00:00.000Z"
+        },
+        {
+          "title": "I spent $4,000 on a robot dog from China",
+          "link": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
+          "summary": "Unitree might be the world’s most important robotics company.",
+          "isoDate": "2026-09-12T11:00:53.000Z"
+        },
+        {
+          "title": "OpenAI just wants to win",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
+          "summary": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium Prize problem. In normal circumstances, this would have been celebrated as a historic achievement.\nInstead, many mathematicians have watched OpenAI's relentless advance with growing unease. To them, the company appears less like an enthusiastic newcomer than an impossibly well-resourced interloper, charging into problems they have dedicated their lives to studying with little apparent regard for long-standing norms or the consequences for those  …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-12T11:00:00.000Z"
+        },
         {
           "title": "Some satellite companies still have an appetite for boutique launch services",
           "link": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/",
@@ -34,36 +64,6 @@
           "link": "https://arstechnica.com/science/2026/09/court-rejects-governments-energy-emergency-that-kept-coal-plant-open/",
           "summary": "The Department of Energy declared an \"emergency\" when none existed.",
           "isoDate": "2026-09-11T20:32:59.000Z"
-        },
-        {
-          "title": "Roundtables: AI’s apocalypse crisis",
-          "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
-          "summary": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas Heaven and AI reporter Grace Huckins unpacking AI extinction…",
-          "isoDate": "2026-09-11T20:05:06.000Z"
-        },
-        {
-          "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
-          "link": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
-          "summary": "\"I didn't know that AI could hallucinate facts,\" New Mexico defense lawyer says.",
-          "isoDate": "2026-09-11T19:34:09.000Z"
-        },
-        {
-          "title": "Scientists unlock secrets of ancient Egyptian materials with proteomics",
-          "link": "https://arstechnica.com/science/2026/09/scientists-unlock-secrets-of-ancient-egyptian-materials-with-proteomics/",
-          "summary": "Analysis revealed seed proteins from sesame and moringa, which held religious and symbolic significance.",
-          "isoDate": "2026-09-11T18:49:39.000Z"
-        },
-        {
-          "title": "Oracle tries to appease Stargate data center opponents with renewables push",
-          "link": "https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions/",
-          "summary": "Renewables pledge won’t change the Oracle and OpenAI data center’s use of gas.",
-          "isoDate": "2026-09-11T18:22:22.000Z"
-        },
-        {
-          "title": "Matt Mullenweg returns as Automattic CEO two days after getting booted",
-          "link": "https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return",
-          "summary": "Two days after being placed on a paid leave of absence, Matt Mullenweg says he has been reinstated as CEO of Automattic, according to a Slack message seen by TechCrunch. WordPress Executive Director Mary Hubbard confirmed Mullenweg's return to the CEO role in a Friday post on X, which the official WordPress account shared and Mullenweg reposted.\n\n\nI'm relieved and pleased to see Matt Mullenweg return as CEO of Automattic, the largest financial contributor to the WordPress project. Having WordPress's Co-founder and Project Lead at the helm gives me confidence that their support will remain strong. Matt has my support.\n- Mary Hubbard (@4thhubba …\n\nRead the full story at The Verge.",
-          "isoDate": "2026-09-11T17:16:59.000Z"
         }
       ]
     },
@@ -72,40 +72,10 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "Help Refine Data from Space Telescopes with Artifact InSPECtor",
-          "link": "https://science.nasa.gov/get-involved/citizen-science/help-refine-data-from-space-telescopes-with-artifact-inspector/",
-          "summary": "How do scientists studying space with data from a telescope hundreds of thousands of miles away know that what they are seeing is real? A new NASA project, Artifact InSPECtor, invites you to find out – and by doing so, to help missions like Euclid and NASA’s new Nancy Grace Roman Space Telescope answer fundamental […]",
-          "isoDate": "2026-09-11T19:48:09.000Z"
-        },
-        {
-          "title": "NASA’s Chandra Spots Galactic Gem",
-          "link": "https://www.nasa.gov/image-article/nasas-chandra-spots-galactic-gem/",
-          "summary": "Two galaxies merge at a furious rate in this Aug. 25, 2026, image of the II Zw 096 system. This and several other images of both visually and scientifically interesting galaxies were released by NASA’s Chandra X-ray Observatory and other telescopes. Chandra X-ray data (magenta) pinpoint powerful black hole activity and hot gas, while optical […]",
-          "isoDate": "2026-09-11T17:19:47.000Z"
-        },
-        {
-          "title": "NASA’s SpaceX Crew-12 to Discuss Station Mission, Upcoming Return",
-          "link": "https://www.nasa.gov/news-release/nasas-spacex-crew-12-to-discuss-station-mission-upcoming-return/",
-          "summary": "Media are invited to hear from NASA’s SpaceX Crew-12 astronauts during a news conference beginning at 2:45 p.m. EDT, Wednesday, Sept. 16, from the International Space Station. NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev will discuss their upcoming return to Earth. Learn where […]",
-          "isoDate": "2026-09-11T15:05:20.000Z"
-        },
-        {
-          "title": "NASA Boosts Open Science, Data Sharing with Artemis Accords",
-          "link": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords/",
-          "summary": "The science from every Moon rock sample, lunar dataset, and discovery produced through NASA’s Artemis program will be shared by the agency with the global scientific community. That commitment is upheld by all 71 countries that have signed the Artemis Accords, a set of principles for safe and transparent civil space exploration. NASA put those […]",
-          "isoDate": "2026-09-11T14:56:25.000Z"
-        },
-        {
-          "title": "APOD: 2026 September 11 – M83: The Southern Pinwheel",
-          "link": "https://science.nasa.gov/image-article/apod-2026-september-11-m83-the-southern-pinwheel/",
-          "summary": "APOD Science APOD APOD: 2026 September 11 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. M83: The Southern […]",
-          "isoDate": "2026-09-11T04:05:00.000Z"
-        },
-        {
-          "title": "Monterrey Amid Mountains",
-          "link": "https://science.nasa.gov/earth/earth-observatory/monterrey-amid-mountains/",
-          "summary": "Mexico’s second-largest metropolitan area borders on folded rock layers of the Sierra Madre Oriental.",
-          "isoDate": "2026-09-11T04:01:00.000Z"
+          "title": "ERROR cargando feed",
+          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
+          "isoDate": "2026-09-12T15:03:16.067Z"
         },
         {
           "title": "Briefing Chat: The Bunsen burner myth that turns out to be just hot air",
@@ -130,6 +100,36 @@
           "link": "https://www.nature.com/articles/d41586-026-02763-3",
           "summary": "Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02763-3\nEvoking emotions is more likely to prompt people to engage with climate efforts than are data alone.",
           "isoDate": "2026-09-11T00:00:00.000Z"
+        },
+        {
+          "title": "Successful early-career scientists rely on network of mentors",
+          "link": "https://www.nature.com/articles/d41586-026-02827-4",
+          "summary": "Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02827-4\nLarge networks are particularly beneficial to researchers in under-represented groups.",
+          "isoDate": "2026-09-11T00:00:00.000Z"
+        },
+        {
+          "title": "Osteoporosis affects millions: could modified cells rebuild their bones?",
+          "link": "https://www.nature.com/articles/d41586-026-02828-3",
+          "summary": "Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02828-3\nSmall trial hints at regenerative potential of bone-seeking marrow cells.",
+          "isoDate": "2026-09-11T00:00:00.000Z"
+        },
+        {
+          "title": "Open framework–based Brønsted acid–Lewis base interfaces boost proton transfer in the fuel cells",
+          "link": "https://www.science.org/doi/abs/10.1126/science.adp3564?af=R",
+          "summary": "Science, Volume 393, Issue 6816, September 2026.",
+          "isoDate": "2026-09-10T07:00:00.000Z"
+        },
+        {
+          "title": "Extensive and differential platinum chemotherapy mutagenesis in livers of children",
+          "link": "https://www.science.org/doi/abs/10.1126/science.ady0339?af=R",
+          "summary": "Science, Volume 393, Issue 6816, September 2026.",
+          "isoDate": "2026-09-10T07:00:00.000Z"
+        },
+        {
+          "title": "The complete telomere-to-telomere sequence of a mouse Y chromosome",
+          "link": "https://www.science.org/doi/abs/10.1126/science.aea2249?af=R",
+          "summary": "Science, Volume 393, Issue 6816, September 2026.",
+          "isoDate": "2026-09-10T07:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-09-12T10:09:41.581Z"
+          "isoDate": "2026-09-12T15:03:18.298Z"
         },
         {
           "title": "Tech Now",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-09-12T10:09:44.999Z"
+          "isoDate": "2026-09-12T15:03:20.220Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-09-12T10:09:43.042Z"
+          "isoDate": "2026-09-12T15:03:19.328Z"
         },
         {
           "title": "IEEE to Reward Sections for High Voter Turnout in Annual Election",
@@ -324,57 +324,12 @@
       "maxItems": 120,
       "items": [
         {
-          "title": "RESULTADOS (ÚLTIMOS)",
+          "title": "RESULTADOS (EN DIRECTO)",
           "link": "",
           "summary": ""
         },
         {
-          "title": "SEV  1-0  VAL",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "ELC  2-3  REA",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "GET  1-1  CEL",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "ESP  1-1  SEV",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "ALA  5-2  OSA",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "MÁL  0-0  LEV",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "VAL  0-5  BAR",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "VIL  2-3  DEP",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "RAY  3-2  SAN",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "ATH  3-0  ATL",
+          "title": "OSA  1-2  ESP",
           "link": "",
           "summary": ""
         },
@@ -394,7 +349,7 @@
           "summary": ""
         },
         {
-          "title": " 2  ALA   4   3  1  0  10   3   7  10",
+          "title": " 2  ALA   5   3  1  1  11   5   6  10",
           "link": "",
           "summary": ""
         },
@@ -419,37 +374,37 @@
           "summary": ""
         },
         {
-          "title": " 7  ATL   4   2  1  1   7   6   1   7",
+          "title": " 7  ESP   5   2  1  2   8   5   3   7",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 8  OSA   4   2  1  1   5   6  -1   7",
+          "title": " 8  ATL   4   2  1  1   7   6   1   7",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 9  REA   5   2  1  2   6   8  -2   7",
+          "title": " 9  SAN   5   2  1  2   9   9   0   7",
           "link": "",
           "summary": ""
         },
         {
-          "title": "10  ATH   4   2  0  2   6   5   1   6",
+          "title": "10  REA   5   2  1  2   6   8  -2   7",
           "link": "",
           "summary": ""
         },
         {
-          "title": "11  LEV   4   1  2  1   5   5   0   5",
+          "title": "11  OSA   5   2  1  2   5   8  -3   7",
           "link": "",
           "summary": ""
         },
         {
-          "title": "12  ESP   4   1  1  2   6   5   1   4",
+          "title": "12  ATH   4   2  0  2   6   5   1   6",
           "link": "",
           "summary": ""
         },
         {
-          "title": "13  SAN   4   1  1  2   7   8  -1   4",
+          "title": "13  LEV   4   1  2  1   5   5   0   5",
           "link": "",
           "summary": ""
         },
