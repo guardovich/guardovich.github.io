@@ -1,10 +1,40 @@
 {
-  "generatedAt": "2026-09-13T11:09:17.349Z",
+  "generatedAt": "2026-09-13T15:40:33.686Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Waymo pulls over, calls cops on riders with a ghost gun",
+          "link": "https://www.theverge.com/transportation/994405/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun",
+          "summary": "Two people were arrested in San Fransico while riding around in a Waymo robotaxi after the cab pulled over and called the cops on them. The riders were juveniles in possession of a loaded AR-style ghost gun and were taken to a juvenile hall. While the police report did not specify who was operating the autonomous car, Waymo later confirmed it was one of its vehicles to the Los Angeles Times.\nA spokesperson told the LA Times that a \"violation of our terms of service involving a firearm\" was detected. At which point the car pulled over and alerted the authorities. \nEarlier this year, a Waymo faked having mechanical problems to pull over when …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-13T14:28:12.000Z"
+        },
+        {
+          "title": "Your Mother Your Mother Your Mother will make you forget all about Marvel’s Blade disaster",
+          "link": "https://www.theverge.com/entertainment/994393/your-mother-your-mother-your-mother-review-tiff-2026",
+          "summary": "Marvel's mishandling of its Blade reboot will likely go down as one of the studio's biggest mistakes. There was a great actor in place to play the vampire hunter (Mahershala Ali), and a promising director set to take over the reins (Bassam Tariq). In retrospect, though, the disappointing demise of Blade might not be such a bad thing, because Tariq and Ali have collaborated on something much more interesting than a superhero reboot: the powerful hitman thriller Your Mother Your Mother Your Mother.\nThat was one of five movies I was able to cram into a very hectic third day at the Toronto International Film Festival (you can see my previous re …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-13T13:00:00.000Z"
+        },
+        {
+          "title": "Your car is selling your data",
+          "link": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
+          "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on cars, data privacy, and autonomous vehicles, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.\nHow it started\nEarlier this year, the Federal Trade Commission issued an unprecedented penalty against General Motors: a five-year ban on selling customer data to consumer reporting agencies and third-party data brokers. \nFor years, GM had been collecting all sorts of data on its customers - such as how often they sped or whether they drove at night - and selling it to brok …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-13T12:00:00.000Z"
+        },
+        {
+          "title": "Apple’s new phones are here",
+          "link": "https://www.theverge.com/tech/994218/apple-iphone-18-pro-airpods-5-meta-muse-ai-sony-headphones",
+          "summary": "Hi, friends! Welcome to Installer No. 143, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, new tech season is here, and also you can read all the old editions at the Installer homepage.) \nThis week, I've been devouring every iPhone Duo video I can find, clicking on the wonderful websites nominated for this year's Tiny Awards, catching up on the excellent Onimusha: Way of the Sword, reading Wildwood ahead of the upcoming movie, watching the new Taskmaster series, coming to grips with Link's new look in the Ocarina of Time remake, and fixing the flat tire on my toddler's stroller. I'm very proud of that …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-13T12:00:00.000Z"
+        },
+        {
+          "title": "I fixed a tractor using John Deere’s self-repair service. Farmers aren’t sold on it.",
+          "link": "https://arstechnica.com/gadgets/2026/09/i-fixed-a-tractor-using-john-deeres-self-repair-service-farmers-arent-sold-on-it/",
+          "summary": "The manufacturer has a service that lets owners repair their own equipment.",
+          "isoDate": "2026-09-13T11:00:41.000Z"
+        },
         {
           "title": "OpenAI’s rogue AI tried to hack another company in May",
           "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
@@ -34,36 +64,6 @@
           "link": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
           "summary": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a winding essay, Amodei proposed a three-step plan to \"pace the frontier\" - jargon that simply means to slow the pace of training and development to give companies time to build safeguards and regulators to evaluate models.\nAmodei says that giving external evaluators wide-ranging access is just the first step, and one it is taking now unilaterally. Step two would involve the industry coming together as a whole, likely with gove …\nRead the full story at The Verge.",
           "isoDate": "2026-09-12T16:23:40.000Z"
-        },
-        {
-          "title": "LG responds to TV spying allegations",
-          "link": "https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations",
-          "summary": "Earlier this week, Gamers Nexus, Level1Techs, and independent security researchers detailed some alarming findings about how LG's TVs are logging and uploading data on its users. Now the company is pushing back against those allegations, saying that \"Some recent media coverage may have contributed to misconceptions about how LG smart TVs work.\"\nLG released a statement in which it claims that its \"TVs do not continuously record or transmit users' conversations,\" and that wake-word detection is all processed locally. However, the word \"continuously\" is doing a lot of heavy lifting here as Gamers Nexus demonstrated an LG TV keeping extensive l …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-12T15:19:44.000Z"
-        },
-        {
-          "title": "Trump is giving data centers a pass to pollute",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
-          "summary": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a briefing and new report. They are urging - perhaps futilely - the president to adopt a \"Data Center Health Protection Pledge\" to signal that the administration is taking the environmental threat seriously. \nAt the start of his term, Trump's EPA administrator, Lee Zeldin, proclaimed his goal of making America \"the AI capital of the world\" through deregulation. Since then, Zeldin and the White House have rolled back dozens of rules  …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-12T14:41:27.000Z"
-        },
-        {
-          "title": "Laika’s stop-motion fantasy Wildwood looks so smooth",
-          "link": "https://www.theverge.com/entertainment/994314/tiff-2026-wildwood-stuffed-julian",
-          "summary": "Due to a scheduling mishap, I was only able to check out two movies on my second day at the Toronto International Film Festival - but I did manage to get an early look at and some fascinating details on one of my most anticipated films this year.\nEven if you don't know the name Laika, you probably know the studio's work; it's the animation house behind stop-motion hits like ParaNorman, The Boxtrolls, and Kubo and the Two Strings. Over the years Laika's films have steadily gotten more impressive on both a technical and artistic level. Which brings us to the incredible-looking Wildwood, hitting theaters next month. If you're unfamiliar, here' …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-12T13:00:00.000Z"
-        },
-        {
-          "title": "Where to preorder the iPhone 18 Pro and Pro Max",
-          "link": "https://www.theverge.com/gadgets/988337/iphone-18-pro-max-preorder-buy",
-          "summary": "Which color suits you best? | Photo: Nilay Patel / The Verge\t\n\nThe iPhone 18 Pro and 18 Pro Max are almost here. Announced at Apple's September 2026 \"Sunrise and shine\" event alongside the iPhone Duo and other new gear, the two upgraded phones feature the faster A20 Pro processor with more GPU power as well as more neural cores for AI-related tasks, plus some welcome improvements to the camera.\nThe phones will arrive on Friday, September 18th, and preordering one is never a bad idea if you want to ensure you get the color and storage capacity configuration you're seeking. Speaking of, preorders are officially open.\nThe 6.3-inch iPhone 18 Pro starts at $1,199 for the 256GB model, and goes all the way u …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-12T12:00:00.000Z"
-        },
-        {
-          "title": "I spent $4,000 on a robot dog from China",
-          "link": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
-          "summary": "Unitree might be the world’s most important robotics company.",
-          "isoDate": "2026-09-12T11:00:53.000Z"
         }
       ]
     },
@@ -72,10 +72,46 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "ERROR cargando feed",
-          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
-          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-09-13T11:09:13.172Z"
+          "title": "APOD: 2026 September 13 – Comet NEOWISE Rising over the Adriatic Sea",
+          "link": "https://science.nasa.gov/image-article/apod-2026-september-13-comet-neowise-rising-over-the-adriatic-sea/",
+          "summary": "APOD Science APOD APOD: 2026 September 13 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view this […]",
+          "isoDate": "2026-09-13T04:05:00.000Z"
+        },
+        {
+          "title": "Help Refine Data from Space Telescopes with Artifact InSPECtor",
+          "link": "https://science.nasa.gov/get-involved/citizen-science/help-refine-data-from-space-telescopes-with-artifact-inspector/",
+          "summary": "How do scientists studying space with data from a telescope hundreds of thousands of miles away know that what they are seeing is real? A new NASA project, Artifact InSPECtor, invites you to find out – and by doing so, to help missions like Euclid and NASA’s new Nancy Grace Roman Space Telescope answer fundamental […]",
+          "isoDate": "2026-09-11T19:48:09.000Z"
+        },
+        {
+          "title": "NASA’s Chandra Spots Galactic Gem",
+          "link": "https://www.nasa.gov/image-article/nasas-chandra-spots-galactic-gem/",
+          "summary": "Two galaxies merge at a furious rate in this Aug. 25, 2026, image of the II Zw 096 system. This and several other images of both visually and scientifically interesting galaxies were released by NASA’s Chandra X-ray Observatory and other telescopes. Chandra X-ray data (magenta) pinpoint powerful black hole activity and hot gas, while optical […]",
+          "isoDate": "2026-09-11T17:19:47.000Z"
+        },
+        {
+          "title": "NASA’s SpaceX Crew-12 to Discuss Station Mission, Upcoming Return",
+          "link": "https://www.nasa.gov/news-release/nasas-spacex-crew-12-to-discuss-station-mission-upcoming-return/",
+          "summary": "Media are invited to hear from NASA’s SpaceX Crew-12 astronauts during a news conference beginning at 2:45 p.m. EDT, Wednesday, Sept. 16, from the International Space Station. NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev will discuss their upcoming return to Earth. Learn where […]",
+          "isoDate": "2026-09-11T15:05:20.000Z"
+        },
+        {
+          "title": "NASA Boosts Open Science, Data Sharing with Artemis Accords",
+          "link": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords/",
+          "summary": "The science from every Moon rock sample, lunar dataset, and discovery produced through NASA’s Artemis program will be shared by the agency with the global scientific community. That commitment is upheld by all 71 countries that have signed the Artemis Accords, a set of principles for safe and transparent civil space exploration. NASA put those […]",
+          "isoDate": "2026-09-11T14:56:25.000Z"
+        },
+        {
+          "title": "APOD: 2026 September 11 – M83: The Southern Pinwheel",
+          "link": "https://science.nasa.gov/image-article/apod-2026-september-11-m83-the-southern-pinwheel/",
+          "summary": "APOD Science APOD APOD: 2026 September 11 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. M83: The Southern […]",
+          "isoDate": "2026-09-11T04:05:00.000Z"
+        },
+        {
+          "title": "Monterrey Amid Mountains",
+          "link": "https://science.nasa.gov/earth/earth-observatory/monterrey-amid-mountains/",
+          "summary": "Mexico’s second-largest metropolitan area borders on folded rock layers of the Sierra Madre Oriental.",
+          "isoDate": "2026-09-11T04:01:00.000Z"
         },
         {
           "title": "Briefing Chat: The Bunsen burner myth that turns out to be just hot air",
@@ -94,42 +130,6 @@
           "link": "https://www.nature.com/articles/d41586-026-02883-w",
           "summary": "Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02883-w\nPolitics and personal values influence people’s confidence in scientists, finds new report",
           "isoDate": "2026-09-11T00:00:00.000Z"
-        },
-        {
-          "title": "El Niño goes viral — and scientists learn what makes people care about the climate",
-          "link": "https://www.nature.com/articles/d41586-026-02763-3",
-          "summary": "Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02763-3\nEvoking emotions is more likely to prompt people to engage with climate efforts than are data alone.",
-          "isoDate": "2026-09-11T00:00:00.000Z"
-        },
-        {
-          "title": "Successful early-career scientists rely on network of mentors",
-          "link": "https://www.nature.com/articles/d41586-026-02827-4",
-          "summary": "Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02827-4\nLarge networks are particularly beneficial to researchers in under-represented groups.",
-          "isoDate": "2026-09-11T00:00:00.000Z"
-        },
-        {
-          "title": "Osteoporosis affects millions: could modified cells rebuild their bones?",
-          "link": "https://www.nature.com/articles/d41586-026-02828-3",
-          "summary": "Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02828-3\nSmall trial hints at regenerative potential of bone-seeking marrow cells.",
-          "isoDate": "2026-09-11T00:00:00.000Z"
-        },
-        {
-          "title": "Open framework–based Brønsted acid–Lewis base interfaces boost proton transfer in the fuel cells",
-          "link": "https://www.science.org/doi/abs/10.1126/science.adp3564?af=R",
-          "summary": "Science, Volume 393, Issue 6816, September 2026.",
-          "isoDate": "2026-09-10T07:00:00.000Z"
-        },
-        {
-          "title": "Extensive and differential platinum chemotherapy mutagenesis in livers of children",
-          "link": "https://www.science.org/doi/abs/10.1126/science.ady0339?af=R",
-          "summary": "Science, Volume 393, Issue 6816, September 2026.",
-          "isoDate": "2026-09-10T07:00:00.000Z"
-        },
-        {
-          "title": "The complete telomere-to-telomere sequence of a mouse Y chromosome",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aea2249?af=R",
-          "summary": "Science, Volume 393, Issue 6816, September 2026.",
-          "isoDate": "2026-09-10T07:00:00.000Z"
         }
       ]
     },
@@ -141,13 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-09-13T11:09:14.208Z"
+          "isoDate": "2026-09-13T15:40:30.345Z"
         },
         {
           "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
           "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
           "summary": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
-          "isoDate": "2026-09-13T07:06:41.000Z"
+          "isoDate": "2026-09-13T14:53:40.000Z"
         },
         {
           "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-09-13T11:09:16.780Z"
+          "isoDate": "2026-09-13T15:40:32.913Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-09-13T11:09:15.852Z"
+          "isoDate": "2026-09-13T15:40:31.896Z"
         },
         {
           "title": "IEEE to Reward Sections for High Voter Turnout in Annual Election",
@@ -324,57 +324,12 @@
       "maxItems": 120,
       "items": [
         {
-          "title": "RESULTADOS (ÚLTIMOS)",
+          "title": "RESULTADOS (EN DIRECTO)",
           "link": "",
           "summary": ""
         },
         {
-          "title": "REA  4-1  RAY",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "ATH  1-1  ELC",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "OSA  0-2  ESP",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "SAN  2-1  ALA",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "SEV  1-0  VAL",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "ELC  2-3  REA",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "GET  1-1  CEL",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "ESP  1-1  SEV",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "ALA  5-2  OSA",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "MÁL  0-0  LEV",
+          "title": "LEV  0-3  BAR",
           "link": "",
           "summary": ""
         },
@@ -389,7 +344,7 @@
           "summary": ""
         },
         {
-          "title": " 1  BAR   4   4  0  0  17   2  15  12",
+          "title": " 1  BAR   5   5  0  0  20   2  18  15",
           "link": "",
           "summary": ""
         },
@@ -449,32 +404,32 @@
           "summary": ""
         },
         {
-          "title": "13  LEV   4   1  2  1   5   5   0   5",
+          "title": "13  LEV   5   1  2  2   5   8  -3   5",
           "link": "",
           "summary": ""
         },
         {
-          "title": "14  GET   4   1  1  2   2   5  -3   4",
+          "title": "14  CEL   6   0  4  2   3   6  -3   4",
           "link": "",
           "summary": ""
         },
         {
-          "title": "15  RAY   5   1  1  3   8  14  -6   4",
+          "title": "15  GET   4   1  1  2   2   5  -3   4",
           "link": "",
           "summary": ""
         },
         {
-          "title": "16  CEL   5   0  3  2   2   5  -3   3",
+          "title": "16  RAY   5   1  1  3   8  14  -6   4",
           "link": "",
           "summary": ""
         },
         {
-          "title": "17  VIL   4   0  2  2   6   8  -2   2",
+          "title": "17  MÁL   5   0  3  2   2   8  -6   3",
           "link": "",
           "summary": ""
         },
         {
-          "title": "18  MÁL   4   0  2  2   1   7  -6   2",
+          "title": "18  VIL   4   0  2  2   6   8  -2   2",
           "link": "",
           "summary": ""
         },
