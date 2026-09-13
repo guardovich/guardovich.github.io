@@ -1,10 +1,28 @@
 {
-  "generatedAt": "2026-09-13T15:40:33.686Z",
+  "generatedAt": "2026-09-13T20:22:42.416Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Trump and Mike Johnson think the AI industry is overreacting",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+          "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Hassabis offered tentative support for Amodei's proposal. \nDonald Trump and House Speaker Mike Johnson, however, seem to think the AI executives are being overreactive and fear that a pause could lead to China outpacing the US in the AI race. According to the Financial Times, Trump said \"Look, we're leading China in AI … and, frankly, I want to keep it that way, because whoever wins AI, wins.\"\nJo …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-13T19:41:48.000Z"
+        },
+        {
+          "title": "Apple is reportedly working on iPhone game controllers",
+          "link": "https://www.theverge.com/tech/994426/apple-iphone-game-controllers",
+          "summary": "Bloomberg's Mark Gurman says Apple is developing two game controllers for the iPhone and will likely sell them under the Beats brand. Rumors that Apple might enter the game controller business have circulated for some time. But last week, MacRumors reported finding two references in macOS 26.7's code to two game controllers identified as first-party devices.\nDespite the code being found in macOS, not iOS, Gurman says the controllers are designed for iPhones. Additionally, he says that it is Beats executives leading the charge on this product. Apple sometimes uses its subsidiary brand to experiment with new product categories and compete at  …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-13T18:30:16.000Z"
+        },
+        {
+          "title": "The Units’ Digital Stimulation is synthpunk perfection",
+          "link": "https://www.theverge.com/entertainment/994415/the-units-digital-stimulation-synthpunk-review",
+          "summary": "The Units are a band I discovered in part thanks to No Dogs in Space. During their miniseries on The Screamers (another incredible band worth checking out), they mention synthpunk.org as one of their sources. And there's no better way to get my attention than to combine two of my favorite things - punk rock and synthesizers. The site was down that day (it appears to be back up now), but I was able to access a version from July through the Wayback Machine. What greeted me was a bare-bones site with links for six bands, including The Screamers. But at the top was The Units, a band I'd never heard of and, after tracking down their 1980 record D …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-13T17:36:10.000Z"
+        },
         {
           "title": "Waymo pulls over, calls cops on riders with a ghost gun",
           "link": "https://www.theverge.com/transportation/994405/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun",
@@ -46,24 +64,6 @@
           "link": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
           "summary": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement, and the possibility of building an AI that was beyond human control. On the latter, he said it was \"absolutely\" possible, but vowed to take actions to prevent that from happening, even if it meant pausing training, adding that \"there are risks we should not be able to incur on behalf of humanity.\"\n\"We're not rushing into an IPO. I actually think that, given everything happening with safety, th …\n\nRead the full story at The Verge.",
           "isoDate": "2026-09-12T21:16:28.000Z"
-        },
-        {
-          "title": "StarCraft returns in 2030 as an open-world shooter",
-          "link": "https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter",
-          "summary": "Blizzard originally tried to bring the StarCraft universe to the world of 3D shooters way back in 2002 with StarCraft: Ghost. It sat in development hell for years until Blizzard president Mike Morhaime confirmed that it had been canceled in 2014. Now Blizzard is giving it another go with the simply titled StarCraft. Dan Hay, a VP at  Blizzard, took the stage at BlizzCon today to reveal that after more than a decade of lying dormant, StarCraft would be returning in 2030. But, rather than another top-down real-time strategy installment, the new title would be an open-world shooter. \nHe then showed off a cinematic trailer for the title that fo …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-12T20:08:09.000Z"
-        },
-        {
-          "title": "Sylvan Esso think you should splurge on good-quality yogurt",
-          "link": "https://www.theverge.com/entertainment/994340/sylvan-esso-ow-infinity-interview-music",
-          "summary": "Sylvan Esso preparing to attend a frutiger aero renfaire.\t\n\nAmelia Meath and Nick Sanborn, better known as Sylvan Esso, have been bringing their low-key electro-pop to the masses since 2014, bursting onto the scene with their self-titled debut album and the single \"Hey Mami.\" Over the years, they've put out a number of excellent records, dabbling in dustier, more fragile textures on Free Love, going dancier and glitchier on No Rules Sandy. The two are constantly pushing at the edges of their sound while retaining the core of what makes a Sylvan Esso record sound like a Sylvan Esso record. \nTheir new album Ow ∞, released this past Friday, represents perhaps the boldest reinvention of their sound, how …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-12T16:35:00.000Z"
-        },
-        {
-          "title": "Anthropic CEO says it’s time to pump the brakes on AI",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
-          "summary": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a winding essay, Amodei proposed a three-step plan to \"pace the frontier\" - jargon that simply means to slow the pace of training and development to give companies time to build safeguards and regulators to evaluate models.\nAmodei says that giving external evaluators wide-ranging access is just the first step, and one it is taking now unilaterally. Step two would involve the industry coming together as a whole, likely with gove …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-12T16:23:40.000Z"
         }
       ]
     },
@@ -72,46 +72,10 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "APOD: 2026 September 13 – Comet NEOWISE Rising over the Adriatic Sea",
-          "link": "https://science.nasa.gov/image-article/apod-2026-september-13-comet-neowise-rising-over-the-adriatic-sea/",
-          "summary": "APOD Science APOD APOD: 2026 September 13 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view this […]",
-          "isoDate": "2026-09-13T04:05:00.000Z"
-        },
-        {
-          "title": "Help Refine Data from Space Telescopes with Artifact InSPECtor",
-          "link": "https://science.nasa.gov/get-involved/citizen-science/help-refine-data-from-space-telescopes-with-artifact-inspector/",
-          "summary": "How do scientists studying space with data from a telescope hundreds of thousands of miles away know that what they are seeing is real? A new NASA project, Artifact InSPECtor, invites you to find out – and by doing so, to help missions like Euclid and NASA’s new Nancy Grace Roman Space Telescope answer fundamental […]",
-          "isoDate": "2026-09-11T19:48:09.000Z"
-        },
-        {
-          "title": "NASA’s Chandra Spots Galactic Gem",
-          "link": "https://www.nasa.gov/image-article/nasas-chandra-spots-galactic-gem/",
-          "summary": "Two galaxies merge at a furious rate in this Aug. 25, 2026, image of the II Zw 096 system. This and several other images of both visually and scientifically interesting galaxies were released by NASA’s Chandra X-ray Observatory and other telescopes. Chandra X-ray data (magenta) pinpoint powerful black hole activity and hot gas, while optical […]",
-          "isoDate": "2026-09-11T17:19:47.000Z"
-        },
-        {
-          "title": "NASA’s SpaceX Crew-12 to Discuss Station Mission, Upcoming Return",
-          "link": "https://www.nasa.gov/news-release/nasas-spacex-crew-12-to-discuss-station-mission-upcoming-return/",
-          "summary": "Media are invited to hear from NASA’s SpaceX Crew-12 astronauts during a news conference beginning at 2:45 p.m. EDT, Wednesday, Sept. 16, from the International Space Station. NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev will discuss their upcoming return to Earth. Learn where […]",
-          "isoDate": "2026-09-11T15:05:20.000Z"
-        },
-        {
-          "title": "NASA Boosts Open Science, Data Sharing with Artemis Accords",
-          "link": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords/",
-          "summary": "The science from every Moon rock sample, lunar dataset, and discovery produced through NASA’s Artemis program will be shared by the agency with the global scientific community. That commitment is upheld by all 71 countries that have signed the Artemis Accords, a set of principles for safe and transparent civil space exploration. NASA put those […]",
-          "isoDate": "2026-09-11T14:56:25.000Z"
-        },
-        {
-          "title": "APOD: 2026 September 11 – M83: The Southern Pinwheel",
-          "link": "https://science.nasa.gov/image-article/apod-2026-september-11-m83-the-southern-pinwheel/",
-          "summary": "APOD Science APOD APOD: 2026 September 11 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. M83: The Southern […]",
-          "isoDate": "2026-09-11T04:05:00.000Z"
-        },
-        {
-          "title": "Monterrey Amid Mountains",
-          "link": "https://science.nasa.gov/earth/earth-observatory/monterrey-amid-mountains/",
-          "summary": "Mexico’s second-largest metropolitan area borders on folded rock layers of the Sierra Madre Oriental.",
-          "isoDate": "2026-09-11T04:01:00.000Z"
+          "title": "ERROR cargando feed",
+          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
+          "isoDate": "2026-09-13T20:22:38.799Z"
         },
         {
           "title": "Briefing Chat: The Bunsen burner myth that turns out to be just hot air",
@@ -130,6 +94,42 @@
           "link": "https://www.nature.com/articles/d41586-026-02883-w",
           "summary": "Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02883-w\nPolitics and personal values influence people’s confidence in scientists, finds new report",
           "isoDate": "2026-09-11T00:00:00.000Z"
+        },
+        {
+          "title": "El Niño goes viral — and scientists learn what makes people care about the climate",
+          "link": "https://www.nature.com/articles/d41586-026-02763-3",
+          "summary": "Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02763-3\nEvoking emotions is more likely to prompt people to engage with climate efforts than are data alone.",
+          "isoDate": "2026-09-11T00:00:00.000Z"
+        },
+        {
+          "title": "Successful early-career scientists rely on network of mentors",
+          "link": "https://www.nature.com/articles/d41586-026-02827-4",
+          "summary": "Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02827-4\nLarge networks are particularly beneficial to researchers in under-represented groups.",
+          "isoDate": "2026-09-11T00:00:00.000Z"
+        },
+        {
+          "title": "Osteoporosis affects millions: could modified cells rebuild their bones?",
+          "link": "https://www.nature.com/articles/d41586-026-02828-3",
+          "summary": "Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02828-3\nSmall trial hints at regenerative potential of bone-seeking marrow cells.",
+          "isoDate": "2026-09-11T00:00:00.000Z"
+        },
+        {
+          "title": "Open framework–based Brønsted acid–Lewis base interfaces boost proton transfer in the fuel cells",
+          "link": "https://www.science.org/doi/abs/10.1126/science.adp3564?af=R",
+          "summary": "Science, Volume 393, Issue 6816, September 2026.",
+          "isoDate": "2026-09-10T07:00:00.000Z"
+        },
+        {
+          "title": "Extensive and differential platinum chemotherapy mutagenesis in livers of children",
+          "link": "https://www.science.org/doi/abs/10.1126/science.ady0339?af=R",
+          "summary": "Science, Volume 393, Issue 6816, September 2026.",
+          "isoDate": "2026-09-10T07:00:00.000Z"
+        },
+        {
+          "title": "The complete telomere-to-telomere sequence of a mouse Y chromosome",
+          "link": "https://www.science.org/doi/abs/10.1126/science.aea2249?af=R",
+          "summary": "Science, Volume 393, Issue 6816, September 2026.",
+          "isoDate": "2026-09-10T07:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-09-13T15:40:30.345Z"
+          "isoDate": "2026-09-13T20:22:39.865Z"
+        },
+        {
+          "title": "Trump downplays warnings of AI risks, citing rivalry with China",
+          "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+          "summary": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\".",
+          "isoDate": "2026-09-13T18:49:37.000Z"
+        },
+        {
+          "title": "Questions mount over what an AI 'slowdown' would look like",
+          "link": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
+          "summary": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
+          "isoDate": "2026-09-13T18:20:22.000Z"
         },
         {
           "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
@@ -184,18 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
           "summary": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
           "isoDate": "2026-09-11T08:15:25.000Z"
-        },
-        {
-          "title": "Can Europe recharge its battery industry?",
-          "link": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&at_campaign=rss",
-          "summary": "Europe has some promising battery tech, but can it make up ground lost to Chinese battery giants?",
-          "isoDate": "2026-09-10T23:05:47.000Z"
-        },
-        {
-          "title": "UK needs new laws for AI in healthcare, says watchdog",
-          "link": "https://www.bbc.co.uk/news/articles/c3wjn3pl63xo?at_medium=RSS&at_campaign=rss",
-          "summary": "The technology will soon be routinely used within the NHS, MHRA chief Lawrence Tallon tells the BBC.",
-          "isoDate": "2026-09-10T00:48:35.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-09-13T15:40:32.913Z"
+          "isoDate": "2026-09-13T20:22:41.848Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-09-13T15:40:31.896Z"
+          "isoDate": "2026-09-13T20:22:41.009Z"
         },
         {
           "title": "IEEE to Reward Sections for High Voter Turnout in Annual Election",
@@ -329,7 +329,7 @@
           "summary": ""
         },
         {
-          "title": "LEV  0-3  BAR",
+          "title": "REA  0-0  ATL",
           "link": "",
           "summary": ""
         },
@@ -344,7 +344,7 @@
           "summary": ""
         },
         {
-          "title": " 1  BAR   5   5  0  0  20   2  18  15",
+          "title": " 1  BAR   5   5  0  0  21   4  17  15",
           "link": "",
           "summary": ""
         },
@@ -364,37 +364,37 @@
           "summary": ""
         },
         {
-          "title": " 5  REA   4   3  0  1   5   5   0   9",
+          "title": " 5  DEP   5   2  3  0   9   6   3   9",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 6  DEP   4   2  2  0   8   5   3   8",
+          "title": " 6  REA   4   3  0  1   5   5   0   9",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 7  ESP   5   2  1  2   8   5   3   7",
+          "title": " 7  ATL   5   2  2  1   7   6   1   8",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 8  ATH   5   2  1  2   7   6   1   7",
+          "title": " 8  REA   6   2  2  2   6   8  -2   8",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 8  ATL   4   2  1  1   7   6   1   7",
+          "title": " 9  ESP   5   2  1  2   8   5   3   7",
           "link": "",
           "summary": ""
         },
         {
-          "title": "10  SAN   5   2  1  2   9   9   0   7",
+          "title": "10  ATH   5   2  1  2   7   6   1   7",
           "link": "",
           "summary": ""
         },
         {
-          "title": "11  REA   5   2  1  2   6   8  -2   7",
+          "title": "11  SAN   5   2  1  2   9   9   0   7",
           "link": "",
           "summary": ""
         },
@@ -404,17 +404,17 @@
           "summary": ""
         },
         {
-          "title": "13  LEV   5   1  2  2   5   8  -3   5",
+          "title": "13  LEV   5   1  2  2   7   9  -2   5",
           "link": "",
           "summary": ""
         },
         {
-          "title": "14  CEL   6   0  4  2   3   6  -3   4",
+          "title": "14  GET   5   1  2  2   3   6  -3   5",
           "link": "",
           "summary": ""
         },
         {
-          "title": "15  GET   4   1  1  2   2   5  -3   4",
+          "title": "15  CEL   6   0  4  2   3   6  -3   4",
           "link": "",
           "summary": ""
         },
