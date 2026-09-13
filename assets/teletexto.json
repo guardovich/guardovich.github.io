@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-09-12T20:13:34.902Z",
+  "generatedAt": "2026-09-13T03:23:18.093Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "OpenAI’s rogue AI tried to hack another company in May",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+          "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users' API keys. \nAt the time, RubyGems described it as a \"major malicious attack\" and shut down signups for four days as it tried to mitigate the damage and collect data. Researchers said that the contents of the packages that brought RubyGems to its knees were clearly authored by an LLM, and that the agents submitting those packages self-identified as being from OpenAI. They said the …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-12T21:41:36.000Z"
+        },
+        {
+          "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+          "summary": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement, and the possibility of building an AI that was beyond human control. On the latter, he said it was \"absolutely\" possible, but vowed to take actions to prevent that from happening, even if it meant pausing training, adding that \"there are risks we should not be able to incur on behalf of humanity.\"\n\"We're not rushing into an IPO. I actually think that, given everything happening with safety, th …\n\nRead the full story at The Verge.",
+          "isoDate": "2026-09-12T21:16:28.000Z"
+        },
         {
           "title": "StarCraft returns in 2030 as an open-world shooter",
           "link": "https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter",
@@ -52,18 +64,6 @@
           "link": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
           "summary": "Unitree might be the world’s most important robotics company.",
           "isoDate": "2026-09-12T11:00:53.000Z"
-        },
-        {
-          "title": "OpenAI just wants to win",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
-          "summary": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium Prize problem. In normal circumstances, this would have been celebrated as a historic achievement.\nInstead, many mathematicians have watched OpenAI's relentless advance with growing unease. To them, the company appears less like an enthusiastic newcomer than an impossibly well-resourced interloper, charging into problems they have dedicated their lives to studying with little apparent regard for long-standing norms or the consequences for those  …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-12T11:00:00.000Z"
-        },
-        {
-          "title": "Some satellite companies still have an appetite for boutique launch services",
-          "link": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/",
-          "summary": "\"Dedicated launch is pretty essential for us for most of our missions.\"",
-          "isoDate": "2026-09-11T23:34:45.000Z"
         }
       ]
     },
@@ -72,10 +72,40 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "ERROR cargando feed",
-          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
-          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-09-12T20:13:30.100Z"
+          "title": "Help Refine Data from Space Telescopes with Artifact InSPECtor",
+          "link": "https://science.nasa.gov/get-involved/citizen-science/help-refine-data-from-space-telescopes-with-artifact-inspector/",
+          "summary": "How do scientists studying space with data from a telescope hundreds of thousands of miles away know that what they are seeing is real? A new NASA project, Artifact InSPECtor, invites you to find out – and by doing so, to help missions like Euclid and NASA’s new Nancy Grace Roman Space Telescope answer fundamental […]",
+          "isoDate": "2026-09-11T19:48:09.000Z"
+        },
+        {
+          "title": "NASA’s Chandra Spots Galactic Gem",
+          "link": "https://www.nasa.gov/image-article/nasas-chandra-spots-galactic-gem/",
+          "summary": "Two galaxies merge at a furious rate in this Aug. 25, 2026, image of the II Zw 096 system. This and several other images of both visually and scientifically interesting galaxies were released by NASA’s Chandra X-ray Observatory and other telescopes. Chandra X-ray data (magenta) pinpoint powerful black hole activity and hot gas, while optical […]",
+          "isoDate": "2026-09-11T17:19:47.000Z"
+        },
+        {
+          "title": "NASA’s SpaceX Crew-12 to Discuss Station Mission, Upcoming Return",
+          "link": "https://www.nasa.gov/news-release/nasas-spacex-crew-12-to-discuss-station-mission-upcoming-return/",
+          "summary": "Media are invited to hear from NASA’s SpaceX Crew-12 astronauts during a news conference beginning at 2:45 p.m. EDT, Wednesday, Sept. 16, from the International Space Station. NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev will discuss their upcoming return to Earth. Learn where […]",
+          "isoDate": "2026-09-11T15:05:20.000Z"
+        },
+        {
+          "title": "NASA Boosts Open Science, Data Sharing with Artemis Accords",
+          "link": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords/",
+          "summary": "The science from every Moon rock sample, lunar dataset, and discovery produced through NASA’s Artemis program will be shared by the agency with the global scientific community. That commitment is upheld by all 71 countries that have signed the Artemis Accords, a set of principles for safe and transparent civil space exploration. NASA put those […]",
+          "isoDate": "2026-09-11T14:56:25.000Z"
+        },
+        {
+          "title": "APOD: 2026 September 11 – M83: The Southern Pinwheel",
+          "link": "https://science.nasa.gov/image-article/apod-2026-september-11-m83-the-southern-pinwheel/",
+          "summary": "APOD Science APOD APOD: 2026 September 11 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. M83: The Southern […]",
+          "isoDate": "2026-09-11T04:05:00.000Z"
+        },
+        {
+          "title": "Monterrey Amid Mountains",
+          "link": "https://science.nasa.gov/earth/earth-observatory/monterrey-amid-mountains/",
+          "summary": "Mexico’s second-largest metropolitan area borders on folded rock layers of the Sierra Madre Oriental.",
+          "isoDate": "2026-09-11T04:01:00.000Z"
         },
         {
           "title": "Briefing Chat: The Bunsen burner myth that turns out to be just hot air",
@@ -100,36 +130,6 @@
           "link": "https://www.nature.com/articles/d41586-026-02763-3",
           "summary": "Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02763-3\nEvoking emotions is more likely to prompt people to engage with climate efforts than are data alone.",
           "isoDate": "2026-09-11T00:00:00.000Z"
-        },
-        {
-          "title": "Successful early-career scientists rely on network of mentors",
-          "link": "https://www.nature.com/articles/d41586-026-02827-4",
-          "summary": "Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02827-4\nLarge networks are particularly beneficial to researchers in under-represented groups.",
-          "isoDate": "2026-09-11T00:00:00.000Z"
-        },
-        {
-          "title": "Osteoporosis affects millions: could modified cells rebuild their bones?",
-          "link": "https://www.nature.com/articles/d41586-026-02828-3",
-          "summary": "Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02828-3\nSmall trial hints at regenerative potential of bone-seeking marrow cells.",
-          "isoDate": "2026-09-11T00:00:00.000Z"
-        },
-        {
-          "title": "Open framework–based Brønsted acid–Lewis base interfaces boost proton transfer in the fuel cells",
-          "link": "https://www.science.org/doi/abs/10.1126/science.adp3564?af=R",
-          "summary": "Science, Volume 393, Issue 6816, September 2026.",
-          "isoDate": "2026-09-10T07:00:00.000Z"
-        },
-        {
-          "title": "Extensive and differential platinum chemotherapy mutagenesis in livers of children",
-          "link": "https://www.science.org/doi/abs/10.1126/science.ady0339?af=R",
-          "summary": "Science, Volume 393, Issue 6816, September 2026.",
-          "isoDate": "2026-09-10T07:00:00.000Z"
-        },
-        {
-          "title": "The complete telomere-to-telomere sequence of a mouse Y chromosome",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aea2249?af=R",
-          "summary": "Science, Volume 393, Issue 6816, September 2026.",
-          "isoDate": "2026-09-10T07:00:00.000Z"
         }
       ]
     },
@@ -141,13 +141,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-09-12T20:13:31.694Z"
+          "isoDate": "2026-09-13T03:23:14.131Z"
+        },
+        {
+          "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+          "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
+          "summary": "Jacob Coxon tells the BBC that there's a strong chance AI could end humanity if the rate of development is not reined in.",
+          "isoDate": "2026-09-13T01:15:04.000Z"
         },
         {
           "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
           "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
           "summary": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
-          "isoDate": "2026-09-12T17:42:38.000Z"
+          "isoDate": "2026-09-12T21:16:47.000Z"
         },
         {
           "title": "Tech Now",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/c3wjn3pl63xo?at_medium=RSS&at_campaign=rss",
           "summary": "The technology will soon be routinely used within the NHS, MHRA chief Lawrence Tallon tells the BBC.",
           "isoDate": "2026-09-10T00:48:35.000Z"
-        },
-        {
-          "title": "Google picks Finland for its largest single investment in Europe",
-          "link": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
-          "summary": "The US tech giant says the €13bn data centre project will create tens of thousands of jobs.",
-          "isoDate": "2026-09-09T17:06:48.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-09-12T20:13:34.158Z"
+          "isoDate": "2026-09-13T03:23:17.228Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-09-12T20:13:33.368Z"
+          "isoDate": "2026-09-13T03:23:15.836Z"
         },
         {
           "title": "IEEE to Reward Sections for High Voter Turnout in Annual Election",
@@ -324,12 +324,57 @@
       "maxItems": 120,
       "items": [
         {
-          "title": "RESULTADOS (EN DIRECTO)",
+          "title": "RESULTADOS (ÚLTIMOS)",
           "link": "",
           "summary": ""
         },
         {
-          "title": "REA  3-0  RAY",
+          "title": "REA  4-1  RAY",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "ATH  1-1  ELC",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "OSA  0-2  ESP",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "SAN  2-1  ALA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "SEV  1-0  VAL",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "ELC  2-3  REA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "GET  1-1  CEL",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "ESP  1-1  SEV",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "ALA  5-2  OSA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "MÁL  0-0  LEV",
           "link": "",
           "summary": ""
         },
@@ -349,7 +394,7 @@
           "summary": ""
         },
         {
-          "title": " 2  REA   5   4  0  1  13   3  10  12",
+          "title": " 2  REA   5   4  0  1  14   4  10  12",
           "link": "",
           "summary": ""
         },
@@ -414,7 +459,7 @@
           "summary": ""
         },
         {
-          "title": "15  RAY   5   1  1  3   7  13  -6   4",
+          "title": "15  RAY   5   1  1  3   8  14  -6   4",
           "link": "",
           "summary": ""
         },
