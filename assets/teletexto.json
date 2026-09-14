@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-09-14T03:34:18.467Z",
+  "generatedAt": "2026-09-14T11:54:49.586Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "What happens after a town de-Flocks",
+          "link": "https://www.theverge.com/policy/994414/cities-ditching-flock-cameras-controversy",
+          "summary": "Demonstrators hold a banner against Flock security cameras during a protest outside the G20 Innovation Ministerial in Chapel Hill, North Carolina, US, on Wednesday, Sept. 2, 2026. Photographer: Cornell Watson/Bloomberg via Getty Images | Bloomberg via Getty Images\t\n\nFrom Florida to Washington state, local governments across the country are canceling their contracts with Flock, the company behind the controversial AI-enabled license plate readers, in response to public outcry. But ending the contracts doesn't necessarily mean the cameras will come down immediately - or that the information they've gathered will be deleted anytime soon.\nEven as state and local governments decide to rein in their surveillance capabilities, uncertainty remains about what Flock can and will do with data that has already been collected. Each jurisdiction's contract is different, but many of them let Flock retain data long af …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-14T11:00:00.000Z"
+        },
         {
           "title": "Unvaccinated Pennsylvania woman died of measles complications, coroner says",
           "link": "https://arstechnica.com/health/2026/09/unvaccinated-pennsylvania-woman-died-of-measles-complications-coroner-says/",
@@ -58,12 +64,6 @@
           "link": "https://arstechnica.com/gadgets/2026/09/i-fixed-a-tractor-using-john-deeres-self-repair-service-farmers-arent-sold-on-it/",
           "summary": "The manufacturer has a service that lets owners repair their own equipment.",
           "isoDate": "2026-09-13T11:00:41.000Z"
-        },
-        {
-          "title": "OpenAI’s rogue AI tried to hack another company in May",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
-          "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users' API keys. \nAt the time, RubyGems described it as a \"major malicious attack\" and shut down signups for four days as it tried to mitigate the damage and collect data. Researchers said that the contents of the packages that brought RubyGems to its knees were clearly authored by an LLM, and that the agents submitting those packages self-identified as being from OpenAI. They said the …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-12T21:41:36.000Z"
         }
       ]
     },
@@ -75,7 +75,25 @@
           "title": "ERROR cargando feed",
           "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
           "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-09-14T03:34:15.505Z"
+          "isoDate": "2026-09-14T11:54:44.259Z"
+        },
+        {
+          "title": "The pet trade puts reptiles and amphibians at risk: close legal gaps now",
+          "link": "https://www.nature.com/articles/d41586-026-02852-3",
+          "summary": "Nature, Published online: 14 September 2026; doi:10.1038/d41586-026-02852-3\nPatchy legislation means that animals are routinely taken from their natural habitats and sold in other countries. Fresh national and international measures could help to stop this exploitation.",
+          "isoDate": "2026-09-14T00:00:00.000Z"
+        },
+        {
+          "title": "UK universities are on the brink — what is their greatest source of stress?",
+          "link": "https://www.nature.com/articles/d41586-026-02608-z",
+          "summary": "Nature, Published online: 14 September 2026; doi:10.1038/d41586-026-02608-z\nNature asked eight leaders in higher education what they thought about the state of UK institutions. Here’s how they answered.",
+          "isoDate": "2026-09-14T00:00:00.000Z"
+        },
+        {
+          "title": "Fraud sealed the fate of controversial zoologist Paul Kammerer — 100 years on, his ideas deserve revisiting",
+          "link": "https://www.nature.com/articles/d41586-026-02851-4",
+          "summary": "Nature, Published online: 14 September 2026; doi:10.1038/d41586-026-02851-4\nAfter an eventful life in the limelight, the discovery of a manipulated specimen preceded the biologist’s death. Questions about his findings remain.",
+          "isoDate": "2026-09-14T00:00:00.000Z"
         },
         {
           "title": "The super El Niño is already wreaking havoc: here’s what’s in store",
@@ -112,24 +130,6 @@
           "link": "https://www.nature.com/articles/d41586-026-02827-4",
           "summary": "Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02827-4\nLarge networks are particularly beneficial to researchers in under-represented groups.",
           "isoDate": "2026-09-11T00:00:00.000Z"
-        },
-        {
-          "title": "Osteoporosis affects millions: could modified cells rebuild their bones?",
-          "link": "https://www.nature.com/articles/d41586-026-02828-3",
-          "summary": "Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02828-3\nSmall trial hints at regenerative potential of bone-seeking marrow cells.",
-          "isoDate": "2026-09-11T00:00:00.000Z"
-        },
-        {
-          "title": "Open framework–based Brønsted acid–Lewis base interfaces boost proton transfer in the fuel cells",
-          "link": "https://www.science.org/doi/abs/10.1126/science.adp3564?af=R",
-          "summary": "Science, Volume 393, Issue 6816, September 2026.",
-          "isoDate": "2026-09-10T07:00:00.000Z"
-        },
-        {
-          "title": "Extensive and differential platinum chemotherapy mutagenesis in livers of children",
-          "link": "https://www.science.org/doi/abs/10.1126/science.ady0339?af=R",
-          "summary": "Science, Volume 393, Issue 6816, September 2026.",
-          "isoDate": "2026-09-10T07:00:00.000Z"
         }
       ]
     },
@@ -141,13 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-09-14T03:34:16.162Z"
-        },
-        {
-          "title": "Committee calls for bill to address AI threat to human rights",
-          "link": "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss",
-          "summary": "A cross-party group of MPs and peers identifies human rights risks that existing laws appear not to cover.",
-          "isoDate": "2026-09-14T03:23:54.000Z"
+          "isoDate": "2026-09-14T11:54:45.416Z"
         },
         {
           "title": "Trump downplays warnings of AI risks, citing rivalry with China",
@@ -177,7 +171,7 @@
           "title": "Tech Now",
           "link": "https://www.bbc.co.uk/iplayer/episode/m0031qjy?at_medium=RSS&at_campaign=rss",
           "summary": "Shiona McCallum meets mums and hospital staff trialling a new assisted birth innovation.",
-          "isoDate": "2026-09-12T01:00:00.000Z"
+          "isoDate": "2026-09-12T01:00:19.000Z"
         },
         {
           "title": "PlayStation gambles with 18-rated Wolverine game - will it pay off?",
@@ -196,6 +190,12 @@
           "link": "https://www.bbc.co.uk/news/videos/c5yjk63ww1ro?at_medium=RSS&at_campaign=rss",
           "summary": "Comedian Garrett Millerick has created an AI avatar based on his own material. Is it any good?",
           "isoDate": "2026-09-11T12:49:30.000Z"
+        },
+        {
+          "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
+          "link": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
+          "summary": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
+          "isoDate": "2026-09-11T08:15:25.000Z"
         }
       ]
     },
@@ -203,6 +203,18 @@
       "header": "160  INTELIGENCIA ARTIFICIAL",
       "maxItems": 10,
       "items": [
+        {
+          "title": "New method enables AI for safety-critical situations",
+          "link": "https://news.mit.edu/2026/new-method-enables-ai-safety-critical-situations-0914",
+          "summary": "The “HardFlow” algorithm could help generative AI models produce high-quality outputs that obey strict requirements when “pretty close” doesn’t cut it.",
+          "isoDate": "2026-09-14T04:00:00.000Z"
+        },
+        {
+          "title": "MIT spinout turns plastic waste into resilient building materials",
+          "link": "https://news.mit.edu/2026/mit-spinout-turns-plastic-waste-into-resilient-building-materials-0914",
+          "summary": "Atlas Building Composites is commercializing MIT research to turn plastic waste into parts for buildings and other infrastructure.",
+          "isoDate": "2026-09-14T04:00:00.000Z"
+        },
         {
           "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
           "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
@@ -250,18 +262,6 @@
           "link": "https://openai.com/index/expanding-ai-access-us-government",
           "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
           "isoDate": "2026-09-10T07:00:00.000Z"
-        },
-        {
-          "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-          "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-          "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-          "isoDate": "2026-09-10T00:00:00.000Z"
-        },
-        {
-          "title": "Introducing the Agents API",
-          "link": "https://openai.com/index/introducing-the-agents-api",
-          "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
-          "isoDate": "2026-09-10T00:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-09-14T03:34:17.962Z"
+          "isoDate": "2026-09-14T11:54:48.267Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-09-14T03:34:17.091Z"
+          "isoDate": "2026-09-14T11:54:47.103Z"
         },
         {
           "title": "IEEE to Reward Sections for High Voter Turnout in Annual Election",
