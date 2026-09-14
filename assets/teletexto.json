@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-09-13T20:22:42.416Z",
+  "generatedAt": "2026-09-14T03:34:18.467Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Unvaccinated Pennsylvania woman died of measles complications, coroner says",
+          "link": "https://arstechnica.com/health/2026/09/unvaccinated-pennsylvania-woman-died-of-measles-complications-coroner-says/",
+          "summary": "The 40-year-old unvaccinated woman reportedly had underlying health conditions.",
+          "isoDate": "2026-09-13T21:56:52.000Z"
+        },
         {
           "title": "Trump and Mike Johnson think the AI industry is overreacting",
           "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
@@ -58,12 +64,6 @@
           "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
           "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users' API keys. \nAt the time, RubyGems described it as a \"major malicious attack\" and shut down signups for four days as it tried to mitigate the damage and collect data. Researchers said that the contents of the packages that brought RubyGems to its knees were clearly authored by an LLM, and that the agents submitting those packages self-identified as being from OpenAI. They said the …\nRead the full story at The Verge.",
           "isoDate": "2026-09-12T21:41:36.000Z"
-        },
-        {
-          "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
-          "summary": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement, and the possibility of building an AI that was beyond human control. On the latter, he said it was \"absolutely\" possible, but vowed to take actions to prevent that from happening, even if it meant pausing training, adding that \"there are risks we should not be able to incur on behalf of humanity.\"\n\"We're not rushing into an IPO. I actually think that, given everything happening with safety, th …\n\nRead the full story at The Verge.",
-          "isoDate": "2026-09-12T21:16:28.000Z"
         }
       ]
     },
@@ -75,7 +75,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
           "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-09-13T20:22:38.799Z"
+          "isoDate": "2026-09-14T03:34:15.505Z"
+        },
+        {
+          "title": "The super El Niño is already wreaking havoc: here’s what’s in store",
+          "link": "https://www.nature.com/articles/d41586-026-02826-5",
+          "summary": "Nature, Published online: 13 September 2026; doi:10.1038/d41586-026-02826-5\nThe extreme weather of this year’s mega El Niño could look different from past events.",
+          "isoDate": "2026-09-13T00:00:00.000Z"
         },
         {
           "title": "Briefing Chat: The Bunsen burner myth that turns out to be just hot air",
@@ -124,12 +130,6 @@
           "link": "https://www.science.org/doi/abs/10.1126/science.ady0339?af=R",
           "summary": "Science, Volume 393, Issue 6816, September 2026.",
           "isoDate": "2026-09-10T07:00:00.000Z"
-        },
-        {
-          "title": "The complete telomere-to-telomere sequence of a mouse Y chromosome",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aea2249?af=R",
-          "summary": "Science, Volume 393, Issue 6816, September 2026.",
-          "isoDate": "2026-09-10T07:00:00.000Z"
         }
       ]
     },
@@ -141,12 +141,18 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-09-13T20:22:39.865Z"
+          "isoDate": "2026-09-14T03:34:16.162Z"
+        },
+        {
+          "title": "Committee calls for bill to address AI threat to human rights",
+          "link": "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss",
+          "summary": "A cross-party group of MPs and peers identifies human rights risks that existing laws appear not to cover.",
+          "isoDate": "2026-09-14T03:23:54.000Z"
         },
         {
           "title": "Trump downplays warnings of AI risks, citing rivalry with China",
           "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-          "summary": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\".",
+          "summary": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\".",
           "isoDate": "2026-09-13T18:49:37.000Z"
         },
         {
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.co.uk/news/videos/c5yjk63ww1ro?at_medium=RSS&at_campaign=rss",
           "summary": "Comedian Garrett Millerick has created an AI avatar based on his own material. Is it any good?",
           "isoDate": "2026-09-11T12:49:30.000Z"
-        },
-        {
-          "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
-          "link": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
-          "summary": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
-          "isoDate": "2026-09-11T08:15:25.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-09-13T20:22:41.848Z"
+          "isoDate": "2026-09-14T03:34:17.962Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-09-13T20:22:41.009Z"
+          "isoDate": "2026-09-14T03:34:17.091Z"
         },
         {
           "title": "IEEE to Reward Sections for High Voter Turnout in Annual Election",
@@ -324,12 +324,57 @@
       "maxItems": 120,
       "items": [
         {
-          "title": "RESULTADOS (EN DIRECTO)",
+          "title": "RESULTADOS (ÚLTIMOS)",
           "link": "",
           "summary": ""
         },
         {
-          "title": "REA  0-0  ATL",
+          "title": "REA  0-3  ATL",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "GET  1-1  DEP",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "LEV  2-4  BAR",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "CEL  1-1  MÁL",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "REA  4-1  RAY",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "ATH  1-1  ELC",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "OSA  0-2  ESP",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "SAN  2-1  ALA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "SEV  1-0  VAL",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "ELC  2-3  REA",
           "link": "",
           "summary": ""
         },
@@ -359,47 +404,47 @@
           "summary": ""
         },
         {
-          "title": " 4  SEV   5   3  1  1   8   6   2  10",
+          "title": " 4  ATL   5   3  1  1  10   6   4  10",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 5  DEP   5   2  3  0   9   6   3   9",
+          "title": " 5  SEV   5   3  1  1   8   6   2  10",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 6  REA   4   3  0  1   5   5   0   9",
+          "title": " 6  DEP   5   2  3  0   9   6   3   9",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 7  ATL   5   2  2  1   7   6   1   8",
+          "title": " 7  REA   4   3  0  1   5   5   0   9",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 8  REA   6   2  2  2   6   8  -2   8",
+          "title": " 8  ESP   5   2  1  2   8   5   3   7",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 9  ESP   5   2  1  2   8   5   3   7",
+          "title": " 9  ATH   5   2  1  2   7   6   1   7",
           "link": "",
           "summary": ""
         },
         {
-          "title": "10  ATH   5   2  1  2   7   6   1   7",
+          "title": "10  SAN   5   2  1  2   9   9   0   7",
           "link": "",
           "summary": ""
         },
         {
-          "title": "11  SAN   5   2  1  2   9   9   0   7",
+          "title": "11  OSA   5   2  1  2   5   8  -3   7",
           "link": "",
           "summary": ""
         },
         {
-          "title": "12  OSA   5   2  1  2   5   8  -3   7",
+          "title": "12  REA   6   2  1  3   6  11  -5   7",
           "link": "",
           "summary": ""
         },
