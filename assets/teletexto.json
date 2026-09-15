@@ -1,10 +1,46 @@
 {
-  "generatedAt": "2026-09-15T03:35:12.053Z",
+  "generatedAt": "2026-09-15T11:10:00.069Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "GM updates its trucks’ native software to coexist with CarPlay",
+          "link": "https://www.theverge.com/transportation/994875/gm-chevy-gmc-truck-software-ui-carplay-android-auto",
+          "summary": "General Motors is polishing up the software experience in its bestselling trucks in an effort to reduce the amount of dangerous tapping and swiping that's required to access the most-used controls. It's also giving Apple CarPlay and Android Auto spiffy new picture-in-picture displays - which is notable given GM's previously stated hostility to phone mirroring in its electric vehicles.\nWhen the next-generation interface makes its debut on the 2027 Chevrolet Silverado 1500 and 2027 GMC Sierra 1500 later this year, vehicle owners will see a number of changes, including slick new graphics for its advanced driver-assist system, animated transiti …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-15T11:00:00.000Z"
+        },
+        {
+          "title": "What must happen for AI’s trillion-dollar gamble to pay off",
+          "link": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
+          "summary": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertainties. So she started with what she calls a “remarkable fact” that is not in question: A handful of so-called…",
+          "isoDate": "2026-09-15T10:00:00.000Z"
+        },
+        {
+          "title": "Microsoft issues emergency Windows 11 update to fix its record-breaking patch",
+          "link": "https://www.theverge.com/news/995302/microsoft-out-of-band-windows-11-update-fix-issues",
+          "summary": "Microsoft has started rolling out an emergency out-of-band update to fix problems with its record-breaking September patch Tuesday update. The software giant patched nearly 1,000 flaws in its biggest update ever this month, but it also introduced some bugs that have affected businesses, developers, and gamers.\nThe September patch Tuesday affected folder shares on Hyper-V-based Linux virtual machines, Remote Desktop Services sessions, and some USB audio devices. Microsoft's out-of-band update, released yesterday, addresses these issues across Windows 11 versions 26h1, 25H2, and 24H2. Microsoft has also released updates for Windows Server 202 …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-15T08:54:48.000Z"
+        },
+        {
+          "title": "Volvo increases the batteries for 2028 XC60 and XC90 plug-in refresh",
+          "link": "https://arstechnica.com/cars/2026/09/volvo-bigs-up-the-batteries-for-2028-xc60-and-xc90-plug-in-refresh/",
+          "summary": "The refreshed Volvos also get new infotainment systems with Gemini onboard.",
+          "isoDate": "2026-09-15T07:00:30.000Z"
+        },
+        {
+          "title": "Volvo’s plug-in hybrid XC60 and XC90 can really go the distance",
+          "link": "https://www.theverge.com/transportation/994792/volvo-xc60-xc90-phev-longest-electric-range",
+          "summary": "Most plug-in hybrid electric vehicles (PHEV) today get an average of around 30-50 miles of battery-only range: decent, but not mind-blowing. With hybrid sales dominating the market today, Volvo is out to prove that its PHEVs can push the limits of what's possible.\nToday, the Swedish automaker revealed the updated PHEV versions of its popular XC60 and XC90 SUVs are its first \"long range plug-in hybrids,\" delivering class-leading ranges of 78 miles and 73 miles, respectively. That's more than double the electric range of previous PHEV variant. The numbers are still preliminary and based on EPA testing standards. But if confirmed, they would m …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-15T07:00:00.000Z"
+        },
+        {
+          "title": "For the first time, the US military confirms it has deployed weapons in orbit",
+          "link": "https://arstechnica.com/space/2026/09/for-the-first-time-the-us-military-confirms-it-has-deployed-weapons-in-orbit/",
+          "summary": "\"The United States now has on-orbit space control weapons capable of defending the joint force.\"",
+          "isoDate": "2026-09-15T03:47:36.000Z"
+        },
         {
           "title": "Valve is still figuring out ‘how and when’ to do Steam Deck 2",
           "link": "https://www.theverge.com/games/995256/valve-steam-deck-2-how-and-when",
@@ -28,42 +64,6 @@
           "link": "https://arstechnica.com/health/2026/09/rfk-jr-headlines-sold-out-anti-vaccine-conference-alongside-andrew-wakefield/",
           "summary": "The event is hosted by Kennedy's anti-vaccine group Children's Health Defense.",
           "isoDate": "2026-09-14T22:06:24.000Z"
-        },
-        {
-          "title": "Rocket Lab is seeing red about NASA's decision on a Mars spacecraft",
-          "link": "https://arstechnica.com/space/2026/09/rocket-lab-is-seeing-red-about-nasas-decision-on-a-mars-spacecraft/",
-          "summary": "\"NASA’s award decision appears to be inconsistent with the eligibility criteria.\"",
-          "isoDate": "2026-09-14T21:32:22.000Z"
-        },
-        {
-          "title": "What execs and politicians are saying about slowing down AI development",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
-          "summary": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development should be slowed down. Other AI leaders and politicians are speaking out in favor of or opposing his points, and we've compiled some of them here.\nAnthropic CEO Dario Amodei\nAmodei's Saturday morning essay outlined three steps for pacing AI development: embedded third-party evaluators that can verify if a company is adhering to safety practices and commitments and report incidents, coordination between frontier AI companies in democratic countries on standards and li …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-14T21:21:42.000Z"
-        },
-        {
-          "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
-          "link": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
-          "summary": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”",
-          "isoDate": "2026-09-14T21:04:32.000Z"
-        },
-        {
-          "title": "Trump throws out power plant climate pollution rules",
-          "link": "https://www.theverge.com/news/995051/epa-power-plant-climate-pollution-rollback-ai-data-centers",
-          "summary": "The Environmental Protection Agency announced its plans today to kill any remaining standards on how much greenhouse gas pollution power plants are allowed to emit in the US. The move will only make electricity dirtier as AI, electric vehicles, and a revival of domestic manufacturing drive up power demand. \nThe EPA's proposal today is a major escalation of President Donald Trump's efforts to promote fossil fuels while making it easier to build out energy-hungry data centers. Environmental and consumer advocates, meanwhile, are fighting back - arguing that Trump's deregulation spree comes with higher costs for the environment, public health, …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-14T20:45:00.000Z"
-        },
-        {
-          "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
-          "link": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
-          "summary": "NVIDIA CEO Jensen Huang speaks during the G20 Innovation Ministerial in Chapel Hill, North Carolina, on September 2, 2026. (Photo by Matt RAMEY / AFP via Getty Images) | AFP via Getty Images\t\n\nNvidia CEO Jensen Huang took a call from President Trump on Monday while onstage at the All-In Podcast's All-In Summit. It's not the first time Huang has taken a call from the president during work, but this time he put Trump on speakerphone before a big crowd. \nDuring the call, the president launched into his take on recent fears about AI development, which he called a \"hoax,\" and told the crowd that \"the robots will not be taking over.\" \nIt's already a frothy week for AI news. The call with the president followed Anthropic CEO Dario Amodei's long essay published this weekend titled \"We Must Pace the Frontier\" where he argued for slowing  …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-14T20:03:37.000Z"
-        },
-        {
-          "title": "Valve&#8217;s virtual reality plans hit actual reality",
-          "link": "https://www.theverge.com/tech/995055/valve-steam-frame-price-ram-impact",
-          "summary": "The Steam Frame headset is here, and it may not surprise you: it was supposed to cost less than $1,059. \"We set out to come out with a device that would have been far more affordable, but the global RAM market, the global storage market have impacted us the same way they've impacted everybody,\" Valve developer Jeremy Selan told the BBC. \"We fought hard to get it even to this price.\"\nI haven't yet seen Valve say whether it's selling the Steam Frame at cost, like the company confirmed it was doing with the $1,049 Steam Machine living room PC. But Valve developer Pierre-Loup Griffais hinted maybe so in an interview with Tom's Hardware: \"there' …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-14T19:48:06.000Z"
         }
       ]
     },
@@ -72,64 +72,64 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "APOD: 2026 September 15 – A Daytime Eclipse: Moon Occults Venus",
+          "link": "https://science.nasa.gov/image-article/apod-2026-september-15-a-daytime-eclipse-moon-occults-venus/",
+          "summary": "APOD Science APOD APOD: 2026 September 15 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Daytime […]",
+          "isoDate": "2026-09-15T04:05:00.000Z"
+        },
+        {
+          "title": "Author Correction: Erythropoietin receptor on cDC1s dictates immune tolerance",
+          "link": "https://www.nature.com/articles/s41586-026-11137-8",
+          "summary": "Nature, Published online: 15 September 2026; doi:10.1038/s41586-026-11137-8\nAuthor Correction: Erythropoietin receptor on cDC1s dictates immune tolerance",
+          "isoDate": "2026-09-15T00:00:00.000Z"
+        },
+        {
+          "title": "A wake-up call: diversify global research funding",
+          "link": "https://www.nature.com/articles/d41586-026-02904-8",
+          "summary": "Nature, Published online: 15 September 2026; doi:10.1038/d41586-026-02904-8\nA wake-up call: diversify global research funding",
+          "isoDate": "2026-09-15T00:00:00.000Z"
+        },
+        {
+          "title": "Why Nepal floods resulted in a disaster even after satellites spotted danger",
+          "link": "https://www.nature.com/articles/d41586-026-02907-5",
+          "summary": "Nature, Published online: 15 September 2026; doi:10.1038/d41586-026-02907-5\nWhy Nepal floods resulted in a disaster even after satellites spotted danger",
+          "isoDate": "2026-09-15T00:00:00.000Z"
+        },
+        {
+          "title": "Make AI traceable before it shapes global climate assessments",
+          "link": "https://www.nature.com/articles/d41586-026-02905-7",
+          "summary": "Nature, Published online: 15 September 2026; doi:10.1038/d41586-026-02905-7\nMake AI traceable before it shapes global climate assessments",
+          "isoDate": "2026-09-15T00:00:00.000Z"
+        },
+        {
+          "title": "Why the NIH must resist the metrics trap",
+          "link": "https://www.nature.com/articles/d41586-026-02906-6",
+          "summary": "Nature, Published online: 15 September 2026; doi:10.1038/d41586-026-02906-6\nWhy the NIH must resist the metrics trap",
+          "isoDate": "2026-09-15T00:00:00.000Z"
+        },
+        {
+          "title": "CRISPR crops are coming to Europe — why bolder would be better",
+          "link": "https://www.nature.com/articles/d41586-026-02848-z",
+          "summary": "Nature, Published online: 15 September 2026; doi:10.1038/d41586-026-02848-z\nFor farmers and consumers to reap the benefits, guidelines for farming gene-edited plants must be implemented with careful thought.",
+          "isoDate": "2026-09-15T00:00:00.000Z"
+        },
+        {
+          "title": "Underground hydrogen could spur a green-energy revolution — if companies can find it",
+          "link": "https://www.nature.com/articles/d41586-026-02850-5",
+          "summary": "Nature, Published online: 15 September 2026; doi:10.1038/d41586-026-02850-5\nFirms are racing to drill for hydrogen in hopes of finding a dirt-cheap green-energy source.",
+          "isoDate": "2026-09-15T00:00:00.000Z"
+        },
+        {
+          "title": "Cities and countryside are intimately linked — green initiatives must recognize that",
+          "link": "https://www.nature.com/articles/d41586-026-02853-2",
+          "summary": "Nature, Published online: 15 September 2026; doi:10.1038/d41586-026-02853-2\nUrban areas depend on resources from the land that surrounds them. Managing regions in their entirety is the best way to avoid rural decline.",
+          "isoDate": "2026-09-15T00:00:00.000Z"
+        },
+        {
           "title": "Webinar 9/23: NASA CSDA Program Update 2026",
           "link": "https://science.nasa.gov/science-research/earth-science/webinar-9-23-nasa-csda-program-update-2026/",
           "summary": "This webinar will provide an overview of the CSDA program’s goals and activities, including the new Cal/Val initiative, and more.",
           "isoDate": "2026-09-14T21:04:04.000Z"
-        },
-        {
-          "title": "New Crops, Health Research Proposals to Help NASA Advance Exploration",
-          "link": "https://science.nasa.gov/science-research/biological-physical-sciences/new-crops-health-research-proposals-to-help-nasa-advance-exploration/",
-          "summary": "NASA has selected 12 new investigations to help support human explorers in space. Six will help advance the ability to produce food off-planet, while another six advance the understanding of how unique conditions associated with space exploration can impact the health and physiology of astronauts.   The six food-focused investigations, supported by the agency’s Space […]",
-          "isoDate": "2026-09-14T19:00:00.000Z"
-        },
-        {
-          "title": "NASA Welcomes Djibouti as Newest Artemis Accords Signatory  ",
-          "link": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-djibouti-as-newest-artemis-accords-signatory/",
-          "summary": "The Republic of Djibouti became the 72nd nation and eighth African country to sign the Artemis Accords during a ceremony Monday at NASA Headquarters in Washington. The Artemis Accords are the first set of practical principles aimed at enhancing transparency, safety, and coordination among nations as they explore the Moon, Mars, and beyond. “Djibouti joins […]",
-          "isoDate": "2026-09-14T16:46:07.000Z"
-        },
-        {
-          "title": "NASA Kicks Off Inspiration Tour with Steelers vs. Falcons Game",
-          "link": "https://www.nasa.gov/image-article/nasa-kicks-off-inspiration-tour-with-steelers-vs-falcons-game/",
-          "summary": "Fans pose for a photo with an astronaut in the NASA Experience Zone at an NFL game between the Pittsburgh Steelers and the Atlanta Falcons at Acrisure Stadium, Sunday, Sept. 13, 2026, in Pittsburgh, Pennsylvania. NASA’s engagement at NFL games is part of the agency’s Inspiration Tour, aimed at strengthening connections between NASA and its […]",
-          "isoDate": "2026-09-14T16:00:11.000Z"
-        },
-        {
-          "title": "Summer Training: Catching Up With NASA’s Astronaut Candidates",
-          "link": "https://www.nasa.gov/centers-and-facilities/johnson/summer-training-catching-up-with-nasas-astronaut-candidates/",
-          "summary": "Did you spend part of your summer camping, hiking, at the pool, or in an aircraft? So did NASA’s 2025 Astronaut Candidate Class. The 10 candidates have been working their way through a comprehensive and rigorous training program since the agency introduced them to the public on Sept. 22, 2025, from NASA’s Johnson Space Center […]",
-          "isoDate": "2026-09-14T15:00:00.000Z"
-        },
-        {
-          "title": "APOD: 2026 September 14 – Where Your Elements Came From",
-          "link": "https://science.nasa.gov/image-article/apod-2026-september-14-where-your-elements-came-from/",
-          "summary": "APODScienceAPODAPOD: 2026 September 14 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Where Your Elements Came From Explanation: The hydrogen in your body and present in every molecule of […]",
-          "isoDate": "2026-09-14T04:05:00.000Z"
-        },
-        {
-          "title": "An Early Look at Fall Color in Canada",
-          "link": "https://science.nasa.gov/earth/earth-observatory/an-early-look-at-fall-color-in-canada/",
-          "summary": "Reds, yellows, and oranges are already sweeping across tundra landscapes in Nunavut.",
-          "isoDate": "2026-09-14T04:00:00.000Z"
-        },
-        {
-          "title": "Encoded and non-genetic protein variants expand human functional proteome",
-          "link": "https://www.nature.com/articles/s41586-026-11124-z",
-          "summary": "Nature, Published online: 14 September 2026; doi:10.1038/s41586-026-11124-z\nEncoded and non-genetic protein variants expand human functional proteome",
-          "isoDate": "2026-09-14T00:00:00.000Z"
-        },
-        {
-          "title": "The roots of astrology, the mysterious nature of time and more: Books in brief",
-          "link": "https://www.nature.com/articles/d41586-026-02908-4",
-          "summary": "Nature, Published online: 14 September 2026; doi:10.1038/d41586-026-02908-4\nAndrew Robinson reviews five of the best science picks.",
-          "isoDate": "2026-09-14T00:00:00.000Z"
-        },
-        {
-          "title": "How is climate change affecting conifers and their ability to sequester carbon?",
-          "link": "https://www.nature.com/articles/d41586-026-02847-0",
-          "summary": "Nature, Published online: 14 September 2026; doi:10.1038/d41586-026-02847-0\nFresh evidence reveals that the interplay of several factors could affect the ability of these trees to grow.",
-          "isoDate": "2026-09-14T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-09-15T03:35:08.407Z"
+          "isoDate": "2026-09-15T11:09:55.489Z"
         },
         {
           "title": "Pubs in England and Wales to allow digital ID apps to prove age",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-09-15T03:35:10.819Z"
+          "isoDate": "2026-09-15T11:09:59.033Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-09-15T03:35:09.687Z"
+          "isoDate": "2026-09-15T11:09:56.799Z"
         },
         {
           "title": "Countries Seek to Curb Social Media Addiction for Kids",
