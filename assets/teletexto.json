@@ -1,15 +1,51 @@
 {
-  "generatedAt": "2026-09-14T21:32:14.782Z",
+  "generatedAt": "2026-09-15T03:35:12.053Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
         {
+          "title": "Valve is still figuring out ‘how and when’ to do Steam Deck 2",
+          "link": "https://www.theverge.com/games/995256/valve-steam-deck-2-how-and-when",
+          "summary": "Now that Valve has finally launched its entire 2026 hardware lineup - the Steam Controller, the Steam Machine, and today's Steam Frame - are we any closer to a next-gen Steam Deck handheld? Valve isn't saying so yet. The company is figuring out \"how and when we can deliver something like that,\" Valve designer Pierre-Loup Griffais now tells IGN.\nValve has been clear for years that 1) a Steam Deck 2 will indeed happen, and 2) it's not coming until Valve finds the right chip. The original Steam Deck worked because it delivered the right combination of price, performance, and battery life, and Valve has repeatedly said it won't sacrifice effici …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-15T00:13:47.000Z"
+        },
+        {
+          "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+          "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans had declared that their aim was to \"pace the frontier,\" signing on at least partially to a proposal for embedding third-party auditors, regulating domestic labs, and reaching a global slowdown agreement. Their critics, however, argued they simply wanted to stop would-be competitors, kneecap the open-source movement, and avoid real legal safeguards - some dubbed it an outright \"cartel.\" \nThe truth  …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-14T22:59:41.000Z"
+        },
+        {
+          "title": "Apple Home’s new security camera features cost as much as $60 a month",
+          "link": "https://www.theverge.com/tech/994949/apple-intelligence-apple-home-icloud-plus-cost-subscription",
+          "summary": "New Apple Intelligence features for HomeKit cameras start at $10 a month and go up to $60. | Image: The Verge\t\n\nWith the public release of iOS 27 and tvOS 27, Apple Home is getting an injection of Apple Intelligence - but you'll have to pay more for it.\nApple Intelligence for Home brings AI-powered video summaries to HomeKit Secure Video, so you can get short text descriptions of who and what compatible security cameras saw, along with the clip. It also adds a new video search feature and the ability to stitch footage from multiple cameras into one clip, making it easier to keep an eye on what's happening around your home without scrolling through footage.\nBut to get these features, you'll need to pay $9.99 a month for the 2TB iCloud Plus plan (or $ …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-14T22:28:52.000Z"
+        },
+        {
+          "title": "RFK Jr. headlines sold-out anti-vaccine conference alongside Andrew Wakefield",
+          "link": "https://arstechnica.com/health/2026/09/rfk-jr-headlines-sold-out-anti-vaccine-conference-alongside-andrew-wakefield/",
+          "summary": "The event is hosted by Kennedy's anti-vaccine group Children's Health Defense.",
+          "isoDate": "2026-09-14T22:06:24.000Z"
+        },
+        {
+          "title": "Rocket Lab is seeing red about NASA's decision on a Mars spacecraft",
+          "link": "https://arstechnica.com/space/2026/09/rocket-lab-is-seeing-red-about-nasas-decision-on-a-mars-spacecraft/",
+          "summary": "\"NASA’s award decision appears to be inconsistent with the eligibility criteria.\"",
+          "isoDate": "2026-09-14T21:32:22.000Z"
+        },
+        {
           "title": "What execs and politicians are saying about slowing down AI development",
           "link": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
           "summary": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development should be slowed down. Other AI leaders and politicians are speaking out in favor of or opposing his points, and we've compiled some of them here.\nAnthropic CEO Dario Amodei\nAmodei's Saturday morning essay outlined three steps for pacing AI development: embedded third-party evaluators that can verify if a company is adhering to safety practices and commitments and report incidents, coordination between frontier AI companies in democratic countries on standards and li …\nRead the full story at The Verge.",
           "isoDate": "2026-09-14T21:21:42.000Z"
+        },
+        {
+          "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+          "link": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+          "summary": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”",
+          "isoDate": "2026-09-14T21:04:32.000Z"
         },
         {
           "title": "Trump throws out power plant climate pollution rules",
@@ -28,42 +64,6 @@
           "link": "https://www.theverge.com/tech/995055/valve-steam-frame-price-ram-impact",
           "summary": "The Steam Frame headset is here, and it may not surprise you: it was supposed to cost less than $1,059. \"We set out to come out with a device that would have been far more affordable, but the global RAM market, the global storage market have impacted us the same way they've impacted everybody,\" Valve developer Jeremy Selan told the BBC. \"We fought hard to get it even to this price.\"\nI haven't yet seen Valve say whether it's selling the Steam Frame at cost, like the company confirmed it was doing with the $1,049 Steam Machine living room PC. But Valve developer Pierre-Loup Griffais hinted maybe so in an interview with Tom's Hardware: \"there' …\nRead the full story at The Verge.",
           "isoDate": "2026-09-14T19:48:06.000Z"
-        },
-        {
-          "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
-          "link": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
-          "summary": "Musk stops attacking Apple over ChatGPT integration but not OpenAI.",
-          "isoDate": "2026-09-14T19:45:13.000Z"
-        },
-        {
-          "title": "Founder’s cost-cutting obsession drove Unitree lead in cheap humanoid robots",
-          "link": "https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/",
-          "summary": "Wang Xingxing micromanaged Unitree to success—will his leadership style scale?",
-          "isoDate": "2026-09-14T19:38:46.000Z"
-        },
-        {
-          "title": "The best deals from Nintendo’s ‘customer appreciation’ sale",
-          "link": "https://www.theverge.com/gadgets/994892/nintendo-customer-appreciation-tariff-refund-deal-sale",
-          "summary": "Super Mario Odyssey is among the discounted games. | Image: Nintendo\t\n\nAs promised, Nintendo has marked down a wide variety of Switch games and accessories at Amazon, Best Buy, and Walmart, as well as its own digital storefront. Its “Customer Appreciation” sale is happening because of tariff-related refunds it received from the US government, and it ends on September 26th at 8:59 PM PT.\nNintendo games and accessories tend to stick close to their list price, so it’s nice to have some big discounts, especially this far ahead of the holiday season. Some of the company’s best titles for the original Switch are significantly marked down, with a few Switch 2 titles thrown in, too. The most notable inclusions include the Mario Kart 8 Deluxe digital bundle with the Booster Course pass for just under $60 (Amazon, Nintendo), The Legend of Zelda: Tears of the Kingdom for $49 (Amazon, Nintendo, Best Buy), and Animal Crossing: New Horizons with the DLC for $60 (Nintendo). The Switch 2 Editions aren’t currently discounted, but upgrade packs are fairly affordable, costing $9.99 for the Tears of the Kingdom (Amazon) or $4.99 for Animal Crossing: New Horizons (Amazon).\nWe’ve gathered some more of our favorite picks down below, and Nintendo has a dedicated page for all of the discounts.\nThe Legend of Zelda: Tears of the Kingdom (Physical)\nTears of the Kingdom is the latest mainline installment in the Zelda franchise. The storyline and gameplay are similar to Breath of the Wild’s, but enough has changed to make Link’s return to Hyrule plenty special. Read our review.\n\nWhere to Buy:\n\n $69.99 $48.99 at Best Buy\n $69.99 $48.99 at Target\n\nMario Kart 8 Deluxe (Physical)\nMario Kart 8 Deluxe is a popular kart racing game packed with plenty of courses and characters, as well as 48 new tracks if you opt for the paid DLC. \n\nWhere to Buy:\n\n $59.99 $41.99 at Best Buy\n\nNintendo Alarmo\nThe Alarmo takes dozens of characters and scenes from classic Nintendo franchises and places them in a charming alarm clock that’s designed to help you sleep and wake. It uses motion sensors to detect whether you’re still in bed and gets more aggressive the longer you sleep in.\n\nWhere to Buy:\n\n $99.99 $76.99 at Best Buy\n $99.99 $76.99 at Nintendo\n\nNintendo Switch Pro Controller\nThe Switch Pro released alongside the Switch console in 2017, and it’s a tough controller to beat. It offers an unmatched set of features (HD rumble, motion controls, NFC), and it’s one of the most comfortable Switch controllers out there.\n\nWhere to Buy:\n\n $69.99 $55.97 at Amazon\n $69.99 $55.97 at Walmart\n $69.99 $55.99 at Best Buy\n\nMetroid Prime 4: Beyond (Physical)\nMetroid Prime 4 is still a first-person adventure game like prior entries in the series, but this time around, bounty hunter Samus Aran is armed with a motorcycle and a slate of psychic powers. Not all of the new gameplay elements work, but Beyond is a fitting follow-up to what came before, with a lore-heavy story, great combat, and plenty of eerie exploration.\n\nWhere to Buy:\n\n $59.88 $41.97 at Amazon (Switch)\n $59.99 $41.99 at Best Buy (Nintendo Switch)\n $69 $50.99 at Amazon (Switch 2)\n\nKirby and the Forgotten Land (Digital)\nExplore the mysteries of an abandoned civilization in this 3D platformer for the Nintendo Switch. It’s still a Kirby game, with a delightful tone that had us smiling the whole way through. Read our review.\n\nWhere to Buy:\n\n $59.99 $41.97 at Amazon\n $59.99 $41.99 at Best Buy\n\nSuper Mario Odyssey (Physical)\nSuper Mario Odyssey is one of the crowning achievements of the original Switch thanks to its tight platforming, ingenious level design and a game mechanic that lets you control certain enemies and parts of the environment. There are still bosses to battle and coins to collect, but Odyssey feels like a breath of fresh air.\n\nWhere to Buy:\n\n $59.99 $41.97 at Walmart\n $59.99 $41.99 at Best Buy\n $59.99 $41.99 at Target\n\nSplatoon 3 (Physical/Digital)\nSplatoon 3 is proof that Nintendo isn’t done showing off its take on an online shooter—with paint instead of bullets, of course. The game looks great, and has a single player mode that fills out the series’ lore through scrapbook pages you find while navigating and shooting your way through each level. Online multiplayer remains Splatoon’s 3’s big draw, so be prepared to square off against fellow squid kids. Read our review.\n\nWhere to Buy:\n\n $59.99 $41.97 at Amazon\n $59.99 $41.99 at Best Buy\n $59.99 $50.99 at Target",
-          "isoDate": "2026-09-14T19:30:58.000Z"
-        },
-        {
-          "title": "Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements",
-          "link": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/",
-          "summary": "This is also the last version of macOS to support Rosetta for Intel apps.",
-          "isoDate": "2026-09-14T19:28:42.000Z"
-        },
-        {
-          "title": "AI leaders want to hit the brakes after years of reckless speed",
-          "link": "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/",
-          "summary": "Safety is the watchword, but there could be ulterior benefits for the industry.",
-          "isoDate": "2026-09-14T19:06:13.000Z"
-        },
-        {
-          "title": "Online hate researcher keeps hammering X despite deportation threat",
-          "link": "https://arstechnica.com/tech-policy/2026/09/online-hate-researcher-keeps-hammering-x-despite-deportation-threat/",
-          "summary": "US won’t back down from fight to deport technology researchers.",
-          "isoDate": "2026-09-14T18:24:09.000Z"
         }
       ]
     },
@@ -71,6 +71,12 @@
       "header": "120  CIENCIA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Webinar 9/23: NASA CSDA Program Update 2026",
+          "link": "https://science.nasa.gov/science-research/earth-science/webinar-9-23-nasa-csda-program-update-2026/",
+          "summary": "This webinar will provide an overview of the CSDA program’s goals and activities, including the new Cal/Val initiative, and more.",
+          "isoDate": "2026-09-14T21:04:04.000Z"
+        },
         {
           "title": "New Crops, Health Research Proposals to Help NASA Advance Exploration",
           "link": "https://science.nasa.gov/science-research/biological-physical-sciences/new-crops-health-research-proposals-to-help-nasa-advance-exploration/",
@@ -124,12 +130,6 @@
           "link": "https://www.nature.com/articles/d41586-026-02847-0",
           "summary": "Nature, Published online: 14 September 2026; doi:10.1038/d41586-026-02847-0\nFresh evidence reveals that the interplay of several factors could affect the ability of these trees to grow.",
           "isoDate": "2026-09-14T00:00:00.000Z"
-        },
-        {
-          "title": "The pet trade puts reptiles and amphibians at risk: close legal gaps now",
-          "link": "https://www.nature.com/articles/d41586-026-02852-3",
-          "summary": "Nature, Published online: 14 September 2026; doi:10.1038/d41586-026-02852-3\nPatchy legislation means that animals are routinely taken from their natural habitats and sold in other countries. Fresh national and international measures could help to stop this exploitation.",
-          "isoDate": "2026-09-14T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-09-14T21:32:11.939Z"
+          "isoDate": "2026-09-15T03:35:08.407Z"
+        },
+        {
+          "title": "Pubs in England and Wales to allow digital ID apps to prove age",
+          "link": "https://www.bbc.co.uk/news/articles/cm4gl6j53w19o?at_medium=RSS&at_campaign=rss",
+          "summary": "New rules introduced on Tuesday mean establishments will be able to accept digital ID apps alongside physical documents.",
+          "isoDate": "2026-09-14T23:07:56.000Z"
         },
         {
           "title": "Valve's Steam Frame is excellent - but at over £1,000 is VR still too expensive?",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.co.uk/iplayer/episode/m0031qjy?at_medium=RSS&at_campaign=rss",
           "summary": "Shiona McCallum meets mums and hospital staff trialling a new assisted birth innovation.",
           "isoDate": "2026-09-12T01:00:19.000Z"
-        },
-        {
-          "title": "PlayStation gambles with 18-rated Wolverine game - will it pay off?",
-          "link": "https://www.bbc.co.uk/news/articles/cy0zq2n9gggo?at_medium=RSS&at_campaign=rss",
-          "summary": "The BBC's Tom Gerken plays the hotly anticipated superhero game from Spider-Man makers Insomniac.",
-          "isoDate": "2026-09-12T00:35:50.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-09-14T21:32:14.152Z"
+          "isoDate": "2026-09-15T03:35:10.819Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-09-14T21:32:13.076Z"
+          "isoDate": "2026-09-15T03:35:09.687Z"
         },
         {
           "title": "Countries Seek to Curb Social Media Addiction for Kids",
