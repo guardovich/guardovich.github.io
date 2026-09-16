@@ -1,15 +1,45 @@
 {
-  "generatedAt": "2026-09-15T20:53:51.524Z",
+  "generatedAt": "2026-09-16T03:31:26.817Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
         {
+          "title": "The Boox Palma 3 gets stylus support and a sleek redesign",
+          "link": "https://www.theverge.com/tech/995826/boox-palma-3-e-ink-reader-pocket-smartphone-android-16",
+          "summary": "Nearly two years after the last update to Boox's smartphone-sized black-and-white e-reader, the company announced the Palma 3 with a sleek redesign, new functionality, and a handful of other small updates that may justify its significant price bump depending on how you plan to use it. While the Palma 2 launched in 2024 for $279.99, the Palma 3 will be $339.99 and is expected to be \"available soon.\"\nThe most obvious upgrade for the Palma 3 is the hardware itself. It still features the same 6.13-inch, 300ppi E Ink Carta screen as its predecessor (which is now quite a few years old), but it's wrapped in a new anodized aluminum frame with a pap …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-16T02:00:00.000Z"
+        },
+        {
+          "title": "The EOS R8 Mark II is Canon’s lightest full-frame camera with stabilization",
+          "link": "https://www.theverge.com/tech/995430/canon-eos-r8-mark-11-full-frame-digital-camera-pricing-availability",
+          "summary": "Canon announced the second-generation of its EOS R8 with a new retro-inspired redesign and the addition of in-body stabilization. That feature was one of the most notable omissions from the original R8 that launched in 2023 as a smaller, cheaper, and more accessible alternative to the Canon R6 Mark II for photographers wanting a larger full-frame shooter. While the new EOS R8 Mark II is slightly heavier than its predecessor at 1.2 pounds thanks to the additional stabilization functionality, it's lighter and cheaper than last year's EOS R6 Mark III.\nThe Canon EOS R8 Mark II is expected to be available sometime in late October for $1,899 for  …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-16T01:00:00.000Z"
+        },
+        {
+          "title": "AI and data centers are incredibly unpopular in every poll",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+          "summary": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular. Asked if they support or oppose the construction of data centers to power AI tech, 61 percent of the 1,503 likely voters surveyed in early September (ahead of the recent AI safety slowdown discussion) said they were opposed, with only 14 percent saying they strongly support. The split was about even among 2024 Donald Trump voters, at 49 percent support to 45 percent oppose, while people who had voted for Kamala Harris or who didn't vote leaned opp …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-15T23:34:25.000Z"
+        },
+        {
+          "title": "The Roman telescope has enough gas for 22 years, double NASA's expectations",
+          "link": "https://arstechnica.com/space/2026/09/the-roman-telescope-has-enough-gas-for-22-years-double-nasas-expectations/",
+          "summary": "The Nancy Grace Roman Space Telescope is the first NASA observatory designed for in-space refueling.",
+          "isoDate": "2026-09-15T22:26:32.000Z"
+        },
+        {
           "title": "Microsoft announces Windows and Surface event for October 7th",
           "link": "https://www.theverge.com/news/994714/microsoft-windows-surface-event-october-7-san-francisco",
           "summary": "It's been more than two years since the last major Windows event, so Microsoft is heading to San Francisco next month to outline the future of Windows and Surface devices. At an event on October 7th, the company says it will host a \"conversation on how local AI will shape the next chapter of the PC.\"\nMicrosoft CEO Satya Nadella will be in attendance, alongside Windows and Surface chief Pavan Davuluri. Even Nvidia CEO Jensen Huang will be appearing at the event, which suggests that RTX Spark PCs could be the main focus of this event. If that's the case, don't be surprised to hear more about the Microsoft Surface Laptop Ultra pricing and avai …\nRead the full story at The Verge.",
           "isoDate": "2026-09-15T20:36:59.000Z"
+        },
+        {
+          "title": "“Filmmaker” suing PassThePopcorn may be banned user out for revenge",
+          "link": "https://arstechnica.com/tech-policy/2026/09/filmmaker-suing-passthepopcorn-may-be-banned-user-out-for-revenge/",
+          "summary": "Allegedly fake filmmaker targeted trackers like PassThePopcorn, BroadcasTheNet, and HDBits.",
+          "isoDate": "2026-09-15T20:19:17.000Z"
         },
         {
           "title": "What if social media isn’t hurting kids?",
@@ -34,36 +64,6 @@
           "link": "https://www.theverge.com/transportation/995608/kia-pv7-electric-van-specs-sale",
           "summary": "You may not know it, but minivans are making a comeback in the US. Look around, and you'll start to notice an uptick in these breadboxes on wheels. Sales were up 21 percent in 2025, suggesting that the humble minivan is shaking off its \"uncool\" stigma and finding new fans among an SUV-weary public. I'm here for it.\nOne of the companies currently carrying the torch for minivans is Kia, which has sold its popular Carnival minivan here since 2021. Kia is also one of the few automakers making all-electric vans. This week, the Korean automaker rolled out its new PV7 at IAA Transportation in Germany. This is the second electric van from Kia's Pla …\nRead the full story at The Verge.",
           "isoDate": "2026-09-15T18:39:44.000Z"
-        },
-        {
-          "title": "Agility’s new humanoid robot will stop, squat to avoid harming human coworkers",
-          "link": "https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/",
-          "summary": "Robots can start working outside physical cages and without safety barriers.",
-          "isoDate": "2026-09-15T18:33:02.000Z"
-        },
-        {
-          "title": "Boston dumps Flock, says it shared data nationwide in violation of contract",
-          "link": "https://arstechnica.com/tech-policy/2026/09/boston-dumps-flock-says-it-shared-data-nationwide-in-violation-of-contract/",
-          "summary": "City: Flock enabled \"nationwide lookup\" despite contract requiring it to be disabled.",
-          "isoDate": "2026-09-15T18:14:11.000Z"
-        },
-        {
-          "title": "One of the best 3D printers for beginners is almost $100 off",
-          "link": "https://www.theverge.com/gadgets/995518/elegoo-3d-printer-switch-joy-con-deal-sale",
-          "summary": "The Centauri Carbon 2 stores the filament on the outside to fit the bowden tube in the build space. | Image: The Verge\t\n\nIf the high price tag of premium 3D printers have kept you from exploring the hobby, this deal is a great entry point. Elegoo has its Centauri Carbon 2 Combo on sale for $369, almost $100 off its usual price of $449. This capable 3D printer can handle four filament rolls at once, with a fully enclosed printing area, auto-leveling bed, and big touchscreen for easy project management. It’s altogether very capable 3D printer for beginners, or just anyone who doesn’t want to spend a lot of time tinkering with settings just to print occasional trinkets and brackets.\nElegoo Centauri Carbon 2 Combo\n\nWhere to Buy:\n\n $449 $369 at Elegoo\n\nThe Centauri Carbon 2 is fast and capable right out of the box, though first-time setup is a little involved (I found it tough to get the upper shield and filament hub to fit together, for example). But I really like its fully-enclosed build area, which results in consistent prints, and the auto-leveling bed checks that everything is locked in the right place before each print. It’s worth noting that the filament rolls are stored externally, so if you’re in a particularly humid environment and don’t print often, you may want to remove them between uses.\n\n\n  window.HYPE_DESK_CONFIG = {\n    productImageUrl: \"https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ChatGPT-Image-Sep-3-2026-10_19_50-AM.png\",\n    productImageAlt: \"HOTO Pulse 4-in-1 Cordless Stapler\",\n    productTitle: \"HOTO Pulse 4-in-1 Cordless Stapler\",\n    shortDescription: \"The stapler that tells you what it is doing.\",\n    longDescription:\n      \"Most staplers give you no information until the moment they fail. The HOTO Pulse tracks your remaining staples in real time, confirms when it is ready to fire, and handles four staple and nail types so one tool covers more of your projects. A built-in remover means quick fixes happen on the spot. Compact, lightweight, and genuinely useful.\",\n    purchaseUrl: \"https://www.amazon.com/dp/B0H74SXNTQ?&linkCode=ll2&tag=theverge02-20&linkId=186f55593bda58be43b5d716980c0045&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl\",\n    purchaseLinkText: \"Shop At Amazon\"\n  };\n\n\n\n\n\nOther deals to consider\nThe JBL Go 4 in purple is on sale for $15 off at B&H Photo for a limited time, bringing the price down to just $35 when the $5 coupon is applied in your cart. This very portable Bluetooth speaker is IP67-rated for water and dust resistance, with up to seven hours of playback on a single charge, and USB-C charging.\nNintendo has temporarily dropped the price on a variety of accessories as part of its “Customer Appreciation” sale, including the Switch Joy-Con. Amazon has the neon purple and orange pair on sale for $62.97, almost $30 lower than the list price. These work wirelessly with the Switch 2 as well, although you’ll need a dedicated charging dock.\nIf you’re running out of ports and plugs nearby, Anker’s Prime Charging Station is a great purchase to consider while it’s $59.99 (usually $79.99) at Amazon. This 6-in-1 travel-ready charging station has two AC outlets, two USB-A ports, and two USB-C ports (either tops out at 140W when it’s the only port in use). The included power cable is five feet long, and detaches from the unit for easier storage.",
-          "isoDate": "2026-09-15T18:02:30.000Z"
-        },
-        {
-          "title": "Demand for EV chargers is outstripping supply, says ChargePoint report",
-          "link": "https://arstechnica.com/cars/2026/09/ev-charging-infrastructure-is-still-lagging-adoption-report-says/",
-          "summary": "EV growth is happening, even in the US, and those EVs will need plugs to charge.",
-          "isoDate": "2026-09-15T17:58:09.000Z"
-        },
-        {
-          "title": "Roundtables: Could AI really kill us all?",
-          "link": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
-          "summary": "Listen to the session or watch below Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch a conversation unpacking AI extinction fears: where they come from, whether they hold any water, and, if so,…",
-          "isoDate": "2026-09-15T17:47:51.000Z"
         }
       ]
     },
@@ -72,40 +72,10 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "NASA Invites Media to International Observe the Moon Night",
-          "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-international-observe-the-moon-night/",
-          "summary": "NASA will host an International Observe the Moon Night celebration from 5:30 to 8 p.m. CST on Saturday, Sept. 19, at the U.S. Space & Rocket Center, the official visitor center for NASA’s Marshall Space Flight Center in Huntsville, Alabama. International Observe the Moon Night celebrates the Moon, the science behind it, and its connection […]",
-          "isoDate": "2026-09-15T18:55:33.000Z"
-        },
-        {
-          "title": "Celebrate International Observe the Moon Night with NASA",
-          "link": "https://www.nasa.gov/centers-and-facilities/goddard/celebrate-international-observe-the-moon-night-with-nasa/",
-          "summary": "In April, the world watched as four humans circled the Moon for the first time in over 50 years with NASA’s Artemis II mission. On Saturday, Sept. 19, the public is invited to look up again with NASA events across the country, including the International Observe the Moon Night celebration held at NASA’s Goddard Space […]",
-          "isoDate": "2026-09-15T16:15:12.000Z"
-        },
-        {
-          "title": "Artemis III Crew Visits NASA Kennedy’s Vehicle Assembly Building",
-          "link": "https://www.nasa.gov/image-article/artemis-iii-crew-visits-nasa-kennedys-vehicle-assembly-building/",
-          "summary": "NASA astronaut Randy Bresnik (left) and ESA (European Space Agency) astronaut Luca Parmitano view progress on the solid rocket booster integration in High Bay 3 inside the Vehicle Assembly Building at NASA’s Kennedy Space Center in Florida on Wednesday, Sept. 2, 2026. Bresnik, Parmitano, and NASA astronauts Andre Douglas, Frank Rubio, and Bob Hines made […]",
-          "isoDate": "2026-09-15T16:14:24.000Z"
-        },
-        {
-          "title": "NASA’s Webb Reveals Dynamic Panorama of Star Formation",
-          "link": "https://science.nasa.gov/missions/webb/nasas-webb-reveals-dynamic-panorama-of-star-formation/",
-          "summary": "This starry view of the nearby star-forming region IC 348 is one of the largest images released to date from NASA’s James Webb Space Telescope. Using Webb, astronomers searched IC 348 for brown dwarfs, which are less massive than the smallest stars. The researchers discovered brown dwarfs just twice the mass of Jupiter, bringing the […]",
-          "isoDate": "2026-09-15T14:00:00.000Z"
-        },
-        {
-          "title": "Travel",
-          "link": "https://www.nasa.gov/centers-and-facilities/nssc/travel/",
-          "summary": "The NSSC provides travel reimbursement services for all authorized Agency travel including: domestic, foreign, local, ETDY, and Change of Station (COS). References Federal Travel Regulations (FTR) Traveler Extended TDY and Taxes Domestic Per Diem Rates Foreign Per Diem Rates Change of Station NSSC Travel now has another way that a transferee Traveler may submit his […]",
-          "isoDate": "2026-09-15T13:38:56.000Z"
-        },
-        {
-          "title": "APOD: 2026 September 15 – A Daytime Eclipse: Moon Occults Venus",
-          "link": "https://science.nasa.gov/image-article/apod-2026-september-15-a-daytime-eclipse-moon-occults-venus/",
-          "summary": "APOD Science APOD APOD: 2026 September 15 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Daytime […]",
-          "isoDate": "2026-09-15T04:05:00.000Z"
+          "title": "ERROR cargando feed",
+          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
+          "isoDate": "2026-09-16T03:31:21.640Z"
         },
         {
           "title": "Quality control of glycogen through direct ubiquitylation by RNF213",
@@ -130,6 +100,36 @@
           "link": "https://www.nature.com/articles/d41586-026-02907-5",
           "summary": "Nature, Published online: 15 September 2026; doi:10.1038/d41586-026-02907-5\nWhy Nepal floods resulted in a disaster even after satellites spotted danger",
           "isoDate": "2026-09-15T00:00:00.000Z"
+        },
+        {
+          "title": "The geometric genius of René Descartes",
+          "link": "https://www.nature.com/articles/d41586-026-02723-x",
+          "summary": "Nature, Published online: 15 September 2026; doi:10.1038/d41586-026-02723-x\nThe achievements of a visionary mathematician, and a trip to the National Air and Space Museum in Washington DC, in this week’s pick from the Nature archive.",
+          "isoDate": "2026-09-15T00:00:00.000Z"
+        },
+        {
+          "title": "Make AI traceable before it shapes global climate assessments",
+          "link": "https://www.nature.com/articles/d41586-026-02905-7",
+          "summary": "Nature, Published online: 15 September 2026; doi:10.1038/d41586-026-02905-7\nMake AI traceable before it shapes global climate assessments",
+          "isoDate": "2026-09-15T00:00:00.000Z"
+        },
+        {
+          "title": "Why the NIH must resist the metrics trap",
+          "link": "https://www.nature.com/articles/d41586-026-02906-6",
+          "summary": "Nature, Published online: 15 September 2026; doi:10.1038/d41586-026-02906-6\nWhy the NIH must resist the metrics trap",
+          "isoDate": "2026-09-15T00:00:00.000Z"
+        },
+        {
+          "title": "Global inequality panel is a chance for research to change lives",
+          "link": "https://www.nature.com/articles/d41586-026-02885-8",
+          "summary": "Nature, Published online: 15 September 2026; doi:10.1038/d41586-026-02885-8\nThe scientific panel is welcomed. It must now invite all interested researchers to participate.",
+          "isoDate": "2026-09-15T00:00:00.000Z"
+        },
+        {
+          "title": "CRISPR crops are coming to Europe — why bolder would be better",
+          "link": "https://www.nature.com/articles/d41586-026-02848-z",
+          "summary": "Nature, Published online: 15 September 2026; doi:10.1038/d41586-026-02848-z\nFor farmers and consumers to reap the benefits, guidelines for farming gene-edited plants must be implemented with careful thought.",
+          "isoDate": "2026-09-15T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-09-15T20:53:48.984Z"
+          "isoDate": "2026-09-16T03:31:22.680Z"
+        },
+        {
+          "title": "OpenAI boss says world 'right to be afraid' but 'should trust' AI firms",
+          "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+          "summary": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
+          "isoDate": "2026-09-16T00:59:20.000Z"
+        },
+        {
+          "title": "AI app ads promoting 'objectification of women' banned by watchdog",
+          "link": "https://www.bbc.co.uk/news/articles/cmlyrn2n4zg5o?at_medium=RSS&at_campaign=rss",
+          "summary": "The ad regulator said it had \"zero-tolerance\" for ads promoting AI tools that could sexualise or objectify women.",
+          "isoDate": "2026-09-15T23:27:17.000Z"
         },
         {
           "title": "Tech Life",
@@ -184,18 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
           "summary": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
           "isoDate": "2026-09-13T18:20:22.000Z"
-        },
-        {
-          "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
-          "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
-          "summary": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
-          "isoDate": "2026-09-13T14:53:40.000Z"
-        },
-        {
-          "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-          "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-          "summary": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
-          "isoDate": "2026-09-12T21:16:47.000Z"
         }
       ]
     },
@@ -272,14 +272,14 @@
         {
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
-          "summary": "Invalid character in entity name\nLine: 83\nColumn: 559\nChar:  ",
-          "isoDate": "2026-09-15T20:53:50.952Z"
+          "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
+          "isoDate": "2026-09-16T03:31:26.212Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-09-15T20:53:50.076Z"
+          "isoDate": "2026-09-16T03:31:23.856Z"
         },
         {
           "title": "The AI Inference Revolution Is Here",
@@ -324,12 +324,57 @@
       "maxItems": 120,
       "items": [
         {
-          "title": "RESULTADOS (EN DIRECTO)",
+          "title": "RESULTADOS (ÚLTIMOS)",
           "link": "",
           "summary": ""
         },
         {
-          "title": "ELC  0-2  REA",
+          "title": "ELC  2-3  REA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "ALA  0-1  VAL",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "RAY  2-1  ESP",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "VIL  1-2  REA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "REA  0-3  ATL",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "GET  1-1  DEP",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "LEV  2-4  BAR",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "CEL  1-1  MÁL",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "REA  4-1  RAY",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "ATH  1-1  ELC",
           "link": "",
           "summary": ""
         },
@@ -349,7 +394,7 @@
           "summary": ""
         },
         {
-          "title": " 2  REA   6   5  0  1  16   4  12  15",
+          "title": " 2  REA   6   5  0  1  17   6  11  15",
           "link": "",
           "summary": ""
         },
@@ -439,7 +484,7 @@
           "summary": ""
         },
         {
-          "title": "20  ELC   6   0  2  4   6  15  -9   2",
+          "title": "20  ELC   6   0  2  4   8  16  -8   2",
           "link": "",
           "summary": ""
         }
