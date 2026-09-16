@@ -1,69 +1,69 @@
 {
-  "generatedAt": "2026-09-16T16:12:56.109Z",
+  "generatedAt": "2026-09-16T20:54:42.609Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
         {
+          "title": "The AI data center e-waste problem is huge — and getting bigger",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
+          "summary": "E-waste from the AI boom has been vastly underestimated, a new report warns. By 2050, it could become enough trash to fill 23 million shipping containers - roughly enough 40-foot containers to circle the world six times if lined up in a row. \nIt's a significantly higher estimate of AI's e-waste than previous studies have found because the authors of the new report factor in all the infrastructure needed to support servers in data centers. The broader scope provides a clearer picture of junk AI leaves behind, according to the nonprofit Basel Action Network (BAN), which published the paper today. \n\"AI may feel weightless, but every model dep …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-16T20:40:46.000Z"
+        },
+        {
+          "title": "Resident Evil is a comedy first and a thrilling nightmare second",
+          "link": "https://www.theverge.com/entertainment/996416/resident-zach-cregger-review",
+          "summary": "When Paul W.S. Anderson's Resident Evil hit theaters in 2002, video game movies were largely seen as a niche. Films like Mortal Kombat and Tomb Raider had proven that big-screen game adaptations could be successful, but the commercial and critical failure of projects like the 1993 Super Mario Bros. still cast a long shadow. And while Anderson's vision of Raccoon City might have captivated audiences on the whole, many hardcore fans of Capcom's games were left disappointed by the way the original movies wildly deviated from the source material.\nWeapons director Zach Cregger's new take on Resident Evil is a return to the franchise's fundamenta …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-16T18:45:35.000Z"
+        },
+        {
+          "title": "Walmart takes a bite off the cost of Metroid Ravenous physical preorders",
+          "link": "https://www.theverge.com/gadgets/996379/metroid-ravenous-preorder-deal-sale",
+          "summary": "Samus is geared up for another adventure. | Image: Nintendo\t\n\nThe Metroid series is going back to its 2D roots again with Metroid Ravenous for the Nintendo Switch 2, the first side-scrolling game in the series since 2021’s Metroid Dread for the Nintendo Switch. If you’re already excited enough to consider preordering, you can save $10 on the physical version of the game when you buy it from Walmart. It’s $59.88 instead of $69.99, about the same as buying it digitally. The game launches on January 28th, 2027, but it’s not clear how long the preorder discount will last. If it’s anything like other Walmart preorders, it may occasionally disappear.\nMetroid Ravenous\n\nWhere to Buy:\n\n $69.99 $59.88 at Walmart\n\nNintendo first showed off the side-scrolling adventure game at its September 2026 Direct, with a frantic trailer cutting between cinematic sequences, Samus dashing and rolling across a variety of environments, and engaging a number of enemies and bosses in battle. Samus absorbs some powerful abilities at the conclusion of Dread, and Ravenous seem to be all about plowing through anyone stopping her from escaping the planet. Other details of the story, including unique new mechanics, are being kept under wraps for the time being.\nIf you haven’t played Metroid Dread, I recommend it, especially at its $41.99 discounted price at Amazon. It’s part of Nintendo’s “Customer Appreciation” sale happening through September 26th, and several other games and accessories are cheaper, too.",
+          "isoDate": "2026-09-16T18:20:38.000Z"
+        },
+        {
+          "title": "Apple might make servers again to cash in on the AI rush",
+          "link": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
+          "summary": "According to The Information, Apple is planning to get back into the server game and might just pair up with Nvidia to make it happen. Apple retired its Xserve line in 2011 and has largely left enterprise machines to other manufacturers since. But the growing demand for compute power as the AI industry continues to expand has apparently led the company to believe there is an opening for its powerful but efficient ARM-based M processors. Its Mac Mini and Mac Studio have proven popular with AI developers, which has led to shortages.\nThe server product, whether it's called Xserve or something else, likely won't debut until 2029. Word is that i …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-16T17:20:29.000Z"
+        },
+        {
+          "title": "It’s OK to tell ICE their actions will haunt them, judge rules in speech fight",
+          "link": "https://arstechnica.com/tech-policy/2026/09/its-ok-to-tell-ice-their-actions-will-haunt-them-judge-rules-in-speech-fight/",
+          "summary": "Man wins fight to block ICE threat over off-the-cuff angry email.",
+          "isoDate": "2026-09-16T17:06:06.000Z"
+        },
+        {
+          "title": "Your ‘health age’ is fake",
+          "link": "https://www.theverge.com/column/995939/optimizer-health-age-wearables-longevity",
+          "summary": "My villain origin story is my Whoop age. How do you age at 0.9 times your age and end up four to five years older than you are? | Photo by Amelia Holowaty Krales / The Verge\t\n\nThis is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here.\nDuring last week's Apple Watch announcement, I let out a distinct \"Noooo!\" in the Steve Jobs Theater. Along with a new readiness metric and a redesigned Health app, Apple had just announced that later this year, it'd be introducing a new longevity feature called Health Age. \nThis is a familiar concept in the wearable and health tech world. The idea is that if you put effort into your health and fitness, your physiological age c …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-16T17:00:00.000Z"
+        },
+        {
+          "title": "Google will now let any AI agent run your smart home",
+          "link": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
+          "summary": "Google is inviting third-party agents, including Claude and Open Claw, into Google Home. | Photo by Jennifer Pattison Tuohy / The Verge\t\n\nGoogle is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data using the standardized Model Context Protocol. \nGoogle Home MCP is a new integration that lets third-party AI agents control and monitor your smart home and act on your behalf. It \"allows any AI agents that support MCP, including Google Antigravity, Claude, Hermes or Open Claw, to securely work with all of the devices and event history in your Google Home ecosystem,\" Taylor Lehman, group product manager at Google Home & Nest, said in a blog post.\nAccording to Lehman, Home MCP integ …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-16T17:00:00.000Z"
+        },
+        {
+          "title": "Iran strikes on Amazon data centers caused permanent loss of customer data",
+          "link": "https://arstechnica.com/gadgets/2026/09/iran-strikes-on-amazon-data-centers-caused-permanent-loss-of-customer-data/",
+          "summary": "War damage to data centers exceeded what AWS services are designed to withstand.",
+          "isoDate": "2026-09-16T16:40:11.000Z"
+        },
+        {
+          "title": "Claude comes for Gemini with its own take on Docs and Slides",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
+          "summary": "Claude is getting a pair of new tools today: Docs and Slides. They'll let you create documents and presentations through Claude chats, which you can export, edit, and share with other users.\nAs part of the announcement, Anthropic is also simplifying how Claude chats work, merging regular chats and Cowork into \"one Claude,\" with all of its AI productivity tools available from any chat. Artifacts and Claude Design capabilities will be available through the new single interface as well. According to Anthropic, Claude \"can now figure out what a task needs, so what Cowork and Design can do is available from any conversation, with the context, sk …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-16T16:30:00.000Z"
+        },
+        {
           "title": "What happens when neutrinos swap identities inside a supernova?",
           "link": "https://arstechnica.com/science/2026/09/what-happens-when-neutrinos-swap-identities-inside-a-supernova/",
           "summary": "Identity-fluid particles may carry some energy out, leading to direct collapse.",
           "isoDate": "2026-09-16T15:17:43.000Z"
-        },
-        {
-          "title": "Meet a mouse whose brain cortex is made up of human cells",
-          "link": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
-          "summary": "Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed, leaving Pong-like traces on a monitor.  The reason to watch this rodent so carefully? Nearly half its brain volume had been replaced with human cells. The effort to mix the brain tissues of distant species is…",
-          "isoDate": "2026-09-16T15:00:00.000Z"
-        },
-        {
-          "title": "macOS 27 Golden Gate: The Ars Technica review",
-          "link": "https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/",
-          "summary": "It's both a \"Snow Leopard update\" and a major leap for Apple Intelligence.",
-          "isoDate": "2026-09-16T14:50:06.000Z"
-        },
-        {
-          "title": "The sexy AI-powered dating app scams are here",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
-          "summary": "Security researcher Matthew \"Zigula\" Gore-Kormanik was analyzing a fraudulent dating app called Dora when he got a pop-up message saying he was receiving a call from Jennifer. According to her bio, she's a 41-year-old Sagittarius with red hair, blue eyes, and piercings. She likes music, horror movies, nightlife, and sports.\nGore-Kormanik answered the call, but didn't see Jennifer in his video feed. He saw a tapestry that was moving, probably due to a fan, and heard weird distortion in the background. After the call ended, \"Jennifer\" messaged him to say she'd had fun and \"your voice is way better than expected.\" His microphone hadn't even be …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-16T14:45:00.000Z"
-        },
-        {
-          "title": "Xreal’s well-rounded 1S glasses are back down to their lowest price",
-          "link": "https://www.theverge.com/gadgets/996216/xreal-video-glasses-beats-pill-sonos-ace-deal-sale",
-          "summary": "USB-C-connected video glasses are a lot of fun if you want to see your games, movies (or just your computer screen) on a large, immersive virtual screen. One of the most well-rounded pairs out there, Xreal’s 1S, has returned to their lowest price yet, costing $399 at Amazon and via Xreal itself ($50 off). The small, yet welcome discount brings them a little closer in price to the company’s $299 xbx A01 Plus, which lack a handful of nice-to-have features that make the 1S a better choice for some people.\nThe 1S is among the most affordable pairs of video glasses to have three degrees of freedom, letting you anchor the screen to a spot in your room, as opposed to having the screen jolt around with every little movement of your head. Of note, their 3DoF implementation feels less buggy than competitors. They also have much better sound quality than the A01 Plus and most non-Xreal video glasses, plus electrochromic lenses that have adjustable opacity to let in as much (or as little) light as you wish.\nXreal 1S\n\nWhere to Buy:\n\n $449 $399 at Amazon\n $449.99 at Best Buy\n $449 $399 at Xreal\n\nNot everyone will have a fantastic out-of-the-box experience with the Xreal 1S’ screen clarity. I’m nearsighted, and I needed prescription lenses in order to see things clearly. This model doesn’t offer hardware-based myopia dials like Viture’s $299 Pro 2 does. The Pro 2’s clarity, for me at least, was incredible without lenses, though that pair lacks most of the premium features of the 1S.\n\n\n  window.HYPE_DESK_CONFIG = {\n    productImageUrl: \"https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Dell_Alienware_AW3225QF_Hype_Desk_16x9.jpg\",\n    productImageAlt: \"Alienware 32 4K QD-OLED Gaming Monitor\",\n    productTitle: \"Alienware 32 4K QD-OLED Gaming Monitor\",\n    shortDescription: \"Sharp, fast, and built for serious screen time.\",\n    longDescription:\n      \"4K resolution and 240Hz, without picking one over the other. The 31.6-inch QD-OLED panel pairs sharp 4K detail with a 240Hz refresh rate and a 0.03ms response time for genuinely responsive competitive play. A curved 1700R design, Dolby Vision, and 99% DCI-P3 color coverage make everything on screen feel more immersive, and HDMI 2.1 plus G-SYNC compatibility make it just as strong a fit for consoles as it is for PC.\",\n    purchaseUrl: \"https://www.dpbolvw.net/click-8836598-12839518?sid=VergeHypeDeskArticle56Newsletter3DellAugust2026&url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Falienware-32-4k-qd-oled-gaming-monitor-aw3225qf%2Fapd%2F210-blmq%2Fmonitors-monitor-accessories%3Futm_source%3Dchatgpt.com\",\n    purchaseLinkText: \"Shop At Dell\"\n  };\n\n\n\nA few other great Verge-approved deals\nThe latest version of the Beats Pill Bluetooth speaker has returned to $99.99 (originally $149.99) in every color at Amazon, Best Buy, and Target. It doesn’t often go below this sale price, though it has on rare occasion. While it shares the iconic design of past iterations, former Verge audio reviewer Chris Welch said in his 2024 review that this edition is “more than just a lazy remaster.” It includes lossless audio support over USB-C, and its features work natively across Android and iOS. It can work as a speakerphone, and it sports an IP67 rating, granting it robust protection against water and dust. What’s more, it looks nicer than most of its competitors.\nThe Sonos Ace Ultra headphones will launch in just a couple weeks, costing $449. It’s how much you’ll have to pay to get wireless headphones that let you swap audio with almost any other Sonos speaker. If you’re alright with the simpler TV Audio Swap feature, its original Ace headphones might be good enough, and refurbished models are almost $200 less than the Ace Ultra. Sonos is selling refurbished (one-year warranty, and in “good as new” condition) Ace headphones for $279 in white or black. Check out our review to see if these sound like a good fit for you.\nThose who have a Steam Deck or a gaming PC and are interesting in some affordable games should check out this Capcom-themed game bundle builder at Fanatical. You can buy any two games in the list for $12.99, or add more to get deeper discounts per game. The assortment includes fantastic titles, like many of the latest Resident Evil games (excluding Requiem or the RE4 remake), multi-game collections from the Ace Attorney, Mega Man, and Devil May Cry series, and more. It’s a good opportunity to get caught up on a bunch of Steam games, or round out your collection with two extras.",
-          "isoDate": "2026-09-16T14:44:48.000Z"
-        },
-        {
-          "title": "The world’s best racing driver is about to race 100 karts at once",
-          "link": "https://arstechnica.com/cars/2026/09/the-worlds-best-racing-driver-is-about-to-race-100-karts-at-once/",
-          "summary": "Red Bull, Disney+, and ESPN are streaming the race at noon Eastern today.",
-          "isoDate": "2026-09-16T14:19:01.000Z"
-        },
-        {
-          "title": "Lawmakers target Flock cameras with a threat to highway funding",
-          "link": "https://arstechnica.com/tech-policy/2026/09/lawmakers-target-flock-cameras-with-a-threat-to-highway-funding/",
-          "summary": "A bipartisan bill would restrict Flock cameras to a handful of public safety uses.",
-          "isoDate": "2026-09-16T14:03:39.000Z"
-        },
-        {
-          "title": "Building the materials foundation for AI",
-          "link": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
-          "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data centers are approaching physical limits around performance, thermal management, electrical efficiency, and reliability, creating new demands for materials that can do…",
-          "isoDate": "2026-09-16T12:47:34.000Z"
-        },
-        {
-          "title": "The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid",
-          "link": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
-          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What’s at stake in AI’s trillion-dollar gamble When Jessica Wachter, a finance professor at the University of Pennsylvania, wanted to assess AI’s impact on the economy over the next few years,…",
-          "isoDate": "2026-09-16T12:10:00.000Z"
-        },
-        {
-          "title": "A brief history of AI executives calling for regulation",
-          "link": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
-          "summary": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, Microsoft CEO Satya Nadella, and X CEO Elon Musk.\nWhen people who profit from something declare that it's dangerous and needs to be regulated, there's always reason to be skeptical. But whatever their reason, this is far from the first time AI thought leaders have sounded the alarm. \nCharles Darwin's theory of evolution prompted author Samuel Butler to warn about intelligen …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-16T12:00:00.000Z"
         }
       ]
     },
@@ -71,6 +71,24 @@
       "header": "120  CIENCIA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "NASA’s Moon Orbiter Spots New, ‘Once-in-Century’ Moon Crater",
+          "link": "https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/",
+          "summary": "It started as a routine data-quality check. But as Robert Wagner, a scientist with NASA’s Lunar Reconnaissance Orbiter (LRO), scanned a giant Moon map on his computer screen, an unusually large bright spot circled by a dark halo caught his eye, as it implied that surface material in that area had been shaken up. “I […]",
+          "isoDate": "2026-09-16T18:06:35.000Z"
+        },
+        {
+          "title": "NASA Celebrates Restoration of Guam Station Damaged by Typhoon Mawar ",
+          "link": "https://www.nasa.gov/technology/space-comms/nasa-celebrates-restoration-of-guam-station-damaged-by-typhoon-mawar/",
+          "summary": "NASA celebrated the full restoration of its Guam Remote Station with a ribbon-cutting on Sept. 10, closing out more than three years of recovery after Super Typhoon Mawar devastated the site in 2023. Engineers from across the agency completed the final and most complex step of the rebuild on July 1, when they returned the […]",
+          "isoDate": "2026-09-16T16:12:01.000Z"
+        },
+        {
+          "title": "NASA Watches Earth’s Weight, Finds Center of Mass",
+          "link": "https://www.nasa.gov/science-research/earth-science/nasa-watches-earths-weight-finds-center-of-mass/",
+          "summary": "Seasonal changes redistribute enough water around Earth to shift the planet’s center of mass back and forth by fractions of an inch relative to its geometric center. NASA scientists are on the case, tracking the oscillations because Earth’s center of mass is a crucial reference point for satellite navigation and elevation measurements. A team, led […]",
+          "isoDate": "2026-09-16T16:08:00.000Z"
+        },
         {
           "title": "Indonesia’s Anak Krakatau",
           "link": "https://www.nasa.gov/image-article/indonesias-anak-krakatau/",
@@ -108,28 +126,10 @@
           "isoDate": "2026-09-16T14:34:47.000Z"
         },
         {
-          "title": "Curiosity Blog, Sols 5002-5009: Tough Planning To Learn More About Wind-Blown Sediments",
-          "link": "https://science.nasa.gov/blog/curiosity-blog-sols-5002-5009-tough-planning-to-learn-more-about-wind-blown-sediments/",
-          "summary": "Written by Benjamin Tutolo, Professor, University of Calgary Earth planning date: Friday, Sept. 4, 2026 Curiosity has marked several huge milestones (14 years on Mars; 5,000 sols on Mars; 1 kilometer of elevation gain since landing) over the past several weeks, and the team has duly celebrated these remarkable achievements. These celebrations punctuate the rover’s […]",
-          "isoDate": "2026-09-16T14:26:25.000Z"
-        },
-        {
           "title": "APOD: 2026 September 16 – Webb’s View of M64",
           "link": "https://science.nasa.gov/image-article/apod-2026-september-16-webbs-view-of-m64/",
-          "summary": "APOD Science APOD APOD: 2026 September 16 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Hubble + WebbHubble […]",
+          "summary": "APODScienceAPODAPOD: 2026 September 16 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Hubble + WebbHubble Webb’s View of M64 Explanation: Sometimes where Hubble finds darkness, Webb sees light. An […]",
           "isoDate": "2026-09-16T04:05:00.000Z"
-        },
-        {
-          "title": "Inflection points and transitions in Alzheimer’s disease",
-          "link": "https://www.nature.com/articles/s41586-026-11110-5",
-          "summary": "Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11110-5\nInflection points and transitions in Alzheimer’s disease",
-          "isoDate": "2026-09-16T00:00:00.000Z"
-        },
-        {
-          "title": "Mechanisms of Transcriptional Regulation by Salicylic Acid Receptors",
-          "link": "https://www.nature.com/articles/s41586-026-11123-0",
-          "summary": "Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11123-0\nMechanisms of Transcriptional Regulation by Salicylic Acid Receptors",
-          "isoDate": "2026-09-16T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-09-16T16:12:51.890Z"
+          "isoDate": "2026-09-16T20:54:39.137Z"
         },
         {
           "title": "Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity",
@@ -222,6 +222,18 @@
           "isoDate": "2026-09-16T13:00:00.000Z"
         },
         {
+          "title": "How to connect AI usage to business value",
+          "link": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+          "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+          "isoDate": "2026-09-16T12:00:00.000Z"
+        },
+        {
+          "title": "How workers are unlocking new ways of working",
+          "link": "https://openai.com/index/unlocking-new-ways-of-working",
+          "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+          "isoDate": "2026-09-16T09:00:00.000Z"
+        },
+        {
           "title": "Measure by measure, studying society accurately",
           "link": "https://news.mit.edu/2026/studying-society-accurately-naoki-egami-0916",
           "summary": "Naoki Egami has become a standout in political methodology, helping refine tools that give scholars durable results.",
@@ -250,18 +262,6 @@
           "link": "https://news.mit.edu/2026/mit-spinout-turns-plastic-waste-into-resilient-building-materials-0914",
           "summary": "Atlas Building Composites is commercializing MIT research to turn plastic waste into parts for buildings and other infrastructure.",
           "isoDate": "2026-09-14T04:00:00.000Z"
-        },
-        {
-          "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-          "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-          "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
-          "isoDate": "2026-09-14T00:00:00.000Z"
-        },
-        {
-          "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-          "link": "https://openai.com/index/cognition-devin-testing-with-astra",
-          "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
-          "isoDate": "2026-09-11T16:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-09-16T16:12:55.289Z"
+          "isoDate": "2026-09-16T20:54:41.967Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
-          "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-09-16T16:12:53.142Z"
+          "summary": "Invalid character in entity name\nLine: 59\nColumn: 58\nChar: =",
+          "isoDate": "2026-09-16T20:54:40.071Z"
+        },
+        {
+          "title": "Rethinking Robot Safety in the Age of AI",
+          "link": "https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone",
+          "summary": "This article is brought to you by VicOne.\nRobot safety has traditionally asked: Can a machine remain safe when something goes wrong? Physical AI raises a harder question: Can a machine remain safe when an attacker changes what it sees, decides, or does even when nothing appears to have failed?\nAs AI and robotics continue to advance at an unprecedented pace, modern robots perceive through multimodal sensors, interpret context using AI models, and translate those interpretations into physical action. As they move into dynamic environments, their safety increasingly depends on the integrity of the data guiding their decisions.\nThat dependence creates risks that conventional safety assessments may not fully capture. Recent research has demonstrated that manipulating what a robot sees, hears, or interprets can influence its behavior without requiring direct control.\nSuch manipulation can occur anywhere across its complex sensing and decision-making system — a layered attack surface encompassing training pipelines, system infrastructure, and runtime perception.\nLayer One: Corrupting intelligence at its source\nIn 2017, BadNets demonstrated that a model could behave normally under most conditions, yet fail in the presence of a specific hidden trigger. In one example, a subtle pattern caused a stop sign to be misclassified as a speed limit sign without affecting the model’s behavior on other inputs.\nWhat began as a classification vulnerability has since evolved into action manipulation.\nAt NeurIPS 2025, researchers introduced BadVLA a backdoor attack targeting Vision-Language-Action (VLA) models that allow robots to see, interpret instructions, and produce coordinated physical movement. Rather than altering a single label, the attack caused conditional deviations in the robot’s action trajectory when a trigger was present. Without the trigger, the model largely preserved normal task performance, while the backdoor remained effective under task transfers and model fine-tuning.\nA related study in 2025, GoBA, showed that ordinary objects such as a coffee mug could serve as a reliable trigger. The researchers reported a 97 percent attack success rate without degrading performance on clean inputs.\nA critical safety question today is whether Physical AI models remain within their task and safety boundaries under adversarial conditions.\nThese studies expose a blind spot in model validation: A model may pass testing yet produce corrupted behavior when a hidden trigger appears in operation.\nSo a critical safety question today is whether Physical AI models remain within their task and safety boundaries under adversarial conditions. Simulation tools such as NVIDIA Isaac Sim, when paired with VicOne Radeis, can test the effects of manipulated inputs before deployment.\n  VicOne LAB R7 demonstrates Radeis, a Physical AI safety validator for NVIDIA Isaac Sim that tests how adversarial visual inputs affect robot behavior before deployment.VicOne\nLayer Two: System vulnerabilities as gateways to AI control\nEven a securely trained model can be subverted if the surrounding system stack is vulnerable.\nIn September 2025, researchers disclosed UniPwn, a Bluetooth exploit chain affecting quadruped and humanoid robots from a major manufacturer. Hardcoded cryptographic keys allowed traffic decryption, authentication checks were bypassed, and command injection enabled root-level execution. The exploit is also described as “wormable.” A compromised robot could scan nearby units and potentially affect an entire fleet.\n  VicOne Lab R7’s demo shows how chaining three wireless exploits can trigger uncontrolled robot behavior within 60 seconds, resulting in operational disruption.VicOne\nMiddleware creates another exposure point. Vulnerabilities in ROS 2 and DDS-based systems can enable arbitrary code execution or abuse unauthenticated topics to deliver malicious commands. With sufficient access, an attacker could override motor commands or replace AI model weights without directly attacking the model architecture.\nIn this case, the components may still function as designed. What has changed is the trustworthiness of the commands flowing through the system. Vulnerability management can help teams identify known risks before deployment, while continuous monitoring can surface emerging threats.\nLayer Three: Manipulating perception and reasoning at runtime\nAt runtime, manipulating inputs that shape perception or reasoning may require neither firmware modification nor a network breach.\nIn 2024, RoboPAIR demonstrated how carefully structured prompts could redirect LLM-controlled robots into unsafe trajectories. BadRobot exposed a deeper architectural weakness: in several cases, a robot verbally refused a dangerous command while its motion controller executed the action anyway.\nVision-based manipulation is equally powerful. VLAttack showed that an adversarial patch within the camera’s view could reduce a VLA model’s task success rate to zero. FreezeVLA showed that a single adversarial image could freeze a robot’s decision-making loop, making it unresponsive to subsequent instructions.\nRuntime assurance must therefore look beyond whether individual components remain available and assess whether cyber events are beginning to affect physical behavior.\nIn each case, the camera may still work, the model may still run, and the controller may still respond. Yet the resulting behavior can be unsafe because the robot is acting on manipulated perception or reasoning.\nRuntime assurance must therefore look beyond whether individual components remain available and assess whether cyber events are beginning to affect physical behavior. Security event correlation, behavioral-impact assessment, and policy-bounded response supported by edge AI, can help contain the affected path without unnecessarily stopping the entire robot fleet.\nFrom point-in-time safety to lifecycle assurance\nThe risks across these three layers reveal the missing layer in robot safety assurance: cybersecurity. Functional safety addresses failures and unexpected operating conditions; cybersecurity extends that assurance to deliberate manipulation, including attacks that may leave the underlying system apparently functional.\nThis requires assurance across the robot’s lifecycle. During design, teams need to understand which cyber risks could invalidate assumptions behind intended behavior. Before deployment, they should test whether realistic attacks can cause a robot to deviate from its task or safety boundaries. In operation, monitoring should identify whether cyber events are beginning to affect behavior, contain the affected path, and preserve safe operation where possible.\n  VicOne’s lifecycle approach combines AI model and vulnerability scanning, simulation-based validation, and continuous monitoring to help secure robots from development through operation.VicOne\nWhile cybersecurity does not replace functional safety, it helps ensure that Physical AI remains within acceptable boundaries even when what it sees, decides, or does is under attack.\nFor a deeper look at the cybersecurity risks and defense strategies shaping autonomous robotics, download our whitepaper “Securing the Rise of AI Robots: Cyber Risks, Real-World Threats, and Defense Strategies.”",
+          "isoDate": "2026-09-16T16:51:02.000Z"
         },
         {
           "title": "The AI Inference Revolution Is Here",
@@ -296,7 +302,7 @@
         {
           "title": "Countries Seek to Curb Social Media Addiction for Kids",
           "link": "https://spectrum.ieee.org/countries-seek-to-curb-social-media-addiction-for-kids",
-          "summary": "Social media plays a significant, multifaceted role in adolescents’ development, influencing how they communicate, learn, socialize, and express themselves.\nThe benefits, however, are accompanied by risks that can undermine youngsters’ character as well as their cognitive and social development.\nThe potential problems include excessive screen time, social media addiction, cyberbullying, misinformation, radicalization, privacy violations, exposure to inappropriate content, sextortion, and doomscrolling.\nA recent study published in Nature: Human Behaviour found that adolescents who begin using social media at an early age tend to have significantly lower academic performance. A Mashable article highlights additional issues including effects on mental health, self-harm, addiction to social media, compulsive, repetitive checking, and exposure to pornography and violent material.\nProtecting minors has largely fallen to parents, schools, and self-regulation by some social media providers.\nBut that approach has proven ineffective and inadequate, so some governments and policymakers have stepped in and placed responsibility on social media providers.\nAustralia’s nationwide ban\nAustralia was the first country to legislate a nationwide social media ban on children younger than 16—which I wrote about in January for Communications of the ACM.\nEnacted in December, the ban initially applied to 10 platforms: Facebook, Instagram, Kick, Reddit, Snapchat, Threads, TikTok, Twitch, X, and YouTube. It excluded messaging, gaming, and nonsocial platforms including Discord, GitHub, Roblox, WhatsApp, YouTube Kids, and educational tools.\nThe law places the responsibility for enforcement on the platform providers through age-assurance mechanisms, requiring the platforms to take “reasonable steps” to prevent those 15 or younger from creating or holding accounts.\nIt does not, however, apply to content consumption. Children can view publicly available posts and videos without logging in; they cannot comment or post, according to the law.\nThe legislation mandates that the user’s age be verified with tools such as government-issued identification, biometric or facial age-estimation tools, behavioral or inference algorithms, and self-declaration with optional checks.\nPenalties for noncompliance can reach US $35.6 million.\nThe 10 platforms subsequently removed nearly 5 million accounts of young users.\nAlthough the ban received widespread support, human rights organizations and digital freedom advisory groups have argued that it limits young people’s freedom of expression and access to useful information. They say the ban might contribute to social isolation and the loss of support networks, particularly among marginalized youth.\nPromising early outcomes\nThe Australian ban is producing positive outcomes, according to a recent Time magazine article, “What the World Should Learn From Australia’s Social Media Law.”\nEarly findings indicate it has reduced account ownership and social media use among young children. A YouGov survey of Australians found that 61 percent of parents of children age 16 and younger reported positive changes including more face-to-face interaction, greater presence and engagement, and improved parent-child relationships. Three in five Australians surveyed called the ban effective.\nThe ban has encouraged social media platforms to reconsider their features. Snapchat is moving toward a friends-only experience for 13- to 15-year-olds, for example.\nThe law is stimulating the development of purpose-built online spaces for children younger than 16 that can support their developmental needs, offering alternatives to mainstream social media.\nThe longer-term impact could be more significant if “no social media account before age 16” becomes an accepted norm, making it easier for parents and schools to support delayed social media use.\nImplementation struggles\nDespite the early encouraging outcomes, one study found that online platforms struggle to implement age checks. Many under-16 users in Australia have continued to access platforms with little difficulty, the study said. They children have found workarounds to subvert restrictions, such as using a free VPN to bypass age checks—some of which have questionable data-collection practices.\nSeven in 10 children retained their existing accounts on restricted platforms, the study found. Other teens created new accounts using incorrect age information. Some were incentivized to seek unregulated offshore platforms not subject to Australia’s law.\nThe workarounds prompted Australia to double the maximum fine and warn of court action against tech giants for noncompliance.\nEmphasis on age verification\nA number of other countries are implementing or considering social media restrictions. They include Brazil, Canada, France, Greece, Indonesia, Norway, Poland, Thailand, Türkiye, and the United Kingdom. The European Union is contemplating its own restrictions. \nThe countries’ mandates for age verification or age assurance shift the policy focus from whether to verify age to how to do so effectively while protecting user privacy.\nAn article on think tank New America’s website, “Age Assurance and Verification,” describes some methods: \n\nAge gating and screening. Users self-attest their age by checking a box or inputting a birth date.\nAge estimation. Several techniques are available, including profiling the user’s online activity and scanning the user’s face.\nAge verification. One way is providing a government-issued identification document. Other approaches include digital identity systems, digital wallets, and third-party verification.\n\nReliable age verification is technically challenging and raises privacy concerns, as outlined in “The Age-Verification Trap,” written by Cinderpoint consultant Waydell D. Carvalho and published in February in IEEE Spectrum. Carvallo says platforms need to balance age verification with protecting users’ personal information.\nIEEE’s contributions\nIEEE is working on initiatives to provide a safer online environment for children. To help developers build age-appropriate social media platforms and websites, the IEEE Standards Association (IEEE SA) has published two guidelines.\nThe IEEE Standard for Online Age Verification (IEEE 2089-2024) provides a framework for designing, specifying, evaluating, and deploying verification systems. The standard includes requirements for privacy protection, data security, and information management specific to the age-assurance process. It also provides procedures for verifying a user’s age or age range with a high degree of accuracy.\nBased on the 5Rights Foundation’s Principles for Children, the other standard (IEEE 2089-2021) provides practical steps to qualify online products and services for children. It requires systems to present information in an age-appropriate way and to uphold the rights established for youngsters in the U.N. Convention on the Rights of the Child.\nIEEE SA also offers an online age-verification-certification program, which assesses systems for compliance with the IEEE 2089.1 standard. The program certifies that organizations implement robust processes before granting access to age-restricted products and services, prioritizing children’s safety, privacy, autonomy, and rights.\nAs outlined in The Institute article “IEEE Makes Strides to Improve Online Safety for Kids,” certification is based on six key indicators: accuracy, frequency of assurance, counter-fraud measures, authenticity, frequency of authenticity checks, and birth date confidence.\nIndonesia used key provisions from the two IEEE guidelines to inform its child-protection regulation, which was signed into law last year.\nIEEE’s ethically aligned design framework prioritizes human well-being, transparency, accountability, privacy, and protecting vulnerable populations including children.\nCalls for platform reforms\nAlthough social media bans would be globally significant policy responses, deeper structural issues remain largely unaddressed. Platform architecture and features contribute to social media harm.\nThe focus needs to shift from constraints on account provisioning and content moderation to safer platform design.\nMeta in August agreed to pay $17.1 billion to settle a lawsuit brought by U.S. states. The suit said Meta designed its social media to be addictive to children, and the company concealed internal research showing Instagram’s addictive effects on teenagers. As part of the settlement, Meta agreed to implement child-safety measures such as setting daily time limits and disabling Facebook and Instagram push notifications during school hours.\nThe company still faces other lawsuits that could have far-reaching implications, pressuring other tech companies to design safer social media platforms.\nArchitecture-driven features such as infinite scrolling, algorithmic recommendations, addictive platform design, data-driven engagement, and personalized advertising to minors are other contributing factors to social media addiction.\nIEEE Senior Member Katina Michael, professor at the University of Sydney business school and founding editor in chief of IEEE Transactions on Technology and Society, shared her perspective: “Social media bans may offer a short-term response to growing concerns, but they are not a long-term solution,” she says. “IEEE 2089-2021 advocates for socio-technical systems that are designed to promote human well-being, safety, and flourishing. Rather than relying on prohibition alone, we should focus on better design, building digital platforms that embed ethics, accountability, transparency, and human values from the outset.”\nCollective responsibility\nProtecting children online would require a combination of policy measures, improved platform design, digital literacy, parental involvement, and cultural change.\nBuilding a safe, secure, and inclusive digital ecosystem that supports adolescents’ cognitive, social, and emotional development would require collaboration among technology companies, platform providers, content creators, parents, educators, policymakers, and young people themselves.\nProfessional organizations such as IEEE can continue contributing through standards development, education, certification while promoting trustworthy and responsible digital technologies.\nThis article was updated on 15 September 2026.",
+          "summary": "Social media plays a significant, multifaceted role in adolescents’ development, influencing how they communicate, learn, socialize, and express themselves.\nThe benefits, however, are accompanied by risks that can undermine youngsters’ character as well as their cognitive and social development.\nThe potential problems include excessive screen time, social media addiction, cyberbullying, misinformation, radicalization, privacy violations, exposure to inappropriate content, sextortion, and doomscrolling.\nA recent study published in Nature: Human Behaviour found that adolescents who begin using social media at an early age tend to have significantly lower academic performance. A Mashable article highlights additional issues including effects on mental health, self-harm, addiction to social media, compulsive, repetitive checking, and exposure to pornography and violent material.\nProtecting minors has largely fallen to parents, schools, and self-regulation by some social media providers.\nBut that approach has proven ineffective and inadequate, so some governments and policymakers have stepped in and placed responsibility on social media providers.\nAustralia’s nationwide ban\nAustralia was the first country to legislate a nationwide social media ban on children younger than 16—which I wrote about in January for Communications of the ACM.\nEnacted in December, the ban initially applied to 10 platforms: Facebook, Instagram, Kick, Reddit, Snapchat, Threads, TikTok, Twitch, X, and YouTube. It excluded messaging, gaming, and nonsocial platforms including Discord, GitHub, Roblox, WhatsApp, YouTube Kids, and educational tools.\nThe law places the responsibility for enforcement on the platform providers through age-assurance mechanisms, requiring the platforms to take “reasonable steps” to prevent those 15 or younger from creating or holding accounts.\nIt does not, however, apply to content consumption. Children can view publicly available posts and videos without logging in; they cannot comment or post, according to the law.\nThe legislation mandates that the user’s age be verified with tools such as government-issued identification, biometric or facial age-estimation tools, behavioral or inference algorithms, and self-declaration with optional checks.\nPenalties for noncompliance can reach US $35.6 million.\nThe 10 platforms subsequently removed nearly 5 million accounts of young users.\nAlthough the ban received widespread support, human rights organizations and digital freedom advisory groups have argued that it limits young people’s freedom of expression and access to useful information. They say the ban might contribute to social isolation and the loss of support networks, particularly among marginalized youth.\nPromising early outcomes\nThe Australian ban is producing positive outcomes, according to a recent Time magazine article, “What the World Should Learn From Australia’s Social Media Law.”\nEarly findings indicate it has reduced account ownership and social media use among young children. A YouGov survey of Australians found that 61 percent of parents of children age 16 and younger reported positive changes including more face-to-face interaction, greater presence and engagement, and improved parent-child relationships. Three in five Australians surveyed called the ban effective.\nThe ban has encouraged social media platforms to reconsider their features. Snapchat is moving toward a friends-only experience for 13- to 15-year-olds, for example.\nThe law is stimulating the development of purpose-built online spaces for children younger than 16 that can support their developmental needs, offering alternatives to mainstream social media.\nThe longer-term impact could be more significant if “no social media account before age 16” becomes an accepted norm, making it easier for parents and schools to support delayed social media use.\nImplementation struggles\nDespite the early encouraging outcomes, one study found that online platforms struggle to implement age checks. Many under-16 users in Australia have continued to access platforms with little difficulty, the study said. They children have found workarounds to subvert restrictions, such as using a free VPN to bypass age checks—some of which have questionable data-collection practices.\nSeven in 10 children retained their existing accounts on restricted platforms, the study found. Other teens created new accounts using incorrect age information. Some were incentivized to seek unregulated offshore platforms not subject to Australia’s law.\nThe workarounds prompted Australia to double the maximum fine and warn of court action against tech giants for noncompliance.\nEmphasis on age verification\nA number of other countries are implementing or considering social media restrictions. They include Brazil, Canada, France, Greece, Indonesia, Norway, Poland, Thailand, Türkiye, and the United Kingdom. The European Union is contemplating its own restrictions. \nThe countries’ mandates for age verification or age assurance shift the policy focus from whether to verify age to how to do so effectively while protecting user privacy.\nAn article on think tank New America’s website, “Age Assurance and Verification,” describes some methods: \n\nAge gating and screening. Users self-attest their age by checking a box or inputting a birth date.\nAge estimation. Several techniques are available, including profiling the user’s online activity and scanning the user’s face.\nAge verification. One way is providing a government-issued identification document. Other approaches include digital identity systems, digital wallets, and third-party verification.\n\nReliable age verification is technically challenging and raises privacy concerns, as outlined in “The Age-Verification Trap,” written by Cinderpoint consultant Waydell D. Carvalho and published in February in IEEE Spectrum. Carvallo says platforms need to balance age verification with protecting users’ personal information.\nIEEE’s contributions\nIEEE is working on initiatives to provide a safer online environment for children. To help developers build age-appropriate social media platforms and websites, the IEEE Standards Association (IEEE SA) has published two guidelines.\nThe IEEE Standard for Online Age Verification (IEEE 2089.1-2024) provides a framework for designing, specifying, evaluating, and deploying verification systems. The standard includes requirements for privacy protection, data security, and information management specific to the age-assurance process. It also provides procedures for verifying a user’s age or age range with a high degree of accuracy.\nBased on the 5Rights Foundation’s Principles for Children, the other standard (IEEE 2089-2021) provides practical steps to qualify online products and services for children. It requires systems to present information in an age-appropriate way and to uphold the rights established for youngsters in the U.N. Convention on the Rights of the Child.\nIEEE SA also offers an online age-verification-certification program, which assesses systems for compliance with the IEEE 2089.1 standard. The program certifies that organizations implement robust processes before granting access to age-restricted products and services, prioritizing children’s safety, privacy, autonomy, and rights.\nAs outlined in The Institute article “IEEE Makes Strides to Improve Online Safety for Kids,” certification is based on six key indicators: accuracy, frequency of assurance, counter-fraud measures, authenticity, frequency of authenticity checks, and birth date confidence.\nIndonesia used key provisions from the two IEEE guidelines to inform its child-protection regulation, which was signed into law last year.\nIEEE’s ethically aligned design framework prioritizes human well-being, transparency, accountability, privacy, and protecting vulnerable populations including children.\nCalls for platform reforms\nAlthough social media bans would be globally significant policy responses, deeper structural issues remain largely unaddressed. Platform architecture and features contribute to social media harm.\nThe focus needs to shift from constraints on account provisioning and content moderation to safer platform design.\nMeta in August agreed to pay $17.1 billion to settle a lawsuit brought by U.S. states. The suit said Meta designed its social media to be addictive to children, and the company concealed internal research showing Instagram’s addictive effects on teenagers. As part of the settlement, Meta agreed to implement child-safety measures such as setting daily time limits and disabling Facebook and Instagram push notifications during school hours.\nThe company still faces other lawsuits that could have far-reaching implications, pressuring other tech companies to design safer social media platforms.\nArchitecture-driven features such as infinite scrolling, algorithmic recommendations, addictive platform design, data-driven engagement, and personalized advertising to minors are other contributing factors to social media addiction.\nIEEE Senior Member Katina Michael, professor at the University of Sydney business school and founding editor in chief of IEEE Transactions on Technology and Society, shared her perspective: “Social media bans may offer a short-term response to growing concerns, but they are not a long-term solution,” she says. “IEEE 2089-2021 advocates for socio-technical systems that are designed to promote human well-being, safety, and flourishing. Rather than relying on prohibition alone, we should focus on better design, building digital platforms that embed ethics, accountability, transparency, and human values from the outset.”\nCollective responsibility\nProtecting children online would require a combination of policy measures, improved platform design, digital literacy, parental involvement, and cultural change.\nBuilding a safe, secure, and inclusive digital ecosystem that supports adolescents’ cognitive, social, and emotional development would require collaboration among technology companies, platform providers, content creators, parents, educators, policymakers, and young people themselves.\nProfessional organizations such as IEEE can continue contributing through standards development, education, certification while promoting trustworthy and responsible digital technologies.\nThis article was updated on 16 September 2026.",
           "isoDate": "2026-09-14T18:00:04.000Z"
         },
         {
@@ -310,12 +316,6 @@
           "link": "https://spectrum.ieee.org/ieee-to-reward-sections",
           "summary": "For this year’s IEEE annual election, the IEEE Tellers Committee will recognize the Sections with the highest voter turnout (based on total eligible voters) in each Region with an incentive reward after the election results are accepted by the IEEE Board of Directors.The incentive initiative is managed by the Tellers Committee, which retains full authority over all rules, operations, and decisions regarding the program.\nIncentive guidelines \nThe Section sizes and their respective reward amounts are:\n\nLarge sections consist of more than 1,501 eligible voting members. The top-performing large section in each IEEE region will be rewarded with US $1,000.\n\nMedium sections consist of 501 to 1,500 eligible voting members. Each region’s top-performing medium section will receive $600.\n\nSmall sections consist of 500 or fewer eligible voting members. The top-performing small section in each region will receive $400.\n\nTo learn more about the incentive program, visit the IEEE annual election website. If you haven’t voted in the 2026 elections, you can learn about the candidates and vote here. Send questions to: elections@ieee.org.",
           "isoDate": "2026-09-11T18:00:02.000Z"
-        },
-        {
-          "title": "Codeveloper of Ethernet Predecessor Dies at 91",
-          "link": "https://spectrum.ieee.org/codeveloper-of-ethernet-predecessor-dies",
-          "summary": "Franklin “Frank” Kuo\nCodeveloper of ALOHAnet\nFellow, 91; died 14 April\nKuo helped develop ALOHAnet, a pioneering computer system at the University of Hawaii at Mānoa, in Honolulu. The system went online in 1971 and represented the first public demonstration of a wireless packet data network. It was an inspiration for Robert Metcalfe’s development of Ethernet a couple of years later. In 2020 ALOHAnet was designated as an IEEE Milestone.\nKuo earned bachelor’s, master’s, and doctoral degrees in electrical engineering from the University of Illinois, Urbana-Champaign. After earning his Ph.D. in 1960, he joined Bell Labs in Murray Hill, N.J., where he conducted research in computer communications.\nAfter six years at the company, Kuo left to become a professor of electrical engineering at the University of Hawaii. From 1968 to 1971 he and one of his colleagues, IEEE Life Fellow Norman Abramson, developed ALOHAnet. The network connected computers on Hawaiian islands using ultrahigh-frequency radio, transmitting information over radio waves instead of cables.\nALOHAnet became the foundation for modern networks. Kuo pioneered the concept of a random-access protocol, or sharing a single channel without central coordination—which led to the packet-switching principles that underpin modern Wi-Fi and mobile networks.\nKuo authored or coauthored several books including Computer Communication Networks. Published in 1972, it was one of the earliest textbooks on the subject.\nHe served as director of the university’s Cosine committee, a project funded by the U.S. National Science Foundation to develop computer engineering courses.\nHe took a sabbatical from 1975 to 1977 to work at the U.S. Pentagon as director of information systems in the defense secretary’s office. He oversaw computer communications applications used in command, control, and intelligence programs.\nDuring the 1980s and ’90s, he helped develop China’s Internet. In 1982 he joined SRI International (formerly the Stanford Research Institute), in Menlo Park, Calif., as a researcher. He also was a consulting professor in Stanford’s electrical engineering department and taught computer networking at Shanghai Jiao Tong University.\nAs a UNESCO lecturer in Beijing in 1994, he helped Peking University, Tsinghua University, and the Chinese Academy of Sciences connect to the Internet. He also worked with Tsinghua University to develop CERNET, the country’s first nationwide education and research computer network, which was managed by the Chinese Ministry of Education. For his work, he received an honorary degree from Shanghai Jiao Tong University.\nIn the mid-1990s, Kuo helped found General Wireless Communications, a developer of mobile phone messaging services and games that was renamed Mtone Wireless.\nMuhammad Rezaul Karim\nBell Labs researcher\nLife senior member, 86; died 18 May\nKarim was a distinguished member of the technical staff at Bell Labs in Murray Hill, N.J. His work was instrumental in the development of modern cellular communications technology.\nHe joined Bell Labs in 1972 and worked in its mobile telecommunications laboratory as part of the team tasked with creating one of the earliest cellular networks.\nIn 1975 Illinois Bell Telephone petitioned the U.S. Federal Communications Commission to develop and test a cellular system. The FCC, which now regulates radio, TV, telephone, Internet, satellite, and wireless services, authorized the project in March 1977. Karim and his team helped develop key elements of the technology, including the Bell Labs logic that controlled the cellular system, turning the concept into a working one. They also built radio receivers, transmitters, control systems, and cell-site equipment used in the first trial of the cellular system.\nThe following year, Bell Labs and Illinois Bell deployed the Advanced Mobile Phone Service system across Chicago, with its switching office located in Oak Park, Ill. The initial test used approximately 100 mobile phones to work through hardware, software, and system-design problems.\nA subsequent test in 1979 involved 2,500 mobile users, providing a demonstration of the cellular technology in practice.\nThe trials in Illinois helped establish the technical foundation for the commercial cellular networks that followed.\nLater in his career, Karim worked on the asynchronous transfer mode (ATM) technique, a high-speed networking technology crucial to the transition from traditional telephone networks to broadband and digital ones.\nIn 2000 he published ATM Networks: Application, Systems, and Design, a textbook that served as a guide for designing and implementing ATM-based services.\nKarim received a bachelor’s degree in electrical engineering from the Bangladesh University of Engineering and Technology, in Dhaka. He then earned a master’s degree in EE from the University of Manchester, England, and a Ph.D. in EE from Stevens Institute of Technology, in Hoboken, N.J.\nHarry Bostic\nFormer IEEE Region 4 director\nLife senior member, 86; died 18 March\nBostic was an active IEEE volunteer who served as the 1998–1999 director of IEEE Region 4. In 2007 he received a lifetime achievement award from the IEEE Central Indiana Section for “outstanding commitment and dedicated service as regional advisor to the volunteers and members of Region 4 and the Institute.”\nHe was an engineer for 30 years at U.S. Navy’s avionics facility, a research, development, and manufacturing concern in Indianapolis. He worked on flight control, navigation, and weapons systems there. (The facility closed in 1996.)\nEdwin C. Jones Jr.\nProfessor\nLife Fellow, 91; died 10 March\nJones was widely recognized for his contributions to engineering education, curriculum development, and accreditation through decades of service to IEEE, ABET, and the American Society for Engineering Education.\nHe earned a bachelor’s degree in electrical engineering in 1955 from West Virginia University in Morgantown. The following year he earned a diploma of membership (equivalent to a master’s degree) from Imperial College, London. He went on to serve in the U.S. Army Signal Corps for two years. After his service ended, he studied engineering education at the University of Illinois, Urbana-Champaign, earning a Ph.D. in 1961. Jones then joined the university’s faculty.\nThe following year, he left Illinois to join Iowa State University, in Ames, as an assistant professor. He was promoted to professor in 1995. Two years later he became associate chair of the electrical and computer engineering department and served in that position until 2001, when he retired and was named professor emeritus. In recognition of his commitment to students, Iowa State established a scholarship in his honor.\nIn 2006 he accepted a part-time position as an adjunct professor in Minnesota at the University of St. Thomas, in St. Paul. He advised graduate students and helped develop the university’s systems engineering program.\nAn active IEEE volunteer, he served as 1975–1976 president of the IEEE Education Society. He was a member of the IEEE Educational Activities Board, helping strengthen the relationship among engineering education, professional practice, and accreditation organizations. He received an IEEE Centennial Medal in 1984 and the EAB Meritorious Achievement Award in Accreditation Activities in 1986. The IEEE Education Society later named its Meritorious Service Award in his honor.\nJones was elected a Fellow of ABET in 1986. During his years of service as a program evaluator and leader, he helped advance the quality of engineering education and accreditation programs. ABET recognized him with its Grinter Distinguished Service Award, its highest honor.\nAlexander Robert Spitzer\nClinical neurology researcher\nLife senior member, 70; died 27 February\nSpitzer was a neurologist for 40 years at the Wayne State University School of Medicine, in Detroit, where he also was a director of the electromyography laboratory at Harper University Hospital. The lab studied patients’ brain and spinal cord activity in response to sensory stimuli. The evaluations assessed nerve pathway integrity to help diagnose multiple sclerosis, spinal cord injuries, and other conditions.\nAfter earning his medical degree from the Einstein College of Medicine, in New York City, Spitzer completed a fellowship at the U.S. National Institutes of Health, in Bethesda, Md. He then joined Wayne State as a clinical neurology researcher. His pioneering research in applying neural network analysis to electromyography and clinical neurophysiology resulted in peer-reviewed publications, grants, and several U.S. patents.\nHe mentored generations of neurologists in electrodiagnostic medicine, a medical specialty that uses nerve-conduction and electromyography tests to evaluate and diagnose muscle and nerve disorders.\nIn 2020 he founded Mackinac Neurology, a telemedicine-based practice that treated pa­tients virtually during the COVID-19 pandemic.\nA longtime IEEE volunteer, he held numerous roles on the IEEE Regional Activities Board, now known as the Member and Geographic Activities Board. He was a member of the IEEE Ethics and Member Conduct and Nominations and Appointments committees, as well as the IEEE Educational Activities and IEEE-USA boards. He served as 1977–1979 director of the IEEE Central Indiana Section.\nDonald Leo Dietmeyer\nProfessor\nLife Fellow, 93; died 13 February\nDietmeyer was a professor of electrical and computer engineering for 40 years at the University of Wisconsin-Madison.\nHe developed a lifelong interest in radio and electronics at high school in Wausau, Wisc., and earned a Ph.D. in electrical engineering in 1959 from the University of Wisconsin. He’d joined the university’s electrical engineering faculty as a professor in 1958 while pursuing his doctorate.\nDietmeyer’s research focused on computer-aided design in the areas of switching theory, hardware description languages, and the decomposition of Boolean functions. His research contributed to the development of automation tools for integrated circuit design.\nHe worked with Jim Duley, a former student, to pioneer the use of the digital system design language. He wrote the textbook Logic Design of Digital Systems, published in 1978.\nIn the early 1980s, Dietmeyer worked with researchers to develop ConLan, a language-construction method that combined hardware description languages in one underlying framework.\nHe served as associate dean of the University of Wisconsin’s electrical and computer engineering department from 1983 to 1995. In 1998 he retired and was named professor emeritus.",
-          "isoDate": "2026-09-10T20:00:04.000Z"
         }
       ]
     },
@@ -324,57 +324,17 @@
       "maxItems": 120,
       "items": [
         {
-          "title": "RESULTADOS (ÚLTIMOS)",
+          "title": "RESULTADOS (EN DIRECTO)",
           "link": "",
           "summary": ""
         },
         {
-          "title": "ELC  2-3  REA",
+          "title": "LEV  0-0  ATH",
           "link": "",
           "summary": ""
         },
         {
-          "title": "ALA  0-1  VAL",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "RAY  2-1  ESP",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "VIL  1-2  REA",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "REA  0-3  ATL",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "GET  1-1  DEP",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "LEV  2-4  BAR",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "CEL  1-1  MÁL",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "REA  4-1  RAY",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "ATH  1-1  ELC",
+          "title": "BAR  4-1  SAN",
           "link": "",
           "summary": ""
         },
@@ -389,7 +349,7 @@
           "summary": ""
         },
         {
-          "title": " 1  BAR   5   5  0  0  21   4  17  15",
+          "title": " 1  BAR   6   6  0  0  25   5  20  18",
           "link": "",
           "summary": ""
         },
@@ -399,62 +359,62 @@
           "summary": ""
         },
         {
-          "title": " 3  REA   5   4  0  1   7   6   1  12",
+          "title": " 3  ATL   6   4  1  1  14   6   8  13",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 4  ALA   6   3  1  2  11   6   5  10",
+          "title": " 4  SEV   6   4  1  1   9   6   3  13",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 5  ATL   5   3  1  1  10   6   4  10",
+          "title": " 5  REA   5   4  0  1   7   6   1  12",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 6  SEV   5   3  1  1   8   6   2  10",
+          "title": " 6  ALA   6   3  1  2  11   6   5  10",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 7  DEP   5   2  3  0   9   6   3   9",
+          "title": " 7  DEP   6   2  3  1   9   7   2   9",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 8  ESP   6   2  1  3   9   7   2   7",
+          "title": " 8  ATH   6   2  2  2   7   6   1   8",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 9  ATH   5   2  1  2   7   6   1   7",
+          "title": " 9  ESP   6   2  1  3   9   7   2   7",
           "link": "",
           "summary": ""
         },
         {
-          "title": "10  SAN   5   2  1  2   9   9   0   7",
+          "title": "10  SAN   6   2  1  3  10  13  -3   7",
           "link": "",
           "summary": ""
         },
         {
-          "title": "11  OSA   5   2  1  2   5   8  -3   7",
+          "title": "11  RAY   6   2  1  3  10  15  -5   7",
           "link": "",
           "summary": ""
         },
         {
-          "title": "12  RAY   6   2  1  3  10  15  -5   7",
+          "title": "12  REA   6   2  1  3   6  11  -5   7",
           "link": "",
           "summary": ""
         },
         {
-          "title": "13  REA   6   2  1  3   6  11  -5   7",
+          "title": "13  OSA   6   2  1  3   5  12  -7   7",
           "link": "",
           "summary": ""
         },
         {
-          "title": "14  LEV   5   1  2  2   7   9  -2   5",
+          "title": "14  LEV   6   1  3  2   7   9  -2   6",
           "link": "",
           "summary": ""
         },
