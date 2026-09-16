@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-09-16T03:31:26.817Z",
+  "generatedAt": "2026-09-16T10:54:20.005Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Meta is reportedly ready to launch less pervy smart glasses",
+          "link": "https://www.theverge.com/tech/996138/meta-luna-ray-ban-smart-glasses-camera-free-connect",
+          "summary": "Meta may be ready to reveal a new pair of smart glasses with no camera at all, amid a PR crisis for the company caused by the video recording capabilities of its flagship smart glasses. A new report from The Information claims the camera-free glasses, codenamed Luna, could be revealed as soon as the Meta Connect event next week.\nInstead of a camera, the Luna glasses will reportedly include six microphones that allow users to chat to Meta AI and the new Muse AI agent, along with speakers for audio playback. Stripping the camera out has apparently made it possible to make the glasses' arms smaller, and closer to ordinary frames. Meta is repor …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-16T08:54:46.000Z"
+        },
+        {
+          "title": "How chimps teach their kids tool tricks",
+          "link": "https://arstechnica.com/science/2026/09/how-chimps-teach-their-kids-tool-tricks/",
+          "summary": "Adults first demonstrate tool use, then hand over the implements to their infants, who copy the behavior.",
+          "isoDate": "2026-09-16T04:00:39.000Z"
+        },
         {
           "title": "The Boox Palma 3 gets stylus support and a sleek redesign",
           "link": "https://www.theverge.com/tech/995826/boox-palma-3-e-ink-reader-pocket-smartphone-android-16",
@@ -52,18 +64,6 @@
           "link": "https://arstechnica.com/health/2026/09/measles-kills-18-year-old-in-pa-fourth-death-as-state-outbreak-nears-700-cases/",
           "summary": "Teen developed acute disseminated encephalomyelitis, a known measles complication.",
           "isoDate": "2026-09-15T18:58:09.000Z"
-        },
-        {
-          "title": "SpaceX declares Starship ready for orbit, sets launch date next week",
-          "link": "https://arstechnica.com/space/2026/09/spacex-sets-launch-date-for-first-starship-orbital-flight/",
-          "summary": "Reaching orbit would mark a significant milestone.",
-          "isoDate": "2026-09-15T18:48:08.000Z"
-        },
-        {
-          "title": "Kia’s electric van lineup is getting more interesting with reveal of PV7",
-          "link": "https://www.theverge.com/transportation/995608/kia-pv7-electric-van-specs-sale",
-          "summary": "You may not know it, but minivans are making a comeback in the US. Look around, and you'll start to notice an uptick in these breadboxes on wheels. Sales were up 21 percent in 2025, suggesting that the humble minivan is shaking off its \"uncool\" stigma and finding new fans among an SUV-weary public. I'm here for it.\nOne of the companies currently carrying the torch for minivans is Kia, which has sold its popular Carnival minivan here since 2021. Kia is also one of the few automakers making all-electric vans. This week, the Korean automaker rolled out its new PV7 at IAA Transportation in Germany. This is the second electric van from Kia's Pla …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-15T18:39:44.000Z"
         }
       ]
     },
@@ -72,64 +72,64 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "ERROR cargando feed",
-          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
-          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-09-16T03:31:21.640Z"
+          "title": "APOD: 2026 September 16 – Webb’s View of M64",
+          "link": "https://science.nasa.gov/image-article/apod-2026-september-16-webbs-view-of-m64/",
+          "summary": "APOD Science APOD APOD: 2026 September 16 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Hubble + WebbHubble […]",
+          "isoDate": "2026-09-16T04:05:00.000Z"
         },
         {
-          "title": "Quality control of glycogen through direct ubiquitylation by RNF213",
-          "link": "https://www.nature.com/articles/s41586-026-11139-6",
-          "summary": "Nature, Published online: 15 September 2026; doi:10.1038/s41586-026-11139-6\nQuality control of glycogen through direct ubiquitylation by RNF213",
-          "isoDate": "2026-09-15T00:00:00.000Z"
+          "title": "Map of brain ‘microproteins’ could offer new clues to Alzheimer’s disease",
+          "link": "https://www.nature.com/articles/d41586-026-02914-6",
+          "summary": "Nature, Published online: 16 September 2026; doi:10.1038/d41586-026-02914-6\nResearchers detect more than 1,000 overlooked microproteins in human brain tissue, including some that are altered in Alzheimer’s disease.",
+          "isoDate": "2026-09-16T00:00:00.000Z"
         },
         {
-          "title": "Author Correction: Erythropoietin receptor on cDC1s dictates immune tolerance",
-          "link": "https://www.nature.com/articles/s41586-026-11137-8",
-          "summary": "Nature, Published online: 15 September 2026; doi:10.1038/s41586-026-11137-8\nAuthor Correction: Erythropoietin receptor on cDC1s dictates immune tolerance",
-          "isoDate": "2026-09-15T00:00:00.000Z"
+          "title": "AI companies must work with the research community to protect attribution",
+          "link": "https://www.nature.com/articles/d41586-026-02886-7",
+          "summary": "Nature, Published online: 16 September 2026; doi:10.1038/d41586-026-02886-7\nAn era-defining mathematics claim raises questions over how AI tools credit earlier work.",
+          "isoDate": "2026-09-16T00:00:00.000Z"
         },
         {
-          "title": "A wake-up call: diversify global research funding",
-          "link": "https://www.nature.com/articles/d41586-026-02904-8",
-          "summary": "Nature, Published online: 15 September 2026; doi:10.1038/d41586-026-02904-8\nA wake-up call: diversify global research funding",
-          "isoDate": "2026-09-15T00:00:00.000Z"
+          "title": "These bizarre, much-coveted microbes are revealing the origins of complex life",
+          "link": "https://www.nature.com/articles/d41586-026-02849-y",
+          "summary": "Nature, Published online: 16 September 2026; doi:10.1038/d41586-026-02849-y\nResearchers are racing to culture a menagerie of exotic organisms and finding lots of surprises along the way.",
+          "isoDate": "2026-09-16T00:00:00.000Z"
         },
         {
-          "title": "Why Nepal floods resulted in a disaster even after satellites spotted danger",
-          "link": "https://www.nature.com/articles/d41586-026-02907-5",
-          "summary": "Nature, Published online: 15 September 2026; doi:10.1038/d41586-026-02907-5\nWhy Nepal floods resulted in a disaster even after satellites spotted danger",
-          "isoDate": "2026-09-15T00:00:00.000Z"
+          "title": "NASA Ames Stars of the Month: September 2026",
+          "link": "https://www.nasa.gov/general/nasa-ames-stars-of-the-month-september-2026/",
+          "summary": "The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Steve Ormsby, Aphrodite Kostakis, Alejando Borlaff, Sarah Nickerson, Martina Caussi, Keiko Nomura, and Stephen Broccardo. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond. Space Biosciences Star: Steve […]",
+          "isoDate": "2026-09-15T23:46:11.000Z"
         },
         {
-          "title": "The geometric genius of René Descartes",
-          "link": "https://www.nature.com/articles/d41586-026-02723-x",
-          "summary": "Nature, Published online: 15 September 2026; doi:10.1038/d41586-026-02723-x\nThe achievements of a visionary mathematician, and a trip to the National Air and Space Museum in Washington DC, in this week’s pick from the Nature archive.",
-          "isoDate": "2026-09-15T00:00:00.000Z"
+          "title": "NASA Invites Media to International Observe the Moon Night",
+          "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-international-observe-the-moon-night/",
+          "summary": "NASA will host an International Observe the Moon Night celebration from 5:30 to 8 p.m. CST on Saturday, Sept. 19, at the U.S. Space & Rocket Center, the official visitor center for NASA’s Marshall Space Flight Center in Huntsville, Alabama. International Observe the Moon Night celebrates the Moon, the science behind it, and its connection […]",
+          "isoDate": "2026-09-15T18:55:33.000Z"
         },
         {
-          "title": "Make AI traceable before it shapes global climate assessments",
-          "link": "https://www.nature.com/articles/d41586-026-02905-7",
-          "summary": "Nature, Published online: 15 September 2026; doi:10.1038/d41586-026-02905-7\nMake AI traceable before it shapes global climate assessments",
-          "isoDate": "2026-09-15T00:00:00.000Z"
+          "title": "Celebrate International Observe the Moon Night with NASA",
+          "link": "https://www.nasa.gov/centers-and-facilities/goddard/celebrate-international-observe-the-moon-night-with-nasa/",
+          "summary": "In April, the world watched as four humans circled the Moon for the first time in over 50 years with NASA’s Artemis II mission. On Saturday, Sept. 19, the public is invited to look up again with NASA events across the country, including the International Observe the Moon Night celebration held at NASA’s Goddard Space […]",
+          "isoDate": "2026-09-15T16:15:12.000Z"
         },
         {
-          "title": "Why the NIH must resist the metrics trap",
-          "link": "https://www.nature.com/articles/d41586-026-02906-6",
-          "summary": "Nature, Published online: 15 September 2026; doi:10.1038/d41586-026-02906-6\nWhy the NIH must resist the metrics trap",
-          "isoDate": "2026-09-15T00:00:00.000Z"
+          "title": "Artemis III Crew Visits NASA Kennedy’s Vehicle Assembly Building",
+          "link": "https://www.nasa.gov/image-article/artemis-iii-crew-visits-nasa-kennedys-vehicle-assembly-building/",
+          "summary": "NASA astronaut Randy Bresnik (left) and ESA (European Space Agency) astronaut Luca Parmitano view progress on the solid rocket booster integration in High Bay 3 inside the Vehicle Assembly Building at NASA’s Kennedy Space Center in Florida on Wednesday, Sept. 2, 2026. Bresnik, Parmitano, and NASA astronauts Andre Douglas, Frank Rubio, and Bob Hines made […]",
+          "isoDate": "2026-09-15T16:14:24.000Z"
         },
         {
-          "title": "Global inequality panel is a chance for research to change lives",
-          "link": "https://www.nature.com/articles/d41586-026-02885-8",
-          "summary": "Nature, Published online: 15 September 2026; doi:10.1038/d41586-026-02885-8\nThe scientific panel is welcomed. It must now invite all interested researchers to participate.",
-          "isoDate": "2026-09-15T00:00:00.000Z"
+          "title": "Travel",
+          "link": "https://www.nasa.gov/centers-and-facilities/nssc/travel/",
+          "summary": "The NSSC provides travel reimbursement services for all authorized Agency travel including: domestic, foreign, local, ETDY, and Change of Station (COS). References Federal Travel Regulations (FTR) Traveler Extended TDY and Taxes Domestic Per Diem Rates Foreign Per Diem Rates Change of Station NSSC Travel now has another way that a transferee Traveler may submit his […]",
+          "isoDate": "2026-09-15T13:38:56.000Z"
         },
         {
-          "title": "CRISPR crops are coming to Europe — why bolder would be better",
-          "link": "https://www.nature.com/articles/d41586-026-02848-z",
-          "summary": "Nature, Published online: 15 September 2026; doi:10.1038/d41586-026-02848-z\nFor farmers and consumers to reap the benefits, guidelines for farming gene-edited plants must be implemented with careful thought.",
-          "isoDate": "2026-09-15T00:00:00.000Z"
+          "title": "APOD: 2026 September 15 – A Daytime Eclipse: Moon Occults Venus",
+          "link": "https://science.nasa.gov/image-article/apod-2026-september-15-a-daytime-eclipse-moon-occults-venus/",
+          "summary": "APOD Science APOD APOD: 2026 September 15 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Daytime […]",
+          "isoDate": "2026-09-15T04:05:00.000Z"
         }
       ]
     },
@@ -141,13 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-09-16T03:31:22.680Z"
+          "isoDate": "2026-09-16T10:54:16.366Z"
         },
         {
-          "title": "OpenAI boss says world 'right to be afraid' but 'should trust' AI firms",
+          "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
           "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
           "summary": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
-          "isoDate": "2026-09-16T00:59:20.000Z"
+          "isoDate": "2026-09-16T10:02:05.000Z"
         },
         {
           "title": "AI app ads promoting 'objectification of women' banned by watchdog",
@@ -204,6 +204,12 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "Measure by measure, studying society accurately",
+          "link": "https://news.mit.edu/2026/studying-society-accurately-naoki-egami-0916",
+          "summary": "Naoki Egami has become a standout in political methodology, helping refine tools that give scholars durable results.",
+          "isoDate": "2026-09-16T04:00:00.000Z"
+        },
+        {
           "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
           "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
           "summary": "",
@@ -256,12 +262,6 @@
           "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
           "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
           "isoDate": "2026-09-10T16:00:00.000Z"
-        },
-        {
-          "title": "Now everyone can put data to work",
-          "link": "https://openai.com/index/put-data-to-work",
-          "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
-          "isoDate": "2026-09-10T15:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-09-16T03:31:26.212Z"
+          "isoDate": "2026-09-16T10:54:18.839Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-09-16T03:31:23.856Z"
+          "isoDate": "2026-09-16T10:54:17.874Z"
         },
         {
           "title": "The AI Inference Revolution Is Here",
