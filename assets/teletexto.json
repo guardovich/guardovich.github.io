@@ -1,69 +1,69 @@
 {
-  "generatedAt": "2026-09-18T15:54:03.545Z",
+  "generatedAt": "2026-09-18T20:27:30.437Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
         {
+          "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
+          "link": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
+          "summary": "FAA plans for AI tool to help manage DC air traffic before a nationwide rollout.",
+          "isoDate": "2026-09-18T19:20:50.000Z"
+        },
+        {
+          "title": "Virginia governor creates an AI task force and moves to restrain data centers",
+          "link": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
+          "summary": "Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that is already home to the data center capital of the world.\nExecutive Order 22 bans executive branch officials from signing nondisclosure agreements for data center projects, requires expedited noise regulations, and requires a review of backup-generation operations used by data centers, among other requirements. The order also establishes an AI task force responsible for evaluating how the state government can address risks to Virginians like wo …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-18T18:29:17.000Z"
+        },
+        {
+          "title": "Disney’s first CTO is Character.AI’s former CEO",
+          "link": "https://www.theverge.com/entertainment/997555/karandeep-anand-disney-character-ai",
+          "summary": "You would think that a multimedia conglomerate as large as Disney would have a few chief technology officers by now, but the company has just appointed someone to the position for the very first time. \nToday, Disney announced that Karandeep Anand is joining the company as its new CTO. Anand will report directly to recently appointed CEO Josh D'Amaro, and he will head up the company's infrastructure, product, engineering, and data / AI platforms teams. Anand comes to Disney from chatbot startup Character.AI, where he served as CEO for just over a year and oversaw the company's push into microdramas. \nAnand jumping ship to Disney comes as a  …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-18T18:27:04.000Z"
+        },
+        {
+          "title": "FCC lets Paramount sell 49.5% equity stake to Saudi Arabia, UAE, and Qatar",
+          "link": "https://arstechnica.com/tech-policy/2026/09/fcc-lets-paramount-sell-49-5-equity-stake-to-saudi-arabia-uae-and-qatar/",
+          "summary": "FCC rejects concerns about repressive governments buying influence over CBS owner.",
+          "isoDate": "2026-09-18T17:57:41.000Z"
+        },
+        {
+          "title": "Finding the cells that put our brain to sleep",
+          "link": "https://arstechnica.com/science/2026/09/finding-the-cells-that-put-our-brain-to-sleep/",
+          "summary": "Rare cells with widespread connectivity seem to be able to trigger sleep.",
+          "isoDate": "2026-09-18T17:49:50.000Z"
+        },
+        {
+          "title": "US government website used Chinese model the FBI called \"malicious\"",
+          "link": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
+          "summary": "The Federal Register website briefly used an open source Chinese AI search tool.",
+          "isoDate": "2026-09-18T17:28:50.000Z"
+        },
+        {
+          "title": "The real story of the iPhone 18 Pro&#8217;s camera",
+          "link": "https://www.theverge.com/podcast/997366/the-real-story-of-the-iphone-18-pros-camera",
+          "summary": "It's one of the most fascinating years in a while when it comes to iPhone camera upgrades. The big story of the iPhone 18 Pro is the variable aperture main lens, which lets you open the aperture up wider for better low light shots and make the aperture smaller for better depth of field in group photos. But all I can get anyone to talk about is the software upgrades: it turns out, they're a lot more useful day to day than the aperture on a camera this small.\nThis week on The Vergecast, David Imel and Allison Johnson are here for a deep dive into the iPhone 18 Pro's camera. There's a lot to explore here, from the aperture, to the camera app's …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-18T17:06:37.000Z"
+        },
+        {
+          "title": "Gavin Newsom is pushing for an AI kill switch",
+          "link": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
+          "summary": "California Gov. Gavin Newsom (D) is positioning the state to take the lead on AI oversight, including the potential to mandate a \"kill switch\" for frontier models, with a new executive order issued Friday. \nNewsom's order directs the state to convene a group of experts that will deliver recommendations within two months on how to strengthen AI safety measures in state law. Newsom wants the group to consider how the state could require AI companies to embed independent verification groups onsite for regular audits, make their transparency reports and risk assessments subject to standards of independent auditors, create a \"kill switch\" that's …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-18T17:04:51.000Z"
+        },
+        {
+          "title": "What Hollywood thinks about existential AI warnings",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
+          "summary": "As the tech sector sounds alarms about AI's potential to destroy humanity, entertainment labor groups are urging the public to stay focused on what's already happening. The Verge reached out to Disney, Netflix, Amazon, Lionsgate, and other studios who have started using AI, as well film startups focused on bringing generative AI into the mainstream to ask for their reaction to the recent warnings surrounding the technology. None have responded to our request for comment. The Screen Actors Guild - American Federation of Television and Radio Artists (SAG-AFTRA) and Writers Guild of America East (WGAE) did, however.\nThe AI tools used in entert …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-18T16:35:19.000Z"
+        },
+        {
           "title": "Security researchers used Claude to help them hack into OpenAI",
           "link": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
-          "summary": "A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts using Anthropic's Claude Opus 4.8 and 5, the Wall Street Journal reports. They were able to access OpenAI's GitHub repository, called \"Monorepo,\" which reportedly contains \"OpenAI's algorithmic secrets,\" according to the Wall Street Journal's sources. \nThey stopped short of accessing internal code in Monorepo themselves, but sent a pull request from an employee's Codex account to prove they gained access. They were able to get in through Discourse, the third-party service that hosts OpenAI's community f …\nRead the full story at The Verge.",
+          "summary": "A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts using Anthropic's Claude Opus 4.8 and 5, The Wall Street Journal reports. They were able to access OpenAI's GitHub repository, called \"Monorepo,\" which reportedly contains \"OpenAI's algorithmic secrets,\" according to The Wall Street Journal's sources. \nThey stopped short of accessing internal code in Monorepo themselves, but sent a pull request from an employee's Codex account to prove they gained access. They were able to get in through Discourse, the third-party service that hosts OpenAI's community f …\nRead the full story at The Verge.",
           "isoDate": "2026-09-18T15:30:16.000Z"
-        },
-        {
-          "title": "Brendan Carr’s FCC is more worried about who The View interviews than foreign governments owning Paramount",
-          "link": "https://www.theverge.com/policy/997416/brendan-carr-fcc-foreign-governments-paramount",
-          "summary": "The FCC has announced it's waiving its rules limiting foreign equity ownership to 25 percent in the Paramount-Warner Bros. case and will allow three sovereign wealth funds run by the governments of Saudi Arabia, Qatar, and Abu Dhabi to own 49.5 percent of the company. \nDuring Brendan Carr's tenure, the FCC has repeatedly threatened ABC, tried to block stations from airing interviews with Democrats, censored late-night TV hosts, and tried to bully journalists. However, it seems to have no qualms with repressive foreign governments owning a significant stake in a giant American media conglomerate. \nIn its ruling, the FCC defended the decisio …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-18T15:12:41.000Z"
-        },
-        {
-          "title": "Lenovo’s Yoga Slim 7X is the most laptop that $1,000 can currently buy",
-          "link": "https://www.theverge.com/gadgets/997388/lenovo-yoga-slim-7x-laptop-fire-emblem-switch-2-deal-sale",
-          "summary": "Anyone shopping for a Windows laptop with a $1K budget should head to Best Buy, where for the rest of the day you can get a great deal on a capable Lenovo laptop. The Yoga Slim 7X is a slim 14-inch machine with a 2K 16:10 OLED touchscreen, Snapdragon’s high-end X2 Elite processor with 12 cores, plus 16GB of DDR5 RAM and a 1TB SSD. The specs are about the best you can get these days for $1,000, as worthwhile laptop deals are in short supply during RAMageddon.\nLenovo Yoga Slim 7x\n\nWhere to Buy:\n\n $1649.99 $999.99 at Best Buy\n\nThe Yoga Slim 7X seems like a great alternative to spending more (and getting less) with Microsoft’s latest Surface Laptop. In fact, you’d spend $1,549 on a similar model and still get half the storage that’s in this particular Yoga Slim 7X configuration. Its Arm-based processor can run most Windows apps very well, and yields superior battery life compared to laptops with x86 processors.\nThe laptop includes three USB-C ports, and a hardware switch for disabling the webcam. It supports Wi-Fi 7 and Bluetooth 5.3. It seems like a great machine for work, watching movies, or playing some games that aren’t too graphically intensive.\nMore great Verge-approved deals\nThe PlayStation 5 version of Starfield hasn’t been available for as long as the Xbox and PC version, so it’s been a little slower to see major discounts. However, it recently hit $29.99 (originally $49.99) at Amazon and Best Buy, making now a good time to pick up the RPG. While Starfield didn’t have nearly as large of a cultural impact as Bethesda’s other first-person RPGs, it’s still worth playing if you love space, guns, and quests. It’s probably the studio’s most polished game yet. Buyers will be able to download the Free Lanes update that hit alongside its PS5 debut in April, and there are multiple paid expansions available if you want more. Read our review.\nAs mentioned in a previous deal roundup, DoorDash is offering DashPass members a $25 DoorDash digital gift card when they spend $50 or more on a game (non DashPass members get $10). Fire Emblem: Fortune’s Weave just came out, and that’s a great game to use this promotion for if you have a Switch 2 and enjoy turn-based tactics gameplay. The digital title costs $69.99. Those who have had success with this deal note on Slickdeals that the gift card should arrive within a few days of making your purchase. Read our review of the game.\nThe Baseus VD1 Pro dash cam recently dropped in price by $20, selling for $99.99 at Amazon. There are so many dash cams out there, but this one’s unique in a few ways. It includes both a 4K front- and 1080p rear-facing camera to record multiple angles, and the front camera includes a battery that can be recharged via its built-in solar panel to keep it going even when your car is off. It captures continuous footage while your car is giving it power, though it can detect incidents for up to 14 days with its built-in battery while your car is parked. A long USB-C cable connects the two cameras, so you’ll need to get clever with how you hide it in your trim. Read more about the camera’s features here.",
-          "isoDate": "2026-09-18T14:51:26.000Z"
-        },
-        {
-          "title": "This cartridge-playing Game Boy clone is smaller and cheaper than Analogue’s Pocket",
-          "link": "https://www.theverge.com/tech/997379/funnyplaying-fpbg-mini-game-boy-color-handheld-fpga-cartridge",
-          "summary": "FunnyPlaying, a Chinese company known for its Game Boy and GBA upgrade kits, has announced a new handheld that plays original Nintendo cartridges and ROMs. The FPGB Mini's cartridge support is limited to the Game Boy and Game Boy Color so it isn't as capable as the Analogue Pocket that's also compatible with the GBA and Sega Game Gear. What still makes the FPGB Mini a tempting alternative is its extremely pocketable design resulting in a handheld only slightly wider than a Game Boy cartridge, and its cheaper price.\nFollowing recent price hikes the Analogue Pocket is now $239.99 while the FPGB Mini is currently discounted from $89.99 to $69. …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-18T14:41:18.000Z"
-        },
-        {
-          "title": "Meet the winner of Nikon's Small World in Motion video contest",
-          "link": "https://arstechnica.com/science/2026/09/meet-the-winner-of-nikons-small-world-in-motion-video-contest/",
-          "summary": "Ning Xu of Tsinghua University captured tiny cilia beating in airways of a child with rare respiratory disorder.",
-          "isoDate": "2026-09-18T13:56:57.000Z"
-        },
-        {
-          "title": "Researchers used Claude to hack OpenAI",
-          "link": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
-          "summary": "Researchers used Claude to reach an OpenAI employee account and sensitive GitHub data.",
-          "isoDate": "2026-09-18T13:30:12.000Z"
-        },
-        {
-          "title": "The Download: AI’s extinction risk and bioweapons threat",
-          "link": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
-          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Could AI really kill us all? Your questions, answered On Wednesday, MIT Technology Review hosted a live Roundtables event that asked the question many seem to be asking right now: could…",
-          "isoDate": "2026-09-18T12:10:00.000Z"
-        },
-        {
-          "title": "Could AI really kill us all? Your questions, answered.",
-          "link": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
-          "summary": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our senior AI editor Will Douglas Heaven and…",
-          "isoDate": "2026-09-18T11:29:22.000Z"
-        },
-        {
-          "title": "Rocket Report: China wants a Raptor 3 engine; SpaceX set for big Starship test",
-          "link": "https://arstechnica.com/space/2026/09/rocket-report-ula-flies-into-uncertain-future-falcon-9-family-hits-700-launches/",
-          "summary": "“I can tell you SpaceX has already gone captive.\"",
-          "isoDate": "2026-09-18T11:00:11.000Z"
-        },
-        {
-          "title": "Flash floods can strike without warning — this new technology could change that",
-          "link": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
-          "summary": "On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call, unaware that the heavy rain outside was beginning to flood her yard. \n\"I look over to where the barn is over there, and I see pieces of my wood floating, and I was like, 'What?' And I immediately was like, 'I have to go.' Close my laptop, and I get my kids up, and I'm like, 'Something's wrong,'\" Lin recalls.\nLin and her family got out safely and sheltered at a neighbor's house, but Lanesville got over 8 inches of rain within just a few hours that day, way over the thre …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-18T11:00:00.000Z"
         }
       ]
     },
@@ -75,12 +75,18 @@
           "title": "ERROR cargando feed",
           "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
           "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-09-18T15:53:59.669Z"
+          "isoDate": "2026-09-18T20:27:24.802Z"
         },
         {
           "title": "Cognitive resilience helps to predict Alzheimer’s dementia",
           "link": "https://www.nature.com/articles/d41586-026-02897-4",
           "summary": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02897-4\nThe trait could explain why symptoms vary in severity between people with similar brain pathology.",
+          "isoDate": "2026-09-18T00:00:00.000Z"
+        },
+        {
+          "title": "Briefing Chat: Evidence mounts for hidden chambers beyond Tutankhamun's tomb",
+          "link": "https://www.nature.com/articles/d41586-026-02984-6",
+          "summary": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02984-6\nNature staff discuss data that could point to Nefertiti’s burial place — plus, the implant that translates brain activity into speech and gestures.",
           "isoDate": "2026-09-18T00:00:00.000Z"
         },
         {
@@ -102,6 +108,18 @@
           "isoDate": "2026-09-18T00:00:00.000Z"
         },
         {
+          "title": "How to make a brain: new experiments challenge existing picture",
+          "link": "https://www.nature.com/articles/d41586-026-02943-1",
+          "summary": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02943-1\nResearch also uncovers an efficient way to grow hindbrain cells from stem cells — a difficult feat.",
+          "isoDate": "2026-09-18T00:00:00.000Z"
+        },
+        {
+          "title": "AI cracked the Navier–Stokes challenge. What does that mean for physics?",
+          "link": "https://www.nature.com/articles/d41586-026-02922-6",
+          "summary": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02922-6\nPhysicists and mathematicians are going beyond the classic equations of fluid dynamics to understand turbulence — often with the help of AI.",
+          "isoDate": "2026-09-18T00:00:00.000Z"
+        },
+        {
           "title": "Chinese companies doubled down on science after US tech restrictions",
           "link": "https://www.nature.com/articles/d41586-026-02946-y",
           "summary": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02946-y\nAffected Chinese companies adjusted their sources of knowledge to stay competitive.",
@@ -110,24 +128,6 @@
         {
           "title": "Ancient DNA unveils distinctive ancestries in the Bronze and Iron Ages of East Tianshan",
           "link": "https://www.science.org/doi/abs/10.1126/science.adv1295?af=R",
-          "summary": "Science, Volume 393, Issue 6817, September 2026.",
-          "isoDate": "2026-09-17T07:00:00.000Z"
-        },
-        {
-          "title": "Multi-organelle signatures map cell-state diversity and metabolic adaptation in tissues",
-          "link": "https://www.science.org/doi/abs/10.1126/science.ady6372?af=R",
-          "summary": "Science, Volume 393, Issue 6817, September 2026.",
-          "isoDate": "2026-09-17T07:00:00.000Z"
-        },
-        {
-          "title": "Atmospheric methane lifetime during the Last Glacial Maximum was reduced owing to dust-mediated chlorine chemistry",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aec4071?af=R",
-          "summary": "Science, Volume 393, Issue 6817, September 2026.",
-          "isoDate": "2026-09-17T07:00:00.000Z"
-        },
-        {
-          "title": "Splenic regulation of systemic platelet activation state",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aec7230?af=R",
           "summary": "Science, Volume 393, Issue 6817, September 2026.",
           "isoDate": "2026-09-17T07:00:00.000Z"
         }
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-09-18T15:54:00.482Z"
+          "isoDate": "2026-09-18T20:27:26.282Z"
         },
         {
           "title": "The virtual worlds where robots are trained",
@@ -204,6 +204,12 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "A new chapter for MIT Reads",
+          "link": "https://news.mit.edu/2026/new-chapter-mit-reads-0918",
+          "summary": "A new focus on fiction and memoir aims to help the MIT community celebrate the power of storytelling and strengthen social connection.",
+          "isoDate": "2026-09-18T16:30:00.000Z"
+        },
+        {
           "title": "How Cooley is accelerating IPO work with ChatGPT",
           "link": "https://openai.com/index/cooley-gopublic",
           "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
@@ -256,12 +262,6 @@
           "link": "https://news.mit.edu/2026/studying-society-accurately-naoki-egami-0916",
           "summary": "Naoki Egami has become a standout in political methodology, helping refine tools that give scholars durable results.",
           "isoDate": "2026-09-16T04:00:00.000Z"
-        },
-        {
-          "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-          "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
-          "summary": "",
-          "isoDate": "2026-09-15T17:05:57.000Z"
         }
       ]
     },
@@ -273,13 +273,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-09-18T15:54:02.546Z"
+          "isoDate": "2026-09-18T20:27:29.382Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 59\nColumn: 58\nChar: =",
-          "isoDate": "2026-09-18T15:54:01.703Z"
+          "isoDate": "2026-09-18T20:27:27.659Z"
+        },
+        {
+          "title": "Turning Tech Talent Into Leadership Legacy",
+          "link": "https://spectrum.ieee.org/tech-talent-into-leadership-legacy",
+          "summary": "Transitioning from years of working in a senior technical or executive role to a leadership position is one of the most challenging phases of a STEM career. It requires moving away from making decisions on your own to mentoring others, making strategic decisions for the organization, and collaborating with coworkers from different generations.\nThe shift in mindset is known as “legacy leadership,” a philosophy whereby success is no longer measured by personal achievements but by how effectively a senior leader empowers others.\nTo help seasoned professionals and senior experts navigate the transition, the inaugural IEEE International Leadership Conference (ILC) will provide attendees practical advice on cultivating collaborations and guiding emerging talent.\n“Early in our STEM careers, we measure success by what we have achieved,” says Jeewika Ranaweera, cochair of the IEEE ILC program committee. “Later, we should measure success by what we enable, how many people we mentor, how much knowledge we transfer, and how many doors we open for the next generation.”\nThe ILC is scheduled for 3 and 4 October in Budapest. Registration is open.\nLetting go of the “expert” identity\nFor decades, seasoned technologists have been valued primarily for their technical expertise. Shifting from that identity can feel uncomfortable, but legacy leadership requires measuring success by different standards. They include a leader’s influence on the staff, the ability to uphold the company’s mission, and empowering others to lead and succeed.\nThe transition requires leaders to find purpose outside their corporate titles, shifting their focus to the long-term sustainability of their teams, their organization, and the broader technical community.\n“A professional legacy is not measured only by what we have achieved but also by sharing our knowledge, experience, and opportunities with others,” says Sudhanshu S. Jamuar, another program committee cochair. “The real transition from expert to a legacy builder happens when we stop asking, ‘What more can I accomplish myself?’ and start asking, ‘How many others can I enable to accomplish more?’”\nNeeli Rashmi Prasad, IEEE ILC treasurer and sponsorship cochair, adds that the transition transforms a lifetime of technical work into a platform for future innovation.\n“The true value of experience is not in how much knowledge we accumulate but in how intentionally we transfer it,” Prasad says. “When we partner with, mentor, and create space for others to lead, our expertise becomes a foundation for progress far beyond our own careers.”\nMoving beyond advice-giving\nTrue knowledge transfer requires coaching rather than advising, and mastering the art of active listening. To build deep trust with early-career colleagues and ensure a seamless transfer of leadership to the next generation, senior leaders must avoid offering unsolicited or outdated anecdotes. Effective mentorship is a collaborative loop in which senior experts contribute hard-won industry wisdom while remaining curious and learning from the fresh, cutting-edge perspectives of talented coworkers.\n“Knowledge transfer is most powerful when it is a two-way bridge: experience flows from one generation to the next, while new ideas and perspectives flow back,” says Sudeendra Koushik, president of the IEEE Technology and Engineering Management Society and an ILC keynote speaker. “This approach transforms mentorship from simply passing on information into one where the next generation can question, experiment, innovate, and ultimately surpass what came before them.”\nSeasoned professionals should encourage independent, disruptive thinkers rather than carbon copies of themselves, Prasad says.\n“Legacy leadership is about building continuity,” she says. “We should not simply prepare the next generation to follow the paths we created; we should give them the confidence, knowledge, and networks to challenge those paths, create new ones, and take technology further than we imagined.”\nDesigning your next chapter\nLeadership does not need to stop when one’s job ends; it can evolve. Seasoned, retired professionals can continue contributing meaningful service through pathways that align with their personal passions. They include:\n\nAdvisory boards: steering corporate, technical, or community organizations.\nCivic engagement: applying engineering methodologies to solve community challenges.\nVolunteerism: mentoring the next generation of grassroots innovators through professional networks including IEEE.\n\nThose pathways offer experienced professionals an opportunity to redefine success, not in terms of position, authority, or personal achievement but in terms of sustained impact.\n“Retirement from a job should never mean retirement from purpose,” Koushik says. “Our experience becomes even more valuable when we use it in service of the profession, society, and the generation that follows.”\nAt the same time, the collaborative continuum relies on a proactive younger generation. Emerging leaders need to take responsibility for building their professional connections, Prasad says, advising: “Be bold, stay curious, and build your network early!”\nA space for continuity\nThe conference is designed to combine a drive to cultivate emerging innovators with a deep reservoir of industry stewardship and strategic perspective. Rather than a single classroom session, the conference will feature a dedicated career-readiness and mentorship track where attendees can explore practical frameworks for building strategic professional networks, connecting with peer advocates, and establishing reciprocal knowledge-sharing opportunities across generations.\nBy participating, seasoned professionals can ensure their decades of expertise continue to yield dividends for generations to come.\n“Our professional legacy is not the technology we build, the titles we earn, or the awards we receive,” Ranaweera says. “It is the knowledge we share, the lives we influence, and the future we help others create.”\nYou can view the agenda, read speaker biographies, and secure your seat at the ILC online.",
+          "isoDate": "2026-09-18T18:00:04.000Z"
         },
         {
           "title": "Rethinking Robot Safety in the Age of AI",
@@ -310,12 +316,6 @@
           "link": "https://spectrum.ieee.org/countries-seek-to-curb-social-media-addiction-for-kids",
           "summary": "Social media plays a significant, multifaceted role in adolescents’ development, influencing how they communicate, learn, socialize, and express themselves.\nThe benefits, however, are accompanied by risks that can undermine youngsters’ character as well as their cognitive and social development.\nThe potential problems include excessive screen time, social media addiction, cyberbullying, misinformation, radicalization, privacy violations, exposure to inappropriate content, sextortion, and doomscrolling.\nA recent study published in Nature: Human Behaviour found that adolescents who begin using social media at an early age tend to have significantly lower academic performance. A Mashable article highlights additional issues including effects on mental health, self-harm, addiction to social media, compulsive, repetitive checking, and exposure to pornography and violent material.\nProtecting minors has largely fallen to parents, schools, and self-regulation by some social media providers.\nBut that approach has proven ineffective and inadequate, so some governments and policymakers have stepped in and placed responsibility on social media providers.\nAustralia’s nationwide ban\nAustralia was the first country to legislate a nationwide social media ban on children younger than 16—which I wrote about in January for Communications of the ACM.\nEnacted in December, the ban initially applied to 10 platforms: Facebook, Instagram, Kick, Reddit, Snapchat, Threads, TikTok, Twitch, X, and YouTube. It excluded messaging, gaming, and nonsocial platforms including Discord, GitHub, Roblox, WhatsApp, YouTube Kids, and educational tools.\nThe law places the responsibility for enforcement on the platform providers through age-assurance mechanisms, requiring the platforms to take “reasonable steps” to prevent those 15 or younger from creating or holding accounts.\nIt does not, however, apply to content consumption. Children can view publicly available posts and videos without logging in; they cannot comment or post, according to the law.\nThe legislation mandates that the user’s age be verified with tools such as government-issued identification, biometric or facial age-estimation tools, behavioral or inference algorithms, and self-declaration with optional checks.\nPenalties for noncompliance can reach US $35.6 million.\nThe 10 platforms subsequently removed nearly 5 million accounts of young users.\nAlthough the ban received widespread support, human rights organizations and digital freedom advisory groups have argued that it limits young people’s freedom of expression and access to useful information. They say the ban might contribute to social isolation and the loss of support networks, particularly among marginalized youth.\nPromising early outcomes\nThe Australian ban is producing positive outcomes, according to a recent Time magazine article, “What the World Should Learn From Australia’s Social Media Law.”\nEarly findings indicate it has reduced account ownership and social media use among young children. A YouGov survey of Australians found that 61 percent of parents of children age 16 and younger reported positive changes including more face-to-face interaction, greater presence and engagement, and improved parent-child relationships. Three in five Australians surveyed called the ban effective.\nThe ban has encouraged social media platforms to reconsider their features. Snapchat is moving toward a friends-only experience for 13- to 15-year-olds, for example.\nThe law is stimulating the development of purpose-built online spaces for children younger than 16 that can support their developmental needs, offering alternatives to mainstream social media.\nThe longer-term impact could be more significant if “no social media account before age 16” becomes an accepted norm, making it easier for parents and schools to support delayed social media use.\nImplementation struggles\nDespite the early encouraging outcomes, one study found that online platforms struggle to implement age checks. Many under-16 users in Australia have continued to access platforms with little difficulty, the study said. They children have found workarounds to subvert restrictions, such as using a free VPN to bypass age checks—some of which have questionable data-collection practices.\nSeven in 10 children retained their existing accounts on restricted platforms, the study found. Other teens created new accounts using incorrect age information. Some were incentivized to seek unregulated offshore platforms not subject to Australia’s law.\nThe workarounds prompted Australia to double the maximum fine and warn of court action against tech giants for noncompliance.\nEmphasis on age verification\nA number of other countries are implementing or considering social media restrictions. They include Brazil, Canada, France, Greece, Indonesia, Norway, Poland, Thailand, Türkiye, and the United Kingdom. The European Union is contemplating its own restrictions. \nThe countries’ mandates for age verification or age assurance shift the policy focus from whether to verify age to how to do so effectively while protecting user privacy.\nAn article on think tank New America’s website, “Age Assurance and Verification,” describes some methods: \n\nAge gating and screening. Users self-attest their age by checking a box or inputting a birth date.\nAge estimation. Several techniques are available, including profiling the user’s online activity and scanning the user’s face.\nAge verification. One way is providing a government-issued identification document. Other approaches include digital identity systems, digital wallets, and third-party verification.\n\nReliable age verification is technically challenging and raises privacy concerns, as outlined in “The Age-Verification Trap,” written by Cinderpoint consultant Waydell D. Carvalho and published in February in IEEE Spectrum. Carvallo says platforms need to balance age verification with protecting users’ personal information.\nIEEE’s contributions\nIEEE is working on initiatives to provide a safer online environment for children. To help developers build age-appropriate social media platforms and websites, the IEEE Standards Association (IEEE SA) has published two guidelines.\nThe IEEE Standard for Online Age Verification (IEEE 2089.1-2024) provides a framework for designing, specifying, evaluating, and deploying verification systems. The standard includes requirements for privacy protection, data security, and information management specific to the age-assurance process. It also provides procedures for verifying a user’s age or age range with a high degree of accuracy.\nBased on the 5Rights Foundation’s Principles for Children, the other standard (IEEE 2089-2021) provides practical steps to qualify online products and services for children. It requires systems to present information in an age-appropriate way and to uphold the rights established for youngsters in the U.N. Convention on the Rights of the Child.\nIEEE SA also offers an online age-verification-certification program, which assesses systems for compliance with the IEEE 2089.1 standard. The program certifies that organizations implement robust processes before granting access to age-restricted products and services, prioritizing children’s safety, privacy, autonomy, and rights.\nAs outlined in The Institute article “IEEE Makes Strides to Improve Online Safety for Kids,” certification is based on six key indicators: accuracy, frequency of assurance, counter-fraud measures, authenticity, frequency of authenticity checks, and birth date confidence.\nIndonesia used key provisions from the two IEEE guidelines to inform its child-protection regulation, which was signed into law last year.\nIEEE’s ethically aligned design framework prioritizes human well-being, transparency, accountability, privacy, and protecting vulnerable populations including children.\nCalls for platform reforms\nAlthough social media bans would be globally significant policy responses, deeper structural issues remain largely unaddressed. Platform architecture and features contribute to social media harm.\nThe focus needs to shift from constraints on account provisioning and content moderation to safer platform design.\nMeta in August agreed to pay $17.1 billion to settle a lawsuit brought by U.S. states. The suit said Meta designed its social media to be addictive to children, and the company concealed internal research showing Instagram’s addictive effects on teenagers. As part of the settlement, Meta agreed to implement child-safety measures such as setting daily time limits and disabling Facebook and Instagram push notifications during school hours.\nThe company still faces other lawsuits that could have far-reaching implications, pressuring other tech companies to design safer social media platforms.\nArchitecture-driven features such as infinite scrolling, algorithmic recommendations, addictive platform design, data-driven engagement, and personalized advertising to minors are other contributing factors to social media addiction.\nIEEE Senior Member Katina Michael, professor at the University of Sydney business school and founding editor in chief of IEEE Transactions on Technology and Society, shared her perspective: “Social media bans may offer a short-term response to growing concerns, but they are not a long-term solution,” she says. “IEEE 2089-2021 advocates for socio-technical systems that are designed to promote human well-being, safety, and flourishing. Rather than relying on prohibition alone, we should focus on better design, building digital platforms that embed ethics, accountability, transparency, and human values from the outset.”\nCollective responsibility\nProtecting children online would require a combination of policy measures, improved platform design, digital literacy, parental involvement, and cultural change.\nBuilding a safe, secure, and inclusive digital ecosystem that supports adolescents’ cognitive, social, and emotional development would require collaboration among technology companies, platform providers, content creators, parents, educators, policymakers, and young people themselves.\nProfessional organizations such as IEEE can continue contributing through standards development, education, certification while promoting trustworthy and responsible digital technologies.\nThis article was updated on 16 September 2026.",
           "isoDate": "2026-09-14T18:00:04.000Z"
-        },
-        {
-          "title": "Responsible AI for Higher Education",
-          "link": "https://webinars.on24.com/wileyevents/ResponsibleAI",
-          "summary": "This interactive webinar will introduce the different types of AI, address the concerns with AI, share how we IBM are approaching Responsible AI, and offer guidance to students about what they can do - as individuals, and members of their IEEE chapters. Participants will also have the opportunity to to apply the Responsible AI approach to a particular use case - IBM Bob, a software development life cycle agent, and Q&A. This will be an interactive session, so have phones ready to engage! \nRegister now for this free webinar!",
-          "isoDate": "2026-09-14T14:18:11.000Z"
         }
       ]
     },
@@ -324,57 +324,12 @@
       "maxItems": 120,
       "items": [
         {
-          "title": "RESULTADOS (ÚLTIMOS)",
+          "title": "RESULTADOS (EN DIRECTO)",
           "link": "",
           "summary": ""
         },
         {
-          "title": "MÁL  1-3  VIL",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "REA  1-0  GET",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "BAR  7-2  SAN",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "DEP  0-1  SEV",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "ATL  4-0  OSA",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "ELC  2-3  REA",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "ALA  0-1  VAL",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "RAY  2-1  ESP",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "VIL  1-2  REA",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "REA  0-3  ATL",
+          "title": "ESP  0-2  ELC",
           "link": "",
           "summary": ""
         },
@@ -424,12 +379,12 @@
           "summary": ""
         },
         {
-          "title": " 8  ESP   6   2  1  3   9   7   2   7",
+          "title": " 8  ATH   5   2  1  2   7   6   1   7",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 9  ATH   5   2  1  2   7   6   1   7",
+          "title": " 9  ESP   7   2  1  4   9   9   0   7",
           "link": "",
           "summary": ""
         },
@@ -469,22 +424,22 @@
           "summary": ""
         },
         {
-          "title": "17  CEL   6   0  4  2   3   6  -3   4",
+          "title": "17  ELC   7   1  2  4  10  16  -6   5",
           "link": "",
           "summary": ""
         },
         {
-          "title": "18  VAL   6   1  1  4   2  10  -8   4",
+          "title": "18  CEL   6   0  4  2   3   6  -3   4",
           "link": "",
           "summary": ""
         },
         {
-          "title": "19  MÁL   6   0  3  3   3  11  -8   3",
+          "title": "19  VAL   6   1  1  4   2  10  -8   4",
           "link": "",
           "summary": ""
         },
         {
-          "title": "20  ELC   6   0  2  4   8  16  -8   2",
+          "title": "20  MÁL   6   0  3  3   3  11  -8   3",
           "link": "",
           "summary": ""
         }
