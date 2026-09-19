@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T03:19:17.387Z",
+  "generatedAt": "2026-09-19T10:22:56.748Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
@@ -75,7 +75,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
           "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-09-19T03:19:11.240Z"
+          "isoDate": "2026-09-19T10:22:52.392Z"
         },
         {
           "title": "Cognitive resilience helps to predict Alzheimer’s dementia",
@@ -141,7 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-09-19T03:19:14.095Z"
+          "isoDate": "2026-09-19T10:22:53.886Z"
+        },
+        {
+          "title": "Google's Gemini AI hacked three companies in security test",
+          "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+          "summary": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
+          "isoDate": "2026-09-19T04:27:11.000Z"
         },
         {
           "title": "Tech Now",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cgqd9zkkvlyo?at_medium=RSS&at_campaign=rss",
           "summary": "Nvidia, OpenAI and Anthropic are all now selling their own limited edition fashion lines.",
           "isoDate": "2026-09-16T23:18:47.000Z"
-        },
-        {
-          "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
-          "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
-          "summary": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
-          "isoDate": "2026-09-16T10:02:05.000Z"
         }
       ]
     },
@@ -208,6 +208,12 @@
           "link": "https://news.mit.edu/2026/new-chapter-mit-reads-0918",
           "summary": "A new focus on fiction and memoir aims to help the MIT community celebrate the power of storytelling and strengthen social connection.",
           "isoDate": "2026-09-18T16:30:00.000Z"
+        },
+        {
+          "title": "Introducing the Australian Youth Safety Blueprint",
+          "link": "https://openai.com/index/australian-youth-safety-blueprint",
+          "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+          "isoDate": "2026-09-18T12:00:00.000Z"
         },
         {
           "title": "How Cooley is accelerating IPO work with ChatGPT",
@@ -256,12 +262,6 @@
           "link": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
           "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
           "isoDate": "2026-09-16T12:00:00.000Z"
-        },
-        {
-          "title": "How workers are unlocking new ways of working",
-          "link": "https://openai.com/index/unlocking-new-ways-of-working",
-          "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
-          "isoDate": "2026-09-16T09:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-09-19T03:19:16.639Z"
+          "isoDate": "2026-09-19T10:22:55.992Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 59\nColumn: 58\nChar: =",
-          "isoDate": "2026-09-19T03:19:15.576Z"
+          "isoDate": "2026-09-19T10:22:55.062Z"
         },
         {
           "title": "Turning Tech Talent Into Leadership Legacy",
