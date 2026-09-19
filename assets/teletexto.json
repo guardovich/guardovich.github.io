@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-09-19T15:25:51.698Z",
+  "generatedAt": "2026-09-19T20:06:30.680Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Trump treads further on free speech with new journalist bans",
+          "link": "https://www.theverge.com/policy/997805/trump-cnn-msnow-politico-ban",
+          "summary": "President Donald Trump speaks to reporters on the tarmac before boarding Air Force One. (Photo by Andrew Harnik/Getty Images) | Getty Images\t\n\nOn Friday, the president threatened to ban CNN, MS Now, and Politico from the White House. It could have just been another one of his Truth Social fever dreams, but it turns out it's very real. All three publications were turned away from the White House this morning, NPR reports, marking an escalation in the administration's war on the First Amendment.\nPolitico tried to get to the bottom of it, asking why now? It reports that \"many senior [White House] staff were surprised by the directive\" (what's new?), and that it was done \"while chief of staff Susie Wiles was out of town.\" Apparently he's been talked down from this kind of sweeping mov …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-19T17:10:21.000Z"
+        },
         {
           "title": "Gemini went rogue, hacked three companies, and Google hid it",
           "link": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
@@ -14,7 +20,7 @@
         {
           "title": "Anamanaguchi has ‘too goddamn many’ browser tabs open right now",
           "link": "https://www.theverge.com/entertainment/996855/anamanaguchi-anyway-yeah-i-guess-interview-music",
-          "summary": "Band members Luke Silas, Ary Warnaar, Peter Burkman, and James DeVito (left to right). Maybe their next album will be recorded entirely in a windmill? | Image: Joshua Tarn\t\n\nAnamanaguchi, the band consisting of Peter Berkman, James DeVito, Luke Silas, and Ary Warnaar, are most known for their chiptune music. Like me, you might have first heard them in game soundtracks like 2010's Scott Pilgrim vs. the World: The Game or know of their collaboration with Hatsune Miku (which even made its way into Fortnite). They've gone through different eras of breakneck chiptune beats and dance-y pop songs, but their 2025 album Anyway took an indie rock departure - recorded in person at the American Football house and filled with fuzzy guitars.\nThey're also a band that's terminally online and very plugged into the video game sc …\nRead the full story at The Verge.",
+          "summary": "Band members Luke Silas, Ary Warnaar, Peter Burkman, and James DeVito (left to right). Maybe their next album will be recorded entirely in a windmill? | Image: Joshua Tarn\t\n\nAnamanaguchi, the band consisting of Peter Berkman, James DeVito, Luke Silas, and Ary Warnaar, are most known for their chiptune music. Like me, you might have first heard them in game soundtracks like 2010's Scott Pilgrim vs. the World: The Game or know of their collaboration with Hatsune Miku (which even made its way into Fortnite). They've gone through different eras of breakneck chiptune beats and dance-y pop songs, but their 2025 album Anyway took an indie rock departure - written at the American Football house and filled with fuzzy guitars.\nThey're also a band that's terminally online and very plugged into the video game scene as well …\nRead the full story at The Verge.",
           "isoDate": "2026-09-19T15:00:00.000Z"
         },
         {
@@ -58,12 +64,6 @@
           "link": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
           "summary": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would damage the web, characterized its scraping of data to train its models as the \"largest theft of labor in human history,\" and that it made a \"complete mockery of the idea of fair use.\"\nMany of the most eye-catching quotes from the document come from Microsoft's Director of Applied Science, Brent Hecht. Though, the company has tried to distance itself from Hecht's assertions. Microsoft spokesperson Alex Haurek told The Verge that \"These comments ref …\nRead the full story at The Verge.",
           "isoDate": "2026-09-18T21:07:24.000Z"
-        },
-        {
-          "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
-          "link": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
-          "summary": "But the military's overall use of AI seems to be accelerating.",
-          "isoDate": "2026-09-18T20:26:33.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-09-19T15:25:47.672Z"
+          "isoDate": "2026-09-19T20:06:26.717Z"
         },
         {
           "title": "Google's Gemini AI hacked three companies in security test",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-09-19T15:25:50.906Z"
+          "isoDate": "2026-09-19T20:06:29.715Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 59\nColumn: 58\nChar: =",
-          "isoDate": "2026-09-19T15:25:49.687Z"
+          "isoDate": "2026-09-19T20:06:28.552Z"
         },
         {
           "title": "Turning Tech Talent Into Leadership Legacy",
@@ -329,7 +329,7 @@
           "summary": ""
         },
         {
-          "title": "ATH  0-0  ALA",
+          "title": "SEV  1-1  BAR",
           "link": "",
           "summary": ""
         },
@@ -344,7 +344,7 @@
           "summary": ""
         },
         {
-          "title": " 1  BAR   6   6  0  0  28   6  22  18",
+          "title": " 1  BAR   7   6  1  0  29   7  22  19",
           "link": "",
           "summary": ""
         },
@@ -359,12 +359,12 @@
           "summary": ""
         },
         {
-          "title": " 4  ATL   6   4  1  1  14   6   8  13",
+          "title": " 4  SEV   7   4  2  1  10   7   3  14",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 5  SEV   6   4  1  1   9   6   3  13",
+          "title": " 5  ATL   6   4  1  1  14   6   8  13",
           "link": "",
           "summary": ""
         },
@@ -394,12 +394,12 @@
           "summary": ""
         },
         {
-          "title": "11  ESP   7   2  1  4  10  10   0   7",
+          "title": "11  CEL   7   1  4  2   8   6   2   7",
           "link": "",
           "summary": ""
         },
         {
-          "title": "12  SAN   6   2  1  3  11  16  -5   7",
+          "title": "12  ESP   7   2  1  4  10  10   0   7",
           "link": "",
           "summary": ""
         },
@@ -409,27 +409,27 @@
           "summary": ""
         },
         {
-          "title": "14  VIL   6   1  2  3  10  11  -1   5",
+          "title": "14  SAN   7   2  1  4  11  21 -10   7",
           "link": "",
           "summary": ""
         },
         {
-          "title": "15  LEV   5   1  2  2   7   9  -2   5",
+          "title": "15  VIL   6   1  2  3  10  11  -1   5",
           "link": "",
           "summary": ""
         },
         {
-          "title": "16  GET   6   1  2  3   3   7  -4   5",
+          "title": "16  LEV   5   1  2  2   7   9  -2   5",
           "link": "",
           "summary": ""
         },
         {
-          "title": "17  ELC   7   1  2  4  11  17  -6   5",
+          "title": "17  GET   6   1  2  3   3   7  -4   5",
           "link": "",
           "summary": ""
         },
         {
-          "title": "18  CEL   6   0  4  2   3   6  -3   4",
+          "title": "18  ELC   7   1  2  4  11  17  -6   5",
           "link": "",
           "summary": ""
         },
