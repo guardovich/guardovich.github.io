@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-09-18T20:27:30.437Z",
+  "generatedAt": "2026-09-19T03:19:17.387Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+          "summary": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would damage the web, characterized its scraping of data to train its models as the \"largest theft of labor in human history,\" and that it made a \"complete mockery of the idea of fair use.\"\nMany of the most eye-catching quotes from the document come from Microsoft's Director of Applied Science, Brent Hecht. Though, the company has tried to distance itself from Hecht's assertions. Microsoft spokesperson Alex Haurek told The Verge that \"These comments ref …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-18T21:07:24.000Z"
+        },
+        {
+          "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
+          "link": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
+          "summary": "But the military's overall use of AI seems to be accelerating.",
+          "isoDate": "2026-09-18T20:26:33.000Z"
+        },
         {
           "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
           "link": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
@@ -52,18 +64,6 @@
           "link": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
           "summary": "California Gov. Gavin Newsom (D) is positioning the state to take the lead on AI oversight, including the potential to mandate a \"kill switch\" for frontier models, with a new executive order issued Friday. \nNewsom's order directs the state to convene a group of experts that will deliver recommendations within two months on how to strengthen AI safety measures in state law. Newsom wants the group to consider how the state could require AI companies to embed independent verification groups onsite for regular audits, make their transparency reports and risk assessments subject to standards of independent auditors, create a \"kill switch\" that's …\nRead the full story at The Verge.",
           "isoDate": "2026-09-18T17:04:51.000Z"
-        },
-        {
-          "title": "What Hollywood thinks about existential AI warnings",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
-          "summary": "As the tech sector sounds alarms about AI's potential to destroy humanity, entertainment labor groups are urging the public to stay focused on what's already happening. The Verge reached out to Disney, Netflix, Amazon, Lionsgate, and other studios who have started using AI, as well film startups focused on bringing generative AI into the mainstream to ask for their reaction to the recent warnings surrounding the technology. None have responded to our request for comment. The Screen Actors Guild - American Federation of Television and Radio Artists (SAG-AFTRA) and Writers Guild of America East (WGAE) did, however.\nThe AI tools used in entert …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-18T16:35:19.000Z"
-        },
-        {
-          "title": "Security researchers used Claude to help them hack into OpenAI",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
-          "summary": "A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts using Anthropic's Claude Opus 4.8 and 5, The Wall Street Journal reports. They were able to access OpenAI's GitHub repository, called \"Monorepo,\" which reportedly contains \"OpenAI's algorithmic secrets,\" according to The Wall Street Journal's sources. \nThey stopped short of accessing internal code in Monorepo themselves, but sent a pull request from an employee's Codex account to prove they gained access. They were able to get in through Discourse, the third-party service that hosts OpenAI's community f …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-18T15:30:16.000Z"
         }
       ]
     },
@@ -75,7 +75,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
           "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-09-18T20:27:24.802Z"
+          "isoDate": "2026-09-19T03:19:11.240Z"
         },
         {
           "title": "Cognitive resilience helps to predict Alzheimer’s dementia",
@@ -141,7 +141,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-09-18T20:27:26.282Z"
+          "isoDate": "2026-09-19T03:19:14.095Z"
+        },
+        {
+          "title": "Tech Now",
+          "link": "https://www.bbc.co.uk/iplayer/episode/m0032301?at_medium=RSS&at_campaign=rss",
+          "summary": "Adrienne Murray follows NASA scientists in Iceland researching a rare total solar eclipse.",
+          "isoDate": "2026-09-19T01:00:00.000Z"
+        },
+        {
+          "title": "Would Australians support a smart glasses ban?",
+          "link": "https://www.bbc.co.uk/news/videos/cm9w4nenzv4no?at_medium=RSS&at_campaign=rss",
+          "summary": "As Australia considers barring the use of smart glasses in government offices, the BBC asks people in Sydney what they think.",
+          "isoDate": "2026-09-18T23:15:10.000Z"
         },
         {
           "title": "The virtual worlds where robots are trained",
@@ -184,18 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
           "summary": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
           "isoDate": "2026-09-16T10:02:05.000Z"
-        },
-        {
-          "title": "AI app ads promoting 'objectification of women' banned by watchdog",
-          "link": "https://www.bbc.co.uk/news/articles/cmlyrn2n4zg5o?at_medium=RSS&at_campaign=rss",
-          "summary": "The ad regulator said it had \"zero-tolerance\" for ads promoting AI tools that could sexualise or objectify women.",
-          "isoDate": "2026-09-15T23:27:17.000Z"
-        },
-        {
-          "title": "Tech Life",
-          "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyf?at_medium=RSS&at_campaign=rss",
-          "summary": "What should children learn in a world transformed by artificial intelligence?",
-          "isoDate": "2026-09-15T19:30:00.000Z"
         }
       ]
     },
@@ -246,6 +246,12 @@
           "isoDate": "2026-09-16T13:00:00.000Z"
         },
         {
+          "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+          "link": "https://openai.com/index/hex-gpt-6-astra",
+          "summary": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
+          "isoDate": "2026-09-16T12:00:00.000Z"
+        },
+        {
           "title": "How to connect AI usage to business value",
           "link": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
           "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
@@ -256,12 +262,6 @@
           "link": "https://openai.com/index/unlocking-new-ways-of-working",
           "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
           "isoDate": "2026-09-16T09:00:00.000Z"
-        },
-        {
-          "title": "Measure by measure, studying society accurately",
-          "link": "https://news.mit.edu/2026/studying-society-accurately-naoki-egami-0916",
-          "summary": "Naoki Egami has become a standout in political methodology, helping refine tools that give scholars durable results.",
-          "isoDate": "2026-09-16T04:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-09-18T20:27:29.382Z"
+          "isoDate": "2026-09-19T03:19:16.639Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 59\nColumn: 58\nChar: =",
-          "isoDate": "2026-09-18T20:27:27.659Z"
+          "isoDate": "2026-09-19T03:19:15.576Z"
         },
         {
           "title": "Turning Tech Talent Into Leadership Legacy",
@@ -324,12 +324,57 @@
       "maxItems": 120,
       "items": [
         {
-          "title": "RESULTADOS (EN DIRECTO)",
+          "title": "RESULTADOS (ÚLTIMOS)",
           "link": "",
           "summary": ""
         },
         {
-          "title": "ESP  0-2  ELC",
+          "title": "ESP  1-3  ELC",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "MÁL  1-3  VIL",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "REA  1-0  GET",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "BAR  7-2  SAN",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "DEP  0-1  SEV",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "ATL  4-0  OSA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "ELC  2-3  REA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "ALA  0-1  VAL",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "RAY  2-1  ESP",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "VIL  1-2  REA",
           "link": "",
           "summary": ""
         },
@@ -384,7 +429,7 @@
           "summary": ""
         },
         {
-          "title": " 9  ESP   7   2  1  4   9   9   0   7",
+          "title": " 9  ESP   7   2  1  4  10  10   0   7",
           "link": "",
           "summary": ""
         },
@@ -424,7 +469,7 @@
           "summary": ""
         },
         {
-          "title": "17  ELC   7   1  2  4  10  16  -6   5",
+          "title": "17  ELC   7   1  2  4  11  17  -6   5",
           "link": "",
           "summary": ""
         },
