@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-09-20T03:36:23.237Z",
+  "generatedAt": "2026-09-20T10:42:24.057Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "T. rex teeth indicate it ran as warm as an elephant",
+          "link": "https://arstechnica.com/science/2026/09/t-rex-teeth-indicate-it-ran-as-warm-as-an-elephant/",
+          "summary": "Isotope ratios provide a hint that the giants were actively managing temperatures.",
+          "isoDate": "2026-09-20T09:00:11.000Z"
+        },
         {
           "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
           "link": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
@@ -58,12 +64,6 @@
           "link": "https://arstechnica.com/science/2026/09/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy/",
           "summary": "Research suggests that bilingualism can offer cognitive benefits.",
           "isoDate": "2026-09-19T11:10:43.000Z"
-        },
-        {
-          "title": "Rings around a tiny body have changed over the past decade",
-          "link": "https://arstechnica.com/science/2026/09/rings-around-a-tiny-body-have-changed-over-the-past-decade/",
-          "summary": "Chariklo is only about 250 km across, but it has two rings, and they're changing.",
-          "isoDate": "2026-09-19T10:00:06.000Z"
         }
       ]
     },
@@ -71,6 +71,12 @@
       "header": "120  CIENCIA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "APOD: 2026 September 20 – Analemma over the Callanish Stones",
+          "link": "https://science.nasa.gov/image-article/apod-2026-september-20-analemma-over-the-callanish-stones/",
+          "summary": "APOD Science APOD APOD: 2026 September 20 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Analemma over the […]",
+          "isoDate": "2026-09-20T04:05:00.000Z"
+        },
         {
           "title": "APOD: 2026 September 19 – A Zodiacal Night",
           "link": "https://science.nasa.gov/image-article/apod-2026-september-19-a-zodiacal-night/",
@@ -124,12 +130,6 @@
           "link": "https://www.nature.com/articles/d41586-026-02984-6",
           "summary": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02984-6\nNature staff discuss data that could point to Nefertiti’s burial place — plus, the implant that translates brain activity into speech and gestures.",
           "isoDate": "2026-09-18T00:00:00.000Z"
-        },
-        {
-          "title": "Europe pushes for space independence amid geopolitical rifts",
-          "link": "https://www.nature.com/articles/d41586-026-02919-1",
-          "summary": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02919-1\nThe European Union is easing its reliance on US space infrastructure — and is seeking to grow its satellite and launch operations.",
-          "isoDate": "2026-09-18T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-09-20T03:36:20.470Z"
+          "isoDate": "2026-09-20T10:42:20.598Z"
         },
         {
           "title": "Not all AI workers think the tech could kill everyone",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-09-20T03:36:22.546Z"
+          "isoDate": "2026-09-20T10:42:23.297Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 59\nColumn: 58\nChar: =",
-          "isoDate": "2026-09-20T03:36:22.014Z"
+          "isoDate": "2026-09-20T10:42:22.163Z"
         },
         {
           "title": "Turning Tech Talent Into Leadership Legacy",
