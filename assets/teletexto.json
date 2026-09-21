@@ -1,10 +1,28 @@
 {
-  "generatedAt": "2026-09-21T03:31:08.356Z",
+  "generatedAt": "2026-09-21T12:05:50.178Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Get a closer look at the iPhone 18 Pro’s mechanical camera",
+          "link": "https://www.theverge.com/tech/998108/apple-iphone-18-pro-max-camera-ifixit-teardown",
+          "summary": "Each of those teeny lens blades is around the same thickness as a human hair. | Image: iFixit\t\n\niFixit's latest device teardown shows us the inner workings of the new variable aperture lens inside Apple's iPhone 18 Pro and 18 Pro Max, alongside some repair concerns to be mindful of. The adjustable mechanical iris opens and closes magnetically, controlling how much light should pass through to the sensor, featuring six leaf-like overlapping blades that are each about as thin as a human hair.\nYou can see that scale comparison yourself below in a side-by-side image that iFixit took using a Evident DSX2000 microscope. Cramming that mechanism into the same main camera footprint as the iPhone 17 Pro series models is impressive, with iFixit  …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-21T10:57:27.000Z"
+        },
+        {
+          "title": "UN says AI safeguards can’t wait for certainty",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
+          "summary": "The United Nations logo at the UN headquarters in New York. | Getty Images\t\n\nGovernments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in the global organization's first major assessment of OpenAI's hack of Hugging Face earlier this year.\nThe report cements AI's place on the global diplomatic agenda this week as leaders gather in New York for the UN General Assembly and the US and China hold talks on AI. Last week, UN secretary general António Guterres called on governments to cooperate on addressing the threats posed by AI, warning that \"the world cannot afford a race to the bottom on AI safety.\"\nIt is the first thematic brief from  …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-21T10:18:06.000Z"
+        },
+        {
+          "title": "Amazon doesn’t trust Meta’s Muse AI agent",
+          "link": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+          "summary": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an unauthorized AI agent violates Amazon's Conditions of Use, to which our customers have agreed.\"\nAccording to GeekWire, Meta didn't notify Amazon that Muse would access its store. Amazon also expressed privacy and security concerns over Muse failing to identify itself when it browses, and seemingly capturing customer credentials.\n\"We think it's fairly straightforward that third-party applications that offer to make purchases on behalf of customers  …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-21T09:21:47.000Z"
+        },
         {
           "title": "No Dogs in Space is back to feed your need for obsessive music history",
           "link": "https://www.theverge.com/report/997948/no-dogs-in-space-is-back-punk-2-0-music-history-podcast",
@@ -12,7 +30,7 @@
           "isoDate": "2026-09-20T20:51:57.000Z"
         },
         {
-          "title": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+          "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown",
           "link": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
           "summary": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades. In an interview with CBS Sunday Morning, he claimed there was a \"0% chance\" of AI being the end of the world. He also said of people sounding the alarm about the dangers of AI that, \"Scaring people is unnecessary. It is irresponsible.\"\nHe also claims that calls from CEOs like Anthropic's Dario Amodei and OpenAI's Sam Altman to slow down the development of AI are \"not grounded in science.\" He even argued that there was no need for new rules, laws, or guidelines, in …\nRead the full story at The Verge.",
           "isoDate": "2026-09-20T18:50:18.000Z"
@@ -46,24 +64,6 @@
           "link": "https://www.theverge.com/podcast/997725/the-hidden-monopoly-behind-your-ti-graphing-calculator",
           "summary": "The same calculator has been on most kids' back to school shopping list since the early 2000's and the dominance of Texas Instruments' calculator division goes back even farther. \nIn the next episode of Version History, David Pierce is joined by The Verge's Nilay Patel and Victoria Song to tell the story of TI graphing calculators and how one company managed to take over the market and never let it go.\n\n\nThis is the second episode of the fifth season of Version History where we're heading back to school. We've already talked about the perilous journeys of The Oregon Trail  that many students experienced in the computer lab and over the cou …\nRead the full story at The Verge.",
           "isoDate": "2026-09-20T12:00:00.000Z"
-        },
-        {
-          "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
-          "link": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
-          "summary": "Before recent high-profile hacks raised the specter of AI possibly \"killing all humans,\" our energy systems were already disturbingly vulnerable to cyberattack - and the risk is growing. \n\"We were always prey. We were just kind of surviving at the appetite of our predators,\" Joshua Corman, executive in residence for public safety and resilience at the Institute for Security and Technology (IST), told me last year. At the time, I was preoccupied with a Department of Homeland Security warning that Iranian actors and sympathizers could target the US with cyberattacks. \nLast week, I called Corman up to chat about recent incidents of rogue AI a …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-20T12:00:00.000Z"
-        },
-        {
-          "title": "All roads lead to cable",
-          "link": "https://www.theverge.com/column/997843/streamers-cable-fast-channels",
-          "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on streaming platforms, FAST channels, and the future of entertainment, follow Charles Pulliam-Moore. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.\nHow it started\nBefore Netflix fully committed to becoming a streaming service and leaving DVDs behind, the company experimented with the idea of giving its subscribers a physical box that could access high-resolution digital copies of movies. Films would have been downloaded to the box in the evening and become available to users the next day. But …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-20T12:00:00.000Z"
-        },
-        {
-          "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
-          "link": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
-          "summary": "Google’s threat intelligence group said it had a mole inside TeamPCP's inner circle.",
-          "isoDate": "2026-09-20T11:07:00.000Z"
         }
       ]
     },
@@ -75,7 +75,31 @@
           "title": "ERROR cargando feed",
           "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
           "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-09-21T03:31:01.826Z"
+          "isoDate": "2026-09-21T12:05:44.496Z"
+        },
+        {
+          "title": "Six principles for supporting academic freedom in universities",
+          "link": "https://www.nature.com/articles/d41586-026-02932-4",
+          "summary": "Nature, Published online: 21 September 2026; doi:10.1038/d41586-026-02932-4\nMany academics are concerned about threats to independent enquiry in higher education. Here’s how it can be protected while taking legitimate concerns into account.",
+          "isoDate": "2026-09-21T00:00:00.000Z"
+        },
+        {
+          "title": "Losing your way of life to climate change matters — and we need a way to measure it",
+          "link": "https://www.nature.com/articles/d41586-026-02928-0",
+          "summary": "Nature, Published online: 21 September 2026; doi:10.1038/d41586-026-02928-0\nClimate losses extend beyond property and income. Policymakers need ways to assess what people value, experience and ultimately stand to lose.",
+          "isoDate": "2026-09-21T00:00:00.000Z"
+        },
+        {
+          "title": "AI co-scientists are revolutionizing how research is done",
+          "link": "https://www.nature.com/articles/d41586-026-02931-5",
+          "summary": "Nature, Published online: 21 September 2026; doi:10.1038/d41586-026-02931-5\nArtificial-intelligence systems can generate hypotheses, design experiments and analyse data — but humans still need to decide what makes sense.",
+          "isoDate": "2026-09-21T00:00:00.000Z"
+        },
+        {
+          "title": "How do I change labs gracefully during my PhD?",
+          "link": "https://www.nature.com/articles/d41586-026-02441-4",
+          "summary": "Nature, Published online: 21 September 2026; doi:10.1038/d41586-026-02441-4\nA scientist in training seeks help in finding a new adviser without damaging existing working relationships.",
+          "isoDate": "2026-09-21T00:00:00.000Z"
         },
         {
           "title": "Cognitive resilience helps to predict Alzheimer’s dementia",
@@ -90,6 +114,12 @@
           "isoDate": "2026-09-18T00:00:00.000Z"
         },
         {
+          "title": "Daily briefing: How to turn a paper into an AI agent",
+          "link": "https://www.nature.com/articles/d41586-026-02994-4",
+          "summary": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02994-4\nA new tool is designed to help researchers interact with published papers. Plus, promising news for an RNA-based treatment for ALS and how psychoactive drugs might have shaped pre-Incan culture.",
+          "isoDate": "2026-09-18T00:00:00.000Z"
+        },
+        {
           "title": "Europe pushes for space independence amid geopolitical rifts",
           "link": "https://www.nature.com/articles/d41586-026-02919-1",
           "summary": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02919-1\nThe European Union is easing its reliance on US space infrastructure — and is seeking to grow its satellite and launch operations.",
@@ -100,36 +130,6 @@
           "link": "https://www.nature.com/articles/d41586-026-02184-2",
           "summary": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02184-2\nLanding two large grants caused Anna Sandak to take on a managerial role in her team and made her reflect on what it means to contribute to research.",
           "isoDate": "2026-09-18T00:00:00.000Z"
-        },
-        {
-          "title": "First for RNA therapy: man with rare motor-neuron disease improves after treatment",
-          "link": "https://www.nature.com/articles/d41586-026-02945-z",
-          "summary": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02945-z\nGene-targeting treatments could be used to treat other people with rare forms of amyotrophic lateral sclerosis (ALS).",
-          "isoDate": "2026-09-18T00:00:00.000Z"
-        },
-        {
-          "title": "How to make a brain: new experiments challenge existing picture",
-          "link": "https://www.nature.com/articles/d41586-026-02943-1",
-          "summary": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02943-1\nResearch also uncovers an efficient way to grow hindbrain cells from stem cells — a difficult feat.",
-          "isoDate": "2026-09-18T00:00:00.000Z"
-        },
-        {
-          "title": "AI cracked the Navier–Stokes challenge. What does that mean for physics?",
-          "link": "https://www.nature.com/articles/d41586-026-02922-6",
-          "summary": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02922-6\nPhysicists and mathematicians are going beyond the classic equations of fluid dynamics to understand turbulence — often with the help of AI.",
-          "isoDate": "2026-09-18T00:00:00.000Z"
-        },
-        {
-          "title": "Chinese companies doubled down on science after US tech restrictions",
-          "link": "https://www.nature.com/articles/d41586-026-02946-y",
-          "summary": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02946-y\nAffected Chinese companies adjusted their sources of knowledge to stay competitive.",
-          "isoDate": "2026-09-18T00:00:00.000Z"
-        },
-        {
-          "title": "Ancient DNA unveils distinctive ancestries in the Bronze and Iron Ages of East Tianshan",
-          "link": "https://www.science.org/doi/abs/10.1126/science.adv1295?af=R",
-          "summary": "Science, Volume 393, Issue 6817, September 2026.",
-          "isoDate": "2026-09-17T07:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-09-21T03:31:04.855Z"
+          "isoDate": "2026-09-21T12:05:45.361Z"
         },
         {
           "title": "Not all AI workers think the tech could kill everyone",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-09-21T03:31:07.741Z"
+          "isoDate": "2026-09-21T12:05:49.207Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 59\nColumn: 58\nChar: =",
-          "isoDate": "2026-09-21T03:31:06.650Z"
+          "isoDate": "2026-09-21T12:05:46.944Z"
         },
         {
           "title": "Turning Tech Talent Into Leadership Legacy",
