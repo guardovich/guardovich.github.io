@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-09-23T03:30:30.558Z",
+  "generatedAt": "2026-09-23T10:50:20.158Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Smart glasses are already causing havoc in India",
+          "link": "https://www.technologyreview.com/2026/09/23/1144953/smart-glasses-havoc-india/",
+          "summary": "Shubnam was packing boxes for a move into a new home when their friend sent them an Instagram video. The footage had only been up for a few hours, but it was days old, recorded at a Delhi protest this spring against a bill that would have narrowed the legal recognition for transgender people in…",
+          "isoDate": "2026-09-23T09:00:00.000Z"
+        },
         {
           "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
           "link": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
@@ -58,12 +64,6 @@
           "link": "https://www.theverge.com/tech/998844/motorola-signature-27-specs-snapdragon-8-elite-extreme-gen-6",
           "summary": "You couldn’t accuse Motorola of designing a boring phone. | Image: Motorola\t\n\nMotorola is the first company to announce a phone running Qualcomm's top-end Snapdragon 8 Elite Extreme Gen 6 chip. The Signature 27 looks set to be Motorola's most advanced flagship in some years, though we're still waiting for the full specs, price, and release date.\nAny prospective buyers will first have to get over the design, which seems guaranteed to earn mixed reception. The aluminum phone has a thin body, available in either black (sorry, \"Pantone coal smoke\") or green (\"Pantone capulet olive\"), with a woven tactical texture on one and a \"feather-inspired\" finish on the other. Either way, it slopes upwards into what Motorola calls a …\nRead the full story at The Verge.",
           "isoDate": "2026-09-22T20:00:00.000Z"
-        },
-        {
-          "title": "Apple clarifies that Texture and Grain controls are exclusive to the latest iPhones’ cameras",
-          "link": "https://www.theverge.com/tech/998874/apple-iphone-18-pro-ios-27-camera-texture-grain-photographic-style",
-          "summary": "Apple's new texture and grain controls for stylizing photos will be more limited on older phones than initially expected. \nA confusingly worded press release from Apple indicated that the new features, announced alongside the iPhone 18 and 18 Pro earlier this month, would be \"available\" on older devices like the iPhone 16 and iPhone Air that \"support the latest generation of Photographic Styles.\" \nBut it turns out that \"available\" didn't mean that older iPhone models would have full access to those new features.\nMaking texture adjustments to enhance or smooth a subject's skin and adding film grain will only be an option when those phones  …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-22T19:48:08.000Z"
         }
       ]
     },
@@ -72,10 +72,34 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "APOD: 2026 September 23 – A New Lunar Crater: McGetchin",
+          "link": "https://science.nasa.gov/image-article/apod-2026-september-23-the-mcgetchin-crater/",
+          "summary": "APOD Science APOD APOD: 2026 September 23 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. AfterBefore A […]",
+          "isoDate": "2026-09-23T04:05:00.000Z"
+        },
+        {
+          "title": "Boom Year for Desert Blooms",
+          "link": "https://science.nasa.gov/earth/earth-observatory/boom-year-for-desert-blooms/",
+          "summary": "Carpets of wildflowers burst from arid, ochre-colored land in Western Australia following winter rains.",
+          "isoDate": "2026-09-23T04:01:00.000Z"
+        },
+        {
           "title": "Curiosity Blog, Sols 5010-5015: Checking out the Bands",
           "link": "https://science.nasa.gov/blog/curiosity-blog-sols-5010-5015-checking-out-the-bands/",
           "summary": "Catherine O’Connell-Cooper, APXS Strategic Planner and Payload Uplink/Downlink Lead, University New Brunswick, NB, Canada Earth planning date: Friday, Sept. 11, 2026 This week we had two planning days (Tuesday and Friday), as Monday was Labor Day in North America, where many of the Curiosity team are based. Labor Day (the first Monday in September) marks […]",
           "isoDate": "2026-09-23T00:40:16.000Z"
+        },
+        {
+          "title": "In praise of human teachers: universities must resist outsourcing everything to AI",
+          "link": "https://www.nature.com/articles/d41586-026-02949-9",
+          "summary": "Nature, Published online: 23 September 2026; doi:10.1038/d41586-026-02949-9\nAn AI revolution is sweeping through education. But teachers who can convey the excitement of thinking and learning are irreplaceable.",
+          "isoDate": "2026-09-23T00:00:00.000Z"
+        },
+        {
+          "title": "How to stay smart in the age of AI: the science of critical thinking",
+          "link": "https://www.nature.com/articles/d41586-026-02930-6",
+          "summary": "Nature, Published online: 23 September 2026; doi:10.1038/d41586-026-02930-6\nThere is growing concern that AI can blunt memory and reasoning. But science shows ways to keep the brain sharp.",
+          "isoDate": "2026-09-23T00:00:00.000Z"
         },
         {
           "title": "Risks of Decompression Sickness and Venous Thromboembolism during Spaceflight and Patent Foramen Ovale Implications",
@@ -106,30 +130,6 @@
           "link": "https://science.nasa.gov/image-article/apod-2026-september-22-chance-triple-alignment-plane-space-station-sun/",
           "summary": "APOD Science APOD APOD: 2026 September 22 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Chance Triple Alignment: […]",
           "isoDate": "2026-09-22T04:05:00.000Z"
-        },
-        {
-          "title": "An Epic View of the Seasons",
-          "link": "https://science.nasa.gov/earth/earth-observatory/an-epic-view-of-the-seasons/",
-          "summary": "The tilt in Earth’s axis of rotation makes the apparent position of continents shift with the seasons in imagery from a NASA camera in deep space.",
-          "isoDate": "2026-09-22T04:01:00.000Z"
-        },
-        {
-          "title": "Biosecurity must protect human functional capacity",
-          "link": "https://www.nature.com/articles/d41586-026-02996-2",
-          "summary": "Nature, Published online: 22 September 2026; doi:10.1038/d41586-026-02996-2\nBiosecurity must protect human functional capacity",
-          "isoDate": "2026-09-22T00:00:00.000Z"
-        },
-        {
-          "title": "Why insects need their own protected areas",
-          "link": "https://www.nature.com/articles/d41586-026-02997-1",
-          "summary": "Nature, Published online: 22 September 2026; doi:10.1038/d41586-026-02997-1\nWhy insects need their own protected areas",
-          "isoDate": "2026-09-22T00:00:00.000Z"
-        },
-        {
-          "title": "A global safety net for climate-risk intelligence is urgently needed",
-          "link": "https://www.nature.com/articles/d41586-026-02995-3",
-          "summary": "Nature, Published online: 22 September 2026; doi:10.1038/d41586-026-02995-3\nA global safety net for climate-risk intelligence is urgently needed",
-          "isoDate": "2026-09-22T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-09-23T03:30:24.978Z"
+          "isoDate": "2026-09-23T10:50:17.577Z"
+        },
+        {
+          "title": "Pornhub investigated over its age checks",
+          "link": "https://www.bbc.co.uk/news/articles/c6eq8dw3dlyqo?at_medium=RSS&at_campaign=rss",
+          "summary": "The regulator says it has concerns over how the site is relying on third party checks provided by Apple for some users.",
+          "isoDate": "2026-09-23T09:12:21.000Z"
         },
         {
           "title": "US criticises Australia's proposed algorithm opt-out laws as 'censorship'",
@@ -156,13 +162,13 @@
           "isoDate": "2026-09-22T23:03:48.000Z"
         },
         {
-          "title": "A new skyline of data centres is rising from the rolling plains of rural China",
+          "title": "Huge data centres rise at 'China speed' to power its AI ambitions",
           "link": "https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro?at_medium=RSS&at_campaign=rss",
-          "summary": "Potato farmers rub shoulders with rows of gleaming new data centres as Trump and Xi meet to discuss AI safety.",
+          "summary": "The BBC visits Inner Mongolia, an unlikely frontier in Beijing's AI race with Washington.",
           "isoDate": "2026-09-22T22:04:31.000Z"
         },
         {
-          "title": "Rare look at the remote engine rooms powering China's AI ambitions",
+          "title": "Rare look at the remote engine rooms fuelling China's AI boom",
           "link": "https://www.bbc.co.uk/news/videos/cwe8ejvv0leno?at_medium=RSS&at_campaign=rss",
           "summary": "The BBC is in Inner Mongolia where dozen of Chinese data centres are being constructed, as the country aims to lead the world in artificial intelligence.",
           "isoDate": "2026-09-22T22:03:48.000Z"
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
           "summary": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
           "isoDate": "2026-09-19T13:39:32.000Z"
-        },
-        {
-          "title": "Tech Now",
-          "link": "https://www.bbc.co.uk/iplayer/episode/m0032301?at_medium=RSS&at_campaign=rss",
-          "summary": "Adrienne Murray follows NASA scientists in Iceland researching a rare total solar eclipse.",
-          "isoDate": "2026-09-19T01:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-09-23T03:30:29.563Z"
+          "isoDate": "2026-09-23T10:50:19.466Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 59\nColumn: 58\nChar: =",
-          "isoDate": "2026-09-23T03:30:26.564Z"
+          "isoDate": "2026-09-23T10:50:18.598Z"
         },
         {
           "title": "Spain’s First Astronaut, Pedro Duque, Named IEEE Honorary Member",
