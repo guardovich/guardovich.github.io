@@ -1,10 +1,52 @@
 {
-  "generatedAt": "2026-09-24T21:10:58.455Z",
+  "generatedAt": "2026-09-25T03:38:00.751Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Here’s the Tesla Semi… again",
+          "link": "https://www.theverge.com/transportation/1000317/tesla-semi-launch-customer-delivery-freight-battery-engineer",
+          "summary": "Remember the Tesla Semi? The long-gestating, heavy-duty truck first introduced in concept form in 2017 is finally in volume production as of April 2026 - nearly a decade after its initial introduction. On Thursday evening, the company held yet another event for the Semi to demonstrate to customers and investors that the long wait was finally over. \nThe event was held at Tesla's new Semi factory next to Gigafactory Nevada, where the company says it can build 50,000 trucks a year, or 1,000 per week. The purpose was to announce a raft of new (and old) customers for the Semi, including PepsiCo, US Foods, DHL, WattEV, ABF, Einride, IMC, and OK P …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-25T02:12:57.000Z"
+        },
+        {
+          "title": "Microsoft is killing off the ‘Copilot Plus PC’ brand",
+          "link": "https://www.theverge.com/tech/1000495/microsoft-is-killing-off-the-copilot-plus-pc-brand",
+          "summary": "Microsoft CEO Satya Nadella introducing the company’s Copilot Plus PC initiative. | Image: Allison Johnson\t\n\nRemember when Microsoft wanted everyone to know that \"Copilot Plus PCs\" were the ones to get, because those were the PCs that that'd have enough built-in AI muscle to get things done? Two and a half years later, Microsoft and Qualcomm seem to be admitting the brand is already dead. \nWindows Central's Zac Bowden reports that even though the new 12-inch Microsoft Surface Pro and 13-inch Surface Laptop technically meet the system requirements for a Copilot Plus PC, Microsoft is not calling them by that name anymore. \"These are not called Copilot Plus PCs,\" Microsoft Surface CVP Brett Ostrom told the publication. \nKedar Kondap, Qualcomm's SVP  …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-25T01:25:53.000Z"
+        },
+        {
+          "title": "Meta employees ordered ‘attorney/client privilege’ hats while fighting child safety disclosures",
+          "link": "https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats",
+          "summary": "Meta's lawyers have argued that certain evidence should be withheld from public view on the grounds of attorney-client privilege in the ongoing lawsuits over alleged harm to teens' safety and mental health. Lawyers suing the company said this week that the label has been applied far too broadly, while pointing to a recently unsealed document showing that the team behind launching Instagram's Teen Accounts in 2024 put in an order for baseball caps that simply said \"a/c priv.\"\nThe lawyers suing Meta argue the Project Nido (an internal name for the Teen Accounts team) swag is part of \"culture of privilege abuse at Meta\" aimed at keeping the re …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-24T23:50:55.000Z"
+        },
+        {
+          "title": "Qualcomm’s new ‘Elite’ sound chip might finally deliver the Wi-Fi earbud dream",
+          "link": "https://www.theverge.com/tech/1000443/qualcomms-new-elite-sound-chip-might-finally-deliver-the-wi-fi-earbud-dream",
+          "summary": "What if your wireless earbuds - or audio glasses - could stream high-quality lossless audio that doesn't cut out when you leave your phone on the bedside charger or buried in the couch? Qualcomm's new Snapdragon Sound Elite Gen 2 is its first to integrate \"micro-power Wi-Fi 6E\" right into the chip, so they can connect directly to your home Wi-Fi network, and from there to the cloud.\nIf that sounds like a familiar promise, it's probably because Qualcomm promised something similar back in 2023 with the \"S7 Pro sound platform\" and its Expanded Personal Area Network (XPAN) tech, saying that Wi-Fi earbuds can do what Bluetooth alone cannot. Name …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-24T23:42:39.000Z"
+        },
+        {
+          "title": "CDC opens state ordering for COVID-19 vaccines after unexplained delay",
+          "link": "https://arstechnica.com/health/2026/09/cdc-opens-state-ordering-for-covid-19-vaccines-after-unexplained-delay/",
+          "summary": "Health department previously blamed delay on \"not yet finalized procurement decisions.\"",
+          "isoDate": "2026-09-24T22:29:48.000Z"
+        },
+        {
+          "title": "Microsoft puts Brad Smith in charge of communications",
+          "link": "https://www.theverge.com/news/1000374/microsoft-comms-pr-brad-smith-cela",
+          "summary": "Microsoft vice chair and president Brad Smith. | Image: Getty Images\t\n\nMicrosoft is moving its communications group out of marketing and into its Corporate, External, and Legal Affairs (CELA) organization. The surprise change will see Microsoft vice chair and president Brad Smith oversee communications, while the company searches for a replacement for Frank Shaw, chief communications officer, who is departing later this year.\nMicrosoft CEO Satya Nadella thanked Shaw \"for everything he has done for Microsoft\" in an internal memo announcing the communications changes. Shaw announced earlier this month that he's leaving Microsoft after nearly three decades supporting the company's communications.\nBrent Colburn,  …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-24T22:08:22.000Z"
+        },
+        {
+          "title": "Donald Duck's uncle was partly based on Wernher von Braun",
+          "link": "https://arstechnica.com/space/2026/09/disneys-ludwig-von-drake-was-inspired-by-rocket-scientists-65-years-ago/",
+          "summary": "Introducing the \"world-famous authority on outer space...\"",
+          "isoDate": "2026-09-24T21:40:07.000Z"
+        },
         {
           "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
           "link": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
@@ -22,48 +64,6 @@
           "link": "https://arstechnica.com/tech-policy/2026/09/new-york-asks-court-to-shut-down-polymarkets-illegal-gambling-operation/",
           "summary": "New York sues Polymarket as Trump admin tries to override state gambling laws.",
           "isoDate": "2026-09-24T19:07:19.000Z"
-        },
-        {
-          "title": "We have a trailer for Musk documentary Elon called a \"hit piece\"",
-          "link": "https://arstechnica.com/culture/2026/09/we-have-a-trailer-for-musk-documentary-elon-called-a-hit-piece/",
-          "summary": "Oscar-winning documentarian Alex Gibney focuses on the world's wealthiest man.",
-          "isoDate": "2026-09-24T18:52:23.000Z"
-        },
-        {
-          "title": "Robots make combat airdrops, clear mines as Ukraine defeats Russian pincer",
-          "link": "https://arstechnica.com/gadgets/2026/09/robots-make-combat-airdrops-clear-mines-as-ukraine-defeats-russian-pincer/",
-          "summary": "Ukraine’s Operation Vivaldi has erased Russian gains with the help of robots.",
-          "isoDate": "2026-09-24T18:39:47.000Z"
-        },
-        {
-          "title": "New Jersey fines data center $1.1M after drone pics expose 62 gas generators",
-          "link": "https://arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators/",
-          "summary": "Million-dollar fines won’t end billionaires’ data center pollution, neighbors fear.",
-          "isoDate": "2026-09-24T18:20:58.000Z"
-        },
-        {
-          "title": "Sadly, this $1,549 RTX 5070-equipped gaming PC is a very good deal",
-          "link": "https://www.theverge.com/gadgets/1000122/cyberpowerpc-gaming-prebuilt-rtx-5070-core-i7-asrock-oled-monitor-deal-sale",
-          "summary": "CyberPowerPC’s RTX 5070-equipped prebuilt.\t\n\nWhile PC component prices remain high, you can save a good bit of money on a system by purchasing a prebuilt desktop. Walmart has a well-equipped CyberPowerPC gaming PC on sale for $1,549, almost $600 off its original price of $2,139. It’s powered by an Intel Core i7-14700KF processor, and paired with 32GB of 6000MHz DDR5 memory and an Nvidia RTX 5070 Founders Edition with 12GB of VRAM. The case is a CyberPowerPC MA-O1, an in-house design with extensive cooling options and three dedicated knobs for adjusting internal RGB lighting colors.\nCyberPowerPC (Core i7/RTX5070)\n\nWhere to Buy:\n\n $2139.99 $1549 at Walmart\n\nWhile it might not feel like it at first blush, this is a solid value for a gaming PC that’s ready to rock out of the box. The RTX 5070 in this machine is likely to run you upwards of $800 by itself at the moment (it launched in 2025 for $549), and 32GB of fast memory can be $400 or more. For just a small premium, you get those components packed into a nice case with a panoramic glass panel and a 1TB PCIe 4.0 SSD inside. The whole kit is tested, with a one year warranty for parts and labor. It also includes a keyboard and mouse, so you can start gaming right away once it arrives.\nOther deals to consider\nIf you need a gaming monitor with spectacular colors and clarity to go with your new gaming PC, Newegg has the ASRock PGO27QSA-W discounted to $299.33, a significant discount from its original price of $476. This 27-inch screen supports 1440p resolution, a 240Hz refresh rate with FreeSync Premium for variable refresh rate, and an OLED panel for deep black levels.\nA two pack of Anker Zolo MagSafe wireless chargers is discounted to $25.99 at Amazon, where it would normally cost $39.99. Each charger is Qi2 certified, with support for up to 15W of charging power, and includes a five-foot cable for convenient positioning on your desk or nightstand. You’ll have to use your own wall charger, though.\nThe Nintendo Customer Appreciation sale is live until September 26th at 8:59 PM PT, and is a great time to pick up an extra set of controllers, among other game and accessory deals. The Switch Pro Controller is only $56 (usually around $70) at both Amazon and Best Buy, and a duo of Joy-Con are only $62.99 at Best Buy, although only the pastel purple and green combo are currently in stock. The controllers are compatible with both the original Switch and Switch 2, although owners of the newer console will need a separate charger, and they won’t wake the system from sleep.",
-          "isoDate": "2026-09-24T18:19:23.000Z"
-        },
-        {
-          "title": "Jensen Huang talks about AI and climate change like a supervillain",
-          "link": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
-          "summary": "As Jensen Huang puts it, AI can help fight climate change - but only if it inflicts \"an enormous amount of pain and suffering\" first.  \nThe Nvidia CEO discussed the future of energy and AI's impact on our planet in the latest episode of The Ezra Klein Show. But his comments boil down to the same accelerationist spin we've seen from a variety of tech leaders as well as President Donald Trump. They promise that AI will be such a gift to humanity that it's worth the damage caused by data centers currently running on dirty energy. \n\nHuang's extreme level of privilege is glaring\n\nHuang's extreme level of privilege is glaring in the interview. He …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-24T18:04:44.000Z"
-        },
-        {
-          "title": "Meta is going to let you build games with AI right on your phone",
-          "link": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
-          "summary": "Meta has a new plan to get people to make games for its Horizon social platform. The company today announced two new development tools  that will let you create games with AI prompts: Horizon Create, a mobile app, and Horizon Studio, a browser app that offers more granular controls. The apps will be available in early access, and interested users can sign up for a waitlist.\nHorizon has struggled as a platform, but Meta has a plan to give these new Horizon games significantly more reach: It's going to let published games made with Horizon Create and Horizon Studio get recommended on Facebook and Instagram, where they also will be playable.\n …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-24T17:52:29.000Z"
-        },
-        {
-          "title": "Muse will apparently let you download its entire filesystem",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
-          "summary": "A pair of developers say that with very little prompting, Meta's Muse will share its entire filesystem with you. Peter James and Jonny L. Saunders have said they both independently coaxed Muse into zipping up and sharing the entire contents of its root filesystem, Ubuntu system files, app templates, and internal documentation. Saunders posted on Mastodon that it was \"extremely easy\" to replicate James' results and that Muse had \"Almost no prompt injection resistance.\"\nMeta denies that the incident represents a security breach. As noted in its announcement post, Meta's Muse runs in persistent Linux virtual machines for each user. Meta spokes …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-24T17:14:12.000Z"
         }
       ]
     },
@@ -75,7 +75,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
           "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-09-24T21:10:53.957Z"
+          "isoDate": "2026-09-25T03:37:53.895Z"
         },
         {
           "title": "2D theoretically twistable material database",
@@ -141,7 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-09-24T21:10:55.492Z"
+          "isoDate": "2026-09-25T03:37:55.692Z"
+        },
+        {
+          "title": "X-planes: Are they needed in the new era of drones?",
+          "link": "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss",
+          "summary": "Where do America's X-plane projects fit in an era of cheap drones?",
+          "isoDate": "2026-09-24T23:03:53.000Z"
         },
         {
           "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
           "summary": "OpenAI's Sam Altman has called for risk evaluation standards, as have Anthropic's Dario Amodei and Hugging Face's Clement Delangue.",
           "isoDate": "2026-09-23T22:35:14.000Z"
-        },
-        {
-          "title": "Pornhub investigated over its age checks",
-          "link": "https://www.bbc.co.uk/news/articles/c6eq8dw3dlyqo?at_medium=RSS&at_campaign=rss",
-          "summary": "The regulator says it has concerns over how the site is relying on third party checks provided by Apple for some users.",
-          "isoDate": "2026-09-23T15:56:44.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-09-24T21:10:57.589Z"
+          "isoDate": "2026-09-25T03:38:00.028Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 59\nColumn: 58\nChar: =",
-          "isoDate": "2026-09-24T21:10:56.512Z"
+          "isoDate": "2026-09-25T03:37:57.539Z"
         },
         {
           "title": "Mexican EPICS in IEEE Team Builds Portable Educational Platform",
