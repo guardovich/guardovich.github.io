@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-09-25T03:38:00.751Z",
+  "generatedAt": "2026-09-25T11:14:28.129Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+          "link": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+          "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called “Polygraph+” or “Polygraph Next”, will focus on scoring algorithms that use artificial intelligence and machine learning and on a technique called “standoff sensing”, which…",
+          "isoDate": "2026-09-25T09:16:25.000Z"
+        },
+        {
+          "title": "Young organs may not be a fountain of youth for recipients",
+          "link": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
+          "summary": "Around this time last year I was attending an aging conference in Manchester, listening to a talk about fly aging, when my phone started pinging. News outlets were reporting that a hot mic had caught Russia’s and China’s leaders discussing the possibility of living forever. “With the developments of biotechnology, human organs can be continuously…",
+          "isoDate": "2026-09-25T09:00:00.000Z"
+        },
         {
           "title": "Here’s the Tesla Semi… again",
           "link": "https://www.theverge.com/transportation/1000317/tesla-semi-launch-customer-delivery-freight-battery-engineer",
@@ -52,18 +64,6 @@
           "link": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
           "summary": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial expressions during conversations, but it's currently only available to Gemini Enterprise customers.\nAs noted by Google, Live Avatar can transition between the 97 languages it supports \"without degrading video fidelity or introducing visual drift.\" One video shared by Google shows its Live Avatar talking in English and Japanese, with its mouth animation lining up with what it's saying in both languages. It can also pull up information on-screen w …\nRead the full story at The Verge.",
           "isoDate": "2026-09-24T19:59:26.000Z"
-        },
-        {
-          "title": "F-Droid gets its biggest update in a decade with new UI and smoother app installs",
-          "link": "https://arstechnica.com/gadgets/2026/09/f-droid-gets-its-biggest-update-in-a-decade-with-new-ui-and-smoother-app-installs/",
-          "summary": "F-Droid's Android app store has been rebuilt from the ground up.",
-          "isoDate": "2026-09-24T19:30:42.000Z"
-        },
-        {
-          "title": "New York defies Trump admin, asks court to shut down Polymarket gambling",
-          "link": "https://arstechnica.com/tech-policy/2026/09/new-york-asks-court-to-shut-down-polymarkets-illegal-gambling-operation/",
-          "summary": "New York sues Polymarket as Trump admin tries to override state gambling laws.",
-          "isoDate": "2026-09-24T19:07:19.000Z"
         }
       ]
     },
@@ -75,7 +75,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
           "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-09-25T03:37:53.895Z"
+          "isoDate": "2026-09-25T11:14:24.273Z"
+        },
+        {
+          "title": "AI bots are flooding researchers with requests for money and time",
+          "link": "https://www.nature.com/articles/d41586-026-03005-2",
+          "summary": "Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-03005-2\nMany scientists use artificial intelligence in their work, but agents are increasingly soliciting researchers for collaborations.",
+          "isoDate": "2026-09-25T00:00:00.000Z"
         },
         {
           "title": "2D theoretically twistable material database",
@@ -124,12 +130,6 @@
           "link": "https://www.science.org/doi/abs/10.1126/science.ael4485?af=R",
           "summary": "Science, Volume 393, Issue 6818, September 2026.",
           "isoDate": "2026-09-24T07:00:00.000Z"
-        },
-        {
-          "title": "The Smallest Lights in the Universe: A Memoir",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aem0084?af=R",
-          "summary": "Science, Volume 393, Issue 6818, Page 1305-1305, September 2026.",
-          "isoDate": "2026-09-24T06:00:04.000Z"
         }
       ]
     },
@@ -141,7 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-09-25T03:37:55.692Z"
+          "isoDate": "2026-09-25T11:14:25.243Z"
+        },
+        {
+          "title": "US backs Elon Musk's bid to overturn €120m EU fine against X",
+          "link": "https://www.bbc.co.uk/news/articles/cq0m373ee0v0o?at_medium=RSS&at_campaign=rss",
+          "summary": "The EU had said X \"deceives users\" by selling blue ticks without \"meaningfully verifying\" accounts.",
+          "isoDate": "2026-09-25T09:48:33.000Z"
         },
         {
           "title": "X-planes: Are they needed in the new era of drones?",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cwn741v5rdpxo?at_medium=RSS&at_campaign=rss",
           "summary": "Dopamine sites mimic shopping’s thrill without the spending, turning the ritual of consumption into a digital game.",
           "isoDate": "2026-09-23T23:14:10.000Z"
-        },
-        {
-          "title": "US rejects pleas from OpenAI, Anthropic for global AI standards",
-          "link": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
-          "summary": "OpenAI's Sam Altman has called for risk evaluation standards, as have Anthropic's Dario Amodei and Hugging Face's Clement Delangue.",
-          "isoDate": "2026-09-23T22:35:14.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-09-25T03:38:00.028Z"
+          "isoDate": "2026-09-25T11:14:27.630Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 59\nColumn: 58\nChar: =",
-          "isoDate": "2026-09-25T03:37:57.539Z"
+          "isoDate": "2026-09-25T11:14:26.468Z"
         },
         {
           "title": "Mexican EPICS in IEEE Team Builds Portable Educational Platform",
