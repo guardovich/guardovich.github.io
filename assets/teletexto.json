@@ -1,10 +1,34 @@
 {
-  "generatedAt": "2026-09-25T21:07:49.637Z",
+  "generatedAt": "2026-09-26T03:43:50.597Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Can Trump ever be wrong? His pick to lead FDA refused to say.",
+          "link": "https://arstechnica.com/health/2026/09/can-trump-ever-be-wrong-his-pick-to-lead-fda-refused-to-say/",
+          "summary": "Heidi Overton faced questions focused on vaccines, birth control, and vapes.",
+          "isoDate": "2026-09-25T23:00:26.000Z"
+        },
+        {
+          "title": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
+          "link": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
+          "summary": "\"Overly constrained AI models\" could cause military operations to fail, judges say.",
+          "isoDate": "2026-09-25T21:36:20.000Z"
+        },
+        {
+          "title": "Tesla workers balk at training Optimus humanoid robots as replacements",
+          "link": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
+          "summary": "Despite challenges, Tesla aims for 1,000 Optimus robots per week by end of 2026.",
+          "isoDate": "2026-09-25T21:10:51.000Z"
+        },
+        {
+          "title": "Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?",
+          "link": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/",
+          "summary": "Ads appearing all over the Internet are trying to scam people.",
+          "isoDate": "2026-09-25T19:38:59.000Z"
+        },
         {
           "title": "Review: The iPhone 18 Pro is Apple's coolest smartphone (but only literally)",
           "link": "https://arstechnica.com/apple/2026/09/review-the-iphone-18-pro-is-apples-coolest-smartphone-but-only-literally/",
@@ -14,7 +38,7 @@
         {
           "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
           "link": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
-          "summary": "\"There is no evidence of any significant, widespread displacement or reduction in hiring”",
+          "summary": "\"There is no evidence of any significant, widespread displacement or reduction in hiring.”",
           "isoDate": "2026-09-25T19:11:05.000Z"
         },
         {
@@ -40,30 +64,6 @@
           "link": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
           "summary": "Microsoft's new Surface laptops forgo Copilot+ PC branding.",
           "isoDate": "2026-09-25T17:57:37.000Z"
-        },
-        {
-          "title": "Phones don’t have lights",
-          "link": "https://www.theverge.com/podcast/1000751/vergecast-meta-connect-muse-googlebooks",
-          "summary": "Mark Zuckerberg has a new defense of the Ray-Ban Meta glasses: They're actually doing more to signal they're taking a photo than phones do. He's brought this up in at least two recent interviews, noting that the glasses have a light that comes on to signal when a photo is being taken, while phones do not. In one of the interviews, Joanna Stern notes that, while phones do not always emit a light, someone does have to hold a phone up in the air, which is itself pretty noticeable.\nOn today's Vergecast, we're talking about Meta Connect, the Muse AI assistant, all the new smart glasses hardware, and Zuckerberg's response to the privacy uproar ar …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-25T17:42:59.000Z"
-        },
-        {
-          "title": "These camera apps give you more control over the iPhone 18 Pro’s aperture",
-          "link": "https://www.theverge.com/tech/1000729/moment-pro-blackmagic-camera-ii-ios-app-iphone-18-pro-max-aperature-camera",
-          "summary": "One of the questionable limitations of the iPhone 18 Pro's new main camera with a variable aperture is that you're limited to just four settings in the native iOS' camera app in manual mode: f/1.48, f/1.8, f/2.8, and f/4. Those same limitations are also in place when the app is adjusting the iris itself in Auto aperture mode, but it turns out that's not a strict limitation of the iPhone's camera hardware. Apple's SDK allows third-party camera apps to implement more granular control of the aperture.\nBlackMagic Design's well-featured and still completely free BlackMagic Camera app for iOS was one of the first third-party options to introduce  …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-25T17:23:30.000Z"
-        },
-        {
-          "title": "Tesla&#8217;s Optimus robot is going through growing pains",
-          "link": "https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands",
-          "summary": "Hitting its goal of making 20,000 Optimus robots per week is reportedly proving tricky for Tesla. The Information reports that Tesla produced \"several hundred robots a week\" last month, after it repurposed its Model S and Model X production lines for Optimus earlier this year. However, this strategy is reportedly creating manufacturing snags, like issues lining up parts precisely, as The Information notes: \"Not only are the Optimus production lines new, but the Optimus parts are much smaller and have to fit together far more precisely than car parts.\" \nIt reports that even in the \"V3\" Optimus robots it's currently producing, the hands and f …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-25T17:01:36.000Z"
-        },
-        {
-          "title": "Meta makes the Muse filesystem even more accessible",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
-          "summary": "Yesterday, with a little prodding, it was discovered that Meta's Muse would expose its filesystem to curious users. The files offered a fascinating peek under the hood of an AI chatbot, and appeared to expose details we weren't meant to see, not least because Muse itself told people, including us, it wasn't supposed to reveal them. \nBut today Muse will eagerly offer up the contents of its file system when you ask for it. That appears to be because, as Meta's Nat Friedman later said, this is the \"intended behavior.\"\nIn a post on X, Meta Superintelligence Labs' David Singleton elaborated:\nThis was a very deliberate choice - your Muse Secur …\n\nRead the full story at The Verge.",
-          "isoDate": "2026-09-25T16:49:53.000Z"
         }
       ]
     },
@@ -71,6 +71,12 @@
       "header": "120  CIENCIA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "NASA, Boeing to Provide Update on Starliner Development",
+          "link": "https://www.nasa.gov/news-release/nasa-boeing-to-provide-update-on-starliner-development/",
+          "summary": "During a news conference at 3 p.m. EDT on Monday, Sept. 28, NASA and Boeing leadership will discuss Starliner’s development and plans for regular crew flights to and from the International Space Station. Learn where to watch online: https://www.nasa.gov/live The briefing participants include: Media already credentialed for Crew-13 may participate in person at NASA’s Kennedy […]",
+          "isoDate": "2026-09-25T22:06:50.000Z"
+        },
         {
           "title": "NASA Welcomes San Marino Signing the Artemis Accords  ",
           "link": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-san-marino-signing-the-artemis-accords/",
@@ -124,12 +130,6 @@
           "link": "https://www.nature.com/articles/d41586-026-03041-y",
           "summary": "Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-03041-y\nNature staff discuss a technique that could help researchers read charred Herculaneum scrolls — plus, a biodegradeable, edible battery.",
           "isoDate": "2026-09-25T00:00:00.000Z"
-        },
-        {
-          "title": "Why science wouldn’t exist without alchemy, curiosity and great writing: Books in brief",
-          "link": "https://www.nature.com/articles/d41586-026-03032-z",
-          "summary": "Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-03032-z\nAndrew Robinson reviews five of the best science picks.",
-          "isoDate": "2026-09-25T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,25 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-09-25T21:07:46.540Z"
+          "isoDate": "2026-09-26T03:43:47.591Z"
+        },
+        {
+          "title": "OpenAI bots meddled with multiple US government agency sites",
+          "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+          "summary": "OpenAI said its bots accessed public data from the US Census and the Securities and Exchange Commission, which regulates US stock markets.",
+          "isoDate": "2026-09-26T02:50:56.000Z"
+        },
+        {
+          "title": "Tech Now",
+          "link": "https://www.bbc.co.uk/iplayer/episode/m0032d9k?at_medium=RSS&at_campaign=rss",
+          "summary": "Ammie Sekhon explores tech used to identify and remove counterfeit products online.",
+          "isoDate": "2026-09-26T01:00:00.000Z"
+        },
+        {
+          "title": "Inside iconic horror game Silent Hill's Scottish makeover",
+          "link": "https://www.bbc.co.uk/news/articles/ckvgyzjpy2eno?at_medium=RSS&at_campaign=rss",
+          "summary": "One of gaming's biggest horror franchises has come to the UK. Can it live up to the original?",
+          "isoDate": "2026-09-25T23:34:20.000Z"
         },
         {
           "title": "Special agents' blood and urine test results stolen in FBI hack",
@@ -178,24 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o?at_medium=RSS&at_campaign=rss",
           "summary": "News that an automated AI agent hacked a government IT system raises big questions about regulating the tech.",
           "isoDate": "2026-09-24T14:08:38.000Z"
-        },
-        {
-          "title": "FBI investigating claim hackers have stolen details of all its agents",
-          "link": "https://www.bbc.co.uk/news/articles/c9n74574elljo?at_medium=RSS&at_campaign=rss",
-          "summary": "The hackers claim they have every agent's name, role, badge number and personal details including home address, phone numbers and spouse information.",
-          "isoDate": "2026-09-24T12:23:52.000Z"
-        },
-        {
-          "title": "Are we back in big tech's 'move fast and break things' era?",
-          "link": "https://www.bbc.co.uk/news/articles/c6eq8egl3wd2o?at_medium=RSS&at_campaign=rss",
-          "summary": "Despite promises to make safe AI, examples of bots behaving badly are now coming at us thick and fast.",
-          "isoDate": "2026-09-24T11:29:20.000Z"
-        },
-        {
-          "title": "What you need to know about the OpenAI Australian government hack",
-          "link": "https://www.bbc.co.uk/news/videos/cwe8ekyzdjvlo?at_medium=RSS&at_campaign=rss",
-          "summary": "The BBC’s North America technology correspondent Lily Jamali explains how the Medicare breach happened, and why it matters.",
-          "isoDate": "2026-09-24T05:18:26.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-09-25T21:07:48.945Z"
+          "isoDate": "2026-09-26T03:43:49.906Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 59\nColumn: 58\nChar: =",
-          "isoDate": "2026-09-25T21:07:47.896Z"
+          "isoDate": "2026-09-26T03:43:48.901Z"
         },
         {
           "title": "Social Media Bans Aren’t Enough to Make Children Safe",
