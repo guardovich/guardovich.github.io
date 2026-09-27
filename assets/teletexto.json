@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T03:52:51.962Z",
+  "generatedAt": "2026-09-27T11:28:25.589Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
@@ -72,6 +72,12 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "APOD: 2026 September 27 – Andromeda Before and After Photoshop",
+          "link": "https://science.nasa.gov/image-article/apod-2026-september-27-andromeda-before-photoshop/",
+          "summary": "APOD Science APOD APOD: 2026 September 27 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. BeforeAfter Andromeda Before […]",
+          "isoDate": "2026-09-27T04:05:00.000Z"
+        },
+        {
           "title": "APOD: 2026 September 26 – Mirrored Meteor and Milky Way",
           "link": "https://science.nasa.gov/image-article/apod-2026-september-26-mirrored-meteor-and-milky-way/",
           "summary": "APOD Science APOD APOD: 2026 September 26 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Mirrored Meteor and […]",
@@ -124,12 +130,6 @@
           "link": "https://science.nasa.gov/image-article/apod-2026-september-25-globular-star-cluster-omega-centauri/",
           "summary": "APOD Science APOD APOD: 2026 September 25 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Globular Cluster Omega […]",
           "isoDate": "2026-09-25T04:05:00.000Z"
-        },
-        {
-          "title": "Explosive Intensification for Hurricane Polo",
-          "link": "https://science.nasa.gov/earth/earth-observatory/explosive-intensification-for-hurricane-polo/",
-          "summary": "Several ingredients came together off the Pacific coast of Mexico to generate one of the strongest storms the eastern Pacific basin has ever seen.",
-          "isoDate": "2026-09-25T04:01:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-09-27T03:52:49.448Z"
+          "isoDate": "2026-09-27T11:28:22.303Z"
         },
         {
           "title": "OpenAI bots meddled with multiple US government agency sites",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-09-27T03:52:51.179Z"
+          "isoDate": "2026-09-27T11:28:24.866Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 59\nColumn: 58\nChar: =",
-          "isoDate": "2026-09-27T03:52:50.441Z"
+          "isoDate": "2026-09-27T11:28:23.668Z"
         },
         {
           "title": "Social Media Bans Aren’t Enough to Make Children Safe",
