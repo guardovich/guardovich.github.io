@@ -1,10 +1,40 @@
 {
-  "generatedAt": "2026-09-28T03:52:48.525Z",
+  "generatedAt": "2026-09-28T13:00:34.184Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "The Download: rogue agent liability and the AI Hype Index",
+          "link": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Who’s liable when AI agents go rogue? Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a swarm of its agents…",
+          "isoDate": "2026-09-28T12:10:00.000Z"
+        },
+        {
+          "title": "SpaceX preps next-gen Starlink as Amazon’s competitor stalls",
+          "link": "https://www.theverge.com/science/1001259/spacex-starlink-satellites-starship-amazon-leo",
+          "summary": "SpaceX is gearing up for a monumental flight today that's sure to be closely watched by Amazon. If successful, SpaceX will deploy its first Starlink V3 satellites, which tout meaningful upgrades to the ever-expanding Starlink constellation. The 26 satellites will be riding atop Starship, which SpaceX will also attempt to deploy into Earth orbit for the first time. The mission arrives amid Amazon's ongoing setbacks with launch partners that are keeping its own Leo satellites grounded, and falling further behind its plan to offer a meaningful rival to Elon Musk's space internet service.\nIt's been twelve weeks since Amazon's last successful Le …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-28T12:09:17.000Z"
+        },
+        {
+          "title": "Microsoft goes quiet after church groups ask for 1% of data center costs",
+          "link": "https://arstechnica.com/tech-policy/2026/09/microsoft-goes-quiet-after-church-groups-ask-for-1-of-data-center-costs/",
+          "summary": "“Microsoft claims to want to be a good neighbor, but the jury is still out.\"",
+          "isoDate": "2026-09-28T11:00:09.000Z"
+        },
+        {
+          "title": "Who’s liable when AI agents go rogue?",
+          "link": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+          "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a swarm of its agents…",
+          "isoDate": "2026-09-28T08:06:22.000Z"
+        },
+        {
+          "title": "Honor’s Magic 9 Pro Max has a big camera and a bigger battery",
+          "link": "https://www.theverge.com/tech/1001219/honor-magic-9-pro-max-arri-cameras-snapdragon-battery-design-china",
+          "summary": "This mossy green looks great, but the 9 Pro Max is also launching in black and silver. | Image: Honor\t\n\nHonor launches its new Magic 9 flagship phones in China today, and the 9 Pro Max features a design revamp, a capable camera, and a colossal battery.\nThis is Honor's first flagship launch - Robot Phone aside - since it announced its collaboration with camera company Arri. The initial impact is twofold. The new camera island is Arri-inspired, drawing from the \"three-lens turret\" design first introduced in 1937's Arriflex 35, complete with a knurled texture around the main lens.\nArri has played a part in the camera itself, contributing the ability to shoot in Arri LogC3, together with 14 preset Arri Look LUTs, access to Arri's wider library o …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-28T08:00:36.000Z"
+        },
         {
           "title": "Out of the Park Baseball lets me enjoy baseball even when the Mets suck",
           "link": "https://www.theverge.com/games/1001206/out-of-the-park-baseball-cozy-sim-video-game-review",
@@ -34,36 +64,6 @@
           "link": "https://www.theverge.com/tech/1000424/googlebooks-meta-ray-ban-audio-control-resonant-microsoft-surface-mouse",
           "summary": "Hi, friends! Welcome to Installer No. 145, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, I'm happy to be done traveling for a bit, and also you can read all the old editions at the Installer homepage.) \nThis week, I flew to San Francisco to try out Meta's new hardware, including the impressive Meta VR Glasses. Along the way, I've been listening to Joanna Stern's interview with Mark Zuckerberg, watching this interview with new Apple CEO John Ternus, revisiting Steve Jobs' \"Antennagate\" press conference Q&A, playing games on my Steam Deck using the Xreal One Pro glasses, and reading Sarah Wynn-William …\nRead the full story at The Verge.",
           "isoDate": "2026-09-27T12:00:00.000Z"
-        },
-        {
-          "title": "The smart home graveyard is getting crowded",
-          "link": "https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard",
-          "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the fragile state of your connected devices, follow Jennifer Pattison Tuohy. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. \nHow it started\nA decade ago, a group of former Apple engineers built a beautiful smart oven. With a built-in scale, restaurant-grade heating elements, a camera, and the intelligence to recognize a chicken breast and cook it perfectly, the June Oven set the standard for smart cooking appliances. At $1,495, it was absurdly expensive, but it quickly grew a smal …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-27T12:00:00.000Z"
-        },
-        {
-          "title": "How the Smithsonian became the latest front in Trump’s culture war",
-          "link": "https://arstechnica.com/tech-policy/2026/09/how-the-smithsonian-became-the-latest-front-in-trumps-culture-war/",
-          "summary": "The Smithsonian has faced withering pressure from the Trump administration.",
-          "isoDate": "2026-09-27T11:00:12.000Z"
-        },
-        {
-          "title": "Apple hit with $5.7 billion in damages over haptic patents",
-          "link": "https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents",
-          "summary": "Haptics tech company Taction sued Apple in 2021, alleging it infringed two of its patents. Now a federal jury in San Diego has awarded Taction over $5.7 billion in damages. According to CNBC, \"The lawsuit centered around U.S. Patent Nos. 10,659,885 and 10,820,117, which both involve vibration-based, tactile transducer technology that helps users feel a device responding to their input.\"\nTaction argued that Apple's Taptic Engine in its Apple Watches and iPhones used technology that it had developed without a proper license, and the jury agreed. It found that Apple had infringed on two claims in one patent and one in the other. However, the j …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-26T21:30:01.000Z"
-        },
-        {
-          "title": "Decap is the man behind the drums behind your favorite song",
-          "link": "https://www.theverge.com/report/1000994/decap-drums-that-knock-interview",
-          "summary": "Drums on film. | Image: Decap\t\n\nI don't think I'm going to hurt anyone's feelings by pointing out that Decap doesn't have the name recognition of Kendrick Lamar, Olivia Rodrigo, or Charli XCX. But his fingerprints are all over tracks from them, as well as many other artists, including Freddie Gibbs, Bad Bunny, Mac Miller, BTS, and even Ludwig Göransson's score for Oppenheimer. \nNicholas Piantedosi, better known as Decap, is a record producer, but perhaps more importantly, he's the man behind Drums That Knock, a series of sample packs that have found their way onto countless records across genres. The line is so successful that, after debuting in 2016, it's now on its 11th …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-26T19:30:00.000Z"
-        },
-        {
-          "title": "Kids turned the comment section of an NPR podcast into a group chat",
-          "link": "https://www.theverge.com/entertainment/1001056/this-american-life-npr-kids-group-chat-comment-section",
-          "summary": "Middle schoolers, likely blocked from other apps and social networks, apparently turned the Spotify comment section under an episode of NPR's Wild Card into an impromptu group chat. In a new episode of This American Life, host Ira Glass digs into how the kids landed there and why. But it mostly boils down to kids getting creative to work around the restrictions placed on them.\nWhen Glass asked one of the kids why they picked this particular podcast, they said, \"We just, like, looked for podcasts that didn't have many comments.\" Which, obviously, hurt Glass's feelings a bit. \nInitially, showrunner Dave Blanchard thought the comments were a  …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-26T17:32:35.000Z"
         }
       ]
     },
@@ -72,64 +72,64 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "APOD: 2026 September 27 – Andromeda Before and After Photoshop",
-          "link": "https://science.nasa.gov/image-article/apod-2026-september-27-andromeda-before-photoshop/",
-          "summary": "APOD Science APOD APOD: 2026 September 27 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. BeforeAfter Andromeda Before […]",
-          "isoDate": "2026-09-27T04:05:00.000Z"
+          "title": "ERROR cargando feed",
+          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
+          "isoDate": "2026-09-28T13:00:29.531Z"
         },
         {
-          "title": "APOD: 2026 September 26 – Mirrored Meteor and Milky Way",
-          "link": "https://science.nasa.gov/image-article/apod-2026-september-26-mirrored-meteor-and-milky-way/",
-          "summary": "APOD Science APOD APOD: 2026 September 26 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Mirrored Meteor and […]",
-          "isoDate": "2026-09-26T04:05:00.000Z"
+          "title": "China now leads the world in trials for next-gen CAR-T therapies",
+          "link": "https://www.nature.com/articles/d41586-026-03004-3",
+          "summary": "Nature, Published online: 28 September 2026; doi:10.1038/d41586-026-03004-3\nChina tests these therapies faster than the rest of the world but regulatory changes could slow them down.",
+          "isoDate": "2026-09-28T00:00:00.000Z"
         },
         {
-          "title": "NASA, Boeing to Provide Update on Starliner Development",
-          "link": "https://www.nasa.gov/news-release/nasa-boeing-to-provide-update-on-starliner-development/",
-          "summary": "During a news conference at 3 p.m. EDT on Monday, Sept. 28, NASA and Boeing leadership will discuss Starliner’s development and plans for regular crew flights to and from the International Space Station. Learn where to watch online: https://www.nasa.gov/live The briefing participants include: Media already credentialed for Crew-13 may participate in person at NASA’s Kennedy […]",
-          "isoDate": "2026-09-25T22:06:50.000Z"
+          "title": "Stephen Hawking biography explores an ‘exceptionally clear, uncluttered mind’",
+          "link": "https://www.nature.com/articles/d41586-026-02959-7",
+          "summary": "Nature, Published online: 28 September 2026; doi:10.1038/d41586-026-02959-7\nAn elegant account of the physicist’s unusual life story highlights the relationships that inspired him.",
+          "isoDate": "2026-09-28T00:00:00.000Z"
         },
         {
-          "title": "NASA Welcomes San Marino Signing the Artemis Accords  ",
-          "link": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-san-marino-signing-the-artemis-accords/",
-          "summary": "The Republic of San Marino became the 76th signatory to the Artemis Accords during a ceremony in the city of Rimini on Friday with NASA and U.S. Department of State officials present.   “San Marino joins a growing coalition of like-minded nations committed to the peaceful, transparent, and responsible exploration of space,” said NASA Deputy Administrator […]",
-          "isoDate": "2026-09-25T19:53:03.000Z"
+          "title": "Bigger than CRISPR? A guide to the latest genome editors",
+          "link": "https://www.nature.com/articles/d41586-026-02964-w",
+          "summary": "Nature, Published online: 28 September 2026; doi:10.1038/d41586-026-02964-w\nGene-editing techniques could soon allow researchers to replace entire genes and engineer complex cellular circuits — if the systems can be delivered safely into cells.",
+          "isoDate": "2026-09-28T00:00:00.000Z"
         },
         {
-          "title": "NASA Tests Dual Mode Propulsion CubeSat Ahead of Launch",
-          "link": "https://www.nasa.gov/directorates/rtmd/nasa-tests-dual-mode-propulsion-cubesat-ahead-of-launch/",
-          "summary": "Spacecraft propulsion traditionally relies on volatile fuels and separate, bulky systems for different types of maneuvering in space. NASA is working to change that paradigm. Engineers at NASA’s Marshall Space Flight Center in Huntsville, Alabama, recently completed a rigorous series of environmental and physical tests on a new small satellite designed to make spaceflight safer […]",
-          "isoDate": "2026-09-25T19:36:10.000Z"
+          "title": "Vaping in childhood has bigger health risks than we’d thought",
+          "link": "https://www.nature.com/articles/d41586-026-02962-y",
+          "summary": "Nature, Published online: 28 September 2026; doi:10.1038/d41586-026-02962-y\nUse of e-cigarettes makes it more likely that young people will experience mental-health disorders and take up smoking. Governments must act.",
+          "isoDate": "2026-09-28T00:00:00.000Z"
         },
         {
-          "title": "2026-2027 DWU: Middle School Design Challenge",
-          "link": "https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-middle-school-design-challenge/",
-          "summary": "2026-2027 DWU: Middle School Design Challenge Overview The 2026-2027 challenge theme is, “Fueling Flight Design Challenge: New Energy Systems.”  As more and more aircraft are a part of the US’ National Airspace System (NAS), NASA and partners at the FAA, at universities, and in the aviation industry are searching for ways to increase safety, make […]",
-          "isoDate": "2026-09-25T17:20:51.000Z"
+          "title": "Old hearts age backwards: transplanted organs adjust to host's biological age",
+          "link": "https://www.nature.com/articles/d41586-026-03043-w",
+          "summary": "Nature, Published online: 28 September 2026; doi:10.1038/d41586-026-03043-w\nTracking the biological age of grafted organs suggests that donor pools could be expanded to boost organ availability.",
+          "isoDate": "2026-09-28T00:00:00.000Z"
         },
         {
-          "title": "2026-2027 DWU: High School Engineering Challenge",
-          "link": "https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-high-school-engineering-challenge/",
-          "summary": "2026-2027 DWU: High School Engineering Challenge Challenge Materials Overview The 2026-2027 challenge theme is, “Fueling Flight Design Challenge: New Energy Systems.” As more and more aircraft are a part of the US’ National Airspace System (NAS), NASA and partners at the FAA, at universities, and in the aviation industry are searching for ways to increase safety, […]",
-          "isoDate": "2026-09-25T17:19:42.000Z"
+          "title": "Briefing Chat: Why scientists made papyrus scrolls, then burnt them",
+          "link": "https://www.nature.com/articles/d41586-026-03041-y",
+          "summary": "Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-03041-y\nNature staff discuss a technique that could help researchers read charred Herculaneum scrolls — plus, a biodegradeable, edible battery.",
+          "isoDate": "2026-09-25T00:00:00.000Z"
         },
         {
-          "title": "Hubble Spots Chaotic Secret in Galaxy",
-          "link": "https://www.nasa.gov/image-article/hubble-spots-chaotic-secret-in-galaxy/",
-          "summary": "A chaotic secret hides within this seemingly serene image of spiral galaxy NGC 4698 taken by NASA’s Hubble Space Telescope and released on Sept. 18, 2026. As a spiral galaxy like our own Milky Way galaxy, NGC 4698 has spiral arms that curl around within a thin disk of stars, gas, and dust. These arms […]",
-          "isoDate": "2026-09-25T15:54:10.000Z"
+          "title": "Why science wouldn’t exist without alchemy, curiosity and great writing: Books in brief",
+          "link": "https://www.nature.com/articles/d41586-026-03032-z",
+          "summary": "Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-03032-z\nAndrew Robinson reviews five of the best science picks.",
+          "isoDate": "2026-09-25T00:00:00.000Z"
         },
         {
-          "title": "TB 26-07 Aluminum Alloy 2219 Material Guidance",
-          "link": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-07-aluminum-alloy-2219-material-guidance/",
-          "summary": "For more information, contact Donald S. Parker, Kennedy Space Center, donald.s.parker@nasa.gov Download the PDF version Improper casting and forging processes in the manufacture of aluminum alloy 2219 can lead to microstructural defects that result in a sub-optimal response to anodic surface treatments and an increase in corrosion susceptibility. This Technical Bulletin communicates the risks of […]",
-          "isoDate": "2026-09-25T14:45:51.000Z"
+          "title": "Anthropic’s AI biolab finds ‘CRISPR-like’ DNA in viruses. What’s next?",
+          "link": "https://www.nature.com/articles/d41586-026-03039-6",
+          "summary": "Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-03039-6\nThe detection effort enlisted roughly 950 AI agents that spent more than 21 hours combing through DNA sequence databases.",
+          "isoDate": "2026-09-25T00:00:00.000Z"
         },
         {
-          "title": "APOD: 2026 September 25 – Globular Star Cluster Omega Centauri",
-          "link": "https://science.nasa.gov/image-article/apod-2026-september-25-globular-star-cluster-omega-centauri/",
-          "summary": "APOD Science APOD APOD: 2026 September 25 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Globular Cluster Omega […]",
-          "isoDate": "2026-09-25T04:05:00.000Z"
+          "title": "Chemists struggle to ditch hazardous solvents — even after decades of ‘green’ efforts",
+          "link": "https://www.nature.com/articles/d41586-026-03023-0",
+          "summary": "Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-03023-0\nLaboratories are still using dangerous and carbon-intensive liquids much more often than environmentally friendly ones, according to a 40-year survey of patents.",
+          "isoDate": "2026-09-25T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-09-28T03:52:44.856Z"
+          "isoDate": "2026-09-28T13:00:31.378Z"
+        },
+        {
+          "title": "Apple ordered to pay $5.7bn after losing vibration tech patent suit",
+          "link": "https://www.bbc.co.uk/news/articles/c6je85n2vyleo?at_medium=RSS&at_campaign=rss",
+          "summary": "Audio firm Taction Technology claimed Apple infringed its patents for tech used to power device vibrations.",
+          "isoDate": "2026-09-28T11:16:08.000Z"
         },
         {
           "title": "OpenAI bots meddled with multiple US government agency sites",
@@ -153,13 +159,19 @@
           "title": "Tech Now",
           "link": "https://www.bbc.co.uk/iplayer/episode/m0032d9k?at_medium=RSS&at_campaign=rss",
           "summary": "Ammie Sekhon explores tech used to identify and remove counterfeit products online.",
-          "isoDate": "2026-09-26T01:00:00.000Z"
+          "isoDate": "2026-09-26T01:00:13.000Z"
         },
         {
           "title": "Inside iconic horror game Silent Hill's Scottish makeover",
           "link": "https://www.bbc.co.uk/news/articles/ckvgyzjpy2eno?at_medium=RSS&at_campaign=rss",
           "summary": "One of gaming's biggest horror franchises has come to the UK. Can it live up to the original?",
           "isoDate": "2026-09-25T23:34:20.000Z"
+        },
+        {
+          "title": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
+          "link": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
+          "summary": "Current and former agents speak to the BBC about the devastating impact of the FBI hack.",
+          "isoDate": "2026-09-25T23:05:40.000Z"
         },
         {
           "title": "Special agents' blood and urine test results stolen in FBI hack",
@@ -184,18 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
           "summary": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
           "isoDate": "2026-09-24T18:06:40.000Z"
-        },
-        {
-          "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
-          "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-          "summary": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
-          "isoDate": "2026-09-24T15:42:07.000Z"
-        },
-        {
-          "title": "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
-          "link": "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o?at_medium=RSS&at_campaign=rss",
-          "summary": "News that an automated AI agent hacked a government IT system raises big questions about regulating the tech.",
-          "isoDate": "2026-09-24T14:08:38.000Z"
         }
       ]
     },
@@ -203,6 +203,12 @@
       "header": "160  INTELIGENCIA ARTIFICIAL",
       "maxItems": 10,
       "items": [
+        {
+          "title": "New formulation helps RNA vaccines withstand high temperatures",
+          "link": "https://news.mit.edu/2026/new-formulation-helps-rna-vaccines-withstand-high-temperatures-0928",
+          "summary": "MIT engineers have found a way to stabilize the lipid nanoparticles used to deliver RNA vaccines, which could allow the vaccines to be more widely distributed.",
+          "isoDate": "2026-09-28T09:00:00.000Z"
+        },
         {
           "title": "MIT students gain a humanist lens on technical innovation in Tulsa, Oklahoma",
           "link": "https://news.mit.edu/2026/mit-students-gain-humanist-lens-technical-innovation-tulsa-oklahoma-0925",
@@ -256,12 +262,6 @@
           "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
           "summary": "",
           "isoDate": "2026-09-23T15:25:14.000Z"
-        },
-        {
-          "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-          "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-          "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
-          "isoDate": "2026-09-23T13:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-09-28T03:52:47.656Z"
+          "isoDate": "2026-09-28T13:00:33.499Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 59\nColumn: 58\nChar: =",
-          "isoDate": "2026-09-28T03:52:46.470Z"
+          "isoDate": "2026-09-28T13:00:32.328Z"
         },
         {
           "title": "Poetry for Engineers: The UI Designer’s Dream",
