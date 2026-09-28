@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-09-27T20:56:28.593Z",
+  "generatedAt": "2026-09-28T03:52:48.525Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Out of the Park Baseball lets me enjoy baseball even when the Mets suck",
+          "link": "https://www.theverge.com/games/1001206/out-of-the-park-baseball-cozy-sim-video-game-review",
+          "summary": "If you were to ask me what game or game series I've sunk the most time into, the answer would be easy: Out of the Park Baseball (OOTP). I have spent roughly 2,300 hours, according to Steam, playing various editions of the game. OOTP isn't like MLB The Show or Super Mega Baseball. It's not graphically impressive. It's not a blast of simple arcade fun. It is basically a spreadsheet pretending to be a video game. It's fantasy baseball, but without having to wait six months to see how disappointing that sleeper draft pick will be, because you can plow through an entire season in as little as a few hours.\nYou can play individual games and dig in …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-27T21:59:57.000Z"
+        },
         {
           "title": "Engram is a sampler that turns broken AI hallucinations into music",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
@@ -58,12 +64,6 @@
           "link": "https://www.theverge.com/entertainment/1001056/this-american-life-npr-kids-group-chat-comment-section",
           "summary": "Middle schoolers, likely blocked from other apps and social networks, apparently turned the Spotify comment section under an episode of NPR's Wild Card into an impromptu group chat. In a new episode of This American Life, host Ira Glass digs into how the kids landed there and why. But it mostly boils down to kids getting creative to work around the restrictions placed on them.\nWhen Glass asked one of the kids why they picked this particular podcast, they said, \"We just, like, looked for podcasts that didn't have many comments.\" Which, obviously, hurt Glass's feelings a bit. \nInitially, showrunner Dave Blanchard thought the comments were a  …\nRead the full story at The Verge.",
           "isoDate": "2026-09-26T17:32:35.000Z"
-        },
-        {
-          "title": "OpenAI pauses training of its ‘most capable models’",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
-          "summary": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made after a model being tested within a sandbox exploited a loophole to gain internet access. The incident happened on September 20th, and \"All training, evaluation, and inference with tool-use\" remains paused as of Saturday evening, September 25th.\nIn addition, OpenAI revealed on Friday that its agents had inappropriately uploaded 53nimages from ChatGPT users to image-hosting sites. The company has not stated if the images were AI- …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-26T16:34:59.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-09-27T20:56:25.698Z"
+          "isoDate": "2026-09-28T03:52:44.856Z"
         },
         {
           "title": "OpenAI bots meddled with multiple US government agency sites",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-09-27T20:56:27.754Z"
+          "isoDate": "2026-09-28T03:52:47.656Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 59\nColumn: 58\nChar: =",
-          "isoDate": "2026-09-27T20:56:26.769Z"
+          "isoDate": "2026-09-28T03:52:46.470Z"
         },
         {
           "title": "Poetry for Engineers: The UI Designer’s Dream",
