@@ -1,10 +1,40 @@
 {
-  "generatedAt": "2026-09-29T04:27:03.911Z",
+  "generatedAt": "2026-09-29T12:11:58.717Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Will Chinese AI companies slow down? A top House Democrat wants answers",
+          "link": "https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty",
+          "summary": "Image: Tom Williams/CQ-Roll Call, Inc via Getty Images\t\n\nAs President Donald Trump prepares to meet tech and AI CEOs in Washington, Rep. Ro Khanna (D-CA) is calling for a treaty between the US and China to keep AI from wreaking havoc on the world. But wrangling leaders in both countries to take action could be a long shot.\nIn letters shared exclusively with The Verge, Khanna - the top Democrat on the House Select Committee on China and a possible presidential contender - asked a US intelligence agency and Chinese AI companies whether they would be prepared for an incident like OpenAI agents' hack of Hugging Face this summer. The companies included DeepSeek, Alibaba, and Moonshot AI, all of which  …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-29T12:00:00.000Z"
+        },
+        {
+          "title": "Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat",
+          "summary": "As Anthropic gears up for its greatly anticipated public debut, a preview of the company's IPO filing reportedly details its mounting losses, leadership proposals to retain power, and how its AI development plans could \"further increase the risk that our models cause harm.\" These disclosures come as Anthropic eyes a $2 trillion valuation, more than double the $965 billion it was valued at four months ago, making it a contender to overtake SpaceX as the largest IPO in history.\nAccording to Reuters, which reportedly reviewed Anthropic's prospectus, the AI startup plans to spend $518 billion on cloud, computing, and infrastructure obligations  …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-29T11:48:27.000Z"
+        },
+        {
+          "title": "Coming soon: Our 2026 list of Climate Tech Companies to Watch",
+          "link": "https://www.technologyreview.com/2026/09/29/1145183/2026-climate-tech-companies-to-watch-preview/",
+          "summary": "Earlier this month, the UN announced the planet will tip past 1.5 ˚C of warming, “likely within the next few years,” squashing any lingering hope that nations would cut emissions fast enough to achieve the loftiest goal of the Paris climate agreement. In the US, the world’s second-largest-emitting country, its leader continues to deny climate…",
+          "isoDate": "2026-09-29T11:00:00.000Z"
+        },
+        {
+          "title": "Making AI an asset, not an expense",
+          "link": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+          "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. But that is often where the conversation goes. As AI moves from experimentation to production, model choice is only…",
+          "isoDate": "2026-09-29T10:43:45.000Z"
+        },
+        {
+          "title": "Your car’s data privacy problems are worse than you think",
+          "link": "https://www.theverge.com/transportation/1001463/car-data-privacy-northeastern-study-honda-gm-ford",
+          "summary": "You hear it all the time: Modern cars are basically smartphones on wheels. And just like the phone in your pocket, the car in your driveway collects vast amounts of data - tracking where you drive, how fast you accelerate, how hard you brake, how aggressively you turn, and much more.\nThe legality of this data harvesting remains hotly debated. Last year, the Federal Trade Commission penalized General Motors for illegally collecting and selling precise location and driving behavior data without informed consent. Other automakers, like Ford and Honda, have faced minor fines for making it overly difficult for customers to opt out. While industr …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-29T10:00:00.000Z"
+        },
         {
           "title": "Nothing’s new flagship Headphone 1 Pro put you in the studio",
           "link": "https://www.theverge.com/tech/1001797/nothings-headphone-1-pro-review",
@@ -34,36 +64,6 @@
           "link": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
           "summary": "World Labs co-founder and CEO Fei-Fei Li. | Bloomberg via Getty Images\t\n\nAMD announced today that it's acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr. Fei-Fei Li, in an all-stock deal worth approximately $8.2 billion. World Labs launched in 2024 and was valued at $1 billion in a matter of months. The startup launched its first commercial product, a world generation model called Marble that lets users make interactive 3D worlds from a prompt, in 2025.\nThe deal is expected to close by the end of the year. Li will become EVP and chief scientist at AMD, reporting to AMD CEO Lisa Su, while the World Labs team will \"continue to focus on advancing AI model research.\" AMD also notes t …\nRead the full story at The Verge.",
           "isoDate": "2026-09-28T21:31:35.000Z"
-        },
-        {
-          "title": "SpaceX's Starship goes orbital, deploying first next-gen Starlinks",
-          "link": "https://arstechnica.com/space/2026/09/starships-first-orbital-launch-gives-lift-to-spacexs-next-gen-starlinks/",
-          "summary": "Starship had already flown 99 percent of the way to low-Earth orbit. Monday's flight added the last bit.",
-          "isoDate": "2026-09-28T21:26:19.000Z"
-        },
-        {
-          "title": "Florida invokes extinction fears in legal bid to halt OpenAI development",
-          "link": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/",
-          "summary": "State says LLMs threaten civilization as \"the greatest public nuisance ever created.\"",
-          "isoDate": "2026-09-28T20:49:39.000Z"
-        },
-        {
-          "title": "New device captures carbon dioxide by pumping it across a battery",
-          "link": "https://arstechnica.com/science/2026/09/new-device-captures-carbon-dioxide-by-pumping-it-across-a-battery/",
-          "summary": "The design requires less energy to capture CO2 than current systems.",
-          "isoDate": "2026-09-28T20:31:06.000Z"
-        },
-        {
-          "title": "To keep drug prices high, pharma has been piling up the patents",
-          "link": "https://arstechnica.com/health/2026/09/to-keep-drug-prices-high-pharma-has-been-piling-up-the-patents/",
-          "summary": "Add-on patents have increased drug patent periods from two years to over six.",
-          "isoDate": "2026-09-28T19:53:37.000Z"
-        },
-        {
-          "title": "Trump cuts fuel economy standards back to 2014 levels",
-          "link": "https://arstechnica.com/cars/2026/09/trump-cuts-fuel-economy-standards-back-to-2014-levels/",
-          "summary": "In 2020, Trump cut CAFE to 40 mpg. Now he’s cut it again to just 35 mpg.",
-          "isoDate": "2026-09-28T19:35:51.000Z"
         }
       ]
     },
@@ -72,64 +72,64 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "Mars Has Its Charmes",
-          "link": "https://science.nasa.gov/blog/mars-has-its-charmes/",
-          "summary": "Written by Athanasios (Thanos) Klidaras, Ph.D. candidate at Purdue University  Sept. 21, 2026 After a long hiatus, the Perseverance rover updates page is back. A lot has happened on Mars in the meantime, and with regular updates now resuming, there is plenty to catch up on — Perseverance has been busy. The rover has spent […]",
-          "isoDate": "2026-09-29T01:27:52.000Z"
+          "title": "ERROR cargando feed",
+          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
+          "isoDate": "2026-09-29T12:11:55.400Z"
         },
         {
-          "title": "October’s Night Sky Notes: Spooky Stargazing",
-          "link": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/spooky-stargazing/",
-          "summary": "The Ghoul Located within the constellation Perseus lies a star called Algol, also known as ‘Demon Star’ or ‘The Ghoul’. You can spot this star during the autumn months, along with Cassiopeia and Andromeda in the northeastern sky, beginning after 9 PM. In Greek mythology, this star represents the ‘blinking eye’ of the gorgon Medusa. […]",
-          "isoDate": "2026-09-28T22:48:56.000Z"
+          "title": "PhD training should encourage ethical dissent",
+          "link": "https://www.nature.com/articles/d41586-026-03053-8",
+          "summary": "Nature, Published online: 29 September 2026; doi:10.1038/d41586-026-03053-8\nPhD training should encourage ethical dissent",
+          "isoDate": "2026-09-29T00:00:00.000Z"
         },
         {
-          "title": "NASA, Boeing Share Update on Commercial Starliner Development Plans",
-          "link": "https://www.nasa.gov/news-release/nasa-boeing-share-update-on-commercial-starliner-development-plans/",
-          "summary": "On Monday, NASA and Boeing provided an update on the company’s Starliner spacecraft, including adding additional crew missions and certifying a new rocket for crew transportation to low Earth orbit. “We are living through the most exciting era of space exploration since Apollo,” said NASA Administrator Jared Isaacman. “As this domain continues to open, there […]",
-          "isoDate": "2026-09-28T19:26:57.000Z"
+          "title": "Biodiversity protection must include language preservation",
+          "link": "https://www.nature.com/articles/d41586-026-03056-5",
+          "summary": "Nature, Published online: 29 September 2026; doi:10.1038/d41586-026-03056-5\nBiodiversity protection must include language preservation",
+          "isoDate": "2026-09-29T00:00:00.000Z"
         },
         {
-          "title": "NASA Armstrong Celebrates 80 Years of Flight Innovation",
-          "link": "https://www.nasa.gov/news-release/nasa-armstrong-celebrates-80-years-of-flight-innovation/",
-          "summary": "On Sept. 30, 1946, five National Advisory Committee of Aeronautics (NACA) engineers arrived at Muroc Army Airfield in California’s high desert to achieve supersonic flight for the first time. In less than two years, NACA flew the X-1 aircraft faster than the speed of sound, marking an important milestone in aviation history. Fast forward 80 […]",
-          "isoDate": "2026-09-28T19:20:01.000Z"
+          "title": "Patents alone won’t unlock critical-mineral supply chains",
+          "link": "https://www.nature.com/articles/d41586-026-03054-7",
+          "summary": "Nature, Published online: 29 September 2026; doi:10.1038/d41586-026-03054-7\nPatents alone won’t unlock critical-mineral supply chains",
+          "isoDate": "2026-09-29T00:00:00.000Z"
         },
         {
-          "title": "NASA Highlights Lessons Learned From Swift Boost Mission",
-          "link": "https://science.nasa.gov/missions/swift/nasa-highlights-lessons-learned-from-swift-boost-mission/",
-          "summary": "A commercial mission to boost NASA’s Swift observatory concluded without raising the spacecraft’s orbit, but the agency and industry vendor gained valuable experience that will benefit future in-space servicing programs.",
-          "isoDate": "2026-09-28T17:44:33.000Z"
+          "title": "The cost of lost labour on a warming planet",
+          "link": "https://www.nature.com/articles/d41586-026-02971-x",
+          "summary": "Nature, Published online: 29 September 2026; doi:10.1038/d41586-026-02971-x\nResearchers quantify the economic damage caused by climate-change-related heat stress on the global workforce.",
+          "isoDate": "2026-09-29T00:00:00.000Z"
         },
         {
-          "title": "NASA Celebrates as Artemis Accords Surpasses 75 Signatories ",
-          "link": "https://www.nasa.gov/news-release/nasa-celebrates-as-artemis-accords-surpasses-75-signatories/",
-          "summary": "Marking a significant expansion in the number of signatories to the Artemis Accords, NASA welcomed Albania, Croatia, Côte d’Ivoire, and San Marino, bringing total participation to 76 countries.  “Our momentum reflects a growing commitment to peaceful, responsible exploration and a shared understanding that the future in space will be shaped by those willing to lead,” […]",
-          "isoDate": "2026-09-28T16:26:45.000Z"
+          "title": "Why AI-authorship debates miss a deeper shift in how scholarly knowledge is produced",
+          "link": "https://www.nature.com/articles/d41586-026-03055-6",
+          "summary": "Nature, Published online: 29 September 2026; doi:10.1038/d41586-026-03055-6\nWhy AI-authorship debates miss a deeper shift in how scholarly knowledge is produced",
+          "isoDate": "2026-09-29T00:00:00.000Z"
         },
         {
-          "title": "Meet NASA’s Artemis II Crew During Houston Public Event",
-          "link": "https://www.nasa.gov/news-release/meet-nasas-artemis-ii-crew-during-houston-public-event/",
-          "summary": "Editor’s Note: This advisory was updated on Sept. 28, 2026, with ticketing information for the public. The four astronauts of NASA’s Artemis II mission will participate in an event hosted by industry and community partners at the University of Houston to discuss their mission around the Moon aboard the Orion spacecraft. It will be the […]",
-          "isoDate": "2026-09-28T16:16:40.000Z"
+          "title": "AI can widen science — but only if institutions stop rewarding the already measurable",
+          "link": "https://www.nature.com/articles/d41586-026-02961-z",
+          "summary": "Nature, Published online: 29 September 2026; doi:10.1038/d41586-026-02961-z\nFunders, journals and universities must reward the creation of new scientific terrain, not just the efficient mining of old ground.",
+          "isoDate": "2026-09-29T00:00:00.000Z"
         },
         {
-          "title": "What You Need to Know About NASA’s SpaceX Crew-13 Mission",
-          "link": "https://www.nasa.gov/missions/station/commercial-crew/what-you-need-to-know-about-nasas-spacex-crew-13-mission/",
-          "summary": "Four crew members are set to launch to the International Space Station as part of NASA’s SpaceX Crew-13 mission to perform research, technology demonstrations, and maintenance aboard the orbiting laboratory.",
-          "isoDate": "2026-09-28T16:09:09.000Z"
+          "title": "China wants to build world-leading science journals — can it be done?",
+          "link": "https://www.nature.com/articles/d41586-026-02759-z",
+          "summary": "Nature, Published online: 29 September 2026; doi:10.1038/d41586-026-02759-z\nA new Chinese-owned journal Vita aims to compete with established journals.",
+          "isoDate": "2026-09-29T00:00:00.000Z"
         },
         {
-          "title": "Space Station View of Earth at Night",
-          "link": "https://www.nasa.gov/image-article/space-station-view-of-earth-at-night/",
-          "summary": "This nighttime view of the United States, dotted with city lights looking toward New York City (center), was taken at approximately 3:40 a.m. local time on Sept. 8, 2026, from the International Space Station as it orbited 259 miles above Earth. Image credit: NASA/Jessica Meir",
-          "isoDate": "2026-09-28T15:21:36.000Z"
+          "title": "A new chapter in targeting kinase enzymes in cancer",
+          "link": "https://www.nature.com/articles/d41586-026-02776-y",
+          "summary": "Nature, Published online: 29 September 2026; doi:10.1038/d41586-026-02776-y\nInhibitors of tyrosine kinase enzymes have been a cornerstone in precision cancer treatments. Now, targeted protein degraders could reshape therapeutic options.",
+          "isoDate": "2026-09-29T00:00:00.000Z"
         },
         {
-          "title": "NASA ORBIT Challenge 2027",
-          "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-orbit-challenge-2027/",
-          "summary": "The NASA ORBIT (Opportunities in Research, Business, Innovation, and Technology for the Workforce) Challenge invites university and community college students nationwide to work with real NASA intellectual property and mission challenges. Choose your path: develop commercial applications of NASA patents that solve problems here on Earth (ORBIT Earth), or design next-generation technologies for space exploration […]",
-          "isoDate": "2026-09-28T14:56:39.000Z"
+          "title": "How to put people first in cyberspace",
+          "link": "https://www.nature.com/articles/d41586-026-02960-0",
+          "summary": "Nature, Published online: 29 September 2026; doi:10.1038/d41586-026-02960-0\nDigital technologies increasingly shape everyday life. Computer scientist Francine Berman tells Nature that stronger safeguards are required to protect the public interest.",
+          "isoDate": "2026-09-29T00:00:00.000Z"
         }
       ]
     },
@@ -141,13 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-09-29T04:27:01.021Z"
+          "isoDate": "2026-09-29T12:11:56.232Z"
         },
         {
           "title": "OpenAI scraps rollout of new model over safety concerns",
           "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
           "summary": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
-          "isoDate": "2026-09-29T02:29:25.000Z"
+          "isoDate": "2026-09-29T09:14:13.000Z"
         },
         {
           "title": "Apple ordered to pay $5.7bn after losing vibration tech patent suit",
@@ -222,6 +222,12 @@
           "isoDate": "2026-09-28T19:00:00.000Z"
         },
         {
+          "title": "Towards safety cases for frontier AI training",
+          "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+          "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+          "isoDate": "2026-09-28T19:00:00.000Z"
+        },
+        {
           "title": "New formulation helps RNA vaccines withstand high temperatures",
           "link": "https://news.mit.edu/2026/new-formulation-helps-rna-vaccines-withstand-high-temperatures-0928",
           "summary": "MIT engineers have found a way to stabilize the lipid nanoparticles used to deliver RNA vaccines, which could allow the vaccines to be more widely distributed.",
@@ -256,12 +262,6 @@
           "link": "https://openai.com/index/proaction",
           "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
           "isoDate": "2026-09-25T19:00:00.000Z"
-        },
-        {
-          "title": "Estimating suicide risk from text",
-          "link": "https://news.mit.edu/2026/estimating-suicide-risk-from-text-0924",
-          "summary": "A new language-processing tool could help identify the highest-risk individuals from natural language, enabling swifter interventions.",
-          "isoDate": "2026-09-24T21:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,25 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-09-29T04:27:03.371Z"
+          "isoDate": "2026-09-29T12:11:58.073Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 59\nColumn: 58\nChar: =",
-          "isoDate": "2026-09-29T04:27:01.933Z"
+          "isoDate": "2026-09-29T12:11:57.179Z"
+        },
+        {
+          "title": "Unveiling IC-STAR: Full-Flow Autonomy from Digital to Analog",
+          "link": "https://event.on24.com/wcc/r/5507421/A45CEFBA43BC7B2A43F265520AFDBA32",
+          "summary": "Learn how engineers can shift from manually managing tools and handoffs to defining objectives and supervising AI-driven execution across the silicon development lifecycle.\nKey Takeaways\n\nExplore four critical technologies enabling silicon design autonomy\nUnderstand how autonomous AI accelerates complex engineering workflows\nSee real-world impact across semiconductor design and verification\nGain practical insights from Ambiq’s deployment of autonomous AI in production\n\nRegister now for this free webinar!",
+          "isoDate": "2026-09-29T10:00:06.000Z"
+        },
+        {
+          "title": "A Day in the Life of a Roboticist: Charlie Kemp",
+          "link": "https://robotsguide.com/learn/a-day-in-the-life-of-a-roboticist-charlie-kemp",
+          "summary": "Building useful robots starts with understanding the people who use them. For Charlie Kemp, cofounder and chief technology officer of Hello Robot, that means developing assistive robots that can help people with everyday tasks and support greater independence.\nIn this Robots Guide profile, Kemp shares his path from studying artificial intelligence at MIT to building Stretch, explains how working with people with disabilities has shaped his approach, and offers advice for aspiring roboticists. Read the full profile on IEEE’s Robots Guide.",
+          "isoDate": "2026-09-28T21:48:56.000Z"
         },
         {
           "title": "A New IEEE STEM Book Series for Tweens from TryEngineering",
@@ -304,18 +316,6 @@
           "link": "https://spectrum.ieee.org/social-media-bans",
           "summary": "Even before France approved legislation banning social media for children under 15 last January, 13-year-old Benjamin was already wondering what life without social media would look like. “If we want to play football, we won’t be able to organize it. What will we do? Send letters instead?” he joked in an interview for Le Monde. \nHis reaction captured the central challenge behind the growing wave of youth social media bans: Removing access is one thing; understanding what those platforms mean in children’s lives is another. \nWithin weeks of Australia’s similar ban, the country’s eSafety Commissioner reported that platforms had restricted access to 4.7 million under-16 accounts. Two months later, though, one in five Australian teenagers under 16 was still using TikTok and Snapchat, according to a parental-control data company. But even if all children’s social media accounts were to disappear, do such bans actually make children safer online?\nGovernments are moving ahead without answering that question as they follow Australia’s lead. Indonesia’s child-safety framework, which took effect in March, bars children under 16 from holding accounts on “high-risk” platforms. The U.K. government has announced  plans to ban social media for under-16s, add default overnight social media curfews for 16- and 17-year-olds, and extend child-safety rules to cover risky AI features. And on 17 September, the European Commission proposed the EU KIDS Act, which would bar children under 13 from social media, set 15 as the EU-wide minimum age for opening an account independently, and require platforms to show that their services are age appropriate and safe by design.\nBut based on my experience working on  Child Online Protection initiatives with the International Telecommunication Union (ITU) across Southeast Asia and the Pacific, I know the bans don’t address the real problems. Instead, we should be paying more attention to the systems that generate harm in the first place—namely, recommender algorithms, engagement-maximizing design, opaque moderation, and extractive data practices.\nAccount removals are not the same as online child safety\nMy experience working on protecting children’s online safety has taught me three main lessons: \nFirst, the public institutions responsible for child online protection often lack the staff, budget, or technical capacity to enforce complex online safety policies. \nIndonesia is illustrative. A 2026 UNICEF evaluation found capacity constraints among service providers, long-term funding uncertainty, and a need for specialized personnel. At the local level, some staff lacked digital skills, while budget constraints left some areas reliant on external support. \nSecond, many children, and often their parents, lack the digital literacy and critical thinking skills needed to navigate online risks safely. My policy research on child online protection in Indonesia, published earlier this year in Digital Society, found substantial gaps that account removals cannot repair: Many children lacked guidance on navigating the internet safely, and large numbers did not know how to report harmful experiences. \nAnd third, the platforms have limited independent oversight as they identify underage users, design age-verification systems, and report their own compliance. In Indonesia, platforms themselves are responsible for carrying out age verification, while the Ministry of Communication and Digital Affairs oversees compliance. TikTok’s appeals process for users flagged as underage, for instance, can require a government-issued ID and selfies, which is a problem because it involves collecting the additional personal data on an ID card, beyond that needed to confirm age. Will government regulators ensure that TikTok handles that data responsibly? \nThe privacy paradox of proving age\nEvery age-based ban creates an engineering problem: How can a platform reliably determine that a user is old enough, without intruding on other information? Governments and companies may use identity documents, parental authorization, app-store checks, or facial age estimation. Each approach has trade-offs among accuracy, privacy, accessibility, and resistance to circumvention. \nThere are also technical issues. One tool, facial age estimation, draws on enormous databases but it is probabilistic, not exact, because people vary so much. It’s also been shown to misclassify both children and adults.\n The challenge should not merely be to “verify age.” It should be to prove that someone is above a threshold, without disclosing their identity, birth date, or other information third parties might use to create a marketing profile. The European Commission’s age-verification blueprint challenges companies to verify ages without collecting all that additional information.\nPrivacy-preserving technologies offer promising ways to achieve this. Zero-Knowledge Proofs (ZKPs) can confirm that someone meets an age threshold without revealing their identity or exact date of birth. W3C Verifiable Credentials are cryptographically verifiable digital claims that can disclose only the information needed, such as “over 16.” And device-based age signals can allow a phone or app store to share an age range without revealing a user’s exact birth date. But these methods still require rigorous security testing, common standards, independent oversight, and clear limits on data retention. Otherwise, poorly designed child-safety policies risk creating permanent identity infrastructures in which businesses, not people, control personal data.\nWhere connection goes when a platform closes\nBlocking access to a platform redirects some young people, but not always where expected. Early anecdotal reports in Australia pointed to teenagers migrating to smaller, less-regulated platforms like Yope, a pattern the Cato Institute flagged as a “whack-a-mole” problem for regulators. But industry data collected two months later found no broad-based shift of that kind, aside from a small uptick in WhatsApp use. Many teens simply found a way to stay on the banned platforms.\nThis points to a deeper gap in current society: the erosion of youth “third places“ physical spaces where young people have room to socialize and build identity outside home and school. As those spaces have diminished, commercial communications platforms have absorbed that role. \nFor many teenagers, social media workarounds are merely inconvenient. But for isolated, marginalized, disabled, or LGBTQ+ youth who depend on online communities for support that’s otherwise unavailable, displacement can mean losing certain kinds of belonging, or having to move to a platform with even weaker oversight. \nHow to design safer online systems for children\nIf blanket social media bans don’t work, then what will? The platforms have created many of the conditions that governments are now trying to contain: engagement-optimized recommenders, intrusive data practices, weak safeguards against unwanted contact, and features such as infinite scroll, autoplay, streaks, and persistent notifications. \nThese design patterns increasingly face regulatory scrutiny, including what’s required under the European Union’s Digital Services Act. A 2026 study from the 5Rights Foundation that tracked children’s device use minute by minute found that the user interfaces shape children’s attention, sleep, and well-being in real time. \nA more durable response would regulate those interfaces directly, treating children as legitimate users whose privacy, agency, and well-being are required protections, not afterthoughts. That means designing for safety from the outset. One example would be for children’s apps to have high-privacy defaults, such as private accounts and location sharing switched off for minors. They could also have recommender systems that explain the main factors shaping a feed and give young users more control over personalization. The European Commission has published age-appropriate interaction guidelines that limit unsolicited contact and prevent minors from being added to groups without consent. Rules could also prohibit engagement-maximizing features that demand users’ attention, such as autoplay, infinite scroll, usage streaks, read receipts, and push notifications, by disabling or limiting them by default.\nGovernments should define measurable outcomes and fund independent evaluation, platforms should give researchers meaningful data access, and engineers should audit age-assurance systems for bias and data leakage. Schools, parents, and children themselves need a seat in designing the technology that’s designed to protect children. \nIf policymakers still decide to remove an infrastructure for youth connection, they should offer something better in return. Social media bans may reduce some forms of exposure to harmful content and may be justified for particular ages, services, or risks. But they are just one tool, not a comprehensive substitute for safer design, accountable platforms, digital literacy, institutional capacity, and noncommercial digital “third places”—moderated communities, creative spaces, and public-interest platforms designed for youth participation rather than profit.\nThe first wave of social media restrictions isn’t enough to keep children safe. Governments are still measuring what’s easiest to count, while neglecting harder-to-measure outcomes such as children’s access to safe third places and meaningful social connection, both online and offline. Until governments can show evidence that harm has actually declined, they will keep mistaking account removal for safety.",
           "isoDate": "2026-09-25T13:00:04.000Z"
-        },
-        {
-          "title": "Mexican EPICS in IEEE Team Builds Portable Educational Platform",
-          "link": "https://spectrum.ieee.org/epics-in-ieee-portable-educational",
-          "summary": "In Guadalajara, Mexico, many high schools have motivated teachers and talented students with an interest in science, technology, engineering, and mathematics, but they lack access to advanced tools such as robotics laboratories. The resources shortfall limits the students’ opportunities for hands-on learning on cutting-edge applications.\nA team from ITESO, Universidad Jesuita de Guadalajara, is working to change that. Through the EPICS in IEEE initiative, a multidisciplinary group of 15 engineering students, faculty advisors, and IEEE Guadalajara Section volunteers developed RoboMeshA. The portable, self-contained educational platform brings robotics and AI experiences into classrooms.\nEPICS is administered by IEEE Educational Activities and funded by the IEEE Robotics and Automation Society.\nA mobile laboratory\nRather than requiring a school to build a dedicated computer lab or install complex software, RoboMeshA operates as an all-in-one mobile learning network.\n“RoboMeshA brings robotics and AI to students who don’t have access to specialized facilities or preinstalled software,” says team member Fernando Vidal Luna, an IEEE student member and a mechatronics engineering major at ITESO.\nStudents connect directly to the platform from a user-friendly web browser. They can interact with the robot manually or use its control modes to watch it move and detect and avoid obstacles.\n“The project combines mechanical design, embedded systems, control engineering, computer vision, and AI into a single robotic system that functions as a mobile learning laboratory,” says faculty advisor Jorge A. Lizarraga.\nThe team says young students are interested in technology, programming, and robotics but don’t have an opportunity to work with systems that combine mechanics, electronics, software, and control.\n“RoboMeshA allows students to see how all these disciplines work together in a tangible and understandable way,” says team member José S. González, who also is studying mechatronics engineering.\nThe team has built two units and is developing a modular coupling framework to expand the system’s capabilities for research and classroom demonstrations. The structured system design approach connects independent software components while minimizing internal dependencies, enabling four RobotMeshA robots to operate together.\nOvercoming design challenges\nThe team faced significant hurdles while designing the project.\n“One key challenge involved the robot’s structural design,” Luna says. “It wasn’t only about making a chassis where all the components fit and the design had sufficient stability, rigidity, and weight distribution. It was also about ensuring that the electronics were protected while still being accessible for maintenance, testing, and modifications.”\n“It was also challenging to design a platform that could be used by students with different levels of experience,” González adds.\n“When students realize the technology they develop can inspire others and improve lives, engineering becomes far more meaningful.” —Luis Fernando Luque-Vega\nThe team partnered with the CETI Colomos and Prepa ITESO high schools to validate the platform in classroom settings.\n“We wanted the first interactions with the robot to be simple and intuitive,” González says, “such that students could simply power the robot, connect to its network, and begin interacting with it, rather than having to deal with software installation, extensive configuration, or troubleshooting.”\nEngineering with social impact\nMany of the students who participated were from ITESO’s applied professional projects program. The experience offered them practical training in project management, system integration, and user-centered design.\nThe team also presented a research paper and a project poster in May at the Engineering Congress of the Jesuit University System.\n“Seeing a design move from a digital model to a physical system was invaluable,” González says. “Working with students from different backgrounds taught us to listen to end users and design for their actual needs.”\nProject lead Luis Fernando Luque-Vega, an IEEE member, says he’d like the venture to serve as a blueprint for engineering education.\n“I hope RoboMeshA is adopted by schools, universities, and IEEE student branches across Mexico and internationally as a model for integrating technical innovation with community engagement,” Luque-Vega says.\nBy pairing engineering talent with community service, initiatives such as EPICS in IEEE demonstrate how targeted support can turn academic concepts into real-world solutions.\n“When students realize the technology they develop can inspire others and improve lives, engineering becomes far more meaningful,” Luque-Vega says.\nFor more information on service-learning opportunities, visit the EPICS website.",
-          "isoDate": "2026-09-24T18:00:04.000Z"
-        },
-        {
-          "title": "Measure Distant Asteroids With a DIY Rig",
-          "link": "https://spectrum.ieee.org/asteroid-shadow",
-          "summary": "I’ve seen two total solar eclipses and have been duly impressed by what happens as the moon casts its shadow on Earth. But recently I’ve become even more intrigued by a similar phenomenon that doesn’t involve the sun or the moon—something called an asteroid occultation.\nThat’s what happens when an asteroid orbits around the solar system and blocks the light of a distant star you’re viewing from Earth. Like the moon during a solar eclipse, the asteroid casts a predictable moving shadow on a swath of Earth’s surface—a small silhouette in the dim light bathing us from that one star.\nWhen such a fortuitous alignment occurs, amateur astronomers can discern things about the asteroid that professionals can’t readily measure, even with their giant telescopes on high mountains. That’s because amateurs are nimble: They can be in just the right place at just the right time to measure an asteroid’s fleeting shadow, which could be just a few hundred meters wide and traveling at tens of kilometers per second. With enough observers, they can collectively map that shadow, revealing the asteroid’s shape.\nEven folks on a limited budget can do this, because the size of an asteroid you can measure doesn’t scale with the size of your telescope. If the occulted star is relatively bright, you don’t need much of a telescope at all.\nHow Do You Catch an Asteroid Occultation?\nMy own efforts along these lines have been with a modest 5.1-inch-aperture (130-millimeter) Newtonian telescope that sells for about US $300. I attach it to a small equatorial mount ($150) that can track the stars by virtue of some added stepper motors driven by an open-source telescope controller called OnStep. (You could save yourself the time, trouble, and expense of all that DIY hacking by purchasing a motorized mount for as little as $300.)\n  A flasher provides a calibrated time base for light-curve measurements. It relies on a GPS module [top] to provide a high-accuracy pulse once per second, is gated by an Arduino nano [middle] to prevent flashes occurring at the moment of occultation, and is then passed to a LED [bottom].James Provost\nI bought an inexpensive astronomy color camera on Amazon for $260 to take images at the video rates required to capture the rapid changes during an occultation. I chose this camera because it has a relatively large sensor, Sony’s IMX585, which provides a large field of view. A monochrome camera would be better for asteroid occultations, but the monochrome version of this camera is harder to come by and more expensive. If you’re looking for a cheaper option, the monochrome ToupTek G3M662M (about $200) would be a good choice, although its sensor is smaller.\nKnowing where and when to catch an occultation in your area is of course critical and can be calculated using free PC software found on the International Occultation Timing Association (IOTA) website. If you plan to contribute your observations to IOTA to increase the body of scientific knowledge about asteroids, you will need to calibrate the timing of your images. You can’t just depend on the time stamps your computer adds to the video frames, which can be way off.\nFor time calibration, many practitioners use a flasher: a red LED driven from the pulse-per-second signal from a GPS receiver. Asteroid observers use such a pulsing LED positioned in front of their telescopes to calibrate the timing of the images they take. With some effort, it’s possible to reduce the uncertainty to just a handful of milliseconds.\nThe flasher I built uses a GPS module that I had on hand. But I’d recommend you purchase a different one that accepts an external active antenna. HiLetgo’s NEO-7M $12 module might be a good choice—but don’t forget to remove its antenna-coupling capacitor (marked as C2 on the circuit board) if you do attach an active external antenna to it.\nHow Do You Make a Telescope Flasher?\nYou can’t let the flasher just blink away every second, though, because its light might stomp on the very signal you’re trying to detect. So alongside the GPS module, my flasher also contains an Arduino Nano, plus two transistors, three resistors, and a switch. I wired these components together so as to drive the LED directly from the pulse-per-second signal coming from the GPS. The signal passes through a transistor controlled by the Arduino so that the flashes can be started and stopped at prescribed times. I can then program the flasher to produce calibrating pulses near the start and end of each recording session, while suppressing the flashing around the occultation itself.\n  Over time, an asteroid such as Duccio will pass in front of multiple stars [below]. Each time it does, it will block the light from a star [above] for a time that depends on its width along the line of transit. By combining multiple light curves, it is possible to map the shape of the asteroid.James Provost\n  \nSo far, I’ve managed to record four occultations that have occurred within easy driving distance of my home in North Carolina. The first was quite short, by an asteroid a mere 4 kilometers wide. The star involved was rather dim, so I really had to squint at my laptop screen to see the star momentarily blink out. The star in my second occultation was brighter, and the dimming much longer, so no squinting was required. My third observation tested the limits of my little telescope with a very dim target star, requiring quite long exposures per video frame (about a third of a second). Thankfully, the asteroid was a big one (120 km wide), so the occultation lasted a few seconds, and I could discern it.\nThe asteroid I targeted last, named Duccio, is about a dozen kilometers wide and orbits in the main asteroid belt between Mars and Jupiter. Its shadow, moving at a clip of some 24 km per second, took about a half second to pass over me. The star this asteroid blocked was bright enough for me to record the event very distinctly at 24 frames per second, providing excellent time resolution.\nAsteroid occultations offer a wonderful natural experiment. And unlike a solar eclipse, observable events probably take place near you multiple times each month. So with a little knowledge and the right gear, you can observe them. You just have to wait for the stars—and the asteroids—to align.",
-          "isoDate": "2026-09-24T13:00:04.000Z"
         }
       ]
     },
