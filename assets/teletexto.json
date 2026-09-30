@@ -1,10 +1,40 @@
 {
-  "generatedAt": "2026-09-29T21:55:15.997Z",
+  "generatedAt": "2026-09-30T04:10:22.319Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Sam Altman says OpenAI won’t go public until its models are safe",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
+          "summary": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We intend to continue with AI progress … but as the models have had this surge forward in capability, and we see more of that ahead of us, we have got to be able to make confident safety claims,\" Altman said Tuesday during a Q&A with reporters after his DevDay keynote. At the same time, he said, waiting too long for an IPO would be \"bad for the world.\" \nAltman's comments come after months of controversy about whether or not OpenAI and its rivals can c …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-30T00:19:13.000Z"
+        },
+        {
+          "title": "Most powerful obesity drug yet: People lost up to 25% of weight in trial",
+          "link": "https://arstechnica.com/health/2026/09/most-powerful-obesity-drug-yet-people-lost-up-to-25-of-weight-in-trial/",
+          "summary": "Retatrutide is a triple-hormone obesity drug simulating GLP-1, GIP, and glucagon.",
+          "isoDate": "2026-09-29T22:30:37.000Z"
+        },
+        {
+          "title": "Trump orders US government to call AI ‘Super Intelligence’",
+          "link": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
+          "summary": "Image: Carolyn Van Houten / The Washington Post via Getty Images\t\n\nThe US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, official policy websites, policy documents, and press releases will refer only to \"Super Intelligence,\" thanks to a new executive order signed by President Donald Trump.\n\"The word super is the best word of all, and it's the simplest,\" Trump said at an event announcing the launch of America.gov earlier on Tuesday, and said Chinese President Xi Jinping, who visited the White House last week, \"loves it\" too. \"We don't want to hear artificial. Because it's not artificial. It's very powerful, it's very brilliant. It's going to mostly be  …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-29T22:25:45.000Z"
+        },
+        {
+          "title": "BMW’s revamped i3 boasts up to 468 miles of range",
+          "link": "https://www.theverge.com/transportation/1002173/bmws-revamped-i3-boasts-up-to-468-miles-of-range",
+          "summary": "When BMW first announced it was reimagining the i3 as an all-electric four-door sedan built on its Neue Klasse platform, it left out a lot of important details, like battery capacity, range, and price. Today, the German automaker is finally starting to fill in the blanks on the i3. \nLet's start with price. BMW says the 2027 i3 50 xDrive will start at $61,500, plus a $1,350 destination fee, putting it firmly in the Mercedes C-Class segment of competition. (Back in March, we could only guess a ballpark starting price around $60,000.) We also weren't certain when the new EV would be available in the US; today, BMW confirmed an official launch  …\nRead the full story at The Verge.",
+          "isoDate": "2026-09-29T22:01:00.000Z"
+        },
+        {
+          "title": "Protests against OpenAI get increasingly creative",
+          "link": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/",
+          "summary": "New sculpture depicts AI leaders escaping a sinking ship.",
+          "isoDate": "2026-09-29T21:52:58.000Z"
+        },
         {
           "title": "Suspected ShinyHunters leader arrested in the Netherlands",
           "link": "https://www.theverge.com/tech/1002410/shinyhunters-hacking-suspect-arrested",
@@ -34,36 +64,6 @@
           "link": "https://arstechnica.com/space/2026/09/nasa-has-a-dragon-dilemma-and-there-appear-to-be-no-good-answers/",
           "summary": "So is SpaceX just being selfish or what?",
           "isoDate": "2026-09-29T18:34:00.000Z"
-        },
-        {
-          "title": "Here's what actually happened in OpenAI's Australian gov't server hack",
-          "link": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/",
-          "summary": "Without a \"full set of safeguards,\" agent accessed \"system information and source code.\"",
-          "isoDate": "2026-09-29T18:11:09.000Z"
-        },
-        {
-          "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
-          "summary": "\"The chance of human extinction is about a coin flip, in my view,\" Geoffrey Irving, a former OpenAI and Google DeepMind employee, said in a new interview. It's one of a dozen interviews with AI researchers, including current and former employees at OpenAI, Google, and Anthropic. Palisade Research, which says it's a nonprofit studying AIs' capabilities and motivations, collected and launched the interviews on frominside.ai. \nSeveral of the researchers joined Irving in warning about the possibility AI could drive humans extinct. Neel Nanda, a Google DeepMind research scientist, said there's \"at least a 10 percent chance that it causes human e …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-29T17:35:03.000Z"
-        },
-        {
-          "title": "Apple pressured to explain Trump role in ICE-tracking app removals",
-          "link": "https://arstechnica.com/tech-policy/2026/09/apple-worked-with-trump-admin-to-remove-ice-tracking-apps-lawmaker-says/",
-          "summary": "Lawmaker rejects Apple excuse for banning ICE-tracking apps as unconstitutional.",
-          "isoDate": "2026-09-29T17:29:14.000Z"
-        },
-        {
-          "title": "Razer’s low-latency wireless gaming keyboard is almost half off",
-          "link": "https://www.theverge.com/gadgets/1002087/razer-deathstalker-v2-pro-tkl-witcher-3-remastered-deal-sale",
-          "summary": "Razer’s DeathStalker V2 Pro is discounted in both black and white. | Image: The Verge\t\n\nWoot has the Razer DeathStalker V2 Pro TKL on sale for $130, a significant discount from its usual $219.99 price point. This keyboard is built for competitive gaming, with a low latency 2.4GHz wireless connection, and low-profile linear optical switches for faster activations that require a lighter touch than regular mechanical switches. The TKL layout cuts the numpad, but affords you more desk space for your mouse.\nRazer DeathStalker V2 Pro TKL\n\nWhere to Buy:\n\n $219.99 $129.99 at Woot\n\nRazer claims the battery will last up to 200 hours with the RGB lighting off, or up to 50 hours with the lights at half brightness. If you’re interested in staying wired, or using the keyboard wirelessly with other devices, it has both USB-C and Bluetooth connectivity. You can also enable Snap Tap (Razer’s term for Simultaneous Opposing Cardinal Directions, or SOCD), which lets you quickly swap between two keys for strafing in first person shooters, for example, although it’s worth nothing that Valve has banned the tech in Counter-Strike 2.\nOther deals to consider\nThe remastered version of The Witcher 3: The Wild Hunt just released, and a number of retailers are celebrating with discounts. While the list price is $49.99, PC gamers can grab the game for $24.99 at Steam, GOG, and Epic Games, with discounts available for the Xbox and PlayStation versions as well. The remastered version includes visual upgrades, tweaks to progression and skills, and both DLC entries: Hearts of Stone and Blood and Wine.\nBest Buy has the third-generation Amazon Fire TV Cube discounted to $89.99, just over half off its usual price of $199.99. This square streamer supports 4K video with Dolby Vision and HDR, Dolby Atmos audio, and hands-free Alexa controls. With a processor that Amazon claims is twice as powerful as the Fire TV Stick 4K Max, it’s also a great option for Xbox Cloud Gaming.\nCostco members can grab the Fellow Stagg EKG electric kettle for $99.99, a $30 discount from the usual price. I use this gooseneck kettle for my morning espresso, and I’m constantly impressed by its excellent temperature control and quick heating, and it adds a stylish touch to my coffee station.",
-          "isoDate": "2026-09-29T17:19:07.000Z"
-        },
-        {
-          "title": "OpenAI launches Dots, its Muse competitor",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
-          "summary": "Like Muse, OpenAI’s Dots are represented by cute, customizable avatars. | Image: OpenAI\t\n\nOpenAI is responding to Meta's buzzy Muse AI with agentic helpers of its own: Dots. During its DevDay keynote on Tuesday, OpenAI announced that Dots will serve as always-on AI assistants that can \"do nearly anything\" across connected apps in the background while learning your preferences over time.\nThe company's capable GPT-6 Astra model powers Dots, which use their own cloud computer to access a web browser and more than 4,000 supported apps. You can interact with a Dot through a text-message-like interface that's similar to the one offered by Muse, as well as hop on a voice call with it from ChatGPT on the web, desktop, or mobile. Dots ca …\nRead the full story at The Verge.",
-          "isoDate": "2026-09-29T17:15:00.000Z"
         }
       ]
     },
@@ -141,19 +141,37 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 73\nColumn: 41\nChar: &",
-          "isoDate": "2026-09-29T21:55:12.855Z"
+          "isoDate": "2026-09-30T04:10:18.907Z"
+        },
+        {
+          "title": "Three takeaways from Trump's 'Super Intelligence' summit",
+          "link": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
+          "summary": "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI.",
+          "isoDate": "2026-09-30T04:01:52.000Z"
+        },
+        {
+          "title": "OpenAI unveils AI assistant 'dots' while safety worries delay new model",
+          "link": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
+          "summary": "Sam Altman spoke in San Francisco during OpenAI’s annual event for tech developers.",
+          "isoDate": "2026-09-29T23:47:10.000Z"
+        },
+        {
+          "title": "Chinese AI tool told researchers how to make bioweapons",
+          "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
+          "summary": "Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits.",
+          "isoDate": "2026-09-29T23:15:29.000Z"
+        },
+        {
+          "title": "The start-ups hoping to return battery making to the US",
+          "link": "https://www.bbc.co.uk/news/articles/cvgyexx4g8ro?at_medium=RSS&at_campaign=rss",
+          "summary": "Batteries based on sodium-ion technology could be made in the US with locally sourced materials.",
+          "isoDate": "2026-09-29T23:06:50.000Z"
         },
         {
           "title": "Tech Life",
           "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyh?at_medium=RSS&at_campaign=rss",
           "summary": "How a Chinese AI model was persuaded to ignore its rules and give dangerous advice.",
           "isoDate": "2026-09-29T19:30:00.000Z"
-        },
-        {
-          "title": "OpenAI agents get rebrand - as 'dots' - while safety worries delay new model",
-          "link": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
-          "summary": "Sam Altman spoke in San Francisco during OpenAI’s yearly event for tech developers.",
-          "isoDate": "2026-09-29T19:17:43.000Z"
         },
         {
           "title": "Oura pulls $15bn stock market listing days after announcement",
@@ -178,24 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
           "summary": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
           "isoDate": "2026-09-26T02:50:56.000Z"
-        },
-        {
-          "title": "Tech Now",
-          "link": "https://www.bbc.co.uk/iplayer/episode/m0032d9k?at_medium=RSS&at_campaign=rss",
-          "summary": "Ammie Sekhon explores tech used to identify and remove counterfeit products online.",
-          "isoDate": "2026-09-26T01:00:13.000Z"
-        },
-        {
-          "title": "Inside iconic horror game Silent Hill's Scottish makeover",
-          "link": "https://www.bbc.co.uk/news/articles/ckvgyzjpy2eno?at_medium=RSS&at_campaign=rss",
-          "summary": "One of gaming's biggest horror franchises has come to the UK. Can it live up to the original?",
-          "isoDate": "2026-09-25T23:34:20.000Z"
-        },
-        {
-          "title": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
-          "link": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
-          "summary": "Current and former agents speak to the BBC about the devastating impact of the FBI hack.",
-          "isoDate": "2026-09-25T23:05:40.000Z"
         }
       ]
     },
@@ -230,19 +230,19 @@
         {
           "title": "Introducing dots",
           "link": "https://openai.com/index/introducing-dots",
-          "summary": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+          "summary": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
           "isoDate": "2026-09-29T00:00:00.000Z"
-        },
-        {
-          "title": "How we will do better for Australia",
-          "link": "https://openai.com/index/how-we-will-do-better-for-australia",
-          "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-          "isoDate": "2026-09-28T19:00:00.000Z"
         },
         {
           "title": "Towards safety cases for frontier AI training",
           "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
           "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+          "isoDate": "2026-09-28T19:00:00.000Z"
+        },
+        {
+          "title": "How we will do better for Australia",
+          "link": "https://openai.com/index/how-we-will-do-better-for-australia",
+          "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
           "isoDate": "2026-09-28T19:00:00.000Z"
         },
         {
@@ -258,9 +258,9 @@
           "isoDate": "2026-09-28T07:00:00.000Z"
         },
         {
-          "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-          "link": "https://openai.com/index/basis-tax-workbook-with-astra",
-          "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+          "title": "Are you a Codex Original?",
+          "link": "https://openai.com/form/codex-originals",
+          "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
           "isoDate": "2026-09-28T00:00:00.000Z"
         }
       ]
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-09-29T21:55:15.105Z"
+          "isoDate": "2026-09-30T04:10:21.465Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 59\nColumn: 58\nChar: =",
-          "isoDate": "2026-09-29T21:55:14.096Z"
+          "isoDate": "2026-09-30T04:10:20.156Z"
         },
         {
           "title": "Tech to Replace Animal Testing Is Almost Ready. Scientists Are Not",
