@@ -1,69 +1,69 @@
 {
-  "generatedAt": "2026-10-02T17:38:52.311Z",
+  "generatedAt": "2026-10-02T21:51:34.064Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
         {
-          "title": "Breaking up (with Elon Musk) is hard to do",
-          "link": "https://www.theverge.com/tech/1004177/elon-musk-unfollows-shivon-zilis",
-          "summary": "In a throwback to MySpace-style internet drama, Shivon Zilis announced that she and the father of four of her children, Elon Musk, had broken up on X.\nTo do so, she quote-tweeted a post from \"Big Tech Alert,\" an account that, among other things, monitors what accounts are following and unfollowing each other. That post noted Musk was no longer following her on X. It was also sponsored by Kalshi, because everything in this relationship is totally fucking cursed, dude.\nIn her statement, Zilis wrote, \"It's hard to go from in love to let go in a week with no warning, but that's just how it is sometimes.\" \n\n\"Uh, you know.\"\n\nZilis, in addition t …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-02T17:37:36.000Z"
+          "title": "Meta open sources code to let you make Muse AI gadgets",
+          "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+          "summary": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big screen, or putting Muse on a small touchscreen device to make what looks kind of like a DIY Muse Charm.\n\"Muse gadgets are open source devices you build yourself,\" Meta says. \"Program an off-the-shelf ESP32 board or set up a Raspberry Pi with our SDKs, then connect Muse to your displays, buttons, sensors, actuators, and whatever else you've got lying on your workbench. …\nRead the full story at The Verge.",
+          "isoDate": "2026-10-02T21:08:37.000Z"
         },
         {
-          "title": "Rivian’s sales pop as the company’s big R2 bet starts to pay off",
-          "link": "https://www.theverge.com/transportation/1004127/rivian-q3-2026-production-delivery-r2",
-          "summary": "Rivian had high hopes for its more affordable R2 vehicle - and so far, those hopes appear to be paying off. \nThe company released its third-quarter production and delivery numbers today, reporting 19,751 vehicles produced and 19,248 delivered. That represents an 85 percent year-over-year increase in production and a 45 percent jump in deliveries. (For a direct-to-consumer automaker like Rivian, deliveries serve as a proxy for sales.) The company also reaffirmed its full-year 2026 guidance, expecting to deliver 65,000 to 70,000 vehicles.\nRivian's sales surge is a rare bright spot in a struggling industry. A year after President Trump and Re …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-02T17:15:03.000Z"
+          "title": "Amazon’s $1B plan to combat data center backlash draws more backlash",
+          "link": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
+          "summary": "Amazon praised for ending NDAs but slammed for downplaying data center pollution.",
+          "isoDate": "2026-10-02T20:30:27.000Z"
         },
         {
-          "title": "Beehiiv creators are buzzing about a new price increase",
-          "link": "https://www.theverge.com/tech/1004133/beehiiv-price-increase-reactions",
-          "summary": "Beehiiv, a creator platform that has risen in popularity as an alternative to Substack, is increasing its prices - and many users aren't happy. In a post explaining the increase, Beehiiv cofounder and CEO Tyler Denk says it will allow the company to \"continue investing in our core platform experience.\"\nAs part of the change, Beehiiv is changing the name of its midrange Scale plan to Lite, which has gone up by at least $10 per month depending on subscriber count. For someone with up to 10,000 subscribers, for example, Beehiiv will charge $139 / month instead of $109. Meanwhile, the Pro plan (formerly Max) will cost $239 / month for up to 10, …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-02T16:51:49.000Z"
+          "title": "Netflix is pivoting away from prestige",
+          "link": "https://www.theverge.com/streaming/1004323/netflix-david-fincher-shawn-levy-mike-flanagan-duffer-brothers-greta-gerwig",
+          "summary": "Many of Netflix's biggest critically acclaimed hits have been the products of its multiyear production deals with noted directors like David Fincher and Shawn Levy. In the past few weeks, though, the streamer has brought some of those partnerships to an end in a way that feels indicative of a larger strategic shift. With rival studios Paramount and Warner Bros. Discovery on the verge of a megamerger that will reshape the entertainment landscape, Netflix is clearly thinking about how it can continue to hold its own in the ongoing streaming wars. But as the company charts its path forward, its plan to court subscribers might not put so much em …\nRead the full story at The Verge.",
+          "isoDate": "2026-10-02T20:30:26.000Z"
         },
         {
-          "title": "Nacon’s new PS5 controller can mix audio from your phone and console",
-          "link": "https://www.theverge.com/tech/1004053/nacon-sony-playstation-licensed-revolution-5-unlimited-wireless-controller",
-          "summary": "Nacon announced what the company is claiming is the world's first officially licensed PlayStation 5 controller with a built-in screen for adjusting settings like joystick sensitivity or remapping buttons right on the gamepad. The Revolution 5 Unlimited's screen can also be used to mix audio from multiple sources so while using a pair of headphones connected to the gamepad with a cable you can listen to music from your phone and sounds from the game you're playing at the same time.\nThe Revolution 5 Unlimited is available for preorder starting today for $229.99 through Nacon's online store and is expected to ship sometime later this year. Whi …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-02T16:35:13.000Z"
+          "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+          "link": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+          "summary": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to \"ensure that users who genuinely wish to grant an app this extraordinary level of access can only do so with very explicit user action.\"\nThe change comes just weeks after Inc's Jason Aten found that Meta's Muse AI somehow knew the contents of his messages, despite not giving the chatbot explicit permission to access them on his iPhone or Mac. Meta spokesperson Andy Stone pushed back on this report, saying access to Messages is \"entirely opt-in. …\nRead the full story at The Verge.",
+          "isoDate": "2026-10-02T20:08:40.000Z"
         },
         {
-          "title": "Redefining enterprise intelligence with autonomous AI",
-          "link": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
-          "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year. For many enterprises, this investment has…",
-          "isoDate": "2026-10-02T15:49:04.000Z"
+          "title": "Patient-zero drill put health facilities to the test—40% of them failed",
+          "link": "https://arstechnica.com/health/2026/10/patient-zero-drill-put-health-facilities-to-the-test-40-of-them-failed/",
+          "summary": "Actors with makeup and fake symptoms staggered into 73 healthcare facilities.",
+          "isoDate": "2026-10-02T20:07:59.000Z"
         },
         {
-          "title": "Dots get up in Muse’s business",
-          "link": "https://www.theverge.com/podcast/1004059/openai-dots-kindle-homepad-cybercab-vergecast",
-          "summary": "OpenAI's answer to Muse arrived this week, and it looks a whole lot like Muse dressed up in a suit and tie. Dots is a business-first product - for now, at least - costing a minimum of $100 per month. And sure, you can make a cute little Dot character, just like you can make a cute little Muse character. But OpenAI's early marketing is all about how you can use it to do Business Things: launch websites, reschedule calls, build slide decks for board meetings. Muse, on the other hand, keeps reminding me to buy a jacket I looked at.\nThis week on The Vergecast, we're talking about Dots and the current state of agentic assistants. Our conversatio …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-02T15:47:05.000Z"
+          "title": "Sling TV drops its one-day cable passes",
+          "link": "https://www.theverge.com/streaming/1004300/sling-tv-pass-cable-drops",
+          "summary": "Dish-owned Sling TV will no longer be offering its Sling Pass feature that allowed people to buy a single day of cable TV programming at a time, as reported by The Desk.\nThe feature was announced last year and offered a day pass, a weekend pass, and a week-long pass option to be able to watch channels like ESPN and CNN without a full-month cable subscription. But soon after it launched, Disney and Warner Bros. Discovery sued Sling TV over Sling Pass, though a federal judge ruled against Disney in its request for a preliminary injunction to block the feature.\n\"Sling was built to give our customers the ultimate control over their entertainme …\nRead the full story at The Verge.",
+          "isoDate": "2026-10-02T20:00:20.000Z"
         },
         {
-          "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive thanks to AI",
-          "link": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/",
-          "summary": "Initially launched in 2019, the Nvidia Shield TV Pro now retails for $299.99.",
-          "isoDate": "2026-10-02T14:52:16.000Z"
+          "title": "Lyft settles landmark driver misclassification lawsuit for $272.5M",
+          "link": "https://arstechnica.com/tech-policy/2026/10/lyft-settles-landmark-driver-misclassification-lawsuit-for-272-5m/",
+          "summary": "Critics say workers are still owed far more.",
+          "isoDate": "2026-10-02T19:09:49.000Z"
         },
         {
-          "title": "Tesla will now let you drive off mid-charge if there’s an emergency",
-          "link": "https://www.theverge.com/transportation/1003967/tesla-charging-breakaway-emergency-shooting",
-          "summary": "Tesla introduced a new feature to enable drivers to escape quickly while charging their vehicles in response to a mass shooting at a Supercharger location in Idaho in August that left seven people wounded and four dead. \nWhen a Tesla vehicle is charging, the plug is locked to the charging port and driving is disabled. To put the car in drive, a charging cable has to be manually released from the vehicle's charging port. Since the shooting in Twin Falls, Idaho, Tesla owners have been requesting a quick-release mechanism that would allow them to escape in the event of an emergency. This week, Tesla responded with a software update that respon …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-02T14:34:14.000Z"
+          "title": "The 2008 economic crisis changed the US's relationship with energy",
+          "link": "https://arstechnica.com/science/2026/10/the-2008-economic-crisis-changed-the-uss-relationship-to-energy/",
+          "summary": "It wasn't obvious at the time, but the US uncoupled carbon emissions and GDP growth.",
+          "isoDate": "2026-10-02T18:56:21.000Z"
         },
         {
-          "title": "Keurig’s new machine uses plastic-free compressed coffee pucks",
-          "link": "https://www.theverge.com/tech/1003956/keurig-alta-coffee-machine-altarounds-pucks-appliance-preorder",
-          "summary": "Keurig's new single-serve coffee machine delivers the same convenience that helped popularize its appliances but without the use of recyclable pods made from plastic and aluminum. The company first showed off its Keurig Alta machine two years ago while introducing the puck-shaped pod replacements called AltaRounds that wrap pressed coffee grounds in a plant-based coating derived from seaweed. The pucks are 100 percent compostable, and while they currently come in plastic wrappers to keep them fresh, the company is working to transition to paper wrappers, according to CNET.\nThe Keurig Alta is now available for preorder for $499.99 with shipp …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-02T14:29:05.000Z"
+          "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
+          "link": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
+          "summary": "Nvidia’s chip-smuggling problem won’t go away as arrests continue.",
+          "isoDate": "2026-10-02T18:39:36.000Z"
         },
         {
-          "title": "Rocket Report: SpaceX completes launch triple-header; Rocket Lab nets big contract",
-          "link": "https://arstechnica.com/space/2026/10/rocket-report-spacex-completes-launch-triple-header-rocket-lab-nets-big-contract/",
-          "summary": "Blue Origin seeks FAA approval for up to 50 New Glenn launches and 50 booster landings per year.",
-          "isoDate": "2026-10-02T13:54:34.000Z"
+          "title": "Research roundup: 6 cool science stories we almost missed",
+          "link": "https://arstechnica.com/science/2026/10/research-roundup-6-cool-science-stories-we-almost-missed-6/",
+          "summary": "Also: Spooky action at the LHC, Ice Age psychoactive use, yeast for building homes on Mars, and more.",
+          "isoDate": "2026-10-02T18:17:27.000Z"
         }
       ]
     },
@@ -72,40 +72,16 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "La NASA abre solicitudes para próxima promoción de directores de vuelo",
-          "link": "https://www.nasa.gov/news-release/la-nasa-abre-solicitudes-para-proxima-promocion-de-directores-de-vuelo/",
-          "summary": "Lee esta nota de prensa en inglés aquí. La NASA busca líderes para uno de los puestos más prestigiosos de la Tierra en el ámbito de los vuelos espaciales tripulados: director de vuelo en el control de misión del Centro Espacial Johnson de la agencia, en Houston. Esta función es fundamental para reforzar el liderazgo […]",
-          "isoDate": "2026-10-02T16:36:25.000Z"
+          "title": "ERROR cargando feed",
+          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
+          "isoDate": "2026-10-02T21:51:29.474Z"
         },
         {
-          "title": "NASA Model Wing Lights Up During First Pressure Sensitive Paint Tests",
-          "link": "https://www.nasa.gov/centers-and-facilities/langley/nasa-model-wing-lights-up-during-first-pressure-sensitive-paint-tests/",
-          "summary": "Groundbreaking tests at NASA’s Langley Research Center in Hampton, Virginia, are paving the way for new wind tunnel capabilities for designing the aircraft technologies of the future.  In a first-of-its-kind test in NASA Langley’s Transonic Dynamics Tunnel, researchers used unsteady Pressure Sensitive Paint to study how air flows around a standard wind tunnel model known […]",
-          "isoDate": "2026-10-02T16:10:55.000Z"
-        },
-        {
-          "title": "NASA Opens Applications for Next Class of Flight Directors",
-          "link": "https://www.nasa.gov/news-release/nasa-opens-applications-for-next-class-of-flight-directors/",
-          "summary": "NASA is seeking leaders for one of the most esteemed positions on Earth for human spaceflight: flight director in mission control at the agency’s Johnson Space Center in Houston. This role is critical to advancing American leadership in space exploration, as NASA paves the way for a sustained human presence on the Moon. Applications for […]",
-          "isoDate": "2026-10-02T15:49:26.000Z"
-        },
-        {
-          "title": "APOD: 2026 October 2 – The Complete Sharpless Catalog: 313 Nebulas",
-          "link": "https://science.nasa.gov/image-article/apod-2026-october-2-the-complete-sharpless-catalog-313-nebulae/",
-          "summary": "What does it take to image hundreds of nebulas? Today’s image contains the entire Sharpless Catalog of H II Regions, totaling 313 objects. Zoom in and explore!",
-          "isoDate": "2026-10-02T04:05:00.000Z"
-        },
-        {
-          "title": "Rains Swamp the Gandak River",
-          "link": "https://science.nasa.gov/earth/earth-observatory/rains-swamp-the-gandak-river/",
-          "summary": "After days of torrential rain, the river rose to record-breaking levels in parts of Nepal and India.",
-          "isoDate": "2026-10-02T04:01:00.000Z"
-        },
-        {
-          "title": "10 Things: Movie Night",
-          "link": "https://science.nasa.gov/solar-system/10-things-movie-night/",
-          "summary": "Join Us for Movie Night with NASA NASA’s mission is to pioneer the future in space exploration and scientific discovery. NASA+ documentaries allow you to come along for the ride. It’s free. It’s on demand. And no subscription is required. Grab some popcorn and come along for the journey. Other Worlds: Europa Cosmic Dawn Planetary […]",
-          "isoDate": "2026-10-02T00:25:36.000Z"
+          "title": "Location, location, location: how to edit genes only in the cells you want",
+          "link": "https://www.nature.com/articles/d41586-026-03037-8",
+          "summary": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-03037-8\nGene-editing CRISPR enzymes controlled by light and sound target tissues of interest.",
+          "isoDate": "2026-10-02T00:00:00.000Z"
         },
         {
           "title": "‘Learning about physics changed my life’: author Hernan Diaz on his new novel <i>Ply</i>",
@@ -130,6 +106,30 @@
           "link": "https://www.nature.com/articles/d41586-026-03145-5",
           "summary": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-03145-5\nExisting legal frameworks have not halted planetary crises. Recognizing the rights of nature could offer a different path.",
           "isoDate": "2026-10-02T00:00:00.000Z"
+        },
+        {
+          "title": "Can you name the women who have won a science Nobel prize?",
+          "link": "https://www.nature.com/articles/d41586-026-03133-9",
+          "summary": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-03133-9\nTake Nature’s quiz on female Nobel laureates in physics, chemistry and physiology or medicine.",
+          "isoDate": "2026-10-02T00:00:00.000Z"
+        },
+        {
+          "title": "Von Neumann’s party",
+          "link": "https://www.nature.com/articles/d41586-026-02976-6",
+          "summary": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-02976-6\nA tricky question.",
+          "isoDate": "2026-10-02T00:00:00.000Z"
+        },
+        {
+          "title": "Prozac use for childhood depression skewed by single flawed medical trial",
+          "link": "https://www.nature.com/articles/d41586-026-02769-x",
+          "summary": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-02769-x\nOne small study in Iran swayed meta-analyses in favour of antidepressant use in children, researchers say.",
+          "isoDate": "2026-10-02T00:00:00.000Z"
+        },
+        {
+          "title": "Can we have class outside? Seven tips to breeze through outdoor lectures",
+          "link": "https://www.nature.com/articles/d41586-026-02564-8",
+          "summary": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-02564-8\nAdvocates say that delivering lectures and presentations al fresco can energize students and provide them with a complete experience.",
+          "isoDate": "2026-10-02T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 74\nColumn: 41\nChar: &",
-          "isoDate": "2026-10-02T17:38:49.127Z"
+          "isoDate": "2026-10-02T21:51:30.523Z"
         },
         {
           "title": "OpenAI fires workers for 'mishandling sensitive information'",
@@ -204,6 +204,12 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "Computational tools for society’s most complex challenges",
+          "link": "https://news.mit.edu/2026/computational-tools-for-societys-most-complex-challenges-cathy-wu-1002",
+          "summary": "Associate Professor Cathy Wu uses reinforcement learning to help map out improvements to transportation and other multifaceted systems.",
+          "isoDate": "2026-10-02T19:30:00.000Z"
+        },
+        {
           "title": "Documenting the tech worker movement",
           "link": "https://news.mit.edu/2026/documenting-tech-worker-movement-0918",
           "summary": "Writing as a participant and researcher, PhD student JS Tan SM ’22 has co-authored a new book about the rise of tech worker protests and the employer backlash that followed.",
@@ -256,12 +262,6 @@
           "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
           "summary": "",
           "isoDate": "2026-09-30T20:01:45.000Z"
-        },
-        {
-          "title": "MIT Transit Lab to develop an AI platform for public transit agencies",
-          "link": "https://news.mit.edu/2026/mit-transit-lab-to-develop-ai-platform-public-transit-agencies-0930",
-          "summary": "With $2.1 million funding from Google.org, the open-source Public Transit Intelligence Hub will unify public transit monitoring, operations, and passenger communication.",
-          "isoDate": "2026-09-30T15:15:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-10-02T17:38:51.411Z"
+          "isoDate": "2026-10-02T21:51:33.192Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 59\nColumn: 58\nChar: =",
-          "isoDate": "2026-10-02T17:38:50.283Z"
+          "isoDate": "2026-10-02T21:51:31.558Z"
         },
         {
           "title": "Engineering Multipole Resonances in Dielectric Metasurfaces for Transmission, Reflection, and Absorption Control",
