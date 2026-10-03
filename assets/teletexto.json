@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-10-02T21:51:34.064Z",
+  "generatedAt": "2026-10-03T03:57:56.742Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+          "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+          "summary": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
+          "isoDate": "2026-10-02T23:03:16.000Z"
+        },
+        {
+          "title": "Someone got Doom in an SQL database",
+          "link": "https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/",
+          "summary": "1,300 lines of SQL querying renders accurate bitmapped views of Hell at 35 fps.",
+          "isoDate": "2026-10-02T21:19:05.000Z"
+        },
         {
           "title": "Meta open sources code to let you make Muse AI gadgets",
           "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
@@ -52,18 +64,6 @@
           "link": "https://arstechnica.com/science/2026/10/the-2008-economic-crisis-changed-the-uss-relationship-to-energy/",
           "summary": "It wasn't obvious at the time, but the US uncoupled carbon emissions and GDP growth.",
           "isoDate": "2026-10-02T18:56:21.000Z"
-        },
-        {
-          "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
-          "link": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
-          "summary": "Nvidia’s chip-smuggling problem won’t go away as arrests continue.",
-          "isoDate": "2026-10-02T18:39:36.000Z"
-        },
-        {
-          "title": "Research roundup: 6 cool science stories we almost missed",
-          "link": "https://arstechnica.com/science/2026/10/research-roundup-6-cool-science-stories-we-almost-missed-6/",
-          "summary": "Also: Spooky action at the LHC, Ice Age psychoactive use, yeast for building homes on Mars, and more.",
-          "isoDate": "2026-10-02T18:17:27.000Z"
         }
       ]
     },
@@ -75,7 +75,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
           "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-10-02T21:51:29.474Z"
+          "isoDate": "2026-10-03T03:57:49.888Z"
         },
         {
           "title": "Location, location, location: how to edit genes only in the cells you want",
@@ -141,7 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 74\nColumn: 41\nChar: &",
-          "isoDate": "2026-10-02T21:51:30.523Z"
+          "isoDate": "2026-10-03T03:57:51.484Z"
+        },
+        {
+          "title": "Tech Now",
+          "link": "https://www.bbc.co.uk/iplayer/episode/m0032n6v?at_medium=RSS&at_campaign=rss",
+          "summary": "Alasdair Keane heads to the Pokémon World Championships in San Francisco.",
+          "isoDate": "2026-10-03T01:00:00.000Z"
         },
         {
           "title": "OpenAI fires workers for 'mishandling sensitive information'",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cm986x65we88o?at_medium=RSS&at_campaign=rss",
           "summary": "The social messaging app will let parents decide on privacy settings for their child's account.",
           "isoDate": "2026-09-30T13:01:30.000Z"
-        },
-        {
-          "title": "OpenAI unveils AI assistant 'dots' while safety worries delay new model",
-          "link": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
-          "summary": "Sam Altman spoke in San Francisco during OpenAI’s annual event for tech developers.",
-          "isoDate": "2026-09-30T05:18:13.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-10-02T21:51:33.192Z"
+          "isoDate": "2026-10-03T03:57:55.851Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 59\nColumn: 58\nChar: =",
-          "isoDate": "2026-10-02T21:51:31.558Z"
+          "isoDate": "2026-10-03T03:57:52.798Z"
         },
         {
           "title": "Engineering Multipole Resonances in Dielectric Metasurfaces for Transmission, Reflection, and Absorption Control",
