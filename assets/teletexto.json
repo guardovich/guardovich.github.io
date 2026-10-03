@@ -1,10 +1,34 @@
 {
-  "generatedAt": "2026-10-03T11:10:09.320Z",
+  "generatedAt": "2026-10-03T15:46:18.096Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+          "link": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
+          "summary": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa's \"Money\" and \"Espresso\" by Sabrina Carpenter. (The original samples are here and here, for the curious.)\nBefore that, Kakul held executive roles at Flickr, Yahoo, GitHub, and Adobe. Throughout her career, Kakul has found herself at the intersection of Silicon Valley and creatives. That's been especially true at Splice, where she's not just expanded the platform's footprint by acquiring Spitfire Audio, but also overseen its forays into the wor …\nRead the full story at The Verge.",
+          "isoDate": "2026-10-03T15:00:00.000Z"
+        },
+        {
+          "title": "An OpenAI safety employee has quit and is sounding the alarm",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+          "summary": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic.\nIt's understandable if you're feeling a bit cynical about everyone suddenly coming out of the woodwork to warn about how dangerous the thing they helped build is. They did, after all, make this mess. But that doesn't mean we should discount their warnings. \nRobinson says that the culture in industry is fundamentally broken. That this is a deeper issue than simply slapping a few new rules or regulations on how we handle training models. Silicon …\nRead the full story at The Verge.",
+          "isoDate": "2026-10-03T14:31:56.000Z"
+        },
+        {
+          "title": "3D movies are finally worth watching",
+          "link": "https://www.theverge.com/tech/1004131/3d-movies-are-finally-worth-watching-xreal-meta-glasses-vision-pro",
+          "summary": "My colleague Cameron Faulkner models a pair of Xreal glasses. | Photo: Cameron Faulkner / The Verge\t\n\nWhy am I suddenly buying up every 3D Blu-ray I can find after 3D became one of the biggest tech flops of all time? \nThe technology's finally ready for 3D movies to shine, more than 15 years since James Cameron's Avatar wowed me on the big screen and went on to become the highest-grossing film worldwide. Video glasses are giving me the experience I've always desired.\nI've always loved 3D movies, but viewing them was awkward. Walking into a movie theater with a pair of polarized glasses, I would only get half the resolution and roughly half the brightness, since those glasses had to split one reflected image between my two eyes. Almost every …\nRead the full story at The Verge.",
+          "isoDate": "2026-10-03T12:00:00.000Z"
+        },
+        {
+          "title": "The dawn of the age of the exoskeleton",
+          "link": "https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton/",
+          "summary": "The devices continue to show noticeable benefits for users in various real-world tasks.",
+          "isoDate": "2026-10-03T11:15:33.000Z"
+        },
         {
           "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
           "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
@@ -40,30 +64,6 @@
           "link": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
           "summary": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to \"ensure that users who genuinely wish to grant an app this extraordinary level of access can only do so with very explicit user action.\"\nThe change comes just weeks after Inc's Jason Aten found that Meta's Muse AI somehow knew the contents of his messages, despite not giving the chatbot explicit permission to access them on his iPhone or Mac. Meta spokesperson Andy Stone pushed back on this report, saying access to Messages is \"entirely opt-in. …\nRead the full story at The Verge.",
           "isoDate": "2026-10-02T20:08:40.000Z"
-        },
-        {
-          "title": "Patient-zero drill put health facilities to the test—40% of them failed",
-          "link": "https://arstechnica.com/health/2026/10/patient-zero-drill-put-health-facilities-to-the-test-40-of-them-failed/",
-          "summary": "Actors with makeup and fake symptoms staggered into 73 healthcare facilities.",
-          "isoDate": "2026-10-02T20:07:59.000Z"
-        },
-        {
-          "title": "Sling TV drops its one-day cable passes",
-          "link": "https://www.theverge.com/streaming/1004300/sling-tv-pass-cable-drops",
-          "summary": "Dish-owned Sling TV will no longer be offering its Sling Pass feature that allowed people to buy a single day of cable TV programming at a time, as reported by The Desk.\nThe feature was announced last year and offered a day pass, a weekend pass, and a week-long pass option to be able to watch channels like ESPN and CNN without a full-month cable subscription. But soon after it launched, Disney and Warner Bros. Discovery sued Sling TV over Sling Pass, though a federal judge ruled against Disney in its request for a preliminary injunction to block the feature.\n\"Sling was built to give our customers the ultimate control over their entertainme …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-02T20:00:20.000Z"
-        },
-        {
-          "title": "Lyft settles landmark driver misclassification lawsuit for $272.5M",
-          "link": "https://arstechnica.com/tech-policy/2026/10/lyft-settles-landmark-driver-misclassification-lawsuit-for-272-5m/",
-          "summary": "Critics say workers are still owed far more.",
-          "isoDate": "2026-10-02T19:09:49.000Z"
-        },
-        {
-          "title": "The 2008 economic crisis changed the US's relationship with energy",
-          "link": "https://arstechnica.com/science/2026/10/the-2008-economic-crisis-changed-the-uss-relationship-to-energy/",
-          "summary": "It wasn't obvious at the time, but the US uncoupled carbon emissions and GDP growth.",
-          "isoDate": "2026-10-02T18:56:21.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 74\nColumn: 41\nChar: &",
-          "isoDate": "2026-10-03T11:10:03.825Z"
+          "isoDate": "2026-10-03T15:46:14.627Z"
         },
         {
           "title": "Tech Now",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-10-03T11:10:07.865Z"
+          "isoDate": "2026-10-03T15:46:17.277Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 59\nColumn: 58\nChar: =",
-          "isoDate": "2026-10-03T11:10:05.332Z"
+          "isoDate": "2026-10-03T15:46:16.113Z"
         },
         {
           "title": "Engineering Multipole Resonances in Dielectric Metasurfaces for Transmission, Reflection, and Absorption Control",
