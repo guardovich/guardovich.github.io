@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-10-04T20:54:22.102Z",
+  "generatedAt": "2026-10-05T04:16:15.487Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "The new Fitbit Edge leaks",
+          "link": "https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks",
+          "summary": "We don't know a ton about the Fitbit Edge, but it appears to be a successor to the midrange Charge line. It had leaked previously, but we can clearly see in these images posted by Android Headlines, you can see that Google's rumored fitness tracker sort of splits the difference between the Pixel Watch and the Fitbit Air. It has a small screen that is able to display some widgets, but clearly isn't as expansive as a proper smartwatch. \nSupposedly, this fitness-first wearable will have a seven-day battery life, as well as built-in GPS and an altimeter, making it far more capable than the minimalist Air. It will also have limited app support f …\nRead the full story at The Verge.",
+          "isoDate": "2026-10-04T21:02:09.000Z"
+        },
         {
           "title": "Prick’s theatrical industrial punk is perfect for spooky season",
           "link": "https://www.theverge.com/entertainment/1004595/prick-industrial-glam-punk-album-review",
@@ -58,12 +64,6 @@
           "link": "https://www.theverge.com/gadgets/1000323/apple-ipad-mini-amazon-prime-big-deal-days-sale",
           "summary": "Apple’s iPad Mini is temporarily on sale for its old price. | Photo: David Pierce / The Verge\t\n\nApple bumped up prices on several of its devices in June, and we haven’t seen a good discount on the iPad Mini since. Just ahead of Amazon’s October Prime Big Deals Days, however, both Wi-Fi only and cellular-connected models are $100 off. The Wi-Fi version with 128GB of storage is currently $499, the 256GB model is $599, and the cellular model with 128GB of storage is $649.\nThis base configuration of this tablet often sold for around $400 throughout 2025, so we get it if $500 for a tablet from late 2024 is still too much. But it’s the best price since late June, and if there’s a new version coming out later this year, it might be significantly more expensive.\niPad Mini (2024)\nThe seventh-gen iPad Mini comes with Apple’s A17 Pro chip and support for Apple Intelligence. It’s also compatible with the Apple Pencil Pro and offers faster Wi-Fi and USB-C speeds. Read our review.\n\nWhere to Buy:\n\n $599 $499 at Amazon (128GB, Wi-Fi)\n $699 $599 at Amazon (256GB, Wi-Fi)\n $899 $799 at Amazon (512GB, Wi-Fi)\n\nWe reviewed this version of the iPad Mini when it launched in 2024, and while we appreciated the processor upgrade and Apple Intelligence features, it felt lacking in some of the quality-of-life improvements found in the larger iPads that launched around the same time.\nRead our Apple iPad Mini (2024) review.",
           "isoDate": "2026-10-04T12:31:50.000Z"
-        },
-        {
-          "title": "The forgotten Chromebook that started it all",
-          "link": "https://www.theverge.com/podcast/1001215/the-forgotten-chromebook-that-started-it-all",
-          "summary": "Google didn't even call the first Chromebook a \"Chromebook.\" The Cr-48 had no interesting design and no bright logos - it wasn't even designed to be a product you could buy. Instead, it was a portal to a big new idea about computers. \nIn this week's episode of Version History, The Verge's Nilay Patel and MKBHD's Marques Brownlee join David Pierce to help explain the history of ChromeOS and Chromebooks, and discuss whether Google's approach to computer hardware was the right one.\nView Link\nThis has been an exciting season of Version History, as we've been exploring the most iconic school tech. Last week's episode explored Nicholas Negroponte …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-04T12:00:00.000Z"
         }
       ]
     },
@@ -71,6 +71,12 @@
       "header": "120  CIENCIA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Curiosity Blog, Sols 5022-5028: Cashing in at Cache Creek",
+          "link": "https://science.nasa.gov/blog/curiosity-blog-sols-5022-5028-cashing-in-at-cache-creek/",
+          "summary": "Written by Lucy Thompson, Senior Research Scientist, University of New Brunswick, Canada Earth planning date: Friday, Sept. 25, 2026 Before we landed, the area of Gale crater that we planned to explore was divided up into rectangular parcels with designated names. The names were chosen after small towns associated with significant geological features. Our selected […]",
+          "isoDate": "2026-10-04T21:13:07.000Z"
+        },
         {
           "title": "Mapping the Gaps in NASA’s Return to the Moon, featuring Richard Spolzino",
           "link": "https://www.nasa.gov/general/mapping-the-gaps-in-nasas-return-to-the-moon-featuring-richard-spolzino/",
@@ -124,12 +130,6 @@
           "link": "https://www.nasa.gov/news-release/nasa-opens-applications-for-next-class-of-flight-directors/",
           "summary": "NASA is seeking leaders for one of the most esteemed positions on Earth for human spaceflight: flight director in mission control at the agency’s Johnson Space Center in Houston. This role is critical to advancing American leadership in space exploration, as NASA paves the way for a sustained human presence on the Moon. Applications for […]",
           "isoDate": "2026-10-02T15:49:26.000Z"
-        },
-        {
-          "title": "APOD: 2026 October 2 – The Complete Sharpless Catalog: 313 Nebulas",
-          "link": "https://science.nasa.gov/image-article/apod-2026-october-2-the-complete-sharpless-catalog-313-nebulae/",
-          "summary": "What does it take to image hundreds of nebulas? Today’s image contains the entire Sharpless Catalog of H II Regions, totaling 313 objects. Zoom in and explore!",
-          "isoDate": "2026-10-02T04:05:00.000Z"
         }
       ]
     },
@@ -141,7 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 74\nColumn: 41\nChar: &",
-          "isoDate": "2026-10-04T20:54:19.201Z"
+          "isoDate": "2026-10-05T04:16:12.128Z"
+        },
+        {
+          "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
+          "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
+          "summary": "The president named his national intelligence chief as the taskforce's head as worries over AI grow.",
+          "isoDate": "2026-10-05T03:37:41.000Z"
         },
         {
           "title": "Tech Now",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cvzez7k0pn40o?at_medium=RSS&at_campaign=rss",
           "summary": "AI needs \"rigorous\" testing and safeguards to contain risk, Andrew Bailey says.",
           "isoDate": "2026-09-30T14:00:33.000Z"
-        },
-        {
-          "title": "WhatsApp introduces optional parental controls for teenagers",
-          "link": "https://www.bbc.co.uk/news/articles/cm986x65we88o?at_medium=RSS&at_campaign=rss",
-          "summary": "The social messaging app will let parents decide on privacy settings for their child's account.",
-          "isoDate": "2026-09-30T13:01:30.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-10-04T20:54:21.393Z"
+          "isoDate": "2026-10-05T04:16:14.671Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 59\nColumn: 58\nChar: =",
-          "isoDate": "2026-10-04T20:54:20.359Z"
+          "isoDate": "2026-10-05T04:16:13.414Z"
         },
         {
           "title": "Engineering Multipole Resonances in Dielectric Metasurfaces for Transmission, Reflection, and Absorption Control",
