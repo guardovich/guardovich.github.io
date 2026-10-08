@@ -1,69 +1,69 @@
 {
-  "generatedAt": "2026-10-08T12:52:33.732Z",
+  "generatedAt": "2026-10-08T22:57:24.820Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
         {
-          "title": "The Download: AI roadblocks for humanoids and portable rubber dams",
-          "link": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/",
-          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI breakthroughs in robotics won’t change your life any time soon The hype around humanoid robots is reaching fever pitch. Much of it comes from the idea that the same AI…",
-          "isoDate": "2026-10-08T12:10:00.000Z"
+          "title": "US plans livestream of execution by firing squad",
+          "link": "https://www.theverge.com/tech/1008530/us-government-livestream-execution-firing-squad-fort-hood",
+          "summary": "The United States' execution of the Fort Hood shooter will be livestreamed, anonymous officials from the Defense Department told the BBC and Associated Press. The planned execution of Nidal Hasan, the former US Army major convicted of killing 13 people at the Texas military base, was announced this week. He is scheduled to be executed by firing squad on December 3rd at 2PM ET.\nThe Verge contacted YouTube, Twitch, TikTok, Meta, Rumble, and Kick to ask if they plan to allow the livestream to be aired on their platforms. None responded before publication.\n\"We'll make sure that people are able to watch it, that it's public, because people need …\nRead the full story at The Verge.",
+          "isoDate": "2026-10-08T22:32:04.000Z"
         },
         {
-          "title": "Xbox is launching a new film and TV division",
-          "link": "https://www.theverge.com/games/1007602/xbox-xp-division-film-tv-products-events",
-          "summary": "Jack Black in A Minecraft Movie. | Image: Warner Bros.\t\n\nXbox is launching a new division, called \"XP,\" that's dedicated to Xbox experiences that aren't video games, including films and TV adaptations, consumer products, live events, and partnerships with creators and brands. Different teams at Xbox already do this work, but it will all now fall under the centralized XP division.\nXP formalizes four \"investment areas,\" according to a blog post by Xbox chief strategy officer Matthew Ball:\nXBOX PICTURES: Bringing our worlds and characters to new audiences through film, television, and other forms of linear storytelling.  \nXBOX PRODUCTS: Creating products that are authentic to the fandom that al …\n\nRead the full story at The Verge.",
-          "isoDate": "2026-10-08T12:01:12.000Z"
+          "title": "Anthropic launches free AI security scans for open-source projects",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+          "summary": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic security scans by our strongest models at no cost.\" That could mean open-source projects get alerted about possible security issues sooner, but the trade-off is that OSS Scanner's reports don't come with human review:\nThe outputs of this opt-in vulnerability scanner will be fully model-generated, without human review or triage. This will enable faster and more frequent scanning, but means that it is possible reports will be incorrect or invalid. Th …\n\nRead the full story at The Verge.",
+          "isoDate": "2026-10-08T21:53:51.000Z"
         },
         {
-          "title": "Cupertino might be made for your mom, but it&#8217;s a good take on tech",
-          "link": "https://www.theverge.com/entertainment/1007492/cupertino-cbs-tv-review",
-          "summary": "Ella Stiller, Mike Colter, and Rachel Keller star in Cupertino. | CBS\t\n\nCupertino brings the tech backlash to the CBS procedural - an initially awkward combination, but with rewarding results. The show starts off just slightly unsure, but quickly figures out what to do with these strange times, creating fictionalized dupes of the Zizians, Polymarket, Jeff Bezos' looksmaxxing obsession, OpenAI stealing Scarlett Johansson's voice, and the fight for AI guardrails, among other familiar tales, and using them to speak to the feeling of helplessness in the face of rapid change that extends well beyond the greater San Francisco area. It turns out the seemingly outdated tools of broadcast TV are a fantastic way to tackle …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-08T11:30:00.000Z"
+          "title": "SpaceX announces plan to become a ‘major mobile carrier’",
+          "link": "https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier",
+          "summary": "SpaceX has acquired a portfolio of low-band spectrum licenses - a move the company says \"will pave the way\" for its Starlink Mobile service to become a \"major\" US carrier. When the Federal Communications Commission signs off on the deal, SpaceX says it will deploy its new architecture that combines its satellite-to-mobile constellation with a terrestrial mobile network, directly competing with T-Mobile, AT&T, and Verizon.\nThe licenses include up to 14 megahertz of paired spectrum in the 800 MHz band, which SpaceX says will allow Starlink Mobile's signal to penetrate through walls and buildings. SpaceX previously acquired 2GHz spectrum from  …\nRead the full story at The Verge.",
+          "isoDate": "2026-10-08T21:23:31.000Z"
         },
         {
-          "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
-          "link": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
-          "summary": "Full-stack safety solution for physical AI is being used by robotics companies.",
-          "isoDate": "2026-10-08T11:15:33.000Z"
+          "title": "AMD will bring FSR 4 to handhelds by the end of 2026",
+          "link": "https://www.theverge.com/games/1008353/amd-will-bring-fsr-4-to-handhelds-by-the-end-of-2026",
+          "summary": "It's already possible to get AMD's framerate-enhancing FSR 4 boost on handhelds as old as the Steam Deck - but in June, AMD reserved the right to disappoint handheld gamers by not officially bringing FSR 4 to older handhelds. Now, AMD consumer chip boss Jack Huynh says he will bring the tech to some handhelds by the end of the year.\nWhich handhelds? It's still not clear if it will come to existing handhelds, or if you'll need a new one to get it - because it comes alongside news that AMD is releasing a new FSR4-capable chip.\n\"We will expand the machine learning AI-based FSR4 technology, which was first introduced to existing external graph …\nRead the full story at The Verge.",
+          "isoDate": "2026-10-08T21:01:18.000Z"
         },
         {
-          "title": "A senator tried to ban gambling on prediction markets—now she's a Kalshi lobbyist",
-          "link": "https://arstechnica.com/tech-policy/2026/10/a-senator-tried-to-ban-gambling-on-prediction-markets-now-shes-a-kalshi-lobbyist/",
-          "summary": "Sen. Blanche Lincoln wrote law that let US ban sports-event contracts. She lobbies for the other side now.",
-          "isoDate": "2026-10-08T11:00:14.000Z"
+          "title": "Apple will reportedly debut its first touchscreen MacBook in three weeks",
+          "link": "https://www.theverge.com/tech/1008422/apple-macbook-pro-touchscreen-ipad-mini-rumor",
+          "summary": "Apple is set to introduce a new MacBook Pro with a touchscreen and an updated iPad Mini \"on or around\" October 27th, Bloomberg reports. If true, that would put the event just two weeks after the October 13th event Apple announced today, which is rumored to focus on smart home products.\nBloomberg says that the late October event will include an \"online video presentation\" and an \"in-person component for the press,\" which it reports is similar to what Apple is planning for the October 13th event.\nAt this Mac and iPad event, Bloomberg reports that Apple will announce new MacBook Pros that are lighter than what's available now, have touchscree …\nRead the full story at The Verge.",
+          "isoDate": "2026-10-08T20:32:21.000Z"
         },
         {
-          "title": "Why we’re watching these climate tech companies",
-          "link": "https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/",
-          "summary": "This week, we released our 2026 version of our Climate Tech Companies to Watch list. It’s an annual project that the MIT Technology Review team puts together. Our goal is to highlight some of the promising, interesting advances and firms we think are worth paying attention to in the world of climate and energy technology. …",
-          "isoDate": "2026-10-08T10:00:00.000Z"
+          "title": "R.I.P. Margaret Hamilton, whose code saved the Apollo 11 Moon landing",
+          "link": "https://arstechnica.com/science/2026/10/r-i-p-margaret-hamilton-whose-code-saved-the-apollo-11-moon-landing/",
+          "summary": "Hamilton also coined the term \"software engineering\" and founded two successful software companies.",
+          "isoDate": "2026-10-08T20:15:53.000Z"
         },
         {
-          "title": "AI breakthroughs in robotics won’t change your life any time soon",
-          "link": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
-          "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds. Perhaps you’ve seen it dance or…",
-          "isoDate": "2026-10-08T09:00:00.000Z"
+          "title": "California is trying to shut down robot vs. human cage matches",
+          "link": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
+          "summary": "The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by The New York Times.\nThe fight, which took place on September 18th, pitted a human, Frankie LaPenna, against a humanoid robot owned by a tech startup, Rek, that was being piloted by a human using what the NYT described as a \"remote virtual-reality system.\" Rek says it is the \"the humanoid robot fighting league\" on its website, and the robot appears to be one from EngineAI but with a Terminator-like head swapped on top.  \nYou can watch a replay of the fight on YouTube:\n\nThe CEO of Rek …\nRead the full story at The Verge.",
+          "isoDate": "2026-10-08T20:06:56.000Z"
         },
         {
-          "title": "Building a safer path to autonomous industrial AI",
-          "link": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
-          "summary": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that operates purely in the digital world, industrial AI can interact directly with physical systems,…",
-          "isoDate": "2026-10-08T08:17:32.000Z"
+          "title": "Let's Encrypt cuts certificate lifetimes to 64 days starting February 2027",
+          "link": "https://arstechnica.com/gadgets/2026/10/lets-encrypt-cuts-certificate-lifetimes-to-64-days-starting-february-2027/",
+          "summary": "Free SSL/TLS certificate lifetimes reduce to 64 days in February.",
+          "isoDate": "2026-10-08T19:57:17.000Z"
         },
         {
-          "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
-          "link": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
-          "summary": "Get ready for more AI in your Windows and more AI on the desktop.",
-          "isoDate": "2026-10-08T00:00:24.000Z"
+          "title": "ICE detainees in Georgia used the facility’s video calling software to expose the conditions inside",
+          "link": "https://www.theverge.com/report/1008342/folkston-georgia-ice-detention-hunger-strike-video",
+          "summary": "Detainees are seen in a yard at the Folkston ICE Processing Center on September 9, 2025, in Folkston, Georgia. (Photo by ELIJAH NOUVELAGE/AFP via Getty Images) | AFP via Getty Images\t\n\nFour men detained at an ICE detention center in rural Georgia used the facility's video conferencing software to expose both the conditions inside and President Donald Trump's hostile takeover of the immigration courts. In the five-minute video, the men describe an intentionally dysfunctional legal system designed to keep them trapped in federal custody for months or years - in privately owned facilities that profit from their confinement.\nThe video cost the men, literally and figuratively. The Folkston ICE Processing Center has a work program for detainees in which they are paid a pittance to cook, do laundry, or clean. These wages allow t …\nRead the full story at The Verge.",
+          "isoDate": "2026-10-08T19:45:00.000Z"
         },
         {
-          "title": "BMW’s iX4 SUV is a 428-mile defensive weapon against China’s EV takeover",
-          "link": "https://www.theverge.com/transportation/1006837/bmw-ix4-ev-range-price-specs-tesla-china",
-          "summary": "While much of the automotive world sits dumbfounded as China gobbles up all its customers, BMW continues to roll out extremely well-crafted, technologically advanced electric vehicles that impress in both drive quality and price. The latest is the BMW iX4, a coupe-shaped SUV that puts a sportier spin on the automaker's iX3.\nThe iX4 is the third vehicle to be released on BMW's next-generation Neue Klasse platform, following the iX3 and i3 models. The iX4 50 xDrive will come first in March 2027, followed by an even more high-performance M60 xDrive version later in the year. The automaker is positioning this new lineup as its bulwark against t …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-07T22:01:00.000Z"
+          "title": "Driver wins $76 after ALPR led to bogus traffic stop, drug searches",
+          "link": "https://arstechnica.com/tech-policy/2026/10/driver-wins-76-after-alpr-led-to-bogus-traffic-stop-drug-searches/",
+          "summary": "Mass surveillance gets stupider.",
+          "isoDate": "2026-10-08T19:42:30.000Z"
         }
       ]
     },
@@ -72,64 +72,64 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "APOD: 2026 October 8 – The Saturn System Smörgåsbord",
-          "link": "https://science.nasa.gov/image-article/apod-2026-october-8-the-saturn-system-smorgasbord/",
-          "summary": "APOD Science APOD APOD: 2026 October 8 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Saturn […]",
-          "isoDate": "2026-10-08T04:05:00.000Z"
+          "title": "NASA Briefing to Highlight Contributions to Martian Moons Mission",
+          "link": "https://www.nasa.gov/news-release/nasa-briefing-to-highlight-contributions-to-martian-moons-mission/",
+          "summary": "Media are invited to join NASA for a media teleconference at 4 p.m. EDT, Thursday, Oct. 15, to preview the agency’s contributions to JAXA’s (Japan Aerospace Exploration Agency) Martian Moons eXploration (MMX) mission. The mission is scheduled to launch from JAXA’s Tanegashima Space Center in Japan on Monday, Oct. 19 EDT (Tuesday, Oct. 20 JST). […]",
+          "isoDate": "2026-10-08T20:22:12.000Z"
         },
         {
-          "title": "Fighting Drought in Texas Cotton Country",
-          "link": "https://science.nasa.gov/earth/earth-observatory/fighting-drought-in-texas-cotton-country/",
-          "summary": "Drought and an ailing aquifer were major topics of conversation when NASA scientists visited with farmers in the Texas High Plains.",
-          "isoDate": "2026-10-08T04:01:00.000Z"
+          "title": "NASA Announces Bold Science Initiatives for America’s Golden Age Summit",
+          "link": "https://www.nasa.gov/news-release/nasa-announces-bold-science-initiatives-for-americas-golden-age-summit/",
+          "summary": "NASA is launching two new science and technology initiatives to deepen scientific understanding and accelerate the innovation that will shape America’s future in space. The initiatives are announced in conjunction with the White House Office of Science and Technology Policy’s (OSTP) “Golden Age Summit” in Washington on Thursday with top U.S. agency leaders. The programs […]",
+          "isoDate": "2026-10-08T19:40:00.000Z"
         },
         {
-          "title": "Woody ‘blankets’ are being deployed on Arctic permafrost to reduce carbon emissions",
-          "link": "https://www.nature.com/articles/d41586-026-03045-8",
-          "summary": "Nature, Published online: 08 October 2026; doi:10.1038/d41586-026-03045-8\nA start-up company is testing whether stabilizing areas of rapidly eroding permafrost can prevent greenhouse-gas emissions.",
-          "isoDate": "2026-10-08T00:00:00.000Z"
+          "title": "NASA’s SSPICY Mission to Demonstrate In-Space Inspection Technologies",
+          "link": "https://www.nasa.gov/centers-and-facilities/ames/nasas-sspicy-mission-to-demonstrate-in-space-inspection-technologies/",
+          "summary": "A new NASA-supported spacecraft will get up close to satellites that are no longer in service, demonstrating technologies that could support future in-space repairs and reduce orbital debris. The Small Spacecraft Propulsion and Inspection Capability (SSPICY) mission launched Oct. 1 from Vandenberg Space Force Base in California. The mission is a technology demonstration where an […]",
+          "isoDate": "2026-10-08T18:56:25.000Z"
         },
         {
-          "title": "UAE completes Arab world's first solo space probe <b>– </b>and sets course for an asteroid",
-          "link": "https://www.nature.com/articles/d41586-026-03154-4",
-          "summary": "Nature, Published online: 08 October 2026; doi:10.1038/d41586-026-03154-4\nThe device will be launched on a joint UAE-US-built craft. Some researchers say it could be the last mission constructed with outside help.",
-          "isoDate": "2026-10-08T00:00:00.000Z"
+          "title": "Crew-12 Returns to Earth",
+          "link": "https://www.nasa.gov/image-article/crew-12-returns-to-earth/",
+          "summary": "The SpaceX Crew Dragon Freedom spacecraft is seen moments before splashing down in the Pacific Ocean off the coast of California in this Oct. 8, 2026, photograph. Aboard were NASA’s SpaceX Crew-12 members NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev. The four spent […]",
+          "isoDate": "2026-10-08T18:52:27.000Z"
         },
         {
-          "title": "NASA Sets Coverage for SpaceX 35th Station Resupply Launch, Arrival",
-          "link": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-35th-station-resupply-launch-arrival/",
-          "summary": "NASA and SpaceX are targeting 6:33 a.m. EDT, Tuesday, Oct. 13, for the next launch to deliver science investigations, supplies, and equipment, including the final set of International Space Station Roll-Out Solar Arrays, to the space station. This is the 35th SpaceX commercial resupply services mission to the orbital complex for NASA. NASA also will […]",
-          "isoDate": "2026-10-07T21:16:42.000Z"
+          "title": "NASA’s SPHEREx Telescope Sees Menagerie of Brown Dwarfs",
+          "link": "https://www.nasa.gov/missions/spherex/nasas-spherex-telescope-sees-menagerie-of-brown-dwarfs/",
+          "summary": "NASA’s SPHEREx (Spectro-Photometer for the History of the Universe, Epoch of Reionization, and Ices Explorer) space telescope is shedding light on brown dwarfs, celestial objects that blur the line between stars and exoplanets. New findings published in The Astrophysical Journal show that these dark and cloudy worlds have chemically rich atmospheres not unlike the giant […]",
+          "isoDate": "2026-10-08T18:22:48.000Z"
         },
         {
-          "title": "NASA’s SpaceX 35th Commercial Resupply Mission Overview",
-          "link": "https://www.nasa.gov/general/nasas-spacex-35th-commercial-resupply-mission-overview/",
-          "summary": "NASA and SpaceX are targeting no earlier than Tuesday, Oct. 13 to launch scientific investigations, supplies, and equipment to the International Space Station.",
-          "isoDate": "2026-10-07T20:17:16.000Z"
+          "title": "Webb Measures Distance to Farthest Fast Radio Burst, Suggesting Origin",
+          "link": "https://science.nasa.gov/missions/webb/webb-measures-distance-to-farthest-fast-radio-burst-suggesting-origin/",
+          "summary": "First discovered in 2007, fast radio bursts are enigmatic, millisecond-long flashes of radio emission from the distant universe. Their origin remains uncertain, particularly since most are seen once and never again. Astronomers using NASA’s James Webb Space Telescope have pinpointed the host galaxy of the most distant fast radio burst (FRB) seen to date. Their […]",
+          "isoDate": "2026-10-08T18:00:00.000Z"
         },
         {
-          "title": "NASA’s PRIMA Spacecraft (Artist’s Concept)",
-          "link": "https://science.nasa.gov/photojournal/nasas-prima-spacecraft-artists-concept/",
-          "summary": "Description This artist’s concept depicts the proposed design for NASA’s PRobe far-Infrared Mission for Astrophysics (PRIMA), which was selected by the agency in September 2026. The PRIMA observatory is the first in a new class of NASA astrophysics missions, called Probe Explorers, within the agency’s longstanding Explorers Program. By observing far-infrared light, PRIMA will enable scientists to study cosmic […]",
-          "isoDate": "2026-10-07T20:15:49.000Z"
+          "title": "NASA’s SpaceX Crew‑12 Splashes Down, Sets Briefing to Discuss Mission",
+          "link": "https://www.nasa.gov/news-release/nasas-spacex-crew-12-splashes-down-sets-briefing-to-discuss-mission/",
+          "summary": "After more than seven months aboard the International Space Station, NASA’s SpaceX Crew-12 mission safely splashed down Thursday in the Pacific Ocean off the coast of Los Angeles. The crew members will discuss their science mission during a news conference at 3:30 p.m. EDT, Thursday, Oct. 15, at the agency’s Johnson Space Center in Houston. […]",
+          "isoDate": "2026-10-08T17:02:28.000Z"
         },
         {
-          "title": "NASA’s Curiosity Looks Back After Reaching Elevation Milestone",
-          "link": "https://science.nasa.gov/photojournal/nasas-curiosity-looks-back-after-reaching-elevation-milestone/",
-          "summary": "Description NASA’s Curiosity Mars rover captured this view looking back at the floor of Gale Crater, with the crater’s rim visible in the distance, on Sept. 5, 2026, the 5,006th Martian day, or sol, of the mission. Just nine days prior, on Aug. 26 (Sol 4,996), Curiosity set a mission milestone by reaching 1 kilometer […]",
-          "isoDate": "2026-10-07T17:00:47.000Z"
+          "title": "NASA, Energy Department Advance New Era of Nuclear-Powered Exploration",
+          "link": "https://www.nasa.gov/news-release/nasa-energy-department-advance-new-era-of-nuclear-powered-exploration/",
+          "summary": "As the Golden Age of deep-space exploration begins, NASA and the U.S. Department of Energy are advancing the development of safe, reliable, next-generation nuclear technologies for space. Together, the agencies will supercharge civil space exploration, unlock bold scientific discovery, and solidify American leadership in space nuclear power and propulsion.  “We are entering the ‘Nuclear NASA-era,’ […]",
+          "isoDate": "2026-10-08T15:46:25.000Z"
         },
         {
-          "title": "NASA’s Curiosity Captures Dawn Breaking on Wind-Carved Cliffs",
-          "link": "https://science.nasa.gov/photojournal/nasas-curiosity-captures-dawn-breaking-on-wind-carved-cliffs/",
-          "summary": "Description NASA’s Curiosity Mars rover captured this panorama of sunrise illuminating distant, wind-carved features called yardangs on Aug. 11, 2026, the 4,982nd Martian day, or sol, of the mission. Scientists are eager to learn more about how the yardang layer formed. Figure A is a crop zooming in on the distant yardangs. Since 2014, Curiosity […]",
-          "isoDate": "2026-10-07T16:49:50.000Z"
+          "title": "NASA Advances LISA Mission Contributions With New Test Telescope",
+          "link": "https://science.nasa.gov/missions/lisa/nasa-advances-lisa-mission-contributions-with-new-test-telescope/",
+          "summary": "NASA has taken the next step in the process of developing a new all-glass telescope for the LISA (Laser Interferometer Space Antenna) mission, a space observatory designed to detect ripples in space-time called gravitational waves. L3Harris Technologies will design, assemble, and integrate the new telescope for NASA. Called the Engineering Test Unit, this contribution represents […]",
+          "isoDate": "2026-10-08T15:31:24.000Z"
         },
         {
-          "title": "Artemis II Crew Moon Photo Annotations",
-          "link": "https://www.nasa.gov/image-article/artemis-ii-crew-moon-photo-annotations/",
-          "summary": "A visualization of a dark Moon eclipsing the Sun is marked with handwritten notes in this April 6, 2026, screenshot from an Artemis II crew member’s tablet. NASA astronauts Reid Wiseman (in blue) and Victor “Ike” Glover (in green) and CSA (Canadian Space Agency) Jeremy Hansen (in red) observed impact flashes and their locations, which […]",
-          "isoDate": "2026-10-07T15:44:59.000Z"
+          "title": "Golgi-derived vesicles containing PI(3,4)P2 drive mitochondrial fusion",
+          "link": "https://www.science.org/doi/abs/10.1126/science.adx9628?af=R",
+          "summary": "Science, Volume 394, Issue 6820, October 2026.",
+          "isoDate": "2026-10-08T07:00:00.000Z"
         }
       ]
     },
@@ -141,13 +141,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 74\nColumn: 41\nChar: &",
-          "isoDate": "2026-10-08T12:52:29.958Z"
+          "isoDate": "2026-10-08T22:57:21.807Z"
+        },
+        {
+          "title": "White House blocks Microsoft from foreign worker hiring program",
+          "link": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo?at_medium=RSS&at_campaign=rss",
+          "summary": "An international visa program has for years allowed US tech companies to hire highly skilled workers from abroad.",
+          "isoDate": "2026-10-08T21:37:35.000Z"
         },
         {
           "title": "Asos hackers took more personal details than first revealed, BBC finds",
           "link": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss",
           "summary": "Retailer issues update after BBC contacted by cyber criminals who said this week's breach went beyond \"basic contact details\"",
-          "isoDate": "2026-10-08T11:01:29.000Z"
+          "isoDate": "2026-10-08T16:29:33.000Z"
         },
         {
           "title": "AI chip boom pushes Samsung profits to record $80bn",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss",
           "summary": "Asos confirmed an \"unauthorised customer notification\" was sent out via its app on Tuesday, after users raised alarm.",
           "isoDate": "2026-10-06T17:50:19.000Z"
-        },
-        {
-          "title": "Finland orders halt to work on two Google data centres",
-          "link": "https://www.bbc.co.uk/news/articles/cvj6jkx6g1r0o?at_medium=RSS&at_campaign=rss",
-          "summary": "The order affecting two planned data centres follows concerns over forest clearance.",
-          "isoDate": "2026-10-06T17:15:46.000Z"
         }
       ]
     },
@@ -204,10 +204,34 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "3 Questions: What is the best path forward for AI in academia?",
+          "link": "https://news.mit.edu/2026/3-questions-what-best-path-forward-ai-academia-0925",
+          "summary": "MIT Statistics and Data Science Center Director Alexander (Sasha) Rakhlin shares important considerations for departments and institutions.",
+          "isoDate": "2026-10-08T21:25:00.000Z"
+        },
+        {
+          "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+          "link": "https://openai.com/index/oracle",
+          "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+          "isoDate": "2026-10-08T16:00:00.000Z"
+        },
+        {
+          "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+          "link": "https://openai.com/index/pollo-ai",
+          "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+          "isoDate": "2026-10-08T12:00:00.000Z"
+        },
+        {
           "title": "Using AI to mitigate the growing environmental threat of data centers",
           "link": "https://news.mit.edu/2026/mitigating-environmental-threat-of-data-centers-christina-delimitrou-1008",
           "summary": "By rethinking how large cloud computing systems operate, Associate Professor Christina Delimitrou seeks to make data centers more energy efficient.",
           "isoDate": "2026-10-08T04:00:00.000Z"
+        },
+        {
+          "title": "Disrupting AI-enabled “false front” operations",
+          "link": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+          "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
+          "isoDate": "2026-10-08T00:00:00.000Z"
         },
         {
           "title": "Discovering the value of humanistic inquiry",
@@ -238,30 +262,6 @@
           "link": "https://news.mit.edu/2026/supercomputing-researchers-document-evolution-ai-hardware-1006",
           "summary": "An ongoing survey tracks the latest AI accelerator systems to keep hardware relevant for Lincoln Laboratory staff and sponsors.",
           "isoDate": "2026-10-06T20:55:00.000Z"
-        },
-        {
-          "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-          "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-          "summary": "",
-          "isoDate": "2026-10-06T19:57:04.000Z"
-        },
-        {
-          "title": "Chris Bourg named vice provost and Barbara K. Ostrom (1978) Director of the MIT Libraries",
-          "link": "https://news.mit.edu/2026/chris-bourg-named-vice-provost-and-barbara-ostrom-director-mit-libraries-1006",
-          "summary": "As director, Bourg has focused on digital access, open and equitable scholarly publishing, and expanded support for data-intensive research.",
-          "isoDate": "2026-10-06T17:00:00.000Z"
-        },
-        {
-          "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-          "link": "https://openai.com/index/atlassian-partnership",
-          "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
-          "isoDate": "2026-10-06T16:00:00.000Z"
-        },
-        {
-          "title": "MIT announces the MIT for America initiative, to strengthen STEM education across the country",
-          "link": "https://news.mit.edu/2026/mit-america-initiative-strengthens-stem-education-across-country-1006",
-          "summary": "The effort aims to help U.S. learners from kindergarten to community college, with an emphasis on math, making, and the constructive use of AI.",
-          "isoDate": "2026-10-06T15:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-10-08T12:52:32.637Z"
+          "isoDate": "2026-10-08T22:57:24.188Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 59\nColumn: 58\nChar: =",
-          "isoDate": "2026-10-08T12:52:31.413Z"
+          "isoDate": "2026-10-08T22:57:22.625Z"
         },
         {
           "title": "IEEE Report Predicts Tech That Will Transform Lives",
