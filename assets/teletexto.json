@@ -1,15 +1,27 @@
 {
-  "generatedAt": "2026-10-07T22:46:28.569Z",
+  "generatedAt": "2026-10-08T04:42:12.783Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
         {
+          "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
+          "link": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
+          "summary": "Get ready for more AI in your Windows and more AI on the desktop.",
+          "isoDate": "2026-10-08T00:00:24.000Z"
+        },
+        {
           "title": "BMW’s iX4 SUV is a 428-mile defensive weapon against China’s EV takeover",
           "link": "https://www.theverge.com/transportation/1006837/bmw-ix4-ev-range-price-specs-tesla-china",
           "summary": "While much of the automotive world sits dumbfounded as China gobbles up all its customers, BMW continues to roll out extremely well-crafted, technologically advanced electric vehicles that impress in both drive quality and price. The latest is the BMW iX4, a coupe-shaped SUV that puts a sportier spin on the automaker's iX3.\nThe iX4 is the third vehicle to be released on BMW's next-generation Neue Klasse platform, following the iX3 and i3 models. The iX4 50 xDrive will come first in March 2027, followed by an even more high-performance M60 xDrive version later in the year. The automaker is positioning this new lineup as its bulwark against t …\nRead the full story at The Verge.",
           "isoDate": "2026-10-07T22:01:00.000Z"
+        },
+        {
+          "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
+          "link": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/",
+          "summary": "Opus-built Creative Cloud alternatives are ambitious, free, and nowhere near finished.",
+          "isoDate": "2026-10-07T21:56:42.000Z"
         },
         {
           "title": "Teenage Engineering’s CEO says it’ll stop making synths",
@@ -52,18 +64,6 @@
           "link": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
           "summary": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users alongside GPT-6, gives ChatGPT the ability to combine a text response with diagrams, charts, forms, tappable buttons, and more.\nIn a blog post explaining the change, OpenAI says it trained GPT-6 when to generate interactive visuals over text, as well as how to format them in its response. An example shared by OpenAI shows how ChatGPT might show a diagram of a seven-speed bicycle if you ask about its design, complete with interactive buttons that highlight differe …\nRead the full story at The Verge.",
           "isoDate": "2026-10-07T19:10:42.000Z"
-        },
-        {
-          "title": "The first Nvidia RTX Spark laptops cost up to $7,000",
-          "link": "https://www.theverge.com/gadgets/1007040/nvidias-powerful-rtx-spark-laptops-can-cost-up-to-7000",
-          "summary": "The 15-inch Surface Laptop Ultra starts at $2,599. | Photo by Tom Warren / The Verge\t\n\nThe first array of laptops powered by Nvidia's new RTX Spark chip are designed to compete with high-end MacBook Pros - and they've got some high-end prices to match.\n\nThe flagship Surface Laptop Ultra and RTX Spark laptops from Dell, Lenovo, MSI, HP, and Asus start as low as $2,599 for configurations with an 18-core CPU, 24GB of unified memory, and 512GB of storage. That's close in price to a similarly specced 14-inch MacBook Pro with M5 Pro chip, though Apple includes 1TB of storage. But the prices for both RTX Spark and Apple laptops of course go much, much higher.\nOf the pricing we've seen so far, a kitted-out Asus ProArt P16 RTX Spark …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-07T19:05:52.000Z"
-        },
-        {
-          "title": "Chemistry Nobel goes to reactions like those that gave life a hand",
-          "link": "https://arstechnica.com/science/2026/10/chemistry-nobel-goes-to-reactions-like-those-that-gave-life-a-hand/",
-          "summary": "Altering molecular handedness has implications for the origins of life.",
-          "isoDate": "2026-10-07T18:48:18.000Z"
         }
       ]
     },
@@ -72,52 +72,10 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "NASA Sets Coverage for SpaceX 35th Station Resupply Launch, Arrival",
-          "link": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-35th-station-resupply-launch-arrival/",
-          "summary": "NASA and SpaceX are targeting 6:33 a.m. EDT, Tuesday, Oct. 13, for the next launch to deliver science investigations, supplies, and equipment, including the final set of International Space Station Roll-Out Solar Arrays, to the space station. This is the 35th SpaceX commercial resupply services mission to the orbital complex for NASA. NASA also will […]",
-          "isoDate": "2026-10-07T21:16:42.000Z"
-        },
-        {
-          "title": "NASA’s SpaceX 35th Commercial Resupply Mission Overview",
-          "link": "https://www.nasa.gov/general/nasas-spacex-35th-commercial-resupply-mission-overview/",
-          "summary": "NASA and SpaceX are targeting no earlier than Tuesday, Oct. 13 to launch scientific investigations, supplies, and equipment to the International Space Station.",
-          "isoDate": "2026-10-07T20:17:16.000Z"
-        },
-        {
-          "title": "NASA’s PRIMA Spacecraft (Artist’s Concept)",
-          "link": "https://science.nasa.gov/photojournal/nasas-prima-spacecraft-artists-concept/",
-          "summary": "Description This artist’s concept depicts the proposed design for NASA’s PRobe far-Infrared Mission for Astrophysics (PRIMA), which was selected by the agency in September 2026. The PRIMA observatory is the first in a new class of NASA astrophysics missions, called Probe Explorers, within the agency’s longstanding Explorers Program. By observing far-infrared light, PRIMA will enable scientists to study cosmic […]",
-          "isoDate": "2026-10-07T20:15:49.000Z"
-        },
-        {
-          "title": "NASA’s Curiosity Looks Back After Reaching Elevation Milestone",
-          "link": "https://science.nasa.gov/photojournal/nasas-curiosity-looks-back-after-reaching-elevation-milestone/",
-          "summary": "Description NASA’s Curiosity Mars rover captured this view looking back at the floor of Gale Crater, with the crater’s rim visible in the distance, on Sept. 5, 2026, the 5,006th Martian day, or sol, of the mission. Just nine days prior, on Aug. 26 (Sol 4,996), Curiosity set a mission milestone by reaching 1 kilometer […]",
-          "isoDate": "2026-10-07T17:00:47.000Z"
-        },
-        {
-          "title": "NASA’s Curiosity Captures Dawn Breaking on Wind-Carved Cliffs",
-          "link": "https://science.nasa.gov/photojournal/nasas-curiosity-captures-dawn-breaking-on-wind-carved-cliffs/",
-          "summary": "Description NASA’s Curiosity Mars rover captured this panorama of sunrise illuminating distant, wind-carved features called yardangs on Aug. 11, 2026, the 4,982nd Martian day, or sol, of the mission. Scientists are eager to learn more about how the yardang layer formed. Figure A is a crop zooming in on the distant yardangs. Since 2014, Curiosity […]",
-          "isoDate": "2026-10-07T16:49:50.000Z"
-        },
-        {
-          "title": "Artemis II Crew Moon Photo Annotations",
-          "link": "https://www.nasa.gov/image-article/artemis-ii-crew-moon-photo-annotations/",
-          "summary": "A visualization of a dark Moon eclipsing the Sun is marked with handwritten notes in this April 6, 2026, screenshot from an Artemis II crew member’s tablet. NASA astronauts Reid Wiseman (in blue) and Victor “Ike” Glover (in green) and CSA (Canadian Space Agency) Jeremy Hansen (in red) observed impact flashes and their locations, which […]",
-          "isoDate": "2026-10-07T15:44:59.000Z"
-        },
-        {
-          "title": "APOD: 2026 October 7 – Supernova Remnant Pa 30",
-          "link": "https://science.nasa.gov/image-article/apod-2026-october-7-supernova-remnant-pa-30/",
-          "summary": "APOD Science APOD APOD: 2026 October 7 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Supernova Remnant Pa […]",
-          "isoDate": "2026-10-07T04:05:00.000Z"
-        },
-        {
-          "title": "Arctic Sea Ice Shrinks to Its 2026 Minimum",
-          "link": "https://science.nasa.gov/earth/earth-observatory/arctic-sea-ice-shrinks-to-its-2026-minimum/",
-          "summary": "Satellite records show Arctic sea ice covering less of the ocean in both winter and summer.",
-          "isoDate": "2026-10-07T04:00:00.000Z"
+          "title": "ERROR cargando feed",
+          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
+          "isoDate": "2026-10-08T04:42:06.536Z"
         },
         {
           "title": "A guide to Nature Index tables",
@@ -130,6 +88,48 @@
           "link": "https://www.nature.com/articles/d41586-026-03208-7",
           "summary": "Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-03208-7\nNature rounds up the Nobel Prizes for science — plus, hints of the ancestral human gut microbiome.",
           "isoDate": "2026-10-07T00:00:00.000Z"
+        },
+        {
+          "title": "NASA releases trove of Moon data from historic Artemis II flight",
+          "link": "https://www.nature.com/articles/d41586-026-03197-7",
+          "summary": "Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-03197-7\nAnnotated images and more collected by the four astronauts could inform missions to the lunar surface.",
+          "isoDate": "2026-10-07T00:00:00.000Z"
+        },
+        {
+          "title": "How we ditched presentations and embraced silence in our lab meetings",
+          "link": "https://www.nature.com/articles/d41586-026-02836-3",
+          "summary": "Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-02836-3\nSwapping to a system in which lab members read memos quietly before team discussions helped to create an open culture.",
+          "isoDate": "2026-10-07T00:00:00.000Z"
+        },
+        {
+          "title": "Blend",
+          "link": "https://www.nature.com/articles/d41586-026-02864-z",
+          "summary": "Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-02864-z\nIdentity crisis.",
+          "isoDate": "2026-10-07T00:00:00.000Z"
+        },
+        {
+          "title": "Semiconductors pushed into insulator territory",
+          "link": "https://www.nature.com/articles/d41586-026-02968-6",
+          "summary": "Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-02968-6\nA material that was previously assumed to be an electrical insulator has been shown to be a semiconductor, with potential uses in electronics and optics.",
+          "isoDate": "2026-10-07T00:00:00.000Z"
+        },
+        {
+          "title": "Genome accessibility reveals disease risk that gene expression misses",
+          "link": "https://www.nature.com/articles/d41586-026-03072-5",
+          "summary": "Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-03072-5\nMost disease-associated genetic alterations do not affect the genes themselves, but instead change how strongly they are expressed, often by modifying genome accessibility. Gene expression and accessibility have now been analysed simultaneously in 10 million immune cells from 1,108 people, linking disease-associated changes in accessibility to gene expression.",
+          "isoDate": "2026-10-07T00:00:00.000Z"
+        },
+        {
+          "title": "Nuclear clocks tick for the first time",
+          "link": "https://www.nature.com/articles/d41586-026-03060-9",
+          "summary": "Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-03060-9\nUltraprecise clocks that use transitions in atomic nuclei to keep time show promise as a next-generation time standard and for probing fundamental physics.",
+          "isoDate": "2026-10-07T00:00:00.000Z"
+        },
+        {
+          "title": "Retrofitted LLM can count the letter ‘i’s in ‘artificial intelligence’",
+          "link": "https://www.nature.com/articles/d41586-026-03059-2",
+          "summary": "Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-03059-2\nMost LLMs cannot reliably evaluate text on the level of individual letters. A technique called byteification retrofits existing models to enable it.",
+          "isoDate": "2026-10-07T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 74\nColumn: 41\nChar: &",
-          "isoDate": "2026-10-07T22:46:25.464Z"
+          "isoDate": "2026-10-08T04:42:07.963Z"
+        },
+        {
+          "title": "AI chip boom pushes Samsung profits to record $80bn",
+          "link": "https://www.bbc.co.uk/news/articles/c687z8127302o?at_medium=RSS&at_campaign=rss",
+          "summary": "The tech giant is also expected to get a boost from its latest folding devices that were launched in August.",
+          "isoDate": "2026-10-08T01:59:54.000Z"
+        },
+        {
+          "title": "Fuel prices added to Google Maps as petrol and diesel costs soar",
+          "link": "https://www.bbc.co.uk/news/articles/ckx2d4ddjn2eo?at_medium=RSS&at_campaign=rss",
+          "summary": "A search for forecourts will now display their pricing, using the government's Fuel Finder scheme.",
+          "isoDate": "2026-10-07T23:50:29.000Z"
         },
         {
           "title": "OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk'",
@@ -184,18 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/ckly0g1ljq2yo?at_medium=RSS&at_campaign=rss",
           "summary": "Giorgia Meloni submitted a four-second audio to a EU agency in a bid to protect her voice from deepfakes.",
           "isoDate": "2026-10-06T11:24:10.000Z"
-        },
-        {
-          "title": "Ofcom investigates Meta over Instagram Instants feature",
-          "link": "https://www.bbc.co.uk/news/articles/cq8jzyey8e2ro?at_medium=RSS&at_campaign=rss",
-          "summary": "The regulator said Instagram had not fully assessed risks posed by its Instants feature prior to launching it.",
-          "isoDate": "2026-10-06T09:04:02.000Z"
-        },
-        {
-          "title": "Lego fraudster among last year's most high-profile insurance scammers",
-          "link": "https://www.bbc.co.uk/news/articles/cm86z9npj5deo?at_medium=RSS&at_campaign=rss",
-          "summary": "The person was sentenced to 28 months in prison after an investigation found the claims were made up, the insurance trade body, the ABI said.",
-          "isoDate": "2026-10-06T07:03:35.000Z"
         }
       ]
     },
@@ -203,6 +203,12 @@
       "header": "160  INTELIGENCIA ARTIFICIAL",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Using AI to mitigate the growing environmental threat of data centers",
+          "link": "https://news.mit.edu/2026/mitigating-environmental-threat-of-data-centers-christina-delimitrou-1008",
+          "summary": "By rethinking how large cloud computing systems operate, Associate Professor Christina Delimitrou seeks to make data centers more energy efficient.",
+          "isoDate": "2026-10-08T04:00:00.000Z"
+        },
         {
           "title": "Discovering the value of humanistic inquiry",
           "link": "https://news.mit.edu/2026/discovering-value-humanistic-inquiry-1007",
@@ -256,12 +262,6 @@
           "link": "https://news.mit.edu/2026/mit-america-initiative-strengthens-stem-education-across-country-1006",
           "summary": "The effort aims to help U.S. learners from kindergarten to community college, with an emphasis on math, making, and the constructive use of AI.",
           "isoDate": "2026-10-06T15:00:00.000Z"
-        },
-        {
-          "title": "How Jump Trading is scaling quant research with ChatGPT",
-          "link": "https://openai.com/index/jump-trading",
-          "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
-          "isoDate": "2026-10-06T12:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-10-07T22:46:27.759Z"
+          "isoDate": "2026-10-08T04:42:11.727Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 59\nColumn: 58\nChar: =",
-          "isoDate": "2026-10-07T22:46:26.349Z"
+          "isoDate": "2026-10-08T04:42:09.291Z"
         },
         {
           "title": "IEEE Report Predicts Tech That Will Transform Lives",
