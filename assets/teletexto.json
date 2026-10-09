@@ -1,10 +1,58 @@
 {
-  "generatedAt": "2026-10-09T04:45:20.090Z",
+  "generatedAt": "2026-10-09T12:38:18.813Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "The Download: AI’s refusal problem and weight-loss drug side effects",
+          "link": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We’re putting too much faith in AI’s ability to say no Today’s AI models are trained to refuse a vast number of prompts. If you ask your chatbot how to poison…",
+          "isoDate": "2026-10-09T12:10:00.000Z"
+        },
+        {
+          "title": "Rocket Report: A rare Falcon 9 scrub; is it just about Vulcan's time to shine?",
+          "link": "https://arstechnica.com/space/2026/10/rocket-report-a-rare-falcon-9-scrub-is-it-just-about-vulcans-time-to-shine/",
+          "summary": "\"I can say we’re weeks away from launching on Vulcan.\"",
+          "isoDate": "2026-10-09T11:00:57.000Z"
+        },
+        {
+          "title": "Volkswagen's replacement for the ID.4 crossover is here",
+          "link": "https://arstechnica.com/cars/2026/10/volkswagens-replacement-for-the-id-4-crossover-is-here/",
+          "summary": "The new EV’s digital cockpit can mimic instrument displays from VWs of old.",
+          "isoDate": "2026-10-09T10:00:59.000Z"
+        },
+        {
+          "title": "OpenAI doubles down on decision to fire three AI safety researchers",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+          "summary": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\"\nIn a post on X on Friday, the company said Jasmine Wang, Tomek Korbak and Mikita ⁠Balesni were dismissed for violating \"clear policies on handling sensitive information.\" It insisted the decision was not about the trio speaking out about the company and their concerns about AI safety.\nThe post is a direct response to an open letter the researchers published on Thursday urging OpenAI to be more transparent about the decision. In it and a series of social media posts, the group said they believ …\nRead the full story at The Verge.",
+          "isoDate": "2026-10-09T09:48:26.000Z"
+        },
+        {
+          "title": "We’re putting too much faith in AI’s ability to say no",
+          "link": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+          "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary.  But recently, the idea that AI shouldn’t…",
+          "isoDate": "2026-10-09T09:00:00.000Z"
+        },
+        {
+          "title": "Job titles of the future: Delivery drone air traffic controller",
+          "link": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/",
+          "summary": "The moment Trevor Wischnewsky heard that drones were delivering pizza and sushi around his Texas neighborhood, his mind was made up. “It was super fascinating,” he says. “I just immediately wanted to be a part of it.” Wischnewsky is now an RPIC, or “remote pilot in command,” at a company called FlyTrex. An RPIC is…",
+          "isoDate": "2026-10-09T09:00:00.000Z"
+        },
+        {
+          "title": "We’re still figuring out the side effects of GLP-1 weight-loss drugs",
+          "link": "https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/",
+          "summary": "This week my colleague Antonio Regalado had an interesting update on GLP-1 weight-loss drugs. According to research presented at an aging meeting in Boston, these drugs seem to affect at least some measures of biological age. Overweight and diabetic people who take GLP-1s have a biological age around two to three years younger than similar…",
+          "isoDate": "2026-10-09T09:00:00.000Z"
+        },
+        {
+          "title": "Microsoft 365 Family subscribers will finally be able to share AI benefits",
+          "link": "https://www.theverge.com/news/1008581/microsoft-365-family-premium-shared-ai-features-storage-changes",
+          "summary": "Microsoft bundled its AI-powered Office features into Microsoft 365 Personal and Family subscriptions last year, but it only allowed the primary account holder to access the AI benefits. Now, Microsoft is about to let Microsoft 365 Family and Premium subscribers share Copilot and AI usage features, alongside access to Office apps and OneDrive storage, with up to five other people on a plan.\nIn an email to Microsoft 365 Family and Premium subscribers seen by The Verge, Microsoft outlines the changes that are coming to subscription plans over the coming months:\nAI for everyone on your plan: Share your Copilot benefits and AI usage with othe …\n\nRead the full story at The Verge.",
+          "isoDate": "2026-10-09T07:14:32.000Z"
+        },
         {
           "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
           "link": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
@@ -16,54 +64,6 @@
           "link": "https://www.theverge.com/tech/1008530/us-government-livestream-execution-firing-squad-fort-hood",
           "summary": "The United States' execution of the Fort Hood shooter will be livestreamed, anonymous officials from the Defense Department told the BBC and Associated Press. The planned execution of Nidal Hasan, the former US Army major convicted of killing 13 people at the Texas military base, was announced this week. He is scheduled to be executed by firing squad on December 3rd at 2PM ET.\nThe Verge contacted YouTube, Twitch, TikTok, Meta, Rumble, and Kick to ask if they plan to allow the livestream to be aired on their platforms. None responded before publication.\n\"We'll make sure that people are able to watch it, that it's public, because people need …\nRead the full story at The Verge.",
           "isoDate": "2026-10-08T22:32:04.000Z"
-        },
-        {
-          "title": "Anthropic launches free AI security scans for open-source projects",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
-          "summary": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic security scans by our strongest models at no cost.\" That could mean open-source projects get alerted about possible security issues sooner, but the trade-off is that OSS Scanner's reports don't come with human review:\nThe outputs of this opt-in vulnerability scanner will be fully model-generated, without human review or triage. This will enable faster and more frequent scanning, but means that it is possible reports will be incorrect or invalid. Th …\n\nRead the full story at The Verge.",
-          "isoDate": "2026-10-08T21:53:51.000Z"
-        },
-        {
-          "title": "SpaceX calls for better coordination in orbit after near-misses with Starlink",
-          "link": "https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink/",
-          "summary": "\"These led to conjunctions of tens of meters to hundreds of meters. Way too close to comfort.\"",
-          "isoDate": "2026-10-08T21:37:32.000Z"
-        },
-        {
-          "title": "SpaceX announces plan to become a ‘major mobile carrier’",
-          "link": "https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier",
-          "summary": "SpaceX has acquired a portfolio of low-band spectrum licenses - a move the company says \"will pave the way\" for its Starlink Mobile service to become a \"major\" US carrier. When the Federal Communications Commission signs off on the deal, SpaceX says it will deploy its new architecture that combines its satellite-to-mobile constellation with a terrestrial mobile network, directly competing with T-Mobile, AT&T, and Verizon.\nThe licenses include up to 14 megahertz of paired spectrum in the 800 MHz band, which SpaceX says will allow Starlink Mobile's signal to penetrate through walls and buildings. SpaceX previously acquired 2GHz spectrum from  …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-08T21:23:31.000Z"
-        },
-        {
-          "title": "AMD will bring FSR 4 to handhelds by the end of 2026",
-          "link": "https://www.theverge.com/games/1008353/amd-will-bring-fsr-4-to-handhelds-by-the-end-of-2026",
-          "summary": "It's already possible to get AMD's framerate-enhancing FSR 4 boost on handhelds as old as the Steam Deck - but in June, AMD reserved the right to disappoint handheld gamers by not officially bringing FSR 4 to older handhelds. Now, AMD consumer chip boss Jack Huynh says he will bring the tech to some handhelds by the end of the year.\nWhich handhelds? It's still not clear if it will come to existing handhelds, or if you'll need a new one to get it - because it comes alongside news that AMD is releasing a new FSR4-capable chip.\n\"We will expand the machine learning AI-based FSR4 technology, which was first introduced to existing external graph …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-08T21:01:18.000Z"
-        },
-        {
-          "title": "Judge weighs if Trump can charge $100K for early access to Truth Social posts",
-          "link": "https://arstechnica.com/tech-policy/2026/10/judge-weighs-if-trump-can-charge-100k-for-early-access-to-truth-social-posts/",
-          "summary": "Judge questioned if Trump delaying access to Truth Social posts by a second harms the press.",
-          "isoDate": "2026-10-08T20:53:01.000Z"
-        },
-        {
-          "title": "Trump Mobile hack and apparent lack of FCC authorization raise security alarms",
-          "link": "https://arstechnica.com/tech-policy/2026/10/trump-mobile-doesnt-seem-to-have-fcc-authorization-for-phone-service-senator-says/",
-          "summary": "After hack and data breach, senator asks why Trump Mobile lacks some FCC filings.",
-          "isoDate": "2026-10-08T20:39:31.000Z"
-        },
-        {
-          "title": "Apple will reportedly debut its first touchscreen MacBook in three weeks",
-          "link": "https://www.theverge.com/tech/1008422/apple-macbook-pro-touchscreen-ipad-mini-rumor",
-          "summary": "Apple is set to introduce a new MacBook Pro with a touchscreen and an updated iPad Mini \"on or around\" October 27th, Bloomberg reports. If true, that would put the event just two weeks after the October 13th event Apple announced today, which is rumored to focus on smart home products.\nBloomberg says that the late October event will include an \"online video presentation\" and an \"in-person component for the press,\" which it reports is similar to what Apple is planning for the October 13th event.\nAt this Mac and iPad event, Bloomberg reports that Apple will announce new MacBook Pros that are lighter than what's available now, have touchscree …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-08T20:32:21.000Z"
-        },
-        {
-          "title": "Feds get ready to rewrite car headlight rules",
-          "link": "https://arstechnica.com/cars/2026/10/feds-get-ready-to-rewrite-car-headlight-rules/",
-          "summary": "Reducing glare and allowing modern light technologies will be two goals.",
-          "isoDate": "2026-10-08T20:26:13.000Z"
         }
       ]
     },
@@ -72,62 +72,62 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "NASA Briefing to Highlight Contributions to Martian Moons Mission",
-          "link": "https://www.nasa.gov/news-release/nasa-briefing-to-highlight-contributions-to-martian-moons-mission/",
-          "summary": "Media are invited to join NASA for a media teleconference at 4 p.m. EDT, Thursday, Oct. 15, to preview the agency’s contributions to JAXA’s (Japan Aerospace Exploration Agency) Martian Moons eXploration (MMX) mission. The mission is scheduled to launch from JAXA’s Tanegashima Space Center in Japan on Monday, Oct. 19 EDT (Tuesday, Oct. 20 JST). […]",
-          "isoDate": "2026-10-08T20:22:12.000Z"
+          "title": "ERROR cargando feed",
+          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
+          "isoDate": "2026-10-09T12:38:12.493Z"
         },
         {
-          "title": "NASA Announces Bold Science Initiatives for America’s Golden Age Summit",
-          "link": "https://www.nasa.gov/news-release/nasa-announces-bold-science-initiatives-for-americas-golden-age-summit/",
-          "summary": "Editor’s note: This release was updated Oct. 8, 2026 with the formal name of the summit. NASA is launching two new science and technology initiatives to deepen scientific understanding and accelerate the innovation that will shape America’s future in space. The initiatives are announced in conjunction with the White House Office of Science and Technology […]",
-          "isoDate": "2026-10-08T19:40:00.000Z"
+          "title": "Chimp and gorilla brains resist weight loss with age — unlike human brains",
+          "link": "https://www.nature.com/articles/d41586-026-03158-0",
+          "summary": "Nature, Published online: 09 October 2026; doi:10.1038/d41586-026-03158-0\nThe relatively short lifespans of non-human great apes might explain why their brain mass is maintained in later life",
+          "isoDate": "2026-10-09T00:00:00.000Z"
         },
         {
-          "title": "NASA’s SSPICY Mission to Demonstrate In-Space Inspection Technologies",
-          "link": "https://www.nasa.gov/centers-and-facilities/ames/nasas-sspicy-mission-to-demonstrate-in-space-inspection-technologies/",
-          "summary": "A new NASA-supported spacecraft will get up close to satellites that are no longer in service, demonstrating technologies that could support future in-space repairs and reduce orbital debris. The Small Spacecraft Propulsion and Inspection Capability (SSPICY) mission launched Oct. 1 from Vandenberg Space Force Base in California. The mission is a technology demonstration where an […]",
-          "isoDate": "2026-10-08T18:56:25.000Z"
+          "title": "The life of Darwin and the science of clouds: Books in brief",
+          "link": "https://www.nature.com/articles/d41586-026-03217-6",
+          "summary": "Nature, Published online: 09 October 2026; doi:10.1038/d41586-026-03217-6\nAndrew Robinson reviews five of the best science picks.",
+          "isoDate": "2026-10-09T00:00:00.000Z"
         },
         {
-          "title": "Crew-12 Returns to Earth",
-          "link": "https://www.nasa.gov/image-article/crew-12-returns-to-earth/",
-          "summary": "The SpaceX Crew Dragon Freedom spacecraft is seen moments before splashing down in the Pacific Ocean off the coast of California in this Oct. 8, 2026, photograph. Aboard were NASA’s SpaceX Crew-12 members NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev. The four spent […]",
-          "isoDate": "2026-10-08T18:52:27.000Z"
-        },
-        {
-          "title": "NASA’s SPHEREx Telescope Sees Menagerie of Brown Dwarfs",
-          "link": "https://www.nasa.gov/missions/spherex/nasas-spherex-telescope-sees-menagerie-of-brown-dwarfs/",
-          "summary": "NASA’s SPHEREx (Spectro-Photometer for the History of the Universe, Epoch of Reionization, and Ices Explorer) space telescope is shedding light on brown dwarfs, celestial objects that blur the line between stars and exoplanets. New findings published in The Astrophysical Journal show that these dark and cloudy worlds have chemically rich atmospheres not unlike the giant […]",
-          "isoDate": "2026-10-08T18:22:48.000Z"
-        },
-        {
-          "title": "Webb Measures Distance to Farthest Fast Radio Burst, Suggesting Origin",
-          "link": "https://science.nasa.gov/missions/webb/webb-measures-distance-to-farthest-fast-radio-burst-suggesting-origin/",
-          "summary": "First discovered in 2007, fast radio bursts are enigmatic, millisecond-long flashes of radio emission from the distant universe. Their origin remains uncertain, particularly since most are seen once and never again. Astronomers using NASA’s James Webb Space Telescope have pinpointed the host galaxy of the most distant fast radio burst (FRB) seen to date. Their […]",
-          "isoDate": "2026-10-08T18:00:00.000Z"
-        },
-        {
-          "title": "NASA’s SpaceX Crew‑12 Splashes Down, Sets Briefing to Discuss Mission",
-          "link": "https://www.nasa.gov/news-release/nasas-spacex-crew-12-splashes-down-sets-briefing-to-discuss-mission/",
-          "summary": "After more than seven months aboard the International Space Station, NASA’s SpaceX Crew-12 mission safely splashed down Thursday in the Pacific Ocean off the coast of Los Angeles. The crew members will discuss their science mission during a news conference at 3:30 p.m. EDT, Thursday, Oct. 15, at the agency’s Johnson Space Center in Houston. […]",
-          "isoDate": "2026-10-08T17:02:28.000Z"
-        },
-        {
-          "title": "NASA, Energy Department Advance New Era of Nuclear-Powered Exploration",
-          "link": "https://www.nasa.gov/news-release/nasa-energy-department-advance-new-era-of-nuclear-powered-exploration/",
-          "summary": "Editor’s note: This release was updated Oct. 8, 2026 with the formal name of the summit. As the Golden Age of deep-space exploration begins, NASA and the U.S. Department of Energy are advancing the development of safe, reliable, next-generation nuclear technologies for space. Together, the agencies will supercharge civil space exploration, unlock bold scientific discovery, […]",
-          "isoDate": "2026-10-08T15:46:25.000Z"
-        },
-        {
-          "title": "NASA Advances LISA Mission Contributions With New Test Telescope",
-          "link": "https://science.nasa.gov/missions/lisa/nasa-advances-lisa-mission-contributions-with-new-test-telescope/",
-          "summary": "NASA has taken the next step in the process of developing a new all-glass telescope for the LISA (Laser Interferometer Space Antenna) mission, a space observatory designed to detect ripples in space-time called gravitational waves. L3Harris Technologies will design, assemble, and integrate the new telescope for NASA. Called the Engineering Test Unit, this contribution represents […]",
-          "isoDate": "2026-10-08T15:31:24.000Z"
+          "title": "Five movements from the edge of the singularity",
+          "link": "https://www.nature.com/articles/d41586-026-03116-w",
+          "summary": "Nature, Published online: 09 October 2026; doi:10.1038/d41586-026-03116-w\nChange is in the air.",
+          "isoDate": "2026-10-09T00:00:00.000Z"
         },
         {
           "title": "Golgi-derived vesicles containing PI(3,4)P2 drive mitochondrial fusion",
           "link": "https://www.science.org/doi/abs/10.1126/science.adx9628?af=R",
+          "summary": "Science, Volume 394, Issue 6820, October 2026.",
+          "isoDate": "2026-10-08T07:00:00.000Z"
+        },
+        {
+          "title": "The human gut microbiome primes fever after vaccination",
+          "link": "https://www.science.org/doi/abs/10.1126/science.aea7733?af=R",
+          "summary": "Science, Volume 394, Issue 6820, October 2026.",
+          "isoDate": "2026-10-08T07:00:00.000Z"
+        },
+        {
+          "title": "Epigenetic aging and transposon dysregulation reflect size-related lifespan compression in dogs",
+          "link": "https://www.science.org/doi/abs/10.1126/science.aeb2986?af=R",
+          "summary": "Science, Volume 394, Issue 6820, October 2026.",
+          "isoDate": "2026-10-08T07:00:00.000Z"
+        },
+        {
+          "title": "Insights from more than a year of ongoing episodic lava fountaining at Kīlauea",
+          "link": "https://www.science.org/doi/abs/10.1126/science.aef2931?af=R",
+          "summary": "Science, Volume 394, Issue 6820, October 2026.",
+          "isoDate": "2026-10-08T07:00:00.000Z"
+        },
+        {
+          "title": "Asymmetric enzymatic hydrophosphorylation through O2 activation",
+          "link": "https://www.science.org/doi/abs/10.1126/science.aef3001?af=R",
+          "summary": "Science, Volume 394, Issue 6820, October 2026.",
+          "isoDate": "2026-10-08T07:00:00.000Z"
+        },
+        {
+          "title": "The genetic basis for the production of toxic quinolizidine alkaloids in lupins",
+          "link": "https://www.science.org/doi/abs/10.1126/science.aei5520?af=R",
           "summary": "Science, Volume 394, Issue 6820, October 2026.",
           "isoDate": "2026-10-08T07:00:00.000Z"
         }
@@ -141,13 +141,31 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 74\nColumn: 41\nChar: &",
-          "isoDate": "2026-10-09T04:45:17.007Z"
+          "isoDate": "2026-10-09T12:38:14.303Z"
         },
         {
-          "title": "Nvidia-backed AI data centre firm scraps mega listing due to market volatility",
+          "title": "Anthropic bans users from being 'cruel' to its AI systems",
+          "link": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
+          "summary": "The firm said users can no longer engage in \"sustained and needless\" abusive behaviour towards the tech.",
+          "isoDate": "2026-10-09T12:34:27.000Z"
+        },
+        {
+          "title": "Fired OpenAI researchers say they were let go for 'prioritising safety'",
+          "link": "https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo?at_medium=RSS&at_campaign=rss",
+          "summary": "The AI firm instead claims the researchers were fired for mishandling sensitive information.",
+          "isoDate": "2026-10-09T09:30:49.000Z"
+        },
+        {
+          "title": "Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen",
           "link": "https://www.bbc.co.uk/news/articles/ck9dzpw4ll8po?at_medium=RSS&at_campaign=rss",
           "summary": "Firmus said it had made the decision due to \"recent market volatility and prevailing market conditions\".",
-          "isoDate": "2026-10-09T04:06:23.000Z"
+          "isoDate": "2026-10-09T07:14:30.000Z"
+        },
+        {
+          "title": "'Careless use of AI is the real threat - not the ghost stories'",
+          "link": "https://www.bbc.co.uk/news/articles/cjzxz9yp1kq9o?at_medium=RSS&at_campaign=rss",
+          "summary": "Meredith Whittaker says the tech has been misunderstood, in an exclusive interview with BBC Global Women.",
+          "isoDate": "2026-10-09T07:05:01.000Z"
         },
         {
           "title": "Why are more roofs not made of solar tiles?",
@@ -156,9 +174,9 @@
           "isoDate": "2026-10-08T23:09:56.000Z"
         },
         {
-          "title": "White House blocks Microsoft from foreign worker hiring program",
+          "title": "White House blocks Microsoft from foreign worker hiring programme",
           "link": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo?at_medium=RSS&at_campaign=rss",
-          "summary": "An international visa program has for years allowed US tech companies to hire highly skilled workers from abroad.",
+          "summary": "An international visa programme has for years allowed US tech companies to hire highly skilled workers from abroad.",
           "isoDate": "2026-10-08T21:37:35.000Z"
         },
         {
@@ -178,24 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/ckx2d4ddjn2eo?at_medium=RSS&at_campaign=rss",
           "summary": "A search for forecourts will now display their pricing, using the government's Fuel Finder scheme.",
           "isoDate": "2026-10-07T23:50:29.000Z"
-        },
-        {
-          "title": "OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk'",
-          "link": "https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o?at_medium=RSS&at_campaign=rss",
-          "summary": "The research found that important guardrails for teens using ChatGPT often failed.",
-          "isoDate": "2026-10-07T20:34:17.000Z"
-        },
-        {
-          "title": "Rainmakers: The drones used to seed clouds",
-          "link": "https://www.bbc.co.uk/news/articles/c64g71j4lgyjo?at_medium=RSS&at_campaign=rss",
-          "summary": "Cloud seeding is gaining attention as countries look to boost rainfall - will drones help?",
-          "isoDate": "2026-10-07T07:09:32.000Z"
-        },
-        {
-          "title": "Braid-creator Jonathan Blow on making the 'biggest puzzle game ever'",
-          "link": "https://www.bbc.co.uk/news/articles/cj3vqxldglepo?at_medium=RSS&at_campaign=rss",
-          "summary": "Order of the Sinking Star is due out on Thursday and has roughly 1,500 puzzles for players to try",
-          "isoDate": "2026-10-06T23:01:22.000Z"
         }
       ]
     },
@@ -203,6 +203,12 @@
       "header": "160  INTELIGENCIA ARTIFICIAL",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+          "link": "https://openai.com/index/sophos",
+          "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+          "isoDate": "2026-10-09T07:00:00.000Z"
+        },
         {
           "title": "3 Questions: What is the best path forward for AI in academia?",
           "link": "https://news.mit.edu/2026/3-questions-what-best-path-forward-ai-academia-0925",
@@ -256,12 +262,6 @@
           "link": "https://openai.com/index/radisson",
           "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
           "isoDate": "2026-10-07T07:00:00.000Z"
-        },
-        {
-          "title": "GPT-6 and Intelligent UI for everyone",
-          "link": "https://openai.com/index/gpt-6-for-everyone",
-          "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
-          "isoDate": "2026-10-07T00:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-10-09T04:45:19.260Z"
+          "isoDate": "2026-10-09T12:38:17.488Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 59\nColumn: 58\nChar: =",
-          "isoDate": "2026-10-09T04:45:18.295Z"
+          "isoDate": "2026-10-09T12:38:15.098Z"
         },
         {
           "title": "IEEE Report Predicts Tech That Will Transform Lives",
