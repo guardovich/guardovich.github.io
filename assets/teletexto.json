@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-10-13T22:18:57.002Z",
+  "generatedAt": "2026-10-14T03:41:54.924Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Martin Shkreli livestreamed himself violating lifetime pharma ban, FTC says",
+          "link": "https://arstechnica.com/health/2026/10/martin-shkreli-livestreamed-himself-violating-lifetime-pharma-ban-ftc-says/",
+          "summary": "\"I can always find a couple of biotech stocks to smoke,\" Shkreli said in a livestream.",
+          "isoDate": "2026-10-13T22:48:12.000Z"
+        },
+        {
+          "title": "Apple’s HomeView ad is confusing to everyone except parents",
+          "link": "https://www.theverge.com/tech/1010561/apple-homeview-commercial-reaction",
+          "summary": "Nothing like a little family togetherness in the morning. | Image: Apple\t\n\nApple's ad introducing its new HomeView smart display is a little unusual. It's fast-paced and unruly, depicting a family of five as they rush through the morning routine. There's yelling and mess, misplaced keys and discarded eggshells. Apple's typical vibe is clean, simple, orderly; this commercial is chaos.\nBut the spot has parents - those with teen children in particular - feeling seen.\n\nI'll admit that it stressed me out the first time I watched it, too. Mornings getting my five-year-old out the door are a special breed of chaos, and usually culminate in us playing whatever ad-libbed game will get him to put his shoes on. But it's not  …\nRead the full story at The Verge.",
+          "isoDate": "2026-10-13T22:10:00.000Z"
+        },
         {
           "title": "ESA targets Anbernic emulation handhelds as \"superfake\" piracy enablers",
           "link": "https://arstechnica.com/gaming/2026/10/esa-targets-anbernic-emulation-handhelds-as-superfake-piracy-enablers/",
@@ -52,18 +64,6 @@
           "link": "https://www.theverge.com/gadgets/1010384/nothing-headphone-a-charli-xcx-deal-sale",
           "summary": "The Headphone A keep the shape and style of Nothing’s over-ear design, but with an opaque instead of transparent case. | Photo by John Higgins / The Verge\t\n\nOne of the best deals we’ve seen today bundles together a great pair of headphones with a solid album. When you add the Nothing Headphone A in black or white and the CD version of the Charli XCX album Music, Fashion, Film to your Amazon cart, you’ll save 33 percent on your order, bringing the total down to $97.52. That’s lower than the best price we’ve seen for the headphones on their own, which retail for $199, and you get a free album to boot. The other colors also qualify for the discount, but have a higher starting price, so the discounted price will be higher as well.\nNothing Headphone A\nNothing’s second over-ear headphones may not offer everything found on the pricier Nothing Headphone 1, but you do get physical controls, good sound, and more than five days of battery life per charge. Their design is also a bit more discreet, for better or worse. Read our review.\n\nWhere to Buy:\n\n $136.79 $97.52 at Amazon (when bundled with album)\n\nWe reviewed the Nothing Headphone A when they launched earlier in 2026, and praised them for their physical controls, IP52 dust and water resistance rating, and excellent battery life. They have a more subtle design than other Nothing products, opting for an opaque housing instead of the translucent shells on other Nothing headphones.\nRead our Nothing Headphone A review.",
           "isoDate": "2026-10-13T18:33:14.000Z"
-        },
-        {
-          "title": "Russian bot farms are still trolling, even after Ukraine&#8217;s drone strikes on Yandex",
-          "link": "https://www.theverge.com/news/1010424/yandex-drone-strike-outage-disinformation-zelenskyy",
-          "summary": "Days after Ukrainian military drones took down several Russian data centers, President Volodymyr Zelenskyy claimed that the campaign had hurt Russia's disinformation efforts. \"It suddenly became a little easier to breathe on many social platforms,\" Zelenskyy said Monday. \"There was less hate, less division, and fewer provocations.\"\nZelenskyy isn't the first to assert that the drone operation, which targeted data centers belonging to the Russian technology company Yandex, has cut down on spam and disinformation campaigns fomented by Russian bot farms. Social media users have claimed  they've noticed less traffic on posts by MAGA-affiliated a …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-13T18:31:31.000Z"
-        },
-        {
-          "title": "Rivian partner Mind Robotics hires Doug Field as president",
-          "link": "https://www.theverge.com/transportation/1010050/rivian-mind-robotics-hires-doug-field-ford-tesla-apple",
-          "summary": "Rivian CEO RJ Scaringe's startup Mind Robotics announced the appointment of Doug Field as president in a major coup for the CEO's secretive robotics project. \nField was a VP of special projects at Apple, where he was the de facto head of the company's ultimately unsuccessful Project Titan effort to make an autonomous electric car. He had a previous stint at Apple as VP of Mac hardware engineering, but he left the company in 2013 to become Tesla's chief vehicle engineer, where he helped oversee the Model 3 sedan. He left Tesla in 2018 and rejoined Apple. In 2021, Field was hired by Ford to run the automaker's electric vehicle and software di …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-13T18:30:00.000Z"
         }
       ]
     },
@@ -141,7 +141,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 74\nColumn: 41\nChar: &",
-          "isoDate": "2026-10-13T22:18:41.893Z"
+          "isoDate": "2026-10-14T03:41:49.895Z"
+        },
+        {
+          "title": "How long will humans be needed for translation?",
+          "link": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss",
+          "summary": "AI dominates the translation business, but for high-stakes work, humans are still needed.",
+          "isoDate": "2026-10-13T23:05:29.000Z"
+        },
+        {
+          "title": "Is it OK for jobseekers or employers to use AI?",
+          "link": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
+          "summary": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.",
+          "isoDate": "2026-10-13T23:04:39.000Z"
         },
         {
           "title": "Tech Life",
@@ -184,18 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
           "summary": "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect and report the breach.",
           "isoDate": "2026-10-10T10:06:23.000Z"
-        },
-        {
-          "title": "How drones are hunting fires hidden beneath the Cairngorms ",
-          "link": "https://www.bbc.co.uk/news/articles/cwm24n9v8rdeo?at_medium=RSS&at_campaign=rss",
-          "summary": "Dramatic flames from the huge Cairngorms wildfire in July have disappeared - but hot spots can continue to burn beneath the earth.",
-          "isoDate": "2026-10-10T09:31:14.000Z"
-        },
-        {
-          "title": "Tech Now",
-          "link": "https://www.bbc.co.uk/iplayer/episode/m0032yng?at_medium=RSS&at_campaign=rss",
-          "summary": "Shiona McCallum visits Cairngorms National Park to see tech monitor wildfire damage.",
-          "isoDate": "2026-10-10T01:00:00.000Z"
         }
       ]
     },
@@ -203,6 +203,12 @@
       "header": "160  INTELIGENCIA ARTIFICIAL",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
+          "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+          "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+          "isoDate": "2026-10-14T02:00:14.000Z"
+        },
         {
           "title": "How artificial neural networks build their own learning machinery",
           "link": "https://news.mit.edu/2026/how-artificial-neural-networks-build-their-own-learning-machinery-1013",
@@ -256,12 +262,6 @@
           "link": "https://openai.com/index/asana-browser-agent",
           "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
           "isoDate": "2026-10-09T07:00:00.000Z"
-        },
-        {
-          "title": "3 Questions: What is the best path forward for AI in academia?",
-          "link": "https://news.mit.edu/2026/3-questions-best-path-forward-for-ai-academia-1008",
-          "summary": "MIT Statistics and Data Science Center Director Alexander (Sasha) Rakhlin shares important considerations for departments and institutions.",
-          "isoDate": "2026-10-08T21:25:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-10-13T22:18:54.057Z"
+          "isoDate": "2026-10-14T03:41:53.599Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 59\nColumn: 58\nChar: =",
-          "isoDate": "2026-10-13T22:18:48.805Z"
+          "isoDate": "2026-10-14T03:41:51.233Z"
         },
         {
           "title": "Meet the Anthropic Engineer Keeping Its AI Agent Trustworthy",
