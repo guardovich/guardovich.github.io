@@ -1,69 +1,69 @@
 {
-  "generatedAt": "2026-10-14T16:37:16.999Z",
+  "generatedAt": "2026-10-14T21:18:30.530Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
         {
-          "title": "Honey, Xbox shrunk its controller",
-          "link": "https://www.theverge.com/news/1011216/xbox-nano-controller-release-date-pricing",
-          "summary": "Microsoft is officially announcing its Xbox Nano controller today, a smaller and cheaper controller that's designed to fit into your pocket. The more compact controller is also designed for \"younger players, smaller hands, or anyone seeking something portable for play on the go.\"\nThe $49.99 Xbox Nano is Microsoft's smallest controller, and it's shorter than most smartphones at just over five inches in length. It has all the regular buttons you'd find on a normal Xbox controller, as well as Xbox Wireless and Bluetooth support for connecting to Xbox consoles and phones, tablets, and PCs.\nThe Xbox Nano controller also has includes a rechargea …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-14T16:16:46.000Z"
+          "title": "Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+          "summary": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho, and Montana, allege OpenAI unlawfully put profits over safety when developing ChatGPT.\nThe string of complaints claims that OpenAI violated local consumer protection laws by failing to warn customers about the dangers of ChatGPT, citing several lawsuits filed by the family members of teens and adults that allege the AI chatbot played a role in their loved  …\nRead the full story at The Verge.",
+          "isoDate": "2026-10-14T21:11:28.000Z"
         },
         {
-          "title": "Microsoft has a new machine learning tool to improve weather forecasts",
-          "link": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
-          "summary": "Old-school physics-based weather forecasting and even new AI models typically become less reliable beyond two weeks, a problem Microsoft claims to have solved using machine learning.\nResearchers with the company say they've found a new, cost-effective way to make more accurate weather forecasts two to six weeks in advance - allowing farmers and emergency responders to plan ahead with greater certainty. The findings were published today in the journal Nature, and the tool is now open-source software.\nMicrosoft joins Google, Nvidia, and other companies developing AI tools for weather forecasting. Instead of creating a new standalone weather  …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-14T16:05:21.000Z"
+          "title": "Things are finally looking up for NASA's first missions to Venus in a generation",
+          "link": "https://arstechnica.com/space/2026/10/nasas-embattled-venus-missions-are-back-on-track-after-cancellation-threat/",
+          "summary": "\"This is great news for us. We're staffing up. We're accelerating.\"",
+          "isoDate": "2026-10-14T20:48:07.000Z"
         },
         {
-          "title": "Now you can call anyone with WhatsApp, even if they don&#8217;t have WhatsApp",
-          "link": "https://www.theverge.com/tech/1011202/meta-whatsapp-guest-calls",
-          "summary": "WhatsApp's new guest calling feature allows you to invite anyone to a call, without needing them to make an account first. They won't need the app, either, since Meta also added support for calls on the web version of WhatsApp earlier this year. You can invite guests just by sending them the call link, and guests still have access to call features like hand raising, screen sharing, and emoji reactions, complete with end-to-end encryption.\nHowever, you still need an account to start a call, and there are a few restrictions for guests:\nAnyone joining as a guest always needs the call host's approval. Guests will enter a waiting room until th …\n\nRead the full story at The Verge.",
-          "isoDate": "2026-10-14T16:03:10.000Z"
+          "title": "Schools across US protest FCC plan that could disconnect kids from Internet",
+          "link": "https://arstechnica.com/tech-policy/2026/10/schools-libraries-plead-with-fcc-to-scrap-idea-of-killing-2b-broadband-program/",
+          "summary": "FCC chair threatens E-Rate fund, blames schools for kids' excessive screen time.",
+          "isoDate": "2026-10-14T20:15:56.000Z"
         },
         {
-          "title": "Square’s new kiosk lets you talk to AI for help with your order",
-          "link": "https://www.theverge.com/tech/1009086/square-kiosk",
-          "summary": "Square is launching new hardware: a big kiosk for ordering things that has a touchscreen and lets you talk to an AI. It's called the Square Kiosk.\nSquare says the Kiosk, which has a large pill shape, has an \"agentic, conversational voice layer\" that \"fully understands a seller's menu and listens and responds in real time, enabling customers to order the way they'd naturally talk to staff.\" While talking with the AI agent, you can do things like ask questions and request modifications and substitutions.\nThe touchscreen on the Kiosk is 21.5 inches, and the device can welcome you as you approach thanks to presence detection, Square says. When …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-14T16:00:00.000Z"
+          "title": "Microsoft and Japan took down a cybercrime network behind over a billion scam messages",
+          "link": "https://www.theverge.com/tech/1011487/microsoft-scam-messages-marketplace-takedown",
+          "summary": "We've all gotten a scam text about a nonexistent parking ticket or a fake package delivery, but hopefully you'll start seeing fewer of them. Microsoft says it helped dismantle a marketplace for scammers sending phishing messages like those around the world. Through an investigation with Japan's National Police Agency, it tracked scam activity back to a marketplace called YAM Store and a pair of phishing kits, CoGUI and Iron Man:\nSince January 2026, YAM Store, CoGUI and Iron Man have collectively enabled more than one billion malicious messages targeting over 75,000 organizations worldwide, including more than 750 million messages geared to …\n\nRead the full story at The Verge.",
+          "isoDate": "2026-10-14T20:03:43.000Z"
         },
         {
-          "title": "Android is using AI to suss out scammers in Google Messages",
-          "link": "https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages",
-          "summary": "Begone, Bot. | Image: Google / Android\t\n\nAndroid is introducing new scam defense features that aim to make it easier for users to evade mobile fraud, including bolstered protection in Google Messages and additional safeguarding tools. Building on the Scam Detection feature in Google Messages, a new \"enhanced protection\" setting will be rolling out in the coming weeks that taps into cloud-based Gemini AI models to quickly evaluate a potential scammer's intentions in conversations with an unrecognized sender.\n\"Scammers often disguise their true motives behind slow-burn conversations,\" Google said in its update announcement. \"This secure cloud analysis augments and extends our existi …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-14T16:00:00.000Z"
+          "title": "Georgia man sues Flock, sheriff's office over alleged ALPR-fueled retaliation",
+          "link": "https://arstechnica.com/tech-policy/2026/10/georgia-man-sues-flock-sheriffs-office-over-alleged-alpr-fueled-retaliation/",
+          "summary": "Plaintiff claims cameras enabled warrantless tracking and monitoring after he previously sued over excessive force.",
+          "isoDate": "2026-10-14T19:53:01.000Z"
         },
         {
-          "title": "Anthropic’s self-replicating AI warning is alarming deja vu",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1011108/anthropic-self-replicating-ai-smart-devices-risk",
-          "summary": "Are legions of smart devices - fridges, ovens, vacuum cleaners, lawnmowers, security cameras, and TVs - conspiring to take over the internet? No. But they could soon be unwitting hosts to self-replicating AI models that spread from device to device and prove remarkably difficult to contain.\nWelcome to the unsettling world of AI worms, where, depending on who you ask, the prospect of models spreading uncontrollably across household appliances is either an imminent cybersecurity risk or another case of AI companies spreading doomer-tinged hype. In a blog post published this week, Anthropic warns that small AI models could be \"months away\" fro …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-14T15:19:02.000Z"
+          "title": "Software development and rules stability: Prototype racing in 2030",
+          "link": "https://arstechnica.com/cars/2026/10/software-development-and-rules-stability-prototype-racing-in-2030/",
+          "summary": "With the end of IMSA’s 2026 season, we have thoughts about the future of the sport.",
+          "isoDate": "2026-10-14T19:44:26.000Z"
         },
         {
-          "title": "Netflix is laying off around 1,000 employees",
-          "link": "https://www.theverge.com/tech/1011058/netflix-layoff-six-percent-thousand-employees",
-          "summary": "Following a report last week that Netflix was planning to lay off five percent of the company, today the streamer's co-CEOs Ted Sarandos and Greg Peters announced in an email that it would actually be laying off six percent of its workforce, or around 1,000 employees, according to Variety, which obtained a copy of the memo. That makes this Netflix's largest round of layoffs so far, following the company cutting 150 jobs in May 2022, and an additional 300 in June 2022 in an attempt to reduce costs following slower revenue growth.\nToday's layoffs will mostly affect staff in Netflix's product, technology, human resources, and legal teams, acco …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-14T15:12:58.000Z"
+          "title": "Greta Gerwig channels Bowie in psychedelic The Magician's Nephew trailer",
+          "link": "https://arstechnica.com/culture/2026/10/greta-gerwig-channels-bowie-in-psychedelic-the-magicians-nephew-trailer/",
+          "summary": "\"Have you ever seen a world born?\"",
+          "isoDate": "2026-10-14T19:10:58.000Z"
         },
         {
-          "title": "HomeView doesn’t natively support any video apps yet — not even Apple’s",
-          "link": "https://www.theverge.com/tech/1011062/apple-homeview-airplay-apps-streaming",
-          "summary": "Apple’s HomeView marketing calls out audiobooks, TV shows, and says you can “keep an eye on the match while you do the washing up,” but shys away about these features needing an iPhone connection. | Image: Apple\t\n\nApple says HomeView is \"the perfect way\" to enjoy its audio and video entertainment apps, but some notable examples like Apple TV only work if you AirPlay it through your iPhone. As noted on the HomeView spec page, Apple TV, Apple Books audiobooks, Apple Music Classical, and Apple News Plus aren't natively supported on the smart hub, so you'll have to use your phone to operate them.\nHomeView is foremostly designed as a hub for managing smart home gadgets, but competing smart display hardware like Amazon's Echo Show and Google's Nest Hub devices can natively stream Prime Video and YouTube, respectively, without requiring a phone connection.  …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-14T15:10:12.000Z"
+          "title": "The AI race is back on",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
+          "summary": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind, while Meta, despite spending billions to revive its floundering AI ambitions, had yet to establish itself as a serious contender. Even the latest models coming out of China, impressive as they were, appeared to be playing catch-up.\nThen, in the space of a few days, everything changed. Google and Meta both unveiled frontier models they claim can go toe to toe with the best from OpenAI and Anthropic. Suddenly, the race is back on - and it's anyo …\nRead the full story at The Verge.",
+          "isoDate": "2026-10-14T19:06:03.000Z"
         },
         {
-          "title": "Ukraine claims Starlink is suddenly disrupting service for its military",
-          "link": "https://www.theverge.com/science/1011110/ukraine-starlink-restrictions-drone-mission-disruptions",
-          "summary": "The aftermath of a Russian missile strike on October 12th, 2026 in Kyiv, Ukraine. | Photo by Andrew Kravchenko/Global Images Ukraine via Getty Images\t\n\nUkrainian officials claim the Elon Musk-owned Starlink put new limits on its service in the area without warning, disrupting the country's drone operations and missions, according to reports from Reuters and the Financial Times. The move comes just days after Musk wrote on X that Ukrainian President Volodymyr Zelenskyy \"has gone too far,\" in response to President Donald Trump's disapproval of Ukraine targeting Russian oil refineries.\n\"It is clear that this action is not coincidental and is related to the current political situation,\" Ukrainian defense tech advisor Serhii Beskrestnov writes on Telegram.\nEarlier this week, Russia launched a  …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-14T15:06:12.000Z"
+          "title": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
+          "link": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+          "summary": "New York Attorney General Letitia James revealed a years-long multi-state investigation against Character.AI as they now seek to require protections on consumer data sold through its bankruptcy proceeding.\nJames is among 40 bipartisan AGs who filed a notice of interest in Character.AI's bankruptcy case \"to put all parties on notice of the regulatory issues that will need to be addressed in any sale or transfer of the Debtor's business or assets.\" Character.AI announced Tuesday it was filing for Chapter 11 and selling some assets to Disney. But the AGs warn there could be serious risk involved in the transfer of the technology due to the \"hi …\nRead the full story at The Verge.",
+          "isoDate": "2026-10-14T18:47:54.000Z"
         },
         {
-          "title": "$15 gets you Psychonauts 2, the latest Like a Dragon game, and more",
-          "link": "https://www.theverge.com/gadgets/1011050/humble-choice-valve-index-borderlands-odyssey-deal-sale",
-          "summary": "There are several deals happening right now on video games and gaming-related tech that are worth sharing. To start, this month’s Humble Choice drop of Steam PC games is really good. The $14.99 per month service is offering subscribers Like A Dragon: Pirate Yakuza in Hawaii, Price of Persia: The Lost Crown, Psychonauts 2, Deep Rock Galactic: Survivor, and more. You get to keep the games forever, even if you pay just for this month. I’ve tossed around getting each of these games on Steam in the past, and it’s great to get them all here for such a low price.\nI’m not going to convince you to hang onto the membership any longer than you plan to, though while you have it, make sure to use it to save on digital games you were considering buying. Nintendo Switch 2 games, for example, are discounted, making Humble the place to get the cheapest prices. The Legend of Zelda: Ocarina of Time is $53.99 for members, and most other full-price games are about $6 off the retail price.\nOther great Verge-approved deals\nValve told The Verge in late 2025 that it was no longer manufacturing the Valve Index wired virtual reality headset. The company is now running through the last of its stock and is marking down what’s left by 20 percent. The headset itself is $399.20, down from $499, replacement left controllers are $119.20 (was $149), and replacement tether cables are $103.20, down from $129. The headset requires a base station (also known as a lighthouse) in order to track, and those are unfortunately no longer available via Valve. You’ll have to hit up eBay or Craigslist to get one. Read our review of the 2019 headset.\nFirst-person looter shooter Borderlands 4 is all the way down to $19.91 for disc editions of the Xbox Series X and PlayStation 5 title at Amazon. The price for the 2025 game is usually sitting at around $30, though this is the most affordable price to date. The latest game in the series is good at what Borderlands has always been good for: co-op multiplayer goodness. It’s still really fun to jump in with a friend to blaze through its campaign, even if the gameplay is fairly shallow. Read our review.\nLastly, whether you already saw Christopher Nolan’s The Odyssey in theaters or you’ve been waiting for watch it at home, the 4K Blu-ray version is available to preorder with a small discount. Originally priced at $34.99, the set that includes a 4K Blu-ray, a standard 1080p Blu-ray, plus a digital code for the film is $29.99 at Best Buy and $29.65 at Barnes and Noble (members can save 10 percent more). If it’s your first-ever purchase on Gruv, you can get the set for $25.46 when you use the code FIRSTGRUV15 at checkout. The film launches November 17th. Read our review of seeing it in IMAX.",
-          "isoDate": "2026-10-14T14:45:45.000Z"
+          "title": "As a TV enthusiast, I was hoping for more from the Apple TV 4K",
+          "link": "https://www.theverge.com/tech/1011324/apple-tv-4k-missed-features",
+          "summary": "The new Apple TV 4K and remote look just like the old ones and mostly have the same features.\t\n\nIt's been four long years since the last Apple TV 4K was released, and in that time there have been lots of hopes and dreams for features in whatever comes next. A new chip, 4K/120Hz support, audio passthrough, a remote locator, better home control integration - the 2022 Apple TV 4K is a great box, but there's still plenty of room for improvement. With the fourth-gen Apple TV 4K announced on Tuesday, some of those hopes were met, while others were unfortunately left out.\nColoring the announcement is the device's price. Apple eliminated the cheaper 64GB, Wi-Fi-only model, leaving just the 128GB, Wi-Fi and Ethernet model - and bumped up its p …\nRead the full story at The Verge.",
+          "isoDate": "2026-10-14T18:38:59.000Z"
         }
       ]
     },
@@ -71,6 +71,24 @@
       "header": "120  CIENCIA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "NASA to Host News Conference Previewing US Spacewalks 100, 101",
+          "link": "https://www.nasa.gov/news-release/nasa-to-host-news-conference-previewing-us-spacewalks-100-101/",
+          "summary": "NASA will preview two upcoming spacewalks to complete solar array installation and power augmentation of the International Space Station during a news conference at 2 p.m. EDT, Tuesday, Oct. 20, from NASA’s Johnson Space Center in Houston. NASA will stream the event through a variety of platforms. Learn where to watch online: https://www.nasa.gov/live NASA participants […]",
+          "isoDate": "2026-10-14T20:13:29.000Z"
+        },
+        {
+          "title": "NASA Astronauts to Answer Questions from Florida Students",
+          "link": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students/",
+          "summary": "Students in Florida will hear from NASA astronauts Jessica Watkins and Luke Delaney as they answer prerecorded STEM questions while aboard the International Space Station. The Earth-to-space call will begin at 12 p.m. EDT Friday, Oct. 16, and will stream live on the agency’s Learn With NASA YouTube channel. This event is hosted by Sally Ride Elementary School […]",
+          "isoDate": "2026-10-14T19:12:51.000Z"
+        },
+        {
+          "title": "NASA’s Chandra Breaks Down ‘Treble Clef’s’ Galaxy Cluster Collision",
+          "link": "https://science.nasa.gov/missions/chandra/nasas-chandra-breaks-down-treble-clefs-galaxy-cluster-collision/",
+          "summary": "Astronomers have used NASA’s Chandra X-ray Observatory to break down the cause of a remarkable formation of radio waves they have nicknamed the “Treble Clef” because its distinct shape strongly resembles the musical symbol. The researchers discovered the Treble Clef is likely caused by an outburst from a supermassive black hole, followed by a collision […]",
+          "isoDate": "2026-10-14T16:46:58.000Z"
+        },
         {
           "title": "NASA’s Space X CRS-35 Launch Jellyfish",
           "link": "https://www.nasa.gov/image-article/nasas-space-x-crs-35-launch-jellyfish/",
@@ -112,24 +130,6 @@
           "link": "https://www.nature.com/articles/d41586-026-03301-x",
           "summary": "Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03301-x\nHigh-speed camera footage reveals the visual tricks butterflies use to evade predators.",
           "isoDate": "2026-10-14T00:00:00.000Z"
-        },
-        {
-          "title": "Biomedical engineering is growing rapidly, but will it help patients?",
-          "link": "https://www.nature.com/articles/d41586-026-03202-z",
-          "summary": "Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03202-z\nAssimilating the latest technology into health systems is a key challenge facing the field.",
-          "isoDate": "2026-10-14T00:00:00.000Z"
-        },
-        {
-          "title": "<b>The world is closer to a major conservation target than scientists thought</b>",
-          "link": "https://www.nature.com/articles/d41586-026-03307-5",
-          "summary": "Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03307-5\nAnalysis suggests number of protected areas is hugely underestimated but biodiversity is still in peril — plus, a huge study looking at the health effects of brown fat.",
-          "isoDate": "2026-10-14T00:00:00.000Z"
-        },
-        {
-          "title": "Becoming real",
-          "link": "https://www.nature.com/articles/d41586-026-03114-y",
-          "summary": "Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03114-y\nAn endless blessing.",
-          "isoDate": "2026-10-14T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 74\nColumn: 41\nChar: &",
-          "isoDate": "2026-10-14T16:37:12.320Z"
+          "isoDate": "2026-10-14T21:18:27.460Z"
         },
         {
           "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
@@ -210,6 +210,18 @@
           "isoDate": "2026-10-14T15:00:00.000Z"
         },
         {
+          "title": "Amp puts AI agents to work beyond code with OpenAI models",
+          "link": "https://openai.com/index/amp-beyond-coding",
+          "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+          "isoDate": "2026-10-14T12:00:00.000Z"
+        },
+        {
+          "title": "SentinelOne cuts malware analysis from weeks to hours",
+          "link": "https://openai.com/index/sentinelone",
+          "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+          "isoDate": "2026-10-14T12:00:00.000Z"
+        },
+        {
           "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
           "link": "https://openai.com/index/third-moment-research",
           "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
@@ -250,18 +262,6 @@
           "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
           "summary": "",
           "isoDate": "2026-10-13T16:01:58.000Z"
-        },
-        {
-          "title": "Gemini 4 Argon: Built to solve your hardest problems",
-          "link": "https://deepmind.google/blog/introducing-gemini-4-argon/",
-          "summary": "",
-          "isoDate": "2026-10-13T16:01:52.000Z"
-        },
-        {
-          "title": "Higgsfield takes AI video from 1 minute to over 10",
-          "link": "https://openai.com/index/higgsfield-longer-videos-voice",
-          "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
-          "isoDate": "2026-10-13T12:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-10-14T16:37:16.034Z"
+          "isoDate": "2026-10-14T21:18:29.749Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 59\nColumn: 58\nChar: =",
-          "isoDate": "2026-10-14T16:37:13.275Z"
+          "isoDate": "2026-10-14T21:18:28.733Z"
+        },
+        {
+          "title": "IEEE Continues Preparations for the Realignment of Its Regions",
+          "link": "https://spectrum.ieee.org/realignment-ieee-regions",
+          "summary": "Progress continues in restructuring IEEE’s geographic regions, as outlined in The Institute’s February 2023 article “IEEE Is Realigning Its Geographic Regions.” \n\nThe “Region 1” designation will no longer be used.\nThe new Region 2 will merge what is currently Region 1 (Northeastern U.S.) with the current Region 2 (Eastern U.S.). It will be called Region 2 (Northeastern and Eastern U.S.).\nThe current Region 10 (Asia Pacific) will be divided into two separate regions. The new Region 10 will encompass North Asia, and the new Region 11 will cover South Asia and the Pacific.\n\nThe restructuring is defined in the image of the redrawn map in this article. \nWhat’s underway\nAlthough the new regional alignment will not officially take place until 1 January 2028, several activities have begun within IEEE Member and Geographic Activities (MGA) and across other IEEE organizational units. Within MGA, volunteers and staff have been actively addressing system enhancements, director/director-elect elections, governance updates, communications, and regional finances and offerings.\nNo changes to membership \nWork will continue from now until the effective date of realignment in 2028. The change will not affect your IEEE membership, nor will it change either your local IEEE section or chapter.\nIf you have any questions regarding the realignment, contact Reg-Realignment@ieee.org.",
+          "isoDate": "2026-10-14T18:00:03.000Z"
         },
         {
           "title": "Meet the Anthropic Engineer Keeping Its AI Agent Trustworthy",
@@ -310,12 +316,6 @@
           "link": "https://spectrum.ieee.org/integrating-engineering-ethics-education",
           "summary": "In mid-September, Anthropic CEO Dario Amodei joined a growing group of researchers calling for the AI industry to slow down. While some have questioned these researchers’ motivation for voicing concerns about the rapid pace of development, the plea highlighted a key tension between safety and speed. The underlying problem is not simply a technical error, but a sociotechnical failure: Pressure to move quickly has made it hard for engineers to fully assess and manage new risks of increasingly powerful AI systems. It is a clear warning that responsible engineering requires more than technical expertise; engineers must also understand workplace pressures, moral and ethical rules, and the social consequences rooted in the systems they create.\nCases like this, alongside invasive surveillance technologies and biased AI tools, have exposed serious shortcomings in how engineers recognize and address the ethical and social implications of their work. While the need to educate graduates in ethics and social responsibility is widely recognized, a persistent gap remains—these topics are too often treated as afterthoughts, disconnected from the technical content of engineering coursework. This siloed approach leaves graduates ill-equipped to address real-world challenges; indeed, only about a third of engineering professionals in the United States report having received training on their public welfare responsibilities during their formal engineering education.\nWe are working to bridge this gap by designing two complementary instructional approaches, one that integrates social issues directly into foundation technical coursework and a second that prepares students to act as “public welfare watchdogs” through a standalone engineering course. By embedding ethics and social responsibility training directly into the core of undergraduate engineering coursework, we equip future professionals with the agency they will need to protect the public good.\nThe gap in instruction about ethics and social responsibility\nAcross the engineering profession, there is a persistent belief that technical skill-building is central to engineering, while ethical, social, and public welfare concerns are peripheral or distracting. This technical/social dualism is evident even in the evaluation of scholarly research. For instance, we recently submitted an academic position paper discussing this ethics education gap to a leading peer-reviewed engineering journal. It was dismissed by reviewers along the very same dualism it described. \nOne reviewer warned that it would be “highly irresponsible” to challenge technical skill-building as “the foundation of any kind of engineering” by adding ethics and social responsibility training into engineering classrooms. Another reviewer objected that integrating these considerations into foundational courses risks “distracting the students from fully absorbing the technology.” These comments miss the core argument of our work: that ethics and social responsibility are integral to responsible technical practice.\nToday, accreditation agencies like ABET (formerly known as the Accreditation Board for Engineering and Technology) and professional licensing bodies like the National Society of Professional Engineers mandate student outcomes related to social and public welfare consequences. But these curriculum requirements tend to be unhelpfully generic and minimally enforced. As a result, engineering students often receive ethics instruction through introductory or non-engineering coursework, where the focus is on codes of conduct and academic integrity, rather than deeper topics of social responsibility. This instruction is almost always disconnected from the complex real-world dilemmas engineers face. \nIndeed, we find that only ethics instruction in actual engineering courses (not in other parts of the curriculum) can effectively instill ethical awareness as professionals. Concerningly, only about 4 in 10 engineers in the United States recall receiving this kind of training, and 3 in 10 report never receiving training on their public welfare responsibilities at any point in their careers. This leaves most of the profession underprepared to handle the complex challenges of engineering practice.\nA new approach: Integrating technical and social dimensions\nTo advance a new paradigm—one that embeds ethics and social responsibility issues within the undergraduate engineering curriculum—we’ve designed two innovative course-based approaches: a library of one-hour sociotechnical modules for foundational circuits courses (described here and here) and a new engineering course dedicated to public welfare responsibilities.\nThe first approach integrates discussions about relevant social issues directly into foundational engineering courses, where students begin to form their identities as engineers. “Introduction to Circuits” is typically the first course in the electrical engineering major and is a requirement for many other engineering disciplines, making it a powerful site for introducing social content and ethical reasoning. We designed several one-hour modules for this course, where social issues provide context for a technical topic, offering a manageable entry point for faculty who may feel ill-prepared to teach about ethics and social responsibility.\nWhile many engineering faculty recognize the importance of teaching students about these topics, they struggle to integrate them into their courses amid heavy teaching and research demands. To overcome these challenges, each module provides ready-to-use materials, including lecture slides with scripts and homework and exam problems. Integrating these modules directly into the course signals to students that sociotechnical awareness is not an “add-on,” but a required professional competency.\nOur module on hospital power prioritization, for instance, connects the technical topics of power and equivalent circuits to the ethical challenges of healthcare infrastructure. Students learn about the reality of “red outlets” in medical settings, debating the power needs of specific wards (e.g., the intensive care unit, operating rooms, and physiotherapy rooms) to decide which branches should receive emergency power during a hypothetical outage.\nOur conflict minerals module connects the technical topic of capacitors to the global tantalum supply chain. Students calculate the amount of tantalum used in cell phones and identify mining locations in regions like the Democratic Republic of the Congo, where revenue often fuels armed conflict and human rights abuses. Students research the conflict-mineral policies of major companies such as Apple and Samsung and reflect on their future roles as ethical designers and consumers.\nStudent responses to these modules have been overwhelmingly positive. In interviews, students told us that the content helped them get away from the “stigma that engineers only worry about math” and made the work more meaningful. We plan to share the modules widely to help circuits instructors across the globe bridge the technical-social divide.\nBeyond these integrated modules, our second approach is a standalone engineering course—Public Welfare Responsibilities in Engineering (PWRE)—that helps round out students’ sociotechnical education by preparing them to fulfill their professional obligations as engineers. While most dedicated ethics courses end by introducing engineers’ abstract responsibilities, PWRE helps students recognize specific public welfare concerns, enhances their motivation to act when they encounter them, and teaches concrete, practical intervention strategies.\nIn addition to teaching students about professional codes, such as the IEEE Code of Ethics, PWRE engages students in discussion of where these formal definitions may fall short, and how structural barriers such as workplace culture can hinder engineers from fulfilling these responsibilities. Then, the course equips students with intervention strategies. Students learn about their rights and responsibilities as whistleblowers, review tactics for seeking advice from professional societies, and practice writing op-eds to raise the alarm about ethical issues to the broader public. Our research shows that the course produces notable shifts in students’ ethical agency, strengthening their ability to serve as “public welfare watchdogs” in the modern workplace.\nEthical engineers for the future\nToday’s engineering graduates face complex sociotechnical challenges beyond AI expansion, including climate change and global supply chains; they need tools to navigate ambiguity and act ethically in uncertain contexts. To meet these evolving demands, engineering education must move beyond outdated modes of instruction that focus only on building technical skills—some of which may soon be outsourced to AI. We must fundamentally reimagine the role of ethics and social responsibility, embedding them across the engineering curriculum and throughout the professional formation of engineers.\nAll engineers learn to solve problems, but ethical engineers can also discern which problems are worth solving and anticipate the consequences of innovation for society. By centering ethics and social responsibility as core priorities of the profession, we can prepare engineers to be stewards of technology and trusted voices in public discourse.\nAs one student reflected after participating in our modules, “We are a part of the issue if we don’t decide to fix it.”",
           "isoDate": "2026-10-09T12:00:02.000Z"
-        },
-        {
-          "title": "IEEE Report Predicts Tech That Will Transform Lives",
-          "link": "https://spectrum.ieee.org/ieee-report-predicts-tech",
-          "summary": "By 2028, genetic engineering and gene therapy will be used frequently to treat a variety of diseases, thanks to advances in artificial intelligence, according to the recently released 2030 Technology Megatrends Report from IEEE.\n“We are seeing a fundamental shift in how technology evolves,” says IEEE Fellow Dejan Milojicic, chair of the IEEE Future Directions Committee’s Industry Advisory Board, the group responsible for the report. “Artificial intelligence is no longer operating in a vacuum; it is now deeply connected to our energy, infrastructure, and physical systems.” Milojicic, a Hewlett Packard Enterprise Fellow, is a vice president at HPE Labs in Milpitas, Calif.\nAI underpins many of the report’s 30 technologies and five “megatrends,” which are technology shifts with the potential to reshape industries and everyday life for decades. A megatrend isn’t a single breakthrough but a collection of related technologies.\nFor the 2030 report, 166 experts—from 38 countries across six continents—drawn from industry, academia, and government identified 30 breakthrough technologies across the five megatrends: AI, energy, health, space, and physical AI. The experts graded the trends against five criteria: likelihood of success, impact to humanity, maturity, market adoption, and horizon to adoption.\nAI as a common thread\nInterconnected systems drive the megatrends, and the connection among them is AI.\nThe report notes that AI technology is advancing faster than any previous revolution, including industrial, electrical, and digital. The pace has turned the technology into general-purpose infrastructure, Milojicic says.\nThat evolution carries risks, though, the experts say. The report cites the lack of computing infrastructure and energy sources as constraints on the ability to scale up AI, and it says the technology’s growth will require reshaping the workforce.\nWorkers have always needed to adapt to stay competitive, Milojicic says, adding that AI adoption isn’t an all-or-nothing approach. Businesses should decide when and how to apply it, he says.\nThe experts say long-term success will require both technical capabilities and attention to the human-AI relationship. Conditions including trust, security, explainability, and policymaking will determine which AI-supported technologies are most likely to scale, they say.\n“This report shifts the conversation to something far more important: how these advances will intersect with one another to shape human lives,” Mary Ellen Randall, 2026 IEEE president and CEO, said in a news release about the report. “The data makes clear that trust, safety, and human connection must guide every major breakthrough in the decade ahead.”\nHealth care is a high-impact bet\nThe experts scored personalized medicine as the study’s highest-impact technology, at 4.93 out of 5, for its potential to improve human life.\nThe report credits AI-driven breakthroughs in personalized diagnostics and therapeutic treatments, driven by innovative biotech startups. Within two years, the experts predict, genetic engineering and gene therapy will be used in therapeutic areas.\nWithin five years, earlier disease diagnoses will move out of the lab and into day-to-day medical practice, the report predicts. Meanwhile, it says, researchers likely will be able to manufacture simple synthetic proteins—molecules engineered from scratch, rather than found in nature—to perform a specific job in the body, such as targeting a tumor or supplying a missing enzyme.\nEnergy wakes up for AI\nIncreased power demand by AI is outpacing the energy sector’s ability to keep up. Tech infrastructure—data centers, networks, and computing hardware—already uses an estimated 10 percent of electricity globally, according to the news release.\nThe experts predict that within two to three years, energy storage will double in developed countries.\nThe energy industry has been relatively dormant for years, Milojicic says, with little breakthrough innovation since the times of Thomas Edison and Nikola Tesla.\n“Data centers can ramp up within milliseconds, yet it takes months for the power and energy sector to ramp up,” he says. “The governments of various countries will have to rethink their approach to power generation to stay ahead of demand.”\nThe experts cite the Jevons paradox—the idea that efficiency gains tend to increase overall consumption. As AI chip efficiency improves, organizations will run more hardware to build ever-larger frontier models—those advanced AI systems currently in development—the experts say. Data centers will draw as much power as grids can supply, leaving no surplus, the experts predict.\nPhysical AI moves the fastest\nPhysical AI refers to systems embedded within machines that sense and act in the world, including robots and autonomous vehicles. In the report, the category originally was called “hyper-automation and robotics,” a broad, software-driven process automation paired with physical machines. The Industry Advisory Board later folded it into the single physical AI megatrend.\nThe experts found that human-AI interaction has the shortest adoption horizon of any of the 30 scored technologies, at two to three years. They also say physical AI has the biggest chance of technical advancement of any megatrend during the next four years.\n“The data makes clear that trust, safety, and human connection must guide every major breakthrough in the decade ahead.” —Mary Ellen Randall, 2026 IEEE president and CEO\nSmarter, more efficient robots will substantially cut energy consumption in the next two years, the experts say.\nCommunications between humans and AI—whether in an android or another device—will shift from text-based commands to predominantly audio and video instructions within two to three years, the experts predict.\nAndroids used in factories will use tactile and haptic feedback within two to five years, letting them sense what they’re touching and adjust their grip or force in response, the experts say. Bio-inspired skin, tissues, and sensors will advance in the same timeframe, the experts predict, giving robots perception that better mirrors human touch.\nSpace is just getting started\nSpace technology, as the report defines it, covers more than exploration. It spans satellite communications, in-space manufacturing, launch technology, and other infrastructure. It is one of the lower-profile megatrends in the report, not for lack of promise but because of where the sector presently sits.\n“It’s not lagging,” Milojicic says. “It’s the current state of maturity. People are talking about satellite communication right now because it’s very cool and practical. But it’s a small segment compared to the attention AI gets.”\nHe says he believes the space sector will be more prominent in the coming years: “This is an area of technology that will become increasingly important, especially as terrestrial communication and transportation push the boundaries for space as well.”\nThe report highlights two technologies on the near horizon: semiconductor manufacturing that uses parts built in space and more affordable reusable rockets. It also sees clean energy generation in space and the commercialization of orbital garbage collection as potential technologies to watch for in the next decade.\nWhat’s next?\nThe report recommends that academia, industry, governments, and professional associations work together.\nTo build a well-trained workforce, the report says, industry should partner with professional organizations on training programs and revive apprenticeships in chemistry, physics, and other physical sciences. It also calls on businesses to treat AI infrastructure—computing, data, and energy—as a long-term strategic asset.\nOther recommendations include expanding access to affordable, quality education in STEM coursework and AI competence.\nGovernments should lead on policy and implement reintegration programs for workers displaced by AI, the report says.\nThe experts say professional organizations including IEEE should develop new products and services using AI, strengthen safety and data governance standards, and serve as a collaboration platform for industry, academia, and policymakers.\nThe report also offers recommendations for end users, content creators, investors, and company leadership on strategies for succeeding in an AI-focused future.\nThe same thread runs through all the report’s recommendations: Don’t lose sight of the human-AI relationship.\n“As a public charity dedicated to advancing technology for the benefit of humanity, IEEE believes progress must be measured by more than technology development and implementation speed,” Sophia A. Muirhead, IEEE executive director and chief operating officer, said in the news release. “Whether retraining the global workforce or integrating AI responsibly into daily life, the success of these megatrends depends on ensuring innovation strengthens human well-being and public trust.”",
-          "isoDate": "2026-10-07T18:00:02.000Z"
         }
       ]
     },
