@@ -1,10 +1,34 @@
 {
-  "generatedAt": "2026-10-15T03:23:08.354Z",
+  "generatedAt": "2026-10-15T10:54:54.957Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Big Walk skipped Xbox to boycott Microsoft’s involvement with Israel",
+          "link": "https://www.theverge.com/games/1011785/big-walk-house-house-microsoft-xbox-bds-boycott",
+          "summary": "Big Walk's co-op multiplayer walking adventure has proved popular since launching in August, but Xbox players have been excluded from the fun - and now the game's creators have explained why. Developer House House said in a blog post that it decided not to release Big Walk on Xbox consoles in accordance with the Palestinian-led BDS (Boycott, Divestment, Sanctions) movement, which has called to boycott Microsoft, including products under the company's gaming division.\nMicrosoft was named a priority BDS target in June last year over contracts it has with the Israeli military and government, with the boycott specifically calling out Xbox conso …\nRead the full story at The Verge.",
+          "isoDate": "2026-10-15T10:05:07.000Z"
+        },
+        {
+          "title": "How much more can nuclear power plants give?",
+          "link": "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/",
+          "summary": "In this age of rising electricity demand, people are trying to squeeze every last bit of power out of every power plant possible. Over the past few weeks, there’s been big news about nuclear power plants trying to do just that. Constellation, the largest nuclear operator in the US, announced plans to add nearly a…",
+          "isoDate": "2026-10-15T10:00:00.000Z"
+        },
+        {
+          "title": "Six wild ideas for perpetuating your mind",
+          "link": "https://www.technologyreview.com/2026/10/15/1145819/six-wild-ideas-perpetuating-your-mind-cognitive-immortality/",
+          "summary": "Have you ever thought about what makes you you? Science assures us it has everything to do with the three-pound organ between our ears, with its billions of neurons and trillions of delicate connections. But it’s a lot trickier to explain why we have a sense of self-awareness or to pin down precisely where that…",
+          "isoDate": "2026-10-15T09:00:00.000Z"
+        },
+        {
+          "title": "Pig kidneys that were “frozen” for a year have been brought back to life",
+          "link": "https://www.technologyreview.com/2026/10/15/1146091/pig-kidneys-that-were-frozen-for-a-year-have-been-brought-back-to-life/",
+          "summary": "Pig kidneys that were cooled to -150 °C and stored in a freezer for months have been successfully rewarmed and shown to work again for the first time, say scientists. They hope to replicate the findings with human organs. The kidneys—which are similar in size to human ones—were left in a glass-like state, in one…",
+          "isoDate": "2026-10-15T08:43:24.000Z"
+        },
         {
           "title": "McKinsey is making job applicants spar with a fake AI client",
           "link": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
@@ -40,30 +64,6 @@
           "link": "https://arstechnica.com/gadgets/2026/10/nato-may-redeploy-anti-drone-defenses-as-attacks-sink-more-black-sea-shipping/",
           "summary": "Suspected Russian drones have sunk or damaged 5 ships near Bulgaria and Romania.",
           "isoDate": "2026-10-14T21:03:11.000Z"
-        },
-        {
-          "title": "Things are finally looking up for NASA's first missions to Venus in a generation",
-          "link": "https://arstechnica.com/space/2026/10/nasas-embattled-venus-missions-are-back-on-track-after-cancellation-threat/",
-          "summary": "\"This is great news for us. We're staffing up. We're accelerating.\"",
-          "isoDate": "2026-10-14T20:48:07.000Z"
-        },
-        {
-          "title": "Schools across US protest FCC plan that could disconnect kids from Internet",
-          "link": "https://arstechnica.com/tech-policy/2026/10/schools-libraries-plead-with-fcc-to-scrap-idea-of-killing-2b-broadband-program/",
-          "summary": "FCC chair threatens E-Rate fund, blames schools for kids' excessive screen time.",
-          "isoDate": "2026-10-14T20:15:56.000Z"
-        },
-        {
-          "title": "Microsoft and Japan took down a cybercrime network behind over a billion scam messages",
-          "link": "https://www.theverge.com/tech/1011487/microsoft-scam-messages-marketplace-takedown",
-          "summary": "We've all gotten a scam text about a nonexistent parking ticket or a fake package delivery, but hopefully you'll start seeing fewer of them. Microsoft says it helped dismantle a marketplace for scammers sending phishing messages like those around the world. Through an investigation with Japan's National Police Agency, it tracked scam activity back to a marketplace called YAM Store and a pair of phishing kits, CoGUI and Iron Man:\nSince January 2026, YAM Store, CoGUI and Iron Man have collectively enabled more than one billion malicious messages targeting over 75,000 organizations worldwide, including more than 750 million messages geared to …\n\nRead the full story at The Verge.",
-          "isoDate": "2026-10-14T20:03:43.000Z"
-        },
-        {
-          "title": "Georgia man sues Flock, sheriff's office over alleged ALPR-fueled retaliation",
-          "link": "https://arstechnica.com/tech-policy/2026/10/georgia-man-sues-flock-sheriffs-office-over-alleged-alpr-fueled-retaliation/",
-          "summary": "Plaintiff claims cameras enabled warrantless tracking and monitoring after he previously sued over excessive force.",
-          "isoDate": "2026-10-14T19:53:01.000Z"
         }
       ]
     },
@@ -72,52 +72,16 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "NASA to Host News Conference Previewing US Spacewalks 100, 101",
-          "link": "https://www.nasa.gov/news-release/nasa-to-host-news-conference-previewing-us-spacewalks-100-101/",
-          "summary": "NASA will preview two upcoming spacewalks to complete solar array installation and power augmentation of the International Space Station during a news conference at 2 p.m. EDT, Tuesday, Oct. 20, from NASA’s Johnson Space Center in Houston. NASA will stream the event through a variety of platforms. Learn where to watch online: https://www.nasa.gov/live NASA participants […]",
-          "isoDate": "2026-10-14T20:13:29.000Z"
+          "title": "ERROR cargando feed",
+          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
+          "isoDate": "2026-10-15T10:54:47.567Z"
         },
         {
-          "title": "NASA Astronauts to Answer Questions from Florida Students",
-          "link": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students/",
-          "summary": "Students in Florida will hear from NASA astronauts Jessica Watkins and Luke Delaney as they answer prerecorded STEM questions while aboard the International Space Station. The Earth-to-space call will begin at 12 p.m. EDT Friday, Oct. 16, and will stream live on the agency’s Learn With NASA YouTube channel. This event is hosted by Sally Ride Elementary School […]",
-          "isoDate": "2026-10-14T19:12:51.000Z"
-        },
-        {
-          "title": "NASA’s Chandra Breaks Down ‘Treble Clef’s’ Galaxy Cluster Collision",
-          "link": "https://science.nasa.gov/missions/chandra/nasas-chandra-breaks-down-treble-clefs-galaxy-cluster-collision/",
-          "summary": "Astronomers have used NASA’s Chandra X-ray Observatory to break down the cause of a remarkable formation of radio waves they have nicknamed the “Treble Clef” because its distinct shape strongly resembles the musical symbol. The researchers discovered the Treble Clef is likely caused by an outburst from a supermassive black hole, followed by a collision […]",
-          "isoDate": "2026-10-14T16:46:58.000Z"
-        },
-        {
-          "title": "NASA’s Space X CRS-35 Launch Jellyfish",
-          "link": "https://www.nasa.gov/image-article/nasas-space-x-crs-35-launch-jellyfish/",
-          "summary": "Sunlight illuminates the exhaust plumes of a SpaceX Falcon 9 rocket carrying the company’s Dragon spacecraft on Oct. 13, 2026. This visual phenomenon is known as a “jellyfish”; it happens near sunrise or sunset when the exhaust plume from the rocket becomes brightly illuminated, creating a glowing shape resembling a jellyfish. The mission lifted off […]",
-          "isoDate": "2026-10-14T15:18:38.000Z"
-        },
-        {
-          "title": "NASA Develops Batteries to Power Humanity’s Return to Moon",
-          "link": "https://www.nasa.gov/centers-and-facilities/langley/nasa-develops-batteries-to-power-humanitys-return-to-moon/",
-          "summary": "If you’ve ever had your car start sluggishly, or not at all, on a particularly frigid winter morning, you know standard batteries do not like extreme cold. That’s why NASA researchers are working to develop a battery that could function in the brutal cold of the Moon’s South Pole, where nighttime temperatures plunge to minus […]",
-          "isoDate": "2026-10-14T14:41:21.000Z"
-        },
-        {
-          "title": "NASA to Discuss Artemis Acceleration, Status of Upcoming Moon Missions",
-          "link": "https://www.nasa.gov/news-release/nasa-to-discuss-artemis-acceleration-status-of-upcoming-moon-missions/",
-          "summary": "NASA will provide an update on its plans to return American astronauts to the surface of the Moon by 2028 at 2 p.m. EDT, Friday, Oct. 23, at the agency’s Kennedy Space Center in Florida. Learn where to watch online: https://www.nasa.gov/live Participants in the briefing include: The update will include details about NASA’s Artemis III […]",
-          "isoDate": "2026-10-14T13:32:25.000Z"
-        },
-        {
-          "title": "APOD: 2026 October 14 – Mars and the Beehive Under an Aurora",
-          "link": "https://science.nasa.gov/image-article/apod-2026-october-14-mars-and-the-beehive-under-an-aurora/",
-          "summary": "What a cosmic coincidence! In today’s image, Mars joins the Beehive cluster below an auroral curtain and above a horizon of happy little trees near Lansjärv, Sweden.",
-          "isoDate": "2026-10-14T04:05:00.000Z"
-        },
-        {
-          "title": "Hurricane Simon Lurks Off the Mexican Coast",
-          "link": "https://science.nasa.gov/earth/earth-observatory/hurricane-simon-lurks-off-the-mexican-coast/",
-          "summary": "Though it remained offshore, the storm lashed coastal areas with high winds and flooding—and produced remarkable rippling patterns in the upper atmosphere.",
-          "isoDate": "2026-10-14T04:01:00.000Z"
+          "title": "ArXiv versus AI slop: will capping preprint submissions work?",
+          "link": "https://www.nature.com/articles/d41586-026-03194-w",
+          "summary": "Nature, Published online: 15 October 2026; doi:10.1038/d41586-026-03194-w\nMajor preprint platform tightens its rules to curb a surge of submissions, including those generated by artificial-intelligence tools.",
+          "isoDate": "2026-10-15T00:00:00.000Z"
         },
         {
           "title": "Catalytic transfer of carbon atoms enables spirofusion of C–C σ-bonds",
@@ -130,6 +94,42 @@
           "link": "https://www.nature.com/articles/d41586-026-03301-x",
           "summary": "Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03301-x\nHigh-speed camera footage reveals the visual tricks butterflies use to evade predators.",
           "isoDate": "2026-10-14T00:00:00.000Z"
+        },
+        {
+          "title": "Biomedical engineering is growing rapidly, but will it help patients?",
+          "link": "https://www.nature.com/articles/d41586-026-03202-z",
+          "summary": "Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03202-z\nAssimilating the latest technology into health systems is a key challenge facing the field.",
+          "isoDate": "2026-10-14T00:00:00.000Z"
+        },
+        {
+          "title": "Author Correction: Wafer-scale epitaxy growth of high-mobility p-type boron carbon nitride",
+          "link": "https://www.nature.com/articles/s41586-026-11267-z",
+          "summary": "Nature, Published online: 14 October 2026; doi:10.1038/s41586-026-11267-z\nAuthor Correction: Wafer-scale epitaxy growth of high-mobility p-type boron carbon nitride",
+          "isoDate": "2026-10-14T00:00:00.000Z"
+        },
+        {
+          "title": "Growing plane and ship traffic degrade the air of western North America",
+          "link": "https://www.nature.com/articles/d41586-026-03239-0",
+          "summary": "Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03239-0\nPollution from transport across the Pacific Ocean is raising ozone levels above a region whose own emissions have dropped.",
+          "isoDate": "2026-10-14T00:00:00.000Z"
+        },
+        {
+          "title": "<b>The world is closer to a major conservation target than scientists thought</b>",
+          "link": "https://www.nature.com/articles/d41586-026-03307-5",
+          "summary": "Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03307-5\nAnalysis suggests number of protected areas is hugely underestimated but biodiversity is still in peril — plus, a huge study looking at the health effects of brown fat.",
+          "isoDate": "2026-10-14T00:00:00.000Z"
+        },
+        {
+          "title": "Becoming real",
+          "link": "https://www.nature.com/articles/d41586-026-03114-y",
+          "summary": "Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03114-y\nAn endless blessing.",
+          "isoDate": "2026-10-14T00:00:00.000Z"
+        },
+        {
+          "title": "Lay of the land: terrestrial conservation efforts cover a wider area than thought",
+          "link": "https://www.nature.com/articles/d41586-026-03081-4",
+          "summary": "Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03081-4\nGovernments around the world have pledged to conserve 30% of the terrestrial realm by 2030, but official data suggest that the target is barely halfway to being met. A combined global and national-level data set now shows that up to 27% of land area is conserved, but gaps in ecological representation remain.",
+          "isoDate": "2026-10-14T00:00:00.000Z"
         }
       ]
     },
@@ -141,13 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 74\nColumn: 41\nChar: &",
-          "isoDate": "2026-10-15T03:23:02.315Z"
+          "isoDate": "2026-10-15T10:54:50.202Z"
         },
         {
           "title": "Anthropic flags revenue surge to investors ahead of stock market debut",
           "link": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
           "summary": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
-          "isoDate": "2026-10-15T01:56:32.000Z"
+          "isoDate": "2026-10-15T07:20:45.000Z"
         },
         {
           "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
@@ -204,6 +204,12 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "Q&A: The “collision” between AI, your brain, and society",
+          "link": "https://news.mit.edu/2026/collision-between-ai-your-brain-and-society-eric-so-book-1015",
+          "summary": "In a new book, Professor Eric So explores how the technology affects our thinking skills.",
+          "isoDate": "2026-10-15T04:00:00.000Z"
+        },
+        {
           "title": "Researchers improve weather forecasts looking two to six weeks out",
           "link": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
           "summary": "A new machine-learning approach broke records for weather forecasting for an important time frame in emergency planning.",
@@ -256,12 +262,6 @@
           "link": "https://news.mit.edu/2026/mit-lincoln-laboratory-hosts-national-security-commission-emerging-biotechnology-1013",
           "summary": "Roadshow event highlights Massachusetts' defense-biotechnology ecosystem.",
           "isoDate": "2026-10-13T20:40:00.000Z"
-        },
-        {
-          "title": "Developing Gemini 4 Argon responsibly and safely",
-          "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-          "summary": "",
-          "isoDate": "2026-10-13T19:43:07.000Z"
         }
       ]
     },
@@ -273,13 +273,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-10-15T03:23:07.156Z"
+          "isoDate": "2026-10-15T10:54:53.903Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 59\nColumn: 58\nChar: =",
-          "isoDate": "2026-10-15T03:23:03.614Z"
+          "isoDate": "2026-10-15T10:54:51.381Z"
+        },
+        {
+          "title": "Compact Analog Signal Generators for Fast RF Testing",
+          "link": "https://content.knowledgehub.wiley.com/fast-rf-device-testing-with-analog-sources-a-practical-guide-to-amplifier-and-receiver-characterization/",
+          "summary": "This White Paper shows RF and microwave engineers and technicians how compact analog signal generators support core amplifier and receiver test tasks, from gain and distortion measurements to blocker rejection, power calibration, and local oscillator substitution.\nWhat you will learn about:\n\nHow to measure amplifier gain and gain compression, including the P1dB point that marks the transition from linear operation into saturation.\nHow two-tone intermodulation distortion testing reveals unwanted signal products created by amplifier nonlinearities, and why third-order intercept (IP3) is used to compare amplifier linearity.\nHow to test receiver performance under blocker and interferer conditions, using high output power and fast switching speed to simulate real-world interference.\nHow power calibration and RSSI testing depend on accurate, repeatable signal sources across multiple frequency channels and bands.\nHow signal generators can substitute for local oscillator and clock subsystems during early-stage receiver development, before final circuit prototypes exist.\n\nDownload this free whitepaper now!",
+          "isoDate": "2026-10-15T10:00:04.000Z"
         },
         {
           "title": "IEEE Continues Preparations for the Realignment of Its Regions",
@@ -310,12 +316,6 @@
           "link": "https://spectrum.ieee.org/master-ai-chip-principles-ieee",
           "summary": "Today’s engineers face an unprecedented acceleration in AI hardware complexity, as explained in the recent research article “Revisiting Edge AI: Opportunities and Challenges.” The article examines the rapid growth of edge AI and the challenges it creates, including resource constraints, model architecture limitations, and network demands across edge-AI deployments.\nThe acceleration is driven by a fundamental shift in how modern AI models are built and scaled. As the models have become much larger and more complex, they are computationally more demanding because they contain more parameters and require more calculations.\nTo meet the demands of scaling deep neural networks, the industry is increasingly developing AI chips that are designed for specific tasks.\nOne major reason is that moving data between memory and the processor has become a major limitation on AI performance.\nThe movement to confront the hardware bottleneck—the AI memory wall—has altered the trajectory of semiconductor innovation, shifting architectural priorities toward domain-specific accelerator platforms.\nNo longer can engineers evaluate systems statically; they must master joint hardware design and network-algorithm co-optimization to navigate the critical trade‑offs between throughput, latency, and operational efficiency.\nThe challenges are addressed in the new AI Processor Architecture, Design Principles, and Performance program, developed by IEEE Educational Activities with support from the IEEE Computer Society.\nTopics covered\nThe five-course program provides a structured exploration of AI processor technologies, from fundamental design principles to advanced architectures and real-world deployment.\nThe topics are:\n\nFundamental principles of design and functionality.\nPractical insights into advanced architectures.\nUnderstanding neural processing units for industry deployment.\nEmerging trends and evolving architectures.\nDesigning for edge, cloud, quantum, and the Internet of Things (IoT).\n\nThe program addresses the needs of professionals across the AI hardware ecosystem, including hardware architects, chip designers, embedded systems developers, data‑center hardware engineers, and innovators exploring next‑generation processor ecosystems.\nIt is also valuable for those transitioning into AI chip design or seeking to understand the architectural forces shaping modern machine learning acceleration. For many, it provides the bridge between theoretical knowledge and the collaborative, cross‑disciplinary reasoning required in engineering environments.\nThe program is designed to explore how modern AI processors are conceived, structured, and optimized. The architectural layers that define contemporary AI hardware will be covered, including compute units, memory hierarchies, dataflows, and the performance characteristics that emerge from design decisions. The curriculum bridges theory and application, enabling participants to interpret architectural foundations, analyze trade‑offs, and understand how hardware structures shape computational efficiency across diverse environments.\nBy the end of the courses, learners will be able to evaluate processor behavior with the analytical precision expected of professionals working at the frontier of AI hardware design.\nAI-generated avatars explain concepts\nThe program also uses a dialogue‑driven learning approach. Learners view conversations between AI-generated avatars that engage in scenario‑based dialogues. The avatars represent engineers tackling the same problems from various perspectives based on their different roles. The simulated storytelling and dialogues make advanced engineering concepts approachable without sacrificing depth or interactivity, because the user is occasionally challenged to decide the correct answer that leads to the best course of action.\nA hardware engineer might push back against a systems engineer’s demands, for example, revealing the friction between physical constraints and algorithmic ambition. A computational validation specialist might interrogate a chip performance engineer’s optimism, exposing the gap between theoretical throughput and real‑world behavior. A heterogeneous systems architect could debate a multiprocessor coordination specialist about synchronization overheads, while a standards development engineer discusses regulatory implications with a technology strategy and compliance architect.\nIn the final course, an IoT systems architect and an embedded AI optimization engineer dissect the realities of deploying AI in constrained environments.\nBy the end of the course, learners will be able to evaluate processor behavior with the analytical precision expected of professionals working at the frontier of AI hardware design.\nThe avatar-driven learning environment creates a psychologically safer environment for learners, who might feel intimidated by traditional expert‑led videos. Research published in 2024 in IEEE Transactions on Learning Technologies showed that avatar‑based instruction can increase a learner’s confidence by up to 25 percent and improve retention of complex technical material.\nEach course concludes with a module in which the two experts from different disciplines debate, question, and challenge each other’s assumptions.\nModeling expert reasoning through dialogue\nThe cross‑disciplinary conversations can do more than explain concepts; they can model how experts think. They can reveal the negotiations behind architectural choices, the competing priorities that shape system design, and the analytical rigor required to balance performance, efficiency, scalability, and compliance.\nLearners observe engineering discourse, gaining insight into the reasoning patterns that drive innovation in AI processor development.\nThe program goes further by interrupting the dialogue at key moments and inviting the learner to step in. Instead of passively absorbing information, the learner decides how to resolve a trade‑off, predict the outcome of a design choice, or select the most defensible engineering path. The experience can feel less like a course and more like an apprenticeship inside an engineering team.\nA new standard for advanced engineering education\nBy merging rigorous technical content with an innovative, dialogue‑driven delivery model, the program sets a standard for teaching advanced engineering. It captures the complexity of real‑world problem‑solving, humanizes the learning experience, and challenges participants to think like the engineers who are defining the future of AI hardware. It is not simply a new course; it is a new way of learning.\nFor individual access, visit the IEEE Learning Network.\nFor customized organizational options, contact a content specialist to discuss volume pricing.",
           "isoDate": "2026-10-09T18:00:02.000Z"
-        },
-        {
-          "title": "We Need to Embed Ethics Into Our Engineering Courses",
-          "link": "https://spectrum.ieee.org/integrating-engineering-ethics-education",
-          "summary": "In mid-September, Anthropic CEO Dario Amodei joined a growing group of researchers calling for the AI industry to slow down. While some have questioned these researchers’ motivation for voicing concerns about the rapid pace of development, the plea highlighted a key tension between safety and speed. The underlying problem is not simply a technical error, but a sociotechnical failure: Pressure to move quickly has made it hard for engineers to fully assess and manage new risks of increasingly powerful AI systems. It is a clear warning that responsible engineering requires more than technical expertise; engineers must also understand workplace pressures, moral and ethical rules, and the social consequences rooted in the systems they create.\nCases like this, alongside invasive surveillance technologies and biased AI tools, have exposed serious shortcomings in how engineers recognize and address the ethical and social implications of their work. While the need to educate graduates in ethics and social responsibility is widely recognized, a persistent gap remains—these topics are too often treated as afterthoughts, disconnected from the technical content of engineering coursework. This siloed approach leaves graduates ill-equipped to address real-world challenges; indeed, only about a third of engineering professionals in the United States report having received training on their public welfare responsibilities during their formal engineering education.\nWe are working to bridge this gap by designing two complementary instructional approaches, one that integrates social issues directly into foundation technical coursework and a second that prepares students to act as “public welfare watchdogs” through a standalone engineering course. By embedding ethics and social responsibility training directly into the core of undergraduate engineering coursework, we equip future professionals with the agency they will need to protect the public good.\nThe gap in instruction about ethics and social responsibility\nAcross the engineering profession, there is a persistent belief that technical skill-building is central to engineering, while ethical, social, and public welfare concerns are peripheral or distracting. This technical/social dualism is evident even in the evaluation of scholarly research. For instance, we recently submitted an academic position paper discussing this ethics education gap to a leading peer-reviewed engineering journal. It was dismissed by reviewers along the very same dualism it described. \nOne reviewer warned that it would be “highly irresponsible” to challenge technical skill-building as “the foundation of any kind of engineering” by adding ethics and social responsibility training into engineering classrooms. Another reviewer objected that integrating these considerations into foundational courses risks “distracting the students from fully absorbing the technology.” These comments miss the core argument of our work: that ethics and social responsibility are integral to responsible technical practice.\nToday, accreditation agencies like ABET (formerly known as the Accreditation Board for Engineering and Technology) and professional licensing bodies like the National Society of Professional Engineers mandate student outcomes related to social and public welfare consequences. But these curriculum requirements tend to be unhelpfully generic and minimally enforced. As a result, engineering students often receive ethics instruction through introductory or non-engineering coursework, where the focus is on codes of conduct and academic integrity, rather than deeper topics of social responsibility. This instruction is almost always disconnected from the complex real-world dilemmas engineers face. \nIndeed, we find that only ethics instruction in actual engineering courses (not in other parts of the curriculum) can effectively instill ethical awareness as professionals. Concerningly, only about 4 in 10 engineers in the United States recall receiving this kind of training, and 3 in 10 report never receiving training on their public welfare responsibilities at any point in their careers. This leaves most of the profession underprepared to handle the complex challenges of engineering practice.\nA new approach: Integrating technical and social dimensions\nTo advance a new paradigm—one that embeds ethics and social responsibility issues within the undergraduate engineering curriculum—we’ve designed two innovative course-based approaches: a library of one-hour sociotechnical modules for foundational circuits courses (described here and here) and a new engineering course dedicated to public welfare responsibilities.\nThe first approach integrates discussions about relevant social issues directly into foundational engineering courses, where students begin to form their identities as engineers. “Introduction to Circuits” is typically the first course in the electrical engineering major and is a requirement for many other engineering disciplines, making it a powerful site for introducing social content and ethical reasoning. We designed several one-hour modules for this course, where social issues provide context for a technical topic, offering a manageable entry point for faculty who may feel ill-prepared to teach about ethics and social responsibility.\nWhile many engineering faculty recognize the importance of teaching students about these topics, they struggle to integrate them into their courses amid heavy teaching and research demands. To overcome these challenges, each module provides ready-to-use materials, including lecture slides with scripts and homework and exam problems. Integrating these modules directly into the course signals to students that sociotechnical awareness is not an “add-on,” but a required professional competency.\nOur module on hospital power prioritization, for instance, connects the technical topics of power and equivalent circuits to the ethical challenges of healthcare infrastructure. Students learn about the reality of “red outlets” in medical settings, debating the power needs of specific wards (e.g., the intensive care unit, operating rooms, and physiotherapy rooms) to decide which branches should receive emergency power during a hypothetical outage.\nOur conflict minerals module connects the technical topic of capacitors to the global tantalum supply chain. Students calculate the amount of tantalum used in cell phones and identify mining locations in regions like the Democratic Republic of the Congo, where revenue often fuels armed conflict and human rights abuses. Students research the conflict-mineral policies of major companies such as Apple and Samsung and reflect on their future roles as ethical designers and consumers.\nStudent responses to these modules have been overwhelmingly positive. In interviews, students told us that the content helped them get away from the “stigma that engineers only worry about math” and made the work more meaningful. We plan to share the modules widely to help circuits instructors across the globe bridge the technical-social divide.\nBeyond these integrated modules, our second approach is a standalone engineering course—Public Welfare Responsibilities in Engineering (PWRE)—that helps round out students’ sociotechnical education by preparing them to fulfill their professional obligations as engineers. While most dedicated ethics courses end by introducing engineers’ abstract responsibilities, PWRE helps students recognize specific public welfare concerns, enhances their motivation to act when they encounter them, and teaches concrete, practical intervention strategies.\nIn addition to teaching students about professional codes, such as the IEEE Code of Ethics, PWRE engages students in discussion of where these formal definitions may fall short, and how structural barriers such as workplace culture can hinder engineers from fulfilling these responsibilities. Then, the course equips students with intervention strategies. Students learn about their rights and responsibilities as whistleblowers, review tactics for seeking advice from professional societies, and practice writing op-eds to raise the alarm about ethical issues to the broader public. Our research shows that the course produces notable shifts in students’ ethical agency, strengthening their ability to serve as “public welfare watchdogs” in the modern workplace.\nEthical engineers for the future\nToday’s engineering graduates face complex sociotechnical challenges beyond AI expansion, including climate change and global supply chains; they need tools to navigate ambiguity and act ethically in uncertain contexts. To meet these evolving demands, engineering education must move beyond outdated modes of instruction that focus only on building technical skills—some of which may soon be outsourced to AI. We must fundamentally reimagine the role of ethics and social responsibility, embedding them across the engineering curriculum and throughout the professional formation of engineers.\nAll engineers learn to solve problems, but ethical engineers can also discern which problems are worth solving and anticipate the consequences of innovation for society. By centering ethics and social responsibility as core priorities of the profession, we can prepare engineers to be stewards of technology and trusted voices in public discourse.\nAs one student reflected after participating in our modules, “We are a part of the issue if we don’t decide to fix it.”",
-          "isoDate": "2026-10-09T12:00:02.000Z"
         }
       ]
     },
