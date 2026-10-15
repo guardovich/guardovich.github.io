@@ -1,15 +1,45 @@
 {
-  "generatedAt": "2026-10-14T21:18:30.530Z",
+  "generatedAt": "2026-10-15T03:23:08.354Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
         {
+          "title": "McKinsey is making job applicants spar with a fake AI client",
+          "link": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
+          "summary": "Consulting firm McKinsey & Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process, according to The Wall Street Journal.\nThe AI simulation \"aims to reflect 80% of the scenarios McKinsey consultants might encounter in their day-to-day work,\" the WSJ says, and it isn't designed to \"mimic an unhinged client.\" The AI won't score the candidates - humans will be in the room to assess the candidates and see how well they deal with the simulated situations.\nThe McKinsey tool will be in testing for undergrads seeking business-analyst jobs in \"some\" offi …\nRead the full story at The Verge.",
+          "isoDate": "2026-10-14T22:53:31.000Z"
+        },
+        {
+          "title": "The best feature of Apple’s HomeView might be its simplicity",
+          "link": "https://www.theverge.com/tech/1011431/apple-homeview-smart-display-best-feature",
+          "summary": "Apple’s HomeView smart display seems tailor-made for the kitchen. (That aluminum base looks like it will hold up better than my now off-white kitchen HomePod.)\t\n\nI'm just going to come right out and say it. I love the approach Apple has taken with the HomeView. I think it's the shared, always-available household interface that my family might finally use. Is Apple's first smart display my dream smart home dashboard? No. But is it the right product for Apple Home at this moment? Absolutely.\nA lot of initial reactions to the $299 HomeView (which looks like a giant Apple Watch on a flatter metallic HomePod Mini) ask why you would want it when you can do most of what it offers on your iPhone or iPad. And yes, its features replicate many of the things you already do on the devices you use all the time. B …\nRead the full story at The Verge.",
+          "isoDate": "2026-10-14T22:00:02.000Z"
+        },
+        {
+          "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
+          "link": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
+          "summary": "Incident hitting 700 supermarkets exploited outdated devices exposed to the Internet.",
+          "isoDate": "2026-10-14T21:35:09.000Z"
+        },
+        {
+          "title": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam",
+          "link": "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/",
+          "summary": "But the new \"Preview\" app \"will have some bugs,\" Epic warns.",
+          "isoDate": "2026-10-14T21:15:56.000Z"
+        },
+        {
           "title": "Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
           "summary": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho, and Montana, allege OpenAI unlawfully put profits over safety when developing ChatGPT.\nThe string of complaints claims that OpenAI violated local consumer protection laws by failing to warn customers about the dangers of ChatGPT, citing several lawsuits filed by the family members of teens and adults that allege the AI chatbot played a role in their loved  …\nRead the full story at The Verge.",
           "isoDate": "2026-10-14T21:11:28.000Z"
+        },
+        {
+          "title": "NATO may redeploy anti-drone defenses as attacks sink more Black Sea shipping",
+          "link": "https://arstechnica.com/gadgets/2026/10/nato-may-redeploy-anti-drone-defenses-as-attacks-sink-more-black-sea-shipping/",
+          "summary": "Suspected Russian drones have sunk or damaged 5 ships near Bulgaria and Romania.",
+          "isoDate": "2026-10-14T21:03:11.000Z"
         },
         {
           "title": "Things are finally looking up for NASA's first missions to Venus in a generation",
@@ -34,36 +64,6 @@
           "link": "https://arstechnica.com/tech-policy/2026/10/georgia-man-sues-flock-sheriffs-office-over-alleged-alpr-fueled-retaliation/",
           "summary": "Plaintiff claims cameras enabled warrantless tracking and monitoring after he previously sued over excessive force.",
           "isoDate": "2026-10-14T19:53:01.000Z"
-        },
-        {
-          "title": "Software development and rules stability: Prototype racing in 2030",
-          "link": "https://arstechnica.com/cars/2026/10/software-development-and-rules-stability-prototype-racing-in-2030/",
-          "summary": "With the end of IMSA’s 2026 season, we have thoughts about the future of the sport.",
-          "isoDate": "2026-10-14T19:44:26.000Z"
-        },
-        {
-          "title": "Greta Gerwig channels Bowie in psychedelic The Magician's Nephew trailer",
-          "link": "https://arstechnica.com/culture/2026/10/greta-gerwig-channels-bowie-in-psychedelic-the-magicians-nephew-trailer/",
-          "summary": "\"Have you ever seen a world born?\"",
-          "isoDate": "2026-10-14T19:10:58.000Z"
-        },
-        {
-          "title": "The AI race is back on",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
-          "summary": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind, while Meta, despite spending billions to revive its floundering AI ambitions, had yet to establish itself as a serious contender. Even the latest models coming out of China, impressive as they were, appeared to be playing catch-up.\nThen, in the space of a few days, everything changed. Google and Meta both unveiled frontier models they claim can go toe to toe with the best from OpenAI and Anthropic. Suddenly, the race is back on - and it's anyo …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-14T19:06:03.000Z"
-        },
-        {
-          "title": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
-          "link": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
-          "summary": "New York Attorney General Letitia James revealed a years-long multi-state investigation against Character.AI as they now seek to require protections on consumer data sold through its bankruptcy proceeding.\nJames is among 40 bipartisan AGs who filed a notice of interest in Character.AI's bankruptcy case \"to put all parties on notice of the regulatory issues that will need to be addressed in any sale or transfer of the Debtor's business or assets.\" Character.AI announced Tuesday it was filing for Chapter 11 and selling some assets to Disney. But the AGs warn there could be serious risk involved in the transfer of the technology due to the \"hi …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-14T18:47:54.000Z"
-        },
-        {
-          "title": "As a TV enthusiast, I was hoping for more from the Apple TV 4K",
-          "link": "https://www.theverge.com/tech/1011324/apple-tv-4k-missed-features",
-          "summary": "The new Apple TV 4K and remote look just like the old ones and mostly have the same features.\t\n\nIt's been four long years since the last Apple TV 4K was released, and in that time there have been lots of hopes and dreams for features in whatever comes next. A new chip, 4K/120Hz support, audio passthrough, a remote locator, better home control integration - the 2022 Apple TV 4K is a great box, but there's still plenty of room for improvement. With the fourth-gen Apple TV 4K announced on Tuesday, some of those hopes were met, while others were unfortunately left out.\nColoring the announcement is the device's price. Apple eliminated the cheaper 64GB, Wi-Fi-only model, leaving just the 128GB, Wi-Fi and Ethernet model - and bumped up its p …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-14T18:38:59.000Z"
         }
       ]
     },
@@ -141,7 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 74\nColumn: 41\nChar: &",
-          "isoDate": "2026-10-14T21:18:27.460Z"
+          "isoDate": "2026-10-15T03:23:02.315Z"
+        },
+        {
+          "title": "Anthropic flags revenue surge to investors ahead of stock market debut",
+          "link": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
+          "summary": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
+          "isoDate": "2026-10-15T01:56:32.000Z"
         },
         {
           "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss",
           "summary": "Brad Smith calls for global rules on AI, and says the UK is in the \"best position\" to lead the charge.",
           "isoDate": "2026-10-12T07:47:37.000Z"
-        },
-        {
-          "title": "King warns malicious online actors are evolving tactics",
-          "link": "https://www.bbc.co.uk/news/articles/cme3xl7d18z2o?at_medium=RSS&at_campaign=rss",
-          "summary": "The King spoke of \"threats to our international order\" in a letter marking the 10th anniversary of the National Cyber Security Centre.",
-          "isoDate": "2026-10-10T15:56:32.000Z"
         }
       ]
     },
@@ -228,6 +228,12 @@
           "isoDate": "2026-10-14T07:00:00.000Z"
         },
         {
+          "title": "How Block is building AI-powered security with OpenAI technology",
+          "link": "https://openai.com/index/block-ai-powered-security",
+          "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+          "isoDate": "2026-10-14T07:00:00.000Z"
+        },
+        {
           "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
           "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
           "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
@@ -256,12 +262,6 @@
           "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
           "summary": "",
           "isoDate": "2026-10-13T19:43:07.000Z"
-        },
-        {
-          "title": "Gemini 4 Argon for Robotics",
-          "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-          "summary": "",
-          "isoDate": "2026-10-13T16:01:58.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-10-14T21:18:29.749Z"
+          "isoDate": "2026-10-15T03:23:07.156Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 59\nColumn: 58\nChar: =",
-          "isoDate": "2026-10-14T21:18:28.733Z"
+          "isoDate": "2026-10-15T03:23:03.614Z"
         },
         {
           "title": "IEEE Continues Preparations for the Realignment of Its Regions",
