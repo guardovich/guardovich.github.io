@@ -1,15 +1,39 @@
 {
-  "generatedAt": "2026-10-16T16:08:52.328Z",
+  "generatedAt": "2026-10-16T20:32:45.604Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
         {
+          "title": "Why Apple is finally making its own smart home devices",
+          "link": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
+          "summary": "Apple’s Home Collection, codeveloped with partners, is part of the company’s first major push into the smart home category. | Photo by Jennifer Pattison Tuohy / The Verge\t\n\nFor more than a decade, Apple has told other companies to build smart home devices for its platform. This week, Apple launched its own. The Apple Home Collection is a lineup of cameras, thermostats, sensors, a smart door lock, and a video doorbell, all codeveloped with LG Electronics and Schneider Electric. They arrive alongside HomeView, Apple's first smart display.\nEven after 12 years of HomeKit, Apple's smart home ecosystem still feels underdeveloped, especially compared to the competition. Amazon's and Google's ecosystems support more products, and both have popular in-house brands: Ring and Nest. Apple had nothing of its own to point c …\nRead the full story at The Verge.",
+          "isoDate": "2026-10-16T18:30:27.000Z"
+        },
+        {
+          "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+          "link": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+          "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Watch…",
+          "isoDate": "2026-10-16T18:00:00.000Z"
+        },
+        {
+          "title": "RFK Jr. proposes FDA look the other way on unproven peptides, report says",
+          "link": "https://arstechnica.com/health/2026/10/rfk-jr-proposes-fda-look-the-other-way-on-unproven-peptides-report-says/",
+          "summary": "FDA scientists said none of the popular drugs have been proven safe or effective.",
+          "isoDate": "2026-10-16T17:05:59.000Z"
+        },
+        {
           "title": "The new Apple TV 4K just got its first (very small) discount",
           "link": "https://www.theverge.com/gadgets/1012962/apple-tv-4k-fourth-generation-fanttik-s1-pro-deal-sale",
           "summary": "The new Apple TV 4K will be available in November. | Image: The Verge\t\n\nEarlier this week, Apple announced its new Apple TV 4K, which costs nearly twice as much as the 2022 model did at launch. Amazon is now offering the first discount on the forthcoming streaming box (coming out on November 13th), just days after discounting Apple’s new smart display for the first time. Right now, you can preorder the latest Apple TV 4K ahead of its November 13th release date for $289.99 ($9 off) at Amazon. Yes, it’s a tiny discount, but every little bit helps given the higher price tag.\nApple TV 4K (2026)\n\nWhere to Buy:\n\n $299 $289.99 at Amazon\n\nPowered by the new A19 chip, Apple’s latest streaming device now features support for Siri AI out of the box, which is coming to older Apple TV 4K models via a software update. Unlike its predecessors, though, the new model features far-field microphones so you can quickly make hands-free requests. You can, for example, ask for recommendations, like nature documentaries available on Apple TV, or ask questions about what you’re watching. Siri AI can also understand personal context, too, so long as you have an iPhone or iPad connected to your account that supports Apple Intelligence.\nApple has made a few other welcome upgrades, though — as my colleague John Higgins points out — not as many as some may have expected. While Apple skipped features we’d hope to see on a $300 streamer, like audio passthrough and support for 120fps output, it’s nice that the Siri Remote now supports Find My precision tracking, so you can make it ring when it goes missing or use the Find My app on your iPhone to pinpoint its location. The new Apple TV 4K also supports a more expansive surround-sound setup, allowing you to pair up to four compatible HomePod speakers instead of just two.\nRead our hands-on impressions of the fourth-generation Apple TV 4K.\nThree more Verge-approved deals:\nIf you’ve been meaning to pick up Pikmin 4, Walmart is selling a digital copy for $39.88 ($20 off), which is a great price considering most other retailers are still charging the full $59.99. It’s the original Switch version, but you can upgrade to the forthcoming Nintendo Switch 2 Edition when it arrives on November 12th by purchasing a separate $9.99 upgrade pack, which adds improved graphics and a new Dandori Academy mode. That brings your total to just $49.87, saving you about $20 compared to buying the $69.99 Switch 2 Edition outright. Read our review.\nAll eyes might be on the iPhone Duo — which is now available to preorder, despite shipments being delayed into 2027  — but if you have a non-foldable iPhone, Woot is currently discounting a wide range of Otterbox cases through October 31st. I’ve owned several of the brand’s cases for both my smartphones and tablets over the years, and I’ve been impressed by their durability. I currently use the OtterBox Symmetry Series Clear Case for my iPhone 16, which normally costs $49.99 but is now available in various colors for just $5.99 with a 90-day warranty. The sale also includes cases for other iPhones, as well as some Samsung and Google phones, so it’s worth browsing even if you’re not planning to upgrade your phone anytime soon.\nFanttik’s S1 Pro electric screwdriver is on sale for $45.99 ($44 off) at Amazon, which is $5 shy of its best price to date. It’s a handy cordless option for small tasks ranging from tightening screws to assembling desks, with 16 S2 hardened steel bits for tackling a variety of jobs. The USB-C rechargeable screwdriver also comes with a 220RPM motor and three torque settings, along with a LED light to help illuminate your workspace.",
           "isoDate": "2026-10-16T16:02:22.000Z"
+        },
+        {
+          "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
+          "link": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
+          "summary": "Meta “streamlined” its commercial TOS. Legal experts warn it’s an AI power grab.",
+          "isoDate": "2026-10-16T15:41:00.000Z"
         },
         {
           "title": "Apple&#8217;s HomeView has an app problem",
@@ -40,30 +64,6 @@
           "link": "https://arstechnica.com/tech-policy/2026/10/polymarket-saw-600-million-in-election-trades-after-the-elections-were-over/",
           "summary": "Millions kept changing hands long after the election outcomes were effectively settled.",
           "isoDate": "2026-10-16T14:19:22.000Z"
-        },
-        {
-          "title": "The incredible flying Tesla Roadster is just for show",
-          "link": "https://www.theverge.com/transportation/1012783/tesla-roadster-flying-stunt-production-reality-musk",
-          "summary": "Last night, Elon Musk gave the people what they want: a car driving vertically up a multi-story ramp, launching off the edge, executing a mid-air \"kickflip\" over a lineup of Teslas, and landing via cold-gas thrusters. \nThat's what the people want, right? \"We were promised flying cars,\" sure, but isn't the operative word in that statement \"we\"? Because as far as I can tell, everything we saw last night - while extremely cool and incredibly impressive - won't result in a real, production-ready car you can park, or, I guess, land in your driveway. \nTesla's late-night demonstration in Waco, Texas, certainly gave some corners of the internet wh …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-16T14:15:29.000Z"
-        },
-        {
-          "title": "Tesla turns to 50-year-old stunt technology as it tries to Roadster again",
-          "link": "https://arstechnica.com/cars/2026/10/tesla-turns-to-50-year-old-stunt-technology-as-it-tries-to-roadster-again/",
-          "summary": "If you want to make a car spin in the air, compressed gas is a good way to do it.",
-          "isoDate": "2026-10-16T14:03:25.000Z"
-        },
-        {
-          "title": "Meta’s new terms may allow it to train AI on news sites for free",
-          "link": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
-          "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say Meta can use this outside content to \"develop, improve, research,\" and \"train\" its AI products.\nWhile Meta spokesperson Daniel Roberts says that the company is just \"consolidating\" its commercial and self-serve ad terms, legal experts tell Nieman Lab that this could allow Meta \"to argue its commercial terms supersede other blocking instructions,\" like a site's robots.txt file. That could …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-16T14:02:40.000Z"
-        },
-        {
-          "title": "Super Scam Me documentary shows what it takes to catch a romance scammer",
-          "link": "https://arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain/",
-          "summary": "Watch an exclusive clip from Super Scam Me where a victim tracks down her scammer.",
-          "isoDate": "2026-10-16T14:00:59.000Z"
         }
       ]
     },
@@ -71,6 +71,12 @@
       "header": "120  CIENCIA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Artemis II Heat Shield After Splashdown",
+          "link": "https://www.nasa.gov/image-article/artemis-ii-heat-shield-after-splashdown/",
+          "summary": "Shortly after NASA’s Artemis II mission splashed down on April 10, 2026, U.S. Navy divers captured underwater imagery of the Orion spacecraft’s heat shield. In the months after, the agency measured whether the thermal protection system effectively safeguarded the crew and Orion systems as the spacecraft reentered Earth’s atmosphere. This rigorous analysis confirmed that the […]",
+          "isoDate": "2026-10-16T16:28:01.000Z"
+        },
         {
           "title": "I Am Artemis: Allison Mjoen",
           "link": "https://www.nasa.gov/missions/station/i-am-artemis-allison-mjoen/",
@@ -108,28 +114,22 @@
           "isoDate": "2026-10-16T00:00:00.000Z"
         },
         {
+          "title": "IceCube just won a Nobel prize. Protect astroparticle physics projects with the same potential",
+          "link": "https://www.nature.com/articles/d41586-026-03308-4",
+          "summary": "Nature, Published online: 16 October 2026; doi:10.1038/d41586-026-03308-4\nBuilding the Nobel-prizewinning neutrino experiment was a big risk. To continue its success, scientists — and funders — need to stay bold.",
+          "isoDate": "2026-10-16T00:00:00.000Z"
+        },
+        {
+          "title": "Memory stays strong in old age when this brain enzyme is active",
+          "link": "https://www.nature.com/articles/d41586-026-03303-9",
+          "summary": "Nature, Published online: 16 October 2026; doi:10.1038/d41586-026-03303-9\nData from mouse brains and 13 human brains show a link between levels of a lipid-degrading enzyme and cognitive resilience.",
+          "isoDate": "2026-10-16T00:00:00.000Z"
+        },
+        {
           "title": "Unprecedented atlas explores mitochondria across the tree of life",
           "link": "https://www.nature.com/articles/d41586-026-03195-9",
           "summary": "Nature, Published online: 16 October 2026; doi:10.1038/d41586-026-03195-9\nThe mitoproteomes of five parasites and a plant hold medical potential — and reignite the question of just when the mitochondrion evolved.",
           "isoDate": "2026-10-16T00:00:00.000Z"
-        },
-        {
-          "title": "PhD students who write dissertation with AI less likely to stay in academia",
-          "link": "https://www.nature.com/articles/d41586-026-03253-2",
-          "summary": "Nature, Published online: 16 October 2026; doi:10.1038/d41586-026-03253-2\nUS PhD graduates who used artificial intelligence were more likely to work in industry.",
-          "isoDate": "2026-10-16T00:00:00.000Z"
-        },
-        {
-          "title": "NASA to Help Unlock Mysteries of Mars’ Moons in Upcoming Mission",
-          "link": "https://science.nasa.gov/directorates/smd/planetary-science-division/nasa-to-help-unlock-mysteries-of-mars-moons-in-upcoming-mission/",
-          "summary": "NASA is playing an important role in JAXA’s (Japan Aerospace Exploration Agency) MMX (Martian Moons eXploration) mission, to advance our understanding of Mars’ moons and build on the agency’s long history of exploring the Red Planet. The mission aims to characterize and determine the origin of Mars’ moons Phobos and Deimos and deliver a sample […]",
-          "isoDate": "2026-10-15T19:58:08.000Z"
-        },
-        {
-          "title": "NASA Satellites Observe Historic 2026 El Niño",
-          "link": "https://science.nasa.gov/earth/nasa-satellites-observe-historic-2026-el-nino/",
-          "summary": "A phenomenon rarer than a solar eclipse and more powerful than any single storm system is unfolding this fall, and NASA is tracking it closely. El Niño is a natural climate pattern that emerges roughly every two to seven years marked by warmer-than-normal water temperatures in parts of the equatorial Pacific. NASA scientists are keeping […]",
-          "isoDate": "2026-10-15T17:59:22.000Z"
         }
       ]
     },
@@ -141,7 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 74\nColumn: 41\nChar: &",
-          "isoDate": "2026-10-16T16:08:48.974Z"
+          "isoDate": "2026-10-16T20:32:40.073Z"
+        },
+        {
+          "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
+          "link": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
+          "summary": "Australia has proposed a switch to force social media platforms to let users turn off recommended content.",
+          "isoDate": "2026-10-16T18:11:29.000Z"
         },
         {
           "title": "Russian man linked to deadly London hospitals hack arrested",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
           "summary": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.",
           "isoDate": "2026-10-14T08:27:17.000Z"
-        },
-        {
-          "title": "How long will humans be needed for translation?",
-          "link": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss",
-          "summary": "AI dominates the translation business, but for high-stakes work, humans are still needed.",
-          "isoDate": "2026-10-13T23:05:29.000Z"
         }
       ]
     },
@@ -203,6 +203,18 @@
       "header": "160  INTELIGENCIA ARTIFICIAL",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Fostering community amid Kendall Square’s innovation",
+          "link": "https://news.mit.edu/2026/fostering-community-amid-kendall-square-innovation-1016",
+          "summary": "The 18th annual Kendall Square Association Annual Meeting explored how new technologies could be a force for shared prosperity in society.",
+          "isoDate": "2026-10-16T16:00:00.000Z"
+        },
+        {
+          "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+          "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+          "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+          "isoDate": "2026-10-16T00:00:00.000Z"
+        },
         {
           "title": "State of Supply Chain Sustainability Report finds corporate commitment at record high, but governance lags behind",
           "link": "https://news.mit.edu/2026/state-of-supply-chain-sustainability-report-1015",
@@ -250,18 +262,6 @@
           "link": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
           "summary": "A new machine-learning approach broke records for weather forecasting for an important time frame in emergency planning.",
           "isoDate": "2026-10-14T15:00:00.000Z"
-        },
-        {
-          "title": "Amp puts AI agents to work beyond code with OpenAI models",
-          "link": "https://openai.com/index/amp-beyond-coding",
-          "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
-          "isoDate": "2026-10-14T12:00:00.000Z"
-        },
-        {
-          "title": "SentinelOne cuts malware analysis from weeks to hours",
-          "link": "https://openai.com/index/sentinelone",
-          "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
-          "isoDate": "2026-10-14T12:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,25 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-10-16T16:08:51.439Z"
+          "isoDate": "2026-10-16T20:32:44.260Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 59\nColumn: 58\nChar: =",
-          "isoDate": "2026-10-16T16:08:49.795Z"
+          "isoDate": "2026-10-16T20:32:41.793Z"
+        },
+        {
+          "title": "IEEE Offers More Services to Cities That Want to Be Smarter",
+          "link": "https://spectrum.ieee.org/ieee-smart-cities-new-services",
+          "summary": "More and more city governments are using advanced technologies to improve livability for their residents. Municipalities use data from smartphones and sensors for traffic enforcement, traffic control, and waste management. They also have implemented artificial intelligence and deep learning programs.\nDubai, Paris, and Coral Gables, Fla., are among the cities that have invested heavily in programs to become smarter.\nBut along with the conveniences that come with a smart city transition, there have been challenges including safety and privacy issues and eroding relationships between residents and city officials.\nAlthough many initiatives have delivered real innovations, not all have been successful. Inefficient global coordination has hindered projects with unclear standards, socioeconomic differences, and a lack of worldwide governance, leading to a disconnect between the technologies and the ability to adapt to them.\nCitizens’ trust in the technologies suffers because of privacy breaches, personal data leaks, and other issues.\nFinding solutions\nSmart city projects are complex and expensive endeavors that involve politicians, citizens, technocrats, and engineers. Successful projects require citizens to be fully engaged and to have strong collaborations with the participants, especially engineers, as engineering is the cornerstone.\nCollaboration with universities, research institutions, and technology experts can bridge knowledge gaps on the behavior of complex socio-technical systems. What’s missing, though, is a global platform where those involved can discuss their experiences.\nTo help solve those and other challenges, the IEEE Smart Cities Technical Community (formerly the IEEE Smart Cities Initiative) was launched in 2013 by IEEE Future Directions, which incubates emerging technologies and new applications of current ones. The technical community provides city leaders and others with credible, unbiased information and educational content developed by IEEE experts.\nSince then, IEEE Smart Cities has launched services including its flagship International Smart Cities Conference, a media center with educational and technical resources, and a contest to recognize the best smart project completed by city officials. The platforms bring together practicing engineers, academic researchers, policymakers, and city leaders to collaborate and exchange ideas and experiences about moving toward a smart-city model.\nBetter serving humanity\nIn 2021 the IEEE Power & Energy Society began managing the Smart Cities program, which is supported by the IEEE Communications, Industry Applications, and Intelligent Transportation Systems societies and other IEEE entities.\nThanks to volunteers’ dedication and determination, IEEE Smart Cities launched several services. But the initiative’s structure limited the development of long-term projects and the creation of new activities.\nTo address the situation, the IEEE Technical Activities Board (TAB) created the second-generation technical community ad hoc committee, also in 2021. It was a pilot program whereby IEEE Smart Cities formed a board of governors to oversee the community’s operations and leadership, and created a policies and procedures manual.\nIn November 2025 IEEE Smart Cities became a TAB technical community.\nIEEE Smart Cities now\nToday more than 7,000 volunteers collaborate on various aspects of the community within at least one of the following technical tracks:\n\nSmart grid.\nSmart water management.\nGreen electronics for smart cities.\nSmart governance and planning.\nHydrogen for smart cities.\nSmart and sustainable campus.\nSecurity for smart cities.\nSmart lighting for cities.\nSmart mobility for cities.\nArtificial intelligence for cities.\n\nNew webinar series, workshops, conferences, educational resources, and other offerings are being created.\nTwo events were launched recently: the IEEE European Technology and Engineering Management Summit, held in May 2025 in Belgium, with the next one planned for 2027; and the IEEE Sustainable Smart Lighting World Conference, scheduled for 2 to 6 December in Athens.\nThe Smart Cities Ambassadors program aims to raise the technical community’s visibility outside IEEE by holding roundtables and other events at non-IEEE functions.\nIEEE Smart Cities volunteers are working on launching journals. In addition, standards are being developed in collaboration with the IEEE Standards Association, societies, and councils.\nThe program is collaborating with the Open and Agile Smart Cities and Communities network, the Instituto de Competitividad e Innovación para el Desarrollo y Transferencia de Tecnología, and the International Project Management Association. \nAll of those actions have the ultimate objective of boosting IEEE Smart Cities’ growth and sustainability, as well as strengthening the leadership and educational offerings to technical community volunteers.\nIf you would like to volunteer, visit the Smart Cities website.",
+          "isoDate": "2026-10-16T18:00:03.000Z"
+        },
+        {
+          "title": "Simulation App Speeds Up Electric Truck Battery Design",
+          "link": "https://spectrum.ieee.org/electric-truck-battery-design-simulation",
+          "summary": "This article is brought to you by COMSOL.\nThese days, no one blinks an eye at two-day, one-day, and even same-day package deliveries. Despite the plethora of localized fulfillment and distribution centers that have cropped up to meet the demand, delivery trucks still need to make considerably long drives, often over highways. To reduce fuel and maintenance costs as well as carbon emissions, companies are investing in electric trucks for their delivery fleets. While turning to electric trucks is a promising solution, the battery packs incorporated into these automotive designs often fall short in the lifetime needed to make long-distance highway travel feasible.\nTo help overcome the issue of battery lifetime, a consortium of universities and industry partners incorporated multiscale simulation and a custom simulation app into the battery manufacturing process. The organizations involved in this project were Aurobay, Resolvent, the European Commission, the Technical University of Denmark (DTU), Vinnova (the Swedish Agency for Innovation Systems), Innovation Fund Denmark, and Volvo Group Trucks Operations.\nThe simulation app, built by Resolvent, a Denmark-based engineering consultancy that specializes in green energy, enables the R&D department at Volvo to easily test battery lifetime performance.\nLaserWho?\nThe Multiscale Simulation of Laser Welding for Optimal Battery Pack Manufacturing project — referred to as “LaserBATMAN” — was initiated in May 2022 and wrapped up in May 2025 (Ref. 1). Although BATMAN here refers to battery manufacturing and not the famous masked superhero, the goals for the project also strove for greatness.\nThe LaserBATMAN project aimed to optimize two key performance metrics for battery packs: robustness and lifetime (Ref. 1). One element of the battery manufacturing process that affects both of these metrics is the laser welding used in component joining processes (for example, to connect battery cells in a pack via a busbar). If done correctly, laser welding can positively impact battery life, but if done incorrectly, laser welding can increase the risk of battery degradation. Computational modeling can be used to analyze and predict the effects of welding and joining processes at different stages of the manufacturing process.\nMartin Refslund Nielsen, former chief commercial officer and partner at Resolvent, explained that for this type of multiphysics and multiscale problem, “COMSOL Multiphysics is just the right tool.”\nR&D Workflow for Multiscale Model and App\nThe Resolvent team used the COMSOL Multiphysics software to study how laser welding affects the electrochemistry and degradation of battery cells. At least, that’s how the project started.\n“Ambitions grew,” Nielsen said, explaining that the team ended up modeling the performance of the entire battery, from cell to pack level, and even “turned [the model] into a design tool in the end”, in reference to the app.\nAfter training the deep neural network of the battery model, the team built a custom simulation app to efficiently optimize busbar tabs in the configuration of a battery pack.\nFirst, the team built an electrochemical model of a battery cell by inputting the formulas for the relevant chemical reaction kinetics (Figure 2). The resulting cell-layer model was then fed input data, and the output data was used to train a deep neural network (DNN). With this reduced-order model, the team was able to quickly gain insight into cell behavior.\nAfter training the DNN of the battery model, the team built a custom simulation app to efficiently optimize busbar tabs in the configuration of a battery pack.\n  Figure 2: The Resolvent battery model.COMSOL\nA “Tool Within a Tool” for Busbar Weld Design\nThe different features of the simulation app, as described by Nielsen, include its options to input dimensions for the pack geometry (Figure 3), the number of cells, and operating conditions such as ambient temperature and charge–discharge current profiles. The app also makes it possible to apply a simple charging current and load customized cycles. Users are then able to see how the battery performs with each set of specific inputs.\n  Figure 3. The battery pack model developed by Resolvent.COMSOL\nAnother important aspect of Resolvent’s app is the Busbar Weld Design Tool button, which Nielsen described as “a tool within a tool.” This button can be used to efficiently calculate busbar weld performance after a number of cycles. After clicking the button, a window opens with options for setting different parameters, including the shape of the weld, busbar thickness, and penetration depth of the laser (Figure 4).\n“[This button] is interesting from a robust design perspective,” said Nielsen. Users can apply a variant to the input parameters to see what happens in production if the weld does not reach far enough into the busbar.\n  Figure 4. Resolvent’s simulation app, showing how certain parameters can be customized. The model shows how the busbar weld is affected by a cooling airflow.COMSOL\n“We certainly get deep technical insight here, and we can dimension the design in the sweet spot. Deep technical insight is also key to optimizing product performance,” Nielsen said. For example, if the results suggest better cooling, the team could potentially reduce the design by two battery cells and retain the same performance, easily quantifying the tradeoff between cooling and setup.\nPredicting Pack Performance\nThe app’s user interface also includes a Compute Battery button, which can be used to see the temperature of the weld in a given state, the state of charge, and the solid–electrolyte interface (SEI) layer thickness (Figure 5). The results can help the engineering team further determine if there is room for optimization in the design. For instance, a user can apply a cooling flow in the app and see if turbulence or standing air occurs.\nAs explained by Nielsen, simulation apps offer more consistent analysis and reporting, and the intuitiveness of custom apps makes it easier to share knowledge. “We are in a much better place to optimize performance and increase robustness,” said Nielsen.\n  Figure 5. Temperature in the given state (left), state of charge (middle), and SEI layer thickness (right) in the battery pack.COMSOL\nThe custom simulation app developed by the LaserBATMAN consortium can be used to help produce more robust battery designs with ranges that can support highway travel over longer distances with fewer failures — all while promoting the use of green energy. A heroic project indeed.\nReferences\n\n“LaserBATMAN,” University of Skovde, accessed 08/21/2025, https://www.his.se/en/research/virtual-engineering/virtual-manufacturing-processes/LaserBatman/.\nR. Nielsen, “Keynote: Optimizing Lifetime and Robustness of Electric Truck Batteries with Simulation Apps,” COMSOL Conference 2024 Florence, October 2024.",
+          "isoDate": "2026-10-16T16:49:18.000Z"
         },
         {
           "title": "Chasing China’s Monazite Monopoly",
@@ -304,18 +316,6 @@
           "link": "https://spectrum.ieee.org/realignment-ieee-regions",
           "summary": "Progress continues in restructuring IEEE’s geographic regions, as outlined in The Institute’s February 2023 article “IEEE Is Realigning Its Geographic Regions.” \n\nThe “Region 1” designation will no longer be used.\nThe new Region 2 will merge what is currently Region 1 (Northeastern U.S.) with the current Region 2 (Eastern U.S.). It will be called Region 2 (Northeastern and Eastern U.S.).\nThe current Region 10 (Asia Pacific) will be divided into two separate regions. The new Region 10 will encompass North Asia, and the new Region 11 will cover South Asia and the Pacific.\n\nThe restructuring is defined in the image of the redrawn map in this article. \nWhat’s underway\nAlthough the new regional alignment will not officially take place until 1 January 2028, several activities have begun within IEEE Member and Geographic Activities (MGA) and across other IEEE organizational units. Within MGA, volunteers and staff have been actively addressing system enhancements, director/director-elect elections, governance updates, communications, and regional finances and offerings.\nNo changes to membership \nWork will continue from now until the effective date of realignment in 2028. The change will not affect your IEEE membership, nor will it change either your local IEEE section or chapter.\nIf you have any questions regarding the realignment, contact Reg-Realignment@ieee.org.",
           "isoDate": "2026-10-14T18:00:03.000Z"
-        },
-        {
-          "title": "Meet the Anthropic Engineer Keeping Its AI Agent Trustworthy",
-          "link": "https://spectrum.ieee.org/anthropic-engineer-ai-agent",
-          "summary": "If you’ve ever wondered how Claude and similar AI agents can answer complex questions in seconds and where they get the information, you’re not alone.\nGurmeet Saran works to find that answer every day as an engineer at Anthropic in San Francisco, the AI research company behind Claude. The IEEE senior member is developing an infrastructure to understand the mechanics behind the chatbot’s behavior and to ensure its underlying architecture produces reliable outputs.\nGurmeet Saran\n\nEmployer \nAnthropic in San Francisco\nTitle \nMember of technical staff\nMember grade \nIEEE senior member\nAlma maters \nUniversity of Kalyani, in India; Birla Institute of Technology and Science, in Pilani, India \n“My job is to make sure the data is accurate, structured, and trustworthy, and that private data stays private,” he says. “As I learned earlier in my career, privacy can’t be a layer you bolt on—it has to be part of the architecture from the start.” If you can’t trust the logic, he adds, you can’t make reliable claims about the behavior, and that has real safety implications.\nSafety is a priority for Anthropic, he says. According to Claude’s mission statement, the company wants the AI agent to be “genuinely helpful to the people it works with or on behalf of, as well as to society, while avoiding actions that are unsafe, unethical, or deceptive.” Crucial to the mission is ensuring that researchers can observe and understand how AI models behave, a challenge that is especially acute for large language models, Saran says.\n“We have decent tools to monitor databases and web services,” he says, “but for LLMs, we’re still figuring it out.”\nSolving data quality problems at Yahoo, Intuit, and Meta\nSaran’s interest in computing systems dates back to his childhood in Kolkata, where he logged as much time as he could in the school computer lab.\n“I remember the first time I used one of the computers,” he says. “What struck me was that you could write instructions, and the machine would follow them exactly. No ambiguity.\n“That felt magical to me.”\nAfter graduating from high school in 1999, he stayed in India to pursue advanced degrees. He earned a bachelor’s degree in electronics and telecommunication engineering in 2004 at the University of Kalyani. In 2010, he earned a master’s degree in software engineering from the Birla Institute of Technology and Science in Pilani.\nWhile a graduate student, he began his career in 2007 at Yahoo as a technical lead of the data team in Bengaluru, India. While there, he encountered the project that shaped his career trajectory: working on web analytics and business intelligence reporting solutions.\n“We kept running into a frustrating problem,” he recalls. “Different teams would calculate the same website metric—something like daily active site users—using slightly different logic, and end up with conflicting answers. It sounds like a small issue, but when leadership is making decisions about resource allocation and product development using that data, not knowing which number is correct becomes a problem.”\nThe team built a central data repository with defined metrics, essentially serving as a single source of truth. Saran created a model that defined what “daily active site users” means, breaking down which events counted, how to handle edge cases (or when standard code fails), and more.\nWith the new model, data teams across the company could rely on a standard method to determine the number of daily active users for the projects and sites they were responsible for and obtain comparable results using the same logic.\nFrom there, Saran and his team built Yahoo! Digits, an internal web analytics tool used for all the company’s products.\nSaran left Yahoo in 2010 to join Intuit as a staff engineer in Mountain View, Calif. He helped build the analytics infrastructure that unified data across the company’s products, including TurboTax and QuickBooks accounting software. During his tenure, Intuit developed a feature that detected fraudulent tax filings in real time. It required Saran and other engineers to build a system to protect taxpayer data while adhering to strict U.S. Internal Revenue Service policies.\n“IEEE operates in a lot of countries where engineers don’t have easy pathways into the global professional community. That kind of connection matters as AI development spreads beyond a handful of organizations.”\n“This taught me that privacy and governance can’t be layers you bolt onto software after the fact,” he says. “They have to be part of the architecture from the start.”\nSaran joined Meta (known as Facebook at the time) in 2016 as a lead software engineer in Menlo Park, Calif. The company was facing controversy over its video metrics: Meta publicly acknowledged an error that caused it to overstate the number of views for posted videos.\n“This wasn’t a coding bug; it was an architectural problem,” Saran says. He built a system that worked similarly to what he had developed at Intuit, whereby one single truth was defined to govern all video view metrics across the site.\nThat system, Metric360, eventually became part of the site’s architecture. By the time he left Meta in 2021, he says, Metric360 was being used across the company to calculate video metrics.\nHe left the company to become a principal software engineer at Wealthfront, a financial services company in Palo Alto, Calif. He helped build the company’s data infrastructure.\nBuilding trustworthy AI systems at Anthropic\nSaran joined Anthropic in 2025 as a member of the technical staff.\nTo describe the implications of his work, he uses a medical analogy: “Imagine a doctor is monitoring a patient’s vital signs and making treatment decisions based on those numbers. What if one or a few of the medical devices used were slightly miscalibrated? Even if most readings are fine, it’s a serious problem because the difficult decisions happen in the margins.\n“It’s the same with AI systems. My job is essentially to make sure the instruments are giving accurate readings—that the data means what it says it means.”\nHis job comes with high stakes and complex problems to solve.\n“AI agents are especially tricky to observe,” he says. “When a system is taking sequences of actions [generating conversational responses with different users], you need a way to capture what it did, what information it was working from, and whether outcomes matched what the end user expected. And you have to do all of that without exposing anyone’s private information—the systems are designed to recognize sensitive data and keep it protected as it flows through. It’s a much more demanding observability problem than anything I’ve worked on before.”\nSolving for system reliability while AI is still in its early days of adoption is both Saran’s passion and the problem that keeps him up at night, he says.\n“I think making AI systems genuinely auditable and transparent is one of the more important engineering problems of the next decade,” he says, “and it doesn’t get talked about as much as model capabilities do.”\nIEEE can play a role in shaping AI development\nSaran joined IEEE in March 2025.\n“After more than 20 years of building data infrastructure across organizations like Yahoo, Intuit, Meta, and Wealthfront,” he says, “I wanted to contribute back to the technical community through peer review, publishing, and engaging with the broader engineering research ecosystem.”\nHe says he believes IEEE can play an essential role in shaping the future of AI through its standards work.\n“We have standards for everything, from building codes to software testing,” he says. “AI infrastructure needs something similar, and IEEE has the credibility and the reach to do that.”\nAnother problem that IEEE can solve for, he says, is access: “IEEE operates in a lot of countries where engineers don’t have easy pathways into the global professional community. That kind of connection matters, especially as AI development spreads beyond a handful of organizations in a few cities.”",
-          "isoDate": "2026-10-12T18:00:02.000Z"
-        },
-        {
-          "title": "First Utility-Scale Enhanced Geothermal Plant Goes Live",
-          "link": "https://spectrum.ieee.org/fervo-cape-station-geothermal",
-          "summary": "This article was originally published by Canary Media.\nThe geothermal startup Fervo Energy is now selling power to the grid from its Cape Station project in Utah—marking the first time a utility-scale, next-generation geothermal facility has achieved such a feat worldwide. \nThe Houston-based firm turned on an initial 33-megawatt unit late last week and has been testing and ramping up output since. On Thursday, Fervo will officially begin commercial operations, supplying carbon-free electricity to Shell Energy, a retail power provider in California. \nCape Station, a $2 billion project that will eventually be 500 MW, is unique among the world’s commercial geothermal plants. While other facilities draw on naturally occurring hot water and steam, Fervo has engineered its own geothermal resource deep underground. The startup uses drilling techniques from the oil and gas industry to create reservoirs in hot, dry rocks that generate steam to produce electricity. \n“Traditional geothermal would have never been done in southern Utah,” says Dawn Owens, Fervo’s senior vice president and head of development and commercial markets. \nWith the first unit online, Fervo says it is working to commission two more 33-MW power blocks by 1 January, 2027. The project’s remaining 400 MW—which is supported by a new agreement with Google—is under construction and slated to come online in 2028. \nFervo’s Next-Generation Geothermal Journey\nFervo already operates a 3.5-MW commercial pilot plant in Nevada, which went online in late 2023. Owens says the pilot, called Project Red, was important for demonstrating the technology itself. But firing up Cape Station proves that Fervo’s approach can achieve utility scale and export power to wider markets. \n“This is massive for both Fervo and the geothermal industry at large,” she says. \nFervo, which went public in May, is leading the fast-growing movement to develop clean, always-on geothermal power to meet soaring demand from data centers and balance growing supplies of intermittent solar and wind energy. Next-generation geothermal firms have raised billions of dollars in private capital in recent years to develop and deploy technologies that can harness energy in harsh, deep environments. \n  Drilling continues at Fervo Energy’s Cape Station geothermal plant in Beaver County, Utah, where the company plans to ramp up production to 500 MW. Fervo Energy\nToday, geothermal represents just 0.4 percent of total U.S. electricity generation every year. Expanding geothermal’s share of the mix will require not just building more projects like Cape Station but also tackling high upfront drilling costs and other economic and regulatory barriers—all while working to limit potential impacts on communities and the environment, experts say. \n“Fervo’s first power achievement shows investors the size and scale of the opportunity to fuel many more such milestones across developers and sites in the future,” says Mitchell Smith, who serves as grid lead for the Mountain West Geothermal Consortium. The bipartisan initiative is calling for increased public and private financing “to help bring more projects online responsibly and at the speed of demand,” he added. \nEnhanced Geothermal Energy Gets Cheaper\nFervo has declined to disclose the terms of its power purchase agreements for in-progress and future development, which together represent about 1,000 MW, or enough to power roughly 1 million U.S. homes every year. Phase 1 of Cape Station is set to deliver power at $7,000 per kilowatt, while Phase 2 should come at $5,500 per kilowatt, the company previously told Canary Media. (By comparison, the average cost to build a natural gas–fired power plant was $2,157 per kilowatt in 2025.) \nAlong with slashing drilling costs, enhanced geothermal projects could improve their economics by delivering power when it’s most valuable to utilities, according to researchers. While geothermal plants traditionally provide around-the-clock, baseload power, next-generation facilities might operate flexibly during certain periods—like in the evening, when solar output declines—to reduce overall grid costs. Geothermal plants could also operate “behind the meter” to directly power data centers so that the costs of adding new electricity capacity aren’t passed on to utility customers, Owens says. \n“We’ve been saying all along that our technology makes geothermal more scalable and affordable in more places,” she says. On Cape Station’s powering-up, she adds, “That’s just something no next-generation geothermal company has ever been able to do before.”",
-          "isoDate": "2026-10-12T13:00:02.000Z"
         }
       ]
     },
@@ -324,57 +324,12 @@
       "maxItems": 120,
       "items": [
         {
-          "title": "RESULTADOS (ÚLTIMOS)",
+          "title": "RESULTADOS (EN DIRECTO)",
           "link": "",
           "summary": ""
         },
         {
-          "title": "LEV  3-3  SEV",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "SAN  2-2  VAL",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "REA  5-2  OSA",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "REA  3-2  DEP",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "ELC  0-0  CEL",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "REA  1-0  VIL",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "BAR  3-0  GET",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "ALA  1-2  ATL",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "MÁL  1-1  ESP",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "VAL  2-3  REA",
+          "title": "DEP  1-0  LEV",
           "link": "",
           "summary": ""
         },
@@ -414,17 +369,17 @@
           "summary": ""
         },
         {
-          "title": " 6  REA   8   4  1  3  12  15  -3  13",
+          "title": " 6  DEP   9   3  4  2  13  11   2  13",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 7  ALA   8   3  2  3  12   8   4  11",
+          "title": " 7  REA   8   4  1  3  12  15  -3  13",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 8  DEP   8   2  4  2  12  11   1  10",
+          "title": " 8  ALA   8   3  2  3  12   8   4  11",
           "link": "",
           "summary": ""
         },
@@ -469,7 +424,7 @@
           "summary": ""
         },
         {
-          "title": "17  LEV   7   1  3  3  11  15  -4   6",
+          "title": "17  LEV   8   1  3  4  11  16  -5   6",
           "link": "",
           "summary": ""
         },
