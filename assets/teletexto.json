@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T03:09:26.189Z",
+  "generatedAt": "2026-10-17T10:12:21.702Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
@@ -72,6 +72,12 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "APOD: 2026 October 17 – 3D 67P",
+          "link": "https://science.nasa.gov/image-article/apod-2026-october-17-3d-67p/",
+          "summary": "APOD Science APOD APOD: 2026 October 17… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. 3D 67P Explanation: Put […]",
+          "isoDate": "2026-10-17T04:05:00.000Z"
+        },
+        {
           "title": "NASA Names Stephen Cash Marshall Space Flight Center Director",
           "link": "https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/",
           "summary": "NASA Administrator Jared Isaacman has named Stephen Cash director of the agency’s Marshall Space Flight Center in Huntsville, Alabama, effective Monday, Oct. 19. Cash, a veteran NASA engineer and aerospace executive, returns to lead the center where he began his career more than four decades ago. “Marshall contributions to NASA’s missions are historic and it’s […]",
@@ -124,12 +130,6 @@
           "link": "https://www.nature.com/articles/d41586-026-03308-4",
           "summary": "Nature, Published online: 16 October 2026; doi:10.1038/d41586-026-03308-4\nBuilding the Nobel-prizewinning neutrino experiment was a big risk. To continue its success, scientists — and funders — need to stay bold.",
           "isoDate": "2026-10-16T00:00:00.000Z"
-        },
-        {
-          "title": "Memory stays strong in old age when this brain enzyme is active",
-          "link": "https://www.nature.com/articles/d41586-026-03303-9",
-          "summary": "Nature, Published online: 16 October 2026; doi:10.1038/d41586-026-03303-9\nData from mouse brains and 13 human brains show a link between levels of a lipid-degrading enzyme and cognitive resilience.",
-          "isoDate": "2026-10-16T00:00:00.000Z"
         }
       ]
     },
@@ -141,12 +141,12 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 74\nColumn: 41\nChar: &",
-          "isoDate": "2026-10-17T03:09:23.621Z"
+          "isoDate": "2026-10-17T10:12:17.558Z"
         },
         {
           "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
           "link": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
-          "summary": "Australia has proposed a switch to force social media platforms to let users turn off recommended content.",
+          "summary": "The Australian government hopes to protect social media users from being served content they don't want to see.",
           "isoDate": "2026-10-16T18:11:29.000Z"
         },
         {
@@ -222,6 +222,12 @@
           "isoDate": "2026-10-16T00:00:00.000Z"
         },
         {
+          "title": "Benefit Street Partners answers questions faster with Codex",
+          "link": "https://openai.com/index/benefit-street-partners",
+          "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+          "isoDate": "2026-10-16T00:00:00.000Z"
+        },
+        {
           "title": "State of Supply Chain Sustainability Report finds corporate commitment at record high, but governance lags behind",
           "link": "https://news.mit.edu/2026/state-of-supply-chain-sustainability-report-1015",
           "summary": "MIT's Center for Transportation and Logistics finds sustainability commitments are strong, but governance gaps and external disruptions prevent execution.",
@@ -256,12 +262,6 @@
           "link": "https://news.mit.edu/2026/collision-between-ai-your-brain-and-society-eric-so-book-1015",
           "summary": "In a new book, Professor Eric So explores how the technology affects our thinking skills.",
           "isoDate": "2026-10-15T04:00:00.000Z"
-        },
-        {
-          "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-          "link": "https://openai.com/index/sullivan-cromwell",
-          "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
-          "isoDate": "2026-10-15T00:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-10-17T03:09:25.318Z"
+          "isoDate": "2026-10-17T10:12:20.441Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 59\nColumn: 58\nChar: =",
-          "isoDate": "2026-10-17T03:09:24.462Z"
+          "isoDate": "2026-10-17T10:12:18.854Z"
         },
         {
           "title": "IEEE Offers More Services to Cities That Want to Be Smarter",
@@ -329,6 +329,36 @@
           "summary": ""
         },
         {
+          "title": "DEP  1-1  LEV",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "LEV  3-3  SEV",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "SAN  2-2  VAL",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "REA  5-2  OSA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "REA  3-2  DEP",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "ELC  0-0  CEL",
+          "link": "",
+          "summary": ""
+        },
+        {
           "title": "REA  1-0  VIL",
           "link": "",
           "summary": ""
@@ -345,36 +375,6 @@
         },
         {
           "title": "MÁL  1-1  ESP",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "VAL  2-3  REA",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "DEP  1-1  REA",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "VIL  3-1  LEV",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "ATL  2-1  REA",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "GET  1-0  MÁL",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "SEV  1-3  BAR",
           "link": "",
           "summary": ""
         },
