@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-10-18T20:08:59.412Z",
+  "generatedAt": "2026-10-19T03:25:44.376Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "A Savannah police officer gave her Flock login to her ICE agent husband",
+          "link": "https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband",
+          "summary": "Now, former Savannah police officer Amber Harpe was fired in August following a department investigation that found she had shared her Flock login information with her husband, Tyler Harpe, an ICE agent. SPD does not share its Flock data with ICE and said sharing access to the system violated the department's security protocols.\nWhile he had unauthorized access to the system, Tyler Harpe conducted 983 searches related to 97 license plates, which were overwhelmingly registered to Hispanic drivers, according to Savannah's local ABC affiliate, WJCL. The Harpes defended their actions, saying they didn't use access for personal reasons and that  …\nRead the full story at The Verge.",
+          "isoDate": "2026-10-18T22:20:53.000Z"
+        },
         {
           "title": "Mister Organ is one of the most unsettling documentaries I’ve ever seen",
           "link": "https://www.theverge.com/entertainment/1013545/mister-organ-horror-documentary-review",
@@ -58,12 +64,6 @@
           "link": "https://www.theverge.com/podcast/1013473/overhead-projector-version-history",
           "summary": "It used to be so easy to get away with things in school. The teacher, after all, was always turned around writing at the chalkboard! But then came a bit of technology, previously mostly used for military purposes, called the overhead projector. It would change far more than just the disciplinary record of students everywhere.\nIn this episode of Version History, we tell the story of the overhead projector. David Pierce is joined by The Verge's Jake Kastrenakes and Stanford professor Antero Garcia to discuss how overhead projectors were developed, how they made their way into classrooms, and how they changed so much about the way kids learn.  …\nRead the full story at The Verge.",
           "isoDate": "2026-10-18T12:55:01.000Z"
-        },
-        {
-          "title": "Cities want to put the boot on robotaxis",
-          "link": "https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws",
-          "summary": "AUSTIN, TEXAS - APRIL 8: Tesla Cybercabs are lined up on a lot at Tesla Giga Texas in Austin, Wednesday, April 8, 2026. | Image: Getty Images\t\n\nThis is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on autonomous vehicles, policy, and road rules, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.\nHow it started\nThe first state to pass a law legalizing self-driving cars operating on public roads was Nevada in June 2011 - long before such vehicles were operating on public roads. This was three years before the introduction of Tesla's Autopilot, five years before Waymo spun out of the Google self-driving car project, and seven years before the first commercial robotaxi  …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-18T12:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,25 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 74\nColumn: 41\nChar: &",
-          "isoDate": "2026-10-18T20:08:54.684Z"
+          "isoDate": "2026-10-19T03:25:41.328Z"
+        },
+        {
+          "title": "China's growth accelerates as AI export boom outweighs domestic weakness",
+          "link": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
+          "summary": "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook.",
+          "isoDate": "2026-10-19T03:17:46.000Z"
+        },
+        {
+          "title": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
+          "link": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
+          "summary": "The announcement comes as Anthropic lays the ground for a blockbuster stock market listing.",
+          "isoDate": "2026-10-19T02:41:41.000Z"
+        },
+        {
+          "title": "Don't fall for this - how to protect yourself from AI scams",
+          "link": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss",
+          "summary": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites.",
+          "isoDate": "2026-10-18T23:24:59.000Z"
         },
         {
           "title": "No further action against government adviser's wife over Palestine Action post, police say",
@@ -178,24 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss",
           "summary": "Smells from rubbish dumps and industrial facilities are being more carefully monitored.",
           "isoDate": "2026-10-15T23:18:21.000Z"
-        },
-        {
-          "title": "GTA 6 - all you need to know about Rockstar's blockbuster game",
-          "link": "https://www.bbc.co.uk/news/articles/c9q20djz4wno?at_medium=RSS&at_campaign=rss",
-          "summary": "A new launch trailer for Grand Theft Auto VI reveals more details about what's set to be the biggest game of the year.",
-          "isoDate": "2026-10-15T14:25:48.000Z"
-        },
-        {
-          "title": "AI giant Anthropic woos potential investors ahead of stock market debut",
-          "link": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
-          "summary": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
-          "isoDate": "2026-10-15T11:34:55.000Z"
-        },
-        {
-          "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
-          "link": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
-          "summary": "Abdulrahman Alfozan had worked for the AI giant for more than a year before he was arrested by the FBI.",
-          "isoDate": "2026-10-14T15:54:04.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-10-18T20:08:58.458Z"
+          "isoDate": "2026-10-19T03:25:43.421Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 59\nColumn: 58\nChar: =",
-          "isoDate": "2026-10-18T20:08:55.970Z"
+          "isoDate": "2026-10-19T03:25:42.457Z"
         },
         {
           "title": "This Hidden Device Could Free Up Gigawatts of Grid Power",
@@ -324,12 +324,57 @@
       "maxItems": 120,
       "items": [
         {
-          "title": "RESULTADOS (EN DIRECTO)",
+          "title": "RESULTADOS (ÚLTIMOS)",
           "link": "",
           "summary": ""
         },
         {
-          "title": "REA  2-0  SEV",
+          "title": "REA  4-1  SEV",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "MÁL  2-5  REA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "CEL  2-1  ALA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "OSA  2-0  SAN",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "VAL  0-0  ATH",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "REA  2-5  BAR",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "VIL  0-0  ELC",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "ESP  0-1  ATL",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "DEP  1-1  LEV",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "LEV  3-3  SEV",
           "link": "",
           "summary": ""
         },
@@ -354,7 +399,7 @@
           "summary": ""
         },
         {
-          "title": " 3  REA   9   7  0  2  21   8  13  21",
+          "title": " 3  REA   9   7  0  2  23   9  14  21",
           "link": "",
           "summary": ""
         },
@@ -369,7 +414,7 @@
           "summary": ""
         },
         {
-          "title": " 6  SEV   9   4  2  3  13  14  -1  14",
+          "title": " 6  SEV   9   4  2  3  14  16  -2  14",
           "link": "",
           "summary": ""
         },
