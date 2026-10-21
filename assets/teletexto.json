@@ -1,69 +1,69 @@
 {
-  "generatedAt": "2026-10-20T21:17:21.687Z",
+  "generatedAt": "2026-10-21T03:28:01.497Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
         {
+          "title": "PHP warns it plans to release 2 emergency patches imminently",
+          "link": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
+          "summary": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
+          "isoDate": "2026-10-21T02:12:18.000Z"
+        },
+        {
+          "title": "YouTube might be testing hiding the dislike button",
+          "link": "https://www.theverge.com/streaming/1015099/youtube-dislike-button-hide-menu",
+          "summary": "YouTube appears to be testing hiding the dislike button on videos, as reported by 9to5Google. At least two users on X have recently shared screenshots of the dislike button now being placed in the three-dots submenu, and a user on Reddit also shared an image of the dislike button being absent for them.\nRight now, for me, the dislike button sits right next to the like button under a video. Moving it to a submenu would make it considerably more of an effort to access, meaning that fewer people would likely use it.\n\n\nYouTube keeps on getting worse…\nFirst the dislike counter got removed,\nthen the button got removed on YouTube Shorts,\nnow the disli …\n\n\nRead the full story at The Verge.",
+          "isoDate": "2026-10-21T00:00:56.000Z"
+        },
+        {
+          "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+          "summary": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote that over the past year, Ann had failed to appear for an independent medical examination or meet other deadlines despite warnings that it would result in the case being dismissed.\nWhen the case was filed last year, a statement shared by Sam Altman, his mother, and his brothers said, \"Annie has made deeply hurtful and entirely untrue claims about our family, and especially Sam… All of these claim …\nRead the full story at The Verge.",
+          "isoDate": "2026-10-20T23:04:19.000Z"
+        },
+        {
+          "title": "Trump is giving Nick Shirley $10,000 and launching a $25 million fraud bounty program",
+          "link": "https://www.theverge.com/news/1014989/trump-fraud-tips-program-nick-shirley-influencers",
+          "summary": "Influencer Nick Shirley listens as US President Donald Trump makes an announcement on fraud in the Oval Office of the White House in Washington, DC, on October 20, 2026. (Photo by Jim WATSON / AFP via Getty Images) | AFP via Getty Images\t\n\nDonald Trump and Vice President JD Vance said on Tuesday that the Trump administration was giving right-wing YouTuber Nick Shirley $10,000 and launching a $25 million bounty program for members of the public to report fraud.\nIn December 2025, Shirley published a viral video alleging fraud at daycares in Minnesota that were operated by members of the local Somali community. Shirley lingered in parking lots and asked to enter childcare centers, taking refusals as evidence that the centers weren't actually caring for children. The video quickly went viral, triggering a massive governmental response: Federal immigration agents descended on the  …\nRead the full story at The Verge.",
+          "isoDate": "2026-10-20T22:20:11.000Z"
+        },
+        {
+          "title": "Google’s more personalized Gemini AI is heading to your car",
+          "link": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+          "summary": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search.\nAs an example, Google says you can ask Gemini about your flight status if you're driving to the airport. The AI assistant can pull your flight details from a confirmation message in Gmail and then use that information to look up the status. You can also ask Gemini to \"take me to my doctor's appointment\" instead of pulling up directions manually, or ask it to \"find the car wash from the photo I t …\nRead the full story at The Verge.",
+          "isoDate": "2026-10-20T22:11:34.000Z"
+        },
+        {
+          "title": "Merging SpaceX and Tesla would be a \"good idea,\" Musk says",
+          "link": "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/",
+          "summary": "\"I do think there's a lot of merit to combining the companies.\"",
+          "isoDate": "2026-10-20T22:04:54.000Z"
+        },
+        {
+          "title": "Cops raid office of RFK Jr. allies planning “unethical” vaccine trial on babies",
+          "link": "https://arstechnica.com/health/2026/10/cops-raid-office-of-rfk-jr-allies-planning-unethical-vaccine-trial-on-babies/",
+          "summary": "Guinea-Bissau police said hepatitis B vaccine doses were taken as part of an investigation.",
+          "isoDate": "2026-10-20T21:44:34.000Z"
+        },
+        {
+          "title": "Tesla and SpaceX are discussing a possible merger, Musk says",
+          "link": "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees",
+          "summary": "Tesla and SpaceX have formed special committees to discuss a possible merger, Elon Musk said during the latter's third quarter earnings call Tuesday. \nMusk, who serves as CEO of both companies, said the special committees were formed at the request of shareholders and consist of independent directors (though he did not name them). He also noted that he is not a member of either committee, nor involved in any of the discussions. \n\"Because I'm a conflicted party, I can't actually be in the discussions of the special committees,\" Musk said. \"So it's an odd kabuki dance where two groups of people are talking and I can't be in the conversation. …\nRead the full story at The Verge.",
+          "isoDate": "2026-10-20T21:30:24.000Z"
+        },
+        {
+          "title": "Microsoft reportedly projects $1,200 to $1,800 price for 2028 Project Helix",
+          "link": "https://arstechnica.com/gaming/2026/10/report-microsofts-project-helix-planned-for-2028-at-1200-to-1800-price/",
+          "summary": "Xbox maker is also apparently planning its own gaming handheld for next year.",
+          "isoDate": "2026-10-20T21:14:33.000Z"
+        },
+        {
           "title": "SpaceX will try catching Starship and its booster for first time, Musk says",
           "link": "https://www.theverge.com/science/1014913/spacex-will-try-catching-starship-and-its-booster-for-first-time-musk-says",
           "summary": "SpaceX CEO Elon Musk said the company would attempt to catch Starship and its booster next month, with the goal of recovering the entire orbital launch system for the first time. If successful, Musk said, the attempt would mark the first time in history an orbital launch vehicle has been fully recovered. \n\"This is a profound technology milestone in the history of civilization consciousness,\" he said during the company's third quarter earnings report Tuesday. \nBut he also allowed for the possibility of a failure. \"Success is not guaranteed on these first flights, but I'd say it's more likely than not that this succeeds next flight,\" Musk sa …\nRead the full story at The Verge.",
           "isoDate": "2026-10-20T21:02:53.000Z"
-        },
-        {
-          "title": "Netflix is telling investors not to worry, even though you&#8217;re watching less and less",
-          "link": "https://www.theverge.com/streaming/1014826/netflix-earnings-q3-2026-viewing-time",
-          "summary": "Netflix is making monetization a top priority amid reports of falling viewing time. As part of its third-quarter earnings report on Tuesday, Netflix lists improvements to monetization as one of its main focuses going forward, alongside efforts to boost entertainment value and leverage new technology.\nThe streaming giant doesn't say exactly how it plans to improve its monetization, but the company notes that these goals will help Netflix \"create member value that lets us occasionally raise prices, and increase advertiser demand.\" Netflix also highlighted plans to push further into original titles, live events, and third-party programming as  …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-20T20:52:07.000Z"
-        },
-        {
-          "title": "Snap is paying Robert Downey Jr. to do the Iron Man thing",
-          "link": "https://www.theverge.com/tech/1014869/snap-specs-robert-downey-jr",
-          "summary": "Snap has a new brand ambassador for its Specs AR glasses: Iron Man actor Robert Downey Jr. The company has brought on Downey as Specs' \"Chief Customer Experience Officer\" and has published several videos featuring Downey showcasing the capabilities of the new glasses, including as a tool to get help with a putt, practice art, and watch a private video of an MMA match in bed. In one video, he also dumps the contents of a box labeled \"AI glasses\" into a trash bin - a shot at Meta's popular smart glasses.\n\nAs part of the partnership, Downey will \"work alongside the SPECS team to explore how augmented reality can improve the way people live and  …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-20T20:32:09.000Z"
-        },
-        {
-          "title": "SpaceX says big AI growth fueled revenue jump",
-          "link": "https://www.theverge.com/science/1014150/spacex-q3-2026-earnings",
-          "summary": "SpaceX announced revenues of $14.6 billion in its Q3 earnings on Tuesday, which it says was a growth of 161 percent year-over-year \"fueled by our Super Intelligence (SI) segment and accelerated growth in Connectivity.\" While its Space division posted a $7 million loss in income from operations, its Connectivity group posted income from operations $2.4 billion and its SI group posted $431 million.\nThe company's so-called \"SI\" business saw revenues of $7.6 billion, which were up 830 percent year-over-year, \"primarily driven\" by \"the activation of new cloud services agreements, the acquisition of Cursor, and increased Grok adoption across ente …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-20T20:26:58.000Z"
-        },
-        {
-          "title": "Oura adds two new cardiovascular health tracking features to its smart rings",
-          "link": "https://www.theverge.com/tech/1014712/oura-smart-rings-track-cardio-effort-vo2-max-cardiovascular",
-          "summary": "Oura is introducing two new cardiovascular-focused health tracking features to its smart rings designed to help users better understand the effect regular workouts and exercise are having on their long-term health, and whether they need to ramp it up or dial things down. Cardio Effort and automatic VO2 Max (previously known as Cardio Capacity) are available for the Oura Ring Gen 3 and later models, but only to users with an active Oura membership.\nInstead of measuring how fast or far a user went during a run or bike ride, or metrics like calories burned, Cardio Effort measures how hard their cardiovascular system was working during exercise …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-20T20:26:04.000Z"
-        },
-        {
-          "title": "JustWatch, which tackles streaming fragmentation, launches own streaming service",
-          "link": "https://arstechnica.com/gadgets/2026/10/justwatch-which-tackles-streaming-fragmentation-launches-own-streaming-service/",
-          "summary": "A lifetime ad-free subscription is available.",
-          "isoDate": "2026-10-20T20:20:12.000Z"
-        },
-        {
-          "title": "TikTok has started censoring searches for popular peptides",
-          "link": "https://www.theverge.com/science/1014825/peptide-tiktok-search-ban",
-          "summary": "Trying to pull up information for certain peptides on TikTok is now returning a \"no results found\" page when searching for terms like semaglutide, BPC-157, retratutide, and others. That hasn't entirely erased visibility on TikTok for peptides, which are combinations of amino acids that include substances like insulin and GLP-1. The problem is peptides also include unregulated, unapproved substances that proponents like RFK Jr. say can assist with everything from weight loss to wound healing, despite a lack of clinical data supporting such claims.\nAs a result, on social media platforms like TikTok, an army of influencer proponents are happy  …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-20T20:16:04.000Z"
-        },
-        {
-          "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
-          "link": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
-          "summary": "Meta changes AI scraping policy but won’t add language respecting robots.txt.",
-          "isoDate": "2026-10-20T20:07:58.000Z"
-        },
-        {
-          "title": "Astrolab’s upcoming rover will run the first LLMs on the moon",
-          "link": "https://www.technologyreview.com/2026/10/20/1147360/astrolab-upcoming-rover-llms-on-the-moon/",
-          "summary": "Large language models are set to go lunar. A computer capable of running AI software is one of the payloads aboard Astrolab’s FLIP lunar rover, which is slated to head to Earth’s celestial companion as early as November 2026. The 480-kilogram FLIP rover, short for “FLEX Lunar Innovation Platform,” is the first in a series…",
-          "isoDate": "2026-10-20T20:07:21.000Z"
-        },
-        {
-          "title": "Gemini's Personal Intelligence is coming to cars",
-          "link": "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/",
-          "summary": "It's probably time to audit your Gemini settings.",
-          "isoDate": "2026-10-20T20:00:33.000Z"
         }
       ]
     },
@@ -72,63 +72,63 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "NASA to Conduct Low-Altitude Flights Over Texas Farmland",
-          "link": "https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland/",
-          "summary": "Editor’s Note: This article was originally published on Oct. 15, 2026, and has been updated to correct the location of the flights. A NASA Dynamic Aviation A200 aircraft will conduct low-flying research flights over farmland near Amarillo, Texas, from Thursday, Oct. 22, through Monday, Nov. 9. These flights will measure gaseous and particulate emissions from […]",
-          "isoDate": "2026-10-20T20:21:36.000Z"
-        },
-        {
-          "title": "NASA’s SR-1 Freedom Advances with Progress on Nuclear Power Module",
-          "link": "https://www.nasa.gov/centers-and-facilities/glenn/sr-1-freedom-advances-with-progress-on-nuclear-power-module/",
-          "summary": "Destined for Mars and beyond, NASA’s Space Reactor-1 (SR-1) Freedom will be humanity’s first fission-powered spacecraft to travel outside Earth’s orbit. Announced during NASA’s “Ignition” event, this mission will demonstrate nuclear electric propulsion in deep space, and progress is underway on its key element: the nuclear power module. To expedite development of the spacecraft, NASA […]",
-          "isoDate": "2026-10-20T18:11:33.000Z"
-        },
-        {
-          "title": "NASA Experimental Mars Helicopter Blade Designs Target Longer Flights ",
-          "link": "https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/",
-          "summary": "NASA researchers are developing the future of flight on Mars, laying the groundwork for helicopters with the ability to fly higher and farther while conducting science on the Red Planet. Using high-fidelity computer simulations and wind tunnel tests, engineers are reimagining the rotorcraft blades that could carry the next generation of Mars flyers.",
-          "isoDate": "2026-10-20T16:02:35.000Z"
-        },
-        {
-          "title": "NASA Provides Progress Update on Moon Base Rovers",
-          "link": "https://www.nasa.gov/missions/moon-base/nasa-provides-progress-update-on-moon-base-rovers/",
-          "summary": "As NASA works to build the Moon Base, crewed and robotic lunar rovers will play a crucial role during early development through technology demonstrations, astronaut transport, terrain mapping, scientific investigations, and resource prospecting. Data from these early missions will inform future mobility systems and infrastructure needed for astronauts to live and work on the Moon. […]",
-          "isoDate": "2026-10-20T15:00:10.000Z"
-        },
-        {
-          "title": "Webb Captures Stellar Jets",
-          "link": "https://www.nasa.gov/image-article/webb-captures-stellar-jets/",
-          "summary": "An image from NASA’s James Webb Space Telescope released on Oct. 6, 2026, reveals a cauldron of cosmic creation. Webb has unveiled numerous stars formerly hidden by clouds of dust in a stellar nursery known as NGC 7129, which resides about 3,300 light-years from Earth. Learn more about this region – and tour it in […]",
-          "isoDate": "2026-10-20T14:44:09.000Z"
-        },
-        {
-          "title": "NASA Welcomes Uzbekistan as Newest Artemis Accords Signatory",
-          "link": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-uzbekistan-as-newest-artemis-accords-signatory/",
-          "summary": "The Republic of Uzbekistan became the 77th signatory of the Artemis Accords during a ceremony in Samarkand on Monday, committing to the practical principles that guide safe, transparent, and responsible civil space exploration. “Uzbekistan joins the Artemis Accords at a pivotal moment,” said NASA Deputy Administrator Matt Anderson. “President Trump has directed NASA to build […]",
-          "isoDate": "2026-10-20T14:21:42.000Z"
-        },
-        {
-          "title": "APOD: 2026 October 20 – An Anticrepuscular Rainbow Fan",
-          "link": "https://science.nasa.gov/image-article/apod-2026-october-20-an-anticrepuscular-rainbow-fan/",
-          "summary": "APOD Science APOD APOD: 2026 October 20 – An… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. An Anticrepuscular […]",
-          "isoDate": "2026-10-20T04:05:00.000Z"
-        },
-        {
-          "title": "The Human Fingerprint on Earth’s Water Cycle",
-          "link": "https://science.nasa.gov/earth/earth-observatory/the-human-fingerprint-on-earths-water-cycle/",
-          "summary": "Human activities have become intertwined with how water is distributed across the continents. A new study brings their effects into sharper focus.",
-          "isoDate": "2026-10-20T04:01:00.000Z"
-        },
-        {
-          "title": "Curiosity Blog, Sols 5036-5042: Watching the Clouds Go By",
-          "link": "https://science.nasa.gov/blog/curiosity-blog-sols-5036-5042-watching-the-clouds-go-by/",
-          "summary": "Written by Alex Innanen, Atmospheric Scientist at York University Earth planning date: Friday, Oct. 9, 2026 Happy New Mars Year! We mark the start of a new year on Mars at the beginning of the northern hemisphere spring, or the vernal equinox. We then keep track of the seasons by counting degrees of solar longitude […]",
-          "isoDate": "2026-10-20T01:21:38.000Z"
+          "title": "ERROR cargando feed",
+          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
+          "isoDate": "2026-10-21T03:27:57.372Z"
         },
         {
           "title": "Is it ‘moon-stroke’, or a chill?",
           "link": "https://www.nature.com/articles/d41586-026-02975-7",
           "summary": "Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-02975-7\nAn explanation for the injurious effect of sleeping in the moonlight, and a proponent of all-electronic televisions, in this week’s pick from the Nature archive.",
+          "isoDate": "2026-10-20T00:00:00.000Z"
+        },
+        {
+          "title": "Bundle water safeguards into critical-mineral licences",
+          "link": "https://www.nature.com/articles/d41586-026-03353-z",
+          "summary": "Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-03353-z\nBundle water safeguards into critical-mineral licences",
+          "isoDate": "2026-10-20T00:00:00.000Z"
+        },
+        {
+          "title": "Nobel-prizewinning breakthroughs can emerge from neglected organisms",
+          "link": "https://www.nature.com/articles/d41586-026-03351-1",
+          "summary": "Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-03351-1\nNobel-prizewinning breakthroughs can emerge from neglected organisms",
+          "isoDate": "2026-10-20T00:00:00.000Z"
+        },
+        {
+          "title": "Conservation planning should follow animal clocks",
+          "link": "https://www.nature.com/articles/d41586-026-03354-y",
+          "summary": "Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-03354-y\nConservation planning should follow animal clocks",
+          "isoDate": "2026-10-20T00:00:00.000Z"
+        },
+        {
+          "title": "Europe and the rest of the world must come up with an answer to US science strategy",
+          "link": "https://www.nature.com/articles/d41586-026-03352-0",
+          "summary": "Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-03352-0\nEurope and the rest of the world must come up with an answer to US science strategy",
+          "isoDate": "2026-10-20T00:00:00.000Z"
+        },
+        {
+          "title": "Butterfly wing patterns make motion hard to read",
+          "link": "https://www.nature.com/articles/d41586-026-03062-7",
+          "summary": "Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-03062-7\nMovement can expose camouflaged prey, yet whether colour patterns help moving prey to avoid capture is a long-standing puzzle. Butterfly wings might offer an answer.",
+          "isoDate": "2026-10-20T00:00:00.000Z"
+        },
+        {
+          "title": "<i>Nature</i>’s job-satisfaction survey highlights the changing geography of science",
+          "link": "https://www.nature.com/articles/d41586-026-03327-1",
+          "summary": "Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-03327-1\nA higher proportion of scientists in China and India report feeling optimistic about the future than in the United States and several European countries.",
+          "isoDate": "2026-10-20T00:00:00.000Z"
+        },
+        {
+          "title": "Will this sleep-disorder drug be the next big blockbuster?",
+          "link": "https://www.nature.com/articles/d41586-026-03310-w",
+          "summary": "Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-03310-w\nOrexin agonists have been approved for the treatment of a type of narcolepsy, yet they could also treat conditions across the health spectrum.",
+          "isoDate": "2026-10-20T00:00:00.000Z"
+        },
+        {
+          "title": "Can a human survive in a whale’s belly? The science behind the thriller <i>Whalefall</i>",
+          "link": "https://www.nature.com/articles/d41586-026-03358-8",
+          "summary": "Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-03358-8\nNature spoke to marine and anatomy specialists about the ‘modern-day Jonah’ film. Warning: spoilers ahead.",
           "isoDate": "2026-10-20T00:00:00.000Z"
         }
       ]
@@ -141,7 +141,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 74\nColumn: 41\nChar: &",
-          "isoDate": "2026-10-20T21:17:16.889Z"
+          "isoDate": "2026-10-21T03:27:58.383Z"
+        },
+        {
+          "title": "Elon Musk says Tesla-SpaceX merger being considered",
+          "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+          "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
+          "isoDate": "2026-10-20T23:24:47.000Z"
+        },
+        {
+          "title": "The tech helping crack decades-old cold cases",
+          "link": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
+          "summary": "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy.",
+          "isoDate": "2026-10-20T23:13:24.000Z"
         },
         {
           "title": "Tech Life",
@@ -184,18 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cv5ynp1j45x2o?at_medium=RSS&at_campaign=rss",
           "summary": "Claims that Uber misled TfL over its licence were thrown out because they were brought too late.",
           "isoDate": "2026-10-19T12:58:39.000Z"
-        },
-        {
-          "title": "Musk and Anthropic pledge public share giveaways ",
-          "link": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
-          "summary": "Musk's announcement comes after Anthropic pledged to create a public benefit fund ahead of its blockbuster stock market listing.",
-          "isoDate": "2026-10-19T09:38:25.000Z"
-        },
-        {
-          "title": "China's growth accelerates as AI boom helps boost exports",
-          "link": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
-          "summary": "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook.",
-          "isoDate": "2026-10-19T06:08:02.000Z"
         }
       ]
     },
@@ -208,6 +208,12 @@
           "link": "https://openai.com/index/ted-taylor-restaurant",
           "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
           "isoDate": "2026-10-20T10:00:00.000Z"
+        },
+        {
+          "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+          "link": "https://openai.com/index/terminal-x",
+          "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+          "isoDate": "2026-10-20T07:00:00.000Z"
         },
         {
           "title": "OpenAI acquires Orchestra Bio",
@@ -246,22 +252,16 @@
           "isoDate": "2026-10-16T16:00:00.000Z"
         },
         {
-          "title": "Benefit Street Partners answers questions faster with Codex",
-          "link": "https://openai.com/index/benefit-street-partners",
-          "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
-          "isoDate": "2026-10-16T00:00:00.000Z"
-        },
-        {
           "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
           "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
           "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
           "isoDate": "2026-10-16T00:00:00.000Z"
         },
         {
-          "title": "State of Supply Chain Sustainability Report finds corporate commitment at record high, but governance lags behind",
-          "link": "https://news.mit.edu/2026/state-of-supply-chain-sustainability-report-1015",
-          "summary": "MIT's Center for Transportation and Logistics finds sustainability commitments are strong, but governance gaps and external disruptions prevent execution.",
-          "isoDate": "2026-10-15T21:00:00.000Z"
+          "title": "Benefit Street Partners answers questions faster with Codex",
+          "link": "https://openai.com/index/benefit-street-partners",
+          "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+          "isoDate": "2026-10-16T00:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-10-20T21:17:20.688Z"
+          "isoDate": "2026-10-21T03:28:00.423Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 59\nColumn: 58\nChar: =",
-          "isoDate": "2026-10-20T21:17:17.948Z"
+          "isoDate": "2026-10-21T03:27:59.411Z"
         },
         {
           "title": "IEEE Report Highlights How Members Are Engineering for Public Good",
