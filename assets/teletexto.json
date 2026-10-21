@@ -1,10 +1,52 @@
 {
-  "generatedAt": "2026-10-21T03:28:01.497Z",
+  "generatedAt": "2026-10-21T11:13:48.897Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "We can do impossible things",
+          "link": "https://www.technologyreview.com/2026/10/21/1146053/editor-letter-we-can-do-impossible-things/",
+          "summary": "I’d wager everyone has a rehearsed response to what’s absolutely one of the world’s worst interview questions: “What’s your biggest weakness?” Whenever I’ve gotten it, I take a slow—even pensive—breath and rattle off my line: “I say no to myself too much.”  I won’t lie. It’s a bit shameless—a definite humblebrag. I’m a systems thinker:…",
+          "isoDate": "2026-10-21T09:00:00.000Z"
+        },
+        {
+          "title": "Nuclear-powered spaceships",
+          "link": "https://www.technologyreview.com/2026/10/21/1146061/nuclear-powered-spaceships-impossible-issue/",
+          "summary": "Just before the Artemis II crew began its historic slingshot around the moon this past April, NASA announced plans to build Space Reactor-1 Freedom. SR-1, the first-ever nuclear-reactor-­powered interplanetary spacecraft, is meant to fly an uncrewed mission to Mars by the end of 2028, arriving in 2029. A successful mission would herald a new era…",
+          "isoDate": "2026-10-21T09:00:00.000Z"
+        },
+        {
+          "title": "Exercise in a pill",
+          "link": "https://www.technologyreview.com/2026/10/21/1146121/exercise-in-a-pill-impossible-issue/",
+          "summary": "We all know exercise is good for us. It builds muscle, strengthens bones, lowers blood pressure, and boosts mood. By deciphering how movement benefits the body, researchers hope to develop medicines that can offer some of the same perks—without the workout. The idea isn’t to replace exercise but to bring its upsides to people who…",
+          "isoDate": "2026-10-21T09:00:00.000Z"
+        },
+        {
+          "title": "Interspecies communication",
+          "link": "https://www.technologyreview.com/2026/10/21/1146124/interspecies-communication-impossible-issue/",
+          "summary": "Humans are far from the only species with a gift for gab, and our furry, feathered, and finned friends could have a lot to tell us. Decoding how animals communicate with one another could offer a window into the inner lives of other species and help humans realize that “animals are sentient creatures who think,…",
+          "isoDate": "2026-10-21T09:00:00.000Z"
+        },
+        {
+          "title": "Cleaning up PFAS",
+          "link": "https://www.technologyreview.com/2026/10/21/1146128/cleaning-up-pfas-impossible-issue/",
+          "summary": "Scrubbing Earth of per- and polyfluoroalkyl substances—a.k.a. PFAS or forever chemicals—could eliminate a list of woes for people and planet. Used for decades in everything from nonstick pans to firefighting foams, PFAS have been linked to increased risks of fertility challenges, developmental delays, cancer, and reduced immune response. They are known for a strong bond…",
+          "isoDate": "2026-10-21T09:00:00.000Z"
+        },
+        {
+          "title": "Solid-state batteries",
+          "link": "https://www.technologyreview.com/2026/10/21/1146137/solid-state-batteries-impossible-issue/",
+          "summary": "The rise of the lithium-ion battery, which powers everything from the smallest personal electronics to gargantuan energy storage systems, has been nothing short of revolutionary. But as anyone who’s boarded a plane in the last decade could tell you, storing and pumping out energy by moving charged lithium ions through a liquid electrolyte soup has…",
+          "isoDate": "2026-10-21T09:00:00.000Z"
+        },
+        {
+          "title": "Eliminating traffic deaths",
+          "link": "https://www.technologyreview.com/2026/10/21/1146141/eliminating-traffic-deaths-impossible-issue/",
+          "summary": "Every year, traffic crashes kill more than one million people, and they’re the leading cause of death for children and young adults. In the US, 100 people a day lose their lives this way, in many cases not on highways but on rural and local streets. “Traffic deaths are a leading cause of preventable death,…",
+          "isoDate": "2026-10-21T09:00:00.000Z"
+        },
         {
           "title": "PHP warns it plans to release 2 emergency patches imminently",
           "link": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
@@ -22,48 +64,6 @@
           "link": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
           "summary": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote that over the past year, Ann had failed to appear for an independent medical examination or meet other deadlines despite warnings that it would result in the case being dismissed.\nWhen the case was filed last year, a statement shared by Sam Altman, his mother, and his brothers said, \"Annie has made deeply hurtful and entirely untrue claims about our family, and especially Sam… All of these claim …\nRead the full story at The Verge.",
           "isoDate": "2026-10-20T23:04:19.000Z"
-        },
-        {
-          "title": "Trump is giving Nick Shirley $10,000 and launching a $25 million fraud bounty program",
-          "link": "https://www.theverge.com/news/1014989/trump-fraud-tips-program-nick-shirley-influencers",
-          "summary": "Influencer Nick Shirley listens as US President Donald Trump makes an announcement on fraud in the Oval Office of the White House in Washington, DC, on October 20, 2026. (Photo by Jim WATSON / AFP via Getty Images) | AFP via Getty Images\t\n\nDonald Trump and Vice President JD Vance said on Tuesday that the Trump administration was giving right-wing YouTuber Nick Shirley $10,000 and launching a $25 million bounty program for members of the public to report fraud.\nIn December 2025, Shirley published a viral video alleging fraud at daycares in Minnesota that were operated by members of the local Somali community. Shirley lingered in parking lots and asked to enter childcare centers, taking refusals as evidence that the centers weren't actually caring for children. The video quickly went viral, triggering a massive governmental response: Federal immigration agents descended on the  …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-20T22:20:11.000Z"
-        },
-        {
-          "title": "Google’s more personalized Gemini AI is heading to your car",
-          "link": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
-          "summary": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search.\nAs an example, Google says you can ask Gemini about your flight status if you're driving to the airport. The AI assistant can pull your flight details from a confirmation message in Gmail and then use that information to look up the status. You can also ask Gemini to \"take me to my doctor's appointment\" instead of pulling up directions manually, or ask it to \"find the car wash from the photo I t …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-20T22:11:34.000Z"
-        },
-        {
-          "title": "Merging SpaceX and Tesla would be a \"good idea,\" Musk says",
-          "link": "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/",
-          "summary": "\"I do think there's a lot of merit to combining the companies.\"",
-          "isoDate": "2026-10-20T22:04:54.000Z"
-        },
-        {
-          "title": "Cops raid office of RFK Jr. allies planning “unethical” vaccine trial on babies",
-          "link": "https://arstechnica.com/health/2026/10/cops-raid-office-of-rfk-jr-allies-planning-unethical-vaccine-trial-on-babies/",
-          "summary": "Guinea-Bissau police said hepatitis B vaccine doses were taken as part of an investigation.",
-          "isoDate": "2026-10-20T21:44:34.000Z"
-        },
-        {
-          "title": "Tesla and SpaceX are discussing a possible merger, Musk says",
-          "link": "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees",
-          "summary": "Tesla and SpaceX have formed special committees to discuss a possible merger, Elon Musk said during the latter's third quarter earnings call Tuesday. \nMusk, who serves as CEO of both companies, said the special committees were formed at the request of shareholders and consist of independent directors (though he did not name them). He also noted that he is not a member of either committee, nor involved in any of the discussions. \n\"Because I'm a conflicted party, I can't actually be in the discussions of the special committees,\" Musk said. \"So it's an odd kabuki dance where two groups of people are talking and I can't be in the conversation. …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-20T21:30:24.000Z"
-        },
-        {
-          "title": "Microsoft reportedly projects $1,200 to $1,800 price for 2028 Project Helix",
-          "link": "https://arstechnica.com/gaming/2026/10/report-microsofts-project-helix-planned-for-2028-at-1200-to-1800-price/",
-          "summary": "Xbox maker is also apparently planning its own gaming handheld for next year.",
-          "isoDate": "2026-10-20T21:14:33.000Z"
-        },
-        {
-          "title": "SpaceX will try catching Starship and its booster for first time, Musk says",
-          "link": "https://www.theverge.com/science/1014913/spacex-will-try-catching-starship-and-its-booster-for-first-time-musk-says",
-          "summary": "SpaceX CEO Elon Musk said the company would attempt to catch Starship and its booster next month, with the goal of recovering the entire orbital launch system for the first time. If successful, Musk said, the attempt would mark the first time in history an orbital launch vehicle has been fully recovered. \n\"This is a profound technology milestone in the history of civilization consciousness,\" he said during the company's third quarter earnings report Tuesday. \nBut he also allowed for the possibility of a failure. \"Success is not guaranteed on these first flights, but I'd say it's more likely than not that this succeeds next flight,\" Musk sa …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-20T21:02:53.000Z"
         }
       ]
     },
@@ -72,64 +72,64 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "ERROR cargando feed",
-          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
-          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-10-21T03:27:57.372Z"
+          "title": "APOD: 2026 October 21 – New Ghosts Revealed in Cassiopeia",
+          "link": "https://science.nasa.gov/image-article/apod-2026-october-21-new-ghosts-revealed-in-cassiopeia/",
+          "summary": "APOD Science APOD APOD: 2026 October 21 – New… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. OriginalAnnotated New […]",
+          "isoDate": "2026-10-21T04:05:00.000Z"
         },
         {
-          "title": "Is it ‘moon-stroke’, or a chill?",
-          "link": "https://www.nature.com/articles/d41586-026-02975-7",
-          "summary": "Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-02975-7\nAn explanation for the injurious effect of sleeping in the moonlight, and a proponent of all-electronic televisions, in this week’s pick from the Nature archive.",
-          "isoDate": "2026-10-20T00:00:00.000Z"
+          "title": "Extratropical Cyclone Whips Past Iceland",
+          "link": "https://science.nasa.gov/earth/earth-observatory/extratropical-cyclone-whips-past-iceland/",
+          "summary": "The powerful low-pressure system formed over the North Atlantic out of the remnants of Hurricane Isaias.",
+          "isoDate": "2026-10-21T04:01:00.000Z"
         },
         {
-          "title": "Bundle water safeguards into critical-mineral licences",
-          "link": "https://www.nature.com/articles/d41586-026-03353-z",
-          "summary": "Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-03353-z\nBundle water safeguards into critical-mineral licences",
-          "isoDate": "2026-10-20T00:00:00.000Z"
+          "title": "Author Correction: Catalyst-free, microdroplet-mediated waste plastic conversion to diacids",
+          "link": "https://www.nature.com/articles/s41586-026-11252-6",
+          "summary": "Nature, Published online: 21 October 2026; doi:10.1038/s41586-026-11252-6\nAuthor Correction: Catalyst-free, microdroplet-mediated waste plastic conversion to diacids",
+          "isoDate": "2026-10-21T00:00:00.000Z"
         },
         {
-          "title": "Nobel-prizewinning breakthroughs can emerge from neglected organisms",
-          "link": "https://www.nature.com/articles/d41586-026-03351-1",
-          "summary": "Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-03351-1\nNobel-prizewinning breakthroughs can emerge from neglected organisms",
-          "isoDate": "2026-10-20T00:00:00.000Z"
+          "title": "Global emissions slow — but world hurtles towards 2 °C of warming",
+          "link": "https://www.nature.com/articles/d41586-026-03355-x",
+          "summary": "Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03355-x\nThe United Nations’ latest climate report is a stark reminder that limiting warming to the safest levels is now likely out of reach.",
+          "isoDate": "2026-10-21T00:00:00.000Z"
         },
         {
-          "title": "Conservation planning should follow animal clocks",
-          "link": "https://www.nature.com/articles/d41586-026-03354-y",
-          "summary": "Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-03354-y\nConservation planning should follow animal clocks",
-          "isoDate": "2026-10-20T00:00:00.000Z"
+          "title": "How tech billionaires are disrupting biomedical science",
+          "link": "https://www.nature.com/articles/d41586-026-03311-9",
+          "summary": "Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03311-9\nMoney from the world’s increasingly prosperous technology entrepreneurs has been flooding into biomedical research. Is it changing how science is done?",
+          "isoDate": "2026-10-21T00:00:00.000Z"
         },
         {
-          "title": "Europe and the rest of the world must come up with an answer to US science strategy",
-          "link": "https://www.nature.com/articles/d41586-026-03352-0",
-          "summary": "Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-03352-0\nEurope and the rest of the world must come up with an answer to US science strategy",
-          "isoDate": "2026-10-20T00:00:00.000Z"
+          "title": "How a new wave of science philanthropists can have the greatest impact",
+          "link": "https://www.nature.com/articles/d41586-026-03326-2",
+          "summary": "Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03326-2\nTech entrepreneurs are bringing an engineer’s eye to research funding. They must be open about their findings to reap maximum benefit.",
+          "isoDate": "2026-10-21T00:00:00.000Z"
         },
         {
-          "title": "Butterfly wing patterns make motion hard to read",
-          "link": "https://www.nature.com/articles/d41586-026-03062-7",
-          "summary": "Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-03062-7\nMovement can expose camouflaged prey, yet whether colour patterns help moving prey to avoid capture is a long-standing puzzle. Butterfly wings might offer an answer.",
-          "isoDate": "2026-10-20T00:00:00.000Z"
+          "title": "NASA to Conduct Low-Altitude Flights Over Texas Farmland",
+          "link": "https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland/",
+          "summary": "Editor’s Note: This article was originally published on Oct. 15, 2026, and has been updated to correct the location of the flights. A NASA Dynamic Aviation A200 aircraft will conduct low-flying research flights over farmland near Amarillo, Texas, from Thursday, Oct. 22, through Monday, Nov. 9. These flights will measure gaseous and particulate emissions from […]",
+          "isoDate": "2026-10-20T20:21:36.000Z"
         },
         {
-          "title": "<i>Nature</i>’s job-satisfaction survey highlights the changing geography of science",
-          "link": "https://www.nature.com/articles/d41586-026-03327-1",
-          "summary": "Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-03327-1\nA higher proportion of scientists in China and India report feeling optimistic about the future than in the United States and several European countries.",
-          "isoDate": "2026-10-20T00:00:00.000Z"
+          "title": "NASA’s SR-1 Freedom Advances with Progress on Nuclear Power Module",
+          "link": "https://www.nasa.gov/centers-and-facilities/glenn/sr-1-freedom-advances-with-progress-on-nuclear-power-module/",
+          "summary": "Destined for Mars and beyond, NASA’s Space Reactor-1 (SR-1) Freedom will be humanity’s first fission-powered spacecraft to travel outside Earth’s orbit. Announced during NASA’s “Ignition” event, this mission will demonstrate nuclear electric propulsion in deep space, and progress is underway on its key element: the nuclear power module. To expedite development of the spacecraft, NASA […]",
+          "isoDate": "2026-10-20T18:11:33.000Z"
         },
         {
-          "title": "Will this sleep-disorder drug be the next big blockbuster?",
-          "link": "https://www.nature.com/articles/d41586-026-03310-w",
-          "summary": "Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-03310-w\nOrexin agonists have been approved for the treatment of a type of narcolepsy, yet they could also treat conditions across the health spectrum.",
-          "isoDate": "2026-10-20T00:00:00.000Z"
+          "title": "NASA Experimental Mars Helicopter Blade Designs Target Longer Flights ",
+          "link": "https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/",
+          "summary": "NASA researchers are developing the future of flight on Mars, laying the groundwork for helicopters with the ability to fly higher and farther while conducting science on the Red Planet. Using high-fidelity computer simulations and wind tunnel tests, engineers are reimagining the rotorcraft blades that could carry the next generation of Mars flyers.",
+          "isoDate": "2026-10-20T16:02:35.000Z"
         },
         {
-          "title": "Can a human survive in a whale’s belly? The science behind the thriller <i>Whalefall</i>",
-          "link": "https://www.nature.com/articles/d41586-026-03358-8",
-          "summary": "Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-03358-8\nNature spoke to marine and anatomy specialists about the ‘modern-day Jonah’ film. Warning: spoilers ahead.",
-          "isoDate": "2026-10-20T00:00:00.000Z"
+          "title": "NASA Provides Progress Update on Moon Base Rovers",
+          "link": "https://www.nasa.gov/missions/moon-base/nasa-provides-progress-update-on-moon-base-rovers/",
+          "summary": "As NASA works to build the Moon Base, crewed and robotic lunar rovers will play a crucial role during early development through technology demonstrations, astronaut transport, terrain mapping, scientific investigations, and resource prospecting. Data from these early missions will inform future mobility systems and infrastructure needed for astronauts to live and work on the Moon. […]",
+          "isoDate": "2026-10-20T15:00:10.000Z"
         }
       ]
     },
@@ -141,13 +141,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 74\nColumn: 41\nChar: &",
-          "isoDate": "2026-10-21T03:27:58.383Z"
+          "isoDate": "2026-10-21T11:13:44.959Z"
         },
         {
-          "title": "Elon Musk says Tesla-SpaceX merger being considered",
+          "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
           "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
           "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
-          "isoDate": "2026-10-20T23:24:47.000Z"
+          "isoDate": "2026-10-21T08:42:49.000Z"
+        },
+        {
+          "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
+          "link": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+          "summary": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
+          "isoDate": "2026-10-21T06:36:39.000Z"
         },
         {
           "title": "The tech helping crack decades-old cold cases",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
           "summary": "The Chinese technology is removed from most US government agencies as race for AI dominance steps up.",
           "isoDate": "2026-10-19T18:21:54.000Z"
-        },
-        {
-          "title": "Uber wins bid to throw out £200m black cab claims",
-          "link": "https://www.bbc.co.uk/news/articles/cv5ynp1j45x2o?at_medium=RSS&at_campaign=rss",
-          "summary": "Claims that Uber misled TfL over its licence were thrown out because they were brought too late.",
-          "isoDate": "2026-10-19T12:58:39.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-10-21T03:28:00.423Z"
+          "isoDate": "2026-10-21T11:13:47.971Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 59\nColumn: 58\nChar: =",
-          "isoDate": "2026-10-21T03:27:59.411Z"
+          "isoDate": "2026-10-21T11:13:46.026Z"
         },
         {
           "title": "IEEE Report Highlights How Members Are Engineering for Public Good",
