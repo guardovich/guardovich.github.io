@@ -1,10 +1,58 @@
 {
-  "generatedAt": "2026-10-21T21:17:09.841Z",
+  "generatedAt": "2026-10-22T03:27:38.479Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "YouTube says it isn’t testing hiding the dislike button",
+          "link": "https://www.theverge.com/streaming/1016206/youtube-dislike-button-videos",
+          "summary": "On Tuesday, I published a story about how YouTube appeared to be testing hiding the dislike button on videos, with at least two users on X sharing screenshots of the dislike button moved into the three-dot menu. But a YouTube spokesperson, in a Wednesday statement to The Verge, confirmed that YouTube is \"not testing hiding the dislike button on YouTube for users.\"\nHowever, YouTube is introducing a new UI for creators on their uploaded videos where the dislike button will be moved.\nHere's the full statement, from spokesperson Kimberly Taylor:\nWe are not testing hiding the dislike button on YouTube for users. We're introducing a new UI for …\n\nRead the full story at The Verge.",
+          "isoDate": "2026-10-21T23:46:45.000Z"
+        },
+        {
+          "title": "Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen?",
+          "link": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
+          "summary": "For years, Elon Musk has been making big promises to Tesla owners about unsupervised autonomous driving and the ability to add their own vehicles to the company's robotaxi fleet. During today's third-quarter earnings call, the company finally gave itself a deadline. \nAccording to Tesla VP for Autonomous Driving Ashok Elluswamy, Tesla owners will be able to add their own vehicles to the company's robotaxi fleet in the second quarter of 2027. Here's his exact quote (emphasis ours):\nLike I mentioned earlier, the software for Cybercabs and Model Y is the same. And pretty soon we'll be able to release the same software as part of the V15 relea …\n\nRead the full story at The Verge.",
+          "isoDate": "2026-10-21T23:36:31.000Z"
+        },
+        {
+          "title": "Data centers could erase decades of air quality gains",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+          "summary": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI.\nNew and proposed data centers are demanding a tremendous amount of electricity. How developers and utilities meet that demand - with gas turbines or renewable energy - will determine just how dirty things will get. So far, though, things are looking grim.\nTech companies and data center developers are devising new ways to get enough electricity, including building out their own power sources. But if all planned data center projects were to plug into  …\nRead the full story at The Verge.",
+          "isoDate": "2026-10-21T22:33:44.000Z"
+        },
+        {
+          "title": "FCC chair warns media not to run the \"fake polls\" Trump keeps complaining about",
+          "link": "https://arstechnica.com/tech-policy/2026/10/fcc-chair-warns-media-not-to-run-the-fake-polls-trump-keeps-complaining-about/",
+          "summary": "Ex-FCC chairs say Brendan Carr aims to scare broadcasters into self-censorship.",
+          "isoDate": "2026-10-21T22:17:50.000Z"
+        },
+        {
+          "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought",
+          "link": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/",
+          "summary": "Time-based a la carte charges come on top of the purchase price for the games themselves.",
+          "isoDate": "2026-10-21T22:06:07.000Z"
+        },
+        {
+          "title": "Enterprises keep buying software upgrades that IT thinks will make things worse",
+          "link": "https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades/",
+          "summary": "Survey of 2,018 IT heads at big firms points to a lack of leverage.",
+          "isoDate": "2026-10-21T21:48:52.000Z"
+        },
+        {
+          "title": "Tesla profits drop 43% in Q3",
+          "link": "https://arstechnica.com/cars/2026/10/tesla-profits-drop-43-in-q3/",
+          "summary": "Tesla’s once-booming energy storage business also shrunk in Q3 2026.",
+          "isoDate": "2026-10-21T21:35:07.000Z"
+        },
+        {
+          "title": "Meta to create a new class of shares to fund AI push",
+          "link": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
+          "summary": "Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go toward potential acquisitions and employee compensation, with trading beginning in 2027.\n\"The scale of investment required to compete, sustain growth, expand infrastructure, and pursue new strategic initiatives amidst the AI transformation taking place in the industry is significant,\" Meta says in the press release. Susan Li, Meta's chief financial officer, added during an earnings call that the new class of shares will \"expand our funding tools and gi …\nRead the full story at The Verge.",
+          "isoDate": "2026-10-21T21:30:02.000Z"
+        },
         {
           "title": "New York’s first microdrama film festival searches for its audience",
           "link": "https://www.theverge.com/entertainment/1014494/alza-vertical-film-festival-bill-block-salvador-paskowitz-microdramas-verticals",
@@ -16,54 +64,6 @@
           "link": "https://www.theverge.com/tech/1015877/meta-q3-2026-earnings-child-safety-settlement",
           "summary": "Meta had to shell out $9.89 billion to pay for a chunk of the child safety settlement it reached with US attorneys general. That's according to the company's third-quarter earnings report released on Wednesday, which says Meta's income from operations would have been $22.89 billion without the settlement.\nIn August, Meta agreed to pay $17.1 billion to settle a massive nationwide lawsuit that claimed the company harmed children by making its social media platforms \"addictive\" by design. It will also only pay $5.3 billion of this amount if YouTube and TikTok implement stricter settings and safeguards for kids, which Meta also agreed to as par …\nRead the full story at The Verge.",
           "isoDate": "2026-10-21T20:46:56.000Z"
-        },
-        {
-          "title": "PHP: The three letters that shut down sites all over the internet today",
-          "link": "https://www.theverge.com/tech/1015906/php2shell-vulnerability-october-2026",
-          "summary": "Two bugs found with AI are behind major issues today for 4chan, DeviantArt, Wikipedia, and the blog where the bar around the corner posts pictures of people's dogs. The \"critical vulnerabilities\" were discovered in the PHP programming language, which underpins much of the internet, including any site built on WordPress. But it's far bigger than that. Some Dutch and Finnish government agencies took their sites down as a precaution. The NSA Cybersecurity account on X recommended that organizations take their systems offline if \"an immediate update is not feasible,\" as did the UK's National Cyber Security Center. Even Pokémon Home and Pokémon C …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-21T20:36:56.000Z"
-        },
-        {
-          "title": "Flying Roadsters can’t lift Tesla’s flat Q3 revenues",
-          "link": "https://www.theverge.com/transportation/1015790/tesla-q3-2026-earnings-revenue-profit-roadster-spacex-merger",
-          "summary": "As the smoke clears from its outrageous Roadster demo, Tesla reported Q3 earnings on Wednesday - and the cold reality is that revenue has flatlined.\nTesla said it earned $1.7 billion in net income on $28.0 billion in revenue in the quarter that ended in September 2026. Revenues were flat, while profits dropped 4 percent compared to the third quarter of 2025, when the company earned $1.4 billion in net income on $28.1 billion in revenue. Tesla's revenue came in above Wall Street expectations of $27.9 billion, according to data compiled by LSEG. Tesla's own company-compiled expectations predicted Q3 revenues of $28.3 billion.  \nThe earnings  …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-21T20:22:31.000Z"
-        },
-        {
-          "title": "Bose acquires Skullcandy to help it reach a wider audience",
-          "link": "https://www.theverge.com/tech/1015276/bose-acquisition-skullcandy-headphones-earbuds-speakers",
-          "summary": "Bose announced today it has acquired Skullcandy. Although the two companies are competitors in the consumer audio space, Skullcandy recently partnered with its new owner to bring several of Bose's audio technologies - including its head-tracking spatial audio and excellent active noise cancellation (ANC) - to products like the Skullcandy Crusher 1080 ANC headphones and Method 360 ANC earbuds.\nSpecific details about the deal weren't shared, but according to a news release, Bose plans to keep Skullcandy a separate brand that will become part of its premium consumer audio business. Skullcandy will remain based in Park City, Utah, where it was  …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-21T20:15:00.000Z"
-        },
-        {
-          "title": "Airbnb bans making guests do dishes and take out the trash",
-          "link": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
-          "summary": "Checking out of your next Airbnb might be less of a hassle now that the company is banning hosts from including time-consuming chores in their house rules. Airbnb's updated house rules policy, which starts with reservations booked on or after November 20th, says hosts can't ask guests to \"complete tasks that require significant effort or time, or would typically be performed by a cleaner.\" According to Airbnb, that includes:\nDishes: Guests shouldn't be asked to wash and put away dishes, but you can ask them to put used dishes in the sink.\nLaundry: Guests shouldn't be asked to remove sheets from the bed or start a load of laundry, but yo …\n\nRead the full story at The Verge.",
-          "isoDate": "2026-10-21T19:54:00.000Z"
-        },
-        {
-          "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
-          "summary": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to Anthropic, and it's available as a standalone app on iOS and Android and through Claude on the web.\nThe AI agent is built around Claude Opus 5.5. Here's Anthropic's description of what it can do:\nEach morning, it sends you a short brief on the most important items across your connected apps. Throughout the day, it keeps tabs on those apps and messages you only when something needs your attention. You can also hand it tasks of a …\n\nRead the full story at The Verge.",
-          "isoDate": "2026-10-21T19:53:20.000Z"
-        },
-        {
-          "title": "The new human-crafted Apple Music brand matters in an AI world",
-          "link": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/",
-          "summary": "Opinion: In a world of AI slop, showing the human hands making things helps.",
-          "isoDate": "2026-10-21T19:44:40.000Z"
-        },
-        {
-          "title": "Walmart is inviting AI agents to shop for you",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
-          "summary": "Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to connect your own AI agent to the site, with systems in place to let you approve and review purchases and set spending limits.\nThe embrace of AI agents stands in stark contrast to Amazon, which blocked Perplexity's shopping agent and Meta's Muse AI assistant. But Walmart is opening its doors to AI shoppers - as long as they follow the retailer's rules. It has outlined a set of terms for agents, saying that \"agents must not take actions beyond what the shopper intends\" and cannot change a customer's payment method. Agents also can only  …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-21T19:30:00.000Z"
-        },
-        {
-          "title": "RIP BioWare: EA shuts down storied RPG studio after over three decades",
-          "link": "https://arstechnica.com/gaming/2026/10/rip-bioware-ea-shuts-down-storied-rpg-studio-after-over-three-decades/",
-          "summary": "Next Mass Effect project canceled as parent company lays off 400.",
-          "isoDate": "2026-10-21T19:12:16.000Z"
         }
       ]
     },
@@ -71,6 +71,12 @@
       "header": "120  CIENCIA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Faster to Science: A Letter to the Science Community",
+          "link": "https://science.nasa.gov/directorates/smd/faster-to-science-a-letter-to-the-science-community/",
+          "summary": "NASA Science wants to deliver science faster, so we’re changing how we compete and select missions. On Monday, October 26, we will host a virtual NASA Science Town Hall.",
+          "isoDate": "2026-10-22T00:00:16.000Z"
+        },
         {
           "title": "NASA Conducts RS-25 Engine Test in Support of Future Artemis Missions",
           "link": "https://www.nasa.gov/image-article/rs-25-engine-test-in-support-of-future-artemis-missions/",
@@ -124,12 +130,6 @@
           "link": "https://www.nature.com/articles/s41586-026-11317-6",
           "summary": "Nature, Published online: 21 October 2026; doi:10.1038/s41586-026-11317-6\nDe novo design of enantioselective artificial metalloenzyme photocatalysts",
           "isoDate": "2026-10-21T00:00:00.000Z"
-        },
-        {
-          "title": "Scientists put a salt marsh in a giant wave-machine: here's what they learned",
-          "link": "https://www.nature.com/articles/d41586-026-03376-6",
-          "summary": "Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03376-6\nExperiment shows how these ecosystems could protect coastlines from huge storms — plus, new evidence hints at what Denisovans might have looked like.",
-          "isoDate": "2026-10-21T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 74\nColumn: 41\nChar: &",
-          "isoDate": "2026-10-21T21:17:04.444Z"
+          "isoDate": "2026-10-22T03:27:34.400Z"
+        },
+        {
+          "title": "Trump's green card curbs test Indian tech workers' American dream",
+          "link": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
+          "summary": "With immigration curbs and tech firms cutting foreign hiring, US residency is becoming a distant dream for many Indians.",
+          "isoDate": "2026-10-21T23:06:37.000Z"
+        },
+        {
+          "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
+          "link": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+          "summary": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
+          "isoDate": "2026-10-21T23:04:03.000Z"
         },
         {
           "title": "Websites taken down worldwide as critical cyber-security update issued",
@@ -160,12 +172,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
           "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
           "isoDate": "2026-10-21T08:42:49.000Z"
-        },
-        {
-          "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
-          "link": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
-          "summary": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
-          "isoDate": "2026-10-21T06:36:39.000Z"
         },
         {
           "title": "The tech helping crack decades-old cold cases",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
           "summary": "Revolut was one of the hardest hit, with banking services going down for many customers.",
           "isoDate": "2026-10-20T18:03:19.000Z"
-        },
-        {
-          "title": "UK asks Apple to widen access to its payment tech ",
-          "link": "https://www.bbc.co.uk/news/articles/cqm26zzl0k12o?at_medium=RSS&at_campaign=rss",
-          "summary": "Proposed changes could lead to new digital wallets and keys as well as ticketing apps, the regulator says.",
-          "isoDate": "2026-10-20T12:29:24.000Z"
         }
       ]
     },
@@ -203,6 +203,12 @@
       "header": "160  INTELIGENCIA ARTIFICIAL",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Broad access through consistent standards",
+          "link": "https://openai.com/index/broad-access-through-consistent-standards",
+          "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+          "isoDate": "2026-10-21T21:00:00.000Z"
+        },
         {
           "title": "How AT&T is rethinking in-house legal work with OpenAI",
           "link": "https://openai.com/index/att-legal",
@@ -240,6 +246,12 @@
           "isoDate": "2026-10-21T04:50:00.000Z"
         },
         {
+          "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+          "link": "https://openai.com/index/cloudflare-cyber",
+          "summary": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
+          "isoDate": "2026-10-21T00:00:00.000Z"
+        },
+        {
           "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
           "link": "https://openai.com/index/empowering-cyber-defenders",
           "summary": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
@@ -250,18 +262,6 @@
           "link": "https://openai.com/index/ted-taylor-restaurant",
           "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
           "isoDate": "2026-10-20T10:00:00.000Z"
-        },
-        {
-          "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-          "link": "https://openai.com/index/terminal-x",
-          "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
-          "isoDate": "2026-10-20T07:00:00.000Z"
-        },
-        {
-          "title": "OpenAI acquires Orchestra Bio",
-          "link": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-          "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
-          "isoDate": "2026-10-20T00:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-10-21T21:17:08.853Z"
+          "isoDate": "2026-10-22T03:27:37.146Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 59\nColumn: 58\nChar: =",
-          "isoDate": "2026-10-21T21:17:05.765Z"
+          "isoDate": "2026-10-22T03:27:35.876Z"
         },
         {
           "title": "Manfred “Fred” J. Schindler Is 2027 IEEE President-Elect",
