@@ -1,10 +1,28 @@
 {
-  "generatedAt": "2026-10-22T03:27:38.479Z",
+  "generatedAt": "2026-10-22T11:13:10.099Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Making the case for context-aware AI",
+          "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+          "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companies look to move AI from experimentation into everyday operations, the challenge ahead…",
+          "isoDate": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "Three things you should know about permafrost",
+          "link": "https://www.technologyreview.com/2026/10/22/1147591/permafrost-primer/",
+          "summary": "How much do you know about permafrost? Maybe, like me, you’ve been aware that this layer of frozen soil is thawing, that it’s important in the global puzzle of climate change … and that’s about the extent of it.   The great news for both of us is that my colleague James Temple just published two…",
+          "isoDate": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "AI’s hidden storage bill: What inference leaves behind",
+          "link": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+          "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from billions of daily prompts, images, and videos—needs…",
+          "isoDate": "2026-10-22T08:41:18.000Z"
+        },
         {
           "title": "YouTube says it isn’t testing hiding the dislike button",
           "link": "https://www.theverge.com/streaming/1016206/youtube-dislike-button-videos",
@@ -46,24 +64,6 @@
           "link": "https://arstechnica.com/cars/2026/10/tesla-profits-drop-43-in-q3/",
           "summary": "Tesla’s once-booming energy storage business also shrunk in Q3 2026.",
           "isoDate": "2026-10-21T21:35:07.000Z"
-        },
-        {
-          "title": "Meta to create a new class of shares to fund AI push",
-          "link": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
-          "summary": "Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go toward potential acquisitions and employee compensation, with trading beginning in 2027.\n\"The scale of investment required to compete, sustain growth, expand infrastructure, and pursue new strategic initiatives amidst the AI transformation taking place in the industry is significant,\" Meta says in the press release. Susan Li, Meta's chief financial officer, added during an earnings call that the new class of shares will \"expand our funding tools and gi …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-21T21:30:02.000Z"
-        },
-        {
-          "title": "New York’s first microdrama film festival searches for its audience",
-          "link": "https://www.theverge.com/entertainment/1014494/alza-vertical-film-festival-bill-block-salvador-paskowitz-microdramas-verticals",
-          "summary": "Actors Taye Diggs, Autumn Federici, Gary Entin, Troy Brookins, Edmund Entin and Eric Guilmette attend the world premiere of Microhouse Films and Lifetime's Reunion Island during the ALZA Festival. | Getty Images for Lifetime.\t\n\nIt remains to be seen if people really want to watch vertical content on horizontal TV screens, but many filmmakers and creators were confident that their latest projects would play well at Alza - New York City's first microdrama film festival. Founded by former Tribeca Festival chief operating officer Pete Torres, Alza, which took place October 16th through 18th, was billed as a showcase for the \"the creativity, innovation, and growing cultural impact of stories made for the vertical screen.\" The festival featured a selection of microdrama and film premieres as well as industry-focused panels with executives who all seemed to genuinely beli …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-21T20:49:07.000Z"
-        },
-        {
-          "title": "Meta says it would’ve made over $22 billion if it didn’t have to pay a child safety settlement",
-          "link": "https://www.theverge.com/tech/1015877/meta-q3-2026-earnings-child-safety-settlement",
-          "summary": "Meta had to shell out $9.89 billion to pay for a chunk of the child safety settlement it reached with US attorneys general. That's according to the company's third-quarter earnings report released on Wednesday, which says Meta's income from operations would have been $22.89 billion without the settlement.\nIn August, Meta agreed to pay $17.1 billion to settle a massive nationwide lawsuit that claimed the company harmed children by making its social media platforms \"addictive\" by design. It will also only pay $5.3 billion of this amount if YouTube and TikTok implement stricter settings and safeguards for kids, which Meta also agreed to as par …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-21T20:46:56.000Z"
         }
       ]
     },
@@ -71,6 +71,18 @@
       "header": "120  CIENCIA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "APOD: 2026 October 22 – The First Green Star, WD J1330+6435",
+          "link": "https://science.nasa.gov/image-article/apod-2026-october-22-the-first-green-star-wd-j13306435/",
+          "summary": "APOD Science APOD APOD: 2026 October 22 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The First […]",
+          "isoDate": "2026-10-22T04:05:00.000Z"
+        },
+        {
+          "title": "Fires Char New Guinea",
+          "link": "https://science.nasa.gov/earth/earth-observatory/fires-char-new-guinea/",
+          "summary": "Emissions on both sides of the island are unusually high as human-set fires spread in a landscape parched by drought.",
+          "isoDate": "2026-10-22T04:01:00.000Z"
+        },
         {
           "title": "Faster to Science: A Letter to the Science Community",
           "link": "https://science.nasa.gov/directorates/smd/faster-to-science-a-letter-to-the-science-community/",
@@ -118,18 +130,6 @@
           "link": "https://science.nasa.gov/image-article/apod-2026-october-21-new-ghosts-revealed-in-cassiopeia/",
           "summary": "APODScienceAPODAPOD: 2026 October 21 – New…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. OriginalAnnotated New Ghosts Revealed in Cassiopeia Explanation: Jinkies, look at all those ghosts! It took 100 […]",
           "isoDate": "2026-10-21T04:05:00.000Z"
-        },
-        {
-          "title": "Extratropical Cyclone Whips Past Iceland",
-          "link": "https://science.nasa.gov/earth/earth-observatory/extratropical-cyclone-whips-past-iceland/",
-          "summary": "The powerful low-pressure system formed over the North Atlantic out of the remnants of Hurricane Isaias.",
-          "isoDate": "2026-10-21T04:01:00.000Z"
-        },
-        {
-          "title": "<i>De novo</i> design of enantioselective artificial metalloenzyme photocatalysts",
-          "link": "https://www.nature.com/articles/s41586-026-11317-6",
-          "summary": "Nature, Published online: 21 October 2026; doi:10.1038/s41586-026-11317-6\nDe novo design of enantioselective artificial metalloenzyme photocatalysts",
-          "isoDate": "2026-10-21T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,31 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 74\nColumn: 41\nChar: &",
-          "isoDate": "2026-10-22T03:27:34.400Z"
+          "isoDate": "2026-10-22T11:13:06.520Z"
+        },
+        {
+          "title": "Zoe Kleinman: PHP is the cyber equivalent of an unexploded bomb",
+          "link": "https://www.bbc.co.uk/news/articles/cw98z6qlyvg3o?at_medium=RSS&at_campaign=rss",
+          "summary": "It has been a dramatic, public and global response, but the cyber event hasn't happened yet.",
+          "isoDate": "2026-10-22T10:17:26.000Z"
+        },
+        {
+          "title": "'500 new vulnerabilities' found in government, says AI minister",
+          "link": "https://www.bbc.co.uk/news/videos/c6y8lvg2p50po?at_medium=RSS&at_campaign=rss",
+          "summary": "'500 new vulnerabilities' found in government, says AI minister",
+          "isoDate": "2026-10-22T10:08:44.000Z"
+        },
+        {
+          "title": "UK working to identify exposure after global cyber-security warning",
+          "link": "https://www.bbc.co.uk/news/articles/cmx23d0k57d3o?at_medium=RSS&at_campaign=rss",
+          "summary": "Governments and companies are scrambling to protect their websites, as Amazon says it experienced attacks before the warning was made public.",
+          "isoDate": "2026-10-22T08:23:42.000Z"
+        },
+        {
+          "title": "What is PHP and why did it spark a global cyber-security scramble?",
+          "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+          "summary": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
+          "isoDate": "2026-10-22T06:24:59.000Z"
         },
         {
           "title": "Trump's green card curbs test Indian tech workers' American dream",
@@ -172,30 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
           "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
           "isoDate": "2026-10-21T08:42:49.000Z"
-        },
-        {
-          "title": "The tech helping crack decades-old cold cases",
-          "link": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
-          "summary": "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy.",
-          "isoDate": "2026-10-20T23:13:24.000Z"
-        },
-        {
-          "title": "Tech Life",
-          "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyl?at_medium=RSS&at_campaign=rss",
-          "summary": "The next generation of chip is thinner and flexible when compared to traditional silicon.",
-          "isoDate": "2026-10-20T19:45:00.000Z"
-        },
-        {
-          "title": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
-          "link": "https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&at_campaign=rss",
-          "summary": "A US district judge dismissed the case after Ann Altman had refused to attend an independent medical examination.",
-          "isoDate": "2026-10-20T19:42:32.000Z"
-        },
-        {
-          "title": "Google resolves cloud outage affecting UK banks and websites",
-          "link": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
-          "summary": "Revolut was one of the hardest hit, with banking services going down for many customers.",
-          "isoDate": "2026-10-20T18:03:19.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-10-22T03:27:37.146Z"
+          "isoDate": "2026-10-22T11:13:09.043Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 59\nColumn: 58\nChar: =",
-          "isoDate": "2026-10-22T03:27:35.876Z"
+          "isoDate": "2026-10-22T11:13:07.757Z"
         },
         {
           "title": "Manfred “Fred” J. Schindler Is 2027 IEEE President-Elect",
