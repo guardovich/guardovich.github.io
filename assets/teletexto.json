@@ -1,10 +1,28 @@
 {
-  "generatedAt": "2026-10-23T03:32:23.099Z",
+  "generatedAt": "2026-10-23T11:04:23.430Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Startup equips genetically enhanced dogs with Palmer Luckey&#8217;s military tech",
+          "link": "https://www.theverge.com/tech/1017343/warhound-palmer-luckey-anduril-colossal-war-dogs",
+          "summary": "The Warhound website calls this “a new breed of dominance.” | Image: Warhound\t\n\nA new Texas-based defense startup has a plan to improve military and police dogs in the US: it's going to genetically modify them and equip them with Anduril's military technology. Warhound is the brainchild of Anduril's Palmer Luckey and Ben Lamm, co-founder of Colossal Biosciences (the company that says it's trying to resurrect extinct animals), and it's already secured $200 million in funding from investors.\nWarhound plans to use Colossal's work in genetics, cloning, and animal biology to \"produce healthier dogs with characteristics suited to demanding missions,\" with Anduril then equipping them with its \"advanced cybernetic Augments.\" T …\nRead the full story at The Verge.",
+          "isoDate": "2026-10-23T10:58:03.000Z"
+        },
+        {
+          "title": "No, the iPhone Duo isn’t a small phone",
+          "link": "https://www.theverge.com/tech/1017090/iphone-duo-screen-size-mini",
+          "summary": "Don’t be fooled; only one of these is a truly small phone (it’s the iPhone 13 Mini on the left).\t\n\nWhen we published our review of the iPhone Duo, I got a lot of hopeful questions from my fellow Mini fans who took note of the cover screen's Mini-ish 5.4-inch size. \"Is this… a small phone that turns into a tablet?\" they asked. And I'm sorry to be the bearer of bad news, but no. The Duo is not the small phone we've been looking for.\nI wish it was. I like a small phone. I own an iPhone 13 Mini that I refuse to surrender, even though it barely lasts a full day.\nBut the Duo is thick and heavy. You will feel its weight every time you read an email, scroll Instagram, or put it in your pocket. It is a dense phone, and after a week with the Duo, …\nRead the full story at The Verge.",
+          "isoDate": "2026-10-23T10:00:00.000Z"
+        },
+        {
+          "title": "In the biotech world, you can’t see everything",
+          "link": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
+          "summary": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes.  I went in not really knowing what to expect. I’d avoided spoilers (and won’t be giving anything away here, either!). I was wondering what new information this film could reveal, given…",
+          "isoDate": "2026-10-23T09:00:00.000Z"
+        },
         {
           "title": "Etsy is cracking down on AI slop listings",
           "link": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
@@ -46,24 +64,6 @@
           "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
           "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for \"greater precision, consistency and control,\" according to an announcement on Thursday.\nCanva Craft can generate images at up to 2K resolution and in more than 30 aspect ratios. In addition to generating social media posts and marketing content, it's also supposed to create realistic scenes, digital art, environmental imagery, and more. The model's two-stage sy …\nRead the full story at The Verge.",
           "isoDate": "2026-10-22T21:51:25.000Z"
-        },
-        {
-          "title": "PC shipments dropped over 20 percent in Q3 due to RAM price hikes",
-          "link": "https://www.theverge.com/gadgets/1017144/global-pc-shipments-dropped-q3-2026-ram",
-          "summary": "Demand for new PCs took a hit after months of price hikes, with Counterpoint Research reporting global PC shipments fell 21 percent year-over-year in Q3 2026. That's in line with earlier reports from IDC and Omdia. It's not just PCs, either - that same quarter, smartphone shipments also hit a 14-year low.\nCounterpoint linked the decline in PC shipments to higher component prices. Up until Q2 2026, PC shipments had been growing for over two years straight. But over the last several months, RAM, SSDs, and chips from Intel, AMD, and Qualcomm have all gotten more expensive, leading to price hikes on everything from MacBooks to Raspberry Pis.  C …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-22T21:30:39.000Z"
-        },
-        {
-          "title": "Designing an AI serving harness built to last",
-          "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
-          "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores. Those advances have…",
-          "isoDate": "2026-10-22T21:17:29.000Z"
-        },
-        {
-          "title": "Fall 2026 earnings watch",
-          "link": "https://www.theverge.com/tech/1016506/fall-2026-earnings-watch",
-          "summary": "Every company is suddenly an AI company. Compute is an asset. Cars are flying. We’ve been promised robots — again. It’s time again to dig through earnings reports, listen to investor calls, and call out the latest wins and losses from around the tech sector and what it means for where the companies go next.\n\n\n\t\t\t\nSure, let’s smoosh SpaceX and Tesla together, who cares\nJust because Tesla’s Optimus is in production doesn’t mean it’s actually ready\nIn Meta’s version of the future, I’ll have my Muse call your Muse\nTesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen?\nMeta to create a new class of shares to fund AI push\nMeta says it would’ve made over $22 billion if it didn’t have to pay a child safety settlement\nNot even flying Roadsters can lift Tesla’s flat Q3 revenues\nTesla and SpaceX are discussing a possible merger, Musk says\nSpaceX will try catching Starship and its booster for first time, Musk says\nNetflix is telling investors not to worry, even though you’re watching less and less\nSpaceX says big AI growth fueled revenue jump",
-          "isoDate": "2026-10-22T21:15:16.000Z"
         }
       ]
     },
@@ -75,7 +75,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
           "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-10-23T03:32:18.799Z"
+          "isoDate": "2026-10-23T11:04:20.374Z"
+        },
+        {
+          "title": "Elusive snow leopards and evasive particles: Books in brief",
+          "link": "https://www.nature.com/articles/d41586-026-03395-3",
+          "summary": "Nature, Published online: 23 October 2026; doi:10.1038/d41586-026-03395-3\nAndrew Robinson reviews five of the best science picks.",
+          "isoDate": "2026-10-23T00:00:00.000Z"
+        },
+        {
+          "title": "Rebody",
+          "link": "https://www.nature.com/articles/d41586-026-03108-w",
+          "summary": "Nature, Published online: 23 October 2026; doi:10.1038/d41586-026-03108-w\nFighting fit.",
+          "isoDate": "2026-10-23T00:00:00.000Z"
         },
         {
           "title": "Wireless electrocatalytic closed-loop system for drug-free management of diabesity",
@@ -118,18 +130,6 @@
           "link": "https://www.science.org/doi/abs/10.1126/science.aen0146?af=R",
           "summary": "Science, Volume 394, Issue 6822, October 2026.",
           "isoDate": "2026-10-22T07:00:00.000Z"
-        },
-        {
-          "title": "The Monarch Bear",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aem5501?af=R",
-          "summary": "Science, Volume 394, Issue 6822, Page 387-387, October 2026.",
-          "isoDate": "2026-10-22T06:00:10.000Z"
-        },
-        {
-          "title": "The microscope and the metaphor",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aej4196?af=R",
-          "summary": "Science, Volume 394, Issue 6822, Page 386-387, October 2026.",
-          "isoDate": "2026-10-22T06:00:10.000Z"
         }
       ]
     },
@@ -141,7 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 74\nColumn: 41\nChar: &",
-          "isoDate": "2026-10-23T03:32:20.057Z"
+          "isoDate": "2026-10-23T11:04:21.012Z"
+        },
+        {
+          "title": "The Indian workers filming their work to train AI",
+          "link": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+          "summary": "Indian workers are being paid to film themselves at work and the footage is used to train AI.",
+          "isoDate": "2026-10-23T08:04:17.000Z"
         },
         {
           "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
           "summary": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
           "isoDate": "2026-10-21T23:04:03.000Z"
-        },
-        {
-          "title": "Websites taken down worldwide as critical cyber-security update issued",
-          "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
-          "summary": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
-          "isoDate": "2026-10-21T19:54:57.000Z"
         }
       ]
     },
@@ -203,6 +203,18 @@
       "header": "160  INTELIGENCIA ARTIFICIAL",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Q&A: How AI came to model the “messy” human mind",
+          "link": "https://news.mit.edu/2026/qa-how-ai-came-to-model-messy-human-mind-1023",
+          "summary": "Assistant Professor Benjamin Lindquist studies how engineers deliberately injected randomness into early AI, giving rise to deep-learning models that sometimes hallucinate.",
+          "isoDate": "2026-10-23T04:00:00.000Z"
+        },
+        {
+          "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+          "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+          "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+          "isoDate": "2026-10-23T00:00:00.000Z"
+        },
         {
           "title": "This design software reimagines everyday objects as self-aware devices",
           "link": "https://news.mit.edu/2026/design-software-reimagines-everyday-objects-as-self-aware-devices-1022",
@@ -250,18 +262,6 @@
           "link": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
           "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
           "isoDate": "2026-10-21T13:00:00.000Z"
-        },
-        {
-          "title": "OpenAI models are coming to Google Cloud",
-          "link": "https://openai.com/index/openai-models-google-cloud",
-          "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
-          "isoDate": "2026-10-21T12:00:00.000Z"
-        },
-        {
-          "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-          "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-          "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
-          "isoDate": "2026-10-21T07:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-10-23T03:32:22.044Z"
+          "isoDate": "2026-10-23T11:04:22.534Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 59\nColumn: 58\nChar: =",
-          "isoDate": "2026-10-23T03:32:21.438Z"
+          "isoDate": "2026-10-23T11:04:21.869Z"
         },
         {
           "title": "Why AI Can’t Replace Engineering Teams",
