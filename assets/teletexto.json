@@ -1,69 +1,69 @@
 {
-  "generatedAt": "2026-10-22T21:13:24.902Z",
+  "generatedAt": "2026-10-23T03:32:23.099Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
         {
-          "title": "Meta&#8217;s AI could still scrape news sites, legal experts say",
-          "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
-          "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the 'associated with your products or services' [language] that would let Meta scrape entire sites,\" James Grimmelmann, a professor of digital and information law at Cornell Law School, tells Nieman Lab.\nInitially, Meta's new terms for business accounts appeared to give the company permission to train its AI on news sites. The terms, which go into effect October 30th, stated that Meta \"may use any  …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-22T20:32:05.000Z"
+          "title": "Etsy is cracking down on AI slop listings",
+          "link": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
+          "summary": "Etsy is announcing stricter rules about how AI can be used in listings to reduce the volume of AI slop on the platform. In a post, the company says that \"many active buyers say they can't tell which items involve AI-generated content\" and that sellers are \"concerned about your work appearing alongside items that use AI in misleading ways,\" spurring the new policies and restrictions.\n\nUnder the new policies, every listing must include \"at least one unedited photo of the actual item against a real background,\" and all photos must \"accurately represent the item a buyer will receive.\" The photos that aren't the first one can be edited with softw …\nRead the full story at The Verge.",
+          "isoDate": "2026-10-23T00:09:58.000Z"
         },
         {
-          "title": "Meta turns Muse sharing back on",
-          "link": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
-          "summary": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan application.\nResearchers at Claroc reported earlier this week that Muse the web addresses for shared conversations from Muse were named after a conversation's title and written into public DNS. Ars Technica said Tuesday that Meta paused the sharing feature after it reached out about what was going on.\nIn a post today on X, Meta's David Singleton says that \"The underlying is …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-22T20:24:04.000Z"
+          "title": "Spotify says yes, it is busting people for using Family Plan sharing too widely",
+          "link": "https://www.theverge.com/entertainment/1017214/spotify-family-plan-sharing-qr-codes",
+          "summary": "Spotify co-CEO Alex Norström confirmed on this week's earnings call that the company is trying to catch Spotify Family plan users who don't actually live together with a new QR code verification method that requires scanning the plan manager's phone. TechCrunch reports that in response to a question about the \"crackdown,\" he called it a \"routine improvement\" instead:\nThis is not as much a crackdown as it is actually a routine improvement of our verification methods for our Family Plan. Family Plan has existed for a long while. It has been around for, I think it is now close to 12, 13 years in Spotify history, and it makes up a pretty signi …\n\nRead the full story at The Verge.",
+          "isoDate": "2026-10-22T23:02:43.000Z"
         },
         {
-          "title": "The FCC is beginning to block gadgets with ‘foreign surveillance chips’",
-          "link": "https://www.theverge.com/policy/1017016/fcc-block-foreign-surveillance-chips-hivision-huawei-loophole",
-          "summary": "On October 13th, Brendan Carr's FCC gave itself a new power - it can block gadgets for containing any computer chip made by any company on its list of potential threats to national security. Today, it's exercising that power for the first time, blocking two gadgets because they contain \"foreign surveillance chips,\" the FCC claims.\nThe agency doesn't say which specific gadgets it blocked, and it didn't immediately respond to our request for comment, but it does name the \"surveillance chip\": it's a HiVision Hi3516CV610 UHD Smart Vision SoC, a chip that turns a raw camera sensor into a home security camera, a dashcam, or the like. It's often s …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-22T20:23:48.000Z"
+          "title": "The next-gen Xbox won’t cost you $1,800. It can’t. Can it?",
+          "link": "https://www.theverge.com/games/1016134/xbox-helix-price-1800-isnt-affordable-editorial",
+          "summary": "An Xbox Elite controller. | Photo by Antonio G. Di Benedetto / The Verge\t\n\nFortune dropped a bombshell report on the future of gaming this week. According to the publication's Microsoft insiders, the next Xbox is projected to cost between $1,200 and $1,800 when it arrives in 2028. \nMy first reaction: The next Xbox is dead on arrival. It's DOA. \nMy second thought: Microsoft knows people won't pay that much. It couldn't possibly charge that much money if it wants next gen to be a success. \"I wouldn't release it at all,\" former Microsoft exec Mike Ybarra recently said.\nMy third thought: Didn't Microsoft already say out loud that it knows people won't pay that much? \nDidn't old Xbox boss Phil Spencer say \"We're no …\n\nRead the full story at The Verge.",
+          "isoDate": "2026-10-22T23:00:00.000Z"
         },
         {
-          "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
-          "link": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/",
-          "summary": "Flubbed key signing \"ceremony\" allowed minting of web credentials for any site.",
-          "isoDate": "2026-10-22T20:17:52.000Z"
+          "title": "Switch 2 security takes a hit as hackers unlock homebrew access",
+          "link": "https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games/",
+          "summary": "\"Userland\" exploit relies on integer overflow found in \"SmileBasic\" interpreter.",
+          "isoDate": "2026-10-22T22:25:33.000Z"
         },
         {
-          "title": "Leaked Mass Effect: Universe trailer gives a taste of what we're all missing",
-          "link": "https://arstechnica.com/gaming/2026/10/leaked-mass-effect-universe-trailer-gives-a-taste-of-what-were-all-missing/",
-          "summary": "We can't have nice things, but at least we can get trailers for them.",
-          "isoDate": "2026-10-22T19:59:37.000Z"
+          "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
+          "link": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
+          "summary": "Markers released top-line results today after previously reporting the trial succeeded.",
+          "isoDate": "2026-10-22T22:12:19.000Z"
         },
         {
-          "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
-          "summary": "Mars not depicted. | Image: Cath Virginia / The Verge, Getty Images\t\n\nOh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? SpaceX and Tesla have formed special committees to discuss a merger!\nThe degree to which you find this merger compelling likely has to do with the degree to which you believe Elon Musk about wanting to go to Mars, or \"spread the light of consciousness,\" as he put it in this week's SpaceX earnings call (and earlier S-1). Now, a reasonably informed person knows that we don't have the technology - or, frankly, even the raw information to build the technology - in order to support human life in space. …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-22T19:45:00.000Z"
+          "title": "Latest estimate for Starship launches required to support a Moon landing? 22.",
+          "link": "https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22/",
+          "summary": "\"We need to keep our eyes on numerous required fuelings for the lander.\"",
+          "isoDate": "2026-10-22T21:52:31.000Z"
         },
         {
-          "title": "Teenage Engineering launched an instrument amp with a ton of built-in effects",
-          "link": "https://www.theverge.com/gadgets/1017022/teenage-engineering-ep-35-instrument-amp",
-          "summary": "It looks exactly like what you’d expect a Teenage Engineering guitar amp to look like. | Image: Teenage Engineering\t\n\nTeenage Engineering is branching out into instrument amps with the previously leaked EP-35, a multi-input, multi-instrument, battery-powered amp with built-in effects. The back of the unit has a line-in port, as well as a 1/4-inch guitar input and an XLR input for mics, including mics that require phantom power. You can also stream audio to it via Bluetooth and connect multiple EP-35s together over Bluetooth using Auracast.  If you have them paired in stereo, tilting a unit to the left or right sets it to the appropriate stereo channel, which is pretty neat.\nThere are separate effects processors for guitar and vocals, though you have limite …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-22T19:44:51.000Z"
+          "title": "Canva’s first AI image model plans designs before generating them",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+          "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for \"greater precision, consistency and control,\" according to an announcement on Thursday.\nCanva Craft can generate images at up to 2K resolution and in more than 30 aspect ratios. In addition to generating social media posts and marketing content, it's also supposed to create realistic scenes, digital art, environmental imagery, and more. The model's two-stage sy …\nRead the full story at The Verge.",
+          "isoDate": "2026-10-22T21:51:25.000Z"
         },
         {
-          "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
-          "link": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
-          "summary": "Ole Bielfeldt of Germany captured a microscopic view of an inkjet printer depositing ink onto paper.",
-          "isoDate": "2026-10-22T19:34:40.000Z"
+          "title": "PC shipments dropped over 20 percent in Q3 due to RAM price hikes",
+          "link": "https://www.theverge.com/gadgets/1017144/global-pc-shipments-dropped-q3-2026-ram",
+          "summary": "Demand for new PCs took a hit after months of price hikes, with Counterpoint Research reporting global PC shipments fell 21 percent year-over-year in Q3 2026. That's in line with earlier reports from IDC and Omdia. It's not just PCs, either - that same quarter, smartphone shipments also hit a 14-year low.\nCounterpoint linked the decline in PC shipments to higher component prices. Up until Q2 2026, PC shipments had been growing for over two years straight. But over the last several months, RAM, SSDs, and chips from Intel, AMD, and Qualcomm have all gotten more expensive, leading to price hikes on everything from MacBooks to Raspberry Pis.  C …\nRead the full story at The Verge.",
+          "isoDate": "2026-10-22T21:30:39.000Z"
         },
         {
-          "title": "Republican politicians have embraced anti-Indian racism — and it’s costing them votes",
-          "link": "https://www.theverge.com/report/1017003/indian-americans-republican-racism-vivek-ramaswamy-texas",
-          "summary": "Two years ago, University of Houston student Vasant Bhatt was doing everything he could to help Republicans regain power. He knocked doors for Sen. Ted Cruz's reelection campaign and helped organize his community for Donald Trump, two victories he, like many other Republicans, celebrated in 2024. But this week, Bhatt did something unexpected: He voted for Texas Democratic Senate candidate James Talarico, and he publicly urged others to do the same.\nBhatt, whose father is a small-business owner, tells The Verge he was initially drawn to the Republican Party due to its economic principles. \"The strong belief in individual liberty and limited  …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-22T19:15:00.000Z"
+          "title": "Designing an AI serving harness built to last",
+          "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+          "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores. Those advances have…",
+          "isoDate": "2026-10-22T21:17:29.000Z"
         },
         {
-          "title": "Google tells Android users to update as parts of Canada adopt permanent daylight saving time",
-          "link": "https://www.theverge.com/tech/1016977/google-android-incorrect-time-daylight-saving-permanent-canada",
-          "summary": "As the US gets closer to permanently adopting daylight saving time following the House advancing the Sunshine Protection Act in July, there could be some unforeseen consequences to getting an extra hour of sun in the evening all year long. Following the Canadian provinces of British Columbia and Manitoba permanently switching to daylight saving this year, Google has shared some suggested fixes if Android devices are showing the incorrect time when clocks aren't turned back an hour there on November 1st.\nIn an announcement shared to the Android community help forums, Google suggests a simple fix for Canadians experiencing issues as a result  …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-22T19:13:42.000Z"
+          "title": "Fall 2026 earnings watch",
+          "link": "https://www.theverge.com/tech/1016506/fall-2026-earnings-watch",
+          "summary": "Every company is suddenly an AI company. Compute is an asset. Cars are flying. We’ve been promised robots — again. It’s time again to dig through earnings reports, listen to investor calls, and call out the latest wins and losses from around the tech sector and what it means for where the companies go next.\n\n\n\t\t\t\nSure, let’s smoosh SpaceX and Tesla together, who cares\nJust because Tesla’s Optimus is in production doesn’t mean it’s actually ready\nIn Meta’s version of the future, I’ll have my Muse call your Muse\nTesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen?\nMeta to create a new class of shares to fund AI push\nMeta says it would’ve made over $22 billion if it didn’t have to pay a child safety settlement\nNot even flying Roadsters can lift Tesla’s flat Q3 revenues\nTesla and SpaceX are discussing a possible merger, Musk says\nSpaceX will try catching Starship and its booster for first time, Musk says\nNetflix is telling investors not to worry, even though you’re watching less and less\nSpaceX says big AI growth fueled revenue jump",
+          "isoDate": "2026-10-22T21:15:16.000Z"
         }
       ]
     },
@@ -72,10 +72,10 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "NASA’s Hubble Charts Path for Roman with Gravitational Lenses ",
-          "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-charts-path-for-roman-with-gravitational-lenses/",
-          "summary": "This observation is one of many gravitational lensing images taken by Hubble in preparation for science with the new Nancy Grace Roman Space Telescope.",
-          "isoDate": "2026-10-22T16:20:37.000Z"
+          "title": "ERROR cargando feed",
+          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
+          "isoDate": "2026-10-23T03:32:18.799Z"
         },
         {
           "title": "Wireless electrocatalytic closed-loop system for drug-free management of diabesity",
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 74\nColumn: 41\nChar: &",
-          "isoDate": "2026-10-22T21:13:20.747Z"
+          "isoDate": "2026-10-23T03:32:20.057Z"
         },
         {
           "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-10-22T21:13:23.601Z"
+          "isoDate": "2026-10-23T03:32:22.044Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 59\nColumn: 58\nChar: =",
-          "isoDate": "2026-10-22T21:13:21.906Z"
+          "isoDate": "2026-10-23T03:32:21.438Z"
         },
         {
           "title": "Why AI Can’t Replace Engineering Teams",
