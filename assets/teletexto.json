@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-10-24T20:17:37.163Z",
+  "generatedAt": "2026-10-25T03:22:36.832Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Blue Planet III is keeping the rough edges in the age of AI",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+          "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished and seamless. To counter that, Blue Planet III goes warts and all.\nExecutive Producer Elizabeth White told The Guardian in the past, \"the amount of plankton and things\" floating in the water would have caused them to cut a shot. Or \"we might have framed out a boat or a buoy or gone: 'Oh, actually … the water conditions are not really good enough  …\nRead the full story at The Verge.",
+          "isoDate": "2026-10-24T21:29:12.000Z"
+        },
         {
           "title": "Pennsylvania will require labels on AI-generated ads",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
@@ -58,12 +64,6 @@
           "link": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
           "summary": "A new model suggests Mars may host ice-forming physics never directly observed before.",
           "isoDate": "2026-10-24T11:50:28.000Z"
-        },
-        {
-          "title": "Ice sheet expansion may have started 2,000 years ago, but we canceled that",
-          "link": "https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/",
-          "summary": "The tiny remains of the Laurentide Ice Sheet began getting somewhat less tiny.",
-          "isoDate": "2026-10-24T11:00:09.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 74\nColumn: 41\nChar: &",
-          "isoDate": "2026-10-24T20:17:30.821Z"
+          "isoDate": "2026-10-25T03:22:33.411Z"
         },
         {
           "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-10-24T20:17:35.810Z"
+          "isoDate": "2026-10-25T03:22:35.963Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 59\nColumn: 58\nChar: =",
-          "isoDate": "2026-10-24T20:17:32.035Z"
+          "isoDate": "2026-10-25T03:22:34.958Z"
         },
         {
           "title": "From Chip Lab to Center Stage",
@@ -324,12 +324,57 @@
       "maxItems": 120,
       "items": [
         {
-          "title": "RESULTADOS (EN DIRECTO)",
+          "title": "RESULTADOS (ÚLTIMOS)",
           "link": "",
           "summary": ""
         },
         {
-          "title": "ATL  1-0  DEP",
+          "title": "ALA  1-1  MÁL",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "LEV  3-1  ATH",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "GET  1-1  RAY",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "REA  4-1  SEV",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "MÁL  2-5  REA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "CEL  2-1  ALA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "OSA  2-0  SAN",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "VAL  0-0  ATH",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "REA  2-5  BAR",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "VIL  0-0  ELC",
           "link": "",
           "summary": ""
         },
