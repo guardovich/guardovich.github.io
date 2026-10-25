@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-10-25T10:48:24.474Z",
+  "generatedAt": "2026-10-25T15:36:35.196Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "r/opensource just banned AI, non-English speakers, and more",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+          "summary": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is incongruent to this Open Source community.\"\nThe new rules have set off a firestorm in the comments, and even spurred the creation of a rival sub r/trueopensource. Moderator Wolvereness has waded into the comments to explain that there's nuance and room for selective enforcement, such as \"software that incidentally has accessibility features that use AI,\" including  …\nRead the full story at The Verge.",
+          "isoDate": "2026-10-25T13:25:32.000Z"
+        },
+        {
+          "title": "Google’s AI search changes upended online publishing",
+          "link": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+          "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here.\nHow it started\nThe digital publishing industry has relied on Google for a very long time. Many outlets spent time and money optimizing their webpages to show up at the top of the search engine, with the goal of getting readers to click on their articles or discover their websites for the first time. For years, the relationship between Google and publishers was largely reciprocal; online pub …\nRead the full story at The Verge.",
+          "isoDate": "2026-10-25T12:00:00.000Z"
+        },
         {
           "title": "Blue Planet III is keeping the rough edges in the age of AI",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
@@ -52,18 +64,6 @@
           "link": "https://www.theverge.com/entertainment/1017740/wildwood-stop-motion-interview-laika",
           "summary": "Across several decades in Hollywood, Caleb Deschanel has seen a lot. He served as cinematographer on films like The Passion of the Christ and The Patriot, worked on sequences in The Godfather and Titanic, and directed a few episodes of Twin Peaks. Even still, nothing could quite prepare him for his first stop-motion project: working as the cinematographer on Wildwood, the latest release from Coraline studio Laika. While he knew that stop-motion was a long and involved process, he was still surprised by just how much work went into these movies. \"When I started I thought it was one thing, and then I quickly found out that it was another thing …\nRead the full story at The Verge.",
           "isoDate": "2026-10-24T12:00:00.000Z"
-        },
-        {
-          "title": "It’s time to find a new browser",
-          "link": "https://www.theverge.com/tech/1018121/cod-4-claude-duet-wildwood-installer",
-          "summary": "Hi, friends! Welcome to Installer No. 149, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy It Actually Feels Like Fall Now At Least In My Neighborhood), and also you can read all the old editions at the Installer homepage.)\nThis week, I've been reading about Demis Hassabis and computer chips and permafrost, enjoying the first episodes of Machine Gods, filming the next season of Version History (pet season!), seeing You Can See Everything and then reading and listening to absolutely everything about it, painstakingly updating all the stuff in my 1Password, making tiny documents with Tiny Little O …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-24T12:00:00.000Z"
-        },
-        {
-          "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
-          "link": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
-          "summary": "A new model suggests Mars may host ice-forming physics never directly observed before.",
-          "isoDate": "2026-10-24T11:50:28.000Z"
         }
       ]
     },
@@ -72,10 +72,10 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "ERROR cargando feed",
-          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
-          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-10-25T10:48:18.869Z"
+          "title": "APOD: 2026 October 25 – Dark Matter in a Simulated Universe",
+          "link": "https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/",
+          "summary": "APOD Science APOD APOD: 2026 October 25 – Dark… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Dark Matter […]",
+          "isoDate": "2026-10-25T08:19:48.000Z"
         },
         {
           "title": "ctDNA clearance and outcomes for resectable lung cancer from NeoCOAST-2",
@@ -84,52 +84,52 @@
           "isoDate": "2026-10-25T00:00:00.000Z"
         },
         {
-          "title": "Author Correction: DYNLL1 binds to MRE11 to limit DNA end resection in BRCA1-deficient cells",
-          "link": "https://www.nature.com/articles/s41586-026-11303-y",
-          "summary": "Nature, Published online: 23 October 2026; doi:10.1038/s41586-026-11303-y\nAuthor Correction: DYNLL1 binds to MRE11 to limit DNA end resection in BRCA1-deficient cells",
-          "isoDate": "2026-10-23T00:00:00.000Z"
+          "title": "APOD: 2026 October 24 – Rosetta’s Selfie",
+          "link": "https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie/",
+          "summary": "APOD Science APOD APOD: 2026 October 24 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Rosetta’s Selfie Explanation: […]",
+          "isoDate": "2026-10-24T04:05:00.000Z"
         },
         {
-          "title": "Elusive snow leopards and evasive particles: Books in brief",
-          "link": "https://www.nature.com/articles/d41586-026-03395-3",
-          "summary": "Nature, Published online: 23 October 2026; doi:10.1038/d41586-026-03395-3\nAndrew Robinson reviews five of the best science picks.",
-          "isoDate": "2026-10-23T00:00:00.000Z"
+          "title": "NASA, Partners Accelerate Lander Development for 2028 Moon Missions",
+          "link": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/",
+          "summary": "As NASA returns humans to the lunar surface and establishes a long-term presence on our closest celestial neighbor, the agency and commercial human landing system providers Blue Origin and SpaceX have streamlined the designs and changed both concepts of operations for its future crewed landers. Since NASA established initial contracts with Blue Origin and SpaceX […]",
+          "isoDate": "2026-10-23T22:39:39.000Z"
         },
         {
-          "title": "Sleep declines in rural communities after electricity arrives",
-          "link": "https://www.nature.com/articles/d41586-026-03318-2",
-          "summary": "Nature, Published online: 23 October 2026; doi:10.1038/d41586-026-03318-2\nScientists tracked the changing sleep patterns of Indigenous people in Argentina who gained access to mains electricity — and smart phones.",
-          "isoDate": "2026-10-23T00:00:00.000Z"
+          "title": "NASA’s Artemis III Mission to Test Future Moon Lander Operations",
+          "link": "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/",
+          "summary": "Before astronauts return to the lunar surface, NASA will first conduct one of the most ambitious and complex test missions in the agency’s history.  Launching in 2027, Artemis III will send NASA astronauts Randy Bresnik, Frank Rubio, Andre Douglas, and ESA (European Space Agency) astronaut Luca Parmitano aboard the Orion spacecraft into low Earth orbit […]",
+          "isoDate": "2026-10-23T22:37:53.000Z"
         },
         {
-          "title": "Briefing Chat: How physicists successfully trapped the electron's antimatter equivalent",
-          "link": "https://www.nature.com/articles/d41586-026-03418-z",
-          "summary": "Nature, Published online: 23 October 2026; doi:10.1038/d41586-026-03418-z\nNature staff discuss how precisely measuring a positron could shed light on one of physics’ greatest mysteries — plus, the latest on an ambitious mission to a Martian moon.",
-          "isoDate": "2026-10-23T00:00:00.000Z"
+          "title": "NASA’s Swift Mission Ends, Leaves Behind Scientific Bonanza",
+          "link": "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/",
+          "summary": "NASA’s Neil Gehrels Swift Observatory has ended its science mission now that the spacecraft is orbiting less than 171 miles (275 kilometers) above Earth’s surface. The greater atmospheric drag at this height prevents the satellite’s telescopes from steadily gazing at their astronomical targets. Swift conducted its final observation on Oct. 20. It is expected to […]",
+          "isoDate": "2026-10-23T21:51:19.000Z"
         },
         {
-          "title": "First person infected with rare Shamonda virus: what we know",
-          "link": "https://www.nature.com/articles/d41586-026-03416-1",
-          "summary": "Nature, Published online: 23 October 2026; doi:10.1038/d41586-026-03416-1\nInfectious-disease researchers say the risk of the livestock pathogen moving between people is low.",
-          "isoDate": "2026-10-23T00:00:00.000Z"
+          "title": "RS-25 Engine Tests at NASA Stennis",
+          "link": "https://www.nasa.gov/image-article/rs-25-engine-tests-at-nasa-stennis/",
+          "summary": "Teams at NASA’s Stennis Space Center near Bay St. Louis, Mississippi tested RS-25 engine No. 10001 on Oct. 21, 2026. The hot fire test lasted for almost eight-and-a-half minutes (500 seconds), the same amount of time RS-25 engines fire during launch of NASA’s SLS (Space Launch System) rocket, with a 111% power level. For each […]",
+          "isoDate": "2026-10-23T18:57:04.000Z"
         },
         {
-          "title": "Elizabeth Holmes film enthralls — but her legacy haunts science",
-          "link": "https://www.nature.com/articles/d41586-026-03383-7",
-          "summary": "Nature, Published online: 23 October 2026; doi:10.1038/d41586-026-03383-7\nYou Can See Everything brings blood-testing start-ups back into the public eye. They persevere in Theranos’s shadow.",
-          "isoDate": "2026-10-23T00:00:00.000Z"
+          "title": "NASA, Virginia Launch Power Partnership for Energy Security",
+          "link": "https://www.nasa.gov/centers-and-facilities/langley/nasa-power-energy-partnership/",
+          "summary": "NASA is helping to foster long-term energy security in Virginia.  NASA’s Langley Research Center in Hampton, Virginia, is partnering with the Virginia Department of Energy to support informed decisions for effective energy generation, delivery and use by providing solar, meteorological, and future weather risk datasets for energy system modeling and planning purposes. Under a new […]",
+          "isoDate": "2026-10-23T17:50:21.000Z"
         },
         {
-          "title": "Rebody",
-          "link": "https://www.nature.com/articles/d41586-026-03108-w",
-          "summary": "Nature, Published online: 23 October 2026; doi:10.1038/d41586-026-03108-w\nFighting fit.",
-          "isoDate": "2026-10-23T00:00:00.000Z"
+          "title": "APOD: 2026 October 23 – Andromeda in Southern Spring",
+          "link": "https://science.nasa.gov/image-article/apod-2026-october-23-andromeda-in-southern-spring/",
+          "summary": "APODScienceAPODAPOD: 2026 October 23 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Andromeda in Southern Spring Explanation: Looking toward the north from Mullion, New South Wales, Australia, the Andromeda […]",
+          "isoDate": "2026-10-23T04:05:00.000Z"
         },
         {
-          "title": "Moderna mRNA vaccine almost halves the risk of skin cancer returning",
-          "link": "https://www.nature.com/articles/d41586-026-03417-0",
-          "summary": "Nature, Published online: 23 October 2026; doi:10.1038/d41586-026-03417-0\nLong-awaited results from phase III trial show huge benefits for treatment-resistant melanoma.",
-          "isoDate": "2026-10-23T00:00:00.000Z"
+          "title": "El Niño Then and Now",
+          "link": "https://science.nasa.gov/earth/earth-observatory/el-nino-then-and-now/",
+          "summary": "A 35-year satellite altimetry record lets scientists hold this year’s El Niño up against its strongest predecessors.",
+          "isoDate": "2026-10-23T04:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 74\nColumn: 41\nChar: &",
-          "isoDate": "2026-10-25T10:48:19.826Z"
+          "isoDate": "2026-10-25T15:36:31.905Z"
         },
         {
           "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-10-25T10:48:23.243Z"
+          "isoDate": "2026-10-25T15:36:34.148Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 59\nColumn: 58\nChar: =",
-          "isoDate": "2026-10-25T10:48:20.753Z"
+          "isoDate": "2026-10-25T15:36:33.009Z"
         },
         {
           "title": "From Chip Lab to Center Stage",
@@ -324,57 +324,12 @@
       "maxItems": 120,
       "items": [
         {
-          "title": "RESULTADOS (ÚLTIMOS)",
+          "title": "RESULTADOS (EN DIRECTO)",
           "link": "",
           "summary": ""
         },
         {
-          "title": "ATL  1-0  DEP",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "VAL  1-2  VIL",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "SAN  2-1  ESP",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "RAY  0-3  ELC",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "ALA  1-1  MÁL",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "LEV  3-1  ATH",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "GET  1-1  RAY",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "REA  4-1  SEV",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "MÁL  2-5  REA",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "CEL  2-1  ALA",
+          "title": "CEL  0-0  REA",
           "link": "",
           "summary": ""
         },
@@ -404,7 +359,7 @@
           "summary": ""
         },
         {
-          "title": " 4  REA   9   6  1  2  16  14   2  19",
+          "title": " 4  REA  10   6  2  2  16  14   2  20",
           "link": "",
           "summary": ""
         },
@@ -424,52 +379,52 @@
           "summary": ""
         },
         {
-          "title": " 8  VIL  10   3  3  4  15  14   1  12",
+          "title": " 8  ATH   9   3  3  3  12   9   3  12",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 9  CEL   9   2  5  2  10   7   3  11",
+          "title": " 9  CEL  10   2  6  2  10   7   3  12",
           "link": "",
           "summary": ""
         },
         {
-          "title": "10  DEP  10   2  5  3  13  13   0  11",
+          "title": "10  VIL  10   3  3  4  15  14   1  12",
           "link": "",
           "summary": ""
         },
         {
-          "title": "11  OSA   9   3  2  4  10  18  -8  11",
+          "title": "11  DEP  10   2  5  3  13  13   0  11",
           "link": "",
           "summary": ""
         },
         {
-          "title": "12  SAN  10   3  2  5  15  26 -11  11",
+          "title": "12  OSA   9   3  2  4  10  18  -8  11",
           "link": "",
           "summary": ""
         },
         {
-          "title": "13  LEV   9   2  4  3  15  17  -2  10",
+          "title": "13  SAN  10   3  2  5  15  26 -11  11",
           "link": "",
           "summary": ""
         },
         {
-          "title": "14  ELC  10   2  4  4  14  17  -3  10",
+          "title": "14  LEV   9   2  4  3  15  17  -2  10",
           "link": "",
           "summary": ""
         },
         {
-          "title": "15  ATH   8   2  3  3   8   9  -1   9",
+          "title": "15  ELC  10   2  4  4  14  17  -3  10",
           "link": "",
           "summary": ""
         },
         {
-          "title": "16  GET   9   2  3  4   5  11  -6   9",
+          "title": "16  RAY   9   2  3  4  12  20  -8   9",
           "link": "",
           "summary": ""
         },
         {
-          "title": "17  RAY   9   2  3  4  12  20  -8   9",
+          "title": "17  GET  10   2  3  5   5  15 -10   9",
           "link": "",
           "summary": ""
         },
