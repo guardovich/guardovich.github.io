@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-10-26T22:19:45.898Z",
+  "generatedAt": "2026-10-27T03:51:44.724Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+          "summary": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics. What's different this time is the choice to have external experts that OpenAI describes as \"shepherds\" guiding the results in computer science and physics, while for the math problem it says that they advised it to release the AI output for researchers to work through their own explanations. \nOpenAI results added to GitHub today:\nLocal smoothing for the Euclidean wave equation. The proof uses an auxiliary par …\n\nRead the full story at The Verge.",
+          "isoDate": "2026-10-26T23:34:58.000Z"
+        },
+        {
+          "title": "Microsoft offers to buy out a quarter of its workforce",
+          "link": "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/",
+          "summary": "Employees in the US, Canada, India, and the UK may receive offers to leave MS today.",
+          "isoDate": "2026-10-26T22:36:06.000Z"
+        },
         {
           "title": "Samsung’s Switch 2-ready MicroSD Express card is on sale for less than $50",
           "link": "https://www.theverge.com/gadgets/1018962/samsung-p9-256gb-microsd-express-card-switch-2-deal-sale",
@@ -52,18 +64,6 @@
           "link": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
           "summary": "US robotics company stands by ICE deal as more than 300 employees warn of risk.",
           "isoDate": "2026-10-26T18:50:41.000Z"
-        },
-        {
-          "title": "The NBA’s response to gambling scandals is to add more gambling partnerships",
-          "link": "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket",
-          "summary": "From the bright minds that brought you FTX Arena and NBA Top Shot NFT maketplace (where sales last month dropped to $762,781, which is a 99.66 percent decrease compared to the February 2021 peak of $226,350,843), the NBA announced Monday that it has new \"preferred\" prediction market deals for Kalshi and Polymarket, as well as a memorandum of understanding with the US CFTC about how to manage the relationships. It also announced an expansion of its DraftKings deal to include prediction markets, and says that more expansions will be announced with others soon.\nThe NBA is already facing scandals after Jontay Porter pleaded guilty to conspiracy …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-26T18:22:06.000Z"
-        },
-        {
-          "title": "Musk accuses Ukraine of violating Starlink terms with deadly drone strikes",
-          "link": "https://arstechnica.com/tech-policy/2026/10/musk-accuses-ukraine-of-violating-starlink-terms-with-deadly-drone-strikes/",
-          "summary": "Ukraine says Starshield back to normal, denies misuse of Starlink commercial service.",
-          "isoDate": "2026-10-26T18:09:08.000Z"
         }
       ]
     },
@@ -72,10 +72,10 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "Tinga’s Tale",
-          "link": "https://science.nasa.gov/blog/tingas-tale/",
-          "summary": "Written by Margaret Deahn, Ph.D. candidate at Purdue University Oct. 19, 2026 Once upon a time, NASA’s Mars 2020 rover investigated the southern border of “Idubi,” an outcrop composed primarily of an igneous mineral geologists call olivine. The rover’s “eyes” captured a very exciting geologic feature during its traverse — a contact between distinct rock […]",
-          "isoDate": "2026-10-26T21:17:02.000Z"
+          "title": "NASA’s Perseverance Views Dust at Neretva Vallis",
+          "link": "https://science.nasa.gov/photojournal/nasas-perseverance-views-dust-at-neretva-vallis/",
+          "summary": "Description This 360-degree look at Neretva Vallis within Mars’ Jezero Crater was stitched together using 217 images acquired by the rover’s Mastcam-Z on May 20, 2024, the 1,155th Martian day, or sol, of the mission. While it is a wind-swept dusty vista today, billions of years ago it was home to a river channel that fed fresh water into […]",
+          "isoDate": "2026-10-26T22:48:12.000Z"
         },
         {
           "title": "NASA’s Perseverance Offers Clues to Protect Crews From Mars Dust",
@@ -141,7 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 74\nColumn: 41\nChar: &",
-          "isoDate": "2026-10-26T22:19:41.953Z"
+          "isoDate": "2026-10-27T03:51:41.537Z"
+        },
+        {
+          "title": "Apple says it will replace iPhone Duo handsets with screen problems",
+          "link": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
+          "summary": "Photos shared online showed faults appearing on the screens of Apple's first foldable device.",
+          "isoDate": "2026-10-27T01:48:04.000Z"
         },
         {
           "title": "Anthropic's blockbuster share listing - 5 surprising things we now know",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
           "summary": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
           "isoDate": "2026-10-22T18:26:56.000Z"
-        },
-        {
-          "title": "Race to update services' computer systems after cyber-security flaw found",
-          "link": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
-          "summary": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered.",
-          "isoDate": "2026-10-22T17:12:51.000Z"
         }
       ]
     },
@@ -204,10 +204,22 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+          "link": "https://openai.com/index/greptile-code-review-codex-astra",
+          "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+          "isoDate": "2026-10-26T22:00:00.000Z"
+        },
+        {
           "title": "At New York Climate Week 2026, MIT connects with a global network",
           "link": "https://news.mit.edu/2026/at-new-york-climate-week-mit-connects-global-network-1026",
           "summary": "A cross-section of the MIT community convened discussions on topics ranging from data centers and super pollutants to agriculture and education.",
           "isoDate": "2026-10-26T19:00:00.000Z"
+        },
+        {
+          "title": "Working with academic communities to build scientific understanding",
+          "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+          "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+          "isoDate": "2026-10-26T14:30:00.000Z"
         },
         {
           "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
@@ -234,12 +246,6 @@
           "isoDate": "2026-10-26T07:00:00.000Z"
         },
         {
-          "title": "Working with academic communities to build scientific understanding",
-          "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-          "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
-          "isoDate": "2026-10-26T00:00:00.000Z"
-        },
-        {
           "title": "Introducing GPT-6.1 Terra",
           "link": "https://openai.com/index/introducing-gpt-6-1-terra",
           "summary": "Bringing fast and capable computer use to everyone",
@@ -256,12 +262,6 @@
           "link": "https://news.mit.edu/2026/reinforcing-value-of-human-understanding-at-mit-1023",
           "summary": "During the School of Humanities, Arts, and Social Sciences’ 75th Anniversary Symposium, President Sally Kornbluth said “MIT has never needed your particular insight and guidance more than we do now.”",
           "isoDate": "2026-10-23T19:35:00.000Z"
-        },
-        {
-          "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-          "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-          "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
-          "isoDate": "2026-10-23T17:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-10-26T22:19:44.856Z"
+          "isoDate": "2026-10-27T03:51:43.920Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 59\nColumn: 58\nChar: =",
-          "isoDate": "2026-10-26T22:19:43.556Z"
+          "isoDate": "2026-10-27T03:51:42.625Z"
         },
         {
           "title": "IEEE Xplore Digital Library Adds AI Assistant",
