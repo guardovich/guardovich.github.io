@@ -1,10 +1,34 @@
 {
-  "generatedAt": "2026-10-27T03:51:44.724Z",
+  "generatedAt": "2026-10-27T11:39:07.843Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
+          "link": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+          "summary": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matter, but so does knowing how a particular material behaves, what happened during the previous shift, and when an apparently minor…",
+          "isoDate": "2026-10-27T11:19:18.000Z"
+        },
+        {
+          "title": "Data center backlash is uniting America",
+          "link": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
+          "summary": "If there's one issue that seems to activate all kinds of voters in 2026, it's data centers. The rapid buildout of these massive server storage facilities - and the infrastructure construction and expenses that come with them - has sparked local opposition in communities across the country and become a major issue in many congressional and gubernatorial campaigns.\nAt the same time, tech money has been pouring into many of these races. Leading the Future, a super PAC backed by venture capitalist Marc Andreessen and OpenAI President Greg Brockman, has already spent $45 million in a year. And Public First Action, an Anthropic-backed group that  …\nRead the full story at The Verge.",
+          "isoDate": "2026-10-27T10:00:00.000Z"
+        },
+        {
+          "title": "Acer is bringing a Predator gaming handheld to the US for the first time",
+          "link": "https://www.theverge.com/games/1019245/acer-predator-atlas-8-launch-price",
+          "summary": "It's been several months since Acer unveiled its Predator Atlas 8 gaming handheld, but now we finally know that it's coming to the US, and how much it'll cost. The Intel Arc G3 Extreme variant - the more powerful of the two models announced in May - will be available exclusively at Best Buy on November 1st, priced at $1,299.99.\nFor that, the Atlas 8 provides Arc B390 graphics with 12 Xe3 GPU cores, paired with 24GB of LPDDR5x RAM. The 8-inch display runs at 120Hz, and the device comes equipped with dual-mode triggers, TMR joysticks, and the ability to be used for both handheld or docked setups. It runs Windows 11 and can be used with Xbox G …\nRead the full story at The Verge.",
+          "isoDate": "2026-10-27T09:54:22.000Z"
+        },
+        {
+          "title": "How solid-state transformers could help power the AI boom",
+          "link": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
+          "summary": "Transformers are a crucial but nearly invisible part of our grid. The devices help efficiently move power across long distances, but they’re complicated and in short supply. And given that their basic design hasn’t changed much for about a century, they could use an upgrade.  As the world races to meet rising electricity demand from…",
+          "isoDate": "2026-10-27T09:00:00.000Z"
+        },
         {
           "title": "OpenAI announces three big science discoveries and a new way to work with academics",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
@@ -40,30 +64,6 @@
           "link": "https://arstechnica.com/science/2026/10/meet-the-real-life-scottish-surgeon-who-inspired-sherlock-holmes/",
           "summary": "Lindsey Fitzharris chats with Ars about her new book, Sleuth-Hound: The Case of the Real Sherlock Holmes.",
           "isoDate": "2026-10-26T20:15:07.000Z"
-        },
-        {
-          "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
-          "link": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
-          "summary": "Included is the ability to limit which applications Siri can directly access.",
-          "isoDate": "2026-10-26T20:04:16.000Z"
-        },
-        {
-          "title": "Apple reveals updated iPad mini with a bigger OLED screen for $700",
-          "link": "https://arstechnica.com/apple/2026/10/apple-reveals-updated-ipad-mini-with-a-bigger-oled-screen-for-700/",
-          "summary": "Apple claims this is the most significant update ever for the iPad mini line.",
-          "isoDate": "2026-10-26T19:04:40.000Z"
-        },
-        {
-          "title": "iPhone Duo now supports Apple Pencil with iOS 27.2",
-          "link": "https://www.theverge.com/tech/1018827/ios-27-2-iphone-duo-apple-pencil",
-          "summary": "Apple has just released iOS 27.2, bringing Apple Pencil support to the iPhone Duo. The software update also includes an \"Edge Light\" feature for the iPhone Duo that's intended to illuminate your face during video calls.\nApple previously said the iPhone Duo would add support for the Apple Pencil \"later this year.\" The company's first foldable comes with revamped iOS 27 controls designed to work across the device's 7.6-inch inner display and 5.4-inch outer screen. Many major apps, like Netflix, Prime Video, and Microsoft Outlook, already support the Duo's extra screen real estate, but some still need some work.\nThe iOS 27.2 update also allow …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-26T18:51:06.000Z"
-        },
-        {
-          "title": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
-          "link": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
-          "summary": "US robotics company stands by ICE deal as more than 300 employees warn of risk.",
-          "isoDate": "2026-10-26T18:50:41.000Z"
         }
       ]
     },
@@ -72,64 +72,64 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "NASA’s Perseverance Views Dust at Neretva Vallis",
-          "link": "https://science.nasa.gov/photojournal/nasas-perseverance-views-dust-at-neretva-vallis/",
-          "summary": "Description This 360-degree look at Neretva Vallis within Mars’ Jezero Crater was stitched together using 217 images acquired by the rover’s Mastcam-Z on May 20, 2024, the 1,155th Martian day, or sol, of the mission. While it is a wind-swept dusty vista today, billions of years ago it was home to a river channel that fed fresh water into […]",
-          "isoDate": "2026-10-26T22:48:12.000Z"
+          "title": "How a Johnson Mentor Shapes the Next Generation of NASA Talent ",
+          "link": "https://www.nasa.gov/general/how-a-johnson-mentor-shapes-the-next-generation-of-nasa-talent/",
+          "summary": "When Rice University student Malvika Bhardwaj asked her mentor Daniel Cohen, a Guidance, Navigation & Control (GN&C) engineer at NASA’s Johnson Space Center, whether he had time to keep teaching interns with his busy workload, he answered, “You decide what’s important.”  In honor of National Mentoring Day on Oct. 27, Bhardwaj reflects on how Cohen’s […]",
+          "isoDate": "2026-10-27T07:07:51.000Z"
         },
         {
-          "title": "NASA’s Perseverance Offers Clues to Protect Crews From Mars Dust",
-          "link": "https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust/",
-          "summary": "Over 1,645 Martian days, NASA’s Perseverance Mars rover measured the fine and ultrafine Martian dust particles found clinging to samples of spacesuit materials that are carried aboard the rover, including some that are small enough to penetrate the lungs and enter the bloodstream. The findings will be published Tuesday, Oct. 27, in the Proceedings of […]",
-          "isoDate": "2026-10-26T21:07:28.000Z"
+          "title": "APOD: 2026 October 27 – Noctilucent Clouds over Sweden",
+          "link": "https://science.nasa.gov/image-article/apod-2026-october-27-noctilucent-clouds-over-sweden/",
+          "summary": "APOD Science APOD APOD: 2026 October 27 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Noctilucent Clouds over […]",
+          "isoDate": "2026-10-27T04:05:00.000Z"
         },
         {
-          "title": "NEO Surveyor’s Sunshade Gets Inspected",
-          "link": "https://science.nasa.gov/photojournal/neo-surveyors-sunshade-gets-inspected/",
-          "summary": "Description The large sunshade of NASA’s Near-Earth Object (NEO) Surveyor is mounted on an assembly ring during inspections in a clean room at BAE Systems Space & Mission Systems in Boulder, Colorado, in July 2026.  The sunshade structure stands 20 feet (6 meters) tall and measures 8 feet (2.4 meters) wide at its base. Its two flat […]",
-          "isoDate": "2026-10-26T20:53:13.000Z"
+          "title": "A-81 Reaches South Georgia",
+          "link": "https://science.nasa.gov/earth/earth-observatory/a-81-reaches-south-georgia/",
+          "summary": "The Antarctic iceberg made a relatively quick exit from the Weddell Sea, only to slow at the edge of a remote island’s underwater shelf.",
+          "isoDate": "2026-10-27T04:00:00.000Z"
         },
         {
-          "title": "Solar Cells Inspected on NASA’s NEO Surveyor",
-          "link": "https://science.nasa.gov/photojournal/solar-cells-inspected-on-nasas-neo-surveyor/",
-          "summary": "Description The large sunshade of NASA’s Near-Earth Object (NEO) Surveyor mission is inspected by a technician at BAE Systems Space & Mission Systems in Boulder, Colorado, in late July.  Built by Applied Aerospace in Stockton, California, the sunshade structure was outfitted with its solar cells by SolAero Technologies in Albuquerque, New Mexico, in January. Environmental […]",
-          "isoDate": "2026-10-26T20:52:24.000Z"
+          "title": "The Nobel prize in economic science has a serious gender problem",
+          "link": "https://www.nature.com/articles/d41586-026-03404-5",
+          "summary": "Nature, Published online: 27 October 2026; doi:10.1038/d41586-026-03404-5\nThe Nobel prize in economic science has a serious gender problem",
+          "isoDate": "2026-10-27T00:00:00.000Z"
         },
         {
-          "title": "NASA SEES Interns Tackle Real-World Challenges in Lunar Exploration",
-          "link": "https://science.nasa.gov/learning-resources/science-activation/nasa-sees-interns-tackle-real-world-challenges-in-lunar-exploration/",
-          "summary": "The NASA STEM (Science, Technology, Engineering, and Mathematics) Enhancement in Earth Science (SEES) Internship Program at the University of Texas Center for Space Research places high school students on small, mission-focused research teams mentored by NASA, academic, and industry experts. During summer 2026, the SEES Mission Architecture Tool for Research, Integration, and eXploration (MATRIX) team […]",
-          "isoDate": "2026-10-26T19:28:08.000Z"
+          "title": "AI-hallucinated citations should be treated as research misconduct",
+          "link": "https://www.nature.com/articles/d41586-026-03407-2",
+          "summary": "Nature, Published online: 27 October 2026; doi:10.1038/d41586-026-03407-2\nAI-hallucinated citations should be treated as research misconduct",
+          "isoDate": "2026-10-27T00:00:00.000Z"
         },
         {
-          "title": "NASA Invites Media to Moon Landing Simulation Experience in California",
-          "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-moon-landing-simulation-experience-in-california/",
-          "summary": "Members of the media are invited to tour a new lunar landing simulator at NASA’s Ames Research Center in California's Silicon Valley on Thursday, Oct. 29, and Friday, Oct. 30.",
-          "isoDate": "2026-10-26T17:13:44.000Z"
+          "title": "Short-term academic visits to China could sustain ties",
+          "link": "https://www.nature.com/articles/d41586-026-03405-4",
+          "summary": "Nature, Published online: 27 October 2026; doi:10.1038/d41586-026-03405-4\nShort-term academic visits to China could sustain ties",
+          "isoDate": "2026-10-27T00:00:00.000Z"
         },
         {
-          "title": "NASA’s X-59 Aircraft and Test Pilot",
-          "link": "https://www.nasa.gov/image-article/nasas-x-59-aircraft-and-test-pilot/",
-          "summary": "NASA test pilot Mike Lippert poses for a photo ahead of his first time flying the agency’s X-59 quiet supersonic research aircraft on Oct. 21, 2026. The X-59 has flown numerous times since its inaugural flight in November 2025; its first supersonic flight was on June 5, 2026. Lippert took off from NASA’s Armstrong Flight […]",
-          "isoDate": "2026-10-26T15:25:47.000Z"
+          "title": "AI watermarking efforts must encourage independent public scrutiny",
+          "link": "https://www.nature.com/articles/d41586-026-03406-3",
+          "summary": "Nature, Published online: 27 October 2026; doi:10.1038/d41586-026-03406-3\nAI watermarking efforts must encourage independent public scrutiny",
+          "isoDate": "2026-10-27T00:00:00.000Z"
         },
         {
-          "title": "NASA, USDA Sign Agreement Advancing Earth Science, Agriculture  ",
-          "link": "https://www.nasa.gov/news-release/nasa-usda-sign-agreement-advancing-earth-science-agriculture/",
-          "summary": "NASA and the U.S. Department of Agriculture (USDA) have signed a Memorandum of Understanding expanding cooperation in Earth observation, geospatial analytics, and advanced data technologies, supporting USDA’s data modernization plan for United States agriculture. “NASA develops some of the most advanced sensing, computing, and analytical capabilities in the world, and we should put those tools […]",
-          "isoDate": "2026-10-26T13:54:25.000Z"
+          "title": "How to keep tabs on the tools in your lab",
+          "link": "https://www.nature.com/articles/d41586-026-02814-9",
+          "summary": "Nature, Published online: 27 October 2026; doi:10.1038/d41586-026-02814-9\nMisplaced or borrowed laboratory equipment can bring experiments to a halt. Scientists explain how they stop essential kit from going missing.",
+          "isoDate": "2026-10-27T00:00:00.000Z"
         },
         {
-          "title": "APOD: 2026 October 26 – M42: The Great Nebula in Orion",
-          "link": "https://science.nasa.gov/image-article/apod/2026-october-26-m42-the-great-nebula-in-orion/",
-          "summary": "APOD Science APOD APOD: 2026 October 26 – M42:… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. M42: The […]",
-          "isoDate": "2026-10-26T04:05:00.000Z"
+          "title": "Why pharma firms are betting billions on psychedelic drugs despite setbacks",
+          "link": "https://www.nature.com/articles/d41586-026-03390-8",
+          "summary": "Nature, Published online: 27 October 2026; doi:10.1038/d41586-026-03390-8\nRegulatory pushback stalled the field. But researchers are optimistic about mind-altering drugs as potential treatments for depression and mood disorders.",
+          "isoDate": "2026-10-27T00:00:00.000Z"
         },
         {
-          "title": "Hunting Red Leaves with Satellites",
-          "link": "https://science.nasa.gov/earth/earth-observatory/hunting-red-leaves-with-satellites/",
-          "summary": "A modern satellite makes it possible to pursue the ancient tradition of leaf-peeping in a whole new way.",
-          "isoDate": "2026-10-26T04:01:00.000Z"
+          "title": "Could measuring immune health reshape medical care?",
+          "link": "https://www.nature.com/articles/d41586-026-03396-2",
+          "summary": "Nature, Published online: 27 October 2026; doi:10.1038/d41586-026-03396-2\nFinding practical ways to analyse the state of a person’s immune system could guide treatment decisions and create opportunities for disease prevention.",
+          "isoDate": "2026-10-27T00:00:00.000Z"
         }
       ]
     },
@@ -141,13 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 74\nColumn: 41\nChar: &",
-          "isoDate": "2026-10-27T03:51:41.537Z"
+          "isoDate": "2026-10-27T11:39:04.553Z"
         },
         {
-          "title": "Apple says it will replace iPhone Duo handsets with screen problems",
+          "title": "Apple to replace iPhone Duos affected by screen problem",
           "link": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
           "summary": "Photos shared online showed faults appearing on the screens of Apple's first foldable device.",
-          "isoDate": "2026-10-27T01:48:04.000Z"
+          "isoDate": "2026-10-27T09:37:55.000Z"
         },
         {
           "title": "Anthropic's blockbuster share listing - 5 surprising things we now know",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-10-27T03:51:43.920Z"
+          "isoDate": "2026-10-27T11:39:06.743Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 59\nColumn: 58\nChar: =",
-          "isoDate": "2026-10-27T03:51:42.625Z"
+          "isoDate": "2026-10-27T11:39:05.672Z"
         },
         {
           "title": "IEEE Xplore Digital Library Adds AI Assistant",
