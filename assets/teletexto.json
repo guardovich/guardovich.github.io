@@ -1,10 +1,34 @@
 {
-  "generatedAt": "2026-10-28T04:12:11.543Z",
+  "generatedAt": "2026-10-28T12:10:43.638Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Pairing industrial AI autonomy and human control",
+          "link": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
+          "summary": "",
+          "isoDate": "2026-10-28T12:00:00.000Z"
+        },
+        {
+          "title": "Meta considered a ‘whisper strategy’ to turn academics against Jonathan Haidt",
+          "link": "https://www.theverge.com/policy/1020012/meta-jonathan-haidt-social-media-mental-health",
+          "summary": "As Meta was feeling public pressure over teen mental health, and facing an impending onslaught of kids safety trials, the company considered a campaign to discredit a key critic: social psychologist Jonathan Haidt.\nNewly filed court documents show that in March 2023, Meta discussed a \"Whisper strategy\" to \"turn academics against Haidt,\" a thought leader who blamed social media for rising adolescent depression and anxiety. Haidt hadn't yet published his bestselling book, The Anxious Generation, but he testified about his conclusions before Congress in 2022, and in February 2023, he began posting more of his theories and research to Substack. …\nRead the full story at The Verge.",
+          "isoDate": "2026-10-28T11:30:00.000Z"
+        },
+        {
+          "title": "Meta quietly launched an &#8216;AI pet journal&#8217; app",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
+          "summary": "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations.\nAccording to its Apple and Play Store listings, the \"16-bit pet care game\" is not really a game, but \"a daily journal disguised as a pet.\" Users should talk, not type, with their pets, the description says, as well as play \"cozy games\" like stacking groceries or word games. The Play store description says:\nA little friend that listens. A cozy world that's yours. Waddle World is a cozy 16-bit world where your pixel pet lives. Hatch a virtual pet, visit whenever you like, and let it …\n\nRead the full story at The Verge.",
+          "isoDate": "2026-10-28T11:27:30.000Z"
+        },
+        {
+          "title": "China’s snooping around Pacific undersea cables raises risks for Big Tech",
+          "link": "https://arstechnica.com/gadgets/2026/10/google-and-meta-subsea-cables-among-most-at-risk-from-sabotage-in-pacific/",
+          "summary": "US-owned trans-Pacific cables face growing risks from sabotage and China.",
+          "isoDate": "2026-10-28T11:00:49.000Z"
+        },
         {
           "title": "Here’s why the iPhone Duo’s hinge could be cracking the screen",
           "link": "https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge",
@@ -40,30 +64,6 @@
           "link": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
           "summary": "Seven potential AI nightmares pulled from Anthropic's 93-page \"Risk Factor\" tome.",
           "isoDate": "2026-10-27T21:31:14.000Z"
-        },
-        {
-          "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
-          "summary": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to The Verge are growing increasingly tired of the company's antics.\nIt has been a turbulent few months between OpenAI and mathematicians, who are still grappling with the hundreds of preprints unceremoniously dumped on them at the start of October. This time, OpenAI says it is working with expert \"shepherds\" to decide how best to share its latest breakthroughs.\nAll three results conc …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-27T20:48:58.000Z"
-        },
-        {
-          "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
-          "link": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
-          "summary": "Critical flaw in EDK2 allows attackers to execute code early in the boot process.",
-          "isoDate": "2026-10-27T20:25:55.000Z"
-        },
-        {
-          "title": "Google begins certifying Registered App Stores for Android, but not in the US",
-          "link": "https://arstechnica.com/gadgets/2026/10/googles-android-registered-app-stores-program-launches-dec-1-applications-now-open/",
-          "summary": "Easier app installs are coming to third-party stores, pending Google's stamp of approval.",
-          "isoDate": "2026-10-27T19:32:07.000Z"
-        },
-        {
-          "title": "Elon Musk says Ukraine&#8217;s military violated Starlink&#8217;s terms of service",
-          "link": "https://www.theverge.com/science/1019879/elon-musk-starlink-ukraine-terms-of-service",
-          "summary": "Elon Musk claims Ukraine violated Starlink's terms of service before the recent slowdown, as reported earlier by Ars Technica. According to Musk, \"Ukraine military violated Starlink terms of service and used it for offensive drone strikes to kill people. That loophole was closed last week,\" however Ukrainian officials have denied that happened, or that it is actually possible for them to do.\nThe statement comes nearly two weeks after Ukrainian officials accused SpaceX of putting limits on the military's satellite internet service that disrupted its drone missions and operations. As reported by Axios, Ukraine uses Starlink for communications …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-27T19:24:06.000Z"
         }
       ]
     },
@@ -71,6 +71,54 @@
       "header": "120  CIENCIA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Curiosity Blog, Sols 5043-5049: Preparing to Drill at ‘Nazca’",
+          "link": "https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca/",
+          "summary": "Written by Lucy Lim, Planetary Scientist at NASA’s Goddard Space Flight Center Earth planning date: Friday, Oct. 16, 2026 Following the Basque Lakes drill campaign, Curiosity has returned to a spot just a few meters away from the “Chiu Chiu” block to conduct our next drill campaign. “Chiu Chiu” itself wasn’t a good candidate for […]",
+          "isoDate": "2026-10-28T05:39:46.000Z"
+        },
+        {
+          "title": "APOD: 2026 October 28 – The Mutual Occultation of Ganymede and Io",
+          "link": "https://science.nasa.gov/image-article/apod-2026-october-28-the-mutual-occultation-of-ganymede-and-io/",
+          "summary": "APOD Science APOD APOD: 2026 October 28 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view […]",
+          "isoDate": "2026-10-28T04:05:00.000Z"
+        },
+        {
+          "title": "The Land of the Standing-Up Rocks",
+          "link": "https://science.nasa.gov/earth/earth-observatory/the-land-of-the-standing-up-rocks/",
+          "summary": "A national monument since the 1920s, Chiricahua is America’s newest national park.",
+          "isoDate": "2026-10-28T04:01:00.000Z"
+        },
+        {
+          "title": "How personalization and psychedelics are revitalizing psychiatry",
+          "link": "https://www.nature.com/articles/d41586-026-03402-7",
+          "summary": "Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03402-7\nFresh ideas are welcome in a discipline in which progress is rare — provided they are applied rigorously.",
+          "isoDate": "2026-10-28T00:00:00.000Z"
+        },
+        {
+          "title": "Preprint-centric publishing model gets major boost",
+          "link": "https://www.nature.com/articles/d41586-026-03445-w",
+          "summary": "Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03445-w\nEuropean funders put weight behind emerging ‘publish, review, curate’ approach for preprints.",
+          "isoDate": "2026-10-28T00:00:00.000Z"
+        },
+        {
+          "title": "These three red flags could unmask dodgy journals",
+          "link": "https://www.nature.com/articles/d41586-026-03325-3",
+          "summary": "Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03325-3\nAs poor publishing practices proliferate, scholarly databases are under pressure to ensure the titles they list are reputable.",
+          "isoDate": "2026-10-28T00:00:00.000Z"
+        },
+        {
+          "title": "The grand plan to transform psychiatry — by personalizing mental-health care",
+          "link": "https://www.nature.com/articles/d41586-026-03391-7",
+          "summary": "Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03391-7\nCould a blood sample, a brain scan and a look at your phone data transform how your psychiatrist treats you?",
+          "isoDate": "2026-10-28T00:00:00.000Z"
+        },
+        {
+          "title": "How the pandemic changed trust in science — in four charts",
+          "link": "https://www.nature.com/articles/d41586-026-03248-z",
+          "summary": "Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03248-z\nThe largest analysis of its kind reveals the public’s changing relationship with science and the people who do it.",
+          "isoDate": "2026-10-28T00:00:00.000Z"
+        },
         {
           "title": "NASA Invites Media to Crew Completion of Yearlong Mars Simulation",
           "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation/",
@@ -82,54 +130,6 @@
           "link": "https://www.nasa.gov/image-article/nasas-neo-surveyor-sunshade/",
           "summary": "A technician inspects the large sunshade of NASA’s Near-Earth Object (NEO) Surveyor mission in this image released on Oct. 26, 2026. The sunshade structure, which stands 20 feet (6 meters) tall and measures 8 feet (2.4 meters) wide at its base, will keep the infrared space telescope cool as it searches for near-Earth asteroids and […]",
           "isoDate": "2026-10-27T17:58:57.000Z"
-        },
-        {
-          "title": "How a Johnson Mentor Shapes the Next Generation of NASA Talent ",
-          "link": "https://www.nasa.gov/general/how-a-johnson-mentor-shapes-the-next-generation-of-nasa-talent/",
-          "summary": "When Rice University student Malvika Bhardwaj asked her mentor Daniel Cohen, a Guidance, Navigation & Control (GN&C) engineer at NASA’s Johnson Space Center, whether he had time to keep teaching interns with his busy workload, he answered, “You decide what’s important.”  In honor of National Mentoring Day on Oct. 27, Bhardwaj reflects on how Cohen’s […]",
-          "isoDate": "2026-10-27T07:07:51.000Z"
-        },
-        {
-          "title": "APOD: 2026 October 27 – Noctilucent Clouds over Sweden",
-          "link": "https://science.nasa.gov/image-article/apod-2026-october-27-noctilucent-clouds-over-sweden/",
-          "summary": "APOD Science APOD APOD: 2026 October 27 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Noctilucent Clouds over […]",
-          "isoDate": "2026-10-27T04:05:00.000Z"
-        },
-        {
-          "title": "A-81 Reaches South Georgia",
-          "link": "https://science.nasa.gov/earth/earth-observatory/a-81-reaches-south-georgia/",
-          "summary": "The Antarctic iceberg made a relatively quick exit from the Weddell Sea, only to slow at the edge of a remote island’s underwater shelf.",
-          "isoDate": "2026-10-27T04:00:00.000Z"
-        },
-        {
-          "title": "The Nobel prize in economic science has a serious gender problem",
-          "link": "https://www.nature.com/articles/d41586-026-03404-5",
-          "summary": "Nature, Published online: 27 October 2026; doi:10.1038/d41586-026-03404-5\nThe Nobel prize in economic science has a serious gender problem",
-          "isoDate": "2026-10-27T00:00:00.000Z"
-        },
-        {
-          "title": "Methane emissions remain flat even as biggest US oil region opens the tap",
-          "link": "https://www.nature.com/articles/d41586-026-03388-2",
-          "summary": "Nature, Published online: 27 October 2026; doi:10.1038/d41586-026-03388-2\nOutput of the greenhouse gas from the Permian Basin has remained near constant over a period during which oil and gas production tripled.",
-          "isoDate": "2026-10-27T00:00:00.000Z"
-        },
-        {
-          "title": "AI-hallucinated citations should be treated as research misconduct",
-          "link": "https://www.nature.com/articles/d41586-026-03407-2",
-          "summary": "Nature, Published online: 27 October 2026; doi:10.1038/d41586-026-03407-2\nAI-hallucinated citations should be treated as research misconduct",
-          "isoDate": "2026-10-27T00:00:00.000Z"
-        },
-        {
-          "title": "Short-term academic visits to China could sustain ties",
-          "link": "https://www.nature.com/articles/d41586-026-03405-4",
-          "summary": "Nature, Published online: 27 October 2026; doi:10.1038/d41586-026-03405-4\nShort-term academic visits to China could sustain ties",
-          "isoDate": "2026-10-27T00:00:00.000Z"
-        },
-        {
-          "title": "Making ‘mind pictures’ takes mental effort",
-          "link": "https://www.nature.com/articles/d41586-026-03276-9",
-          "summary": "Nature, Published online: 27 October 2026; doi:10.1038/d41586-026-03276-9\nHow forming internal imagery is amusing but tiring, and the worry induced by lists of chemicals in foods, in this week’s pick from the Nature archive.",
-          "isoDate": "2026-10-27T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 74\nColumn: 41\nChar: &",
-          "isoDate": "2026-10-28T04:12:06.044Z"
+          "isoDate": "2026-10-28T12:10:40.977Z"
         },
         {
           "title": "'An annoying buzz': The search for stealthier drones",
@@ -204,6 +204,12 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "Legora is building the agentic operating system for legal work",
+          "link": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+          "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+          "isoDate": "2026-10-28T09:30:00.000Z"
+        },
+        {
           "title": "Making machines that can listen",
           "link": "https://news.mit.edu/2026/making-machines-that-can-listen-paris-smaragdis-1028",
           "summary": "Professor Paris Smaragdis develops computers with superhuman hearing for applications like speech recognition, music understanding, and environmental monitoring.",
@@ -256,12 +262,6 @@
           "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
           "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
           "isoDate": "2026-10-26T14:30:00.000Z"
-        },
-        {
-          "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-          "link": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-          "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
-          "isoDate": "2026-10-26T13:45:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-10-28T04:12:10.730Z"
+          "isoDate": "2026-10-28T12:10:42.912Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 59\nColumn: 58\nChar: =",
-          "isoDate": "2026-10-28T04:12:06.907Z"
+          "isoDate": "2026-10-28T12:10:41.906Z"
         },
         {
           "title": "Your Robot’s Safety Functions Already Work. What If the Input Lies?",
