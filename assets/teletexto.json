@@ -1,10 +1,46 @@
 {
-  "generatedAt": "2026-10-27T21:50:52.740Z",
+  "generatedAt": "2026-10-28T04:12:11.543Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Here’s why the iPhone Duo’s hinge could be cracking the screen",
+          "link": "https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge",
+          "summary": "Within hours of the iPhone Duo launch last Friday, people reported that the inner screen on some brand new foldable phones was already broken. The issue was similar across many photos shared on social media: some kind of issue or crack would appear in the middle of the screen above the hinge, with lines appearing on the right side of the display. On Monday, Apple acknowledged an \"issue\" and said it's replacing damaged units, without going into much detail about how many broken phones have been reported so far.\nSo what's actually going on?\nShahram Mokhtari, the lead teardown technician at iFixit, has actually taken apart the iPhone Duo and  …\nRead the full story at The Verge.",
+          "isoDate": "2026-10-27T22:55:05.000Z"
+        },
+        {
+          "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
+          "link": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/",
+          "summary": "Additionally, the N1 chip brings Wi-Fi 7 and Bluetooth 6.",
+          "isoDate": "2026-10-27T22:37:30.000Z"
+        },
+        {
+          "title": "South Carolina's measles outbreak jumped to Washington state 5 times in 2 weeks",
+          "link": "https://arstechnica.com/health/2026/10/domestic-travel-poses-growing-risk-for-measles-and-a-new-challenge-for-states/",
+          "summary": "International travel used to be the main risk of measles cases in the US—not anymore.",
+          "isoDate": "2026-10-27T22:22:32.000Z"
+        },
+        {
+          "title": "China's top-secret spaceplane can't hide in low-Earth orbit",
+          "link": "https://arstechnica.com/space/2026/10/chinas-top-secret-spaceplane-cant-hide-in-low-earth-orbit/",
+          "summary": "The DIA's threat assessment suggests China may soon place directed energy weapons in space.",
+          "isoDate": "2026-10-27T22:04:50.000Z"
+        },
+        {
+          "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+          "link": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+          "summary": "Owners of AI-run firms would evade liability for \"reckless\" AI, US Rep. Comer says.",
+          "isoDate": "2026-10-27T21:50:04.000Z"
+        },
+        {
+          "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+          "link": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
+          "summary": "Seven potential AI nightmares pulled from Anthropic's 93-page \"Risk Factor\" tome.",
+          "isoDate": "2026-10-27T21:31:14.000Z"
+        },
         {
           "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
@@ -12,7 +48,7 @@
           "isoDate": "2026-10-27T20:48:58.000Z"
         },
         {
-          "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
+          "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
           "link": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
           "summary": "Critical flaw in EDK2 allows attackers to execute code early in the boot process.",
           "isoDate": "2026-10-27T20:25:55.000Z"
@@ -28,42 +64,6 @@
           "link": "https://www.theverge.com/science/1019879/elon-musk-starlink-ukraine-terms-of-service",
           "summary": "Elon Musk claims Ukraine violated Starlink's terms of service before the recent slowdown, as reported earlier by Ars Technica. According to Musk, \"Ukraine military violated Starlink terms of service and used it for offensive drone strikes to kill people. That loophole was closed last week,\" however Ukrainian officials have denied that happened, or that it is actually possible for them to do.\nThe statement comes nearly two weeks after Ukrainian officials accused SpaceX of putting limits on the military's satellite internet service that disrupted its drone missions and operations. As reported by Axios, Ukraine uses Starlink for communications …\nRead the full story at The Verge.",
           "isoDate": "2026-10-27T19:24:06.000Z"
-        },
-        {
-          "title": "Vibe genes? Natural(ish) language comes to protein, genome design software",
-          "link": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/",
-          "summary": "You can apparently now tell AI tools what sort of protein you want them to make.",
-          "isoDate": "2026-10-27T18:49:08.000Z"
-        },
-        {
-          "title": "Trump is making it easier for fossil fuel companies to leak methane",
-          "link": "https://www.theverge.com/policy/1019691/gas-leak-methane-rule-rollback-trump",
-          "summary": "In its latest gift to oil and gas companies, the Trump administration is expected to announce plans today to weaken rules that guard against methane leaks.\nMethane is a smog-forming pollutant and a powerful greenhouse gas that's up to 80 times as potent as carbon dioxide on a 20-year horizon. It's the primary component of what the fossil fuel industry calls \"natural gas\" that routinely leaks from oil and gas wells and pipelines.\nThe Environmental Protection Agency (EPA) is reversing course on its previous efforts to plug those leaks. As part of President Donald Trump's deregulatory agenda, the EPA plans to undo Biden-era rules that were ex …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-27T18:25:13.000Z"
-        },
-        {
-          "title": "Warner Bros. drops final trailer for Dune: Part Three",
-          "link": "https://arstechnica.com/culture/2026/10/warner-bros-drops-final-trailer-for-dune-part-three/",
-          "summary": "\"After years of combat, I've become the oppressor Chani had sworn to fight.\"",
-          "isoDate": "2026-10-27T18:05:55.000Z"
-        },
-        {
-          "title": "VisionQuest is what happens when AI really goes rogue",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
-          "summary": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The series is deeply fantastical, yet it plays with some of the ideas that have come to dominate the conversation about real-world generative artificial intelligence, exploring whether we should look at thinking machines as people and if AI truly poses the kind of existential danger that should keep us up at night. It's also a reminder how aggressively Silicon Valley has used the trappings of science fiction to sell us on its AI  …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-27T17:30:00.000Z"
-        },
-        {
-          "title": "The Super Mouse puts a touchscreen macro pad under your hand",
-          "link": "https://www.theverge.com/tech/1019484/super-mouse-touchscreen-shortcuts-macros-kickstarter",
-          "summary": "A company called Arctic Fox Technologies has announced a new multifunction mouse that forgoes a myriad of customizable shortcut buttons peppered across its surface for a compact touchscreen sitting beneath your hand. The Super Mouse may not prioritize ergonomics with its boxy design, but it can replace other peripherals on your desk, like a trackpad, macro pad, or streaming controller. If you're faster at typing on your phone, the Super Mouse could potentially even replace a full-size keyboard with a smartphone-sized alternative that even includes swipe typing.\nThe Super Mouse is now available for preorder through a Kickstarter crowdfunding …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-27T17:00:00.000Z"
-        },
-        {
-          "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
-          "summary": "Anthropic cofounder and CEO Dario Amodei. | Bloomberg via Getty Images\t\n\nAnthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may have little patience for costly safety measures that slow products on their way to market.\nSam Altman, the CEO of Anthropic's archrival, OpenAI, has cited investor pressures as one reason the company is not pursuing an IPO this year. Anthropic hopes it can resist investor pressures with a mind-boggling governance structure.\n …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-27T16:51:22.000Z"
         }
       ]
     },
@@ -108,6 +108,12 @@
           "isoDate": "2026-10-27T00:00:00.000Z"
         },
         {
+          "title": "Methane emissions remain flat even as biggest US oil region opens the tap",
+          "link": "https://www.nature.com/articles/d41586-026-03388-2",
+          "summary": "Nature, Published online: 27 October 2026; doi:10.1038/d41586-026-03388-2\nOutput of the greenhouse gas from the Permian Basin has remained near constant over a period during which oil and gas production tripled.",
+          "isoDate": "2026-10-27T00:00:00.000Z"
+        },
+        {
           "title": "AI-hallucinated citations should be treated as research misconduct",
           "link": "https://www.nature.com/articles/d41586-026-03407-2",
           "summary": "Nature, Published online: 27 October 2026; doi:10.1038/d41586-026-03407-2\nAI-hallucinated citations should be treated as research misconduct",
@@ -124,12 +130,6 @@
           "link": "https://www.nature.com/articles/d41586-026-03276-9",
           "summary": "Nature, Published online: 27 October 2026; doi:10.1038/d41586-026-03276-9\nHow forming internal imagery is amusing but tiring, and the worry induced by lists of chemicals in foods, in this week’s pick from the Nature archive.",
           "isoDate": "2026-10-27T00:00:00.000Z"
-        },
-        {
-          "title": "Author Correction: A chemical defence against phage infection",
-          "link": "https://www.nature.com/articles/s41586-026-11302-z",
-          "summary": "Nature, Published online: 27 October 2026; doi:10.1038/s41586-026-11302-z\nAuthor Correction: A chemical defence against phage infection",
-          "isoDate": "2026-10-27T00:00:00.000Z"
         }
       ]
     },
@@ -141,11 +141,17 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 74\nColumn: 41\nChar: &",
-          "isoDate": "2026-10-27T21:50:49.961Z"
+          "isoDate": "2026-10-28T04:12:06.044Z"
+        },
+        {
+          "title": "'An annoying buzz': The search for stealthier drones",
+          "link": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss",
+          "summary": "As drone deliveries become more commonplace, their makers are looking for ways to make them quieter.",
+          "isoDate": "2026-10-28T00:01:10.000Z"
         },
         {
           "title": "Tech Life",
-          "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/sounds/play/w3ct8jys?at_medium=RSS&at_campaign=rss",
           "summary": "We hear from Ondřej Surý, the programmer whose PHP patches helped avert a cyber crisis.",
           "isoDate": "2026-10-27T20:30:00.000Z"
         },
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cxnv025d8qpmo?at_medium=RSS&at_campaign=rss",
           "summary": "IT and cyber experts have told the BBC about their struggles in the last 48 hours to update their systems.",
           "isoDate": "2026-10-23T12:00:25.000Z"
-        },
-        {
-          "title": "The Indian workers filming their work to train AI",
-          "link": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
-          "summary": "Indian workers are being paid to film themselves at work and the footage is used to train AI.",
-          "isoDate": "2026-10-23T08:04:17.000Z"
         }
       ]
     },
@@ -203,6 +203,12 @@
       "header": "160  INTELIGENCIA ARTIFICIAL",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Making machines that can listen",
+          "link": "https://news.mit.edu/2026/making-machines-that-can-listen-paris-smaragdis-1028",
+          "summary": "Professor Paris Smaragdis develops computers with superhuman hearing for applications like speech recognition, music understanding, and environmental monitoring.",
+          "isoDate": "2026-10-28T04:00:00.000Z"
+        },
         {
           "title": "Learner collaborates with MIT peers to develop book of AI insights",
           "link": "https://news.mit.edu/2026/learner-prabha-jha-collaborates-with-mit-peers-to-develop-book-of-ai-insights-1027",
@@ -214,6 +220,12 @@
           "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
           "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
           "isoDate": "2026-10-27T16:01:38.000Z"
+        },
+        {
+          "title": "Retell uses OpenAI models to help power 100M monthly calls",
+          "link": "https://openai.com/index/retell-ai",
+          "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+          "isoDate": "2026-10-27T15:00:00.000Z"
         },
         {
           "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
@@ -250,18 +262,6 @@
           "link": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
           "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
           "isoDate": "2026-10-26T13:45:00.000Z"
-        },
-        {
-          "title": "ChatGPT’s expanding world of work",
-          "link": "https://openai.com/index/chatgpt-expanding-world-of-work",
-          "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
-          "isoDate": "2026-10-26T10:00:00.000Z"
-        },
-        {
-          "title": "How Fanatics and OpenAI streamline the fan experience",
-          "link": "https://openai.com/index/fanatics-streamline-fan-experience",
-          "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
-          "isoDate": "2026-10-26T07:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-10-27T21:50:51.964Z"
+          "isoDate": "2026-10-28T04:12:10.730Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 59\nColumn: 58\nChar: =",
-          "isoDate": "2026-10-27T21:50:50.869Z"
+          "isoDate": "2026-10-28T04:12:06.907Z"
         },
         {
           "title": "Your Robot’s Safety Functions Already Work. What If the Input Lies?",
