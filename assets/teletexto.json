@@ -1,69 +1,69 @@
 {
-  "generatedAt": "2026-10-30T12:12:06.403Z",
+  "generatedAt": "2026-10-30T21:57:34.730Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
         {
-          "title": "The touchscreen MacBook Pro is just a MacBook Pro with a touchscreen",
-          "link": "https://www.theverge.com/tech/1022628/apple-macbook-pro-proled-xdr-touchscreen-oled-impressions-totally-normal",
-          "summary": "Touch ‘em if you got ‘em. | Photo: Antonio G. Di Benedetto / The Verge\t\n\nApple's long-awaited touchscreen MacBook Pro is finally here. I got to try this MacBook that, according to the last two Apple CEOs, shouldn't exist. The most surprising thing is how normal it is.\nThe MacBook Pro with PROLED XDR Display (what a name) has one of the nicest screens I've seen on a laptop. The current Mini LED MacBook Pros are great, but the OLED has those even inkier blacks. It also gets super bright, with incredibly rich colors and infinite contrast. Apple calls it a \"reference-caliber display,\" which is a very Apple-y marketing term, but it walks the walk by being the first laptop display with support for Apple CMF 2026 color …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-30T12:00:00.000Z"
+          "title": "Exclusive details about Akai’s MPC Sample Key",
+          "link": "https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive",
+          "summary": "Akai teased its new MPC Sample Key on Instagram earlier this week, and said it plans to open-source its software so the modding community can hack it to their hearts' delight. While there's no word yet on when the device will launch or how much it will cost, The Verge has received exclusive images of the upcoming instrument that offer some details about its feature set. \nWhile the Sample Key shares many of the same controls as the MPC Sample - including the three context-sensitive encoders, a large main encoder - it seems designed for pitched sample playback, rather than chopping up drums. In fact, the \"chop\" button from the MPC Sample is m …\nRead the full story at The Verge.",
+          "isoDate": "2026-10-30T21:01:32.000Z"
         },
         {
-          "title": "Binance hackers stole $6.3 billion in record-breaking crypto heist",
-          "link": "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist",
-          "summary": "Binance says it will cover all loses resulting from the hack. | Image: Cath Virginia / The Verge, Turbosquid\t\n\nBinance has disclosed that $6.3 billion worth of crypto funds have been stolen from the platform, in what's believed to be the biggest cryptocurrency hack on record. In a series of updates posted to X, the crypto exchange said that user funds are safe, and that around $3 billion of the impacted assets have been frozen so far.\nBinance has publicly committed to covering any losses resulting from the hack. The company has an emergency reserve fund of around $1.3 billion (at last valuation) to protect user assets in these situations, and said it has also reserved over $6.34 billion of company funds to cover this incident -   $5 billion of which …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-30T11:44:53.000Z"
+          "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+          "summary": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented on AI's impact on math, Altman said:\n\"A lot of people want local inference. And somehow, they assume that the problem is solved now because we are going to have open-source models, we're going to be able to run them on our computers, and so we're not going to need all the stuff in the data center.\nBut from a global allocation perspective, actually, it's quite terrible to have everybo …\n\nRead the full story at The Verge.",
+          "isoDate": "2026-10-30T20:48:43.000Z"
         },
         {
-          "title": "Maine’s data center revolt will decide who controls the Senate",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
-          "summary": "Maine Sen. Susan Collins, a Republican, was midway through defending her record during the final debate of the midterms when an audience member cut her short.\n\"I'm terrified,\" a man shouted. \"AI data centers are destroying our climate. They are poisoning our water.\"  Collins brushed off the outburst, tying the man to her Democratic challenger, Troy Jackson. But the fear echoing through the auditorium wasn't so easily dismissed. Just days before voters head to the polls, the rapid expansion of resource-hungry data centers has exploded into one of Maine's most volatile campaign issues.\nMaine drew national headlines in April when the state Le …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-30T11:00:00.000Z"
+          "title": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
+          "link": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
+          "summary": "People who love AI don't always love telling others they used it.",
+          "isoDate": "2026-10-30T20:40:13.000Z"
         },
         {
-          "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
-          "link": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
-          "summary": "GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinical psychologists, they can represent something more sinister—a potential trigger for eating disorders. A new report suggests that the global incidence of anorexia nervosa and bulimia nervosa shot up between 1990 and 2023—by a whopping 71%. By 2023,…",
-          "isoDate": "2026-10-30T09:00:00.000Z"
+          "title": "The biggest names in AI are backing a new way to opt out of scraping",
+          "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+          "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually.\nThe shared \"policy token\" signal is proposed by Kevin Kelley, a technical lead for standards at Anthropic, as part of the Internet Engineering Task Force (IETF). It will live within a website's robots.txt file, which has long signaled which web crawlers can and can't scrape a site - whether for search indexing, archiving, or …\nRead the full story at The Verge.",
+          "isoDate": "2026-10-30T20:26:10.000Z"
         },
         {
-          "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
-          "link": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
-          "summary": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling, it says, could either deprive Wikipedians of useful AI-based tools or endanger the open web.\nIn an amicus brief filed Friday, the nonprofit behind Wikipedia weighed in on a set of lawsuits pitting publishers including The New York Times against OpenAI and Microsoft, taking neither side. \"Wikimedia is concerned that the parties' positions in this case push for overbroa …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-30T09:00:00.000Z"
+          "title": "Over 25% of people lie to get antibiotics—and their lies aren't even good",
+          "link": "https://arstechnica.com/health/2026/10/over-25-of-people-lie-to-get-antibiotics-and-their-lies-arent-even-good/",
+          "summary": "Faked symptoms still point to infections that antibiotics don't treat.",
+          "isoDate": "2026-10-30T20:17:50.000Z"
         },
         {
-          "title": "The director of Obsession put a new horror short on YouTube",
-          "link": "https://www.theverge.com/streaming/1022934/curry-barker-obsession-horror-short-youtube-mama-bear",
-          "summary": "Curry Barker, the director behind the hit horror film Obsession, just published a new horror short on YouTube. The short, titled \"Mama Bear,\" is nearly five minutes long. The video is pretty unnerving, and fair warning that it gets a little graphic, but it's a fun one to watch if you're looking for something scary ahead of Halloween on Saturday.\nBarker wrote, directed, and edited \"Mama Bear,\" according to the description for the video, which was published on his that's a bad idea YouTube channel. The description also has a note thanking Windows for \"sponsoring this short film,\" and Barker was featured in an Instagram video earlier this week …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-29T23:57:18.000Z"
+          "title": "Basically no one is using AI agents for their DoorDash orders",
+          "link": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+          "summary": "But it's still early days for the relatively new e-commerce use case.",
+          "isoDate": "2026-10-30T19:30:52.000Z"
         },
         {
-          "title": "Intel says it&#8217;s selling every affordable laptop chip it can make",
-          "link": "https://www.theverge.com/tech/1022911/intel-wildcat-lake-sold-out-ram-shortage",
-          "summary": "During Intel's latest earnings call, CEO Lip-Bu Tan said that demand for its budget-focused Wildcat Lake chips \"is outstripping supply.\" According to CFO David Zinsner, the chips are now sold out. Zinsner said Intel has \"seen significant growth in Wildcat Lake. It's coming exactly at the right time because it's cost-optimized and we're seeing a lot of focus in that regard.\"\nAs shortages of RAM and other components have driven up PC prices over recent months, Intel's Wildcat Lake chips have been appearing in new lower-cost Windows laptops on par with the MacBook Neo, like the new Dell XPS 13 or the HP Omnibook 5 14. Wildcat Lake laptops like …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-29T23:42:21.000Z"
+          "title": "Google&#8217;s satellite AI server transmits its first response to Earth",
+          "link": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+          "summary": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space:\nBlue marble below\nData streams in silent grace\nStarlight feeds my core. ✨\nGoogle says it tried out other space-themed limericks and telemetry prompts as well. The test is part of Google's Project Suncatcher, an experimental initiative that could eventually put AI data centers in space. Google launched the satellite into orbit earlier this …\nRead the full story at The Verge.",
+          "isoDate": "2026-10-30T18:21:38.000Z"
         },
         {
-          "title": "Reddit’s CEO says Google’s AI Mode ‘does not drive traffic’",
-          "link": "https://www.theverge.com/tech/1022848/reddit-ceo-google-ai-mode-traffic",
-          "summary": "Reddit CEO Steve Huffman said in an earnings call today that Google's AI-powered search modes do not help with traffic to the platform, echoing problems facing other websites and publishers. As part of its Q3 2026 earnings, Reddit revealed that search traffic in October has \"dropped by more than 1 million referrals on average per week,\" and he attributes part of the company's struggles with Google traffic to how AI Mode and AI Overviews change the search experience.\n\"The reality is, AI Mode does not drive traffic,\" Huffman says. \"Not for us, and not to anybody, as far as I know. That's just a fundamental shift in how Google works. It used t …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-29T22:19:32.000Z"
+          "title": "Rare meteorite from Mars gives us a view into its ancient crust",
+          "link": "https://arstechnica.com/science/2026/10/rare-meteorite-from-mars-gives-us-a-view-into-its-ancient-crust/",
+          "summary": "A meteorite found in the Sahara is a rare piece of Mars' ancient crust.",
+          "isoDate": "2026-10-30T18:13:42.000Z"
         },
         {
-          "title": "Reddit is moving to “a logged-in-only experience,” CEO says",
-          "link": "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/",
-          "summary": "Reddit's search traffic \"was down meaningfully\" last quarter.",
-          "isoDate": "2026-10-29T21:47:57.000Z"
+          "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+          "link": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+          "summary": "Low costs and offline security mean magnetic tape still has a job.",
+          "isoDate": "2026-10-30T17:38:19.000Z"
         },
         {
-          "title": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
-          "link": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/",
-          "summary": "The latest update also brings a cloud recovery option for PCs that won't boot.",
-          "isoDate": "2026-10-29T20:18:49.000Z"
+          "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
+          "summary": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore \"experiences that recognize participating customers as they arrive, present personalized digital menus, and make payment more effortless,\" as spotted earlier by More Perfect Union.\nIt sounds similar to the technology that Taco Bell is experimenting with, which could change the layout, content, and visuals on a digital menu board \"on a car-by-car basis.\" McDonald's also recently showed off an AI-powered feature it's piloting at a handful of dri …\nRead the full story at The Verge.",
+          "isoDate": "2026-10-30T17:38:04.000Z"
         }
       ]
     },
@@ -72,28 +72,22 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "November’s Night Sky Notes: Light-Day Away",
-          "link": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/",
-          "summary": "Twin Travelers In 1977, NASA launched twin spacecraft Voyager 1 and 2, taking advantage of a once-every-175-year planetary alignment of the four largest planets in our solar system: Jupiter, Saturn, Uranus, and Neptune. Using six gravity assists between them, this Grand Tour gave us up-close views of the gas and ice giants, including several moons. […]",
-          "isoDate": "2026-10-30T10:00:00.000Z"
+          "title": "ERROR cargando feed",
+          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
+          "isoDate": "2026-10-30T21:57:28.491Z"
         },
         {
-          "title": "APOD: 2026 October 30 – Haunting the Cepheus Flare",
-          "link": "https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare/",
-          "summary": "APOD Science APOD APOD: 2026 October 30 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Haunting the Cepheus […]",
-          "isoDate": "2026-10-30T04:05:00.000Z"
+          "title": "Briefing Chat: <b>Dog years: could longevity science extend your pets' lives?</b>",
+          "link": "https://www.nature.com/articles/d41586-026-03553-7",
+          "summary": "Nature, Published online: 30 October 2026; doi:10.1038/d41586-026-03553-7\nNature staff discuss the emerging field of pet longevity — plus, a researcher decides not to care about their student reviews. Are they wrong?",
+          "isoDate": "2026-10-30T00:00:00.000Z"
         },
         {
-          "title": "Vega Island Frozen in Fright",
-          "link": "https://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright/",
-          "summary": "The sight of an icy skull-like visage on the Antarctic island could make one’s blood run cold.",
-          "isoDate": "2026-10-30T04:01:00.000Z"
-        },
-        {
-          "title": "Map Showing Potential Origins of Martian Meteorite Teghaza 001",
-          "link": "https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001/",
-          "summary": "Description This global map of Mars shows 13 locations that match the mineralogy and chemistry of Teghaza 001, one of the most ancient Martian meteorites ever found on Earth. While scientists can never know for sure where a Martian meteorite originated, Teghaza 001 includes clues that link it to highlands in the southern hemisphere of […]",
-          "isoDate": "2026-10-30T00:07:39.000Z"
+          "title": "Author Correction: Rh<sup>3+</sup> stabilized in KRh@MFI catalyses regioselective hydroformylation",
+          "link": "https://www.nature.com/articles/s41586-026-11337-2",
+          "summary": "Nature, Published online: 30 October 2026; doi:10.1038/s41586-026-11337-2\nAuthor Correction: Rh3+ stabilized in KRh@MFI catalyses regioselective hydroformylation",
+          "isoDate": "2026-10-30T00:00:00.000Z"
         },
         {
           "title": "Patrick Stewart dies: how Captain Picard inspired today’s science leaders",
@@ -108,28 +102,34 @@
           "isoDate": "2026-10-30T00:00:00.000Z"
         },
         {
+          "title": "I built the UK government’s metascience unit — here’s what countries need to know",
+          "link": "https://www.nature.com/articles/d41586-026-03502-4",
+          "summary": "Nature, Published online: 30 October 2026; doi:10.1038/d41586-026-03502-4\nTo find evidence-backed ways to improve grant-funding processes, metascientists need freedom and money to experiment, as well as leaders who are willing to make change.",
+          "isoDate": "2026-10-30T00:00:00.000Z"
+        },
+        {
+          "title": "Record-breaking retraction: scholarly publisher pulls 1,400 conference papers on one day",
+          "link": "https://www.nature.com/articles/d41586-026-03455-8",
+          "summary": "Nature, Published online: 30 October 2026; doi:10.1038/d41586-026-03455-8\nAnnouncement by IEEE follows publication of a study showing the retracted papers are linked to paper mills.",
+          "isoDate": "2026-10-30T00:00:00.000Z"
+        },
+        {
           "title": "Are dinosaur fossils hogging top journals? Analysis sparks debate over ‘charismatic’ finds",
           "link": "https://www.nature.com/articles/d41586-026-03512-2",
           "summary": "Nature, Published online: 30 October 2026; doi:10.1038/d41586-026-03512-2\nFossils of dinosaurs, mammals and other glamorous species are over-represented in high-profile titles, suggests a study of thousands of palaeontology papers.",
           "isoDate": "2026-10-30T00:00:00.000Z"
         },
         {
-          "title": "Slice of Martian Meteorite Teghaza 001",
-          "link": "https://science.nasa.gov/photojournal/slice-of-martian-meteorite-teghaza-001/",
-          "summary": "Description This slice of Teghaza 001, one of the most ancient Martian meteorites ever found on Earth, was used to determine the age of the rock. Reflected light images like these serve as a scientist’s road map, helping them find minerals of interest to analyze by different instruments. Figure A is the same image with […]",
-          "isoDate": "2026-10-29T23:32:35.000Z"
+          "title": "Stimulated protein degradation to promote mitochondrial function and neuronal survival",
+          "link": "https://www.science.org/doi/abs/10.1126/science.aed2525?af=R",
+          "summary": "Science, Volume 394, Issue 6823, October 2026.",
+          "isoDate": "2026-10-29T07:00:00.000Z"
         },
         {
-          "title": "Halloween Aboard the International Space Station ",
-          "link": "https://www.nasa.gov/centers-and-facilities/johnson/halloween-aboard-the-international-space-station/",
-          "summary": "Although no ghouls, goblins, or trick-or-treaters come knocking at the International Space Station’s front hatch, crew members aboard the orbiting laboratory still like to get in the Halloween spirit. Whether individually or as an entire crew, they dress up in sometimes spooky, sometimes scary, but always creative costumes, often designed from materials available aboard the […]",
-          "isoDate": "2026-10-29T21:44:23.000Z"
-        },
-        {
-          "title": "NASA-funded Study Details One of Oldest Mars Meteorites Ever Found",
-          "link": "https://www.nasa.gov/solar-system/planets/mars/nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found/",
-          "summary": "When a rose-colored meteorite was found in the Sahara Desert in 2022, no one knew how old it was or where it came from. Not until NASA-funded scientists age-dated its minerals did they realize the nearly 2-pound (800-gram) rock was a piece of Mars that formed more than 4.1 billion years ago, making it one […]",
-          "isoDate": "2026-10-29T18:18:09.000Z"
+          "title": "Spatial coordination in the codevelopment of the human urogenital system during organogenesis",
+          "link": "https://www.science.org/doi/abs/10.1126/science.aee5093?af=R",
+          "summary": "Science, Volume 394, Issue 6823, October 2026.",
+          "isoDate": "2026-10-29T07:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 74\nColumn: 41\nChar: &",
-          "isoDate": "2026-10-30T12:12:02.523Z"
+          "isoDate": "2026-10-30T21:57:29.553Z"
+        },
+        {
+          "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+          "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+          "summary": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
+          "isoDate": "2026-10-30T20:34:46.000Z"
         },
         {
           "title": "Google value plunges by $500bn as its own AI search hits ad sales",
@@ -150,7 +156,7 @@
           "isoDate": "2026-10-30T12:04:02.000Z"
         },
         {
-          "title": "What we know so far about the Binance hack",
+          "title": "Who could be behind the Binance hack and what we know so far",
           "link": "https://www.bbc.co.uk/news/articles/cm5yn8eqg3npo?at_medium=RSS&at_campaign=rss",
           "summary": "Binance has been hit by what could be the biggest crypto hack ever - here's what we know so far",
           "isoDate": "2026-10-30T11:57:33.000Z"
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
           "summary": "The week, the Windows developer said it would offer buyouts to 60,000 workers as it looks to curb costs.",
           "isoDate": "2026-10-29T01:27:40.000Z"
-        },
-        {
-          "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
-          "link": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
-          "summary": "The Russian President praised Musk and said they are in \"close\" contact.",
-          "isoDate": "2026-10-28T19:15:58.000Z"
         }
       ]
     },
@@ -203,6 +203,36 @@
       "header": "160  INTELIGENCIA ARTIFICIAL",
       "maxItems": 10,
       "items": [
+        {
+          "title": "MIT affiliates named 2026 Schmidt Sciences AI2050 Fellows",
+          "link": "https://news.mit.edu/2026/mit-affiliates-named-schmidt-sciences-ai2050-fellows-1030",
+          "summary": "Five MIT faculty members and two additional alumni are honored with fellowships to advance research on beneficial AI.",
+          "isoDate": "2026-10-30T20:15:00.000Z"
+        },
+        {
+          "title": "Q&A: Hey AI, who should I vote for this year? ",
+          "link": "https://news.mit.edu/2026/qa-hey-ai-who-should-i-vote-for-this-year-1030",
+          "summary": "MIT professors Adam Berinsky and Chara Podimata discuss a new project to track how AI chatbots are responding to questions about the 2026 U.S. midterm elections.",
+          "isoDate": "2026-10-30T19:00:00.000Z"
+        },
+        {
+          "title": "Making it easier for websites to express AI training preferences",
+          "link": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+          "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+          "isoDate": "2026-10-30T09:30:00.000Z"
+        },
+        {
+          "title": "Community safety report and new protections for teens",
+          "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+          "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+          "isoDate": "2026-10-30T09:00:00.000Z"
+        },
+        {
+          "title": "Fair use benefits everyone",
+          "link": "https://openai.com/index/fair-use-benefits-everyone",
+          "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
+          "isoDate": "2026-10-30T00:00:00.000Z"
+        },
         {
           "title": "An updated Model Spec for more capable and beneficial AI",
           "link": "https://openai.com/index/updated-model-spec",
@@ -222,46 +252,16 @@
           "isoDate": "2026-10-29T07:00:00.000Z"
         },
         {
+          "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+          "link": "https://openai.com/index/credit-saison",
+          "summary": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
+          "isoDate": "2026-10-29T00:00:00.000Z"
+        },
+        {
           "title": "Gemini 4 Carbon: Our next frontier model",
           "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
           "summary": "",
           "isoDate": "2026-10-28T17:00:58.000Z"
-        },
-        {
-          "title": "3 Questions: Why infrastructure is entering a defining era ",
-          "link": "https://news.mit.edu/2026/3-questions-why-infrastructure-is-entering-defining-era-1028",
-          "summary": "Professor Ali Jadbabaie describes how AI, digital transformation, climate change, and complex geopolitics are forcing engineers and policymakers to rethink how infrastructure is designed, built, and managed.",
-          "isoDate": "2026-10-28T16:00:00.000Z"
-        },
-        {
-          "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-          "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
-          "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
-          "isoDate": "2026-10-28T13:15:00.000Z"
-        },
-        {
-          "title": "The future of the firm",
-          "link": "https://openai.com/index/the-future-of-the-firm",
-          "summary": "How AI might enter the org chart—beneath, beside, and between us.",
-          "isoDate": "2026-10-28T10:00:00.000Z"
-        },
-        {
-          "title": "Legora is building the agentic operating system for legal work",
-          "link": "https://openai.com/index/legora",
-          "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
-          "isoDate": "2026-10-28T09:30:00.000Z"
-        },
-        {
-          "title": "Making machines that can listen",
-          "link": "https://news.mit.edu/2026/making-machines-that-can-listen-paris-smaragdis-1028",
-          "summary": "Professor Paris Smaragdis develops computers with superhuman hearing for applications like speech recognition, music understanding, and environmental monitoring.",
-          "isoDate": "2026-10-28T04:00:00.000Z"
-        },
-        {
-          "title": "Learner collaborates with MIT peers to develop book of AI insights",
-          "link": "https://news.mit.edu/2026/learner-prabha-jha-collaborates-with-mit-peers-to-develop-book-of-ai-insights-1027",
-          "summary": "Prabha Jha used her experience with MIT Open Learning’s program for senior executives to develop AI solutions for her employer, Verizon, and to write a book.",
-          "isoDate": "2026-10-27T20:55:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-10-30T12:12:04.988Z"
+          "isoDate": "2026-10-30T21:57:33.811Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 59\nColumn: 58\nChar: =",
-          "isoDate": "2026-10-30T12:12:03.981Z"
+          "isoDate": "2026-10-30T21:57:30.849Z"
         },
         {
           "title": "Consumer Appetite for Personal AI Goes Mainstream",
@@ -324,57 +324,12 @@
       "maxItems": 120,
       "items": [
         {
-          "title": "RESULTADOS (ÚLTIMOS)",
+          "title": "RESULTADOS (EN DIRECTO)",
           "link": "",
           "summary": ""
         },
         {
-          "title": "SEV  2-0  OSA",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "BAR  1-2  REA",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "REA  2-1  LEV",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "CEL  0-0  REA",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "ATH  4-0  GET",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "ATL  1-0  DEP",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "VAL  1-2  VIL",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "SAN  2-1  ESP",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "RAY  0-3  ELC",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "ALA  1-1  MÁL",
+          "title": "VIL  0-1  ESP",
           "link": "",
           "summary": ""
         },
@@ -434,7 +389,7 @@
           "summary": ""
         },
         {
-          "title": "10  VIL  10   3  3  4  15  14   1  12",
+          "title": "10  VIL  11   3  3  5  15  15   0  12",
           "link": "",
           "summary": ""
         },
@@ -444,37 +399,37 @@
           "summary": ""
         },
         {
-          "title": "12  OSA  10   3  2  5  10  20 -10  11",
+          "title": "12  ESP  11   3  2  6  13  14  -1  11",
           "link": "",
           "summary": ""
         },
         {
-          "title": "13  SAN  10   3  2  5  15  26 -11  11",
+          "title": "13  OSA  10   3  2  5  10  20 -10  11",
           "link": "",
           "summary": ""
         },
         {
-          "title": "14  LEV  10   2  4  4  16  19  -3  10",
+          "title": "14  SAN  10   3  2  5  15  26 -11  11",
           "link": "",
           "summary": ""
         },
         {
-          "title": "15  ELC  10   2  4  4  14  17  -3  10",
+          "title": "15  LEV  10   2  4  4  16  19  -3  10",
           "link": "",
           "summary": ""
         },
         {
-          "title": "16  RAY   9   2  3  4  12  20  -8   9",
+          "title": "16  ELC  10   2  4  4  14  17  -3  10",
           "link": "",
           "summary": ""
         },
         {
-          "title": "17  GET  10   2  3  5   5  15 -10   9",
+          "title": "17  RAY   9   2  3  4  12  20  -8   9",
           "link": "",
           "summary": ""
         },
         {
-          "title": "18  ESP  10   2  2  6  12  14  -2   8",
+          "title": "18  GET  10   2  3  5   5  15 -10   9",
           "link": "",
           "summary": ""
         },
