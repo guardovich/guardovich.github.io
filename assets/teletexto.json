@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T22:27:59.865Z",
+  "generatedAt": "2026-10-30T04:33:26.148Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
@@ -12,7 +12,13 @@
           "isoDate": "2026-10-29T22:19:32.000Z"
         },
         {
-          "title": "Windows 11 gets right-click menu improvements as PC revenue slides",
+          "title": "Reddit is moving to “a logged-in-only experience,” CEO says",
+          "link": "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/",
+          "summary": "Reddit's search traffic \"was down meaningfully\" last quarter.",
+          "isoDate": "2026-10-29T21:47:57.000Z"
+        },
+        {
+          "title": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
           "link": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/",
           "summary": "The latest update also brings a cloud recovery option for PCs that won't boot.",
           "isoDate": "2026-10-29T20:18:49.000Z"
@@ -58,12 +64,6 @@
           "link": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
           "summary": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users, and while PDF previews/editing works on both the web and mobile, all other file formats are only in the web version for now.\nGoogle added support for generating and downloading files in Gemini earlier this year, but now you can tweak those files without leaving the Gemini app. Google says you can expand documents to edit them in full-screen mode and highlight text in files to ask Gemini questions or prompt …\nRead the full story at The Verge.",
           "isoDate": "2026-10-29T18:45:31.000Z"
-        },
-        {
-          "title": "Trump ignored intel on China’s Nvidia spy to protect company’s stock, report says",
-          "link": "https://arstechnica.com/tech-policy/2026/10/report-trump-did-nothing-with-intel-that-china-planted-spy-close-to-nvidia-ceo/",
-          "summary": "Spy accused of exploiting Trump ties to Huang, funneling secrets to China.",
-          "isoDate": "2026-10-29T18:29:12.000Z"
         }
       ]
     },
@@ -72,64 +72,64 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "Halloween Aboard the International Space Station ",
-          "link": "https://www.nasa.gov/centers-and-facilities/johnson/halloween-aboard-the-international-space-station/",
-          "summary": "Although no ghouls, goblins, or trick-or-treaters come knocking at the International Space Station’s front hatch, crew members aboard the orbiting laboratory still like to get in the Halloween spirit. Whether individually or as an entire crew, they dress up in sometimes spooky, sometimes scary, but always creative costumes, often designed from materials available aboard the […]",
-          "isoDate": "2026-10-29T21:44:23.000Z"
+          "title": "ERROR cargando feed",
+          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
+          "isoDate": "2026-10-30T04:33:21.497Z"
         },
         {
-          "title": "NASA-funded Study Details One of Oldest Mars Meteorites Ever Found",
-          "link": "https://www.nasa.gov/solar-system/planets/mars/nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found/",
-          "summary": "When a rose-colored meteorite was found in the Sahara Desert in 2022, no one knew how old it was or where it came from. Not until NASA-funded scientists age-dated its minerals did they realize the nearly 2-pound (800-gram) rock was a piece of Mars that formed more than 4.1 billion years ago, making it one […]",
-          "isoDate": "2026-10-29T18:18:09.000Z"
+          "title": "Stimulated protein degradation to promote mitochondrial function and neuronal survival",
+          "link": "https://www.science.org/doi/abs/10.1126/science.aed2525?af=R",
+          "summary": "Science, Volume 394, Issue 6823, October 2026.",
+          "isoDate": "2026-10-29T07:00:00.000Z"
         },
         {
-          "title": "NASA Names Troy Asher Armstrong Flight Research Center Director",
-          "link": "https://www.nasa.gov/news-release/nasa-names-troy-asher-armstrong-flight-research-center-director/",
-          "summary": "NASA Administrator Jared Isaacman has named Troy Asher director of the agency’s Armstrong Flight Research Center in Edwards, California. Asher, a veteran test pilot and aerospace engineer with decades of experience in flight research and operations, has served as the center’s acting director since March. “Troy has spent his career pushing the boundaries of flight, […]",
-          "isoDate": "2026-10-29T18:00:35.000Z"
+          "title": "Spatial coordination in the codevelopment of the human urogenital system during organogenesis",
+          "link": "https://www.science.org/doi/abs/10.1126/science.aee5093?af=R",
+          "summary": "Science, Volume 394, Issue 6823, October 2026.",
+          "isoDate": "2026-10-29T07:00:00.000Z"
         },
         {
-          "title": "NIH–NASA QuSAFE Challenge",
-          "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nih-nasa-qusafe-challenge/",
-          "summary": "The Quantum-Enabled Predictive Preclinical NAMs for Toxicity and Safety (QuSAFE) Challenge, a collaboration between the National Institutes of Health (NIH) and NASA, advances quantum-enabled sensing for in vitro NAMs, such as organoids and microphysiological systems (MPS), to improve drug safety while reducing animal use. In vitro NAMs, such as organoids and microphysiological systems (MPS), can […]",
-          "isoDate": "2026-10-29T17:44:37.000Z"
+          "title": "A commensally regulated immune rheostat fine-tunes skin barrier fitness",
+          "link": "https://www.science.org/doi/abs/10.1126/science.aee5920?af=R",
+          "summary": "Science, Volume 394, Issue 6823, October 2026.",
+          "isoDate": "2026-10-29T07:00:00.000Z"
         },
         {
-          "title": "Envía tu nombre a Titán a bordo de la misión Dragonfly de la NASA",
-          "link": "https://www.nasa.gov/news-release/envia-tu-nombre-a-titan-a-bordo-de-la-mision-dragonfly-de-la-nasa/",
-          "summary": "Read this release in English here. Puede que nunca llegues a surcar los cielos bajo las nubes o sobre las arenas orgánicas de la luna Titán de Saturno, ¡pero tu nombre sí puede hacerlo! La NASA invita al público a enviar su nombre a bordo de la aeronave de ala giratoria Dragonfly de la agencia […]",
-          "isoDate": "2026-10-29T15:21:23.000Z"
+          "title": "Whole-body single-cell atlas of an adult vertebrate, Danionella cerebrum",
+          "link": "https://www.science.org/doi/abs/10.1126/science.aeg1125?af=R",
+          "summary": "Science, Volume 394, Issue 6823, October 2026.",
+          "isoDate": "2026-10-29T07:00:00.000Z"
         },
         {
-          "title": "Send Your Name to Titan Aboard NASA’s Dragonfly Mission",
-          "link": "https://www.nasa.gov/news-release/send-your-name-to-titan-aboard-nasas-dragonfly-mission/",
-          "summary": "You may never soar under the clouds or over the organic sands of Saturn’s moon Titan, but your name can. NASA is inviting the public to send their names aboard the agency’s Dragonfly rotorcraft and be part of the first science mission to fly and explore the surface of another world.   To have your […]",
-          "isoDate": "2026-10-29T15:10:18.000Z"
+          "title": "Papaver self-incompatibility is controlled by two multiallelic idiomorphs",
+          "link": "https://www.science.org/doi/abs/10.1126/science.aeg6988?af=R",
+          "summary": "Science, Volume 394, Issue 6823, October 2026.",
+          "isoDate": "2026-10-29T07:00:00.000Z"
         },
         {
-          "title": "NASA’s ISAM State of Play: The Industry Standard for Space Servicing, Assembly, and Manufacturing",
-          "link": "https://www.nasa.gov/humans-in-space/commercial-space/nasas-isam-state-of-play-the-industry-standard-for-space-servicing-assembly-and-manufacturing/",
-          "summary": "When companies began approaching NASA’s Langley Research Center, asking to be included in the In-Space Servicing, Assembly, and Manufacturing (ISAM) State of Play for access to competitive intelligence, the team knew they had crossed an inflection point. “We’ve had some unnamed companies ask if we have any proprietary information,” says Dale Arney, senior team lead […]",
-          "isoDate": "2026-10-29T15:06:40.000Z"
+          "title": "Data-driven discovery and rapid, direct synthesis of MXenes",
+          "link": "https://www.science.org/doi/abs/10.1126/science.aeh5957?af=R",
+          "summary": "Science, Volume 394, Issue 6823, October 2026.",
+          "isoDate": "2026-10-29T07:00:00.000Z"
         },
         {
-          "title": "NASA’s Hubble Marks Way for Roman Space Telescope",
-          "link": "https://www.nasa.gov/image-article/nasas-hubble-marks-way-for-roman-space-telescope/",
-          "summary": "A sweeping barred galaxy takes center stage in this Oct. 22, 2026, image, but the gravitational lensing at bottom right is the real target. This observation is one of many gravitational lensing images taken by NASA’s Hubble Space Telescope in preparation for science with the new Nancy Grace Roman Space Telescope. Astronomers will use these […]",
-          "isoDate": "2026-10-29T14:49:27.000Z"
+          "title": "Erratum for the Research Article “Turf algae redefine the chemical landscape of temperate reefs, limiting kelp forest recovery”",
+          "link": "https://www.science.org/doi/abs/10.1126/science.aen4323?af=R",
+          "summary": "Science, Volume 394, Issue 6823, October 2026.",
+          "isoDate": "2026-10-29T07:00:00.000Z"
         },
         {
-          "title": "Ghostly Cat’s Head Nebula Lurks Within Sight of NASA’s Hubble, Webb",
-          "link": "https://science.nasa.gov/missions/hubble/ghostly-cats-head-nebula-lurks-within-sight-of-nasas-hubble-webb/",
-          "summary": "Like a spectral form rising out of a cold mist, NASA’s Hubble and James Webb Space Telescopes have captured a hauntingly dynamic star-forming scene. It lies within the vast Carina Nebula, a diffuse star-forming region located about 7,500 light-years away from Earth. The small, select area both telescopes observed is nicknamed the Cat’s Head Nebula […]",
-          "isoDate": "2026-10-29T14:01:01.000Z"
+          "title": "A case study in conflicts of interest",
+          "link": "https://www.science.org/doi/abs/10.1126/science.aem6465?af=R",
+          "summary": "Science, Volume 394, Issue 6823, October 2026.",
+          "isoDate": "2026-10-29T07:00:00.000Z"
         },
         {
-          "title": "Contractor to Civil Servant: NASA Welcomes Jared Spiers",
-          "link": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jared-spiers/",
-          "summary": "Jared Spiers had an interest in contributing to NASA’s mission long before becoming a civil servant for the agency. Growing up close to NASA’s Stennis Space Center near Bay St. Louis, Mississippi, and hearing about his father’s work there, he gained a firsthand connection to the nation’s space program. Before graduating high school, he knew […]",
-          "isoDate": "2026-10-29T13:27:34.000Z"
+          "title": "Spawning Season: An Experiment in Queer Parenthood",
+          "link": "https://www.science.org/doi/abs/10.1126/science.aem8469?af=R",
+          "summary": "Science, Volume 394, Issue 6823, Page 492-492, October 2026.",
+          "isoDate": "2026-10-29T06:00:08.000Z"
         }
       ]
     },
@@ -141,7 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 74\nColumn: 41\nChar: &",
-          "isoDate": "2026-10-29T22:27:54.691Z"
+          "isoDate": "2026-10-30T04:33:22.751Z"
+        },
+        {
+          "title": "Binance says crypto worth $6.3bn impacted by hack",
+          "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+          "summary": "The firm said roughly $3bn in assets have been frozen and that it will \"cover all losses\".",
+          "isoDate": "2026-10-30T04:26:21.000Z"
         },
         {
           "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
           "summary": "Photos shared online showed faults appearing on the screens of Apple's first foldable device.",
           "isoDate": "2026-10-27T09:37:55.000Z"
-        },
-        {
-          "title": "Anthropic's blockbuster share listing - 5 surprising things we now know",
-          "link": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss",
-          "summary": "Anthropic’s IPO prospectus is 355 pages and full of never before disclosed company information.",
-          "isoDate": "2026-10-26T19:57:23.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-10-29T22:27:58.538Z"
+          "isoDate": "2026-10-30T04:33:24.981Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 59\nColumn: 58\nChar: =",
-          "isoDate": "2026-10-29T22:27:55.952Z"
+          "isoDate": "2026-10-30T04:33:23.900Z"
         },
         {
           "title": "Consumer Appetite for Personal AI Goes Mainstream",
