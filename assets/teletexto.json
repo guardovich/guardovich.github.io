@@ -1,10 +1,46 @@
 {
-  "generatedAt": "2026-10-30T21:57:34.730Z",
+  "generatedAt": "2026-10-31T04:15:50.520Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
+          "link": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/",
+          "summary": "The space agency solicited ideas for reboosting Hubble four years ago, but they didn't go anywhere.",
+          "isoDate": "2026-10-31T00:07:22.000Z"
+        },
+        {
+          "title": "Flesh-eating screwworms spread to third state and are attacking pets",
+          "link": "https://arstechnica.com/health/2026/10/flesh-eating-screwworms-are-feasting-on-pets-4-dogs-and-cat-attacked-this-week/",
+          "summary": "USDA has identified 74 animal cases in US since parasitic flies invaded in June.",
+          "isoDate": "2026-10-30T22:36:41.000Z"
+        },
+        {
+          "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+          "link": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+          "summary": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for December.\nThis launch doesn't bring the new Siri AI to China. Instead, Apple is launching several of its earlier Apple Intelligence features like notification summaries, real-time translation, rewriting and proofreading tools, visual intelligence, and removing objects from photos. Apple also says it has worked with Ailbaba to add support for its Q …\nRead the full story at The Verge.",
+          "isoDate": "2026-10-30T22:32:53.000Z"
+        },
+        {
+          "title": "Oh captain, our captain: Ars staff remembers Patrick Stewart",
+          "link": "https://arstechnica.com/culture/2026/10/oh-captain-our-captain-ars-staff-remembers-patrick-stewart/",
+          "summary": "\"For huge numbers of people, I will always be Jean-Luc Picard. ... We created an admirable individual.\"",
+          "isoDate": "2026-10-30T22:21:05.000Z"
+        },
+        {
+          "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
+          "link": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
+          "summary": "Boom’s airliner may be delayed, and its data center power business lost a customer.",
+          "isoDate": "2026-10-30T21:41:54.000Z"
+        },
+        {
+          "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+          "link": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+          "summary": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
+          "isoDate": "2026-10-30T21:09:54.000Z"
+        },
         {
           "title": "Exclusive details about Akai’s MPC Sample Key",
           "link": "https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive",
@@ -28,42 +64,6 @@
           "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
           "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually.\nThe shared \"policy token\" signal is proposed by Kevin Kelley, a technical lead for standards at Anthropic, as part of the Internet Engineering Task Force (IETF). It will live within a website's robots.txt file, which has long signaled which web crawlers can and can't scrape a site - whether for search indexing, archiving, or …\nRead the full story at The Verge.",
           "isoDate": "2026-10-30T20:26:10.000Z"
-        },
-        {
-          "title": "Over 25% of people lie to get antibiotics—and their lies aren't even good",
-          "link": "https://arstechnica.com/health/2026/10/over-25-of-people-lie-to-get-antibiotics-and-their-lies-arent-even-good/",
-          "summary": "Faked symptoms still point to infections that antibiotics don't treat.",
-          "isoDate": "2026-10-30T20:17:50.000Z"
-        },
-        {
-          "title": "Basically no one is using AI agents for their DoorDash orders",
-          "link": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
-          "summary": "But it's still early days for the relatively new e-commerce use case.",
-          "isoDate": "2026-10-30T19:30:52.000Z"
-        },
-        {
-          "title": "Google&#8217;s satellite AI server transmits its first response to Earth",
-          "link": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
-          "summary": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space:\nBlue marble below\nData streams in silent grace\nStarlight feeds my core. ✨\nGoogle says it tried out other space-themed limericks and telemetry prompts as well. The test is part of Google's Project Suncatcher, an experimental initiative that could eventually put AI data centers in space. Google launched the satellite into orbit earlier this …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-30T18:21:38.000Z"
-        },
-        {
-          "title": "Rare meteorite from Mars gives us a view into its ancient crust",
-          "link": "https://arstechnica.com/science/2026/10/rare-meteorite-from-mars-gives-us-a-view-into-its-ancient-crust/",
-          "summary": "A meteorite found in the Sahara is a rare piece of Mars' ancient crust.",
-          "isoDate": "2026-10-30T18:13:42.000Z"
-        },
-        {
-          "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-          "link": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
-          "summary": "Low costs and offline security mean magnetic tape still has a job.",
-          "isoDate": "2026-10-30T17:38:19.000Z"
-        },
-        {
-          "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
-          "summary": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore \"experiences that recognize participating customers as they arrive, present personalized digital menus, and make payment more effortless,\" as spotted earlier by More Perfect Union.\nIt sounds similar to the technology that Taco Bell is experimenting with, which could change the layout, content, and visuals on a digital menu board \"on a car-by-car basis.\" McDonald's also recently showed off an AI-powered feature it's piloting at a handful of dri …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-30T17:38:04.000Z"
         }
       ]
     },
@@ -72,10 +72,46 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "ERROR cargando feed",
-          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
-          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-10-30T21:57:28.491Z"
+          "title": "NASA Releases MAX POWER Key Events for Media, Participants",
+          "link": "https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants/",
+          "summary": "America’s newest aerospace expo and air show – MAX POWER – is fast approaching, and NASA has announced key events beginning Friday, Nov. 6, and running through Sunday, Nov. 8, hosted on and near the agency’s Kennedy Space Center in Florida. Through multiple park experiences at MAX POWER, NASA and a variety of external collaborators […]",
+          "isoDate": "2026-10-30T19:31:02.000Z"
+        },
+        {
+          "title": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
+          "link": "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/",
+          "summary": "Intricate structures within the Cat’s Head Nebula are illuminated in this mid-infrared view from NASA’s James Webb Space Telescope released on Oct. 29, 2026. The distinctive “cat’s head” shape of the nebula was likely sculpted over time by the intense ultraviolet radiation and winds from massive stars in the Carina Nebula. As this stellar feedback […]",
+          "isoDate": "2026-10-30T15:56:26.000Z"
+        },
+        {
+          "title": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
+          "link": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/",
+          "summary": "NASA issued a Request for Information Oct. 29 to learn more about industry capabilities for in-space servicing to support the agency’s Hubble Space Telescope.",
+          "isoDate": "2026-10-30T14:51:21.000Z"
+        },
+        {
+          "title": "November’s Night Sky Notes: Light-Day Away",
+          "link": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/",
+          "summary": "Twin Travelers In 1977, NASA launched twin spacecraft Voyager 1 and 2, taking advantage of a once-every-175-year planetary alignment of the four largest planets in our solar system: Jupiter, Saturn, Uranus, and Neptune. Using six gravity assists between them, this Grand Tour gave us up-close views of the gas and ice giants, including several moons. […]",
+          "isoDate": "2026-10-30T10:00:00.000Z"
+        },
+        {
+          "title": "APOD: 2026 October 30 – Haunting the Cepheus Flare",
+          "link": "https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare/",
+          "summary": "APOD Science APOD APOD: 2026 October 30 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Haunting the Cepheus […]",
+          "isoDate": "2026-10-30T04:05:00.000Z"
+        },
+        {
+          "title": "Vega Island Frozen in Fright",
+          "link": "https://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright/",
+          "summary": "The sight of an icy skull-like visage on the Antarctic island could make one’s blood run cold.",
+          "isoDate": "2026-10-30T04:01:00.000Z"
+        },
+        {
+          "title": "Map Showing Potential Origins of Martian Meteorite Teghaza 001",
+          "link": "https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001/",
+          "summary": "Description This global map of Mars shows 13 locations that match the mineralogy and chemistry of Teghaza 001, one of the most ancient Martian meteorites ever found on Earth. While scientists can never know for sure where a Martian meteorite originated, Teghaza 001 includes clues that link it to highlands in the southern hemisphere of […]",
+          "isoDate": "2026-10-30T00:07:39.000Z"
         },
         {
           "title": "Briefing Chat: <b>Dog years: could longevity science extend your pets' lives?</b>",
@@ -94,42 +130,6 @@
           "link": "https://www.nature.com/articles/d41586-026-03543-9",
           "summary": "Nature, Published online: 30 October 2026; doi:10.1038/d41586-026-03543-9\nResearchers say his portrayal of the Star Trek character represented curiosity, thoughtfulness and an effort to understand others.",
           "isoDate": "2026-10-30T00:00:00.000Z"
-        },
-        {
-          "title": "Somewhere over the transcontinental burrito tunnel",
-          "link": "https://www.nature.com/articles/d41586-026-03368-6",
-          "summary": "Nature, Published online: 30 October 2026; doi:10.1038/d41586-026-03368-6\nPipe dreams.",
-          "isoDate": "2026-10-30T00:00:00.000Z"
-        },
-        {
-          "title": "I built the UK government’s metascience unit — here’s what countries need to know",
-          "link": "https://www.nature.com/articles/d41586-026-03502-4",
-          "summary": "Nature, Published online: 30 October 2026; doi:10.1038/d41586-026-03502-4\nTo find evidence-backed ways to improve grant-funding processes, metascientists need freedom and money to experiment, as well as leaders who are willing to make change.",
-          "isoDate": "2026-10-30T00:00:00.000Z"
-        },
-        {
-          "title": "Record-breaking retraction: scholarly publisher pulls 1,400 conference papers on one day",
-          "link": "https://www.nature.com/articles/d41586-026-03455-8",
-          "summary": "Nature, Published online: 30 October 2026; doi:10.1038/d41586-026-03455-8\nAnnouncement by IEEE follows publication of a study showing the retracted papers are linked to paper mills.",
-          "isoDate": "2026-10-30T00:00:00.000Z"
-        },
-        {
-          "title": "Are dinosaur fossils hogging top journals? Analysis sparks debate over ‘charismatic’ finds",
-          "link": "https://www.nature.com/articles/d41586-026-03512-2",
-          "summary": "Nature, Published online: 30 October 2026; doi:10.1038/d41586-026-03512-2\nFossils of dinosaurs, mammals and other glamorous species are over-represented in high-profile titles, suggests a study of thousands of palaeontology papers.",
-          "isoDate": "2026-10-30T00:00:00.000Z"
-        },
-        {
-          "title": "Stimulated protein degradation to promote mitochondrial function and neuronal survival",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aed2525?af=R",
-          "summary": "Science, Volume 394, Issue 6823, October 2026.",
-          "isoDate": "2026-10-29T07:00:00.000Z"
-        },
-        {
-          "title": "Spatial coordination in the codevelopment of the human urogenital system during organogenesis",
-          "link": "https://www.science.org/doi/abs/10.1126/science.aee5093?af=R",
-          "summary": "Science, Volume 394, Issue 6823, October 2026.",
-          "isoDate": "2026-10-29T07:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 74\nColumn: 41\nChar: &",
-          "isoDate": "2026-10-30T21:57:29.553Z"
+          "isoDate": "2026-10-31T04:15:45.683Z"
+        },
+        {
+          "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+          "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+          "summary": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
+          "isoDate": "2026-10-31T02:12:19.000Z"
         },
         {
           "title": "US tech stocks see sharp falls as AI spending nears $1tn",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
           "summary": "A group called the Department of Peace released information on more than 41,000 DHS staff.",
           "isoDate": "2026-10-29T01:30:43.000Z"
-        },
-        {
-          "title": "Microsoft profits soar days after announcing thousands of layoffs",
-          "link": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
-          "summary": "The week, the Windows developer said it would offer buyouts to 60,000 workers as it looks to curb costs.",
-          "isoDate": "2026-10-29T01:27:40.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-10-30T21:57:33.811Z"
+          "isoDate": "2026-10-31T04:15:49.477Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 59\nColumn: 58\nChar: =",
-          "isoDate": "2026-10-30T21:57:30.849Z"
+          "isoDate": "2026-10-31T04:15:47.157Z"
         },
         {
           "title": "Consumer Appetite for Personal AI Goes Mainstream",
@@ -324,12 +324,57 @@
       "maxItems": 120,
       "items": [
         {
-          "title": "RESULTADOS (EN DIRECTO)",
+          "title": "RESULTADOS (ÚLTIMOS)",
           "link": "",
           "summary": ""
         },
         {
           "title": "VIL  0-1  ESP",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "SEV  2-0  OSA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "BAR  1-2  REA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "REA  2-1  LEV",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "CEL  0-0  REA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "ATH  4-0  GET",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "ATL  1-0  DEP",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "VAL  1-2  VIL",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "SAN  2-1  ESP",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "RAY  0-3  ELC",
           "link": "",
           "summary": ""
         },
