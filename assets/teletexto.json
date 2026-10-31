@@ -1,10 +1,28 @@
 {
-  "generatedAt": "2026-10-31T16:52:05.194Z",
+  "generatedAt": "2026-10-31T21:01:10.197Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Keyboards of The Verge",
+          "link": "https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks",
+          "summary": "What is a keyboard if not the original brain-computer interface? You can tap on a touchscreen or talk to the computer, but if your work involves getting information out of your head and into the computer, you're probably spending a lot of time using a keyboard.\nWe've written about many keyboards over the years, from the legendary Optimus Maximus to the ultra-luxe Seneca to even stranger fare. But I wanted to know what my coworkers actually use. As I'd hoped, there's a wide range. Some of us are strictly utilitarian, optimizing for ergonomics or functionality. Others obsess over every detail of feel, sound, layout, and looks. Still oth …\nRead the full story at The Verge.",
+          "isoDate": "2026-10-31T19:30:00.000Z"
+        },
+        {
+          "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
+          "link": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
+          "summary": "After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist, the company's CEO says that 90 percent of the funds have been replaced, and the company plans to cover the remaining 10 percent as well. Binance is covering the stolen funds directly, and the remaining 10 percent consists of \"less liquid\" tokens, which the company says may take longer to acquire. \nThe company also said in a post on X that, while withdrawals remain paused, they're on track to be enabled on Sunday.\nOur commitment remains the same: Binance will fully cover the financial impact of the funds stolen in this incident. We will co …\n\nRead the full story at The Verge.",
+          "isoDate": "2026-10-31T18:40:32.000Z"
+        },
+        {
+          "title": "Happy Pikmin Day Eve",
+          "link": "https://www.theverge.com/games/1024085/happy-pikmin-day-eve",
+          "summary": "This morning, Nintendo announced that tomorrow, November 1st, would be the first annual Pikmin Day. As part of the short Pikmin Day Direct, Shigeru Miyamoto shared new info about Pikmin 4 for the Switch 2, as well as an update for the mobile app Pikmin Bloom, and announced the Hello! Pikmin series of shorts.\nPlayers will be able to use the Switch 2's built-in microphone to issue voice commands to Oatchi, the space dog. Pikmin 4 will also have a Dandori Academy mode that will test players' skills in specific challenges. There will be limited tests on Friday, Saturday, and Sunday, complete with leaderboards where players can compare stats. Pi …\nRead the full story at The Verge.",
+          "isoDate": "2026-10-31T17:50:12.000Z"
+        },
         {
           "title": "I built an AI Tamagotchi before Meta could",
           "link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
@@ -46,24 +64,6 @@
           "link": "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/",
           "summary": "A long flight home from feeding grounds messes with birds' internal clocks.",
           "isoDate": "2026-10-31T11:15:26.000Z"
-        },
-        {
-          "title": "The FDA wants to pull its approval of a drug. It’s not so easy.",
-          "link": "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/",
-          "summary": "The regulator says Tavneos was approved on the basis of manipulated study data. Should patients still have access to it?",
-          "isoDate": "2026-10-31T11:02:34.000Z"
-        },
-        {
-          "title": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
-          "link": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/",
-          "summary": "The space agency solicited ideas for reboosting Hubble four years ago, but they didn't go anywhere.",
-          "isoDate": "2026-10-31T00:07:22.000Z"
-        },
-        {
-          "title": "Flesh-eating screwworms spread to third state and are attacking pets",
-          "link": "https://arstechnica.com/health/2026/10/flesh-eating-screwworms-are-feasting-on-pets-4-dogs-and-cat-attacked-this-week/",
-          "summary": "USDA has identified 74 animal cases in US since parasitic flies invaded in June.",
-          "isoDate": "2026-10-30T22:36:41.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 74\nColumn: 41\nChar: &",
-          "isoDate": "2026-10-31T16:52:02.166Z"
+          "isoDate": "2026-10-31T21:01:07.325Z"
         },
         {
           "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-10-31T16:52:04.216Z"
+          "isoDate": "2026-10-31T21:01:09.521Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 59\nColumn: 58\nChar: =",
-          "isoDate": "2026-10-31T16:52:03.143Z"
+          "isoDate": "2026-10-31T21:01:08.579Z"
         },
         {
           "title": "When Electric Cars Were for Women",
@@ -329,7 +329,7 @@
           "summary": ""
         },
         {
-          "title": "RAY  2-0  CEL",
+          "title": "BAR  4-0  ALA",
           "link": "",
           "summary": ""
         },
@@ -344,12 +344,12 @@
           "summary": ""
         },
         {
-          "title": " 1  ATL  11   9  1  1  22   8  14  28",
+          "title": " 1  BAR  11  10  0  1  44  11  33  30",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 2  BAR  10   9  0  1  40  11  29  27",
+          "title": " 2  ATL  11   9  1  1  22   8  14  28",
           "link": "",
           "summary": ""
         },
@@ -359,7 +359,7 @@
           "summary": ""
         },
         {
-          "title": " 4  REA  10   6  2  2  16  14   2  20",
+          "title": " 4  REA  11   7  2  2  18  15   3  23",
           "link": "",
           "summary": ""
         },
@@ -374,27 +374,27 @@
           "summary": ""
         },
         {
-          "title": " 7  ALA  10   3  3  4  14  11   3  12",
+          "title": " 7  ATH   9   3  3  3  12   9   3  12",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 8  ATH   9   3  3  3  12   9   3  12",
+          "title": " 8  VIL  11   3  3  5  15  15   0  12",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 9  CEL  11   2  6  3  10   9   1  12",
+          "title": " 9  CEL  11   2  6  3  10  10   0  12",
           "link": "",
           "summary": ""
         },
         {
-          "title": "10  VIL  11   3  3  5  15  15   0  12",
+          "title": "10  ALA  11   3  3  5  14  15  -1  12",
           "link": "",
           "summary": ""
         },
         {
-          "title": "11  RAY  10   3  3  4  14  20  -6  12",
+          "title": "11  RAY  10   3  3  4  15  20  -5  12",
           "link": "",
           "summary": ""
         },
@@ -439,7 +439,7 @@
           "summary": ""
         },
         {
-          "title": "20  MÁL  10   0  5  5   7  19 -12   5",
+          "title": "20  MÁL  11   0  5  6   8  21 -13   5",
           "link": "",
           "summary": ""
         }
