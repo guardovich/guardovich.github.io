@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T04:15:50.520Z",
+  "generatedAt": "2026-10-31T11:44:21.911Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
@@ -72,6 +72,12 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "APOD: 2026 October 31 – Night on a Spooky Planet",
+          "link": "https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/",
+          "summary": "APOD Science APOD APOD: 2026 October 31 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Night on a […]",
+          "isoDate": "2026-10-31T04:05:00.000Z"
+        },
+        {
           "title": "NASA Releases MAX POWER Key Events for Media, Participants",
           "link": "https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants/",
           "summary": "America’s newest aerospace expo and air show – MAX POWER – is fast approaching, and NASA has announced key events beginning Friday, Nov. 6, and running through Sunday, Nov. 8, hosted on and near the agency’s Kennedy Space Center in Florida. Through multiple park experiences at MAX POWER, NASA and a variety of external collaborators […]",
@@ -124,12 +130,6 @@
           "link": "https://www.nature.com/articles/s41586-026-11337-2",
           "summary": "Nature, Published online: 30 October 2026; doi:10.1038/s41586-026-11337-2\nAuthor Correction: Rh3+ stabilized in KRh@MFI catalyses regioselective hydroformylation",
           "isoDate": "2026-10-30T00:00:00.000Z"
-        },
-        {
-          "title": "Patrick Stewart dies: how Captain Picard inspired today’s science leaders",
-          "link": "https://www.nature.com/articles/d41586-026-03543-9",
-          "summary": "Nature, Published online: 30 October 2026; doi:10.1038/d41586-026-03543-9\nResearchers say his portrayal of the Star Trek character represented curiosity, thoughtfulness and an effort to understand others.",
-          "isoDate": "2026-10-30T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 74\nColumn: 41\nChar: &",
-          "isoDate": "2026-10-31T04:15:45.683Z"
+          "isoDate": "2026-10-31T11:44:18.424Z"
         },
         {
           "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-10-31T04:15:49.477Z"
+          "isoDate": "2026-10-31T11:44:21.154Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 59\nColumn: 58\nChar: =",
-          "isoDate": "2026-10-31T04:15:47.157Z"
+          "isoDate": "2026-10-31T11:44:19.606Z"
         },
         {
           "title": "Consumer Appetite for Personal AI Goes Mainstream",
