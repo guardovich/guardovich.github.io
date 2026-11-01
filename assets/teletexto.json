@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T04:36:40.749Z",
+  "generatedAt": "2026-11-01T12:43:33.375Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
@@ -72,6 +72,12 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "APOD: 2026 November 1 – Colors of the Moon",
+          "link": "https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon/",
+          "summary": "APOD Science APOD APOD: 2026 November 1 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Colors of the […]",
+          "isoDate": "2026-11-01T04:05:00.000Z"
+        },
+        {
           "title": "APOD: 2026 October 31 – Night on a Spooky Planet",
           "link": "https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/",
           "summary": "APOD Science APOD APOD: 2026 October 31 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Night on a […]",
@@ -124,12 +130,6 @@
           "link": "https://www.nature.com/articles/d41586-026-03553-7",
           "summary": "Nature, Published online: 30 October 2026; doi:10.1038/d41586-026-03553-7\nNature staff discuss the emerging field of pet longevity — plus, a researcher decides not to care about their student reviews. Are they wrong?",
           "isoDate": "2026-10-30T00:00:00.000Z"
-        },
-        {
-          "title": "Author Correction: Rh<sup>3+</sup> stabilized in KRh@MFI catalyses regioselective hydroformylation",
-          "link": "https://www.nature.com/articles/s41586-026-11337-2",
-          "summary": "Nature, Published online: 30 October 2026; doi:10.1038/s41586-026-11337-2\nAuthor Correction: Rh3+ stabilized in KRh@MFI catalyses regioselective hydroformylation",
-          "isoDate": "2026-10-30T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 74\nColumn: 41\nChar: &",
-          "isoDate": "2026-11-01T04:36:37.696Z"
+          "isoDate": "2026-11-01T12:43:30.224Z"
         },
         {
           "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-11-01T04:36:39.976Z"
+          "isoDate": "2026-11-01T12:43:32.221Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 59\nColumn: 58\nChar: =",
-          "isoDate": "2026-11-01T04:36:39.153Z"
+          "isoDate": "2026-11-01T12:43:31.399Z"
         },
         {
           "title": "When Electric Cars Were for Women",
