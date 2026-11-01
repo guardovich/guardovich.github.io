@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-10-31T21:01:10.197Z",
+  "generatedAt": "2026-11-01T04:36:40.749Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Get in the spirit with these horrors from YouTube",
+          "link": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
+          "summary": "Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird videos from YouTube. There's a little something for everyone here. Whether you're a fan of surreal art house shorts, cosmic horror, or classic viral clips, you're bound to find something below that will get you in the Halloween spirit.\n\nPossibly in Michigan\nThis 1983 short film from Cecelia Condit found its audience over 30 years later when it was uploaded to YouTube and eventually found its way to Reddit. If you've ever wondered what a feminist mu …\nRead the full story at The Verge.",
+          "isoDate": "2026-10-31T21:06:58.000Z"
+        },
         {
           "title": "Keyboards of The Verge",
           "link": "https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks",
@@ -58,12 +64,6 @@
           "link": "https://www.theverge.com/policy/1023899/political-texts-midterm-elections",
           "summary": "\"Its James Talarico. Can you please please please please pretty pretty please rush in even just $1?\"\n\"Who's working to elect James Talarico? Marxists.\"\n\"Wow! Wow! Wow! Mark Kelly just made a HUGE announcement!\"\n\"We asked Ben Verlander, MLB analyst and former Tigers prospect, to record a quick video about the election this Tuesday, November 3rd.\"\n\"See which of your friends or family members have voted in the past and remind them to vote this year.\"\nIf any of these messages sound familiar, it's likely because they're part of the massive stream of text messages flooding your phone leading up to the US midterm elections on Tuesday. The scal …\nRead the full story at The Verge.",
           "isoDate": "2026-10-31T12:00:00.000Z"
-        },
-        {
-          "title": "Seabirds racing home over the ocean can get jet-lagged",
-          "link": "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/",
-          "summary": "A long flight home from feeding grounds messes with birds' internal clocks.",
-          "isoDate": "2026-10-31T11:15:26.000Z"
         }
       ]
     },
@@ -141,7 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 74\nColumn: 41\nChar: &",
-          "isoDate": "2026-10-31T21:01:07.325Z"
+          "isoDate": "2026-11-01T04:36:37.696Z"
+        },
+        {
+          "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
+          "link": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
+          "summary": "The amount of debt held by data centres is measured in the tens of billions of pounds.",
+          "isoDate": "2026-11-01T01:37:26.000Z"
         },
         {
           "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&at_campaign=rss",
           "summary": "Ofcom says photo and digital ID, banking checks or facial age estimation can help prove someone is 16 or over.",
           "isoDate": "2026-10-29T09:31:44.000Z"
-        },
-        {
-          "title": "Details of thousands of US immigration agents leaked in major hack",
-          "link": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
-          "summary": "A group called the Department of Peace released information on more than 41,000 DHS staff.",
-          "isoDate": "2026-10-29T01:30:43.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-10-31T21:01:09.521Z"
+          "isoDate": "2026-11-01T04:36:39.976Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 59\nColumn: 58\nChar: =",
-          "isoDate": "2026-10-31T21:01:08.579Z"
+          "isoDate": "2026-11-01T04:36:39.153Z"
         },
         {
           "title": "When Electric Cars Were for Women",
@@ -324,12 +324,57 @@
       "maxItems": 120,
       "items": [
         {
-          "title": "RESULTADOS (EN DIRECTO)",
+          "title": "RESULTADOS (ÚLTIMOS)",
           "link": "",
           "summary": ""
         },
         {
-          "title": "BAR  4-0  ALA",
+          "title": "BAR  6-1  ALA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "REA  2-1  MÁL",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "RAY  3-0  CEL",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "LEV  0-2  ATL",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "VIL  0-1  ESP",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "SEV  2-0  OSA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "BAR  1-2  REA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "REA  2-1  LEV",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "CEL  0-0  REA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "ATH  4-0  GET",
           "link": "",
           "summary": ""
         },
@@ -344,7 +389,7 @@
           "summary": ""
         },
         {
-          "title": " 1  BAR  11  10  0  1  44  11  33  30",
+          "title": " 1  BAR  11  10  0  1  46  12  34  30",
           "link": "",
           "summary": ""
         },
@@ -389,7 +434,7 @@
           "summary": ""
         },
         {
-          "title": "10  ALA  11   3  3  5  14  15  -1  12",
+          "title": "10  ALA  11   3  3  5  15  17  -2  12",
           "link": "",
           "summary": ""
         },
