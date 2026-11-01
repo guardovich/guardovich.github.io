@@ -1,12 +1,60 @@
 {
-  "generatedAt": "2026-11-01T12:43:33.375Z",
+  "generatedAt": "2026-11-01T21:43:41.395Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
         {
-          "title": "Get in the spirit with these horrors from YouTube",
+          "title": "NASA hopes the commercial space industry can help save Hubble",
+          "link": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble",
+          "summary": "Gravity is a cruel mistress, slowly dragging the famed telescope ever closer to its ultimate demise with every day. Hubble is in no immediate danger of burning up in the Earth's atmosphere, but its time will run out in the early to mid 2030s unless its orbit is boosted. So NASA is taking proposals from the private sector to see if anyone can save it.\nIn a post on NASA's site, Administrator Jared Isaacman said:\n\"Hubble still has important science ahead of it, and we should be looking at every reasonable opportunity to keep it delivering for as long as possible … If there are innovative and cost-effective ways to extend the life of an asset …\n\nRead the full story at The Verge.",
+          "isoDate": "2026-11-01T21:09:21.000Z"
+        },
+        {
+          "title": "Flock keeps ignoring requests to cancel its contracts",
+          "link": "https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts",
+          "summary": "While more cities are canceling their contracts with Flock Safety, just as many are discovering how difficult that can be in some instances. Plymouth, Minnesota's city council voted to terminate its contract with Flock in September, but failed to respond to the city's request. For over a month, the cameras remained up, and the city had received no acknowledgment from the company. So, Police Chief Eric Fadden took matters into his own hands and physically disconnected the cameras.\n\"After hearing nothing for more than a week, I directed our staff to disconnect the power cords from the cameras in order to be sure that they are not functioning  …\nRead the full story at The Verge.",
+          "isoDate": "2026-11-01T19:58:02.000Z"
+        },
+        {
+          "title": "Apple’s HomeView could add security camera features",
+          "link": "https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features",
+          "summary": "Reddit user pdfu found hints hidden in the HomeView 27.2 code that Apple could be adding security camera features to its smart home hub. The strings describe a security camera mode with motion detection, live streaming, and recording options, as well as privacy functions. According to pdfu, there is a setup page that even explicitly reads: \"Your HomeView can be used as a security camera with HomeKit Secure Video.\"\nSupposedly, the video feeds will only be visible to members of the home, and will both show an indicator light and play a sound when either someone is watching the camera feed or when it starts to record. Home members will also ge …\nRead the full story at The Verge.",
+          "isoDate": "2026-11-01T17:16:07.000Z"
+        },
+        {
+          "title": "A fully playable version of Portal prequel F-Stop leaked",
+          "link": "https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak",
+          "summary": "Leakers have pieced together a playable version of the canceled Portal prequel F-Stop. Most of the assets came from the massive 12-terabyte leak that dropped this August. That didn't include the game's source code or map data, but those final pieces apparently hit the Valve Cut Content Discord this week, allowing a nearly complete version to be pieced together. \nSome dialog and elements of F-Stop eventually found their way into Portal 2. But it differs dramatically from the mainline Portal games in that it's built around a camera mechanic that lets you capture an item by taking its picture and place it elsewhere using the resulting Polaroid …\nRead the full story at The Verge.",
+          "isoDate": "2026-11-01T16:19:21.000Z"
+        },
+        {
+          "title": "North Korea linked to massive Binance crypto heist",
+          "link": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
+          "summary": "The FBI says North Korea was behind the massive $6.3 billion crypto heist that hit Binance on October 29th. The FBI labeled the activity \"TraderTraitor\" and said that it had observed actors it has connected to hack converting the tokens to Ethereum and preparing for further laundering of the funds. The agency offered few other details or evidence. The statement says:\nNorth Korea Responsible for $6 Billion+ Binance Attack\nThe Federal Bureau of Investigation (FBI) is releasing information advising the Democratic People's Republic of Korea (North Korea) was responsible for the theft of more than $6 billion USD in virtual assets from crypto …\n\nRead the full story at The Verge.",
+          "isoDate": "2026-11-01T14:33:11.000Z"
+        },
+        {
+          "title": "HomePod Mini 2 first look: Three things I love and one disappointment",
+          "link": "https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker",
+          "summary": "Apple’s second-generation HomePod Mini is a nice upgrade, but the biggest improvement hasn’t arrived yet. | Photo: Jennifer Pattison Tuohy / The Verge\t\n\nWhen I first heard about the new $149 HomePod Mini 2 at Apple's Welcome Home event last month, I was disappointed. It's been six years since Apple launched its entry-level smart speaker, and all it got in the second gen was a chip bump, some color glowy stuff, and better AirPlay? For $50 more than the original, which launched at $99, Apple didn't even upgrade the sound system. It felt like the company phoned this one in.\nNow that I've got my hands on a couple and set them up in my home office, I'm more enthused. The Mini 2 is so much faster than the first-gen Mini, playing music in a few seconds and responding to smart home commands just as …\nRead the full story at The Verge.",
+          "isoDate": "2026-11-01T14:00:00.000Z"
+        },
+        {
+          "title": "New Zelda and GTA represent a games industry that no longer exists",
+          "link": "https://www.theverge.com/column/1022402/new-zelda-and-gta-represent-a-games-industry-that-no-longer-exists",
+          "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the biggest game releases of the year, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here.\nHow it started\nThe two biggest games of 2026 are set to launch just a few weeks apart in November.\nOn the one side you have the behemoth that is Grand Theft Auto VI, an experience 13 years in the making, and the sequel to one of the best-selling games in history. Its predecessor, GTA V, has sold a staggering 230 million copies since it launched in 2013, and was re-released …\nRead the full story at The Verge.",
+          "isoDate": "2026-11-01T13:00:00.000Z"
+        },
+        {
+          "title": "Prop 45 in California could be hiding a loophole for data centers",
+          "link": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
+          "summary": "A high-stakes California ballot measure pitched as a fast track for \"essential\" infrastructure could wind up giving data center developers a loophole to evade public scrutiny, environmental advocates warn.\nProposition 45 would shorten timelines for state-mandated environmental assessments for eligible projects and make it more difficult for residents to challenge those projects in court. Proponents say passing the measure would help alleviate the state's housing shortage and meet rising electricity demand with new renewable energy projects. Environmental groups and some legal experts, however, warn that data center developers backing the pr …\nRead the full story at The Verge.",
+          "isoDate": "2026-11-01T13:00:00.000Z"
+        },
+        {
+          "title": "Get in the spooky spirit with these horrors from YouTube",
           "link": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
           "summary": "Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird videos from YouTube. There's a little something for everyone here. Whether you're a fan of surreal art house shorts, cosmic horror, or classic viral clips, you're bound to find something below that will get you in the Halloween spirit.\n\nPossibly in Michigan\nThis 1983 short film from Cecelia Condit found its audience over 30 years later when it was uploaded to YouTube and eventually found its way to Reddit. If you've ever wondered what a feminist mu …\nRead the full story at The Verge.",
           "isoDate": "2026-10-31T21:06:58.000Z"
@@ -16,54 +64,6 @@
           "link": "https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks",
           "summary": "What is a keyboard if not the original brain-computer interface? You can tap on a touchscreen or talk to the computer, but if your work involves getting information out of your head and into the computer, you're probably spending a lot of time using a keyboard.\nWe've written about many keyboards over the years, from the legendary Optimus Maximus to the ultra-luxe Seneca to even stranger fare. But I wanted to know what my coworkers actually use. As I'd hoped, there's a wide range. Some of us are strictly utilitarian, optimizing for ergonomics or functionality. Others obsess over every detail of feel, sound, layout, and looks. Still oth …\nRead the full story at The Verge.",
           "isoDate": "2026-10-31T19:30:00.000Z"
-        },
-        {
-          "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
-          "link": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
-          "summary": "After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist, the company's CEO says that 90 percent of the funds have been replaced, and the company plans to cover the remaining 10 percent as well. Binance is covering the stolen funds directly, and the remaining 10 percent consists of \"less liquid\" tokens, which the company says may take longer to acquire. \nThe company also said in a post on X that, while withdrawals remain paused, they're on track to be enabled on Sunday.\nOur commitment remains the same: Binance will fully cover the financial impact of the funds stolen in this incident. We will co …\n\nRead the full story at The Verge.",
-          "isoDate": "2026-10-31T18:40:32.000Z"
-        },
-        {
-          "title": "Happy Pikmin Day Eve",
-          "link": "https://www.theverge.com/games/1024085/happy-pikmin-day-eve",
-          "summary": "This morning, Nintendo announced that tomorrow, November 1st, would be the first annual Pikmin Day. As part of the short Pikmin Day Direct, Shigeru Miyamoto shared new info about Pikmin 4 for the Switch 2, as well as an update for the mobile app Pikmin Bloom, and announced the Hello! Pikmin series of shorts.\nPlayers will be able to use the Switch 2's built-in microphone to issue voice commands to Oatchi, the space dog. Pikmin 4 will also have a Dandori Academy mode that will test players' skills in specific challenges. There will be limited tests on Friday, Saturday, and Sunday, complete with leaderboards where players can compare stats. Pi …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-31T17:50:12.000Z"
-        },
-        {
-          "title": "I built an AI Tamagotchi before Meta could",
-          "link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
-          "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi.\nBut I won't be buying one, because we have Muse Charm at home. It cost just $50, and I've decided the learning experience was worth it.\nView Link\nMy version doesn't sport cameras or a 5G cellular radio, but it really talks to Muse and has cute avatars, too! It doubles as a pocket watch and a remote camera viewfinder, and it can (theoretically) control my smart home.\nOr at least it can if you inject a lot of extra vibe code.\nWeeks …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-31T16:05:00.000Z"
-        },
-        {
-          "title": "Windows 11 tries new shortcuts for Xbox gaming mode and search",
-          "link": "https://www.theverge.com/tech/1024058/windows-11-search-improvements-xbox-quick-settings",
-          "summary": "The latest Windows 11 Insider build adds some powerful new search features and quick settings while in Xbox mode. The Xbox shortcuts let you control things like Bluetooth, WiFi, and power settings without having to exit gaming mode. \nThe search improvements are quite comprehensive. You can now filter results for files, actions, or web results. You can also use the search box to perform actions like changing the screen brightness or volume, and even perform actions on a connected phone, including making calls. Results can also offer much more detail, like when a file was last modified and its author, or pull in charts for stock prices and we …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-31T15:12:19.000Z"
-        },
-        {
-          "title": "Best Buy is bundling a $100 gift card with touchscreen MacBook Pro preorders",
-          "link": "https://www.theverge.com/gadgets/1023302/best-buy-gift-card-macbook-pro-proled-xdr-preorder-deal-sale",
-          "summary": "We got a chance to touch Apple’s latest MacBook at the “Pro and Tell” event. | Photo: Antonio G. Di Benedetto / The Verge\t\n\nWhile the new touch-enabled MacBook Pro with the PROLED XDR screen is available for preorder across a few major retailers, Best Buy is sweetening the deal by including a $100 gift card. The gift card will be automatically added to your cart when you preorder one of Apple’s highest-end laptops available in 14- or 16-inch configurations, and even one of its 14-inch MacBook Pro laptops with the M6 chip. You can verify that it’s been added to your order in the “Complete your purchase” section of the checkout page.\nApple MacBook Pro with PROLED XDR Display\n\nWhere to Buy:\n\n $2899 at Best Buy (w/ $100 gift card)\n\nMy colleague Antonio G. Di Benedetto got a chance to check out the new laptop at Apple’s event, and came away impressed by the Tandem OLED panel’s brightness and contrast, but described the update as “kind of boring” given the relatively small changes to the system otherwise. There are some unique changes to macOS that help make the new touch experience smoother, like magnifying the traffic light-colored buttons on windows when you move your finger near them. The PROLED laptops are also a bit thinner and lighter than standard models, and the Apple logo on the back glows like on older versions.\nRead our MacBook Pro with PROLED XDR display hands-on.",
-          "isoDate": "2026-10-31T15:00:00.000Z"
-        },
-        {
-          "title": "Vic Mensa can’t live without the Voice Memos app",
-          "link": "https://www.theverge.com/entertainment/1023477/vic-mensa-voice-memos-app-interview",
-          "summary": "No lies detected. | Photo: Onda\t\n\nVic Mensa is one of those people who has done so many things that it's hard to remember where you were first introduced to him. Was it his debut mixtape Innanetape, which finally hit the major streaming services for the first time in September? Or maybe his house-influenced single \"Down On My Luck\"? Maybe you didn't even realize that Mensa was a rapper. Maybe you know him from his roles on The Chi or Bel-Air. Or perhaps you're mostly aware of him through his activism, social media presence (peeling oranges and waxing poetic), or his podcast The Vic Mensa Show.\nPoint is, the man wears many hats. Part of the secret to being so prolific, it tu …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-31T15:00:00.000Z"
-        },
-        {
-          "title": "Touchscreens everywhere!",
-          "link": "https://www.theverge.com/tech/1023569/ipad-mini-alexa-photo-frame-readwise-installer",
-          "summary": "Hi, friends! Welcome to Installer No. 150, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy Halloween, and also you can read all the old editions at the Installer homepage.)\nThis week, I was in the Smoky Mountains in Tennessee on a family vacation. It was delightful (and the reason this week's Installer is a little short). I've also been reading about job hunting and 30 Rock and crypto detectives, testing the DuckDuckGo browser after a bunch of you told me to add it to the list, watching the adorable new Pixar short over and over, getting caught up on VisionQuest, playing with my new Pebble Index …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-31T12:00:00.000Z"
-        },
-        {
-          "title": "Here’s why you can&#8217;t shake those unhinged political texts",
-          "link": "https://www.theverge.com/policy/1023899/political-texts-midterm-elections",
-          "summary": "\"Its James Talarico. Can you please please please please pretty pretty please rush in even just $1?\"\n\"Who's working to elect James Talarico? Marxists.\"\n\"Wow! Wow! Wow! Mark Kelly just made a HUGE announcement!\"\n\"We asked Ben Verlander, MLB analyst and former Tigers prospect, to record a quick video about the election this Tuesday, November 3rd.\"\n\"See which of your friends or family members have voted in the past and remind them to vote this year.\"\nIf any of these messages sound familiar, it's likely because they're part of the massive stream of text messages flooding your phone leading up to the US midterm elections on Tuesday. The scal …\nRead the full story at The Verge.",
-          "isoDate": "2026-10-31T12:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 74\nColumn: 41\nChar: &",
-          "isoDate": "2026-11-01T12:43:30.224Z"
+          "isoDate": "2026-11-01T21:43:38.402Z"
         },
         {
           "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
@@ -273,13 +273,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-11-01T12:43:32.221Z"
+          "isoDate": "2026-11-01T21:43:40.601Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 59\nColumn: 58\nChar: =",
-          "isoDate": "2026-11-01T12:43:31.399Z"
+          "isoDate": "2026-11-01T21:43:39.502Z"
+        },
+        {
+          "title": "Guarding the Gates of Knowledge",
+          "link": "https://spectrum.ieee.org/ai-slop-trust-science",
+          "summary": "A recent scroll through social media got me thinking about trust. About half my feed was filled with AI slop that astute users would call out as being machine-generated, often to the embarrassment of the rube who unknowingly spread it and sometimes to the delight of the poster who shared it deliberately because they found it amusing or useful for sowing confusion.\nRemember the good old days of GPT-3 when we could ask the chatbot anything and it would almost instantly and very confidently spit back a plausible but false answer? That’s when the word “hallucination” as applied to AI answers entered the lexicon. Six years and several versions of a few different chatbots later, I still can’t trust the answers I get, even though Claude or Gemini often do useful work for me. That’s the thing about current AI: Trust but verify. And verify you must.\nApply that maxim at scale to maintain the integrity of the scientific record and you get an idea of the challenge facing publishers of peer-reviewed scholarship. In “I Used AI to Fake a Scientific Paper,” freelance writer and doctor of applied mathematics Benjamin Skuse tells the story of the human gatekeepers trying to beat back the rising tide of AI slop by attempting to get his own AI-generated papers past IEEE’s defenses.\n“He basically hit ‘run experiment’ and ‘write paper.’ And then he didn’t do a damn thing to it.” —Eliza Strickland\nAs features and AI beat editor Eliza Strickland told me, Skuse was surprised at just how effortless it was to generate a paper that was more or less plausible and more or less science. For one of his experiments, “he basically hit ‘run experiment’ and ‘write paper,’” she said. “And then he didn’t do a damn thing to it. He just launched it into the maw of the publishing engine.”\nSkuse discovered that the combination of IEEE’s human-review processes and research-integrity checker programs are currently keeping pace in what amounts to a cat-and-mouse game against people using free tools. But the more advanced LLMs are no longer making the same dumb mistakes the free versions do. That leaves publishers locked in an arms race between increasingly plausible slop and the systems aimed at detecting it.\nScholarly publishers aren’t the only ones trying to hold the line against slop. So is that global depository of human-generated knowledge, Wikipedia. For this month’s Five Questions, Strickland interviewed Ellia Lebleu, a founding member of WikiProject AI Cleanup, a volunteer effort to detect and delete AI-generated material from the platform. Lebleu’s team is confronting the same problem as commercial publishers, but with fewer people and fewer tools.\n“Wikipedia is known as a repository of human-generated information, and they want to hold on to that,” says Strickland. “Who knows how long they’ll be able to do that.”\nIf we can’t collectively assume that the scientific record is trustworthy or that basic facts about the world are accurate, then our understanding of what is real unspools into uncertainty. Perhaps that delights quantum scientists and the grifters who thrive in an information environment where there is no shared reality. But that uncertainty ultimately undermines trust in the institutions that exist to curate the corpus of human knowledge and to promote the advancement of science and technology for the benefit of humanity.\nOr maybe in a world where AI is doing the science and writing the papers, it won’t matter whether or not humans trust the outputs. As Strickland put it, “Doesn’t it just feel crazy that we’ll have AI writing for other AIs at some point? We’ll just get left out of the loop.”",
+          "isoDate": "2026-11-01T14:00:01.000Z"
         },
         {
           "title": "When Electric Cars Were for Women",
@@ -310,12 +316,6 @@
           "link": "https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone",
           "summary": "This article is brought to you by VicOne.\nA mobile robot slows for someone in a hallway. A collaborative arm eases its movement as a worker approaches. A humanoid pauses to let a person pass. Each response depends on information about the robot or its surroundings: a distance reading, a position estimate, or a stop signal.\nBut what happens when one of those inputs is wrong, and the robot still responds exactly as designed? The mobile robot reads the hallway as clear while someone is still there. The arm estimates that the worker is farther away. The humanoid does not receive a stop signal as a person crosses its path.\nIn each case, a fault could cause that mismatch. So could deliberate manipulation.\nAt VicOne LAB R7, we examine how manipulated inputs can change robot behavior — and what that means for the systems meant to keep people safe.\nHow an untrusted input can change a robot’s behavior\nA robot does more than measure its surroundings. It may interpret what it sees and hears to decide what to do next. Information placed in its environment can therefore influence its actions.\nPublished research shows how this can happen. In a study of vision-language-action (VLA) models, a patch in a camera’s view reduced task success in simulated robot tests. FreezeVLA found that an adversarial image could cause tested models to ignore later instructions. Although the studies used different methods, both demonstrate how visual input can interfere with a robot’s intended task.\nIn a robot-dog test using Gemma 4 E4B, text on a poster was treated as an instruction and changed the robot’s movement.\nVicOne LAB R7 also tested how untrusted inputs could change robot behavior. In a robot-dog test using Gemma 4 E4B, text on a poster was treated as an instruction and changed the robot’s movement. In a separate hospital-service-robot simulation using Nemotron on NVIDIA Jetson AGX Orin, crafted audio that is inaudible to people changed the robot’s simulated behavior. The assigned tasks did not change; the inputs did.\n  In a VicOne LAB R7 test, text on a poster changed a robot dog’s movement, illustrating how a crafted input can turn an unlikely outcome into a repeatable attack.VicOne\nSafety-related decisions have inputs too\nAn independent protective system may still stop a dangerous action. But that system also depends on information: readings, estimates, and messages that tell it when to intervene. What happens if one of those inputs is manipulated?\nAt a robotics bug bounty event, VicOne LAB R7 researchers injected a ROS 2/DDS message into a robot that organizers expected to remain still under a safe-control setting. The robot moved.\nA humanoid’s balance controller offers another example. If it relies on a vulnerable gyroscope, sound at the sensor’s resonant frequency could distort its reported rotation. The controller might correct for a tilt that never occurred. Researchers demonstrated the underlying acoustic attack against drones with vulnerable gyroscopes. The research did not demonstrate the same attack chain causing a humanoid to fall.\nOther protections could interrupt either chain. The question for safety and security teams is whether those protections detect the danger independently or depend on the same manipulated information.\n  Figure 1. VicOne maps how accidental faults and deliberate cyber manipulation can lead to similar robot safety outcomes, from loss of control to physical harm.VicOne\nDeliberate attacks challenge safety assumptions\nA safety assessment may treat a combination of accidental faults as unlikely. Deliberate manipulation changes that assumption. An attacker can choose when to introduce a false input and repeat the same trigger. That does not make harm inevitable, but it may change how cyber risks should be assessed.\nRedundant sensors also need an adversarial test. If one action can affect both inputs, their agreement may offer less reassurance than expected. In autonomous driving research, a crafted physical object misled a system combining camera and LiDAR perception. The study does not establish a weakness in a particular robot, but it shows why teams should test whether one manipulation can affect several checks at once.\nCyber threats add intent to the safety equation, so risk assessments based on accidental faults must be revisited to account for attacks that can be timed and repeated.\nSecurity testing strengthens robot safety evidence\nSafety teams set limits for speed, protective distances, and permitted operating areas. The evidence behind those limits should also show what happens when the information used to enforce them is deliberately manipulated.\nThat evidence can also support assessments against applicable requirements. China’s GB/T 45502-2025 addresses information security for service robots. IEC TS 63074 examines security threats that could affect safety-related control systems. The EU Machinery Regulation, which applies from January 20, 2027, includes requirements to protect safety-relevant systems and data against corruption. Each has its own scope, and teams still need evidence for their robot’s design and operating conditions.\n  Figure 2. Cybersecurity strengthens robot safety evidence throughout the lifecycle. VicOne helps teams test safety limits against manipulation before deployment and monitor the conditions behind safe behavior in operation.VicOne\nBefore deployment, safety and security engineers can compare normal and adversarial scenarios against the same safety limits. During operation, they can monitor for changes to software, models, sensor signals, or behavior that may call earlier results into question. Any response to suspicious behaviors should follow policies approved by the safety team.\nVicOne supports that work across the robot lifecycle. Through the Robotic Hacking Community, VicOne LAB R7 works with researchers to investigate how cyber threats can change robot behavior. VicOne’s Radeis helps teams validate potential effects before deployment, while Rthena provides visibility into risks and behavior during operation.\nFive questions safety and security teams should answer together\nThe central test is whether a robot’s safeguards still protect people when the information they rely on is manipulated. Safety and security teams can begin by tracing the inputs behind each protective decision, challenging them, and revisiting the evidence as the robot changes. They can start with these five questions:\n1. What does each protective function read? Map the readings, estimates, messages, and confirmations. Identify which safeguards operate independently of the robot’s AI decisions.\n2. How does that information arrive? Check how inputs are produced, transmitted, authenticated where appropriate, and handled when they are missing or implausible.\n3. What happens if an input is manipulated? Test false distances, drifting position estimates, and other relevant scenarios against the robot’s safety limits.\n4. Can one action mislead several inputs? Check whether sensor fusion or seemingly independent safeguards share a point of failure.\n5. When should the evidence be revisited? Reassess after changes to software, models, sensors, or operating conditions. Agree on bounded responses to suspicious behavior with the safety team in advance.\nThe goal is not only to show that a protective function works. Teams also need evidence that it remains protective when the information behind its decision is wrong or deliberately manipulated — and that another safeguard can catch the resulting hazard when needed. As robots change, that evidence needs to change with them.\nFor a deeper look how cybersecurity can affect robot safety, download our white paper “Why Robot Safety Depends on Cybersecurity: Protecting the Information That Safety Decisions Rely On.”",
           "isoDate": "2026-10-27T16:14:39.000Z"
-        },
-        {
-          "title": "I Used AI to Fake a Scientific Paper. Here’s What Happened",
-          "link": "https://spectrum.ieee.org/ai-generated-scientific-papers",
-          "summary": "Science has a spam problem. And the spam filter is getting clogged up.\n \nAccording to all reports, academic publishing is drowning in what has come to be called AI slop: low-quality, mass-produced content generated with AI. By 2025, an estimated 57 percent of all published academic articles exhibited detectable evidence of large language model (LLM) influence, a massive jump from 12 percent in 2023. What’s more, over 12 percent of Nature Communications reviews were found to be completely AI-generated in 2025.\n\nGiven that for every 40 papers showing statistical evidence of AI usage in 2025, only one formally disclosed it, these figures likely grossly underestimate LLM involvement today. Of course, evidence of AI use doesn’t necessarily mean a paper is slop. But some estimates suggest that hundreds of thousands of fake, often AI-generated, publications are now produced annually.\n“It’s not just the [scientific] record under threat, it’s science as a whole,” warns Amanda Sulicz, IEEE’s research-integrity manager. “AI slop is completely eroding trust in science and every scientific process that we’ve worked for centuries to create.”\nYet statistics and statements claiming that the problem is big—perhaps even existential for science—don’t really get the message across. Just how easy is it to use AI to create a convincing but completely fake paper? And without adding even more to the burden on stretched peer reviewers, who do this work on a volunteer basis, do publishers have the tools to keep AI slop out of the scientific record?\n\n\n\n\n\n\n\n\n\nBorrowing from the idea of “vibe coding,” in which programmers use natural-language prompts to generate code, I decided to “vibe-research” a made-up paper by prompting LLMs to generate hypotheses, code, and text with minimal human input. Then I asked Jenny Mahoney, managing editor of the multidisciplinary and open-access journal IEEE Access, if we could war-game an attempt to sneak my AI-generated monstrosity past her journal’s defenses. She and IEEE kindly agreed.\nThe experiment would become a two-part test. First, whether someone with no special AI expertise could use off-the-shelf AI tools to generate a convincing paper describing research that had never been performed, and do it well enough to fool a publisher’s defenses. Then I would raise the stakes: What happens when more advanced AI systems don’t just write the paper but conduct underlying research?\nAlong the way, the experiment became a window into how AI automation is transforming scientific discovery and forcing stakeholders to rethink the entire academic publishing system.\nRound 1: Creating the Forgery\nTo give me a chance at creating a convincing fake, I gave myself permission to prompt multiple times (within reason). But to make the fight fair, I couldn’t access the most advanced paid versions of LLMs—only free ChatGPT (at the time, GPT-5.3/5.2 Mini) and Gemini (3 Flash). Moreover, I could not directly edit any output, nor ask for outside help from expert AI-prompt engineers. This needed to be an amateur effort, with the paper generated as much as possible by the LLMs alone.\n\n\n\nI assumed that using fake author names and affiliations would immediately raise a red flag, and I didn’t want to drag the names of established academics into the experiment, so the best bet was to name myself as the sole author. That choice limited me to subjects in which I had some academic experience. So I chose my Ph.D. topic from nearly two decades ago: optical solitons, which are individual light pulses that propagate without any change to their shape.\nMy first attempt—“Can you vibe-research me an original paper in optical solitons?”—left a lot to be desired. Though Gemini was happy to do the task (unlike ChatGPT, which was more forceful in not generating synthetic data or studies), the result was underwhelming. And it highlighted a recurring problem during the process: Without any real research to work with, the output was laughably thin, with the LLMs often struggling to fill four pages. However, as I became more adept at prompting the models, they loosened up and became more characteristically loquacious.\nI broke the paper down into its constituent parts—abstract, introduction, methods, and so on—and tackled them one by one. If one LLM refused to go any further, switching to the other and asking what the next step would look like “hypothetically” would often do the trick. After a dozen or so prompts, I had a realistic-looking paper. A dozen or so more prompts generated and tidied up the figures and captions, produced references and citations, and converted the paper into IEEE Access’s required style.\nAt this point, I read the full paper carefully. To me, it looked pretty good. The science sounded convincing. I even had visions of returning to academia to conduct in real life the experiments that the LLMs had proposed.\nWhat’s more, I couldn’t see any obvious telltale “AI-isms” that would immediately be flagged. For example, the LLMs didn’t produce any tortured phrases—unusual paraphrases of standard technical terms, like “profound neural organization” replacing “deep neural network.”\nOther AI-isms were arguably present, involving stylistic tics like hedging language (“potentially, typically”), grouping things in threes (“The study provides a clear, concise, and actionable framework”), and inserting formulaic transitions (“In summary,…”). But as the previous sentence demonstrates, these tics are hard to spot because they are often used by unimaginative humans, too.\nRound 1: Attempt to Publish\nTwo Ways to Make a Paper With AI\n\nI took two very different routes to creating a scientific paper with AI. First, I coaxed free, general-purpose chatbots through the process step by step; then I turned to FARS, an autonomous research system designed to do much of the scientific work itself.\nROUND 1: CHATGPT + GEMINI\n1. Choose a research topic \nI ask the free chatbots to create an original paper on optical solitons, my former Ph.D. field.\n2. Break the paper into pieces \nThe initial results are thin, so I prompt separately for the abstract, introduction, methods, and other sections.\n3. Keep steering the LLMs \nWhen one model refuses or stalls, I switch models, rephrase prompts, and ask what the next step would look like “hypothetically.”\n4. Build and polish the paper \nAfter about two dozen prompts, the LLMs have generated the text, figures, captions, references, and citations and formatted the paper for IEEE Access.\n5. Put it to the test \nI send the fake paper to IEEE Access, where automated integrity checks flag fabricated and unverifiable references.\n→ CAUGHT \nIEEE’s integrity checks flag fabricated and unverifiable references.\n\n\nROUND 2: FARS\n1. Give FARS a research topic \nI enter an abbreviated version of the same optical-soliton topic. FARS generates a research proposal in 21 minutes.\n2. Authorize the experiment \nWith a click, I tell FARS to carry out the experiment described in its proposal.\n3. Let FARS do the research \nFARS conducts the computational experiment and emails me the next day to say it’s complete.\n4. Tell FARS to write the paper \nWithout checking the results, I click “Write paper.” Two hours later, FARS produces a submission-ready article.\n5. Put it to the test \nI remove FARS’s disclosure, put my name on the paper, and send it to IEEE Access.\n→ CAUGHT \nThe references are real, but IEEE flags the paper’s heavy reliance on non-peer-reviewed preprints.\n\n\nHanding the fake paper over to IEEE Access left me torn. After putting in a fair amount of effort into making the AI-generated forgery, would I be happy if it passed through the checkers, or saddened that the only remaining line of defense for publishers is the evermore-burdened peer-review community? And if it was spotted, would I be angry that I didn’t think of a red flag or be glad the checkers did their job?\nAs it turned out, I was filled with relief when the paper got picked up quickly for having hallucinated references, otherwise known as ghost citations. When I ran the paper through Gemini afterward, without qualm it happily reported that seven “modern LLM-related research references have been fabricated to support the paper’s specific narrative.” Thanks for the heads up, Gemini!\nIn fact, Gemini underestimated how many ghost citations there were. When Mahoney ran the paper through a research-integrity checker called STM Integrity Hub, she picked up 12, and another checker from MolecularConnections could not validate 24 references, including one that had the classic tell of “John Smith” as a single author (no offense to all the academically inclined John Smiths out there). “I am an experimental physicist by training, so this was not at all my area, but nothing seemed majorly scientifically wrong” about the paper, says Mahoney. “It was just that so many hallucinated references immediately cast doubt on the entire work.”\nFeedback on the fake paper from Gaetano Assanto, an expert in optical solitons and a former collaborator of mine from Roma Tre University, in Italy, was similarly mixed. Concentrating on the paper itself, he thought it looked professionally written. But he noted that the mathematics was very dense (“too much math for me in a single shot!”) and would require specialized knowledge to evaluate. And, although the text looked legitimate, Assanto noted an excessive use of acronyms in the abstract, and he was suspicious of a couple of confidently proclaimed physics statements that were at best debatable.\nThe AI Arms Race\nOn one level, this outcome was positive: A complete novice using free tools couldn’t get an AI-faked paper past the publishers’ automated defenses or a potential peer reviewer’s eagle eye. But it was hardly a resounding victory for the scientific publishing system. With general-purpose LLMs and no special prompting expertise, I had managed to conjure a superficially plausible scientific paper out of research that had never happened. And more advanced LLMs are no longer making the kind of mistakes their free, dumber relatives are making.\n\n\nThese tools aim to address a serious bottleneck to scientific discovery: us. \n\n\nIt’s common knowledge in the academic publishing world that, in the cat-and-mouse game between bad actors and publishers, AI slop papers continue to slip through publishers’ safeguards. “It feels like building a detection tool today may not be effective with the AI-created paper of tomorrow,” says Luigi Longobardi, IEEE’s director of publishing ethics and conduct. This leaves the humble peer reviewer as a publisher’s last line of defense. Yet peer review is simply not fit to handle the volume of papers—both legitimate and slop—passing through.\nEven before AI tools became ubiquitous, the peer-review system was being pushed to its breaking point, processing well over 3 million papers in 2022. Fundamentally, this problem stems from science’s publish-or-perish culture, which pressures academics to constantly publish papers in prestigious journals to secure funding and advance their careers. This culture not only forces many academics to regularly churn out incremental research, but has also long driven some to enlist the help of “paper mills”—unethical organizations that produce low-quality or fabricated papers—just to keep pace. AI only amplifies these existing dynamics.\nBurden on Academics\nMahoney says IEEE Access alone receives about 60,000 submissions per year, accepting around 20 percent, or about 12,000 papers. Every accepted paper is reviewed by at least two independent reviewers. But despite the journal’s roster of tens of thousands of peer reviewers, it’s getting harder and harder to secure their services, with the average number of reviewer invitations being sent out for each article increasing by 50 percent since 2018. For these volunteers, peer review is a significant commitment on top of teaching and conducting their own research. Now they’re also being asked to spot AI slop.\nOf course, peer review is not the end of scrutiny for any paper. Once it has entered the scientific record, it must then pass muster with the scientific community. This is where thousands of papers with telltale signs of inappropriate AI use (and other forms of research misconduct) have been exposed.\nWhat Gave Away My AI Papers \n\nRound 1: The Fake Paper\nCreated with free versions of ChatGPT and Gemini\nGhost citations\n\nMany references were fabricated or couldn’t be validated.\nQuestionable scientific claims\n\nAn expert flagged confidently stated claims that were at best debatable.\nToo many acronyms\n\nThe expert also noted excessive use of acronyms in the abstract.\nRound 2: The AI-Research Paper\nCreated by the autonomous research system FARS\nToo many preprints\n\nThe references were real, but too many pointed to non-peer-reviewed preprints.\nNonsense in a figure\n\nOne technical figure contained a line labeled “lhewl.”\nAI artifacts\n\nAnother figure’s depiction of an AI “brain” contained telltale random dots.\n\n\nThere are two high-profile homes for this important and completely volunteer-led post-publication review work. PubPeer is a place where researchers, often called scientific sleuths, can anonymously identify flaws in the literature. And Retraction Watch documents and publicizes corrections to the scientific record.\nEven the people who track problems in the scientific literature can find themselves caught up in AI fabrications. Ivan Oransky, cofounder of Retraction Watch and a member of the PubPeer Foundation’s board of directors, has encountered papers containing fabricated references attributed to him. In one case, a journal article criticizing post-publication peer review included a fabricated reference supposedly written by Oransky himself—“which was sort of funny,” he chuckles.\nOransky argues that AI has exposed long-standing weaknesses in the scientific publishing system rather than creating an entirely new problem: “What I liken it to is a fire, where publish-or-perish has always been there as kindling, paper mills are the gasoline, and AI is the accelerant.” But though concerning, the crisis could create an opportunity, he says. “If I’m trying to be optimistic, maybe AI slop and the volume of submissions could make more people aware of those problems and try and solve them at a fundamental first-principles level.”\nBlurred Lines\nMy homemade forgery had failed for reasons that today’s publishers know how to spot. But that raised a more unsettling question: What happens when AI isn’t simply fabricating a paper but conducting research that blurs the line between legitimate science and AI fabrication?\nMaking my vibe-researched paper look like a cave drawing, new automated research systems are handing increasingly large parts of the scientific process over to AI. Tools including FARS (Fully Automated Research System), AutoResearchClaw, The AIScientist-v2, Zochi, AI Researcher, and DeepScientist all aim to address a serious bottleneck to scientific discovery: us.\n\n\nWhat happens when AI isn’t simply fabricating a paper but conducting research that blurs the line between legitimate science and AI fabrication? \n\n\nOften with just a single prompt, these AI engines can conduct a comprehensive literature search, from which they can generate a completely reasonable research proposal. They can design and conduct experiments using digital datasets and simulations and then write a full research paper—all with no human input after the initial prompt. Very recent systems are even beginning to go beyond the digital realm. LabClaw, for example, now links to autonomous labs that can generate real-world data for tasks such as drug discovery.\nThe output is, to most intents and purposes, actual research, and therefore potentially worthy of publication. But with humans in the loop in only the most nominal sense, these tools bring into question the meaning of the term “legitimate science.”\nFARS, which caused a stir this year when it created 166 papers in 417 hours, was developed by the Singapore-based startup Analemma. “We built FARS because research is still constrained by human attention, fragmented tools, scarce technical labor, and slow experimental iteration,” explains Xiwen Su, Analemma’s manager of product operations and partnerships. “FARS can pursue many research threads simultaneously, 24/7, without fatigue, and at scale.” (The online service that I used to access FARS was discontinued after Analemma was acquired by Baidu while this article was being reported.)\nSu and the team behind Analemma kindly agreed to let me loose on FARS and gave me enough credits to create a paper. Which gave me another opportunity to put Mahoney’s research-integrity checkers to the test.\nRound 2: Using an AI Science Engine\nFARS is not an LLM in and of itself, but rather an agentic AI-orchestration system connected to a computing cluster that has access to essentially any open- or closed-source LLM it needs. The system uses four specialized agents for ideation, planning, conducting the experiment, and writing, all designed to perform the main tasks of science autonomously.\nThough FARS initially focused on AI research, Su told me it should be reasonably effective across other domains. As I wanted a topic similar to that of my first fake paper, I pasted in an abridged version of that paper’s title—“LLM-aided Optical Soliton Dynamics Modelling for Next-Gen Communications”—into the prompt box and hit “Send.” Just 21 minutes later, FARS generated a research proposal based on an extremely detailed literature review—far more than I or any other human could have achieved in that time.\nWith a click, I tasked FARS with conducting the experiment it detailed in its research proposal. The next day, I received an email saying my experiment was complete. Without checking the results, I pressed a button marked “Write paper,” and the final submission-ready article was produced in 2 hours.\nAt this point, I finally had a look at some of the output. At first glance, the paper looked convincingly human-written. The only giveaway was a line just below the abstract reading: “WARNING: This paper was generated by an automated research system.” I deleted that, put my name in its place, and sent it to Mahoney.\nRound 2: Attempt to Publish\nBecause FARS is designed to spot gaps in the scientific literature and conduct real research to close them, I was more confident it would breeze through the publisher’s checks. But just as my fake paper fell down in the references, so too did the AI-generated real one.\n“Your fake article had lots of hallucinated references,” says Mahoney. “While this AI-generated one had no fake references, our team would have rejected this paper because it did have a huge percentage of references to preprints, which likely has something to do with the dataset the AI has access to.” Because preprints haven’t yet undergone peer review, IEEE Access considers heavy reliance on them a problem.\nIn addition, although the research-integrity checking tools didn’t spot any issues with figures, Mahoney did. One figure included a red line labeled with the nonsense term “lhewl,” and an AI “brain” in another figure had some random dots in it, which ironically were a tell that it was AI generated.\nAutomation Changing the Landscape\nAutomated research systems are very much a work in progress, but they are already starting to make waves in the scientific community. For instance, an AI Scientist academic paper and papers from the Autoscience Institute were accepted through double-blind peer review in 2025 by the International Conference on Learning Representations. As these systems improve and start to produce research outputs at volume, the waves are likely to build to a tsunami that will threaten today’s scientific and publishing process.\n“FARS doesn’t kill the paper, but it does challenge the paper as the unit of knowledge,” argues Su. “We believe the future looks more like a living knowledge graph—where individual, well-scoped contributions (some made by humans, some by machines) connect and build on each other dynamically.”\n\n\n\nIn this future, humans will continue to have roles in the scientific and publication processes—just very different and limited ones. For example, instead of conducting experiments themselves, humans would sense-check and review automated output at key points. And traditional line-by-line peer-reviewing will be a thing of the past, though Su emphasizes that this change will not eliminate human judgment. “Automated systems can handle reproducibility checks, statistical validation, and novelty screening,” she says. “Humans can then focus on the harder question: Does this [research] matter?”\nA Human-Centric or AI-Driven Future?\nThough from a very different world than Su, Mahoney agrees that humans need to be freed to focus on the science, and that technology holds the key. “It’s promising to see the progress that has been made to automate some of the triage tasks, such as author checks, tortured phrases, duplicate submission, reference validity, et cetera,” she says. “During peer review, we’re also using AI semantic search tools to help editors match manuscripts to the most relevant reviewers, who are best placed to stop the slop before entering the scientific record.”\nIn addition, Mahoney thinks that AI cannot be banned or overly restricted, as this will stymie progress at a time when human knowledge could and should be growing at an unprecedented rate. “Researchers are increasingly using AI in their work, from literature discovery, to code generation, to data analysis, and this is not necessarily a bad thing,” she argues. But she disagrees that peer reviewers and humans more broadly will play a smaller part in scientific progress; Mahoney believes the future still requires humans at the wheel. The question is not just whether the research matters, she says. “The question should be: Can this work be trusted and reproduced?”\nTo this end, Longobardi argues that AI may ultimately require scientists to prove not just what they discovered but how they discovered it. One possibility, he says, is using technology to verify research at the source. “The system doesn’t really help because it’s not designed to not trust the paper,” he explains. “Maybe institutions can think about developing their own trust markers, automatically integrating the equipment researchers use with blockchain technology to say ‘Yes, this person was in the lab on this day and got this data.’”\nElements of this approach are already emerging. For instance, two departments within the Max Planck Institute of Colloids and Interfaces have implemented a sample database, assigning each and every sample created under their roofs with a unique ID and QR code. And the University of Southampton’s School of Chemistry and Chemical Engineering has rolled out an electronic lab notebook system. These innovative safeguards represent early efforts toward keeping humans front and center in scientific progress, and making the scientific process itself more transparent.\nWhether this human-centric vision, Su’s AI-driven aspiration, or some other picture of the future wins out remains to be seen. The one thing my vibe-research adventure has clarified is that business-as-usual science is not an option. Scientists and publishers must adapt to a world in which it’s becoming increasingly difficult to spot the difference between real research and AI forgeries, and where deciding what counts as legitimate scientific work may become even harder than detecting outright fraud.\nSee the AI-Generated Papers\n\nBenjamin Skuse created two papers for this experiment, both screened by IEEE Access with the publisher’s cooperation. Neither was accepted for publication.\nPaper 1: The AI-Generated Forgery\nCreated with ChatGPT and Gemini, this paper describes research that never happened.\nPaper 2: The AI-Generated Research Paper\nCreated with Analemma’s FARS system, this paper describes computational research conducted by AI.\nNeither paper was peer reviewed, and their scientific claims have not been independently validated.",
-          "isoDate": "2026-10-27T13:00:03.000Z"
         }
       ]
     },
@@ -324,57 +324,12 @@
       "maxItems": 120,
       "items": [
         {
-          "title": "RESULTADOS (ÚLTIMOS)",
+          "title": "RESULTADOS (EN DIRECTO)",
           "link": "",
           "summary": ""
         },
         {
-          "title": "BAR  6-1  ALA",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "REA  2-1  MÁL",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "RAY  3-0  CEL",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "LEV  0-2  ATL",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "VIL  0-1  ESP",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "SEV  2-0  OSA",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "BAR  1-2  REA",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "REA  2-1  LEV",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "CEL  0-0  REA",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "ATH  4-0  GET",
+          "title": "ATH  2-1  REA",
           "link": "",
           "summary": ""
         },
@@ -399,7 +354,7 @@
           "summary": ""
         },
         {
-          "title": " 3  REA  10   8  0  2  25  10  15  24",
+          "title": " 3  REA  11   9  0  2  28  10  18  27",
           "link": "",
           "summary": ""
         },
@@ -409,17 +364,17 @@
           "summary": ""
         },
         {
-          "title": " 5  REA  10   6  1  3  19  18   1  19",
+          "title": " 5  REA  11   6  1  4  20  20   0  19",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 6  SEV  10   5  2  3  16  16   0  17",
+          "title": " 6  SEV  11   5  2  4  17  19  -2  17",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 7  ATH   9   3  3  3  12   9   3  12",
+          "title": " 7  ATH  10   4  3  3  14  10   4  15",
           "link": "",
           "summary": ""
         },
@@ -444,42 +399,42 @@
           "summary": ""
         },
         {
-          "title": "12  DEP  10   2  5  3  13  13   0  11",
+          "title": "12  GET  11   3  3  5   8  16  -8  12",
           "link": "",
           "summary": ""
         },
         {
-          "title": "13  ESP  11   3  2  6  13  14  -1  11",
+          "title": "13  DEP  10   2  5  3  13  13   0  11",
           "link": "",
           "summary": ""
         },
         {
-          "title": "14  OSA  10   3  2  5  10  20 -10  11",
+          "title": "14  ESP  11   3  2  6  13  14  -1  11",
           "link": "",
           "summary": ""
         },
         {
-          "title": "15  SAN  10   3  2  5  15  26 -11  11",
+          "title": "15  OSA  10   3  2  5  10  20 -10  11",
           "link": "",
           "summary": ""
         },
         {
-          "title": "16  ELC  10   2  4  4  14  17  -3  10",
+          "title": "16  SAN  11   3  2  6  15  29 -14  11",
           "link": "",
           "summary": ""
         },
         {
-          "title": "17  LEV  11   2  4  5  16  21  -5  10",
+          "title": "17  ELC  11   2  4  5  14  18  -4  10",
           "link": "",
           "summary": ""
         },
         {
-          "title": "18  GET  10   2  3  5   5  15 -10   9",
+          "title": "18  LEV  11   2  4  5  16  21  -5  10",
           "link": "",
           "summary": ""
         },
         {
-          "title": "19  VAL  10   1  3  6   7  17 -10   6",
+          "title": "19  VAL  11   2  3  6   8  17  -9   9",
           "link": "",
           "summary": ""
         },
