@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T21:43:41.395Z",
+  "generatedAt": "2026-11-02T04:38:42.045Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
@@ -72,6 +72,12 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "Measles made a stealthy return as another virus took the spotlight",
+          "link": "https://www.nature.com/articles/d41586-026-03387-3",
+          "summary": "Nature, Published online: 02 November 2026; doi:10.1038/d41586-026-03387-3\nVaccination rates dropped after the COVID-19 pandemic disrupted public-health programmes and their funding.",
+          "isoDate": "2026-11-02T00:00:00.000Z"
+        },
+        {
           "title": "APOD: 2026 November 1 – Colors of the Moon",
           "link": "https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon/",
           "summary": "APOD Science APOD APOD: 2026 November 1 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Colors of the […]",
@@ -124,12 +130,6 @@
           "link": "https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001/",
           "summary": "Description This global map of Mars shows 13 locations that match the mineralogy and chemistry of Teghaza 001, one of the most ancient Martian meteorites ever found on Earth. While scientists can never know for sure where a Martian meteorite originated, Teghaza 001 includes clues that link it to highlands in the southern hemisphere of […]",
           "isoDate": "2026-10-30T00:07:39.000Z"
-        },
-        {
-          "title": "Briefing Chat: <b>Dog years: could longevity science extend your pets' lives?</b>",
-          "link": "https://www.nature.com/articles/d41586-026-03553-7",
-          "summary": "Nature, Published online: 30 October 2026; doi:10.1038/d41586-026-03553-7\nNature staff discuss the emerging field of pet longevity — plus, a researcher decides not to care about their student reviews. Are they wrong?",
-          "isoDate": "2026-10-30T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 74\nColumn: 41\nChar: &",
-          "isoDate": "2026-11-01T21:43:38.402Z"
+          "isoDate": "2026-11-02T04:38:38.139Z"
+        },
+        {
+          "title": "Binance users withdraw $3.6bn after record crypto hack",
+          "link": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+          "summary": "The exchange froze transactions in the wake of the incident, which impacted $6.3bn worth of digital assets.",
+          "isoDate": "2026-11-02T03:32:14.000Z"
         },
         {
           "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cm9qz428nnljo?at_medium=RSS&at_campaign=rss",
           "summary": "Video games are good at triggering nostalgia, a key reason why classic games keep getting remade.",
           "isoDate": "2026-10-30T07:45:00.000Z"
-        },
-        {
-          "title": "Ofcom outlines age check methods ahead of social media ban for under-16s",
-          "link": "https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&at_campaign=rss",
-          "summary": "Ofcom says photo and digital ID, banking checks or facial age estimation can help prove someone is 16 or over.",
-          "isoDate": "2026-10-29T09:31:44.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-11-01T21:43:40.601Z"
+          "isoDate": "2026-11-02T04:38:41.122Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 59\nColumn: 58\nChar: =",
-          "isoDate": "2026-11-01T21:43:39.502Z"
+          "isoDate": "2026-11-02T04:38:39.502Z"
         },
         {
           "title": "Guarding the Gates of Knowledge",
@@ -324,12 +324,57 @@
       "maxItems": 120,
       "items": [
         {
-          "title": "RESULTADOS (EN DIRECTO)",
+          "title": "RESULTADOS (ÚLTIMOS)",
           "link": "",
           "summary": ""
         },
         {
           "title": "ATH  2-1  REA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "ELC  0-1  VAL",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "SAN  0-3  REA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "GET  3-1  SEV",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "BAR  6-1  ALA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "REA  2-1  MÁL",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "RAY  3-0  CEL",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "LEV  0-2  ATL",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "VIL  0-1  ESP",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "SEV  2-0  OSA",
           "link": "",
           "summary": ""
         },
