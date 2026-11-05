@@ -1,15 +1,45 @@
 {
-  "generatedAt": "2026-11-04T23:15:02.162Z",
+  "generatedAt": "2026-11-05T05:19:28.110Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
         {
+          "title": "Nintendo’s designers strove for ‘elegance’ when remaking Ocarina of Time",
+          "link": "https://www.theverge.com/games/1026380/zelda-ocarina-of-time-interview-eiji-aonuma-hidemaro-fujibayashi",
+          "summary": "The Ocarina of Time remake on the Switch 2 smashes together the past and present. The game retains much of the original N64 experience while updating it with modern graphics and gameplay that make it feel contemporary. But the mingling of time periods also extends to the development team. While Ocarina's remake was led by producers Eiji Aonuma (a director on the original game who is now the franchise's steward at Nintendo) and Hidemaro Fujibayashi (best known for directing Breath of the Wild and its sequel), the team also featured a number of younger developers, including some who had never played the original. According to Fujibayashi, thos …\nRead the full story at The Verge.",
+          "isoDate": "2026-11-05T05:00:00.000Z"
+        },
+        {
+          "title": "X says its updated web app is way faster",
+          "link": "https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster",
+          "summary": "X is introducing a new version of its web app that it says is much faster than before, and it's now rolling out the updated app \"one country at a time\" for signed-in users.\n\"Open a profile on X.com over a slow connection,\" principal engineer Yagiz Nizipli said in a blog post about the changes. \"On the old web app, you'd stare at the X logo for more than 22 seconds before the first post appeared. On the new one, it shows up in 2.7.\" The post also goes into technical detail about how the updated app \"replaces the three servers we used to run for people, search crawlers, and link previews with one.\"\nSecurity researcher Jane Manchun Wong poste …\nRead the full story at The Verge.",
+          "isoDate": "2026-11-05T00:25:12.000Z"
+        },
+        {
+          "title": "Nintendo's biggest ROM chip supplier is bowing out of the business",
+          "link": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
+          "summary": "And what that could mean for physical Switch game costs.",
+          "isoDate": "2026-11-04T22:47:51.000Z"
+        },
+        {
           "title": "Qualcomm is betting big on data centers as smartphone sales sink",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
           "summary": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in the AI data center business, through partnerships with companies like Amazon and Meta announced earlier this year. The company expects that portion of its business to grow quickly, forecasting around $650 million in data center revenue during the first quarter of 2027. But it anticipates that will reach $5 billion by the end of 2027 and $15 billion by 2029.\nConsidering the company's total revenue for 2026 was $10.4 billion, …\nRead the full story at The Verge.",
           "isoDate": "2026-11-04T22:42:15.000Z"
+        },
+        {
+          "title": "Hackers exploited iOS and Android flaws to infect phones",
+          "link": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
+          "summary": "Researchers say group may have been Kremlin-sponsored in search of diplomatic targets.",
+          "isoDate": "2026-11-04T22:26:49.000Z"
+        },
+        {
+          "title": "Uranium cubes reveal why the German nuclear project failed",
+          "link": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
+          "summary": "\"Our calculations suggest Heisenberg significantly underestimated the materials required.\"",
+          "isoDate": "2026-11-04T21:56:29.000Z"
         },
         {
           "title": "17 better ways Elon Musk could have wasted $446 million",
@@ -34,36 +64,6 @@
           "link": "https://arstechnica.com/gadgets/2026/11/amds-record-quarter-data-center-business-doubles-while-gaming-craters/",
           "summary": "AMD's gaming revenue fell 40 percent in an otherwise record $13.4 billion quarter.",
           "isoDate": "2026-11-04T21:29:46.000Z"
-        },
-        {
-          "title": "Bose’s QuietComfort Headphones are more than half off",
-          "link": "https://www.theverge.com/gadgets/1026807/bose-quietcomfort-headphones-wireless-deal-sale",
-          "summary": "It’s not often that some of the best noise-canceling headphones you can buy are over half off. But right now, the first-gen Bose QuietComfort Headphones are on sale for $169.99 ($190 off) at Amazon, Best Buy, and Bose, matching its best price to date. The newer, second-generation version that launched in August is also down to $199 ($160 off) in multiple colors at Amazon, Best Buy, and directly from Bose, which is just $20 shy of the all-time low price.\nBose QuietComfort Headphones\n\nWhere to Buy:\n\n $359 $169 at Amazon\n $359 $169 at Best Buy\n $359 $169 at Bose\n\n\nBose QuietComfort Headphones Gen 2\n\nWhere to Buy:\n\n $359 $199 at Amazon\n $359 $199 at Best Buy\n $359 $199 at Bose\n\nWhile Bose’s original QuietComfort Headphones are no longer the latest model, they’re still a solid option for anyone seeking effective noise cancellation, good sound, and 24-hour battery life without spending a fortune. They also support multipoint Bluetooth connectivity, so you can connect to two devices simultaneously, and they feature a lightweight, foldable design that makes them easy to pack.\nThe second-generation QuietComfort Headphones build on that foundation with a few worthwhile upgrades for $30 more. Of note, our reviewer John Higgins considers their default sound profile to be the best he’s heard from Bose, even better than the flagship $449 QuietComfort Ultra Gen 2. They also support lossless audio via USB-C. While he thought that vocals sounded a bit muted, he was able to fix the issue by tweaking the three-band equalizer in Bose’s companion app. Higgins also considers the QuietComfort Headphones more comfortable than the Ultra thanks to their lack of “eardrum suck,” the unpleasant sensation of ear pressure from a strong active noise cancellation effect.\nRead our Bose QuietComfort Headphones (second-generation) review.",
-          "isoDate": "2026-11-04T21:13:11.000Z"
-        },
-        {
-          "title": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
-          "link": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/",
-          "summary": "Tech industry in denial as US overwhelmingly votes to restrict AI, data centers.",
-          "isoDate": "2026-11-04T20:55:50.000Z"
-        },
-        {
-          "title": "After Texas' blue wave, what happens to Elon Musk and SpaceX?",
-          "link": "https://arstechnica.com/space/2026/11/elon-musk-moved-spacex-to-red-texas-now-its-blue-what-happens-next/",
-          "summary": "\"Data centers in space looking pretty appealing right now.\"",
-          "isoDate": "2026-11-04T20:36:05.000Z"
-        },
-        {
-          "title": "Gemini for Home now plugs into AT&#038;T’s smart security system",
-          "link": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
-          "summary": "AT&T's smart home security system now integrates with Gemini for Home. The company says its Connected Life system is the \"first\" home security product to integrate with Google Home Premium, enabling a bunch of Gemini-powered features that can summarize home events, search your video history, and more.\nWith the update, Gemini for Home can provide detailed descriptions about events captured by your security cameras, such as who delivered a package and how many items they dropped off. You can also search recorded video footage using natural language questions, like \"What dug up the yard last night?\" or \"Who let the dogs out?\", as well as revie …\nRead the full story at The Verge.",
-          "isoDate": "2026-11-04T20:23:24.000Z"
-        },
-        {
-          "title": "Ted Cruz aims to stack FCC with Republicans before Democrats take Senate control",
-          "link": "https://arstechnica.com/tech-policy/2026/11/ted-cruz-aims-to-put-another-republican-on-fcc-in-senates-lame-duck-session/",
-          "summary": "Cruz and Trump seem to have no plans to fill FCC's empty Democratic seat.",
-          "isoDate": "2026-11-04T19:08:23.000Z"
         }
       ]
     },
@@ -72,10 +72,52 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "ERROR cargando feed",
-          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
-          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-11-04T23:14:58.036Z"
+          "title": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research ",
+          "link": "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/",
+          "summary": "On Wednesday, NASA unveiled its newest experimental aircraft, the X-70 Fractal, during the UP.Summit at the agency’s Kennedy Space Center in Florida. This high-performance, highly adaptable research platform is designed to accelerate the development and testing of advanced aviation technologies.  The crewed X-70 features advanced, rapidly reconfigurable flight-control technology that will allow NASA to explore […]",
+          "isoDate": "2026-11-05T01:43:21.000Z"
+        },
+        {
+          "title": "NASA Shares Plans to Accelerate Artemis, Return to Moon",
+          "link": "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/",
+          "summary": "In an update on Oct. 23, NASA Administrator Jared Isaacman and other agency leaders shared the agency’s path to returning Americans to the lunar surface in 2028. Agency leadership provided updates on the previously announced acceleration plans for the Artemis program, advancing toward the agency’s Artemis III test flight in 2027 and Artemis IV Moon […]",
+          "isoDate": "2026-11-04T21:04:10.000Z"
+        },
+        {
+          "title": "NASA Announces Ka-Band Satellite Relay Awards for Space Communications",
+          "link": "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/",
+          "summary": "NASA selected three companies on Wednesday to perform work to develop Ka-band space relay capability concepts that are compatible with current missions in space, ensuring service continuity for existing spacecraft without requiring modifications to their onboard systems. Through this work, NASA will aim to acquire end-to-end solutions that include space, ground, launch, operations, and integration […]",
+          "isoDate": "2026-11-04T18:00:02.000Z"
+        },
+        {
+          "title": "NASA Navigation Experiment Shows Promise for Planetary Landings",
+          "link": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings/",
+          "summary": "NASA successfully demonstrated technology designed to help spacecraft autonomously navigate to safe landing sites on the Moon and on other planets. An Alta-X drone equipped with the agency’s Safe and Precise Landing – Integrated Capabilities Evolution (SPLICE) guidance, navigation, and control payload completed simulated lunar descent and landing maneuvers Aug. 27. The flight took place […]",
+          "isoDate": "2026-11-04T16:52:43.000Z"
+        },
+        {
+          "title": "NASA Space Grant Students Fuel Agency’s Inspiration Tour",
+          "link": "https://www.nasa.gov/learning-resources/nasa-space-grant-students-fuel-agencys-inspiration-tour/",
+          "summary": "NASA’s Inspiration Tour spread the excitement of space exploration and aeronautical innovation by connecting the public, industry, and academia with the people, technologies, and organizations that drive American leadership in space. At nearly every stop across the country, NASA Space Grant has brought students into the heart of the action. In Iowa, NASA Administrator Jared […]",
+          "isoDate": "2026-11-04T16:16:41.000Z"
+        },
+        {
+          "title": "Hubble Reveals Cosmic Mystery",
+          "link": "https://www.nasa.gov/image-article/hubble-reveals-cosmic-mystery/",
+          "summary": "This photo released on Nov. 2, 2026, showcases NGC  4449, a dwarf irregular. Researchers using NASA’s Hubble Space Telescope studied 37 nearby dwarf galaxies — small galaxies containing a few thousand to hundreds of millions of stars — including NGC 4449 and found that much of the oxygen they expected to see is missing. Read […]",
+          "isoDate": "2026-11-04T15:59:36.000Z"
+        },
+        {
+          "title": "APOD: 2026 November 4 – The Not-So-Hidden Galaxy, IC 342",
+          "link": "https://science.nasa.gov/image-article/apod-2026-november-4-the-not-so-hidden-galaxy-ic-342/",
+          "summary": "APOD Science APOD APOD: 2026 November 4 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Not-So-Hidden […]",
+          "isoDate": "2026-11-04T05:05:00.000Z"
+        },
+        {
+          "title": "Before the Dawn in America’s Heartland",
+          "link": "https://science.nasa.gov/earth/earth-observatory/before-the-dawn-in-americas-heartland/",
+          "summary": "With hardly a cloud in sight, astronauts had a sweeping view of nighttime lights in the U.S. Midwest.",
+          "isoDate": "2026-11-04T05:01:00.000Z"
         },
         {
           "title": "Spider snooze stages",
@@ -88,48 +130,6 @@
           "link": "https://www.nature.com/articles/d41586-026-03539-5",
           "summary": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03539-5\nSimulation shows that hesitating can be the difference between making it to safety and not.",
           "isoDate": "2026-11-04T00:00:00.000Z"
-        },
-        {
-          "title": "Toothbrush zaps bacteria with electricity made when bristles move",
-          "link": "https://www.nature.com/articles/d41586-026-03586-y",
-          "summary": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03586-y\nInnovative polymer could give the manual toothbrush its first radical redesign in more than 1,000 years.",
-          "isoDate": "2026-11-04T00:00:00.000Z"
-        },
-        {
-          "title": "First-of-its-kind planetary wreckage holds clues to our Solar System’s fate",
-          "link": "https://www.nature.com/articles/d41586-026-03537-7",
-          "summary": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03537-7\nAstronomers spot an unprecedented double disk of debris around a dead star.",
-          "isoDate": "2026-11-04T00:00:00.000Z"
-        },
-        {
-          "title": "A guide to Nature Index tables",
-          "link": "https://www.nature.com/articles/d41586-026-03344-0",
-          "summary": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03344-0\nInformation on the methodology used in the ranking for the 2026 Nature Spotlight: Neuroscience.",
-          "isoDate": "2026-11-04T00:00:00.000Z"
-        },
-        {
-          "title": "<b>Ancient DNA charts spread of Celtic and Germanic languages</b>",
-          "link": "https://www.nature.com/articles/d41586-026-03582-2",
-          "summary": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03582-2\nGenomes from thousands of ancient individuals show how migrations helped shape Celtic and Germanic languages — plus, how the brain may regulate emotions differently than we thought.",
-          "isoDate": "2026-11-04T00:00:00.000Z"
-        },
-        {
-          "title": "Carbon radical generation by irreversible metal-to-ligand charge transfer",
-          "link": "https://www.nature.com/articles/s41586-026-11368-9",
-          "summary": "Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11368-9\nCarbon radical generation by irreversible metal-to-ligand charge transfer",
-          "isoDate": "2026-11-04T00:00:00.000Z"
-        },
-        {
-          "title": "Parkinson’s: beyond the brain",
-          "link": "https://www.nature.com/articles/d41586-026-03173-1",
-          "summary": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03173-1\nParkinson’s disease might develop in the gut before reaching the brain, and the environment could have a crucial role in triggering the disease.",
-          "isoDate": "2026-11-04T00:00:00.000Z"
-        },
-        {
-          "title": "AI agents run this automated biology lab that sequences DNA and more",
-          "link": "https://www.nature.com/articles/d41586-026-03552-8",
-          "summary": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03552-8\nSelf-driving lab in China requires only a simple prompt to encode messages in DNA and read them out.",
-          "isoDate": "2026-11-04T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 74\nColumn: 41\nChar: &",
-          "isoDate": "2026-11-04T23:14:58.933Z"
+          "isoDate": "2026-11-05T05:19:24.002Z"
         },
         {
           "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
@@ -204,6 +204,12 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "Clearing up a robot’s fuzzy memory",
+          "link": "https://news.mit.edu/2026/clearing-up-robot-fuzzy-memory-1105",
+          "summary": "A new system identifies and corrects unreliable object descriptions stored in a robot’s memory, improving the robot’s ability to interact with its environment.",
+          "isoDate": "2026-11-05T05:00:00.000Z"
+        },
+        {
           "title": "OpenAI to acquire Pierre Computer Company, Inc.",
           "link": "https://openai.com/index/openai-to-acquire-pierre",
           "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
@@ -220,6 +226,12 @@
           "link": "https://openai.com/index/daybreak-red-aws-govcloud",
           "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
           "isoDate": "2026-11-04T07:00:00.000Z"
+        },
+        {
+          "title": "Introducing Images 2.6",
+          "link": "https://openai.com/index/introducing-images-2-6",
+          "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+          "isoDate": "2026-11-04T00:00:00.000Z"
         },
         {
           "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
@@ -250,18 +262,6 @@
           "link": "https://openai.com/index/cisco-cyber",
           "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
           "isoDate": "2026-11-03T08:00:00.000Z"
-        },
-        {
-          "title": "Heimstaden is changing residential real estate management with AI",
-          "link": "https://openai.com/index/heimstaden",
-          "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
-          "isoDate": "2026-11-03T08:00:00.000Z"
-        },
-        {
-          "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-          "link": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
-          "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
-          "isoDate": "2026-11-03T00:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-11-04T23:15:00.652Z"
+          "isoDate": "2026-11-05T05:19:27.360Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 59\nColumn: 58\nChar: =",
-          "isoDate": "2026-11-04T23:14:59.925Z"
+          "isoDate": "2026-11-05T05:19:25.301Z"
         },
         {
           "title": "IEEE Computer Society Chapter Offers Webinars With Industry Experts",
