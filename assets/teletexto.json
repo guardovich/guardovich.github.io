@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-11-07T04:48:38.017Z",
+  "generatedAt": "2026-11-07T12:30:49.255Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "The migration that transformed Africa's languages, genes, and cultures",
+          "link": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
+          "summary": "Genes and archaeology are revealing how Bantu speakers spread across much of Africa.",
+          "isoDate": "2026-11-07T12:15:55.000Z"
+        },
+        {
+          "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
+          "link": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
+          "summary": "Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed.",
+          "isoDate": "2026-11-07T11:00:34.000Z"
+        },
         {
           "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
@@ -52,18 +64,6 @@
           "link": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
           "summary": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
           "isoDate": "2026-11-06T20:56:41.000Z"
-        },
-        {
-          "title": "Earth's churning mantle may have created the Great Unconformity",
-          "link": "https://arstechnica.com/science/2026/11/earths-churning-mantle-may-have-created-the-great-unconformity/",
-          "summary": "Explaining the Great Unconformity, where Cambrian deposits sit on top of older rocks.",
-          "isoDate": "2026-11-06T20:24:20.000Z"
-        },
-        {
-          "title": "Nvidia hardware worth $11.4M vanished between Oakland and Texas",
-          "link": "https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas/",
-          "summary": "6 pallets of hardware vanished en route to Texas, with no arrests 2 months later.",
-          "isoDate": "2026-11-06T20:05:30.000Z"
         }
       ]
     },
@@ -71,6 +71,12 @@
       "header": "120  CIENCIA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "APOD: 2026 November 7 – De Gerlache-Kocher Massif",
+          "link": "https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/",
+          "summary": "APOD Science APOD APOD: 2026 November 7 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. De Gerlache-Kocher Massif […]",
+          "isoDate": "2026-11-07T05:05:00.000Z"
+        },
         {
           "title": "M30’s Sparkling Stars",
           "link": "https://www.nasa.gov/image-article/m30s-sparkling-stars/",
@@ -124,12 +130,6 @@
           "link": "https://www.nature.com/articles/s41586-026-11233-9",
           "summary": "Nature, Published online: 06 November 2026; doi:10.1038/s41586-026-11233-9\nIn Vivo CRISPR Base Editing of ANGPTL3 for Durable Lipid Lowering",
           "isoDate": "2026-11-06T00:00:00.000Z"
-        },
-        {
-          "title": "These AI agents design your perfect robot-powered lab — and run it for you",
-          "link": "https://www.nature.com/articles/d41586-026-03587-x",
-          "summary": "Nature, Published online: 06 November 2026; doi:10.1038/d41586-026-03587-x\nA team of artificial-intelligence agents simulates a laboratory of robots and instruments to ensure that the physical workspace functions smoothly and then directs that workspace’s operations.",
-          "isoDate": "2026-11-06T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 74\nColumn: 41\nChar: &",
-          "isoDate": "2026-11-07T04:48:33.484Z"
+          "isoDate": "2026-11-07T12:30:45.787Z"
         },
         {
           "title": "Elon Musk appears to signal the end of the road for Cybertruck",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-11-07T04:48:36.680Z"
+          "isoDate": "2026-11-07T12:30:48.517Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 59\nColumn: 58\nChar: =",
-          "isoDate": "2026-11-07T04:48:34.357Z"
+          "isoDate": "2026-11-07T12:30:46.936Z"
         },
         {
           "title": "How Do You Land on a Moon With Almost No Gravity?",
