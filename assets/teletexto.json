@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T21:28:43.039Z",
+  "generatedAt": "2026-11-08T04:39:33.719Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
@@ -72,6 +72,12 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "NASA Awards Moon Base Transportation, Technology, Science Projects",
+          "link": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/",
+          "summary": "NASA announced a suite of awards and mission updates on Saturday to expand the agency’s Moon Base exploration, science, and infrastructure capabilities. The investments will advance commercial robotic deliveries, a nuclear-powered rover named PROMISE, launch and orbital transfer services, and surface infrastructure as the agency works with American industry to establish a sustained presence on […]",
+          "isoDate": "2026-11-07T22:47:03.000Z"
+        },
+        {
           "title": "NASA Seeks Next Generation of Explorers to Join Astronaut Corps",
           "link": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/",
           "summary": "NASA is looking for the explorers who will help write the next chapter of human spaceflight. Applications are now open for the agency’s next class of astronauts, who will join NASA as America returns to the Moon, builds the Moon Base, and lays the groundwork for the first crewed missions to Mars. The next generation […]",
@@ -124,12 +130,6 @@
           "link": "https://www.nature.com/articles/d41586-026-03632-9",
           "summary": "Nature, Published online: 06 November 2026; doi:10.1038/d41586-026-03632-9\nNature staff discuss an acrobatic reptile defence strategy — plus, evidence of fossilized dinosaur blood cells.",
           "isoDate": "2026-11-06T00:00:00.000Z"
-        },
-        {
-          "title": "Preprint platform offers to pay researchers to review papers, but questions remain",
-          "link": "https://www.nature.com/articles/d41586-026-03442-z",
-          "summary": "Nature, Published online: 06 November 2026; doi:10.1038/d41586-026-03442-z\nA reviewer can earn US$200 through XSci’s scheme if they deliver their work within five days.",
-          "isoDate": "2026-11-06T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 74\nColumn: 41\nChar: &",
-          "isoDate": "2026-11-07T21:28:40.301Z"
+          "isoDate": "2026-11-08T04:39:30.573Z"
+        },
+        {
+          "title": "Can the Zelda remake capture the magic of the original?",
+          "link": "https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o?at_medium=RSS&at_campaign=rss",
+          "summary": "Nintendo has released its remake of what is considered one of the best games ever made - the BBC's Tom Gerken gives his verdict.",
+          "isoDate": "2026-11-08T00:37:45.000Z"
         },
         {
           "title": "Elon Musk appears to signal the end of the road for Cybertruck",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
           "summary": "Graduates are spending more time managing AI, but are they missing out on other work experience?",
           "isoDate": "2026-11-04T00:04:35.000Z"
-        },
-        {
-          "title": "Tech Life",
-          "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyt?at_medium=RSS&at_campaign=rss",
-          "summary": "When copyright strikes silence reporters, rail safety & the Lord of the Rings live show.",
-          "isoDate": "2026-11-03T20:30:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-11-07T21:28:42.124Z"
+          "isoDate": "2026-11-08T04:39:32.977Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 59\nColumn: 58\nChar: =",
-          "isoDate": "2026-11-07T21:28:41.103Z"
+          "isoDate": "2026-11-08T04:39:31.633Z"
         },
         {
           "title": "How Do You Land on a Moon With Almost No Gravity?",
@@ -324,12 +324,57 @@
       "maxItems": 120,
       "items": [
         {
-          "title": "RESULTADOS (EN DIRECTO)",
+          "title": "RESULTADOS (ÚLTIMOS)",
           "link": "",
           "summary": ""
         },
         {
-          "title": "VAL  0-2  REA",
+          "title": "VAL  0-3  REA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "OSA  1-1  ATH",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "ESP  0-0  DEP",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "MÁL  1-2  SAN",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "SEV  0-0  ALA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "DEP  2-1  OSA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "ATH  2-1  REA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "ELC  0-1  VAL",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "SAN  0-3  REA",
+          "link": "",
+          "summary": ""
+        },
+        {
+          "title": "GET  3-1  SEV",
           "link": "",
           "summary": ""
         },
@@ -349,7 +394,7 @@
           "summary": ""
         },
         {
-          "title": " 2  REA  12  10  0  2  30  10  20  30",
+          "title": " 2  REA  12  10  0  2  31  10  21  30",
           "link": "",
           "summary": ""
         },
@@ -434,7 +479,7 @@
           "summary": ""
         },
         {
-          "title": "19  VAL  12   2  3  7   8  19 -11   9",
+          "title": "19  VAL  12   2  3  7   8  20 -12   9",
           "link": "",
           "summary": ""
         },
