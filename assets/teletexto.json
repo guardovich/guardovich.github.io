@@ -1,69 +1,69 @@
 {
-  "generatedAt": "2026-11-10T14:23:59.454Z",
+  "generatedAt": "2026-11-10T22:52:35.174Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
         {
-          "title": "Anthropic targets $1.4 trillion IPO",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
-          "summary": "Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations. Its IPO price is expected to be between $70.00 and $78.00 per share and according to the Wall Street Journal's sources, Anthropic is \"aiming for its shares to start trading Thursday or Friday next week.\"\nAs Reuters notes, the Anthropic IPO was previously expected to be valued at as much as $2 trillion. As of last week, Anthropic's rival OpenAI was valued at $1.25 trillion.\nThe initial public offering price is expected to be between $70.00 and $78.00 per share. Anthropic has applied to list its Class A common sto …\n\nRead the full story at The Verge.",
-          "isoDate": "2026-11-10T14:06:54.000Z"
+          "title": "The VR Disney Plus app on Meta Quest now has 3D movies",
+          "link": "https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies",
+          "summary": "Disney is bringing more than 60 3D movies to the Disney Plus app on Meta Quest. The movies will be available to Disney Plus subscribers as part of an updated Disney Plus app that's rolling out today.\nThe 3D movies you can check out include The Avengers and Black Panther, Meta says. But the updated Quest app doesn't just offer 3D movies; you'll also be able to see some films in themed, immersive virtual environments, like a Tatooine environment when watching Star Wars: A New Hope or a Scare Floor one for Monsters, Inc. I got to see an Avengers-themed immersive environment for myself while trying Meta's forthcoming VR Glasses in September, an …\nRead the full story at The Verge.",
+          "isoDate": "2026-11-10T22:00:00.000Z"
         },
         {
-          "title": "Aura’s next color E Ink photo frame is smaller, cheaper, sharper, and more colorful",
-          "link": "https://www.theverge.com/tech/1027926/aura-e-ink-digital-photo-frame-10-inch-price-availability",
-          "summary": "Aura just launched a smaller version of its color E Ink frame with a handful of improvements and a more affordable price. The new Aura Ink frame features a 10-inch E Ink panel that can display more colors at a higher pixel density. It's also differentiated from the original 13-inch model with a black frame and matching mat board that helps photos stand out.\nThe Aura Ink 10 is now available in the US for $349, $150 cheaper than the 13-inch version, which still costs $499. The original Ink's price made it a tough sell over Aura's other frames that are available with an LCD screen as large as 15 inches for $299. The new 10-inch option makes co …\nRead the full story at The Verge.",
-          "isoDate": "2026-11-10T14:00:00.000Z"
+          "title": "Democrats oppose plan to stack FCC with Republicans, plan probes of Chairman Carr",
+          "link": "https://arstechnica.com/tech-policy/2026/11/democrats-oppose-plan-to-stack-fcc-with-republicans-plan-probes-of-chairman-carr/",
+          "summary": "Democrats accuse FCC nominee of evading questions about Carr, her current boss.",
+          "isoDate": "2026-11-10T21:55:26.000Z"
         },
         {
-          "title": "Peak Design’s Roller Lite Carry-On is bigger on the inside — and cheaper, too",
-          "link": "https://www.theverge.com/tech/1030186/peak-design-roller-lite-carry-on-review",
-          "summary": "When we sampled Peak Design's Roller Pro last year, we loved almost everything about the camera gear powerhouse's first attempt at a proper suitcase. Everything, that is, except for the price. Back then, during its crowdfunded launch, the Pro could be had for as little as $425. Today, you're looking at $599.95 for the same roller bag.\nPeak Design has taken that feedback to heart in creating the Roller Lite Carry-On, part of a new series of suitcases that bring many of the Pro's features and design concepts into a hard-sided clamshell design that's more traditional and, crucially, more affordable, starting with the $449.95 Lite Carry-On.\nIt …\nRead the full story at The Verge.",
-          "isoDate": "2026-11-10T14:00:00.000Z"
+          "title": "Oura is acquiring medical AI chatbot startup Counsel Health",
+          "link": "https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition",
+          "summary": "Oura announced its quarterly earnings today and said it agreed to acquire Counsel Health for $625 million, after adding the company's AI chatbot to its app earlier this year. Counsel Health calls itself an \"AI-native primary care company,\" using the app to deliver AI-generated responses and insights based on users' health data reported from their wearables that can then proceed to a conversation with one of its in-house physicians.\nOura says it expects the deal to close before the end of the year.\nOura CEO Tom Hale said in an interview with Bloomberg that the acquisition is part of a plan to connect wearables, clinical AI, and access to do …\nRead the full story at The Verge.",
+          "isoDate": "2026-11-10T21:40:31.000Z"
         },
         {
-          "title": "Adobe is going all in on agentic AI",
-          "link": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
-          "summary": "Adobe is committing itself to the notion that chatbots and AI agents could be your next design assistant, or even automate creative workflows and repetitive tasks on your behalf. Some of the tools and features announced today at Adobe's Max conference in Miami, Florida, include allowing your preferred third-party AI agents to access and change Creative Cloud projects, new capabilities for Adobe's Firefly AI Assistant, and the ability for AI agents to keep perpetually running recurring work in the background.\nLocal Model Context Protocol (MCP) integrations for Creative Cloud tools were previewed at the event, which aim to give you a choice b …\nRead the full story at The Verge.",
-          "isoDate": "2026-11-10T14:00:00.000Z"
+          "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+          "link": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+          "summary": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
+          "isoDate": "2026-11-10T21:12:59.000Z"
         },
         {
-          "title": "Photoshop, Lightroom, and Premiere are making it easier to remove things",
-          "link": "https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates",
-          "summary": "Photoshop’s Quick Compare feature lets you quickly review a before-and-after comparison of edits. | Image: Adobe\t\n\nAdobe is expanding its Creative Cloud apps and Firefly AI platform with new capabilities that aim to make design and editing projects faster and less complicated. Some of the announcements from Adobe's Max event today include features for automatically removing objects, blemishes, and other unwanted distractions in Premiere, Photoshop, and Lightroom, alongside new generative AI tools and collaborative experiences across Adobe's apps and Firefly suite.\nIn Premiere, Adobe is introducing a new Generative Remove tool in beta that lets you erase unwanted objects and distractions like boom mics and background clutter directly on the video editing …\nRead the full story at The Verge.",
-          "isoDate": "2026-11-10T14:00:00.000Z"
+          "title": "Sony cancels live-service shooter Fairgames",
+          "link": "https://www.theverge.com/games/1031242/sony-playstation-fairgames-canceled",
+          "summary": "Sony has canceled Fairgames, a heist game announced in 2023, according to Bloomberg. Fairgames had once been part of Sony's big planned push for PlayStation live service games, but the company ended up canceling some planned live service titles, including in the God of War and The Last of Us franchises, and it shut down Concord shortly after its failed launch.\nThe Fairgames cancellation won't result in job cuts, and developer Haven Studios will now support other PlayStation studios, Bloomberg reports. The game was canceled following a recent test where \"player feedback and retention results were mixed and fell short of the goals we had set, …\nRead the full story at The Verge.",
+          "isoDate": "2026-11-10T21:06:12.000Z"
         },
         {
-          "title": "Amazon turned its Alexa robot into a Ring security patrol bot",
-          "link": "https://www.theverge.com/tech/1030282/amazon-ring-robotics-rover-cam-4k-security-business",
-          "summary": "As part of a new brand called Ring Robotics - designed to take a more proactive approach to security instead of just monitoring - a new rolling mobile security camera was announced by Amazon, called the Ring Rover Cam. It borrows a lot of the design and functionality from the Astro home robot that Amazon first debuted in 2021. The Rover Cam is targeted at businesses in need of an affordable security solution that can patrol and investigate concerns in large facilities, and it comes with a few upgrades.\nAs with Astro, the Rover Cam rolls around on a pair of large wheels that help it navigate small obstacles or uneven terrain. It can be manua …\nRead the full story at The Verge.",
-          "isoDate": "2026-11-10T13:30:00.000Z"
+          "title": "What happens to mathematics when AI becomes an oracle?",
+          "link": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/",
+          "summary": "Mathematician Steven Strogatz discusses his new book, Big Math: The Hidden Codes That Run Our World.",
+          "isoDate": "2026-11-10T20:30:01.000Z"
         },
         {
-          "title": "Hands-on with Ring’s new AI drone camera for your home",
-          "link": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot",
-          "summary": "Ring’s new Drone Cam is a flying indoor security camera.\t\n\nRing is finally shipping a flying indoor drone camera. For real this time. The Ring Drone Cam will arrive on January 27th, 2027, for $249.99, Ring founder Jamie Siminoff said at a launch event in New York City this week. If it does actually ship, it will arrive almost six years after the company announced its first flying camera, the Ring Always Home Cam.\nDesigned to patrol inside your home when you're not there, the Drone Cam is an AI-powered drone that can react to triggers from Ring sensors, such as detecting motion, a door opening, a water leak, or an alarm sounding. When triggered, it flies along preprogrammed routes to a set location, …\nRead the full story at The Verge.",
-          "isoDate": "2026-11-10T13:30:00.000Z"
+          "title": "The PlayStation Plus PC app is shutting down next month",
+          "link": "https://www.theverge.com/games/1031144/sony-playstation-plus-windows-pc-app-shutting-down",
+          "summary": "Sony is retiring the PlayStation Plus app for PC on December 10th. Sony says it will notify users directly about the shutdown. The app allowed PlayStation Plus Premium subscribers to stream certain games on PC, but according to Sony, not many people are using that perk:\nWith a very small number of eligible PlayStation Plus Premium members (less than 0.4%) using the PlayStation Plus app on PC, making this change allows us to focus on enhancing high-quality experiences that more of our members want to use. As a result, the PlayStation Plus cloud streaming app on PC will no longer be available.\nPlayStation Plus Premium subscribers can still …\nRead the full story at The Verge.",
+          "isoDate": "2026-11-10T19:40:52.000Z"
         },
         {
-          "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
-          "link": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
-          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Nancy Pelosi’s replacement is ready to regulate AI —Grace Huckins As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a…",
-          "isoDate": "2026-11-10T13:10:00.000Z"
+          "title": "Google Fi adds support for a second 5G network, won't say which one",
+          "link": "https://arstechnica.com/google/2026/11/google-fi-adds-support-for-a-second-5g-network-wont-say-which-one/",
+          "summary": "Fi has always supported T-Mobile, but the new one? Google won't say.",
+          "isoDate": "2026-11-10T19:35:59.000Z"
         },
         {
-          "title": "Evolving metal extraction processes",
-          "link": "https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/",
-          "summary": "The metals industry has experienced transformational moments before: the Bessemer process, flash smelting, electric arc furnaces, and modern continuous casting all changed what was possible. Yet, for more than a century, most extraction processes rely on techniques and pathways that would be familiar to metallurgists from generations ago. Processes have become larger and control systems…",
-          "isoDate": "2026-11-10T13:00:00.000Z"
+          "title": "Starlink Mini 2 adds a swappable battery",
+          "link": "https://www.theverge.com/tech/1031028/spacex-starlink-mini-2-satellite-internet-terminal-hot-swap-battery",
+          "summary": "SpaceX announced a new version of its all-in-one satellite internet terminal that integrates a dish, Wi-Fi router, and now a battery into a single device about the size of a laptop.  According to some users on X who shared screenshots of invitations to order Starlink Mini 2, the dish is priced at $999, which includes a full year of Roam Unlimited service that SpaceX values at $2,100.\nThe Starlink Mini 2 will run for up to 4.5 hours on a full charge, SpaceX claims, but that can be expanded by hot-swapping in additional batteries that will be sold separately, or by connecting the dish to a 60W power source over USB-C.\nDespite the addition of …\nRead the full story at The Verge.",
+          "isoDate": "2026-11-10T19:19:12.000Z"
         },
         {
-          "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
-          "link": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
-          "summary": "Ukraine competes with Russia and data centers for China’s optical fiber supply.",
-          "isoDate": "2026-11-10T12:15:32.000Z"
+          "title": "The US is winning the AI race. Jensen Huang could have blown it",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+          "summary": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people. He also wears a cool leather jacket.\nWhich makes Huang's admission that he had an affair with a woman suspected of being a Chinese spy - reportedly while her spying was known to US intelligence and even President Donald Trump - all the more shocking. The fallout goes well beyond his marriage, his reputation, or Nvidia itself. Experts tell The Verge the incident threate …\nRead the full story at The Verge.",
+          "isoDate": "2026-11-10T19:04:05.000Z"
         }
       ]
     },
@@ -71,6 +71,30 @@
       "header": "120  CIENCIA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities",
+          "link": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/",
+          "summary": "Launched nearly 50 years ago in 1977, NASA’s Voyager 1 on Wednesday, Nov. 18 will have traveled one light-day from Earth, which is more than 16 billion miles (25.9 billion kilometers). Voyager 1 is the most distant human-made object, and any light from Earth would take 24 hours to reach the spacecraft. NASA will highlight […]",
+          "isoDate": "2026-11-10T19:22:45.000Z"
+        },
+        {
+          "title": "NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston",
+          "link": "https://www.nasa.gov/news-release/nasa-to-welcome-expedition-74-astronauts-home-at-space-center-houston/",
+          "summary": "NASA will welcome home the Expedition 74 crew during a public event at Space Center Houston following their return from a long-duration mission aboard the International Space Station. NASA astronauts Jessica Meir, Jack Hathaway, and Chris Williams; ESA (European Space Agency) astronaut Sophie Adenot; and Roscosmos cosmonauts Sergey Kud‑Sverchkov and Sergei Mikaev will share mission […]",
+          "isoDate": "2026-11-10T18:06:33.000Z"
+        },
+        {
+          "title": "NASA Scientists Show How Gravitational Waves Can Reveal New Worlds",
+          "link": "https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/",
+          "summary": "The LISA (Laser Interferometer Space Antenna) observatory, now in development, will detect gravitational waves, the tiny ripples in space-time caused by orbiting masses. Now two studies led by NASA astrophysicists show in new detail how LISA could reveal a new and unique population of exoplanets — worlds beyond our solar system — throughout our galaxy.  […]",
+          "isoDate": "2026-11-10T16:00:26.000Z"
+        },
+        {
+          "title": "CHAPEA Crew Leaves a Mark",
+          "link": "https://www.nasa.gov/image-article/chapea-crew-leaves-a-mark/",
+          "summary": "The Crew Health and Performance Exploration Analog (CHAPEA) Mission 2 crew arranged photos around a boot print in the simulated Martian sand outside their habitat on Aug. 31, 2026. The crew recently exited their habitat on Saturday, Oct. 31, after 378 days of isolation in a facility at the agency’s Johnson Space Center in Houston. Health […]",
+          "isoDate": "2026-11-10T14:57:55.000Z"
+        },
         {
           "title": "APOD: 2026 November 10 – Saturn Behind the Moon",
           "link": "https://science.nasa.gov/image-article/apod-2026-november-10-saturn-behind-the-moon/",
@@ -106,30 +130,6 @@
           "link": "https://www.nature.com/articles/d41586-026-03278-7",
           "summary": "Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03278-7\nA very well preserved ancient marine reptile and a Latin poem that describes an optical phenomenon, in this week’s pick from the Nature archive.",
           "isoDate": "2026-11-10T00:00:00.000Z"
-        },
-        {
-          "title": "Chile’s postdoc rules risk driving talent away",
-          "link": "https://www.nature.com/articles/d41586-026-03643-6",
-          "summary": "Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03643-6\nChile’s postdoc rules risk driving talent away",
-          "isoDate": "2026-11-10T00:00:00.000Z"
-        },
-        {
-          "title": "Students need AI-free spaces to learn core skills",
-          "link": "https://www.nature.com/articles/d41586-026-03644-5",
-          "summary": "Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03644-5\nStudents need AI-free spaces to learn core skills",
-          "isoDate": "2026-11-10T00:00:00.000Z"
-        },
-        {
-          "title": "Why your physics project needs an anthropologist",
-          "link": "https://www.nature.com/articles/d41586-026-03623-w",
-          "summary": "Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03623-w\nPicking a site for an observatory should be about more than science. Humanities scholars have a crucial role in responsible siting.",
-          "isoDate": "2026-11-10T00:00:00.000Z"
-        },
-        {
-          "title": "How microbes can secure the critical minerals the world needs",
-          "link": "https://www.nature.com/articles/d41586-026-03629-4",
-          "summary": "Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03629-4\nTo sustain supplies of key metals, policymakers should support the infrastructure needed to deploy mining biotechnologies on a large scale.",
-          "isoDate": "2026-11-10T00:00:00.000Z"
         }
       ]
     },
@@ -141,13 +141,31 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 74\nColumn: 41\nChar: &",
-          "isoDate": "2026-11-10T14:23:54.302Z"
+          "isoDate": "2026-11-10T22:52:29.698Z"
         },
         {
-          "title": "Anthropic heads for $1.3 trillion valuation in major stock market listing",
+          "title": "Nvidia hires major US law firm to investigate Jensen Huang affair",
+          "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+          "summary": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
+          "isoDate": "2026-11-10T22:44:57.000Z"
+        },
+        {
+          "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+          "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+          "summary": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
+          "isoDate": "2026-11-10T21:22:36.000Z"
+        },
+        {
+          "title": "Tech Life",
+          "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyv?at_medium=RSS&at_campaign=rss",
+          "summary": "We investigate internet-connected device flaws worldwide, plus US election tech fallout.",
+          "isoDate": "2026-11-10T20:30:00.000Z"
+        },
+        {
+          "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
           "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
-          "summary": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78.",
-          "isoDate": "2026-11-10T14:04:22.000Z"
+          "summary": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78, which is lower than what was expected.",
+          "isoDate": "2026-11-10T17:56:12.000Z"
         },
         {
           "title": "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security",
@@ -168,12 +186,6 @@
           "isoDate": "2026-11-10T05:22:39.000Z"
         },
         {
-          "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-          "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-          "summary": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
-          "isoDate": "2026-11-09T23:51:22.000Z"
-        },
-        {
           "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
           "link": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
           "summary": "Jensen Huang is being investigated by his own company over an extramarital affair with a woman alleged to be a Chinese spy.",
@@ -184,18 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
           "summary": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
           "isoDate": "2026-11-09T19:58:01.000Z"
-        },
-        {
-          "title": "Who is the suspected Chinese spy at centre of the Nvidia investigation?",
-          "link": "https://www.bbc.co.uk/news/videos/c80404zyr53wo?at_medium=RSS&at_campaign=rss",
-          "summary": "Alice Huang, a Chinese businesswoman, had a close relationship with Nvidia boss Jensen Huang, reports say.",
-          "isoDate": "2026-11-09T14:50:35.000Z"
-        },
-        {
-          "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
-          "link": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
-          "summary": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
-          "isoDate": "2026-11-08T15:37:25.000Z"
         }
       ]
     },
@@ -203,6 +203,12 @@
       "header": "160  INTELIGENCIA ARTIFICIAL",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Gemini 4 Carbon is now available",
+          "link": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+          "summary": "",
+          "isoDate": "2026-11-10T16:03:47.000Z"
+        },
         {
           "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
           "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
@@ -216,16 +222,34 @@
           "isoDate": "2026-11-10T12:00:00.000Z"
         },
         {
+          "title": "Introducing Businesses in ChatGPT",
+          "link": "https://openai.com/index/introducing-businesses-chatgpt",
+          "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+          "isoDate": "2026-11-10T10:00:00.000Z"
+        },
+        {
           "title": "Closing the AI guidance gap in education",
           "link": "https://openai.com/index/closing-ai-guidance-gap-education",
           "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
           "isoDate": "2026-11-10T09:00:00.000Z"
         },
         {
+          "title": "Work at the Frontier: AI’s effect on freelance work",
+          "link": "https://openai.com/index/ai-effect-on-freelance-work",
+          "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+          "isoDate": "2026-11-10T07:00:00.000Z"
+        },
+        {
           "title": "MIT-led team receives funding to develop next-generation alternatives to modern weed killers ",
           "link": "https://news.mit.edu/2026/mit-led-team-receives-funding-next-generation-alternatives-modern-weed-killers-1110",
           "summary": "With up to $53 million from ARPA-H, the researchers will use AI to generate safer herbicides that reduce dependence on imports and improve the security of the U.S. food supply.",
           "isoDate": "2026-11-10T05:00:00.000Z"
+        },
+        {
+          "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+          "link": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+          "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+          "isoDate": "2026-11-09T19:51:47.000Z"
         },
         {
           "title": "ChatGPT Enterprise now available in AWS Marketplace",
@@ -238,30 +262,6 @@
           "link": "https://openai.com/index/control-room",
           "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
           "isoDate": "2026-11-09T13:00:00.000Z"
-        },
-        {
-          "title": "CodeRabbit scales agentic software development and ships 20x more",
-          "link": "https://openai.com/index/coderabbit-codex-daybreak",
-          "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
-          "isoDate": "2026-11-09T08:00:00.000Z"
-        },
-        {
-          "title": "Kuken Industries searches 70 years of drawings in minutes",
-          "link": "https://openai.com/index/kuken",
-          "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
-          "isoDate": "2026-11-09T08:00:00.000Z"
-        },
-        {
-          "title": "A single AI model simulates the behavior of many substances, from sliding sand to folding proteins",
-          "link": "https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109",
-          "summary": "By learning how matter moves, the WorldParticle system could assist with developing soft robots, medicines, and more.",
-          "isoDate": "2026-11-09T05:00:00.000Z"
-        },
-        {
-          "title": "AI-assisted learning platform helps robots reason beyond literal commands",
-          "link": "https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109",
-          "summary": "The new approach, known as FLEX, could lead to more intuitive, interactive household and assistive robots.",
-          "isoDate": "2026-11-09T05:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-11-10T14:23:58.722Z"
+          "isoDate": "2026-11-10T22:52:34.008Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 61\nColumn: 58\nChar: =",
-          "isoDate": "2026-11-10T14:23:55.693Z"
+          "isoDate": "2026-11-10T22:52:30.974Z"
+        },
+        {
+          "title": "Speech Processing Pioneer Bishnu Saroop Atal Dies at 93",
+          "link": "https://spectrum.ieee.org/speech-processing-pioneer-in-memoriam",
+          "summary": "Bishnu Saroop Atal\nAcoustics and signal processing pioneer\nLife Fellow, 93; died 19 August\nAtal was an acoustics and signal processing researcher at Bell Labs in Murray Hill, N.J., and later at AT&T’s Shannon Laboratory, in Florham Park, N.J. His pioneering work on voice-coding techniques became the foundation for efficient, high-quality voice transmission over cellular networks. He received the 2013 IEEE Jack S. Kilby Signal Processing Medal for “fundamental and pioneering contributions to speech coding.”\nHe joined Bell Labs in 1961 as a communications researcher, and his early work there focused on speaker identification technology. During the 1960s he helped develop linear predictive coding, a powerful method for analyzing and compressing speech. LPC is now the most widely used method for encoding speech at a low bit rate.\nAtal developed increasingly sophisticated low-bit-rate speech-coding techniques. They included multipulse LPC, which improved the quality of compressed speech.\n  Bishnu Saroop AtalNokia Bell Labs\nHe also worked with his colleague Manfred R. Schroeder to develop code-excited linear prediction, a method for producing high-quality speech at very low bit rates. CELP became a foundational technique in modern speech coding, letting digital communications systems carry voice using less bandwidth. The extra efficiency expanded cellular capacity, allowing wireless networks to handle more simultaneous calls.\nLater in his career, he led the acoustics and speech research departments at Bell.\nThe company named him a Fellow in 1994. When AT&T Bell Laboratories split into separate research organizations in 1996, Atal continued his career at the AT&T Florham Park headquarters, and he was named a Fellow the following year.\nHe retired in 2002 and became an affiliate professor of electrical engineering at the University of Washington, in Seattle. There he continued his research in speech processing, speech recognition, and high-dimensional computing.\nAtal was elected to the National Academy of Engineering in 1987 and the National Academy of Sciences in 1993. He received numerous awards including the 2018 International Speech Communication Association Medal for Scientific Achievement and a 2003 medal from the Franklin Institute.\nHe received a bachelor’s degree in physics in 1952 from the University of Lucknow, in India, and a master’s degree in 1955 in electrical engineering from the Indian Institute of Science, in Bengaluru. While working full time at Bell he earned a Ph.D. in EE in 1968 from the Polytechnic Institute of Brooklyn (now New York University’s Tandon engineering school), in New York City.\nDarryl Palmer Jr.\nChair of the IEEE Central Illinois Section\nSenior member, 55; died 30 August\nPalmer was a dedicated IEEE volunteer, serving as chair of the Central Illinois Section and as the government relations chair of Region 4. He was a member of the IEEE Industrial Electronics Society and its industrial activity committee. He also served as associate editor of the IEEE Transactions on Industrial Informatics.\nIn 1986, at age 16, Palmer completed a summer internship at NASA’s Glenn Research Center, in Cleveland. He helped develop FoilSim, an interactive educational software program that introduces aerodynamic engineering to preuniversity students.\nWhile studying computer science at Cleveland State University in 1996, he joined the university’s Allen-Bradley PLC lab as a research assistant. He designed hardware and software systems for the Glenn Research Center to collect and process thermal wave imaging data. He also designed software for General Motors’ North American robotic and welding division.\nIn 1999 he completed a second internship at the research center and helped develop EngineSim, an educational software program that models jet engine design and testing.\nFor his work, NASA recognized him with a Space Act Award.\nIn 2000 he earned his bachelor’s degree in computer science and became a software engineer at the Danfoss Drives manufacturing facility in Loves Park, Ill. He worked on embedded control systems for variable-frequency drives and high-power equipment. He also developed sensorless control technology for beam pumps used in the oil and gas industry.\nIn 2014 Palmer and his wife, Alexandra “Sasha” Goodwin, founded Janus Choice, a health technology platform that matches hospital patients with post-acute care facilities. He served as its CEO until the company closed in 2020.\nFrom 2018 to 2023, he was a lead software engineer at Adept Coalescence, a startup in Rockford, Ill., focused on developing front-end software for control systems. He then worked in Peoria, Ill., as a control systems team lead at Caterpillar, a manufacturer of construction and mining equipment.\nHenry Leopold Richter\nTelecommunications engineer\nLife senior member, 99; died 12 August\nRichter was a spacecraft engineer at NASA’s Jet Propulsion Laboratory, in Pasadena, Calif., before starting his own public safety communications consultancy.\nHe earned a bachelor’s degree and a Ph.D. at Caltech in 1952 and 1956, respectively. In 1955 he joined JPL as an engineer and supervisor of its new circuit elements group. Later, he was assigned to NASA’s Explorer program as project manager for satellite design, serving as a liaison between the organization’s satellite instrumentation group and its operations and data groups. Since 1958 the program has launched more than 90 missions for physics, geophysics, and astrophysics research.\nAs NASA prepared to launch Explorer 1 in January 1958, Richter worked with the San Gabriel Valley Radio Club in Los Angeles to set up stations across the United States to track the satellite.\nHe eventually was named JPL section chief and was responsible for scientific instruments on the lunar Ranger, Surveyor, and Mariner programs. He also helped develop NASA’s Deep Space Network, an international tracking and communications system.\nRichter left NASA to become vice president and technical director of Xerox Electro-Optical Systems, in Pasadena, Calif.\nIn the mid-1970s, he joined the Los Angeles County Sheriff’s Department as a communications engineer, overseeing the department’s microwave and mobile radio networks.\nHe later ran a telecommunications consulting practice for more than 20 years. His clients included federal, state, and local government agencies, school districts, universities, and organizations. His work covered strategic technology planning and the design and implementation of public safety radio, microwave, CCTV, and paging systems.\nHe wrote several books including America’s Leap Into Space: My Time at JPL and the First Explorer Satellites (2015), a personal account of his experience working on the Explorer 1 and America’s space program.\nIn 2019 the Radio Club of America presented him with its Lifetime Achievement Award for “significant achievements and a major body of work that has advanced the art and science of wireless technology.”\nRaymond L. Giordano\nFormer RCA engineer\nLife member, 91; died 19 July\nGiordano was an electrical engineer who designed integrated circuits and defense electronics at companies including Harris, Intersil, and RCA.\nAfter earning his bachelor’s degree in electrical engineering in 1956 from the Newark College of Engineering (now the New Jersey Institute of Technology), Giordano joined RCA in Moorestown, N.J., as an engineer. He helped develop a video formatter for the company’s missile and surface radar division, and he taught in-house engineering courses, eventually attaining the rank of senior technical staff member.\nLater he developed technologies for General Electric (which acquired RCA in 1986), Intersil, and Harris. He designed the circuitry for Kodak’s Cameo cameras and one of its laser printers.\nGiordano was awarded several patents for his designs including a smoke detector chip for Siemens, a speed control chip for Ford, an engine control system for Delco Remy, and a control component for Chrysler.\nHe earned a master’s degree in EE in 1964 from the University of Pennsylvania, in Philadelphia.\nDelano D. Wilson\nPresident of Power Technologies\nLife Fellow, 92; died 26 May\nWilson was president and CEO of Power Technologies, a consulting firm in Schenectady, N.Y., that specialized in electric power systems.\nHe was a director of R&D at General Electric in Schenectady until he joined Power Technologies in 1974 as a principal engineer. He developed utility systems and software for the company.\nWilson authored six books and 65 technical papers, and he held two patents.\nOutside of his engineering work, he served on the boards of several hospitals, YMCAs, Rotary clubs, and chambers of commerce.\nAfter returning to his hometown of Great Falls, Mont., in 1995, he volunteered as a court-appointed advocate, a trained community volunteer appointed by a judge to represent the interests of children in foster care.\nDaniel I. Amey Jr.\nElectronic packaging engineer\nLife Fellow, 84; died 12 March\nAmey was an electronic packaging engineer, working at several companies including General Dynamics, Sperry Univac, and E.I. du Pont de Nemours (now DuPont). His research interests included connectors, chip packages, and high-frequency materials.\nHe began his career in 1963 as an engineer in the General Dynamics electronics division, where he designed military electronic hardware including analog and digital support equipment for aerospace applications.\nIn 1967 he joined Sperry Univac in Blue Bell, Pa. From 1972 to 1981 he was engineering manager of packaging techniques, responsible for interconnection hardware for small and medium computer systems. His work focused on large-scale integration packages, hybrid circuits, connectors, and printed wiring board processes.\nHe left the company to serve as director of electronics technology at Thomas & Betts of Raritan, N.J. He led research and development of packaging and interconnection products there.\nIn 1986 he became a director of Elco, an electrical component manufacturer in Huntingdon, Pa., where he was responsible for the design and development of connector and packaging hardware.\nIn 1988 he joined E.I. du Pont de Nemours as director of its electronics and communications technology group in Research Triangle Park, N.C. He worked on packaging technology development, high-frequency materials characterization, and applications engineering. He retired from there as a research fellow.\nAmey wrote or cowrote more than 70 technical papers and held more than 14 patents. He developed courses on electronic packaging and printed wiring technology for education companies McGraw-Hill and Cobblestone (formerly the Center for Professional Advancement).\nHe received the International Microelectronics Assembly and Packaging Society’s 2004 Wagnon Technical Achievement Award and the Electronic Industries Association’s 1984 Distinguished Engineering Contribution Award.\nAfter receiving a bachelor’s degree in electrical engineering and a master’s degree in engineering science from Pennsylvania State University, he earned an MBA from Lehigh University, in Bethlehem, Pa.",
+          "isoDate": "2026-11-10T19:00:02.000Z"
         },
         {
           "title": "Catch Electronics Shock and Drop Failures Before Hardware Is Built",
@@ -310,12 +316,6 @@
           "link": "https://spectrum.ieee.org/how-to-get-a-promotion",
           "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Parsity and delivered to your inbox for free!\nHard work rarely speaks for itself.\nWhen I landed my first job as a software engineer, I had a simple plan: Work hard and somebody would notice. Eventually a manager would tap me on the shoulder and hand me a promotion (probably with a nice little speech).\nThat plan stalled my career for about five years.\nI switched jobs twice, kept my head down, read a stack of programming books, and sometimes pulled 12-hour days. I was never promoted. At my third job, out of frustration, I started interviewing at other companies and almost immediately got an offer for a senior engineer role.\nSo I went back to my job and quit. My team was blindsided. I liked my manager and the people I worked with, and they came back with a counteroffer. Then someone from HR asked me, “Why didn’t you just ask us?”\nHonestly, it never occurred to me.\nI took the counteroffer and stayed. Three jobs in, I finally got promoted, and all it took was asking (in the most dramatic way possible).\nToday, I would take a different approach. \nYear-end review discussions are a great time to push for a promotion. But at most companies, raises and promotions are largely settled before the formal review conversation happens. If the year-end review is the first time your manager hears you want a promotion, you’re usually too late. \nNow is a great time to start the conversation.\nHard work is invisible by default\nEngineers tend to believe good work speaks for itself. It rarely does. Your manager is juggling a team, a roadmap, and their own boss. They see a fraction of what you do, and the work they don’t see might as well not exist when raises get decided.\nPerception is reality, so you have to shape it. That means learning to brag a little.\nA “brag document” is a running list of what you accomplished, when, and why it mattered. Add to it every two weeks or once a month, and write each entry so your manager’s manager would understand it.\nEngineers tend to write things like “migrated the billing service.” A better entry reads “migrated the billing service, which cut failed payments by 30 percent and unblocked the Q3 pricing launch.” If there’s no number, name who benefited and how.\nInclude the work people forget to count, too: handling incidents, mentoring new hires, interviewing candidates, and writing the docs everyone else relies on. If you helped your team adopt AI tools this year, write that down. (It counts as leadership, whether or not anyone called it that.)\nThe document does two jobs. It gives you ammunition when you make your case, and it gives your manager something to ctrl + c then ctrl + v when they argue for you in meetings you’ll never attend.\nJust ask\nBragging builds the case. Asking forces action.\nIf your goal is a promotion or a raise, you might ask: “What would it take for me to get to [the next level] in the next year?”\nA good manager will give you an outline that can turn into a plan. Push for specifics until you have deliverables you can work toward, then send a short recap email so the plan exists somewhere besides your manager’s memory. (Managers change jobs too.)\nWhen the answer is “no”\nSometimes the answer will still be “not this year,” and the reason may have nothing to do with you. \nBudgets get frozen, promotion slots get capped, and decisions get made above your manager’s head where even a manager who wants to help can’t.\nDon’t read too much into that. But be honest with yourself, too. Most of the time, a no means there’s something you aren’t doing yet. Find out what it is instead of guessing for five years like I did.\nAsking costs you one slightly awkward conversation. Sitting back and waiting to be noticed can cost you years.\n—Brian\nI Used AI to Fake a Scientific Paper. Here’s What Happened\nDon’t try this at home: To better understand the risk AI slop poses to scientific publishing today, IEEE Spectrum contributor Benjamin Skuse put IEEE’s research integrity checks to the test by submitting two entirely AI-generated papers. “Science has a spam problem. And the spam filter is getting clogged up…”\nRead more here. \nWhy Engineers Should Brave Capitol Hill\nPolicy change doesn’t just come down to paid lobbyists—lawmakers want to hear from working experts, too. One engineer shares what he learned from his first two visits to Capitol Hill. \nRead more here. \nCommunity Colleges Put New Workers Into Semiconductor Jobs Fast\nCould community colleges help fill the coming talent shortage in the U.S. semiconductor industry? Alternatives to four-year university degrees are a promising option for the technicians who will be needed to run new fabs. \nRead more here.",
           "isoDate": "2026-11-05T16:08:03.000Z"
-        },
-        {
-          "title": "Why a Mathematician Is Chasing Eclipses With Algorithms and Cameras",
-          "link": "https://spectrum.ieee.org/2026-solar-eclipse",
-          "summary": "The sun hangs low over the plains of Castile and León, in the north-central region of Spain. But from a slope of the mountain Pico Trigaza, it appears that a few puffy white clouds have started to block the sun. That’s vexing.\n\nA group of researchers, some wearing cardboard eclipse glasses, is clustered around sets of portable telescopes and cameras connected to laptops. All this gear is scattered on tabletops perched on the mountainside. On the computer screens, the sun’s disk looks like a deep orange crescent that is slowly waning. That’s because the moon began to crawl across it about half an hour ago. In 25 minutes, it will obscure the sun completely, producing an eerie and wondrous phenomenon—a total solar eclipse.\nIn the late-summer, late-afternoon heat, the researchers watch anxiously as those fluffy clouds linger around the sun. From an abandoned hut on the slope a few meters above, where the researchers have set up camp, one of the grad students emerges and nods toward the cloud formation. “Do you think it will dissolve?” he blurts out.\n“It will.” Miloslav Druckmüller glances calmly at his group of doctoral candidates, now making final checks of the equipment in preparation for totality. Here in Spain, on this 12th day of August, Druckmüller is getting ready for his 19th solar eclipse. He knows from long experience that weather can turn quickly when the moon’s shadow suddenly pushes the temperature down. Plus, there’s no sense in riling up the grad students any more than they already are.\n Miloslav Druckmüller led the design and construction of a unique optical instrument that incorporates eight astrocameras. Each is equipped with a spectral filter for sensing and recording specific emission spectra from the solar corona. Each of those spectra, in turn, is associated with a particular ionic species of iron atoms. Because the temperature needed to ionize iron varies depending on the ionic species, analyzing the locations and relative abundance of these ionic species offers valuable insights into the distribution of heat in the corona.Václav Široký\nDuring totality, the moon blocks the overwhelming glare of the solar disk, revealing delicate structures in the sun’s outer atmosphere, the corona. Using custom-built telescope systems and image-processing techniques that Druckmüller has spent decades developing, the researchers aim to gain insights into the processes in this enigmatic region that is otherwise hard to study. In addition to imaging the visible coronal light, the team will try to track the dispersal of superhot ions of iron into interplanetary space, which could give rare insights into the pattern of heat emanating from the corona.\nAnd they’ll have 107 seconds to do all that.\nA Mathematician’s Path to Solar Eclipse Photography\nDruckmüller is a professor of mathematics and image processing at the Brno University of Technology in the Czech Republic and a leading figure in the Solar Wind Sherpas, an international team that studies the sun’s corona during total eclipses. In the solar eclipse world, he is nothing short of a legend, albeit a reluctant one.\n\n\nAn image from Miloslav Druckmüller’s first solar-eclipse expedition, to Hungary, vividly shows Baily’s Beads. These elongated white lights along a piece of the left edge of the blacked-out solar disk are caused by beams of sunlight shining through gaps in the irregular lunar surface during the eclipse. The pink shapes are solar prominences, which are jets of plasma extending out into space and held in place by the sun’s intense magnetic field.\nMiloslav Druckmüller\n\n\nHe photographed his first solar eclipse in 1999, in what he thought would be a one-off lark. During that eclipse, the moon’s deep shadow missed Druckmüller’s native Czechia by just a few tens of kilometers, so he chased it to Hungary with a 30-year-old Soviet MTO 1,000-millimeter lens. All he remembers from that day is the rush of adrenaline he felt while trying to find the sun in the sky with the lens’s minuscule field of view and keep it in focus for the two minutes of the eclipse.\nHe insists that he has never enjoyed any of the eclipses he has photographed. “In fact, I have never properly seen any of those eclipses. You are just watching the screens, making sure that it’s all doing what it’s supposed to do. There are so many things that can go wrong and you can’t redo it.”\n\n\nA composite sequence of photographs shows the 12 August 2026 solar eclipse as seen from a slope of the mountain Pico Trigaza in Spain.\nVáclav Široký and Miloslav Druckmüller\n\n\nDespite Druckmüller’s outward tranquility on this Spanish hillside, the stakes are high. Just 45 minutes ago, his group heard from their colleagues in Iceland, where viewing conditions had promised to be better than in Spain. But a vast low-pressure system had clouded the entire sky, leaving all three Iceland teams without a view.\nWhat Solar Eclipses Reveal About the Corona\n\n\n\nThe corona has been a mystery for centuries. Though dimmer—by a factor of a million—than the sun’s visible surface, the corona is nevertheless extremely hot: about a million degrees Celsius compared to 5,500 degrees on the surface. Because the sun’s nuclear fusion engine churns at the star’s heart, it might seem that temperatures should fall farther from the core.\nTo observe the faint corona in visible light, researchers must block the sun’s ferocious glare. Specialized telescopes called coronagraphs do this with an opaque disk called an occulter. But because light bends around the occulter’s edges in an effect called diffraction, it must block an area much larger than that of the solar disk to prevent light from spilling over and ruining the images. But doing so means obstructing the inner part of the corona, which harbors the most important processes that underpin the puzzling phenomena of the sun’s upper atmosphere.\nThat’s why total eclipses matter so much to solar physicists. By sheer chance, the moon is exactly the right size and at just the right distance to completely cover the sun during a total solar eclipse. Because the moon is so far away from Earth, the view is not marred by diffraction, and the corona reveals itself nearly all the way down to the sun’s surface.\n\n\n\nSpace probes can image the solar surface in other wavelengths, but those views have limitations, too. Spacecraft such as NASA’s Solar Dynamics Observatory do see the innermost parts of the corona in extreme ultraviolet light, explains Shadia Habbal, a solar physicist at the University of Hawaii and leader of the Solar Wind Sherpas project. “But it cuts off very quickly, so you don’t see its extension into space as well as we can see it in the visible emission lines” during an eclipse. “That’s the biggest advantage,” she says, of solar eclipse photography.\nThe European Proba-3 mission, launched in 2024, simulates total solar eclipses by flying two spacecraft in a formation 150 meters apart with one acting as an occulter and the other as the telescope. The instruments aboard that satellite, however, have limitations compared to the equipment used by the Solar Wind Sherpas team.\nHow Eclipse Images Sparked a Scientific Partnership\nWhen Druckmüller developed the film from his 1999 eclipse expedition, the photographs didn’t do justice to the event’s eerie beauty. He spent countless evenings applying his expertise in numerical image processing in an attempt to re-create in his photographs the sights he witnessed in that Hungarian corn field.\nIt took two years, but eventually he succeeded. Where before there were dull views of the blackened lunar disk surrounded by the blunt wisps of the corona, Druckmüller revealed the subtlest details of the magnetic field lines stretching from the sun far into space. As his photographs circulated among solar physicists, invitations to eclipse expeditions began to arrive.\n\n\n\nHabbal learned about the images from a Ph.D. student who had seen them at a conference presentation that didn’t credit Druckmüller. When Habbal’s team later published the images in a paper, they misattributed them to another researcher. Druckmüller found out through an astrophysicist friend. “I wrote her a rather disappointed email and she responded within 10 minutes,” Druckmüller recalls. “She really didn’t have a clue.”\nThe error was corrected, and within weeks, Habbal and Druckmüller began a collaboration that grew into a friendship. “Milos’s processing brings out details that nobody has seen before, and they tell you a lot about very tiny features in the corona that you don’t see otherwise,” says Habbal.\nHow Image Processing Reveals the Solar Corona\nCapturing the corona’s delicate structures means finding a way to show its brightest and faintest features in the same image. “During the solar eclipse, the contrast between the darkest and brightest parts of the corona is enormous, possibly one to a million,” Druckmüller explains. “But a computer monitor only allows you to display a contrast ratio of one to about 800.” (Some modern monitors, particularly OLED ones, can deliver higher contrast ratios.)\nThe human eye can adjust to this enormous range of brightness, allowing an observer to see both the bright corona and the faint stars and planets that briefly emerge in the darkened sky. To bring those details together in a photograph, Druckmüller uses custom image-processing algorithms to combine exposures that capture different parts of that range.\n\n\nResearchers Martin Šebek and Peter Urgoš make fine adjustments to the focus and alignment of the astrocameras on a key optical instrument before the 12 August solar eclipse.\nVáclav Široký\n\n\nTo create a single image, Druckmüller’s teams need to take 200 individual frames during the eclipse at exposure times ranging from 0.001 second to two seconds. The data must then be calibrated against a vast number of reference images to filter out noise and imperfections. Flat fields, which depict a uniform light background, help correct for defects caused by telescope optics, dust spots, and variations in pixel sensitivity. Dark frames, taken with light blocked from the sensor, help correct for artifacts created by the camera’s image sensor itself. “It takes the computer more than two days to process one image,” Druckmüller says. Including the calibration data, a single finished image requires about 3,000 input frames.\nChoosing a Location for Solar Eclipse Photography\nSince 2008, teams directed by Habbal and Druckmüller have traveled to every total solar eclipse, spreading out across multiple locations to hedge against bad weather. About half of the teams return with usable data. For the others, it’s just a short and stressful voyage. For the 12 August eclipse, three groups deployed to Iceland and two to Spain.\nThe teams seek sites close to the center of the band of totality, where the moon blocks the sun for longest. In Spain, the 12 August band of totality cut across the north of the country; the center line of the shadow passed within 11 kilometers of Pico Trigaza, promising Druckmüller and his colleagues a precious 107 seconds of totality.\nBut duration is only part of the calculation. Totality on Pico Trigaza will commence 51 minutes before sunset, with the sun just 8 degrees above the horizon. That low, the rays must pass through a much thicker layer of the atmosphere than when the sun is higher in the sky, increasing the light distortion that complicates photography. At the researchers’ camp on Pico Trigaza, 1,600 meters above sea level, the thinner air should help a bit.\n\n\nAn abandoned hut on the mountain Pico Trigaza in Spain was spruced up so that it could serve as a home base for the research team recording the 12 August solar eclipse.\nMartin Šebek\n“Iceland would have been a much better place for us than Spain because the sun was higher up, some 25 degrees above the horizon,” Druckmüller says wistfully. But Iceland’s notoriously unpredictable weather made Spain an essential backup.\n If you pack a van with thousands of dollars’ worth of cameras and optical gear and then set out on a 2,351-kilometer journey, you shouldn’t be surprised if you finish the trip with a few striking photographs [top]. The sleeping arrangements for the grad students at the Pico Trigaza hut [bottom] were spartan, but the views were first-rate.Top: Martin Šebek; Bottom: Václav Široký\nOn the mountain, locals have spruced up a rustic, long-unused hut for the researchers, running power cables from a nearby telecommunication outpost and bringing in a water tank. Five Ph.D. students drove more than 2,000 kilometers from Brno and have spent nearly a week preparing the equipment. Druckmüller and his wife joined them two days before the eclipse. They cook on a small propane grill and sleep in sleeping bags on yoga mats. “We have plenty of space here to set up our telescopes, beautiful views, and a roof over our heads,” Druckmüller says with a grin. “It’s perfect.”\nBut even the best equipment and a carefully chosen site count for nothing if the clouds roll in. “So much work goes into the preparations and then, if you end up with nothing, you just feel terrible sadness,” says Jana Hoderová, an assistant professor of mathematics at Brno University of Technology and one of Druckmüller’s key collaborators.\nAs the moon continues to slide in front of the solar disk, the pesky cumulus cloud that kept everybody on edge begins to dissolve. It’s 10 minutes to totality. The relief is palpable.\nMapping the Solar Corona’s Temperature With Iron \nThe countdown on the computers that control the cameras has begun. The screens are now showing only a tiny orange sliver, and the evening is becoming perceptibly less bright.\nTwenty astrophotography cameras, most of them drawing power from a car battery that was also buffering the cameras from any grid instabilities, are pointed at the sun. Alongside equipment capturing the corona’s visible light, the team has built an assembly of eight cameras to detect light emitted by various iron ions that arise in the corona.\n Among the optical gear assembled at Pico Trigaza to capture the 12 August solar eclipse was a unique instrument designed to record the distributions of iron ions in the corona [at left]. Václav Široký\nThose instruments looking for iron ions have been put together with resourcefulness and thrift. A colleague of Druckmüller’s laser-cut the aluminum plates holding the carefully aligned lenses in exchange “for two bottles of whisky.” The brackets and attachments were 3D-printed at Brno University of Technology. The lenses, produced for the defunct camera maker Contax, were bought at steep discounts on eBay. By far the most expensive elements are interference filters that isolate the wavelengths emitted by the iron ions.\nAround the blackened solar disk rises the magnificent golden halo of the corona. In the hush on the mountainside, it seems that even the birds have gone still.\n“That’s something nobody else in the world can do,” Druckmüller says with visible satisfaction. The unique technology, codeveloped with Habbal’s Hawaii team, has already enabled researchers to map the distribution of temperatures across the entire corona and to discover previously unseen structures, dubbed “smoke rings,” in the coronal plasma. The photographs also revealed the boundary region where the solar plasma becomes so thin that its ions stop colliding.\n The optical assembly designed to record the distributions of iron ions in the corona is outfitted with astrocameras, each of which captures spectra from a different ionic species. To do that, each astrocamera is equipped with a spectral filter whose bandwidth is so narrow—one nanometer—that the filter appears as a mirror.Martin Fornůsek\n“Iron is the most abundant of the heavy elements that we see in the solar corona,” says Habbal. “And because the corona is so hot, the iron atoms lose electrons and get ionized. The larger the loss, the higher the temperature.”\nFor example, a temperature of around 1.6 million °C is necessary to produce an iron ion that has lost 12 electrons. But only 1.4 million °C is needed to strip an iron atom of 11 electrons. Once it’s in a particular electrical state, the ion retains its specific ionization, even as it travels outward with the solar wind. Each of those ions, whether +11 or +12, emits a different wavelength of light, allowing the researchers to map not just temperatures within the corona, but also how those iron ions spread into interplanetary space and distribute heat. Habbal and her colleagues had long been trying to image those iron ions during solar eclipses. But it wasn’t until Druckmüller entered the picture that they were able to develop the gear and the mathematical techniques to do it.\nThree, Two, One…Totality\nWith just a minute to go to totality, the researchers begin removing protective filters from the lenses. It’s 50 minutes to sunset, and the waning sun has just begun to light up the clouds above the horizon with the first tinge of orange. Then, suddenly, the evening begins a rapid and premature descent into darkness. Along the edge of the fantastically thin solar crescent, the brilliant orange points known as Baily’s Beads flash and disappear—the last fragments of photospheric light visible through deep lunar valleys. As totality begins, observers remove their glasses. The hot air cools. The graduate students remain quietly and intently focused on their gear.\nDruckmüller looks up from his camera toward the darkened plains. Around the blackened solar disk rises the magnificent golden halo of the corona. In the hush on the mountainside, it seems that even the birds have gone still. The sky is ablaze with fiery colors all along the horizon where the deep lunar shadow drops off. Venus burns brilliantly in the southwest, a sharp white pinpoint in the darkened sky. The sound of camera shutters suddenly fills the air. Then, as quickly as it fell, the darkness begins to recede, bid farewell with another handful of golden Baily’s Beads.\nThe crowd erupts in cheers. The Ph.D. students throw themselves at each other and hug like they mean it.\n“The students did most of the work this time, so I actually allowed myself to really look at it,” Druckmüller says. “It was beautiful. Pico Trigaza may not have been the best for science photography, but from the aesthetic point of view, it was extraordinary.”\n  The 2026 solar-eclipse team at Pico Trigaza in Spain included [from left] Magdalena Šrotířová, Peter Urgoš, Martin Fornůsek, Miloslav Druckmüller, Václav Široký, and Martin Šebek.Václav Široký\nBut for Druckmüller, this is just the beginning. While other eclipse chasers will race to release their images, he will take his time. He expects to publish the first visible-light images of the corona in about two weeks. Processing the iron-ion images, and uncovering whatever insights they may hold, will take months—maybe even a whole year.\n“Probably until the next eclipse in 2027” in North Africa, Druckmüller says.\nWho knows? Maybe he’ll even enjoy that one, too.",
-          "isoDate": "2026-11-05T14:00:02.000Z"
         }
       ]
     },
