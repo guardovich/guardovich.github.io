@@ -1,10 +1,46 @@
 {
-  "generatedAt": "2026-11-11T04:52:15.609Z",
+  "generatedAt": "2026-11-11T13:37:56.260Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Streaming is still trying to be TikTok",
+          "link": "https://www.theverge.com/streaming/1030864/streaming-skydance-paramount-disney-hulu-earnings-tiktok-short-form-video",
+          "summary": "At Skydance's first employee town hall after it acquired Warner Bros. Discovery in October, CEO David Ellison told staff that the company behind Paramount Plus and HBO Max was competing for people's attention with some of the world's biggest tech companies. Months earlier, he'd singled out a way to get viewers to spend more time with Paramount's programming. A feed of short vertical videos, he said, was \"critical to our future.\"\nOn Skydance's earnings call Monday, Ellison put a name to the competition. Add up all of Paramount's and Warner Bros. Discovery's broadcast, cable, and streaming properties, he said, and they still trail YouTube in  …\nRead the full story at The Verge.",
+          "isoDate": "2026-11-11T13:30:00.000Z"
+        },
+        {
+          "title": "The Download: preserving minds and weighing open AI risks",
+          "link": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Six wild ideas for perpetuating your mind As we age, we forget most of what we’ve experienced, yet there’s still undeniable continuity: At 30, or 50, or 70, you will still…",
+          "isoDate": "2026-11-11T13:10:00.000Z"
+        },
+        {
+          "title": "I asked every TV manufacturer 17 questions about how they spy on you",
+          "link": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
+          "summary": "Every TV company is spying on you, not just LG. Like other tech companies, they collect lots of information, and while some is necessary for products to work, not all of it is - and could include details you'd prefer to keep private. Many customers are concerned about how TVs and streaming devices might be spying: listening to what you say, taking screenshots of everything you watch, storing sensitive information on your TV, and sharing your data with the cloud.\nTo find out what TV and streaming device companies are doing, I decided to ask every one to explain itself. I put together 17 yes-or-no questions, like \"Do your TVs store any record …\nRead the full story at The Verge.",
+          "isoDate": "2026-11-11T13:00:00.000Z"
+        },
+        {
+          "title": "Not everyone is loving their new iPhone Duo",
+          "link": "https://www.theverge.com/tech/1030398/iphone-duo-returns-screen-apps",
+          "summary": "An open-and-shut case.\t\n\nFor most new relationships, two weeks probably isn't enough time to decide if you're ready for long-term commitment. But two weeks with a new phone? You probably know. The iPhone Duo launched just over two weeks ago, and that's been enough time for a subset of day-one buyers who aren't loving the phone to make a decision: It's time to end things. Also, they wanted their $2,000 back.\nThis is to be expected, to an extent; the Duo just isn't a phone for everyone. It's an early adopter device - we called it \"a messy, expensive good time\" - and on top of that, the hinge appears to be suffering some first-gen growing pains. Despite all that, Appl …\nRead the full story at The Verge.",
+          "isoDate": "2026-11-11T13:00:00.000Z"
+        },
+        {
+          "title": "Serve Robotics wants to democratize sidewalk delivery robots",
+          "link": "https://www.theverge.com/transportation/1030902/serve-robotics-open-developer-api-sidewalk-delivery",
+          "summary": "A delivery robot rolls down a pedestrian walkway in Miami. | Photo: Universal Images Group via Getty Images\t\n\nServe Robotics is opening up its platform to make its autonomous last-mile delivery robots available to anyone who wants to use them. The company is launching a new AV Delivery Developer Portal, enabling third-party software engineers, independent businesses, and even autonomous AI agents to access its fleet of 2,000 sidewalk robots.\nWith this new capability, third-party developers and interested small businesses can use Serve's software tools to dispatch robots directly without relying on major food delivery companies, like Uber Eats. Now, anyone who lives in one of the 150 neighborhoods where the company currently operates can employ a si …\nRead the full story at The Verge.",
+          "isoDate": "2026-11-11T12:30:00.000Z"
+        },
+        {
+          "title": "Apple is killing its Support Community forum next week",
+          "link": "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down",
+          "summary": "It's the end of the road for the Apple Support Community. The dedicated discussion forum, which gave Apple users a place to exchange advice, troubleshoot, and generally chat about Apple products, has been placed into read-only mode, with a message from the company announcing that the Support Community will shut down for good on November 20th.\nHere's the full banner notice that's currently displayed on the website:\n\"The Apple Support Community will permanently close on November 20, 2026. Starting today, the site will no longer accept new posts and is available in a read-only state. You can continue to find trusted guidance and support on t …\n\nRead the full story at The Verge.",
+          "isoDate": "2026-11-11T12:19:10.000Z"
+        },
         {
           "title": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
           "link": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling",
@@ -28,42 +64,6 @@
           "link": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
           "summary": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
           "isoDate": "2026-11-10T22:35:01.000Z"
-        },
-        {
-          "title": "The VR Disney Plus app on Meta Quest now has 3D movies",
-          "link": "https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies",
-          "summary": "Disney is bringing more than 60 3D movies to the Disney Plus app on Meta Quest. The movies will be available to Disney Plus subscribers as part of an updated Disney Plus app that's rolling out today.\nThe 3D movies you can check out include The Avengers and Black Panther, Meta says. But the updated Quest app doesn't just offer 3D movies; you'll also be able to see some films in themed, immersive virtual environments, like a Tatooine environment when watching Star Wars: A New Hope or a Scare Floor one for Monsters, Inc. I got to see an Avengers-themed immersive environment for myself while trying Meta's forthcoming VR Glasses in September, an …\nRead the full story at The Verge.",
-          "isoDate": "2026-11-10T22:00:00.000Z"
-        },
-        {
-          "title": "Democrats oppose plan to stack FCC with Republicans, plan probes of Chairman Carr",
-          "link": "https://arstechnica.com/tech-policy/2026/11/democrats-oppose-plan-to-stack-fcc-with-republicans-plan-probes-of-chairman-carr/",
-          "summary": "Democrats accuse FCC nominee of evading questions about Carr, her current boss.",
-          "isoDate": "2026-11-10T21:55:26.000Z"
-        },
-        {
-          "title": "Oura is acquiring medical AI chatbot startup Counsel Health",
-          "link": "https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition",
-          "summary": "Oura announced its quarterly earnings today and said it agreed to acquire Counsel Health for $625 million, after adding the company's AI chatbot to its app earlier this year. Counsel Health calls itself an \"AI-native primary care company,\" using the app to deliver AI-generated responses and insights based on users' health data reported from their wearables that can then proceed to a conversation with one of its in-house physicians.\nOura says it expects the deal to close before the end of the year.\nOura CEO Tom Hale said in an interview with Bloomberg that the acquisition is part of a plan to connect wearables, clinical AI, and access to do …\nRead the full story at The Verge.",
-          "isoDate": "2026-11-10T21:40:31.000Z"
-        },
-        {
-          "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
-          "link": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
-          "summary": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
-          "isoDate": "2026-11-10T21:12:59.000Z"
-        },
-        {
-          "title": "Sony cancels live-service shooter Fairgames",
-          "link": "https://www.theverge.com/games/1031242/sony-playstation-fairgames-canceled",
-          "summary": "Sony has canceled Fairgames, a heist game announced in 2023, according to Bloomberg. Fairgames had once been part of Sony's big planned push for PlayStation live service games, but the company ended up canceling some planned live service titles, including in the God of War and The Last of Us franchises, and it shut down Concord shortly after its failed launch.\nThe Fairgames cancellation won't result in job cuts, and developer Haven Studios will now support other PlayStation studios, Bloomberg reports. The game was canceled following a recent test where \"player feedback and retention results were mixed and fell short of the goals we had set, …\nRead the full story at The Verge.",
-          "isoDate": "2026-11-10T21:06:12.000Z"
-        },
-        {
-          "title": "What happens to mathematics when AI becomes an oracle?",
-          "link": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/",
-          "summary": "Mathematician Steven Strogatz discusses his new book, Big Math: The Hidden Codes That Run Our World.",
-          "isoDate": "2026-11-10T20:30:01.000Z"
         }
       ]
     },
@@ -72,64 +72,64 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "ERROR cargando feed",
-          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
-          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
-          "isoDate": "2026-11-11T04:52:11.555Z"
+          "title": "APOD: 2026 November 11 – NGC 4449: Small Galaxy, Big Impact",
+          "link": "https://science.nasa.gov/image-article/apod-2026-november-11-ngc-4449-small-galaxy-big-impact/",
+          "summary": "APOD Science APOD APOD: 2026 November 11 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. NGC 4449: […]",
+          "isoDate": "2026-11-11T05:05:00.000Z"
         },
         {
-          "title": "PhD funding mechanisms should protect the right to disagree with supervisors",
-          "link": "https://www.nature.com/articles/d41586-026-03645-4",
-          "summary": "Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03645-4\nPhD funding mechanisms should protect the right to disagree with supervisors",
-          "isoDate": "2026-11-10T00:00:00.000Z"
+          "title": "Water Surges Into Navajo Reservoir",
+          "link": "https://science.nasa.gov/earth/earth-observatory/water-surges-into-navajo-reservoir/",
+          "summary": "Rounds of heavy rain in the U.S. Southwest flooded rivers and rapidly raised New Mexico’s second-largest reservoir.",
+          "isoDate": "2026-11-11T05:01:00.000Z"
         },
         {
-          "title": "A practically perfect plesiosaur",
-          "link": "https://www.nature.com/articles/d41586-026-03278-7",
-          "summary": "Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03278-7\nA very well preserved ancient marine reptile and a Latin poem that describes an optical phenomenon, in this week’s pick from the Nature archive.",
-          "isoDate": "2026-11-10T00:00:00.000Z"
+          "title": "How to avoid aliens and live",
+          "link": "https://www.nature.com/articles/d41586-026-03515-z",
+          "summary": "Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03515-z\nSilence is golden.",
+          "isoDate": "2026-11-11T00:00:00.000Z"
         },
         {
-          "title": "Chile’s postdoc rules risk driving talent away",
-          "link": "https://www.nature.com/articles/d41586-026-03643-6",
-          "summary": "Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03643-6\nChile’s postdoc rules risk driving talent away",
-          "isoDate": "2026-11-10T00:00:00.000Z"
+          "title": "Biotech innovations are an opportunity to limit climate change",
+          "link": "https://www.nature.com/articles/d41586-026-03621-y",
+          "summary": "Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03621-y\nAgricultural biotechnology once found itself in opposition to environmental science. Now it could reduce the impact of food systems on global warming and biodiversity loss.",
+          "isoDate": "2026-11-11T00:00:00.000Z"
         },
         {
-          "title": "Students need AI-free spaces to learn core skills",
-          "link": "https://www.nature.com/articles/d41586-026-03644-5",
-          "summary": "Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03644-5\nStudents need AI-free spaces to learn core skills",
-          "isoDate": "2026-11-10T00:00:00.000Z"
+          "title": "Hideki Shirakawa obituary: chemist who showed that plastics can conduct electricity",
+          "link": "https://www.nature.com/articles/d41586-026-03633-8",
+          "summary": "Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03633-8\nNobel prizewinner’s accidental discovery led to new forms of materials, light-emitting diodes and solar cells.",
+          "isoDate": "2026-11-11T00:00:00.000Z"
         },
         {
-          "title": "Why your physics project needs an anthropologist",
-          "link": "https://www.nature.com/articles/d41586-026-03623-w",
-          "summary": "Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03623-w\nPicking a site for an observatory should be about more than science. Humanities scholars have a crucial role in responsible siting.",
-          "isoDate": "2026-11-10T00:00:00.000Z"
+          "title": "Retractions of old papers are on the rise: when should bad science be culled?",
+          "link": "https://www.nature.com/articles/d41586-026-03624-9",
+          "summary": "Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03624-9\nDecades-old papers are increasingly being pulled from the literature, bringing a host of challenges.",
+          "isoDate": "2026-11-11T00:00:00.000Z"
         },
         {
-          "title": "California votes to give record $8.4 billion to medical research",
-          "link": "https://www.nature.com/articles/d41586-026-03635-6",
-          "summary": "Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03635-6\nThe cash infusion, earmarked for immunology studies, is the largest ever for science authorized by a US public vote — but it has drawn criticism.",
-          "isoDate": "2026-11-10T00:00:00.000Z"
+          "title": "Author or just ‘acknowledged’? How women are not gaining full credit for research",
+          "link": "https://www.nature.com/articles/d41586-026-03448-7",
+          "summary": "Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03448-7\nAn analysis of who is more likely to get authorship than acknowledgement highlights the influence of a researcher’s gender and status.",
+          "isoDate": "2026-11-11T00:00:00.000Z"
         },
         {
-          "title": "How microbes can secure the critical minerals the world needs",
-          "link": "https://www.nature.com/articles/d41586-026-03629-4",
-          "summary": "Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03629-4\nTo sustain supplies of key metals, policymakers should support the infrastructure needed to deploy mining biotechnologies on a large scale.",
-          "isoDate": "2026-11-10T00:00:00.000Z"
+          "title": "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities",
+          "link": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/",
+          "summary": "Launched nearly 50 years ago in 1977, NASA’s Voyager 1 on Wednesday, Nov. 18 will have traveled one light-day from Earth, which is more than 16 billion miles (25.9 billion kilometers). Voyager 1 is the most distant human-made object, and any light from Earth would take 24 hours to reach the spacecraft. NASA will highlight […]",
+          "isoDate": "2026-11-10T19:22:45.000Z"
         },
         {
-          "title": "Mongolia’s iconic grasslands are in crisis — invisible fungi could help save them",
-          "link": "https://www.nature.com/articles/d41586-026-03589-9",
-          "summary": "Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03589-9\nClues suggest that underground fungal networks might be key to reviving degraded land and preserving plant biodiversity.",
-          "isoDate": "2026-11-10T00:00:00.000Z"
+          "title": "NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston",
+          "link": "https://www.nasa.gov/news-release/nasa-to-welcome-expedition-74-astronauts-home-at-space-center-houston/",
+          "summary": "NASA will welcome home the Expedition 74 crew during a public event at Space Center Houston following their return from a long-duration mission aboard the International Space Station. NASA astronauts Jessica Meir, Jack Hathaway, and Chris Williams; ESA (European Space Agency) astronaut Sophie Adenot; and Roscosmos cosmonauts Sergey Kud‑Sverchkov and Sergei Mikaev will share mission […]",
+          "isoDate": "2026-11-10T18:06:33.000Z"
         },
         {
-          "title": "PhDs worldwide are having a shake up — why now?",
-          "link": "https://www.nature.com/articles/d41586-026-03017-y",
-          "summary": "Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03017-y\nGovernment-supported initiatives around the globe aim to change the PhD, with the goal of providing fresh talent to the private sector.",
-          "isoDate": "2026-11-10T00:00:00.000Z"
+          "title": "NASA Scientists Show How Gravitational Waves Can Reveal New Worlds",
+          "link": "https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/",
+          "summary": "The LISA (Laser Interferometer Space Antenna) observatory, now in development, will detect gravitational waves, the tiny ripples in space-time caused by orbiting masses. Now two studies led by NASA astrophysicists show in new detail how LISA could reveal a new and unique population of exoplanets — worlds beyond our solar system — throughout our galaxy.  […]",
+          "isoDate": "2026-11-10T16:00:26.000Z"
         }
       ]
     },
@@ -141,7 +141,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 74\nColumn: 41\nChar: &",
-          "isoDate": "2026-11-11T04:52:12.124Z"
+          "isoDate": "2026-11-11T13:37:53.925Z"
+        },
+        {
+          "title": "New Indian mega library rocked by scandal over 'AI-generated books'",
+          "link": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss",
+          "summary": "The Tamil Nadu government has ordered an internal audit of library collections across the state.",
+          "isoDate": "2026-11-11T11:33:24.000Z"
+        },
+        {
+          "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+          "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+          "summary": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
+          "isoDate": "2026-11-11T07:44:24.000Z"
         },
         {
           "title": "Robot vessels take on the dangerous work of mine hunting",
@@ -156,14 +168,8 @@
           "isoDate": "2026-11-10T22:52:15.000Z"
         },
         {
-          "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-          "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-          "summary": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
-          "isoDate": "2026-11-10T21:22:36.000Z"
-        },
-        {
           "title": "Tech Life",
-          "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyv?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS&at_campaign=rss",
           "summary": "We investigate internet-connected device flaws worldwide, plus US election tech fallout.",
           "isoDate": "2026-11-10T20:30:00.000Z"
         },
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss",
           "summary": "AI safety regulator will also be created after a rogue OpenAI agent hacked government websites.",
           "isoDate": "2026-11-10T05:22:39.000Z"
-        },
-        {
-          "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
-          "link": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
-          "summary": "Jensen Huang is being investigated by his own company over an extramarital affair with a woman alleged to be a Chinese spy.",
-          "isoDate": "2026-11-09T21:52:28.000Z"
         }
       ]
     },
@@ -208,6 +208,12 @@
           "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
           "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
           "isoDate": "2026-11-12T00:00:00.000Z"
+        },
+        {
+          "title": "ChatGPT Plus for veterans and servicemembers",
+          "link": "https://openai.com/index/chatgpt-plus-for-veterans",
+          "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+          "isoDate": "2026-11-11T08:00:00.000Z"
         },
         {
           "title": "Gemini 4 Carbon is now available",
@@ -240,6 +246,12 @@
           "isoDate": "2026-11-10T09:00:00.000Z"
         },
         {
+          "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+          "link": "https://openai.com/index/singapore-airlines-travel-work",
+          "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
+          "isoDate": "2026-11-10T08:00:00.000Z"
+        },
+        {
           "title": "Work at the Frontier: AI’s effect on freelance work",
           "link": "https://openai.com/index/ai-effect-on-freelance-work",
           "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
@@ -250,18 +262,6 @@
           "link": "https://news.mit.edu/2026/mit-led-team-receives-funding-next-generation-alternatives-modern-weed-killers-1110",
           "summary": "With up to $53 million from ARPA-H, the researchers will use AI to generate safer herbicides that reduce dependence on imports and improve the security of the U.S. food supply.",
           "isoDate": "2026-11-10T05:00:00.000Z"
-        },
-        {
-          "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
-          "link": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
-          "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
-          "isoDate": "2026-11-09T19:51:47.000Z"
-        },
-        {
-          "title": "ChatGPT Enterprise now available in AWS Marketplace",
-          "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-          "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
-          "isoDate": "2026-11-09T19:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-11-11T04:52:14.500Z"
+          "isoDate": "2026-11-11T13:37:55.549Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 61\nColumn: 58\nChar: =",
-          "isoDate": "2026-11-11T04:52:13.254Z"
+          "isoDate": "2026-11-11T13:37:54.813Z"
         },
         {
           "title": "Speech Processing Pioneer Bishnu Saroop Atal Dies at 93",
