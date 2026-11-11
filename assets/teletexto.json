@@ -1,10 +1,34 @@
 {
-  "generatedAt": "2026-11-10T22:52:35.174Z",
+  "generatedAt": "2026-11-11T04:52:15.609Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
+          "link": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling",
+          "summary": "The Xbox Ally X. | Photo by Amelia Holowaty Krales / The Verge\t\n\nMicrosoft is now rolling out Automatic Super Resolution (Auto SR), an upscaling technology that competes with Nvidia's DLSS, for the Xbox Ally X, Xbox Ally X20, and select Windows Copilot Plus PCs, the company announced today. Auto SR is also getting some new features alongside this official release.\nIn April, Microsoft started testing Auto SR on the Xbox Ally X, but you could only use it while docked. The full release of Auto SR announced today now works while you're playing handheld and running on battery, and it also supports games running at 1080p. Microsoft does note that playing in handheld and at 1080p might lead to performance that  …\nRead the full story at The Verge.",
+          "isoDate": "2026-11-11T00:34:24.000Z"
+        },
+        {
+          "title": "Seagate's new hybrid drive raises some old questions",
+          "link": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
+          "summary": "The FireCuda Forge revisits an old idea, with some familiar questions.",
+          "isoDate": "2026-11-10T23:30:56.000Z"
+        },
+        {
+          "title": "The US military seems to be getting nervous about the launch supply crunch",
+          "link": "https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/",
+          "summary": "\"Launch is extremely constrained and that is exactly the situation we predicted.\"",
+          "isoDate": "2026-11-10T23:02:39.000Z"
+        },
+        {
+          "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+          "link": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+          "summary": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
+          "isoDate": "2026-11-10T22:35:01.000Z"
+        },
         {
           "title": "The VR Disney Plus app on Meta Quest now has 3D movies",
           "link": "https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies",
@@ -40,30 +64,6 @@
           "link": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/",
           "summary": "Mathematician Steven Strogatz discusses his new book, Big Math: The Hidden Codes That Run Our World.",
           "isoDate": "2026-11-10T20:30:01.000Z"
-        },
-        {
-          "title": "The PlayStation Plus PC app is shutting down next month",
-          "link": "https://www.theverge.com/games/1031144/sony-playstation-plus-windows-pc-app-shutting-down",
-          "summary": "Sony is retiring the PlayStation Plus app for PC on December 10th. Sony says it will notify users directly about the shutdown. The app allowed PlayStation Plus Premium subscribers to stream certain games on PC, but according to Sony, not many people are using that perk:\nWith a very small number of eligible PlayStation Plus Premium members (less than 0.4%) using the PlayStation Plus app on PC, making this change allows us to focus on enhancing high-quality experiences that more of our members want to use. As a result, the PlayStation Plus cloud streaming app on PC will no longer be available.\nPlayStation Plus Premium subscribers can still …\nRead the full story at The Verge.",
-          "isoDate": "2026-11-10T19:40:52.000Z"
-        },
-        {
-          "title": "Google Fi adds support for a second 5G network, won't say which one",
-          "link": "https://arstechnica.com/google/2026/11/google-fi-adds-support-for-a-second-5g-network-wont-say-which-one/",
-          "summary": "Fi has always supported T-Mobile, but the new one? Google won't say.",
-          "isoDate": "2026-11-10T19:35:59.000Z"
-        },
-        {
-          "title": "Starlink Mini 2 adds a swappable battery",
-          "link": "https://www.theverge.com/tech/1031028/spacex-starlink-mini-2-satellite-internet-terminal-hot-swap-battery",
-          "summary": "SpaceX announced a new version of its all-in-one satellite internet terminal that integrates a dish, Wi-Fi router, and now a battery into a single device about the size of a laptop.  According to some users on X who shared screenshots of invitations to order Starlink Mini 2, the dish is priced at $999, which includes a full year of Roam Unlimited service that SpaceX values at $2,100.\nThe Starlink Mini 2 will run for up to 4.5 hours on a full charge, SpaceX claims, but that can be expanded by hot-swapping in additional batteries that will be sold separately, or by connecting the dish to a 60W power source over USB-C.\nDespite the addition of …\nRead the full story at The Verge.",
-          "isoDate": "2026-11-10T19:19:12.000Z"
-        },
-        {
-          "title": "The US is winning the AI race. Jensen Huang could have blown it",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
-          "summary": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people. He also wears a cool leather jacket.\nWhich makes Huang's admission that he had an affair with a woman suspected of being a Chinese spy - reportedly while her spying was known to US intelligence and even President Donald Trump - all the more shocking. The fallout goes well beyond his marriage, his reputation, or Nvidia itself. Experts tell The Verge the incident threate …\nRead the full story at The Verge.",
-          "isoDate": "2026-11-10T19:04:05.000Z"
         }
       ]
     },
@@ -72,52 +72,10 @@
       "maxItems": 10,
       "items": [
         {
-          "title": "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities",
-          "link": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/",
-          "summary": "Launched nearly 50 years ago in 1977, NASA’s Voyager 1 on Wednesday, Nov. 18 will have traveled one light-day from Earth, which is more than 16 billion miles (25.9 billion kilometers). Voyager 1 is the most distant human-made object, and any light from Earth would take 24 hours to reach the spacecraft. NASA will highlight […]",
-          "isoDate": "2026-11-10T19:22:45.000Z"
-        },
-        {
-          "title": "NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston",
-          "link": "https://www.nasa.gov/news-release/nasa-to-welcome-expedition-74-astronauts-home-at-space-center-houston/",
-          "summary": "NASA will welcome home the Expedition 74 crew during a public event at Space Center Houston following their return from a long-duration mission aboard the International Space Station. NASA astronauts Jessica Meir, Jack Hathaway, and Chris Williams; ESA (European Space Agency) astronaut Sophie Adenot; and Roscosmos cosmonauts Sergey Kud‑Sverchkov and Sergei Mikaev will share mission […]",
-          "isoDate": "2026-11-10T18:06:33.000Z"
-        },
-        {
-          "title": "NASA Scientists Show How Gravitational Waves Can Reveal New Worlds",
-          "link": "https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/",
-          "summary": "The LISA (Laser Interferometer Space Antenna) observatory, now in development, will detect gravitational waves, the tiny ripples in space-time caused by orbiting masses. Now two studies led by NASA astrophysicists show in new detail how LISA could reveal a new and unique population of exoplanets — worlds beyond our solar system — throughout our galaxy.  […]",
-          "isoDate": "2026-11-10T16:00:26.000Z"
-        },
-        {
-          "title": "CHAPEA Crew Leaves a Mark",
-          "link": "https://www.nasa.gov/image-article/chapea-crew-leaves-a-mark/",
-          "summary": "The Crew Health and Performance Exploration Analog (CHAPEA) Mission 2 crew arranged photos around a boot print in the simulated Martian sand outside their habitat on Aug. 31, 2026. The crew recently exited their habitat on Saturday, Oct. 31, after 378 days of isolation in a facility at the agency’s Johnson Space Center in Houston. Health […]",
-          "isoDate": "2026-11-10T14:57:55.000Z"
-        },
-        {
-          "title": "APOD: 2026 November 10 – Saturn Behind the Moon",
-          "link": "https://science.nasa.gov/image-article/apod-2026-november-10-saturn-behind-the-moon/",
-          "summary": "APOD Science APOD APOD: 2026 November 10 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Saturn Behind the […]",
-          "isoDate": "2026-11-10T05:05:00.000Z"
-        },
-        {
-          "title": "Autumn Mornings Bring Valley Fog",
-          "link": "https://science.nasa.gov/earth/earth-observatory/autumn-mornings-bring-valley-fog/",
-          "summary": "Low clouds trace the branching valleys of the Appalachian Plateau and the Cumberland River, then burn off by afternoon.",
-          "isoDate": "2026-11-10T05:00:00.000Z"
-        },
-        {
-          "title": "Curiosity Blog, Sols 5056-5062: Charging Back Up!",
-          "link": "https://science.nasa.gov/blog/curiosity-blog-sols-5056-5062-charging-back-up/",
-          "summary": "By Remington Free, Operations Systems Engineer, NASA-JPL Earth planning date: Friday, Oct. 30, 2026 Today’s plan covered 3 sols, 5060, 5061, and 5062, as we take a few recharging sols before getting back to our normal drilling activities. As you may know if you have been following the blog closely, we are in the middle […]",
-          "isoDate": "2026-11-10T01:07:45.000Z"
-        },
-        {
-          "title": "Curiosity Blog, Sols 5050-5055: It’s Nazca, Our 49th Drill Hole",
-          "link": "https://science.nasa.gov/blog/curiosity-blog-sols-5050-5055-its-nazca-our-49th-drill-hole/",
-          "summary": "Written by Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Friday, Oct. 23, 2026 As regular readers of this blog will know, we returned to the area where we found disc shaped inclusions in the rocks, which we interpreted as potential crystals. If they are indeed crystals, and […]",
-          "isoDate": "2026-11-10T01:05:48.000Z"
+          "title": "ERROR cargando feed",
+          "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+          "summary": "Unexpected close tag\nLine: 5\nColumn: 7\nChar: >",
+          "isoDate": "2026-11-11T04:52:11.555Z"
         },
         {
           "title": "PhD funding mechanisms should protect the right to disagree with supervisors",
@@ -130,6 +88,48 @@
           "link": "https://www.nature.com/articles/d41586-026-03278-7",
           "summary": "Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03278-7\nA very well preserved ancient marine reptile and a Latin poem that describes an optical phenomenon, in this week’s pick from the Nature archive.",
           "isoDate": "2026-11-10T00:00:00.000Z"
+        },
+        {
+          "title": "Chile’s postdoc rules risk driving talent away",
+          "link": "https://www.nature.com/articles/d41586-026-03643-6",
+          "summary": "Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03643-6\nChile’s postdoc rules risk driving talent away",
+          "isoDate": "2026-11-10T00:00:00.000Z"
+        },
+        {
+          "title": "Students need AI-free spaces to learn core skills",
+          "link": "https://www.nature.com/articles/d41586-026-03644-5",
+          "summary": "Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03644-5\nStudents need AI-free spaces to learn core skills",
+          "isoDate": "2026-11-10T00:00:00.000Z"
+        },
+        {
+          "title": "Why your physics project needs an anthropologist",
+          "link": "https://www.nature.com/articles/d41586-026-03623-w",
+          "summary": "Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03623-w\nPicking a site for an observatory should be about more than science. Humanities scholars have a crucial role in responsible siting.",
+          "isoDate": "2026-11-10T00:00:00.000Z"
+        },
+        {
+          "title": "California votes to give record $8.4 billion to medical research",
+          "link": "https://www.nature.com/articles/d41586-026-03635-6",
+          "summary": "Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03635-6\nThe cash infusion, earmarked for immunology studies, is the largest ever for science authorized by a US public vote — but it has drawn criticism.",
+          "isoDate": "2026-11-10T00:00:00.000Z"
+        },
+        {
+          "title": "How microbes can secure the critical minerals the world needs",
+          "link": "https://www.nature.com/articles/d41586-026-03629-4",
+          "summary": "Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03629-4\nTo sustain supplies of key metals, policymakers should support the infrastructure needed to deploy mining biotechnologies on a large scale.",
+          "isoDate": "2026-11-10T00:00:00.000Z"
+        },
+        {
+          "title": "Mongolia’s iconic grasslands are in crisis — invisible fungi could help save them",
+          "link": "https://www.nature.com/articles/d41586-026-03589-9",
+          "summary": "Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03589-9\nClues suggest that underground fungal networks might be key to reviving degraded land and preserving plant biodiversity.",
+          "isoDate": "2026-11-10T00:00:00.000Z"
+        },
+        {
+          "title": "PhDs worldwide are having a shake up — why now?",
+          "link": "https://www.nature.com/articles/d41586-026-03017-y",
+          "summary": "Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03017-y\nGovernment-supported initiatives around the globe aim to change the PhD, with the goal of providing fresh talent to the private sector.",
+          "isoDate": "2026-11-10T00:00:00.000Z"
         }
       ]
     },
@@ -141,13 +141,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 74\nColumn: 41\nChar: &",
-          "isoDate": "2026-11-10T22:52:29.698Z"
+          "isoDate": "2026-11-11T04:52:12.124Z"
         },
         {
-          "title": "Nvidia hires major US law firm to investigate Jensen Huang affair",
+          "title": "Robot vessels take on the dangerous work of mine hunting",
+          "link": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
+          "summary": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
+          "isoDate": "2026-11-11T00:19:13.000Z"
+        },
+        {
+          "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
           "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
           "summary": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
-          "isoDate": "2026-11-10T22:44:57.000Z"
+          "isoDate": "2026-11-10T22:52:15.000Z"
         },
         {
           "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
           "summary": "Jensen Huang is being investigated by his own company over an extramarital affair with a woman alleged to be a Chinese spy.",
           "isoDate": "2026-11-09T21:52:28.000Z"
-        },
-        {
-          "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
-          "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
-          "summary": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
-          "isoDate": "2026-11-09T19:58:01.000Z"
         }
       ]
     },
@@ -203,6 +203,12 @@
       "header": "160  INTELIGENCIA ARTIFICIAL",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Gilbert + Tobin rethinks the business of law with AI",
+          "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
+          "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+          "isoDate": "2026-11-12T00:00:00.000Z"
+        },
         {
           "title": "Gemini 4 Carbon is now available",
           "link": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
@@ -256,12 +262,6 @@
           "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
           "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
           "isoDate": "2026-11-09T19:00:00.000Z"
-        },
-        {
-          "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-          "link": "https://openai.com/index/control-room",
-          "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
-          "isoDate": "2026-11-09T13:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-11-10T22:52:34.008Z"
+          "isoDate": "2026-11-11T04:52:14.500Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 61\nColumn: 58\nChar: =",
-          "isoDate": "2026-11-10T22:52:30.974Z"
+          "isoDate": "2026-11-11T04:52:13.254Z"
         },
         {
           "title": "Speech Processing Pioneer Bishnu Saroop Atal Dies at 93",
