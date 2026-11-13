@@ -1,12 +1,48 @@
 {
-  "generatedAt": "2026-11-12T23:14:45.139Z",
+  "generatedAt": "2026-11-13T05:16:28.322Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
         {
-          "title": "In reversal, American Cancer Society urges prostate cancer tests for all men",
+          "title": "Donald Trump really wants Tim Cook to run Nvidia",
+          "link": "https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang",
+          "summary": "Jensen Huang resigned this morning as Nvidia's CEO following reports of affairs, including one with an alleged Chinese spy. Right now, the company is being led by its CFO on an interim basis. But President Donald Trump is already throwing around one person he thinks should take over the chipmaking giant: former Apple CEO Tim Cook, who stepped down from leading the company on September 1st and moved into an executive chairman role.\nShortly after Huang's resignation was announced today, Trump posted his idea about Cook on Truth Social: \"NOW THAT Nvidia CEO JENSEN HUANG, who has done a fantastic job, has resigned, there is only one man to take …\nRead the full story at The Verge.",
+          "isoDate": "2026-11-13T00:46:07.000Z"
+        },
+        {
+          "title": "Xbox announces Wolfenstein 3",
+          "link": "https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3",
+          "summary": "A screenshot from Wolfenstein II: The New Colossus.\t\n\nIt's been nearly a decade since Bethesda's MachineGames released Wolfenstein II: The New Colossus in 2017, and now Xbox is ready to announce a sequel from the studio. Wolfenstein 3 was officially announced today, just days after Bethesda also confirmed that the next Elder Scrolls game will be called The Elder Scrolls VI: Sentinel.\nIn a post, Xbox CEO Asha Sharma announced the name and a photo of a script. \"Looking forward to sharing more,\" she said. MachineGames also announced the game in a post, saying the game is \"in production\" and sharing a photo from a motion-capture session. IGN reports that Brian Bloom (who plays protagonist William  …\nRead the full story at The Verge.",
+          "isoDate": "2026-11-13T00:11:44.000Z"
+        },
+        {
+          "title": "Whoop launched a social network where every user has a ‘verified heartbeat’",
+          "link": "https://www.theverge.com/gadgets/1032630/whoop-humans-social-network",
+          "summary": "Starting Thursday, Whoop members can share their data from its wearables on the app's new Whoop Humans social network. Users can make their metrics, activities, and achievements visible to other Whoop wearers, post Story-like \"Moments\" with photos and captions, and add comments and reactions on other members' posts.\nWhoop claims its platform is \"entirely human,\" unlike other social media platforms that are \"saturated with artificial intelligence, automated accounts and bots, and manufactured content.\"\nWhoop CEO Will Ahmed says Humans is \"the most verifiably human network ever launched. Every account represents a real person with a verified …\nRead the full story at The Verge.",
+          "isoDate": "2026-11-12T23:43:22.000Z"
+        },
+        {
+          "title": "Humble Bundle redesign removes two-factor verification from settings",
+          "link": "https://www.theverge.com/games/1032659/humble-bundle-redesign-two-factor-verification-security-settings",
+          "summary": "The Humble Bundle storefront for buying games and other software recently got a new look, but on the settings page, it no longer offers a way to add or update two-factor verification methods, as reported by Kotaku. PC Gamer also points out that there are Humble Bundle support pages discussing two-factor verification, and the writer for the publication said that they had set up two-factor verification on the old version of the site.\nHowever, it does appear that, at least as of now, there is some form of two-factor verification. When I tried logging into my Humble Bundle account while writing this article, I was prompted to check my email for …\nRead the full story at The Verge.",
+          "isoDate": "2026-11-12T23:30:52.000Z"
+        },
+        {
+          "title": "Microsoft Outlook is still down",
+          "link": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down",
+          "summary": "Since just before 1PM ET on Thursday, reports have come in from around the world that people can't access their Outlook email, either through the web or apps. Microsoft quickly acknowledged the issue from its Microsoft 365 Status account, saying that \"We've determined a portion of infrastructure is experiencing elevated load across multiple regions, which is likely contributing to the connectivity errors.\"\nThere were also some reports of problems with Teams, but not to the same extent, while Microsoft's official updates said customers may experience issues across its suite of 365 business services. Microsoft comms director Ben Hope said in  …\nRead the full story at The Verge.",
+          "isoDate": "2026-11-12T23:24:13.000Z"
+        },
+        {
+          "title": "Xbox owners are getting more customizations for backgrounds and the Guide menu",
+          "link": "https://www.theverge.com/news/1032396/xbox-dashboard-guide-menu-right-side-background-shuffle-feature",
+          "summary": "Microsoft is starting to test new customization options for Xbox consoles today. Xbox Insiders will be able to start testing new rotating backgrounds, new library options for digital games, and the ability to move the Xbox Guide menu to the right-hand side.\n\"Xbox Insiders can now save favorite dynamic backgrounds and shuffle through them automatically,\" says Eden Marie, principal software engineering lead at Xbox. \"You can also choose Shuffle at the start of any background category. Have your background change each time you sign in, or set it to change hourly, daily, or weekly.\"\nMicrosoft is also improving how you organize disc-to-digital  …\nRead the full story at The Verge.",
+          "isoDate": "2026-11-12T23:00:00.000Z"
+        },
+        {
+          "title": "In reversal, American Cancer Society urges routine prostate cancer screening",
           "link": "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/",
           "summary": "Men aged 50–69 and at average risk should get PSA screening every two years.",
           "isoDate": "2026-11-12T22:59:51.000Z"
@@ -28,42 +64,6 @@
           "link": "https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions",
           "summary": "Nvidia announced this morning that Jensen Huang has resigned as CEO following reports of two affairs, including one with an alleged Chinese spy and one with a direct report. The situation surrounding Huang has unfolded quickly, with The New York Times only reporting on Friday that Huang and the suspected spy were \"close\" before other dominoes started to fall, leading to a swift fall from grace for one of the biggest names in technology. (Hours after Huang's resignation was announced, Reuters reported that he also had an \"intimate relationship\" with another Nvidia employee.)\nProminent voices in technology have come out in support of Huang, w …\nRead the full story at The Verge.",
           "isoDate": "2026-11-12T21:45:00.000Z"
-        },
-        {
-          "title": "The Oura Ring 4 is almost as good as the newer model, but $150 cheaper",
-          "link": "https://www.theverge.com/gadgets/1032311/oura-ring-4-smart-ring-deal-sale",
-          "summary": "The previous-generation Oura Ring 4 is on sale for as low as $249 at Amazon, Best Buy, and Target, $100 off the retail price, and the first big discount on the device since July. The price varies a bit by size and color, with most silver and black models in stock at the lowest price between sizes 8 and 13. Best Buy also has an exclusive deep blue “midnight” color in stock for $279. If you’re not sure about your size, you can pick up an Oura Ring 4 sizing kit for $10 at Amazon or Target, which includes $10 in store credit towards an Oura Ring 4 purchase.\nOura Ring 4\nThe last-gen Oura Ring 4 is a little thicker, but offers much of the same software, sensors, and a wider range of sizes.\n\nWhere to Buy:\n\n $349 $249 at Amazon\n $349 $249 at Best Buy\n\nMy colleague Victoria Song tested six different smart rings to compare their health and fitness tracking features, and Oura beat them all handily. The Oura Ring 4 improved on its predecessor with more accurate sensors, a slimmer design that leaves the competition in the dust, not to mention frequent software and feature updates. Accessing all of the features requires an active subscription, which is either $5.99 per month or $69.99 per year. The newer Oura Ring 5 is lighter and thinner, but otherwise includes the same sensors and software features as the Oura Ring 4. That makes this previous-generation deal even more appealing, \nRead our Oura Ring 4 review.",
-          "isoDate": "2026-11-12T21:28:53.000Z"
-        },
-        {
-          "title": "Here are the 25 original Xbox games you can now play on PC",
-          "link": "https://www.theverge.com/games/1032321/microsoft-xbox-original-games-pc-backwards-compatibility",
-          "summary": "The first 25 original Xbox on PC games. | Image: Microsoft\t\n\nFor the 25th anniversary of Xbox, Microsoft is beginning to make good on its paid \"next-gen game preservation\" promise. Starting today, you can play 25 different original Xbox games on your Windows PC, as long as you have (or are willing to pay) for digital copies. \nIn July, Microsoft originally launched the idea with just four Xbox games, so 25 is progress, and Microsoft says all these games are now playable with keyboard and mouse.\nPlus, Microsoft says it's adding achievements to original Xbox games for the first time, starting with four games: Star Wars: Knights of the Old Republic and its sequel, Blinx: The Time Sweeper, and Conker: Li …\nRead the full story at The Verge.",
-          "isoDate": "2026-11-12T21:00:00.000Z"
-        },
-        {
-          "title": "Microsoft Outlook is down",
-          "link": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down",
-          "summary": "Over the last hour or so, reports have come in from around the world that people can't access their Outlook email, either through the web or apps. Microsoft has acknowledged the issue from its Microsoft 365 Status account, saying that \"We've determined a portion of infrastructure is experiencing elevated load across multiple regions, which is likely contributing to the connectivity errors.\"\nThere were also some reports of problems with Teams, but some of the people reporting issues say Teams is still working now.\nNow, as of 3:30PM ET, Microsoft says:\nWhile we haven't identified any recent changes that correlate with the start of impact,  …\n\nRead the full story at The Verge.",
-          "isoDate": "2026-11-12T20:43:02.000Z"
-        },
-        {
-          "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
-          "link": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
-          "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “potentially infeasible.”  Foster, a Democrat who serves on the Committee on…",
-          "isoDate": "2026-11-12T20:16:24.000Z"
-        },
-        {
-          "title": "Meet the people who want peptides to be made in America",
-          "link": "https://www.theverge.com/column/1032243/peptides-american-manufacturing-maha",
-          "summary": "The SS Jeremiah O’Brien, a WWII ship/peptide party location. | Photo: Haus Fund﻿\t\n\nThis is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. We'll be taking a break next week and will be back on November 25th. Opt in for Optimizer here.\nThe SS Jeremiah O'Brien is a World War II Liberty ship. The hulking vessel was built in 56 days. It made 11 trips to Normandy, France, to supply the Allied powers in the fight against German U-boats. Last week, it was the site of a black-tie peptide party thrown by a trio of Gen Z venture capitalists.\nRoughly 150 people attended the event, where four types of  …\nRead the full story at The Verge.",
-          "isoDate": "2026-11-12T20:00:00.000Z"
-        },
-        {
-          "title": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
-          "link": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
-          "summary": "A livestream Ars discussion is happening on November 17 at 1 pm Eastern Time.",
-          "isoDate": "2026-11-12T19:59:59.000Z"
         }
       ]
     },
@@ -141,7 +141,25 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 74\nColumn: 41\nChar: &",
-          "isoDate": "2026-11-12T23:14:41.853Z"
+          "isoDate": "2026-11-13T05:16:23.177Z"
+        },
+        {
+          "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+          "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+          "summary": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
+          "isoDate": "2026-11-13T03:57:01.000Z"
+        },
+        {
+          "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+          "link": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
+          "summary": "Microsoft said the outage was caused by servers unexpected becoming unavailable, straining other systems.",
+          "isoDate": "2026-11-13T02:38:02.000Z"
+        },
+        {
+          "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+          "link": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
+          "summary": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
+          "isoDate": "2026-11-13T00:13:35.000Z"
         },
         {
           "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
@@ -178,24 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss",
           "summary": "The Tamil Nadu government has ordered an internal audit of library collections across the state.",
           "isoDate": "2026-11-11T11:33:24.000Z"
-        },
-        {
-          "title": "Robot vessels take on the dangerous work of mine hunting",
-          "link": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
-          "summary": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
-          "isoDate": "2026-11-11T00:19:13.000Z"
-        },
-        {
-          "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
-          "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-          "summary": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
-          "isoDate": "2026-11-10T22:52:15.000Z"
-        },
-        {
-          "title": "Tech Life",
-          "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyv?at_medium=RSS&at_campaign=rss",
-          "summary": "We investigate internet-connected device flaws worldwide, plus US election tech fallout.",
-          "isoDate": "2026-11-10T20:30:00.000Z"
         }
       ]
     },
@@ -204,6 +204,18 @@
       "maxItems": 10,
       "items": [
         {
+          "title": "New AI “copilot” helps engineers design better structures",
+          "link": "https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113",
+          "summary": "The system asks humans for feedback to increase trust in machine-generated designs for buildings and bridges.",
+          "isoDate": "2026-11-13T05:00:00.000Z"
+        },
+        {
+          "title": "Helping robots fit into the human workplace",
+          "link": "https://news.mit.edu/2026/helping-robots-fit-into-human-workplace-1113",
+          "summary": "Founded by Anthony Jules ’92, SM ’92 and Professor Emeritus Rodney Brooks, Robust AI’s robots are designed to collaborate with humans in factories and warehouses.",
+          "isoDate": "2026-11-13T05:00:00.000Z"
+        },
+        {
           "title": "Three Lincoln Laboratory technologies receive 2026 R&D 100 Awards",
           "link": "https://news.mit.edu/2026/lincoln-laboratory-technologies-receive-rd-100-awards-1112",
           "summary": "A secure operating system, a quantum microsystem platform, and a 5G interference-canceling algorithm are named among the year's most significant innovations.",
@@ -211,7 +223,7 @@
         },
         {
           "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-          "link": "https://openai.com/index/amplitude",
+          "link": "https://openai.com/business/customer-stories/amplitude",
           "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
           "isoDate": "2026-11-12T20:00:00.000Z"
         },
@@ -220,6 +232,12 @@
           "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
           "summary": "",
           "isoDate": "2026-11-12T18:00:50.000Z"
+        },
+        {
+          "title": "Gondola doubles revenue as its team builds more with Codex",
+          "link": "https://openai.com/business/customer-stories/gondola",
+          "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+          "isoDate": "2026-11-12T12:00:00.000Z"
         },
         {
           "title": "Holiday Extras is rethinking what it can build with Codex",
@@ -244,24 +262,6 @@
           "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
           "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
           "isoDate": "2026-11-12T00:00:00.000Z"
-        },
-        {
-          "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-          "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
-          "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
-          "isoDate": "2026-11-11T15:00:15.000Z"
-        },
-        {
-          "title": "ChatGPT Plus for veterans and servicemembers",
-          "link": "https://openai.com/index/chatgpt-plus-for-veterans",
-          "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
-          "isoDate": "2026-11-11T08:00:00.000Z"
-        },
-        {
-          "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
-          "link": "https://openai.com/index/jiostar-vijay-seshadri",
-          "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
-          "isoDate": "2026-11-11T00:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-11-12T23:14:44.228Z"
+          "isoDate": "2026-11-13T05:16:27.257Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 53\nColumn: 58\nChar: =",
-          "isoDate": "2026-11-12T23:14:42.864Z"
+          "isoDate": "2026-11-13T05:16:24.664Z"
         },
         {
           "title": "The Dynamo-Electric Principle: 160 Years of Powering Industry",
