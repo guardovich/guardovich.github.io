@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-11-15T22:30:13.496Z",
+  "generatedAt": "2026-11-16T04:56:49.990Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+          "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+          "summary": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence, a clinical AI platform used by healthcare professionals that generates answers based on medical information from sources like The New England Journal of Medicine. Participants will use a new iOS app to ask medical questions and then rate the responses based on criteria including accuracy, detail, and relevance.\nThe app is now available for download, and enrollment starts today,  …\nRead the full story at The Verge.",
+          "isoDate": "2026-11-16T01:26:56.000Z"
+        },
+        {
+          "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
+          "link": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
+          "summary": "This was the first total mission failure in United Launch Alliance's 20-year history.",
+          "isoDate": "2026-11-15T23:11:54.000Z"
+        },
         {
           "title": "Listen to this: Armand Hammer’s Snakes &#038; Ladders",
           "link": "https://www.theverge.com/entertainment/1034013/armand-hammers-snakes-ladders-review",
@@ -52,18 +64,6 @@
           "link": "https://www.theverge.com/gadgets/1033432/lg-b6e-oled-tv-best-buy-doorbuster-black-friday-2026-deal-sale",
           "summary": "LG’s B6E was already one of the most affordable OLED TVs you could buy, but it’s an even better deal now that it’s included as part of Best Buy’s latest doorbuster event. Now through the end of today, November 15th, the 55-inch model is 50 percent off, dropping it to an all-time low of $699.99 ($700 off) at Best Buy. If you want a larger 4K set, the 65- and 77-inch models are also discounted, dropping them to $999.99 ($900 off) and $1,499.99 ($1,200 off), respectively.\nLG B6E OLED TV\n\nWhere to Buy:\n\n $1399.99 $699.99 at Best Buy (55-inch)\n $1899.99 $999.99 at Best Buy (65-inch)\n $2699.99 $1499.99 at Best Buy (77-inch)\n\nAlthough it’s not as bright as LG’s pricier C6, the B6E still delivers the excellent contrast and deep blacks OLEDs are often praised for. It’s nearly identical to the standard B6, except it comes with a simpler remote that lacks the motion controls and voice features found on LG’s Magic Remote. It supports Dolby Vision and HDR10 for more lifelike colors and detail in bright and dark scenes, along with Dolby Atmos for more immersive audio. And with Apple AirPlay and Google Cast built in, you can easily stream content from your phone or tablet and access a variety of streaming apps, including Netflix, HBO Max, and YouTube via LG’s webOS platform.\nThe B6 also offers a lot of features gamers will appreciate. It has a 120Hz refresh rate for modern gaming consoles, which is still plenty fast even if it doesn’t rival the 165Hz refresh rate on the C6. It also offers variable refresh rate support — including Nvidia G-Sync and AMD FreeSync Premium — to help minimize screen tearing. You also get a zippy Alpha 8 Gen 3 AI processor and four HDMI 2.1 ports, making it easy to connect multiple consoles. It may lack some of the more advanced features found on LG’s more premium OLED TVs, but at 50 percent off, the B6 is a great option if you want the benefits of OLED without spending a fortune.",
           "isoDate": "2026-11-15T14:00:00.000Z"
-        },
-        {
-          "title": "The Sony Aibo was a robot revolution dressed like a dog",
-          "link": "https://www.theverge.com/podcast/1033948/sony-aibo-robot-dog-version-history",
-          "summary": "In the 1990s, Sony was absolutely convinced that we were on the precipice of a robot takeover. Pretty soon, the company decided, we'd all be living among countless humanoid robots. Some would be our coworkers; others would be our friends; and at least one would be our pet. And \"pet\" was exactly what Sony was going for when it created the Aibo. It was supposed to be part of the family.\nOn this episode of Version History, we go back in time and tell the story of the Aibo. David Pierce is joined by The Verge's Victoria Song and Jennifer Pattison Tuohy, and together they discuss the origins of this remarkable robot dog, and its impressive succe …\nRead the full story at The Verge.",
-          "isoDate": "2026-11-15T13:57:30.000Z"
-        },
-        {
-          "title": "An overview of Jensen Huang’s messy days",
-          "link": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
-          "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here.\nHow it started\nOn October 29th, The New York Times reported that Nvidia co-founder and showman CEO Jensen Huang appeared to be the target of a Chinese spy plot. Any major tech CEO potentially being compromised by the Chinese government is concerning - especially Jensen Huang. \"If you could draw the network diagram of the entire US AI e …\nRead the full story at The Verge.",
-          "isoDate": "2026-11-15T13:00:00.000Z"
         }
       ]
     },
@@ -141,13 +141,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 74\nColumn: 41\nChar: &",
-          "isoDate": "2026-11-15T22:30:09.429Z"
+          "isoDate": "2026-11-16T04:56:46.237Z"
+        },
+        {
+          "title": "Investors sue chip giant Intel after 29% stock plunge",
+          "link": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
+          "summary": "A proposed class action says Intel hid the impact of slowing sales, inflating its shares.",
+          "isoDate": "2026-11-16T03:04:01.000Z"
         },
         {
           "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says ",
           "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
           "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-          "isoDate": "2026-11-15T22:24:20.000Z"
+          "isoDate": "2026-11-16T01:47:57.000Z"
         },
         {
           "title": "South Korea's top scorer in tax accountancy exam admits cheating",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss",
           "summary": "Microsoft has apologised for the issue, which it said was due to a technical failure.",
           "isoDate": "2026-11-13T21:15:41.000Z"
-        },
-        {
-          "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
-          "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-          "summary": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\".",
-          "isoDate": "2026-11-13T19:53:57.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-11-15T22:30:11.968Z"
+          "isoDate": "2026-11-16T04:56:48.812Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 53\nColumn: 58\nChar: =",
-          "isoDate": "2026-11-15T22:30:10.893Z"
+          "isoDate": "2026-11-16T04:56:47.740Z"
         },
         {
           "title": "How Microcredentials Help Engineers Build Trustworthy AI",
