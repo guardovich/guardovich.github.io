@@ -1,69 +1,69 @@
 {
-  "generatedAt": "2026-11-18T00:34:36.242Z",
+  "generatedAt": "2026-11-18T15:09:52.569Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
         {
-          "title": "Microsoft calls Copilot \"the new OS for work\" at Ignite keynote",
-          "link": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
-          "summary": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
-          "isoDate": "2026-11-18T00:27:29.000Z"
+          "title": "The AI Hype Index: AI is everywhere",
+          "link": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+          "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms. Go to the supermarket, and…",
+          "isoDate": "2026-11-18T14:42:44.000Z"
         },
         {
-          "title": "Satya Nadella says he’s AGI-pilled now",
-          "link": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
-          "summary": "Microsoft CEO Satya Nadella on stage at Microsoft Ignite. | Image: Microsoft / YouTube\t\n\nMicrosoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI pilled in the sense that at an economy level, what is the political economy's organization around AGI?\" he asked at a roundtable discussion following his Microsoft Ignite keynote at the Chase Center in San Francisco.\nBut Nadella doesn't think frontier models like Claude are conscious. \"I don't think so,\" he said, adding that he follows Microsoft AI CEO Mustafa Suleyman's view that companies should not give rights to models and treat them like th …\nRead the full story at The Verge.",
-          "isoDate": "2026-11-17T23:41:18.000Z"
+          "title": "Tesla’s $30,000 Cybercab comes with a $299 monthly catch",
+          "link": "https://arstechnica.com/cars/2026/11/tesla-will-sell-you-a-cybercab-for-30000-then-charge-299-a-month-to-use-it/",
+          "summary": "Tesla can restrict where Cybercabs drive and even block owners from reselling them.",
+          "isoDate": "2026-11-18T14:01:45.000Z"
         },
         {
-          "title": "San Diego dumps both Flock cameras and smart streetlights",
-          "link": "https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights/",
-          "summary": "500+ cameras will go dark just 3 years after mayor urged approval.",
-          "isoDate": "2026-11-17T23:09:09.000Z"
+          "title": "The Download: AI learns to smell and hydropower struggles",
+          "link": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This smell startup says its AI nose is as good as a human’s In a New Jersey lab, researchers are trying to sniff every odor on Earth. Their careful notes—“nutty,” “peachy,”…",
+          "isoDate": "2026-11-18T13:10:00.000Z"
         },
         {
-          "title": "Yet another satellite company is jockeying for a rocket—but this one makes sense",
-          "link": "https://arstechnica.com/space/2026/11/yet-another-satellite-company-is-jockeying-for-a-rocket-but-this-one-makes-sense/",
-          "summary": "\"Governments need control of their critical space infrastructure, and Europe needs it most.\"",
-          "isoDate": "2026-11-17T22:44:46.000Z"
+          "title": "Nvidia isn’t selling any more AI chips to China",
+          "link": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
+          "summary": "Nvidia has stopped sending its advanced AI chips to China, despite the approval it received from the White House to do so in December last year. The announcement was made by interim Nvidia CEO Colette Kress during an earnings call on Tuesday, marking a notable shift for the company that, under former CEO Jensen Huang, fought for the right to ship its powerful Hopper architecture H200 chips to China.\n\"Our guidance ⁠does not have any licensed Hopper data center products included, and we are no longer shipping ​licenced Hopper data center products to China,\" Kress said. She did not explain why Nvidia was ceasing its H200 processor shipments, o …\nRead the full story at The Verge.",
+          "isoDate": "2026-11-18T13:01:05.000Z"
         },
         {
-          "title": "Jeff Bezos says he was ‘heavily involved’ in picking the new James Bond",
-          "link": "https://www.theverge.com/entertainment/1036110/jeff-bezos-james-bond-casting-amazon",
-          "summary": "Robert Pattinson's casting as James Bond made enough sense given his recent work with director Denis Villeneuve, who's making the franchise's next film over at Amazon. But it turns out that Amazon founder Jeff Bezos played a significant role in making the final decision, too.\nDuring Semafor's Silicon Valley and the World conference today, Bezos said that he was \"heavily involved\" in the process of casting the newest 007:\nWe ran a really tight process and we made the final decision on Friday. There was a big group initially, and we down-selected to five finalists. Then we did real old-fashioned screen tests of those five finalists, and it  …\n\nRead the full story at The Verge.",
-          "isoDate": "2026-11-17T22:38:41.000Z"
+          "title": "Voyager 1 at one light-day: Historian revisits Golden Record's forgotten details",
+          "link": "https://arstechnica.com/space/2026/11/voyager-1-at-one-light-day-historian-revisits-golden-records-forgotten-details/",
+          "summary": "\"They are pretty confident that it's going to last a long, long, long time...\"",
+          "isoDate": "2026-11-18T12:15:44.000Z"
         },
         {
-          "title": "Read everything that Nvidia’s board chair had to say about Jensen Huang",
-          "link": "https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang",
-          "summary": "Nvidia's quarterly earnings call on Tuesday was its first with CFO and interim CEO Colette Kress at the helm alongside the company's first board chair, Harvey C. Jones. The leadership change followed Jensen Huang's resignation last week after reports he had multiple affairs - including one with former Megaspeed executive and alleged Chinese asset Alice Huang and one with a direct report, Kimberly Powell. Nvidia is investigating whether Huang's relationship with the former compromised national security or company secrets. Huang will also testify before lawmakers on December 1st.\nAhead of Tuesday's earnings, Huang said he would be willing to  …\nRead the full story at The Verge.",
-          "isoDate": "2026-11-17T22:32:50.000Z"
+          "title": "NASA’s Voyager 1 probe is now one light-day away",
+          "link": "https://www.theverge.com/science/1036431/nasa-voyager-1-light-day-milestone",
+          "summary": "Voyager 1 has traveled further than any other man-made object. | Photo by NASA/Hulton Archive/Getty Images\t\n\nAfter traveling through the void of space for 49 years, Voyager 1 has hit a momentous milestone: the spacecraft is now officially one light-day away from Earth, which is, as NASA put it, \"very, very far.\" The probe crossed the milepost on Wednesday at 5:16AM ET, and is now 16.094 billion miles away from our planet - equal to the distance that light travels in 24 hours.\nIt's the furthest that any human-made object has ever traveled, and Voyager 1's journey isn't over yet. It's been heading towards a star called Gliese 445 in the Ursa Minor constellation since completing its primary objectives to conduct flybys of Jupiter and Saturn in 1980.  …\nRead the full story at The Verge.",
+          "isoDate": "2026-11-18T12:03:36.000Z"
         },
         {
-          "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
-          "link": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
-          "summary": "Malware cocktail delivers cryptocurrency theft payloads and iOS exploits, among other things.",
-          "isoDate": "2026-11-17T22:32:16.000Z"
+          "title": "Suno now lets you make AI videos for your AI music",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature",
+          "summary": "Here are some of the examples that Suno provided to show what Visuals is capable of. | Image: Suno\t\n\nSuno has introduced image and video generation in its latest effort to expand beyond being an AI music platform. The new feature, called \"Visuals,\" allows users to turn Suno songs into AI-generated video clips that automatically lipsync to lyrics, or make images via prompt descriptions that can be used as thumbnails and album artwork.\nVisuals is available on web, iOS, and Android. The exact layout differs across Suno's desktop and mobile interfaces, but users will find a new Visuals tab under Create mode on each version. Web users can also access Visuals by selecting the three dot menu on a song in their library. From there, users can selec …\nRead the full story at The Verge.",
+          "isoDate": "2026-11-18T11:16:53.000Z"
         },
         {
-          "title": "iFixit’s Apple HomeView teardown reveals a device that will be difficult to repair",
-          "link": "https://www.theverge.com/tech/1036045/ifixit-teardown-apple-homeview-smart-home-hub",
-          "summary": "After finding recent versions of Apple's iPads and HomePods much easier to disassemble for battery replacements or other repairs, iFixit assumed it would be the same story for Apple's new HomeView hub that looks like a seven-inch tablet stuck to a smart speaker. The reality was much different and by the time they got the HomeView apart iFixit's skilled techs had \"ripped a connector, snapped a speaker in two, and put more force on the poor logic board than any of us were comfortable with.\"\nThe tablet section of the HomeView proved to be the bigger challenge to disassemble as a result of some questionable decisions with Apple's design. The  …\nRead the full story at The Verge.",
-          "isoDate": "2026-11-17T22:25:41.000Z"
+          "title": "Grand Theft Auto VI has arrived",
+          "link": "https://www.theverge.com/entertainment/1035847/grand-theft-auto-6-launch-review-news",
+          "summary": "More than a decade after Grand Theft Auto V was first released, its sequel is finally launching. On November 19th, GTA VI will be available on both the PS5 and Xbox Series X / S, and it’s quite possibly the most anticipated video game launch of all time.\nPart of this has to do with the success of its predecessor, as GTA V sold more than 230 million copies over the last 13 years. Some of it has to do with the sheer length of time between releases, a period that was plagued by leaks and a handful of delays that made the wait even harder for fans.\nBut GTA VI is now a real thing you can play, and you can also keep track of all of the important post-launch information right here. That includes our own review and interviews with the development team, as well as news on just how the game ends up resonating with players.\n“Our team has the opportunity to make history a second time this month.”\n\t\t\t\nGTA VI is great — and I’m not the only one who thinks so.\n\t\t\t\nGrand Theft Auto VI does something impossible — it lives up to the hype\n\t\t\t\n‘It’s a risk’: How Rockstar built the most detailed (and romantic) GTA yet\n\t\t\t\nIf you want to play GTA VI on PS5 tonight, download yesterday’s firmware update first.\n\t\t\t\nGTA VI’s voice actor for Lucia was revealed by… The Game Awards.\n\t\t\t\nHacker behind 2022 GTA VI leaks pleads guilty",
+          "isoDate": "2026-11-18T11:06:16.000Z"
         },
         {
-          "title": "Nvidia says it does not intend to reinstate Jensen Huang as CEO",
-          "link": "https://www.theverge.com/report/1035465/nvidia-says-it-will-not-reinstate-jensen-huang-as-ceo",
-          "summary": "Starting Nvidia's quarterly earnings call on Tuesday, new board chair Harvey Jones said that when former CEO Jensen Huang resigned, \"the Nvidia board unanimously accepted his resignation and does not intend to reinstate Jensen as CEO.\" \nJones added, \"We will not be addressing or taking questions on today's call regarding the circumstances of Jensen's resignation and the ongoing investigation.\"\nHuang had publicly floated the idea of returning earlier on Tuesday. In a statement posted to X, he wrote that he \"did not live up to the standards expected of everyone\" at the company, that he regretted his mistakes, and that he would cooperate with …\nRead the full story at The Verge.",
-          "isoDate": "2026-11-17T22:05:05.000Z"
+          "title": "Grand Theft Auto VI: The Ars Technica review",
+          "link": "https://arstechnica.com/gaming/2026/11/grand-theft-auto-vi-the-ars-technica-review/",
+          "summary": "Jason and Lucia's crime-heavy love story fuels a wonder of digital urban simulation.",
+          "isoDate": "2026-11-18T11:00:27.000Z"
         },
         {
-          "title": "The MacBook Neo is receiving a rare $50 discount ahead of Black Friday",
-          "link": "https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale",
-          "summary": "This thing is poised to eat their lunch. | Photo: Amelia Holowaty Krales / The Verge\t\n\nIf you’re looking for a new laptop or a gift for the student in your life, you can save $50 on the MacBook Neo at several retailers, in both storage sizes and all four colors. The 256GB model is currently discounted to $649 (Amazon, Best Buy, Target), while the 512GB model with Touch ID is down to $749 (Amazon, Best Buy, Target). None of the retailers currently list an end date for the discount, which is the biggest price drop we’ve seen since Apple raised the laptop’s MSRP by $100 in July in response to the ongoing RAM crisis.\nMacBook Neo\n\nWhere to Buy:\n\n $799 $749 at Amazon (512GB)\n $699 $649 at Best Buy (256GB)\n $699 $649 at Amazon (256GB)\n\nApple’s budget-friendly MacBook leverages the A18 Pro processor, a chip originally found in the iPhone 16 Pro, to keep costs down. Both the 256GB and 512GB models feature 8GB of memory, and my colleague Antonio G. Di Benedetto was impressed by the vivid 13-inch screen and speakers, the latter of which are better than those in many cheap (and even midrange) Windows laptops. The Neo isn’t super performant, especially in terms of storage speed and total memory, but it’s great for everyday tasks, casual use, and students.\nRead our Apple MacBook Neo review.",
-          "isoDate": "2026-11-17T21:46:20.000Z"
+          "title": "Grand Theft Auto VI does something impossible — it lives up to the hype",
+          "link": "https://www.theverge.com/games/1035801/grand-theft-auto-6-review",
+          "summary": "How do you follow a game like Grand Theft Auto V? Thirteen years ago, Rockstar's crime-fueled epic went on to redefine what an open-world game could be and became an enormous success, selling more than 230 million copies across three generations of game consoles. It sits just behind Tetris and Minecraft on the list of the best-selling games of all time, and its lucrative online mode has helped it remain popular for well over a decade.\nThat level of success has allowed Rockstar to take its time with a sequel, which has further increased the hype around the next GTA. A series of major leaks and delays only exacerbated this. At a time when muc …\nRead the full story at The Verge.",
+          "isoDate": "2026-11-18T11:00:00.000Z"
         }
       ]
     },
@@ -71,6 +71,54 @@
       "header": "120  CIENCIA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "APOD: 2026 November 18 – An M-class Solar Flare",
+          "link": "https://science.nasa.gov/image-article/apod-2026-november-18-an-m-class-solar-flare/",
+          "summary": "APOD Science APOD APOD: 2026 November 18 – An… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Medium-Sized […]",
+          "isoDate": "2026-11-18T05:05:00.000Z"
+        },
+        {
+          "title": "Sierra Snow Season Spins Up",
+          "link": "https://science.nasa.gov/earth/earth-observatory/sierra-snow-season-spins-up/",
+          "summary": "A widespread, early-season snowstorm blanketed California’s mountains in white in mid-November 2026.",
+          "isoDate": "2026-11-18T05:01:00.000Z"
+        },
+        {
+          "title": "Conference networking made simple, in three short videos",
+          "link": "https://www.nature.com/articles/d41586-026-03678-9",
+          "summary": "Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03678-9\nWorking the room is a skill you can practise and prepare for. Here’s how.",
+          "isoDate": "2026-11-18T00:00:00.000Z"
+        },
+        {
+          "title": "How to make AI data centres more sustainable",
+          "link": "https://www.nature.com/articles/d41586-026-03708-6",
+          "summary": "Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03708-6\nTech companies and governments face opposition over data centres’ expansion, in part because of their huge power requirements. They must not be powered with fossil fuels.",
+          "isoDate": "2026-11-18T00:00:00.000Z"
+        },
+        {
+          "title": "Microbiome home tests are taking off. Can they be trusted?",
+          "link": "https://www.nature.com/articles/d41586-026-03710-y",
+          "summary": "Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03710-y\nOur reporter mailed off her poo to find out what two companies say about her microbiome. Here’s what she found.",
+          "isoDate": "2026-11-18T00:00:00.000Z"
+        },
+        {
+          "title": "Are you a budding science sleuth? Take our plagiarism quiz to test your skills",
+          "link": "https://www.nature.com/articles/d41586-026-03040-z",
+          "summary": "Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03040-z\nSleuths and publishers seize on ‘tortured phrases’ to detect research fraud. Sometimes they can raise a smile.",
+          "isoDate": "2026-11-18T00:00:00.000Z"
+        },
+        {
+          "title": "A grant to hand out more grants — and build a research area",
+          "link": "https://www.nature.com/articles/d41586-026-03689-6",
+          "summary": "Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03689-6\nA rapid microgrants scheme called the Field Building Accelerator aims to launch new scientific fields.",
+          "isoDate": "2026-11-18T00:00:00.000Z"
+        },
+        {
+          "title": "The right to do wrong",
+          "link": "https://www.nature.com/articles/d41586-026-03517-x",
+          "summary": "Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03517-x\nAn equal chance.",
+          "isoDate": "2026-11-18T00:00:00.000Z"
+        },
         {
           "title": "NASA Launches Nuclear Power Systems Student Contest",
           "link": "https://science.nasa.gov/centers-and-facilities/glenn/nasa-launches-nuclear-power-systems-student-contest/",
@@ -82,54 +130,6 @@
           "link": "https://science.nasa.gov/open-science/nasa-space-apps-challenge-breaks-global-hackathon-records/",
           "summary": "On Nov. 14 and 15, NASA held the annual Space Apps Challenge with a record-breaking 181,835 registered participants taking part in 593 events around the world. The annual hackathon invites participants to use NASA’s open data to address one of 14 challenges focused on space exploration or Earth science. This year, the hackathon drew 59% […]",
           "isoDate": "2026-11-17T21:50:34.000Z"
-        },
-        {
-          "title": "BPS Digital AVATAR Challenge",
-          "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/bps-digital-avatar-challenge/",
-          "summary": "The NASA Space Biology Program within the Biological and Physical Sciences (BPS) Division investigates how living systems respond across the full spectrum of biological organization to advance understanding of how living systems respond to the unique stressors of space exploration—including microgravity, ionizing radiation, low magnetic fields, and elevated CO₂. As NASA prepares for long-duration deep […]",
-          "isoDate": "2026-11-17T20:39:38.000Z"
-        },
-        {
-          "title": "New Album of Baby Star Sounds Shared by NASA’s Chandra",
-          "link": "https://science.nasa.gov/missions/chandra/new-album-of-baby-star-sounds-shared-by-nasas-chandra/",
-          "summary": "A new album from NASA’s Chandra X-ray Observatory collects snapshots of baby stars across the galaxy and beyond and transforms that data into sound. Four new sonifications use data of stars that are actively forming, captured by Chandra and other NASA telescopes By studying places in the universe where stars are currently being born and […]",
-          "isoDate": "2026-11-17T20:26:17.000Z"
-        },
-        {
-          "title": "NASA to Cover 35th SpaceX Resupply Mission Space Station Departure",
-          "link": "https://www.nasa.gov/news-release/nasa-to-cover-35th-spacex-resupply-mission-space-station-departure/",
-          "summary": "NASA and its international partners are set to receive scientific research samples and hardware as a SpaceX Dragon spacecraft departs the International Space Station no earlier than Wednesday, Nov. 18, for its return to Earth. Pending weather conditions, the Dragon spacecraft will undock from the Harmony module’s space-facing port at 11:05 a.m. EST, following a […]",
-          "isoDate": "2026-11-17T19:16:22.000Z"
-        },
-        {
-          "title": "NICER Status Updates",
-          "link": "https://www.nasa.gov/missions/station/nicer-status-updates/",
-          "summary": "November 17, 2026 NASA’s NICER Telescope Ends Science Operations After studying the universe for six and a half years beyond its initial mission, NASA’s NICER (Neutron star Interior Composition Explorer) telescope on the International Space Station has ended science operations.  The mission and space station teams are now focused on plans to finalize NICER’s 8-year […]",
-          "isoDate": "2026-11-17T18:18:16.000Z"
-        },
-        {
-          "title": "NASA to Conduct Low-Altitude Flights Over Texas Farmland",
-          "link": "https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland/",
-          "summary": "Editor’s Note: This article was originally published on Oct. 15, 2026, and has been updated to correct the location and update the duration of the flight deployment. A NASA Dynamic Aviation A200 aircraft will conduct low-flying research flights over farmland near Amarillo, Texas, from Thursday, Oct. 22, through Monday, Nov. 2. These flights will measure […]",
-          "isoDate": "2026-11-17T17:12:20.000Z"
-        },
-        {
-          "title": "Curiosity Blog, Sols 5072-5076: The Return of the Polygons",
-          "link": "https://science.nasa.gov/blog/curiosity-blog-sols-5072-5076-the-return-of-the-polygons/",
-          "summary": "Written by Abigail Fraeman, Deputy Project Scientist, Jet Propulsion Laboratory, California Institute of Technology Earth planning date: Friday, Nov. 13, 2026 Curiosity’s past several weeks have been very focused on drilling and analysis of the “Basque Lakes” and “Nazca” samples. We learned a lot from those drilled samples, but it’s time to hit the Martian […]",
-          "isoDate": "2026-11-17T17:06:07.000Z"
-        },
-        {
-          "title": "NASA Invites Media, Public to View Roman Telescope’s First Images",
-          "link": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-view-roman-telescopes-first-images/",
-          "summary": "NASA will release the first images from its Nancy Grace Roman Space Telescope during a live stream from the American Geophysical Union (AGU) Annual Meeting in San Francisco at 3:30 p.m. EST (12:30 p.m. PST) Monday, Dec. 7. The images will showcase the unique scientific capabilities of Roman, which will soon capture deep, panoramic, never-before-seen […]",
-          "isoDate": "2026-11-17T17:00:29.000Z"
-        },
-        {
-          "title": "Space Selfie",
-          "link": "https://www.nasa.gov/image-article/space-selfie-2/",
-          "summary": "NASA astronaut Anil Menon took this selfie during a spacewalk on Oct. 29, 2026. He and CSA (Canadian Space Agency) astronaut Joshua Kutryk installed a new roll-out solar array on the International Space Station. Get daily updates from the space station. Image credit: NASA/Anil Menon",
-          "isoDate": "2026-11-17T16:51:14.000Z"
         }
       ]
     },
@@ -141,61 +141,61 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 74\nColumn: 41\nChar: &",
-          "isoDate": "2026-11-18T00:34:31.305Z"
+          "isoDate": "2026-11-18T15:09:49.265Z"
         },
         {
-          "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+          "title": "Grand Theft Auto 6 is a masterpiece, say critics",
+          "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
+          "summary": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
+          "isoDate": "2026-11-18T14:57:56.000Z"
+        },
+        {
+          "title": "The seven Anthropic founders who are about to become multi-billionaires",
+          "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+          "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
+          "isoDate": "2026-11-18T13:55:14.000Z"
+        },
+        {
+          "title": "Hacks, AI or just overdue updates - why have there been so many outages?",
+          "link": "https://www.bbc.co.uk/news/articles/c6z0kly2lll7o?at_medium=RSS&at_campaign=rss",
+          "summary": "There is no evidence these are linked, but the constant series of tech disruptions can be unnerving.",
+          "isoDate": "2026-11-18T13:16:53.000Z"
+        },
+        {
+          "title": "British hacker who stole $11m through text message scheme jailed for six years in US",
+          "link": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&at_campaign=rss",
+          "summary": "Tyler Buchanan, from Dundee, was a member of the notorious Scattered Spider group and began hacking when he was a teenager.",
+          "isoDate": "2026-11-18T09:28:35.000Z"
+        },
+        {
+          "title": "Security flaw found in Java, world's third-largest programming language ",
+          "link": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
+          "summary": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs.",
+          "isoDate": "2026-11-18T08:47:06.000Z"
+        },
+        {
+          "title": "How important are Nvidia and Jensen Huang to the US economy?",
+          "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+          "summary": "The former Nvidia chief executive has been at the centre of the artificial intelligence boom.",
+          "isoDate": "2026-11-18T06:04:21.000Z"
+        },
+        {
+          "title": "Watch: Marco Rubio says recent tech outages are 'completely unrelated' to one another",
+          "link": "https://www.bbc.co.uk/news/videos/cx1l0vm87yl9o?at_medium=RSS&at_campaign=rss",
+          "summary": "Microsoft, major US banks, Apple and Air Traffic authorities have been hit over recent days by tech glitches.",
+          "isoDate": "2026-11-18T05:10:02.000Z"
+        },
+        {
+          "title": "Waymo pulls driverless taxis from all US freeways",
+          "link": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
+          "summary": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
+          "isoDate": "2026-11-18T03:07:22.000Z"
+        },
+        {
+          "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
           "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
           "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
-          "isoDate": "2026-11-18T00:28:01.000Z"
-        },
-        {
-          "title": "Europe plans to catch the next computer chip wave",
-          "link": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
-          "summary": "Europe hopes to be a leader in a new generation of computer chips which use light to process data.",
-          "isoDate": "2026-11-18T00:00:24.000Z"
-        },
-        {
-          "title": "Tech Life",
-          "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyw?at_medium=RSS&at_campaign=rss",
-          "summary": "Video gaming is huge - it's more lucrative than the movies and music combined.",
-          "isoDate": "2026-11-17T20:30:00.000Z"
-        },
-        {
-          "title": "How new US chip restrictions on South East Asia will hit China",
-          "link": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
-          "summary": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
-          "isoDate": "2026-11-17T14:25:45.000Z"
-        },
-        {
-          "title": "NHS data contract to stay with Palantir until 2029",
-          "link": "https://www.bbc.co.uk/news/articles/cqvg27zpm8w8o?at_medium=RSS&at_campaign=rss",
-          "summary": "Despite calls from some Labour MPs to end the arrangement with Palantir, ministers say a new contract will not be awarded until 2029.",
-          "isoDate": "2026-11-17T12:00:12.000Z"
-        },
-        {
-          "title": "Pretending to be in New Zealand, booking leave and buying consoles - the lengths fans are going to for GTA 6",
-          "link": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
-          "summary": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox",
-          "isoDate": "2026-11-17T11:49:01.000Z"
-        },
-        {
-          "title": "US government confirms investigation into tech firm Megaspeed",
-          "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
-          "summary": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
-          "isoDate": "2026-11-17T11:17:32.000Z"
-        },
-        {
-          "title": "'We're a capitalist society': Grindr defends $120 a month premium tier",
-          "link": "https://www.bbc.co.uk/news/articles/cr1ewlqjn694o?at_medium=RSS&at_campaign=rss",
-          "summary": "It says the ultra-premium service is intended for a \"small community\" of users - and could get more expensive in future.",
-          "isoDate": "2026-11-17T09:41:07.000Z"
-        },
-        {
-          "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
-          "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-          "summary": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
-          "isoDate": "2026-11-17T02:37:53.000Z"
+          "isoDate": "2026-11-18T01:18:18.000Z"
         }
       ]
     },
@@ -203,6 +203,18 @@
       "header": "160  INTELIGENCIA ARTIFICIAL",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Helping AI text detectors keep up with changing conditions",
+          "link": "https://news.mit.edu/2026/helping-ai-text-detectors-keep-up-with-changing-conditions-1118",
+          "summary": "A more flexible training method can make AI text detectors more robust when new models emerge or AI-generated text is disguised to appear human.",
+          "isoDate": "2026-11-18T05:00:00.000Z"
+        },
+        {
+          "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+          "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+          "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+          "isoDate": "2026-11-18T00:00:00.000Z"
+        },
         {
           "title": "Putting a spotlight on AI, society, and humanity",
           "link": "https://news.mit.edu/2026/putting-spotlight-ai-society-humanity-1117",
@@ -250,18 +262,6 @@
           "link": "https://openai.com/index/introducing-openai-for-chile",
           "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
           "isoDate": "2026-11-17T00:00:00.000Z"
-        },
-        {
-          "title": "Broadening access to AI for scientists",
-          "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-          "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
-          "isoDate": "2026-11-16T17:00:00.000Z"
-        },
-        {
-          "title": "Strengthening the fight against online child sexual abuse with new tools and support",
-          "link": "https://openai.com/index/strengthening-online-child-safety",
-          "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
-          "isoDate": "2026-11-16T17:00:00.000Z"
         }
       ]
     },
@@ -273,18 +273,18 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-11-18T00:34:34.997Z"
+          "isoDate": "2026-11-18T15:09:51.652Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
-          "summary": "Invalid character in entity name\nLine: 53\nColumn: 58\nChar: =",
-          "isoDate": "2026-11-18T00:34:32.446Z"
+          "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
+          "isoDate": "2026-11-18T15:09:50.513Z"
         },
         {
           "title": "IEEE Celebrates 10 Years of Incorporating Ethics Into AI Systems",
           "link": "https://spectrum.ieee.org/ieee-ethics-ai-systems",
-          "summary": "Policymakers, technologists, and members of the public have raised concerns about the harm AI’s rapid advancement might cause to society. Their concerns include bias, data privacy violations, the spread of misinformation, and losing control of AI agents.\nThose issues are relatively new to many people, but the IEEE Standards Association has been working for the past decade on ways to prioritize the responsible development of AI systems.\nIn 2016 IEEE SA launched the IEEE Global Initiative for Ethical Considerations in Autonomous and Intelligent Systems (A/IS) and published the Ethically Aligned Design report. EAD’s mission is to encourage everyone involved in designing autonomous and intelligent systems to prioritize human well-being by applying ethical considerations for the benefit of humanity.\nDeveloped by a multidisciplinary community of experts from around the world, the report outlined eight foundational principles for A/IS. They include human rights, people’s well-being, and transparency. More than 100 leading AI ethics experts provided input. EAD’s Version II report was released in 2017. Both versions solicited public input and received hundreds of pages of feedback, according to John C. Havens, who was the global initiative’s founding executive director, and is now the global director for IEEE Planet Positive 2030. And by 2019, there were more than 400 contributors and the community continues to grow.\n“Ethically Aligned Design was the first of its kind in the sense of a report that was more than a list of principles and from an organization with the credibility of IEEE,” Havens says. “At the time it was released, there wasn’t anything like it.”\nSince its launch, a series of standards has been developed to provide practical guidelines on designing, building, and deploying technology that prioritizes human values. Several AI ethics certification programs have been introduced.\nThis year marks the 10th anniversary of EAD’s first draft. To celebrate, IEEE SA recently launched a website, a podcast series, and a blog that reflect on the report’s achievements and impact.\nEight guiding principles\nThe word ethics is often used interchangeably with morality, but that is not the case in responsible AI systems design, according to EAD’s first version. The report includes insights from classical ethics traditions and value-based design methodologies to offer actionable recommendations for engineers developing AI tools.\nThe report established eight foundational general principles for designing autonomous systems: respecting human rights, prioritizing increased well-being as success criteria for development, empowering individuals with data agency to have control over their identity, effectiveness, transparency, accountability, awareness of misuse, and competence for the system creators.\nThe principles shift applied ethics to the design stage of AI systems, compared with being a concern after they’re released, the authors wrote. \nA suite of standards \nThe IEEE 7000 series of standards has been developed based on EAD’s framework. Currently the series consists of 29 projects, 11 of which have been published, and more are still being added. They cover topics such as ethical system design model process (IEEE 7000-2021), AI system transparency (IEEE 7001-2021), data privacy (IEEE 7002-2022), algorithmic bias considerations (IEEE 7003-2024), the impact on people’s well-being (IEEE 7010-2020), machine-readable personal privacy requirements (IEEE 7012-2025), and systems that mimic human empathy (IEEE 7014-2024).\nAI ethics certifications\nIEEE SA offers a suite of ethics in AI programs including IEEE CertifAIEd, which includes two certifications: one for individuals and one for products.\nThe professional certification provides individuals with skills to assess autonomous and intelligent systems for adherence to IEEE’s methodology and ethics criteria.\n“Ethically Aligned Design was the first of its kind in the sense of a report that was more than a list of principles and from an organization with the credibility of IEEE.” —John C. Havens, founding executive director of the global initiative\nThe product certification program assesses whether an organization’s AI tool or system conforms to the criteria in the IEEE Ontological Specifications. A CertifiAIEd assessor evaluates the product to ensure it meets the criteria. Upon completion of the assessment, the owner submits it to the IEEE Conformity Assessment Program, which can certify it and issue the certification mark.\nIEEE SA also recently released its Responsible AI for Children certification program. This program certifies that AI products for children have been independently tested and verified to meet design and ethics requirements.\nNew industry connections group\nThe IEEE Artificial Intelligence Systems (AIS) for Global Flourishing Collaborative Industry Collections group was formed to provide the resources, knowledge, and tools needed to prioritize people’s well-being to developers of AI systems. It has more than 200 members.\nThe collaborative describes its work as a practical, systems-level framework for responsible technology design that translates flourishing into applied methods, metrics, and tools that can be used throughout the AIS lifecycle.\nThe group is establishing guidelines for how to design, evaluate, and govern systems that can measurably improve human well-being and ecological sustainability.\nSubcommittees are focused on cognition, education, faith, planetary care, spirituality, and other issues.\n“The group is building directly off the well-being chapter of Ethically Aligned Design and the IEEE 7010 standard (Recommended Practice for Assessing the Impact of Autonomous and Intelligent Systems on Human Well-Being),” Havens says. “That’s on purpose because if human and planetary flourishing aren’t addressed first in design, then human well-being and planetary sustainability are afterthoughts.”\nPodcasts and blogs \nTo mark the 10-year anniversary, IEEE SA created the five-part “Ethically Aligned Design: 10 Years of Impact” podcast series. It launched on 21 October. New episodes are being released every two weeks.\nThe episodes center around the vision for EAD, the process for selecting its foundational principles, and how they were translated into the IEEE 7000 standards. \nThe first podcast, “Origins of Ethically Aligned Design,” explored early efforts to make ethics a practical part of AI and autonomous system design. The experts discussed challenges, debates, global collaboration, and the real-world impact that helped move responsible technology from ethical principles toward actionable standards and practices.\nThe second podcast, “The Chapters and Committees” focuses on the multidisciplinary groups that worked on turning broad human values into practical guidance for AI and autonomous systems.\nThe podcast discussions serve as material for a thought leadership program that also includes blog articles about the IEEE 7000 series and educational resources to continue to raise awareness and support of this groundbreaking work.",
+          "summary": "Policymakers, technologists, and members of the public have raised concerns about the harm AI’s rapid advancement might cause to society. Their concerns include bias, data privacy violations, the spread of misinformation, and losing control of AI agents.\nThose issues are relatively new to many people, but the IEEE Standards Association has been working for the past decade on ways to prioritize the responsible development of AI systems.\nIn 2016 IEEE SA launched the IEEE Global Initiative for Ethical Considerations in Autonomous and Intelligent Systems (A/IS) and published the Ethically Aligned Design report. EAD’s mission is to encourage everyone involved in designing autonomous and intelligent systems to prioritize human well-being by applying ethical considerations for the benefit of humanity.\nDeveloped by a multidisciplinary community of experts from around the world, the report outlined eight foundational principles for A/IS. They include human rights, people’s well-being, and transparency. More than 100 leading AI ethics experts provided input. EAD’s Version II report was released in 2017. Both versions solicited public input and received hundreds of pages of feedback, according to John C. Havens, who was the global initiative’s founding executive director, and is now the global director for IEEE Planet Positive 2030. And by 2019, there were more than 400 contributors and the community continues to grow.\n“Ethically Aligned Design was the first of its kind in the sense of a report that was more than a list of principles and from an organization with the credibility of IEEE,” Havens says. “At the time it was released, there wasn’t anything like it.”\nSince its launch, a series of standards has been developed to provide practical guidelines on designing, building, and deploying technology that prioritizes human values. Several AI ethics certification programs have been introduced.\nThis year marks the 10th anniversary of EAD’s first draft. To celebrate, IEEE SA recently launched a website, a podcast series, and a blog that reflect on the report’s achievements and impact.\nEight guiding principles\nThe word ethics is often used interchangeably with morality, but that is not the case in responsible AI systems design, according to EAD’s first version. The report includes insights from classical ethics traditions and value-based design methodologies to offer actionable recommendations for engineers developing AI tools.\nThe report established eight foundational general principles for designing autonomous and intelligent systems: respecting human rights, prioritizing increased well-being as success criteria for development, empowering individuals with data agency to have control over their identity, effectiveness, transparency, accountability, awareness of misuse, and competence for the system creators.\nThe principles shift applied ethics to the design stage of AI systems, compared with being a concern after they’re released, the authors wrote. \nA suite of standards \nThe IEEE 7000 series of standards has been developed based on EAD’s framework. Currently the series consists of 29 projects, 11 of which have been published, and more are still being added. They cover topics such as ethical system design model process (IEEE 7000-2021), AI system transparency (IEEE 7001-2021), data privacy (IEEE 7002-2022), algorithmic bias considerations (IEEE 7003-2024), the impact on people’s well-being (IEEE 7010-2020), machine-readable personal privacy requirements (IEEE 7012-2025), and systems that mimic human empathy (IEEE 7014-2024).\nAI ethics certifications\nIEEE SA offers a suite of ethics in AI programs including IEEE CertifAIEd, which includes two certifications: one for individuals and one for products.\nThe professional certification provides individuals with skills to assess autonomous and intelligent systems for adherence to IEEE’s methodology and ethics criteria.\n“Ethically Aligned Design was the first of its kind in the sense of a report that was more than a list of principles and from an organization with the credibility of IEEE.” —John C. Havens, founding executive director of the global initiative\nThe product certification program assesses whether an organization’s AI tool or system conforms to the criteria in the IEEE Ontological Specifications. A CertifiAIEd assessor evaluates the product to ensure it meets the criteria. Upon completion of the assessment, the owner submits it to the IEEE Conformity Assessment Program, which can certify it and issue the certification mark.\nIEEE SA also recently released its Responsible AI for Children certification program. This program certifies that AI products for children have been independently tested and verified to meet design and ethics requirements.\nNew industry connections group\nThe IEEE Artificial Intelligence Systems (AIS) for Global Flourishing Collaborative Industry Collections group was formed to provide the resources, knowledge, and tools needed to prioritize people’s well-being to developers of AI systems. It has more than 200 members.\nThe collaborative describes its work as a practical, systems-level framework for responsible technology design that translates flourishing into applied methods, metrics, and tools that can be used throughout the AIS lifecycle.\nThe group is establishing guidelines for how to design, evaluate, and govern systems that can measurably improve human well-being and ecological sustainability.\nSubcommittees are focused on cognition, education, faith, planetary care, spirituality, and other issues.\n“The group is building directly off the well-being chapter of Ethically Aligned Design and the IEEE 7010 standard (Recommended Practice for Assessing the Impact of Autonomous and Intelligent Systems on Human Well-Being),” Havens says. “That’s on purpose because if human and planetary flourishing aren’t addressed first in design, then human well-being and planetary sustainability are afterthoughts.”\nPodcasts and blogs \nTo mark the 10-year anniversary, IEEE SA created the five-part “Ethically Aligned Design: 10 Years of Impact” podcast series. It launched on 21 October. New episodes are being released every two weeks.\nThe episodes center around the vision for EAD, the process for selecting its foundational principles, and how they were translated into the IEEE 7000 standards. \nThe first podcast, “Origins of Ethically Aligned Design,” explored early efforts to make ethics a practical part of AI and autonomous system design. The experts discussed challenges, debates, global collaboration, and the real-world impact that helped move responsible technology from ethical principles toward actionable standards and practices.\nThe second podcast, “The Chapters and Committees” focuses on the multidisciplinary groups that worked on turning broad human values into practical guidance for AI and autonomous systems.\nThe podcast discussions serve as material for a thought leadership program that also includes blog articles about the IEEE 7000 series and educational resources to continue to raise awareness and support of this groundbreaking work.\nThis article was updated on 18 November 2026.",
           "isoDate": "2026-11-17T19:00:03.000Z"
         },
         {
