@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-11-18T23:54:48.217Z",
+  "generatedAt": "2026-11-19T06:03:17.349Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Elon Musk tries to explain what&#8217;s going on with Ukraine and Starlink",
+          "link": "https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook",
+          "summary": "Elon Musk said Ukrainian president Volodymyr Zelenskyy is lying about disruptions to Starshield in Ukraine and that he's trying to misuse SpaceX's consumer service, Starlink, for military purposes. Musk made the comments at The New York Times' DealBook Summit on Wednesday as he tried to explain the conflict following weeks of back and forth between Zelenskyy, Musk, and the US government.\n\"From the beginning, I've said that Starlink is a civilian system,\" Musk said. \"It is not meant to be used for offensive drone strikes that kill people. If you want to do that, you need to do Starshield, which is a separate system that is controlled by the  …\nRead the full story at The Verge.",
+          "isoDate": "2026-11-19T01:39:45.000Z"
+        },
         {
           "title": "Ted Cruz-led committee approves Trump FCC nominee 15-0 as Democrats boycott vote",
           "link": "https://arstechnica.com/tech-policy/2026/11/ted-cruz-led-committee-approves-trump-fcc-nominee-15-0-as-democrats-boycott-vote/",
@@ -58,12 +64,6 @@
           "link": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
           "summary": "President Donald Trump is welcomed upon his arrival at Villamor Air Base on November 17th, 2026, in Manila, Philippines. | Photo: Getty Images\t\n\nPresident Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler. As he stepped onto the tarmac, a child handed him small US and Philippine flags. A band played \"YMCA,\" a staple at Trump rallies, as more girls in traditional bell-sleeved blouses and young men in wide-brimmed hats danced to the song.\nOutside the airport, hundreds of protesters packed streets bearing signs - and at least one prop casket - saying \"Trump out.\" Others say \"Reject Pax Silica,\" the name for the US-led international initiative to secure chips and critical minerals used in the  …\nRead the full story at The Verge.",
           "isoDate": "2026-11-18T19:40:36.000Z"
-        },
-        {
-          "title": "Best Buy sells Blu-rays online and in-store again",
-          "link": "https://arstechnica.com/gadgets/2026/11/best-buy-sells-blu-rays-again-after-quitting-the-business-in-2024/",
-          "summary": "Popular titles like The Odyssey are being “sold & shipped by Best Buy.\"",
-          "isoDate": "2026-11-18T19:31:17.000Z"
         }
       ]
     },
@@ -71,6 +71,18 @@
       "header": "120  CIENCIA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "APOD: 2026 November 19 – The Horsehead and Flame Nebulas",
+          "link": "https://science.nasa.gov/image-article/apod-2026-november-19-the-horsehead-and-flame-nebulas/",
+          "summary": "APOD Science APOD APOD: 2026 November 19 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. OriginalAnnotated The […]",
+          "isoDate": "2026-11-19T05:05:00.000Z"
+        },
+        {
+          "title": "El Niño Rains Paint the Atacama",
+          "link": "https://science.nasa.gov/earth/earth-observatory/el-nino-rains-paint-the-atacama/",
+          "summary": "Winter precipitation helped wake dormant seeds in northern Chile, carpeting the desert with what may be the region’s most extensive flowering of the satellite era.",
+          "isoDate": "2026-11-19T05:00:00.000Z"
+        },
         {
           "title": "NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch",
           "link": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/",
@@ -118,18 +130,6 @@
           "link": "https://science.nasa.gov/image-article/apod-2026-november-18-an-m-class-solar-flare/",
           "summary": "APOD Science APOD APOD: 2026 November 18 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Medium-Sized […]",
           "isoDate": "2026-11-18T05:05:00.000Z"
-        },
-        {
-          "title": "Sierra Snow Season Spins Up",
-          "link": "https://science.nasa.gov/earth/earth-observatory/sierra-snow-season-spins-up/",
-          "summary": "A widespread, early-season snowstorm blanketed California’s mountains in white in mid-November 2026.",
-          "isoDate": "2026-11-18T05:01:00.000Z"
-        },
-        {
-          "title": "Conference networking made simple, in three short videos",
-          "link": "https://www.nature.com/articles/d41586-026-03678-9",
-          "summary": "Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03678-9\nWorking the room is a skill you can practise and prepare for. Here’s how.",
-          "isoDate": "2026-11-18T00:00:00.000Z"
         }
       ]
     },
@@ -141,13 +141,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 74\nColumn: 41\nChar: &",
-          "isoDate": "2026-11-18T23:54:43.047Z"
+          "isoDate": "2026-11-19T06:03:14.872Z"
         },
         {
-          "title": "Claude-maker Anthropic poised for $1.4tn stock market debut",
+          "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
+          "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+          "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
+          "isoDate": "2026-11-19T02:59:06.000Z"
+        },
+        {
+          "title": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
           "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-          "summary": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
-          "isoDate": "2026-11-18T23:44:27.000Z"
+          "summary": "The firm started just five years ago and is now one of the biggest names in artificial intelligence.",
+          "isoDate": "2026-11-19T02:20:15.000Z"
         },
         {
           "title": "The seven Anthropic founders who are about to become multi-billionaires",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.co.uk/news/videos/cx1l0vm87yl9o?at_medium=RSS&at_campaign=rss",
           "summary": "Microsoft, major US banks, Apple and Air Traffic authorities have been hit over recent days by tech glitches.",
           "isoDate": "2026-11-18T05:10:02.000Z"
-        },
-        {
-          "title": "Waymo pulls driverless taxis from all US freeways",
-          "link": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
-          "summary": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
-          "isoDate": "2026-11-18T03:07:22.000Z"
         }
       ]
     },
@@ -234,6 +234,12 @@
           "isoDate": "2026-11-18T08:00:00.000Z"
         },
         {
+          "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+          "link": "https://openai.com/business/customer-stories/sumitomo-life",
+          "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+          "isoDate": "2026-11-18T08:00:00.000Z"
+        },
+        {
           "title": "Inside the Codex sandbox",
           "link": "https://openai.com/index/inside-the-codex-sandbox",
           "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
@@ -252,12 +258,6 @@
           "isoDate": "2026-11-18T05:00:00.000Z"
         },
         {
-          "title": "Advancing chip design with OpenAI models",
-          "link": "https://openai.com/index/advancing-chip-design-with-our-models",
-          "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
-          "isoDate": "2026-11-18T00:00:00.000Z"
-        },
-        {
           "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
           "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
           "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-11-18T23:54:47.104Z"
+          "isoDate": "2026-11-19T06:03:16.513Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-11-18T23:54:44.398Z"
+          "isoDate": "2026-11-19T06:03:15.661Z"
         },
         {
           "title": "Build a Personal Brand to Help Employers Find You",
