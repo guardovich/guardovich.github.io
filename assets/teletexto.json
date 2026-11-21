@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T23:42:07.794Z",
+  "generatedAt": "2026-11-21T05:46:41.049Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
@@ -141,7 +141,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 74\nColumn: 41\nChar: &",
-          "isoDate": "2026-11-20T23:42:02.977Z"
+          "isoDate": "2026-11-21T05:46:37.858Z"
+        },
+        {
+          "title": "Tech Now",
+          "link": "https://www.bbc.co.uk/iplayer/episode/m0034tjc?at_medium=RSS&at_campaign=rss",
+          "summary": "Alasdair Keane is in Naples exploring how tech is transforming the America's Cup race.",
+          "isoDate": "2026-11-21T01:00:00.000Z"
+        },
+        {
+          "title": "Can AI really help spot Black Friday deals? We put it to the test",
+          "link": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
+          "summary": "We put four AI models to the test to see if they could save us money on a new TV.",
+          "isoDate": "2026-11-21T00:06:11.000Z"
         },
         {
           "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
@@ -184,18 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
           "summary": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
           "isoDate": "2026-11-20T00:02:07.000Z"
-        },
-        {
-          "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-          "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
-          "summary": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
-          "isoDate": "2026-11-19T23:33:51.000Z"
-        },
-        {
-          "title": "Dutch watchdog tells people not to buy AI smart glasses",
-          "link": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o?at_medium=RSS&at_campaign=rss",
-          "summary": "Tests of glasses showed some misread medicine instructions or pretended to have called an ambulance",
-          "isoDate": "2026-11-19T16:33:17.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-11-20T23:42:06.547Z"
+          "isoDate": "2026-11-21T05:46:39.855Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-11-20T23:42:04.100Z"
+          "isoDate": "2026-11-21T05:46:38.890Z"
         },
         {
           "title": "I Don’t Trust Visual Recordings Anymore. But One Day I Will Again",
