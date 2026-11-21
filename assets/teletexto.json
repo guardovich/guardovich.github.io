@@ -1,10 +1,40 @@
 {
-  "generatedAt": "2026-11-21T05:46:41.049Z",
+  "generatedAt": "2026-11-21T14:16:11.083Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+          "link": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+          "summary": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word. They're all part of Chess's new Classic Games platform, which is launching its public beta on Saturday on the web and through a new app for iOS and Android.\n\"Our cofounders have had many people come up to them and say, 'Hey, I run a mahjong night on Wednesdays' or 'I go to this local bar in Chicago with like five people, and we love playing go, but we lack a Chess.c …\nRead the full story at The Verge.",
+          "isoDate": "2026-11-21T14:00:00.000Z"
+        },
+        {
+          "title": "The Xiaomi 18 Pro proves two screens aren’t better than one",
+          "link": "https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review",
+          "summary": "Both 18 Pro phones feature rear displays used for selfies, notifications, and AI apps.\t\n\nXiaomi introduced a second screen to its flagship phones with last year's 17 Pros, but didn't release them outside China. That means the new 18 Pro and Pro Max are the first chance I've had to find out if a screen on the back of a phone is any more useful now than it was when Xiaomi last tried it on 2021's Mi 11 Ultra - not to mention earlier efforts by the likes of Nubia and Vivo.\nAfter a week or two with both of Xiaomi's new Pro phones, I'm not entirely sold. The rear display has a single, obvious use case - it's helped me take some of the best selfies I've ever managed - but it isn't very useful otherwise.\nThe rest of the phones are gre …\nRead the full story at The Verge.",
+          "isoDate": "2026-11-21T13:00:00.000Z"
+        },
+        {
+          "title": "The game of the year is finally here",
+          "link": "https://www.theverge.com/tech/1039433/gta-vi-alfred-6-clockwisetv-installer",
+          "summary": "Hi, friends! Welcome to Installer No. 153, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, thank you for tearing yourself away from GTA to be here, and also you can read all the old editions at the Installer homepage.)\nThis week, I've been reading about nuclear radiation and F1 brains and phone scammers, watching about 10 minutes of Madden before bailing, playing a lot of Madden NFL instead, learning my way around Instagram Edits on the Mac, trying the 12-3-30 workout while watching Mission: Impossible movies in half-hour increments, getting my new Apple HomeView up and running (still don't know why I …\nRead the full story at The Verge.",
+          "isoDate": "2026-11-21T13:00:00.000Z"
+        },
+        {
+          "title": "“Race realism” isn’t realistic—and it isn’t good science",
+          "link": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/",
+          "summary": "Modern genetics does not support claims of innate racial differences in intelligence.",
+          "isoDate": "2026-11-21T12:01:13.000Z"
+        },
+        {
+          "title": "Harbinger is building the unsexy EVs that keep the economy moving",
+          "link": "https://www.theverge.com/transportation/1038448/harbinger-ev-startup-240m-series-d-fedex-army-trucks",
+          "summary": "While legacy automakers tap the brakes on electric vehicles, one startup is hitting the accelerator. Earlier this month, electric truck maker Harbinger raised $240 million in a Series D round, capping a banner stretch that includes a $300 million order from FedEx and a new defense contract with the US military.\nHarbinger is stacking up wins by skipping the consumer EV hype cycle altogether and focusing on the unglamorous workhorses that keep the economy running: Class 4-6 delivery vans and box trucks. The company's thesis is simple: go after the overlooked commercial segments where legacy trucks are weak and giant automakers can't be bother …\nRead the full story at The Verge.",
+          "isoDate": "2026-11-21T12:00:00.000Z"
+        },
         {
           "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
           "link": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
@@ -34,36 +64,6 @@
           "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
           "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
           "isoDate": "2026-11-20T20:59:08.000Z"
-        },
-        {
-          "title": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion",
-          "link": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement",
-          "summary": "YouTube is preparing to pay $3 billion to thousands of school districts to settle claims that its \"addictive design\" harmed kids, according to Bloomberg. Sources tell the publication that YouTube reached the agreement \"in principle,\" and that the deal would also include new safeguards for teens.\nThe settlement would allow Google to avoid a wave of lawsuits filed by US school districts that accuse YouTube, Meta, Snap, and TikTok of negatively impacting the mental health of teen users. The first \"bellwether\" trial of these federal multidistrict litigation (MDL) cases was supposed to start in Kentucky in June, but all four companies settled fo …\nRead the full story at The Verge.",
-          "isoDate": "2026-11-20T20:43:52.000Z"
-        },
-        {
-          "title": "Watching as a giant star swallowed its neighbor and exploded",
-          "link": "https://arstechnica.com/science/2026/11/astronomers-watched-a-star-spiral-to-its-death-inside-a-giant-companion/",
-          "summary": "A recent brightening turned out to be from a star orbiting inside another.",
-          "isoDate": "2026-11-20T20:41:17.000Z"
-        },
-        {
-          "title": "NASA’s new Moon plan is taking shape, but some big questions remain",
-          "link": "https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain/",
-          "summary": "\"We tend to have a lot of technical discussion and debate. That point will continue to be debated.\"",
-          "isoDate": "2026-11-20T20:26:33.000Z"
-        },
-        {
-          "title": "Prisons get OK to jam contraband phones. CTIA says nearby phones will be jammed too.",
-          "link": "https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/",
-          "summary": "CTIA said jamming test showed \"interference... up to two and a half miles away.\"",
-          "isoDate": "2026-11-20T19:52:59.000Z"
-        },
-        {
-          "title": "Rockstar says GTA VI made $3.79 billion in its first day",
-          "link": "https://www.theverge.com/games/1036279/gta-vi-sales",
-          "summary": "GTA VI earned $3.79 billion in its first day of sales, which set \"a new record for entertainment across any medium,\" according to an announcement from Rockstar Games. The game also sold 32.5 million preorder copies.\n\"It is with immense gratitude that we enter a new chapter of Rockstar Games with the release of Grand Theft Auto VI,\" Sam Houser, Rockstar's president and founder, said in a statement. \"We are incredibly humbled by the response from players around the world and we couldn't be more excited to share this moment with you.\" Rockstar claims that the game's release, which happened Thursday, was \"the biggest entertainment launch in his …\nRead the full story at The Verge.",
-          "isoDate": "2026-11-20T19:35:06.000Z"
         }
       ]
     },
@@ -71,6 +71,12 @@
       "header": "120  CIENCIA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "APOD: 2026 November 21 – Voyager’s Neptune",
+          "link": "https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/",
+          "summary": "APOD Science APOD APOD: 2026 November 21 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Voyager’s Neptune Explanation: […]",
+          "isoDate": "2026-11-21T05:05:00.000Z"
+        },
         {
           "title": "Curiosity Spots Drifting Twilight Clouds",
           "link": "https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds/",
@@ -124,12 +130,6 @@
           "link": "https://www.nature.com/articles/d41586-026-03806-5",
           "summary": "Nature, Published online: 20 November 2026; doi:10.1038/d41586-026-03806-5\nNature staff discuss the probe’s epic journey — plus, how vampire bats survive on a blood-only diet.",
           "isoDate": "2026-11-20T00:00:00.000Z"
-        },
-        {
-          "title": "Fraud helps little fire ants to survive and conquer",
-          "link": "https://www.nature.com/articles/d41586-026-03776-8",
-          "summary": "Nature, Published online: 20 November 2026; doi:10.1038/d41586-026-03776-8\nInvasive ants in China overcome larger rivals with a crafty stratagem and vigorous attack.",
-          "isoDate": "2026-11-20T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 74\nColumn: 41\nChar: &",
-          "isoDate": "2026-11-21T05:46:37.858Z"
+          "isoDate": "2026-11-21T14:16:07.489Z"
         },
         {
           "title": "Tech Now",
@@ -156,7 +156,7 @@
           "isoDate": "2026-11-21T00:06:11.000Z"
         },
         {
-          "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+          "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
           "link": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
           "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
           "isoDate": "2026-11-20T23:08:57.000Z"
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-11-21T05:46:39.855Z"
+          "isoDate": "2026-11-21T14:16:10.132Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-11-21T05:46:38.890Z"
+          "isoDate": "2026-11-21T14:16:08.872Z"
         },
         {
           "title": "I Don’t Trust Visual Recordings Anymore. But One Day I Will Again",
@@ -324,57 +324,12 @@
       "maxItems": 120,
       "items": [
         {
-          "title": "RESULTADOS (ÚLTIMOS)",
+          "title": "RESULTADOS (EN DIRECTO)",
           "link": "",
           "summary": ""
         },
         {
-          "title": "ATH  0-1  ESP",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "ATL  1-2  BAR",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "CEL  0-0  LEV",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "VIL  2-0  GET",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "REA  1-0  RAY",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "ELC  0-2  REA",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "VAL  0-3  REA",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "OSA  1-1  ATH",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "ESP  0-0  DEP",
-          "link": "",
-          "summary": ""
-        },
-        {
-          "title": "MÁL  1-2  SAN",
+          "title": "ALA  1-1  DEP",
           "link": "",
           "summary": ""
         },
@@ -424,12 +379,12 @@
           "summary": ""
         },
         {
-          "title": " 8  VIL  12   4  3  5  17  15   2  15",
+          "title": " 8  DEP  13   3  7  3  16  15   1  16",
           "link": "",
           "summary": ""
         },
         {
-          "title": " 9  DEP  12   3  6  3  15  14   1  15",
+          "title": " 9  VIL  12   4  3  5  17  15   2  15",
           "link": "",
           "summary": ""
         },
@@ -439,17 +394,17 @@
           "summary": ""
         },
         {
-          "title": "11  SAN  12   4  2  6  17  30 -13  14",
+          "title": "11  ALA  13   3  5  5  16  18  -2  14",
           "link": "",
           "summary": ""
         },
         {
-          "title": "12  CEL  12   2  7  3  10  10   0  13",
+          "title": "12  SAN  12   4  2  6  17  30 -13  14",
           "link": "",
           "summary": ""
         },
         {
-          "title": "13  ALA  12   3  4  5  15  17  -2  13",
+          "title": "13  CEL  12   2  7  3  10  10   0  13",
           "link": "",
           "summary": ""
         },
