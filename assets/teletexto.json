@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-11-22T23:16:07.205Z",
+  "generatedAt": "2026-11-23T05:56:09.166Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker",
+          "link": "https://www.theverge.com/tech/1038650/kodak-slidetag-keychain-photo-display-tracker-find-my-hub-google-apple-e-ink",
+          "summary": "After expanding its Charmera collection with a Millennium Edition featuring Y2K-inspired designs earlier this year, Reto's follow-up to its tiny Kodak camera is an equally small digital photo frame you can use to display your shots. But while the Charmera's usefulness stopped at snapping grainy photos and terrible videos, the Kodak SlideTag goes one step further. It also functions as a Bluetooth tracker that's compatible with either Apple's Find My or Google's Find Hub tracking networks.\nThe Kodak SlideTag will be available for $34.99 each and, like the Charmera, will feature a series of retro designs distributed in mystery boxes so you don …\nRead the full story at The Verge.",
+          "isoDate": "2026-11-23T03:00:00.000Z"
+        },
         {
           "title": "We haven’t seen the last of the major tech outages",
           "link": "https://www.theverge.com/tech/1039851/major-tech-outages",
@@ -58,12 +64,6 @@
           "link": "https://www.theverge.com/podcast/1039716/tamagotchi-history-digital-pets-anniversary",
           "summary": "If you were are a kid in the late 1990s, there's a near-100 percent chance you either had a Tamagotchi or knew someone who did. The tiny digital pets came out of nowhere and became an overnight sensation, as millions of kids signed up to parent a crying, hungry, constantly dirty creature. Until they went to school, anyway, at which point their parents were given some new responsibilities they neither asked for nor wanted.\nOn this episode of Version History, we dig deep into the story of the Tamagotchi. That story has its 30th anniversary this week, even though the real craze only lasted a few years. David Pierce is joined by The Verge's Mia …\nRead the full story at The Verge.",
           "isoDate": "2026-11-22T13:15:27.000Z"
-        },
-        {
-          "title": "Your questions about Apple HomeView’s audio, answered",
-          "link": "https://www.theverge.com/tech/1038713/apple-homeview-audio-smart-speaker-spotify-airplay",
-          "summary": "Apple’s HomeView is a great music controller and a decent speaker for its size. | Photo: Hunter McRae for The Verge\t\n\nAfter I published my review of the HomeView, Apple's first smart display, y'all still had a ton of questions about how it works as a smart speaker. So, I spent a bunch more time testing its audio capabilities and support for third-party music apps - and found a few more frustrations along the way. Here are the answers to all your burning questions. Have more? I'll answer them in the comments.\nHow does the HomeView sound compared to the HomePod Mini, Sonos One, and HomePod?\nThe HomeView isn't a replacement for a Sonos One, a full-size HomePod, or a similar-size speaker. Those are much better speakers. In size and sound, the HomeView is clos …\nRead the full story at The Verge.",
-          "isoDate": "2026-11-22T13:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 74\nColumn: 41\nChar: &",
-          "isoDate": "2026-11-22T23:16:03.586Z"
+          "isoDate": "2026-11-23T05:56:05.762Z"
+        },
+        {
+          "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+          "link": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+          "summary": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+          "isoDate": "2026-11-23T00:08:00.000Z"
         },
         {
           "title": "Tech Now",
@@ -190,12 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
           "summary": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
           "isoDate": "2026-11-20T07:32:19.000Z"
-        },
-        {
-          "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
-          "link": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
-          "summary": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
-          "isoDate": "2026-11-20T00:02:07.000Z"
         }
       ]
     },
@@ -203,6 +203,12 @@
       "header": "160  INTELIGENCIA ARTIFICIAL",
       "maxItems": 10,
       "items": [
+        {
+          "title": "AI-driven technique could help engineers design analog chips faster and with less expense",
+          "link": "https://news.mit.edu/2026/ai-driven-technique-could-help-engineers-design-analog-chips-faster-and-less-expensive-1123",
+          "summary": "The “SLIC” training method enables a small LLM to compete with much more resource-intensive models in complex circuit design tasks.",
+          "isoDate": "2026-11-23T05:00:00.000Z"
+        },
         {
           "title": "Perplexity and Intelligence",
           "link": "https://openai.com/index/perplexity-and-intelligence",
@@ -256,12 +262,6 @@
           "link": "https://news.mit.edu/2026/study-reveals-data-centers-long-distance-damage-air-quality-1119",
           "summary": "Researchers find air pollution from data center electricity use can affect communities far from the facilities, with some of the highest impacts in the Midwest.",
           "isoDate": "2026-11-19T14:00:00.000Z"
-        },
-        {
-          "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-          "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-          "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
-          "isoDate": "2026-11-19T08:00:00.000Z"
         }
       ]
     },
@@ -273,13 +273,13 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-11-22T23:16:06.240Z"
+          "isoDate": "2026-11-23T05:56:07.994Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-11-22T23:16:04.762Z"
+          "isoDate": "2026-11-23T05:56:07.063Z"
         },
         {
           "title": "I Don’t Trust Visual Recordings Anymore. But One Day I Will Again",
