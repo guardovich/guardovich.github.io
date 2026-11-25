@@ -1,69 +1,69 @@
 {
-  "generatedAt": "2026-11-24T17:00:07.490Z",
+  "generatedAt": "2026-11-25T01:56:03.765Z",
   "pages": {
     "101": {
       "header": "101  TECNOLOGÍA",
       "maxItems": 10,
       "items": [
         {
-          "title": "Fake gears and real 911 DNA: Driving Porsche's electric 718 Boxster",
-          "link": "https://arstechnica.com/cars/2026/11/fake-gears-and-real-911-dna-driving-porsches-electric-718-boxster/",
-          "summary": "Technical details are still limited, but we already know it's fun to drive.",
-          "isoDate": "2026-11-24T16:58:20.000Z"
+          "title": "US financial crimes bureau discloses ‘cybersecurity incident’",
+          "link": "https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident",
+          "summary": "The Financial Crimes Enforcement Network (FinCEN) disclosed on Tuesday that it's investigating a \"cybersecurity incident.\" The bureau, which is part of the Treasury Department, said it's looking into an \"incident that resulted in unauthorized access to a limited subset of its systems.\" It hasn't offered any information about the full scope or source of the breach, but FinCEN has taken some systems offline as a precaution.\nThe news comes hours after The New York Times reported that the Central Intelligence Agency and Office of the Director of National Security discovered a breach of an open source intelligence system, exposing unclassified i …\nRead the full story at The Verge.",
+          "isoDate": "2026-11-25T01:00:00.000Z"
         },
         {
-          "title": "US Commerce Department adds Megaspeed to trade blacklist as Huang retakes control of Nvidia",
-          "link": "https://www.theverge.com/policy/1041270/nvidia-megaspeed-commerce-dept-entity-list",
-          "summary": "As Jensen Huang returns to his post as Nvidia's CEO with support from the Trump Administration, the Department of Commerce has added Megaspeed to its Entity List, which blocks trade with the company, citing national security risks. As reported earlier by Semafor, Commerce Secretary Howard Lutnick had faced increasing pressure to list the company after news reports revealed Huang's affair with Alice Huang, a former Megaspeed executive, and that US officials suspected her of being a Chinese intelligence asset.\nThe Commerce Department said in a filing that it's adding Megaspeed and its affiliates in Malaysia and Thailand to the list \"because o …\nRead the full story at The Verge.",
-          "isoDate": "2026-11-24T16:37:03.000Z"
+          "title": "The Verge’s 2026 gift guide for dads",
+          "link": "https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026",
+          "summary": "Gone are the days when you could just buy your father a random tie or some leather-clad alcohol vessel or a shaving kit. Dads want - nay, deserve - something memorable. Luckily for you, it's not that hard to find something special that he'll approve of, and we're here to guide you.\nWe've curated this year's gift list with the modern father in mind, whether he's a gamer, creator, chef, or simply a gadget lover. There's a lot in here we think he'll like, from noise-canceling headphones like the Sonos Ace Ultra and an autonomous drone to a brilliant QD-OLED monitor and a nifty light that's perfect for illuminating his next campsite …\nRead the full story at The Verge.",
+          "isoDate": "2026-11-24T23:59:29.000Z"
         },
         {
-          "title": "Jensen Huang deepfakes are the hot new AI slop",
-          "link": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
-          "summary": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket. Suddenly, from behind him, Alice Huang - the Chinese technology executive and suspected spy he had an affair with, sparking congressional investigations and his resignation from the chipmaking company he cofounded - appears. She puts her hand on his shoulder and he wraps his arm around her waist as they begin dancing together. The video's caption reads \"Honey Trap Final Boss. #inthemoodforlove.\"\nOf course, it's AI-genera …\nRead the full story at The Verge.",
-          "isoDate": "2026-11-24T16:30:00.000Z"
+          "title": "Why the US Army is about to blow up nearly 10,000 pounds of unstable explosives in Iowa",
+          "link": "https://www.theverge.com/science/1041819/us-army-detonation-lead-explosives-iowa",
+          "summary": "A sign identifying the facility sits inside a fence surrounding the Iowa Army Ammunition Plant in Middletown, Iowa, on November 19th. | Photo: Getty Images\t\n\nThe US Army is moving ahead with plans to detonate the nation's stockpile of lead azide at an ammunition plant in Middletown, Iowa, at approximately 9:00AM CST on Wednesday. The Verge reached out to experts on what to expect, and will keep this post updated.\nWhat material is the Army planning to detonate?\nThere are 68 drums holding about 9,700 pounds of lead azide, an unstable chemical compound created to detonate munitions like grenades. The US started using lead azide as a primary explosive almost a century ago before \"moving away\" from it about 15 years ago because of how difficult the material is to store and transport, Robert Cekada,  …\nRead the full story at The Verge.",
+          "isoDate": "2026-11-24T23:25:46.000Z"
         },
         {
-          "title": "No more heated seat subscriptions for cars in New York from 2027",
-          "link": "https://arstechnica.com/cars/2026/11/new-york-says-no-more-subscriptions-for-in-car-features-or-does-it/",
-          "summary": "Services with “ongoing costs” are a pretty big loophole in the new law.",
-          "isoDate": "2026-11-24T16:20:37.000Z"
+          "title": "Half of NASA's aging Mars fleet knocked offline by technical issues",
+          "link": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/",
+          "summary": "Perseverance is having trouble transmitting to Earth. Odyssey is rapidly burning through its waning fuel supply.",
+          "isoDate": "2026-11-24T22:50:11.000Z"
         },
         {
-          "title": "NASA may get $2 billion boost as White House seeks to accelerate Artemis",
-          "link": "https://arstechnica.com/space/2026/11/nasa-may-get-2-billion-boost-as-white-house-seeks-to-accelerate-artemis/",
-          "summary": "\"Without this funding, activities would be delayed.\"",
-          "isoDate": "2026-11-24T16:12:46.000Z"
+          "title": "Microsoft's historic cloud outage exposed an engineering “fog of war”",
+          "link": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/",
+          "summary": "Internal memos reveal a “Code Red” overhaul and ambitious one-hour recovery goals.",
+          "isoDate": "2026-11-24T22:36:28.000Z"
         },
         {
-          "title": "The New York Times warns photographers not to update Photoshop over AI features",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-          "summary": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI \"in ways that may not be apparent to users.\" In an email seen by The Verge and posted on Threads, two of the Times' photography leaders, Meaghan Looram and Josh Haner, write that the use of these features \"can result in metadata identifying photographs as AI-generated.\"\nAdobe has spent the past few years filling Photoshop and other apps in its creative suite with a trove of AI-powered tools. The November update cited by the NYT's email adds several new AI features, including Adobe's new \"AI Assiste …\nRead the full story at The Verge.",
-          "isoDate": "2026-11-24T16:09:23.000Z"
+          "title": "Huawei found guilty of stealing trade secrets",
+          "link": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
+          "summary": "A jury has found Huawei guilty of stealing US trade secrets, as reported earlier by NBC News and Bloomberg. The verdict, handed down in a federal court in New York, concludes a years-long legal battle that accused the Chinese telecom giant of stealing source code and proprietary technology from several companies, including T-Mobile, Cisco, and Motorola.\nThe Department of Justice's 2018 criminal indictment against Huawei came to light following the arrest of the company's CFO, Wanzhou Meng, whom the agency accused of fraud. Though the indictment against Meng was eventually dismissed, she admitted to misleading banks over Huawei's operations  …\nRead the full story at The Verge.",
+          "isoDate": "2026-11-24T22:23:27.000Z"
         },
         {
-          "title": "Homo erectus lived in the rainforest alongside Denisovans",
-          "link": "https://arstechnica.com/science/2026/11/homo-erectus-lived-in-the-rainforest-alongside-denisovans/",
-          "summary": "You can learn a surprising amount from a few loose teeth.",
-          "isoDate": "2026-11-24T16:01:19.000Z"
+          "title": "GTA VI PC recompilation project shut down by Take-Two",
+          "link": "https://www.theverge.com/news/1041690/grand-theft-auto-6-pc-recompilation-project-leonida-takedown-take-two",
+          "summary": "Game modding communities are racing to get Grand Theft Auto VI running on PC, but one big effort has been taken down by Take-Two today. Leonida, a fan project by 15-year-old \"NotRexed,\" has vanished after a DMCA takedown notice from GTA VI publisher Take-Two.\nLeonida was designed to translate a leaked GTA VI Xbox build to run natively on Windows. Cyberleek, the leaker who posted multiple GTA VI gameplay videos over the summer, published a full Xbox build of the game earlier this week. The leak has kicked recompilation efforts up a notch, as modders race to reverse-engineer the game's code and rebuild it into native PC code.\nSome have manag …\nRead the full story at The Verge.",
+          "isoDate": "2026-11-24T21:39:14.000Z"
         },
         {
-          "title": "You can lock in Hulu and Disney Plus for as low as $5 per month for a year",
-          "link": "https://www.theverge.com/gadgets/1041150/hulu-disney-plus-black-friday-ad-free-streaming-subscription-deal-sale-2026",
-          "summary": "Emmy Rossum leads the fantastic cast of Furious. | Image: Hulu\t\n\nThe Black Friday offers on streaming services are rolling in, and the latest deal includes Disney Plus and Hulu for a steeply discounted monthly rate. There are sales happening for both the ad-supported and ad-free tiers that offer full access to both services, and either will save you quite a bit of money. \nFor those who despise ads, you can opt for the ad-free version for $14.99 per month (was $21.99) for a year, costing you $180 instead of $264 over the duration. This deal is located in a small banner near the bottom of the sale page via Hulu or Disney Plus. The ad-supported tier drops from $12.99 to just $4.99, so you’ll pay $60 over the course of the year instead of $156. You have through Cyber Monday, November 30th, at 11:59PM PST to take advantage of the lower prices.\nDisney Plus, Hulu Bundle\n\nWhere to Buy:\n\n $12.99 $4.99 at Hulu (ad-supported, monthly)\n $21.99 $14.99 at Hulu (ad-free, monthly)\n\nThe Hulu and Disney Plus bundle is one of the best values in streaming, especially if you have kids who can’t get enough Disney movies and other cartoons. On the other hand, Hulu is home to plenty of shows made for adults, including Furious (a crime drama that gripped this household like no other show this year), The Bear, Shōgun, Alien: Earth, The Lowdown, and many more. It’s worth the subscription just for those alone. \nThe bundle includes Star Wars and Marvel content plus fun, uplifting shows to dig into over the holidays, like Bob’s Burgers, Futurama, The Simpsons, and It’s Always Sunny in Philadelphia, to name some mainstays that tend to attract subscribers.\nIf you’re considering other subscription services, we covered discounts on Paramount Plus (I might snag this to watch Cupertino), HBO Max, and Peacock. (The Fall and Rise of Reggie Dinkins is fun!)",
-          "isoDate": "2026-11-24T15:24:46.000Z"
+          "title": "The Verge’s 2026 holiday gift guide for moms",
+          "link": "https://www.theverge.com/gadgets/1021621/best-gifts-for-mom-2026",
+          "summary": "Given everything moms do for us, it feels good to give back during the holidays. But where to start? How do you come up with a physical representation of how you feel about such a key and influential figure in your life? The possibilities seem as endless as they are daunting, but fear not, we've done the hard work for you.\nTo help you make the mother figure in your life feel truly appreciated, we've created a sprawling list of intriguing, lovingly curated gift ideas. From a ring watch and luxe portable gaming deck to a better robovac and an AI-powered bird feeder that brings nature to her doorstep, our list has something to fit  …\nRead the full story at The Verge.",
+          "isoDate": "2026-11-24T21:09:59.000Z"
         },
         {
-          "title": "Raising the stakes for enterprise networks with AI modernization",
-          "link": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
-          "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than the same tasks done by human workers. As…",
-          "isoDate": "2026-11-24T15:15:16.000Z"
+          "title": "What's going on with the Riemann hypothesis?",
+          "link": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
+          "summary": "A new AI-assisted proof seems to be solid, but we're not sure what it tells us.",
+          "isoDate": "2026-11-24T20:34:53.000Z"
         },
         {
-          "title": "Wyze’s new window feeder records birds from a camera inside your home",
-          "link": "https://www.theverge.com/tech/1041164/wyze-window-bird-cam-camera-identification",
-          "summary": "A year ago, Wyze introduced a $35 security camera that stuck to the inside of a window so you could keep an eye on what was happening outside your home without a complicated installation. Today the company announced its new Window Bird Cam, which expands on that idea by pairing a similar window-mounted camera with a feeder that attaches to the outside of the glass. Alongside the kit, Wyze is also launching a new subscription service called Bird Watch, which adds identification capabilities and features that will benefit busy yards.\nThe Wyze Window Bird Cam is available today through the company's online store for $69.98 and includes the out …\nRead the full story at The Verge.",
-          "isoDate": "2026-11-24T15:14:05.000Z"
+          "title": "TikTok was down",
+          "link": "https://www.theverge.com/tech/1041618/tiktok-down-outage",
+          "summary": "Earlier on Tuesday, TikTok experienced some issues, with videos, search results, favorites, and other features not loading as they usually do, following a slew of other outages over the past couple of weeks. Videos sometimes wouldn't load in the For You feed on my iPhone, and search results occasionally didn't show up as expected in the app on iOS or Android, or on the web. \nEven trying to pull up a profile would show a blank page, while links to videos are dead in the water too. However, as of 3:45PM ET or so, things appear to be working normally again. Downdetector showed around 25,000 reports of issues at around 2:56PM ET, and many peopl …\nRead the full story at The Verge.",
+          "isoDate": "2026-11-24T20:27:27.000Z"
         }
       ]
     },
@@ -71,6 +71,36 @@
       "header": "120  CIENCIA",
       "maxItems": 10,
       "items": [
+        {
+          "title": "NASA+ Content Coming to Big Screen at Greenbelt, Maryland Cinema",
+          "link": "https://www.nasa.gov/nasa/nasa-content-coming-to-big-screen-at-greenbelt-maryland-cinema/",
+          "summary": "NASA announced Monday that NASA+ content has found its first theatrical home at The Greenbelt Cinema in Greenbelt, Maryland, expanding the agency’s reach across major viewing platforms and bringing space even closer to home. “The National Aeronautics and Space Act of 1958 calls us to share our story of space exploration with the broadest possible […]",
+          "isoDate": "2026-11-24T21:14:36.000Z"
+        },
+        {
+          "title": "Teams Lock in Mission Architecture for NASA’s SR-1 Freedom",
+          "link": "https://www.nasa.gov/general/nasa-locks-in-sr1-freedom-mission-architecture/",
+          "summary": "NASA completed a major review for Space Reactor-1 (SR-1) Freedom and locked in key elements of the spacecraft, which is targeted to launch in 2028 and demonstrate nuclear electric propulsion in deep space for the first time.   Experts from across the agency, the U.S. Department of Energy (DOE), and industry met at NASA’s Glenn Research […]",
+          "isoDate": "2026-11-24T21:04:32.000Z"
+        },
+        {
+          "title": "Amateur Astronomer? Be a Kilonova Catcher!",
+          "link": "https://science.nasa.gov/get-involved/citizen-science/amateur-astronomer-be-a-kilonova-catcher/",
+          "summary": "Neutron stars are the ultra-dense, city-sized leftovers of dead stars. When they collide, they can release a brief flash of light called a kilonova. These immensely powerful events forge much of the universe’s gold, platinum and other heavy elements. Since a kilonova fades within days, astronomers have to find it fast, and no single observatory […]",
+          "isoDate": "2026-11-24T19:19:52.000Z"
+        },
+        {
+          "title": "NASA’s Northrop Grumman CRS-25 Mission Overview ",
+          "link": "https://www.nasa.gov/missions/station/nasas-northrop-grumman-crs-25-mission-overview/",
+          "summary": "NASA’s Northrop Grumman Commercial Resupply Services 25 mission, or Northrop Grumman CRS-25, will deliver about 11,000 pounds of science and supplies to the International Space Station. The mission will be the third flight of the company’s Cygnus XL, the larger, more cargo-capable version of the company’s solar-powered spacecraft. The Cygnus XL will launch aboard a […]",
+          "isoDate": "2026-11-24T19:09:16.000Z"
+        },
+        {
+          "title": "AGU Hyperwall Schedule",
+          "link": "https://science.nasa.gov/earth/agu-hyperwall-schedule/",
+          "summary": "American Geophysical Union (AGU) 2026 Join NASA in the Exhibit Hall (Booth #525) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. TUESDAY, NOVEMBER 17 10:30 AMHigh Resolution Hydrology Simulations and Agentic Super Intelligence Interfaces for Mapping Water Availability and ExtremesSujay Kumar11:00 AMScale-Resolving CFD Methods for Predicting Aircraft “Edge of the Flight Envelope” PerformanceJared […]",
+          "isoDate": "2026-11-24T18:55:42.000Z"
+        },
         {
           "title": "Webb Reveals New Details in Supernova Remnant",
           "link": "https://www.nasa.gov/image-article/webb-reveals-new-details-in-supernova-remnant/",
@@ -100,36 +130,6 @@
           "link": "https://science.nasa.gov/earth/earth-observatory/eruption-extends-iwo-jimas-beach/",
           "summary": "A volcanic eruption just off the southeast shore of the Pacific island has reshaped the coast, but it’s unclear how long the new land will survive.",
           "isoDate": "2026-11-24T05:01:00.000Z"
-        },
-        {
-          "title": "Fight AI slop without punishing legitimate researchers",
-          "link": "https://www.nature.com/articles/d41586-026-03824-3",
-          "summary": "Nature, Published online: 24 November 2026; doi:10.1038/d41586-026-03824-3\nFight AI slop without punishing legitimate researchers",
-          "isoDate": "2026-11-24T00:00:00.000Z"
-        },
-        {
-          "title": "Richard of Wallingford and his Rectangulus",
-          "link": "https://www.nature.com/articles/d41586-026-03725-5",
-          "summary": "Nature, Published online: 24 November 2026; doi:10.1038/d41586-026-03725-5\nThe life of the man who brought trigonometry to England, and experiments begin on a newly completed accelerator at CERN, in our weekly dip into Nature’s archive.",
-          "isoDate": "2026-11-24T00:00:00.000Z"
-        },
-        {
-          "title": "The science on AI consciousness must acknowledge uncertainty",
-          "link": "https://www.nature.com/articles/d41586-026-03822-5",
-          "summary": "Nature, Published online: 24 November 2026; doi:10.1038/d41586-026-03822-5\nThe science on AI consciousness must acknowledge uncertainty",
-          "isoDate": "2026-11-24T00:00:00.000Z"
-        },
-        {
-          "title": "Himalayan disasters demand biodiversity conservation across borders",
-          "link": "https://www.nature.com/articles/d41586-026-03825-2",
-          "summary": "Nature, Published online: 24 November 2026; doi:10.1038/d41586-026-03825-2\nHimalayan disasters demand biodiversity conservation across borders",
-          "isoDate": "2026-11-24T00:00:00.000Z"
-        },
-        {
-          "title": "Submission caps aren’t enough to tackle AI slop",
-          "link": "https://www.nature.com/articles/d41586-026-03823-4",
-          "summary": "Nature, Published online: 24 November 2026; doi:10.1038/d41586-026-03823-4\nSubmission caps aren’t enough to tackle AI slop",
-          "isoDate": "2026-11-24T00:00:00.000Z"
         }
       ]
     },
@@ -141,7 +141,37 @@
           "title": "ERROR cargando feed",
           "link": "https://www.reutersagency.com/feed/?best-topics=technology",
           "summary": "Invalid character in entity name\nLine: 74\nColumn: 41\nChar: &",
-          "isoDate": "2026-11-24T17:00:00.946Z"
+          "isoDate": "2026-11-25T01:55:59.159Z"
+        },
+        {
+          "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+          "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+          "summary": "The verdict follows a months-long trial in New York.",
+          "isoDate": "2026-11-25T01:11:57.000Z"
+        },
+        {
+          "title": "Why tiny cars are taking off across Europe",
+          "link": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss",
+          "summary": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic.",
+          "isoDate": "2026-11-25T00:34:05.000Z"
+        },
+        {
+          "title": "US attorney general dodges questions about Nvidia investigation",
+          "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+          "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+          "isoDate": "2026-11-24T21:19:42.000Z"
+        },
+        {
+          "title": "Tech Life",
+          "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyx?at_medium=RSS&at_campaign=rss",
+          "summary": "Experts from around the world plot the progress of AI development every five years.",
+          "isoDate": "2026-11-24T21:00:00.000Z"
+        },
+        {
+          "title": "Faisal Islam: Fears over the AI boom haven't gone away",
+          "link": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss",
+          "summary": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it",
+          "isoDate": "2026-11-24T18:21:43.000Z"
         },
         {
           "title": "Helpful but awkward: My week with Meta's Muse ahead of its UK launch",
@@ -166,36 +196,6 @@
           "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
           "summary": "The Nvidia chief executive has been at the centre of the artificial intelligence boom.",
           "isoDate": "2026-11-23T16:12:35.000Z"
-        },
-        {
-          "title": "The rise and fall and rise again of Jensen Huang",
-          "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
-          "summary": "Days after resigning while mired in scandal of extra-marital affairs, Nvidia's Jensen Huang is making a remarkable return.",
-          "isoDate": "2026-11-23T15:49:52.000Z"
-        },
-        {
-          "title": "GTA 6 hacker released on licence with warning 'don't let this happen again'",
-          "link": "https://www.bbc.co.uk/news/articles/cqpv9kr7pxmro?at_medium=RSS&at_campaign=rss",
-          "summary": "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager.",
-          "isoDate": "2026-11-23T14:08:50.000Z"
-        },
-        {
-          "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
-          "link": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
-          "summary": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
-          "isoDate": "2026-11-23T00:08:00.000Z"
-        },
-        {
-          "title": "Tech Now",
-          "link": "https://www.bbc.co.uk/iplayer/episode/m0034tjc?at_medium=RSS&at_campaign=rss",
-          "summary": "Alasdair Keane is in Naples exploring how tech is transforming the America's Cup race.",
-          "isoDate": "2026-11-21T01:00:00.000Z"
-        },
-        {
-          "title": "Can AI really help spot Black Friday deals? We put it to the test",
-          "link": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
-          "summary": "We put four AI models to the test to see if they could save us money on a new TV.",
-          "isoDate": "2026-11-21T00:06:11.000Z"
         }
       ]
     },
@@ -203,6 +203,42 @@
       "header": "160  INTELIGENCIA ARTIFICIAL",
       "maxItems": 10,
       "items": [
+        {
+          "title": "Agentic system personalizes physical controls to help users “DJ their art”",
+          "link": "https://news.mit.edu/2026/tangimap-agentic-system-personalizes-physical-controls-help-users-dj-their-art-1124",
+          "summary": "“TangiMap” uses an AI agent to reprogram how buttons, knobs, and sliders are used, helping users do things like edit photos and perform music in a more dynamic, tactile way.",
+          "isoDate": "2026-11-24T19:30:00.000Z"
+        },
+        {
+          "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+          "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+          "isoDate": "2026-11-24T13:00:00.000Z"
+        },
+        {
+          "title": "Searching for distant planets with Astra",
+          "link": "https://openai.com/index/searching-for-distant-planets-with-astra",
+          "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+          "isoDate": "2026-11-24T11:00:00.000Z"
+        },
+        {
+          "title": "How Intentful uses dots to make more time for growth",
+          "link": "https://openai.com/business/customer-stories/intentful-dots",
+          "summary": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+          "isoDate": "2026-11-24T00:00:00.000Z"
+        },
+        {
+          "title": "How iFood scales coding agents across 15,000 repositories",
+          "link": "https://openai.com/business/customer-stories/ifood",
+          "summary": "",
+          "isoDate": "2026-11-24T00:00:00.000Z"
+        },
+        {
+          "title": "Clay helps sales teams win with Codex and ChatGPT",
+          "link": "https://openai.com/business/customer-stories/clay-plugins-openai",
+          "summary": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+          "isoDate": "2026-11-24T00:00:00.000Z"
+        },
         {
           "title": "OpenAI and Cisco introduce Shirudo",
           "link": "https://openai.com/index/introducing-shirudo",
@@ -226,42 +262,6 @@
           "link": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
           "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
           "isoDate": "2026-11-23T08:00:00.000Z"
-        },
-        {
-          "title": "Richpanel helps companies automate 50% of support in 30 days",
-          "link": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
-          "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
-          "isoDate": "2026-11-23T08:00:00.000Z"
-        },
-        {
-          "title": "AI-driven technique could help engineers design analog chips faster and with less expense",
-          "link": "https://news.mit.edu/2026/ai-driven-technique-could-help-engineers-design-analog-chips-faster-and-less-expensive-1123",
-          "summary": "The “SLIC” training method enables a small LLM to compete with much more resource-intensive models in complex circuit design tasks.",
-          "isoDate": "2026-11-23T05:00:00.000Z"
-        },
-        {
-          "title": "Perplexity and Intelligence",
-          "link": "https://openai.com/index/perplexity-and-intelligence",
-          "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
-          "isoDate": "2026-11-22T00:00:00.000Z"
-        },
-        {
-          "title": "Q&A: Enabling more human-like interactions and understanding in multimodal foundation models",
-          "link": "https://news.mit.edu/2026/qa-enabling-more-human-interactions-understanding-multimodal-foundation-models-1120",
-          "summary": "Senior Research Scientist Jim Glass discusses how his MIT-IBM Computing Research Lab collaboration connects perception and language, and addresses the shortcoming of current models.",
-          "isoDate": "2026-11-20T21:00:00.000Z"
-        },
-        {
-          "title": "New approach enables physically consistent AI models of chaotic systems",
-          "link": "https://news.mit.edu/new-approach-enables-physically-consistent-ai-models-chaotic-systems-1120",
-          "summary": "Enforcing physics-based constraints prevents AI models from generating unreliable predictions for complex nonlinear systems in weather, climate, and turbulent flows.",
-          "isoDate": "2026-11-20T20:00:00.000Z"
-        },
-        {
-          "title": "Following the “mathocalypse,” mathematicians consider the future",
-          "link": "https://news.mit.edu/2026/following-mathocalypse-mathematicians-consider-future-1120",
-          "summary": "A panel discussion at MIT explored AI’s implications for mathematical discovery and the people who make it their profession.",
-          "isoDate": "2026-11-20T15:20:00.000Z"
         }
       ]
     },
@@ -273,13 +273,19 @@
           "title": "ERROR cargando feed",
           "link": "https://www.brookings.edu/topic/technology/feed/",
           "summary": "Invalid character in entity name\nLine: 86\nColumn: 559\nChar:  ",
-          "isoDate": "2026-11-24T17:00:04.038Z"
+          "isoDate": "2026-11-25T01:56:02.773Z"
         },
         {
           "title": "ERROR cargando feed",
           "link": "https://theconversation.com/global/topics/technology-12/articles.rss",
           "summary": "Invalid character in entity name\nLine: 58\nColumn: 58\nChar: =",
-          "isoDate": "2026-11-24T17:00:02.772Z"
+          "isoDate": "2026-11-25T01:56:00.737Z"
+        },
+        {
+          "title": "Mitsubishi Electric Research Lab CEO on How He Reached the C-Suite",
+          "link": "https://spectrum.ieee.org/mitsubishi-electric-research-lab-ceo",
+          "summary": "The trajectory from researcher to top executive at a leading R&D organization doesn’t happen overnight. It took Anthony Vetro nearly 30 years to climb the corporate ladder at Mitsubishi Electric Research Laboratories, in Cambridge, Mass. He joined MERL in 1996, right out of college, and he has worked there ever since.\nVetro probably is best known for his research in multimedia signal processing, focusing on video compression.\nAnthony Vetro\n\nEmployer \nMitsubishi Electric Research Laboratories, in Cambridge, Mass.\nTitle \nPresident and CEO \nMember grade \nFellow\nAlma mater \nPolytechnic Institute of Brooklyn (now New York University’s Tandon engineering school) \nHe became an IEEE Fellow in 2011 for his contributions to video coding, three-dimensional television, and multimedia adaptation.\nMitsubishi Electric has moved away from making televisions. It now focuses on developing systems including ones used for defense, electronics, the energy industry, and space exploration.\nHis ascension up the executive ranks began in 2018, when he was named a vice president and director of MERL. In 2023 he was appointed its president and CEO.\nHe also works closely with the company’s new U.S.-based innovation facility in Cambridge. And he recently took on a dual role as deputy head of Mitsubishi Electric’s global R&D activities, including in Asia and Europe.\nVetro credits IEEE with helping him develop his management skills after he served in several IEEE Signal Processing Society leadership positions. He also learned from his key roles in establishing international standards for digital image formats and video compression, he says.\n“Between my IEEE activities, standards work, and some of the business shifts in Mitsubishi Electric, I eventually graduated to more management leadership roles,” he says.\nA multimedia pioneer\nVetro is the son of immigrants. His father came to the United States from Italy and his mother from Sweden when they were both in their early 20s. They settled in New York City, on Staten Island.\nAlthough neither parent went to college, his father stressed the importance of education to his son at an early age.\n“My father started in the mailroom and worked his way up to eventually managing communication accounts and infrastructure for large financial companies,” he says. “My mother worked in banks, first as a teller and later doing bank reconciliation after pursuing some professional certifications.\n“Through their jobs, they saw people with college degrees getting better positions and promotions, so education was something really ingrained in me.”\nVetro says he developed a passion for mathematics and engineering in middle school. He was accepted into the Staten Island Technical High School, a specialized pre-engineering institution. There he solidified his interest in pursuing a career in the field.\n“A lot of students didn’t know what they wanted to major in at college, but I knew fairly early,” he says.\nHe was accepted into the accelerated bachelor’s and master’s engineering degree programs at the Polytechnic Institute of Brooklyn (now New York University’s Tandon engineering school). He began his bachelor’s degree program in 1992 and the master’s program in 1994.\n“As part of the master’s degree program, I needed to do a thesis,” he says. “I wasn’t sure exactly what it would be on. Soon after taking my first course on image processing, I was certain that was an area I wanted to work in.”\nIt was an interesting time, he says, because broadcast television was going through a major transformation, shifting from analog to digital during the early 1990s. It was long before streaming services, he notes.\n“I feel that industry-level engagement in IEEE is very vital to the organization in maintaining high relevance in the community and fulfilling its mission of fostering technological innovation and excellence for the benefit of humanity.”\n“The idea of being able to come up with compact ways to represent this very rich information was really appealing to me,” he says. “I’m also a visual learner. I liked seeing images, and there was some nice math behind them, too.”\nAfter he earned both degrees in 1996, Mitsubishi Electric hired him for its technical staff. He conducted research on multimedia signal processing, focusing on video compression.\n“The opportunity to work on projects around digital TV broadcasting and image processing attracted me,” he says.\nHe conducted research in video conferencing, Internet and mobile streaming, and video coding technology, widely used for broadcasting, DVDs, and Blu-ray discs. He developed several technologies including digital TV receivers and displays, surveillance and camera-monitoring systems, automotive equipment, and satellite imaging systems.\nAnother advantage of joining the company, he says, was that it allowed him to pursue a doctorate in electrical engineering, also from Polytechnic, while working.\n“That really sealed the deal,” he says. He received the degree in 2001.\nThe road to management\nAfter six years as a technical staff member, he was promoted in 2007 to manage the group working on digital video coding, processing, and streaming. Seven years later, Vetro became its deputy director, a top-level management position that he held until 2018.\n“After working for about 10 years exclusively on video compression processing technology, there were some shifts in our company’s business. Its overall strategy began to change,” he says, “so I became interested in broadening my experience beyond video.”\nHe was asked to lead the lab’s speech and audio team. It was more development-oriented, he says, and focused on vehicle infotainment and speech interfaces before Alexa and Siri existed. He pivoted the team’s focus more toward research and established strategic paths tailored to emerging opportunities within the organization. Recognizing emerging trends in sensing and information security, he formed groups that worked on them.\nMitsubishi Electric’s first U.S. innovation hub\nTo help spur innovation between Mitsubishi Electric and its U.S. customers, the company in June opened Serendie Street Boston, its first digital transformation hub in the United States. It’s colocated with MERL.\nThe new office is modeled after the first Serendie Street collaboration space, which Mitsubishi Electric launched in 2024 in Yokohama, Japan.\nThe word serendie is a combination of serendipity and digital engineering, according to the company’s website. Serendie is the digital platform designed to foster collaborations between data, people, and technology, it says. The space where people interact to extract ideas from the data is called “the street.”\nThe platform brings together researchers, startups, customers, and partners to identify new products, test them, run pilot programs, and scale them up.\nVetro says he’s excited about the endeavor.\n“Serendie Street [Boston] aims to strengthen the bridge between our global R&D efforts and real-world industry challenges. The hub is intended to bring our partners and customers together to engage in more cocreation activities, where we listen to their problems and work together to solve them,” he says. “I think the company has come to recognize that we can’t just do it all internally by ourselves.”\nThe technologies being worked on include robotics, energy solutions such as integrating renewable energy into the grid, and more energy-efficient data center systems.\nThe decision to colocate the hub with MERL offices was deliberate, Vetro says.\n“The area has a very rich ecosystem,” he says. “We have Harvard, MIT, and many other universities a stone’s throw away.”\nStrengthening IEEE’s involvement with industry\nVetro joined IEEE in 1992 as a student member during an event the Polytechnic’s student branch was holding. He enjoyed reading the IEEE Potentials student member publication and other periodicals, he says.\n“In the earliest stages of my career, IEEE was a place where I could attend conferences, read journals, and stay on top of the latest research and trends,” he says. “Over the years, I was able to build a professional network, which has been helpful. That facilitated a lot of research collaboration with university professors attending the conferences.\n“In more recent years, IEEE has provided a great platform for industry to exhibit thought leadership and discuss real-world problems we’re facing. I think these discussions may have even set some research directions among the academic community.”\nVetro is an active volunteer for the IEEE Signal Processing Society. He has chaired several of its technical committees and conferences, and he served as an associate editor for some of its journals.\nHe says he’s most proud of establishing the society’s industry board and serving as its inaugural chair. The board formed a corporate engagement program, launched the Industry Signals newsletter, developed short courses tailored to industry, and holds career fairs at the society’s flagship conferences.\nVetro also had a hand in MERL sponsoring two IEEE technical field awards: the Flanagan Speech and Audio Processing Award and the Fourier Award for Signal Processing.\n“Industry-level engagement in IEEE is really very vital to the organization in maintaining its relevance to the community and fulfilling its mission of fostering technological innovation and excellence for the benefit of humanity,” he says.",
+          "isoDate": "2026-11-24T19:00:01.000Z"
         },
         {
           "title": "Learn How 5G NTN Architecture, Mobility, and Testing Shape 6G",
@@ -310,12 +316,6 @@
           "link": "https://spectrum.ieee.org/personal-branding-for-engineers",
           "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Parsity and delivered to your inbox for free!In one year, the number of developers working for themselves has more than doubled. Stack Overflow’s annual survey of more than 30,000 developers showed that freelancers and sole proprietors went from about four percent of respondents to ten percent.\nYou can read this as a polite way of saying, “I got laid off and I’m figuring it out.” But I don’t think the number can be ignored.\nWhatever the case, it leads to the question I keep hearing from engineers right now: What can I do to stay employable? One tried and true answer is to build a personal brand. \nBut what does that actually mean?\nOver the last six years, I grew my LinkedIn audience to 40,000 followers and YouTube channel to 10,000. I don’t think you should aim to be famous (unless you’re into that sort of thing) but I do think it’s worth exploring how to be discoverable online in 2027 if you want an advantage in the open market.\nA personal brand is a discovery mechanism\nStrip away the follower counts and the AI-generated thought leadership, and a personal brand comes down to a simple question: Does the internet know who you are? When a hiring manager goes looking for someone who has your skills, do you show up?\nYou can think of this as search engine optimization for your employability. Recruiters have mostly consolidated around a single platform to find people: LinkedIn.\nThose 40,000 followers and millions of impressions came with barely a viral post to my name. Nobody is begging me to do sponsorships. But I rarely have trouble finding work, and far more opportunities come to me than I go looking for. That has much less to do with fame than with being easy to find.\nYou don’t need 10,000 followers. You need a trail of breadcrumbs.\nDon’t write AI slop\nLinkedIn is notorious for being overrun with AI-generated posts. It’s become a running joke. That’s good news for you, because the bar to stand out is “sound like a human being.”\nWrite about what you actually achieved: a hairy bug you squashed, how your team handles deployments, why you picked some obscure library, the migration that went sideways at 2 a.m. Specifics are hard to fake and easy to trust. (But be careful not to post sensitive information.) \nAnd post a picture of yourself once in a while. People connect with faces a lot faster than with walls of text.\nHot takes, with caution\nPosts with an opinion tend to outperform tutorials, but you don’t have to dunk on anyone to have one. For instance, if you work on a tech stack people love to mock (VB, .NET, some ancient Java monolith held together with prayer), try something like “What people get wrong about .NET.” \nYou’ll attract a few trolls in the comments—free engagement, honestly—plus people who want an actual conversation. These comments can turn into actual connections and even… friends.\nA routine you can follow\nPosting twice a week is not a big ask. Pick a simple, repeatable format so you’re never staring at an empty text box: what you worked on, what broke, and what you learned. Even a post that gets 10 views leaves one more breadcrumb about who you are and what you know.\nOver time, the people who comment become your network. And because so few engineers post about their work on LinkedIn, you can become a big fish in a small pond surprisingly fast.\nWrite for the people a few steps behind you\nThe best audience is engineers one or two steps behind where you are now. Answer the questions you had a year ago. It helps them, it sharpens your own thinking, and every so often it turns into mentorship in both directions.\nIt also tells a future employer more about how you think than any résumé bullet ever could.\nThe engineers who grab the most opportunities are the ones employers can find. You don’t need to become an influencer to be one of them. You just need to leave enough breadcrumbs that the right person can follow them back to you.\n—Brian\nIEEE Xplore Digital Library Adds AI Assistant\nTo help researchers search through the millions of peer-review publications in the IEEE Xplore Digital Library, IEEE has released a custom AI suite optimized for STEM literature. The suit allows users to search with natural-language queries and provides overviews with reference links. \nRead more here. \nSystems Thinking Is Vital in the Age of AI\nAI has made it easier to access information in different domains, but specialist knowledge and human judgement still serve an essential role. Today, an engineer’s core value comes from knowing how to ask the right questions—not from knowing everything. \nRead more here.\nThe Robot I Didn’t Expect to Build\nIn this feature article, Agility Robotics’ cofounder Jonathan Hurst tells the inside story of the company’s latest humanoid robot and offers a valuable lesson about learning to pivot. “To deliver a useful commercial product, Agility has taken a path that is very different from what I first imagined,” Hurst writes.\nRead more here.",
           "isoDate": "2026-11-18T17:33:26.000Z"
-        },
-        {
-          "title": "IEEE Celebrates 10 Years of Incorporating Ethics Into AI Systems",
-          "link": "https://spectrum.ieee.org/ieee-ethics-ai-systems",
-          "summary": "Policymakers, technologists, and members of the public have raised concerns about the harm AI’s rapid advancement might cause to society. Their concerns include bias, data privacy violations, the spread of misinformation, and losing control of AI agents.\nThose issues are relatively new to many people, but the IEEE Standards Association has been working for the past decade on ways to prioritize the responsible development of AI systems.\nIn 2016 IEEE SA launched the IEEE Global Initiative for Ethical Considerations in Autonomous and Intelligent Systems (A/IS) and published the Ethically Aligned Design report. EAD’s mission is to encourage everyone involved in designing autonomous and intelligent systems to prioritize human well-being by applying ethical considerations for the benefit of humanity.\nDeveloped by a multidisciplinary community of experts from around the world, the report outlined eight foundational principles for A/IS. They include human rights, people’s well-being, and transparency. More than 100 leading AI ethics experts provided input. EAD’s Version II report was released in 2017. Both versions solicited public input and received hundreds of pages of feedback, according to John C. Havens, who was the global initiative’s founding executive director, and is now the global director for IEEE Planet Positive 2030. And by 2019, there were more than 400 contributors and the community continues to grow.\n“Ethically Aligned Design was the first of its kind in the sense of a report that was more than a list of principles and from an organization with the credibility of IEEE,” Havens says. “At the time it was released, there wasn’t anything like it.”\nSince its launch, a series of standards has been developed to provide practical guidelines on designing, building, and deploying technology that prioritizes human values. Several AI ethics certification programs have been introduced.\nThis year marks the 10th anniversary of EAD’s first draft. To celebrate, IEEE SA recently launched a website, a podcast series, and a blog that reflect on the report’s achievements and impact.\nEight guiding principles\nThe word ethics is often used interchangeably with morality, but that is not the case in responsible AI systems design, according to EAD’s first version. The report includes insights from classical ethics traditions and value-based design methodologies to offer actionable recommendations for engineers developing AI tools.\nThe report established eight foundational general principles for designing autonomous and intelligent systems: respecting human rights, prioritizing increased well-being as success criteria for development, empowering individuals with data agency to have control over their identity, effectiveness, transparency, accountability, awareness of misuse, and competence for the system creators.\nThe principles shift applied ethics to the design stage of AI systems, compared with being a concern after they’re released, the authors wrote. \nA suite of standards \nThe IEEE 7000 series of standards has been developed based on EAD’s framework. Currently the series consists of 29 projects, 11 of which have been published, and more are still being added. They cover topics such as ethical system design model process (IEEE 7000-2021), AI system transparency (IEEE 7001-2021), data privacy (IEEE 7002-2022), algorithmic bias considerations (IEEE 7003-2024), the impact on people’s well-being (IEEE 7010-2020), machine-readable personal privacy requirements (IEEE 7012-2025), and systems that mimic human empathy (IEEE 7014-2024).\nAI ethics certifications\nIEEE SA offers a suite of ethics in AI programs including IEEE CertifAIEd, which includes two certifications: one for individuals and one for products.\nThe professional certification provides individuals with skills to assess autonomous and intelligent systems for adherence to IEEE’s methodology and ethics criteria.\n“Ethically Aligned Design was the first of its kind in the sense of a report that was more than a list of principles and from an organization with the credibility of IEEE.” —John C. Havens, founding executive director of the global initiative\nThe product certification program assesses whether an organization’s AI tool or system conforms to the criteria in the IEEE Ontological Specifications. A CertifiAIEd assessor evaluates the product to ensure it meets the criteria. Upon completion of the assessment, the owner submits it to the IEEE Conformity Assessment Program, which can certify it and issue the certification mark.\nIEEE SA also recently released its Responsible AI for Children certification program. This program certifies that AI products for children have been independently tested and verified to meet design and ethics requirements.\nNew industry connections group\nThe IEEE Artificial Intelligence Systems (AIS) for Global Flourishing Collaborative Industry Collections group was formed to provide the resources, knowledge, and tools needed to prioritize people’s well-being to developers of AI systems. It has more than 200 members.\nThe collaborative describes its work as a practical, systems-level framework for responsible technology design that translates flourishing into applied methods, metrics, and tools that can be used throughout the AIS lifecycle.\nThe group is establishing guidelines for how to design, evaluate, and govern systems that can measurably improve human well-being and ecological sustainability.\nSubcommittees are focused on cognition, education, faith, planetary care, spirituality, and other issues.\n“The group is building directly off the well-being chapter of Ethically Aligned Design and the IEEE 7010 standard (Recommended Practice for Assessing the Impact of Autonomous and Intelligent Systems on Human Well-Being),” Havens says. “That’s on purpose because if human and planetary flourishing aren’t addressed first in design, then human well-being and planetary sustainability are afterthoughts.”\nPodcasts and blogs \nTo mark the 10-year anniversary, IEEE SA created the five-part “Ethically Aligned Design: 10 Years of Impact” podcast series. It launched on 21 October. New episodes are being released every two weeks.\nThe episodes center around the vision for EAD, the process for selecting its foundational principles, and how they were translated into the IEEE 7000 standards. \nThe first podcast, “Origins of Ethically Aligned Design,” explored early efforts to make ethics a practical part of AI and autonomous system design. The experts discussed challenges, debates, global collaboration, and the real-world impact that helped move responsible technology from ethical principles toward actionable standards and practices.\nThe second podcast, “The Chapters and Committees” focuses on the multidisciplinary groups that worked on turning broad human values into practical guidance for AI and autonomous systems.\nThe podcast discussions serve as material for a thought leadership program that also includes blog articles about the IEEE 7000 series and educational resources to continue to raise awareness and support of this groundbreaking work.\nThis article was updated on 18 November 2026.",
-          "isoDate": "2026-11-17T19:00:03.000Z"
         }
       ]
     },
